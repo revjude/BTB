@@ -1,4 +1,4 @@
-**Psalms 25:10** 
+**Psalms 25:10**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the paths of the LORD [are] mercy and truth unto such as keep his covenant and his testimonies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the LORD’s ways are loving and faithful to those who keep His covenant and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.9|<< Psalms 25:9]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.11|Psalms 25:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] paths of  |**<big>&#8207;[[H0734\|אָרְח֣וֹת]]&#8207; </big>**| 'a.re.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

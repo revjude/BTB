@@ -1,10 +1,7 @@
 **LXX Genesis 32:29** 
 <small><sub>**LXX:**</sub></small>
 And Jacob asked and said, Announce to me  your name! And he said, Why \[is\] this you ask  my name, which is wonderful? And he blessed him there. 
-<small><sub>**KJV:**</sub></small>
-And Jacob asked [him], and said, Tell [me], I pray thee, thy name. And he said, Wherefore [is] it [that] thou dost ask after my name? And he blessed him there.
-<small><sub>**BSB:**</sub></small>
-And Jacob requested, “Please tell me your name.” But he replied, “Why do you ask my name?” Then he blessed Jacob there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.28|<< Genesis 32:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.30|Genesis 32:30 >>]]</td></tr></table>
 
 | Translation | Greek |

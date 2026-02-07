@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Where your beloved \[man\] go forth,  O fair one among women? Where your beloved \[man\] look away? for we will seek him with you. 
-<small><sub>**KJV:**</sub></small>
-Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.
-<small><sub>**BSB:**</sub></small>
-Where has your beloved gone, O most beautiful among women? Which way has he turned? We will seek him with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.16|<< Song of Solomon 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.2|Song of Solomon 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

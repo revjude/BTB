@@ -1,5 +1,5 @@
-**Revelation 1:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:14**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 His head and [his] hairs [were] white like wool, as white as snow; and his eyes [were] as a flame of fire;
 <small><sub>**BSB:**</sub></small>
 The hair of His head was white like wool, as white as snow, and His eyes were like a blazing fire.
@@ -10,7 +10,7 @@ The hair of His head was white like wool, as white as snow, and His eyes were li
 > $\quad$ possibly alluding to: [[LXX.Dan.7.9|Dan 7:9]] ☩ [[LXX.Dan.10.5|Dan 10:5-6]] ☩ [[LXX.Ezek.1.27|Ezek 1:27]] ☩ [[LXX.Ezek.8.2|Ezek 8:2]] ☩ [[LXX.Ezek.43.2|Ezek 43:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

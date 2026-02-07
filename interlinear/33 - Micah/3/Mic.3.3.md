@@ -1,4 +1,4 @@
-**Micah 3:3** 
+**Micah 3:3**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You eat the flesh of my people after stripping off their skin and breaking their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.2|<< Micah 3:2]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.4|Micah 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [those] who  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have eaten  |**<big>&#8207;[[H0398\|אָכְלוּ֮]]&#8207; </big>**| 'a.khe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

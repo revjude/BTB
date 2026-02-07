@@ -1,4 +1,4 @@
-**Malachi 3:4** 
+**Malachi 3:4**<big><big>[[Mal.3.1 I Will Send My Messenger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the offerings of Judah and Jerusalem will please the LORD, as in days of ol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.3|<< Malachi 3:3]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.5|Malachi 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be pleasing  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6149\|עָֽרְבָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.re.Vah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֔ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

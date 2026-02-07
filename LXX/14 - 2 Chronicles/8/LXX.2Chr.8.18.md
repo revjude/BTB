@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:18** 
 <small><sub>**LXX:**</sub></small>
 And Hiram sent by \[the\] hand of his servants boats, and servants knowing \[the\] sea. And they set out with the servants of Solomon to Ophir, and they took from there four hundred and fifty talents of gold, and they brought \[them\] to  king Solomon. 
-<small><sub>**KJV:**</sub></small>
-And Huram sent him by the hands of his servants ships, and servants that had knowledge of the sea; and they went with the servants of Solomon to Ophir, and took thence four hundred and fifty talents of gold, and brought [them] to king Solomon.
-<small><sub>**BSB:**</sub></small>
-So Hiram sent him ships captained by his servants, along with crews of experienced sailors. They went with Solomon’s servants to Ophir and acquired from there 450 talents of gold, which they delivered to King Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.17|<< 2 Chronicles 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.1|2 Chronicles 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

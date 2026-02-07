@@ -1,4 +1,4 @@
-**Joshua 10:27** 
+**Joshua 10:27**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the time of the going down of the sun, [that] Joshua commanded, and they took them down off the trees, and cast them into the cave wherein they had been hid, and laid great stones in the cave’s mouth, [which remain] until this very day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At sunset Joshua ordered that they be taken down from the trees and thrown into 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.26|<< Joshua 10:26]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.28|Joshua 10:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֞י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] time of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6256\|עֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

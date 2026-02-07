@@ -1,5 +1,5 @@
-**Matthew 26:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:24**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
 <small><sub>**BSB:**</sub></small>
 The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed. It would be better for him if he had not been born.”
@@ -10,7 +10,7 @@ The Son of Man will go just as it is written about Him, but woe to that man by w
 > $\quad$ referencing: [[LXX.Ps.41.9|Ps 41:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

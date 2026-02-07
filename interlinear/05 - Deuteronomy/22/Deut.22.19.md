@@ -1,4 +1,4 @@
-**Deuteronomy 22:19** 
+**Deuteronomy 22:19**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall amerce him in an hundred [shekels] of silver, and give [them] unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are also to fine him a hundred shekels of silver and give them to the young
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.18|<< Deuteronomy 22:18]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.20|Deuteronomy 22:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will fine  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6064\|עָנְשׁ֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.ne.Shu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֜]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 21:14** 
+**Numbers 21:14**<big><big>[[Num.21.10 The Journey to Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore it is said in the book of the wars of the LORD, What he did in the Red sea, and in the brooks of Arnon,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore it is stated in the Book of the Wars of the LORD: “Waheb in Suphah a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.13|<< Numbers 21:13]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.15|Numbers 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּן֙]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

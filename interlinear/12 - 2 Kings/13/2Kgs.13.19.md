@@ -1,4 +1,4 @@
-**2 Kings 13:19** 
+**2 Kings 13:19**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed [it]: whereas now thou shalt smite Syria [but] thrice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the man of God was angry with him and said, “You should have struck the gr
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.18|<< 2 Kings 13:18]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.20|2 Kings 13:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was angry  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7107\|יִּקְצֹ֨ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Tzof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | towards him  |**<big>&#8207;[[H5921A\|עָלָ֜י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

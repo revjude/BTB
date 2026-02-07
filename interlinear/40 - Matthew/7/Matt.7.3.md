@@ -1,12 +1,12 @@
-**Matthew 7:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:3**<big><big>[[Matt.7.1 Judging Others|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And why beholdest thou the mote that is in thy brother’s eye, but considerest not the beam that is in thine own eye?
 <small><sub>**BSB:**</sub></small>
 Why do you look at the speck in your brother’s eye but fail to notice the beam in your own eye?
 <small><sub>**Literal:**</sub></small>
 Why now do you look at the splinter that [is] in the eye of the brother of you, <the> and in <the> your [own] eye a beam not notice?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.2|<< Matthew 7:2]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.4|Matthew 7:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Why |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

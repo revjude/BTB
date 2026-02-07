@@ -1,10 +1,7 @@
 **LXX Exodus 13:5** 
 <small><sub>**LXX:**</sub></small>
 And it will be when ever \[the\] <span class="smallcaps">lord</span> your God should bring you into the land of the Canaanites, and Hittites, and Amorites, and Hivites, and Jebusites, and Gergesites, and Perizzites, which he swore by an oath \[to\] your fathers to give to you \[the\] land flowing milk and honey, then you shall do  this service in  this month. 
-<small><sub>**KJV:**</sub></small>
-And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.
-<small><sub>**BSB:**</sub></small>
-And when the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites—the land He swore to your fathers that He would give you, a land flowing with milk and honey—you shall keep this service in this month.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.4|<< Exodus 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.6|Exodus 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

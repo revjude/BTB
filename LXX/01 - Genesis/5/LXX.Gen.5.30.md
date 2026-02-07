@@ -1,10 +1,7 @@
 **LXX Genesis 5:30** 
 <small><sub>**LXX:**</sub></small>
 And Lamech lived after  his procreating  Noah, five hundred and sixty and five years, and he procreated sons and daughters. 
-<small><sub>**KJV:**</sub></small>
-And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Noah, Lamech lived 595 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.29|<< Genesis 5:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.31|Genesis 5:31 >>]]</td></tr></table>
 
 | Translation | Greek |

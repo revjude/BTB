@@ -1,4 +1,4 @@
-**Isaiah 8:4** 
+**Isaiah 8:4**<big><big>[[Isa.8.1 Assyrian Invasion Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For before the child shall have knowledge to cry, My father, and my mother, the riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For before the boy knows how to cry ‘Father’ or ‘Mother,’ the wealth of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.3|<< Isaiah 8:3]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.5|Isaiah 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֗י]]&#8207; </big>**| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> before  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2962\|טֶ֙רֶם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

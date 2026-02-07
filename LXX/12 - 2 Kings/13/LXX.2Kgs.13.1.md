@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] twentieth and third year  of Joash son of Ahaziah king of Judah, Jehoahaz son of Jehu reigned over Israel in Samaria seventeen years. 
-<small><sub>**KJV:**</sub></small>
-In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, [and reigned] seventeen years.
-<small><sub>**BSB:**</sub></small>
-In the twenty-third year of the reign of Joash son of Ahaziah over Judah, Jehoahaz son of Jehu became king of Israel, and he reigned in Samaria seventeen years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.21|<< 2 Kings 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.2|2 Kings 13:2 >>]]</td></tr></table>
 
 | Translation | Greek |

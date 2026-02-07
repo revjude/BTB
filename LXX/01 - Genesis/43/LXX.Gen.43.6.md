@@ -1,10 +1,7 @@
 **LXX Genesis 43:6** 
 <small><sub>**LXX:**</sub></small>
 And Israel said, Why did you do evil \[to\] me announcing to the man that there is to you a brother? 
-<small><sub>**KJV:**</sub></small>
-And Israel said, Wherefore dealt ye [so] ill with me, [as] to tell the man whether ye had yet a brother?
-<small><sub>**BSB:**</sub></small>
-“Why did you bring this trouble upon me?” Israel asked. “Why did you tell the man you had another brother?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.5|<< Genesis 43:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.7|Genesis 43:7 >>]]</td></tr></table>
 
 | Translation | Greek |

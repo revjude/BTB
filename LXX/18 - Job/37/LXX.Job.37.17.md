@@ -1,10 +1,7 @@
 **LXX Job 37:17** 
 <small><sub>**LXX:**</sub></small>
 And your  apparel \[is\] hot, but there is tranquility upon the earth from \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-How thy garments [are] warm, when he quieteth the earth by the south [wind]?
-<small><sub>**BSB:**</sub></small>
-You whose clothes get hot when the land lies hushed under the south wind,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.16|<< Job 37:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.18|Job 37:18 >>]]</td></tr></table>
 
 | Translation | Greek |

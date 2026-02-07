@@ -1,4 +1,4 @@
-**Leviticus 17:3** 
+**Leviticus 17:3**<big><big>[[Lev.17.1 The Place of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What man soever [there be] of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth [it] out of the camp,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What man soever [there be] of the house of Israel, that killeth an ox, or lamb, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.2|<< Leviticus 17:2]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.4|Leviticus 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person  |**<big>&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0376G\|אִישׁ֙]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

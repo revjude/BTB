@@ -1,4 +1,4 @@
-**2 Samuel 7:29** 
+**2 Samuel 7:29**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord GOD, hast spoken [it]: and with thy blessing let the house of thy servant be blessed for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now therefore, may it please You to bless the house of Your servant, that it may
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.28|<< 2 Samuel 7:28]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.1|2 Samuel 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be willing  |**<big>&#8207;[[H2974\|הוֹאֵל֙]]&#8207; </big>**| ho.'El<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

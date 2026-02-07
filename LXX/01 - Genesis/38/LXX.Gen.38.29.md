@@ -1,10 +1,7 @@
 **LXX Genesis 38:29** 
 <small><sub>**LXX:**</sub></small>
 And as he retracted the hand,  straightway came forth  his brother.  And she said, Why \[the\] barrier cut because of you? And she called  his name, Pharez. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? [this] breach [be] upon thee: therefore his name was called Pharez.
-<small><sub>**BSB:**</sub></small>
-But when he pulled his hand back and his brother came out, she said, “You have broken out first!” So he was named Perez.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.28|<< Genesis 38:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.30|Genesis 38:30 >>]]</td></tr></table>
 
 | Translation | Greek |

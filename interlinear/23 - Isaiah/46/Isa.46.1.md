@@ -1,4 +1,4 @@
-**Isaiah 46:1** 
+**Isaiah 46:1**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages [were] heavy loaden; [they are] a burden to the weary [beast].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bel crouches; Nebo cowers. Their idols weigh down beasts and cattle. The images 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.25|<< Isaiah 45:25]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.2|Isaiah 46:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has bowed down  |**<big>&#8207;[[H3766\|כָּרַ֥ע]]&#8207; </big>**| ka.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bel  |**<big>&#8207;[[H1078\|בֵּל֙]]&#8207; </big>**| bel<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Proverbs 25:19** 
+**Proverbs 25:19**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Confidence in an unfaithful man in time of trouble [is like] a broken tooth, and a foot out of joint.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a broken tooth or a foot out of joint is confidence in a faithless man in t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.18|<< Proverbs 25:18]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.20|Proverbs 25:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a tooth  |**<big>&#8207;[[H8127G\|שֵׁ֣ן]]&#8207; </big>**| shen<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | broken  |**<big>&#8207;[[H7465\|רֹ֭עָה]]&#8207; </big>**| Ro.'ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

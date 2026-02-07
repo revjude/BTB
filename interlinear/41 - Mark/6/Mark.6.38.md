@@ -1,12 +1,12 @@
-**Mark 6:38
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:38**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He saith unto them, How many loaves have ye? go and see. And when they knew, they say, Five, and two fishes.
 <small><sub>**BSB:**</sub></small>
 “Go and see how many loaves you have,” He told them. And after checking, they said, “Five—and two fish.”
 <small><sub>**Literal:**</sub></small>
 <the> And He says to them; How many loaves have you do go and do see. And having known they say; Five and two fish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.37|<< Mark 6:37]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.39|Mark 6:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

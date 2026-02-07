@@ -1,4 +1,4 @@
-**2 Samuel 13:3** 
+**2 Samuel 13:3**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Amnon had a friend, whose name [was] Jonadab, the son of Shimeah David’s brother: and Jonadab [was] a very subtil man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Amnon had a friend named Jonadab, the son of David’s brother Shimeah. Jona
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.2|<< 2 Samuel 13:2]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.4|2 Samuel 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belonged] to Amnon  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0550G\|אַמְנ֣וֹן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> 'am.Non<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a friend  |**<big>&#8207;[[H7453\|רֵ֗עַ]]&#8207; </big>**| Re.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

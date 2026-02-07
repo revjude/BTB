@@ -1,10 +1,7 @@
 **LXX Isaiah 30:9** 
 <small><sub>**LXX:**</sub></small>
 For a people are resisting persuasion; lying sons who were not willing to hear the law  of God. 
-<small><sub>**KJV:**</sub></small>
-That this [is] a rebellious people, lying children, children [that] will not hear the law of the LORD:
-<small><sub>**BSB:**</sub></small>
-These are rebellious people, deceitful children, children unwilling to obey the LORD’s instruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.8|<< Isaiah 30:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.10|Isaiah 30:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 14:10
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:10**<big><big>[[Mark.14.10 Judas Agrees to Betray Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Judas Iscariot, one of the twelve, went unto the chief priests, to betray him unto them.
 <small><sub>**BSB:**</sub></small>
 Then Judas Iscariot, one of the Twelve, went to the chief priests to betray Jesus to them.
 <small><sub>**Literal:**</sub></small>
 And <the> Judas Iscariot, <the> one of the Twelve, went away to the chief priests that Him he may betray to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.9|<< Mark 14:9]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.11|Mark 14:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

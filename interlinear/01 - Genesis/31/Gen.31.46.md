@@ -1,4 +1,4 @@
-**Genesis 31:46** 
+**Genesis 31:46**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he said to his relatives, “Gather some stones.” So they took stones and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.45|<< Genesis 31:45]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.47|Genesis 31:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֤ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 28:64** 
+**Deuteronomy 28:64**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, [even] wood and stone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD will scatter you among all the nations, from one end of the earth 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.63|<< Deuteronomy 28:63]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.65|Deuteronomy 28:65 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will scatter you  |**<big>&#8207;[[H9001\|וֶ]]&#8207;&#8207;[[H6327A\|הֱפִֽיצְ]]&#8207;&#8207;[[H9031\|ךָ֤]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.fi.tze.<small><sup>[[HVhq3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

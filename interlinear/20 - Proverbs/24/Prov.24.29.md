@@ -1,4 +1,4 @@
-**Proverbs 24:29** 
+**Proverbs 24:29**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say not, I will do so to him as he hath done to me: I will render to the man according to his work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not say, “I will do to him as he has done to me; I will repay the man accor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.28|<< Proverbs 24:28]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.30|Proverbs 24:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you say  |**<big>&#8207;[[H0559\|תֹּאמַ֗ר]]&#8207; </big>**| to.Mar<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 4:47** 
+**Deuteronomy 4:47**<big><big>[[Deut.4.44 Introduction to the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which [were] on this side Jordan toward the sunrising;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They took possession of the land belonging to Sihon and to Og king of Bashan—t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.46|<< Deuteronomy 4:46]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.48|Deuteronomy 4:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took possession of  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3423H\|יִּֽירְשׁ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.re.Shu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

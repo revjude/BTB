@@ -1,10 +1,7 @@
 **LXX Exodus 31:2** 
 <small><sub>**LXX:**</sub></small>
 Behold, I have called by name  Bezaleel the \[son of\] Uri, son of Hur, of the tribe of Judah. 
-<small><sub>**KJV:**</sub></small>
-See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:
-<small><sub>**BSB:**</sub></small>
-“See, I have called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.1|<< Exodus 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.3|Exodus 31:3 >>]]</td></tr></table>
 
 | Translation | Greek |

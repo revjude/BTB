@@ -1,10 +1,7 @@
 **LXX Job 22:20** 
 <small><sub>**LXX:**</sub></small>
 Except their support vanished, and  fire shall devour their vestige. 
-<small><sub>**KJV:**</sub></small>
-Whereas our substance is not cut down, but the remnant of them the fire consumeth.
-<small><sub>**BSB:**</sub></small>
-‘Surely our foes are destroyed, and fire has consumed their excess.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.19|<< Job 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.21|Job 22:21 >>]]</td></tr></table>
 
 | Translation | Greek |

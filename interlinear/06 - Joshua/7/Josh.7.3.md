@@ -1,4 +1,4 @@
-**Joshua 7:3** 
+**Joshua 7:3**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they returned to Joshua, and said unto him, Let not all the people go up; but let about two or three thousand men go up and smite Ai; [and] make not all the people to labour thither; for they [are but] few.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On returning to Joshua, they reported, “There is no need to send all the peopl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.2|<< Joshua 7:2]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.4|Joshua 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּשֻׁ֣בוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

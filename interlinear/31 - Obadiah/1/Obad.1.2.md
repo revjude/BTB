@@ -1,4 +1,4 @@
-**Obadiah 1:2** 
+**Obadiah 1:2**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have made thee small among the heathen: thou art greatly despised.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I have made thee small among the heathen: thou art greatly despised.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.1|<< Obadiah 1:1]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.3|Obadiah 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | small  |**<big>&#8207;[[H6996B\|קָטֹ֛ן]]&#8207; </big>**| ka.Ton<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

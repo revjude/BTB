@@ -1,4 +1,4 @@
-**Isaiah 43:4** 
+**Isaiah 43:4**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because you are precious and honored in My sight, and because I love you, I will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.3|<< Isaiah 43:3]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.5|Isaiah 43:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<from> because  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0834C\|אֲשֶׁ֨ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you are precious  |**<big>&#8207;[[H3365\|יָקַ֧רְתָּ]]&#8207; </big>**| ya.Kar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

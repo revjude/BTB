@@ -1,4 +1,4 @@
-**Ezekiel 36:3** 
+**Ezekiel 36:3**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore prophesy and say, Thus saith the Lord GOD; Because they have made [you] desolate, and swallowed you up on every side, that ye might be a possession unto the residue of the heathen, and ye are taken up in the lips of talkers, and [are] an infamy of the people:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ therefore prophesy and declare that this is what the Lord GOD says: Because they
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.2|<< Ezekiel 36:2]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.4|Ezekiel 36:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵן֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prophesy  |**<big>&#8207;[[H5012\|הִנָּבֵ֣א]]&#8207; </big>**| hi.na.Ve'<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

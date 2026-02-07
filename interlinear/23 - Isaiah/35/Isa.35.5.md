@@ -1,4 +1,4 @@
-**Isaiah 35:5** 
+**Isaiah 35:5**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the eyes of the blind will be opened and the ears of the deaf unstopped.
 > $\quad$ referenced by: [[Matt.11.5|Matt 11:5]] ☩ [[Luke.7.22|Luke 7:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֥ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be opened  |**<big>&#8207;[[H6491\|תִּפָּקַ֖חְנָה]]&#8207; </big>**| ti.pa.Kach.nah<small><sup>[[HVNi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

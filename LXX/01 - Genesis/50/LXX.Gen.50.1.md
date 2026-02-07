@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joseph falling upon \[the\] face  of his father, wept over him, and kissed him. 
-<small><sub>**KJV:**</sub></small>
-And Joseph fell upon his father’s face, and wept upon him, and kissed him.
-<small><sub>**BSB:**</sub></small>
-Then Joseph fell upon his father’s face, wept over him, and kissed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.33|<< Genesis 49:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.2|Genesis 50:2 >>]]</td></tr></table>
 
 | Translation | Greek |

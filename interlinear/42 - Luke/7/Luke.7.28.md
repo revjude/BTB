@@ -1,12 +1,12 @@
-**Luke 7:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:28**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he.
 <small><sub>**BSB:**</sub></small>
 I tell you, among those born of women there is no one greater than John, yet even the least in the kingdom of God is greater than he.”
 <small><sub>**Literal:**</sub></small>
 I say for to you; a greater among [those] born of women prophet <the> than John no [one] is. <the> yet the least in the kingdom <the> of God greater than he is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.27|<< Luke 7:27]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.29|Luke 7:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|Λέγω]]</big>**  |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

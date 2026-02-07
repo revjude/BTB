@@ -1,10 +1,7 @@
 **LXX Proverbs 13:23** 
 <small><sub>**LXX:**</sub></small>
 \[The\] just shall spend many years in wealth; but \[the\] unjust shall perish suddenly. 
-<small><sub>**KJV:**</sub></small>
-Much food [is in] the tillage of the poor: but there is [that is] destroyed for want of judgment.
-<small><sub>**BSB:**</sub></small>
-Abundant food is in the fallow ground of the poor, but without justice it is swept away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.22|<< Proverbs 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.24|Proverbs 13:24 >>]]</td></tr></table>
 
 | Translation | Greek |

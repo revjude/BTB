@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:4** 
 <small><sub>**LXX:**</sub></small>
 and it should be announced to you, and you heard, and you sought exceedingly, and behold, \[if\] truly the thing has happened \[that\] this abomination came to pass in Israel; 
-<small><sub>**KJV:**</sub></small>
-And it be told thee, and thou hast heard [of it], and inquired diligently, and, behold, [it be] true, [and] the thing certain, [that] such abomination is wrought in Israel:
-<small><sub>**BSB:**</sub></small>
-and if it is reported and you hear about it, you must investigate it thoroughly. If the report is true and such an abomination has happened in Israel,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.3|<< Deuteronomy 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.5|Deuteronomy 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 26:26** 
+**Exodus 26:26**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make bars [of] shittim wood; five for the boards of the one side of the tabernacle,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are also to make five crossbars of acacia wood for the frames on one side of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.25|<< Exodus 26:25]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.27|Exodus 26:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֥יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bars  |**<big>&#8207;[[H1280\|בְרִיחִ֖ם]]&#8207; </big>**| ve.ri.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

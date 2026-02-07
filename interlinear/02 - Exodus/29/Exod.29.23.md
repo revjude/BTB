@@ -1,4 +1,4 @@
-**Exodus 29:23** 
+**Exodus 29:23**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one loaf of bread, and one cake of oiled bread, and one wafer out of the basket of the unleavened bread that [is] before the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ along with one loaf of bread, one cake of bread made with oil, and one wafer fro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.22|<< Exodus 29:22]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.24|Exodus 29:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a round loaf of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3603H\|כִכַּ֨ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi.Kar<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bread  |**<big>&#8207;[[H3899H\|לֶ֜חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

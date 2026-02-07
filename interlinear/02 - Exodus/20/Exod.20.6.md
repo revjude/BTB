@@ -1,4 +1,4 @@
-**Exodus 20:6** 
+**Exodus 20:6**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shewing mercy unto thousands of them that love me, and keep my commandments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but showing loving devotion to a thousand generations of those who love Me and k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.5|<< Exodus 20:5]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.7|Exodus 20:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and doing  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6213A\|עֹ֥֤שֶׂה]]&#8207; </big>**[^1] | ve.<small><sup>[[HC]]</sup></small> 'O.seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | covenant loyalty  |**<big>&#8207;[[H2617A\|חֶ֖֙סֶד֙]]&#8207; </big>**[^2] | che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

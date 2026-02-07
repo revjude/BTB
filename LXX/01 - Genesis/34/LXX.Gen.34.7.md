@@ -1,10 +1,7 @@
 **LXX Genesis 34:7** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Jacob came from the plain. And as they heard, the men were vexed, and it was distressing to them exceedingly. For he did an indecent \[act\] in Israel, going to bed with the daughter of Jacob. And not thus shall it be. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Jacob came out of the field when they heard [it]: and the men were grieved, and they were very wroth, because he had wrought folly in Israel in lying with Jacob’s daughter; which thing ought not to be done.
-<small><sub>**BSB:**</sub></small>
-When Jacob’s sons heard what had happened, they returned from the field. They were filled with grief and fury, because Shechem had committed an outrage in Israel by lying with Jacob’s daughter—a thing that should not be done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.6|<< Genesis 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.8|Genesis 34:8 >>]]</td></tr></table>
 
 | Translation | Greek |

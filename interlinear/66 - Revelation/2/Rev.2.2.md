@@ -1,12 +1,12 @@
-**Revelation 2:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:2**<big><big>[[Rev.2.1 To the Church in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I know thy works, and thy labour, and thy patience, and how thou canst not bear them which are evil: and thou hast tried them which say they are apostles, and are not, and hast found them liars:
 <small><sub>**BSB:**</sub></small>
 I know your deeds, your labor, and your perseverance. I know that you cannot tolerate those who are evil, and you have tested and exposed as liars those who falsely claim to be apostles.
 <small><sub>**Literal:**</sub></small>
 I know the works of you and the labor of you and the endurance of you and that not you are able to tolerate evil [ones] And you have tested those saying themselves to be apostles and not are, and you have found them false.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.1|<< Revelation 2:1]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.3|Revelation 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|οἶδα]]</big>**  |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Chronicles 34:3** 
+**2 Chronicles 34:3**<big><big>[[2Chr.34.3 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the eighth year of his reign, while he was still young, Josiah began to seek 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.2|<< 2 Chronicles 34:2]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.4|2 Chronicles 34:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in eight  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8083\|שְׁמוֹנֶ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.mo.Neh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years  |**<big>&#8207;[[H8141\|שָׁנִ֜ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 4:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:13**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the promise, that he should be the heir of the world, [was] not to Abraham, or to his seed, through the law, but through the righteousness of faith.
 <small><sub>**BSB:**</sub></small>
 For the promise to Abraham and his offspring that he would be heir of the world was not given through the law, but through the righteousness that comes by faith.
 <small><sub>**Literal:**</sub></small>
 Not for through [the] Law [was] the promise <the> to Abraham or to the descendants of him that heir he being of the world but through [the] righteousness of faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.12|<< Romans 4:12]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.14|Romans 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

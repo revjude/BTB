@@ -1,12 +1,12 @@
-**Romans 2:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:2**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we are sure that the judgment of God is according to truth against them which commit such things.
 <small><sub>**BSB:**</sub></small>
 And we know that God’s judgment against those who do such things is based on truth.
 <small><sub>**Literal:**</sub></small>
 We know however that the judgment <the> of God is according to truth upon those <the> such things practicing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.1|<< Romans 2:1]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.3|Romans 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

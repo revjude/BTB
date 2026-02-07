@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] son of Hesed in Aruboth, of him \[was\] Sochoh, and all \[the\] land of Hepher. 
-<small><sub>**KJV:**</sub></small>
-The son of Hesed, in Aruboth; to him [pertained] Sochoh, and all the land of Hepher:
-<small><sub>**BSB:**</sub></small>
-Ben-hesed in Arubboth (Socoh and all the land of Hepher belonged to him);<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.9|<< 1 Kings 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.11|1 Kings 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

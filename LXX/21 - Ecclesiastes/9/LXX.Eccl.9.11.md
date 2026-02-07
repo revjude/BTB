@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:11** 
 <small><sub>**LXX:**</sub></small>
 I turned, and I beheld under the sun, that not to the light \[of foot\] \[is\] the race; and not to the mighty ones  in battle; and indeed not to the wise \[is\] the bread; and indeed not to the discerning ones \[is\] the riches; and indeed not to the ones knowing favor; for a season and a meeting shall meet with them all. 
-<small><sub>**KJV:**</sub></small>
-I returned, and saw under the sun, that the race [is] not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
-<small><sub>**BSB:**</sub></small>
-I saw something else under the sun: The race is not to the swift, nor the battle to the strong; neither is the bread to the wise, nor the wealth to the intelligent, nor the favor to the skillful. For time and chance happen to all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.10|<< Ecclesiastes 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.12|Ecclesiastes 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

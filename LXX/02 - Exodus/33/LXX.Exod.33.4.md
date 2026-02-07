@@ -1,10 +1,7 @@
 **LXX Exodus 33:4** 
 <small><sub>**LXX:**</sub></small>
 And the people hearing this severe saying, mourned in mourning. 
-<small><sub>**KJV:**</sub></small>
-And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments.
-<small><sub>**BSB:**</sub></small>
-When the people heard this bad news, they went into mourning, and no one put on any of his jewelry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.3|<< Exodus 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.5|Exodus 33:5 >>]]</td></tr></table>
 
 | Translation | Greek |

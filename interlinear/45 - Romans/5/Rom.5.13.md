@@ -1,12 +1,12 @@
-**Romans 5:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:13**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For until the law sin was in the world: but sin is not imputed when there is no law.
 <small><sub>**BSB:**</sub></small>
 For sin was in the world before the law was given; but sin is not taken into account when there is no law.
 <small><sub>**Literal:**</sub></small>
 Until for [the] law sin was in [the] world, sin however not is imputed not there being law;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.12|<< Romans 5:12]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.14|Romans 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Until |**<big>[[G0891\|ἄχρι]]</big>**  |achri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 15:3** 
 <small><sub>**LXX:**</sub></small>
 reproving in sayings with words in which must not \[be spoken\], in which no one benefits? 
-<small><sub>**KJV:**</sub></small>
-Should he reason with unprofitable talk? or with speeches wherewith he can do no good?
-<small><sub>**BSB:**</sub></small>
-Should he argue with useless words or speeches that serve no purpose?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.2|<< Job 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.4|Job 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

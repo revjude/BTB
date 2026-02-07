@@ -1,4 +1,4 @@
-**Ezekiel 9:11** 
+**Ezekiel 9:11**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the man clothed with linen, which [had] the inkhorn by his side, reported the matter, saying, I have done as thou hast commanded me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the man clothed in linen with the writing kit at his side reported back, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.10|<< Ezekiel 9:10]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.1|Ezekiel 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֣ישׁ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 106:5** 
 <small><sub>**LXX:**</sub></small>
  To behold in the \[thing\] gracious  of your chosen ones;  to be glad in the gladness  of your nation;  to applaud with  your inheritance. 
-<small><sub>**KJV:**</sub></small>
-That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance.
-<small><sub>**BSB:**</sub></small>
-that I may see the prosperity of Your chosen ones, and rejoice in the gladness of Your nation, and give glory with Your inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.4|<< Psalm 106:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.6|Psalm 106:6 >>]]</td></tr></table>
 
 | Translation | Greek |

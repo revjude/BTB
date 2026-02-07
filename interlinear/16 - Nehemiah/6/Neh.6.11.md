@@ -1,4 +1,4 @@
-**Nehemiah 6:11** 
+**Nehemiah 6:11**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said, Should such a man as I flee? and who [is there], that, [being] as I [am], would go into the temple to save his life? I will not go in.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I replied, “Should a man like me run away? Should one like me go into the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.10|<< Nehemiah 6:10]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.12|Nehemiah 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמְרָ֗]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.me.Ra<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ a man  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0376G\|אִ֤ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 3:23** 
+**Genesis 3:23**<big><big>[[Gen.3.21 The Expulsion from Paradise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore the LORD God banished him from the Garden of Eden to work the ground f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.22|<< Genesis 3:22]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.24|Genesis 3:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent out him  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7971G\|יְשַׁלְּחֵ֛]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.le.Che.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 11:6** 
 <small><sub>**LXX:**</sub></small>
 But now  our soul is dried up; \[there is\] nothing except for the manna to our eyes. 
-<small><sub>**KJV:**</sub></small>
-But now our soul [is] dried away: [there is] nothing at all, beside this manna, [before] our eyes.
-<small><sub>**BSB:**</sub></small>
-But now our appetite is gone; there is nothing to see but this manna!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.5|<< Numbers 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.7|Numbers 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

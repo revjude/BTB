@@ -1,4 +1,4 @@
-**Ezekiel 37:7** 
+**Ezekiel 37:7**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I prophesied as I had been commanded. And as I prophesied, there was suddenly
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.6|<< Ezekiel 37:6]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.8|Ezekiel 37:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I prophesied  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5012\|נִבֵּ֖אתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.Be.ti<small><sup>[[HVNq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

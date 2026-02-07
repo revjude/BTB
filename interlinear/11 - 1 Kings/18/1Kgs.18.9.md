@@ -1,4 +1,4 @@
-**1 Kings 18:9** 
+**1 Kings 18:9**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, What have I sinned, that thou wouldest deliver thy servant into the hand of Ahab, to slay me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Obadiah replied, “How have I sinned, that you are handing your servant ove
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.8|<< 1 Kings 18:8]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.10|1 Kings 18:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מֶ֣ה]]&#8207; </big>**| meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

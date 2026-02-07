@@ -1,4 +1,4 @@
-**Psalms 147:13** 
+**Psalms 147:13**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For He strengthens the bars of your gates and blesses the children within you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.12|<< Psalms 147:12]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.14|Psalms 147:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has strengthened  |**<big>&#8207;[[H2388G\|חִ֭זַּק]]&#8207; </big>**| Chi.zak<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

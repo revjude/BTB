@@ -1,4 +1,4 @@
-**2 Chronicles 31:13** 
+**2 Chronicles 31:13**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and Eliel, and Ismachiah, and Mahath, and Benaiah, [were] overseers under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah the king, and Azariah the ruler of the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.12|<< 2 Chronicles 31:12]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.14|2 Chronicles 31:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jehiel  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H3171L\|יחִיאֵ֡ל]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> chi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Azaziah  |**<big>&#8207;[[H9002\|וַ֠]]&#8207;&#8207;[[H5812I\|עֲזַזְיָהוּ]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> 'a.zaz.ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 119:43** 
 <small><sub>**LXX:**</sub></small>
 For you should not remove from out of  my mouth \[the\] word of truth unto an exceeding \[amount\]; for upon  your judgments I raised hope. 
-<small><sub>**KJV:**</sub></small>
-And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.
-<small><sub>**BSB:**</sub></small>
-Never take Your word of truth from my mouth, for I hope in Your judgments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.42|<< Psalm 119:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.44|Psalm 119:44 >>]]</td></tr></table>
 
 | Translation | Greek |

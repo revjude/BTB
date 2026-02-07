@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 3:8** 
 <small><sub>**LXX:**</sub></small>
 And he made the house of the holy of the holies. Its length upon \[the\] face of the width of the house \[was\] twenty cubits, and the breadth \[was\] twenty cubits. And he gilded it in pure gold \[amounting\] to six hundred talents. 
-<small><sub>**KJV:**</sub></small>
-And he made the most holy house, the length whereof [was] according to the breadth of the house, twenty cubits, and the breadth thereof twenty cubits: and he overlaid it with fine gold, [amounting] to six hundred talents.
-<small><sub>**BSB:**</sub></small>
-Then he made the Most Holy Place; its length corresponded to the width of the temple—twenty cubits long and twenty cubits wide. And he overlaid the inside with six hundred talents of fine gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.7|<< 2 Chronicles 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.9|2 Chronicles 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

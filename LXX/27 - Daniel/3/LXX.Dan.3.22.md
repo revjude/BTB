@@ -1,10 +1,7 @@
 **LXX Daniel 3:22** 
 <small><sub>**LXX:**</sub></small>
 since the saying of the king excelled, and the furnace burned away over even extra seven-fold. 
-<small><sub>**KJV:**</sub></small>
-Therefore because the king’s commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abednego.
-<small><sub>**BSB:**</sub></small>
-The king’s command was so urgent and the furnace so hot that the fiery flames killed the men who carried up Shadrach, Meshach, and Abednego.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.21|<< Daniel 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.23|Daniel 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

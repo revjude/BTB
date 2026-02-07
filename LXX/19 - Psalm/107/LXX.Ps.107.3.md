@@ -1,10 +1,7 @@
 **LXX Psalm 107:3** 
 <small><sub>**LXX:**</sub></small>
 And from out of the places he gathered them; from \[the\] east, and west, and north, and \[the\] sea. 
-<small><sub>**KJV:**</sub></small>
-And gathered them out of the lands, from the east, and from the west, from the north, and from the south.
-<small><sub>**BSB:**</sub></small>
-and gathered from the lands, from east and west, from north and south.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.2|<< Psalm 107:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.4|Psalm 107:4 >>]]</td></tr></table>
 
 | Translation | Greek |

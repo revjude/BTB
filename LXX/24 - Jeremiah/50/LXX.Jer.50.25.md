@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:25** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> opened  his treasury, and brought forth the items of his anger; for \[it is a\] work for the <span class="smallcaps">lord</span> God of the forces, in \[the\] land of Chaldeans. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath opened his armoury, and hath brought forth the weapons of his indignation: for this [is] the work of the Lord GOD of hosts in the land of the Chaldeans.
-<small><sub>**BSB:**</sub></small>
-The LORD has opened His armory and brought out His weapons of wrath, for this is the work of the Lord GOD of Hosts in the land of the Chaldeans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.24|<< Jeremiah 50:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.26|Jeremiah 50:26 >>]]</td></tr></table>
 
 | Translation | Greek |

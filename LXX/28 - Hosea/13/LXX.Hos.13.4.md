@@ -1,10 +1,7 @@
 **LXX Hosea 13:4** 
 <small><sub>**LXX:**</sub></small>
 But I \[the\] <span class="smallcaps">lord</span>  your God, I led you from out of \[the\] land of Egypt, and you shall not know a god besides me, and there is not one delivering besides me. 
-<small><sub>**KJV:**</sub></small>
-Yet I [am] the LORD thy God from the land of Egypt, and thou shalt know no god but me: for [there is] no saviour beside me.
-<small><sub>**BSB:**</sub></small>
-Yet I am the LORD your God ever since the land of Egypt; you know no God but Me, for there is no Savior besides Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.3|<< Hosea 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.5|Hosea 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

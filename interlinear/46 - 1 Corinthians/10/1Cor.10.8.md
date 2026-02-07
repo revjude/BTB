@@ -1,5 +1,5 @@
-**1 Corinthians 10:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:8**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.
 <small><sub>**BSB:**</sub></small>
 We should not commit sexual immorality, as some of them did, and in one day twenty-three thousand of them died.
@@ -10,7 +10,7 @@ Neither shall we commit sexual immorality even as some of them committed sexual 
 > $\quad$ alluding to: [[LXX.Num.25.1|Num 25:1]][[LXX.Num.25.9|, 9]] ☩ [[LXX.Ps.106.14|Ps 106:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither |**<big>[[G3366\|μηδὲ]]</big>**  |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | shall we commit sexual immorality |**<big>[[G4203\|πορνεύωμεν]]</big>**  |porneuōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Genesis 26:11** 
+**Genesis 26:11**<big><big>[[Gen.26.6 Isaac Deceives Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech charged all [his] people, saying, He that toucheth this man or his wife shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Abimelech warned all the people, saying, “Whoever harms this man or his wif
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.10|<< Genesis 26:10]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.12|Genesis 26:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he commanded  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6680\|יְצַ֣ו]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Tzav<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abimelech  |**<big>&#8207;[[H0040G\|אֲבִימֶ֔לֶךְ]]&#8207; </big>**| 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

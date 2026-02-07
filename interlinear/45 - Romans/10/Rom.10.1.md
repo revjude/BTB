@@ -1,12 +1,12 @@
-**Romans 10:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:1**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.
 <small><sub>**BSB:**</sub></small>
 Brothers, my heart’s desire and prayer to God for the Israelites is for their salvation.
 <small><sub>**Literal:**</sub></small>
 Brothers, the indeed desire <the> of my heart and the supplication they [are] to <the> God on behalf <the> of them is for salvation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.33|<< Romans 9:33]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.2|Romans 10:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Brothers, |**<big>[[G0080\|Ἀδελφοί,]]</big>**  |Adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

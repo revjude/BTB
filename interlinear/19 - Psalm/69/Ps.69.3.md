@@ -1,4 +1,4 @@
-**Psalms 69:3** (69:4)
+**Psalms 69:3**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am weary of my crying: my throat is dried: mine eyes fail while I wait for my God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am weary from my crying; my throat is parched. My eyes fail, looking for my Go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.2|<< Psalms 69:2]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.4|Psalms 69:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have become weary  |**<big>&#8207;[[H3021\|יָגַ֣עְתִּי]]&#8207; </big>**| ya.Ga'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by calling out my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7121I\|קָרְאִ]]&#8207;&#8207;[[H9040\|י֮]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ka.re.'<small><sup>[[HVqcc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

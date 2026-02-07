@@ -1,4 +1,4 @@
-**Nehemiah 9:27** 
+**Nehemiah 9:27**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest [them] from heaven; and according to thy manifold mercies thou gavest them saviours, who saved them out of the hand of their enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So You delivered them into the hands of enemies who oppressed them, and in their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.26|<< Nehemiah 9:26]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.28|Nehemiah 9:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you gave them  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5414G\|תִּתְּנֵ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.te.Ne<small><sup>[[HVqw2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יַ֣ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 21:35** 
+**Joshua 21:35**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dimnah with her suburbs, Nahalal with her suburbs; four cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Dimnah, and Nahalal—four cities, together with their pasturelands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.34|<< Joshua 21:34]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.36|Joshua 21:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Dimnah  |**<big>&#8207;[[H1829\|דִּמְנָה֙]]&#8207; </big>**| dim.Nah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

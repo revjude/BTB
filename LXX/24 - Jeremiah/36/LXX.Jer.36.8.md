@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:8** 
 <small><sub>**LXX:**</sub></small>
 And Baruch son of Neriah did according to all which Jeremiah gave charge to him,  to read in the scroll the words of \[the\] <span class="smallcaps">lord</span> in \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of the LORD in the LORD’S house.
-<small><sub>**BSB:**</sub></small>
-So Baruch son of Neriah did everything that Jeremiah the prophet had commanded him. In the house of the LORD he read the words of the LORD from the scroll.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.7|<< Jeremiah 36:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.9|Jeremiah 36:9 >>]]</td></tr></table>
 
 | Translation | Greek |

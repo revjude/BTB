@@ -1,10 +1,7 @@
 **LXX Leviticus 24:11** 
 <small><sub>**LXX:**</sub></small>
 And the son of the Israelitish woman named the name -- he cursed. And they led him to Moses. And the name  of his mother \[was\] Shelomith, daughter of Dibri of the tribe of Dan. 
-<small><sub>**KJV:**</sub></small>
-And the Israelitish woman’s son blasphemed the name [of the LORD], and cursed. And they brought him unto Moses: (and his mother’s name [was] Shelomith, the daughter of Dibri, of the tribe of Dan:)
-<small><sub>**BSB:**</sub></small>
-The son of the Israelite woman blasphemed the Name with a curse. So they brought him to Moses. (His mother’s name was Shelomith daughter of Dibri, of the tribe of Dan.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.10|<< Leviticus 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.12|Leviticus 24:12 >>]]</td></tr></table>
 
 | Translation | Greek |

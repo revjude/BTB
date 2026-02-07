@@ -1,10 +1,7 @@
 **LXX Joshua 20:6** 
 <small><sub>**LXX:**</sub></small>
 And he shall dwell in  that city, until he should stand in front of the congregation for judgment, until the great priest should die, who shall be in  those days. Then the man-slayer shall return, and shall come unto  his city, and to  his house, even to the city from where he fled from there. 
-<small><sub>**KJV:**</sub></small>
-And he shall dwell in that city, until he stand before the congregation for judgment, [and] until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.
-<small><sub>**BSB:**</sub></small>
-He is to stay in that city until he stands trial before the assembly and until the death of the high priest serving at that time. Then the manslayer may return to his own home in the city from which he fled.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.20.5|<< Joshua 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.20.7|Joshua 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

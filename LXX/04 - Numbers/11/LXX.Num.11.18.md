@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And to the people you shall say, Purify yourselves for tomorrow! and you shall eat meats, for you wept before \[the\] <span class="smallcaps">lord</span>, saying, Who shall feed us meats? for it \[was\] good to us \[being\] in Egypt. And \[the\] <span class="smallcaps">lord</span> shall give to you meats and you shall eat. 
-<small><sub>**KJV:**</sub></small>
-And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the LORD, saying, Who shall give us flesh to eat? for [it was] well with us in Egypt: therefore the LORD will give you flesh, and ye shall eat.
-<small><sub>**BSB:**</sub></small>
-And say to the people: Consecrate yourselves for tomorrow, and you will eat meat, because you have cried out in the hearing of the LORD, saying: ‘Who will feed us meat? For we were better off in Egypt!’ Therefore the LORD will give you meat, and you will eat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.17|<< Numbers 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.19|Numbers 11:19 >>]]</td></tr></table>
 
 | Translation | Greek |

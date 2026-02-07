@@ -1,4 +1,4 @@
-**Job 35:10** 
+**Job 35:10**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But none saith, Where [is] God my maker, who giveth songs in the night;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But no one asks, ‘Where is God my Maker, who gives us songs in the night,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.9|<< Job 35:9]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.11|Job 35:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anyone has said  |**<big>&#8207;[[H0559\|אָמַ֗ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

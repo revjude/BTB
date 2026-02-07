@@ -1,10 +1,7 @@
 **LXX Genesis 5:13** 
 <small><sub>**LXX:**</sub></small>
 And Cainan lived after  his procreating  Mahalaleel, forty and seven hundred years, and he procreated sons and daughters. 
-<small><sub>**KJV:**</sub></small>
-And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.12|<< Genesis 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.14|Genesis 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

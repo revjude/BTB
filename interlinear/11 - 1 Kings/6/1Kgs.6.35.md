@@ -1,4 +1,4 @@
-**1 Kings 6:35** 
+**1 Kings 6:35**<big><big>[[1Kgs.6.31 The Doors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he carved [thereon] cherubims and palm trees and open flowers: and covered [them] with gold fitted upon the carved work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He carved into them cherubim, palm trees, and open flowers, and he overlaid them
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.34|<< 1 Kings 6:34]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.36|1 Kings 6:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he carved  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7049B\|קָלַ֤ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.La'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cherubim  |**<big>&#8207;[[H3742\|כְּרוּבִים֙]]&#8207; </big>**| ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

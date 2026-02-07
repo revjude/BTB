@@ -1,12 +1,12 @@
-**John 21:19
-**<small><sub>**KJV:**</sub></small>
+**John 21:19**<big><big>[[John.21.15 Jesus and Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
 <small><sub>**BSB:**</sub></small>
 Jesus said this to indicate the kind of death by which Peter would glorify God. And after He had said this, He told him, “Follow Me.”
 <small><sub>**Literal:**</sub></small>
 This now He said signifying by what death he will glorify <the> God. And this having said He says to him; do follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.18|<< John 21:18]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.20|John 21:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

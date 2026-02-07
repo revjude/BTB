@@ -1,10 +1,7 @@
 **LXX Proverbs 23:21** 
 <small><sub>**LXX:**</sub></small>
 For every intoxicated one and whoremonger shall be poor; and every sleepy one shall put on torn and ragged \[garments\]. 
-<small><sub>**KJV:**</sub></small>
-For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe [a man] with rags.
-<small><sub>**BSB:**</sub></small>
-For the drunkard and the glutton will come to poverty, and drowsiness will clothe them in rags.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.20|<< Proverbs 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.22|Proverbs 23:22 >>]]</td></tr></table>
 
 | Translation | Greek |

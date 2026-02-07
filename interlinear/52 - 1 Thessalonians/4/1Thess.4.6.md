@@ -1,12 +1,12 @@
-**1 Thessalonians 4:6
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:6**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That no [man] go beyond and defraud his brother in [any] matter: because that the Lord [is] the avenger of all such, as we also have forewarned you and testified.
 <small><sub>**BSB:**</sub></small>
 and no one should ever violate or exploit his brother in this regard, because the Lord will avenge all such acts, as we have already told you and solemnly warned you.
 <small><sub>**Literal:**</sub></small>
 <the> not to go beyond and to overreach in the matter the brother of him; because avenging [is] the Lord concerning all these things even as also we told before you and thoroughly warned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.5|<< 1 Thessalonians 4:5]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.7|1 Thessalonians 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

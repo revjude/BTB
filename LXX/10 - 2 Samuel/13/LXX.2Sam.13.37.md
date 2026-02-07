@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:37** 
 <small><sub>**LXX:**</sub></small>
 And Absalom ran away, and he went to Talmai, son of Ammihud, king of Geshur. And the king mourned over  his son all the days. 
-<small><sub>**KJV:**</sub></small>
-But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And [David] mourned for his son every day.
-<small><sub>**BSB:**</sub></small>
-Now Absalom fled and went to Talmai son of Ammihud, the king of Geshur. But David mourned for his son every day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.36|<< 2 Samuel 13:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.38|2 Samuel 13:38 >>]]</td></tr></table>
 
 | Translation | Greek |

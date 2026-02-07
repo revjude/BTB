@@ -1,4 +1,4 @@
-**Proverbs 22:25** 
+**Proverbs 22:25**<big><big>[[Prov.22.24 Saying 3|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest thou learn his ways, and get a snare to thy soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ or you may learn his ways and entangle yourself in a snare.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.24|<< Proverbs 22:24]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.26|Proverbs 22:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you should learn  |**<big>&#8207;[[H0502\|תֶּאֱלַ֥ף]]&#8207; </big>**| te.'e.Laf<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

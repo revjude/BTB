@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, prophesy against the mountains of Israel! and say to the mountains of Israel! Hear \[the\] word of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the LORD:
-<small><sub>**BSB:**</sub></small>
-“And you, son of man, prophesy to the mountains of Israel and say: O mountains of Israel, hear the word of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.15|<< Ezekiel 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.2|Ezekiel 36:2 >>]]</td></tr></table>
 
 | Translation | Greek |

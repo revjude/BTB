@@ -1,12 +1,12 @@
-**Luke 15:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:15**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine.
 <small><sub>**BSB:**</sub></small>
 So he went and hired himself out to a citizen of that country, who sent him into his fields to feed the pigs.
 <small><sub>**Literal:**</sub></small>
 And having gone he joined himself to one of the citizens the country of that, and he sent him into the fields of him to feed pigs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.14|<< Luke 15:14]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.16|Luke 15:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone |**<big>[[G4198\|πορευθεὶς]]</big>**  |poreutheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

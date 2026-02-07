@@ -1,6 +1,6 @@
 (KJV) **Deuteronomy 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21|<< Deuteronomy 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23|Deuteronomy 23 >>]]</td></tr></table>
 
-***Various Laws*** ^bsb517
+<big><big>[[Deut.22.1 Various Laws|⥃]]</big></big>***Various Laws***
 
  $\quad$ <span class="startversemarker">[</span>**[[Deut.22.1|1]]**<span class="endversemarker">]</span> Thou shalt<small><small>[^2]</small></small> not see thy brother’s ox or his sheep go astray, and hide thyself<small><small>[^3]</small></small> from them: thou shalt in any case bring them again unto thy brother. <span class="startversemarker">[</span>**[[Deut.22.2|2]]**<span class="endversemarker">]</span> And if thy brother \[be\] not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore<small><small>[^4]</small></small> it to him again. <span class="startversemarker">[</span>**[[Deut.22.3|3]]**<span class="endversemarker">]</span> In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother’s, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself. 
 
@@ -20,7 +20,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.22.11|11]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.22.12|12]]**<span class="endversemarker">]</span> [¶]Thou shalt make thee fringes<small><small>[^21]</small></small> upon the four quarters<small><small>[^22]</small></small> of thy vesture, wherewith thou coverest \[thyself\].
 
-***Marriage Violations*** ^bsb518
+<big><big>[[Deut.22.13 Marriage Violations|⥃]]</big></big>***Marriage Violations***
 
  
 

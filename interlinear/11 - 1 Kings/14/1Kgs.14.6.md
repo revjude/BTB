@@ -1,4 +1,4 @@
-**1 Kings 14:6** 
+**1 Kings 14:6**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself [to be] another? for I [am] sent to thee [with] heavy [tidings].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So when Ahijah heard the sound of her feet entering the door, he said, “Come i
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.5|<< 1 Kings 14:5]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.7|1 Kings 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H8085G\|שְׁמֹ֨עַ]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

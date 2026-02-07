@@ -1,4 +1,4 @@
-**1 Kings 19:8** 
+**1 Kings 19:8**<big><big>[[1Kgs.19.1 Elijah Flees from Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he got up and ate and drank. And strengthened by that food, he walked forty d
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.7|<< 1 Kings 19:7]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.9|1 Kings 19:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֖קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he ate  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|יֹּ֣אכַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.khal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

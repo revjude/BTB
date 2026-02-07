@@ -1,4 +1,4 @@
-**Zechariah 14:17** 
+**Zechariah 14:17**<big><big>[[Zech.14.16 All Nations Will Worship the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, [that] whoso will not come up of [all] the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And should any of the families of the earth not go up to Jerusalem to worship th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.16|<< Zechariah 14:16]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.18|Zechariah 14:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H1961\|הָיָה]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:3** 
 <small><sub>**LXX:**</sub></small>
 And you in no way shall be delivered from out of his hand; and by seizure you shall be seized, and into his hands you shall be given; and  your eyes  shall see his eyes and  his mouth shall speak with your mouth, and into Babylon you shall enter. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt not escape out of his hand, but shalt surely be taken, and delivered into his hand; and thine eyes shall behold the eyes of the king of Babylon, and he shall speak with thee mouth to mouth, and thou shalt go to Babylon.
-<small><sub>**BSB:**</sub></small>
-And you yourself will not escape his grasp, but will surely be captured and delivered into his hand. You will see the king of Babylon eye to eye and speak with him face to face; and you will go to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.2|<< Jeremiah 34:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.4|Jeremiah 34:4 >>]]</td></tr></table>
 
 | Translation | Greek |

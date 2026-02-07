@@ -1,4 +1,4 @@
-**Exodus 2:5** 
+**Exodus 2:5**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the daughter of Pharaoh came down to wash [herself] at the river; and her maidens walked along by the river’s side; and when she saw the ark among the flags, she sent her maid to fetch it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Soon the daughter of Pharaoh went down to bathe in the Nile, and her attendants 
 > $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|תֵּ֤רֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.red<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

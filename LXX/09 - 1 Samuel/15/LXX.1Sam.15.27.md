@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:27** 
 <small><sub>**LXX:**</sub></small>
 And Samuel turned  his face  to go forth, and Saul took hold of the border  of his doubled garment, and tore it. 
-<small><sub>**KJV:**</sub></small>
-And as Samuel turned about to go away, he laid hold upon the skirt of his mantle, and it rent.
-<small><sub>**BSB:**</sub></small>
-As Samuel turned to go, Saul grabbed the hem of his robe, and it tore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.26|<< 1 Samuel 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.28|1 Samuel 15:28 >>]]</td></tr></table>
 
 | Translation | Greek |

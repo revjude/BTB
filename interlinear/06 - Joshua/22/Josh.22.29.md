@@ -1,4 +1,4 @@
-**Joshua 22:29** 
+**Joshua 22:29**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God forbid that we should rebel against the LORD, and turn this day from following the LORD, to build an altar for burnt offerings, for meat offerings, or for sacrifices, beside the altar of the LORD our God that [is] before his tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Far be it from us to rebel against the LORD and turn away from Him today by buil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.28|<< Joshua 22:28]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.30|Joshua 22:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | far be it  |**<big>&#8207;[[H2486\|חָלִילָה֩]]&#8207; </big>**| cha.li.Lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> us  |**<big>&#8207;[[H9005\|לָּ֨]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

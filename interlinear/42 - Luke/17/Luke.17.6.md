@@ -1,12 +1,12 @@
-**Luke 17:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:6**<big><big>[[Luke.17.5 The Power of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you.
 <small><sub>**BSB:**</sub></small>
 And the Lord answered, “If you have faith the size of a mustard seed, you can say to this mulberry tree, ‘Be uprooted and planted in the sea,’ and it will obey you.
 <small><sub>**Literal:**</sub></small>
 Said then the Lord; If you have faith like a grain of mustard, you have spoken then would to the mulberry tree this; do be uprooted and do be planted in the sea, and it have obeyed would you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.5|<< Luke 17:5]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.7|Luke 17:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

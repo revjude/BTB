@@ -1,10 +1,7 @@
 **LXX Leviticus 14:32** 
 <small><sub>**LXX:**</sub></small>
 This is the law \[for him\] in whom is \[found\] the infection of the leprosy, and  not finding \[means\] \[in\] his hand enough for  his cleansing. 
-<small><sub>**KJV:**</sub></small>
-This [is] the law [of him] in whom [is] the plague of leprosy, whose hand is not able to get [that which pertaineth] to his cleansing.
-<small><sub>**BSB:**</sub></small>
-This is the law for someone who has a skin disease and cannot afford the cost of his cleansing.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.31|<< Leviticus 14:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.33|Leviticus 14:33 >>]]</td></tr></table>
 
 | Translation | Greek |

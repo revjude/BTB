@@ -1,12 +1,12 @@
-**2 Corinthians 8:20
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:20**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Avoiding this, that no man should blame us in this abundance which is administered by us:
 <small><sub>**BSB:**</sub></small>
 We want to avoid any criticism of the way we administer this generous gift.
 <small><sub>**Literal:**</sub></small>
 avoiding this, lest anyone us may blame in <the> abundance this which is being administered by us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.19|<< 2 Corinthians 8:19]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.21|2 Corinthians 8:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | avoiding |**<big>[[G4724\|στελλόμενοι]]</big>**  |stellomenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this, |**<big>[[G3778\|τοῦτο,]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

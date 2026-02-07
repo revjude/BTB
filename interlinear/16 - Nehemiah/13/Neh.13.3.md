@@ -1,4 +1,4 @@
-**Nehemiah 13:3** 
+**Nehemiah 13:3**<big><big>[[Neh.13.1 Foreigners Excluded|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as the people heard this law, they excluded from Israel all of foreign d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.2|<< Nehemiah 13:2]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.4|Nehemiah 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֖י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard they  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8085G\|שָׁמְעָ֣]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> sha.me.'A<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

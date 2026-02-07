@@ -1,12 +1,12 @@
-**Acts 16:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:6**<big><big>[[Acts.16.6 Paul’s Vision of the Macedonian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia,
 <small><sub>**BSB:**</sub></small>
 After the Holy Spirit had prevented them from speaking the word in the province of Asia, they traveled through the region of Phrygia and Galatia.
 <small><sub>**Literal:**</sub></small>
 they passed through then <the> Phrygia and the Galatian region having been forbidden by the Holy Spirit to speak the word in <the> Asia,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.5|<< Acts 16:5]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.7|Acts 16:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they passed through [^1] |**<big>[[G1330\|διῆλθον]]</big>**  |diēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

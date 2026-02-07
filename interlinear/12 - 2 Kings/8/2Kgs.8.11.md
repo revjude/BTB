@@ -1,4 +1,4 @@
-**2 Kings 8:11** 
+**2 Kings 8:11**<big><big>[[2Kgs.8.7 Hazael Murders Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he settled his countenance stedfastly, until he was ashamed: and the man of God wept.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Elisha fixed his gaze steadily on him until Hazael became uncomfortable. Then th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.10|<< 2 Kings 8:10]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.12|2 Kings 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975G\|יַּעֲמֵ֥ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

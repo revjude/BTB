@@ -1,10 +1,7 @@
 **LXX Zephaniah 2:14** 
 <small><sub>**LXX:**</sub></small>
 And flocks shall feed in \[the\] midst of her, and all the wild beasts of the earth, and chameleons; and hedgehogs shall make a bed in her fretwork, and wild beasts to sound out loud in  her ditches, and crows in  her gatehouses. For her height \[was as the\] cedar. 
-<small><sub>**KJV:**</sub></small>
-And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; [their] voice shall sing in the windows; desolation [shall be] in the thresholds: for he shall uncover the cedar work.
-<small><sub>**BSB:**</sub></small>
-Herds will lie down in her midst, creatures of every kind. Both the desert owl and screech owl will roost atop her pillars. Their calls will sound from the window, but desolation will lie on the threshold, for He will expose the beams of cedar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.13|<< Zephaniah 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.15|Zephaniah 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

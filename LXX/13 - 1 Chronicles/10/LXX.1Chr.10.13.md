@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 10:13** 
 <small><sub>**LXX:**</sub></small>
 And Saul died in  his lawless deeds which he acted lawlessly against \[the\] <span class="smallcaps">lord</span>, against the word of \[the\] <span class="smallcaps">lord</span>, because he did not keep it, and because he asked to inquire by the one who delivers oracles. 
-<small><sub>**KJV:**</sub></small>
-So Saul died for his transgression which he committed against the LORD, [even] against the word of the LORD, which he kept not, and also for asking [counsel] of [one that had] a familiar spirit, to inquire [of it];
-<small><sub>**BSB:**</sub></small>
-So Saul died for his unfaithfulness to the LORD, because he did not keep the word of the LORD and even consulted a medium for guidance,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.12|<< 1 Chronicles 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.14|1 Chronicles 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 39:2** 
 <small><sub>**LXX:**</sub></small>
 And they made the shoulder-piece from out of gold, and blue, and purple, and scarlet being spun, and linen being twined. 
-<small><sub>**KJV:**</sub></small>
-And he made the ephod [of] gold, blue, and purple, and scarlet, and fine twined linen.
-<small><sub>**BSB:**</sub></small>
-Bezalel made the ephod of finely spun linen embroidered with gold, and with blue, purple, and scarlet yarn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.1|<< Exodus 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.3|Exodus 39:3 >>]]</td></tr></table>
 
 | Translation | Greek |

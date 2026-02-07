@@ -1,12 +1,12 @@
-**Acts 13:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:5**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to [their] minister.
 <small><sub>**BSB:**</sub></small>
 When they arrived at Salamis, they proclaimed the word of God in the Jewish synagogues. And John was with them as their helper.
 <small><sub>**Literal:**</sub></small>
 And having come into Salamis they were proclaiming the word <the> of God in the synagogues of the Jews; They had now also John [as] a helper.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.4|<< Acts 13:4]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.6|Acts 13:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G1096\|γενόμενοι]]</big>**  |genomenoi <small><sup>[[V-2ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

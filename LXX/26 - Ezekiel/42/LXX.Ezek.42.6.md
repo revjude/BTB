@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:6** 
 <small><sub>**LXX:**</sub></small>
 For they were triple, and they did not have columns as the columns of the inner chambers; on account of this they protruded from the ones beneath, and the ones in \[the\] middle from the ground. 
-<small><sub>**KJV:**</sub></small>
-For they [were] in three [stories], but had not pillars as the pillars of the courts: therefore [the building] was straitened more than the lowest and the middlemost from the ground.
-<small><sub>**BSB:**</sub></small>
-For they were arranged in three stories, and unlike the courts, they had no pillars. So the upper chambers were set back further than the lower and middle floors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.5|<< Ezekiel 42:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.7|Ezekiel 42:7 >>]]</td></tr></table>
 
 | Translation | Greek |

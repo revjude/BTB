@@ -1,5 +1,5 @@
-**Revelation 12:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:1**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 <small><sub>**BSB:**</sub></small>
 And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head.
@@ -10,7 +10,7 @@ And a sign great appeared in <the> heaven: a woman having been clothed with the 
 > $\quad$ possibly alluding to: [[LXX.Isa.66.7|Isa 66:7]] ☩ [[LXX.Mic.4.9|Mic 4:9-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a sign |**<big>[[G4592\|σημεῖον]]</big>**  |sēmeion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

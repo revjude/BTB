@@ -1,4 +1,4 @@
-**Exodus 21:17** 
+**Exodus 21:17**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that curseth his father, or his mother, shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Anyone who curses his father or mother must surely be put to death.
 > $\quad$ referenced by: [[Matt.15.4|Matt 15:4]] ☩ [[Mark.7.10|Mark 7:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [one who] will curse  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7043\|מְקַלֵּ֥ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.ka.Lel<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father his  |**<big>&#8207;[[H0001G\|אָבִ֛י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

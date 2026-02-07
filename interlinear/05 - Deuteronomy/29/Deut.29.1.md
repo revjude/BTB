@@ -1,4 +1,4 @@
-**Deuteronomy 29:1** (28:69)
+**Deuteronomy 29:1**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the words of the covenant that the LORD commanded Moses to make with t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.68|<< Deuteronomy 28:68]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.2|Deuteronomy 29:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵלֶּה֩]]&#8207; </big>**| 'e.Leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] words of  |**<big>&#8207;[[H1697G\|דִבְרֵ֨י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

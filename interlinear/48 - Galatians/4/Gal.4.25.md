@@ -1,12 +1,12 @@
-**Galatians 4:25
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:25**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
 <small><sub>**BSB:**</sub></small>
 Now Hagar stands for Mount Sinai in Arabia and corresponds to the present-day Jerusalem, because she is in slavery with her children.
 <small><sub>**Literal:**</sub></small>
 <the> Now Hagar Sinai Mount is in <the> Arabia, she corresponds now to the present Jerusalem, she is in slavery for with the children of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.24|<< Galatians 4:24]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.26|Galatians 4:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |

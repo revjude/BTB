@@ -1,10 +1,7 @@
 **LXX Numbers 16:42** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the gathering together the congregation against Moses and Aaron, that they advanced against the tent of the testimony; and thus the cloud covered it, and there appeared the glory of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the congregation was gathered against Moses and against Aaron, that they looked toward the tabernacle of the congregation: and, behold, the cloud covered it, and the glory of the LORD appeared.
-<small><sub>**BSB:**</sub></small>
-But when the congregation gathered against them, Moses and Aaron turned toward the Tent of Meeting, and suddenly the cloud covered it and the glory of the LORD appeared.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.41|<< Numbers 16:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.43|Numbers 16:43 >>]]</td></tr></table>
 
 | Translation | Greek |

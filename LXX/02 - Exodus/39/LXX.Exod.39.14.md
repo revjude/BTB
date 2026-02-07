@@ -1,10 +1,7 @@
 **LXX Exodus 39:14** 
 <small><sub>**LXX:**</sub></small>
 And the stones were of the names of the twelve sons of Israel, of  their twelve names being engraved seals, each of  \[its\] own name for the twelve tribes. 
-<small><sub>**KJV:**</sub></small>
-And the stones [were] according to the names of the children of Israel, twelve, according to their names, [like] the engravings of a signet, every one with his name, according to the twelve tribes.
-<small><sub>**BSB:**</sub></small>
-The twelve stones corresponded to the names of the sons of Israel. Each stone was engraved like a seal with the name of one of the twelve tribes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.13|<< Exodus 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.15|Exodus 39:15 >>]]</td></tr></table>
 
 | Translation | Greek |

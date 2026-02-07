@@ -1,10 +1,7 @@
 **LXX Isaiah 5:2** 
 <small><sub>**LXX:**</sub></small>
 And I put a barrier around it, and I built a palisade, and planted a grapevine, a choice vine; and I built a tower in \[the\] midst of it; and I dug a wine press in it; and I waited  \[for it\] to produce \[the\] grape, and it produced thorn-bushes. 
-<small><sub>**KJV:**</sub></small>
-And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.
-<small><sub>**BSB:**</sub></small>
-He dug it up and cleared the stones and planted the finest vines. He built a watchtower in the middle and dug out a winepress as well. He waited for the vineyard to yield good grapes, but the fruit it produced was sour!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.1|<< Isaiah 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.3|Isaiah 5:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 5:2** is...

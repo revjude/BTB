@@ -1,4 +1,4 @@
-**Leviticus 17:6** 
+**Leviticus 17:6**<big><big>[[Lev.17.1 The Place of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall sprinkle the blood upon the altar of the LORD [at] the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest will then splatter the blood on the altar of the LORD at the entrance
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.5|<< Leviticus 17:5]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.7|Leviticus 17:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will sprinkle  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2236\|זָרַ֨ק]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.Rak<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֤ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

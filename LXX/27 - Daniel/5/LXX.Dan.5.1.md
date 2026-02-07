@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Belshazzar the king made a great supper for his great men -- a thousand; and before the thousand \[was\] the wine. 
-<small><sub>**KJV:**</sub></small>
-Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
-<small><sub>**BSB:**</sub></small>
-Later, King Belshazzar held a great feast for a thousand of his nobles, and he drank wine with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.37|<< Daniel 4:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.2|Daniel 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

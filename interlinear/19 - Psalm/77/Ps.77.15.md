@@ -1,4 +1,4 @@
-**Psalms 77:15** (77:16)
+**Psalms 77:15**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast with [thine] arm redeemed thy people, the sons of Jacob and Joseph. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With power You redeemed Your people, the sons of Jacob and Joseph. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.14|<< Psalms 77:14]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.16|Psalms 77:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you redeemed  |**<big>&#8207;[[H1350A\|גָּאַ֣לְתָּ]]&#8207; </big>**| ga.'Al.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by an arm  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H2220\|זְר֣וֹעַ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> z.Ro.a'<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 6:4** 
 <small><sub>**LXX:**</sub></small>
 Then it shall be when ever he should sin, and trespass, that he should give back the seized \[thing\] which he seized by force, or the offence which he wronged, or the trust which was placed in him, or the loss which he found of every thing, of which he swore by an oath concerning it unjustly; and he shall pay it, the total sum, and  his fifth part shall be added upon it -- whatever is his he shall give back in the day he should be reproved. 
-<small><sub>**KJV:**</sub></small>
-Then it shall be, because he hath sinned, and is guilty, that he shall restore that which he took violently away, or the thing which he hath deceitfully gotten, or that which was delivered him to keep, or the lost thing which he found,
-<small><sub>**BSB:**</sub></small>
-once he has sinned and becomes guilty, he must return what he has stolen or taken by extortion, or the deposit entrusted to him, or the lost property he found,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.3|<< Leviticus 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.5|Leviticus 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

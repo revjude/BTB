@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:10** 
 <small><sub>**LXX:**</sub></small>
 And Nabal jumped up and responded to the servants of David, and he said, Who \[is\]  David, and who \[is\] the son of Jesse? Today there are servants multiplying, each withdrawing from \[the\] presence  of his master. 
-<small><sub>**KJV:**</sub></small>
-And Nabal answered David’s servants, and said, Who [is] David? and who [is] the son of Jesse? there be many servants now a days that break away every man from his master.
-<small><sub>**BSB:**</sub></small>
-But Nabal asked them, “Who is David? Who is this son of Jesse? Many servants these days are breaking away from their masters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.9|<< 1 Samuel 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.11|1 Samuel 25:11 >>]]</td></tr></table>
 
 | Translation | Greek |

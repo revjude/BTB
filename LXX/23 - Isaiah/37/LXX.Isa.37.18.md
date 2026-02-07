@@ -1,10 +1,7 @@
 **LXX Isaiah 37:18** 
 <small><sub>**LXX:**</sub></small>
 For in truth, O <span class="smallcaps">lord</span>, \[the\] kings of \[the\] Assyrians made desolate the entire inhabitable world, and  their region. 
-<small><sub>**KJV:**</sub></small>
-Of a truth, LORD, the kings of Assyria have laid waste all the nations, and their countries,
-<small><sub>**BSB:**</sub></small>
-Truly, O LORD, the kings of Assyria have laid waste all these countries and their lands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.17|<< Isaiah 37:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.19|Isaiah 37:19 >>]]</td></tr></table>
 
 | Translation | Greek |

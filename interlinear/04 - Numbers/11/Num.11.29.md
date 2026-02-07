@@ -1,4 +1,4 @@
-**Numbers 11:29** 
+**Numbers 11:29**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto him, Enviest thou for my sake? would God that all the LORD’S people were prophets, [and] that the LORD would put his spirit upon them!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Moses replied, “Are you jealous on my account? I wish that all the LORD’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.28|<< Numbers 11:28]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.30|Numbers 11:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 11:23** 
 <small><sub>**LXX:**</sub></small>
 And he grew above all  his sons, in all the borders of Judah and Benjamin, and in the fortified cities; and he gave to them a vast multitude of provisions; and he asked for a multitude of wives. 
-<small><sub>**KJV:**</sub></small>
-And he dealt wisely, and dispersed of all his children throughout all the countries of Judah and Benjamin, unto every fenced city: and he gave them victual in abundance. And he desired many wives.
-<small><sub>**BSB:**</sub></small>
-Rehoboam also acted wisely by dispersing some of his sons throughout the districts of Judah and Benjamin, and to all the fortified cities. He gave them abundant provisions and sought many wives for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.22|<< 2 Chronicles 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.1|2 Chronicles 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

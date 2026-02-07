@@ -1,4 +1,4 @@
-**2 Chronicles 28:7** 
+**2 Chronicles 28:7**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zichri, a mighty man of Ephraim, slew Maaseiah the king’s son, and Azrikam the governor of the house, and Elkanah [that was] next to the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zichri, a mighty man of Ephraim, killed Maaseiah the son of the king, Azrikam th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.6|<< 2 Chronicles 28:6]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.8|2 Chronicles 28:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he killed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2026\|יַּהֲרֹ֞ג]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.ha.Rog<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zikri  |**<big>&#8207;[[H2147P\|זִכְרִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| zikh.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 20:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:5**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These going before tarried for us at Troas.
 <small><sub>**BSB:**</sub></small>
 These men went on ahead and waited for us in Troas.
 <small><sub>**Literal:**</sub></small>
 These also having gone ahead were awaiting us in Troas;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.4|<< Acts 20:4]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.6|Acts 20:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοι]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

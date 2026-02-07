@@ -1,12 +1,12 @@
-**Acts 28:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:2**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.
 <small><sub>**BSB:**</sub></small>
 The islanders showed us extraordinary kindness. They kindled a fire and welcomed all of us because it was raining and cold.
 <small><sub>**Literal:**</sub></small>
 <the> And the natives were showing not [just] the ordinary kindness to us; Having kindled for a fire they received all of us because of the rain which already coming on and because of the cold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.1|<< Acts 28:1]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.3|Acts 28:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἵ]]</big>**  |oi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

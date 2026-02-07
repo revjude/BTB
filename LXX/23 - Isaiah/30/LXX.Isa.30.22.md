@@ -1,10 +1,7 @@
 **LXX Isaiah 30:22** 
 <small><sub>**LXX:**</sub></small>
 And you shall remove the idols  being silver plated; and the ones being gilded you shall make \[into\] fine \[dust\]; and you shall winnow as \[the\] water of a woman sitting apart, and you shall thrust them away as dung. 
-<small><sub>**KJV:**</sub></small>
-Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence.
-<small><sub>**BSB:**</sub></small>
-So you will desecrate your silver-plated idols and your gold-plated images. You will throw them away like menstrual cloths, saying to them, “Be gone!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.21|<< Isaiah 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.23|Isaiah 30:23 >>]]</td></tr></table>
 
 | Translation | Greek |

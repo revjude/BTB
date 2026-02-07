@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:14** 
 <small><sub>**LXX:**</sub></small>
 And David himself \[was\] the younger, and the three, the elder went after Saul. 
-<small><sub>**KJV:**</sub></small>
-And David [was] the youngest: and the three eldest followed Saul.
-<small><sub>**BSB:**</sub></small>
-And David was the youngest. The three oldest had followed Saul,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.13|<< 1 Samuel 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.15|1 Samuel 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

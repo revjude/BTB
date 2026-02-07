@@ -1,10 +1,7 @@
 **LXX Job 7:2** 
 <small><sub>**LXX:**</sub></small>
 or as an attendant in awe  of his master, and attaining for shade; or as if a hireling awaiting  his wage? 
-<small><sub>**KJV:**</sub></small>
-As a servant earnestly desireth the shadow, and as an hireling looketh for [the reward of] his work:
-<small><sub>**BSB:**</sub></small>
-Like a slave he longs for shade; like a hireling he waits for his wages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.1|<< Job 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.3|Job 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

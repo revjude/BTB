@@ -1,4 +1,4 @@
-**Leviticus 8:23** 
+**Leviticus 8:23**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he slew [it]; and Moses took of the blood of it, and put [it] upon the tip of Aaron’s right ear, and upon the thumb of his right hand, and upon the great toe of his right foot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses slaughtered the ram and took some of its blood and put it on Aaron’s rig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.22|<< Leviticus 8:22]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.24|Leviticus 8:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he cut [the] throat of [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7819A\|יִּשְׁחָ֓ט]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Chat<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

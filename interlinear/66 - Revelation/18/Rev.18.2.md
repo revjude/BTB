@@ -1,5 +1,5 @@
-**Revelation 18:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:2**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird.
 <small><sub>**BSB:**</sub></small>
 And he cried out in a mighty voice: “Fallen, fallen is Babylon the great! She has become a lair for demons and a haunt for every unclean spirit, every unclean bird, and every detestable beast.
@@ -11,7 +11,7 @@ And he cried out in a mighty voice loud saying: Fallen Fallen is Babylon the gre
 > $\quad$ alluding to: [[LXX.Isa.13.21|Isa 13:21]] ☩ [[LXX.Jer.51.8|Jer 51:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he cried out |**<big>[[G2896\|ἔκραξεν]]</big>**  |ekraxen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 84:10** (84:11)
+**Psalms 84:10**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a day in thy courts [is] better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For better is one day in Your courts than a thousand elsewhere. I would rather b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.9|<< Psalms 84:9]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.11|Psalms 84:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] good  |**<big>&#8207;[[H2896A\|טֽוֹב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tov-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

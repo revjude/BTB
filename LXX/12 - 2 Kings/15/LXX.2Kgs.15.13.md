@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:13** 
 <small><sub>**LXX:**</sub></small>
 And Shallum son of Jabesh reigned in \[the\] thirtieth and ninth year  of Azariah king of Judah, and he reigned a month of days in Samaria. 
-<small><sub>**KJV:**</sub></small>
-Shallum the son of Jabesh began to reign in the nine and thirtieth year of Uzziah king of Judah; and he reigned a full month in Samaria.
-<small><sub>**BSB:**</sub></small>
-In the thirty-ninth year of Uzziah’s reign over Judah, Shallum son of Jabesh became king, and he reigned in Samaria one full month.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.12|<< 2 Kings 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.14|2 Kings 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

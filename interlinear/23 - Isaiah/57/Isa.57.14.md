@@ -1,4 +1,4 @@
-**Isaiah 57:14** 
+**Isaiah 57:14**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall say, Cast ye up, cast ye up, prepare the way, take up the stumblingblock out of the way of my people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And it will be said, “Build it up, build it up, prepare the way, take every ob
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.13|<< Isaiah 57:13]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.15|Isaiah 57:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and someone will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַ֥ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | build up  |**<big>&#8207;[[H5549\|סֹֽלּוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| so.lu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

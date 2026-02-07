@@ -1,10 +1,7 @@
 **LXX Isaiah 30:3** 
 <small><sub>**LXX:**</sub></small>
 For the protection by Pharaoh will be to you for shame, and the ones relying upon Egypt for scorn. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall the strength of Pharaoh be your shame, and the trust in the shadow of Egypt [your] confusion.
-<small><sub>**BSB:**</sub></small>
-But Pharaoh’s protection will become your shame, and the refuge of Egypt’s shade your disgrace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.2|<< Isaiah 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.4|Isaiah 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

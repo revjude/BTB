@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:15** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah gave all the silver  he found in \[the\] house of \[the\] <span class="smallcaps">lord</span>, and in \[the\] treasuries of \[the\] house of the king. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah gave [him] all the silver that was found in the house of the LORD, and in the treasures of the king’s house.
-<small><sub>**BSB:**</sub></small>
-Hezekiah gave him all the silver that was found in the house of the LORD and in the treasuries of the royal palace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.14|<< 2 Kings 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.16|2 Kings 18:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:8** 
 <small><sub>**LXX:**</sub></small>
 And they dwell in it, and built to you in it a sanctuary \[to\] your name, saying, 
-<small><sub>**KJV:**</sub></small>
-And they dwelt therein, and have built thee a sanctuary therein for thy name, saying,
-<small><sub>**BSB:**</sub></small>
-They have lived in the land and have built in it a sanctuary for Your Name, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.7|<< 2 Chronicles 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.9|2 Chronicles 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:25** 
 <small><sub>**LXX:**</sub></small>
 And he stationed the Levites in \[the\] house of \[the\] <span class="smallcaps">lord</span> with cymbals, and with stringed instruments, and with lutes, according to the commandment of David the king, and Gad the seer to the king, and Nathan the prophet. For by \[the\] commandment of \[the\] <span class="smallcaps">lord</span> the order \[was\] in \[the\] hand  of his prophets. 
-<small><sub>**KJV:**</sub></small>
-And he set the Levites in the house of the LORD with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king’s seer, and Nathan the prophet: for [so was] the commandment of the LORD by his prophets.
-<small><sub>**BSB:**</sub></small>
-Hezekiah stationed the Levites in the house of the LORD with cymbals, harps, and lyres according to the command of David, of Gad the king’s seer, and of Nathan the prophet. For the command had come from the LORD through His prophets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.24|<< 2 Chronicles 29:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.26|2 Chronicles 29:26 >>]]</td></tr></table>
 
 | Translation | Greek |

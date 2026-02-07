@@ -1,4 +1,4 @@
-**1 Kings 19:2** 
+**1 Kings 19:2**<big><big>[[1Kgs.19.1 Elijah Flees from Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jezebel sent a messenger unto Elijah, saying, So let the gods do [to me], and more also, if I make not thy life as the life of one of them by to morrow about this time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.1|<< 1 Kings 19:1]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.3|1 Kings 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|תִּשְׁלַ֤ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Lach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jezebel  |**<big>&#8207;[[H0348\|אִיזֶ֙בֶל֙]]&#8207; </big>**| 'i.Ze.vel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

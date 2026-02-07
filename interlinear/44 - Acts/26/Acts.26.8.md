@@ -1,12 +1,12 @@
-**Acts 26:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:8**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Why should it be thought a thing incredible with you, that God should raise the dead?
 <small><sub>**BSB:**</sub></small>
 Why would any of you consider it incredible that God raises the dead?
 <small><sub>**Literal:**</sub></small>
 Why incredible is it judged by you if <the> God [the] dead raises?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.7|<< Acts 26:7]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.9|Acts 26:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Why |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | incredible |**<big>[[G0571\|ἄπιστον]]</big>**  |apiston <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

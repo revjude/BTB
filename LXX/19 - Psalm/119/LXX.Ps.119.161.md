@@ -1,10 +1,7 @@
 **LXX Psalm 119:161** 
 <small><sub>**LXX:**</sub></small>
 Rulers pursued me without charge; and from  your words my heart was timid. 
-<small><sub>**KJV:**</sub></small>
-SCHIN. Princes have persecuted me without a cause: but my heart standeth in awe of thy word.
-<small><sub>**BSB:**</sub></small>
-Rulers persecute me without cause, but my heart fears only Your word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.161|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.160|<< Psalm 119:160]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.162|Psalm 119:162 >>]]</td></tr></table>
 
 | Translation | Greek |

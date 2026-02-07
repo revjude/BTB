@@ -1,10 +1,7 @@
 **LXX Job 29:21** 
 <small><sub>**LXX:**</sub></small>
 Men hearing of me took heed, and kept silent over  my counsel. 
-<small><sub>**KJV:**</sub></small>
-Unto me [men] gave ear, and waited, and kept silence at my counsel.
-<small><sub>**BSB:**</sub></small>
-Men listened to me with expectation, waiting silently for my counsel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.20|<< Job 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.22|Job 29:22 >>]]</td></tr></table>
 
 | Translation | Greek |

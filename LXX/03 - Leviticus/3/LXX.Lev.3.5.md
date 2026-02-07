@@ -1,10 +1,7 @@
 **LXX Leviticus 3:5** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Aaron the priests shall offer them upon the altar, upon the whole burnt-offerings, upon the wood  upon the fire -- a yield \[offering\] scent of pleasant aroma to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which [is] upon the wood that [is] on the fire: [it is] an offering made by fire, of a sweet savour unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Then Aaron’s sons are to burn it on the altar atop the burnt offering that is on the burning wood, as a food offering, a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.4|<< Leviticus 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.6|Leviticus 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

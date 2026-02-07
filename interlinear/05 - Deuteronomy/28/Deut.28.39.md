@@ -1,4 +1,4 @@
-**Deuteronomy 28:39** 
+**Deuteronomy 28:39**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt plant vineyards, and dress [them], but shalt neither drink [of] the wine, nor gather [the grapes]; for the worms shall eat them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will plant and cultivate vineyards, but will neither drink the wine nor gath
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.38|<< Deuteronomy 28:38]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.40|Deuteronomy 28:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | vineyards  |**<big>&#8207;[[H3754\|כְּרָמִ֥ים]]&#8207; </big>**| ke.ra.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will plant  |**<big>&#8207;[[H5193\|תִּטַּ֖ע]]&#8207; </big>**| ti.Ta'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

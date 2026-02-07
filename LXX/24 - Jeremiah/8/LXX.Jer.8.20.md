@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:20** 
 <small><sub>**LXX:**</sub></small>
 Summer went; harvest passed, and we have not been delivered. 
-<small><sub>**KJV:**</sub></small>
-The harvest is past, the summer is ended, and we are not saved.
-<small><sub>**BSB:**</sub></small>
-“The harvest has passed, the summer has ended, but we have not been saved.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.19|<< Jeremiah 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.21|Jeremiah 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

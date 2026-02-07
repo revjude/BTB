@@ -1,4 +1,4 @@
-**Job 39:13** 
+**Job 39:13**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Gavest thou] the goodly wings unto the peacocks? or wings and feathers unto the ostrich?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wings of the ostrich flap joyfully, but cannot match the pinions and feather
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.12|<< Job 39:12]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.14|Job 39:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] wing of  |**<big>&#8207;[[H3671\|כְּנַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.naf-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ostriches  |**<big>&#8207;[[H7443\|רְנָנִ֥ים]]&#8207; </big>**| re.na.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

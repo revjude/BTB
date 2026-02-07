@@ -1,4 +1,4 @@
-**Jeremiah 11:15** 
+**Jeremiah 11:15**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What hath my beloved to do in mine house, [seeing] she hath wrought lewdness with many, and the holy flesh is passed from thee? when thou doest evil, then thou rejoicest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What right has My beloved in My house, having carried out so many evil schemes? 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.14|<< Jeremiah 11:14]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.16|Jeremiah 11:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מֶ֣ה]]&#8207; </big>**| meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to beloved [one] my  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H3039A\|ידִידִ֞]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> di.D<small><sup>[[HAamsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

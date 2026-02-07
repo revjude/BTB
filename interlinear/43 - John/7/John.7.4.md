@@ -1,12 +1,12 @@
-**John 7:4
-**<small><sub>**KJV:**</sub></small>
+**John 7:4**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [there is] no man [that] doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.
 <small><sub>**BSB:**</sub></small>
 For no one who wants to be known publicly acts in secret. Since You are doing these things, show Yourself to the world.”
 <small><sub>**Literal:**</sub></small>
 No [one] for anything in secret does and seeks himself in public to be; If these things You do, do show Yourself to the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.3|<< John 7:3]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.5|John 7:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

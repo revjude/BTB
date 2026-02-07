@@ -1,10 +1,7 @@
 **LXX Nahum 2:13** 
 <small><sub>**LXX:**</sub></small>
 Behold, I \[am\] against you, says \[the\] <span class="smallcaps">lord</span> almighty, and I will burn away your multitude in smoke, and  your lions I will devour by \[the\] broadsword, and I will utterly destroy your game from out of the land, and in no way your works be heard of yet. 
-<small><sub>**KJV:**</sub></small>
-Behold, I [am] against thee, saith the LORD of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.
-<small><sub>**BSB:**</sub></small>
-“Behold, I am against you,” declares the LORD of Hosts. “I will reduce your chariots to cinders, and the sword will devour your young lions. I will cut off your prey from the earth, and the voices of your messengers will no longer be heard.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.12|<< Nahum 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.1|Nahum 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

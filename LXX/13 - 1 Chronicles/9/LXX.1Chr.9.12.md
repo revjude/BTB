@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:12** 
 <small><sub>**LXX:**</sub></small>
 And Adaiah son of Jeroham, son of Pashur, son of Malchijah, and Massai son of Adiel, son of Jahzerah, son of Meshullam, son of Meshillemith, son of Immer. 
-<small><sub>**KJV:**</sub></small>
-And Adaiah the son of Jeroham, the son of Pashur, the son of Malchijah, and Maasiai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;
-<small><sub>**BSB:**</sub></small>
-Adaiah son of Jeroham, the son of Pashhur, the son of Malchijah; Maasai son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.11|<< 1 Chronicles 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.13|1 Chronicles 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

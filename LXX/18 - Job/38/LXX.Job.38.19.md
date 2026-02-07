@@ -1,10 +1,7 @@
 **LXX Job 38:19** 
 <small><sub>**LXX:**</sub></small>
 And of what kind of land lodges the light? And darkness, what kind  of place? 
-<small><sub>**KJV:**</sub></small>
-Where [is] the way [where] light dwelleth? and [as for] darkness, where [is] the place thereof,
-<small><sub>**BSB:**</sub></small>
-Where is the way to the home of light? Do you know where darkness resides,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.18|<< Job 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.20|Job 38:20 >>]]</td></tr></table>
 
 | Translation | Greek |

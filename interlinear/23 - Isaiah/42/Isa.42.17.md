@@ -1,4 +1,4 @@
-**Isaiah 42:17** 
+**Isaiah 42:17**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall be turned back, they shall be greatly ashamed, that trust in graven images, that say to the molten images, Ye [are] our gods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But those who trust in idols and say to molten images, ‘You are our gods!’ w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.16|<< Isaiah 42:16]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.18|Isaiah 42:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will be turned back  |**<big>&#8207;[[H5472\|נָסֹ֤גוּ]]&#8207; </big>**| na.So.gu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | backwards  |**<big>&#8207;[[H0268\|אָחוֹר֙]]&#8207; </big>**| 'a.chOr<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

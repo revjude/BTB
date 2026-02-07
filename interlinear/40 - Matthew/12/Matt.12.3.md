@@ -1,5 +1,5 @@
-**Matthew 12:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:3**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Have you not read what David did when he and his companions were hungry?
@@ -10,7 +10,7 @@ He then said to them; Surely you have read what did David when he was hungry he 
 > $\quad$ referencing: [[LXX.1Sam.21.6|1Sam 21:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

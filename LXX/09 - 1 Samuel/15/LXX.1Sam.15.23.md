@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:23** 
 <small><sub>**LXX:**</sub></small>
 For sin is as an omen, teraphim bring upon grief and miseries. Because you treated with contempt the word of \[the\] <span class="smallcaps">lord</span>, even \[the\] <span class="smallcaps">lord</span> treats you with contempt to not be king over Israel. 
-<small><sub>**KJV:**</sub></small>
-For rebellion [is as] the sin of witchcraft, and stubbornness [is as] iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from [being] king.
-<small><sub>**BSB:**</sub></small>
-For rebellion is like the sin of divination, and arrogance is like the wickedness of idolatry. Because you have rejected the word of the LORD, He has rejected you as king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.22|<< 1 Samuel 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.24|1 Samuel 15:24 >>]]</td></tr></table>
 
 | Translation | Greek |

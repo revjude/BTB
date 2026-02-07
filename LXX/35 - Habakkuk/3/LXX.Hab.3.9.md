@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:9** 
 <small><sub>**LXX:**</sub></small>
 Stretching out, you shall stretch out  your bow against the chiefdoms, says \[the\] <span class="smallcaps">lord</span>. PAUSE. \[The\] land of rivers shall be torn. 
-<small><sub>**KJV:**</sub></small>
-Thy bow was made quite naked, [according] to the oaths of the tribes, [even thy] word. Selah. Thou didst cleave the earth with rivers.
-<small><sub>**BSB:**</sub></small>
-You brandished Your bow; You called for many arrows. Selah You split the earth with rivers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.8|<< Habakkuk 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.10|Habakkuk 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

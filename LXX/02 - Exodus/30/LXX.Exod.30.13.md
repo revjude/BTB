@@ -1,10 +1,7 @@
 **LXX Exodus 30:13** 
 <small><sub>**LXX:**</sub></small>
 And this is what they shall give, as many as pass the numbering -- the half  double-drachma, which it shall be according to the double-drachma  of the holy place -- twenty oboli to the double-drachma; but the half  double-drachma \[is a\] contribution \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel [is] twenty gerahs:) an half shekel [shall be] the offering of the LORD.
-<small><sub>**BSB:**</sub></small>
-Everyone who crosses over to those counted must pay a half shekel, according to the sanctuary shekel, which weighs twenty gerahs. This half shekel is an offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.12|<< Exodus 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.14|Exodus 30:14 >>]]</td></tr></table>
 
 | Translation | Greek |

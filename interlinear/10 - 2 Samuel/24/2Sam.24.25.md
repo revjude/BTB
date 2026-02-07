@@ -1,4 +1,4 @@
-**2 Samuel 24:25** 
+**2 Samuel 24:25**<big><big>[[2Sam.24.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was intreated for the land, and the plague was stayed from Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there he built an altar to the LORD and offered burnt offerings and peace of
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.24|<< 2 Samuel 24:24]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.1|1 Kings 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּבֶן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֨ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

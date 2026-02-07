@@ -1,10 +1,7 @@
 **LXX Isaiah 30:28** 
 <small><sub>**LXX:**</sub></small>
 And  his breath, as water being dragged along in a ravine, shall come unto the neck, and be divided. He shall disturb nations for a vain addiction to a delusion, and an addiction to a delusion shall pursue them, and it shall take them according to their face. 
-<small><sub>**KJV:**</sub></small>
-And his breath, as an overflowing stream, shall reach to the midst of the neck, to sift the nations with the sieve of vanity: and [there shall be] a bridle in the jaws of the people, causing [them] to err.
-<small><sub>**BSB:**</sub></small>
-His breath is like a rushing torrent that rises to the neck. He comes to sift the nations in a sieve of destruction; He bridles the jaws of the peoples to lead them astray.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.27|<< Isaiah 30:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.29|Isaiah 30:29 >>]]</td></tr></table>
 
 | Translation | Greek |

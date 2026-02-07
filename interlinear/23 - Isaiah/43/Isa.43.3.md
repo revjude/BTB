@@ -1,4 +1,4 @@
-**Isaiah 43:3** 
+**Isaiah 43:3**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [am] the LORD thy God, the Holy One of Israel, thy Saviour: I gave Egypt [for] thy ransom, Ethiopia and Seba for thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I am the LORD your God, the Holy One of Israel, your Savior; I give Egypt fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.2|<< Isaiah 43:2]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.4|Isaiah 43:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֗י]]&#8207; </big>**| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Hosea 2:11** 
 <small><sub>**LXX:**</sub></small>
 And I will turn away all  her gladness of her holiday \[feasts\], and  her new moons, and  her Sabbaths, and all  her festivals. 
-<small><sub>**KJV:**</sub></small>
-I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts.
-<small><sub>**BSB:**</sub></small>
-I will put an end to all her exultation: her feasts, New Moons, and Sabbaths—all her appointed feasts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.10|<< Hosea 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.12|Hosea 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

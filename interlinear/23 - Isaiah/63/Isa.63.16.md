@@ -1,4 +1,4 @@
-**Isaiah 63:16** 
+**Isaiah 63:16**<big><big>[[Isa.63.15 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Doubtless thou [art] our father, though Abraham be ignorant of us, and Israel acknowledge us not: thou, O LORD, [art] our father, our redeemer; thy name [is] from everlasting.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet You are our Father, though Abraham does not know us and Israel does not ackn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.15|<< Isaiah 63:15]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.17|Isaiah 63:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

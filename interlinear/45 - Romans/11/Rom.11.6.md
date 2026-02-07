@@ -1,12 +1,12 @@
-**Romans 11:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:6**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if by grace, then [is it] no more of works: otherwise grace is no more grace. But if [it be] of works, then is it no more grace: otherwise work is no more work.
 <small><sub>**BSB:**</sub></small>
 And if it is by grace, then it is no longer by works. Otherwise, grace would no longer be grace.
 <small><sub>**Literal:**</sub></small>
 If now by grace no longer from works, otherwise <the> grace no longer would be grace if now from works no longer is grace since the work no longer is work.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.5|<< Romans 11:5]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.7|Romans 11:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

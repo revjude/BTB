@@ -1,12 +1,12 @@
-**Luke 9:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:14**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company.
 <small><sub>**BSB:**</sub></small>
 (There were about five thousand men.) He told His disciples, “Have them sit down in groups of about fifty each.”
 <small><sub>**Literal:**</sub></small>
 They were for about men five thousand. He said then to the disciples of Him; do make sit down them groups of about in fifty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.13|<< Luke 9:13]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.15|Luke 9:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

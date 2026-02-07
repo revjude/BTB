@@ -1,4 +1,4 @@
-**Isaiah 61:2** 
+**Isaiah 61:2**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ to proclaim the year of the LORD’s favor and the day of our God’s vengeance,
 > $\quad$ referenced by: [[Matt.11.5|Matt 11:5]] ☩ [[Luke.4.18|Luke 4:18-19]] ☩ [[Luke.7.22|Luke 7:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to proclaim  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7121I\|קְרֹ֤א]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.Ro'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a year of  |**<big>&#8207;[[H8141\|שְׁנַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.nat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

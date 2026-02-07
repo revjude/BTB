@@ -1,10 +1,7 @@
 **LXX Genesis 31:40** 
 <small><sub>**LXX:**</sub></small>
 I was  burning with the sweltering heat by day, and with the icy coldness of the night. And my sleep departed from  my eyes. 
-<small><sub>**KJV:**</sub></small>
-[Thus] I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
-<small><sub>**BSB:**</sub></small>
-As it was, the heat consumed me by day and the frost by night, and sleep fled from my eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.39|<< Genesis 31:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.41|Genesis 31:41 >>]]</td></tr></table>
 
 | Translation | Greek |

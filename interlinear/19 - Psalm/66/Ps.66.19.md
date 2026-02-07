@@ -1,4 +1,4 @@
-**Psalms 66:19** 
+**Psalms 66:19**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] verily God hath heard [me]; he hath attended to the voice of my prayer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But God has surely heard; He has attended to the sound of my prayer.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.18|<< Psalms 66:18]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.20|Psalms 66:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0403\|אָ֭כֵן]]&#8207; </big>**| 'A.khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has heard  |**<big>&#8207;[[H8085G\|שָׁמַ֣ע]]&#8207; </big>**| sha.Ma'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Judges 5:12** 
+**Judges 5:12**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.11|<< Judges 5:11]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.13|Judges 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | awake  |**<big>&#8207;[[H5782\|עוּרִ֤י]]&#8207; </big>**| 'u.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | awake  |**<big>&#8207;[[H5782\|עוּרִי֙]]&#8207; </big>**| 'u.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

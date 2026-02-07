@@ -1,10 +1,7 @@
 **LXX Zechariah 4:4** 
 <small><sub>**LXX:**</sub></small>
 And I asked, and I said to the angel, the one speaking with me, saying, What are these, O lord? 
-<small><sub>**KJV:**</sub></small>
-So I answered and spake to the angel that talked with me, saying, What [are] these, my lord?
-<small><sub>**BSB:**</sub></small>
-“What are these, my lord?” I asked the angel who was speaking with me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.3|<< Zechariah 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.5|Zechariah 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

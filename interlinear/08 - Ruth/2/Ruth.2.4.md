@@ -1,4 +1,4 @@
-**Ruth 2:4** 
+**Ruth 2:4**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD [be] with you. And they answered him, The LORD bless thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just then Boaz arrived from Bethlehem and said to the harvesters, “The LORD be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.3|<< Ruth 2:3]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.5|Ruth 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Boaz  |**<big>&#8207;[[H1162G\|בֹ֗עַז]]&#8207; </big>**| Vo.'az<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

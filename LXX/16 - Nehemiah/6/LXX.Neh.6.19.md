@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:19** 
 <small><sub>**LXX:**</sub></small>
 And indeed the \[things\] being advantageous to him he spoke before me; and they were bringing my words to him. And Tobiah sent letters to throw me into fear. 
-<small><sub>**KJV:**</sub></small>
-Also they reported his good deeds before me, and uttered my words to him. [And] Tobiah sent letters to put me in fear.
-<small><sub>**BSB:**</sub></small>
-Moreover, these nobles kept reporting to me Tobiah’s good deeds, and they relayed my words to him. And Tobiah sent letters to intimidate me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.18|<< Nehemiah 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.1|Nehemiah 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

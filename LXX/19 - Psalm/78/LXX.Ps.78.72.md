@@ -1,10 +1,7 @@
 **LXX Psalm 78:72** 
 <small><sub>**LXX:**</sub></small>
 And he tended them in the innocence  of his heart; and in the skillfulness  of his hands he guided them. 
-<small><sub>**KJV:**</sub></small>
-So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.
-<small><sub>**BSB:**</sub></small>
-So David shepherded them with integrity of heart and guided them with skillful hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.72|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.71|<< Psalm 78:71]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.1|Psalm 79:1 >>]]</td></tr></table>
 
 | Translation | Greek |

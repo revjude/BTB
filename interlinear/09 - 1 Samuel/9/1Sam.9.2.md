@@ -1,4 +1,4 @@
-**1 Samuel 9:2** 
+**1 Samuel 9:2**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had a son, whose name [was] Saul, a choice young man, and a goodly: and [there was] not among the children of Israel a goodlier person than he: from his shoulders and upward [he was] higher than any of the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he had a son named Saul, choice and handsome, without equal among the Israel
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.1|<< 1 Samuel 9:1]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.3|1 Samuel 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to \<the> him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo<small><sup>[[HRd]]</sup></small> v-<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he belonged  |**<big>&#8207;[[H1961\|הָיָ֨ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

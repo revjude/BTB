@@ -1,10 +1,7 @@
 **LXX Leviticus 22:18** 
 <small><sub>**LXX:**</sub></small>
 Speak to Aaron and  his sons, and to all \[the\] congregation of \[the\] sons of Israel! And you shall say to them, The man, a man from the sons of Israel, or of the foreigners  lying near them among Israel, who ever should offer  his gifts according to every acknowledgment \[offering\] of theirs, or according to every choice \[offering\] of theirs, as much as they should offer \[to\] \[the\] <span class="smallcaps">lord</span> for a whole burnt-offering, 
-<small><sub>**KJV:**</sub></small>
-Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever [he be] of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the LORD for a burnt offering;
-<small><sub>**BSB:**</sub></small>
-“Speak to Aaron and his sons and all the Israelites and tell them, ‘Any man of the house of Israel or any foreign resident who presents a gift for a burnt offering to the LORD, whether to fulfill a vow or as a freewill offering,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.17|<< Leviticus 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.19|Leviticus 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

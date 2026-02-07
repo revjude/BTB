@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they entered, the king and Haman, to drink together with the queen. 
-<small><sub>**KJV:**</sub></small>
-So the king and Haman came to banquet with Esther the queen.
-<small><sub>**BSB:**</sub></small>
-So the king and Haman went to dine with Esther the queen,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.14|<< Esther 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.2|Esther 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

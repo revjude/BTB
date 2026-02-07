@@ -1,10 +1,7 @@
 **LXX Genesis 49:28** 
 <small><sub>**LXX:**</sub></small>
 All these sons of Jacob -- twelve. And these \[words\] their father said to them. And he blessed them each. According to  his blessing he blessed them. 
-<small><sub>**KJV:**</sub></small>
-All these [are] the twelve tribes of Israel: and this [is it] that their father spake unto them, and blessed them; every one according to his blessing he blessed them.
-<small><sub>**BSB:**</sub></small>
-These are the tribes of Israel, twelve in all, and this was what their father said to them. He blessed them, and he blessed each one with a suitable blessing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.27|<< Genesis 49:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.29|Genesis 49:29 >>]]</td></tr></table>
 
 | Translation | Greek |

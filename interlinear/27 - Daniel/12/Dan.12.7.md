@@ -1,4 +1,4 @@
-**Daniel 12:7** 
+**Daniel 12:7**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I heard the man clothed in linen, which [was] upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that [it shall be] for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these [things] shall be finished.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the man dressed in linen, who was above the waters of the river, raised his 
 > $\quad$ referenced by: [[Rev.12.14|Rev 12:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I heard  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H8085G\|אֶשְׁמַ֞ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Ma'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

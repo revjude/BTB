@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:9** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Ammon went forth, and deployed for war by the gatehouse of the city. And the kings, the ones coming, camped by themselves in the plain. 
-<small><sub>**KJV:**</sub></small>
-And the children of Ammon came out, and put the battle in array before the gate of the city: and the kings that were come [were] by themselves in the field.
-<small><sub>**BSB:**</sub></small>
-The Ammonites marched out and arrayed themselves for battle at the entrance to the city, while the kings who had come stayed by themselves in the open country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.8|<< 1 Chronicles 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.10|1 Chronicles 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

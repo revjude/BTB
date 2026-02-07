@@ -1,12 +1,12 @@
-**Luke 13:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:10**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he was teaching in one of the synagogues on the sabbath.
 <small><sub>**BSB:**</sub></small>
 One Sabbath Jesus was teaching in one of the synagogues,
 <small><sub>**Literal:**</sub></small>
 He was now teaching in one of the synagogues on the Sabbaths.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.9|<< Luke 13:9]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.11|Luke 13:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was |**<big>[[G1510\|Ἦν]]</big>**  |Ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

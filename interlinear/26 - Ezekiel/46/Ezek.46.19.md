@@ -1,4 +1,4 @@
-**Ezekiel 46:19** 
+**Ezekiel 46:19**<big><big>[[Ezek.46.19 The Courts for Boiling and Baking|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After he brought me through the entry, which [was] at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, behold, there [was] a place on the two sides westward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the man brought me through the entrance at the side of the gate into the ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.18|<< Ezekiel 46:18]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.20|Ezekiel 46:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יְבִיאֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.vi.'E.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the entrance  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3996\|מָּבוֹא֮]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> ma.Vo'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 41:21** 
+**Genesis 41:21**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they had eaten them up, it could not be known that they had eaten them; but they [were] still ill favoured, as at the beginning. So I awoke.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they had devoured them, however, no one could tell that they had done so; t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.20|<< Genesis 41:20]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.22|Genesis 41:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּבֹ֣אנָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

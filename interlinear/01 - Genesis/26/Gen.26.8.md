@@ -1,4 +1,4 @@
-**Genesis 26:8** 
+**Genesis 26:8**<big><big>[[Gen.26.6 Isaac Deceives Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac [was] sporting with Rebekah his wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Isaac had been there a long time, Abimelech king of the Philistines looked 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.7|<< Genesis 26:7]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.9|Genesis 26:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 47:9** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said  to Pharaoh, The days of the years  of my life which I sojourned \[are a\] hundred thirty years; small and severe have become the days of the years  of my life; they did not attain to the days of the years of the life  of my fathers, which days they sojourned. 
-<small><sub>**KJV:**</sub></small>
-And Jacob said unto Pharaoh, The days of the years of my pilgrimage [are] an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.
-<small><sub>**BSB:**</sub></small>
-“My travels have lasted 130 years,” Jacob replied. “My years have been few and hard, and they have not matched the years of the travels of my fathers.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.8|<< Genesis 47:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.10|Genesis 47:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 47:9** is...

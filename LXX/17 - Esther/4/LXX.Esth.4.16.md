@@ -1,10 +1,7 @@
 **LXX Esther 4:16** 
 <small><sub>**LXX:**</sub></small>
 In proceeding, you hold an assembly of the Jews  in Shushan, and you all fast for me! And you should not eat nor drink for three days -- night and day. And I and the handmaidens of mine shall go without food; and then I shall enter to the king contrary to the law, even if it is necessary for me to perish. 
-<small><sub>**KJV:**</sub></small>
-Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which [is] not according to the law: and if I perish, I perish.
-<small><sub>**BSB:**</sub></small>
-“Go and assemble all the Jews who can be found in Susa, and fast for me. Do not eat or drink for three days, night or day, and I and my maidens will fast as you do. After that, I will go to the king, even though it is against the law. And if I perish, I perish!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.15|<< Esther 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.17|Esther 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

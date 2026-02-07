@@ -1,4 +1,4 @@
-**Exodus 20:26** 
+**Exodus 20:26**<big><big>[[Exod.20.22 Idolatry Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you must not go up to My altar on steps, lest your nakedness be exposed on i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.25|<< Exodus 20:25]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.1|Exodus 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must go up  |**<big>&#8207;[[H5927G\|תַעֲלֶ֥ה]]&#8207; </big>**| ta.'a.Leh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

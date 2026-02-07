@@ -1,4 +1,4 @@
-**Job 9:24** 
+**Job 9:24**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, [and] who [is] he?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The earth is given into the hand of the wicked; He blindfolds its judges. If it 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.23|<< Job 9:23]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.25|Job 9:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a land  |**<big>&#8207;[[H0776G\|אֶ֤רֶץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been given  |**<big>&#8207;[[H5414G\|נִתְּנָ֬ה]]&#8207; </big>**| ni.te.Nah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

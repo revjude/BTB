@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:11** 
 <small><sub>**LXX:**</sub></small>
 In their ascending the ascent of the city, and they found young women going forth to draw water. And they say to them, Is there here the seer? 
-<small><sub>**KJV:**</sub></small>
-[And] as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?
-<small><sub>**BSB:**</sub></small>
-And as they were climbing the hill to the city, they met some young women coming out to draw water and asked, “Is the seer here?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.10|<< 1 Samuel 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.12|1 Samuel 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

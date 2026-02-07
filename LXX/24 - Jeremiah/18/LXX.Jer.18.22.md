@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:22** 
 <small><sub>**LXX:**</sub></small>
 Let there become a cry in  their houses! You shall bring upon them robbers suddenly; for they took in hand a word to seize me, and they hid snares against me. 
-<small><sub>**KJV:**</sub></small>
-Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet.
-<small><sub>**BSB:**</sub></small>
-Let a cry be heard from their houses when You suddenly bring raiders against them, for they have dug a pit to capture me and have hidden snares for my feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.21|<< Jeremiah 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.23|Jeremiah 18:23 >>]]</td></tr></table>
 
 | Translation | Greek |

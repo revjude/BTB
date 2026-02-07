@@ -1,5 +1,5 @@
-**Revelation 2:26
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:26**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:
 <small><sub>**BSB:**</sub></small>
 And to the one who overcomes and continues in My work until the end, I will give authority over the nations.
@@ -10,7 +10,7 @@ And the [one] overcoming and who is keeping until [the] end the works of Mine, I
 > $\quad$ alluding to: [[LXX.Ps.2.8|Ps 2:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

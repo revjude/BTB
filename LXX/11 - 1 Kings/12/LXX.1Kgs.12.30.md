@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:30** 
 <small><sub>**LXX:**</sub></small>
 And this account came to pass for sin. And the people went after the one unto Dan. 
-<small><sub>**KJV:**</sub></small>
-And this thing became a sin: for the people went [to worship] before the one, [even] unto Dan.
-<small><sub>**BSB:**</sub></small>
-And this thing became a sin; the people walked as far as Dan to worship before one of the calves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.29|<< 1 Kings 12:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.31|1 Kings 12:31 >>]]</td></tr></table>
 
 | Translation | Greek |

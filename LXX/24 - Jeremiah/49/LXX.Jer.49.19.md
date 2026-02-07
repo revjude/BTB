@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:19** 
 <small><sub>**LXX:**</sub></small>
 Behold, as a lion he shall ascend from out of \[the\] midst of the Jordan unto \[the\] place of Aitham. For quickly I will drive them from her. And you set the young men against her! For who \[is\] as I? And who shall oppose me? And who \[is\] this shepherd who shall stand in front of me? 
-<small><sub>**KJV:**</sub></small>
-Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who [is] a chosen [man, that] I may appoint over her? for who [is] like me? and who will appoint me the time? and who [is] that shepherd that will stand before me?
-<small><sub>**BSB:**</sub></small>
-Behold, one will come up like a lion from the thickets of the Jordan to the watered pasture. For in an instant I will chase Edom from her land. Who is the chosen one I will appoint for this? For who is like Me, and who can challenge Me? What shepherd can stand against Me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.18|<< Jeremiah 49:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.20|Jeremiah 49:20 >>]]</td></tr></table>
 
 | Translation | Greek |

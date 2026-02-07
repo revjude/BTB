@@ -1,4 +1,4 @@
-**Psalms 54:3** (54:5)
+**Psalms 54:3**<big><big>[[Ps.54.1 Save Me by Your Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For strangers rise up against me, and ruthless men seek my life—men with no re
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.54.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54.2|<< Psalms 54:2]]</td><td align="center" style="border:none;">[[Ps.54|Psalms 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.4|Psalms 54:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strangers  |**<big>&#8207;[[H2114A\|זָרִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

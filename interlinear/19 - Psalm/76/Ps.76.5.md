@@ -1,4 +1,4 @@
-**Psalms 76:5** (76:6)
+**Psalms 76:5**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The valiant lie plundered; they sleep their last sleep. No men of might could li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.4|<< Psalms 76:4]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.6|Psalms 76:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they were plundered  |**<big>&#8207;[[H7997B\|אֶשְׁתּוֹלְל֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'esh.to.Lu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [people] mighty of  |**<big>&#8207;[[H0047I\|אַבִּ֣ירֵי]]&#8207; </big>**| 'a.Bi.rei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

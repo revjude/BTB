@@ -1,4 +1,4 @@
-**2 Kings 24:13** 
+**2 Kings 24:13**<big><big>[[2Kgs.24.10 The Captivity of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he carried out thence all the treasures of the house of the LORD, and the treasures of the king’s house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, as the LORD had said.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the LORD had declared, Nebuchadnezzar also carried off all the treasures from
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.12|<< 2 Kings 24:12]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.14|2 Kings 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tze'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֗ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

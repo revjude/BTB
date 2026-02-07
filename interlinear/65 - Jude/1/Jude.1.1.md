@@ -1,12 +1,12 @@
-**Jude 1:1
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:1**<big><big>[[Jude.1.1 A Greeting from Jude|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, [and] called:
 <small><sub>**BSB:**</sub></small>
 Jude, a servant of Jesus Christ and a brother of James, To those who are called, loved by God the Father, and kept in Jesus Christ:
 <small><sub>**Literal:**</sub></small>
 Jude of Jesus Christ servant, brother then of James, To those in God [the] Father loved and in Jesus Christ kept called;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.15|<< 3 John 1:15]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.2|Jude 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jude |**<big>[[G2455I\|Ἰούδας]]</big>**  |Ioudas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Jesus |**<big>[[G2424G\|Ἰησοῦ]]</big>**  |Iēsou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

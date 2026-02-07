@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:44** 
 <small><sub>**LXX:**</sub></small>
 This one shall lend to you, but you shall not lend to this one; this one will be for \[the\] head, and you will be for \[the\] tail. 
-<small><sub>**KJV:**</sub></small>
-He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.
-<small><sub>**BSB:**</sub></small>
-He will lend to you, but you will not lend to him. He will be the head, and you will be the tail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.43|<< Deuteronomy 28:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.45|Deuteronomy 28:45 >>]]</td></tr></table>
 
 | Translation | Greek |

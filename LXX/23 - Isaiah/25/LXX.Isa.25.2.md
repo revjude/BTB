@@ -1,10 +1,7 @@
 **LXX Isaiah 25:2** 
 <small><sub>**LXX:**</sub></small>
 For you made cities into \[a heap of\] embankments, cities fortified  to not fall of their  foundations. \[The\] city of the impious in no way should be built for the eon. 
-<small><sub>**KJV:**</sub></small>
-For thou hast made of a city an heap; [of] a defenced city a ruin: a palace of strangers to be no city; it shall never be built.
-<small><sub>**BSB:**</sub></small>
-Indeed, You have made the city a heap of rubble, the fortified town a ruin. The fortress of strangers is a city no more; it will never be rebuilt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.1|<< Isaiah 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.3|Isaiah 25:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  that day, says \[the\] <span class="smallcaps">lord</span>, I will gather together \[her\] being broken, and \[her\] being thrust away. I will take in even whom I thrusted away. 
-<small><sub>**KJV:**</sub></small>
-In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;
-<small><sub>**BSB:**</sub></small>
-“On that day,” declares the LORD, “I will gather the lame; I will assemble the outcast, even those whom I have afflicted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.5|<< Micah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.7|Micah 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

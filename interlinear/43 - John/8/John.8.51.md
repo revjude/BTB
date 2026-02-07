@@ -1,12 +1,12 @@
-**John 8:51
-**<small><sub>**KJV:**</sub></small>
+**John 8:51**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, If a man keep my saying, he shall never see death.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, if anyone keeps My word, he will never see death.”
 <small><sub>**Literal:**</sub></small>
 Amen Amen I say to you; if anyone <the> My word <the> shall keep, death certainly not shall he see to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.50|<< John 8:50]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.52|John 8:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|Ἀμὴν]]</big>**  |Amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

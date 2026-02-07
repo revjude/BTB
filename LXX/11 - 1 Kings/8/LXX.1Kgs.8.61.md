@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:61** 
 <small><sub>**LXX:**</sub></small>
 And our hearts be perfect to \[the\] <span class="smallcaps">lord</span>  our God!  to go sacredly by  his orders, and to keep  his commandments as  this day. 
-<small><sub>**KJV:**</sub></small>
-Let your heart therefore be perfect with the LORD our God, to walk in his statutes, and to keep his commandments, as at this day.
-<small><sub>**BSB:**</sub></small>
-So let your heart be fully devoted to the LORD our God, as it is this day, to walk in His statutes and to keep His commandments.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.60|<< 1 Kings 8:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.62|1 Kings 8:62 >>]]</td></tr></table>
 
 | Translation | Greek |

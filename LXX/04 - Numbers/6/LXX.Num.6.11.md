@@ -1,10 +1,7 @@
 **LXX Numbers 6:11** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall offer one for a sin \[offering\], and one for a whole burnt-offering; and the priest shall atone for him, for of which he sinned concerning \[touching\] the \[dead\] soul, and he shall sanctify  his head in that  day, 
-<small><sub>**KJV:**</sub></small>
-And the priest shall offer the one for a sin offering, and the other for a burnt offering, and make an atonement for him, for that he sinned by the dead, and shall hallow his head that same day.
-<small><sub>**BSB:**</sub></small>
-And the priest is to offer one as a sin offering and the other as a burnt offering to make atonement for him, because he has sinned by being in the presence of the dead body. On that day he must consecrate his head again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.10|<< Numbers 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.12|Numbers 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

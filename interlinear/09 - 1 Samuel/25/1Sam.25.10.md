@@ -1,4 +1,4 @@
-**1 Samuel 25:10** 
+**1 Samuel 25:10**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nabal answered David’s servants, and said, Who [is] David? and who [is] the son of Jesse? there be many servants now a days that break away every man from his master.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Nabal asked them, “Who is David? Who is this son of Jesse? Many servants t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.9|<< 1 Samuel 25:9]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.11|1 Samuel 25:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֨עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nabal  |**<big>&#8207;[[H5037\|נָבָ֜ל]]&#8207; </big>**| na.Val<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

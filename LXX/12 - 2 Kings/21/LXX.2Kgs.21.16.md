@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:16** 
 <small><sub>**LXX:**</sub></small>
 And indeed Manasseh poured out exceedingly much innocent blood, until of which he filled  Jerusalem \[of it\] mouth to mouth; outside of  his sins, which he led Judah into sin,  to do the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Moreover Manasseh shed innocent blood very much, till he had filled Jerusalem from one end to another; beside his sin wherewith he made Judah to sin, in doing [that which was] evil in the sight of the LORD.
-<small><sub>**BSB:**</sub></small>
-Moreover, Manasseh shed so much innocent blood that he filled Jerusalem from end to end, in addition to the sin that he had caused Judah to commit, doing evil in the sight of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.15|<< 2 Kings 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.17|2 Kings 21:17 >>]]</td></tr></table>
 
 | Translation | Greek |

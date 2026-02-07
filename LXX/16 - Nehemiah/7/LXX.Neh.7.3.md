@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:3** 
 <small><sub>**LXX:**</sub></small>
 that I said to them, \[The\] gates of Jerusalem shall not be opened until at the same time the sun \[rises\]; and while they are still vigilant the doors be locked and be safeguarded! And you set advance guards of ones living in Jerusalem, \[every\] man at his own post, and \[every\] man before his own house! 
-<small><sub>**KJV:**</sub></small>
-And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar [them]: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one [to be] over against his house.
-<small><sub>**BSB:**</sub></small>
-And I told them, “Do not open the gates of Jerusalem until the sun is hot. While the guards are on duty, keep the doors shut and securely fastened. And appoint the residents of Jerusalem as guards, some at their posts and some at their own homes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.2|<< Nehemiah 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.4|Nehemiah 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Corinthians 7:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 7:1**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
 <small><sub>**BSB:**</sub></small>
 Therefore, beloved, since we have these promises, let us cleanse ourselves from everything that defiles body and spirit, perfecting holiness in the fear of God.
 <small><sub>**Literal:**</sub></small>
 These therefore having <the> promises, beloved, we may cleanse ourselves from every defilement of flesh and spirit perfecting holiness in [the] fear of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.18|<< 2 Corinthians 6:18]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.2|2 Corinthians 7:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|Ταύτας]]</big>**  |Tautas <small><sup>[[D-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

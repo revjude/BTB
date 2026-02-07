@@ -1,4 +1,4 @@
-**Ezekiel 6:6** 
+**Ezekiel 6:6**<big><big>[[Ezek.6.1 Judgment against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In all your dwellingplaces the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wherever you live, the cities will be laid waste and the high places will be dem
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.5|<< Ezekiel 6:5]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.7|Ezekiel 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dwelling places your  |**<big>&#8207;[[H4186\|מוֹשְׁב֣וֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| mo.she.Vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

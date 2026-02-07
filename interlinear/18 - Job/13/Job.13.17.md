@@ -1,4 +1,4 @@
-**Job 13:17** 
+**Job 13:17**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear diligently my speech, and my declaration with your ears.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen carefully to my words; let my declaration ring in your ears.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.16|<< Job 13:16]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.18|Job 13:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שִׁמְע֣וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | completely [to] \<to listen>  |**<big>&#8207;[[H8085G\|שָׁ֭מוֹעַ]]&#8207; </big>**| Sha.mo.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

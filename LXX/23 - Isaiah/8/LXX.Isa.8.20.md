@@ -1,10 +1,7 @@
 **LXX Isaiah 8:20** 
 <small><sub>**LXX:**</sub></small>
 For he gave \[the\] law for a help, that they should speak not as  this saying, concerning of which there are no gifts to give for it. 
-<small><sub>**KJV:**</sub></small>
-To the law and to the testimony: if they speak not according to this word, [it is] because [there is] no light in them.
-<small><sub>**BSB:**</sub></small>
-To the law and to the testimony! If they do not speak according to this word, they have no light of dawn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.19|<< Isaiah 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.21|Isaiah 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

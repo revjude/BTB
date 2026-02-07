@@ -1,4 +1,4 @@
-**Ezekiel 19:4** 
+**Ezekiel 19:4**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the nations heard of him, he was trapped in their pit. With hooks they led 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.3|<< Ezekiel 19:3]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.5|Ezekiel 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמְע֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.me.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | concerning it  |**<big>&#8207;[[H0413\|אֵלָ֛י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

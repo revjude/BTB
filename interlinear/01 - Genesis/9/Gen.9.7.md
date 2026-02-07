@@ -1,4 +1,4 @@
-**Genesis 9:7** 
+**Genesis 9:7**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as for you, be fruitful and multiply; spread out across the earth and multip
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.6|<< Genesis 9:6]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.8|Genesis 9:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be fruitful  |**<big>&#8207;[[H6509\|פְּר֣וּ]]&#8207; </big>**| pe.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

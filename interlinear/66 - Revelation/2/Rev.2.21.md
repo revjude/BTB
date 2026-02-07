@@ -1,12 +1,12 @@
-**Revelation 2:21
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:21**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I gave her space to repent of her fornication; and she repented not.
 <small><sub>**BSB:**</sub></small>
 Even though I have given her time to repent of her immorality, she is unwilling.
 <small><sub>**Literal:**</sub></small>
 And I have given to her time that she may repent and not she is willing to repent of the sexual immorality of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.20|<< Revelation 2:20]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.22|Revelation 2:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have given |**<big>[[G1325\|ἔδωκα]]</big>**  |edōka <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

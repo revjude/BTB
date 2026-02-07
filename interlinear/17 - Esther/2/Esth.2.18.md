@@ -1,4 +1,4 @@
-**Esther 2:18** 
+**Esther 2:18**<big><big>[[Esth.2.17 Esther Becomes Queen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king made a great feast unto all his princes and his servants, [even] Esther’s feast; and he made a release to the provinces, and gave gifts, according to the state of the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the king held a great banquet, Esther’s banquet, for all his officials an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.17|<< Esther 2:17]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.19|Esther 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213I\|יַּ֨עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֜לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

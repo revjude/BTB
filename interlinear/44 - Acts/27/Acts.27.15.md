@@ -1,12 +1,12 @@
-**Acts 27:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:15**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the ship was caught, and could not bear up into the wind, we let [her] drive.
 <small><sub>**BSB:**</sub></small>
 Unable to head into the wind, the ship was caught up. So we gave way and let ourselves be driven along.
 <small><sub>**Literal:**</sub></small>
 When was being seized then the ship and not being able to face to the wind having given way we were driven along.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.14|<< Acts 27:14]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.16|Acts 27:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was being seized |**<big>[[G4884\|συναρπασθέντος]]</big>**  |sunarpasthentos <small><sup>[[V-APP-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

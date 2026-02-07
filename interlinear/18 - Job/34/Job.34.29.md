@@ -1,4 +1,4 @@
-**Job 34:29** 
+**Job 34:29**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he giveth quietness, who then can make trouble? and when he hideth [his] face, who then can behold him? whether [it be done] against a nation, or against a man only:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when He remains silent, who can condemn Him? When He hides His face, who can
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.28|<< Job 34:28]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.30|Job 34:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֤וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will keep quiet  |**<big>&#8207;[[H8252\|יַשְׁקִ֨ט]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yash.Kit<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

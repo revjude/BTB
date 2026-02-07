@@ -1,10 +1,7 @@
 **LXX Genesis 40:12** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to him, This \[is\] the interpretation of it. The three lower branches are three days. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto him, This [is] the interpretation of it: The three branches [are] three days:
-<small><sub>**BSB:**</sub></small>
-Joseph replied, “This is the interpretation: The three branches are three days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.11|<< Genesis 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.13|Genesis 40:13 >>]]</td></tr></table>
 
 | Translation | Greek |

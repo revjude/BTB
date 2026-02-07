@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, you dwell in \[the\] midst of their iniquities, the ones who have eyes  to see, and do not see; and have ears  to hear, and do not hear. For it is a rebelling house. 
-<small><sub>**KJV:**</sub></small>
-Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they [are] a rebellious house.
-<small><sub>**BSB:**</sub></small>
-“Son of man, you are living in a rebellious house. They have eyes to see but do not see, and ears to hear but do not hear, for they are a rebellious house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.1|<< Ezekiel 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.3|Ezekiel 12:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 12:2** is...

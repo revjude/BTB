@@ -1,4 +1,4 @@
-**Ezra 4:24** 
+**Ezra 4:24**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ceased the work of the house of God which [is] at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the construction of the house of God in Jerusalem ceased, and it remained a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.23|<< Ezra 4:23]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.1|Ezra 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֗יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it ceased  |**<big>&#8207;[[H0989\|בְּטֵלַת֙]]&#8207; </big>**| be.te.Lat<small><sup>[[AVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

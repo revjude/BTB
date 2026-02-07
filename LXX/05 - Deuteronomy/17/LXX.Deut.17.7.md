@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:7** 
 <small><sub>**LXX:**</sub></small>
 And the hand of the witnesses shall be upon him among \[the\] first to put him to death, and the hand of all of the people upon \[him\] last. And you shall lift away the wicked \[thing\] of them from you. 
-<small><sub>**KJV:**</sub></small>
-The hands of the witnesses shall be first upon him to put him to death, and afterward the hands of all the people. So thou shalt put the evil away from among you.
-<small><sub>**BSB:**</sub></small>
-The hands of the witnesses shall be the first in putting him to death, and after that, the hands of all the people. So you must purge the evil from among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.6|<< Deuteronomy 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.8|Deuteronomy 17:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 17:7** is...

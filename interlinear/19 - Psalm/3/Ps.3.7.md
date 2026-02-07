@@ -1,4 +1,4 @@
-**Psalms 3:7** (3:8)
+**Psalms 3:7**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies [upon] the cheek bone; thou hast broken the teeth of the ungodly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arise, O LORD! Save me, O my God! Strike all my enemies on the jaw; break the te
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.6|<< Psalms 3:6]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.8|Psalms 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise !  |**<big>&#8207;[[H6965B\|ק֘וּמָ֤]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ku.Ma<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

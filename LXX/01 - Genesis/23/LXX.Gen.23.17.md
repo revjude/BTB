@@ -1,10 +1,7 @@
 **LXX Genesis 23:17** 
 <small><sub>**LXX:**</sub></small>
 And the field which is of Ephron was in  Double Cave, which is against \[the\] face of Mamre. The field and the cave which was in it, and every tree which was in the field, which is in  \[its\] borders round about, 
-<small><sub>**KJV:**</sub></small>
-And the field of Ephron, which [was] in Machpelah, which [was] before Mamre, the field, and the cave which [was] therein, and all the trees that [were] in the field, that [were] in all the borders round about, were made sure
-<small><sub>**BSB:**</sub></small>
-So Ephron’s field at Machpelah near Mamre, the cave that was in it, and all the trees within the boundaries of the field were deeded over<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.16|<< Genesis 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.18|Genesis 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

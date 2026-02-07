@@ -1,10 +1,7 @@
 **LXX Psalm 31:8** 
 <small><sub>**LXX:**</sub></small>
 and you did not close me up by hands of enemies. You set my feet in a broad space. 
-<small><sub>**KJV:**</sub></small>
-And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room.
-<small><sub>**BSB:**</sub></small>
-You have not delivered me to the enemy; You have set my feet in the open.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.7|<< Psalm 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.9|Psalm 31:9 >>]]</td></tr></table>
 
 | Translation | Greek |

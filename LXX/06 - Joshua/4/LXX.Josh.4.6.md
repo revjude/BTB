@@ -1,10 +1,7 @@
 **LXX Joshua 4:6** 
 <small><sub>**LXX:**</sub></small>
 That these should exist to you for a sign, being situated always; that whenever your son should ask you tomorrow, saying, What are  these stones to you? 
-<small><sub>**KJV:**</sub></small>
-That this may be a sign among you, [that] when your children ask [their fathers] in time to come, saying, What [mean] ye by these stones?
-<small><sub>**BSB:**</sub></small>
-to serve as a sign among you. In the future, when your children ask, ‘What do these stones mean to you?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.5|<< Joshua 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.7|Joshua 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

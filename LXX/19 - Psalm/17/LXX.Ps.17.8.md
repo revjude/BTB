@@ -1,10 +1,7 @@
 **LXX Psalm 17:8** 
 <small><sub>**LXX:**</sub></small>
 Guard me, O <span class="smallcaps">lord</span>, as \[the\] pupil of \[the\] eye! Under \[the\] protection  of your wings shelter me! 
-<small><sub>**KJV:**</sub></small>
-Keep me as the apple of the eye, hide me under the shadow of thy wings,
-<small><sub>**BSB:**</sub></small>
-Keep me as the apple of Your eye; hide me in the shadow of Your wings<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.7|<< Psalm 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.9|Psalm 17:9 >>]]</td></tr></table>
 
 | Translation | Greek |

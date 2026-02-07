@@ -1,4 +1,4 @@
-**Exodus 23:7** 
+**Exodus 23:7**<big><big>[[Exod.23.1 Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Stay far away from a false accusation. Do not kill the innocent or the just, for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.6|<< Exodus 23:6]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.8|Exodus 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from a word of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1697G\|דְּבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | falsehood  |**<big>&#8207;[[H8267\|שֶׁ֖קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

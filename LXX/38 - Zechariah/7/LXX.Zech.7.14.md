@@ -1,10 +1,7 @@
 **LXX Zechariah 7:14** 
 <small><sub>**LXX:**</sub></small>
 And I will cast them into all the nations which they did not know. And the land shall be obliterated after them from traveling, and from returning \[through it\]. Yes, they ordered up the choice land for extinction. 
-<small><sub>**KJV:**</sub></small>
-But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.
-<small><sub>**BSB:**</sub></small>
-But I scattered them with a whirlwind among all the nations that they had not known, and the land was left desolate behind them so that no one could come or go. Thus they turned the pleasant land into a desolation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.13|<< Zechariah 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.1|Zechariah 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 31:5** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, I see the face  of your father, that it is not towards me as yesterday and \[the\] third day \[before\]. But the God  of my father was with me. 
-<small><sub>**KJV:**</sub></small>
-And said unto them, I see your father’s countenance, that it [is] not toward me as before; but the God of my father hath been with me.
-<small><sub>**BSB:**</sub></small>
-and he told them, “I can see from your father’s countenance that his attitude toward me has changed; but the God of my father has been with me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.4|<< Genesis 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.6|Genesis 31:6 >>]]</td></tr></table>
 
 | Translation | Greek |

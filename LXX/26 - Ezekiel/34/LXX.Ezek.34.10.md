@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:10** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against the shepherds, and I will require  my sheep from out of  their hands. And I will turn them away  to not tend  my sheep, and the shepherds shall not graze them any longer. And I shall rescue  my sheep from out of  their mouth, and they will not be themselves any longer for a thing devoured. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; Behold, I [am] against the shepherds; and I will require my flock at their hand, and cause them to cease from feeding the flock; neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘Behold, I am against the shepherds, and I will demand from them My flock and remove them from tending the flock, so that they can no longer feed themselves. For I will deliver My flock from their mouths, and it will no longer be food for them.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.9|<< Ezekiel 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.11|Ezekiel 34:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 34:10** is...

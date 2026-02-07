@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:12** 
 <small><sub>**LXX:**</sub></small>
 a land which \[the\] <span class="smallcaps">lord</span>  your God oversees it always, \[as\] the eyes of \[the\] <span class="smallcaps">lord</span>  your God \[are\] upon it from \[the\] beginning of the year and until \[the\] completion of the year. 
-<small><sub>**KJV:**</sub></small>
-A land which the LORD thy God careth for: the eyes of the LORD thy God [are] always upon it, from the beginning of the year even unto the end of the year.
-<small><sub>**BSB:**</sub></small>
-It is a land for which the LORD your God cares; the eyes of the LORD your God are always on it, from the beginning to the end of the year.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.11|<< Deuteronomy 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.13|Deuteronomy 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

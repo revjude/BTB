@@ -1,4 +1,4 @@
-**Ezekiel 32:17** 
+**Ezekiel 32:17**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It came to pass also in the twelfth year, in the fifteenth [day] of the month, [that] the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the twelfth year, on the fifteenth day of the month, the word of the LORD cam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.16|<< Ezekiel 32:16]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.18|Ezekiel 32:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in two [plus]  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8147\|שְׁתֵּ֣י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 34:8** 
 <small><sub>**LXX:**</sub></small>
 And Hamor spoke to them, saying, Shechem  my son prefers your daughter in \[his\] soul. Give her then to him \[as\] wife! 
-<small><sub>**KJV:**</sub></small>
-And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife.
-<small><sub>**BSB:**</sub></small>
-But Hamor said to them, “My son Shechem longs for your daughter. Please give her to him as his wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.7|<< Genesis 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.9|Genesis 34:9 >>]]</td></tr></table>
 
 | Translation | Greek |

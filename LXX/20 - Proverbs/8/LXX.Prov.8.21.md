@@ -1,10 +1,7 @@
 **LXX Proverbs 8:21** 
 <small><sub>**LXX:**</sub></small>
 that I shall portion substance to the ones loving me; and  their treasuries I shall fill up of good \[things\]. If I should announce to you the \[things\] happening each day, I will remember \[also\] to count the \[things\] of \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-That I may cause those that love me to inherit substance; and I will fill their treasures.
-<small><sub>**BSB:**</sub></small>
-bestowing wealth on those who love me and making their treasuries full.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.20|<< Proverbs 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.22|Proverbs 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

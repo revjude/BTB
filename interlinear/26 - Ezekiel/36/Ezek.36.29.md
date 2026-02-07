@@ -1,4 +1,4 @@
-**Ezekiel 36:29** 
+**Ezekiel 36:29**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also save you from all your uncleannesses: and I will call for the corn, and will increase it, and lay no famine upon you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will save you from all your uncleanness. I will summon the grain and make it p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.28|<< Ezekiel 36:28]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.30|Ezekiel 36:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will save  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3467\|הוֹשַׁעְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.sha'.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֔ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

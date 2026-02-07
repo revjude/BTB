@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:16** 
 <small><sub>**LXX:**</sub></small>
 And to the priests and to all  this people I spoke, saying, Thus said \[the\] <span class="smallcaps">lord</span>, Do not hearken to the words of the prophets  prophesying to you! saying, Behold, \[the\] items of \[the\] house of \[the\] <span class="smallcaps">lord</span> shall return from out of Babylon now quickly. For they prophesy unjustly to you. 
-<small><sub>**KJV:**</sub></small>
-Also I spake to the priests and to all this people, saying, Thus saith the LORD; Hearken not to the words of your prophets that prophesy unto you, saying, Behold, the vessels of the LORD’S house shall now shortly be brought again from Babylon: for they prophesy a lie unto you.
-<small><sub>**BSB:**</sub></small>
-Then I said to the priests and to all this people, “This is what the LORD says: Do not listen to the words of your prophets who prophesy to you, saying, ‘Look, very soon now the articles from the house of the LORD will be brought back from Babylon.’ They are prophesying to you a lie.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.15|<< Jeremiah 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.17|Jeremiah 27:17 >>]]</td></tr></table>
 
 | Translation | Greek |

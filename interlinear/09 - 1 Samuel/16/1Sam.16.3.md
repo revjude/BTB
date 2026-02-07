@@ -1,4 +1,4 @@
-**1 Samuel 16:3** 
+**1 Samuel 16:3**<big><big>[[1Sam.16.1 Samuel Anoints David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And call Jesse to the sacrifice, and I will shew thee what thou shalt do: and thou shalt anoint unto me [him] whom I name unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then invite Jesse to the sacrifice, and I will show you what you are to do. You 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.2|<< 1 Samuel 16:2]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.4|1 Samuel 16:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will invite  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121G\|קָרָ֥אתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.Ra.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> Jesse  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3448\|יִשַׁ֖י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> yi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

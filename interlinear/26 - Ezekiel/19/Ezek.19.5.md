@@ -1,4 +1,4 @@
-**Ezekiel 19:5** 
+**Ezekiel 19:5**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when she saw that she had waited, [and] her hope was lost, then she took another of her whelps, [and] made him a young lion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When she saw that she had waited in vain, that her hope was lost, she took anoth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.4|<< Ezekiel 19:4]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.6|Ezekiel 19:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תֵּ֙רֶא֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.re'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

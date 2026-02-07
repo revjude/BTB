@@ -1,5 +1,5 @@
-**Acts 7:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:35**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send [to be] a ruler and a deliverer by the hand of the angel which appeared to him in the bush.
 <small><sub>**BSB:**</sub></small>
 This Moses, whom they had rejected with the words, ‘Who made you ruler and judge?’ is the one whom God sent to be their ruler and redeemer through the angel who appeared to him in the bush.
@@ -11,7 +11,7 @@ This <the> Moses whom they rejected having said; Who you appointed ruler and jud
 > $\quad$ alluding to: [[LXX.Exod.3.15|Exod 3:15-18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Τοῦτον]]</big>**  |Touton <small><sup>[[D-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

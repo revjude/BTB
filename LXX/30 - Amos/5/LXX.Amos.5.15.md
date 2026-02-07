@@ -1,10 +1,7 @@
 **LXX Amos 5:15** 
 <small><sub>**LXX:**</sub></small>
 We have detested the evil \[things\], and we loved the good \[things\]. Then restore judgment in \[the\] gates! so that \[the\] <span class="smallcaps">lord</span> God almighty should show mercy on the residue of Joseph. 
-<small><sub>**KJV:**</sub></small>
-Hate the evil, and love the good, and establish judgment in the gate: it may be that the LORD God of hosts will be gracious unto the remnant of Joseph.
-<small><sub>**BSB:**</sub></small>
-Hate evil and love good; establish justice in the gate. Perhaps the LORD, the God of Hosts, will be gracious to the remnant of Joseph.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.14|<< Amos 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.16|Amos 5:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Amos 5:15** is...

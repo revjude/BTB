@@ -1,4 +1,4 @@
-**Psalms 135:15** 
+**Psalms 135:15**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The idols of the heathen [are] silver and gold, the work of men’s hands.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The idols of the nations are silver and gold, made by the hands of men.
 > $\quad$ referenced by: [[Rev.9.20|Rev 9:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] idols of  |**<big>&#8207;[[H6091\|עֲצַבֵּ֣י]]&#8207; </big>**| 'a.tza.Bei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the nations  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H1471A\|גּוֹיִם]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> go.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

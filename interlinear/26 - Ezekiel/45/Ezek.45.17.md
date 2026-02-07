@@ -1,4 +1,4 @@
-**Ezekiel 45:17** 
+**Ezekiel 45:17**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be the prince’s part [to give] burnt offerings, and meat offerings, and drink offerings, in the feasts, and in the new moons, and in the sabbaths, in all solemnities of the house of Israel: he shall prepare the sin offering, and the meat offering, and the burnt offering, and the peace offerings, to make reconciliation for the house of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And it shall be the prince’s part to provide the burnt offerings, grain offeri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.16|<< Ezekiel 45:16]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.18|Ezekiel 45:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prince  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5387A\|נָּשִׂ֣יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

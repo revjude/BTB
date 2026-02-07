@@ -1,4 +1,4 @@
-**Ezekiel 37:20** 
+**Ezekiel 37:20**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sticks whereon thou writest shall be in thine hand before their eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the sticks on which you write are in your hand and in full view of the peop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.19|<< Ezekiel 37:19]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.21|Ezekiel 37:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the pieces of wood  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6086I\|עֵצִ֜ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

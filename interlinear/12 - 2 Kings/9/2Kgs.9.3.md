@@ -1,4 +1,4 @@
-**2 Kings 9:3** 
+**2 Kings 9:3**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then take the box of oil, and pour [it] on his head, and say, Thus saith the LORD, I have anointed thee king over Israel. Then open the door, and flee, and tarry not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then take the flask of oil, pour it on his head, and declare, ‘This is what th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.2|<< 2 Kings 9:2]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.4|2 Kings 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתָּ֤]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] flask of  |**<big>&#8207;[[H6378\|פַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fakh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

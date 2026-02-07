@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:19** 
 <small><sub>**LXX:**</sub></small>
 And it shall be with him, and he shall read in it all the days  of his life; that he should learn to fear \[the\] <span class="smallcaps">lord</span>  his God, to guard all  these commandments, and  to do these ordinances; 
-<small><sub>**KJV:**</sub></small>
-And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them:
-<small><sub>**BSB:**</sub></small>
-It is to remain with him, and he is to read from it all the days of his life, so that he may learn to fear the LORD his God by carefully observing all the words of this instruction and these statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.18|<< Deuteronomy 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.20|Deuteronomy 17:20 >>]]</td></tr></table>
 
 | Translation | Greek |

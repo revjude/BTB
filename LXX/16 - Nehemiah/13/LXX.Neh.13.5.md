@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:5** 
 <small><sub>**LXX:**</sub></small>
 And he made for him a great treasury, and there they were formerly giving the sacrifice \[offering\], and the frankincense, and the vessels, and the tenth of the grain, and of the wine, and of the olive oil, a commandment of the Levites, and of the singers, and of the gatekeepers, and \[the\] first-fruits of the priests. 
-<small><sub>**KJV:**</sub></small>
-And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded [to be given] to the Levites, and the singers, and the porters; and the offerings of the priests.
-<small><sub>**BSB:**</sub></small>
-and had prepared for Tobiah a large room where they had previously stored the grain offerings, the frankincense, the temple articles, and the tithes of grain, new wine, and oil prescribed for the Levites, singers, and gatekeepers, along with the contributions for the priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.4|<< Nehemiah 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.6|Nehemiah 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

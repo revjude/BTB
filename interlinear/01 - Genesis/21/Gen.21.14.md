@@ -1,4 +1,4 @@
-**Genesis 21:14** 
+**Genesis 21:14**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave [it] unto Hagar, putting [it] on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beersheba.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Early in the morning, Abraham got up, took bread and a skin of water, put them o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.13|<< Genesis 21:13]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.15|Genesis 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rose early  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7925\|יַּשְׁכֵּ֣ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֣ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

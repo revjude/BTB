@@ -1,5 +1,5 @@
-**Revelation 11:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:1**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
 <small><sub>**BSB:**</sub></small>
 Then I was given a measuring rod like a staff and was told, “Go and measure the temple of God and the altar, and count the number of worshipers there.
@@ -10,7 +10,7 @@ And was given to me a measuring rod like as a staff saying; do rise and do measu
 > $\quad$ possibly alluding to: [[LXX.Ezek.40.3|Ezek 40:3]] ☩ [[LXX.Ezek.40.47|Ezek 40:47]] ☩ [[LXX.Ezek.41.13|Ezek 41:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was given |**<big>[[G1325\|ἐδόθη]]</big>**  |edothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

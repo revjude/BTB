@@ -1,4 +1,4 @@
-**Exodus 16:2** 
+**Exodus 16:2**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there in the desert the whole congregation of Israel grumbled against Moses 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.1|<< Exodus 16:1]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.3|Exodus 16:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they grumbled  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3885B\|יִּלּ֜וֹנוּ]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.yi.li.nu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 39:29** 
+**Job 39:29**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From thence she seeketh the prey, [and] her eyes behold afar off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there he spies out food; his eyes see it from afar.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.28|<< Job 39:28]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.30|Job 39:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֥ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it spies out  |**<big>&#8207;[[H2658\|חָֽפַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.far-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

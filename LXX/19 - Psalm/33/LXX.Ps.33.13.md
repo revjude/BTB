@@ -1,10 +1,7 @@
 **LXX Psalm 33:13** 
 <small><sub>**LXX:**</sub></small>
 From out of heaven the <span class="smallcaps">lord</span> looks; he beholds all the sons  of men. 
-<small><sub>**KJV:**</sub></small>
-The LORD looketh from heaven; he beholdeth all the sons of men.
-<small><sub>**BSB:**</sub></small>
-The LORD looks down from heaven; He sees all the sons of men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.12|<< Psalm 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.14|Psalm 33:14 >>]]</td></tr></table>
 
 | Translation | Greek |

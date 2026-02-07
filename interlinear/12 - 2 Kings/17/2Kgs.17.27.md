@@ -1,4 +1,4 @@
-**2 Kings 17:27** 
+**2 Kings 17:27**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king of Assyria commanded, saying, Carry thither one of the priests whom ye brought from thence; and let them go and dwell there, and let him teach them the manner of the God of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the king of Assyria commanded: “Send back one of the priests you carried 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.26|<< 2 Kings 17:26]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.28|2 Kings 17:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he commanded  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6680\|יְצַ֨ו]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Tzav<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 4:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:35**<big><big>[[Luke.4.31 Jesus Expels an Unclean Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not.
 <small><sub>**BSB:**</sub></small>
 But Jesus rebuked the demon. “Be silent!” He said. “Come out of him!” At this, the demon threw the man down before them all and came out without harming him.
 <small><sub>**Literal:**</sub></small>
 And rebuked him <the> Jesus saying; do be silent and do come forth out of him! And having thrown him the demon into the midst it came out from him in nothing having hurt him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.34|<< Luke 4:34]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.36|Luke 4:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | rebuked |**<big>[[G2008\|ἐπετίμησεν]]</big>**  |epetimēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,6 +1,6 @@
 (KJV) **Malachi 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3|<< Malachi 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1|Matthew 1 >>]]</td></tr></table>
 
-***The Day of the LORD***&emsp;<small><sup>\[ [[Zeph.1|Zephaniah 1:7–18]] <big>†</big> [[1Thess.5|1 Thessalonians 5:1–11]] <big>†</big> [[2Pet.3|2 Peter 3:8–13]] ]</sup></small> ^bsb2093
+<big><big>[[Mal.4.1 The Day of the LORD|⥃]]</big></big>***The Day of the LORD***&emsp;<small><sup>\[ [[Zeph.1|Zephaniah 1:7–18]] <big>†</big> [[1Thess.5|1 Thessalonians 5:1–11]] <big>†</big> [[2Pet.3|2 Peter 3:8–13]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Mal.4.1|1]]**<span class="endversemarker">]</span> For, behold, the day<small><small>[^2]</small></small> cometh, that shall burn<small><small>[^3]</small></small> as an oven; and all the<small><small>[^4]</small></small> proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the <span class="smallcaps">Lord</span> of hosts, that it<small><small>[^5]</small></small> shall leave them neither root nor branch. 
 

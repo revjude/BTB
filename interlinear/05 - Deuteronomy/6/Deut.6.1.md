@@ -1,4 +1,4 @@
-**Deuteronomy 6:1** 
+**Deuteronomy 6:1**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do [them] in the land whither ye go to possess it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the commandments and statutes and ordinances that the LORD your God ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.33|<< Deuteronomy 5:33]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.2|Deuteronomy 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(P)</abbr> |
 | [is] the commandment  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4687\|מִּצְוָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

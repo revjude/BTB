@@ -1,12 +1,12 @@
-**2 Corinthians 2:17
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:17**<big><big>[[2Cor.2.12 Triumph in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.
 <small><sub>**BSB:**</sub></small>
 For we are not like so many others, who peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, as men sent from God.
 <small><sub>**Literal:**</sub></small>
 Not for we are like the many peddling the word <the> of God, but as of sincerity, but as of God, before <the> God in Christ we speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.16|<< 2 Corinthians 2:16]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.1|2 Corinthians 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Chronicles 13:10** 
+**2 Chronicles 13:10**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for us, the LORD [is] our God, and we have not forsaken him; and the priests, which minister unto the LORD, [are] the sons of Aaron, and the Levites [wait] upon [their] business:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as for us, the LORD is our God. We have not forsaken Him; the priests who mi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.9|<< 2 Chronicles 13:9]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.11|2 Chronicles 13:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0587\|אֲנַ֛חְנוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

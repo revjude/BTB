@@ -1,12 +1,12 @@
-**John 13:10
-**<small><sub>**KJV:**</sub></small>
+**John 13:10**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith to him, He that is washed needeth not save to wash [his] feet, but is clean every whit: and ye are clean, but not all.
 <small><sub>**BSB:**</sub></small>
 Jesus told him, “Whoever has already bathed needs only to wash his feet, and he will be completely clean. And you are clean, though not all of you.”
 <small><sub>**Literal:**</sub></small>
 Says to him <the> Jesus; The [one] having bathed himself not has need only except the feet to wash, but is clean wholly; and you yourselves clean are but not all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.9|<< John 13:9]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.11|John 13:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

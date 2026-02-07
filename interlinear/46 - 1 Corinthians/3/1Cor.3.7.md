@@ -1,12 +1,12 @@
-**1 Corinthians 3:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:7**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
 <small><sub>**BSB:**</sub></small>
 So neither he who plants nor he who waters is anything, but only God, who makes things grow.
 <small><sub>**Literal:**</sub></small>
 So neither the [one] planting is anything nor the [one] watering, but [only] the [One] giving growth — God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.6|<< 1 Corinthians 3:6]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.8|1 Corinthians 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | neither |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

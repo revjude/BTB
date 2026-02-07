@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:14** 
 <small><sub>**LXX:**</sub></small>
 And Saul sent messengers to take  David. And she spoke of him to be unwell. 
-<small><sub>**KJV:**</sub></small>
-And when Saul sent messengers to take David, she said, He [is] sick.
-<small><sub>**BSB:**</sub></small>
-When Saul sent the messengers to seize David, Michal said, “He is ill.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.13|<< 1 Samuel 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.15|1 Samuel 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

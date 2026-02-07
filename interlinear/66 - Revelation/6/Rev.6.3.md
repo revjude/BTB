@@ -1,12 +1,12 @@
-**Revelation 6:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:3**<big><big>[[Rev.6.3 The Second Seal：War|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had opened the second seal, I heard the second beast say, Come and see.
 <small><sub>**BSB:**</sub></small>
 And when the Lamb opened the second seal, I heard the second living creature say, “Come!”
 <small><sub>**Literal:**</sub></small>
 And when He opened the seal <the> second I heard the second living creature saying; do come and do heed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.2|<< Revelation 6:2]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.4|Revelation 6:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

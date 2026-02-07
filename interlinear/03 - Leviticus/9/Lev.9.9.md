@@ -1,4 +1,4 @@
-**Leviticus 9:9** 
+**Leviticus 9:9**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Aaron brought the blood unto him: and he dipped his finger in the blood, and put [it] upon the horns of the altar, and poured out the blood at the bottom of the altar:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Aaron brought the blood to him, and he dipped his finger in the bloo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.8|<< Leviticus 9:8]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.10|Leviticus 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they presented  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7126H\|יַּקְרִבוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yak.ri.vu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֨י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

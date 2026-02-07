@@ -1,4 +1,4 @@
-**Psalms 147:3** 
+**Psalms 147:3**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He healeth the broken in heart, and bindeth up their wounds.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He heals the brokenhearted and binds up their wounds.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.2|<< Psalms 147:2]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.4|Psalms 147:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who [is] healing  |**<big>&#8207;[[H9009\|הָ֭]]&#8207;&#8207;[[H7495\|רֹפֵא]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ro.fe'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> [the people] broken of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7665\|שְׁב֣וּרֵי]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Vu.rei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

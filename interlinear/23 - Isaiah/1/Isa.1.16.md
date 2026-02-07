@@ -1,4 +1,4 @@
-**Isaiah 1:16** 
+**Isaiah 1:16**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wash and cleanse yourselves. Remove your evil deeds from My sight. Stop doing ev
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.15|<< Isaiah 1:15]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.17|Isaiah 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wash  |**<big>&#8207;[[H7364\|רַחֲצוּ֙]]&#8207; </big>**| ra.cha.Tzu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cleanse yourselves  |**<big>&#8207;[[H2135\|הִזַּכּ֔וּ]]&#8207; </big>**| hi.za.Ku<small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

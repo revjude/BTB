@@ -1,10 +1,7 @@
 **LXX Leviticus 9:24** 
 <small><sub>**LXX:**</sub></small>
 And fire came forth from \[the\] <span class="smallcaps">lord</span>, and it devoured the \[things\] upon the altar, both the whole burnt-offerings and the fat. And all the people saw, and were amazed. And they fell upon their face. 
-<small><sub>**KJV:**</sub></small>
-And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: [which] when all the people saw, they shouted, and fell on their faces.
-<small><sub>**BSB:**</sub></small>
-Fire came out from the presence of the LORD and consumed the burnt offering and the fat portions on the altar. And when all the people saw it, they shouted for joy and fell facedown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.23|<< Leviticus 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.1|Leviticus 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:50** 
 <small><sub>**LXX:**</sub></small>
 a nation impudent in \[its\] face who will not admire \[the\] face of an old man, and will not show mercy for \[the\] young. 
-<small><sub>**KJV:**</sub></small>
-A nation of fierce countenance, which shall not regard the person of the old, nor shew favour to the young:
-<small><sub>**BSB:**</sub></small>
-a ruthless nation with no respect for the old and no pity for the young.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.49|<< Deuteronomy 28:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.51|Deuteronomy 28:51 >>]]</td></tr></table>
 
 | Translation | Greek |

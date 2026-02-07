@@ -1,12 +1,12 @@
-**Luke 5:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:3**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship.
 <small><sub>**BSB:**</sub></small>
 Jesus got into the boat belonging to Simon and asked him to put out a little from shore. And sitting down, He taught the people from the boat.
 <small><sub>**Literal:**</sub></small>
 Having climbed then into one of the boats which was of the Simon’s, He asked him from the land to put off a little. and Having sat down then from the boat He was teaching the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.2|<< Luke 5:2]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.4|Luke 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having climbed |**<big>[[G1684\|ἐμβὰς]]</big>**  |embas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

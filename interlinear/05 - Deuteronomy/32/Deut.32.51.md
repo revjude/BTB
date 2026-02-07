@@ -1,4 +1,4 @@
-**Deuteronomy 32:51** 
+**Deuteronomy 32:51**<big><big>[[Deut.32.48 Moses’ Death Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because ye trespassed against me among the children of Israel at the waters of MeribahKadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For at the waters of Meribah-kadesh in the Wilderness of Zin, both of you broke 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.50|<< Deuteronomy 32:50]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.52|Deuteronomy 32:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל֩]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

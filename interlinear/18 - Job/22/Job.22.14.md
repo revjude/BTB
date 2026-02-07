@@ -1,4 +1,4 @@
-**Job 22:14** 
+**Job 22:14**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thick clouds [are] a covering to him, that he seeth not; and he walketh in the circuit of heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thick clouds veil Him so He does not see us as He traverses the vault of heaven.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.13|<< Job 22:13]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.15|Job 22:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | clouds  |**<big>&#8207;[[H5645\|עָבִ֣ים]]&#8207; </big>**| 'a.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] a hiding place  |**<big>&#8207;[[H5643A\|סֵֽתֶר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.ter-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

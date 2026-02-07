@@ -1,4 +1,4 @@
-**Ezekiel 24:8** 
+**Ezekiel 24:8**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That it might cause fury to come up to take vengeance; I have set her blood upon the top of a rock, that it should not be covered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In order to stir up wrath and take vengeance, I have placed her blood on the bar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.7|<< Ezekiel 24:7]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.9|Ezekiel 24:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to stir up  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5927G\|הַעֲל֤וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.'a.Lot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rage  |**<big>&#8207;[[H2534\|חֵמָה֙]]&#8207; </big>**| che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

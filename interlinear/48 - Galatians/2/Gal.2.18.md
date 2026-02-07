@@ -1,12 +1,12 @@
-**Galatians 2:18
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:18**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if I build again the things which I destroyed, I make myself a transgressor.
 <small><sub>**BSB:**</sub></small>
 If I rebuild what I have already torn down, I prove myself to be a lawbreaker.
 <small><sub>**Literal:**</sub></small>
 If for that I had torn down, these things again I build, a transgressor myself I prove;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.17|<< Galatians 2:17]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.19|Galatians 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

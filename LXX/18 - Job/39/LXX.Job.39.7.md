@@ -1,10 +1,7 @@
 **LXX Job 39:7** 
 <small><sub>**LXX:**</sub></small>
 He ridicules \[the\] great multitude of \[the\] city, and hears not \[the\] complaint of \[the\] tribute-gatherer. 
-<small><sub>**KJV:**</sub></small>
-He scorneth the multitude of the city, neither regardeth he the crying of the driver.
-<small><sub>**BSB:**</sub></small>
-He scorns the tumult of the city and never hears the shouts of a driver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.39.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.6|<< Job 39:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.8|Job 39:8 >>]]</td></tr></table>
 
 | Translation | Greek |

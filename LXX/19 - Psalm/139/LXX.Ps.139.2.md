@@ -1,10 +1,7 @@
 **LXX Psalm 139:2** 
 <small><sub>**LXX:**</sub></small>
 You knew  my sitting down and  my rising up; you perceived  my thoughts from far off. 
-<small><sub>**KJV:**</sub></small>
-Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.
-<small><sub>**BSB:**</sub></small>
-You know when I sit and when I rise; You understand my thoughts from afar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.1|<< Psalm 139:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.3|Psalm 139:3 >>]]</td></tr></table>
 
 | Translation | Greek |

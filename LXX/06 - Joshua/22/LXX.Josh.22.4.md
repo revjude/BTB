@@ -1,10 +1,7 @@
 **LXX Joshua 22:4** 
 <small><sub>**LXX:**</sub></small>
 And now \[the\] <span class="smallcaps">lord</span> our God rested  our brethren in which manner he spoke to them. Now then in returning you go forth to  your houses, and to the land  of your possession which Moses \[the\] bondman of \[the\] <span class="smallcaps">lord</span> gave to you on the other side of the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And now the LORD your God hath given rest unto your brethren, as he promised them: therefore now return ye, and get you unto your tents, [and] unto the land of your possession, which Moses the servant of the LORD gave you on the other side Jordan.
-<small><sub>**BSB:**</sub></small>
-And now that the LORD your God has given your brothers rest as He promised them, you may return to your homes in the land that Moses the servant of the LORD gave you across the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.3|<< Joshua 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.5|Joshua 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

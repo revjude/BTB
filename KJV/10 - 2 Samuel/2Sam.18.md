@@ -1,6 +1,6 @@
 (KJV) **2 Samuel 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17|<< 2 Samuel 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19|2 Samuel 19 >>]]</td></tr></table>
 
-***Absalom Killed*** ^bsb773
+<big><big>[[2Sam.18.1 Absalom Killed|⥃]]</big></big>***Absalom Killed***
 
  $\quad$ <span class="startversemarker">[</span>**[[2Sam.18.1|1]]**<span class="endversemarker">]</span> And David numbered<small><small>[^2]</small></small> the people that \[were\] with him, and set captains of thousands<small><small>[^3]</small></small> and captains of hundreds over them. <span class="startversemarker">[</span>**[[2Sam.18.2|2]]**<span class="endversemarker">]</span> And David sent forth a third part<small><small>[^4]</small></small> of the people under the hand of Joab<small><small>[^5]</small></small>, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai<small><small>[^6]</small></small> the Gittite. And the king said unto the people, I will surely<small><small>[^7]</small></small> go forth with you myself also. <span class="startversemarker">[</span>**[[2Sam.18.3|3]]**<span class="endversemarker">]</span> But the people answered, Thou shalt<small><small>[^8]</small></small> not go forth: for if we flee<small><small>[^9]</small></small> away, they will not care for us<small><small>[^10]</small></small>; neither if half of us die, will they care for us: but now<small><small>[^11]</small></small> \[thou art\] worth<small><small>[^12]</small></small> ten thousand of us: therefore now \[it is\] better that thou succour<small><small>[^13]</small></small> us out of the city. <span class="startversemarker">[</span>**[[2Sam.18.4|4]]**<span class="endversemarker">]</span> And the king said unto them, What seemeth you best I will do. And the king stood by the gate<small><small>[^14]</small></small> side, and all the people came out by hundreds<small><small>[^15]</small></small> and by thousands. <span class="startversemarker">[</span>**[[2Sam.18.5|5]]**<span class="endversemarker">]</span> And the king commanded Joab and Abishai and Ittai, saying, \[Deal\] gently<small><small>[^16]</small></small> for my sake with the young man, \[even\] with Absalom. And all the people<small><small>[^17]</small></small> heard when the king gave all the captains charge concerning Absalom. 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.18.9|9]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.18.18|18]]**<span class="endversemarker">]</span> [¶]Now Absalom in his lifetime had taken and reared up<small><small>[^36]</small></small> for himself a pillar, which \[is\] in the king’s<small><small>[^37]</small></small> dale: for he said, I have no son<small><small>[^38]</small></small> to keep my name in remembrance: and he called<small><small>[^39]</small></small> the pillar after his own name: and it is called unto this day, Absalom’s place<small><small>[^40]</small></small>.
 
-***David Mourns for Absalom*** ^bsb774
+<big><big>[[2Sam.18.19 David Mourns for Absalom|⥃]]</big></big>***David Mourns for Absalom***
 
  
 

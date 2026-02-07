@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:19** 
 <small><sub>**LXX:**</sub></small>
 And he said to the king, Let not indeed my master consider \[my\] lawlessness! and remember not as much as your servant did wrong in the day which my master the king went forth from Jerusalem,  for the king to put it upon  his heart! 
-<small><sub>**KJV:**</sub></small>
-And said unto the king, Let not my lord impute iniquity unto me, neither do thou remember that which thy servant did perversely the day that my lord the king went out of Jerusalem, that the king should take it to his heart.
-<small><sub>**BSB:**</sub></small>
-and said, “My lord, do not hold me guilty, and do not remember your servant’s wrongdoing on the day my lord the king left Jerusalem. May the king not take it to heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.18|<< 2 Samuel 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.20|2 Samuel 19:20 >>]]</td></tr></table>
 
 | Translation | Greek |

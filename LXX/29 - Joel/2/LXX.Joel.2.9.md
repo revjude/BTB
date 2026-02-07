@@ -1,10 +1,7 @@
 **LXX Joel 2:9** 
 <small><sub>**LXX:**</sub></small>
 They shall take hold of the city, and upon the walls they shall run; unto the houses they shall ascend, and through the windows they shall enter as thieves. 
-<small><sub>**KJV:**</sub></small>
-They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.
-<small><sub>**BSB:**</sub></small>
-They storm the city; they run along the wall; they climb into houses, entering through windows like thieves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.8|<< Joel 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.10|Joel 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

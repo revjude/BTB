@@ -1,4 +1,4 @@
-**Exodus 26:2** 
+**Exodus 26:2**<big><big>[[Exod.26.1 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The length of one curtain [shall be] eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each curtain shall be twenty-eight cubits long and four cubits wide—all curtai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.1|<< Exodus 26:1]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.3|Exodus 26:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] length of  |**<big>&#8207;[[H0753\|אֹ֣רֶךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the curtain  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3407\|יְרִיעָ֣ה]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.ri.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

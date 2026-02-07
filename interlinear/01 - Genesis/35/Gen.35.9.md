@@ -1,4 +1,4 @@
-**Genesis 35:9** 
+**Genesis 35:9**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God appeared unto Jacob again, when he came out of Padanaram, and blessed him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After Jacob had returned from Paddan-aram, God appeared to him again and blessed
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.8|<< Genesis 35:8]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.10|Genesis 35:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appeared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יֵּרָ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Ra'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֤ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

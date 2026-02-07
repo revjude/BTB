@@ -1,12 +1,12 @@
-**John 7:33
-**<small><sub>**KJV:**</sub></small>
+**John 7:33**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus unto them, Yet a little while am I with you, and [then] I go unto him that sent me.
 <small><sub>**BSB:**</sub></small>
 So Jesus said, “I am with you only a little while longer, and then I am going to the One who sent Me.
 <small><sub>**Literal:**</sub></small>
 Said therefore to them <the> Jesus; Yet time a little with you I am and I go to the [One] having sent Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.32|<< John 7:32]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.34|John 7:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

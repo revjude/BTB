@@ -1,4 +1,4 @@
-**Psalms 94:14** 
+**Psalms 94:14**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD will not cast off his people, neither will he forsake his inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the LORD will not forsake His people; He will never abandon His heritage.
 > $\quad$ referenced by: [[Rom.11.1|Rom 11:1-2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

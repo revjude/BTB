@@ -1,4 +1,4 @@
-**Proverbs 10:12** 
+**Proverbs 10:12**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hatred stirreth up strifes: but love covereth all sins.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Hatred stirs up dissension, but love covers all transgressions.
 > $\quad$ referenced by: [[Jas.5.20|Jas 5:20]] ☩ [[1Pet.4.8|1Pet 4:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hatred  |**<big>&#8207;[[H8135\|שִׂ֭נְאָה]]&#8207; </big>**| Sin.'ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it stirs up  |**<big>&#8207;[[H5782\|תְּעוֹרֵ֣ר]]&#8207; </big>**| te.'o.Rer<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

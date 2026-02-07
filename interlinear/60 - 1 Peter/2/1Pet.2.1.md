@@ -1,12 +1,12 @@
-**1 Peter 2:1
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:1**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,
 <small><sub>**BSB:**</sub></small>
 Rid yourselves, therefore, of all malice, deceit, hypocrisy, envy, and slander.
 <small><sub>**Literal:**</sub></small>
 Having put aside therefore all malice and all deceit and hypocrisies and envies and all evil speakings<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.25|<< 1 Peter 1:25]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.2|1 Peter 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having put aside |**<big>[[G0659\|Ἀποθέμενοι]]</big>**  |Apothemenoi <small><sup>[[V-2AMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

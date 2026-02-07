@@ -1,4 +1,4 @@
-**Lamentations 1:4** 
+**Lamentations 1:4**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she [is] in bitterness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The roads to Zion mourn, because no one comes to her appointed feasts. All her g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.3|<< Lamentations 1:3]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.5|Lamentations 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] roads of  |**<big>&#8207;[[H1870K\|דַּרְכֵ֨י]]&#8207; </big>**| dar.Khei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֜וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

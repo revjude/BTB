@@ -1,12 +1,12 @@
-**Matthew 10:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:20**<big><big>[[Matt.10.16 Sheep among Wolves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is not ye that speak, but the Spirit of your Father which speaketh in you.
 <small><sub>**BSB:**</sub></small>
 For it will not be you speaking, but the Spirit of your Father speaking through you.
 <small><sub>**Literal:**</sub></small>
 Not for you yourselves are [the] ones speaking but the Spirit of the Father of you who is speaking through you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.19|<< Matthew 10:19]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.21|Matthew 10:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

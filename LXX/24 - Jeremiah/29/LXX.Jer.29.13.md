@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:13** 
 <small><sub>**LXX:**</sub></small>
 And seek after me! and you shall find me. For whenever you should seek after me with your entire heart, 
-<small><sub>**KJV:**</sub></small>
-And ye shall seek me, and find [me], when ye shall search for me with all your heart.
-<small><sub>**BSB:**</sub></small>
-You will seek Me and find Me when you search for Me with all your heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.12|<< Jeremiah 29:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.14|Jeremiah 29:14 >>]]</td></tr></table>
 
 | Translation | Greek |

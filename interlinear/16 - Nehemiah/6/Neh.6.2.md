@@ -1,4 +1,4 @@
-**Nehemiah 6:2** 
+**Nehemiah 6:2**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That Sanballat and Geshem sent unto me, saying, Come, let us meet together in [some one of] the villages in the plain of Ono. But they thought to do me mischief.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sanballat and Geshem sent me this message: “Come, let us meet together in one 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.1|<< Nehemiah 6:1]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.3|Nehemiah 6:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sanballat  |**<big>&#8207;[[H5571\|סַנְבַלַּ֤ט]]&#8207; </big>**| san.va.Lat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

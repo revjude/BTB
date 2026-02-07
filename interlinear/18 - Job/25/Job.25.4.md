@@ -1,4 +1,4 @@
-**Job 25:4** 
+**Job 25:4**<big><big>[[Job.25.1 Bildad：Man Cannot Be Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How then can man be justified with God? or how can he be clean [that is] born of a woman?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How then can a man be just before God? How can one born of woman be pure?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.25.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.25.3|<< Job 25:3]]</td><td align="center" style="border:none;">[[Job.25|Job 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.25.5|Job 25:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he be righteous  |**<big>&#8207;[[H6663\|יִּצְדַּ֣ק]]&#8207; </big>**| yitz.Dak<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

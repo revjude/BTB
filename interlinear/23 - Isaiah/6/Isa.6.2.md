@@ -1,4 +1,4 @@
-**Isaiah 6:2** 
+**Isaiah 6:2**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Above Him stood seraphim, each having six wings: With two wings they covered the
 > $\quad$ referenced by: [[Rev.4.5|Rev 4:5]] ☩ [[Rev.4.8|Rev 4:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seraphim  |**<big>&#8207;[[H8314B\|שְׂרָפִ֨ים]]&#8207; </big>**| se.ra.Fim<small><sup>[[HNtmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] standing  |**<big>&#8207;[[H5975G\|עֹמְדִ֤ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.me.Dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

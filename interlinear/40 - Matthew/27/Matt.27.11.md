@@ -1,12 +1,12 @@
-**Matthew 27:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:11**<big><big>[[Matt.27.11 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.
 <small><sub>**BSB:**</sub></small>
 Meanwhile Jesus stood before the governor, who questioned Him: “Are You the King of the Jews?” “You have said so,” Jesus replied.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus stood before the governor; and questioned Him the governor saying; You yourself are the King of the Jews? <the> And Jesus was saying to him: You yourself say.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.10|<< Matthew 27:10]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.12|Matthew 27:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

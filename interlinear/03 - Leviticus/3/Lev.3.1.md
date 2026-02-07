@@ -1,4 +1,4 @@
-**Leviticus 3:1** 
+**Leviticus 3:1**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if his oblation [be] a sacrifice of peace offering, if he offer [it] of the herd; whether [it be] a male or female, he shall offer it without blemish before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if his oblation [be] a sacrifice of peace offering, if he offer [it] of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.16|<< Leviticus 2:16]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.2|Leviticus 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a sacrifice of  |**<big>&#8207;[[H2077\|זֶ֥בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

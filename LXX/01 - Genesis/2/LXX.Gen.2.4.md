@@ -1,10 +1,7 @@
 **LXX Genesis 2:4** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the book of \[the\] origin of heaven and earth, when it became, in the day God made the heaven and the earth, 
-<small><sub>**KJV:**</sub></small>
-These [are] the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,
-<small><sub>**BSB:**</sub></small>
-This is the account of the heavens and the earth when they were created, in the day that the LORD God made them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.3|<< Genesis 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.5|Genesis 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

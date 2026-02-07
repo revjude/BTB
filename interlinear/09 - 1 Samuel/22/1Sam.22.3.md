@@ -1,4 +1,4 @@
-**1 Samuel 22:3** 
+**1 Samuel 22:3**<big><big>[[1Sam.22.1 David Flees to Adullam and Mizpeh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, [and be] with you, till I know what God will do for me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there David went to Mizpeh of Moab, where he said to the king of Moab, “P
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.2|<< 1 Samuel 22:2]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.4|1 Samuel 22:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֧לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֛ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 36:8** 
+**Job 36:8**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if [they be] bound in fetters, [and] be holden in cords of affliction;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if men are bound with chains, caught in cords of affliction,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.7|<< Job 36:7]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.9|Job 36:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [they are] bound  |**<big>&#8207;[[H0631\|אֲסוּרִ֥ים]]&#8207; </big>**| 'a.su.Rim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

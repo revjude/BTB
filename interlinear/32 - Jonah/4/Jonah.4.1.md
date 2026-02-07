@@ -1,4 +1,4 @@
-**Jonah 4:1** 
+**Jonah 4:1**<big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But it displeased Jonah exceedingly, and he was very angry.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Jonah, however, was greatly displeased, and he became angry.
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was displeasing  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7489A\|יֵּ֥רַע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 12:16** 
+**Job 12:16**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With him [is] strength and wisdom: the deceived and the deceiver [are] his.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ True wisdom and power belong to Him. The deceived and the deceiver are His.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.15|<< Job 12:15]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.17|Job 12:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] with him  |**<big>&#8207;[[H5973A\|עִ֭מּ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| i.m<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength  |**<big>&#8207;[[H5797\|עֹ֣ז]]&#8207; </big>**| 'oz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

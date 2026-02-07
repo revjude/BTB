@@ -1,10 +1,7 @@
 **LXX Zechariah 3:7** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, If you should go in my ways, and  should keep guard my orders, then you shall litigate  my house; and you shall guard  my courtyard, and I will give to you ones pacing in \[the\] midst  of these standing. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; If thou wilt walk in my ways, and if thou wilt keep my charge, then thou shalt also judge my house, and shalt also keep my courts, and I will give thee places to walk among these that stand by.
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD of Hosts says: ‘If you walk in My ways and keep My instructions, then you will govern My house and will also have charge of My courts; and I will give you a place among these who are standing here.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.6|<< Zechariah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.8|Zechariah 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 11:35** 
 <small><sub>**LXX:**</sub></small>
 From Tombs of the Desire the people lifted away unto Hazeroth; and the people existed in Hazeroth. 
-<small><sub>**KJV:**</sub></small>
-[And] the people journeyed from Kibrothhattaavah unto Hazeroth; and abode at Hazeroth.
-<small><sub>**BSB:**</sub></small>
-From Kibroth-hattaavah the people moved on to Hazeroth, where they remained for some time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.34|<< Numbers 11:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.1|Numbers 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

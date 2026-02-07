@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And behold, a messenger came to Job, and said to him, The teams  of oxen were plowing, and the female donkeys were grazing next to them. 
-<small><sub>**KJV:**</sub></small>
-And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:
-<small><sub>**BSB:**</sub></small>
-a messenger came and reported to Job: “While the oxen were plowing and the donkeys were grazing nearby,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.13|<< Job 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.15|Job 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

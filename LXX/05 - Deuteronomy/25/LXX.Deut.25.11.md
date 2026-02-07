@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:11** 
 <small><sub>**LXX:**</sub></small>
 And if two men should do combat at the same time -- a man against  his brother; and should come forward the wife of one of them to rescue  her husband from out of \[the\] hand of the one beating him, and stretching out  her hand should take hold of  his twins, 
-<small><sub>**KJV:**</sub></small>
-When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets:
-<small><sub>**BSB:**</sub></small>
-If two men are fighting, and the wife of one comes to rescue her husband from the one striking him, and she reaches out her hand and grabs his genitals,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.10|<< Deuteronomy 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.12|Deuteronomy 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

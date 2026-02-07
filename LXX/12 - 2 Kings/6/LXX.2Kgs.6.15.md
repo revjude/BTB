@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:15** 
 <small><sub>**LXX:**</sub></small>
 And the minister of the man of God rose up early, and went forth. And behold, \[the\] force \[was\] encircling the city, and \[with\] horses and chariots. And his servant said to him, O master, what shall we do? 
-<small><sub>**KJV:**</sub></small>
-And when the servant of the man of God was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do?
-<small><sub>**BSB:**</sub></small>
-When the servant of the man of God got up and went out early in the morning, behold, an army with horses and chariots had surrounded the city. So he asked Elisha, “Oh, my master, what are we to do?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.14|<< 2 Kings 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.16|2 Kings 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

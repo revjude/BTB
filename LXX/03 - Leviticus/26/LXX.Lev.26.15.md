@@ -1,10 +1,7 @@
 **LXX Leviticus 26:15** 
 <small><sub>**LXX:**</sub></small>
 but should resist them, and  you should loathe my judgments  in your soul, so as for you to not observe all  my commandments, so as for you to efface  my covenant, 
-<small><sub>**KJV:**</sub></small>
-And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, [but] that ye break my covenant:
-<small><sub>**BSB:**</sub></small>
-and if you reject My statutes, despise My ordinances, and neglect to carry out all My commandments, and so break My covenant,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.14|<< Leviticus 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.16|Leviticus 26:16 >>]]</td></tr></table>
 
 | Translation | Greek |

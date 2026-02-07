@@ -1,10 +1,7 @@
 **LXX Joshua 22:20** 
 <small><sub>**LXX:**</sub></small>
 Behold did not Achan the \[son of\] Zara trespass a trespass from the offering for consumption, and upon all the congregation became anger? And this one only \[sinned\], \[but\] not this one alone died for  his sin. 
-<small><sub>**KJV:**</sub></small>
-Did not Achan the son of Zerah commit a trespass in the accursed thing, and wrath fell on all the congregation of Israel? and that man perished not alone in his iniquity.
-<small><sub>**BSB:**</sub></small>
-Was not Achan son of Zerah unfaithful regarding what was set apart for destruction, bringing wrath upon the whole congregation of Israel? Yet it was not only Achan who perished because of his sin!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.19|<< Joshua 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.21|Joshua 22:21 >>]]</td></tr></table>
 
 | Translation | Greek |

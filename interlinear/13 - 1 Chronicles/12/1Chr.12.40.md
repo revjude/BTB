@@ -1,4 +1,4 @@
-**1 Chronicles 12:40** (12:41)
+**1 Chronicles 12:40**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover they that were nigh them, [even] unto Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, [and] meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for [there was] joy in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And their neighbors from as far away as Issachar, Zebulun, and Naphtali came bri
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.39|<< 1 Chronicles 12:39]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.1|1 Chronicles 13:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [people] near  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7138\|קְּרֽוֹבִים]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.roim-<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 19:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:7**<big><big>[[Rev.19.6 The Marriage of the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready.
 <small><sub>**BSB:**</sub></small>
 Let us rejoice and be glad and give Him the glory. For the marriage of the Lamb has come, and His bride has made herself ready.
 <small><sub>**Literal:**</sub></small>
 We may rejoice and we may exult and we may give the glory to Him, because has come the marriage of the Lamb, and the bride of Him has made ready herself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.6|<< Revelation 19:6]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.8|Revelation 19:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We may rejoice |**<big>[[G5463\|χαίρωμεν]]</big>**  |chairōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

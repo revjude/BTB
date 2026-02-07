@@ -1,10 +1,7 @@
 **LXX Genesis 30:26** 
 <small><sub>**LXX:**</sub></small>
 Give to me  my wives, and  my children! for whom I have served to you, that I might go forth. For you know the servitude which I have served you. 
-<small><sub>**KJV:**</sub></small>
-Give [me] my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee.
-<small><sub>**BSB:**</sub></small>
-Give me my wives and children for whom I have served you, that I may go on my way. You know how hard I have worked for you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.25|<< Genesis 30:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.27|Genesis 30:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:17** 
 <small><sub>**LXX:**</sub></small>
 And Elisha prayed, and said, O <span class="smallcaps">lord</span>, open  his eyes, and let him see! And \[the\] <span class="smallcaps">lord</span> opened wide the eyes of the young man, and he saw. And behold, the mountain \[was\] full of horses, and a chariot of fire surrounding Elisha. 
-<small><sub>**KJV:**</sub></small>
-And Elisha prayed, and said, LORD, I pray thee, open his eyes, that he may see. And the LORD opened the eyes of the young man; and he saw: and, behold, the mountain [was] full of horses and chariots of fire round about Elisha.
-<small><sub>**BSB:**</sub></small>
-Then Elisha prayed, “O LORD, please open his eyes that he may see.” And the LORD opened the eyes of the young man, and he saw that the hills were full of horses and chariots of fire all around Elisha.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.16|<< 2 Kings 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.18|2 Kings 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

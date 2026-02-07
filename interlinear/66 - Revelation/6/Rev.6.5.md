@@ -1,12 +1,12 @@
-**Revelation 6:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:5**<big><big>[[Rev.6.5 The Third Seal：Famine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.
 <small><sub>**BSB:**</sub></small>
 And when the Lamb opened the third seal, I heard the third living creature say, “Come!” Then I looked and saw a black horse, and its rider held in his hand a pair of scales.
 <small><sub>**Literal:**</sub></small>
 And when He opened the seal <the> third I heard the third living creature saying; do come and do heed. And I saw and behold a horse black and the [one] sitting on it having a pair of scales in the hand of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.4|<< Revelation 6:4]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.6|Revelation 6:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

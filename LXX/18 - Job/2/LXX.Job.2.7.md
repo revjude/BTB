@@ -1,10 +1,7 @@
 **LXX Job 2:7** 
 <small><sub>**LXX:**</sub></small>
 And the devil went forth from the <span class="smallcaps">lord</span>, and smote  Job with a severe sore from feet unto head. 
-<small><sub>**KJV:**</sub></small>
-So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.
-<small><sub>**BSB:**</sub></small>
-So Satan went out from the presence of the LORD and infected Job with terrible boils from the soles of his feet to the crown of his head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.6|<< Job 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.8|Job 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

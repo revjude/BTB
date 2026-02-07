@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:19** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, set in order to yourself two ways!  for \[the\] broadsword of \[the\] king of Babylon to enter. From out of one place shall come forth the two companies; and set in order a hand at \[the\] top of \[the\] street of the city upon \[the\] corner of \[the\] street, 
-<small><sub>**KJV:**</sub></small>
-Also, thou son of man, appoint thee two ways, that the sword of the king of Babylon may come: both twain shall come forth out of one land: and choose thou a place, choose [it] at the head of the way to the city.
-<small><sub>**BSB:**</sub></small>
-“Now you, son of man, mark out two roads for the sword of the king of Babylon to take, both starting from the same land. And make a signpost where the road branches off to each city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.18|<< Ezekiel 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.20|Ezekiel 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

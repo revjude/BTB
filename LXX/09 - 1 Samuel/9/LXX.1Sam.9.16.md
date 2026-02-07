@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:16** 
 <small><sub>**LXX:**</sub></small>
 At  this time tomorrow I will send to you a man from \[the\] land of Benjamin, and you shall anoint him for ruler over  my people Israel, and he shall deliver  my people from \[the\] hand of \[the\] Philistines. For I looked upon the humiliation  of my people, for their yelling came to me. 
-<small><sub>**KJV:**</sub></small>
-To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him [to be] captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me.
-<small><sub>**BSB:**</sub></small>
-“At this time tomorrow I will send you a man from the land of Benjamin, and you are to anoint him ruler over My people Israel; he will save them from the hand of the Philistines. For I have looked upon My people, because their cry has come to Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.15|<< 1 Samuel 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.17|1 Samuel 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

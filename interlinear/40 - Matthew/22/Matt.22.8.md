@@ -1,12 +1,12 @@
-**Matthew 22:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:8**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith he to his servants, The wedding is ready, but they which were bidden were not worthy.
 <small><sub>**BSB:**</sub></small>
 Then he said to his servants, ‘The wedding banquet is ready, but those I invited were not worthy.
 <small><sub>**Literal:**</sub></small>
 Then he says to the servants of him; The indeed wedding feast ready is, those however invited not were worthy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.7|<< Matthew 22:7]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.9|Matthew 22:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

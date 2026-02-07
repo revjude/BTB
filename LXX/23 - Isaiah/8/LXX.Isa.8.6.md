@@ -1,10 +1,7 @@
 **LXX Isaiah 8:6** 
 <small><sub>**LXX:**</sub></small>
 Because  this people want not the water  of Shiloah  going tranquilly, but want to have  Rezin and the son of Remaliah king over them, therefore this -- 
-<small><sub>**KJV:**</sub></small>
-Forasmuch as this people refuseth the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah’s son;
-<small><sub>**BSB:**</sub></small>
-“Because this people has rejected the gently flowing waters of Shiloah and rejoiced in Rezin and the son of Remaliah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.5|<< Isaiah 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.7|Isaiah 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

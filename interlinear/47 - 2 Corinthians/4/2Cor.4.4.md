@@ -1,5 +1,5 @@
-**2 Corinthians 4:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:4**<big><big>[[2Cor.4.1 The Light of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.
 <small><sub>**BSB:**</sub></small>
 The god of this age has blinded the minds of unbelievers, so they cannot see the light of the gospel of the glory of Christ, who is the image of God.
@@ -10,7 +10,7 @@ in whom the god of the age this has blinded the minds of the unbelieving so as f
 > $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|οἷς]]</big>**  |hois <small><sup>[[R-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:6** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] ninth year of Hoshea, \[the\] king of the Assyrians seized  Samaria, and he resettled  Israel into Assyria, and he settled them in Halah and in Habor, \[the\] rivers of Gozan, in \[the\] mountains of \[the\] Medes. 
-<small><sub>**KJV:**</sub></small>
-In the ninth year of Hoshea the king of Assyria took Samaria, and carried Israel away into Assyria, and placed them in Halah and in Habor [by] the river of Gozan, and in the cities of the Medes.
-<small><sub>**BSB:**</sub></small>
-In the ninth year of Hoshea, the king of Assyria captured Samaria and carried away the Israelites to Assyria, where he settled them in Halah, in Gozan by the Habor River, and in the cities of the Medes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.5|<< 2 Kings 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.7|2 Kings 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

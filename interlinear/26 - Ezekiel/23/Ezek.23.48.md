@@ -1,4 +1,4 @@
-**Ezekiel 23:48** 
+**Ezekiel 23:48**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I cause lewdness to cease out of the land, that all women may be taught not to do after your lewdness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will put an end to indecency in the land, and all the women will be admonis
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.47|<< Ezekiel 23:47]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.49|Ezekiel 23:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will cause to cease  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7673A\|הִשְׁבַּתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.ba.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | licentiousness  |**<big>&#8207;[[H2154\|זִמָּ֖ה]]&#8207; </big>**| zi.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

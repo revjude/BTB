@@ -1,4 +1,4 @@
-**Nehemiah 13:20** 
+**Nehemiah 13:20**<big><big>[[Neh.13.15 The Sabbath Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once or twice, the merchants and those who sell all kinds of goods camped outsid
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.19|<< Nehemiah 13:19]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.21|Nehemiah 13:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they passed [the] night  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3885A\|יָּלִ֨ינוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Li.nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the traders  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7402\|רֹכְלִ֜ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ro.khe.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

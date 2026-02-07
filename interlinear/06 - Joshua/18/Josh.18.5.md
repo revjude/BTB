@@ -1,4 +1,4 @@
-**Joshua 18:5** 
+**Joshua 18:5**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and divide the land into seven portions. Judah shall remain in their territory i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.4|<< Joshua 18:4]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.6|Joshua 18:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will divide among themselves  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2505A\|הִֽתְחַלְּק֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.cha.le.Ku<small><sup>[[HVtq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ֖]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

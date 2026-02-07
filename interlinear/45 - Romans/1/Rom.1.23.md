@@ -1,5 +1,5 @@
-**Romans 1:23
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:23**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.
 <small><sub>**BSB:**</sub></small>
 and exchanged the glory of the immortal God for images of mortal man and birds and animals and reptiles.
@@ -10,7 +10,7 @@ and they changed the glory of the immortal God into a likeness of an image of mo
 > $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]] ☩ [[LXX.Ps.106.20|Ps 106:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they changed |**<big>[[G0236\|ἤλλαξαν]]</big>**  |ēllaxan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

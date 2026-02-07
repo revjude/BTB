@@ -1,4 +1,4 @@
-**Ecclesiastes 3:6** 
+**Ecclesiastes 3:6**<big><big>[[Eccl.3.1 To Everything There Is a Season|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A time to get, and a time to lose; a time to keep, and a time to cast away;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a time to search and a time to count as lost, a time to keep and a time to disca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.5|<< Ecclesiastes 3:5]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.7|Ecclesiastes 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a time  |**<big>&#8207;[[H6256\|עֵ֤ת]]&#8207; </big>**| 'et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to seek  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1245\|בַקֵּשׁ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.Kesh<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

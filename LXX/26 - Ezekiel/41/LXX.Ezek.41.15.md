@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:15** 
 <small><sub>**LXX:**</sub></small>
 And he measured the length of the place separating in front of the \[spaces\] left over of the \[spaces\] from behind  that house; and the \[spaces\] left over on this side and that side -- a hundred cubits length; and the temple, and the corners, and the outer porch were decorated with fretwork. 
-<small><sub>**KJV:**</sub></small>
-And he measured the length of the building over against the separate place which [was] behind it, and the galleries thereof on the one side and on the other side, an hundred cubits, with the inner temple, and the porches of the court;
-<small><sub>**BSB:**</sub></small>
-Next he measured the length of the building facing the temple courtyard at the rear of the temple, including its galleries on each side; it was a hundred cubits. The outer sanctuary, the inner sanctuary, and the porticoes facing the court,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.14|<< Ezekiel 41:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.16|Ezekiel 41:16 >>]]</td></tr></table>
 
 | Translation | Greek |

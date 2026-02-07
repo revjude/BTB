@@ -1,4 +1,4 @@
-**Isaiah 50:5** 
+**Isaiah 50:5**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Lord GOD has opened My ears, and I have not been rebellious, nor have I turn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.4|<< Isaiah 50:4]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.6|Isaiah 50:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֤י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3069\|יְהוִה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

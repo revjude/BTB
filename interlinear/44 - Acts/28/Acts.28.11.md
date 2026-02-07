@@ -1,12 +1,12 @@
-**Acts 28:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:11**<big><big>[[Acts.28.11 Paul Arrives in Italy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.
 <small><sub>**BSB:**</sub></small>
 After three months we set sail in an Alexandrian ship that had wintered in the island. It had the Twin Brothers as a figurehead.
 <small><sub>**Literal:**</sub></small>
 After then three months we set out in a ship having wintered in the island, Alexandrian, with a figurehead of [the] Dioscuri;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.10|<< Acts 28:10]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.12|Acts 28:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

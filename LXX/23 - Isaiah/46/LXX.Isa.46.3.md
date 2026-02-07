@@ -1,10 +1,7 @@
 **LXX Isaiah 46:3** 
 <small><sub>**LXX:**</sub></small>
 Hear me, O house  of Jacob, and all the rest  of Israel! O ones being lifted from \[the\] belly, and being corrected from childhood 
-<small><sub>**KJV:**</sub></small>
-Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne [by me] from the belly, which are carried from the womb:
-<small><sub>**BSB:**</sub></small>
-“Listen to Me, O house of Jacob, all the remnant of the house of Israel, who have been sustained from the womb, carried along since birth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.46.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.2|<< Isaiah 46:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.4|Isaiah 46:4 >>]]</td></tr></table>
 
 | Translation | Greek |

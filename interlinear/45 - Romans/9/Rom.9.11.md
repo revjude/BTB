@@ -1,12 +1,12 @@
-**Romans 9:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:11**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For [the children] being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)
 <small><sub>**BSB:**</sub></small>
 Yet before the twins were born or had done anything good or bad, in order that God’s plan of election might stand,
 <small><sub>**Literal:**</sub></small>
 not yet for having been born nor having done anything good or evil, so that the according to election purpose <the> of God may stand,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.10|<< Romans 9:10]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.12|Romans 9:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not yet |**<big>[[G3361\|μήπω]]</big>**  |mēpō <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

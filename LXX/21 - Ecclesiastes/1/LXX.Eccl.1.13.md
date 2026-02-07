@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 1:13** 
 <small><sub>**LXX:**</sub></small>
 And I gave  my heart  to inquire and  to survey by  wisdom concerning all \[things\]  happening under the heaven. For God gave a wicked distraction to the sons  of men  to be distracting  to him. 
-<small><sub>**KJV:**</sub></small>
-And I gave my heart to seek and search out by wisdom concerning all [things] that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.
-<small><sub>**BSB:**</sub></small>
-And I set my mind to seek and explore by wisdom all that is done under heaven. What a miserable task God has laid upon the sons of men to occupy them!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.12|<< Ecclesiastes 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.14|Ecclesiastes 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

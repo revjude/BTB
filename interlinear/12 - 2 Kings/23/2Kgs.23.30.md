@@ -1,4 +1,4 @@
-**2 Kings 23:30** 
+**2 Kings 23:30**<big><big>[[2Kgs.23.28 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Megiddo his servants carried his body in a chariot, brought him to Jerusale
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.29|<< 2 Kings 23:29]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.31|2 Kings 23:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made ride him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7392\|יַּרְכִּבֻ֨]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yar.ki.Vu.<small><sup>[[HVhw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servants his  |**<big>&#8207;[[H5650\|עֲבָדָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 21:12** 
+**Jeremiah 21:12**<big><big>[[Jer.21.11 A Message to the House of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O house of David, thus saith the LORD; Execute judgment in the morning, and deliver [him that is] spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench [it], because of the evil of your doings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O house of David, this is what the LORD says: ‘Administer justice every mornin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.11|<< Jeremiah 21:11]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.13|Jeremiah 21:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O house of  |**<big>&#8207;[[H1004M\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֗ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

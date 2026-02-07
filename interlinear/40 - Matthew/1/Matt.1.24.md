@@ -1,12 +1,12 @@
-**Matthew 1:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:24**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:
 <small><sub>**BSB:**</sub></small>
 When Joseph woke up, he did as the angel of the Lord had commanded him and embraced Mary as his wife.
 <small><sub>**Literal:**</sub></small>
 Having been awoken then <the> Joseph from the sleep he did as he commanded him the angel of [the] Lord; and received the wife of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.23|<< Matthew 1:23]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.25|Matthew 1:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having been awoken [^1] |**<big>[[G1453\|Ἐγερθεὶς]]</big>**  |Egertheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

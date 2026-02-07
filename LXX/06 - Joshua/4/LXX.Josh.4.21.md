@@ -1,10 +1,7 @@
 **LXX Joshua 4:21** 
 <small><sub>**LXX:**</sub></small>
 And he spoke to the sons of Israel, saying, Whenever your sons ask you tomorrow, saying, What are  these stones? 
-<small><sub>**KJV:**</sub></small>
-And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What [mean] these stones?
-<small><sub>**BSB:**</sub></small>
-Then Joshua said to the Israelites, “In the future, when your children ask their fathers, ‘What is the meaning of these stones?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.20|<< Joshua 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.22|Joshua 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

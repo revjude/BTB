@@ -1,4 +1,4 @@
-**2 Chronicles 23:3** 
+**2 Chronicles 23:3**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the LORD hath said of the sons of David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the whole assembly made a covenant with the king in the house of God. “Behold,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.2|<< 2 Chronicles 23:2]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.4|2 Chronicles 23:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772H\|יִּכְרֹ֨ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.Rot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

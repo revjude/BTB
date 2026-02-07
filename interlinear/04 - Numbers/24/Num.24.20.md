@@ -1,4 +1,4 @@
-**Numbers 24:20** 
+**Numbers 24:20**<big><big>[[Num.24.20 Balaam’s Final Three Oracles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he looked on Amalek, he took up his parable, and said, Amalek [was] the first of the nations; but his latter end [shall be] that he perish for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Balaam saw Amalek and lifted up an oracle, saying: “Amalek was first amon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.19|<< Numbers 24:19]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.21|Numbers 24:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּרְא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yaR'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

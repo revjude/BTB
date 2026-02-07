@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:7** 
 <small><sub>**LXX:**</sub></small>
 When they took hold of you \[with\] their hand, then you were fractured; and when every hand prevailed against them. And when they rested upon you, you were broken, and you broke \[the\] loin of all of them. 
-<small><sub>**KJV:**</sub></small>
-When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand.
-<small><sub>**BSB:**</sub></small>
-When Israel took hold of you with their hands, you splintered, tearing all their shoulders; when they leaned on you, you broke, and their backs were wrenched.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.6|<< Ezekiel 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.8|Ezekiel 29:8 >>]]</td></tr></table>
 
 | Translation | Greek |

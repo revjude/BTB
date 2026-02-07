@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:20** 
 <small><sub>**LXX:**</sub></small>
 \[to\] Ephraim \[was\] Hoshea the \[son of\] Azaziah; to the half tribe of Manasseh \[was\] Joel son of Pedaiah; 
-<small><sub>**KJV:**</sub></small>
-Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:
-<small><sub>**BSB:**</sub></small>
-over the Ephraimites was Hoshea son of Azaziah; over one of the half-tribes of Manasseh was Joel son of Pedaiah;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.19|<< 1 Chronicles 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.21|1 Chronicles 27:21 >>]]</td></tr></table>
 
 | Translation | Greek |

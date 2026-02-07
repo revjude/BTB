@@ -1,12 +1,12 @@
-**Mark 5:41
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:41**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.
 <small><sub>**BSB:**</sub></small>
 Taking her by the hand, Jesus said, “Talitha koum!” which means, “Little girl, I say to you, get up!”
 <small><sub>**Literal:**</sub></small>
 And when taking of the hand of the child He says to her; Talitha koum! Which is being translated, O Little girl, to you I say, do arise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.40|<< Mark 5:40]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.42|Mark 5:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when taking |**<big>[[G2902\|κρατήσας]]</big>**  |kratēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

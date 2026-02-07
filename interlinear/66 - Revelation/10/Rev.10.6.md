@@ -1,5 +1,5 @@
-**Revelation 10:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:6**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:
 <small><sub>**BSB:**</sub></small>
 And he swore by Him who lives forever and ever, who created heaven and everything in it, the earth and everything in it, and the sea and everything in it: “There will be no more delay!
@@ -10,7 +10,7 @@ and he swore by the [One] living to the ages of the ages, who created <the> heav
 > $\quad$ alluding to: [[LXX.Exod.20.11|Exod 20:11]] ☩ [[LXX.Ps.146.6|Ps 146:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he swore |**<big>[[G3660\|ὤμοσεν]]</big>**  |ōmosen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

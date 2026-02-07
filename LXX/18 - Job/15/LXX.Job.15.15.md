@@ -1,10 +1,7 @@
 **LXX Job 15:15** 
 <small><sub>**LXX:**</sub></small>
 forasmuch as he trusts not \[the\] holy ones, and \[the\] heaven is not pure before him. 
-<small><sub>**KJV:**</sub></small>
-Behold, he putteth no trust in his saints; yea, the heavens are not clean in his sight.
-<small><sub>**BSB:**</sub></small>
-If God puts no trust in His holy ones, if even the heavens are not pure in His eyes,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.14|<< Job 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.16|Job 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

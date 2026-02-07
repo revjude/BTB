@@ -1,10 +1,7 @@
 **LXX Psalm 69:17** 
 <small><sub>**LXX:**</sub></small>
 You should not turn  your face from  your servant, for I am afflicted. Quickly heed me! 
-<small><sub>**KJV:**</sub></small>
-And hide not thy face from thy servant; for I am in trouble: hear me speedily.
-<small><sub>**BSB:**</sub></small>
-Hide not Your face from Your servant, for I am in distress. Answer me quickly!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.16|<< Psalm 69:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.18|Psalm 69:18 >>]]</td></tr></table>
 
 | Translation | Greek |

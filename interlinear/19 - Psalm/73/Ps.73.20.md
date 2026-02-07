@@ -1,4 +1,4 @@
-**Psalms 73:20** 
+**Psalms 73:20**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a dream when [one] awaketh; [so], O Lord, when thou awakest, thou shalt despise their image.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like one waking from a dream, so You, O Lord, awaken and despise their form.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.19|<< Psalms 73:19]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.21|Psalms 73:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a dream  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H2472\|חֲל֥וֹם]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> cha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from when awakes  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6974\|הָקִ֑יץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ha.Kitz<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

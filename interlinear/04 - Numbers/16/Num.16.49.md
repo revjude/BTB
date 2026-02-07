@@ -1,4 +1,4 @@
-**Numbers 16:49** (17:14)
+**Numbers 16:49**<big><big>[[Num.16.41 Murmuring and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now they that died in the plague were fourteen thousand and seven hundred, beside them that died about the matter of Korah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But those who died from the plague numbered 14,700, in addition to those who had
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.48|<< Numbers 16:48]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.50|Numbers 16:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] died  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4191\|מֵּתִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

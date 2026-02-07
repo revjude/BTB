@@ -1,12 +1,12 @@
-**John 8:26
-**<small><sub>**KJV:**</sub></small>
+**John 8:26**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I have many things to say and to judge of you: but he that sent me is true; and I speak to the world those things which I have heard of him.
 <small><sub>**BSB:**</sub></small>
 “I have much to say about you and much to judge. But the One who sent Me is truthful, and what I have heard from Him, I tell the world.”
 <small><sub>**Literal:**</sub></small>
 Many things I have concerning you to say and to judge; but the [One] having sent Me true is, and I myself what I have heard from Him, these things I say to the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.25|<< John 8:25]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.27|John 8:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many things |**<big>[[G4183\|πολλὰ]]</big>**  |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have |**<big>[[G2192\|ἔχω]]</big>**  |echō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

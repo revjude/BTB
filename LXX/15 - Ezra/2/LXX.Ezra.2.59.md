@@ -1,10 +1,7 @@
 **LXX Ezra 2:59** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] the ones ascending from Tel-melah, Tel-harsa, Cherub, Addan, Immer, and they were not able  to report \[the\] house of their family, and their seed, if they are of Israel. 
-<small><sub>**KJV:**</sub></small>
-And these [were] they which went up from Telmelah, Telharsa, Cherub, Addan, [and] Immer: but they could not shew their father’s house, and their seed, whether they [were] of Israel:
-<small><sub>**BSB:**</sub></small>
-The following came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, but they could not prove that their families were descended from Israel:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.58|<< Ezra 2:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.60|Ezra 2:60 >>]]</td></tr></table>
 
 | Translation | Greek |

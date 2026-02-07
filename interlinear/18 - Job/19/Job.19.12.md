@@ -1,4 +1,4 @@
-**Job 19:12** 
+**Job 19:12**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His troops come together, and raise up their way against me, and encamp round about my tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His troops advance together; they construct a ramp against me and encamp around 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.11|<< Job 19:11]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.13|Job 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | together  |**<big>&#8207;[[H3162A\|יַ֤חַד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ya.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have come  |**<big>&#8207;[[H0935G\|יָ֘בֹ֤אוּ]]&#8207; </big>**| ya.Vo.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

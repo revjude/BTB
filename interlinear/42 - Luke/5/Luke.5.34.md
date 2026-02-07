@@ -1,12 +1,12 @@
-**Luke 5:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:34**<big><big>[[Luke.5.33 Questions about Fasting|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Can you make the guests of the bridegroom fast while He is with them?
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus said to them; Not are you able the sons of the bridechamber in which [time] the bridegroom with them is, to make to fast?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.33|<< Luke 5:33]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.35|Luke 5:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

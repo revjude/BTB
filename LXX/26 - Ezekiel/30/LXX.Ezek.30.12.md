@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:12** 
 <small><sub>**LXX:**</sub></small>
 And I will make  their rivers desolate. And I will render the land by \[the\] hand of evil ones; and I will obliterate the land, and  its fullness, by \[the\] hands of strangers. I \[the\] <span class="smallcaps">lord</span> have spoken. 
-<small><sub>**KJV:**</sub></small>
-And I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I the LORD have spoken [it].
-<small><sub>**BSB:**</sub></small>
-I will make the streams dry up and sell the land to the wicked. By the hands of foreigners I will bring desolation upon the land and everything in it. I, the LORD, have spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.11|<< Ezekiel 30:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.13|Ezekiel 30:13 >>]]</td></tr></table>
 
 | Translation | Greek |

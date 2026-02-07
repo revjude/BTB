@@ -1,5 +1,5 @@
-**Revelation 5:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:10**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hast made us unto our God kings and priests: and we shall reign on the earth.
 <small><sub>**BSB:**</sub></small>
 You have made them to be a kingdom and priests to serve our God, and they will reign upon the earth.”
@@ -10,7 +10,7 @@ and You have made them to the God of us a kingdom and priests, and they will rei
 > $\quad$ possibly alluding to: [[LXX.Exod.19.6|Exod 19:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | You have made |**<big>[[G4160G\|ἐποίησας]]</big>**  |epoiēsas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

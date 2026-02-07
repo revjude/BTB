@@ -1,10 +1,7 @@
 **LXX Numbers 1:48** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses, saying, 
-<small><sub>**KJV:**</sub></small>
-For the LORD had spoken unto Moses, saying,
-<small><sub>**BSB:**</sub></small>
-For the LORD had said to Moses:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.47|<< Numbers 1:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.49|Numbers 1:49 >>]]</td></tr></table>
 
 | Translation | Greek |

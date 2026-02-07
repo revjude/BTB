@@ -1,12 +1,12 @@
-**John 12:25
-**<small><sub>**KJV:**</sub></small>
+**John 12:25**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal.
 <small><sub>**BSB:**</sub></small>
 Whoever loves his life will lose it, but whoever hates his life in this world will keep it for eternal life.
 <small><sub>**Literal:**</sub></small>
 The [one] loving the life of him loses it, and the [one] hating the life of him in <the> world this to life eternal will keep it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.24|<< John 12:24]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.26|John 12:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | loving |**<big>[[G5368\|φιλῶν]]</big>**  |philōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

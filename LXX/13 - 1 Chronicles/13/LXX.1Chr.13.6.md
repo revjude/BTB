@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 13:6** 
 <small><sub>**LXX:**</sub></small>
 And David ascended, and all Israel into Kirjath-jearim, which is  of Judah,  to lead up from there the ark of the <span class="smallcaps">lord</span> God, of the one sitting upon \[the\] cherubim, of which his name is called upon there. 
-<small><sub>**KJV:**</sub></small>
-And David went up, and all Israel, to Baalah, [that is], to Kirjathjearim, which [belonged] to Judah, to bring up thence the ark of God the LORD, that dwelleth [between] the cherubims, whose name is called [on it].
-<small><sub>**BSB:**</sub></small>
-David and all Israel went up to Baalah of Judah (that is, Kiriath-jearim) to bring up from there the ark of God the LORD, who is enthroned between the cherubim—the ark that is called by the Name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.5|<< 1 Chronicles 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.13.7|1 Chronicles 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

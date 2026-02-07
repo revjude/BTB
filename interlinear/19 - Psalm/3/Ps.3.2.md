@@ -1,4 +1,4 @@
-**Psalms 3:2** (3:3)
+**Psalms 3:2**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many [there be] which say of my soul, [There is] no help for him in God. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many say of me, “God will not deliver him.” Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.1|<< Psalms 3:1]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.3|Psalms 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | many [people]  |**<big>&#8207;[[H7227A\|רַבִּים֮]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] saying  |**<big>&#8207;[[H0559\|אֹמְרִ֪ים]]&#8207; </big>**| 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

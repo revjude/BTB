@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:6** 
 <small><sub>**LXX:**</sub></small>
 You shall be taken up before them upon a shoulder, and you shall go forth being hidden.  You shall cover up your face, and in no way should you behold the ground. Because I have put you \[as\] a portent to the house of Israel. 
-<small><sub>**KJV:**</sub></small>
-In their sight shalt thou bear [it] upon [thy] shoulders, [and] carry [it] forth in the twilight: thou shalt cover thy face, that thou see not the ground: for I have set thee [for] a sign unto the house of Israel.
-<small><sub>**BSB:**</sub></small>
-And as they watch, lift your bags to your shoulder and take them out at dusk; cover your face so that you cannot see the land. For I have made you a sign to the house of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.5|<< Ezekiel 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.7|Ezekiel 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

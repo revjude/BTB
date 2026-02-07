@@ -1,12 +1,12 @@
-**Acts 8:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:14**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:
 <small><sub>**BSB:**</sub></small>
 When the apostles in Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them.
 <small><sub>**Literal:**</sub></small>
 Having heard now the in Jerusalem apostles that has received <the> Samaria the word <the> of God, they sent to them <the> Peter and John;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.13|<< Acts 8:13]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.15|Acts 8:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσαντες]]</big>**  |Akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

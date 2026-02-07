@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:26** 
 <small><sub>**LXX:**</sub></small>
 And they changed and revolted from you. And they tossed  your law behind their body, and  they killed your prophets, the ones testifying to them to turn them towards you. And they made great provocations to anger. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless they were disobedient, and rebelled against thee, and cast thy law behind their backs, and slew thy prophets which testified against them to turn them to thee, and they wrought great provocations.
-<small><sub>**BSB:**</sub></small>
-But they were disobedient and rebelled against You; they flung Your law behind their backs. They killed Your prophets, who had admonished them to return to You. They committed terrible blasphemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.25|<< Nehemiah 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.27|Nehemiah 9:27 >>]]</td></tr></table>
 
 | Translation | Greek |

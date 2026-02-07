@@ -1,12 +1,12 @@
-**Ephesians 3:19
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:19**<big><big>[[Eph.3.14 Paul’s Prayer for the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.
 <small><sub>**BSB:**</sub></small>
 of the love of Christ, and to know this love that surpasses knowledge, that you may be filled with all the fullness of God.
 <small><sub>**Literal:**</sub></small>
 to know then which is surpassing <the> knowledge love <the> of Christ, so that you may be filled unto all the fullness <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.18|<< Ephesians 3:18]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.20|Ephesians 3:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to know |**<big>[[G1097\|γνῶναί]]</big>**  |gnōnai <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

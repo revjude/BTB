@@ -1,4 +1,4 @@
-**2 Chronicles 33:25** 
+**2 Chronicles 33:25**<big><big>[[2Chr.33.21 Amon Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the people of the land killed all those who had conspired against King Amon,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.24|<< 2 Chronicles 33:24]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.1|2 Chronicles 34:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they struck down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּכּוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H5971A\|עַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'am-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

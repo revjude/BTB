@@ -1,10 +1,7 @@
 **LXX Psalm 96:9** 
 <small><sub>**LXX:**</sub></small>
 Do obeisance to the <span class="smallcaps">lord</span> in his holy courtyard! all the earth shake before his face! 
-<small><sub>**KJV:**</sub></small>
-O worship the LORD in the beauty of holiness: fear before him, all the earth.
-<small><sub>**BSB:**</sub></small>
-Worship the LORD in the splendor of His holiness; tremble before Him, all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.96.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.8|<< Psalm 96:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.10|Psalm 96:10 >>]]</td></tr></table>
 
 | Translation | Greek |

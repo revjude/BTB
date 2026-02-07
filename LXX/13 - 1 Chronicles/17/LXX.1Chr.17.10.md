@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:10** 
 <small><sub>**LXX:**</sub></small>
 And from days which I arranged judges over  my people Israel, and I humbled all  your enemies, even I will increase you, and I will build to you a house, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And since the time that I commanded judges [to be] over my people Israel. Moreover I will subdue all thine enemies. Furthermore I tell thee that the LORD will build thee an house.
-<small><sub>**BSB:**</sub></small>
-and have done since the day I appointed judges over My people Israel. And I will subdue all your enemies. Moreover, I declare to you that the LORD will build a house for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.9|<< 1 Chronicles 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.11|1 Chronicles 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

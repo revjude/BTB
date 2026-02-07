@@ -1,4 +1,4 @@
-**Joshua 3:13** 
+**Joshua 3:13**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the LORD, the Lord of all the earth, shall rest in the waters of Jordan, [that] the waters of Jordan shall be cut off [from] the waters that come down from above; and they shall stand upon an heap.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the feet of the priests who carry the ark of the LORD—the Lord of all the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.12|<< Joshua 3:12]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.14|Joshua 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֡ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when rest  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5117\|נ֣וֹחַ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> No.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

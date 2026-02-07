@@ -1,4 +1,4 @@
-**Numbers 34:15** 
+**Numbers 34:15**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The two tribes and the half tribe have received their inheritance on this side Jordan [near] Jericho eastward, toward the sunrising.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These two and a half tribes have received their inheritance across the Jordan fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.14|<< Numbers 34:14]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.16|Numbers 34:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁנֵ֥י]]&#8207; </big>**| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the tribes  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4294H\|מַּטּ֖וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Tot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

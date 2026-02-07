@@ -1,4 +1,4 @@
-**2 Chronicles 9:24** 
+**2 Chronicles 9:24**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought every man his present, vessels of silver, and vessels of gold, and raiment, harness, and spices, horses, and mules, a rate year by year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Year after year, each visitor would bring his tribute: articles of silver and go
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.23|<< 2 Chronicles 9:23]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.25|2 Chronicles 9:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] bringing  |**<big>&#8207;[[H0935P\|מְבִיאִ֣ים]]&#8207; </big>**| me.vi.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

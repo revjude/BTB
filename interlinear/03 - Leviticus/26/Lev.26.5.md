@@ -1,4 +1,4 @@
-**Leviticus 26:5** 
+**Leviticus 26:5**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your threshing shall reach unto the vintage, and the vintage shall reach unto the sowing time: and ye shall eat your bread to the full, and dwell in your land safely.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your threshing will continue until the grape harvest, and the grape harvest will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.4|<< Leviticus 26:4]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.6|Leviticus 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will reach  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5381\|הִשִּׂ֨יג]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Sig<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֥ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

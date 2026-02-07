@@ -1,4 +1,4 @@
-**1 Chronicles 2:48** 
+**1 Chronicles 2:48**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Maachah, Caleb’s concubine, bare Sheber, and Tirhanah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Caleb’s concubine Maacah was the mother of Sheber and Tirhanah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.47|<< 1 Chronicles 2:47]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.49|1 Chronicles 2:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] concubine of  |**<big>&#8207;[[H6370\|פִּלֶ֤גֶשׁ]]&#8207; </big>**| pi.Le.gesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Caleb  |**<big>&#8207;[[H3612H\|כָּלֵב֙]]&#8207; </big>**| ka.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

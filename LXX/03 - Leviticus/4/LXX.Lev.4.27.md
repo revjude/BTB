@@ -1,10 +1,7 @@
 **LXX Leviticus 4:27** 
 <small><sub>**LXX:**</sub></small>
 And if one soul should sin unintentionally from among the people of the land, in the committing one \[trespass\] from all of the commandments of \[the\] <span class="smallcaps">lord</span>, which should not be done, and he should trespass, 
-<small><sub>**KJV:**</sub></small>
-And if any one of the common people sin through ignorance, while he doeth [somewhat against] any of the commandments of the LORD [concerning things] which ought not to be done, and be guilty;
-<small><sub>**BSB:**</sub></small>
-And if one of the common people sins unintentionally and does what is prohibited by any of the LORD’s commandments, he incurs guilt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.26|<< Leviticus 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.28|Leviticus 4:28 >>]]</td></tr></table>
 
 | Translation | Greek |

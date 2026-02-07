@@ -1,4 +1,4 @@
-**Deuteronomy 23:11** (23:12)
+**Deuteronomy 23:11**<big><big>[[Deut.23.9 Uncleanness in the Camp|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But it shall be, when evening cometh on, he shall wash [himself] with water: and when the sun is down, he shall come into the camp [again].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When evening approaches, he must wash with water, and when the sun sets he may r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.10|<< Deuteronomy 23:10]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.12|Deuteronomy 23:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] turning of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6437G\|פְנֽוֹת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.not-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

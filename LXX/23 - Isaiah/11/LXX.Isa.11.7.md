@@ -1,10 +1,7 @@
 **LXX Isaiah 11:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] ox and bear shall graze together, and their offspring will be together; and \[the\] lion shall eat straw as an ox. 
-<small><sub>**KJV:**</sub></small>
-And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
-<small><sub>**BSB:**</sub></small>
-The cow will graze with the bear, their young will lie down together, and the lion will eat straw like the ox.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.6|<< Isaiah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.8|Isaiah 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

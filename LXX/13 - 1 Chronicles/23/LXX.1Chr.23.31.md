@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:31** 
 <small><sub>**LXX:**</sub></small>
 and upon all the offerings of whole burnt-offerings to the <span class="smallcaps">lord</span> on the Sabbaths, and on the new moons, and on the holidays, according to number, according to the ordinance upon them, always before \[the\] <span class="smallcaps">lord</span>; 
-<small><sub>**KJV:**</sub></small>
-And to offer all burnt sacrifices unto the LORD in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the LORD:
-<small><sub>**BSB:**</sub></small>
-Whenever burnt offerings were presented to the LORD on the Sabbaths, New Moons, and appointed feasts, they were to serve regularly before the LORD in the numbers prescribed for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.30|<< 1 Chronicles 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.32|1 Chronicles 23:32 >>]]</td></tr></table>
 
 | Translation | Greek |

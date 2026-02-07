@@ -1,10 +1,7 @@
 **LXX Leviticus 11:35** 
 <small><sub>**LXX:**</sub></small>
 And all upon what ever should fall from  their decaying flesh upon it, it shall be unclean -- ovens and pots with feet shall be demolished; these are unclean, and they shall be unclean to you. 
-<small><sub>**KJV:**</sub></small>
-And every [thing] whereupon [any part] of their carcase falleth shall be unclean; [whether it be] oven, or ranges for pots, they shall be broken down: [for] they [are] unclean, and shall be unclean unto you.
-<small><sub>**BSB:**</sub></small>
-Anything upon which one of their carcasses falls will be unclean. If it is an oven or cooking pot, it must be smashed; it is unclean and will remain unclean for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.34|<< Leviticus 11:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.36|Leviticus 11:36 >>]]</td></tr></table>
 
 | Translation | Greek |

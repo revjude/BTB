@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:11** 
 <small><sub>**LXX:**</sub></small>
 And David rose up in the morning, and \[the\] word of \[the\] <span class="smallcaps">lord</span> came to Gad the prophet, the one seeing \[for\] David, saying, 
-<small><sub>**KJV:**</sub></small>
-For when David was up in the morning, the word of the LORD came unto the prophet Gad, David’s seer, saying,
-<small><sub>**BSB:**</sub></small>
-When David got up in the morning, the word of the LORD had come to Gad the prophet, David’s seer:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.10|<< 2 Samuel 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.12|2 Samuel 24:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:26** 
 <small><sub>**LXX:**</sub></small>
 And now your name be magnified until \[the\] eon, saying, 
-<small><sub>**KJV:**</sub></small>
-And let thy name be magnified for ever, saying, The LORD of hosts [is] the God over Israel: and let the house of thy servant David be established before thee.
-<small><sub>**BSB:**</sub></small>
-so that Your name will be magnified forever when it is said, ‘The LORD of Hosts is God over Israel.’ And the house of Your servant David will be established before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.25|<< 2 Samuel 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.27|2 Samuel 7:27 >>]]</td></tr></table>
 
 | Translation | Greek |

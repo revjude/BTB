@@ -1,10 +1,7 @@
 **LXX Numbers 35:28** 
 <small><sub>**LXX:**</sub></small>
 For in the city  of his refuge let him dwell until the great priest should die! And after the dying of the great priest the one man-slaying will be able to return unto the land  of his possession. 
-<small><sub>**KJV:**</sub></small>
-Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer shall return into the land of his possession.
-<small><sub>**BSB:**</sub></small>
-because the manslayer must remain in his city of refuge until the death of the high priest. Only after the death of the high priest may he return to the land he owns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.27|<< Numbers 35:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.29|Numbers 35:29 >>]]</td></tr></table>
 
 | Translation | Greek |

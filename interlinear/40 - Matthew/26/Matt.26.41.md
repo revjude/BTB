@@ -1,12 +1,12 @@
-**Matthew 26:41
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:41**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Watch and pray, that ye enter not into temptation: the spirit indeed [is] willing, but the flesh [is] weak.
 <small><sub>**BSB:**</sub></small>
 “Watch and pray so that you will not enter into temptation. For the spirit is willing, but the body is weak.”
 <small><sub>**Literal:**</sub></small>
 do watch and do pray that not you may enter into temptation. The indeed spirit [is] willing <the> however the flesh weak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.40|<< Matthew 26:40]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.42|Matthew 26:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do watch |**<big>[[G1127\|γρηγορεῖτε]]</big>**  |grēgoreite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

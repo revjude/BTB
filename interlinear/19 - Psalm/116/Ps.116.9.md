@@ -1,4 +1,4 @@
-**Psalms 116:9** 
+**Psalms 116:9**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will walk before the LORD in the land of the living.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will walk before the LORD in the land of the living.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.8|<< Psalms 116:8]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.10|Psalms 116:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will walk about  |**<big>&#8207;[[H1980I\|אֶ֭תְהַלֵּךְ]]&#8207; </big>**| 'Et.ha.lekh<small><sup>[[HVti1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

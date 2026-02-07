@@ -1,10 +1,7 @@
 **LXX Proverbs 10:16** 
 <small><sub>**LXX:**</sub></small>
 \[The\] works of \[the\] just produce life; but \[the\] fruit of \[the\] impious \[produces\] sins. 
-<small><sub>**KJV:**</sub></small>
-The labour of the righteous [tendeth] to life: the fruit of the wicked to sin.
-<small><sub>**BSB:**</sub></small>
-The labor of the righteous leads to life, but the gain of the wicked brings punishment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.15|<< Proverbs 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.17|Proverbs 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

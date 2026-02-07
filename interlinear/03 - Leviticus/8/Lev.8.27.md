@@ -1,4 +1,4 @@
-**Leviticus 8:27** 
+**Leviticus 8:27**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put all upon Aaron’s hands, and upon his sons’ hands, and waved them [for] a wave offering before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He put all these in the hands of Aaron and his sons and waved them before the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.26|<< Leviticus 8:26]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.28|Leviticus 8:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414H\|יִּתֵּ֣ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

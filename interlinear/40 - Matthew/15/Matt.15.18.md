@@ -1,12 +1,12 @@
-**Matthew 15:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:18**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But those things which proceed out of the mouth come forth from the heart; and they defile the man.
 <small><sub>**BSB:**</sub></small>
 But the things that come out of the mouth come from the heart, and these things defile a man.
 <small><sub>**Literal:**</sub></small>
 Things however going forth out of the mouth out of the heart come forth, and these defile the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.17|<< Matthew 15:17]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.19|Matthew 15:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Things |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

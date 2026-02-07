@@ -1,4 +1,4 @@
-**Hosea 14:9** (14:10)
+**Hosea 14:9**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] wise, and he shall understand these [things]? prudent, and he shall know them? for the ways of the LORD [are] right, and the just shall walk in them: but the transgressors shall fall therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever is wise, let him understand these things; whoever is discerning, let him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.8|<< Hosea 14:8]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.1|Joel 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] wise  |**<big>&#8207;[[H2450\|חָכָם֙]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 11:37** 
 <small><sub>**LXX:**</sub></small>
 And she said to  her father, And do to me  this thing! Allow me two months and I shall go and shall come down upon the mountains, and I shall weep over the tokens of my virginity, I and  my female companions. 
-<small><sub>**KJV:**</sub></small>
-And she said unto her father, Let this thing be done for me: let me alone two months, that I may go up and down upon the mountains, and bewail my virginity, I and my fellows.
-<small><sub>**BSB:**</sub></small>
-She also said to her father, “Let me do this one thing: Let me wander for two months through the mountains with my friends and mourn my virginity.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.36|<< Judges 11:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.38|Judges 11:38 >>]]</td></tr></table>
 
 | Translation | Greek |

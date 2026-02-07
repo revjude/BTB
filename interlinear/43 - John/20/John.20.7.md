@@ -1,12 +1,12 @@
-**John 20:7
-**<small><sub>**KJV:**</sub></small>
+**John 20:7**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself.
 <small><sub>**BSB:**</sub></small>
 The cloth that had been around Jesus’ head was rolled up, lying separate from the linen cloths.
 <small><sub>**Literal:**</sub></small>
 and the soudarion which was upon the head of Him not with the linen cloths lying but by itself folded up in a place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.6|<< John 20:6]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.8|John 20:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

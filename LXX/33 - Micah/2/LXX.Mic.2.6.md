@@ -1,10 +1,7 @@
 **LXX Micah 2:6** 
 <small><sub>**LXX:**</sub></small>
 Weep not tears, nor burst into tears over these \[things\]! For he will not thrust away \[the\] scorn. 
-<small><sub>**KJV:**</sub></small>
-Prophesy ye not, [say they to them that] prophesy: they shall not prophesy to them, [that] they shall not take shame.
-<small><sub>**BSB:**</sub></small>
-“Do not preach,” they preach. “Do not preach these things; disgrace will not overtake us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.5|<< Micah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.7|Micah 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

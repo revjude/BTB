@@ -1,12 +1,12 @@
-**Ephesians 4:19
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:19**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.
 <small><sub>**BSB:**</sub></small>
 Having lost all sense of shame, they have given themselves over to sensuality for the practice of every kind of impurity, with a craving for more.
 <small><sub>**Literal:**</sub></small>
 who having cast off all feeling themselves they gave up <the> to sensuality for [the] working of impurity all with greediness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.18|<< Ephesians 4:18]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.20|Ephesians 4:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having cast off all feeling |**<big>[[G0524\|ἀπηλγηκότες]]</big>**  |apēlgēkotes <small><sup>[[V-RAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

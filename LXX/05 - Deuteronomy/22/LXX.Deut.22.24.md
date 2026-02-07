@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:24** 
 <small><sub>**LXX:**</sub></small>
 you shall lead out both unto the gate  of their city, and they shall be stoned with stones, and they shall die; the young woman, for she did not yell out in the city; and the man, for he humbled the wife  of his neighbor; and you shall lift away the evil from yourselves of them. 
-<small><sub>**KJV:**</sub></small>
-Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, [being] in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you.
-<small><sub>**BSB:**</sub></small>
-you must take both of them out to the gate of that city and stone them to death—the young woman because she did not cry out in the city, and the man because he has violated his neighbor’s wife. So you must purge the evil from among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.23|<< Deuteronomy 22:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.25|Deuteronomy 22:25 >>]]</td></tr></table>
 
 | Translation | Greek |

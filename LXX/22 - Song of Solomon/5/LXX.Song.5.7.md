@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:7** 
 <small><sub>**LXX:**</sub></small>
 They found me, the guards, the ones encircling in the city. They struck me, they wounded me, \[the\] keepers of the walls took my lightweight covering from me. 
-<small><sub>**KJV:**</sub></small>
-The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.
-<small><sub>**BSB:**</sub></small>
-I encountered the watchmen on their rounds of the city. They beat me and bruised me; they took away my cloak, those guardians of the walls.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.6|<< Song of Solomon 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.8|Song of Solomon 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

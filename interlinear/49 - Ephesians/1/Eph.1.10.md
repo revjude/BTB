@@ -1,12 +1,12 @@
-**Ephesians 1:10
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:10**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; [even] in him:
 <small><sub>**BSB:**</sub></small>
 as a plan for the fullness of time, to bring all things in heaven and on earth together in Christ.
 <small><sub>**Literal:**</sub></small>
 for [the] administration of the fullness of the times, to bring together the all things in <the> Christ, the [things] then in the heavens and the [things] upon the earth, {11} in Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.9|<< Ephesians 1:9]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.11|Ephesians 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] administration |**<big>[[G3622\|οἰκονομίαν]]</big>**  |oikonomian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 6:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:18**<big><big>[[Luke.6.17 Jesus Heals the Multitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that were vexed with unclean spirits: and they were healed.
 <small><sub>**BSB:**</sub></small>
 They had come to hear Him and to be healed of their diseases, and those troubled by unclean spirits were healed.
 <small><sub>**Literal:**</sub></small>
 who came to hear Him and to be healed of the diseases of them. [18] And those being troubled with spirits unclean and were healed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.17|<< Luke 6:17]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.19|Luke 6:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|οἳ]]</big>**  |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | came |**<big>[[G2064\|ἦλθον]]</big>**  [^2] |ēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^3] | |

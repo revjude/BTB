@@ -1,4 +1,4 @@
-**Leviticus 19:15** 
+**Leviticus 19:15**<big><big>[[Lev.19.9 Love Your Neighbor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: [but] in righteousness shalt thou judge thy neighbour.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You must not pervert justice; you must not show partiality to the poor or favori
 > $\quad$ referenced by: [[Matt.18.16|Matt 18:16]] ☩ [[Jas.2.1|Jas 2:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will do  |**<big>&#8207;[[H6213A\|תַעֲשׂ֥וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

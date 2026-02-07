@@ -1,10 +1,7 @@
 **LXX Psalm 22:12** 
 <small><sub>**LXX:**</sub></small>
 Many calves surround me; hearty bulls compass me. 
-<small><sub>**KJV:**</sub></small>
-Many bulls have compassed me: strong [bulls] of Bashan have beset me round.
-<small><sub>**BSB:**</sub></small>
-Many bulls surround me; strong bulls of Bashan encircle me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.11|<< Psalm 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.13|Psalm 22:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:12** is...

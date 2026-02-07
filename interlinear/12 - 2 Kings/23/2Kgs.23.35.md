@@ -1,4 +1,4 @@
-**2 Kings 23:35** 
+**2 Kings 23:35**<big><big>[[2Kgs.23.31 Jehoahaz Succeeds Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give [it] unto Pharaohnechoh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jehoiakim paid the silver and gold to Pharaoh Neco, but to meet Pharaoh’s d
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.34|<< 2 Kings 23:34]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.36|2 Kings 23:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the silver  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3701G\|כֶּ֣סֶף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the gold  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2091\|זָּהָ֗ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

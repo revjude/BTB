@@ -1,10 +1,7 @@
 **LXX Joel 3:15** 
 <small><sub>**LXX:**</sub></small>
 The sun and the moon shall darken, and the stars shall let down  their brightness. 
-<small><sub>**KJV:**</sub></small>
-The sun and the moon shall be darkened, and the stars shall withdraw their shining.
-<small><sub>**BSB:**</sub></small>
-The sun and moon will grow dark, and the stars will no longer shine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.14|<< Joel 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.16|Joel 3:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 3:15** is...

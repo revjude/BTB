@@ -1,4 +1,4 @@
-**1 Kings 1:7** 
+**1 Kings 1:7**<big><big>[[1Kgs.1.5 Adonijah Usurps the Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped [him].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Adonijah conferred with Joab son of Zeruiah and with Abiathar the priest, who
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.6|<< 1 Kings 1:6]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.8|1 Kings 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | words his  |**<big>&#8207;[[H1697I\|דְבָרָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| de.va.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 16:30** 
 <small><sub>**LXX:**</sub></small>
 But if by a visible manifestation \[the\] <span class="smallcaps">lord</span> shall show, and the earth opening  its mouth shall swallow them, and  their houses, and  their tents, and all as much as is theirs, and they shall go down alive into Hades, then you shall know that these men provoked the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But if the LORD make a new thing, and the earth open her mouth, and swallow them up, with all that [appertain] unto them, and they go down quick into the pit; then ye shall understand that these men have provoked the LORD.
-<small><sub>**BSB:**</sub></small>
-But if the LORD brings about something unprecedented, and the earth opens its mouth and swallows them and all that belongs to them so that they go down alive into Sheol, then you will know that these men have treated the LORD with contempt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.29|<< Numbers 16:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.31|Numbers 16:31 >>]]</td></tr></table>
 
 | Translation | Greek |

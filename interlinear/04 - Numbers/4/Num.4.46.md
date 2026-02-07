@@ -1,4 +1,4 @@
-**Numbers 4:46** 
+**Numbers 4:46**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Moses, Aaron, and the leaders of Israel numbered by their clans and families 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.45|<< Numbers 4:45]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.47|Numbers 4:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those enrolled  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6485A\|פְּקֻדִ֡ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.ku.Dim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

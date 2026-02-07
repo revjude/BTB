@@ -1,4 +1,4 @@
-**Jeremiah 4:5** 
+**Jeremiah 4:5**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Announce in Judah, proclaim in Jerusalem, and say: “Blow the ram’s horn thro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.4|<< Jeremiah 4:4]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.6|Jeremiah 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | declare  |**<big>&#8207;[[H5046\|הַגִּ֣ידוּ]]&#8207; </big>**| ha.Gi.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Judah  |**<big>&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H3063G\|יהוּדָ֗ה]]&#8207; </big>**| vi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 6:15** 
+**2 Chronicles 6:15**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou which hast kept with thy servant David my father that which thou hast promised him; and spakest with thy mouth, and hast fulfilled [it] with thine hand, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have kept Your promise to Your servant, my father David. What You spoke with
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.14|<< 2 Chronicles 6:14]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.16|2 Chronicles 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have kept  |**<big>&#8207;[[H8104G\|שָׁמַ֗רְתָּ]]&#8207; </big>**| sha.Mar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

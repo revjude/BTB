@@ -1,12 +1,12 @@
-**Luke 7:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:26**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.
 <small><sub>**BSB:**</sub></small>
 What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet.
 <small><sub>**Literal:**</sub></small>
 But what have you gone out to see? A prophet? Yes I say to you; and [one] more excellent than a prophet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.25|<< Luke 7:25]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.27|Luke 7:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

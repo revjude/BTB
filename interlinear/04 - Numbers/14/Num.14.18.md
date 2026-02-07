@@ -1,4 +1,4 @@
-**Numbers 14:18** 
+**Numbers 14:18**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing [the guilty], visiting the iniquity of the fathers upon the children unto the third and fourth [generation].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD [is] longsuffering, and of great mercy, forgiving iniquity and transgre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.17|<< Numbers 14:17]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.19|Numbers 14:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] long of  |**<big>&#8207;[[H0750\|אֶ֤רֶךְ]]&#8207; </big>**| 'E.rekh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

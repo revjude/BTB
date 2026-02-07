@@ -1,4 +1,4 @@
-**Jeremiah 51:45** 
+**Jeremiah 51:45**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My people, go ye out of the midst of her, and deliver ye every man his soul from the fierce anger of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Come out of her, My people! Save your lives, each of you, from the fierce anger 
 > $\quad$ referenced by: [[2Cor.6.17|2Cor 6:17]] ☩ [[Rev.18.4|Rev 18:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come out  |**<big>&#8207;[[H3318G\|צְא֤וּ]]&#8207; </big>**| tze.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] midst of it  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8432\|תּוֹכָ]]&#8207;&#8207;[[H9024\|הּ֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

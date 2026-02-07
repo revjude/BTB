@@ -1,12 +1,12 @@
-**1 Thessalonians 2:13
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:13**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received [it] not [as] the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.
 <small><sub>**BSB:**</sub></small>
 And we continually thank God because, when you received the word of God that you heard from us, you accepted it not as the word of men, but as it truly is, the word of God, which is also now at work in you who believe.
 <small><sub>**Literal:**</sub></small>
 And because of this also we ourselves give thanks <the> to God unceasingly that having received [the] word [by your] hearing from us <the> of God you accepted not [the] word of men but even as it is truly [the] word of God, which also works in you who believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.12|<< 1 Thessalonians 2:12]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.14|1 Thessalonians 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

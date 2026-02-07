@@ -1,10 +1,7 @@
 **LXX Job 36:21** 
 <small><sub>**LXX:**</sub></small>
 But guard lest you act out of place! for of these \[things\] you took up because of poorness. 
-<small><sub>**KJV:**</sub></small>
-Take heed, regard not iniquity: for this hast thou chosen rather than affliction.
-<small><sub>**BSB:**</sub></small>
-Be careful not to turn to iniquity, for this you have preferred to affliction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.20|<< Job 36:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.22|Job 36:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 13:37
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:37**<big><big>[[Mark.13.32 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And what I say unto you I say unto all, Watch.
 <small><sub>**BSB:**</sub></small>
 And what I say to you, I say to everyone: Keep watch!”
 <small><sub>**Literal:**</sub></small>
 What [thing] now to you I say, to all I say: do watch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.36|<< Mark 13:36]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.1|Mark 14:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What [thing] [^1] |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

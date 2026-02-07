@@ -1,10 +1,7 @@
 **LXX Psalm 112:8** 
 <small><sub>**LXX:**</sub></small>
 His heart is fixed firmly; in no way should he be fearful, until of which \[time\] he should see \[his desires\] upon  his enemies. 
-<small><sub>**KJV:**</sub></small>
-His heart [is] established, he shall not be afraid, until he see [his desire] upon his enemies.
-<small><sub>**BSB:**</sub></small>
-His heart is assured; he does not fear, until he looks in triumph on his foes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.112.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.7|<< Psalm 112:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.112.9|Psalm 112:9 >>]]</td></tr></table>
 
 | Translation | Greek |

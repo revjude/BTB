@@ -1,4 +1,4 @@
-**Genesis 1:3** 
+**Genesis 1:3**<big><big>[[Gen.1.3 The First Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Let there be light: and there was light.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And God said, “Let there be light,” and there was light.
 > $\quad$ referenced by: [[2Cor.4.6|2Cor 4:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

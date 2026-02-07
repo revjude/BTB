@@ -1,4 +1,4 @@
-**Daniel 5:31** (6:1)
+**Daniel 5:31**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Darius the Median took the kingdom, [being] about threescore and two years old.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Darius the Mede received the kingdom at the age of sixty-two.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.30|<< Daniel 5:30]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.1|Daniel 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Darius  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1868H\|דָרְיָ֙וֶשׁ֙]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> da.re.Ya.vesh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Median the  [^2]|**<big>&#8207;[[H4077\|מָֽדָאָ֔]]&#8207;&#8207;[[H9010\|ה]]&#8207; </big>**[^3] | ma.da.ya<small><sup>[[ANgbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

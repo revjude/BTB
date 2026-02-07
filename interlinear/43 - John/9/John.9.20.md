@@ -1,12 +1,12 @@
-**John 9:20
-**<small><sub>**KJV:**</sub></small>
+**John 9:20**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 His parents answered them and said, We know that this is our son, and that he was born blind:
 <small><sub>**BSB:**</sub></small>
 His parents answered, “We know he is our son, and we know he was born blind.
 <small><sub>**Literal:**</sub></small>
 Answered therefore to them the parents of him and said; We know that this is the son of us and that blind he was born;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.19|<< John 9:19]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.21|John 9:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθησαν]]</big>**  |apekrithēsan <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)</abbr> | |

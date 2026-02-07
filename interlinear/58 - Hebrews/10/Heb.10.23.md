@@ -1,12 +1,12 @@
-**Hebrews 10:23
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:23**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let us hold fast the profession of [our] faith without wavering; (for he [is] faithful that promised;)
 <small><sub>**BSB:**</sub></small>
 Let us hold resolutely to the hope we profess, for He who promised is faithful.
 <small><sub>**Literal:**</sub></small>
 We may hold fast to the confession <the> of [our] hope firmly, faithful for [is] the [One] having promised,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.22|<< Hebrews 10:22]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.24|Hebrews 10:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We may hold fast |**<big>[[G2722\|κατέχωμεν]]</big>**  |katechōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

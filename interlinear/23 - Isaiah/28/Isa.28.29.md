@@ -1,4 +1,4 @@
-**Isaiah 28:29** 
+**Isaiah 28:29**<big><big>[[Isa.28.23 Listen and Hear|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This also cometh forth from the LORD of hosts, [which] is wonderful in counsel, [and] excellent in working.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This also comes from the LORD of Hosts, who is wonderful in counsel and excellen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.28|<< Isaiah 28:28]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.1|Isaiah 29:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֕את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

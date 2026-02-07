@@ -1,4 +1,4 @@
-**Ezekiel 19:6** 
+**Ezekiel 19:6**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went up and down among the lions, he became a young lion, and learned to catch the prey, [and] devoured men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He prowled among the lions, and became a young lion. After learning to tear his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.5|<< Ezekiel 19:5]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.7|Ezekiel 19:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went about  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980I\|יִּתְהַלֵּ֥ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ha.Lekh<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in among  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תוֹךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> tokh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

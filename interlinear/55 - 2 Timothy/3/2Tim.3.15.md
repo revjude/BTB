@@ -1,12 +1,12 @@
-**2 Timothy 3:15
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:15**<big><big>[[2Tim.3.10 All Scripture Is God-Breathed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that from a child thou hast known the holy scriptures, which are able to make thee wise unto salvation through faith which is in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 From infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 and for from childhood the sacred writings you know, which are being able you to make wise unto salvation through faith <the> in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.14|<< 2 Timothy 3:14]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.16|2 Timothy 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 144:10** 
+**Psalms 144:10**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is he] that giveth salvation unto kings: who delivereth David his servant from the hurtful sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to Him who gives victory to kings, who frees His servant David from the deadly s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.9|<< Psalms 144:9]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.11|Psalms 144:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who gives  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5414G\|נּוֹתֵ֥ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deliverance  |**<big>&#8207;[[H8668H\|תְּשׁוּעָ֗ה]]&#8207; </big>**| te.shu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

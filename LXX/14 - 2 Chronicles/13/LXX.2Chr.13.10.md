@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:10** 
 <small><sub>**LXX:**</sub></small>
 And we did not abandon \[the\] <span class="smallcaps">lord</span> our God. And  his priests officiate to the <span class="smallcaps">lord</span>, the sons of Aaron and the Levites in  their daily rotations. 
-<small><sub>**KJV:**</sub></small>
-But as for us, the LORD [is] our God, and we have not forsaken him; and the priests, which minister unto the LORD, [are] the sons of Aaron, and the Levites [wait] upon [their] business:
-<small><sub>**BSB:**</sub></small>
-But as for us, the LORD is our God. We have not forsaken Him; the priests who minister to the LORD are sons of Aaron, and the Levites attend to their duties.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.9|<< 2 Chronicles 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.11|2 Chronicles 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

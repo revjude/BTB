@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:11** 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to David all as much as Rizpah daughter of Aiah concubine of Saul did. 
-<small><sub>**KJV:**</sub></small>
-And it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done.
-<small><sub>**BSB:**</sub></small>
-When David was told what Saul’s concubine Rizpah, daughter of Aiah, had done,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.10|<< 2 Samuel 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.12|2 Samuel 21:12 >>]]</td></tr></table>
 
 | Translation | Greek |

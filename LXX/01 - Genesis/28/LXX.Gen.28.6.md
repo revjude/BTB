@@ -1,10 +1,7 @@
 **LXX Genesis 28:6** 
 <small><sub>**LXX:**</sub></small>
 And Esau having seen that Isaac blessed  Jacob, and sent \[him\] into  Mesopotamia of Syria to take to himself a wife from there -- in the blessing him, and gave charge to him, saying, You shall not take a wife of the daughters of the Canaanites, 
-<small><sub>**KJV:**</sub></small>
-When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughters of Canaan;
-<small><sub>**BSB:**</sub></small>
-Now Esau learned that Isaac had blessed Jacob and sent him to Paddan-aram to take a wife there, commanding him, “Do not marry a Canaanite woman,”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.5|<< Genesis 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.7|Genesis 28:7 >>]]</td></tr></table>
 
 | Translation | Greek |

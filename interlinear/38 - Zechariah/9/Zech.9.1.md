@@ -1,4 +1,4 @@
-**Zechariah 9:1** 
+**Zechariah 9:1**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of the word of the LORD in the land of Hadrach, and Damascus [shall be] the rest thereof: when the eyes of man, as of all the tribes of Israel, [shall be] toward the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the burden of the word of the LORD against the land of Hadrach and Damas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.23|<< Zechariah 8:23]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.2|Zechariah 9:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֤א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] word of  |**<big>&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

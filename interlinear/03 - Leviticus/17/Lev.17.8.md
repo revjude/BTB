@@ -1,4 +1,4 @@
-**Leviticus 17:8** 
+**Leviticus 17:8**<big><big>[[Lev.17.1 The Place of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt say unto them, Whatsoever man [there be] of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tell them that if anyone from the house of Israel or any foreigner living among 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.7|<< Leviticus 17:7]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.9|Leviticus 17:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to them  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0413\|אֲלֵ]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.le.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹּאמַ֔ר]]&#8207; </big>**| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

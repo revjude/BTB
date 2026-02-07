@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:46** 
 <small><sub>**LXX:**</sub></small>
 And king Solomon gave charge \[to\] Benaiah son of Jehoiada. And he came forth, and did away with him, and he died. 
-<small><sub>**KJV:**</sub></small>
-So the king commanded Benaiah the son of Jehoiada; which went out, and fell upon him, that he died. And the kingdom was established in the hand of Solomon.
-<small><sub>**BSB:**</sub></small>
-Then the king commanded Benaiah son of Jehoiada, and he went out and struck Shimei down, and he died. Thus the kingdom was firmly established in the hand of Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.45|<< 1 Kings 2:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.1|1 Kings 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

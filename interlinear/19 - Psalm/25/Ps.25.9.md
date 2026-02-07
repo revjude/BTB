@@ -1,4 +1,4 @@
-**Psalms 25:9** 
+**Psalms 25:9**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The meek will he guide in judgment: and the meek will he teach his way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He guides the humble in what is right and teaches them His way.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.8|<< Psalms 25:8]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.10|Psalms 25:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he leads  |**<big>&#8207;[[H1869\|יַדְרֵ֣ךְ]]&#8207; </big>**| yad.Rekh<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humble [people]  |**<big>&#8207;[[H6035\|עֲ֭נָוִים]]&#8207; </big>**| 'A.na.vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

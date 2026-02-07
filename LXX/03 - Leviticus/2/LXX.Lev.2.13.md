@@ -1,10 +1,7 @@
 **LXX Leviticus 2:13** 
 <small><sub>**LXX:**</sub></small>
 And every gift \[offering\] of your sacrifice shall be salted \[with\] salt. You shall not discontinue salt \[from the\] covenant of \[the\] <span class="smallcaps">lord</span> with your sacrifices; you shall offer salt upon all your gift \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt.
-<small><sub>**BSB:**</sub></small>
-And you shall season each of your grain offerings with salt. You must not leave the salt of the covenant of your God out of your grain offering; you are to add salt to each of your offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.12|<< Leviticus 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.14|Leviticus 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

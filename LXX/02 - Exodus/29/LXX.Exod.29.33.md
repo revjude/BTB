@@ -1,10 +1,7 @@
 **LXX Exodus 29:33** 
 <small><sub>**LXX:**</sub></small>
 They shall eat \[the offerings\] with which they were sanctified by them, to perfect  their hands, to sanctify them. And a foreigner shall not eat from them, for it is holy. 
-<small><sub>**KJV:**</sub></small>
-And they shall eat those things wherewith the atonement was made, to consecrate [and] to sanctify them: but a stranger shall not eat [thereof], because they [are] holy.
-<small><sub>**BSB:**</sub></small>
-They must eat those things by which atonement was made for their ordination and consecration. But no outsider may eat them, because these things are sacred.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.32|<< Exodus 29:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.34|Exodus 29:34 >>]]</td></tr></table>
 
 | Translation | Greek |

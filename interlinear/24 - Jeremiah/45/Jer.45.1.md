@@ -1,4 +1,4 @@
-**Jeremiah 45:1** 
+**Jeremiah 45:1**<big><big>[[Jer.45.1 Jeremiah’s Message to Baruch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the word that Jeremiah the prophet spoke to Baruch son of Neriah when he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.45.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.30|<< Jeremiah 44:30]]</td><td align="center" style="border:none;">[[Jer.45|Jeremiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.45.2|Jeremiah 45:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֗ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

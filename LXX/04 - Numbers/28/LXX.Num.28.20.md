@@ -1,10 +1,7 @@
 **LXX Numbers 28:20** 
 <small><sub>**LXX:**</sub></small>
 And their sacrifice \[offering\] \[shall be\] of fine flour being prepared in olive oil, three tenths for the one calf, and two tenths for the one ram. 
-<small><sub>**KJV:**</sub></small>
-And their meat offering [shall be of] flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram;
-<small><sub>**BSB:**</sub></small>
-The grain offering shall consist of fine flour mixed with oil; offer three-tenths of an ephah with each bull, two-tenths of an ephah with the ram,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.19|<< Numbers 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.21|Numbers 28:21 >>]]</td></tr></table>
 
 | Translation | Greek |

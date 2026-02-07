@@ -1,4 +1,4 @@
-**Isaiah 22:16** 
+**Isaiah 22:16**<big><big>[[Isa.22.15 A Message for Shebna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What hast thou here? and whom hast thou here, that thou hast hewed thee out a sepulchre here, [as] he that heweth him out a sepulchre on high, [and] that graveth an habitation for himself in a rock?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What are you doing here, and who authorized you to carve out a tomb for yourself
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.15|<< Isaiah 22:15]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.17|Isaiah 22:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to you  |**<big>&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

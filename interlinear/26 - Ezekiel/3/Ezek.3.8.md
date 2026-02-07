@@ -1,4 +1,4 @@
-**Ezekiel 3:8** 
+**Ezekiel 3:8**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have made thy face strong against their faces, and thy forehead strong against their foreheads.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I will make your face as hard as their faces, and your forehead as hard 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.7|<< Ezekiel 3:7]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.9|Ezekiel 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I make  |**<big>&#8207;[[H5414I\|נָתַ֧תִּי]]&#8207; </big>**| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

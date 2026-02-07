@@ -1,10 +1,7 @@
 **LXX Proverbs 1:23** 
 <small><sub>**LXX:**</sub></small>
 and become accountable for reproofs. Behold, I will let go to you my breath's saying, and I will teach you  by my word. 
-<small><sub>**KJV:**</sub></small>
-Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.
-<small><sub>**BSB:**</sub></small>
-If you had repented at my rebuke, then surely I would have poured out my spirit on you; I would have made my words known to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.22|<< Proverbs 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.24|Proverbs 1:24 >>]]</td></tr></table>
 
 | Translation | Greek |

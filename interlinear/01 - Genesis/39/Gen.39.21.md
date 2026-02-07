@@ -1,4 +1,4 @@
-**Genesis 39:21** 
+**Genesis 39:21**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD was with Joseph, and shewed him mercy, and gave him favour in the sight of the keeper of the prison.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ the LORD was with him and extended kindness to him, granting him favor in the ey
 > $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

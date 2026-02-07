@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the fourth year of Darius the king, \[the\] word \[of the\] <span class="smallcaps">lord</span> came to Zechariah \[the\] fourth of the ninth month, which is Chisleu. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the fourth year of king Darius, [that] the word of the LORD came unto Zechariah in the fourth [day] of the ninth month, [even] in Chisleu;
-<small><sub>**BSB:**</sub></small>
-In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Chislev.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.15|<< Zechariah 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.2|Zechariah 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

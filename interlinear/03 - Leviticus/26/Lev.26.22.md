@@ -1,4 +1,4 @@
-**Leviticus 26:22** 
+**Leviticus 26:22**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also send wild beasts among you, which shall rob you of your children, and destroy your cattle, and make you few in number; and your [high] ways shall be desolate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will send wild animals against you to rob you of your children, destroy your l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.21|<< Leviticus 26:21]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.23|Leviticus 26:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will send  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971G\|הִשְׁלַחְתִּ֨י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.lach.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among \<the> you  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9036\|כֶ֜ם]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

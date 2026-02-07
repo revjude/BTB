@@ -1,4 +1,4 @@
-**Proverbs 3:2** 
+**Proverbs 3:2**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For length of days, and long life, and peace, shall they add to thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for they will add length to your days, years and peace to your life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.1|<< Proverbs 3:1]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.3|Proverbs 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | length of  |**<big>&#8207;[[H0753\|אֹ֣רֶךְ]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

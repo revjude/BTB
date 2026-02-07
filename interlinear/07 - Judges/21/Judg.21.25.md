@@ -1,4 +1,4 @@
-**Judges 21:25** 
+**Judges 21:25**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days [there was] no king in Israel: every man did [that which was] right in his own eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In those days there was no king in Israel; everyone did what was right in his ow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.24|<< Judges 21:24]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.1|Ruth 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the days  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יָּמִ֣ים]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> those  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H1992\|הֵ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

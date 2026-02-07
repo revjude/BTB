@@ -1,4 +1,4 @@
-**Leviticus 14:3** 
+**Leviticus 14:3**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall go forth out of the camp; and the priest shall look, and, behold, [if] the plague of leprosy be healed in the leper;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The priest is to go outside the camp to examine him, and if the skin disease of 
 > $\quad$ referenced by: [[Matt.8.4|Matt 8:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will go out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318G\|יָצָא֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֔ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

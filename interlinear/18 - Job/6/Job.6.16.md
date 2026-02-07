@@ -1,4 +1,4 @@
-**Job 6:16** 
+**Job 6:16**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which are blackish by reason of the ice, [and] wherein the snow is hid:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ darkened because of the ice and the inflow of melting snow,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.15|<< Job 6:15]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.17|Job 6:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that are dark  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6937\|קֹּדְרִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.de.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִנִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.ni-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

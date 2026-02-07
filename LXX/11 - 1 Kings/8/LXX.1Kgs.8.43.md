@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:43** 
 <small><sub>**LXX:**</sub></small>
 then you shall listen from the heaven, from your prepared home, and you shall act according to all what the alien should call upon you, so that all the peoples of the land should know  your name, so that they should fear you, as  your people Israel, and should know that  your name has been called upon  \[in\] this house, which I built. 
-<small><sub>**KJV:**</sub></small>
-Hear thou in heaven thy dwelling place, and do according to all that the stranger calleth to thee for: that all people of the earth may know thy name, to fear thee, as [do] thy people Israel; and that they may know that this house, which I have builded, is called by thy name.
-<small><sub>**BSB:**</sub></small>
-then may You hear from heaven, Your dwelling place, and do according to all for which the foreigner calls to You. Then all the peoples of the earth will know Your name and fear You, as do Your people Israel, and they will know that this house I have built is called by Your Name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.42|<< 1 Kings 8:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.44|1 Kings 8:44 >>]]</td></tr></table>
 
 | Translation | Greek |

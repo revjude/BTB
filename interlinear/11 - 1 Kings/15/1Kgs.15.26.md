@@ -1,4 +1,4 @@
-**1 Kings 15:26** 
+**1 Kings 15:26**<big><big>[[1Kgs.15.25 Nadab Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did evil in the sight of the LORD, and walked in the way of his father, and in his sin wherewith he made Israel to sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he did evil in the sight of the LORD and walked in the way of his father and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.25|<< 1 Kings 15:25]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.27|1 Kings 15:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the evil  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451H\|רַ֖ע]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

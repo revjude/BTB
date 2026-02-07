@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to Saul, the <span class="smallcaps">lord</span> has sent me  to anoint you as king over Israel  his people. And now hear the voice of the saying of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Samuel also said unto Saul, The LORD sent me to anoint thee [to be] king over his people, over Israel: now therefore hearken thou unto the voice of the words of the LORD.
-<small><sub>**BSB:**</sub></small>
-Then Samuel said to Saul, “The LORD sent me to anoint you king over His people Israel. Now therefore, listen to the words of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.52|<< 1 Samuel 14:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.2|1 Samuel 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

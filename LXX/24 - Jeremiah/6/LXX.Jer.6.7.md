@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:7** 
 <small><sub>**LXX:**</sub></small>
 As a well cools its water, so evil cools her. Impiety and misery shall be heard in her before her face always. 
-<small><sub>**KJV:**</sub></small>
-As a fountain casteth out her waters, so she casteth out her wickedness: violence and spoil is heard in her; before me continually [is] grief and wounds.
-<small><sub>**BSB:**</sub></small>
-As a well gushes its water, so she pours out her evil. Violence and destruction resound in her; sickness and wounds are ever before Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.6|<< Jeremiah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.8|Jeremiah 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

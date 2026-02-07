@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he returned me by the way of the outer gate of the holies, of the one looking according to \[the\] east; and this was locked. 
-<small><sub>**KJV:**</sub></small>
-Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it [was] shut.
-<small><sub>**BSB:**</sub></small>
-The man then brought me back to the outer gate of the sanctuary that faced east, but it was shut.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.27|<< Ezekiel 43:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.2|Ezekiel 44:2 >>]]</td></tr></table>
 
 | Translation | Greek |

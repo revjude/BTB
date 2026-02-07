@@ -1,12 +1,12 @@
-**Revelation 2:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:18**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet [are] like fine brass;
 <small><sub>**BSB:**</sub></small>
 To the angel of the church in Thyatira write: These are the words of the Son of God, whose eyes are like a blazing fire and whose feet are like polished bronze.
 <small><sub>**Literal:**</sub></small>
 And to the angel of the in Thyatira church do write: These things says the Son <the> of God, the [One] having the eyes of Him like a flame of fire and the feet of Him like as burnished bronze;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.17|<< Revelation 2:17]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.19|Revelation 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

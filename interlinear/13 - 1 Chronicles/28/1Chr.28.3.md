@@ -1,4 +1,4 @@
-**1 Chronicles 28:3** 
+**1 Chronicles 28:3**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But God said unto me, Thou shalt not build an house for my name, because thou [hast been] a man of war, and hast shed blood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but God said to me, ‘You are not to build a house for My Name, because you are
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.2|<< 1 Chronicles 28:2]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.4|1 Chronicles 28:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<the> God  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0559\|אָ֣מַר]]&#8207; </big>**| 'A.mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 34:6** 
+**Ezekiel 34:6**<big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My sheep wandered through all the mountains, and upon every high hill: yea, my flock was scattered upon all the face of the earth, and none did search or seek [after them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My flock went astray on all the mountains and every high hill. They were scatter
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.5|<< Ezekiel 34:5]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.7|Ezekiel 34:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they wander  |**<big>&#8207;[[H7686\|יִשְׁגּ֤וּ]]&#8207; </big>**| yish.Gu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flock my  |**<big>&#8207;[[H6629G\|צֹאנִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| tzo.N<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 49:13** 
+**Jeremiah 49:13**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be perpetual wastes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For by Myself I have sworn, declares the LORD, that Bozrah will become a desolat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.12|<< Jeremiah 49:12]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.14|Jeremiah 49:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by \<the> myself  |**<big>&#8207;[[H9003\|בִ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

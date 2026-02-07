@@ -1,4 +1,4 @@
-**Leviticus 21:2** 
+**Leviticus 21:2**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But for his kin, that is near unto him, [that is], for his mother, and for his father, and for his son, and for his daughter, and for his brother,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ except for his immediate family—his mother, father, son, daughter, or brother,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.1|<< Leviticus 21:1]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.3|Leviticus 21:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

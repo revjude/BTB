@@ -1,4 +1,4 @@
-**Exodus 16:18** 
+**Exodus 16:18**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they did mete [it] with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When they measured it by the omer, he who gathered much had no excess, and he wh
 > $\quad$ referenced by: [[2Cor.8.15|2Cor 8:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they measured [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4058\|יָּמֹ֣דּוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Mo.du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by the omer  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H6016B\|עֹ֔מֶר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'O.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

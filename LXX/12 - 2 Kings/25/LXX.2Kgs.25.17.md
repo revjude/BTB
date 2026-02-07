@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:17** 
 <small><sub>**LXX:**</sub></small>
 Eighteen cubits \[was\] the height of the one column, and the capital upon it  of brass. Three cubits \[was\] the height of the capital. And \[the\] lattice \[work\] and pomegranates upon the capital round about \[were\] entirely of brass. And according to these \[it was\] to the second column upon the lattice \[work\]. 
-<small><sub>**KJV:**</sub></small>
-The height of the one pillar [was] eighteen cubits, and the chapiter upon it [was] brass: and the height of the chapiter three cubits; and the wreathen work, and pomegranates upon the chapiter round about, all of brass: and like unto these had the second pillar with wreathen work.
-<small><sub>**BSB:**</sub></small>
-Each pillar was eighteen cubits tall. The bronze capital atop one pillar was three cubits high, with a network of bronze pomegranates all around. The second pillar, with its network, was similar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.16|<< 2 Kings 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.18|2 Kings 25:18 >>]]</td></tr></table>
 
 | Translation | Greek |

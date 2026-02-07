@@ -1,12 +1,12 @@
-**Matthew 18:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:7**<big><big>[[Matt.18.6 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Woe unto the world because of offences! for it must needs be that offences come; but woe to that man by whom the offence cometh!
 <small><sub>**BSB:**</sub></small>
 Woe to the world for the causes of sin. These stumbling blocks must come, but woe to the man through whom they come!
 <small><sub>**Literal:**</sub></small>
 Woe to the world because of the causes of sin; Necessary [are] for is to come the stumbling blocks, but woe to the man that [one] through whom the offense comes!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.6|<< Matthew 18:6]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.8|Matthew 18:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Woe |**<big>[[G3759\|Οὐαὶ]]</big>**  |Ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

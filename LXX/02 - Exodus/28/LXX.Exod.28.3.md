@@ -1,10 +1,7 @@
 **LXX Exodus 28:3** 
 <small><sub>**LXX:**</sub></small>
 And you speak to all the wise  in thought! whom I filled a spirit of wisdom and perception. And they shall make the holy apparel for Aaron, for the holy place, in which he shall officiate as priest to me. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt speak unto all [that are] wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron’s garments to consecrate him, that he may minister unto me in the priest’s office.
-<small><sub>**BSB:**</sub></small>
-You are to instruct all the skilled craftsmen, whom I have filled with a spirit of wisdom, to make garments for Aaron’s consecration, so that he may serve Me as priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.2|<< Exodus 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.4|Exodus 28:4 >>]]</td></tr></table>
 
 | Translation | Greek |

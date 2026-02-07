@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:26** 
 <small><sub>**LXX:**</sub></small>
 and all \[the\] kings from \[the\] east wind, the ones at a distance, and of the ones near, each with  his brother, and all \[the\] kingdoms, the ones upon \[the\] face of the earth; and \[the\] king of Sheshach shall drink with them. 
-<small><sub>**KJV:**</sub></small>
-And all the kings of the north, far and near, one with another, and all the kingdoms of the world, which [are] upon the face of the earth: and the king of Sheshach shall drink after them.
-<small><sub>**BSB:**</sub></small>
-all the kings of the north, both near and far, one after another—all the kingdoms on the face of the earth. And after all of them, the king of Sheshach will drink it too.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.25|<< Jeremiah 25:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.27|Jeremiah 25:27 >>]]</td></tr></table>
 
 | Translation | Greek |

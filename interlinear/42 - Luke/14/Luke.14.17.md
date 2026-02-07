@@ -1,12 +1,12 @@
-**Luke 14:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:17**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And sent his servant at supper time to say to them that were bidden, Come; for all things are now ready.
 <small><sub>**BSB:**</sub></small>
 When it was time for the banquet, he sent his servant to tell those who had been invited, ‘Come, for everything is now ready.’
 <small><sub>**Literal:**</sub></small>
 And he sent the servant of him at the hour of the supper to say to those invited; do come, for now ready [it] is all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.16|<< Luke 14:16]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.18|Luke 14:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he sent |**<big>[[G0649\|ἀπέστειλεν]]</big>**  |apesteilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 14:2** 
+**Deuteronomy 14:2**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou [art] an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that [are] upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ for you are a people holy to the LORD your God. The LORD has chosen you to be a 
 > $\quad$ referenced by: [[Titus.2.14|Titus 2:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] a people  |**<big>&#8207;[[H5971A\|עַ֤ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

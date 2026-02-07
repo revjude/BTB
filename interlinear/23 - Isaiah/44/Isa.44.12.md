@@ -1,4 +1,4 @@
-**Isaiah 44:12** 
+**Isaiah 44:12**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The smith with the tongs both worketh in the coals, and fashioneth it with hammers, and worketh it with the strength of his arms: yea, he is hungry, and his strength faileth: he drinketh no water, and is faint.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The blacksmith takes a tool and labors over the coals; he fashions an idol with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.11|<< Isaiah 44:11]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.13|Isaiah 44:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a craftsman of  |**<big>&#8207;[[H2796\|חָרַ֤שׁ]]&#8207; </big>**| cha.Rash<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | iron  |**<big>&#8207;[[H1270\|בַּרְזֶל֙]]&#8207; </big>**| bar.Zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

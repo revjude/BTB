@@ -1,12 +1,12 @@
-**Psalms 75:1** (75:2)
+**Psalms 75:1**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, Altaschith, A Psalm [or] Song of Asaph. Unto thee, O God, do we give thanks, [unto thee] do we give thanks: for [that] thy name is near thy wondrous works declare.
+Unto thee, O God, do we give thanks, [unto thee] do we give thanks: for [that] thy name is near thy wondrous works declare.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A song. We give thanks to You, O God; we give thanks, for Your Name is near. The people declare Your wondrous works.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.0|<< Psalms 75:0]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.2|Psalms 75:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we give thanks  |**<big>&#8207;[[H3034\|ה֘וֹדִ֤ינוּ]]&#8207; </big>**| ho.Di.nu<small><sup>[[HVhp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H9031\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

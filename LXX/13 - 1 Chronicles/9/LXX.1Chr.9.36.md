@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:36** 
 <small><sub>**LXX:**</sub></small>
 And his son, the first-born, \[was\] Abadon, and Zur, and Kish, and Baal, and Ner, and Nadab, 
-<small><sub>**KJV:**</sub></small>
-And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab,
-<small><sub>**BSB:**</sub></small>
-Abdon was his firstborn son, then Zur, Kish, Baal, Ner, Nadab,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.35|<< 1 Chronicles 9:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.37|1 Chronicles 9:37 >>]]</td></tr></table>
 
 | Translation | Greek |

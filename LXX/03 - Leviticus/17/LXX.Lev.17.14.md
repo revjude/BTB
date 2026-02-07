@@ -1,10 +1,7 @@
 **LXX Leviticus 17:14** 
 <small><sub>**LXX:**</sub></small>
 For the life of all flesh is its blood, and I said to the sons of Israel, \[The\] blood of all flesh you shall not eat, for life of all flesh is its blood. Every one  eating it shall be utterly destroyed. 
-<small><sub>**KJV:**</sub></small>
-For [it is] the life of all flesh; the blood of it [is] for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh [is] the blood thereof: whosoever eateth it shall be cut off.
-<small><sub>**BSB:**</sub></small>
-For the life of all flesh is its blood. Therefore I have told the Israelites, ‘You must not eat the blood of any living thing, because the life of all flesh is its blood; whoever eats it must be cut off.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.13|<< Leviticus 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.15|Leviticus 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

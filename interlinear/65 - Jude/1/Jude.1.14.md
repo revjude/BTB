@@ -1,5 +1,5 @@
-**Jude 1:14
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:14**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,
 <small><sub>**BSB:**</sub></small>
 Enoch, the seventh from Adam, also prophesied about them: “Behold, the Lord is coming with myriads of His holy ones
@@ -10,7 +10,7 @@ He prophesied then also to these [the] seventh from Adam Enoch saying: Behold ha
 > $\quad$ alluding to: [[LXX.Gen.5.18|Gen 5:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He prophesied |**<big>[[G4395\|προεφήτευσεν]]</big>**  [^1] |proephēteusen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

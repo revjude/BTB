@@ -1,10 +1,7 @@
 **LXX Judges 8:22** 
 <small><sub>**LXX:**</sub></small>
 And a man of Israel said to Gideon, Rule among us, you and  your son, and the son  of your son! for you have delivered us from \[the\] hand of Midian. 
-<small><sub>**KJV:**</sub></small>
-Then the men of Israel said unto Gideon, Rule thou over us, both thou, and thy son, and thy son’s son also: for thou hast delivered us from the hand of Midian.
-<small><sub>**BSB:**</sub></small>
-Then the Israelites said to Gideon, “Rule over us—you and your son and grandson—for you have saved us from the hand of Midian.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.21|<< Judges 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.23|Judges 8:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 7:3** 
+**Exodus 7:3**<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will harden Pharaoh’s heart, and though I will multiply My signs and won
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.2|<< Exodus 7:2]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.4|Exodus 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will make stubborn  |**<big>&#8207;[[H7185\|אַקְשֶׁ֖ה]]&#8207; </big>**| 'ak.Sheh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

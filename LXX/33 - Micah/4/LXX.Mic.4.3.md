@@ -1,10 +1,7 @@
 **LXX Micah 4:3** 
 <small><sub>**LXX:**</sub></small>
 And he shall judge between many peoples, and shall completely refute strong nations unto afar. And they shall cut  their broadswords into plows, and  their spears into sickles. And no longer should a nation raise up a broadsword against a nation, and no longer should they learn to wage war. 
-<small><sub>**KJV:**</sub></small>
-And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.
-<small><sub>**BSB:**</sub></small>
-Then He will judge between many peoples and arbitrate for strong nations far and wide. Then they will beat their swords into plowshares and their spears into pruning hooks. Nation will no longer take up the sword against nation, nor will they train anymore for war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.2|<< Micah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.4|Micah 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 21:29** 
 <small><sub>**LXX:**</sub></small>
 But if the bull was goring before  yesterday and before the third \[day before\], and \[men\] testified to \[its\] owner, and he should not remove it; and if it should have done away with a man or a woman, they shall stone the bull, and the owner of it shall die in addition. 
-<small><sub>**KJV:**</sub></small>
-But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.
-<small><sub>**BSB:**</sub></small>
-But if the ox has a habit of goring, and its owner has been warned yet does not restrain it, and it kills a man or woman, then the ox must be stoned and its owner must also be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.28|<< Exodus 21:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.30|Exodus 21:30 >>]]</td></tr></table>
 
 | Translation | Greek |

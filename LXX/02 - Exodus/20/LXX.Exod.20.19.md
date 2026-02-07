@@ -1,10 +1,7 @@
 **LXX Exodus 20:19** 
 <small><sub>**LXX:**</sub></small>
 And they said to Moses, You speak to us, and do not God speak to us! lest we might die. 
-<small><sub>**KJV:**</sub></small>
-And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.
-<small><sub>**BSB:**</sub></small>
-“Speak to us yourself and we will listen,” they said to Moses. “But do not let God speak to us, or we will die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.18|<< Exodus 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.20|Exodus 20:20 >>]]</td></tr></table>
 
 | Translation | Greek |

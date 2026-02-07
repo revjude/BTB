@@ -1,12 +1,12 @@
-**Acts 6:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:12**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they stirred up the people, and the elders, and the scribes, and came upon [him], and caught him, and brought [him] to the council,
 <small><sub>**BSB:**</sub></small>
 So they stirred up the people, elders, and scribes and confronted Stephen. They seized him and brought him before the Sanhedrin,
 <small><sub>**Literal:**</sub></small>
 They stirred up then the people and the elders and the scribes, and having come upon [him] they seized him and they brought [him] to the Council,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.11|<< Acts 6:11]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.13|Acts 6:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They stirred up |**<big>[[G4787\|συνεκίνησάν]]</big>**  [^1] |sunekinēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

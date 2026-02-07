@@ -1,4 +1,4 @@
-**1 Chronicles 25:13** 
+**1 Chronicles 25:13**<big><big>[[1Chr.25.1 Twenty-Four Divisions of Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sixth to Bukkiah, [he], his sons, and his brethren, [were] twelve:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the sixth to Bukkiah, his sons, and his brothers—12 in all;
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.12|<< 1 Chronicles 25:12]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.14|1 Chronicles 25:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the sixth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8345\|שִּׁשִּׁ֣י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> shi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bukkiah  |**<big>&#8207;[[H1232\|בֻקִּיָּ֔הוּ]]&#8207; </big>**| vu.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

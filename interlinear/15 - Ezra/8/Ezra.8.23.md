@@ -1,4 +1,4 @@
-**Ezra 8:23** 
+**Ezra 8:23**<big><big>[[Ezra.8.21 Fasting for Protection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So we fasted and besought our God for this: and he was intreated of us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So we fasted and petitioned our God about this, and He granted our request.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.22|<< Ezra 8:22]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.24|Ezra 8:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we fasted !  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6684\|נָּצ֛וּמָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> na.Tzu.ma<small><sup>[[HVqw1cp]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and we sought !  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1245\|נְּבַקְשָׁ֥]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ne.vak.Sha<small><sup>[[HVpw1cp]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

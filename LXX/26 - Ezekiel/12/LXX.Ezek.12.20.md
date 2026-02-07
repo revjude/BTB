@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:20** 
 <small><sub>**LXX:**</sub></small>
 And  their cities  being dwelt in shall be made quite desolate, and the land will be for extinction; and you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-The inhabited cities will be laid waste, and the land will become desolate. Then you will know that I am the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.19|<< Ezekiel 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.21|Ezekiel 12:21 >>]]</td></tr></table>
 
 | Translation | Greek |

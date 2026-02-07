@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the man of God said, Where did it fall? And he showed to him the place. And he plucked off wood and tossed it there, and the iron implement floated. 
-<small><sub>**KJV:**</sub></small>
-And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast [it] in thither; and the iron did swim.
-<small><sub>**BSB:**</sub></small>
-“Where did it fall?” asked the man of God. And when he showed him the place, the man of God cut a stick, threw it there, and made the iron float.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.5|<< 2 Kings 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.7|2 Kings 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

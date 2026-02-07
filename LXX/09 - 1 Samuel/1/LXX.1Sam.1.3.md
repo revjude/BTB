@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:3** 
 <small><sub>**LXX:**</sub></small>
 And that man ascended from days to days from out of his city of Ramathaim to do obeisance and to sacrifice to the <span class="smallcaps">lord</span> of Hosts in Shiloh. And was there Eli and  his two sons, Hophni and Phinehas, priests of the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, [were] there.
-<small><sub>**BSB:**</sub></small>
-Year after year Elkanah would go up from his city to worship and sacrifice to the LORD of Hosts at Shiloh, where Eli’s two sons, Hophni and Phinehas, were priests to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.2|<< 1 Samuel 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.4|1 Samuel 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

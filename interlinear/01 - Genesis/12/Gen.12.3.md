@@ -1,4 +1,4 @@
-**Genesis 12:3** 
+**Genesis 12:3**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will bless those who bless you and curse those who curse you; and all the fami
 > $\quad$ referenced by: [[Luke.1.73|Luke 1:73]] ☩ [[Acts.3.25|Acts 3:25]] ☩ [[Gal.3.8|Gal 3:8]] ☩ [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so let me bless  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H1288\|אֲבָֽרֲכָה֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.va.ra.Khah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] bless you  |**<big>&#8207;[[H1288\|מְבָ֣רְכֶ֔י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| me.Va.re.Khei.<small><sup>[[HVprmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

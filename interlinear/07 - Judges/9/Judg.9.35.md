@@ -1,4 +1,4 @@
-**Judges 9:35** 
+**Judges 9:35**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gaal the son of Ebed went out, and stood in the entering of the gate of the city: and Abimelech rose up, and the people that [were] with him, from lying in wait.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Gaal son of Ebed went out and stood at the entrance of the city gate just as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.34|<< Judges 9:34]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.36|Judges 9:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gaal  |**<big>&#8207;[[H1603\|גַּ֣עַל]]&#8207; </big>**| Ga.'al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

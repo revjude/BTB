@@ -1,12 +1,12 @@
-**2 Peter 3:15
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:15**<big><big>[[2Pet.3.14 Final Exhortations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And account [that] the longsuffering of our Lord [is] salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;
 <small><sub>**BSB:**</sub></small>
 Consider also that our Lord’s patience brings salvation, just as our beloved brother Paul also wrote you with the wisdom God gave him.
 <small><sub>**Literal:**</sub></small>
 And the of the Lord of us patience [as] salvation do esteem, even as also the beloved of us brother Paul according to the having been given to him wisdom wrote to you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.14|<< 2 Peter 3:14]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.16|2 Peter 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

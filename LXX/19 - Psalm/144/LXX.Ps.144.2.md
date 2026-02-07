@@ -1,10 +1,7 @@
 **LXX Psalm 144:2** 
 <small><sub>**LXX:**</sub></small>
 my mercy and my refuge; my shielder and my rescuer; my defender, and upon him I hoped; the one subjecting  my people under me. 
-<small><sub>**KJV:**</sub></small>
-My goodness, and my fortress; my high tower, and my deliverer; my shield, and [he] in whom I trust; who subdueth my people under me.
-<small><sub>**BSB:**</sub></small>
-He is my steadfast love and my fortress, my stronghold and my deliverer. He is my shield, in whom I take refuge, who subdues peoples under me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.144.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.1|<< Psalm 144:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.3|Psalm 144:3 >>]]</td></tr></table>
 
 | Translation | Greek |

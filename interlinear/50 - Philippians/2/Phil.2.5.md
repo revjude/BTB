@@ -1,12 +1,12 @@
-**Philippians 2:5
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:5**<big><big>[[Phil.2.5 The Mind of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let this mind be in you, which was also in Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 Let this mind be in you which was also in Christ Jesus:
 <small><sub>**Literal:**</sub></small>
 This for do be thinking in you which also in Christ Jesus [was]:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.4|<< Philippians 2:4]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.6|Philippians 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

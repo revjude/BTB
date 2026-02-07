@@ -1,4 +1,4 @@
-**Genesis 49:22** 
+**Genesis 49:22**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Joseph [is] a fruitful bough, [even] a fruitful bough by a well; [whose] branches run over the wall:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joseph is a fruitful vine—a fruitful vine by a spring, whose branches scale th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.21|<< Genesis 49:21]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.23|Genesis 49:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a son of  |**<big>&#8207;[[H1121H\|בֵּ֤ן]]&#8207; </big>**| ben<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fruit-bearer  |**<big>&#8207;[[H6509\|פֹּרָת֙]]&#8207; </big>**| po.Rat<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

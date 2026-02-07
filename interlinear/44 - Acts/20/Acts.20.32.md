@@ -1,12 +1,12 @@
-**Acts 20:32
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:32**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified.
 <small><sub>**BSB:**</sub></small>
 And now I commit you to God and to the word of His grace, which can build you up and give you an inheritance among all who are sanctified.
 <small><sub>**Literal:**</sub></small>
 And <the> now I commit you brothers <the> to God and to the word of the grace of Him, who is being able to build [it] and to give to you the inheritance among those sanctified all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.31|<< Acts 20:31]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.33|Acts 20:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz">NKO</abbr> | |

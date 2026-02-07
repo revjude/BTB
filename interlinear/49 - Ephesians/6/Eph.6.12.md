@@ -1,12 +1,12 @@
-**Ephesians 6:12
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:12**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high [places].
 <small><sub>**BSB:**</sub></small>
 For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms.
 <small><sub>**Literal:**</sub></small>
 because not is to us the wrestling against blood and flesh but against the rulers, against the authorities, against the cosmic powers of the darkness <the> age this, against the spiritual [forces] <the> of evil in the heavenly realms.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.11|<< Ephesians 6:11]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.13|Ephesians 6:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 7:8** 
 <small><sub>**LXX:**</sub></small>
 But the head of Aram \[is\] Damascus, and the head of Damascus \[is\] Rezin; but yet sixty and five years the kingdom of Ephraim will fail from \[the\] people. 
-<small><sub>**KJV:**</sub></small>
-For the head of Syria [is] Damascus, and the head of Damascus [is] Rezin; and within threescore and five years shall Ephraim be broken, that it be not a people.
-<small><sub>**BSB:**</sub></small>
-For the head of Aram is Damascus, and the head of Damascus is Rezin. Within sixty-five years Ephraim will be shattered as a people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.7|<< Isaiah 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.9|Isaiah 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

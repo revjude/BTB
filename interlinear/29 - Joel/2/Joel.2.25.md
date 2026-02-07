@@ -1,4 +1,4 @@
-**Joel 2:25** 
+**Joel 2:25**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will repay you for the years eaten by locusts—the swarming locust, the young
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.24|<< Joel 2:24]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.26|Joel 2:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will restore  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7999A\|שִׁלַּמְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.lam.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

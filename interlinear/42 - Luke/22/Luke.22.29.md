@@ -1,12 +1,12 @@
-**Luke 22:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:29**<big><big>[[Luke.22.24 Who Is the Greatest？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I appoint unto you a kingdom, as my Father hath appointed unto me;
 <small><sub>**BSB:**</sub></small>
 And I bestow on you a kingdom, just as My Father has bestowed one on Me,
 <small><sub>**Literal:**</sub></small>
 And I myself appoint to you even as appointed to Me the Father of Mine a kingdom,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.28|<< Luke 22:28]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.30|Luke 22:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And I myself |**<big>[[G1473\|κἀγὼ]]</big>**  |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | appoint |**<big>[[G1303\|διατίθεμαι]]</big>**  |diatithemai <small><sup>[[V-PMI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

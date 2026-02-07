@@ -1,12 +1,12 @@
-**Matthew 16:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:26**<big><big>[[Matt.16.24 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
 <small><sub>**BSB:**</sub></small>
 What will it profit a man if he gains the whole world, yet forfeits his soul? Or what can a man give in exchange for his soul?
 <small><sub>**Literal:**</sub></small>
 What for will it be profitable [for] a man, if the world whole he shall gain, <the> but the soul of him shall lose? Or what will give a man [as] an exchange for the soul of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.25|<< Matthew 16:25]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.27|Matthew 16:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

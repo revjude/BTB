@@ -1,4 +1,4 @@
-**Deuteronomy 30:1** 
+**Deuteronomy 30:1**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call [them] to mind among all the nations, whither the LORD thy God hath driven thee,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And it shall come to pass, when all these things are come upon thee, the blessin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.29|<< Deuteronomy 29:29]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.2|Deuteronomy 30:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

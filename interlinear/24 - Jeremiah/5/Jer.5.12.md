@@ -1,4 +1,4 @@
-**Jeremiah 5:12** 
+**Jeremiah 5:12**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have belied the LORD, and said, [It is] not he; neither shall evil come upon us; neither shall we see sword nor famine:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have lied about the LORD and said: “He will not do anything; harm will no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.11|<< Jeremiah 5:11]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.13|Jeremiah 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have denied  |**<big>&#8207;[[H3584\|כִּֽחֲשׁוּ֙]]&#8207; </big>**| ki.cha.Shu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> Yahweh  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3068G\|יהוָ֔ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:15** 
 <small><sub>**LXX:**</sub></small>
 And he said, Hearken all Judah, and the ones dwelling in Jerusalem, and  king Jehoshaphat! Thus says \[the\] <span class="smallcaps">lord</span> to you, Do not fear nor be terrified from \[the\] face  of this vast multitude! for the battle array is not to you, but  to God. 
-<small><sub>**KJV:**</sub></small>
-And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle [is] not yours, but God’s.
-<small><sub>**BSB:**</sub></small>
-And he said, “Listen, all you people of Judah and Jerusalem! Listen, King Jehoshaphat! This is what the LORD says: ‘Do not be afraid or discouraged because of this vast army, for the battle does not belong to you, but to God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.14|<< 2 Chronicles 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.16|2 Chronicles 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

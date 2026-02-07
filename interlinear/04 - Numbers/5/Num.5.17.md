@@ -1,4 +1,4 @@
-**Numbers 5:17** 
+**Numbers 5:17**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put [it] into the water:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he is to take some holy water in a clay jar and put some of the dust from t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.16|<< Numbers 5:16]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.18|Numbers 5:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַ֧ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֛ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

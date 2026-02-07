@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:37** 
 <small><sub>**LXX:**</sub></small>
 And  its many fruits became to the kings which you put over us because of our sins; and they exercise authority over our bodies, and over our cattle as is pleasing to them, and we are in great affliction. 
-<small><sub>**KJV:**</sub></small>
-And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we [are] in great distress.
-<small><sub>**BSB:**</sub></small>
-Its abundant harvest goes to the kings You have set over us because of our sins. And they rule over our bodies and our livestock as they please. We are in great distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.36|<< Nehemiah 9:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.38|Nehemiah 9:38 >>]]</td></tr></table>
 
 | Translation | Greek |

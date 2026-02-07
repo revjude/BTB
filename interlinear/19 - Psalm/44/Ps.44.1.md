@@ -1,12 +1,12 @@
-**Psalms 44:1** (44:2)
+**Psalms 44:1**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician for the sons of Korah, Maschil. We have heard with our ears, O God, our fathers have told us, [what] work thou didst in their days, in the times of old.
+We have heard with our ears, O God, our fathers have told us, [what] work thou didst in their days, in the times of old.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Maskil of the sons of Korah. We have heard with our ears, O God; our fathers have told us the work You did in their days, in the days of old.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.0|<< Psalms 44:0]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.2|Psalms 44:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֤ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with ears our  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0241G\|אָזְנֵ֬י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.ze.Nei.<small><sup>[[HNcfdc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

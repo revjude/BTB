@@ -1,4 +1,4 @@
-**2 Chronicles 15:7** 
+**2 Chronicles 15:7**<big><big>[[2Chr.15.1 The Prophecy of Azariah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as for you, be strong; do not be discouraged, for your work will be rewarded
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.6|<< 2 Chronicles 15:6]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.8|2 Chronicles 15:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be strong  |**<big>&#8207;[[H2388G\|חִזְק֔וּ]]&#8207; </big>**| chiz.Ku<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

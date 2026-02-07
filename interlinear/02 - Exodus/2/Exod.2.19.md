@@ -1,4 +1,4 @@
-**Exodus 2:19** 
+**Exodus 2:19**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew [water] enough for us, and watered the flock.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they said, An Egyptian delivered us out of the hand of the shepherds, and al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.18|<< Exodus 2:18]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.20|Exodus 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּאמַ֕רְןָ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> to.Mar.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

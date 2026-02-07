@@ -1,4 +1,4 @@
-**Exodus 38:14** 
+**Exodus 38:14**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hangings of the one side [of the gate were] fifteen cubits; their pillars three, and their sockets three.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The curtains on one side of the entrance were fifteen cubits long, with three po
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.13|<< Exodus 38:13]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.15|Exodus 38:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | curtains  |**<big>&#8207;[[H7050B\|קְלָעִ֛ים]]&#8207; </big>**| ke.la.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fif-  |**<big>&#8207;[[H2568\|חֲמֵשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.mesh-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

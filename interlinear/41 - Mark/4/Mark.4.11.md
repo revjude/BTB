@@ -1,12 +1,12 @@
-**Mark 4:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:11**<big><big>[[Mark.4.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all [these] things are done in parables:
 <small><sub>**BSB:**</sub></small>
 He replied, “The mystery of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables,
 <small><sub>**Literal:**</sub></small>
 And He was saying to them; To you to know the mystery has been given of the kingdom <the> of God, To those however who are outside in parables <the> everything is done<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.10|<< Mark 4:10]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.12|Mark 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was saying |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

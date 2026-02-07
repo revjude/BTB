@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:22** 
 <small><sub>**LXX:**</sub></small>
 But if thus I should say to the young man, Here \[is\] the dart, away from you and beyond. Go! for \[the\] <span class="smallcaps">lord</span> sends you out. 
-<small><sub>**KJV:**</sub></small>
-But if I say thus unto the young man, Behold, the arrows [are] beyond thee; go thy way: for the LORD hath sent thee away.
-<small><sub>**BSB:**</sub></small>
-But if I say to the young man, ‘Look, the arrows are beyond you,’ then you must go, for the LORD has sent you away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.21|<< 1 Samuel 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.23|1 Samuel 20:23 >>]]</td></tr></table>
 
 | Translation | Greek |

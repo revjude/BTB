@@ -1,4 +1,4 @@
-**Ezekiel 30:7** 
+**Ezekiel 30:7**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be desolate in the midst of the countries [that are] desolate, and her cities shall be in the midst of the cities [that are] wasted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will be desolate among desolate lands, and their cities will lie among ruin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.6|<< Ezekiel 30:6]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.8|Ezekiel 30:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be desolate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8074G\|נָשַׁ֕מּוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sha.mu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in midst of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|ת֖וֹךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

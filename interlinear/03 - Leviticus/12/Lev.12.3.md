@@ -1,4 +1,4 @@
-**Leviticus 12:3** 
+**Leviticus 12:3**<big><big>[[Lev.12.1 Purification after Childbirth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the eighth day the flesh of his foreskin shall be circumcised.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And on the eighth day the flesh of the boy’s foreskin is to be circumcised.
 > $\quad$ referenced by: [[Luke.2.21|Luke 2:21-22]] ☩ [[John.7.22|John 7:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on the day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֖וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vai.<small><sup>[[HRd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> eighth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8066\|שְּׁמִינִ֑י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.mi.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

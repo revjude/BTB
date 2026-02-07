@@ -1,10 +1,7 @@
 **LXX Job 34:24** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> inspects all; \[He is\] the one perceiving untraceable \[things\], honorable \[things\] also, and extraordinary \[things\] which there is no number; 
-<small><sub>**KJV:**</sub></small>
-He shall break in pieces mighty men without number, and set others in their stead.
-<small><sub>**BSB:**</sub></small>
-He shatters the mighty without inquiry and sets up others in their place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.23|<< Job 34:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.25|Job 34:25 >>]]</td></tr></table>
 
 | Translation | Greek |

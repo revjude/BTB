@@ -1,12 +1,12 @@
-**Luke 24:51
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:51**<big><big>[[Luke.24.50 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, while he blessed them, he was parted from them, and carried up into heaven.
 <small><sub>**BSB:**</sub></small>
 While He was blessing them, He left them and was carried up into heaven.
 <small><sub>**Literal:**</sub></small>
 And it came to pass during the blessing by Him them He was separated from them and was carried up into <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.50|<< Luke 24:50]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.52|Luke 24:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

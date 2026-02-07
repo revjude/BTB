@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:36** 
 <small><sub>**LXX:**</sub></small>
 And he participated with him  to make boats even to go to Tarshish. And he made boats in Ezion Gaber. 
-<small><sub>**KJV:**</sub></small>
-And he joined himself with him to make ships to go to Tarshish: and they made the ships in Eziongeber.
-<small><sub>**BSB:**</sub></small>
-They agreed to make ships to go to Tarshish, and these were built in Ezion-geber.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.35|<< 2 Chronicles 20:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.37|2 Chronicles 20:37 >>]]</td></tr></table>
 
 | Translation | Greek |

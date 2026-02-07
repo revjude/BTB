@@ -1,12 +1,12 @@
-**Revelation 8:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:2**<big><big>[[Rev.8.1 The Seventh Seal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw the seven angels which stood before God; and to them were given seven trumpets.
 <small><sub>**BSB:**</sub></small>
 And I saw the seven angels who stand before God, and they were given seven trumpets.
 <small><sub>**Literal:**</sub></small>
 And I saw the seven angels who before <the> God have stood and were given to them seven trumpets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.1|<< Revelation 8:1]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.3|Revelation 8:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

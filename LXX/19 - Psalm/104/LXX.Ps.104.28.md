@@ -1,10 +1,7 @@
 **LXX Psalm 104:28** 
 <small><sub>**LXX:**</sub></small>
 \[At\] your giving to them, they shall collect; opening your  hand,  all things shall be filled \[by\] that which is good. 
-<small><sub>**KJV:**</sub></small>
-[That] thou givest them they gather: thou openest thine hand, they are filled with good.
-<small><sub>**BSB:**</sub></small>
-When You give it to them, they gather it up; when You open Your hand, they are satisfied with good things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.27|<< Psalm 104:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.29|Psalm 104:29 >>]]</td></tr></table>
 
 | Translation | Greek |

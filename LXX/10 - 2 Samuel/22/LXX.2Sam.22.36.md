@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:36** 
 <small><sub>**LXX:**</sub></small>
 And you gave to me a shield  of my deliverance, and obedience of you multiplied me. 
-<small><sub>**KJV:**</sub></small>
-Thou hast also given me the shield of thy salvation: and thy gentleness hath made me great.
-<small><sub>**BSB:**</sub></small>
-You have given me Your shield of salvation, and Your gentleness exalts me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.35|<< 2 Samuel 22:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.37|2 Samuel 22:37 >>]]</td></tr></table>
 
 | Translation | Greek |

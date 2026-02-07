@@ -1,4 +1,4 @@
-**Proverbs 15:32** 
+**Proverbs 15:32**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who ignores discipline despises himself, but whoever heeds correction gains u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.31|<< Proverbs 15:31]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.33|Proverbs 15:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] ignores  |**<big>&#8207;[[H6544B\|פּוֹרֵ֣עַ]]&#8207; </big>**| po.Re.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | discipline  |**<big>&#8207;[[H4148G\|מ֭וּסָר]]&#8207; </big>**| Mu.sor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

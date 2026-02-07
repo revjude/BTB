@@ -1,4 +1,4 @@
-**Exodus 15:13** 
+**Exodus 15:13**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou in thy mercy hast led forth the people [which] thou hast redeemed: thou hast guided [them] in thy strength unto thy holy habitation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With loving devotion You will lead the people You have redeemed; with Your stren
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.12|<< Exodus 15:12]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.14|Exodus 15:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have guided  |**<big>&#8207;[[H5148\|נָחִ֥יתָ]]&#8207; </big>**| na.Chi.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in covenant loyalty your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2617A\|חַסְדְּ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> chas.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

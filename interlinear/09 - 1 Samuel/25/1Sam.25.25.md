@@ -1,4 +1,4 @@
-**1 Samuel 25:25** 
+**1 Samuel 25:25**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not my lord, I pray thee, regard this man of Belial, [even] Nabal: for as his name [is], so [is] he; Nabal [is] his name, and folly [is] with him: but I thine handmaid saw not the young men of my lord, whom thou didst send.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My lord should pay no attention to this scoundrel Nabal, for he lives up to his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.24|<< 1 Samuel 25:24]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.26|1 Samuel 25:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

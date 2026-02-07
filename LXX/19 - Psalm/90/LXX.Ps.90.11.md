@@ -1,10 +1,7 @@
 **LXX Psalm 90:11** 
 <small><sub>**LXX:**</sub></small>
 Who knows the power  of your anger? and \[how\] to count out \[his days\] because of the fear of your rage? 
-<small><sub>**KJV:**</sub></small>
-Who knoweth the power of thine anger? even according to thy fear, [so is] thy wrath.
-<small><sub>**BSB:**</sub></small>
-Who knows the power of Your anger? Your wrath matches the fear You are due.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.90.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.10|<< Psalm 90:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.12|Psalm 90:12 >>]]</td></tr></table>
 
 | Translation | Greek |

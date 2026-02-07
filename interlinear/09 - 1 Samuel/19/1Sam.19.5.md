@@ -1,4 +1,4 @@
-**1 Samuel 19:5** 
+**1 Samuel 19:5**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he did put his life in his hand, and slew the Philistine, and the LORD wrought a great salvation for all Israel: thou sawest [it], and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He took his life in his hands when he struck down the Philistine, and the LORD w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.4|<< 1 Samuel 19:4]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.6|1 Samuel 19:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760I\|יָּשֶׂם֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

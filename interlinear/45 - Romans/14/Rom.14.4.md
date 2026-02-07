@@ -1,12 +1,12 @@
-**Romans 14:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:4**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.
 <small><sub>**BSB:**</sub></small>
 Who are you to judge someone else’s servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand.
 <small><sub>**Literal:**</sub></small>
 You yourself who are who is judging another’s servant? To the own master he stands or falls. He will be upheld however, able is for is the Lord to uphold him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.3|<< Romans 14:3]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.5|Romans 14:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

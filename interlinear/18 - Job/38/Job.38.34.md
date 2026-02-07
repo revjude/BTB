@@ -1,4 +1,4 @@
-**Job 38:34** 
+**Job 38:34**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can you command the clouds so that a flood of water covers you?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.33|<< Job 38:33]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.35|Job 38:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will you lift up  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7311A\|תָרִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ta.Rim<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the cloud[s]  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5645\|עָ֣ב]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

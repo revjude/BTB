@@ -1,10 +1,7 @@
 **LXX Genesis 37:21** 
 <small><sub>**LXX:**</sub></small>
 And Reuben hearing, rescued him from out of  their hands. And he said, Do not strike him \[as far as his\] life. 
-<small><sub>**KJV:**</sub></small>
-And Reuben heard [it], and he delivered him out of their hands; and said, Let us not kill him.
-<small><sub>**BSB:**</sub></small>
-When Reuben heard this, he tried to rescue Joseph from their hands. “Let us not take his life,” he said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.20|<< Genesis 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.22|Genesis 37:22 >>]]</td></tr></table>
 
 | Translation | Greek |

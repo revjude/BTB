@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 All the gold which was manufactured for the works according to all the work of the holies, was of \[the\] gold of the first-fruit -- nine and twenty talents, and seven hundred and thirty shekels, according to the holy shekel. 
-<small><sub>**KJV:**</sub></small>
-All the gold that was occupied for the work in all the work of the holy [place], even the gold of the offering, was twenty and nine talents, and seven hundred and thirty shekels, after the shekel of the sanctuary.
-<small><sub>**BSB:**</sub></small>
-All the gold from the wave offering used for the work on the sanctuary totaled 29 talents and 730 shekels, according to the sanctuary shekel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.23|<< Exodus 38:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.25|Exodus 38:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 14:14** 
 <small><sub>**LXX:**</sub></small>
  \[The\] bold-hearted shall be filled with his own ways; and a good man with his thoughts. 
-<small><sub>**KJV:**</sub></small>
-The backslider in heart shall be filled with his own ways: and a good man [shall be satisfied] from himself.
-<small><sub>**BSB:**</sub></small>
-The backslider in heart receives the fill of his own ways, but a good man is rewarded for his ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.13|<< Proverbs 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.15|Proverbs 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 39:5** 
 <small><sub>**LXX:**</sub></small>
 Behold, you established a palm  for my days; and my essence \[is\] as nothing before you. Furthermore,  for every man living all things \[are\] folly. 
-<small><sub>**KJV:**</sub></small>
-Behold, thou hast made my days [as] an handbreadth; and mine age [is] as nothing before thee: verily every man at his best state [is] altogether vanity. Selah.
-<small><sub>**BSB:**</sub></small>
-You, indeed, have made my days as handbreadths, and my lifetime as nothing before You. Truly each man at his best exists as but a breath. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.39.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.4|<< Psalm 39:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.6|Psalm 39:6 >>]]</td></tr></table>
 
 | Translation | Greek |

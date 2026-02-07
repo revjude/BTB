@@ -1,4 +1,4 @@
-**Jeremiah 5:21** 
+**Jeremiah 5:21**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear now this, O foolish people, and without understanding; which have eyes, and see not; which have ears, and hear not:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Hear now this, O foolish people, and without understanding; which have eyes, and
 > $\quad$ referenced by: [[Mark.8.18|Mark 8:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְעוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shim.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

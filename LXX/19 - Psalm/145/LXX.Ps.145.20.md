@@ -1,10 +1,7 @@
 **LXX Psalm 145:20** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> guards all the ones loving him, and all the sinners he shall utterly destroy. 
-<small><sub>**KJV:**</sub></small>
-The LORD preserveth all them that love him: but all the wicked will he destroy.
-<small><sub>**BSB:**</sub></small>
-The LORD preserves all who love Him, but all the wicked He will destroy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.145.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.19|<< Psalm 145:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.21|Psalm 145:21 >>]]</td></tr></table>
 
 | Translation | Greek |

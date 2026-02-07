@@ -1,10 +1,7 @@
 **LXX Job 12:21** 
 <small><sub>**LXX:**</sub></small>
 pouring out dishonor upon rulers, but \[the\] humble he healed; 
-<small><sub>**KJV:**</sub></small>
-He poureth contempt upon princes, and weakeneth the strength of the mighty.
-<small><sub>**BSB:**</sub></small>
-He pours out contempt on nobles and disarms the mighty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.20|<< Job 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.22|Job 12:22 >>]]</td></tr></table>
 
 | Translation | Greek |

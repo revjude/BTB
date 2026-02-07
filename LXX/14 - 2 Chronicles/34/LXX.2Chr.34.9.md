@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:9** 
 <small><sub>**LXX:**</sub></small>
 And they came to Helkiah the great priest, and they gave the money \[that was\] carried into \[the\] house of God, which the Levites guarding the gate gathered by \[the\] hand of Manasseh and Ephraim, and of the rulers, and of all \[the\] rest in Israel, and of all Judah and Benjamin, and of the ones living in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And when they came to Hilkiah the high priest, they delivered the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin; and they returned to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-So they went to Hilkiah the high priest and gave him the money that had been brought into the house of God, which the Levites who guarded the doors had collected from the people of Manasseh and Ephraim, from all the remnant of Israel, from all Judah and Benjamin, and from the people of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.8|<< 2 Chronicles 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.10|2 Chronicles 34:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 1:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:14**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;
 <small><sub>**BSB:**</sub></small>
 Azor was the father of Zadok, Zadok the father of Achim, and Achim the father of Eliud.
 <small><sub>**Literal:**</sub></small>
 Azor then begat <the> Zadok; Zadok then begat <the> Achim; Achim then begat <the> Eliud;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.13|<< Matthew 1:13]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.15|Matthew 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Azor |**<big>[[G0107\|Ἀζὼρ]]</big>**  |Azōr <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

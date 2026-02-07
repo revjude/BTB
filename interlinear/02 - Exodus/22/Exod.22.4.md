@@ -1,4 +1,4 @@
-**Exodus 22:4** (22:3)
+**Exodus 22:4**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If what was stolen is actually found alive in his possession—whether ox or don
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.3|<< Exodus 22:3]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.5|Exodus 22:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | actually \<be found>  |**<big>&#8207;[[H4672\|הִמָּצֵא֩]]&#8207; </big>**| hi.ma.Tze'<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

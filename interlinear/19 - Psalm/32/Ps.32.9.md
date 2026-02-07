@@ -1,4 +1,4 @@
-**Psalms 32:9** 
+**Psalms 32:9**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be ye not as the horse, [or] as the mule, [which] have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not be like the horse or mule, which have no understanding; they must be cont
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.8|<< Psalms 32:8]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.10|Psalms 32:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be  |**<big>&#8207;[[H1961\|תִּֽהְי֤וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| tih.Yu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

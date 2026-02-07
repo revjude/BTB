@@ -1,4 +1,4 @@
-**Judges 19:19** 
+**Judges 19:19**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man [which is] with thy servants: [there is] no want of any thing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ even though there is both straw and feed for our donkeys, and bread and wine for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.18|<< Judges 19:18]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.20|Judges 19:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [are] both  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | straw  |**<big>&#8207;[[H8401\|תֶּ֤בֶן]]&#8207; </big>**| Te.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

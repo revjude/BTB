@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 1:17** 
 <small><sub>**LXX:**</sub></small>
 And they ascended and brought from out of Egypt one chariot for six hundred \[pieces\] of silver, and a horse \[for\] fifty and a hundred. And thus to all the kings of the Hittites, and to the kings  of Syria, they brought them forth by their hands. 
-<small><sub>**KJV:**</sub></small>
-And they fetched up, and brought forth out of Egypt a chariot for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so brought they out [horses] for all the kings of the Hittites, and for the kings of Syria, by their means.
-<small><sub>**BSB:**</sub></small>
-A chariot could be imported from Egypt for six hundred shekels of silver, and a horse for a hundred and fifty. Likewise, they exported them to all the kings of the Hittites and to the kings of Aram.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.16|<< 2 Chronicles 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.1|2 Chronicles 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

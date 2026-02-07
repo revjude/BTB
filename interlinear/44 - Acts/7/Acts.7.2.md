@@ -1,5 +1,5 @@
-**Acts 7:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:2**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Men, brethren, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,
 <small><sub>**BSB:**</sub></small>
 And Stephen declared: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran,
@@ -10,7 +10,7 @@ And Stephen declared: “Brothers and fathers, listen to me! The God of glory ap
 > $\quad$ alluding to: [[LXX.Gen.15.7|Gen 15:7]] ☩ [[LXX.Neh.9.7|Neh 9:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:52** 
 <small><sub>**LXX:**</sub></small>
 And \[these\] were \[the\] sons  to Shobal father of Kirjath-jearim -- Haroeh, and Aisi, and Ammanith, 
-<small><sub>**KJV:**</sub></small>
-And Shobal the father of Kirjathjearim had sons; Haroeh, [and] half of the Manahethites.
-<small><sub>**BSB:**</sub></small>
-These were the descendants of Shobal the father of Kiriath-jearim: Haroeh, half the Manahathites,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.51|<< 1 Chronicles 2:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.53|1 Chronicles 2:53 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Acts 13:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:17**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The God of this people of Israel chose our fathers, and exalted the people when they dwelt as strangers in the land of Egypt, and with an high arm brought he them out of it.
 <small><sub>**BSB:**</sub></small>
 The God of the people of Israel chose our fathers. He made them into a great people during their stay in Egypt, and with an uplifted arm He led them out of that land.
@@ -10,7 +10,7 @@ The God of the people this of Israel chose the fathers of us and the people exal
 > $\quad$ alluding to: [[LXX.Exod.12.37|Exod 12:37]] ☩ [[LXX.Isa.1.2|Isa 1:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | God |**<big>[[G2316\|θεὸς]]</big>**  |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

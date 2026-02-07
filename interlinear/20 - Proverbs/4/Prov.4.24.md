@@ -1,4 +1,4 @@
-**Proverbs 4:24** 
+**Proverbs 4:24**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put away from thee a froward mouth, and perverse lips put far from thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Put away deception from your mouth; keep your lips from perverse speech.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.23|<< Proverbs 4:23]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.25|Proverbs 4:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remove  |**<big>&#8207;[[H5493G\|הָסֵ֣ר]]&#8207; </big>**| ha.Ser<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from yourself  |**<big>&#8207;[[H4480A\|מִ֭מְּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| Mi.me.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

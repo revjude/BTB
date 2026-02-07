@@ -1,12 +1,12 @@
-**Revelation 2:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:9**<big><big>[[Rev.2.8 To the Church in Smyrna|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I know thy works, and tribulation, and poverty, (but thou art rich) and [I know] the blasphemy of them which say they are Jews, and are not, but [are] the synagogue of Satan.
 <small><sub>**BSB:**</sub></small>
 I know your affliction and your poverty—though you are rich! And I am aware of the slander of those who falsely claim to be Jews, but are in fact a synagogue of Satan.
 <small><sub>**Literal:**</sub></small>
 I know your <the> works and <the> tribulation and <the> poverty — but rich now you are — and the slander from those claiming Jews to be themselves and not are, but a synagogue <the> of Satan.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.8|<< Revelation 2:8]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.10|Revelation 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|οἶδά]]</big>**  |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | your |**<big>[[G4771\|σου]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

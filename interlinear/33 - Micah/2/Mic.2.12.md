@@ -1,4 +1,4 @@
-**Micah 2:12** 
+**Micah 2:12**<big><big>[[Mic.2.12 The Remnant of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will surely assemble, O Jacob, all of thee; I will surely gather the remnant of Israel; I will put them together as the sheep of Bozrah, as the flock in the midst of their fold: they shall make great noise by reason of [the multitude of] men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will surely gather all of you, O Jacob; I will collect the remnant of Israel. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.11|<< Micah 2:11]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.13|Micah 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely \<gather>  |**<big>&#8207;[[H0622\|אָסֹ֨ף]]&#8207; </big>**| 'a.Sof<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will gather  |**<big>&#8207;[[H0622\|אֶאֱסֹ֜ף]]&#8207; </big>**| 'e.'e.Sof<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

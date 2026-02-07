@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:2** 
 <small><sub>**LXX:**</sub></small>
 Hear the words  of this covenant! And you shall speak to \[the\] men of Judah, and to the ones dwelling in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Hear ye the words of this covenant, and speak unto the men of Judah, and to the inhabitants of Jerusalem;
-<small><sub>**BSB:**</sub></small>
-“Listen to the words of this covenant and tell them to the men of Judah and the residents of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.1|<< Jeremiah 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.3|Jeremiah 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

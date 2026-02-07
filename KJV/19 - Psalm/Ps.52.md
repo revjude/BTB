@@ -1,6 +1,6 @@
 (KJV) **Psalm 52**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51|<< Psalm 51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53|Psalm 53 >>]]</td></tr></table>
 
-***Why Do You Boast of Evil?***&emsp;<small><sup>\[ [[1Sam.22|1 Samuel 22:6–23]] ]</sup></small> ^bsb1345
+<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥃]]</big></big>***Why Do You Boast of Evil?***&emsp;<small><sup>\[ [[1Sam.22|1 Samuel 22:6–23]] ]</sup></small>
 
 
 

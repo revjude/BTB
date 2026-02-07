@@ -1,4 +1,4 @@
-**Proverbs 24:22** 
+**Proverbs 24:22**<big><big>[[Prov.24.21 Saying 30|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For their calamity shall rise suddenly; and who knoweth the ruin of them both?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they will bring sudden destruction. Who knows what ruin they can bring?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.21|<< Proverbs 24:21]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.23|Proverbs 24:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | suddenly  |**<big>&#8207;[[H6597\|פִ֭תְאֹם]]&#8207; </big>**| Fit.'om<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

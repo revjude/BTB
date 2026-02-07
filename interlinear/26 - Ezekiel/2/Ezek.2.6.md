@@ -1,4 +1,4 @@
-**Ezekiel 2:6** 
+**Ezekiel 2:6**<big><big>[[Ezek.2.1 Ezekiel’s Call|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns [be] with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they [be] a rebellious house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But you, son of man, do not be afraid of them or their words. Do not be afraid, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.5|<< Ezekiel 2:5]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.7|Ezekiel 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

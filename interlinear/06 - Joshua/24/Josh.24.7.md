@@ -1,4 +1,4 @@
-**Joshua 24:7** 
+**Joshua 24:7**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they cried unto the LORD, he put darkness between you and the Egyptians, and brought the sea upon them, and covered them; and your eyes have seen what I have done in Egypt: and ye dwelt in the wilderness a long season.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So your fathers cried out to the LORD, and He put darkness between you and the E
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.6|<< Joshua 24:6]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.8|Joshua 24:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6817\|יִּצְעֲק֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.'a.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

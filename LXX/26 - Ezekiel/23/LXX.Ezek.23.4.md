@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:4** 
 <small><sub>**LXX:**</sub></small>
 And  their names -- Aholah the elder, and Aholibah  her sister. And they were born to me, and gave birth to sons and daughters. And  their names -- Samaria \[is\] Aholah, and Jerusalem \[is\] Aholibah. 
-<small><sub>**KJV:**</sub></small>
-And the names of them [were] Aholah the elder, and Aholibah her sister: and they were mine, and they bare sons and daughters. Thus [were] their names; Samaria [is] Aholah, and Jerusalem Aholibah.
-<small><sub>**BSB:**</sub></small>
-The older was named Oholah, and her sister was named Oholibah. They became Mine and gave birth to sons and daughters. As for their identities, Oholah is Samaria, and Oholibah is Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.3|<< Ezekiel 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.5|Ezekiel 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

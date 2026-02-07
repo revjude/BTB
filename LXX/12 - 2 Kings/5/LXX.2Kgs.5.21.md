@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:21** 
 <small><sub>**LXX:**</sub></small>
 And Gehazi pursued after  Naaman. And Naaman saw him running after him, and he leaped down from the chariot for meeting him. And he said, Peace. 
-<small><sub>**KJV:**</sub></small>
-So Gehazi followed after Naaman. And when Naaman saw [him] running after him, he lighted down from the chariot to meet him, and said, [Is] all well?
-<small><sub>**BSB:**</sub></small>
-So Gehazi pursued Naaman. And when Naaman saw him running toward him, he got down from the chariot to meet him and asked, “Is everything all right?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.20|<< 2 Kings 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.22|2 Kings 5:22 >>]]</td></tr></table>
 
 | Translation | Greek |

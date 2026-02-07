@@ -1,4 +1,4 @@
-**Exodus 1:10** 
+**Exodus 1:10**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and [so] get them up out of the land.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Come, let us deal shrewdly with them, or they will increase even more; and if a 
 > $\quad$ referenced by: [[Acts.7.19|Acts 7:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give !  |**<big>&#8207;[[H3051\|הָ֥בָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Ha.va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us deal wisely  |**<big>&#8207;[[H2449\|נִֽתְחַכְּמָ֖ה]]&#8207; </big>**| nit.cha.ke.Mah<small><sup>[[HVtc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 118:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> to me \[is\] a helper, and I will scrutinize  my enemies. 
-<small><sub>**KJV:**</sub></small>
-The LORD taketh my part with them that help me: therefore shall I see [my desire] upon them that hate me.
-<small><sub>**BSB:**</sub></small>
-The LORD is on my side; He is my helper. Therefore I will look in triumph on those who hate me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.6|<< Psalm 118:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.8|Psalm 118:8 >>]]</td></tr></table>
 
 | Translation | Greek |

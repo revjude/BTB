@@ -1,10 +1,7 @@
 **LXX Isaiah 56:4** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span> to the eunuchs, As many as should keep  my Sabbaths, and should choose what I want, and should hold to  my covenant, 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD unto the eunuchs that keep my sabbaths, and choose [the things] that please me, and take hold of my covenant;
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says: “To the eunuchs who keep My Sabbaths, who choose what pleases Me and hold fast to My covenant—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.56.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.3|<< Isaiah 56:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.5|Isaiah 56:5 >>]]</td></tr></table>
 
 | Translation | Greek |

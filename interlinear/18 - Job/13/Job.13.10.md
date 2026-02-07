@@ -1,4 +1,4 @@
-**Job 13:10** 
+**Job 13:10**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will surely reprove you, if ye do secretly accept persons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely He would rebuke you if you secretly showed partiality.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.9|<< Job 13:9]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.11|Job 13:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to rebuke>  |**<big>&#8207;[[H3198\|הוֹכֵ֣חַ]]&#8207; </big>**| ho.Khe.ach<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will rebuke  |**<big>&#8207;[[H3198\|יוֹכִ֣יחַ]]&#8207; </big>**| yo.Khi.ach<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

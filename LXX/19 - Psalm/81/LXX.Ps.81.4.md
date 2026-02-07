@@ -1,10 +1,7 @@
 **LXX Psalm 81:4** 
 <small><sub>**LXX:**</sub></small>
 For it is an order to Israel, and a judgment by the God of Jacob. 
-<small><sub>**KJV:**</sub></small>
-For this [was] a statute for Israel, [and] a law of the God of Jacob.
-<small><sub>**BSB:**</sub></small>
-For this is a statute for Israel, an ordinance of the God of Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.81.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.3|<< Psalm 81:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.5|Psalm 81:5 >>]]</td></tr></table>
 
 | Translation | Greek |

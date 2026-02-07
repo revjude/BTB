@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:14** 
 <small><sub>**LXX:**</sub></small>
 And all the rulers sent to Baruch, son of Neriah, the \[son of\] Jehudi, son of Nethaniah, son of Shelemiah, son of Cushi, saying, The scroll in which you read by it into the ears of the people, take it into  your hand and come! And Baruch son of Neriah took the scroll in  his hand, and went down to them. 
-<small><sub>**KJV:**</sub></small>
-Therefore all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah, the son of Cushi, unto Baruch, saying, Take in thine hand the roll wherein thou hast read in the ears of the people, and come. So Baruch the son of Neriah took the roll in his hand, and came unto them.
-<small><sub>**BSB:**</sub></small>
-Then all the officials sent word to Baruch through Jehudi son of Nethaniah, the son of Shelemiah, the son of Cushi, saying, “Bring the scroll that you read in the hearing of the people, and come here.” So Baruch son of Neriah took the scroll and went to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.13|<< Jeremiah 36:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.15|Jeremiah 36:15 >>]]</td></tr></table>
 
 | Translation | Greek |

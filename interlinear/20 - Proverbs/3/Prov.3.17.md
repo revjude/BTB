@@ -1,4 +1,4 @@
-**Proverbs 3:17** 
+**Proverbs 3:17**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her ways [are] ways of pleasantness, and all her paths [are] peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All her ways are pleasant, and all her paths are peaceful.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.16|<< Proverbs 3:16]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.18|Proverbs 3:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ways her  |**<big>&#8207;[[H1870G\|דְּרָכֶ֥י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| de.ra.Khei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] ways of  |**<big>&#8207;[[H1870G\|דַרְכֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| dar.khei-<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

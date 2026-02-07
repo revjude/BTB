@@ -1,10 +1,7 @@
 **LXX Exodus 13:17** 
 <small><sub>**LXX:**</sub></small>
 And as Pharaoh sent out the people, God did not guide them \[in the\] way \[of the\] land of \[the\] Philistines, for it was near; for God said, Lest at any time the people should repent seeing war, and they should return into Egypt; 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Pharaoh had let the people go, that God led them not [through] the way of the land of the Philistines, although that [was] near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:
-<small><sub>**BSB:**</sub></small>
-When Pharaoh let the people go, God did not lead them along the road through the land of the Philistines, though it was shorter. For God said, “If the people face war, they might change their minds and return to Egypt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.16|<< Exodus 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.18|Exodus 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

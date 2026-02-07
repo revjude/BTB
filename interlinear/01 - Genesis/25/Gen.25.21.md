@@ -1,4 +1,4 @@
-**Genesis 25:21** 
+**Genesis 25:21**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac intreated the LORD for his wife, because she [was] barren: and the LORD was intreated of him, and Rebekah his wife conceived.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. A
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.20|<< Genesis 25:20]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.22|Genesis 25:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he prayed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6279\|יֶּעְתַּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye'.Tar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֤ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

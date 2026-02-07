@@ -1,4 +1,4 @@
-**2 Kings 19:15** 
+**2 Kings 19:15**<big><big>[[2Kgs.19.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest [between] the cherubims, thou art the God, [even] thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Hezekiah prayed before the LORD: “O LORD, God of Israel, enthroned between
 > $\quad$ referenced by: [[Acts.4.24|Acts 4:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he prayed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6419\|יִּתְפַּלֵּ֨ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.pa.Lel<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|חִזְקִיָּ֜הוּ]]&#8207; </big>**| chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

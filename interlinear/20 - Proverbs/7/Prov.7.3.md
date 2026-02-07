@@ -1,4 +1,4 @@
-**Proverbs 7:3** 
+**Proverbs 7:3**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bind them upon thy fingers, write them upon the table of thine heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tie them to your fingers; write them on the tablet of your heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.2|<< Proverbs 7:2]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.4|Proverbs 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bind them  |**<big>&#8207;[[H7194\|קָשְׁרֵ֥]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ka.she.Re<small><sup>[[HVqv2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

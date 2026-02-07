@@ -1,4 +1,4 @@
-**1 Chronicles 11:4** 
+**1 Chronicles 11:4**<big><big>[[1Chr.11.4 David Conquers Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David and all Israel went to Jerusalem, which [is] Jebus; where the Jebusites [were], the inhabitants of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then David and all the Israelites marched to Jerusalem (that is, Jebus), where t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.3|<< 1 Chronicles 11:3]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.5|1 Chronicles 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֨לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֧יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

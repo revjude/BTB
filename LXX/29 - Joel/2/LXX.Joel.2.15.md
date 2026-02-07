@@ -1,10 +1,7 @@
 **LXX Joel 2:15** 
 <small><sub>**LXX:**</sub></small>
 Trump a trumpet in Zion! Sanctify a fast! Proclaim a \[sacred\] service! 
-<small><sub>**KJV:**</sub></small>
-Blow the trumpet in Zion, sanctify a fast, call a solemn assembly:
-<small><sub>**BSB:**</sub></small>
-Blow the ram’s horn in Zion, consecrate a fast, proclaim a sacred assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.14|<< Joel 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.16|Joel 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

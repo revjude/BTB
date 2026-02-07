@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:8** 
 <small><sub>**LXX:**</sub></small>
 And the man of God said to the king, If you should give to me  half  of your house, I will not enter with you, neither will I eat bread, nor drink water in  this place. 
-<small><sub>**KJV:**</sub></small>
-And the man of God said unto the king, If thou wilt give me half thine house, I will not go in with thee, neither will I eat bread nor drink water in this place:
-<small><sub>**BSB:**</sub></small>
-But the man of God replied, “If you were to give me half your possessions, I still would not go with you, nor would I eat bread or drink water in this place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.7|<< 1 Kings 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.9|1 Kings 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

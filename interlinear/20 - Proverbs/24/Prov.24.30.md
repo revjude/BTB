@@ -1,4 +1,4 @@
-**Proverbs 24:30** 
+**Proverbs 24:30**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went by the field of the slothful, and by the vineyard of the man void of understanding;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I went past the field of a slacker and by the vineyard of a man lacking judgment
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.29|<< Proverbs 24:29]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.31|Proverbs 24:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] field of  |**<big>&#8207;[[H7704G\|שְׂדֵ֣ה]]&#8207; </big>**| se.Deh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

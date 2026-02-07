@@ -1,12 +1,12 @@
-**Psalms 119:9** 
+**Psalms 119:9**<big><big>[[Ps.119.9 Your Word Is a Lamp to My Feet - BETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-BETH. Wherewithal shall a young man cleanse his way? by taking heed [thereto] according to thy word.
+Wherewithal shall a young man cleanse his way? by taking heed [thereto] according to thy word.
 <small><sub>**BSB:**</sub></small>
 How can a young man keep his way pure? By guarding it according to Your word.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.8|<< Psalms 119:8]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.10|Psalms 119:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> how?  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4100\|מֶּ֣ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he keep pure  |**<big>&#8207;[[H2135\|יְזַכֶּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.za.keh-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

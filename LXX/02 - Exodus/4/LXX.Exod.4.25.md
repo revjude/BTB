@@ -1,10 +1,7 @@
 **LXX Exodus 4:25** 
 <small><sub>**LXX:**</sub></small>
 And Zipporah, taking a small \[sharp\] stone, circumcised the foreskin  of her son. And she fell at  his feet, and said, The blood of the circumcision of my male child is stopped. 
-<small><sub>**KJV:**</sub></small>
-Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast [it] at his feet, and said, Surely a bloody husband [art] thou to me.
-<small><sub>**BSB:**</sub></small>
-But Zipporah took a flint knife, cut off her son’s foreskin, and touched it to Moses’ feet. “Surely you are a bridegroom of blood to me,” she said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.24|<< Exodus 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.26|Exodus 4:26 >>]]</td></tr></table>
 
 | Translation | Greek |

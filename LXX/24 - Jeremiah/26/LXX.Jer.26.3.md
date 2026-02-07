@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:3** 
 <small><sub>**LXX:**</sub></small>
 Perhaps they shall hear, and shall be turned each from  his evil way, and I will cease from the bad \[things\] which I devise  to do to them because of  their evil practices. 
-<small><sub>**KJV:**</sub></small>
-If so be they will hearken, and turn every man from his evil way, that I may repent me of the evil, which I purpose to do unto them because of the evil of their doings.
-<small><sub>**BSB:**</sub></small>
-Perhaps they will listen and turn—each from his evil way of life—so that I may relent of the disaster I am planning to bring upon them because of the evil of their deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.2|<< Jeremiah 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.4|Jeremiah 26:4 >>]]</td></tr></table>
 
 | Translation | Greek |

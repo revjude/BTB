@@ -1,12 +1,12 @@
-**John 8:52
-**<small><sub>**KJV:**</sub></small>
+**John 8:52**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said the Jews unto him, Now we know that thou hast a devil. Abraham is dead, and the prophets; and thou sayest, If a man keep my saying, he shall never taste of death.
 <small><sub>**BSB:**</sub></small>
 “Now we know that You have a demon!” declared the Jews. “Abraham died, and so did the prophets, yet You say that anyone who keeps Your word will never taste death.
 <small><sub>**Literal:**</sub></small>
 Said therefore to Him the Jews; Now we have known that a demon You have. Abraham died and the prophets, and You yourself say; If anyone the word of Mine shall keep, certainly not shall he taste of death to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.51|<< John 8:51]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.53|John 8:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπον]]</big>**  [^1] |Eipon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+TR+Byz">NKO</abbr> | |

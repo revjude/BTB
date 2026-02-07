@@ -1,4 +1,4 @@
-**Numbers 24:14** 
+**Numbers 24:14**<big><big>[[Num.24.10 Balak Dismisses Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, I go unto my people: come [therefore, and] I will advertise thee what this people shall do to thy people in the latter days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now I am going back to my people, but come, let me warn you what this people wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.13|<< Numbers 24:13]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.15|Numbers 24:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here I  |**<big>&#8207;[[H2005\|הִנְנִ֥]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

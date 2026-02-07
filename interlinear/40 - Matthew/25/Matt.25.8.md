@@ -1,12 +1,12 @@
-**Matthew 25:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:8**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.
 <small><sub>**BSB:**</sub></small>
 The foolish ones said to the wise, ‘Give us some of your oil; our lamps are going out.’
 <small><sub>**Literal:**</sub></small>
 <the> And the foolish to the wise said; do give us of the oil of you, for the lamps of us are going out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.7|<< Matthew 25:7]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.9|Matthew 25:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|αἱ]]</big>**  |hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

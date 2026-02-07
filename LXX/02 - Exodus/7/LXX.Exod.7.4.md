@@ -1,10 +1,7 @@
 **LXX Exodus 7:4** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh will not listen to you, and I will put  my hand against Egypt, and I will lead out with my power  my people the sons of Israel from out of \[the\] land of Egypt with great punishment. 
-<small><sub>**KJV:**</sub></small>
-But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, [and] my people the children of Israel, out of the land of Egypt by great judgments.
-<small><sub>**BSB:**</sub></small>
-Pharaoh will not listen to you. Then I will lay My hand on Egypt, and by mighty acts of judgment I will bring the divisions of My people the Israelites out of the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.3|<< Exodus 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.5|Exodus 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

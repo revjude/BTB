@@ -1,4 +1,4 @@
-**Esther 2:23** 
+**Esther 2:23**<big><big>[[Esth.2.21 Mordecai Uncovers a Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After the report had been investigated and verified, both officials were hanged 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.22|<< Esther 2:22]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.1|Esther 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was sought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1245\|יְבֻקַּ֤שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.vu.Kash<small><sup>[[HVPw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the matter  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697K\|דָּבָר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

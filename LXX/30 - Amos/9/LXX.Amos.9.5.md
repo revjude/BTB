@@ -1,10 +1,7 @@
 **LXX Amos 9:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span>  God  almighty, \[is\] the one attaching the earth and shaking it. And all the ones dwelling it shall mourn. And it shall ascend as \[the\] river of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the Lord GOD of hosts [is] he that toucheth the land, and it shall melt, and all that dwell therein shall mourn: and it shall rise up wholly like a flood; and shall be drowned, as [by] the flood of Egypt.
-<small><sub>**BSB:**</sub></small>
-The Lord GOD of Hosts, He who touches the earth and it melts, and all its dwellers mourn—all the land rises like the Nile, then sinks like the river of Egypt—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.4|<< Amos 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.6|Amos 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

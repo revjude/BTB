@@ -1,4 +1,4 @@
-**Isaiah 34:9** 
+**Isaiah 34:9**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Edom’s streams will be turned to tar, and her soil to sulfur; her land will be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.8|<< Isaiah 34:8]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.10|Isaiah 34:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be changed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2015\|נֶהֶפְכ֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ne.hef.Khu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | torrents its  |**<big>&#8207;[[H5158A\|נְחָלֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| ne.cha.Lei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

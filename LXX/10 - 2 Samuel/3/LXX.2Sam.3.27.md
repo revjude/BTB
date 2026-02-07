@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abner returned to Hebron, and Joab turned him from \[the\] side of the gate to speak to him laying in wait. And he struck him there in the flank, and he died for the blood of his brother Asahel. 
-<small><sub>**KJV:**</sub></small>
-And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and smote him there under the fifth [rib], that he died, for the blood of Asahel his brother.
-<small><sub>**BSB:**</sub></small>
-When Abner returned to Hebron, Joab pulled him aside into the gateway, as if to speak to him privately, and there Joab stabbed him in the stomach. So Abner died on account of the blood of Joab’s brother Asahel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.26|<< 2 Samuel 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.28|2 Samuel 3:28 >>]]</td></tr></table>
 
 | Translation | Greek |

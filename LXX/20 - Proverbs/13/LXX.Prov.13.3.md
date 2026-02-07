@@ -1,10 +1,7 @@
 **LXX Proverbs 13:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] one who guards  his own mouth gives heed to  his own soul; but the one \[with\] precipitous lips shall terrify himself. 
-<small><sub>**KJV:**</sub></small>
-He that keepeth his mouth keepeth his life: [but] he that openeth wide his lips shall have destruction.
-<small><sub>**BSB:**</sub></small>
-He who guards his mouth protects his life, but the one who opens his lips invites his own ruin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.2|<< Proverbs 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.4|Proverbs 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,50 +1,50 @@
 (KJV) **Proverbs 24**<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23|<< Proverbs 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25|Proverbs 25 >>]]</td></tr></table>
 
-*Saying 20* ^bsb1490
+<big><big>[[Prov.24.1 Saying 20|⥃]]</big></big>*Saying 20*
 
  $\quad$ <span class="startversemarker">[</span>**[[Prov.24.1|1]]**<span class="endversemarker">]</span> Be not<small><small>[^1]</small></small> thou envious against evil men, neither<small><small>[^2]</small></small> desire to be with them. <span class="startversemarker">[</span>**[[Prov.24.2|2]]**<span class="endversemarker">]</span> For their heart studieth destruction, and their lips talk of mischief.<small><small>[^3]</small></small>
 
-*Saying 21* ^bsb1491
+<big><big>[[Prov.24.3 Saying 21|⥃]]</big></big>*Saying 21*
 
  <span class="startversemarker">[</span>**[[Prov.24.3|3]]**<span class="endversemarker">]</span> Through wisdom<small><small>[^4]</small></small> is an house builded; and by understanding it is<small><small>[^5]</small></small> established: <span class="startversemarker">[</span>**[[Prov.24.4|4]]**<span class="endversemarker">]</span> And by knowledge shall the chambers be filled with all precious and pleasant riches.<small><small>[^6]</small></small>
 
-*Saying 22* ^bsb1492
+<big><big>[[Prov.24.5 Saying 22|⥃]]</big></big>*Saying 22*
 
  <span class="startversemarker">[</span>**[[Prov.24.5|5]]**<span class="endversemarker">]</span> A wise<small><small>[^7]</small></small> man \[is\] strong<small><small>[^8]</small></small>; yea, a man of knowledge increaseth strength<small><small>[^9]</small></small>. <span class="startversemarker">[</span>**[[Prov.24.6|6]]**<span class="endversemarker">]</span> For by<small><small>[^10]</small></small> wise counsel thou shalt make thy war: and<small><small>[^11]</small></small> in multitude of counsellors \[there is\] safety.
 
-*Saying 23* ^bsb1493
+<big><big>[[Prov.24.7 Saying 23|⥃]]</big></big>*Saying 23*
 
  <span class="startversemarker">[</span>**[[Prov.24.7|7]]**<span class="endversemarker">]</span> Wisdom \[is\] too<small><small>[^12]</small></small> high for a fool: he openeth<small><small>[^13]</small></small> not his mouth in the gate.
 
-*Saying 24* ^bsb1494
+<big><big>[[Prov.24.8 Saying 24|⥃]]</big></big>*Saying 24*
 
  <span class="startversemarker">[</span>**[[Prov.24.8|8]]**<span class="endversemarker">]</span> He that deviseth to do evil shall be called a mischievous person.<small><small>[^14]</small></small> <span class="startversemarker">[</span>**[[Prov.24.9|9]]**<span class="endversemarker">]</span> The thought<small><small>[^15]</small></small> of foolishness \[is\] sin: and the scorner<small><small>[^16]</small></small> \[is\] an abomination to men.
 
-*Saying 25* ^bsb1495
+<big><big>[[Prov.24.10 Saying 25|⥃]]</big></big>*Saying 25*
 
  <span class="startversemarker">[</span>**[[Prov.24.10|10]]**<span class="endversemarker">]</span> \[If\] thou<small><small>[^17]</small></small> faint in the day of adversity, thy strength \[is\] small<small><small>[^18]</small></small>. <span class="startversemarker">[</span>**[[Prov.24.11|11]]**<span class="endversemarker">]</span> If thou forbear to deliver \[them that are\] drawn unto death, and \[those that are\] ready to be slain;<small><small>[^19]</small></small> <span class="startversemarker">[</span>**[[Prov.24.12|12]]**<span class="endversemarker">]</span> If thou sayest, Behold, we knew it not; doth not he that<small><small>[^20]</small></small> pondereth the heart consider \[it\]? and he that keepeth<small><small>[^21]</small></small> thy soul, doth \[not\] he know \[it\]? and shall<small><small>[^22]</small></small> \[not\] he render to \[every\] man according to his works?
 
-*Saying 26* ^bsb1496
+<big><big>[[Prov.24.13 Saying 26|⥃]]</big></big>*Saying 26*
 
  <span class="startversemarker">[</span>**[[Prov.24.13|13]]**<span class="endversemarker">]</span> My son, eat<small><small>[^23]</small></small> thou honey, because \[it is\] good; and the honeycomb, \[which is\] sweet to thy taste<small><small>[^24]</small></small>: <span class="startversemarker">[</span>**[[Prov.24.14|14]]**<span class="endversemarker">]</span> So \[shall\] the<small><small>[^25]</small></small> knowledge of wisdom \[be\] unto thy soul: when<small><small>[^26]</small></small> thou hast found \[it\], then there<small><small>[^27]</small></small> shall be a reward, and thy expectation shall not be cut off.
 
-*Saying 27* ^bsb1497
+<big><big>[[Prov.24.15 Saying 27|⥃]]</big></big>*Saying 27*
 
  <span class="startversemarker">[</span>**[[Prov.24.15|15]]**<span class="endversemarker">]</span> Lay<small><small>[^28]</small></small> not wait, O wicked \[man\], against the dwelling of the righteous; spoil<small><small>[^29]</small></small> not his resting place: <span class="startversemarker">[</span>**[[Prov.24.16|16]]**<span class="endversemarker">]</span> For a just<small><small>[^30]</small></small> \[man\] falleth seven times, and riseth up again: but<small><small>[^31]</small></small> the wicked shall fall into mischief.
 
-*Saying 28* ^bsb1498
+<big><big>[[Prov.24.17 Saying 28|⥃]]</big></big>*Saying 28*
 
  <span class="startversemarker">[</span>**[[Prov.24.17|17]]**<span class="endversemarker">]</span> Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:<small><small>[^32]</small></small> <span class="startversemarker">[</span>**[[Prov.24.18|18]]**<span class="endversemarker">]</span> Lest the <span class="smallcaps">Lord</span> see \[it\], and it displease him<small><small>[^33]</small></small>, and he<small><small>[^34]</small></small> turn away his wrath from him.
 
-*Saying 29* ^bsb1499
+<big><big>[[Prov.24.19 Saying 29|⥃]]</big></big>*Saying 29*
 
  <span class="startversemarker">[</span>**[[Prov.24.19|19]]**<span class="endversemarker">]</span> Fret<small><small>[^35]</small></small> not thyself because of evil \[men\], neither<small><small>[^36]</small></small> be thou envious at the wicked; <span class="startversemarker">[</span>**[[Prov.24.20|20]]**<span class="endversemarker">]</span> For there<small><small>[^37]</small></small> shall be no reward to the evil \[man\]; the candle<small><small>[^38]</small></small> of the wicked shall be put out.
 
-*Saying 30* ^bsb1500
+<big><big>[[Prov.24.21 Saying 30|⥃]]</big></big>*Saying 30*
 
  <span class="startversemarker">[</span>**[[Prov.24.21|21]]**<span class="endversemarker">]</span> My son, fear<small><small>[^39]</small></small> thou the <span class="smallcaps">Lord</span> and the king: \[and\] meddle<small><small>[^40]</small></small> not with them that are given to change<small><small>[^41]</small></small>: <span class="startversemarker">[</span>**[[Prov.24.22|22]]**<span class="endversemarker">]</span> For their<small><small>[^42]</small></small> calamity shall rise suddenly; and who<small><small>[^43]</small></small> knoweth the ruin of them both?
 
-***Further Sayings of the Wise*** ^bsb1501
+<big><big>[[Prov.24.23 Further Sayings of the Wise|⥃]]</big></big>***Further Sayings of the Wise***
 
  <span class="startversemarker">[</span>**[[Prov.24.23|23]]**<span class="endversemarker">]</span> These \[things<small><small>[^44]</small></small>\] also \[belong\] to the wise. \[It<small><small>[^45]</small></small> is\] not good to have respect of persons in judgment. <span class="startversemarker">[</span>**[[Prov.24.24|24]]**<span class="endversemarker">]</span> He that<small><small>[^46]</small></small> saith unto the wicked, Thou \[art\] righteous; him shall<small><small>[^47]</small></small> the people curse, nations shall abhor him: <span class="startversemarker">[</span>**[[Prov.24.25|25]]**<span class="endversemarker">]</span> But to them<small><small>[^48]</small></small> that rebuke \[him\] shall be delight, and a good blessing<small><small>[^49]</small></small> shall come upon them. <span class="startversemarker">[</span>**[[Prov.24.26|26]]**<span class="endversemarker">]</span> \[Every man\] shall<small><small>[^50]</small></small> kiss \[his\] lips that giveth a right answer<small><small>[^51]</small></small>. <span class="startversemarker">[</span>**[[Prov.24.27|27]]**<span class="endversemarker">]</span> Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.<small><small>[^52]</small></small> <span class="startversemarker">[</span>**[[Prov.24.28|28]]**<span class="endversemarker">]</span> Be not<small><small>[^53]</small></small> a witness against thy neighbour without cause; and deceive<small><small>[^54]</small></small> \[not\] with thy lips. <span class="startversemarker">[</span>**[[Prov.24.29|29]]**<span class="endversemarker">]</span> Say<small><small>[^55]</small></small> not, I will do<small><small>[^56]</small></small> so to him as he hath done to me: I will render to the man according to his work. <span class="startversemarker">[</span>**[[Prov.24.30|30]]**<span class="endversemarker">]</span> I went<small><small>[^57]</small></small> by the field of the slothful, and by the vineyard of the man void<small><small>[^58]</small></small> of understanding; <span class="startversemarker">[</span>**[[Prov.24.31|31]]**<span class="endversemarker">]</span> And, lo, it<small><small>[^59]</small></small> was all grown over with thorns, \[and\] nettles had covered the face thereof, and the<small><small>[^60]</small></small> stone wall thereof was broken down. <span class="startversemarker">[</span>**[[Prov.24.32|32]]**<span class="endversemarker">]</span> Then I saw, \[and\] considered \[it<small><small>[^61]</small></small>\] well: I looked<small><small>[^62]</small></small> upon \[it\], \[and\] received instruction. <span class="startversemarker">[</span>**[[Prov.24.33|33]]**<span class="endversemarker">]</span> \[Yet\] a little sleep, a little slumber, a little folding of the hands to sleep:<small><small>[^63]</small></small> <span class="startversemarker">[</span>**[[Prov.24.34|34]]**<span class="endversemarker">]</span> So shall thy poverty<small><small>[^64]</small></small> come \[as\] one that travelleth; and thy want as an armed man<small><small>[^65]</small></small>. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23|<< Proverbs 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25|Proverbs 25 >>]]</td></tr></table>
 

@@ -1,12 +1,12 @@
-**Mark 11:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:3**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if any man say unto you, Why do ye this? say ye that the Lord hath need of him; and straightway he will send him hither.
 <small><sub>**BSB:**</sub></small>
 If anyone asks, ‘Why are you doing this?’ tell him, ‘The Lord needs it and will return it shortly.’”
 <small><sub>**Literal:**</sub></small>
 And if anyone to you may say; Why are you doing this?’ do say that the Lord of it need has, and soon it He sends back here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.2|<< Mark 11:2]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.4|Mark 11:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐάν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

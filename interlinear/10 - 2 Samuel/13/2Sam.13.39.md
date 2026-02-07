@@ -1,4 +1,4 @@
-**2 Samuel 13:39** 
+**2 Samuel 13:39**<big><big>[[2Sam.13.34 Absalom Flees to Geshur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [the soul of] king David longed to go forth unto Absalom: for he was comforted concerning Amnon, seeing he was dead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And King David longed to go to Absalom, for he had been consoled over Amnon’s 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.38|<< 2 Samuel 13:38]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.1|2 Samuel 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it [fem] completed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615I\|תְּכַל֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Khal<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֣ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

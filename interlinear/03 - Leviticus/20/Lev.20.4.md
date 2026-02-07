@@ -1,4 +1,4 @@
-**Leviticus 20:4** 
+**Leviticus 20:4**<big><big>[[Lev.20.1 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if the people of the land ever hide their eyes and fail to put to death the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.3|<< Leviticus 20:3]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.5|Leviticus 20:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִ֡ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to hide>  |**<big>&#8207;[[H5956\|הַעְלֵ֣ם]]&#8207; </big>**| ha'.Lem<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

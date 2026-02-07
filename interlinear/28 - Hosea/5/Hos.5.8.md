@@ -1,4 +1,4 @@
-**Hosea 5:8** 
+**Hosea 5:8**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blow ye the cornet in Gibeah, [and] the trumpet in Ramah: cry aloud [at] Bethaven, after thee, O Benjamin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blow the ram’s horn in Gibeah, the trumpet in Ramah; raise the battle cry in B
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.7|<< Hosea 5:7]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.9|Hosea 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | blow  |**<big>&#8207;[[H8628\|תִּקְע֤וּ]]&#8207; </big>**| tik.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a horn  |**<big>&#8207;[[H7782\|שׁוֹפָר֙]]&#8207; </big>**| sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 1:57
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:57**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now Elisabeth’s full time came that she should be delivered; and she brought forth a son.
 <small><sub>**BSB:**</sub></small>
 When the time came for Elizabeth to have her child, she gave birth to a son.
 <small><sub>**Literal:**</sub></small>
 <the> Now Elizabeth was fulfilled the time <the> to give birth for her and she bore a son.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.56|<< Luke 1:56]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.58|Luke 1:58 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

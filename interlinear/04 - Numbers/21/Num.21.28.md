@@ -1,4 +1,4 @@
-**Numbers 21:28** 
+**Numbers 21:28**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there is a fire gone out of Heshbon, a flame from the city of Sihon: it hath consumed Ar of Moab, [and] the lords of the high places of Arnon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For a fire went out from Heshbon, a blaze from the city of Sihon. It consumed Ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.27|<< Numbers 21:27]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.29|Numbers 21:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire  |**<big>&#8207;[[H0784\|אֵשׁ֙]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

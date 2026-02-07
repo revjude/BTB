@@ -1,4 +1,4 @@
-**2 Chronicles 18:10** 
+**2 Chronicles 18:10**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith the LORD, With these thou shalt push Syria until they be consumed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Zedekiah son of Chenaanah had made for himself iron horns and declared, “T
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.9|<< 2 Chronicles 18:9]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.11|2 Chronicles 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for himself  |**<big>&#8207;[[H9005\|ל֛]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

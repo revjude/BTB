@@ -1,5 +1,5 @@
-**2 Peter 2:16
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:16**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But was rebuked for his iniquity: the dumb ass speaking with man’s voice forbad the madness of the prophet.
 <small><sub>**BSB:**</sub></small>
 But he was rebuked for his transgression by a donkey, otherwise without speech, that spoke with a man’s voice and restrained the prophet’s madness.
@@ -10,7 +10,7 @@ reproof however he had for his own transgression; [by] a donkey mute in a man’
 > $\quad$ alluding to: [[LXX.Num.22.28|Num 22:28]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | reproof |**<big>[[G1649\|ἔλεγξιν]]</big>**  |elegxin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

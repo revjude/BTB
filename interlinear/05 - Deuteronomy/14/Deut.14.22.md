@@ -1,4 +1,4 @@
-**Deuteronomy 14:22** 
+**Deuteronomy 14:22**<big><big>[[Deut.14.22 Giving Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must be sure to set aside a tenth of all the produce brought forth each year
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.21|<< Deuteronomy 14:21]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.23|Deuteronomy 14:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fully \<tithe>  |**<big>&#8207;[[H6237\|עַשֵּׂ֣ר]]&#8207; </big>**| 'a.Ser<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will tithe  |**<big>&#8207;[[H6237\|תְּעַשֵּׂ֔ר]]&#8207; </big>**| te.'a.Ser<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

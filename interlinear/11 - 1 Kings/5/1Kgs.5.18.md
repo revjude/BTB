@@ -1,4 +1,4 @@
-**1 Kings 5:18** (5:32)
+**1 Kings 5:18**<big><big>[[1Kgs.5.13 Solomon’s Labor Force|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon’s builders and Hiram’s builders did hew [them], and the stonesquarers: so they prepared timber and stones to build the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Solomon’s and Hiram’s builders, along with the Gebalites, quarried the st
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.17|<< 1 Kings 5:17]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.1|1 Kings 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cut [them] to shape  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6458\|יִּפְסְל֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.se.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] builders of  |**<big>&#8207;[[H1129\|בֹּנֵ֧י]]&#8207; </big>**| bo.Nei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 41:23** 
 <small><sub>**LXX:**</sub></small>
 Tell to us! announce the \[things\] coming at \[the\] latter end! and we shall know that you are gods. Do good and do evil! and we shall wonder, and we shall see at the same time; 
-<small><sub>**KJV:**</sub></small>
-Shew the things that are to come hereafter, that we may know that ye [are] gods: yea, do good, or do evil, that we may be dismayed, and behold [it] together.
-<small><sub>**BSB:**</sub></small>
-Tell us the things that are to come, so that we may know that you are gods. Yes, do something good or evil, that we may look on together in dismay.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.22|<< Isaiah 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.24|Isaiah 41:24 >>]]</td></tr></table>
 
 | Translation | Greek |

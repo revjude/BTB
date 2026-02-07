@@ -1,10 +1,7 @@
 **LXX Ezra 6:12** 
 <small><sub>**LXX:**</sub></small>
 And the God of whom encamps \[with his\] name there, he shall eradicate every king and people who should stretch out  his hand to change and remove from view the house  of God, that one  in Jerusalem. I Darius rendered \[the\] decree. Carefully let it become! 
-<small><sub>**KJV:**</sub></small>
-And the God that hath caused his name to dwell there destroy all kings and people, that shall put to their hand to alter [and] to destroy this house of God which [is] at Jerusalem. I Darius have made a decree; let it be done with speed.
-<small><sub>**BSB:**</sub></small>
-May God, who has caused His Name to dwell there, overthrow any king or people who lifts a hand to alter this decree or to destroy this house of God in Jerusalem. I, Darius, have issued the decree. Let it be carried out with diligence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.11|<< Ezra 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.13|Ezra 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

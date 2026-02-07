@@ -1,4 +1,4 @@
-**Leviticus 13:41** 
+**Leviticus 13:41**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that hath his hair fallen off from the part of his head toward his face, he [is] forehead bald: [yet is] he clean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or if his hairline recedes and he is bald on his forehead, he is still clean.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.40|<< Leviticus 13:40]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.42|Leviticus 13:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] side of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6285\|פְּאַ֣ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

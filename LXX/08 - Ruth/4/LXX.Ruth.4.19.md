@@ -1,10 +1,7 @@
 **LXX Ruth 4:19** 
 <small><sub>**LXX:**</sub></small>
 and Hezron engendered  Ram, and Ram engendered  Amminadab, 
-<small><sub>**KJV:**</sub></small>
-And Hezron begat Ram, and Ram begat Amminadab,
-<small><sub>**BSB:**</sub></small>
-Hezron was the father of Ram, Ram was the father of Amminadab,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.18|<< Ruth 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.20|Ruth 4:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ruth 4:19** is...

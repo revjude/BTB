@@ -1,12 +1,12 @@
-**John 5:33
-**<small><sub>**KJV:**</sub></small>
+**John 5:33**<big><big>[[John.5.31 Testimonies about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye sent unto John, and he bare witness unto the truth.
 <small><sub>**BSB:**</sub></small>
 You have sent to John, and he has testified to the truth.
 <small><sub>**Literal:**</sub></small>
 You yourselves have sent unto John and he has borne witness to the truth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.32|<< John 5:32]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.34|John 5:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | have sent |**<big>[[G0649\|ἀπεστάλκατε]]</big>**  |apestalkate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

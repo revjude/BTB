@@ -1,12 +1,12 @@
-**1 Corinthians 9:23
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:23**<big><big>[[1Cor.9.19 Paul the Servant to All|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this I do for the gospel’s sake, that I might be partaker thereof with [you].
 <small><sub>**BSB:**</sub></small>
 I do all this for the sake of the gospel, so that I may share in its blessings.
 <small><sub>**Literal:**</sub></small>
 All [things] now I do on account of the gospel that a fellow partaker with it I may become.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.22|<< 1 Corinthians 9:22]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.24|1 Corinthians 9:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All [things] [^1] [^2] |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

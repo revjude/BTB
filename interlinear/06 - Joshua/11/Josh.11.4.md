@@ -1,4 +1,4 @@
-**Joshua 11:4** 
+**Joshua 11:4**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went out, they and all their hosts with them, much people, even as the sand that [is] upon the sea shore in multitude, with horses and chariots very many.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So these kings came out with all their armies, a multitude as numerous as the sa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.3|<< Joshua 11:3]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.5|Joshua 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצְא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֗ם]]&#8207; </big>**| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

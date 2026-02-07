@@ -1,10 +1,7 @@
 **LXX Numbers 7:18** 
 <small><sub>**LXX:**</sub></small>
 The second day there brought Nethaneel, son of Zuar, the ruler of the tribe of Issachar. 
-<small><sub>**KJV:**</sub></small>
-On the second day Nethaneel the son of Zuar, prince of Issachar, did offer:
-<small><sub>**BSB:**</sub></small>
-On the second day Nethanel son of Zuar, the leader of Issachar, drew near.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.17|<< Numbers 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.19|Numbers 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

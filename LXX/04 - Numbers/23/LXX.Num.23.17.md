@@ -1,10 +1,7 @@
 **LXX Numbers 23:17** 
 <small><sub>**LXX:**</sub></small>
 And he returned to him. And thus he was standing beside  his whole burnt-offering, and the rulers of Moab with him. And Balak said to him, What said \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken?
-<small><sub>**BSB:**</sub></small>
-So he returned to Balak, who was standing there by his burnt offering with the princes of Moab. “What did the LORD say?” Balak asked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.16|<< Numbers 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.18|Numbers 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

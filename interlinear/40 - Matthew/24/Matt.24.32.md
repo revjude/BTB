@@ -1,12 +1,12 @@
-**Matthew 24:32
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:32**<big><big>[[Matt.24.32 The Lesson of the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer [is] nigh:
 <small><sub>**BSB:**</sub></small>
 Now learn this lesson from the fig tree: As soon as its branches become tender and sprout leaves, you know that summer is near.
 <small><sub>**Literal:**</sub></small>
 From now the fig tree do learn the parable: When already the branch of it may become tender and the leaves may it put forth, you know that near [is] the summer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.31|<< Matthew 24:31]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.33|Matthew 24:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|Ἀπὸ]]</big>**  |Apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

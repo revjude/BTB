@@ -1,4 +1,4 @@
-**Genesis 25:18** 
+**Genesis 25:18**<big><big>[[Gen.25.12 The Descendants of Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they dwelt from Havilah unto Shur, that [is] before Egypt, as thou goest toward Assyria: [and] he died in the presence of all his brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ishmael’s descendants settled from Havilah to Shur, which is near the border o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.17|<< Genesis 25:17]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.19|Genesis 25:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they dwelt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7931\|יִּשְׁכְּנ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.ke.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Havilah  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H2341J\|חֲוִילָ֜ה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.vi.Lah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

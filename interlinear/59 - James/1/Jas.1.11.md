@@ -1,5 +1,5 @@
-**James 1:11
-**<small><sub>**KJV:**</sub></small>
+**James 1:11**<big><big>[[Jas.1.2 Rejoicing in Trials|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways.
 <small><sub>**BSB:**</sub></small>
 For the sun rises with scorching heat and withers the plant; its flower falls and its beauty is lost. So too, the rich man will fade away in the midst of his pursuits.
@@ -10,7 +10,7 @@ Has risen for the sun with [its] burning heat and withered the grass and the flo
 > $\quad$ alluding to: [[LXX.Isa.40.6|Isa 40:6-7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Has risen |**<big>[[G0393\|ἀνέτειλεν]]</big>**  |aneteilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

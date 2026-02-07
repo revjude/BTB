@@ -1,10 +1,7 @@
 **LXX Psalm 80:3** 
 <small><sub>**LXX:**</sub></small>
 O God, turn towards us, and your face appear! and we shall be delivered. 
-<small><sub>**KJV:**</sub></small>
-Turn us again, O God, and cause thy face to shine; and we shall be saved.
-<small><sub>**BSB:**</sub></small>
-Restore us, O God, and cause Your face to shine upon us, that we may be saved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.2|<< Psalm 80:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.4|Psalm 80:4 >>]]</td></tr></table>
 
 | Translation | Greek |

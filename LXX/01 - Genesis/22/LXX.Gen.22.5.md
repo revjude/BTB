@@ -1,10 +1,7 @@
 **LXX Genesis 22:5** 
 <small><sub>**LXX:**</sub></small>
 And Abraham said  to his servants, You sit here with the donkey! and I and the lad will go through unto here. And doing obeisance we will return to you. 
-<small><sub>**KJV:**</sub></small>
-And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.
-<small><sub>**BSB:**</sub></small>
-“Stay here with the donkey,” Abraham told his servants. “The boy and I will go over there to worship, and then we will return to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.4|<< Genesis 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.6|Genesis 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

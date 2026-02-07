@@ -1,4 +1,4 @@
-**Ezekiel 27:13** 
+**Ezekiel 27:13**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Javan, Tubal, and Meshech, they [were] thy merchants: they traded the persons of men and vessels of brass in thy market.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Javan, Tubal, and Meshech were your merchants. They exchanged slaves and bronze 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.12|<< Ezekiel 27:12]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.14|Ezekiel 27:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Javan  |**<big>&#8207;[[H3120H\|יָוָ֤ן]]&#8207; </big>**| ya.Van<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Tubal  |**<big>&#8207;[[H8422H\|תֻּבַל֙]]&#8207; </big>**| tu.Val<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

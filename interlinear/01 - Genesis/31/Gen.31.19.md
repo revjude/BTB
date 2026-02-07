@@ -1,4 +1,4 @@
-**Genesis 31:19** 
+**Genesis 31:19**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Laban went to shear his sheep: and Rachel had stolen the images that [were] her father’s.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now while Laban was out shearing his sheep, Rachel stole her father’s househol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.18|<< Genesis 31:18]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.20|Genesis 31:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Laban  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3837A\|לָבָ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had gone  |**<big>&#8207;[[H1980G\|הָלַ֔ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

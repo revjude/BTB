@@ -1,10 +1,7 @@
 **LXX Psalm 89:25** 
 <small><sub>**LXX:**</sub></small>
 And I will set his hand in \[the\] sea, and his right \[hand\] in rivers. 
-<small><sub>**KJV:**</sub></small>
-I will set his hand also in the sea, and his right hand in the rivers.
-<small><sub>**BSB:**</sub></small>
-I will set his hand over the sea, and his right hand upon the rivers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.24|<< Psalm 89:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.26|Psalm 89:26 >>]]</td></tr></table>
 
 | Translation | Greek |

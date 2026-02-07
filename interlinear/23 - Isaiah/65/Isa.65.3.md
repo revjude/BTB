@@ -1,4 +1,4 @@
-**Isaiah 65:3** 
+**Isaiah 65:3**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to a people who continually provoke Me to My face, sacrificing in the gardens an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.2|<< Isaiah 65:2]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.4|Isaiah 65:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֗ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who provoke to anger  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3707\|מַּכְעִיסִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> makh.'i.Sim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 8:1
-**<small><sub>**KJV:**</sub></small>
+**John 8:1**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus went unto the mount of Olives.
 <small><sub>**BSB:**</sub></small>
 But Jesus went to the Mount of Olives.
 <small><sub>**Literal:**</sub></small>
 Jesus however went to the Mount <the> of Olives.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.53|<< John 7:53]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.2|John 8:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |

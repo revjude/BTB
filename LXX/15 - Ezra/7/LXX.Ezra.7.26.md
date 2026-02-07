@@ -1,10 +1,7 @@
 **LXX Ezra 7:26** 
 <small><sub>**LXX:**</sub></small>
 And all who ever might not be observing the law  of God and the law of the king diligently,  judgment will be taken upon him, whether for death, whether  to root him out, or to instruct, or to penalize the subsistence, or for prison to lock up. 
-<small><sub>**KJV:**</sub></small>
-And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether [it be] unto death, or to banishment, or to confiscation of goods, or to imprisonment.
-<small><sub>**BSB:**</sub></small>
-If anyone does not keep the law of your God and the law of the king, let a strict judgment be executed against him, whether death, banishment, confiscation of property, or imprisonment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.25|<< Ezra 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.27|Ezra 7:27 >>]]</td></tr></table>
 
 | Translation | Greek |

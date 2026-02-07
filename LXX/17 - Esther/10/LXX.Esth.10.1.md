@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the king wrote unto the kingdom by both land and  sea. 
-<small><sub>**KJV:**</sub></small>
-And the king Ahasuerus laid a tribute upon the land, and [upon] the isles of the sea.
-<small><sub>**BSB:**</sub></small>
-Now King Xerxes imposed tribute throughout the land, even to its farthest shores.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.32|<< Esther 9:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.10.2|Esther 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 10:17** 
+**Exodus 10:17**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore forgive, I pray thee, my sin only this once, and intreat the LORD your God, that he may take away from me this death only.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now please forgive my sin once more and appeal to the LORD your God, that He may
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.16|<< Exodus 10:16]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.18|Exodus 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forgive  |**<big>&#8207;[[H5375I\|שָׂ֣א]]&#8207; </big>**| sa'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

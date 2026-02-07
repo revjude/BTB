@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:19** 
 <small><sub>**LXX:**</sub></small>
 And  Nob, the city of the priests, he struck with \[the\] mouth of \[the\] broadsword, from man unto woman, from infant and unto one nursing, and from calf and donkey and sheep, he struck by \[the\] mouth of \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And Nob, the city of the priests, smote he with the edge of the sword, both men and women, children and sucklings, and oxen, and asses, and sheep, with the edge of the sword.
-<small><sub>**BSB:**</sub></small>
-He also put to the sword Nob, the city of the priests, with its men and women, children and infants, oxen, donkeys, and sheep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.18|<< 1 Samuel 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.20|1 Samuel 22:20 >>]]</td></tr></table>
 
 | Translation | Greek |

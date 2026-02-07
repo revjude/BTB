@@ -1,4 +1,4 @@
-**Exodus 6:11** 
+**Exodus 6:11**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.10|<< Exodus 6:10]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.12|Exodus 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H0935G\|בֹּ֣א]]&#8207; </big>**| bo'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | speak  |**<big>&#8207;[[H1696G\|דַבֵּ֔ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

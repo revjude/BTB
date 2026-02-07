@@ -1,10 +1,7 @@
 **LXX Ezekiel 8:2** 
 <small><sub>**LXX:**</sub></small>
 And I beheld, and behold, a likeness of a man; from  his loin, and unto below \[as\] fire; and from  his loin and above him as \[the\] vision of brightness, as an appearance  of molten bronze. 
-<small><sub>**KJV:**</sub></small>
-Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber.
-<small><sub>**BSB:**</sub></small>
-Then I looked and saw a figure like that of a man. From His waist down His appearance was like fire, and from His waist up He was as bright as the gleam of amber.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.1|<< Ezekiel 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.3|Ezekiel 8:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 8:2** is...

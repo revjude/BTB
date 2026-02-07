@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:13** 
 <small><sub>**LXX:**</sub></small>
 And the ones doing the works did so, and there ascended \[the\] length of the works by their hands. And they reestablished the house of \[the\] <span class="smallcaps">lord</span> in  its position, and they strengthened it. 
-<small><sub>**KJV:**</sub></small>
-So the workmen wrought, and the work was perfected by them, and they set the house of God in his state, and strengthened it.
-<small><sub>**BSB:**</sub></small>
-So the workmen labored, and in their hands the repair work progressed. They restored the house of God according to its specifications, and they reinforced it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.12|<< 2 Chronicles 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.14|2 Chronicles 24:14 >>]]</td></tr></table>
 
 | Translation | Greek |

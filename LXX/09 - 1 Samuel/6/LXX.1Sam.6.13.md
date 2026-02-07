@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:13** 
 <small><sub>**LXX:**</sub></small>
 And the ones in Beth-shemesh were harvesting \[the\] harvest of wheat in \[the\] valley. And they lifted  their eyes, and they beheld the ark of \[the\] <span class="smallcaps">lord</span>, and they were rejoiced to meet it. 
-<small><sub>**KJV:**</sub></small>
-And [they of] Bethshemesh [were] reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see [it].
-<small><sub>**BSB:**</sub></small>
-Now the people of Beth-shemesh were harvesting wheat in the valley, and when they looked up and saw the ark, they were overjoyed at the sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.12|<< 1 Samuel 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.14|1 Samuel 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

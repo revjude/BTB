@@ -1,12 +1,12 @@
-**Luke 2:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:20**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.
 <small><sub>**BSB:**</sub></small>
 The shepherds returned, glorifying and praising God for all they had heard and seen, which was just as the angel had told them.
 <small><sub>**Literal:**</sub></small>
 And returned the shepherds glorifying and praising <the> God for all things which they had heard and seen even as it was said to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.19|<< Luke 2:19]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.21|Luke 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | returned [^1] |**<big>[[G5290\|ὑπέστρεψαν]]</big>**  |hupestrepsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

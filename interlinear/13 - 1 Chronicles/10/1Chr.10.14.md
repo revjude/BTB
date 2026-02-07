@@ -1,4 +1,4 @@
-**1 Chronicles 10:14** 
+**1 Chronicles 10:14**<big><big>[[1Chr.10.11 Jabesh-gilead’s Tribute to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And inquired not of the LORD: therefore he slew him, and turned the kingdom unto David the son of Jesse.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and he failed to inquire of the LORD. So the LORD put him to death and turned th
 > $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he consulted  |**<big>&#8207;[[H1875\|דָרַ֥שׁ]]&#8207; </big>**| da.Rash<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 5:19
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:19**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.
 <small><sub>**BSB:**</sub></small>
 For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous.
 <small><sub>**Literal:**</sub></small>
 For as for through the disobedience of the one man sinners were made the many, so also through the obedience of the One righteous will be made the many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.18|<< Romans 5:18]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.20|Romans 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For as |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Joshua 13:8** 
+**Joshua 13:8**<big><big>[[Josh.13.8 The Inheritance East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, [even] as Moses the servant of the LORD gave them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The other half of Manasseh, along with the Reubenites and Gadites, had received 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.7|<< Joshua 13:7]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.9|Joshua 13:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with it  |**<big>&#8207;[[H5973A\|עִמּ֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Reubenite[s]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7206\|רֽאוּבֵנִי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> r.'u.ve.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Judges 7:25** 
+**Judges 7:25**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took two princes of the Midianites, Oreb and Zeeb; and they slew Oreb upon the rock Oreb, and Zeeb they slew at the winepress of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb to Gideon on the other side Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They also captured Oreb and Zeeb, the two princes of Midian; and they killed Ore
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.24|<< Judges 7:24]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.1|Judges 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they captured  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H3920\|יִּלְכְּד֡וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.ke.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.nei-<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

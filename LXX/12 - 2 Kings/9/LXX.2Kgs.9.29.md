@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:29** 
 <small><sub>**LXX:**</sub></small>
 And in \[the\] eleventh year of Jehoram king of Israel, Ahaziah took reign over Judah. 
-<small><sub>**KJV:**</sub></small>
-And in the eleventh year of Joram the son of Ahab began Ahaziah to reign over Judah.
-<small><sub>**BSB:**</sub></small>
-(In the eleventh year of Joram son of Ahab, Ahaziah had become king over Judah.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.28|<< 2 Kings 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.30|2 Kings 9:30 >>]]</td></tr></table>
 
 | Translation | Greek |

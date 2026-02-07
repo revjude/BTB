@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob heard the utterances of the sons of Laban, saying, Jacob has taken all the \[things\]  of our father. And by the \[things\]  of our father he has produced all  this glory. 
-<small><sub>**KJV:**</sub></small>
-And he heard the words of Laban’s sons, saying, Jacob hath taken away all that [was] our father’s; and of [that] which [was] our father’s hath he gotten all this glory.
-<small><sub>**BSB:**</sub></small>
-Now Jacob heard that Laban’s sons were saying, “Jacob has taken away all that belonged to our father and built all this wealth at our father’s expense.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.43|<< Genesis 30:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.2|Genesis 31:2 >>]]</td></tr></table>
 
 | Translation | Greek |

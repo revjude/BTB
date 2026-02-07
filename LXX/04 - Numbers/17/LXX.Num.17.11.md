@@ -1,10 +1,7 @@
 **LXX Numbers 17:11** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Aaron did as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses -- so they did. 
-<small><sub>**KJV:**</sub></small>
-And Moses did [so]: as the LORD commanded him, so did he.
-<small><sub>**BSB:**</sub></small>
-So Moses did as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.10|<< Numbers 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.12|Numbers 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

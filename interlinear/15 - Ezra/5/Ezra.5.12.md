@@ -1,4 +1,4 @@
-**Ezra 5:12** 
+**Ezra 5:12**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But since our fathers angered the God of heaven, He delivered them into the hand
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.11|<< Ezra 5:11]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.13|Ezra 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but  |**<big>&#8207;[[H3861\|לָהֵ֗ן]]&#8207; </big>**| la.Hen<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

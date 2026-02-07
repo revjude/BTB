@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:3** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against you, O Sor, and I will lead against you many nations as the sea ascends \[with\] her waves. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Behold, I [am] against thee, O Tyrus, and will cause many nations to come up against thee, as the sea causeth his waves to come up.
-<small><sub>**BSB:**</sub></small>
-therefore this is what the Lord GOD says: ‘Behold, O Tyre, I am against you, and I will raise up many nations against you, as the sea brings up its waves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.2|<< Ezekiel 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.4|Ezekiel 26:4 >>]]</td></tr></table>
 
 | Translation | Greek |

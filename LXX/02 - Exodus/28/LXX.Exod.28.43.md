@@ -1,10 +1,7 @@
 **LXX Exodus 28:43** 
 <small><sub>**LXX:**</sub></small>
 And Aaron shall have them and his sons, whenever they should enter into the tent of the testimony, or whenever they should go to officiate to the altar of the holy place; and \[thus\] they shall not bring upon themselves sin that they should not die -- \[for\] an eternal law for him, and  his seed after him. 
-<small><sub>**KJV:**</sub></small>
-And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy [place]; that they bear not iniquity, and die: [it shall be] a statute for ever unto him and his seed after him.
-<small><sub>**BSB:**</sub></small>
-Aaron and his sons must wear them whenever they enter the Tent of Meeting or approach the altar to minister in the Holy Place, so that they will not incur guilt and die. This is to be a permanent statute for Aaron and his descendants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.42|<< Exodus 28:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.1|Exodus 29:1 >>]]</td></tr></table>
 
 | Translation | Greek |

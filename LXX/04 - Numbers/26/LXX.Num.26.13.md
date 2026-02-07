@@ -1,10 +1,7 @@
 **LXX Numbers 26:13** 
 <small><sub>**LXX:**</sub></small>
 \[to\] Zerah, \[the\] people the Zerahites; \[to\] Shaul \[the\] people the Shaulites. 
-<small><sub>**KJV:**</sub></small>
-Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.
-<small><sub>**BSB:**</sub></small>
-the Zerahite clan from Zerah, and the Shaulite clan from Shaul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.12|<< Numbers 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.14|Numbers 26:14 >>]]</td></tr></table>
 
 | Translation | Greek |

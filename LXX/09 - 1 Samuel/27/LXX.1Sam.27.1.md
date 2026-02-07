@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David said in  his heart, saying, Now I shall be added in one day into \[the\] hands of Saul; and there is no good \[thing\] to me unless I should come through safe into \[the\] land of \[the\] Philistines, and Saul should spare of me,  seeking me in every border of Israel, and \[thus\] I shall be delivered from out of his hand. 
-<small><sub>**KJV:**</sub></small>
-And David said in his heart, I shall now perish one day by the hand of Saul: [there is] nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand.
-<small><sub>**BSB:**</sub></small>
-David, however, said to himself, “One of these days now I will be swept away by the hand of Saul. There is nothing better for me than to escape to the land of the Philistines. Then Saul will stop searching for me all over Israel, and I will slip out of his hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.25|<< 1 Samuel 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.2|1 Samuel 27:2 >>]]</td></tr></table>
 
 | Translation | Greek |

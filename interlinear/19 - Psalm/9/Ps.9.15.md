@@ -1,4 +1,4 @@
-**Psalms 9:15** (9:16)
+**Psalms 9:15**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heathen are sunk down in the pit [that] they made: in the net which they hid is their own foot taken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The nations have fallen into a pit of their making; their feet are caught in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.14|<< Psalms 9:14]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.16|Psalms 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have sunk  |**<big>&#8207;[[H2883\|טָבְע֣וּ]]&#8207; </big>**| ta.ve.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|ג֭וֹיִם]]&#8207; </big>**| Go.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

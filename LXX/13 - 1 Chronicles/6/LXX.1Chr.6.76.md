@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:76** 
 <small><sub>**LXX:**</sub></small>
 And from \[the\] tribe of Naphtali --  Kedesh in  Galilee and  her outskirts, and  Hammon and  her outskirts, and  Kirjathaim and  her outskirts. 
-<small><sub>**KJV:**</sub></small>
-And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, and Hammon with her suburbs, and Kirjathaim with her suburbs.
-<small><sub>**BSB:**</sub></small>
-And from the tribe of Naphtali they were given Kedesh in Galilee, Hammon, and Kiriathaim, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.76|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.75|<< 1 Chronicles 6:75]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.77|1 Chronicles 6:77 >>]]</td></tr></table>
 
 | Translation | Greek |

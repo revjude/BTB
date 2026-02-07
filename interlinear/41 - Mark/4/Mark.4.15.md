@@ -1,12 +1,12 @@
-**Mark 4:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:15**<big><big>[[Mark.4.13 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts.
 <small><sub>**BSB:**</sub></small>
 Some are like the seeds along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.
 <small><sub>**Literal:**</sub></small>
 These now are they along the road where is sown the word, and when they may hear, immediately comes <the> Satan and takes away the word <the> sown in <the> hearts them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.14|<< Mark 4:14]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.16|Mark 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοι]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

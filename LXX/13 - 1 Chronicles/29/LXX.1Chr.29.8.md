@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:8** 
 <small><sub>**LXX:**</sub></small>
 And the ones who were found with stones for themselves gave to the storehouses of \[the\] house of \[the\] <span class="smallcaps">lord</span>, through \[the\] hand of Jehiel the Gershonite. 
-<small><sub>**KJV:**</sub></small>
-And they with whom [precious] stones were found gave [them] to the treasure of the house of the LORD, by the hand of Jehiel the Gershonite.
-<small><sub>**BSB:**</sub></small>
-Whoever had precious stones gave them to the treasury of the house of the LORD, under the care of Jehiel the Gershonite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.7|<< 1 Chronicles 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.9|1 Chronicles 29:9 >>]]</td></tr></table>
 
 | Translation | Greek |

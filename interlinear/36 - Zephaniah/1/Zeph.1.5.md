@@ -1,4 +1,4 @@
-**Zephaniah 1:5** 
+**Zephaniah 1:5**<big><big>[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And them that worship the host of heaven upon the housetops; and them that worship [and] that swear by the LORD, and that swear by Malcham;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ those who bow on the rooftops to worship the host of heaven, those who bow down 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.4|<< Zephaniah 1:4]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.6|Zephaniah 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] bow down  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7812\|מִּשְׁתַּחֲוִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.ta.cha.Vim<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

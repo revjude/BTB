@@ -1,4 +1,4 @@
-**1 Samuel 16:6** 
+**1 Samuel 16:6**<big><big>[[1Sam.16.1 Samuel Anoints David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when they were come, that he looked on Eliab, and said, Surely the LORD’S anointed [is] before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they arrived, Samuel saw Eliab and said, “Surely here before the LORD is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.5|<< 1 Samuel 16:5]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.7|1 Samuel 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0935G\|בוֹאָ֔]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> vo.'A<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

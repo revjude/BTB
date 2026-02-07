@@ -1,12 +1,12 @@
-**Acts 20:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:8**<big><big>[[Acts.20.7 Eutychus Revived at Troas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there were many lights in the upper chamber, where they were gathered together.
 <small><sub>**BSB:**</sub></small>
 Now there were many lamps in the upper room where we were gathered.
 <small><sub>**Literal:**</sub></small>
 There were now lamps many in the upper room where we were assembled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.7|<< Acts 20:7]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.9|Acts 20:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There were |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

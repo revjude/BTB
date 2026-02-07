@@ -1,10 +1,7 @@
 **LXX Psalm 75:9** 
 <small><sub>**LXX:**</sub></small>
 But I shall exult into the eon; I shall strum to the God of Jacob. 
-<small><sub>**KJV:**</sub></small>
-But I will declare for ever; I will sing praises to the God of Jacob.
-<small><sub>**BSB:**</sub></small>
-But I will proclaim Him forever; I will sing praise to the God of Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.75.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.75.8|<< Psalm 75:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.75.10|Psalm 75:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 75:9** is...

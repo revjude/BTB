@@ -1,4 +1,4 @@
-**Jeremiah 51:17** 
+**Jeremiah 51:17**<big><big>[[Jer.51.15 Praise to the God of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every man is brutish by [his] knowledge; every founder is confounded by the graven image: for his molten image [is] falsehood, and [there is] no breath in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every man is senseless and devoid of knowledge; every goldsmith is put to shame 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.16|<< Jeremiah 51:16]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.18|Jeremiah 51:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he is stupid  |**<big>&#8207;[[H1197B\|נִבְעַ֤ר]]&#8207; </big>**| niv.'Ar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

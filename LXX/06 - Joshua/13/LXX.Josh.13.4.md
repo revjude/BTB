@@ -1,10 +1,7 @@
 **LXX Joshua 13:4** 
 <small><sub>**LXX:**</sub></small>
 from Teman, and all the land of Canaan from Gaza, and the Sidonians unto Aphek, unto the borders of the Amorites. 
-<small><sub>**KJV:**</sub></small>
-From the south, all the land of the Canaanites, and Mearah that [is] beside the Sidonians, unto Aphek, to the borders of the Amorites:
-<small><sub>**BSB:**</sub></small>
-to the south, all the land of the Canaanites, from Mearah of the Sidonians to Aphek, as far as the border of the Amorites;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.3|<< Joshua 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.5|Joshua 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

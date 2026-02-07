@@ -1,5 +1,5 @@
-**Colossians 2:22
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:22**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which all are to perish with the using;) after the commandments and doctrines of men?
 <small><sub>**BSB:**</sub></small>
 These will all perish with use, because they are based on human commands and teachings.
@@ -10,7 +10,7 @@ which are all unto decay with the use according to the commandments and teaching
 > $\quad$ alluding to: [[LXX.Isa.29.13|Isa 29:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἅ]]</big>**  |ha <small><sup>[[R-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

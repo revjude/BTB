@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they did not hearken. And Manasseh misled them  to do the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span> above the nations which \[the\] <span class="smallcaps">lord</span> removed in front of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.
-<small><sub>**BSB:**</sub></small>
-But the people did not listen and Manasseh led them astray, so that they did greater evil than the nations that the LORD had destroyed before the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.8|<< 2 Kings 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.10|2 Kings 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

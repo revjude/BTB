@@ -1,4 +1,4 @@
-**1 Chronicles 6:57** (6:42)
+**1 Chronicles 6:57**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to the sons of Aaron they gave the cities of Judah, [namely], Hebron, [the city] of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the descendants of Aaron were given Hebron (a city of refuge), Libnah, Jattir
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.56|<< 1 Chronicles 6:56]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.58|1 Chronicles 6:58 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] descendants of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֗ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

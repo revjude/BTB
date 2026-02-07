@@ -1,10 +1,7 @@
 **LXX Ruth 4:7** 
 <small><sub>**LXX:**</sub></small>
 And this \[was\] the ordinance in former \[times\] in  Israel for the right of inheritance, and for the equivalent,  to establish every matter. A man untied  his sandal, and he gave \[it\] \[to\] his neighbor, to the one acting as next of kin  for his right of inheritance; and this was testimony in Israel. 
-<small><sub>**KJV:**</sub></small>
-Now this [was the manner] in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave [it] to his neighbour: and this [was] a testimony in Israel.
-<small><sub>**BSB:**</sub></small>
-Now in former times in Israel, concerning the redemption or exchange of property, to make any matter legally binding a man would remove his sandal and give it to the other party, and this was a confirmation in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.6|<< Ruth 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.8|Ruth 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

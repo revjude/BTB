@@ -1,12 +1,12 @@
-**2 Corinthians 7:12
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 7:12**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, though I wrote unto you, [I did it] not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.
 <small><sub>**BSB:**</sub></small>
 So even though I wrote to you, it was not on account of the one who did wrong or the one who was harmed, but rather that your earnestness on our behalf would be made clear to you in the sight of God.
 <small><sub>**Literal:**</sub></small>
 So if even I wrote to you, [it was] not for the sake of the [one] having done wrong but nor for the sake of the [one] having suffered wrong, but rather for the sake of <the> being revealed the earnestness of you which [is] for us to you before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.11|<< 2 Corinthians 7:11]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.13|2 Corinthians 7:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G0686\|ἄρα]]</big>**  |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487M\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

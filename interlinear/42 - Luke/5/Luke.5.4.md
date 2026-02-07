@@ -1,12 +1,12 @@
-**Luke 5:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:4**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught.
 <small><sub>**BSB:**</sub></small>
 When Jesus had finished speaking, He said to Simon, “Put out into deep water and let down your nets for a catch.”
 <small><sub>**Literal:**</sub></small>
 When then He left off speaking He said to <the> Simon; do put off into the deep and do lower the nets of you for a catch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.3|<< Luke 5:3]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.5|Luke 5:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

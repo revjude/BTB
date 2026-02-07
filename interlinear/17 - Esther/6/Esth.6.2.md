@@ -1,4 +1,4 @@
-**Esther 6:2** 
+**Esther 6:2**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king’s chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there it was found recorded that Mordecai had exposed Bigthana and Teresh, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.1|<< Esther 6:1]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.3|Esther 6:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was found  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4672\|יִּמָּצֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ma.Tze'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | recorded  |**<big>&#8207;[[H3789\|כָת֗וּב]]&#8207; </big>**| kha.Tuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

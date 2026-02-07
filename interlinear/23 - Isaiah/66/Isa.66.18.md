@@ -1,4 +1,4 @@
-**Isaiah 66:18** 
+**Isaiah 66:18**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [know] their works and their thoughts: it shall come, that I will gather all nations and tongues; and they shall come, and see my glory.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I [know] their works and their thoughts: it shall come, that I will gather a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.17|<< Isaiah 66:17]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.19|Isaiah 66:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָנֹכִ֗י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deeds their  |**<big>&#8207;[[H4639K\|מַעֲשֵׂי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| ma.'a.sei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

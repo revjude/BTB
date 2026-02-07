@@ -1,10 +1,7 @@
 **LXX Isaiah 38:18** 
 <small><sub>**LXX:**</sub></small>
 For the ones in Hades shall not praise you; nor the ones dying shall bless you; nor the ones in Hades hope  on your charity. 
-<small><sub>**KJV:**</sub></small>
-For the grave cannot praise thee, death can [not] celebrate thee: they that go down into the pit cannot hope for thy truth.
-<small><sub>**BSB:**</sub></small>
-For Sheol cannot thank You; Death cannot praise You. Those who descend to the Pit cannot hope for Your faithfulness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.17|<< Isaiah 38:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.19|Isaiah 38:19 >>]]</td></tr></table>
 
 | Translation | Greek |

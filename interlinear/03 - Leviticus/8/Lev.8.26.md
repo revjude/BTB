@@ -1,4 +1,4 @@
-**Leviticus 8:26** 
+**Leviticus 8:26**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the basket of unleavened bread, that [was] before the LORD, he took one unleavened cake, and a cake of oiled bread, and one wafer, and put [them] on the fat, and upon the right shoulder:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And from the basket of unleavened bread that was before the LORD, he took one ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.25|<< Leviticus 8:25]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.27|Leviticus 8:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] basket of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5536\|סַּ֨ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Sal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> unleavened bread\<s>  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4682\|מַּצּ֜וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

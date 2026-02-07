@@ -1,5 +1,5 @@
-**Mark 13:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:14**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not, (let him that readeth understand,) then let them that be in Judaea flee to the mountains:
 <small><sub>**BSB:**</sub></small>
 So when you see the abomination of desolation standing where it should not be (let the reader understand), then let those who are in Judea flee to the mountains.
@@ -11,7 +11,7 @@ When then you may see the abomination of the desolation which having been spoken
 > $\quad$ referencing: [[LXX.Dan.11.31|Dan 11:31]] ☩ [[LXX.Dan.12.11|Dan 12:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

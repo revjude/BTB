@@ -1,12 +1,12 @@
-**2 Corinthians 12:9
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:9**<big><big>[[2Cor.12.5 Paul’s Thorn and God’s Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.
 <small><sub>**BSB:**</sub></small>
 But He said to me, “My grace is sufficient for you, for My power is perfected in weakness.” Therefore I will boast all the more gladly in my weaknesses, so that the power of Christ may rest on me.
 <small><sub>**Literal:**</sub></small>
 And He has said to me; Suffices you the grace of Mine; the for power of mine in weakness is finished. Most gladly therefore rather will I boast in the weaknesses of mine, so that may rest upon me myself the power <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.8|<< 2 Corinthians 12:8]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.10|2 Corinthians 12:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He has said |**<big>[[G2046\|εἴρηκέν]]</big>**  |eirēken <small><sup>[[V-RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

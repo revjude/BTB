@@ -1,12 +1,12 @@
-**Acts 15:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:4**<big><big>[[Acts.15.1 The Dispute over Circumcision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were come to Jerusalem, they were received of the church, and [of] the apostles and elders, and they declared all things that God had done with them.
 <small><sub>**BSB:**</sub></small>
 On their arrival in Jerusalem, they were welcomed by the church and apostles and elders, to whom they reported all that God had done through them.
 <small><sub>**Literal:**</sub></small>
 Having come then to Jerusalem they were received by the church and the apostles and the elders, They declared then how much <the> God did with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.3|<< Acts 15:3]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.5|Acts 15:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come |**<big>[[G3854\|παραγενόμενοι]]</big>**  |paragenomenoi <small><sup>[[V-2ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

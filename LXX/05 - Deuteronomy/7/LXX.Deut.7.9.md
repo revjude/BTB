@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall know that \[the\] <span class="smallcaps">lord</span>  your God -- this one \[is\] God, the trustworthy God, the one guarding the covenant and mercy to the ones loving him, and to the ones guarding  his commandments into a thousand generations; 
-<small><sub>**KJV:**</sub></small>
-Know therefore that the LORD thy God, he [is] God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;
-<small><sub>**BSB:**</sub></small>
-Know therefore that the LORD your God is God, the faithful God who keeps His covenant of loving devotion for a thousand generations of those who love Him and keep His commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.8|<< Deuteronomy 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.10|Deuteronomy 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

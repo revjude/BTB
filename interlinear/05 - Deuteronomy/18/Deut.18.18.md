@@ -1,4 +1,4 @@
-**Deuteronomy 18:18** 
+**Deuteronomy 18:18**<big><big>[[Deut.18.15 A Prophet Like Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will raise up for them a prophet like you from among their brothers. I will pu
 > $\quad$ referenced by: [[John.12.49|John 12:49]] ☩ [[Acts.3.22|Acts 3:22-23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a prophet  |**<big>&#8207;[[H5030\|נָבִ֨יא]]&#8207; </big>**| na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will raise up  |**<big>&#8207;[[H6965I\|אָקִ֥ים]]&#8207; </big>**| 'a.Kim<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

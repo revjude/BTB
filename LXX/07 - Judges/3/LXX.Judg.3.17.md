@@ -1,10 +1,7 @@
 **LXX Judges 3:17** 
 <small><sub>**LXX:**</sub></small>
 And he brought the gifts  to Eglon king of Moab. And Eglon \[was\] a man of exceedingly fair \[weight\]. 
-<small><sub>**KJV:**</sub></small>
-And he brought the present unto Eglon king of Moab: and Eglon [was] a very fat man.
-<small><sub>**BSB:**</sub></small>
-and brought the tribute to Eglon king of Moab, who was an obese man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.16|<< Judges 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.18|Judges 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

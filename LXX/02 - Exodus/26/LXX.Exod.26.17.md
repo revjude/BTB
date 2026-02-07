@@ -1,10 +1,7 @@
 **LXX Exodus 26:17** 
 <small><sub>**LXX:**</sub></small>
 Two joints to the one post \[resting\] headlong against \[one\] to the other. Thus you shall make to all the posts of the tent. 
-<small><sub>**KJV:**</sub></small>
-Two tenons [shall there be] in one board, set in order one against another: thus shalt thou make for all the boards of the tabernacle.
-<small><sub>**BSB:**</sub></small>
-Two tenons must be connected to each other for each frame. Make all the frames of the tabernacle in this way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.16|<< Exodus 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.18|Exodus 26:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Hiram king of Tyre sent messengers to David, and timber of cedars, and fabricators of walls, and fabricators of woods,  to build for him a house. 
-<small><sub>**KJV:**</sub></small>
-Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.
-<small><sub>**BSB:**</sub></small>
-Now Hiram king of Tyre sent envoys to David, along with cedar logs, stonemasons, and carpenters, to build a palace for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.14|<< 1 Chronicles 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.2|1 Chronicles 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

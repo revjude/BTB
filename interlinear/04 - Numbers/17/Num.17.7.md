@@ -1,4 +1,4 @@
-**Numbers 17:7** (17:22)
+**Numbers 17:7**<big><big>[[Num.17.1 Aaron’s Staff Buds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses laid up the rods before the LORD in the tabernacle of witness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses placed the staffs before the LORD in the Tent of the Testimony.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.6|<< Numbers 17:6]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.8|Numbers 17:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he deposited  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5117\|יַּנַּ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Nach<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֛ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 14:21** 
 <small><sub>**LXX:**</sub></small>
 And \[though there are\] many of his sons being born, he knows it not; if also they become few, he knows not. 
-<small><sub>**KJV:**</sub></small>
-His sons come to honour, and he knoweth [it] not; and they are brought low, but he perceiveth [it] not of them.
-<small><sub>**BSB:**</sub></small>
-If his sons receive honor, he does not know it; if they are brought low, he is unaware.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.20|<< Job 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.22|Job 14:22 >>]]</td></tr></table>
 
 | Translation | Greek |

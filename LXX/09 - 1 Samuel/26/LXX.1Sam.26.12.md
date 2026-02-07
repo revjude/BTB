@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:12** 
 <small><sub>**LXX:**</sub></small>
 And David took the spear and the flask of the water from before his head, and they went forth. And there was not one seeing, and there was not one knowing, and there was not one awakening -- all were sleeping, for a stupefaction \[from the\] <span class="smallcaps">lord</span> fell upon them. 
-<small><sub>**KJV:**</sub></small>
-So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw [it], nor knew [it], neither awaked: for they [were] all asleep; because a deep sleep from the LORD was fallen upon them.
-<small><sub>**BSB:**</sub></small>
-So David took the spear and water jug by Saul’s head, and they departed. No one saw them or knew about it, nor did anyone wake up; they all remained asleep, because a deep sleep from the LORD had fallen on them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.11|<< 1 Samuel 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.13|1 Samuel 26:13 >>]]</td></tr></table>
 
 | Translation | Greek |

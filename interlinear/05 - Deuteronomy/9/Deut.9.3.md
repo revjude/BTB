@@ -1,4 +1,4 @@
-**Deuteronomy 9:3** 
+**Deuteronomy 9:3**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Understand therefore this day, that the LORD thy God [is] he which goeth over before thee; [as] a consuming fire he shall destroy them, and he shall bring them down before thy face: so shalt thou drive them out, and destroy them quickly, as the LORD hath said unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But understand that today the LORD your God goes across ahead of you as a consum
 > $\quad$ referenced by: [[Heb.12.29|Heb 12:29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדַעְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.da'.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֗וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

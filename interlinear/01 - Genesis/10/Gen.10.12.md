@@ -1,4 +1,4 @@
-**Genesis 10:12** 
+**Genesis 10:12**<big><big>[[Gen.10.6 The Hamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Resen between Nineveh and Calah: the same [is] a great city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Resen, which is between Nineveh and the great city of Calah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.11|<< Genesis 10:11]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.13|Genesis 10:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Resen  |**<big>&#8207;[[H7449\|רֶ֔סֶן]]&#8207; </big>**| Re.sen<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

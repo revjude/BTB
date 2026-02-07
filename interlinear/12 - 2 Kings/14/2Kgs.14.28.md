@@ -1,4 +1,4 @@
-**2 Kings 14:28** 
+**2 Kings 14:28**<big><big>[[2Kgs.14.23 Jeroboam II Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Jeroboam, and all that he did, and his might, how he warred, and how he recovered Damascus, and Hamath, [which belonged] to Judah, for Israel, [are] they not written in the book of the chronicles of the kings of Israel?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the rest of the acts of Jeroboam, along with all his accomplishments and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.27|<< 2 Kings 14:27]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.29|2 Kings 14:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] rest of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3499A\|יֶתֶר֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.Ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] matters of  |**<big>&#8207;[[H1697K\|דִּבְרֵ֨י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

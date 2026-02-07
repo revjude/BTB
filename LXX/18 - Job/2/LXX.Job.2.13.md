@@ -1,10 +1,7 @@
 **LXX Job 2:13** 
 <small><sub>**LXX:**</sub></small>
 And they sat beside him seven days and seven nights, and not one of them spoke to him a word; for they saw the awful calamity being, and \[it was\] exceedingly great. 
-<small><sub>**KJV:**</sub></small>
-So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that [his] grief was very great.
-<small><sub>**BSB:**</sub></small>
-Then they sat on the ground with him for seven days and seven nights, but no one spoke a word to him because they saw how intense his suffering was.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.12|<< Job 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.1|Job 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

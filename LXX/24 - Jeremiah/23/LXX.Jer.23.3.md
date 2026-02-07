@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:3** 
 <small><sub>**LXX:**</sub></small>
 And I will take in the ones remaining  of my people upon all the earth of which \[place\] I pushed them there; and I shall place them into  their pasture, and they shall grow and be multiplied. 
-<small><sub>**KJV:**</sub></small>
-And I will gather the remnant of my flock out of all countries whither I have driven them, and will bring them again to their folds; and they shall be fruitful and increase.
-<small><sub>**BSB:**</sub></small>
-Then I Myself will gather the remnant of My flock from all the lands to which I have banished them, and I will return them to their pasture, where they will be fruitful and multiply.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.2|<< Jeremiah 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.4|Jeremiah 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

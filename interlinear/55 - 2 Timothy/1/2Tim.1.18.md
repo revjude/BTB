@@ -1,12 +1,12 @@
-**2 Timothy 1:18
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:18**<big><big>[[2Tim.1.13 Holding to Sound Teaching|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.
 <small><sub>**BSB:**</sub></small>
 May the Lord grant Onesiphorus His mercy on that day. You know very well how much he ministered to me in Ephesus.
 <small><sub>**Literal:**</sub></small>
 would grant unto him the Lord to find mercy from [the] Lord in that [very] <the> day! And how much in Ephesus he served very well you yourself know.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.17|<< 2 Timothy 1:17]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.1|2 Timothy 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | would grant |**<big>[[G1325\|δῴη]]</big>**  |dōē <small><sup>[[V-2AAO-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | unto him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

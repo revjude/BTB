@@ -1,4 +1,4 @@
-**Jeremiah 51:6** 
+**Jeremiah 51:6**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this [is] the time of the LORD’S vengeance; he will render unto her a recompence.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Flee from Babylon! Escape with your lives! Do not be destroyed in her punishment
 > $\quad$ referenced by: [[Rev.18.4|Rev 18:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | flee  |**<big>&#8207;[[H5127\|נֻ֣סוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Nu.su<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] midst of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8432\|תּ֣וֹךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

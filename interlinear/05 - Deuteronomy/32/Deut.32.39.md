@@ -1,4 +1,4 @@
-**Deuteronomy 32:39** 
+**Deuteronomy 32:39**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 See now that I, [even] I, [am] he, and [there is] no god with me: I kill, and I make alive; I wound, and I heal: neither [is there any] that can deliver out of my hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See now that I am He; there is no God besides Me. I bring death and I give life;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.38|<< Deuteronomy 32:38]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.40|Deuteronomy 32:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200G\|רְא֣וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| re.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

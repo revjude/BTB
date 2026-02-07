@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΜΗΝ</p>
 
 Who thus spoke, and it came to pass, but \[the\] <span class="smallcaps">lord</span> did not give charge? 
-<small><sub>**KJV:**</sub></small>
-Who [is] he [that] saith, and it cometh to pass, [when] the Lord commandeth [it] not?
-<small><sub>**BSB:**</sub></small>
-Who has spoken and it came to pass, unless the Lord has ordained it?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.36|<< Lamentations 3:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.38|Lamentations 3:38 >>]]</td></tr></table>
 
 | Translation | Greek |

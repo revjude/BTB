@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:8** 
 <small><sub>**LXX:**</sub></small>
 And Abijam slept with  his fathers. And they entombed \[him\] in \[the\] city of David. And Asa his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Abijam rested with his fathers and was buried in the City of David, and his son Asa reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.7|<< 1 Kings 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.9|1 Kings 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

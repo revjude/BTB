@@ -1,10 +1,7 @@
 **LXX Job 34:37** 
 <small><sub>**LXX:**</sub></small>
 that we should not add upon our sins; for lawlessness may be imputed against us in speaking many words before the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For he addeth rebellion unto his sin, he clappeth [his hands] among us, and multiplieth his words against God.
-<small><sub>**BSB:**</sub></small>
-For he adds rebellion to his sin; he claps his hands among us and multiplies his words against God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.36|<< Job 34:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.1|Job 35:1 >>]]</td></tr></table>
 
 | Translation | Greek |

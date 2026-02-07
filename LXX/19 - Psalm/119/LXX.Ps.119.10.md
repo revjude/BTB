@@ -1,10 +1,7 @@
 **LXX Psalm 119:10** 
 <small><sub>**LXX:**</sub></small>
 With my whole heart I inquired of you; you should not thrust me from  your commandments. 
-<small><sub>**KJV:**</sub></small>
-With my whole heart have I sought thee: O let me not wander from thy commandments.
-<small><sub>**BSB:**</sub></small>
-With all my heart I have sought You; do not let me stray from Your commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.9|<< Psalm 119:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.11|Psalm 119:11 >>]]</td></tr></table>
 
 | Translation | Greek |

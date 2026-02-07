@@ -1,10 +1,7 @@
 **LXX Psalm 107:4** 
 <small><sub>**LXX:**</sub></small>
 They wandered in the wilderness in a waterless way; they did not find a city for a home. 
-<small><sub>**KJV:**</sub></small>
-They wandered in the wilderness in a solitary way; they found no city to dwell in.
-<small><sub>**BSB:**</sub></small>
-Some wandered in desert wastelands, finding no path to a city in which to dwell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.3|<< Psalm 107:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.5|Psalm 107:5 >>]]</td></tr></table>
 
 | Translation | Greek |

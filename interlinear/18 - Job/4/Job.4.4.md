@@ -1,4 +1,4 @@
-**Job 4:4** 
+**Job 4:4**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your words have steadied those who stumbled; you have braced the knees that were
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.3|<< Job 4:3]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.5|Job 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] stumbling  |**<big>&#8207;[[H3782\|כּ֭וֹשֵׁל]]&#8207; </big>**| Ko.o.shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they raised !  |**<big>&#8207;[[H6965I\|יְקִימ֣וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ye.ki.Mu<small><sup>[[HVhi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:9** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span> your God be blessing whom he wants by you, to put you upon \[the\] throne of Israel; because  \[the\] <span class="smallcaps">lord</span> loves  Israel \[to\] establish it into the eon, and to set you for king over them,  to execute judgment in righteousness, and in their equity. 
-<small><sub>**KJV:**</sub></small>
-Blessed be the LORD thy God, which delighted in thee, to set thee on the throne of Israel: because the LORD loved Israel for ever, therefore made he thee king, to do judgment and justice.
-<small><sub>**BSB:**</sub></small>
-Blessed be the LORD your God, who has delighted in you to set you on the throne of Israel. Because of the LORD’s eternal love for Israel, He has made you king to carry out justice and righteousness.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.8|<< 1 Kings 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.10|1 Kings 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

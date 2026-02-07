@@ -1,10 +1,7 @@
 **LXX Job 30:23** 
 <small><sub>**LXX:**</sub></small>
 For I know that death \[will\] obliterate me; for \[the\] house of every mortal \[is\] ground. 
-<small><sub>**KJV:**</sub></small>
-For I know [that] thou wilt bring me [to] death, and [to] the house appointed for all living.
-<small><sub>**BSB:**</sub></small>
-Yes, I know that You will bring me down to death, to the place appointed for all the living.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.22|<< Job 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.24|Job 30:24 >>]]</td></tr></table>
 
 | Translation | Greek |

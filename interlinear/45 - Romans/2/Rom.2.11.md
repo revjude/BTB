@@ -1,5 +1,5 @@
-**Romans 2:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:11**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For there is no respect of persons with God.
 <small><sub>**BSB:**</sub></small>
 For God does not show favoritism.
@@ -10,7 +10,7 @@ Not for there is partiality with <the> God.<br><table width="100%" border="0"><t
 > $\quad$ alluding to: [[LXX.Deut.10.17|Deut 10:17]] ☩ [[LXX.Job.34.19|Job 34:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

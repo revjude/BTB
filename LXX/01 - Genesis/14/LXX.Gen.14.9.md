@@ -1,10 +1,7 @@
 **LXX Genesis 14:9** 
 <small><sub>**LXX:**</sub></small>
 against Chedorlaomer king of Elam, and Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar -- the four kings against the five. 
-<small><sub>**KJV:**</sub></small>
-With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.
-<small><sub>**BSB:**</sub></small>
-against Chedorlaomer king of Elam, Tidal king of Goiim, Amraphel king of Shinar, and Arioch king of Ellasar—four kings against five.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.8|<< Genesis 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.10|Genesis 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:15** 
 <small><sub>**LXX:**</sub></small>
 And dishonor of nations shall not be heard any longer against you. And \[the\] scorning of peoples no way shall you bear any more, and  your nation shall not be childless still, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Neither will I cause [men] to hear in thee the shame of the heathen any more, neither shalt thou bear the reproach of the people any more, neither shalt thou cause thy nations to fall any more, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-I will no longer allow the taunts of the nations to be heard against you, and you will no longer endure the reproach of the peoples or cause your nation to stumble, declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.14|<< Ezekiel 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.16|Ezekiel 36:16 >>]]</td></tr></table>
 
 | Translation | Greek |

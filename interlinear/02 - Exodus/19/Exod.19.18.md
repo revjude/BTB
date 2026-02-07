@@ -1,4 +1,4 @@
-**Exodus 19:18** 
+**Exodus 19:18**<big><big>[[Exod.19.16 The LORD Visits Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mount Sinai was completely enveloped in smoke, because the LORD had descended on
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.17|<< Exodus 19:17]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.19|Exodus 19:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] mountain of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2022G\|הַ֤ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sinai  |**<big>&#8207;[[H5514G\|סִינַי֙]]&#8207; </big>**| si.Nai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

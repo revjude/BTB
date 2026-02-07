@@ -1,6 +1,6 @@
 (KJV) **Psalm 98**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97|<< Psalm 97]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99|Psalm 99 >>]]</td></tr></table>
 
-***Sing to the LORD a New Song***&emsp;<small><sup>\[ [[Ps.149|Psalms 149:1–9]] <big>†</big> [[Isa.42|Isaiah 42:10–17]] ]</sup></small> ^bsb1391
+<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥃]]</big></big>***Sing to the LORD a New Song***&emsp;<small><sup>\[ [[Ps.149|Psalms 149:1–9]] <big>†</big> [[Isa.42|Isaiah 42:10–17]] ]</sup></small>
 
 
 

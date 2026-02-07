@@ -1,10 +1,7 @@
 **LXX Ruth 2:6** 
 <small><sub>**LXX:**</sub></small>
 And the servant attending over the ones harvesting answered and said, She is the Moabitess servant  returning with Naomi from out of \[the\] country of Moab. 
-<small><sub>**KJV:**</sub></small>
-And the servant that was set over the reapers answered and said, It [is] the Moabitish damsel that came back with Naomi out of the country of Moab:
-<small><sub>**BSB:**</sub></small>
-The foreman answered, “She is the Moabitess who returned with Naomi from the land of Moab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.5|<< Ruth 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.7|Ruth 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

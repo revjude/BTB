@@ -1,10 +1,7 @@
 **LXX Psalm 143:10** 
 <small><sub>**LXX:**</sub></small>
 Teach me  to do  your will! for you are  my God.  Your good spirit shall guide me in an upright land. 
-<small><sub>**KJV:**</sub></small>
-Teach me to do thy will; for thou [art] my God: thy spirit [is] good; lead me into the land of uprightness.
-<small><sub>**BSB:**</sub></small>
-Teach me to do Your will, for You are my God. May Your good Spirit lead me on level ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.9|<< Psalm 143:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.11|Psalm 143:11 >>]]</td></tr></table>
 
 | Translation | Greek |

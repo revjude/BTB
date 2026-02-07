@@ -1,12 +1,12 @@
-**Luke 20:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:39**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then certain of the scribes answering said, Master, thou hast well said.
 <small><sub>**BSB:**</sub></small>
 Some of the scribes answered, “Teacher, You have spoken well!”
 <small><sub>**Literal:**</sub></small>
 Answering now some of the scribes said; Teacher, well you have spoken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.38|<< Luke 20:38]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.40|Luke 20:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθέντες]]</big>**  |Apokrithentes <small><sup>[[V-AOP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

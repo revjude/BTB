@@ -1,12 +1,12 @@
-**Luke 2:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:14**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Glory to God in the highest, and on earth peace, good will toward men.
 <small><sub>**BSB:**</sub></small>
 “Glory to God in the highest, and on earth peace to men on whom His favor rests!”
 <small><sub>**Literal:**</sub></small>
 Glory in [the] highest to God, and on earth peace among men of good-will.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.13|<< Luke 2:13]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.15|Luke 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Glory |**<big>[[G1391\|δόξα]]</big>**  |doxa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

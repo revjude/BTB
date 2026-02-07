@@ -1,6 +1,6 @@
 (KJV) **Psalm 30**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.29|<< Psalm 29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31|Psalm 31 >>]]</td></tr></table>
 
-***You Turned My Mourning into Dancing*** ^bsb1323
+<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥃]]</big></big>***You Turned My Mourning into Dancing***
 
 
 

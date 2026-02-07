@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:27** 
 <small><sub>**LXX:**</sub></small>
 And they shall complete the days. And it will be from the eighth day and beyond, and the priests shall offer upon the altar  your whole burnt-offerings, and the ones  for your deliverance \[offering\]; and I will favorably receive you, says \[the\] <span class="smallcaps">lord</span>  God. 
-<small><sub>**KJV:**</sub></small>
-And when these days are expired, it shall be, [that] upon the eighth day, and [so] forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-At the end of these days, from the eighth day on, the priests are to present your burnt offerings and peace offerings on the altar. Then I will accept you, declares the Lord GOD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.26|<< Ezekiel 43:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.1|Ezekiel 44:1 >>]]</td></tr></table>
 
 | Translation | Greek |

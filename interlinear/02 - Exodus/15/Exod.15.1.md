@@ -1,4 +1,4 @@
-**Exodus 15:1** 
+**Exodus 15:1**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then sang Moses and the children of Israel this song unto the LORD, and spake, saying, I will sing unto the LORD, for he hath triumphed gloriously: the horse and his rider hath he thrown into the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses and the Israelites sang this song to the LORD: “I will sing to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.31|<< Exodus 14:31]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.2|Exodus 15:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sang  |**<big>&#8207;[[H7891\|יָשִֽׁיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.shir-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

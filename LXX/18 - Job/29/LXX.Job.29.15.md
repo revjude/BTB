@@ -1,10 +1,7 @@
 **LXX Job 29:15** 
 <small><sub>**LXX:**</sub></small>
 I was \[the\] eye of \[the\] blind, and \[the\] foot for \[the\] lame. 
-<small><sub>**KJV:**</sub></small>
-I was eyes to the blind, and feet [was] I to the lame.
-<small><sub>**BSB:**</sub></small>
-I served as eyes to the blind and as feet to the lame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.14|<< Job 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.16|Job 29:16 >>]]</td></tr></table>
 
 | Translation | Greek |

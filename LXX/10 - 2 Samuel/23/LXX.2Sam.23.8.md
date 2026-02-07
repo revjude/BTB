@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 These are the names of the mighty ones of David. Joshabbasshebeth the Tachmonite -- this one \[is\] first of the three. Adino the Eznite -- this one unsheathed  his broadsword against eight hundred slain at once. 
-<small><sub>**KJV:**</sub></small>
-These [be] the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same [was] Adino the Eznite: [he lift up his spear] against eight hundred, whom he slew at one time.
-<small><sub>**BSB:**</sub></small>
-These are the names of David’s mighty men: Josheb-basshebeth the Tahchemonite was chief of the Three. He wielded his spear against eight hundred men, whom he killed at one time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.7|<< 2 Samuel 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.9|2 Samuel 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

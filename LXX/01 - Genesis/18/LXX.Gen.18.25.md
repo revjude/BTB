@@ -1,10 +1,7 @@
 **LXX Genesis 18:25** 
 <small><sub>**LXX:**</sub></small>
 By no means shall you do as  this saying,  to kill \[the\] just with \[the\] impious, and the just shall be as the impious; by no means, O one judging all the earth. Will you not execute judgment? 
-<small><sub>**KJV:**</sub></small>
-That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?
-<small><sub>**BSB:**</sub></small>
-Far be it from You to do such a thing—to kill the righteous with the wicked, so that the righteous and the wicked are treated alike. Far be it from You! Will not the Judge of all the earth do what is right?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.24|<< Genesis 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.26|Genesis 18:26 >>]]</td></tr></table>
 
 | Translation | Greek |

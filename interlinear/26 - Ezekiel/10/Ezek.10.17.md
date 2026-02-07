@@ -1,4 +1,4 @@
-**Ezekiel 10:17** 
+**Ezekiel 10:17**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they stood, [these] stood; and when they were lifted up, [these] lifted up themselves [also]: for the spirit of the living creature [was] in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the cherubim stood still, the wheels also stood still, and when they ascend
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.16|<< Ezekiel 10:16]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.18|Ezekiel 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when stood still they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5975G\|עָמְדָ֣]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.me.Da<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they stood still  |**<big>&#8207;[[H5975G\|יַעֲמֹ֔דוּ]]&#8207; </big>**| ya.'a.Mo.du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

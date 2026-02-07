@@ -1,10 +1,7 @@
 **LXX Song of Solomon 2:10** 
 <small><sub>**LXX:**</sub></small>
 My beloved \[man\] responds, and he says to me, Rise up, come  my dear one, my fair \[one\], my dove! 
-<small><sub>**KJV:**</sub></small>
-My beloved spake, and said unto me, Rise up, my love, my fair one, and come away.
-<small><sub>**BSB:**</sub></small>
-My beloved calls to me, “Arise, my darling. Come away with me, my beautiful one.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.9|<< Song of Solomon 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.11|Song of Solomon 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

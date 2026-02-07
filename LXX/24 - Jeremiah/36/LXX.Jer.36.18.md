@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:18** 
 <small><sub>**LXX:**</sub></small>
 And Baruch said, From \[the\] mouth of Jeremiah. He announced to me all  these words, and I wrote upon a scroll. 
-<small><sub>**KJV:**</sub></small>
-Then Baruch answered them, He pronounced all these words unto me with his mouth, and I wrote [them] with ink in the book.
-<small><sub>**BSB:**</sub></small>
-“It was at his dictation,” Baruch replied. “He recited all these words to me and I wrote them in ink on the scroll.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.17|<< Jeremiah 36:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.19|Jeremiah 36:19 >>]]</td></tr></table>
 
 | Translation | Greek |

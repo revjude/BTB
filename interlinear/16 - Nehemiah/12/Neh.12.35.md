@@ -1,4 +1,4 @@
-**Nehemiah 12:35** 
+**Nehemiah 12:35**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [certain] of the priests’ sons with trumpets; [namely], Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and some of the priests with trumpets, and also Zechariah son of Jonathan, the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.34|<< Nehemiah 12:34]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.36|Nehemiah 12:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

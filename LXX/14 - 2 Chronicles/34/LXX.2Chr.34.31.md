@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:31** 
 <small><sub>**LXX:**</sub></small>
 And the king stood upon the column, and he ordained a covenant before \[the\] <span class="smallcaps">lord</span>,  to go before \[the\] <span class="smallcaps">lord</span>,  to guard  his commandments, and  his testimonies, and  his orders, with \[the\] entire heart, and with \[the\] entire soul, so as to observe the words of the covenant  having been written upon  this scroll. 
-<small><sub>**KJV:**</sub></small>
-And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book.
-<small><sub>**BSB:**</sub></small>
-So the king stood by the pillar and made a covenant before the LORD to follow the LORD and to keep His commandments, decrees, and statutes with all his heart and all his soul, and to carry out the words of the covenant that were written in this book.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.30|<< 2 Chronicles 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.32|2 Chronicles 34:32 >>]]</td></tr></table>
 
 | Translation | Greek |

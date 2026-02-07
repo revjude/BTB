@@ -1,10 +1,7 @@
 **LXX Exodus 15:8** 
 <small><sub>**LXX:**</sub></small>
 And by \[the\] breath  of your rage the water was parted; as a banked up wall \[were\] the waters; and the waves were banked up in \[the\] midst of the sea. 
-<small><sub>**KJV:**</sub></small>
-And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, [and] the depths were congealed in the heart of the sea.
-<small><sub>**BSB:**</sub></small>
-At the blast of Your nostrils the waters piled up; like a wall the currents stood firm; the depths congealed in the heart of the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.7|<< Exodus 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.9|Exodus 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

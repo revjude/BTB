@@ -1,4 +1,4 @@
-**2 Kings 18:8** 
+**2 Kings 18:8**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He smote the Philistines, [even] unto Gaza, and the borders thereof, from the tower of the watchmen to the fenced city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He defeated the Philistines as far as Gaza and its borders, from watchtower to f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.7|<< 2 Kings 18:7]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.9|2 Kings 18:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he struck down  |**<big>&#8207;[[H5221\|הִכָּ֧ה]]&#8207; </big>**| hi.Kah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

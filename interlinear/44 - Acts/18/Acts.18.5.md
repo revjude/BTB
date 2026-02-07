@@ -1,12 +1,12 @@
-**Acts 18:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:5**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews [that] Jesus [was] Christ.
 <small><sub>**BSB:**</sub></small>
 And when Silas and Timothy came down from Macedonia, Paul devoted himself fully to the word, testifying to the Jews that Jesus is the Christ.
 <small><sub>**Literal:**</sub></small>
 When now came down from <the> Macedonia <the> both Silas and <the> Timothy, was occupied with the word <the> Paul earnestly testifying to the Jews to be the Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.4|<< Acts 18:4]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.6|Acts 18:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

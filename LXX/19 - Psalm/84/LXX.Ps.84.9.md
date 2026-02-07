@@ -1,10 +1,7 @@
 **LXX Psalm 84:9** 
 <small><sub>**LXX:**</sub></small>
 Behold O God our defender, and look into the face  of your anointed one. 
-<small><sub>**KJV:**</sub></small>
-Behold, O God our shield, and look upon the face of thine anointed.
-<small><sub>**BSB:**</sub></small>
-Take notice of our shield, O God, and look with favor on the face of Your anointed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.8|<< Psalm 84:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.10|Psalm 84:10 >>]]</td></tr></table>
 
 | Translation | Greek |

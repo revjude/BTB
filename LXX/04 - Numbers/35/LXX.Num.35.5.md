@@ -1,10 +1,7 @@
 **LXX Numbers 35:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall measure outside the city -- the side the one towards \[the\] east -- two thousand cubits; and the side the one towards \[the\] south -- two thousand cubits; and the side the one towards \[the\] west -- two thousand cubits; and the side the one towards \[the\] north -- two thousand cubits; and the city between this will be for you, and the adjoining \[areas\] of the cities. 
-<small><sub>**KJV:**</sub></small>
-And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city [shall be] in the midst: this shall be to them the suburbs of the cities.
-<small><sub>**BSB:**</sub></small>
-You are also to measure two thousand cubits outside the city on the east, two thousand on the south, two thousand on the west, and two thousand on the north, with the city in the center. These areas will serve as larger pasturelands for the cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.4|<< Numbers 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.6|Numbers 35:6 >>]]</td></tr></table>
 
 | Translation | Greek |

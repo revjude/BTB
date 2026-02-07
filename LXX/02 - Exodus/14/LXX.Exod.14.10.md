@@ -1,10 +1,7 @@
 **LXX Exodus 14:10** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh led forward. And the sons of Israel looking up \[with\] the eyes, they beheld. And behold, the Egyptians \[were\] encamped behind them. And they feared exceedingly. And the sons of Israel yelled out to \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.
-<small><sub>**BSB:**</sub></small>
-As Pharaoh approached, the Israelites looked up and saw the Egyptians marching after them, and they were terrified and cried out to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.9|<< Exodus 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.11|Exodus 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

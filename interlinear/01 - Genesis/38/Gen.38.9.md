@@ -1,4 +1,4 @@
-**Genesis 38:9** 
+**Genesis 38:9**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled [it] on the ground, lest that he should give seed to his brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Onan knew that the offspring would not belong to him; so whenever he would s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.8|<< Genesis 38:8]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.10|Genesis 38:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he knew  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3045\|יֵּ֣דַע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.da'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Onan  |**<big>&#8207;[[H0209\|אוֹנָ֔ן]]&#8207; </big>**| 'o.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

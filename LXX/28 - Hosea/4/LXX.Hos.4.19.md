@@ -1,10 +1,7 @@
 **LXX Hosea 4:19** 
 <small><sub>**LXX:**</sub></small>
 You are a tumultuous wind in her wings, and they shall be disgraced because of  their altars. 
-<small><sub>**KJV:**</sub></small>
-The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.
-<small><sub>**BSB:**</sub></small>
-The whirlwind has wrapped them in its wings, and their sacrifices will bring them shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.18|<< Hosea 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.1|Hosea 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

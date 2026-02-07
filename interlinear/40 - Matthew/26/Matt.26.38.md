@@ -1,5 +1,5 @@
-**Matthew 26:38
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:38**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.
 <small><sub>**BSB:**</sub></small>
 Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch with Me.”
@@ -10,7 +10,7 @@ Then He says to them <the> Jesus: Very sorrowful is the soul of Mine until death
 > $\quad$ referencing: [[LXX.Ps.42.5|Ps 42:5]][[LXX.Ps.42.11|, 11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

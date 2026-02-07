@@ -1,4 +1,4 @@
-**Zechariah 9:8** 
+**Zechariah 9:8**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will camp around My house because of an army, because of those who march t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.7|<< Zechariah 9:7]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.9|Zechariah 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will encamp  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2583\|חָנִ֨יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Ni.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for house my  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004B\|בֵיתִ֤]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vei.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

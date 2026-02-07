@@ -1,5 +1,5 @@
-**Romans 4:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:18**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who against hope believed in hope, that he might become the father of many nations; according to that which was spoken, So shall thy seed be.
 <small><sub>**BSB:**</sub></small>
 Against all hope, Abraham in hope believed and so became the father of many nations, just as he had been told, “So shall your offspring be.”
@@ -10,7 +10,7 @@ who against hope in hope believed for <the> to become him [the] father of many n
 > $\quad$ referencing: [[LXX.Gen.15.5|Gen 15:5]] ☩ [[LXX.Gen.17.5|Gen 17:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | against |**<big>[[G3844\|παρ᾽]]</big>**  |par᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

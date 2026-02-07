@@ -1,12 +1,12 @@
-**Matthew 14:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:19**<big><big>[[Matt.14.13 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to [his] disciples, and the disciples to the multitude.
 <small><sub>**BSB:**</sub></small>
 And He directed the crowds to sit down on the grass. Taking the five loaves and the two fish and looking up to heaven, He spoke a blessing. Then He broke the loaves and gave them to the disciples, and the disciples gave them to the people.
 <small><sub>**Literal:**</sub></small>
 And having commanded the crowds to sit down on the grass, and having taken the five loaves and the two fish, having looked up to <the> heaven He spoke a blessing, and having broken He gave to the disciples the loaves, <the> and the disciples to the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.18|<< Matthew 14:18]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.20|Matthew 14:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having commanded |**<big>[[G2753\|κελεύσας]]</big>**  |keleusas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

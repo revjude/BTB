@@ -1,4 +1,4 @@
-**Ezekiel 48:23** 
+**Ezekiel 48:23**<big><big>[[Ezek.48.23 The Portions for the Remaining Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the rest of the tribes, from the east side unto the west side, Benjamin [shall have] a [portion].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the rest of the tribes: Benjamin will have one portion extending from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.22|<< Ezekiel 48:22]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.24|Ezekiel 48:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] remainder of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3499A\|יֶ֖תֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the tribes  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7626H\|שְּׁבָטִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.va.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Peter 4:4
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:4**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherein they think it strange that ye run not with [them] to the same excess of riot, speaking evil of [you]:
 <small><sub>**BSB:**</sub></small>
 Because of this, they consider it strange of you not to plunge with them into the same flood of reckless indiscretion, and they heap abuse on you.
 <small><sub>**Literal:**</sub></small>
 With respect to this they think it strange not running with [them] of you into the same <the> of debauchery overflow denigrating [you],<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.3|<< 1 Peter 4:3]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.5|1 Peter 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | With respect to |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

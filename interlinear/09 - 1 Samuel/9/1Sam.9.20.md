@@ -1,4 +1,4 @@
-**1 Samuel 9:20** 
+**1 Samuel 9:20**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as for thine asses that were lost three days ago, set not thy mind on them; for they are found. And on whom [is] all the desire of Israel? [Is it] not on thee, and on all thy father’s house?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the donkeys you lost three days ago, do not worry about them, for they ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.19|<< 1 Samuel 9:19]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.21|1 Samuel 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to the she-asses  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0860\|אֲתֹנ֞וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> 'a.to.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which were lost  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0006\|אֹבְד֣וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'oe.Dot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 22:9** 
 <small><sub>**LXX:**</sub></small>
 According to every particular offence, concerning both calf, and beast of burden, and sheep, and garment, and every destruction  being accused, the one who then should be, before  God the judgment of both shall come, then the \[one\] convicted by  God shall pay double to his neighbor. 
-<small><sub>**KJV:**</sub></small>
-For all manner of trespass, [whether it be] for ox, for ass, for sheep, for raiment, [or] for any manner of lost thing, which [another] challengeth to be his, the cause of both parties shall come before the judges; [and] whom the judges shall condemn, he shall pay double unto his neighbour.
-<small><sub>**BSB:**</sub></small>
-In all cases of illegal possession of an ox, a donkey, a sheep, a garment, or any lost item that someone claims, ‘This is mine,’ both parties shall bring their cases before the judges. The one whom the judges find guilty must pay back double to his neighbor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.8|<< Exodus 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.10|Exodus 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

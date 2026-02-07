@@ -1,10 +1,7 @@
 **LXX Judges 1:30** 
 <small><sub>**LXX:**</sub></small>
 And Zebulun did not remove the ones dwelling in Kitron, and the ones dwelling Nahalol. And the Canaanite dwelt in \[the\] midst of them, and it became for tribute. 
-<small><sub>**KJV:**</sub></small>
-Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries.
-<small><sub>**BSB:**</sub></small>
-Zebulun failed to drive out the inhabitants of Kitron and Nahalol; so the Canaanites lived among them and served as forced laborers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.29|<< Judges 1:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.31|Judges 1:31 >>]]</td></tr></table>
 
 | Translation | Greek |

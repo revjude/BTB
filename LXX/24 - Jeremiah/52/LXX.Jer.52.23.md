@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:23** 
 <small><sub>**LXX:**</sub></small>
 And there were the pomegranates -- ninety-six to the one part; and there were in all the pomegranates upon the lattice \[work\] round about a hundred. 
-<small><sub>**KJV:**</sub></small>
-And there were ninety and six pomegranates on a side; [and] all the pomegranates upon the network [were] an hundred round about.
-<small><sub>**BSB:**</sub></small>
-Each capital had ninety-six pomegranates on the sides, and a total of a hundred pomegranates were above the surrounding network.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.22|<< Jeremiah 52:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.24|Jeremiah 52:24 >>]]</td></tr></table>
 
 | Translation | Greek |

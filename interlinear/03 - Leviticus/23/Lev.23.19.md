@@ -1,4 +1,4 @@
-**Leviticus 23:19** 
+**Leviticus 23:19**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall also prepare one male goat as a sin offering and two male lambs a year
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.18|<< Leviticus 23:18]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.20|Leviticus 23:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will offer  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213I\|עֲשִׂיתֶ֛ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.si.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a male goat of  |**<big>&#8207;[[H8163B\|שְׂעִיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'ir-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 11:35** 
 <small><sub>**LXX:**</sub></small>
 And it happened when he beheld her, that he tore  his garments, and said, Alas my daughter you impede me, for you became an impediment in my eyes, and I opened  my mouth concerning you to \[the\] <span class="smallcaps">lord</span>, and I shall not be able  to turn back. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back.
-<small><sub>**BSB:**</sub></small>
-As soon as Jephthah saw her, he tore his clothes and said, “No! Not my daughter! You have brought me to my knees! You have brought great misery upon me, for I have given my word to the LORD and cannot take it back.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.34|<< Judges 11:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.36|Judges 11:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 6:17** (6:2)
+**1 Chronicles 6:17**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [be] the names of the sons of Gershom; Libni, and Shimei.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the names of the sons of Gershom: Libni and Shimei.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.16|<< 1 Chronicles 6:16]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.18|1 Chronicles 6:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֥וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

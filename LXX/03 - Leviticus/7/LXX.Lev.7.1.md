@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And this is the law of the ram  for the trespass \[offering\] -- it is a holy of holies. 
-<small><sub>**KJV:**</sub></small>
-Likewise this [is] the law of the trespass offering: it [is] most holy.
-<small><sub>**BSB:**</sub></small>
-“Now this is the law of the guilt offering, which is most holy:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.30|<< Leviticus 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.2|Leviticus 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 99:7** 
+**Psalms 99:7**<big><big>[[Ps.99.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance [that] he gave them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He spoke to them from the pillar of cloud; they kept His decrees and the statute
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.99.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99.6|<< Psalms 99:6]]</td><td align="center" style="border:none;">[[Ps.99|Psalms 99]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.8|Psalms 99:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in a pillar of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5982G\|עַמּ֣וּד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.Mud<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cloud  |**<big>&#8207;[[H6051\|עָ֭נָן]]&#8207; </big>**| 'A.non<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

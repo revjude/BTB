@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:31** 
 <small><sub>**LXX:**</sub></small>
 And he said  to Jeroboam, Take for yourself ten pieces! for thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, Behold, I tear the kingdom from out of \[the\] hand of Solomon, and I give to you ten chiefdoms. 
-<small><sub>**KJV:**</sub></small>
-And he said to Jeroboam, Take thee ten pieces: for thus saith the LORD, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:
-<small><sub>**BSB:**</sub></small>
-and said to Jeroboam, “Take ten pieces for yourself, for this is what the LORD, the God of Israel, says: ‘Behold, I will tear the kingdom out of the hand of Solomon, and I will give you ten tribes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.30|<< 1 Kings 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.32|1 Kings 11:32 >>]]</td></tr></table>
 
 | Translation | Greek |

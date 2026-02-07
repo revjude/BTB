@@ -1,4 +1,4 @@
-**Malachi 1:5** 
+**Malachi 1:5**<big><big>[[Mal.1.1 The LORD’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your eyes shall see, and ye shall say, The LORD will be magnified from the border of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will see this with your own eyes, and you yourselves will say, ‘The LORD i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.4|<< Malachi 1:4]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.6|Malachi 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and eyes your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5869A\|עֵינֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will see  |**<big>&#8207;[[H7200G\|תִּרְאֶ֑ינָה]]&#8207; </big>**| tir.'Ei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

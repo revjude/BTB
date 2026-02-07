@@ -1,4 +1,4 @@
-**2 Chronicles 29:28** 
+**2 Chronicles 29:28**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the congregation worshipped, and the singers sang, and the trumpeters sounded: [and] all [this continued] until the burnt offering was finished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The whole assembly was worshiping, the singers were singing, and the trumpeters 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.27|<< 2 Chronicles 29:27]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.29|2 Chronicles 29:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the assembly  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6951\|קָּהָל֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Hal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

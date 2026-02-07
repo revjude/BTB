@@ -1,4 +1,4 @@
-**Hosea 1:6** 
+**Hosea 1:6**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she conceived again, and bare a daughter. And [God] said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Gomer again conceived and gave birth to a daughter, and the LORD said to Hosea, 
 > $\quad$ referenced by: [[1Pet.2.10|1Pet 2:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she conceived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2029\|תַּ֤הַר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.har<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|עוֹד֙]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

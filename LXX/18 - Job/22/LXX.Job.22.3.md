@@ -1,10 +1,7 @@
 **LXX Job 22:3** 
 <small><sub>**LXX:**</sub></small>
 For what does it concern the <span class="smallcaps">lord</span> if you were  blameless in works, or \[what\] benefit that you simplify  your way? 
-<small><sub>**KJV:**</sub></small>
-[Is it] any pleasure to the Almighty, that thou art righteous? or [is it] gain [to him], that thou makest thy ways perfect?
-<small><sub>**BSB:**</sub></small>
-Does it delight the Almighty that you are righteous? Does He profit if your ways are blameless?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.2|<< Job 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.4|Job 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

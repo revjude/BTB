@@ -1,4 +1,4 @@
-**Jeremiah 2:14** 
+**Jeremiah 2:14**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] Israel a servant? [is] he a homeborn [slave]? why is he spoiled?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is Israel a slave? Was he born into slavery? Why then has he become prey?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.13|<< Jeremiah 2:13]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.15|Jeremiah 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ a slave  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H5650\|עֶ֙בֶד֙]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

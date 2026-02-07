@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:13** 
 <small><sub>**LXX:**</sub></small>
 And I will destroy all  her cattle from great water; and in no way a foot of man disturb it any more; and \[the\] track of cattle in no way shall trample it. 
-<small><sub>**KJV:**</sub></small>
-I will destroy also all the beasts thereof from beside the great waters; neither shall the foot of man trouble them any more, nor the hoofs of beasts trouble them.
-<small><sub>**BSB:**</sub></small>
-I will slaughter all her cattle beside the abundant waters. No human foot will muddy them again, and no cattle hooves will disturb them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.12|<< Ezekiel 32:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.14|Ezekiel 32:14 >>]]</td></tr></table>
 
 | Translation | Greek |

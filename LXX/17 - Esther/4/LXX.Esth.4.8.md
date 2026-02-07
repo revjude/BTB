@@ -1,10 +1,7 @@
 **LXX Esther 4:8** 
 <small><sub>**LXX:**</sub></small>
 And the copy, the one in Shushan being displayed for \[purpose of\] destroying them, he gave to him to show  to Esther. And he told him to give charge to her to enter to ask pardon of the king, and to be found worthy by him for the people, remembering, \[said he,\] \[The\] days of your low estate, how you were maintained by my hand; because Haman the one being second to the king speaks against us for death. You call upon the <span class="smallcaps">lord</span>, and speak to the king concerning us! even to rescue us from death. 
-<small><sub>**KJV:**</sub></small>
-Also he gave him the copy of the writing of the decree that was given at Shushan to destroy them, to shew [it] unto Esther, and to declare [it] unto her, and to charge her that she should go in unto the king, to make supplication unto him, and to make request before him for her people.
-<small><sub>**BSB:**</sub></small>
-Mordecai also gave Hathach a copy of the written decree issued in Susa for the destruction of the Jews, to show and explain to Esther, urging her to approach the king, implore his favor, and plead before him for her people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.7|<< Esther 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.9|Esther 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

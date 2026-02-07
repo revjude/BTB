@@ -1,4 +1,4 @@
-**Haggai 1:6** 
+**Haggai 1:6**<big><big>[[Hag.1.1 A Call to Rebuild the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages [to put it] into a bag with holes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have planted much but harvested little. You eat but never have enough. You d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.5|<< Haggai 1:5]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.7|Haggai 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have sown  |**<big>&#8207;[[H2232\|זְרַעְתֶּ֨ם]]&#8207; </big>**| ze.ra'.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | much  |**<big>&#8207;[[H7235A\|הַרְבֵּ֜ה]]&#8207; </big>**| har.Beh<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

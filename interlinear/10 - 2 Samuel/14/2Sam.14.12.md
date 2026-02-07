@@ -1,4 +1,4 @@
-**2 Samuel 14:12** 
+**2 Samuel 14:12**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the woman said, Let thine handmaid, I pray thee, speak [one] word unto my lord the king. And he said, Say on.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the woman said, “Please, may your servant speak a word to my lord the kin
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.11|<< 2 Samuel 14:11]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.13|2 Samuel 14:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֙אמֶר֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the woman  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

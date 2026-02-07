@@ -1,4 +1,4 @@
-**1 Samuel 5:6** 
+**1 Samuel 5:6**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the hand of the LORD was heavy upon them of Ashdod, and he destroyed them, and smote them with emerods, [even] Ashdod and the coasts thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the hand of the LORD was heavy on the people of Ashdod and its vicinity, rav
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.5|<< 1 Samuel 5:5]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.7|1 Samuel 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was heavy  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3513H\|תִּכְבַּ֧ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tikh.Bad<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hand of  |**<big>&#8207;[[H3027H\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

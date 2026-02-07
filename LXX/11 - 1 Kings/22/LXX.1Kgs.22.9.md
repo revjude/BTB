@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:9** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel called one eunuch, and he said,  Quickly \[bring\] Micaiah son of Imlah. 
-<small><sub>**KJV:**</sub></small>
-Then the king of Israel called an officer, and said, Hasten [hither] Micaiah the son of Imlah.
-<small><sub>**BSB:**</sub></small>
-So the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.8|<< 1 Kings 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.10|1 Kings 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

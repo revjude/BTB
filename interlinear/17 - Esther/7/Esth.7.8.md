@@ -1,4 +1,4 @@
-**Esther 7:8** 
+**Esther 7:8**<big><big>[[Esth.7.7 The Hanging of Haman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther [was]. Then said the king, Will he force the queen also before me in the house? As the word went out of the king’s mouth, they covered Haman’s face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just as the king returned from the palace garden to the banquet hall, Haman was 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.7|<< Esther 7:7]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.9|Esther 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the king  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֡לֶךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he returned  |**<big>&#8207;[[H7725G\|שָׁב֩]]&#8207; </big>**| shav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

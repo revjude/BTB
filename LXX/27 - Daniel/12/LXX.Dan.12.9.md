@@ -1,10 +1,7 @@
 **LXX Daniel 12:9** 
 <small><sub>**LXX:**</sub></small>
 And he said, Go Daniel! for the words \[are\] obstructed and sealed until end time. 
-<small><sub>**KJV:**</sub></small>
-And he said, Go thy way, Daniel: for the words [are] closed up and sealed till the time of the end.
-<small><sub>**BSB:**</sub></small>
-“Go on your way, Daniel,” he replied, “for the words are closed up and sealed until the time of the end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.8|<< Daniel 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.10|Daniel 12:10 >>]]</td></tr></table>
 
 | Translation | Greek |

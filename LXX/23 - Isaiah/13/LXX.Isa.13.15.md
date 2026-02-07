@@ -1,10 +1,7 @@
 **LXX Isaiah 13:15** 
 <small><sub>**LXX:**</sub></small>
 For who ever should capture shall be vanquished; and the ones who are being brought together shall fall by sword. 
-<small><sub>**KJV:**</sub></small>
-Every one that is found shall be thrust through; and every one that is joined [unto them] shall fall by the sword.
-<small><sub>**BSB:**</sub></small>
-Whoever is caught will be stabbed, and whoever is captured will die by the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.14|<< Isaiah 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.16|Isaiah 13:16 >>]]</td></tr></table>
 
 | Translation | Greek |

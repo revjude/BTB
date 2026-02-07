@@ -1,10 +1,7 @@
 **LXX Song of Solomon 2:4** 
 <small><sub>**LXX:**</sub></small>
 Bring me into \[the\] house  of wine! Order for me love! 
-<small><sub>**KJV:**</sub></small>
-He brought me to the banqueting house, and his banner over me [was] love.
-<small><sub>**BSB:**</sub></small>
-He has brought me to the house of wine, and his banner over me is love.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.3|<< Song of Solomon 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.5|Song of Solomon 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 17:10** 
+**1 Kings 17:10**<big><big>[[1Kgs.17.8 The Widow of Zarephath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman [was] there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Elijah got up and went to Zarephath. When he arrived at the city gate, there 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.9|<< 1 Kings 17:9]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.11|1 Kings 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֣קָם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֣לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

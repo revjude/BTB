@@ -1,4 +1,4 @@
-**2 Chronicles 29:21** 
+**2 Chronicles 29:21**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer [them] on the altar of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They brought seven bulls, seven rams, seven lambs, and seven male goats as a sin
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.20|<< 2 Chronicles 29:20]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.22|2 Chronicles 29:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבִ֣יאוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | young bulls  |**<big>&#8207;[[H6499\|פָרִים]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fa.rim-<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

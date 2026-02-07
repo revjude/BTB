@@ -1,4 +1,4 @@
-**Leviticus 19:8** 
+**Leviticus 19:8**<big><big>[[Lev.19.1 Commandments for Holiness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore [every one] that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever eats it will bear his iniquity, for he has profaned what is holy to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.7|<< Leviticus 19:7]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.9|Leviticus 19:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [those who] eat it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0398\|אֹֽכְלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.khe.La<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | iniquity his  |**<big>&#8207;[[H5771G\|עֲוֹנ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| a.vo.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

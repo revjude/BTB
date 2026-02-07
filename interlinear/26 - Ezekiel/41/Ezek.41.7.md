@@ -1,4 +1,4 @@
-**Ezekiel 41:7** 
+**Ezekiel 41:7**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] an enlarging, and a winding about still upward to the side chambers: for the winding about of the house went still upward round about the house: therefore the breadth of the house [was still] upward, and so increased [from] the lowest [chamber] to the highest by the midst.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The side rooms surrounding the temple widened at each successive level, because 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.6|<< Ezekiel 41:6]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.8|Ezekiel 41:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was broad  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H7337\|רָחֲבָ֡ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.cha.Vah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it surrounded  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H5437G\|נָסְבָה֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.se.Vah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

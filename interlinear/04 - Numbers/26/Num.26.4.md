@@ -1,4 +1,4 @@
-**Numbers 26:4** 
+**Numbers 26:4**<big><big>[[Num.26.1 The Second Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Take the sum of the people], from twenty years old and upward; as the LORD commanded Moses and the children of Israel, which went forth out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.3|<< Numbers 26:3]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.5|Numbers 26:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from a son of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121L\|בֶּ֛ן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ben<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

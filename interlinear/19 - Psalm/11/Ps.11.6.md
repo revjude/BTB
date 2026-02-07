@@ -1,4 +1,4 @@
-**Psalms 11:6** 
+**Psalms 11:6**<big><big>[[Ps.11.1 In the LORD I Take Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: [this shall be] the portion of their cup.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the wicked He will rain down fiery coals and sulfur; a scorching wind will be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11.5|<< Psalms 11:5]]</td><td align="center" style="border:none;">[[Ps.11|Psalms 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.7|Psalms 11:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will rain down  |**<big>&#8207;[[H4305\|יַמְטֵ֥ר]]&#8207; </big>**| yam.Ter<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

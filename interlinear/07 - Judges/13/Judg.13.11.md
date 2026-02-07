@@ -1,4 +1,4 @@
-**Judges 13:11** 
+**Judges 13:11**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Manoah arose, and went after his wife, and came to the man, and said unto him, [Art] thou the man that spakest unto the woman? And he said, I [am].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Manoah got up and followed his wife. When he came to the man, he asked, “Ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.10|<< Judges 13:10]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.12|Judges 13:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֛קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980N\|יֵּ֥לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

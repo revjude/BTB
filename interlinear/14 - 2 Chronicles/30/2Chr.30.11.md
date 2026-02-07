@@ -1,4 +1,4 @@
-**2 Chronicles 30:11** 
+**2 Chronicles 30:11**<big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless divers of Asher and Manasseh and of Zebulun humbled themselves, and came to Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, some from Asher, Manasseh, and Zebulun humbled themselves and came
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.10|<< 2 Chronicles 30:10]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.12|2 Chronicles 30:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men  |**<big>&#8207;[[H0582\|אֲנָשִׁ֛ים]]&#8207; </big>**| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

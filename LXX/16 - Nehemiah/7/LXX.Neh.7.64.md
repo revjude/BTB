@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:64** 
 <small><sub>**LXX:**</sub></small>
 These sought \[the\] record of their own  group, and it was not found, and they were thrust away of the priesthood. 
-<small><sub>**KJV:**</sub></small>
-These sought their register [among] those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood.
-<small><sub>**BSB:**</sub></small>
-These men searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.63|<< Nehemiah 7:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.65|Nehemiah 7:65 >>]]</td></tr></table>
 
 | Translation | Greek |

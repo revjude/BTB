@@ -1,10 +1,7 @@
 **LXX Judges 2:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was provoked to anger in rage with  Israel, and he delivered them into \[the\] hand of ones despoiling, and them away captive. And he gave them into \[the\] hand  of their enemies round about, and they were not able to oppose against \[the\] face  of their enemies. 
-<small><sub>**KJV:**</sub></small>
-And the anger of the LORD was hot against Israel, and he delivered them into the hands of spoilers that spoiled them, and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.
-<small><sub>**BSB:**</sub></small>
-Then the anger of the LORD burned against Israel, and He delivered them into the hands of those who plundered them. He sold them into the hands of their enemies all around, whom they were no longer able to resist.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.13|<< Judges 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.15|Judges 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

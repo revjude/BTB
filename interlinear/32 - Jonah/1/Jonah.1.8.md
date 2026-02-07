@@ -1,4 +1,4 @@
-**Jonah 1:8** 
+**Jonah 1:8**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said they unto him, Tell us, we pray thee, for whose cause this evil [is] upon us; What [is] thine occupation? and whence comest thou? what [is] thy country? and of what people [art] thou?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then said they unto him, Tell us, we pray thee, for whose cause this evil [is] u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.7|<< Jonah 1:7]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.9|Jonah 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

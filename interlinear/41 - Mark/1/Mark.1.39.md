@@ -1,12 +1,12 @@
-**Mark 1:39
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:39**<big><big>[[Mark.1.35 Jesus Prays and Preaches|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he preached in their synagogues throughout all Galilee, and cast out devils.
 <small><sub>**BSB:**</sub></small>
 So He went throughout Galilee, preaching in their synagogues and driving out demons.
 <small><sub>**Literal:**</sub></small>
 And He was going preaching in the synagogues of them in all <the> Galilee and <the> demons casting out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.38|<< Mark 1:38]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.40|Mark 1:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was going [^1] |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

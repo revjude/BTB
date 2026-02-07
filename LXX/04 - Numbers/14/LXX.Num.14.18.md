@@ -1,10 +1,7 @@
 **LXX Numbers 14:18** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> \[is\] lenient, and full of mercy, and true, removing lawless deeds, and iniquities, and sins; but by cleansing he shall not cleanse the liable, repaying \[the\] sins of \[the\] fathers upon \[the\] children unto \[the\] third and fourth generation. 
-<small><sub>**KJV:**</sub></small>
-The LORD [is] longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing [the guilty], visiting the iniquity of the fathers upon the children unto the third and fourth [generation].
-<small><sub>**BSB:**</sub></small>
-‘The LORD is slow to anger and abounding in loving devotion, forgiving iniquity and transgression. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers upon their children to the third and fourth generation.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.17|<< Numbers 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.19|Numbers 14:19 >>]]</td></tr></table>
 
 | Translation | Greek |

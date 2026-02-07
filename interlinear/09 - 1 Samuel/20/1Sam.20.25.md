@@ -1,4 +1,4 @@
-**1 Samuel 20:25** 
+**1 Samuel 20:25**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king sat upon his seat, as at other times, [even] upon a seat by the wall: and Jonathan arose, and Abner sat by Saul’s side, and David’s place was empty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sat in his usual place by the wall, opposite Jonathan and beside Abner, but D
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.24|<< 1 Samuel 20:24]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.26|1 Samuel 20:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sat down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּ֣שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H4428G\|מֶּלֶךְ]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

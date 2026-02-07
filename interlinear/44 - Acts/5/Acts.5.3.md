@@ -1,12 +1,12 @@
-**Acts 5:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:3**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back [part] of the price of the land?
 <small><sub>**BSB:**</sub></small>
 Then Peter said, “Ananias, how is it that Satan has filled your heart to lie to the Holy Spirit and withhold some of the proceeds from the land?
 <small><sub>**Literal:**</sub></small>
 Said however <the> Peter; Ananias, because of why has filled <the> Satan the heart of you to lie to [for] you the Spirit <the> Holy and to keep back yourself from the proceeds of the land?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.2|<< Acts 5:2]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.4|Acts 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

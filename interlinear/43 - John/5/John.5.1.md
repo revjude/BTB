@@ -1,12 +1,12 @@
-**John 5:1
-**<small><sub>**KJV:**</sub></small>
+**John 5:1**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After this there was a feast of the Jews; and Jesus went up to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Some time later there was a feast of the Jews, and Jesus went up to Jerusalem.
 <small><sub>**Literal:**</sub></small>
 After these things there was the feast of the Jews, and went up <the> Jesus to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.54|<< John 4:54]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.2|John 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

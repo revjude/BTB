@@ -1,10 +1,7 @@
 **LXX Numbers 32:31** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Reuben and the sons of Gad answered, saying, As much as the <span class="smallcaps">lord</span> says \[to\] his attendants, so we shall do. 
-<small><sub>**KJV:**</sub></small>
-And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do.
-<small><sub>**BSB:**</sub></small>
-The Gadites and Reubenites replied, “As the LORD has spoken to your servants, so we will do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.30|<< Numbers 32:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.32|Numbers 32:32 >>]]</td></tr></table>
 
 | Translation | Greek |

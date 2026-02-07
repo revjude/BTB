@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:23** 
 <small><sub>**LXX:**</sub></small>
 Give then to us two oxen, and let them choose for themselves  one, and let them dismember \[it\], and place \[it\] upon the wood, and do not put fire upon \[it\]! And I will do \[the same\]  \[with the\] other ox, and in no way will I put fire upon \[it\]. 
-<small><sub>**KJV:**</sub></small>
-Let them therefore give us two bullocks; and let them choose one bullock for themselves, and cut it in pieces, and lay [it] on wood, and put no fire [under]: and I will dress the other bullock, and lay [it] on wood, and put no fire [under]:
-<small><sub>**BSB:**</sub></small>
-Get two bulls for us. Let the prophets of Baal choose one bull for themselves, cut it into pieces, and place it on the wood but not light the fire. And I will prepare the other bull and place it on the wood but not light the fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.22|<< 1 Kings 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.24|1 Kings 18:24 >>]]</td></tr></table>
 
 | Translation | Greek |

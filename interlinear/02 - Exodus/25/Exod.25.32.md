@@ -1,4 +1,4 @@
-**Exodus 25:32** 
+**Exodus 25:32**<big><big>[[Exod.25.31 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And six branches shall come out of the sides of it; three branches of the candlestick out of the one side, and three branches of the candlestick out of the other side:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Six branches are to extend from the sides of the lampstand—three on one side a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.31|<< Exodus 25:31]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.33|Exodus 25:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שִׁשָּׁ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | branches  |**<big>&#8207;[[H7070G\|קָנִ֔ים]]&#8207; </big>**| ka.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

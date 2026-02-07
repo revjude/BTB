@@ -1,4 +1,4 @@
-**Numbers 15:3** 
+**Numbers 15:3**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And will make an offering by fire unto the LORD, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the LORD, of the herd, or of the flock:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and you present a food offering to the LORD from the herd or flock to produce a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.2|<< Numbers 15:2]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.4|Numbers 15:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213I\|עֲשִׂיתֶ֨ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.si.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fire offering  |**<big>&#8207;[[H0801\|אִשֶּׁ֤ה]]&#8207; </big>**| 'i.Sheh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

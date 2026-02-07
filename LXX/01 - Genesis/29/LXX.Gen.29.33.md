@@ -1,10 +1,7 @@
 **LXX Genesis 29:33** 
 <small><sub>**LXX:**</sub></small>
 And again Leah conceived and bore a second son  to Jacob. And she said, For \[the\] <span class="smallcaps">lord</span> heard that I am detested, and he gave in addition to me also this one. And she called  his name, Simeon. 
-<small><sub>**KJV:**</sub></small>
-And she conceived again, and bare a son; and said, Because the LORD hath heard that I [was] hated, he hath therefore given me this [son] also: and she called his name Simeon.
-<small><sub>**BSB:**</sub></small>
-Again she conceived and gave birth to a son, and she said, “Because the LORD has heard that I am unloved, He has given me this son as well.” So she named him Simeon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.32|<< Genesis 29:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.34|Genesis 29:34 >>]]</td></tr></table>
 
 | Translation | Greek |

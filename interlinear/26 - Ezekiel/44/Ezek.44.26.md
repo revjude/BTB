@@ -1,4 +1,4 @@
-**Ezekiel 44:26** 
+**Ezekiel 44:26**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after he is cleansed, they shall reckon unto him seven days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and after he is cleansed, he must count off seven days for himself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.25|<< Ezekiel 44:25]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.27|Ezekiel 44:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרֵ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | purification his  |**<big>&#8207;[[H2893\|טָֽהֳרָת֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| to.ho.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

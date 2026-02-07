@@ -1,4 +1,4 @@
-**Isaiah 28:14** 
+**Isaiah 28:14**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore hear the word of the LORD, ye scornful men, that rule this people which [is] in Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore hear the word of the LORD, O scoffers who rule this people in Jerusale
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.13|<< Isaiah 28:13]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.15|Isaiah 28:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֛ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְע֥וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

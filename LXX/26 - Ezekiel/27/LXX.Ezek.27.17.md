@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:17** 
 <small><sub>**LXX:**</sub></small>
 Judah, and the sons of Israel, these \[were\] your merchants in \[the\] sale of grain and perfumed liquids; and foremost honey and olive oil and balm they gave unto  your consolidation. 
-<small><sub>**KJV:**</sub></small>
-Judah, and the land of Israel, they [were] thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm.
-<small><sub>**BSB:**</sub></small>
-Judah and the land of Israel traded with you; they exchanged wheat from Minnith, cakes and honey, oil and balm for your merchandise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.16|<< Ezekiel 27:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.18|Ezekiel 27:18 >>]]</td></tr></table>
 
 | Translation | Greek |

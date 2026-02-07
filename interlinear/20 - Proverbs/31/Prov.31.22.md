@@ -1,4 +1,4 @@
-**Proverbs 31:22** 
+**Proverbs 31:22**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She maketh herself coverings of tapestry; her clothing [is] silk and purple.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She makes coverings for her bed; her clothing is fine linen and purple.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.21|<< Proverbs 31:21]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.23|Proverbs 31:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | coverings  |**<big>&#8207;[[H4765\|מַרְבַדִּ֥ים]]&#8207; </big>**| mar.va.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she makes  |**<big>&#8207;[[H6213H\|עָֽשְׂתָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.se.tah-<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

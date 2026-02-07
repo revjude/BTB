@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:16** 
 <small><sub>**LXX:**</sub></small>
 the one feeding you the manna in the wilderness, which you had not known, and your fathers did not know; that he should afflict you, and that he should put you to the test, and do good unto you upon \[the\] last  of your days; 
-<small><sub>**KJV:**</sub></small>
-Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end;
-<small><sub>**BSB:**</sub></small>
-He fed you in the wilderness with manna that your fathers had not known, in order to humble you and test you, so that in the end He might cause you to prosper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.15|<< Deuteronomy 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.17|Deuteronomy 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

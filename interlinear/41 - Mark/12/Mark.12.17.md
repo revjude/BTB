@@ -1,12 +1,12 @@
-**Mark 12:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:17**<big><big>[[Mark.12.13 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said unto them, Render to Caesar the things that are Caesar’s, and to God the things that are God’s. And they marvelled at him.
 <small><sub>**BSB:**</sub></small>
 Then Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.” And they marveled at Him.
 <small><sub>**Literal:**</sub></small>
 and answering <the> And Jesus said to them; the [things] of Caesar do give back to Caesar and the [things] <of the> of God <to the> to God. And they were amazed at Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.16|<< Mark 12:16]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.18|Mark 12:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

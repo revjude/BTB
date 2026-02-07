@@ -1,12 +1,12 @@
-**Mark 13:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:8**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For nation shall rise against nation, and kingdom against kingdom: and there shall be earthquakes in divers places, and there shall be famines and troubles: these [are] the beginnings of sorrows.
 <small><sub>**BSB:**</sub></small>
 Nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places, as well as famines. These are the beginning of birth pains.
 <small><sub>**Literal:**</sub></small>
 Will rise up for nation against nation and kingdom against kingdom; and There will be earthquakes throughout places; and there will be famines and disturbance; [The] beginning of birth pains [are] these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.7|<< Mark 13:7]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.9|Mark 13:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Will rise up |**<big>[[G1453\|ἐγερθήσεται]]</big>**  |egerthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

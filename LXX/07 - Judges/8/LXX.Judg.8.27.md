@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Gideon made to himself for an ephod, and set it in his city, in Ophrah. And all Israel fornicated after it there. And it became an obstacle to Gideon and his house. 
-<small><sub>**KJV:**</sub></small>
-And Gideon made an ephod thereof, and put it in his city, [even] in Ophrah: and all Israel went thither a whoring after it: which thing became a snare unto Gideon, and to his house.
-<small><sub>**BSB:**</sub></small>
-From all this Gideon made an ephod, which he placed in Ophrah, his hometown. But soon all Israel prostituted themselves by worshiping it there, and it became a snare to Gideon and his household.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.26|<< Judges 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.28|Judges 8:28 >>]]</td></tr></table>
 
 | Translation | Greek |

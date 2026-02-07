@@ -1,4 +1,4 @@
-**Ecclesiastes 8:1** 
+**Ecclesiastes 8:1**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] as the wise [man]? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who is like the wise man? Who knows the interpretation of a matter? A man’s wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.29|<< Ecclesiastes 7:29]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.2|Ecclesiastes 8:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֚י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like the wise [person]  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H9009\|הֶ֣]]&#8207;&#8207;[[H2450\|חָכָ֔ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> He.<small><sup>[[HTd]]</sup></small> cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

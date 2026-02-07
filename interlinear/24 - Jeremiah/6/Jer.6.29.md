@@ -1,4 +1,4 @@
-**Jeremiah 6:29** 
+**Jeremiah 6:29**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The bellows are burned, the lead is consumed of the fire; the founder melteth in vain: for the wicked are not plucked away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The bellows blow fiercely, blasting away the lead with fire. The refining procee
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.28|<< Jeremiah 6:28]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.30|Jeremiah 6:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it puffs  |**<big>&#8207;[[H2787\|נָחַ֣ר]]&#8207; </big>**| na.Char<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] bellow[s]  |**<big>&#8207;[[H4647\|מַפֻּ֔חַ]]&#8207; </big>**| ma.Pu.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

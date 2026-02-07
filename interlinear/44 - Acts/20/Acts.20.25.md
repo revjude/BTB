@@ -1,12 +1,12 @@
-**Acts 20:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:25**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.
 <small><sub>**BSB:**</sub></small>
 Now I know that none of you among whom I have preached the kingdom will see my face again.
 <small><sub>**Literal:**</sub></small>
 And now behold I myself know that no longer you will behold the face of me you yourselves all among whom I have gone about proclaiming the kingdom of the God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.24|<< Acts 20:24]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.26|Acts 20:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

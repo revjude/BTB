@@ -1,12 +1,12 @@
-**Luke 23:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:14**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined [him] before you, have found no fault in this man touching those things whereof ye accuse him:
 <small><sub>**BSB:**</sub></small>
 and said to them, “You brought me this man as one who was inciting the people to rebellion. I have examined Him here in your presence and found Him not guilty of your charges against Him.
 <small><sub>**Literal:**</sub></small>
 said to them; You brought to me <the> man this as misleading the people; and behold I myself before you having examined [Him] no [thing] found in <the> man this guilty of that accusation you are bringing against Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.13|<< Luke 23:13]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.15|Luke 23:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

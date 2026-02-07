@@ -1,4 +1,4 @@
-**Ruth 3:13** 
+**Ruth 3:13**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tarry this night, and it shall be in the morning, [that] if he will perform unto thee the part of a kinsman, well; let him do the kinsman’s part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, [as] the LORD liveth: lie down until the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Stay here tonight, and in the morning, if he wants to redeem you, good. Let him 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.12|<< Ruth 3:12]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.14|Ruth 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | stay  |**<big>&#8207;[[H3885A\|לִ֣ינִי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Li.ni<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this night  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3915\|לַּ֗יְלָה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 10:18
-**<small><sub>**KJV:**</sub></small>
+**John 10:18**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.
 <small><sub>**BSB:**</sub></small>
 No one takes it from Me, but I lay it down of My own accord. I have authority to lay it down and authority to take it up again. This charge I have received from My Father.”
 <small><sub>**Literal:**</sub></small>
 No [one] takes away it from Me, but I myself lay down it of Myself. Authority I have to lay down it and authority I have again to take it; This <the> commandment I received from the Father of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.17|<< John 10:17]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.19|John 10:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | takes away [^1] |**<big>[[G0142\|αἴρει]]</big>**  |airei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |

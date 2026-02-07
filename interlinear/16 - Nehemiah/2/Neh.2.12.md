@@ -1,4 +1,4 @@
-**Nehemiah 2:12** 
+**Nehemiah 2:12**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I arose in the night, I and some few men with me; neither told I [any] man what my God had put in my heart to do at Jerusalem: neither [was there any] beast with me, save the beast that I rode upon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I set out at night with a few men. I did not tell anyone what my God had laid on
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.11|<< Nehemiah 2:11]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.13|Nehemiah 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I arose  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6965B\|אָק֣וּם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Kum<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | night  |**<big>&#8207;[[H3915\|לַ֗יְלָה]]&#8207; </big>**| Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

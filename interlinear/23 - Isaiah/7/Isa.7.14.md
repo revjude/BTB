@@ -1,4 +1,4 @@
-**Isaiah 7:14** 
+**Isaiah 7:14**<big><big>[[Isa.7.10 The Sign of Immanuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore the Lord Himself will give you a sign: Behold, the virgin will be with
 > $\quad$ referenced by: [[Matt.1.23|Matt 1:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ֠]]&#8207;&#8207;[[H3651C\|כֵן]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will give  |**<big>&#8207;[[H5414G\|יִתֵּ֨ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

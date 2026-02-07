@@ -1,10 +1,7 @@
 **LXX Jonah 1:14** 
 <small><sub>**LXX:**</sub></small>
 And they yelled out to \[the\] <span class="smallcaps">lord</span>, and they said, By no means, O <span class="smallcaps">lord</span>, should you destroy \[us\] because of the soul  of this man, and should not be imputed against us \[the\] blood of \[the\] just; for you, O <span class="smallcaps">lord</span>, in which manner you want, you do. 
-<small><sub>**KJV:**</sub></small>
-Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man’s life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.
-<small><sub>**BSB:**</sub></small>
-So they cried out to the LORD: “Please, O LORD, do not let us perish on account of this man’s life! Do not charge us with innocent blood! For You, O LORD, have done as You pleased.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.13|<< Jonah 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.15|Jonah 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

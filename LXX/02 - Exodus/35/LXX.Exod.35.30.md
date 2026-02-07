@@ -1,10 +1,7 @@
 **LXX Exodus 35:30** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to the sons of Israel, Behold, God has called by name  Bezaleel the \[son\] of Uri, son of Hur, of the tribe of Judah. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;
-<small><sub>**BSB:**</sub></small>
-Then Moses said to the Israelites, “See, the LORD has called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.29|<< Exodus 35:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.31|Exodus 35:31 >>]]</td></tr></table>
 
 | Translation | Greek |

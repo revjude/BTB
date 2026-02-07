@@ -1,4 +1,4 @@
-**Jeremiah 49:32** 
+**Jeremiah 49:32**<big><big>[[Jer.49.28 Judgment on Kedar and Hazor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their camels shall be a booty, and the multitude of their cattle a spoil: and I will scatter into all winds them [that are] in the utmost corners; and I will bring their calamity from all sides thereof, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their camels will become plunder, and their large herds will be spoil. I will sc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.31|<< Jeremiah 49:31]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.33|Jeremiah 49:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | camels their  |**<big>&#8207;[[H1581\|גְמַלֵּי]]&#8207;&#8207;[[H9028\|הֶ֜ם]]&#8207; </big>**| ge.ma.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

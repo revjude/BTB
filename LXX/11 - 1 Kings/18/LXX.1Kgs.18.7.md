@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:7** 
 <small><sub>**LXX:**</sub></small>
 And Obadiah was in the way alone, and behold, Elijah \[came\] to meet with him. And Obadiah hastened and fell upon his face, and he said, Are you he, O my master, Elijah? 
-<small><sub>**KJV:**</sub></small>
-And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, [Art] thou that my lord Elijah?
-<small><sub>**BSB:**</sub></small>
-Now as Obadiah went on his way, Elijah suddenly met him. When Obadiah recognized him, he fell facedown and said, “Is it you, my lord Elijah?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.6|<< 1 Kings 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.8|1 Kings 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

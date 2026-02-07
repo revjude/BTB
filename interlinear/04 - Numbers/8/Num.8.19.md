@@ -1,4 +1,4 @@
-**Numbers 8:19** 
+**Numbers 8:19**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have given the Levites [as] a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I have given the Levites as a gift to Aaron and his sons from among the Isra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.18|<< Numbers 8:18]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.20|Numbers 8:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have given !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5414G\|אֶתְּנָ֨]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.te.Na<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

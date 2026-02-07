@@ -1,4 +1,4 @@
-**2 Chronicles 35:7** 
+**2 Chronicles 35:7**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Josiah gave to the people, of the flock, lambs and kids, all for the passover offerings, for all that were present, to the number of thirty thousand, and three thousand bullocks: these [were] of the king’s substance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From his own flocks and herds Josiah contributed 30,000 lambs and goats plus 3,0
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.6|<< 2 Chronicles 35:6]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.8|2 Chronicles 35:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he contributed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7311A\|יָּ֣רֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Josiah  |**<big>&#8207;[[H2977G\|יֹאשִׁיָּ֣הוּ]]&#8207; </big>**| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

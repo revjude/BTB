@@ -1,4 +1,4 @@
-**Isaiah 12:3** 
+**Isaiah 12:3**<big><big>[[Isa.12.1 Joyful Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore with joy shall ye draw water out of the wells of salvation.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ With joy you will draw water from the springs of salvation,
 > $\quad$ referenced by: [[John.7.38|John 7:38]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will draw  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7579\|שְׁאַבְתֶּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.'av.tem-<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | water  |**<big>&#8207;[[H4325G\|מַ֖יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 29:15** 
+**1 Chronicles 29:15**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we [are] strangers before thee, and sojourners, as [were] all our fathers: our days on the earth [are] as a shadow, and [there is] none abiding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For we are foreigners and strangers in Your presence, as were all our forefather
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.14|<< 1 Chronicles 29:14]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.16|1 Chronicles 29:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] sojourners  |**<big>&#8207;[[H1616\|גֵרִ֨ים]]&#8207; </big>**| ge.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

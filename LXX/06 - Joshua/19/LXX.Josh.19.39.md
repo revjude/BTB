@@ -1,10 +1,7 @@
 **LXX Joshua 19:39** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the inheritance of \[the\] tribe of \[the\] sons of Naphtali according to their kin, and the cities and  their properties. 
-<small><sub>**KJV:**</sub></small>
-This [is] the inheritance of the tribe of the children of Naphtali according to their families, the cities and their villages.
-<small><sub>**BSB:**</sub></small>
-This was the inheritance of the clans of the tribe of Naphtali, including these cities and their villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.38|<< Joshua 19:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.40|Joshua 19:40 >>]]</td></tr></table>
 
 | Translation | Greek |

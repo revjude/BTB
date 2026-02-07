@@ -1,10 +1,7 @@
 **LXX 1 Samuel 31:2** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines joined up against  Saul and  his sons. And the \[the\] Philistines struck down  Jonathan, and  Abinadab, and  Melchi-shua, sons of Saul. 
-<small><sub>**KJV:**</sub></small>
-And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, Saul’s sons.
-<small><sub>**BSB:**</sub></small>
-The Philistines hotly pursued Saul and his sons, and they killed Saul’s sons Jonathan, Abinadab, and Malchishua.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.1|<< 1 Samuel 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.3|1 Samuel 31:3 >>]]</td></tr></table>
 
 | Translation | Greek |

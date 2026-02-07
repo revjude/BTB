@@ -1,4 +1,4 @@
-**2 Chronicles 20:5** 
+**2 Chronicles 20:5**<big><big>[[2Chr.20.5 Jehoshaphat’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the LORD, before the new court,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehoshaphat stood in the assembly of Judah and Jerusalem in the house of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.4|<< 2 Chronicles 20:4]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.6|2 Chronicles 20:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stood  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975G\|יַּעֲמֹ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoshaphat  |**<big>&#8207;[[H3092I\|יְהוֹשָׁפָ֗ט]]&#8207; </big>**| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

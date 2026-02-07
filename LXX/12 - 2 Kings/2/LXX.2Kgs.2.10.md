@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:10** 
 <small><sub>**LXX:**</sub></small>
 And Elijah said, You hardened  to ask. If you should behold me being taken up from you, it will be thus to you; but if not, in no way will it be. 
-<small><sub>**KJV:**</sub></small>
-And he said, Thou hast asked a hard thing: [nevertheless], if thou see me [when I am] taken from thee, it shall be so unto thee; but if not, it shall not be [so].
-<small><sub>**BSB:**</sub></small>
-“You have requested a difficult thing,” said Elijah. “Nevertheless, if you see me as I am taken from you, it will be yours. But if not, then it will not be so.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.9|<< 2 Kings 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.11|2 Kings 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 24:6** 
+**Jeremiah 24:6**<big><big>[[Jer.24.1 The Good and Bad Figs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull [them] down; and I will plant them, and not pluck [them] up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will keep My eyes on them for good and will return them to this land. I will b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.5|<< Jeremiah 24:5]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.7|Jeremiah 24:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will set  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760A\|שַׂמְתִּ֨י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eye my  |**<big>&#8207;[[H5869A\|עֵינִ֤]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

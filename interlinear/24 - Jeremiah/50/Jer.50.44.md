@@ -1,4 +1,4 @@
-**Jeremiah 50:44** 
+**Jeremiah 50:44**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who [is] a chosen [man, that] I may appoint over her? for who [is] like me? and who will appoint me the time? and who [is] that shepherd that will stand before me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, one will come up like a lion from the thickets of the Jordan to the wate
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.43|<< Jeremiah 50:43]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.45|Jeremiah 50:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִ֠נֵּה]]&#8207; </big>**| Hi.neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a lion  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0738B\|אַרְיֵ֞ה]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'ar.Yeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

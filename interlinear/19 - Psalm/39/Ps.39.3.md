@@ -1,4 +1,4 @@
-**Psalms 39:3** (39:4)
+**Psalms 39:3**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My heart was hot within me, while I was musing the fire burned: [then] spake I with my tongue,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My heart grew hot within me; as I mused, the fire burned. Then I spoke with my t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.2|<< Psalms 39:2]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.4|Psalms 39:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it became hot  |**<big>&#8207;[[H2552\|חַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cham-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart my  |**<big>&#8207;[[H3820A\|לִבִּ֨]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

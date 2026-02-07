@@ -1,4 +1,4 @@
-**1 Samuel 28:23** 
+**1 Samuel 28:23**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he refused, and said, I will not eat. But his servants, together with the woman, compelled him; and he hearkened unto their voice. So he arose from the earth, and sat upon the bed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Saul refused, saying, “I will not eat.” But his servants joined the woman in
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.22|<< 1 Samuel 28:22]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.24|1 Samuel 28:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he refused  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3985\|יְמָאֵ֗ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.'En<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

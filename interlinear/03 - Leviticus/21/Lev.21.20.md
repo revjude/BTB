@@ -1,4 +1,4 @@
-**Leviticus 21:20** 
+**Leviticus 21:20**<big><big>[[Lev.21.16 Restrictions against Those with Blemishes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ or who is a hunchback or dwarf, or who has an eye defect, a festering rash, scab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.19|<< Leviticus 21:19]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.21|Leviticus 21:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|אֽוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a [man] hunchbacked  |**<big>&#8207;[[H1384\|גִבֵּ֣ן]]&#8207; </big>**| gi.Ben<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

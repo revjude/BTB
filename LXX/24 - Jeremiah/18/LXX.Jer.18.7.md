@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:7** 
 <small><sub>**LXX:**</sub></small>
 At end I shall speak unto a nation or unto a kingdom  to lift them away, and  to destroy them. 
-<small><sub>**KJV:**</sub></small>
-[At what] instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy [it];
-<small><sub>**BSB:**</sub></small>
-At any time I might announce that a nation or kingdom will be uprooted, torn down, and destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.6|<< Jeremiah 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.8|Jeremiah 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

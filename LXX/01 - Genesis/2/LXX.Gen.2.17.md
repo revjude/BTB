@@ -1,10 +1,7 @@
 **LXX Genesis 2:17** 
 <small><sub>**LXX:**</sub></small>
 but from the tree of the knowing good and evil, you shall not eat from it; but in whatever day you should eat from it, to death you shall die. 
-<small><sub>**KJV:**</sub></small>
-But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.
-<small><sub>**BSB:**</sub></small>
-but you must not eat from the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.16|<< Genesis 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.18|Genesis 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

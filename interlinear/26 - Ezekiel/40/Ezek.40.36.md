@@ -1,4 +1,4 @@
-**Ezekiel 40:36** 
+**Ezekiel 40:36**<big><big>[[Ezek.40.28 The Gates of the Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The little chambers thereof, the posts thereof, and the arches thereof, and the windows to it round about: the length [was] fifty cubits, and the breadth five and twenty cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as did its gate chambers, side pillars, and portico. It also had windows all aro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.35|<< Ezekiel 40:35]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.37|Ezekiel 40:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | chambers its  [^2]|**<big>&#8207;[[H8372\|תָּאָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**[^3] | ta.'o<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | pillars its  [^5]|**<big>&#8207;[[H0352B\|אֵלָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^6] | 'e.lo<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

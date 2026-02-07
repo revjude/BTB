@@ -1,10 +1,7 @@
 **LXX Judges 9:19** 
 <small><sub>**LXX:**</sub></small>
 and if you acted in truth and perfection with Jerubbaal, and  his house in  this day, may you be glad in Abimelech, and may he be glad also indeed himself in you. 
-<small><sub>**KJV:**</sub></small>
-If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, [then] rejoice ye in Abimelech, and let him also rejoice in you:
-<small><sub>**BSB:**</sub></small>
-if you have acted faithfully and honestly toward Jerubbaal and his house this day, then may you rejoice in Abimelech, and he in you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.18|<< Judges 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.20|Judges 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

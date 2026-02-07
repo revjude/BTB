@@ -1,12 +1,12 @@
-**Acts 26:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:11**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I punished them oft in every synagogue, and compelled [them] to blaspheme; and being exceedingly mad against them, I persecuted [them] even unto strange cities.
 <small><sub>**BSB:**</sub></small>
 I frequently had them punished in the synagogues, and I tried to make them blaspheme. In my raging fury against them, I even went to foreign cities to persecute them.
 <small><sub>**Literal:**</sub></small>
 And in all the synagogues often punishing them I was compelling [them] to blaspheme, Excessively then being furious against them I was persecuting [them] as far as even to <the> foreign cities.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.10|<< Acts 26:10]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.12|Acts 26:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

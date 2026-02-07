@@ -1,4 +1,4 @@
-**Ezekiel 48:28** 
+**Ezekiel 48:28**<big><big>[[Ezek.48.23 The Portions for the Remaining Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by the border of Gad, at the south side southward, the border shall be even from Tamar [unto] the waters of strife [in] Kadesh, [and] to the river toward the great sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The southern border of Gad will run from Tamar to the waters of Meribath-kadesh,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.27|<< Ezekiel 48:27]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.29|Ezekiel 48:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] border of  |**<big>&#8207;[[H1366H\|גְּב֣וּל]]&#8207; </big>**| ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

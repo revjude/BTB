@@ -1,12 +1,12 @@
-**Titus 2:12
-**<small><sub>**KJV:**</sub></small>
+**Titus 2:12**<big><big>[[Titus.2.11 God’s Grace Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
 <small><sub>**BSB:**</sub></small>
 It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age,
 <small><sub>**Literal:**</sub></small>
 instructing us that having denied <the> ungodliness and <the> worldly passions discreetly and righteously and piously we may live in the present age<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.11|<< Titus 2:11]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.13|Titus 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | instructing |**<big>[[G3811\|παιδεύουσα]]</big>**  |paideuousa <small><sup>[[V-PAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | us |**<big>[[G3165\|ἡμᾶς]]</big>**  |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

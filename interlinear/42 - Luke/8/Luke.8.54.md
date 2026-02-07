@@ -1,12 +1,12 @@
-**Luke 8:54
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:54**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he put them all out, and took her by the hand, and called, saying, Maid, arise.
 <small><sub>**BSB:**</sub></small>
 But Jesus took her by the hand and called out, “Child, get up!”
 <small><sub>**Literal:**</sub></small>
 He himself now having taken out outside all and having taken hold of the hand of her called out saying: O Child, do arise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.53|<< Luke 8:53]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.55|Luke 8:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

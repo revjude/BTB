@@ -1,4 +1,4 @@
-**2 Samuel 20:15** 
+**2 Samuel 20:15**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came and besieged him in Abel of Bethmaachah, and they cast up a bank against the city, and it stood in the trench: and all the people that [were] with Joab battered the wall, to throw it down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Joab’s troops came and besieged Sheba in Abel-beth-maacah and built a sieg
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.14|<< 2 Samuel 20:14]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.16|2 Samuel 20:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֜אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they laid siege  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6696A\|יָּצֻ֣רוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Tzu.ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

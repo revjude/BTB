@@ -1,4 +1,4 @@
-**Leviticus 20:7** 
+**Leviticus 20:7**<big><big>[[Lev.20.1 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sanctify yourselves therefore, and be ye holy: for I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Consecrate yourselves, therefore, and be holy, because I am the LORD your God.
 > $\quad$ referenced by: [[1Pet.1.16|1Pet 1:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will keep yourselves holy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6942G\|הִ֨תְקַדִּשְׁתֶּ֔ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Hit.ka.dish.Tem<small><sup>[[HVtq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will be  |**<big>&#8207;[[H9001\|וִ]]&#8207;&#8207;[[H1961\|הְיִיתֶ֖ם]]&#8207; </big>**| vi<small><sup>[[Hc]]</sup></small> h.yi.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

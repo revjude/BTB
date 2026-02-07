@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:7** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; I shall lift  my hand against the nations, the ones surrounding you; these  shall bear their dishonor. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; I have lifted up mine hand, Surely the heathen that [are] about you, they shall bear their shame.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: I have sworn with an uplifted hand that surely the nations around you will endure reproach of their own.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.6|<< Ezekiel 36:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.8|Ezekiel 36:8 >>]]</td></tr></table>
 
 | Translation | Greek |

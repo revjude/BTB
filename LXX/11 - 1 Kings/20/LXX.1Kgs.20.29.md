@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these camped before those seven days. And it came to pass in the seventh day, that the war led on. And Israel struck  Syria -- a hundred thousand footmen in one day. 
-<small><sub>**KJV:**</sub></small>
-And they pitched one over against the other seven days. And [so] it was, that in the seventh day the battle was joined: and the children of Israel slew of the Syrians an hundred thousand footmen in one day.
-<small><sub>**BSB:**</sub></small>
-For seven days the armies camped opposite each other, and on the seventh day the battle ensued, and the Israelites struck down the Arameans—a hundred thousand foot soldiers in one day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.28|<< 1 Kings 20:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.30|1 Kings 20:30 >>]]</td></tr></table>
 
 | Translation | Greek |

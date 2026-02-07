@@ -1,12 +1,12 @@
-**Ephesians 5:33
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:33**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless let every one of you in particular so love his wife even as himself; and the wife [see] that she reverence [her] husband.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, each one of you also must love his wife as he loves himself, and the wife must respect her husband.
 <small><sub>**Literal:**</sub></small>
 However also you <the> according to individual, each the his own wife so should love as himself, <the> and the wife that she may respect the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.32|<< Ephesians 5:32]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.1|Ephesians 6:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | However |**<big>[[G4133\|πλὴν]]</big>**  |plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

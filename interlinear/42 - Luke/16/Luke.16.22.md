@@ -1,12 +1,12 @@
-**Luke 16:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:22**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;
 <small><sub>**BSB:**</sub></small>
 One day the beggar died and was carried by the angels to Abraham’s side. And the rich man also died and was buried.
 <small><sub>**Literal:**</sub></small>
 It came to pass that then to die the poor man and to be carried away he by the angels into the bosom <the> of Abraham; Died then also the rich man and was buried.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.21|<< Luke 16:21]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.23|Luke 16:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass that |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

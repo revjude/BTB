@@ -1,10 +1,7 @@
 **LXX Job 36:23** 
 <small><sub>**LXX:**</sub></small>
 And who is the one examining his  works? or who \[is\] the one having said, He acted unjustly. 
-<small><sub>**KJV:**</sub></small>
-Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?
-<small><sub>**BSB:**</sub></small>
-Who has appointed His way for Him, or told Him, ‘You have done wrong’?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.22|<< Job 36:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.24|Job 36:24 >>]]</td></tr></table>
 
 | Translation | Greek |

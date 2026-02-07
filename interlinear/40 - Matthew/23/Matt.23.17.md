@@ -1,12 +1,12 @@
-**Matthew 23:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:17**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Ye] fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?
 <small><sub>**BSB:**</sub></small>
 You blind fools! Which is greater: the gold, or the temple that makes it sacred?
 <small><sub>**Literal:**</sub></small>
 Foolish and blind! Which for greater is, the gold or the temple which is sanctifying the gold?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.16|<< Matthew 23:16]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.18|Matthew 23:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Foolish |**<big>[[G3474\|μωροὶ]]</big>**  |mōroi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

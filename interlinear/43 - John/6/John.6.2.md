@@ -1,12 +1,12 @@
-**John 6:2
-**<small><sub>**KJV:**</sub></small>
+**John 6:2**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a great multitude followed him, because they saw his miracles which he did on them that were diseased.
 <small><sub>**BSB:**</sub></small>
 A large crowd followed Him because they saw the signs He was performing on the sick.
 <small><sub>**Literal:**</sub></small>
 and Was following now after Him a crowd great, because they were experiencing of him the signs which He was doing upon those being sick.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.1|<< John 6:1]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.3|John 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Was following |**<big>[[G0190\|ἠκολούθει]]</big>**  |ēkolouthei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

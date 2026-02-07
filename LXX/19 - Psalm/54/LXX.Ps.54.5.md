@@ -1,10 +1,7 @@
 **LXX Psalm 54:5** 
 <small><sub>**LXX:**</sub></small>
 He shall return the evils \[to\] my enemies. By  your truth utterly destroy them! 
-<small><sub>**KJV:**</sub></small>
-He shall reward evil unto mine enemies: cut them off in thy truth.
-<small><sub>**BSB:**</sub></small>
-He will reward my enemies with evil. In Your faithfulness, destroy them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.54.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.54.4|<< Psalm 54:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.54.6|Psalm 54:6 >>]]</td></tr></table>
 
 | Translation | Greek |

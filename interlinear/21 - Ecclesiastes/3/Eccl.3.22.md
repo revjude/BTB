@@ -1,4 +1,4 @@
-**Ecclesiastes 3:22** 
+**Ecclesiastes 3:22**<big><big>[[Eccl.3.16 From Dust to Dust|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I perceive that [there is] nothing better, than that a man should rejoice in his own works; for that [is] his portion: for who shall bring him to see what shall be after him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have seen that there is nothing better for a man than to enjoy his work, becau
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.21|<< Ecclesiastes 3:21]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.1|Ecclesiastes 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאִ֗יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'I.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

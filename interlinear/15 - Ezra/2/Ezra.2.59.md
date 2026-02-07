@@ -1,4 +1,4 @@
-**Ezra 2:59** 
+**Ezra 2:59**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [were] they which went up from Telmelah, Telharsa, Cherub, Addan, [and] Immer: but they could not shew their father’s house, and their seed, whether they [were] of Israel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The following came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, but 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.58|<< Ezra 2:58]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.60|Ezra 2:60 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] who came up  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5927G\|עֹלִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 16:8** 
+**Genesis 16:8**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.7|<< Genesis 16:7]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.9|Genesis 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֗ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Hagar  |**<big>&#8207;[[H1904\|הָגָ֞ר]]&#8207; </big>**| ha.Gar<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

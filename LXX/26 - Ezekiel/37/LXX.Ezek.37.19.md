@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:19** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Thus says \[the\] <span class="smallcaps">lord</span>  God; Behold, I shall take the tribe of Joseph, the one through \[the\] hand of Ephraim, and the tribes of Israel, the ones lying near to him, and I will appoint them unto the tribe of Judah, and they shall be for one rod, and they shall be one in the hand of Judah. 
-<small><sub>**KJV:**</sub></small>
-Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which [is] in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, [even] with the stick of Judah, and make them one stick, and they shall be one in mine hand.
-<small><sub>**BSB:**</sub></small>
-you are to tell them that this is what the Lord GOD says: ‘I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel associated with him, and I will put them together with the stick of Judah. I will make them into a single stick, and they will become one in My hand.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.18|<< Ezekiel 37:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.20|Ezekiel 37:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 5:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:11**<big><big>[[1Cor.5.9 Expel the Immoral Brother|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.
 <small><sub>**BSB:**</sub></small>
 But now I am writing you not to associate with anyone who claims to be a brother but is sexually immoral or greedy, an idolater or a verbal abuser, a drunkard or a swindler. With such a man do not even eat.
 <small><sub>**Literal:**</sub></small>
 now however I wrote to you not to associate with [him] if anyone a brother being designated he shall be sexually immoral or a coveter or an idolater or verbal abuser or a drunkard or swindler; <the> with such a one not even to eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.10|<< 1 Corinthians 5:10]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.12|1 Corinthians 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now [^1] |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

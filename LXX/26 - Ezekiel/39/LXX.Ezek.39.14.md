@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:14** 
 <small><sub>**LXX:**</sub></small>
 And they shall give orders for men continually for coming over the land to bury the ones being left upon \[the\] face of the earth, to cleanse it. After the seven months, and they shall seek. 
-<small><sub>**KJV:**</sub></small>
-And they shall sever out men of continual employment, passing through the land to bury with the passengers those that remain upon the face of the earth, to cleanse it: after the end of seven months shall they search.
-<small><sub>**BSB:**</sub></small>
-And men will be employed to continually pass through the land to cleanse it by burying the invaders who remain on the ground. At the end of the seven months they will begin their search.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.13|<< Ezekiel 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.15|Ezekiel 39:15 >>]]</td></tr></table>
 
 | Translation | Greek |

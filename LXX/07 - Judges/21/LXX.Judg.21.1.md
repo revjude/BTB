@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man of Israel swore by an oath in Mizpeh, saying, No man from us shall give his daughter  to Benjamin for a wife. 
-<small><sub>**KJV:**</sub></small>
-Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife.
-<small><sub>**BSB:**</sub></small>
-Now the men of Israel had sworn an oath at Mizpah, saying, “Not one of us will give his daughter in marriage to a Benjamite.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.48|<< Judges 20:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.2|Judges 21:2 >>]]</td></tr></table>
 
 | Translation | Greek |

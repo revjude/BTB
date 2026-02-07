@@ -1,12 +1,12 @@
-**John 15:21
-**<small><sub>**KJV:**</sub></small>
+**John 15:21**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But all these things will they do unto you for my name’s sake, because they know not him that sent me.
 <small><sub>**BSB:**</sub></small>
 But they will treat you like this because of My name, since they do not know the One who sent Me.
 <small><sub>**Literal:**</sub></small>
 But these things all they will do against you on account of the name of Me, because not they know the [One] having sent Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.20|<< John 15:20]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.22|John 15:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

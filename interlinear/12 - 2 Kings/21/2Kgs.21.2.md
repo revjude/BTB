@@ -1,4 +1,4 @@
-**2 Kings 21:2** 
+**2 Kings 21:2**<big><big>[[2Kgs.21.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] evil in the sight of the LORD, after the abominations of the heathen, whom the LORD cast out before the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he did evil in the sight of the LORD by following the abominations of the na
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.1|<< 2 Kings 21:1]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.3|2 Kings 21:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the evil  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451H\|רַ֖ע]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

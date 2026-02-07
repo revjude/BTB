@@ -1,10 +1,7 @@
 **LXX Numbers 13:22** 
 <small><sub>**LXX:**</sub></small>
 And they ascended by the wilderness, and came unto Hebron; and there \[was\] Ahiman, and Sheshai, and Talmai, \[the\] families of Anak; and Hebron was built seven years before  Tanin of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, [were]. (Now Hebron was built seven years before Zoan in Egypt.)
-<small><sub>**BSB:**</sub></small>
-They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai, the descendants of Anak, dwelled. It had been built seven years before Zoan in Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.21|<< Numbers 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.23|Numbers 13:23 >>]]</td></tr></table>
 
 | Translation | Greek |

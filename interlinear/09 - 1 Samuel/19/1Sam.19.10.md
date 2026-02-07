@@ -1,4 +1,4 @@
-**1 Samuel 19:10** 
+**1 Samuel 19:10**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul sought to smite David even to the wall with the javelin; but he slipped away out of Saul’s presence, and he smote the javelin into the wall: and David fled, and escaped that night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Saul tried to pin him to the wall with his spear. But David eluded him and the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.9|<< 1 Samuel 19:9]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.11|1 Samuel 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1245\|יְבַקֵּ֨שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.Kesh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֜וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

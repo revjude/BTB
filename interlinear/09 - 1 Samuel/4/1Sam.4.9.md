@@ -1,4 +1,4 @@
-**1 Samuel 4:9** 
+**1 Samuel 4:9**<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take courage and be men, O Philistines! Otherwise, you will serve the Hebrews ju
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.8|<< 1 Samuel 4:8]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.10|1 Samuel 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | show yourselves strong  |**<big>&#8207;[[H2388G\|הִֽתְחַזְּק֞וּ]]&#8207; </big>**| hit.cha.ze.Ku<small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and become  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H1961\|הְי֤וּ]]&#8207; </big>**| vi<small><sup>[[HC]]</sup></small> h.Yu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

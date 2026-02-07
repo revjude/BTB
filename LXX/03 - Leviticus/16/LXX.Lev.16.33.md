@@ -1,10 +1,7 @@
 **LXX Leviticus 16:33** 
 <small><sub>**LXX:**</sub></small>
 And he shall atone the holy of the holy; and the tent of the testimony and the altar he shall atone; and for the priests and for all the congregation he shall atone. 
-<small><sub>**KJV:**</sub></small>
-And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation.
-<small><sub>**BSB:**</sub></small>
-and make atonement for the Most Holy Place, the Tent of Meeting, and the altar, and for the priests and all the people of the assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.32|<< Leviticus 16:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.34|Leviticus 16:34 >>]]</td></tr></table>
 
 | Translation | Greek |

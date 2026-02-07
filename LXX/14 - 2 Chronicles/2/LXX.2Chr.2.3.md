@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:3** 
 <small><sub>**LXX:**</sub></small>
 And Solomon sent to Hiram king of Tyre, saying, As you did with David  my father, and sent to him cedars  to build for himself a house  to dwell in it, 
-<small><sub>**KJV:**</sub></small>
-And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, [even so deal with me].
-<small><sub>**BSB:**</sub></small>
-Then Solomon sent word to Hiram king of Tyre: “Do for me as you did for my father David when you sent him cedars to build himself a house to live in.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.2|<< 2 Chronicles 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.4|2 Chronicles 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Nehemiah 7:70** (7:69)
+**Nehemiah 7:70**<big><big>[[Neh.7.70 Offerings by the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests’ garments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some of the heads of the families contributed to the project. The governor gave 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.70|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.69|<< Nehemiah 7:69]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.71|Nehemiah 7:71 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of [the] end of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7117\|קְצָת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi<small><sup>[[HR]]</sup></small> k.Tzat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] leaders of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֣י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

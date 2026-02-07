@@ -1,12 +1,12 @@
-**John 1:40
-**<small><sub>**KJV:**</sub></small>
+**John 1:40**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 One of the two which heard John [speak], and followed him, was Andrew, Simon Peter’s brother.
 <small><sub>**BSB:**</sub></small>
 Andrew, Simon Peter’s brother, was one of the two who heard John’s testimony and followed Jesus.
 <small><sub>**Literal:**</sub></small>
 Was Andrew the brother of Simon Peter one of the two which having heard from John and having followed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.39|<< John 1:39]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.41|John 1:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Andrew |**<big>[[G0406\|Ἀνδρέας]]</big>**  |Andreas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Revelation 17:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:10**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there are seven kings: five are fallen, and one is, [and] the other is not yet come; and when he cometh, he must continue a short space.
 <small><sub>**BSB:**</sub></small>
 There are also seven kings. Five have fallen, one is, and the other has not yet come. But when he does come, he must remain for only a little while.
 <small><sub>**Literal:**</sub></small>
 The five are fallen, and the one is, the other not yet has come; and when he may have come, a little while him it behooves to remain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.9|<< Revelation 17:9]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.11|Revelation 17:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | five |**<big>[[G4002\|πέντε]]</big>**  |pente <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

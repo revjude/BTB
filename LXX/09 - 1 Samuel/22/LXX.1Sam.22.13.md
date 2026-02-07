@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:13** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to him, Why did you agree against me, you and the son of Jesse,  for you to give him bread, and a broadsword, and should ask on his account  of God,  to put him against me for an enemy, as \[he is\]  this day? 
-<small><sub>**KJV:**</sub></small>
-And Saul said unto him, Why have ye conspired against me, thou and the son of Jesse, in that thou hast given him bread, and a sword, and hast inquired of God for him, that he should rise against me, to lie in wait, as at this day?
-<small><sub>**BSB:**</sub></small>
-And Saul asked him, “Why have you and the son of Jesse conspired against me? You gave him bread and a sword and inquired of God for him so that he could rise up against me to lie in wait, as he is doing today.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.12|<< 1 Samuel 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.14|1 Samuel 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

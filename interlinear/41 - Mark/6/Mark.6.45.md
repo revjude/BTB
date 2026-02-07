@@ -1,12 +1,12 @@
-**Mark 6:45
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:45**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.
 <small><sub>**BSB:**</sub></small>
 Immediately Jesus made His disciples get into the boat and go on ahead of Him to Bethsaida, while He dismissed the crowd.
 <small><sub>**Literal:**</sub></small>
 And immediately He compelled the disciples of Him to climb into the boat and to go before to the other side to Bethsaida until He himself dismisses the crowd.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.44|<< Mark 6:44]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.46|Mark 6:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

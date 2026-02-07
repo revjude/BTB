@@ -1,4 +1,4 @@
-**2 Kings 13:18** 
+**2 Kings 13:18**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Take the arrows. And he took [them]. And he said unto the king of Israel, Smite upon the ground. And he smote thrice, and stayed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Elisha said, “Take the arrows!” So he took them, and Elisha said to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.17|<< 2 Kings 13:17]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.19|2 Kings 13:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֛אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take  |**<big>&#8207;[[H3947G\|קַ֥ח]]&#8207; </big>**| kach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

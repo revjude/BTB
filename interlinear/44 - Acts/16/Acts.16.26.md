@@ -1,12 +1,12 @@
-**Acts 16:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:26**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed.
 <small><sub>**BSB:**</sub></small>
 Suddenly a strong earthquake shook the foundations of the prison. At once all the doors flew open and everyone’s chains came loose.
 <small><sub>**Literal:**</sub></small>
 Suddenly then earthquake there was a great so that shaking the foundations of the prison house; were opened then immediately the doors all, and of all the chains were loosed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.25|<< Acts 16:25]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.27|Acts 16:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Suddenly |**<big>[[G0869\|ἄφνω]]</big>**  |aphnō <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

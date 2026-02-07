@@ -1,4 +1,4 @@
-**Psalms 127:3** 
+**Psalms 127:3**<big><big>[[Ps.127.1 Children Are a Heritage from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, children [are] an heritage of the LORD: [and] the fruit of the womb [is his] reward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Children are indeed a heritage from the LORD, and the fruit of the womb is His r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.127.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.127.2|<< Psalms 127:2]]</td><td align="center" style="border:none;">[[Ps.127|Psalms 127]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127.4|Psalms 127:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] inheritance of  |**<big>&#8207;[[H5159\|נַחֲלַ֣ת]]&#8207; </big>**| na.cha.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

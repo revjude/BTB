@@ -1,4 +1,4 @@
-**2 Samuel 8:14** 
+**2 Samuel 8:14**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David’s servants. And the LORD preserved David whithersoever he went.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He placed garrisons throughout Edom, and all the Edomites were subject to David.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.13|<< 2 Samuel 8:13]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.15|2 Samuel 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760H\|יָּ֨שֶׂם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Edom  |**<big>&#8207;[[H9003\|בֶּ]]&#8207;&#8207;[[H0123G\|אֱד֜וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

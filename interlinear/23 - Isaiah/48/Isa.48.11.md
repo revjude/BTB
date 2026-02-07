@@ -1,4 +1,4 @@
-**Isaiah 48:11** 
+**Isaiah 48:11**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For mine own sake, [even] for mine own sake, will I do [it]: for how should [my name] be polluted? and I will not give my glory unto another.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For My own sake, My very own sake, I will act; for how can I let Myself be defam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.10|<< Isaiah 48:10]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.12|Isaiah 48:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for own sake my  |**<big>&#8207;[[H4616\|לְמַעֲנִ֧]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| le.ma.'a.<small><sup>[[HTc]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for own sake my  |**<big>&#8207;[[H4616\|לְמַעֲנִ֛]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| le.ma.'a.<small><sup>[[HTc]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 19:16** 
+**Deuteronomy 19:16**<big><big>[[Deut.19.15 The Testimony of Two or Three Witnesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a false witness rise up against any man to testify against him [that which is] wrong;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a false witness testifies against someone, accusing him of a crime,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.15|<< Deuteronomy 19:15]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.17|Deuteronomy 19:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will stand  |**<big>&#8207;[[H6965B\|יָק֥וּם]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

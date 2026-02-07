@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 8:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons \[to\] Bela were -- Addar, and Gera, and Abihud, 
-<small><sub>**KJV:**</sub></small>
-And the sons of Bela were, Addar, and Gera, and Abihud,
-<small><sub>**BSB:**</sub></small>
-The sons of Bela: Addar, Gera, Abihud,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.2|<< 1 Chronicles 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.4|1 Chronicles 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

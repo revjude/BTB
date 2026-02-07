@@ -1,4 +1,4 @@
-**Zechariah 11:1** 
+**Zechariah 11:1**<big><big>[[Zech.11.1 The Doomed Flock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Open thy doors, O Lebanon, that the fire may devour thy cedars.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Open your doors, O Lebanon, that the fire may consume your cedars!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.12|<< Zechariah 10:12]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.2|Zechariah 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | open  |**<big>&#8207;[[H6605A\|פְּתַ֥ח]]&#8207; </big>**| pe.Tach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lebanon  |**<big>&#8207;[[H3844G\|לְבָנ֖וֹן]]&#8207; </big>**| le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

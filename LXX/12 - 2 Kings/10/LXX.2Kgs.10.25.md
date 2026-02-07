@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:25** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as he completed offering the whole burnt-offering, that Jehu said to the bodyguards and to the tribunes, In entering, strike them! Let not come forth from them a man! And the bodyguards and the tribunes struck them by \[the\] mouth of \[the\] broadsword; and they tossed \[the bodies\], and went unto \[the\] city of \[the\] house  of Baal. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in, [and] slay them; let none come forth. And they smote them with the edge of the sword; and the guard and the captains cast [them] out, and went to the city of the house of Baal.
-<small><sub>**BSB:**</sub></small>
-When he had finished making the burnt offering, Jehu said to the guards and officers, “Go in and kill them. Do not let anyone out.” So the guards and officers put them to the sword, threw the bodies out, and went into the inner room of the temple of Baal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.24|<< 2 Kings 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.26|2 Kings 10:26 >>]]</td></tr></table>
 
 | Translation | Greek |

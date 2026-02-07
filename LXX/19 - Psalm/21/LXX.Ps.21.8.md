@@ -1,10 +1,7 @@
 **LXX Psalm 21:8** 
 <small><sub>**LXX:**</sub></small>
 your hand be found by all  your enemies;  may your right \[hand\] be found \[by\] all the ones detesting you. 
-<small><sub>**KJV:**</sub></small>
-Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.
-<small><sub>**BSB:**</sub></small>
-Your hand will apprehend all Your enemies; Your right hand will seize those who hate You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.7|<< Psalm 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.9|Psalm 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

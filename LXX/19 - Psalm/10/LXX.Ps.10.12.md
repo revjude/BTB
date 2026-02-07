@@ -1,10 +1,7 @@
 **LXX Psalm 10:12** 
 <small><sub>**LXX:**</sub></small>
 Rise up, O <span class="smallcaps">lord</span>  my God! Raise up high  your hand to not forget  your needy unto \[the\] end! 
-<small><sub>**KJV:**</sub></small>
-Arise, O LORD; O God, lift up thine hand: forget not the humble.
-<small><sub>**BSB:**</sub></small>
-Arise, O LORD! Lift up Your hand, O God! Do not forget the helpless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.11|<< Psalm 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.13|Psalm 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

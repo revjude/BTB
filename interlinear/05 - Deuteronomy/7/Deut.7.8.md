@@ -1,4 +1,4 @@
-**Deuteronomy 7:8** 
+**Deuteronomy 7:8**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But because the LORD loved you, and because he would keep the oath which he had sworn unto your fathers, hath the LORD brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But because the LORD loved you and kept the oath He swore to your fathers, He br
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.7|<< Deuteronomy 7:7]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.9|Deuteronomy 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] love of  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0160\|אַהֲבַ֨ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.ha.Vat<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

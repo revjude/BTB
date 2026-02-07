@@ -1,10 +1,7 @@
 **LXX Psalm 66:8** 
 <small><sub>**LXX:**</sub></small>
 Bless, O nations,  our God! And the voice of his praise to be heard! 
-<small><sub>**KJV:**</sub></small>
-O bless our God, ye people, and make the voice of his praise to be heard:
-<small><sub>**BSB:**</sub></small>
-Bless our God, O peoples; let the sound of His praise be heard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.7|<< Psalm 66:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.9|Psalm 66:9 >>]]</td></tr></table>
 
 | Translation | Greek |

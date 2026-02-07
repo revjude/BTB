@@ -1,12 +1,12 @@
-**Romans 3:30
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:30**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Seeing [it is] one God, which shall justify the circumcision by faith, and uncircumcision through faith.
 <small><sub>**BSB:**</sub></small>
 since there is only one God, who will justify the circumcised by faith and the uncircumcised through that same faith.
 <small><sub>**Literal:**</sub></small>
 if indeed One <the> God [is] who will justify [the] circumcision by faith and [the] uncircumcision through the [same] faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.29|<< Romans 3:29]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.31|Romans 3:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if indeed [^1] |**<big>[[G1487G\|εἴπερ]]</big>**  |eiper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | One |**<big>[[G1520\|εἷς]]</big>**  |heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

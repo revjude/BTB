@@ -1,12 +1,12 @@
-**Colossians 2:2
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:2**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;
 <small><sub>**BSB:**</sub></small>
 that they may be encouraged in heart, knit together in love, and filled with the full riches of complete understanding, so that they may know the mystery of God, namely Christ,
 <small><sub>**Literal:**</sub></small>
 that may be encouraged the hearts of them being knit together in love and to all the richness of the full assurance <the> of understanding to [the] knowledge of the mystery <the> of God and Father and the Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.1|<< Colossians 2:1]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.3|Colossians 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may be encouraged |**<big>[[G3870\|παρακληθῶσιν]]</big>**  |paraklēthōsin <small><sup>[[V-APS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 11:12** 
 <small><sub>**LXX:**</sub></small>
 And the people said to Samuel, Who \[is\] the one saying, Saul shall not reign over us? Deliver up the men! and we will kill them. 
-<small><sub>**KJV:**</sub></small>
-And the people said unto Samuel, Who [is] he that said, Shall Saul reign over us? bring the men, that we may put them to death.
-<small><sub>**BSB:**</sub></small>
-Then the people said to Samuel, “Who said that Saul should not reign over us? Bring those men here so we can kill them!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.11|<< 1 Samuel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.13|1 Samuel 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

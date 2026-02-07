@@ -1,4 +1,4 @@
-**Proverbs 8:2** 
+**Proverbs 8:2**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She standeth in the top of high places, by the way in the places of the paths.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the heights overlooking the road, at the crossroads she takes her stand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.1|<< Proverbs 8:1]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.3|Proverbs 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at [the] top of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7218I\|רֹאשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> rosh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heights  |**<big>&#8207;[[H4791\|מְרוֹמִ֥ים]]&#8207; </big>**| me.ro.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

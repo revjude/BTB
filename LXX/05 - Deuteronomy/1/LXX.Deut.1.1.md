@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 These are the words which Moses spoke to all Israel on the other side of the Jordan, in the wilderness towards \[the\] west, neighboring the red sea, between Paran Tophel and Laban, and Canyons, and Place Abounding in Gold. 
-<small><sub>**KJV:**</sub></small>
-These [be] the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red [sea], between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
-<small><sub>**BSB:**</sub></small>
-These are the words that Moses spoke to all Israel in the wilderness east of the Jordan—in the Arabah opposite Suph—between Paran and Tophel, Laban, Hazeroth, and Dizahab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.13|<< Numbers 36:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.2|Deuteronomy 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Matthew 24:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:35**<big><big>[[Matt.24.32 The Lesson of the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Heaven and earth shall pass away, but my words shall not pass away.
 <small><sub>**BSB:**</sub></small>
 Heaven and earth will pass away, but My words will never pass away.
@@ -10,7 +10,7 @@ The heaven and the earth will pass away, <the> but the words of Mine certainly n
 > $\quad$ alluding to: [[LXX.Isa.51.16|Isa 51:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | heaven |**<big>[[G3772\|οὐρανὸς]]</big>**  |ouranos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

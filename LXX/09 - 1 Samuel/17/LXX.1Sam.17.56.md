@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:56** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king said, You ask whose son  this young man \[is\]? 
-<small><sub>**KJV:**</sub></small>
-And the king said, Inquire thou whose son the stripling [is].
-<small><sub>**BSB:**</sub></small>
-“Find out whose son this young man is!” said the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.55|<< 1 Samuel 17:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.57|1 Samuel 17:57 >>]]</td></tr></table>
 
 | Translation | Greek |

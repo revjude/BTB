@@ -1,4 +1,4 @@
-**Joel 2:29** (3:2)
+**Joel 2:29**<big><big>[[Joel.2.28 I Will Pour Out My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And also upon the servants and upon the handmaids in those days will I pour out my spirit.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Even on My menservants and maidservants, I will pour out My Spirit in those days
 > $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

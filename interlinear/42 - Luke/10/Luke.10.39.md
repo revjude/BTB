@@ -1,12 +1,12 @@
-**Luke 10:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:39**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she had a sister called Mary, which also sat at Jesus’ feet, and heard his word.
 <small><sub>**BSB:**</sub></small>
 She had a sister named Mary, who sat at the Lord’s feet listening to His message.
 <small><sub>**Literal:**</sub></small>
 And she was a sister being called Mary. She also having sat down at the feet of the Lord was listening to the word of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.38|<< Luke 10:38]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.40|Luke 10:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | she |**<big>[[G3592\|τῇδε]]</big>**  |tēade <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

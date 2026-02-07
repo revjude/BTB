@@ -1,4 +1,4 @@
-**Psalms 9:2** (9:3)
+**Psalms 9:2**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will be glad and rejoice in You; I will sing praise to Your name, O Most High.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.1|<< Psalms 9:1]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.3|Psalms 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will rejoice  |**<big>&#8207;[[H8055\|אֶשְׂמְחָ֣ה]]&#8207; </big>**| 'es.me.Chah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will exult  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5970\|אֶעֶלְצָ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.'el.Tzah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

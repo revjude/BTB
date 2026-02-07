@@ -1,4 +1,4 @@
-**Numbers 11:4** 
+**Numbers 11:4**<big><big>[[Num.11.1 The Complaints of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the mixt multitude that [was] among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Meanwhile, the rabble among them had a strong craving for other food, and again 
 > $\quad$ referenced by: [[1Cor.10.3|1Cor 10:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the rabble  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0628\|אסַפְסֻף֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> saf.Suf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

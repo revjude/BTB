@@ -1,4 +1,4 @@
-**Lamentations 4:16** 
+**Lamentations 4:16**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The presence of the LORD has scattered them; He regards them no more. The priest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.15|<< Lamentations 4:15]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.17|Lamentations 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] presence of  |**<big>&#8207;[[H6440L\|פְּנֵ֤י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

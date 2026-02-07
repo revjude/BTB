@@ -1,10 +1,7 @@
 **LXX Isaiah 12:4** 
 <small><sub>**LXX:**</sub></small>
 And you shall say in  that day, Sing praise to \[the\] <span class="smallcaps">lord</span>! Yell out  his name! Announce among the nations  his honorable \[deeds\]! Mention that his name was exalted! 
-<small><sub>**KJV:**</sub></small>
-And in that day shall ye say, Praise the LORD, call upon his name, declare his doings among the people, make mention that his name is exalted.
-<small><sub>**BSB:**</sub></small>
-and on that day you will say: “Give praise to the LORD; proclaim His name! Make His works known among the peoples; declare that His name is exalted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.12.3|<< Isaiah 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.12.5|Isaiah 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 11:22** 
+**1 Kings 11:22**<big><big>[[1Kgs.11.14 Hadad’s Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit let me go in any wise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Pharaoh asked him, “What have you lacked here with me that you suddenly wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.21|<< 1 Kings 11:21]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.23|1 Kings 11:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֧אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H9005\|ל֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

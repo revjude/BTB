@@ -1,12 +1,12 @@
-**Mark 7:35
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:35**<big><big>[[Mark.7.31 The Deaf and Mute Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain.
 <small><sub>**BSB:**</sub></small>
 Immediately the man’s ears were opened and his tongue was released, and he began to speak plainly.
 <small><sub>**Literal:**</sub></small>
 And immediately were opened his <the> ears, and was loosed the band of the tongue of him, and he was speaking plainly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.34|<< Mark 7:34]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.36|Mark 7:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA27+TR+Byz">NK</abbr> | |

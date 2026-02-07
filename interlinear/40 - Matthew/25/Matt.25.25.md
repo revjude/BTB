@@ -1,12 +1,12 @@
-**Matthew 25:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:25**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I was afraid, and went and hid thy talent in the earth: lo, [there] thou hast [that is] thine.
 <small><sub>**BSB:**</sub></small>
 So I was afraid and went out and hid your talent in the ground. See, you have what belongs to you.’
 <small><sub>**Literal:**</sub></small>
 And having been afraid having gone away I hid the talent of you in the ground; Behold you have what [is] yours.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.24|<< Matthew 25:24]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.26|Matthew 25:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having been afraid |**<big>[[G5399\|φοβηθεὶς]]</big>**  |phobētheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

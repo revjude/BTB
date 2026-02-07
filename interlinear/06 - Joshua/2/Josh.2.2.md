@@ -1,4 +1,4 @@
-**Joshua 2:2** 
+**Joshua 2:2**<big><big>[[Josh.2.1 Rahab Welcomes the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And it was reported to the king of Jericho: “Behold, some men of Israel have c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.1|<< Joshua 2:1]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.3|Joshua 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֵּ֣אָמַ֔ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.'a.Mar<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] king of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4428G\|מֶ֥לֶךְ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 91:2** 
 <small><sub>**LXX:**</sub></small>
 He shall say to the <span class="smallcaps">lord</span>, You are my shielder, and my refuge;  my God, and I will hope upon him. 
-<small><sub>**KJV:**</sub></small>
-I will say of the LORD, [He is] my refuge and my fortress: my God; in him will I trust.
-<small><sub>**BSB:**</sub></small>
-I will say to the LORD, “You are my refuge and my fortress, my God, in whom I trust.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.1|<< Psalm 91:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.3|Psalm 91:3 >>]]</td></tr></table>
 
 | Translation | Greek |

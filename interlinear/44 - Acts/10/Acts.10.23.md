@@ -1,12 +1,12 @@
-**Acts 10:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:23**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then called he them in, and lodged [them]. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.
 <small><sub>**BSB:**</sub></small>
 So Peter invited them in as his guests. And the next day he got ready and went with them, accompanied by some of the brothers from Joppa.
 <small><sub>**Literal:**</sub></small>
 Having called in therefore them he lodged [them]. On the now next day having risen up <the> Peter he went forth with them, and some of the brothers those from <the> Joppa went with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.22|<< Acts 10:22]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.24|Acts 10:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having called in |**<big>[[G1528\|εἰσκαλεσάμενος]]</big>**  |eiskalesamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

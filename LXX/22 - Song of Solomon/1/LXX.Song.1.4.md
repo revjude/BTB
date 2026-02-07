@@ -1,10 +1,7 @@
 **LXX Song of Solomon 1:4** 
 <small><sub>**LXX:**</sub></small>
 They drew me; we will run after you for \[the\] scent of your perfumes. The king carried me into  his inner chamber. We should exult and be glad in you. We shall love your breasts over wine. Uprightness loved you. 
-<small><sub>**KJV:**</sub></small>
-Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.
-<small><sub>**BSB:**</sub></small>
-Take me away with you—let us hurry! May the king bring me to his chambers. We will rejoice and delight in you; we will praise your love more than wine. It is only right that they adore you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.3|<< Song of Solomon 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.5|Song of Solomon 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

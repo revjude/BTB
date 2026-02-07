@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:18** 
 <small><sub>**LXX:**</sub></small>
 And Absalom \[while\] still living took and set for himself a monument in the valley of the king. For he said, There is not to me a son calling to mind  my name. And he called the monument by  his name. And he named it Hand of Absalom, until  this day. 
-<small><sub>**KJV:**</sub></small>
-Now Absalom in his lifetime had taken and reared up for himself a pillar, which [is] in the king’s dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom’s place.
-<small><sub>**BSB:**</sub></small>
-During his lifetime, Absalom had set up for himself a pillar in the King’s Valley, for he had said, “I have no son to preserve the memory of my name.” So he gave the pillar his name, and to this day it is called Absalom’s Monument.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.17|<< 2 Samuel 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.19|2 Samuel 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 7:6** 
+**Ezekiel 7:6**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An end is come, the end is come: it watcheth for thee; behold, it is come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The end has come! The end has come! It has roused itself against you. Behold, it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.5|<< Ezekiel 7:5]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.7|Ezekiel 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an end  |**<big>&#8207;[[H7093\|קֵ֣ץ]]&#8207; </big>**| ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has come  |**<big>&#8207;[[H0935G\|בָּ֔א]]&#8207; </big>**| Ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

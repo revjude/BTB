@@ -1,10 +1,7 @@
 **LXX Numbers 15:14** 
 <small><sub>**LXX:**</sub></small>
 And if a foreigner among you should unite in  your land, or who ever was born to you among  your generations, and he shall offer a yield \[offering\] scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>, in which manner you do yourselves -- so the congregation offer \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And if a stranger sojourn with you, or whosoever [be] among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do.
-<small><sub>**BSB:**</sub></small>
-And for the generations to come, if a foreigner residing with you or someone else among you wants to prepare a food offering as a pleasing aroma to the LORD, he is to do exactly as you do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.13|<< Numbers 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.15|Numbers 15:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 47:25** 
 <small><sub>**LXX:**</sub></small>
 And they said, You have delivered us; we found favor before  our master, and we will be servants \[to\] Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh’s servants.
-<small><sub>**BSB:**</sub></small>
-“You have saved our lives,” they said. “We have found favor in our lord’s eyes, and we will be Pharaoh’s servants.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.24|<< Genesis 47:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.26|Genesis 47:26 >>]]</td></tr></table>
 
 | Translation | Greek |

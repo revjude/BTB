@@ -1,4 +1,4 @@
-**Jeremiah 51:51** 
+**Jeremiah 51:51**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We are confounded, because we have heard reproach: shame hath covered our faces: for strangers are come into the sanctuaries of the LORD’S house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We are confounded, because we have heard reproach: shame hath covered our faces:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.50|<< Jeremiah 51:50]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.52|Jeremiah 51:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we are ashamed  |**<big>&#8207;[[H0954\|בֹּ֚שְׁנוּ]]&#8207; </big>**| Bo.she.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

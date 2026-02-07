@@ -1,12 +1,12 @@
-**James 1:6
-**<small><sub>**KJV:**</sub></small>
+**James 1:6**<big><big>[[Jas.1.2 Rejoicing in Trials|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
 <small><sub>**BSB:**</sub></small>
 But he must ask in faith, without doubting, because he who doubts is like a wave of the sea, blown and tossed by the wind.
 <small><sub>**Literal:**</sub></small>
 he should ask however in faith nothing doubting; The [one] for doubting he has been likened to a wave of [the] sea being blown by the wind and being tossed by the wind.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.5|<< James 1:5]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.7|James 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he should ask |**<big>[[G0154\|αἰτείτω]]</big>**  |aiteitō <small><sup>[[V-PAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

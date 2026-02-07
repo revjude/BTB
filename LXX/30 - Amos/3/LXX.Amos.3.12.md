@@ -1,10 +1,7 @@
 **LXX Amos 3:12** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, In which manner the shepherd should pull out from the mouth of the lion two legs or a lobe of an ear, so the sons of Israel be pulled out, the ones dwelling in Samaria before a \[foreign\] tribe, and in Damascus. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus [in] a couch.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “As the shepherd snatches from the mouth of the lion two legs or a piece of an ear, so the Israelites dwelling in Samaria will be rescued having just the corner of a bed or the cushion of a couch.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.11|<< Amos 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.13|Amos 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

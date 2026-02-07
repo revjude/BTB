@@ -1,12 +1,12 @@
-**Acts 10:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:25**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped [him].
 <small><sub>**BSB:**</sub></small>
 As Peter was about to enter, Cornelius met him and fell at his feet to worship him.
 <small><sub>**Literal:**</sub></small>
 as then was <the> entering <the> Peter, having met with him <the> Cornelius having fallen at the feet worshiped [him].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.24|<< Acts 10:24]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.26|Acts 10:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

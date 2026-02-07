@@ -1,12 +1,12 @@
-**Mark 8:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:31**<big><big>[[Mark.8.31 Christ’s Passion Foretold|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and [of] the chief priests, and scribes, and be killed, and after three days rise again.
 <small><sub>**BSB:**</sub></small>
 Then He began to teach them that the Son of Man must suffer many things and be rejected by the elders, chief priests, and scribes, and that He must be killed and after three days rise again.
 <small><sub>**Literal:**</sub></small>
 And He began to teach them that it is necessary for the Son <the> of Man many things to suffer and to be rejected by the elders and the chief priests and the scribes and to be killed and after three days to rise [again];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.30|<< Mark 8:30]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.32|Mark 8:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He began |**<big>[[G0757\|ἤρξατο]]</big>**  |ērxato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

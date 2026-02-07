@@ -1,4 +1,4 @@
-**2 Chronicles 11:1** 
+**2 Chronicles 11:1**<big><big>[[2Chr.11.1 Shemaiah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen [men], which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Rehoboam arrived in Jerusalem, he mobilized the house of Judah and Benjamin
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.19|<< 2 Chronicles 10:19]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.2|2 Chronicles 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rehoboam  |**<big>&#8207;[[H7346\|רְחַבְעָם֮]]&#8207; </big>**| re.chav.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

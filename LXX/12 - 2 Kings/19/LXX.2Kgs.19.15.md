@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:15** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah prayed to \[the\] <span class="smallcaps">lord</span>, saying, O Lord  God of Israel, the one sitting upon the cherubim, you are  God alone among all the kingdoms of the earth. You made the heaven and the earth. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah prayed before the LORD, and said, O LORD God of Israel, which dwellest [between] the cherubims, thou art the God, [even] thou alone, of all the kingdoms of the earth; thou hast made heaven and earth.
-<small><sub>**BSB:**</sub></small>
-And Hezekiah prayed before the LORD: “O LORD, God of Israel, enthroned between the cherubim, You alone are God over all the kingdoms of the earth. You made the heavens and the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.14|<< 2 Kings 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.16|2 Kings 19:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Kings 19:15** is...

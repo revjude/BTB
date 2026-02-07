@@ -1,10 +1,7 @@
 **LXX Judges 15:18** 
 <small><sub>**LXX:**</sub></small>
 And he thirsted exceedingly, and he yelled to \[the\] <span class="smallcaps">lord</span>, and said, You gave by \[the\] hand  of your servant  this great deliverance, and now shall I die in thirst, and fall into \[the\] hand of the uncircumcised? 
-<small><sub>**KJV:**</sub></small>
-And he was sore athirst, and called on the LORD, and said, Thou hast given this great deliverance into the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised?
-<small><sub>**BSB:**</sub></small>
-And being very thirsty, Samson cried out to the LORD, “You have accomplished this great deliverance through Your servant. Must I now die of thirst and fall into the hands of the uncircumcised?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.17|<< Judges 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.19|Judges 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

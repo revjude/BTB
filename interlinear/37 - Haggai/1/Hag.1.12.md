@@ -1,4 +1,4 @@
-**Haggai 1:12** 
+**Haggai 1:12**<big><big>[[Hag.1.12 The People Obey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him, and the people did fear before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Zerubbabel son of Shealtiel and Joshua son of Jehozadak, the high priest, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.11|<< Haggai 1:11]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.13|Haggai 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he listened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085H\|יִּשְׁמַ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zerubbabel  |**<big>&#8207;[[H2216\|זְרֻבָּבֶ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ze.ru.ba.Vel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

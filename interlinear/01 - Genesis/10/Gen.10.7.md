@@ -1,4 +1,4 @@
-**Genesis 10:7** 
+**Genesis 10:7**<big><big>[[Gen.10.6 The Hamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. And the sons of Ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.6|<< Genesis 10:6]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.8|Genesis 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Cush  |**<big>&#8207;[[H3568G\|כ֔וּשׁ]]&#8207; </big>**| Khush<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

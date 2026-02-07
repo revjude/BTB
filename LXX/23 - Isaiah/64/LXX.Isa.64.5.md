@@ -1,10 +1,7 @@
 **LXX Isaiah 64:5** 
 <small><sub>**LXX:**</sub></small>
 For he shall meet with the ones doing  justice, and  your ways shall be remembered. Behold, you have been provoked to anger, and we sinned; on account of this we were wandered. 
-<small><sub>**KJV:**</sub></small>
-Thou meetest him that rejoiceth and worketh righteousness, [those that] remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.
-<small><sub>**BSB:**</sub></small>
-You welcome those who gladly do right, who remember Your ways. Surely You were angry, for we sinned. How can we be saved if we remain in our sins?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.64.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.4|<< Isaiah 64:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.6|Isaiah 64:6 >>]]</td></tr></table>
 
 | Translation | Greek |

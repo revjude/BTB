@@ -1,10 +1,7 @@
 **LXX Numbers 14:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] other said to the other, We should appoint a chief, and we should return unto Egypt. 
-<small><sub>**KJV:**</sub></small>
-And they said one to another, Let us make a captain, and let us return into Egypt.
-<small><sub>**BSB:**</sub></small>
-So they said to one another, “Let us appoint a leader and return to Egypt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.3|<< Numbers 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.5|Numbers 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:17** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[is\] your land of which  your king \[is\] a son of free \[nobles\], and  your rulers at a \[proper\] time shall eat in force, and shall not be ashamed. 
-<small><sub>**KJV:**</sub></small>
-Blessed [art] thou, O land, when thy king [is] the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!
-<small><sub>**BSB:**</sub></small>
-Blessed are you, O land whose king is a son of nobles, and whose princes feast at the proper time—for strength and not for drunkenness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.16|<< Ecclesiastes 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.18|Ecclesiastes 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:13** 
 <small><sub>**LXX:**</sub></small>
 And  king Solomon gave to the queen of Sheba all as much as she wanted, and as much as she asked, outside of all which was given to her through \[the\] hand  of king Solomon. And she returned and came unto  her land, she and  her servants. 
-<small><sub>**KJV:**</sub></small>
-And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside [that] which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants.
-<small><sub>**BSB:**</sub></small>
-King Solomon gave the queen of Sheba all she desired—whatever she asked—besides what he had given her out of his royal bounty. Then she left and returned to her own country, along with her servants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.12|<< 1 Kings 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.14|1 Kings 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

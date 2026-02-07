@@ -1,10 +1,7 @@
 **LXX Isaiah 14:32** 
 <small><sub>**LXX:**</sub></small>
 And what \[the\] kings of \[the\] nations answer? For \[the\] <span class="smallcaps">lord</span> laid a foundation in Zion, and through him many peoples shall be delivered. 
-<small><sub>**KJV:**</sub></small>
-What shall [one] then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it.
-<small><sub>**BSB:**</sub></small>
-What answer will be given to the envoys of that nation? “The LORD has founded Zion, where His afflicted people will find refuge.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.31|<< Isaiah 14:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.1|Isaiah 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

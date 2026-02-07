@@ -1,4 +1,4 @@
-**Jeremiah 48:18** 
+**Jeremiah 48:18**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou daughter that dost inhabit Dibon, come down from [thy] glory, and sit in thirst; for the spoiler of Moab shall come upon thee, [and] he shall destroy thy strong holds.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come down from your glory; sit on parched ground, O daughter dwelling in Dibon, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.17|<< Jeremiah 48:17]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.19|Jeremiah 48:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come down  |**<big>&#8207;[[H3381\|רְדִ֤י]]&#8207; </big>**| re.Di<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from honor  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3519\|כָּבוֹד֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

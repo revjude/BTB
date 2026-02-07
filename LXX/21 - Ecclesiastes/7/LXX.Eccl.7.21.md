@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:21** 
 <small><sub>**LXX:**</sub></small>
 And indeed unto all \[the\] words which they shall speak, you should not put them to your heart, so that you should not hear  your servant cursing you. 
-<small><sub>**KJV:**</sub></small>
-Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:
-<small><sub>**BSB:**</sub></small>
-Do not pay attention to every word that is spoken, or you may hear your servant cursing you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.20|<< Ecclesiastes 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.22|Ecclesiastes 7:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:17** 
 <small><sub>**LXX:**</sub></small>
 And he drew near to her. And the woman said, Are you Joab? And he said, I \[am\]. And she said to him, Hear the words  of your maidservant! And he said, I am listening. 
-<small><sub>**KJV:**</sub></small>
-And when he was come near unto her, the woman said, [Art] thou Joab? And he answered, I [am he]. Then she said unto him, Hear the words of thine handmaid. And he answered, I do hear.
-<small><sub>**BSB:**</sub></small>
-When he had come near to her, the woman asked, “Are you Joab?” “I am,” he replied. “Listen to the words of your servant,” she said. “I am listening,” he answered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.16|<< 2 Samuel 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.18|2 Samuel 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

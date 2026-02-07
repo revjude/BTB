@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:7** 
 <small><sub>**LXX:**</sub></small>
 A cup of gold \[is\] Babylon in \[the\] hand of \[the\] <span class="smallcaps">lord</span>, intoxicating all the earth; \[the\] nations drank from her wine; on account of this they are shaken. 
-<small><sub>**KJV:**</sub></small>
-Babylon [hath been] a golden cup in the LORD’S hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad.
-<small><sub>**BSB:**</sub></small>
-Babylon was a gold cup in the hand of the LORD, making the whole earth drunk. The nations drank her wine; therefore the nations have gone mad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.6|<< Jeremiah 51:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.8|Jeremiah 51:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 51:7** is...

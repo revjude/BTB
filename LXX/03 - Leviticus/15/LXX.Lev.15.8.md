@@ -1,10 +1,7 @@
 **LXX Leviticus 15:8** 
 <small><sub>**LXX:**</sub></small>
 And if the one having a seminal emission should salivate upon \[one that is\] clean, \[that person\] shall wash  his garments, and shall bathe in water, and he will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And if he that hath the issue spit upon him that is clean; then he shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-If the man with the discharge spits on one who is clean, that person must wash his clothes and bathe with water, and he will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.7|<< Leviticus 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.9|Leviticus 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

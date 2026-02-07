@@ -1,4 +1,4 @@
-**1 Kings 1:23** 
+**1 Kings 1:23**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they told the king, saying, Behold Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the king was told, “Nathan the prophet is here.” And Nathan went in and b
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.22|<< 1 Kings 1:22]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.24|1 Kings 1:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגִּ֤ידוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the king  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4428G\|מֶּ֙לֶךְ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

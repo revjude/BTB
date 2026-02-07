@@ -1,4 +1,4 @@
-**Genesis 7:7** 
+**Genesis 7:7**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Noah and his wife, with his sons and their wives, entered the ark to escape 
 > $\quad$ referenced by: [[Luke.17.27|Luke 17:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּ֣בֹא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Noah  |**<big>&#8207;[[H5146\|נֹ֗חַ]]&#8207; </big>**| No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

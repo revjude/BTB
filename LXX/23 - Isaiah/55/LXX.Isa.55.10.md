@@ -1,10 +1,7 @@
 **LXX Isaiah 55:10** 
 <small><sub>**LXX:**</sub></small>
 For as whenever the rain or snow should come down from  heaven, and in no way shall it return until whenever it should saturate the earth, and \[the earth\] should bring forth, and should sprout, and should give seed to the one sowing, and bread for food; 
-<small><sub>**KJV:**</sub></small>
-For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:
-<small><sub>**BSB:**</sub></small>
-For just as rain and snow fall from heaven and do not return without watering the earth, making it bud and sprout, and providing seed to sow and food to eat,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.55.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.9|<< Isaiah 55:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.11|Isaiah 55:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 55:10** is...

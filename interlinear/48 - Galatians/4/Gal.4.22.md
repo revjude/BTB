@@ -1,5 +1,5 @@
-**Galatians 4:22
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:22**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.
 <small><sub>**BSB:**</sub></small>
 For it is written that Abraham had two sons, one by the slave woman and the other by the free woman.
@@ -10,7 +10,7 @@ It has been written for that Abraham two sons had, one of the slave woman and on
 > $\quad$ alluding to: [[LXX.Gen.21.2|Gen 21:2]] ☩ [[LXX.Gen.21.9|Gen 21:9]] ☩ [[LXX.Gen.16.15|Gen 16:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It has been written |**<big>[[G1125\|γέγραπται]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

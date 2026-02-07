@@ -1,4 +1,4 @@
-**Jeremiah 51:11** 
+**Jeremiah 51:11**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make bright the arrows; gather the shields: the LORD hath raised up the spirit of the kings of the Medes: for his device [is] against Babylon, to destroy it; because it [is] the vengeance of the LORD, the vengeance of his temple.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sharpen the arrows! Fill the quivers! The LORD has aroused the spirit of the kin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.10|<< Jeremiah 51:10]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.12|Jeremiah 51:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sharpen  |**<big>&#8207;[[H1305\|הָבֵ֣רוּ]]&#8207; </big>**| ha.Ve.ru<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the arrows  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2671\|חִצִּים֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chi.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

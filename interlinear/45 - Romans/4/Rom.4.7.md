@@ -1,5 +1,5 @@
-**Romans 4:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:7**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Saying], Blessed [are] they whose iniquities are forgiven, and whose sins are covered.
 <small><sub>**BSB:**</sub></small>
 “Blessed are they whose lawless acts are forgiven, whose sins are covered.
@@ -10,7 +10,7 @@ Blessed [are] they of whom are forgiven the lawless deeds and of whom are covere
 > $\quad$ referencing: [[LXX.Ps.32.1|Ps 32:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [are] |**<big>[[G3107\|μακάριοι]]</big>**  |makarioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they of whom |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

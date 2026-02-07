@@ -1,10 +1,7 @@
 **LXX Exodus 33:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses face to face, as if any might speak to  his own friend. And he retired into the camp. And the attendant Joshua, the son of Nun, a young \[man\], did not go forth from out of the tent. 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
-<small><sub>**BSB:**</sub></small>
-Thus the LORD would speak to Moses face to face, as a man speaks to his friend. Then Moses would return to the camp, but his young assistant Joshua son of Nun would not leave the tent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.10|<< Exodus 33:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.12|Exodus 33:12 >>]]</td></tr></table>
 
 | Translation | Greek |

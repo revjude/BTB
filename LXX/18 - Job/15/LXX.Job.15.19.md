@@ -1,10 +1,7 @@
 **LXX Job 15:19** 
 <small><sub>**LXX:**</sub></small>
 To them alone the earth was given, and no foreigner came upon them. 
-<small><sub>**KJV:**</sub></small>
-Unto whom alone the earth was given, and no stranger passed among them.
-<small><sub>**BSB:**</sub></small>
-to whom alone the land was given when no foreigner passed among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.18|<< Job 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.20|Job 15:20 >>]]</td></tr></table>
 
 | Translation | Greek |

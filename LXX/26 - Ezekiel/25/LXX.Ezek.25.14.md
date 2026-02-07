@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:14** 
 <small><sub>**LXX:**</sub></small>
 And I will execute  my vengeance against  Edom by \[the\] hand of my people Israel. And they shall deal with  Edom according to  my anger, and according to  my rage. And they shall recognize  my vengeance, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-I will take My vengeance on Edom by the hand of My people Israel, and they will deal with Edom according to My anger and wrath. Then they will know My vengeance, declares the Lord GOD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.13|<< Ezekiel 25:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.15|Ezekiel 25:15 >>]]</td></tr></table>
 
 | Translation | Greek |

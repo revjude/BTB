@@ -1,4 +1,4 @@
-**Psalms 78:71** 
+**Psalms 78:71**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from tending the ewes He brought him to be shepherd of His people Jacob, of Isra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.71|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.70|<< Psalms 78:70]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.72|Psalms 78:72 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from after  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0310A\|אַחַ֥ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nursing [sheep]  |**<big>&#8207;[[H5763\|עָל֗וֹת]]&#8207; </big>**| a.Lot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

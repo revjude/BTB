@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Shallum son of Jabesh confederated against him, and he struck him in Keblaam, and killed him, and reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Shallum the son of Jabesh conspired against him, and smote him before the people, and slew him, and reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-Then Shallum son of Jabesh conspired against Zechariah, struck him down and killed him in front of the people, and reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.9|<< 2 Kings 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.11|2 Kings 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

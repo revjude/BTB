@@ -1,4 +1,4 @@
-**Deuteronomy 4:29** 
+**Deuteronomy 4:29**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if from thence thou shalt seek the LORD thy God, thou shalt find [him], if thou seek him with all thy heart and with all thy soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if from there you will seek the LORD your God, you will find Him if you seek
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.28|<< Deuteronomy 4:28]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.30|Deuteronomy 4:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will seek  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1245\|בִקַּשְׁתֶּ֥ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> vi.kash.Tem<small><sup>[[HVpq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֛ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

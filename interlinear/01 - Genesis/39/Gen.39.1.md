@@ -1,4 +1,4 @@
-**Genesis 39:1** 
+**Genesis 39:1**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Meanwhile, Joseph had been taken down to Egypt, where an Egyptian named Potiphar
 > $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Joseph  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3130G\|יוֹסֵ֖ף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had been brought down  |**<big>&#8207;[[H3381\|הוּרַ֣ד]]&#8207; </big>**| hu.Rad<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

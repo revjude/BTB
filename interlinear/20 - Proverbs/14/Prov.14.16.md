@@ -1,4 +1,4 @@
-**Proverbs 14:16** 
+**Proverbs 14:16**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wise [man] feareth, and departeth from evil: but the fool rageth, and is confident.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wise man fears and turns from evil, but a fool is careless and reckless.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.15|<< Proverbs 14:15]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.17|Proverbs 14:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wise [person]  |**<big>&#8207;[[H2450\|חָכָ֣ם]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] fearing  |**<big>&#8207;[[H3373\|יָ֭רֵא]]&#8207; </big>**| Ya.re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

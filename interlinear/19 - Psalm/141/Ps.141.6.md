@@ -1,4 +1,4 @@
-**Psalms 141:6** 
+**Psalms 141:6**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When their judges are overthrown in stony places, they shall hear my words; for they are sweet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When their rulers are thrown down from the cliffs, the people will listen to my 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.5|<< Psalms 141:5]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.7|Psalms 141:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have been thrown down  |**<big>&#8207;[[H8058\|נִשְׁמְט֣וּ]]&#8207; </big>**| nish.me.Tu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at [the] hands of  |**<big>&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H3027P\|ידֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| vi.<small><sup>[[HR]]</sup></small> dei-<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

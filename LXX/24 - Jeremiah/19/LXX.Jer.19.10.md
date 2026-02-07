@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall break the pitcher before \[the\] eyes of the men, of the ones going forth with you. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou break the bottle in the sight of the men that go with thee,
-<small><sub>**BSB:**</sub></small>
-Then you are to shatter the jar in the presence of the men who accompany you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.9|<< Jeremiah 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.11|Jeremiah 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

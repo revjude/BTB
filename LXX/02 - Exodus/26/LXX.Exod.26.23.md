@@ -1,10 +1,7 @@
 **LXX Exodus 26:23** 
 <small><sub>**LXX:**</sub></small>
 And two posts you shall make at the corners of the tent at the posteriors. 
-<small><sub>**KJV:**</sub></small>
-And two boards shalt thou make for the corners of the tabernacle in the two sides.
-<small><sub>**BSB:**</sub></small>
-and two frames for the two back corners of the tabernacle,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.22|<< Exodus 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.24|Exodus 26:24 >>]]</td></tr></table>
 
 | Translation | Greek |

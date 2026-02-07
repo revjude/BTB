@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:29** 
 <small><sub>**LXX:**</sub></small>
 Who shall give their heart to be thus in them, so as to fear me, and to guard  my commandments all the days, that good might be to them and to their sons through \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!
-<small><sub>**BSB:**</sub></small>
-If only they had such a heart to fear Me and keep all My commandments always, so that it might be well with them and with their children forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.28|<< Deuteronomy 5:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.30|Deuteronomy 5:30 >>]]</td></tr></table>
 
 | Translation | Greek |

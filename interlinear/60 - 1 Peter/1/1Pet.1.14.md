@@ -1,12 +1,12 @@
-**1 Peter 1:14
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:14**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As obedient children, not fashioning yourselves according to the former lusts in your ignorance:
 <small><sub>**BSB:**</sub></small>
 As obedient children, do not conform to the passions of your former ignorance.
 <small><sub>**Literal:**</sub></small>
 as children of obedience not fashioning yourselves to the former in the ignorance of you desires,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.13|<< 1 Peter 1:13]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.15|1 Peter 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | children |**<big>[[G5043\|τέκνα]]</big>**  |tekna <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

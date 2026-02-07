@@ -1,4 +1,4 @@
-**Genesis 8:22** 
+**Genesis 8:22**<big><big>[[Gen.8.20 Noah Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As long as the earth endures, seedtime and harvest, cold and heat, summer and wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.21|<< Genesis 8:21]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.1|Genesis 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | again  |**<big>&#8207;[[H5750\|עֹ֖ד]]&#8207; </big>**| 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

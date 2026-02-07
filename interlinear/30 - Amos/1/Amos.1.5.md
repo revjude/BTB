@@ -1,4 +1,4 @@
-**Amos 1:5** 
+**Amos 1:5**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will break also the bar of Damascus, and cut off the inhabitant from the plain of Aven, and him that holdeth the sceptre from the house of Eden: and the people of Syria shall go into captivity unto Kir, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will break down the gates of Damascus; I will cut off the ruler from the Valle
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.4|<< Amos 1:4]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.6|Amos 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will break  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7665\|שָֽׁבַרְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.var.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] bar of  |**<big>&#8207;[[H1280\|בְּרִ֣יחַ]]&#8207; </big>**| be.Ri.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

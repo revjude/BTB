@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:14** 
 <small><sub>**LXX:**</sub></small>
 And of the Levites -- Shemaiah son of Hashub, son of Azrikam, son of Hashabiah, of the sons of Merari; 
-<small><sub>**KJV:**</sub></small>
-And of the Levites; Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, of the sons of Merari;
-<small><sub>**BSB:**</sub></small>
-From the Levites: Shemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, a descendant of Merari;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.13|<< 1 Chronicles 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.15|1 Chronicles 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 21:17** 
+**Isaiah 21:17**<big><big>[[Isa.21.13 The Burden against Arabia|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The remaining archers, the warriors of Kedar, will be few.” For the LORD, the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.16|<< Isaiah 21:16]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.1|Isaiah 22:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] remnant of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7605\|שְׁאָ֧ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'Ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a number of  |**<big>&#8207;[[H4557\|מִסְפַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mis.par-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

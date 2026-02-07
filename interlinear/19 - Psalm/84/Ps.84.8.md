@@ -1,4 +1,4 @@
-**Psalms 84:8** (84:9)
+**Psalms 84:8**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD God of Hosts, hear my prayer; give ear, O God of Jacob. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.7|<< Psalms 84:7]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.9|Psalms 84:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְה֘וָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God of  |**<big>&#8207;[[H0430G\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

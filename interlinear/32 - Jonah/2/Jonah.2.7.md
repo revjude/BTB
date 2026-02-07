@@ -1,4 +1,4 @@
-**Jonah 2:7** (2:8)
+**Jonah 2:7**<big><big>[[Jonah.2.1 Jonah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As my life was fading away, I remembered the LORD. My prayer went up to You, to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.6|<< Jonah 2:6]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.8|Jonah 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when fainted away  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5848C\|הִתְעַטֵּ֤ף]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> hit.'a.Tef<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

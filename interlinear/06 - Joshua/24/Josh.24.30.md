@@ -1,4 +1,4 @@
-**Joshua 24:30** 
+**Joshua 24:30**<big><big>[[Josh.24.29 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they buried him in the border of his inheritance in Timnathserah, which [is] in mount Ephraim, on the north side of the hill of Gaash.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they buried him in the land of his inheritance, at Timnath-serah in the hill
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.29|<< Joshua 24:29]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.31|Joshua 24:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people buried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|יִּקְבְּר֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.be.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

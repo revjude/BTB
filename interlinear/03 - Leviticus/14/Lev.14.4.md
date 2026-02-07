@@ -1,4 +1,4 @@
-**Leviticus 14:4** 
+**Leviticus 14:4**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the priest command to take for him that is to be cleansed two birds alive [and] clean, and cedar wood, and scarlet, and hyssop:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the priest shall order that two live clean birds, cedar wood, scarlet yarn, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.3|<< Leviticus 14:3]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.5|Leviticus 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will command  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6680\|צִוָּה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tzi.Vah<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֔ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

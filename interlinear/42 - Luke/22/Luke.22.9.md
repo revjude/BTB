@@ -1,12 +1,12 @@
-**Luke 22:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:9**<big><big>[[Luke.22.7 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said unto him, Where wilt thou that we prepare?
 <small><sub>**BSB:**</sub></small>
 “Where do You want us to prepare it?” they asked.
 <small><sub>**Literal:**</sub></small>
 <the> And they said to Him; Where do you want [that] we may prepare?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.8|<< Luke 22:8]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.10|Luke 22:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

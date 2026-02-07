@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And she went down into the threshing-floor, and she did according to all as much as her mother-in-law gave charge to her. 
-<small><sub>**KJV:**</sub></small>
-And she went down unto the floor, and did according to all that her mother in law bade her.
-<small><sub>**BSB:**</sub></small>
-So she went down to the threshing floor and did everything her mother-in-law had instructed her to do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.5|<< Ruth 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.7|Ruth 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

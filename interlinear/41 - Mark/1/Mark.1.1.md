@@ -1,12 +1,12 @@
-**Mark 1:1
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:1**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The beginning of the gospel of Jesus Christ, the Son of God;
 <small><sub>**BSB:**</sub></small>
 This is the beginning of the gospel of Jesus Christ, the Son of God.
 <small><sub>**Literal:**</sub></small>
 [The] beginning of the gospel of Jesus Christ Son <the> of God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.20|<< Matthew 28:20]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.2|Mark 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] beginning |**<big>[[G0746\|Ἀρχὴ]]</big>**  |Archē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

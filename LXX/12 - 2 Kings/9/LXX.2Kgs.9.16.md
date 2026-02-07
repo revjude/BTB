@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:16** 
 <small><sub>**LXX:**</sub></small>
 And Jehu rode and went unto Jezreel, for Jehoram was being attended to in  Jezreel. And Ahaziah king of Judah came down to see  Jehoram. 
-<small><sub>**KJV:**</sub></small>
-So Jehu rode in a chariot, and went to Jezreel; for Joram lay there. And Ahaziah king of Judah was come down to see Joram.
-<small><sub>**BSB:**</sub></small>
-Then Jehu got into his chariot and went to Jezreel, because Joram was laid up there. And Ahaziah king of Judah had gone down to see him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.15|<< 2 Kings 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.17|2 Kings 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

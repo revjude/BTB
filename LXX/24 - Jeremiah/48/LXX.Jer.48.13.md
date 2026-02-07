@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:13** 
 <small><sub>**LXX:**</sub></small>
 And Moab shall be disgraced from Chemosh, as the house of Israel was disgraced from Beth-el their hope, having relied upon themselves. 
-<small><sub>**KJV:**</sub></small>
-And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Bethel their confidence.
-<small><sub>**BSB:**</sub></small>
-Then Moab will be ashamed of Chemosh, just as the house of Israel was ashamed when they trusted in Bethel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.12|<< Jeremiah 48:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.14|Jeremiah 48:14 >>]]</td></tr></table>
 
 | Translation | Greek |

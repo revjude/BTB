@@ -1,10 +1,7 @@
 **LXX Genesis 30:37** 
 <small><sub>**LXX:**</sub></small>
 And Jacob took to himself a rod of green poplar, and of walnut, and of \[the\] plane tree. And Jacob peeled them \[into\] white peels, tearing away the green. And there appeared upon the rods the white which he peeled -- varying. 
-<small><sub>**KJV:**</sub></small>
-And Jacob took him rods of green poplar, and of the hazel and chesnut tree; and pilled white strakes in them, and made the white appear which [was] in the rods.
-<small><sub>**BSB:**</sub></small>
-Jacob, however, took fresh branches of poplar, almond, and plane trees, and peeled the bark, exposing the white inner wood of the branches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.36|<< Genesis 30:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.38|Genesis 30:38 >>]]</td></tr></table>
 
 | Translation | Greek |

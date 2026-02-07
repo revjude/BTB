@@ -1,4 +1,4 @@
-**Nahum 3:18** 
+**Nahum 3:18**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy shepherds slumber, O king of Assyria: thy nobles shall dwell [in the dust]: thy people is scattered upon the mountains, and no man gathereth [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O king of Assyria, your shepherds slumber; your officers sleep. Your people are 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.17|<< Nahum 3:17]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.19|Nahum 3:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are slumbering  |**<big>&#8207;[[H5123\|נָמ֤וּ]]&#8207; </big>**| na.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | shepherds your  |**<big>&#8207;[[H7462B\|רֹעֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| ro.'Ei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

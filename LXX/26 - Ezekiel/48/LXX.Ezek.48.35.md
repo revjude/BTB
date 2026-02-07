@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:35** 
 <small><sub>**LXX:**</sub></small>
 \[The\] circumference, ten and eight thousand. And the name of the city from which ever day it takes place, shall be  its name. 
-<small><sub>**KJV:**</sub></small>
-[It was] round about eighteen thousand [measures]: and the name of the city from [that] day [shall be], The LORD [is] there.
-<small><sub>**BSB:**</sub></small>
-The perimeter of the city will be 18,000 cubits, and from that day on the name of the city will be: THE LORD IS THERE.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.34|<< Ezekiel 48:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.1|Daniel 1:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 48:35** is...

@@ -1,4 +1,4 @@
-**Psalms 107:17** 
+**Psalms 107:17**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fools because of their transgression, and because of their iniquities, are afflicted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Fools, in their rebellious ways, and through their iniquities, suffered afflicti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.16|<< Psalms 107:16]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.18|Psalms 107:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fools  |**<big>&#8207;[[H0191\|אֱ֭וִלִים]]&#8207; </big>**| 'E.vi.lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] way of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1870L\|דֶּ֣רֶךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 22:23** 
+**Deuteronomy 22:23**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a damsel [that is] a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If there is a virgin pledged in marriage to a man, and another man encounters he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.22|<< Deuteronomy 22:22]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.24|Deuteronomy 22:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will be  |**<big>&#8207;[[H1961\|יִהְיֶה֙]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

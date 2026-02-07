@@ -1,4 +1,4 @@
-**Psalms 71:21** 
+**Psalms 71:21**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt increase my greatness, and comfort me on every side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will increase my honor and comfort me once again.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.20|<< Psalms 71:20]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.22|Psalms 71:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may you increase  |**<big>&#8207;[[H7235A\|תֶּ֤רֶב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Te.rev<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | greatness my  |**<big>&#8207;[[H1420\|גְּֽדֻלָּתִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ge.du.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

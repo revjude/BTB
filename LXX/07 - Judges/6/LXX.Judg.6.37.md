@@ -1,10 +1,7 @@
 **LXX Judges 6:37** 
 <small><sub>**LXX:**</sub></small>
 behold, I fasten the fleece  of wool \[pieces\] in the threshing-floor. And if dew comes upon the fleece only, and upon all the earth \[be\] dryness, then I will know that you shall deliver Israel by my hand in which manner you spoke. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will put a fleece of wool in the floor; [and] if the dew be on the fleece only, and [it be] dry upon all the earth [beside], then shall I know that thou wilt save Israel by mine hand, as thou hast said.
-<small><sub>**BSB:**</sub></small>
-then behold, I will place a fleece of wool on the threshing floor. If there is dew only on the fleece and all the ground is dry, then I will know that You are going to save Israel by my hand, as You have said.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.36|<< Judges 6:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.38|Judges 6:38 >>]]</td></tr></table>
 
 | Translation | Greek |

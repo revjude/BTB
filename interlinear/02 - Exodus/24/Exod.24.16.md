@@ -1,4 +1,4 @@
-**Exodus 24:16** 
+**Exodus 24:16**<big><big>[[Exod.24.12 Moses on the Mountain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the glory of the LORD abode upon mount Sinai, and the cloud covered it six days: and the seventh day he called unto Moses out of the midst of the cloud.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the glory of the LORD settled on Mount Sinai. For six days the cloud covered
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.15|<< Exodus 24:15]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.17|Exodus 24:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it settled down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7931\|יִּשְׁכֹּ֤ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kon<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] glory of  |**<big>&#8207;[[H3519\|כְּבוֹד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.Vod-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

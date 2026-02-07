@@ -1,12 +1,12 @@
-**John 9:37
-**<small><sub>**KJV:**</sub></small>
+**John 9:37**<big><big>[[John.9.35 Spiritual Blindness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee.
 <small><sub>**BSB:**</sub></small>
 “You have already seen Him,” Jesus answered. “He is the One speaking with you.”
 <small><sub>**Literal:**</sub></small>
 Said now to him <the> Jesus; Both You have seen Him, and the [One] speaking with you He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.36|<< John 9:36]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.38|John 9:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

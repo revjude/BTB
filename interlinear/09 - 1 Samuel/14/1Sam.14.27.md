@@ -1,4 +1,4 @@
-**1 Samuel 14:27** 
+**1 Samuel 14:27**<big><big>[[1Sam.14.24 Jonathan Eats the Honey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jonathan heard not when his father charged the people with the oath: wherefore he put forth the end of the rod that [was] in his hand, and dipped it in an honeycomb, and put his hand to his mouth; and his eyes were enlightened.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jonathan, however, had not heard that his father had bound the people with the o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.26|<< 1 Samuel 14:26]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.28|1 Samuel 14:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jonathan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3129N\|יוֹנָתָ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

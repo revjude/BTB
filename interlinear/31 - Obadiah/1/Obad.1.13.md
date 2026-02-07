@@ -1,4 +1,4 @@
-**Obadiah 1:13** 
+**Obadiah 1:13**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid [hands] on their substance in the day of their calamity;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You should not enter the gate of My people in the day of their disaster, nor glo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.12|<< Obadiah 1:12]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.14|Obadiah 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you go  |**<big>&#8207;[[H0935G\|תָּב֤וֹא]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

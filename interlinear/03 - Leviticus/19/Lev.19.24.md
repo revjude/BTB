@@ -1,4 +1,4 @@
-**Leviticus 19:24** 
+**Leviticus 19:24**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in the fourth year all the fruit thereof shall be holy to praise the LORD [withal].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the fourth year all its fruit must be consecrated as a praise offering to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.23|<< Leviticus 19:23]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.25|Leviticus 19:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in the year  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8141\|שָּׁנָה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> fourth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7243\|רְבִיעִ֔ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'It<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

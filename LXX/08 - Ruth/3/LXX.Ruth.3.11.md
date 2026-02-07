@@ -1,10 +1,7 @@
 **LXX Ruth 3:11** 
 <small><sub>**LXX:**</sub></small>
 And now, O daughter, do not fear! All what ever you should say I will do for you. For all of \[the\] people of my tribe know that you are a woman of ability. 
-<small><sub>**KJV:**</sub></small>
-And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou [art] a virtuous woman.
-<small><sub>**BSB:**</sub></small>
-And now do not be afraid, my daughter. I will do for you whatever you request, since all my fellow townspeople know that you are a woman of noble character.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.10|<< Ruth 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.12|Ruth 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

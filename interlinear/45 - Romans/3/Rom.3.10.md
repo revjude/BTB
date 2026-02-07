@@ -1,5 +1,5 @@
-**Romans 3:10
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:10**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As it is written, There is none righteous, no, not one:
 <small><sub>**BSB:**</sub></small>
 As it is written: “There is no one righteous, not even one.
@@ -10,7 +10,7 @@ Even as it has been written that None there is righteous not even one;<br><table
 > $\quad$ referencing: [[LXX.Ps.14.1|Ps 14:1]] ☩ [[LXX.Ps.53.1|Ps 53:1-3]] ☩ [[LXX.Eccl.7.20|Eccl 7:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it has been written |**<big>[[G1125\|γέγραπται]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

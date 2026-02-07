@@ -1,4 +1,4 @@
-**Jeremiah 7:6** 
+**Jeremiah 7:6**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] ye oppress not the stranger, the fatherless, and the widow, and shed not innocent blood in this place, neither walk after other gods to your hurt:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if you no longer oppress the foreigner and the fatherless and the widow, and if 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.5|<< Jeremiah 7:5]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.7|Jeremiah 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sojourner  |**<big>&#8207;[[H1616\|גֵּ֣ר]]&#8207; </big>**| ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fatherless  |**<big>&#8207;[[H3490\|יָת֤וֹם]]&#8207; </big>**| ya.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

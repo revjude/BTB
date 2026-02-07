@@ -1,4 +1,4 @@
-**1 Samuel 1:12** 
+**1 Samuel 1:12**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as she continued praying before the LORD, that Eli marked her mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As Hannah kept on praying before the LORD, Eli watched her mouth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.11|<< 1 Samuel 1:11]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.13|1 Samuel 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

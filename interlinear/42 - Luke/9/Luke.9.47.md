@@ -1,12 +1,12 @@
-**Luke 9:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:47**<big><big>[[Luke.9.46 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus, perceiving the thought of their heart, took a child, and set him by him,
 <small><sub>**BSB:**</sub></small>
 But Jesus, knowing the thoughts of their hearts, had a little child stand beside Him.
 <small><sub>**Literal:**</sub></small>
 <the> But Jesus knowing the reasoning of the heart of them, having taken hold of a child set it by Himself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.46|<< Luke 9:46]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.48|Luke 9:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

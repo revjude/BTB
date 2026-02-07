@@ -1,4 +1,4 @@
-**Joshua 4:16** 
+**Joshua 4:16**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command the priests that bear the ark of the testimony, that they come up out of Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Command the priests that bear the ark of the testimony, that they come up out of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.15|<< Joshua 4:15]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.17|Joshua 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | command  |**<big>&#8207;[[H6680\|צַוֵּה֙]]&#8207; </big>**| tza.Veh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

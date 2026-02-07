@@ -1,10 +1,7 @@
 **LXX Isaiah 51:10** 
 <small><sub>**LXX:**</sub></small>
 Are you not her making desolate \[the\] sea, \[the\] abundance of \[the\] deep water, the one putting the depths of the sea for a way of a ford to \[the\] ones being rescued, 
-<small><sub>**KJV:**</sub></small>
-[Art] thou not it which hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?
-<small><sub>**BSB:**</sub></small>
-Was it not You who dried up the sea, the waters of the great deep, who made a road in the depths of the sea for the redeemed to cross over?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.9|<< Isaiah 51:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.11|Isaiah 51:11 >>]]</td></tr></table>
 
 | Translation | Greek |

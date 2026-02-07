@@ -1,12 +1,12 @@
-**Luke 11:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:47**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Woe unto you! for ye build the sepulchres of the prophets, and your fathers killed them.
 <small><sub>**BSB:**</sub></small>
 Woe to you! For you build tombs for the prophets, but it was your fathers who killed them.
 <small><sub>**Literal:**</sub></small>
 Woe to you, for you build the tombs of the prophets, <the> yet the fathers of you killed them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.46|<< Luke 11:46]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.48|Luke 11:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Woe |**<big>[[G3759\|Οὐαὶ]]</big>**  |Ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you, |**<big>[[G4771\|ὑμῖν,]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:15** 
 <small><sub>**LXX:**</sub></small>
 And Jacob ate and was filled up, and the one being loved kicked up; he was fattened, he was thickened, he was widened, and he abandoned God the one making him; and he left from God his deliverer. 
-<small><sub>**KJV:**</sub></small>
-But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered [with fatness]; then he forsook God [which] made him, and lightly esteemed the Rock of his salvation.
-<small><sub>**BSB:**</sub></small>
-But Jeshurun grew fat and kicked—becoming fat, bloated, and gorged. He abandoned the God who made him and scorned the Rock of his salvation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.14|<< Deuteronomy 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.16|Deuteronomy 32:16 >>]]</td></tr></table>
 
 | Translation | Greek |

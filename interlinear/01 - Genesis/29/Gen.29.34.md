@@ -1,4 +1,4 @@
-**Genesis 29:34** 
+**Genesis 29:34**<big><big>[[Gen.29.31 Reuben, Simeon, Levi, and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she conceived again, and bare a son; and said, Now this time will my husband be joined unto me, because I have born him three sons: therefore was his name called Levi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once again Leah conceived and gave birth to a son, and she said, “Now at last 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.33|<< Genesis 29:33]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.35|Genesis 29:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she conceived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2029\|תַּ֣הַר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.har<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|עוֹד֮]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

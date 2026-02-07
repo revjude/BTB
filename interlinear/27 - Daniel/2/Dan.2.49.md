@@ -1,4 +1,4 @@
-**Daniel 2:49** 
+**Daniel 2:49**<big><big>[[Dan.2.46 Nebuchadnezzar Promotes Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel [sat] in the gate of the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And at Daniel’s request, the king appointed Shadrach, Meshach, and Abednego to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.48|<< Daniel 2:48]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.1|Daniel 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Daniel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1841H\|דָנִיֵּאל֙]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> da.ni.yeL<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he asked  |**<big>&#8207;[[H1156\|בְּעָ֣א]]&#8207; </big>**| be.'A'<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

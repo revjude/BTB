@@ -1,4 +1,4 @@
-**Psalms 38:2** (38:3)
+**Psalms 38:2**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thine arrows stick fast in me, and thy hand presseth me sore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Your arrows have pierced me deeply, and Your hand has pressed down on me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.1|<< Psalms 38:1]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.3|Psalms 38:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arrows your  |**<big>&#8207;[[H2671\|חִ֭צֶּי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Chi.tzei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

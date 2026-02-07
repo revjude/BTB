@@ -1,10 +1,7 @@
 **LXX Proverbs 17:23** 
 <small><sub>**LXX:**</sub></small>
 One receiving gifts in enfolded arms unjustly does not greatly prosper in the ways; and an impious man turns aside \[the\] ways of righteousness. 
-<small><sub>**KJV:**</sub></small>
-A wicked [man] taketh a gift out of the bosom to pervert the ways of judgment.
-<small><sub>**BSB:**</sub></small>
-A wicked man takes a covert bribe to subvert the course of justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.22|<< Proverbs 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.24|Proverbs 17:24 >>]]</td></tr></table>
 
 | Translation | Greek |

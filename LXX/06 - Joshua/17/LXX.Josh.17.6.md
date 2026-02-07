@@ -1,10 +1,7 @@
 **LXX Joshua 17:6** 
 <small><sub>**LXX:**</sub></small>
 for \[the\] daughters of \[the\] sons of Manasseh inherited a lot in \[the\] midst  of their brethren. And the land of Gilead became to the sons of Manasseh, to the ones left behind. 
-<small><sub>**KJV:**</sub></small>
-Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh’s sons had the land of Gilead.
-<small><sub>**BSB:**</sub></small>
-because the daughters of Manasseh received an inheritance among his sons. And the land of Gilead belonged to the rest of the sons of Manasseh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.5|<< Joshua 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.7|Joshua 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

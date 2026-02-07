@@ -1,10 +1,7 @@
 **LXX Genesis 44:10** 
 <small><sub>**LXX:**</sub></small>
  And he said, And now as you say, so it will be. By whom ever the drinking cup should be found, will be my servant, and you all shall be pure. 
-<small><sub>**KJV:**</sub></small>
-And he said, Now also [let] it [be] according unto your words: he with whom it is found shall be my servant; and ye shall be blameless.
-<small><sub>**BSB:**</sub></small>
-“As you say,” replied the steward. “But only the one who is found with the cup will be my slave, and the rest of you shall be free of blame.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.9|<< Genesis 44:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.11|Genesis 44:11 >>]]</td></tr></table>
 
 | Translation | Greek |

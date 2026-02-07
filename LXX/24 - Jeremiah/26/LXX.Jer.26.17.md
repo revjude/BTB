@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:17** 
 <small><sub>**LXX:**</sub></small>
 And there rose up men of the elders of the land, and they said to all the gathering  of people, saying, 
-<small><sub>**KJV:**</sub></small>
-Then rose up certain of the elders of the land, and spake to all the assembly of the people, saying,
-<small><sub>**BSB:**</sub></small>
-Some of the elders of the land stood up and said to the whole assembly of the people,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.16|<< Jeremiah 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.18|Jeremiah 26:18 >>]]</td></tr></table>
 
 | Translation | Greek |

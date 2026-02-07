@@ -1,4 +1,4 @@
-**Psalms 140:10** (140:11)
+**Psalms 140:10**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May burning coals fall on them; may they be thrown into the fire, into the miry 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.9|<< Psalms 140:9]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.11|Psalms 140:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be dropped  [^1]|**<big>&#8207;[[H4131\|יִמּ֥וֹטוּ]]&#8207; </big>**[^2] | ya.mi.tu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

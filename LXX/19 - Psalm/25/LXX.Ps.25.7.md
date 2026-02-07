@@ -1,10 +1,7 @@
 **LXX Psalm 25:7** 
 <small><sub>**LXX:**</sub></small>
 Do not remember \[the\] sins of my youth and my ignorance! \[but\] according to  your mercy mention me to yourself, because of  your graciousness, O <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness’ sake, O LORD.
-<small><sub>**BSB:**</sub></small>
-Remember not the sins of my youth, nor my rebellious acts; remember me according to Your loving devotion, because of Your goodness, O LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.6|<< Psalm 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.8|Psalm 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

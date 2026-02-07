@@ -1,4 +1,4 @@
-**Zechariah 13:2** 
+**Zechariah 13:2**<big><big>[[Zech.13.1 An End to Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, saith the LORD of hosts, [that] I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on that day, declares the LORD of Hosts, I will erase the names of the idols
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.1|<< Zechariah 13:1]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13.3|Zechariah 13:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֨וֹם]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 2:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:11**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.
 <small><sub>**BSB:**</sub></small>
 For who among men knows the thoughts of man except his own spirit within him? So too, no one knows the thoughts of God except the Spirit of God.
 <small><sub>**Literal:**</sub></small>
 Who for knows among men the [things] of the man only except the spirit of the man that [is] within him? So also the [things] <the> of God no [one] has known only except the Spirit <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.10|<< 1 Corinthians 2:10]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.12|1 Corinthians 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

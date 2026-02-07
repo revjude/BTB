@@ -1,12 +1,12 @@
-**Philemon 1:6
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:6**<big><big>[[Phlm.1.4 Philemon’s Faith and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 I pray that your partnership in the faith may become effective as you fully acknowledge every good thing that is ours in Christ.
 <small><sub>**Literal:**</sub></small>
 so that the fellowship of the faith of you effective may become in [the] acknowledgment of every good [thing] that [is] in us in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.5|<< Philemon 1:5]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.7|Philemon 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

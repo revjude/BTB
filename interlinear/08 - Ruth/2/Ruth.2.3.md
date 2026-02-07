@@ -1,4 +1,4 @@
-**Ruth 2:3** 
+**Ruth 2:3**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field [belonging] unto Boaz, who [was] of the kindred of Elimelech.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ruth departed and went out into the field and gleaned after the harvesters. A
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.2|<< Ruth 2:2]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.4|Ruth 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|תֵּ֤לֶךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.lekh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּבוֹא֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

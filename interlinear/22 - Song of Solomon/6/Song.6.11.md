@@ -1,4 +1,4 @@
-**Song of Solomon 6:11** 
+**Song of Solomon 6:11**<big><big>[[Song.6.11 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went down into the garden of nuts to see the fruits of the valley, [and] to see whether the vine flourished, [and] the pomegranates budded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I went down to the walnut grove to see the blossoms of the valley, to see if the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.10|<< Song of Solomon 6:10]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.12|Song of Solomon 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a garden of  |**<big>&#8207;[[H1594\|גִּנַּ֤ת]]&#8207; </big>**| gi.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Becher -- Zemira, and Joash, and Eliezer, and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth -- all these \[were\] sons of Becher. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Becher; Zemira, and Joash, and Eliezer, and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth. All these [are] the sons of Becher.
-<small><sub>**BSB:**</sub></small>
-The sons of Becher: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth; all these were Becher’s sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.7|<< 1 Chronicles 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.9|1 Chronicles 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

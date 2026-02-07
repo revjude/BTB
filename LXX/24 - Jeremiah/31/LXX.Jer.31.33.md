@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:33** 
 <small><sub>**LXX:**</sub></small>
 For this  \[is\] my covenant which I shall ordain with \[the\] house of Israel after  those days, says \[the\] <span class="smallcaps">lord</span>; I will put my laws into  their mind, and I will write them upon their hearts; and I will be to them for God, and they will be to me for a people. 
-<small><sub>**KJV:**</sub></small>
-But this [shall be] the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
-<small><sub>**BSB:**</sub></small>
-“But this is the covenant I will make with the house of Israel after those days, declares the LORD. I will put My law in their minds and inscribe it on their hearts. And I will be their God, and they will be My people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.32|<< Jeremiah 31:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.34|Jeremiah 31:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 31:33** is...

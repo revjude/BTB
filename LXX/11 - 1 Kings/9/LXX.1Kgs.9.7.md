@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:7** 
 <small><sub>**LXX:**</sub></small>
 then I will remove  Israel from the land which I gave to them,; and  this house which I sanctified \[to\] my name I shall throw away from my face. And Israel will be for extinction and for a discussion among all the peoples. 
-<small><sub>**KJV:**</sub></small>
-Then will I cut off Israel out of the land which I have given them; and this house, which I have hallowed for my name, will I cast out of my sight; and Israel shall be a proverb and a byword among all people:
-<small><sub>**BSB:**</sub></small>
-then I will cut off Israel from the land that I have given them, and I will banish from My presence this temple I have sanctified for My Name. Then Israel will become an object of scorn and ridicule among all peoples.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.6|<< 1 Kings 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.8|1 Kings 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

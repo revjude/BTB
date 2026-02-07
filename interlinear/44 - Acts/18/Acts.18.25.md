@@ -1,12 +1,12 @@
-**Acts 18:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:25**<big><big>[[Acts.18.23 Paul’s Third Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.
 <small><sub>**BSB:**</sub></small>
 He had been instructed in the way of the Lord and was fervent in spirit. He spoke and taught accurately about Jesus, though he knew only the baptism of John.
 <small><sub>**Literal:**</sub></small>
 He was instructed [in] the way of the Lord, And being fervent <the> in spirit he was speaking and he was teaching earnestly the [things] concerning <the> Jesus knowing only the baptism of John;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.24|<< Acts 18:24]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.26|Acts 18:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Job 15:21** 
+**Job 15:21**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A dreadful sound [is] in his ears: in prosperity the destroyer shall come upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sounds of terror fill his ears; in his prosperity the destroyer attacks him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.20|<< Job 15:20]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.22|Job 15:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sound of  |**<big>&#8207;[[H6963H\|קוֹל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dread\<s>  |**<big>&#8207;[[H6343\|פְּחָדִ֥ים]]&#8207; </big>**| pe.cha.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

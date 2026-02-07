@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:4** 
 <small><sub>**LXX:**</sub></small>
 Because they abandoned me, and separated from  this place; and they burned incense in it to strange gods who they did not know and  their fathers; and the kings of Judah filled  this place of innocent blood. 
-<small><sub>**KJV:**</sub></small>
-Because they have forsaken me, and have estranged this place, and have burned incense in it unto other gods, whom neither they nor their fathers have known, nor the kings of Judah, and have filled this place with the blood of innocents;
-<small><sub>**BSB:**</sub></small>
-because they have abandoned Me and made this a foreign place. They have burned incense in this place to other gods that neither they nor their fathers nor the kings of Judah have ever known. They have filled this place with the blood of the innocent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.3|<< Jeremiah 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.5|Jeremiah 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

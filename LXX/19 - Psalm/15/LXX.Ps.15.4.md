@@ -1,10 +1,7 @@
 **LXX Psalm 15:4** 
 <small><sub>**LXX:**</sub></small>
 \[The one acting\] wickedly is treated with contempt before him; but the one fearing the <span class="smallcaps">lord</span> he glorifies, \[even\] the one swearing by an oath \[to\] his neighbor and not annulling \[it\]; 
-<small><sub>**KJV:**</sub></small>
-In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. [He that] sweareth to [his own] hurt, and changeth not.
-<small><sub>**BSB:**</sub></small>
-who despises the vile but honors those who fear the LORD, who does not revise a costly oath,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.15.3|<< Psalm 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.15.5|Psalm 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jonah 4:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass at the same time as the rising of the sun, and God assigned a burning wind to burn; and the sun struck upon the head of Jonah, and he became faint-hearted, and resigned  of his life, and said, Better for me  to die than live. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, [It is] better for me to die than to live.
-<small><sub>**BSB:**</sub></small>
-As the sun was rising, God appointed a scorching east wind, and the sun beat down on Jonah’s head so that he grew faint and wished to die, saying, “It is better for me to die than to live.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.7|<< Jonah 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.9|Jonah 4:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 4:8** is...

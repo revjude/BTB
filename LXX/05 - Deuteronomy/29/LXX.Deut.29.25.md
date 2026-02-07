@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:25** 
 <small><sub>**LXX:**</sub></small>
 And they shall say, Because they left the covenant of \[the\] <span class="smallcaps">lord</span>,  God  of their fathers, which he ordained \[with\] their fathers, when he led them out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Then men shall say, Because they have forsaken the covenant of the LORD God of their fathers, which he made with them when he brought them forth out of the land of Egypt:
-<small><sub>**BSB:**</sub></small>
-And the people will answer, ‘It is because they abandoned the covenant of the LORD, the God of their fathers, which He made with them when He brought them out of the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.24|<< Deuteronomy 29:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.26|Deuteronomy 29:26 >>]]</td></tr></table>
 
 | Translation | Greek |

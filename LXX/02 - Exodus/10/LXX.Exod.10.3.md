@@ -1,10 +1,7 @@
 **LXX Exodus 10:3** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Aaron entered before Pharaoh, and said to him, Thus says \[the\] <span class="smallcaps">lord</span>, the God of the Hebrews, Until when will you not shame me? Send out  my people! that they may serve to me. 
-<small><sub>**KJV:**</sub></small>
-And Moses and Aaron came in unto Pharaoh, and said unto him, Thus saith the LORD God of the Hebrews, How long wilt thou refuse to humble thyself before me? let my people go, that they may serve me.
-<small><sub>**BSB:**</sub></small>
-So Moses and Aaron went to Pharaoh and told him, “This is what the LORD, the God of the Hebrews, says: ‘How long will you refuse to humble yourself before Me? Let My people go, so that they may worship Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.2|<< Exodus 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.4|Exodus 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

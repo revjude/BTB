@@ -1,12 +1,12 @@
-**Mark 7:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:5**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the Pharisees and scribes asked him, Why walk not thy disciples according to the tradition of the elders, but eat bread with unwashen hands?
 <small><sub>**BSB:**</sub></small>
 So the Pharisees and scribes questioned Jesus: “Why do Your disciples not walk according to the tradition of the elders? Instead, they eat with defiled hands.”
 <small><sub>**Literal:**</sub></small>
 And questioned Him the Pharisees and the scribes; Because of why not walk the disciples of You according to the tradition of the elders, but with unsanctified hands eat the bread?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.4|<< Mark 7:4]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.6|Mark 7:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And [^1] |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | questioned |**<big>[[G1905\|ἐπερωτῶσιν]]</big>**  |eperōtōsin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

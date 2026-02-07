@@ -1,4 +1,4 @@
-**Psalms 103:3** 
+**Psalms 103:3**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who forgiveth all thine iniquities; who healeth all thy diseases;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who forgives all your iniquities and heals all your diseases,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.2|<< Psalms 103:2]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.4|Psalms 103:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who forgives  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5545\|סֹּלֵ֥חַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> so.Le.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

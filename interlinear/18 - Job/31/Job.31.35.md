@@ -1,4 +1,4 @@
-**Job 31:35** 
+**Job 31:35**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh that one would hear me! behold, my desire [is, that] the Almighty would answer me, and [that] mine adversary had written a book.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Oh that one would hear me! behold, my desire [is, that] the Almighty would answe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.34|<< Job 31:34]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.36|Job 31:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he give  |**<big>&#8207;[[H5414Q\|יִתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yi.ten-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

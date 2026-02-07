@@ -1,4 +1,4 @@
-**Deuteronomy 1:12** 
+**Deuteronomy 1:12**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How can I myself alone bear your cumbrance, and your burden, and your strife?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But how can I bear your troubles, burdens, and disputes all by myself?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.11|<< Deuteronomy 1:11]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.13|Deuteronomy 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how?  |**<big>&#8207;[[H0349B\|אֵיכָ֥ה]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I bear  |**<big>&#8207;[[H5375H\|אֶשָּׂ֖א]]&#8207; </big>**| 'e.Sa'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

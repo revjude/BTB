@@ -1,4 +1,4 @@
-**Leviticus 18:11** 
+**Leviticus 18:11**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nakedness of thy father’s wife’s daughter, begotten of thy father, she [is] thy sister, thou shalt not uncover her nakedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not have sexual relations with the daughter of your father’s wife, bo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.10|<< Leviticus 18:10]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.12|Leviticus 18:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] nakedness of  |**<big>&#8207;[[H6172\|עֶרְוַ֨ת]]&#8207; </big>**| 'er.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

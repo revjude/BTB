@@ -1,4 +1,4 @@
-**1 Samuel 24:13** (24:14)
+**1 Samuel 24:13**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the old proverb says, ‘Wickedness proceeds from the wicked.’ But my hand 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.12|<< 1 Samuel 24:12]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.14|1 Samuel 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it says  |**<big>&#8207;[[H0559\|יֹאמַ֗ר]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

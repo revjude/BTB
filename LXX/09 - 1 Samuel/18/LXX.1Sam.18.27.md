@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:27** 
 <small><sub>**LXX:**</sub></small>
 And David rose up and went himself and  his men, and he struck among the Philistines two hundred men. And he brought  their foreskins, and fulfilled them to the king; and he becomes allied by marriage to the king; and Saul gives to him  Michal his daughter for a wife. 
-<small><sub>**KJV:**</sub></small>
-Wherefore David arose and went, he and his men, and slew of the Philistines two hundred men; and David brought their foreskins, and they gave them in full tale to the king, that he might be the king’s son in law. And Saul gave him Michal his daughter to wife.
-<small><sub>**BSB:**</sub></small>
-David and his men went out and killed two hundred Philistines. He brought their foreskins and presented them as payment in full to become the king’s son-in-law. Then Saul gave his daughter Michal to David in marriage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.26|<< 1 Samuel 18:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.28|1 Samuel 18:28 >>]]</td></tr></table>
 
 | Translation | Greek |

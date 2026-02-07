@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:9** 
 <small><sub>**LXX:**</sub></small>
 behold, I send and I shall take the family of the north, and I will lead them upon  this land, and against the ones dwelling it, and against all the nations  round about it. And I will make them quite desolate. And I will appoint them for extinction, and for hissing, and for everlasting scorn. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will send and take all the families of the north, saith the LORD, and Nebuchadrezzar the king of Babylon, my servant, and will bring them against this land, and against the inhabitants thereof, and against all these nations round about, and will utterly destroy them, and make them an astonishment, and an hissing, and perpetual desolations.
-<small><sub>**BSB:**</sub></small>
-behold, I will summon all the families of the north, declares the LORD, and I will send for My servant Nebuchadnezzar king of Babylon, whom I will bring against this land, against its residents, and against all the surrounding nations. So I will devote them to destruction and make them an object of horror and contempt, an everlasting desolation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.8|<< Jeremiah 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.10|Jeremiah 25:10 >>]]</td></tr></table>
 
 | Translation | Greek |

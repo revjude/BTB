@@ -1,5 +1,5 @@
-**Luke 13:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:19**<big><big>[[Luke.13.18 The Parable of the Mustard Seed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is like a grain of mustard seed, which a man took, and cast into his garden; and it grew, and waxed a great tree; and the fowls of the air lodged in the branches of it.
 <small><sub>**BSB:**</sub></small>
 It is like a mustard seed that a man tossed into his garden. It grew and became a tree, and the birds of the air nested in its branches.”
@@ -10,7 +10,7 @@ Like it is to a grain of mustard which having taken a man cast into garden his o
 > $\quad$ referencing: [[LXX.Ps.104.12|Ps 104:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Like |**<big>[[G3664\|ὁμοία]]</big>**  |homoia <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it is |**<big>[[G1510\|ἐστὶν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

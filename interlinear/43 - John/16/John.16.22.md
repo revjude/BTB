@@ -1,5 +1,5 @@
-**John 16:22
-**<small><sub>**KJV:**</sub></small>
+**John 16:22**<big><big>[[John.16.17 Grief Will Turn to Joy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.
 <small><sub>**BSB:**</sub></small>
 So also you have sorrow now, but I will see you again and your hearts will rejoice, and no one will take away your joy.
@@ -10,7 +10,7 @@ Also you yourselves therefore now indeed grief have, again however I will see yo
 > $\quad$ referencing: [[LXX.Isa.66.14|Isa 66:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Also |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

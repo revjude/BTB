@@ -1,4 +1,4 @@
-**Proverbs 19:19** 
+**Proverbs 19:19**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man of great wrath shall suffer punishment: for if thou deliver [him], yet thou must do it again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man of great anger must pay the penalty; if you rescue him, you will have to d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.18|<< Proverbs 19:18]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.20|Proverbs 19:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a [person] great of  [^1]|**<big>&#8207;[[H1419A\|גְּֽדָל]]&#8207; </big>**[^2] | go.ral-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | rage  |**<big>&#8207;[[H2534\|חֵ֭מָה]]&#8207; </big>**| Che.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

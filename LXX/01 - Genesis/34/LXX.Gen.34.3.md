@@ -1,10 +1,7 @@
 **LXX Genesis 34:3** 
 <small><sub>**LXX:**</sub></small>
 And he took heed to the soul of Dinah the daughter of Jacob. And he loved the virgin, and he spoke concerning the thought  of her virgin \[state\]. 
-<small><sub>**KJV:**</sub></small>
-And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel.
-<small><sub>**BSB:**</sub></small>
-And his soul was drawn to Dinah, the daughter of Jacob. He loved the young girl and spoke to her tenderly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.2|<< Genesis 34:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.4|Genesis 34:4 >>]]</td></tr></table>
 
 | Translation | Greek |

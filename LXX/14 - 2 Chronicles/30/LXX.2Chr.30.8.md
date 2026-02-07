@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:8** 
 <small><sub>**LXX:**</sub></small>
 And do not harden  your necks as  your fathers! Give glory \[to the\] <span class="smallcaps">lord</span>  God, and enter into  his sanctuary! which he sanctified into the eon. And serve to the <span class="smallcaps">lord</span> your God! and he will turn from you the rage  of his anger. 
-<small><sub>**KJV:**</sub></small>
-Now be ye not stiffnecked, as your fathers [were, but] yield yourselves unto the LORD, and enter into his sanctuary, which he hath sanctified for ever: and serve the LORD your God, that the fierceness of his wrath may turn away from you.
-<small><sub>**BSB:**</sub></small>
-Now do not stiffen your necks as your fathers did. Submit to the LORD and come to His sanctuary, which He has consecrated forever. Serve the LORD your God, so that His fierce anger will turn away from you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.7|<< 2 Chronicles 30:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.9|2 Chronicles 30:9 >>]]</td></tr></table>
 
 | Translation | Greek |

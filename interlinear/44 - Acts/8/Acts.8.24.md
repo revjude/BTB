@@ -1,12 +1,12 @@
-**Acts 8:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:24**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.
 <small><sub>**BSB:**</sub></small>
 Then Simon answered, “Pray to the Lord for me, so that nothing you have said may happen to me.”
 <small><sub>**Literal:**</sub></small>
 Answering now <the> Simon said; do pray earnestly you yourselves on behalf of me to the Lord, so that nothing may come upon me myself of which you have spoken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.23|<< Acts 8:23]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.25|Acts 8:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

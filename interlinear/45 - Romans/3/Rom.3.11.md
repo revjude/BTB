@@ -1,5 +1,5 @@
-**Romans 3:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:11**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There is none that understandeth, there is none that seeketh after God.
 <small><sub>**BSB:**</sub></small>
 There is no one who understands, no one who seeks God.
@@ -10,7 +10,7 @@ none there is who is understanding, none there is who is seeking after <the> God
 > $\quad$ referencing: [[LXX.Ps.14.2|Ps 14:2]] ☩ [[LXX.Ps.53.1|Ps 53:1-3]] ☩ [[LXX.Eccl.7.20|Eccl 7:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | none |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there is |**<big>[[G1510\|ἔστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

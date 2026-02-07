@@ -1,10 +1,7 @@
 **LXX Malachi 3:10** 
 <small><sub>**LXX:**</sub></small>
 The year is completed, and you carried in all the resources into the storehouses, and there will be the ravaging in  your houses. Restore indeed in this, says \[the\] <span class="smallcaps">lord</span> almighty! \[And see\] if I should not open to you the torrents of the heaven, and pour out to you  my blessing until  \[it is\] enough. 
-<small><sub>**KJV:**</sub></small>
-Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that [there shall] not [be room] enough [to receive it].
-<small><sub>**BSB:**</sub></small>
-Bring the full tithe into the storehouse, so that there may be food in My house. Test Me in this,” says the LORD of Hosts. “See if I will not open the windows of heaven and pour out for you blessing without measure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.9|<< Malachi 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.11|Malachi 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

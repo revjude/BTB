@@ -1,12 +1,12 @@
-**Revelation 21:21
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:21**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the twelve gates [were] twelve pearls; every several gate was of one pearl: and the street of the city [was] pure gold, as it were transparent glass.
 <small><sub>**BSB:**</sub></small>
 And the twelve gates were twelve pearls, with each gate consisting of a single pearl. The main street of the city was pure gold, as clear as glass.
 <small><sub>**Literal:**</sub></small>
 And the twelve gates [were] twelve pearls. each one each of the gates was of one pearl. and the street of the city gold pure as glass translucent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.20|<< Revelation 21:20]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.22|Revelation 21:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

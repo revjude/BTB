@@ -1,4 +1,4 @@
-**1 Kings 22:9** 
+**1 Kings 22:9**<big><big>[[1Kgs.22.1 Ahab and the False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king of Israel called an officer, and said, Hasten [hither] Micaiah the son of Imlah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the king of Israel called one of his officials and said, “Bring Micaiah son
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.8|<< 1 Kings 22:8]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.10|1 Kings 22:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

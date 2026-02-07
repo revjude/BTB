@@ -1,10 +1,7 @@
 **LXX Numbers 15:13** 
 <small><sub>**LXX:**</sub></small>
 Every  native born shall offer thus, such as to bring yield \[offerings\] for a scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-All that are born of the country shall do these things after this manner, in offering an offering made by fire, of a sweet savour unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Everyone who is native-born shall prepare these things in this way when he presents a food offering as a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.12|<< Numbers 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.14|Numbers 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

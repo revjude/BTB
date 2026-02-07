@@ -1,12 +1,12 @@
-**John 10:12
-**<small><sub>**KJV:**</sub></small>
+**John 10:12**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that is an hireling, and not the shepherd, whose own the sheep are not, seeth the wolf coming, and leaveth the sheep, and fleeth: and the wolf catcheth them, and scattereth the sheep.
 <small><sub>**BSB:**</sub></small>
 The hired hand is not the shepherd, and the sheep are not his own. When he sees the wolf coming, he abandons the sheep and runs away. Then the wolf pounces on them and scatters the flock.
 <small><sub>**Literal:**</sub></small>
 the hired servant now however not being [the] shepherd, whose not are the sheep [his] own, he sees the wolf coming and he leaves the sheep and flees — and the wolf snatches them and scatters —. <the> sheep<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.11|<< John 10:11]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.13|John 10:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | hired servant |**<big>[[G3411\|μισθωτὸς]]</big>**  |misthōtos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Hosea 10:15** 
+**Hosea 10:15**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall Bethel do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus it will be done to you, O Bethel, because of your great wickedness. When th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.14|<< Hosea 10:14]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.1|Hosea 11:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3602\|כָּ֗כָה]]&#8207; </big>**| Ka.khah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone will do  |**<big>&#8207;[[H6213A\|עָשָׂ֤ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

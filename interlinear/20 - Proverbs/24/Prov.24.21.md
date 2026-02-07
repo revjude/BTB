@@ -1,4 +1,4 @@
-**Proverbs 24:21** 
+**Proverbs 24:21**<big><big>[[Prov.24.21 Saying 30|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, fear thou the LORD and the king: [and] meddle not with them that are given to change:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ My son, fear the LORD and the king, and do not associate with the rebellious.
 > $\quad$ referenced by: [[1Pet.2.17|1Pet 2:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fear  |**<big>&#8207;[[H3372H\|יְרָֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.ra'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

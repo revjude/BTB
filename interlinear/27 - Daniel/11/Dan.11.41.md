@@ -1,4 +1,4 @@
-**Daniel 11:41** 
+**Daniel 11:41**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall enter also into the glorious land, and many [countries] shall be overthrown: but these shall escape out of his hand, [even] Edom, and Moab, and the chief of the children of Ammon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will also invade the Beautiful Land, and many countries will fall. But these 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.40|<< Daniel 11:40]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.42|Daniel 11:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָא֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 2:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:10**<big><big>[[Rev.2.8 To the Church in Smyrna|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Fear none of those things which thou shalt suffer: behold, the devil shall cast [some] of you into prison, that ye may be tried; and ye shall have tribulation ten days: be thou faithful unto death, and I will give thee a crown of life.
 <small><sub>**BSB:**</sub></small>
 Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison to test you, and you will suffer tribulation for ten days. Be faithful even unto death, and I will give you the crown of life.
 <small><sub>**Literal:**</sub></small>
 nothing do fear what you are about to suffer; Behold indeed is about to cast the devil [some] of you into prison so that you may be tested, and you will have tribulation for days ten. do be faithful unto death, and I will give to you the crown <the> of life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.9|<< Revelation 2:9]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.11|Revelation 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nothing [^1] |**<big>[[G3367\|μηδὲν]]</big>**  |mēden <small><sup>[[A-ASN-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(o)</abbr> | |
 | do fear |**<big>[[G5399\|φοβοῦ]]</big>**  |phobou <small><sup>[[V-PNM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

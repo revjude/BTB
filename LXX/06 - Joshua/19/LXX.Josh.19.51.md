@@ -1,10 +1,7 @@
 **LXX Joshua 19:51** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the divisions which Eleazar the priest divided by lot, and Joshua the \[son of\] Nun, and the rulers of the families among the tribes  of Israel, according to \[the\] lots in Shiloh before \[the\] <span class="smallcaps">lord</span>, by the doors of the tent of the testimony. And they went entering into the land. 
-<small><sub>**KJV:**</sub></small>
-These [are] the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country.
-<small><sub>**BSB:**</sub></small>
-These are the inheritances that Eleazar the priest, Joshua son of Nun, and the heads of the families distributed by lot to the tribes of Israel at Shiloh before the LORD at the entrance to the Tent of Meeting. So they finished dividing up the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.50|<< Joshua 19:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.20.1|Joshua 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

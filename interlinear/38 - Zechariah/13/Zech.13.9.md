@@ -1,4 +1,4 @@
-**Zechariah 13:9** 
+**Zechariah 13:9**<big><big>[[Zech.13.7 The Shepherd Struck, the Sheep Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It [is] my people: and they shall say, The LORD [is] my God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This third I will bring through the fire; I will refine them like silver and tes
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.8|<< Zechariah 13:8]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.1|Zechariah 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵבֵאתִ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.ve.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

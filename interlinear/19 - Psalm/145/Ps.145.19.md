@@ -1,4 +1,4 @@
-**Psalms 145:19** 
+**Psalms 145:19**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He fulfills the desires of those who fear Him; He hears their cry and saves them
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.18|<< Psalms 145:18]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.20|Psalms 145:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] desire of  |**<big>&#8207;[[H7522\|רְצוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| re.tzon-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those] fearing him  |**<big>&#8207;[[H3373\|יְרֵאָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ye.re.'A<small><sup>[[HAampc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

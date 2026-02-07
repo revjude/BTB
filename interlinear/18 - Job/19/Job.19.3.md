@@ -1,4 +1,4 @@
-**Job 19:3** 
+**Job 19:3**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These ten times have ye reproached me: ye are not ashamed [that] ye make yourselves strange to me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ten times now you have reproached me; you shamelessly mistreat me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.2|<< Job 19:2]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.4|Job 19:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֤ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6235\|עֶ֣שֶׂר]]&#8207; </big>**| 'E.ser<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

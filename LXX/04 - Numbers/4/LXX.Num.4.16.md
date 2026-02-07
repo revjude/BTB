@@ -1,10 +1,7 @@
 **LXX Numbers 4:16** 
 <small><sub>**LXX:**</sub></small>
 Eleazar son of Aaron the priest \[is\] overseer \[of\] the oil for the light, and the incense of the composition, and the sacrifice  by day, and the oil for the anointing -- the overseeing entirely of the tent and as much as is in it in the holy \[place\], and in all the works. 
-<small><sub>**KJV:**</sub></small>
-And to the office of Eleazar the son of Aaron the priest [pertaineth] the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, [and] the oversight of all the tabernacle, and of all that therein [is], in the sanctuary, and in the vessels thereof.
-<small><sub>**BSB:**</sub></small>
-Eleazar son of Aaron the priest shall oversee the oil for the light, the fragrant incense, the daily grain offering, and the anointing oil. He has oversight of the entire tabernacle and everything in it, including the holy objects and their utensils.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.15|<< Numbers 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.17|Numbers 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 38:26** 
 <small><sub>**LXX:**</sub></small>
 \[for\] every one  passing into the numbering, from \[a son\] twenty years and up, for the sixty ten thousands, and three thousand and five hundred fifty. 
-<small><sub>**KJV:**</sub></small>
-A bekah for every man, [that is], half a shekel, after the shekel of the sanctuary, for every one that went to be numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty [men].
-<small><sub>**BSB:**</sub></small>
-a beka per person, that is, half a shekel, according to the sanctuary shekel, from everyone twenty years of age or older who had crossed over to be numbered, a total of 603,550 men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.25|<< Exodus 38:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.27|Exodus 38:27 >>]]</td></tr></table>
 
 | Translation | Greek |

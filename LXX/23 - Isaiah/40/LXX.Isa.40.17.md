@@ -1,10 +1,7 @@
 **LXX Isaiah 40:17** 
 <small><sub>**LXX:**</sub></small>
 and all the nations are as nothing, and were considered as nothing to him. 
-<small><sub>**KJV:**</sub></small>
-All nations before him [are] as nothing; and they are counted to him less than nothing, and vanity.
-<small><sub>**BSB:**</sub></small>
-All the nations are as nothing before Him; He regards them as nothingness and emptiness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.16|<< Isaiah 40:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.18|Isaiah 40:18 >>]]</td></tr></table>
 
 | Translation | Greek |

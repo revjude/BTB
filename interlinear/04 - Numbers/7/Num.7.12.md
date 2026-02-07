@@ -1,4 +1,4 @@
-**Numbers 7:12** 
+**Numbers 7:12**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the first day Nahshon son of Amminadab from the tribe of Judah drew near with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.11|<< Numbers 7:11]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.13|Numbers 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] brought near  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7126H\|מַּקְרִ֛יב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mak.Riv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

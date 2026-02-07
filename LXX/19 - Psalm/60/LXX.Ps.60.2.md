@@ -1,10 +1,7 @@
 **LXX Psalm 60:2** 
 <small><sub>**LXX:**</sub></small>
 You shook the earth, and disturbed it. Heal  its breaks! for it was shaken. 
-<small><sub>**KJV:**</sub></small>
-Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.
-<small><sub>**BSB:**</sub></small>
-You have shaken the land and torn it open. Heal its fractures, for it is quaking.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.60.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.1|<< Psalm 60:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.3|Psalm 60:3 >>]]</td></tr></table>
 
 | Translation | Greek |

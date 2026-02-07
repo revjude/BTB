@@ -1,10 +1,7 @@
 **LXX Exodus 26:37** 
 <small><sub>**LXX:**</sub></small>
 And you shall make for the veil five posts, and you shall gild them with gold; and the tips of them of gold; and you shall cast for them five bases of brass. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make for the hanging five pillars [of] shittim [wood], and overlay them with gold, [and] their hooks [shall be of] gold: and thou shalt cast five sockets of brass for them.
-<small><sub>**BSB:**</sub></small>
-Make five posts of acacia wood for the curtain, overlay them with gold, use hooks of gold, and cast five bronze bases for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.36|<< Exodus 26:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.1|Exodus 27:1 >>]]</td></tr></table>
 
 | Translation | Greek |

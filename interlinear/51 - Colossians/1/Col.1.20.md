@@ -1,12 +1,12 @@
-**Colossians 1:20
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:20**<big><big>[[Col.1.15 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, [I say], whether [they be] things in earth, or things in heaven.
 <small><sub>**BSB:**</sub></small>
 and through Him to reconcile to Himself all things, whether things on earth or things in heaven, by making peace through the blood of His cross.
 <small><sub>**Literal:**</sub></small>
 and through Him to reconcile <the> all things to Himself, having made peace through the blood of the cross of Him, through Him whether the [things] on the earth or the [things] in the heavens;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.19|<< Colossians 1:19]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.21|Colossians 1:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | through |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:11** 
 <small><sub>**LXX:**</sub></small>
 And he incinerated the horses which \[the\] kings of Judah presented to the sun, in the entrance of \[the\] house of \[the\] <span class="smallcaps">lord</span>, towards the treasury room of Nathan the eunuch of the king, of the one in \[the\] compound. And the chariot of the sun he incinerated by fire. 
-<small><sub>**KJV:**</sub></small>
-And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathanmelech the chamberlain, which [was] in the suburbs, and burned the chariots of the sun with fire.
-<small><sub>**BSB:**</sub></small>
-And he removed from the entrance to the house of the LORD the horses that the kings of Judah had dedicated to the sun. They were in the court near the chamber of an official named Nathan-melech. And Josiah burned up the chariots of the sun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.10|<< 2 Kings 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.12|2 Kings 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 10:19** 
 <small><sub>**LXX:**</sub></small>
 And Aaron spoke to Moses, saying, If today they have brought the \[things\] for  their sin \[offering\], and the \[things\] of their whole burnt-offerings before \[the\] <span class="smallcaps">lord</span>, and has come to pass to me such \[things\], and I shall eat the \[thing\] -- for the sin \[offering\] today, shall it be pleasing \[to the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And Aaron said unto Moses, Behold, this day have they offered their sin offering and their burnt offering before the LORD; and such things have befallen me: and [if] I had eaten the sin offering to day, should it have been accepted in the sight of the LORD?
-<small><sub>**BSB:**</sub></small>
-But Aaron replied to Moses, “Behold, this very day they presented their sin offering and their burnt offering before the LORD. Since these things have happened to me, if I had eaten the sin offering today, would it have been acceptable in the sight of the LORD?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.18|<< Leviticus 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.20|Leviticus 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

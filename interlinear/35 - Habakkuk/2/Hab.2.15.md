@@ -1,4 +1,4 @@
-**Habakkuk 2:15** 
+**Habakkuk 2:15**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto him that giveth his neighbour drink, that puttest thy bottle to [him], and makest [him] drunken also, that thou mayest look on their nakedness!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to him who gives drink to his neighbors, pouring it from the wineskin until 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.14|<< Habakkuk 2:14]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.16|Habakkuk 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֚וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] makes drink  |**<big>&#8207;[[H8248H\|מַשְׁקֵ֣ה]]&#8207; </big>**| mash.Keh<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

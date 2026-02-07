@@ -1,10 +1,7 @@
 **LXX Genesis 1:5** 
 <small><sub>**LXX:**</sub></small>
 And God called the light, Day, and the darkness he called, Night; and there was evening and there was morning, day one. 
-<small><sub>**KJV:**</sub></small>
-And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
-<small><sub>**BSB:**</sub></small>
-God called the light “day,” and the darkness He called “night.” And there was evening, and there was morning—the first day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.4|<< Genesis 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.6|Genesis 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

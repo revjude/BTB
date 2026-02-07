@@ -1,4 +1,4 @@
-**2 Samuel 24:13** 
+**2 Samuel 24:13**<big><big>[[2Sam.24.10 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto thee in thy land? or wilt thou flee three months before thine enemies, while they pursue thee? or that there be three days’ pestilence in thy land? now advise, and see what answer I shall return to him that sent me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Gad went and said to David, “Do you choose to endure three years of famine 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.12|<< 2 Samuel 24:12]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.14|2 Samuel 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.vo'-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gad  |**<big>&#8207;[[H1410H\|גָ֥ד]]&#8207; </big>**| gad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

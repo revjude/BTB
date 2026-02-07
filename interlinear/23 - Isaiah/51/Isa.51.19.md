@@ -1,4 +1,4 @@
-**Isaiah 51:19** 
+**Isaiah 51:19**<big><big>[[Isa.51.17 God’s Fury Removed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These two [things] are come unto thee; who shall be sorry for thee? desolation, and destruction, and the famine, and the sword: by whom shall I comfort thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These pairs have befallen you: devastation and destruction, famine and sword. Wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.18|<< Isaiah 51:18]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.20|Isaiah 51:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | two [things]  |**<big>&#8207;[[H8147\|שְׁתַּ֤יִם]]&#8207; </big>**| she.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H2007\|הֵ֙נָּה֙]]&#8207; </big>**| he.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

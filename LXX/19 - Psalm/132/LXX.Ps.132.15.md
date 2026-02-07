@@ -1,10 +1,7 @@
 **LXX Psalm 132:15** 
 <small><sub>**LXX:**</sub></small>
  Her game being a blessing, I shall bless;  her poor I will fill \[with\] bread loaves; 
-<small><sub>**KJV:**</sub></small>
-I will abundantly bless her provision: I will satisfy her poor with bread.
-<small><sub>**BSB:**</sub></small>
-I will bless her with abundant provisions; I will satisfy her poor with bread.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.132.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.14|<< Psalm 132:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.16|Psalm 132:16 >>]]</td></tr></table>
 
 | Translation | Greek |

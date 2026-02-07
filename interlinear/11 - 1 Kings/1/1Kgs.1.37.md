@@ -1,4 +1,4 @@
-**1 Kings 1:37** 
+**1 Kings 1:37**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the LORD hath been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just as the LORD was with my lord the king, so may He be with Solomon and make h
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.36|<< 1 Kings 1:36]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.38|1 Kings 1:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֨ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has been  |**<big>&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

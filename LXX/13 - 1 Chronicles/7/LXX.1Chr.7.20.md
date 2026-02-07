@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:20** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Ephraim -- Shuthelah, and Bered his son, and Tahath his son, Eladah his son, and Tahath his son, 
-<small><sub>**KJV:**</sub></small>
-And the sons of Ephraim; Shuthelah, and Bered his son, and Tahath his son, and Eladah his son, and Tahath his son,
-<small><sub>**BSB:**</sub></small>
-The descendants of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.19|<< 1 Chronicles 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.21|1 Chronicles 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

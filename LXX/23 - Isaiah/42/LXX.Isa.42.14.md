@@ -1,10 +1,7 @@
 **LXX Isaiah 42:14** 
 <small><sub>**LXX:**</sub></small>
 I kept silent from \[the\] eon; shall I also continually keep silent and endure? As the woman giving birth perseveres, I will now amaze and dry out at the same time. 
-<small><sub>**KJV:**</sub></small>
-I have long time holden my peace; I have been still, [and] refrained myself: [now] will I cry like a travailing woman; I will destroy and devour at once.
-<small><sub>**BSB:**</sub></small>
-“I have kept silent from ages past; I have remained quiet and restrained. But now I will groan like a woman in labor; I will at once gasp and pant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.13|<< Isaiah 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.15|Isaiah 42:15 >>]]</td></tr></table>
 
 | Translation | Greek |

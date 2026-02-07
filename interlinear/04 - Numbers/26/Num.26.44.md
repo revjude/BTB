@@ -1,4 +1,4 @@
-**Numbers 26:44** 
+**Numbers 26:44**<big><big>[[Num.26.44 The Tribe of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Of] the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the descendants of Asher by their clans: The Imnite clan from Imnah, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.43|<< Numbers 26:43]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.45|Numbers 26:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asher  |**<big>&#8207;[[H0836\|אָשֵׁר֮]]&#8207; </big>**| 'a.Sher<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

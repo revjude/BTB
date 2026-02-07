@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:14** 
 <small><sub>**LXX:**</sub></small>
 And he took the sheepskin of Elijah, which fell on top of him, and he struck the waters, and said, Where \[is\] \[the\] God of Elijah now? And he struck the waters, and they tore apart here and there; and Elisha passed over. 
-<small><sub>**KJV:**</sub></small>
-And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where [is] the LORD God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over.
-<small><sub>**BSB:**</sub></small>
-Then he took the cloak of Elijah that had fallen from him and struck the waters. “Where now is the LORD, the God of Elijah?” he asked. And when he had struck the waters, they parted to the right and to the left, and Elisha crossed over.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.13|<< 2 Kings 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.15|2 Kings 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

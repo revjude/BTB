@@ -1,4 +1,4 @@
-**Ezekiel 7:12** 
+**Ezekiel 7:12**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The time is come, the day draweth near: let not the buyer rejoice, nor the seller mourn: for wrath [is] upon all the multitude thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The time has come; the day has arrived. Let the buyer not rejoice and the seller
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.11|<< Ezekiel 7:11]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.13|Ezekiel 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has come  |**<big>&#8207;[[H0935G\|בָּ֤א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the time  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6256\|עֵת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

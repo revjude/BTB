@@ -1,10 +1,7 @@
 **LXX Esther 9:12** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Esther, The Jews destroyed in Shushan five hundred men in the city; and in the place round about, how do you imagine they were treated? What then do you still petition, for it will be yours? 
-<small><sub>**KJV:**</sub></small>
-And the king said unto Esther the queen, The Jews have slain and destroyed five hundred men in Shushan the palace, and the ten sons of Haman; what have they done in the rest of the king’s provinces? now what [is] thy petition? and it shall be granted thee: or what [is] thy request further? and it shall be done.
-<small><sub>**BSB:**</sub></small>
-who said to Queen Esther, “In the citadel of Susa the Jews have killed and destroyed five hundred men, including Haman’s ten sons. What have they done in the rest of the royal provinces? Now what is your petition? It will be given to you. And what further do you request? It will be fulfilled.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.11|<< Esther 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.13|Esther 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

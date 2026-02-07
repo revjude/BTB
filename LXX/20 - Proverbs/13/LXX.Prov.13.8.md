@@ -1,10 +1,7 @@
 **LXX Proverbs 13:8** 
 <small><sub>**LXX:**</sub></small>
 A man's own riches is \[the\] ransom of \[his\] life; but \[the\] poor does not stand at intimidation. 
-<small><sub>**KJV:**</sub></small>
-The ransom of a man’s life [are] his riches: but the poor heareth not rebuke.
-<small><sub>**BSB:**</sub></small>
-Riches may ransom a man’s life, but a poor man hears no threat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.7|<< Proverbs 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.9|Proverbs 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

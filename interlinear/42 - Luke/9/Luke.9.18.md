@@ -1,12 +1,12 @@
-**Luke 9:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:18**<big><big>[[Luke.9.18 Peter’s Confession of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?
 <small><sub>**BSB:**</sub></small>
 One day as Jesus was praying in private and the disciples were with Him, He questioned them: “Who do the crowds say I am?”
 <small><sub>**Literal:**</sub></small>
 And it came to pass as <the> happening He is praying in solitary were with Him the disciples, and He questioned them saying; Whom Me do pronounce the crowds to be?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.17|<< Luke 9:17]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.19|Luke 9:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

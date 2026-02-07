@@ -1,4 +1,4 @@
-**Joshua 21:27** 
+**Joshua 21:27**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto the children of Gershon, of the families of the Levites, out of the [other] half tribe of Manasseh [they gave] Golan in Bashan with her suburbs, [to be] a city of refuge for the slayer; and Beeshterah with her suburbs; two cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what the Levite clans of the Gershonites were given: From the half-tribe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.26|<< Joshua 21:26]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.28|Joshua 21:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] descendants of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gershon  |**<big>&#8207;[[H1648\|גֵרְשׁוֹן֮]]&#8207; </big>**| ge.re.shOn<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

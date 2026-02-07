@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:10** 
 <small><sub>**LXX:**</sub></small>
 to remove the kingdom from the house of Saul, and  to raise up the throne of David over Israel, and over  Judah, from Dan until Beer-sheba. 
-<small><sub>**KJV:**</sub></small>
-To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beersheba.
-<small><sub>**BSB:**</sub></small>
-to transfer the kingdom from the house of Saul and to establish the throne of David over Israel and Judah, from Dan to Beersheba.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.9|<< 2 Samuel 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.11|2 Samuel 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

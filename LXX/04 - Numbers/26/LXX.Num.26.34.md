@@ -1,10 +1,7 @@
 **LXX Numbers 26:34** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the peoples of Manasseh by their numbering -- two and fifty thousand and seven hundred. 
-<small><sub>**KJV:**</sub></small>
-These [are] the families of Manasseh, and those that were numbered of them, fifty and two thousand and seven hundred.
-<small><sub>**BSB:**</sub></small>
-These were the clans of Manasseh, and their registration numbered 52,700.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.33|<< Numbers 26:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.35|Numbers 26:35 >>]]</td></tr></table>
 
 | Translation | Greek |

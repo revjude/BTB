@@ -1,12 +1,12 @@
-**Revelation 3:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:14**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God;
 <small><sub>**BSB:**</sub></small>
 To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true Witness, the Originator of God’s creation.
 <small><sub>**Literal:**</sub></small>
 And to the angel of the in Laodicea church do write: These things says the Amen, the Witness <the> faithful and <the> true, the Beginning of the creation <the> of God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.13|<< Revelation 3:13]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.15|Revelation 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

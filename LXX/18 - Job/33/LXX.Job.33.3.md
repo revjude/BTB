@@ -1,10 +1,7 @@
 **LXX Job 33:3** 
 <small><sub>**LXX:**</sub></small>
 My heart \[is\] pure in words, and \[the\] understanding of my lips shall purpose pure. 
-<small><sub>**KJV:**</sub></small>
-My words [shall be of] the uprightness of my heart: and my lips shall utter knowledge clearly.
-<small><sub>**BSB:**</sub></small>
-My words are from an upright heart, and my lips speak sincerely what I know.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.2|<< Job 33:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.4|Job 33:4 >>]]</td></tr></table>
 
 | Translation | Greek |

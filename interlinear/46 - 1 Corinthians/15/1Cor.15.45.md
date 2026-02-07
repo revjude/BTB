@@ -1,5 +1,5 @@
-**1 Corinthians 15:45
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:45**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And so it is written, The first man Adam was made a living soul; the last Adam [was made] a quickening spirit.
 <small><sub>**BSB:**</sub></small>
 So it is written: “The first man Adam became a living being”; the last Adam a life-giving spirit.
@@ -10,7 +10,7 @@ So also it has been written: Became the first man Adam into a soul living; the l
 > $\quad$ referencing: [[LXX.Gen.2.7|Gen 2:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

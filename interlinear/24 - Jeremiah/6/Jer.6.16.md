@@ -1,4 +1,4 @@
-**Jeremiah 6:16** 
+**Jeremiah 6:16**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Stand ye in the ways, and see, and ask for the old paths, where [is] the good way, and walk therein, and ye shall find rest for your souls. But they said, We will not walk [therein].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is what the LORD says: “Stand at the crossroads and look. Ask for the anc
 > $\quad$ referenced by: [[Matt.11.29|Matt 11:29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֣ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

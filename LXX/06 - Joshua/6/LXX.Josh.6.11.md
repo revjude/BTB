@@ -1,10 +1,7 @@
 **LXX Joshua 6:11** 
 <small><sub>**LXX:**</sub></small>
 And the ark of the covenant of God having gone around the city round about, immediately they went forth into the camp, and spent the night there. 
-<small><sub>**KJV:**</sub></small>
-So the ark of the LORD compassed the city, going about [it] once: and they came into the camp, and lodged in the camp.
-<small><sub>**BSB:**</sub></small>
-So he had the ark of the LORD carried around the city, circling it once. And the people returned to the camp and spent the night there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.10|<< Joshua 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.12|Joshua 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

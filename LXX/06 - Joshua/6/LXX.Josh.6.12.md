@@ -1,10 +1,7 @@
 **LXX Joshua 6:12** 
 <small><sub>**LXX:**</sub></small>
 And on the second day Joshua rose up in the morning, and the priests lifted the ark of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Joshua rose early in the morning, and the priests took up the ark of the LORD.
-<small><sub>**BSB:**</sub></small>
-Joshua got up early the next morning, and the priests took the ark of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.11|<< Joshua 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.13|Joshua 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

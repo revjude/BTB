@@ -1,12 +1,12 @@
-**Acts 13:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:1**<big><big>[[Acts.13.1 Paul’s First Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
 <small><sub>**BSB:**</sub></small>
 Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch), and Saul.
 <small><sub>**Literal:**</sub></small>
 There were now some in Antioch in what is [the] church prophets and teachers, <the> both Barnabas and Simeon who is being called Niger and Lucius the Cyrenian, Manaen also — with Herod the tetrarch brought up — and Saul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.25|<< Acts 12:25]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.2|Acts 13:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There were |**<big>[[G1510\|Ἦσαν]]</big>**  |Ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

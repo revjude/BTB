@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] son of Hadad king of Syria gathered together all  his force, and thirty-two kings with him, and horses and chariots. And they ascended, and laid siege against Samaria, and waged war against it. 
-<small><sub>**KJV:**</sub></small>
-And Benhadad the king of Syria gathered all his host together: and [there were] thirty and two kings with him, and horses, and chariots: and he went up and besieged Samaria, and warred against it.
-<small><sub>**BSB:**</sub></small>
-Now Ben-hadad king of Aram assembled his entire army. Accompanied by thirty-two kings with their horses and chariots, he marched up, besieged Samaria, and waged war against it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.21|<< 1 Kings 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.2|1 Kings 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

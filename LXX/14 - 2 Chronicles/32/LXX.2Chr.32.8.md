@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:8** 
 <small><sub>**LXX:**</sub></small>
 With him \[are\] arms of flesh, but with us \[is the\] <span class="smallcaps">lord</span>  our God,  to deliver and  to wage  our war. And the people relied with confidence upon the words of Hezekiah king of Judah. 
-<small><sub>**KJV:**</sub></small>
-With him [is] an arm of flesh; but with us [is] the LORD our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah.
-<small><sub>**BSB:**</sub></small>
-With him is only the arm of flesh, but with us is the LORD our God to help us and to fight our battles.” So the people were strengthened by the words of Hezekiah king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.7|<< 2 Chronicles 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.9|2 Chronicles 32:9 >>]]</td></tr></table>
 
 | Translation | Greek |

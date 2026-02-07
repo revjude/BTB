@@ -1,6 +1,6 @@
 (KJV) **Psalm 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6|<< Psalm 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8|Psalm 8 >>]]</td></tr></table>
 
-***I Take Refuge in You*** ^bsb1300
+<big><big>[[Ps.7.1 I Take Refuge in You|⥃]]</big></big>***I Take Refuge in You***
 
 
 

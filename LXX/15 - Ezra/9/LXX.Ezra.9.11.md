@@ -1,10 +1,7 @@
 **LXX Ezra 9:11** 
 <small><sub>**LXX:**</sub></small>
 \[the\] ones which you gave to us by \[the\] hand  of your servants the prophets, saying, The land into which you enter there, to be an heir to it, is a land in motion by \[the\] removal of \[the\] peoples of the lands of their abominations, which they filled it from mouth to mouth in their uncleannesses. 
-<small><sub>**KJV:**</sub></small>
-Which thou hast commanded by thy servants the prophets, saying, The land, unto which ye go to possess it, is an unclean land with the filthiness of the people of the lands, with their abominations, which have filled it from one end to another with their uncleanness.
-<small><sub>**BSB:**</sub></small>
-that You gave through Your servants the prophets, saying: ‘The land that you are entering to possess is a land polluted by the impurity of its peoples and the abominations with which they have filled it from end to end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.10|<< Ezra 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.12|Ezra 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

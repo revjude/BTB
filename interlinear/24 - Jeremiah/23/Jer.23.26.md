@@ -1,4 +1,4 @@
-**Jeremiah 23:26** 
+**Jeremiah 23:26**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long shall [this] be in the heart of the prophets that prophesy lies? yea, [they are] prophets of the deceit of their own heart;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How long will this continue in the hearts of these prophets who prophesy falseho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.25|<< Jeremiah 23:25]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.27|Jeremiah 23:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when?  |**<big>&#8207;[[H4970\|מָתַ֗י]]&#8207; </big>**| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

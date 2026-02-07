@@ -1,4 +1,4 @@
-**Psalms 97:8** 
+**Psalms 97:8**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zion hears and rejoices, and the towns of Judah exult because of Your judgments,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.7|<< Psalms 97:7]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.9|Psalms 97:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it hears  |**<big>&#8207;[[H8085G\|שָׁמְעָ֬ה]]&#8207; </big>**| sha.me.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it rejoiced  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8055\|תִּשְׂמַ֨ח]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tis.Mach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

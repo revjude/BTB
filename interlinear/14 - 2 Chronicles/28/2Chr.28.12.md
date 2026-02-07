@@ -1,4 +1,4 @@
-**2 Chronicles 28:12** 
+**2 Chronicles 28:12**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then some of the leaders of the Ephraimites—Azariah son of Jehohanan, Berechia
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.11|<< 2 Chronicles 28:11]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.13|2 Chronicles 28:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rose up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965J\|יָּקֻ֨מוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men  |**<big>&#8207;[[H0582\|אֲנָשִׁ֜ים]]&#8207; </big>**| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

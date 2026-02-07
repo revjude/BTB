@@ -1,4 +1,4 @@
-**Exodus 6:16** 
+**Exodus 6:16**<big><big>[[Exod.6.14 Genealogies of Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi [were] an hundred thirty and seven years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the names of the sons of Levi according to their records: Gershon, Ko
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.15|<< Exodus 6:15]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.17|Exodus 6:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֨לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֤וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

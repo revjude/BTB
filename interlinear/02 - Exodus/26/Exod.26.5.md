@@ -1,4 +1,4 @@
-**Exodus 26:5** 
+**Exodus 26:5**<big><big>[[Exod.26.1 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fifty loops shalt thou make in the one curtain, and fifty loops shalt thou make in the edge of the curtain that [is] in the coupling of the second; that the loops may take hold one of another.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Make fifty loops on one curtain and fifty loops on the end curtain of the second
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.4|<< Exodus 26:4]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.6|Exodus 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֣ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | loops  |**<big>&#8207;[[H3924\|לֻֽלָאֹ֗ת]]&#8207; </big>**| lu.la.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 22:30** 
 <small><sub>**LXX:**</sub></small>
 And Phinehas the priest heard, and all the rulers of the congregation, and the commanders of Israel, the ones who were with him, the words which they spoke, the sons of Reuben, and the sons of Gad, and the sons of Manasseh, and it pleased them. 
-<small><sub>**KJV:**</sub></small>
-And when Phinehas the priest, and the princes of the congregation and heads of the thousands of Israel which [were] with him, heard the words that the children of Reuben and the children of Gad and the children of Manasseh spake, it pleased them.
-<small><sub>**BSB:**</sub></small>
-When Phinehas the priest and the chiefs of the congregation—the heads of Israel’s clans who were with him—heard what the descendants of Reuben, Gad, and Manasseh had to say, they were satisfied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.29|<< Joshua 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.31|Joshua 22:31 >>]]</td></tr></table>
 
 | Translation | Greek |

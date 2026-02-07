@@ -1,12 +1,12 @@
-**1 Corinthians 7:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:13**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him.
 <small><sub>**BSB:**</sub></small>
 And if a woman has an unbelieving husband and he is willing to live with her, she must not divorce him.
 <small><sub>**Literal:**</sub></small>
 And a woman if any has a husband unbelieving and he consents to dwell with her, not she should divorce the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.12|<< 1 Corinthians 7:12]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.14|1 Corinthians 7:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a woman |**<big>[[G1135G\|γυνὴ]]</big>**  |gunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

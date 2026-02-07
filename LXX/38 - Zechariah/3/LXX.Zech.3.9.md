@@ -1,10 +1,7 @@
 **LXX Zechariah 3:9** 
 <small><sub>**LXX:**</sub></small>
 For the stone which I put before \[the\] face of Joshua; upon the one stone are seven eyes. Behold, I dig an excavation, says \[the\] <span class="smallcaps">lord</span> almighty; and I will handle all the injustice of the land in one day. 
-<small><sub>**KJV:**</sub></small>
-For behold the stone that I have laid before Joshua; upon one stone [shall be] seven eyes: behold, I will engrave the graving thereof, saith the LORD of hosts, and I will remove the iniquity of that land in one day.
-<small><sub>**BSB:**</sub></small>
-See the stone I have set before Joshua; on that one stone are seven eyes. Behold, I will engrave on it an inscription, declares the LORD of Hosts, and I will remove the iniquity of this land in a single day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.8|<< Zechariah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.10|Zechariah 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

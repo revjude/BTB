@@ -1,12 +1,12 @@
-**John 18:1
-**<small><sub>**KJV:**</sub></small>
+**John 18:1**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
 <small><sub>**BSB:**</sub></small>
 After Jesus had spoken these words, He went out with His disciples across the Kidron Valley, where they entered a garden.
 <small><sub>**Literal:**</sub></small>
 These things having said <the> Jesus went out with the disciples of Him beyond the winter stream of the of Kidron where there was a garden into which entered He himself and the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.26|<< John 17:26]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.2|John 18:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having said |**<big>[[G2036\|εἰπὼν]]</big>**  |eipōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

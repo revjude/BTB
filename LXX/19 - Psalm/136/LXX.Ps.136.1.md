@@ -6,10 +6,7 @@ Alleluiah.
 
 <small><sub>**LXX:**</sub></small>
 Let us confess \[to\] \[the\] <span class="smallcaps">lord</span>, for \[he is\] good, for into the eon  \[is\] his mercy! 
-<small><sub>**KJV:**</sub></small>
-O give thanks unto the LORD; for [he is] good: for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-Give thanks to the LORD, for He is good. His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.136.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.21|<< Psalm 135:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.2|Psalm 136:2 >>]]</td></tr></table>
 
 | Translation | Greek |

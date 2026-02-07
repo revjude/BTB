@@ -1,10 +1,7 @@
 **LXX Psalm 43:5** 
 <small><sub>**LXX:**</sub></small>
 Why are you dejected, O my soul? and why disturb me? Hope upon  God! for I shall make acknowledgment to him, \[the\] deliverance  of my person, and  my God. 
-<small><sub>**KJV:**</sub></small>
-Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, [who is] the health of my countenance, and my God.
-<small><sub>**BSB:**</sub></small>
-Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.43.4|<< Psalm 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.1|Psalm 44:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 43:5** is...

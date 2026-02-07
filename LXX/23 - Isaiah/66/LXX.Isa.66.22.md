@@ -1,10 +1,7 @@
 **LXX Isaiah 66:22** 
 <small><sub>**LXX:**</sub></small>
 For in which manner the new heaven and the new earth which I make wait before me, says \[the\] <span class="smallcaps">lord</span>, so I shall establish  your seed, and  your name. 
-<small><sub>**KJV:**</sub></small>
-For as the new heavens and the new earth, which I will make, shall remain before me, saith the LORD, so shall your seed and your name remain.
-<small><sub>**BSB:**</sub></small>
-“For just as the new heavens and the new earth, which I will make, will endure before Me,” declares the LORD, “so your descendants and your name will endure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.21|<< Isaiah 66:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.23|Isaiah 66:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 66:22** is...

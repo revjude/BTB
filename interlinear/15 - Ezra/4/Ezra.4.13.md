@@ -1,4 +1,4 @@
-**Ezra 4:13** 
+**Ezra 4:13**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be it known now unto the king, that, if this city be builded, and the walls set up [again, then] will they not pay toll, tribute, and custom, and [so] thou shalt endamage the revenue of the kings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let it now be known to the king that if that city is rebuilt and its walls are r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.12|<< Ezra 4:12]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.14|Ezra 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H3705\|כְּעַ֗ן]]&#8207; </big>**| ke.'An<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | known  |**<big>&#8207;[[H3046\|יְדִ֙יעַ֙]]&#8207; </big>**| ye.Di.a'<small><sup>[[AVQrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

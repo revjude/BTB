@@ -1,12 +1,12 @@
-**2 Corinthians 10:12
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:12**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.
 <small><sub>**BSB:**</sub></small>
 We do not dare to classify or compare ourselves with some who commend themselves. When they measure themselves by themselves and compare themselves with themselves, they show their ignorance.
 <small><sub>**Literal:**</sub></small>
 Not for dare we to classify or to compare ourselves [with] some <the> themselves commending; but these by themselves themselves measuring and comparing themselves with themselves not understand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.11|<< 2 Corinthians 10:11]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.13|2 Corinthians 10:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 32:25** 
+**Jeremiah 32:25**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou hast said unto me, O Lord GOD, Buy thee the field for money, and take witnesses; for the city is given into the hand of the Chaldeans.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet You, O Lord GOD, have said to me, ‘Buy for yourself the field with silver 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.24|<< Jeremiah 32:24]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.26|Jeremiah 32:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have said  |**<big>&#8207;[[H0559\|אָמַ֤רְתָּ]]&#8207; </big>**| 'a.Mar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ruth 2:17** 
+**Ruth 2:17**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So she gleaned in the field until even, and beat out that she had gleaned: and it was about an ephah of barley.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ruth gathered grain in the field until evening. And when she beat out what sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.16|<< Ruth 2:16]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.18|Ruth 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she gleaned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3950\|תְּלַקֵּ֥ט]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.la.Ket<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the field  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֖ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

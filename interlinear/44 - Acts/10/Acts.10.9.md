@@ -1,12 +1,12 @@
-**Acts 10:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:9**<big><big>[[Acts.10.9 Peter’s Vision|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:
 <small><sub>**BSB:**</sub></small>
 The next day at about the sixth hour, as the men were approaching the city on their journey, Peter went up on the roof to pray.
 <small><sub>**Literal:**</sub></small>
 On the now next day when are journeying these and to the city are approaching, went up Peter on the housetop to pray about hour [the] sixth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.8|<< Acts 10:8]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.10|Acts 10:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

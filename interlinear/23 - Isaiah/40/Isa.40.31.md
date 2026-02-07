@@ -1,4 +1,4 @@
-**Isaiah 40:31** 
+**Isaiah 40:31**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they that wait upon the LORD shall renew [their] strength; they shall mount up with wings as eagles; they shall run, and not be weary; [and] they shall walk, and not faint.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But those who wait upon the LORD will renew their strength; they will mount up w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.30|<< Isaiah 40:30]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.1|Isaiah 41:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [those who] wait for  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6960A\|קוֹיֵ֤]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ko.Ye<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

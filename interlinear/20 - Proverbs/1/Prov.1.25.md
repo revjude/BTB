@@ -1,4 +1,4 @@
-**Proverbs 1:25** 
+**Proverbs 1:25**<big><big>[[Prov.1.20 Wisdom Calls Aloud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye have set at nought all my counsel, and would none of my reproof:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because you neglected all my counsel, and wanted none of my correction,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.24|<< Proverbs 1:24]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.26|Proverbs 1:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you ignored  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6544B\|תִּפְרְע֥וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tif.re.'U<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

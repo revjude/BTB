@@ -1,12 +1,12 @@
-**Matthew 21:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:8**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a very great multitude spread their garments in the way; others cut down branches from the trees, and strawed [them] in the way.
 <small><sub>**BSB:**</sub></small>
 A massive crowd spread their cloaks on the road, while others cut branches from the trees and spread them on the road.
 <small><sub>**Literal:**</sub></small>
 The now very great crowd spread their own <the> cloaks on the road, others now were cutting down branches from the trees and were spreading [them] on the road.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.7|<< Matthew 21:7]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.9|Matthew 21:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

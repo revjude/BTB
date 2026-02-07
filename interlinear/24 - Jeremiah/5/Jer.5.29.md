@@ -1,4 +1,4 @@
-**Jeremiah 5:29** 
+**Jeremiah 5:29**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I not visit for these [things]? saith the LORD: shall not my soul be avenged on such a nation as this?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Should I not punish them for these things?” declares the LORD. “Should I not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.28|<< Jeremiah 5:28]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.30|Jeremiah 5:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ on  |**<big>&#8207;[[H9008\|הַֽ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these [things]  |**<big>&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

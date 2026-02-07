@@ -1,4 +1,4 @@
-**Job 1:20** 
+**Job 1:20**<big><big>[[Job.1.13 Job Loses His Children and Possessions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Job stood up, tore his robe, and shaved his head. He fell to the ground and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.19|<< Job 1:19]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.21|Job 1:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֤קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Job  |**<big>&#8207;[[H0347\|אִיּוֹב֙]]&#8207; </big>**| 'i.yOv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

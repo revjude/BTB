@@ -1,4 +1,4 @@
-**Jeremiah 21:9** 
+**Jeremiah 21:9**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever stays in this city will die by sword and famine and plague, but whoever 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.8|<< Jeremiah 21:8]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.10|Jeremiah 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one who] remains  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3427\|יֹּשֵׁב֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the city  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

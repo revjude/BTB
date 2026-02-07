@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:32** 
 <small><sub>**LXX:**</sub></small>
 And the ones towards \[the\] east, four thousand and five hundred; and three gates; \[the\] gate of Joseph -- one, and \[the\] gate of Benjamin -- one, and \[the\] gate of Dan -- one. 
-<small><sub>**KJV:**</sub></small>
-And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan.
-<small><sub>**BSB:**</sub></small>
-On the east side, which will be 4,500 cubits long, there will be three gates: the gate of Joseph, the gate of Benjamin, and the gate of Dan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.31|<< Ezekiel 48:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.33|Ezekiel 48:33 >>]]</td></tr></table>
 
 | Translation | Greek |

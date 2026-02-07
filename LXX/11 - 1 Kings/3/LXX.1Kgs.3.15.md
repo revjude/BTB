@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:15** 
 <small><sub>**LXX:**</sub></small>
 And Solomon woke up and knew \[the\] dream. And he rose up and came unto Jerusalem, and he stood in front of the altar, of the one in front of the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span>, and he led up whole burnt-offerings, and made peace \[offerings\], and made a banquet to all  his servants. 
-<small><sub>**KJV:**</sub></small>
-And Solomon awoke; and, behold, [it was] a dream. And he came to Jerusalem, and stood before the ark of the covenant of the LORD, and offered up burnt offerings, and offered peace offerings, and made a feast to all his servants.
-<small><sub>**BSB:**</sub></small>
-Then Solomon awoke, and indeed it had been a dream. So he returned to Jerusalem, stood before the ark of the covenant of the Lord, and offered burnt offerings and peace offerings. Then he held a feast for all his servants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.14|<< 1 Kings 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.16|1 Kings 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

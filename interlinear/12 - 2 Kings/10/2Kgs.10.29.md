@@ -1,4 +1,4 @@
-**2 Kings 10:29** 
+**2 Kings 10:29**<big><big>[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit [from] the sins of Jeroboam the son of Nebat, who made Israel to sin, Jehu departed not from after them, [to wit], the golden calves that [were] in Bethel, and that [were] in Dan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but he did not turn away from the sins that Jeroboam son of Nebat had caused Isr
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.28|<< 2 Kings 10:28]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.30|2 Kings 10:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֠ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sins of  |**<big>&#8207;[[H2399\|חֲטָאֵ֞י]]&#8207; </big>**| cha.ta.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

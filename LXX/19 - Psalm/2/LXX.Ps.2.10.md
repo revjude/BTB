@@ -1,10 +1,7 @@
 **LXX Psalm 2:10** 
 <small><sub>**LXX:**</sub></small>
 And now, O kings, perceive! all the ones judging the earth be instructed! 
-<small><sub>**KJV:**</sub></small>
-Be wise now therefore, O ye kings: be instructed, ye judges of the earth.
-<small><sub>**BSB:**</sub></small>
-Therefore be wise, O kings; be admonished, O judges of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.2.9|<< Psalm 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.11|Psalm 2:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 2:10** is...

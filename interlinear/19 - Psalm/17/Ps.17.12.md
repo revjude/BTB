@@ -1,4 +1,4 @@
-**Psalms 17:12** 
+**Psalms 17:12**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Like as a lion [that] is greedy of his prey, and as it were a young lion lurking in secret places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ like a lion greedy for prey, like a young lion lurking in ambush.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.11|<< Psalms 17:11]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.13|Psalms 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | likeness his  |**<big>&#8207;[[H1825\|דִּמְיֹנ֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| dim.yo.N<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like a lion  |**<big>&#8207;[[H9004\|כְּ֭]]&#8207;&#8207;[[H0738B\|אַרְיֵה]]&#8207; </big>**| Ke.<small><sup>[[HR]]</sup></small> 'ar.yeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

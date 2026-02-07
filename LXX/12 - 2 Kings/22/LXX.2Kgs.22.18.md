@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:18** 
 <small><sub>**LXX:**</sub></small>
 And to the king of Judah, the one sending you  to inquire of the <span class="smallcaps">lord</span>, thus you shall say to him, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel \[concerning\] the words which you heard; 
-<small><sub>**KJV:**</sub></small>
-But to the king of Judah which sent you to inquire of the LORD, thus shall ye say to him, Thus saith the LORD God of Israel, [As touching] the words which thou hast heard;
-<small><sub>**BSB:**</sub></small>
-But as for the king of Judah, who sent you to inquire of the LORD, tell him that this is what the LORD, the God of Israel, says: ‘As for the words that you heard,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.17|<< 2 Kings 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.19|2 Kings 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

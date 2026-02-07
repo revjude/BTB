@@ -1,4 +1,4 @@
-**Song of Solomon 5:7** 
+**Song of Solomon 5:7**<big><big>[[Song.5.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I encountered the watchmen on their rounds of the city. They beat me and bruised
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.6|<< Song of Solomon 5:6]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.8|Song of Solomon 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they found me  |**<big>&#8207;[[H4672\|מְצָאֻ֧]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| me.tza.'U.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the watchmen  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8104H\|שֹּׁמְרִ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 39:15** 
+**Jeremiah 39:15**<big><big>[[Jer.39.11 Jeremiah Delivered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the word of the LORD came unto Jeremiah, while he was shut up in the court of the prison, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And while Jeremiah had been confined in the courtyard of the guard, the word of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.14|<< Jeremiah 39:14]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.16|Jeremiah 39:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָ֖הוּ]]&#8207; </big>**| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

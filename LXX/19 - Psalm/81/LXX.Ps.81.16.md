@@ -1,10 +1,7 @@
 **LXX Psalm 81:16** 
 <small><sub>**LXX:**</sub></small>
 And he fed them of \[the\] fat of wheat; and he filled them from out of \[the\] rock \[with\] honey. 
-<small><sub>**KJV:**</sub></small>
-He should have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.
-<small><sub>**BSB:**</sub></small>
-But I would feed you the finest wheat; with honey from the rock I would satisfy you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.81.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.15|<< Psalm 81:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.82.1|Psalm 82:1 >>]]</td></tr></table>
 
 | Translation | Greek |

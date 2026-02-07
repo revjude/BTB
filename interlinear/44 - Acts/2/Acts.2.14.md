@@ -1,12 +1,12 @@
-**Acts 2:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:14**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter, standing up with the eleven, lifted up his voice, and said unto them, Ye men of Judaea, and all [ye] that dwell at Jerusalem, be this known unto you, and hearken to my words:
 <small><sub>**BSB:**</sub></small>
 Then Peter stood up with the Eleven, lifted up his voice, and addressed the crowd: “Men of Judea and all who dwell in Jerusalem, let this be known to you, and listen carefully to my words.
 <small><sub>**Literal:**</sub></small>
 Having stood up however <the> Peter with the eleven he lifted up the voice of him and spoke forth to them: Men of Judea and you who [are] inhabiting Jerusalem all, this to you known should be and do give heed to the declarations of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.13|<< Acts 2:13]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.15|Acts 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having stood up |**<big>[[G2476\|Σταθεὶς]]</big>**  |Statheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

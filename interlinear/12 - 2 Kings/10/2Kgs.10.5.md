@@ -1,4 +1,4 @@
-**2 Kings 10:5** 
+**2 Kings 10:5**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that [was] over the house, and he that [was] over the city, the elders also, and the bringers up [of the children], sent to Jehu, saying, We [are] thy servants, and will do all that thou shalt bid us; we will not make any king: do thou [that which is] good in thine eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the palace administrator, the overseer of the city, the elders, and the guard
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.4|<< 2 Kings 10:4]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.6|2 Kings 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the one] who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Luke 10:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:15**<big><big>[[Luke.10.13 Woe to the Unrepentant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thou, Capernaum, which art exalted to heaven, shalt be thrust down to hell.
 <small><sub>**BSB:**</sub></small>
 And you, Capernaum, will you be lifted up to heaven? No, you will be brought down to Hades!
@@ -10,7 +10,7 @@ And you yourself Capernaum not to <the> heaven will you be lifted up? to <the> H
 > $\quad$ alluding to: [[LXX.Isa.14.13|Isa 14:13]] ☩ [[LXX.Isa.14.15|Isa 14:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

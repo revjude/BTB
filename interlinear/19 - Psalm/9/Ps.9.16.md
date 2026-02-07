@@ -1,4 +1,4 @@
-**Psalms 9:16** (9:17)
+**Psalms 9:16**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD is known [by] the judgment [which] he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD is known by the justice He brings; the wicked are ensnared by the work 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.15|<< Psalms 9:15]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.17|Psalms 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has made himself known  |**<big>&#8207;[[H3045\|נ֤וֹדַ֨ע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| no.Da'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Proverbs 13:23** 
+**Proverbs 13:23**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Much food [is in] the tillage of the poor: but there is [that is] destroyed for want of judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abundant food is in the fallow ground of the poor, but without justice it is swe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.22|<< Proverbs 13:22]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.24|Proverbs 13:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | abundance of  |**<big>&#8207;[[H7230\|רָב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rov-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | food  |**<big>&#8207;[[H0400\|אֹ֭כֶל]]&#8207; </big>**| 'O.khel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

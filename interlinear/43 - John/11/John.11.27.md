@@ -1,12 +1,12 @@
-**John 11:27
-**<small><sub>**KJV:**</sub></small>
+**John 11:27**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.
 <small><sub>**BSB:**</sub></small>
 “Yes, Lord,” she answered, “I believe that You are the Christ, the Son of God, who was to come into the world.”
 <small><sub>**Literal:**</sub></small>
 She says to Him; Yes Lord; I myself have believed that You yourself are the Christ the Son <the> of God the [One] into the world coming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.26|<< John 11:26]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.28|John 11:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | She says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him; |**<big>[[G0846\|αὐτῷ·]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

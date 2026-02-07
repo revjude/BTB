@@ -1,6 +1,6 @@
 (KJV) **Ezekiel 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30|<< Ezekiel 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32|Ezekiel 32 >>]]</td></tr></table>
 
-***Egypt Will Fall like Assyria*** ^bsb1888
+<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥃]]</big></big>***Egypt Will Fall like Assyria***
 
  $\quad$ <span class="startversemarker">[</span>**[[Ezek.31.1|1]]**<span class="endversemarker">]</span> And it came to pass in the eleventh<small><small>[^2]</small></small> year, in the third \[month\], in the first \[day\] of the month, \[that\] the word of the <span class="smallcaps">Lord</span> came unto me, saying, <span class="startversemarker">[</span>**[[Ezek.31.2|2]]**<span class="endversemarker">]</span> Son of man, speak<small><small>[^3]</small></small> unto Pharaoh king of Egypt, and to his<small><small>[^4]</small></small> multitude; Whom<small><small>[^5]</small></small> art thou like in thy greatness? 
 

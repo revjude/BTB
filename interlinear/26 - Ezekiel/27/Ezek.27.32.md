@@ -1,4 +1,4 @@
-**Ezekiel 27:32** 
+**Ezekiel 27:32**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in their wailing they shall take up a lamentation for thee, and lament over thee, [saying], What [city is] like Tyrus, like the destroyed in the midst of the sea?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As they wail and mourn over you, they will take up a lament for you: ‘Who was 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.31|<< Ezekiel 27:31]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.33|Ezekiel 27:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will take up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375G\|נָשְׂא֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.se.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | concerning you  |**<big>&#8207;[[H0413\|אֵלַ֤יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'e.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

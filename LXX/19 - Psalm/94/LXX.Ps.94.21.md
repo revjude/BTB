@@ -1,10 +1,7 @@
 **LXX Psalm 94:21** 
 <small><sub>**LXX:**</sub></small>
 They shall hunt for a just soul, and condemn innocent blood. 
-<small><sub>**KJV:**</sub></small>
-They gather themselves together against the soul of the righteous, and condemn the innocent blood.
-<small><sub>**BSB:**</sub></small>
-They band together against the righteous and condemn the innocent to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.94.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.20|<< Psalm 94:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.22|Psalm 94:22 >>]]</td></tr></table>
 
 | Translation | Greek |

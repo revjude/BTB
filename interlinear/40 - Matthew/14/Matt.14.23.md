@@ -1,12 +1,12 @@
-**Matthew 14:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:23**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
 <small><sub>**BSB:**</sub></small>
 After He had dismissed them, He went up on the mountain by Himself to pray. When evening came, He was there alone,
 <small><sub>**Literal:**</sub></small>
 And having dismissed the crowds He went up on the mountain on [his] own to pray. Evening now having arrived alone He was there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.22|<< Matthew 14:22]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.24|Matthew 14:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having dismissed |**<big>[[G0630G\|ἀπολύσας]]</big>**  |apolusas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

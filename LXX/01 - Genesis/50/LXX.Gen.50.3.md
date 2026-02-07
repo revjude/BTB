@@ -1,10 +1,7 @@
 **LXX Genesis 50:3** 
 <small><sub>**LXX:**</sub></small>
 And they accomplished \[embalming\] him \[in\] forty days, for thus they counted down the days of the burial. And Egypt mourned him seventy days. 
-<small><sub>**KJV:**</sub></small>
-And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days.
-<small><sub>**BSB:**</sub></small>
-taking the forty days required to complete the embalming. And the Egyptians mourned for him seventy days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.2|<< Genesis 50:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.4|Genesis 50:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:22** 
 <small><sub>**LXX:**</sub></small>
 And she called  her husband, and said, Send indeed for me one of the servants, and one of the donkeys, and I shall run unto the man  of God, and I shall return. 
-<small><sub>**KJV:**</sub></small>
-And she called unto her husband, and said, Send me, I pray thee, one of the young men, and one of the asses, that I may run to the man of God, and come again.
-<small><sub>**BSB:**</sub></small>
-And the woman called her husband and said, “Please send me one of the servants and one of the donkeys, that I may go quickly to the man of God and return.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.21|<< 2 Kings 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.23|2 Kings 4:23 >>]]</td></tr></table>
 
 | Translation | Greek |

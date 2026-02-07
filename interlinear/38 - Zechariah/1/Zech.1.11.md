@@ -1,4 +1,4 @@
-**Zechariah 1:11** 
+**Zechariah 1:11**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they answered the angel of the LORD that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, behold, all the earth sitteth still, and is at rest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the riders answered the angel of the LORD who was standing among the myrtle 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.10|<< Zechariah 1:10]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.12|Zechariah 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they answered  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6030B\|יַּעֲנ֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

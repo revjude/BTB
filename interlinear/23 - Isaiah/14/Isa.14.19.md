@@ -1,4 +1,4 @@
-**Isaiah 14:19** 
+**Isaiah 14:19**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou art cast out of thy grave like an abominable branch, [and as] the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But you are cast out of your grave like a rejected branch, covered by those slai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.18|<< Isaiah 14:18]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.20|Isaiah 14:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have been thrown out  |**<big>&#8207;[[H7993\|הָשְׁלַ֤כְתָּ]]&#8207; </big>**| ha.she.Lakh.ta<small><sup>[[HVHp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

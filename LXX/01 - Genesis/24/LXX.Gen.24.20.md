@@ -1,10 +1,7 @@
 **LXX Genesis 24:20** 
 <small><sub>**LXX:**</sub></small>
 And she hastened and emptied out the water-pitcher into the channel, and ran yet \[again\] unto the well to draw water. And she drew water for all the camels. 
-<small><sub>**KJV:**</sub></small>
-And she hasted, and emptied her pitcher into the trough, and ran again unto the well to draw [water], and drew for all his camels.
-<small><sub>**BSB:**</sub></small>
-And she quickly emptied her jar into the trough and ran back to the well to draw water, until she had drawn water for all his camels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.19|<< Genesis 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.21|Genesis 24:21 >>]]</td></tr></table>
 
 | Translation | Greek |

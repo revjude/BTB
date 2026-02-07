@@ -1,10 +1,7 @@
 **LXX Job 34:4** 
 <small><sub>**LXX:**</sub></small>
 Judgment we should take up for ourselves; we should know between ourselves what \[is\] good. 
-<small><sub>**KJV:**</sub></small>
-Let us choose to us judgment: let us know among ourselves what [is] good.
-<small><sub>**BSB:**</sub></small>
-Let us choose for ourselves what is right; let us learn together what is good.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.3|<< Job 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.5|Job 34:5 >>]]</td></tr></table>
 
 | Translation | Greek |

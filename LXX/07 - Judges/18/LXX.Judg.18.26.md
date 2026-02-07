@@ -1,10 +1,7 @@
 **LXX Judges 18:26** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Dan went on  their way. And Micah saw that they are too mighty for him, and he turned aside and returned to  his house. 
-<small><sub>**KJV:**</sub></small>
-And the children of Dan went their way: and when Micah saw that they [were] too strong for him, he turned and went back unto his house.
-<small><sub>**BSB:**</sub></small>
-So the Danites went on their way, and Micah turned to go back home, because he saw that they were too strong for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.25|<< Judges 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.27|Judges 18:27 >>]]</td></tr></table>
 
 | Translation | Greek |

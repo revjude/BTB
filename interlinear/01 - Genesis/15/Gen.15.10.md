@@ -1,4 +1,4 @@
-**Genesis 15:10** 
+**Genesis 15:10**<big><big>[[Gen.15.8 God Confirms His Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Abram brought all these to Him, split each of them down the middle, and laid 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.9|<< Genesis 15:9]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.11|Genesis 15:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947J\|יִּֽקַּֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.kach-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 60:17** 
 <small><sub>**LXX:**</sub></small>
 And instead of brass, I shall bring to you gold; and instead of iron, I shall bring to you silver; and instead of wood, I shall bring to you brass; and instead of stones -- iron; and I shall appoint  your rulers for peace, and  your overseers for righteousness. 
-<small><sub>**KJV:**</sub></small>
-For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness.
-<small><sub>**BSB:**</sub></small>
-Instead of bronze I will bring you gold; I will bring silver in place of iron, bronze instead of wood, and iron instead of stones. I will appoint peace as your governor and righteousness as your ruler.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.16|<< Isaiah 60:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.18|Isaiah 60:18 >>]]</td></tr></table>
 
 | Translation | Greek |

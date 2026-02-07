@@ -1,4 +1,4 @@
-**Isaiah 35:6** 
+**Isaiah 35:6**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the lame [man] leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the lame will leap like a deer and the mute tongue will shout for joy. For 
 > $\quad$ referenced by: [[Luke.7.22|Luke 7:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will leap  |**<big>&#8207;[[H1801\|יְדַלֵּ֤ג]]&#8207; </big>**| ye.da.Leg<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

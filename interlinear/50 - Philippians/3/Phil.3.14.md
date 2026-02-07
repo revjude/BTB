@@ -1,12 +1,12 @@
-**Philippians 3:14
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:14**<big><big>[[Phil.3.12 Pressing on toward the Goal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I press toward the mark for the prize of the high calling of God in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 I press on toward the goal to win the prize of God’s heavenly calling in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 toward [the] goal I press on for the prize of the upward calling <the> of God in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.13|<< Philippians 3:13]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.15|Philippians 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | toward |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] goal |**<big>[[G4649\|σκοπὸν]]</big>**  |skopon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

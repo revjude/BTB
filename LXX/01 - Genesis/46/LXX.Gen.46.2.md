@@ -1,10 +1,7 @@
 **LXX Genesis 46:2** 
 <small><sub>**LXX:**</sub></small>
 And God said  to Israel in a vision in the night, saying, Jacob, Jacob!  And he said, What is it? 
-<small><sub>**KJV:**</sub></small>
-And God spake unto Israel in the visions of the night, and said, Jacob, Jacob. And he said, Here [am] I.
-<small><sub>**BSB:**</sub></small>
-And that night God spoke to Israel in a vision: “Jacob, Jacob!” He said. “Here I am,” replied Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.1|<< Genesis 46:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.3|Genesis 46:3 >>]]</td></tr></table>
 
 | Translation | Greek |

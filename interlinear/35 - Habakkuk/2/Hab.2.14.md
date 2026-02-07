@@ -1,4 +1,4 @@
-**Habakkuk 2:14** 
+**Habakkuk 2:14**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the earth will be filled with the knowledge of the glory of the LORD as the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.13|<< Habakkuk 2:13]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.15|Habakkuk 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be filled  |**<big>&#8207;[[H4390\|תִּמָּלֵ֣א]]&#8207; </big>**| ti.ma.Le'<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

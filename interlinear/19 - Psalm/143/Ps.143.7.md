@@ -1,4 +1,4 @@
-**Psalms 143:7** 
+**Psalms 143:7**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Answer me quickly, O LORD; my spirit fails. Do not hide Your face from me, or I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.6|<< Psalms 143:6]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.8|Psalms 143:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hurry  |**<big>&#8207;[[H4116A\|מַ֘הֵ֤ר]]&#8207; </big>**| ma.Her<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | answer me  |**<big>&#8207;[[H6030B\|עֲנֵ֨]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Ne.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

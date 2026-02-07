@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:35** 
 <small><sub>**LXX:**</sub></small>
 And Jonadab said to the king, Behold, the sons of the king are at hand; according to the word  of your servant, thus it has happened. 
-<small><sub>**KJV:**</sub></small>
-And Jonadab said unto the king, Behold, the king’s sons come: as thy servant said, so it is.
-<small><sub>**BSB:**</sub></small>
-So Jonadab said to the king, “Look, the sons of the king have arrived! It is just as your servant said.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.34|<< 2 Samuel 13:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.36|2 Samuel 13:36 >>]]</td></tr></table>
 
 | Translation | Greek |

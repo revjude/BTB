@@ -1,12 +1,12 @@
-**2 Corinthians 2:2
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:2**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me?
 <small><sub>**BSB:**</sub></small>
 For if I grieve you, who is left to cheer me but those whom I have grieved?
 <small><sub>**Literal:**</sub></small>
 If for I myself grieve you again who is the [one] gladdening me except not the [one] being grieved by me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.1|<< 2 Corinthians 2:1]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.3|2 Corinthians 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

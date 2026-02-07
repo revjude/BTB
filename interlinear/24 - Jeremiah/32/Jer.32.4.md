@@ -1,4 +1,4 @@
-**Jeremiah 32:4** 
+**Jeremiah 32:4**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zedekiah king of Judah shall not escape out of the hand of the Chaldeans, but shall surely be delivered into the hand of the king of Babylon, and shall speak with him mouth to mouth, and his eyes shall behold his eyes;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zedekiah king of Judah will not escape from the hands of the Chaldeans, but he w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.3|<< Jeremiah 32:3]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.5|Jeremiah 32:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Zedekiah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6667H\|צִדְקִיָּ֙הוּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzid.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

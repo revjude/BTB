@@ -1,4 +1,4 @@
-**Isaiah 42:9** 
+**Isaiah 42:9**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the former things are come to pass, and new things do I declare: before they spring forth I tell you of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, the former things have happened, and now I declare new things. Before th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.8|<< Isaiah 42:8]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.10|Isaiah 42:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the former [things]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223H\|רִֽאשֹׁנ֖וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.sho.Not<small><sup>[[HAofpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

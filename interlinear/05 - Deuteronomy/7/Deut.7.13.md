@@ -1,4 +1,4 @@
-**Deuteronomy 7:13** 
+**Deuteronomy 7:13**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will love you and bless you and multiply you. He will bless the fruit of your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.12|<< Deuteronomy 7:12]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.14|Deuteronomy 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will love you  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0157G\|אֲהֵ֣בְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.He.ve.<small><sup>[[HVqq3ms]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he will bless you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1288\|בֵרַכְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ve.rakh.<small><sup>[[HVpq3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

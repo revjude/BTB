@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] angel of \[the\] <span class="smallcaps">lord</span> said to Elijah, Go down with him, you should not fear from their presence. And Elijah rose up and went down with them to the king. 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king.
-<small><sub>**BSB:**</sub></small>
-Then the angel of the LORD said to Elijah, “Go down with him. Do not be afraid of him.” So Elijah got up and went down with him to the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.14|<< 2 Kings 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.16|2 Kings 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 6:4** 
 <small><sub>**LXX:**</sub></small>
 For arrows of the worthy one are in my body, which  their rage drinks up my  blood. Whenever I begin to speak, they sting me. 
-<small><sub>**KJV:**</sub></small>
-For the arrows of the Almighty [are] within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.
-<small><sub>**BSB:**</sub></small>
-For the arrows of the Almighty have pierced me; my spirit drinks in their poison; the terrors of God are arrayed against me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.3|<< Job 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.5|Job 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

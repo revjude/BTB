@@ -1,10 +1,7 @@
 **LXX Genesis 29:23** 
 <small><sub>**LXX:**</sub></small>
 And it became evening. And taking Leah  his daughter, he brought her to Jacob, and Jacob entered to her. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her.
-<small><sub>**BSB:**</sub></small>
-But when evening came, Laban took his daughter Leah and gave her to Jacob, and he slept with her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.22|<< Genesis 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.24|Genesis 29:24 >>]]</td></tr></table>
 
 | Translation | Greek |

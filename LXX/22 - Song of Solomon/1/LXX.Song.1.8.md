@@ -1,10 +1,7 @@
 **LXX Song of Solomon 1:8** 
 <small><sub>**LXX:**</sub></small>
 If you should not know yourself,  O fair one among women, come forth at \[the\] heels of the flocks, and tend  your kids by \[the\] tents of the shepherds! 
-<small><sub>**KJV:**</sub></small>
-If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds’ tents.
-<small><sub>**BSB:**</sub></small>
-If you do not know, O fairest of women, follow the tracks of the flock, and graze your young goats near the tents of the shepherds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.7|<< Song of Solomon 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.9|Song of Solomon 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

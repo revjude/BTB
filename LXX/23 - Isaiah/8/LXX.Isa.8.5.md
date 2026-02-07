@@ -1,10 +1,7 @@
 **LXX Isaiah 8:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> proceeded to speak to me again, saying, 
-<small><sub>**KJV:**</sub></small>
-The LORD spake also unto me again, saying,
-<small><sub>**BSB:**</sub></small>
-And the LORD spoke to me further:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.4|<< Isaiah 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.6|Isaiah 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

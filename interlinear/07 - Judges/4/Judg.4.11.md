@@ -1,4 +1,4 @@
-**Judges 4:11** 
+**Judges 4:11**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Heber the Kenite, [which was] of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which [is] by Kedesh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Heber the Kenite had moved away from the Kenites, the descendants of Hobab t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.10|<< Judges 4:10]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.12|Judges 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Heber  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2268H\|חֶ֤בֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Che.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Kenite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7017\|קֵּינִי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kei.Ni<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

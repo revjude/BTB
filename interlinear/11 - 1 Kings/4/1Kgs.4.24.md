@@ -1,4 +1,4 @@
-**1 Kings 4:24** (5:4)
+**1 Kings 4:24**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he had dominion over all [the region] on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Solomon had dominion over everything west of the Euphrates—over all the ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.23|<< 1 Kings 4:23]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.25|1 Kings 4:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֞וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

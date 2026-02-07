@@ -1,4 +1,4 @@
-**Proverbs 14:15** 
+**Proverbs 14:15**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The simple believeth every word: but the prudent [man] looketh well to his going.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The simple man believes every word, but the prudent man watches his steps.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.14|<< Proverbs 14:14]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.16|Proverbs 14:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a naive person  |**<big>&#8207;[[H6612A\|פֶּ֭תִי]]&#8207; </big>**| Pe.ti<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he believes  |**<big>&#8207;[[H0539\|יַאֲמִ֣ין]]&#8207; </big>**| ya.'a.Min<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 25:20** 
+**1 Samuel 25:20**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so, as] she rode on the ass, that she came down by the covert of the hill, and, behold, David and his men came down against her; and she met them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As Abigail came riding her donkey into a mountain ravine, she saw David and his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.19|<< 1 Samuel 25:19]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.21|1 Samuel 25:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she  |**<big>&#8207;[[H1931\|הִ֣יא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

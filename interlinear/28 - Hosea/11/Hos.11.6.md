@@ -1,4 +1,4 @@
-**Hosea 11:6** 
+**Hosea 11:6**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sword shall abide on his cities, and shall consume his branches, and devour [them], because of their own counsels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A sword will flash through their cities; it will destroy the bars of their gates
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.5|<< Hosea 11:5]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.7|Hosea 11:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will whirl  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2342J\|חָלָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Lah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sword  |**<big>&#8207;[[H2719\|חֶ֙רֶב֙]]&#8207; </big>**| che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

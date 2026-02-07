@@ -1,12 +1,12 @@
-**Acts 13:43
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:43**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when the congregation was broken up, many of the Jews and religious proselytes followed Paul and Barnabas: who, speaking to them, persuaded them to continue in the grace of God.
 <small><sub>**BSB:**</sub></small>
 After the synagogue was dismissed, many of the Jews and devout converts to Judaism followed Paul and Barnabas, who spoke to them and urged them to continue in the grace of God.
 <small><sub>**Literal:**</sub></small>
 When was releasing then the synagogue followed many of the Jews and of the worshipping converts <the> after Paul and <the> after Barnabas, who speaking to them were persuading them to continue in the grace <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.42|<< Acts 13:42]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.44|Acts 13:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was releasing |**<big>[[G3089\|λυθείσης]]</big>**  |lutheisēs <small><sup>[[V-APP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

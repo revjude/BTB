@@ -1,10 +1,7 @@
 **LXX Exodus 39:13** 
 <small><sub>**LXX:**</sub></small>
 and the fourth row -- chrysolite, and beryl, and onyx; being surrounded by gold and being tied together by gold. 
-<small><sub>**KJV:**</sub></small>
-And the fourth row, a beryl, an onyx, and a jasper: [they were] inclosed in ouches of gold in their inclosings.
-<small><sub>**BSB:**</sub></small>
-and the fourth row had a beryl, an onyx, and a jasper. These stones were mounted in gold filigree settings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.12|<< Exodus 39:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.14|Exodus 39:14 >>]]</td></tr></table>
 
 | Translation | Greek |

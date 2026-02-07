@@ -1,10 +1,7 @@
 **LXX Proverbs 17:7** 
 <small><sub>**LXX:**</sub></small>
 Trustworthy lips shall not suit a fool, nor lying lips to \[the\] just. 
-<small><sub>**KJV:**</sub></small>
-Excellent speech becometh not a fool: much less do lying lips a prince.
-<small><sub>**BSB:**</sub></small>
-Eloquent words are unfit for a fool; how much worse are lying lips to a ruler!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.6|<< Proverbs 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.8|Proverbs 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

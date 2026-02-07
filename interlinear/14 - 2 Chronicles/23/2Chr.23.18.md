@@ -1,4 +1,4 @@
-**2 Chronicles 23:18** 
+**2 Chronicles 23:18**<big><big>[[2Chr.23.16 Jehoiada Restores the Worship of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as [it is] written in the law of Moses, with rejoicing and with singing, [as it was ordained] by David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, Jehoiada put the oversight of the house of the LORD into the hands of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.17|<< 2 Chronicles 23:17]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.19|2 Chronicles 23:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760H\|יָּשֶׂם֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoiada  |**<big>&#8207;[[H3077H\|יְהוֹיָדָ֨ע]]&#8207; </big>**| ye.ho.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

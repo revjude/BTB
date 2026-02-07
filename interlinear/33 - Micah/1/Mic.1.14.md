@@ -1,4 +1,4 @@
-**Micah 1:14** 
+**Micah 1:14**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shalt thou give presents to Moreshethgath: the houses of Achzib [shall be] a lie to the kings of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, send farewell gifts to Moresheth-gath; the houses of Achzib will prov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.13|<< Micah 1:13]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.15|Micah 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵן֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will give  |**<big>&#8207;[[H5414G\|תִּתְּנִ֣י]]&#8207; </big>**| ti.te.Ni<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

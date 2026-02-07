@@ -1,10 +1,7 @@
 **LXX Psalm 140:4** 
 <small><sub>**LXX:**</sub></small>
 Guard me, O <span class="smallcaps">lord</span>, from \[the\] hand of \[the\] sinner! Take me away from unjust men who reasoned  to trip up  my footsteps! 
-<small><sub>**KJV:**</sub></small>
-Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
-<small><sub>**BSB:**</sub></small>
-Guard me, O LORD, from the hands of the wicked. Keep me safe from men of violence who scheme to make me stumble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.140.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.3|<< Psalm 140:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.5|Psalm 140:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 35:23** 
+**Exodus 35:23**<big><big>[[Exod.35.20 The People Offer Gifts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ [hair], and red skins of rams, and badgers’ skins, brought [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Everyone who had blue, purple, or scarlet yarn, or fine linen, goat hair, ram sk
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.22|<< Exodus 35:22]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.24|Exodus 35:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | person  |**<big>&#8207;[[H0376G\|אִ֞ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

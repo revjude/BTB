@@ -1,4 +1,4 @@
-**Jeremiah 31:6** 
+**Jeremiah 31:6**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there shall be a day, [that] the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For there will be a day when watchmen will call out on the hills of Ephraim, ‘
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.5|<< Jeremiah 31:5]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.7|Jeremiah 31:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H3426\|יֶשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yesh-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

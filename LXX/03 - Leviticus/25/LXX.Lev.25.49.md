@@ -1,10 +1,7 @@
 **LXX Leviticus 25:49** 
 <small><sub>**LXX:**</sub></small>
 A brother of his father, or a son of his father's brother shall ransom him; or \[one\] of the members of the family  of his flesh of  his tribe shall ransom him. And if being well-provided \[in\] his hands, he shall ransom himself. 
-<small><sub>**KJV:**</sub></small>
-Either his uncle, or his uncle’s son, may redeem him, or [any] that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself.
-<small><sub>**BSB:**</sub></small>
-either his uncle or cousin or any close relative from his clan may redeem him. Or if he prospers, he may redeem himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.48|<< Leviticus 25:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.50|Leviticus 25:50 >>]]</td></tr></table>
 
 | Translation | Greek |

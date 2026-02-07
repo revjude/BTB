@@ -1,4 +1,4 @@
-**Deuteronomy 28:4** 
+**Deuteronomy 28:4**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [shall be] the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fruit of your womb will be blessed, as well as the produce of your land and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.3|<< Deuteronomy 28:3]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.5|Deuteronomy 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [will be] blessed  |**<big>&#8207;[[H1288\|בָּר֧וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fruit of  |**<big>&#8207;[[H6529\|פְּרִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.ri-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

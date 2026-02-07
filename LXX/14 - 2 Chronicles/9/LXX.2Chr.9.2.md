@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:2** 
 <small><sub>**LXX:**</sub></small>
 And Solomon announced to her all  her words, and not a word went by from Solomon which he did not report to her. 
-<small><sub>**KJV:**</sub></small>
-And Solomon told her all her questions: and there was nothing hid from Solomon which he told her not.
-<small><sub>**BSB:**</sub></small>
-And Solomon answered all her questions; nothing was too difficult for him to explain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.1|<< 2 Chronicles 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.3|2 Chronicles 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

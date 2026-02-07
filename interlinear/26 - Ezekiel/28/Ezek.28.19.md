@@ -1,4 +1,4 @@
-**Ezekiel 28:19** 
+**Ezekiel 28:19**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never [shalt] thou [be] any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the nations who know you are appalled over you. You have come to a horrible 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.18|<< Ezekiel 28:18]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.20|Ezekiel 28:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] knew you  |**<big>&#8207;[[H3045\|יוֹדְעֶ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| yod.'Ei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

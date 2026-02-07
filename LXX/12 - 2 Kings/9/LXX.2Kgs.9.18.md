@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:18** 
 <small><sub>**LXX:**</sub></small>
 And the rider went \[upon the\] horse for meeting him. And he said, Thus says the king, Is \[it\] peace? And Jehu said, What \[is it\] to you and peace? You turn to \[the\] ones behind me! And the watchman reported, saying, The messenger came unto them, and returned not. 
-<small><sub>**KJV:**</sub></small>
-So there went one on horseback to meet him, and said, Thus saith the king, [Is it] peace? And Jehu said, What hast thou to do with peace? turn thee behind me. And the watchman told, saying, The messenger came to them, but he cometh not again.
-<small><sub>**BSB:**</sub></small>
-So a horseman rode off to meet Jehu and said, “This is what the king asks: ‘Have you come in peace?’” “What do you know about peace?” Jehu replied. “Fall in behind me.” And the watchman reported, “The messenger reached them, but he is not coming back.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.17|<< 2 Kings 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.19|2 Kings 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

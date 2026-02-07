@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:5** 
 <small><sub>**LXX:**</sub></small>
 And he said, What you say even I will do for you. And they said to the king, The man who finished us off entirely, and pursued us, who misled to utterly destroy us, we shall remove him, \[so that\] he is not established in any border of Israel. 
-<small><sub>**KJV:**</sub></small>
-And they answered the king, The man that consumed us, and that devised against us [that] we should be destroyed from remaining in any of the coasts of Israel,
-<small><sub>**BSB:**</sub></small>
-And they answered the king, “As for the man who consumed us and plotted against us to exterminate us from existing within any border of Israel,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.4|<< 2 Samuel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.6|2 Samuel 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

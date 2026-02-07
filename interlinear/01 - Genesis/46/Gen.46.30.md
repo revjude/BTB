@@ -1,4 +1,4 @@
-**Genesis 46:30** 
+**Genesis 46:30**<big><big>[[Gen.46.28 Jacob Arrives in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou [art] yet alive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Israel said to Joseph, “Finally I can die, now that I have seen your face
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.29|<< Genesis 46:29]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.31|Genesis 46:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֧אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֛ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

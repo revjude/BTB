@@ -1,4 +1,4 @@
-**Deuteronomy 31:28** 
+**Deuteronomy 31:28**<big><big>[[Deut.31.24 The Law Placed in the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather unto me all the elders of your tribes, and your officers, that I may speak these words in their ears, and call heaven and earth to record against them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Assemble before me all the elders of your tribes and all your officers so that I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.27|<< Deuteronomy 31:27]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.29|Deuteronomy 31:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | assemble  |**<big>&#8207;[[H6950\|הַקְהִ֧ילוּ]]&#8207; </big>**| hak.Hi.lu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֛]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

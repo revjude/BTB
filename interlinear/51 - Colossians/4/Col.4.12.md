@@ -1,12 +1,12 @@
-**Colossians 4:12
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:12**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Epaphras, who is [one] of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.
 <small><sub>**BSB:**</sub></small>
 Epaphras, who is one of you and a servant of Christ Jesus, sends you greetings. He is always wrestling in prayer for you, so that you may stand mature and fully assured in the full will of God.
 <small><sub>**Literal:**</sub></small>
 Greets you Epaphras who [is] [one] of you, a servant of Christ Jesus, always struggling for you in the prayers, so that you may be stood mature and fully complete in all [the] will <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.11|<< Colossians 4:11]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.13|Colossians 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Greets |**<big>[[G0782\|Ἀσπάζεται]]</big>**  |Aspazetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

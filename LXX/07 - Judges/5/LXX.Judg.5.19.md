@@ -1,10 +1,7 @@
 **LXX Judges 5:19** 
 <small><sub>**LXX:**</sub></small>
 Kings came and deployed; then \[the\] kings of Canaan waged war in Taanach, at the water of Megiddo; a desire for wealth of silver they did not have. 
-<small><sub>**KJV:**</sub></small>
-The kings came [and] fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.
-<small><sub>**BSB:**</sub></small>
-Kings came and fought; then the kings of Canaan fought at Taanach by the waters of Megiddo, but they took no plunder of silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.18|<< Judges 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.20|Judges 5:20 >>]]</td></tr></table>
 
 | Translation | Greek |

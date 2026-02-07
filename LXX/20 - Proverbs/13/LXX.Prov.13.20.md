@@ -1,10 +1,7 @@
 **LXX Proverbs 13:20** 
 <small><sub>**LXX:**</sub></small>
 \[The one\] going with wise men, will be wise; but the one going with fools shall be known. 
-<small><sub>**KJV:**</sub></small>
-He that walketh with wise [men] shall be wise: but a companion of fools shall be destroyed.
-<small><sub>**BSB:**</sub></small>
-He who walks with the wise will become wise, but the companion of fools will be destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.19|<< Proverbs 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.21|Proverbs 13:21 >>]]</td></tr></table>
 
 | Translation | Greek |

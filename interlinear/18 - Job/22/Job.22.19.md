@@ -1,4 +1,4 @@
-**Job 22:19** 
+**Job 22:19**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous see [it], and are glad: and the innocent laugh them to scorn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteous see it and are glad; the innocent mock them:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.18|<< Job 22:18]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.20|Job 22:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they see [it]  |**<big>&#8207;[[H7200G\|יִרְא֣וּ]]&#8207; </big>**| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteous [people]  |**<big>&#8207;[[H6662\|צַדִּיקִ֣ים]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

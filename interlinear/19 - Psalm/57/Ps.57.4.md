@@ -1,4 +1,4 @@
-**Psalms 57:4** (57:5)
+**Psalms 57:4**<big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul [is] among lions: [and] I lie [even among] them that are set on fire, [even] the sons of men, whose teeth [are] spears and arrows, and their tongue a sharp sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My soul is among the lions; I lie down with ravenous beasts—with men whose tee
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.3|<< Psalms 57:3]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.5|Psalms 57:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | self my  |**<big>&#8207;[[H5315G\|נַפְשִׁ֤]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in among  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|ת֥וֹךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

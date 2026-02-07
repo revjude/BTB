@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 11:6** 
 <small><sub>**LXX:**</sub></small>
 At morning sow  your seed, and at evening do not relieve  your hand! for you do not know what will line up --  this \[here\],  this \[there\], or if the two \[are\] good together. 
-<small><sub>**KJV:**</sub></small>
-In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both [shall be] alike good.
-<small><sub>**BSB:**</sub></small>
-Sow your seed in the morning, and do not rest your hands in the evening, for you do not know which will succeed, whether this or that, or if both will equally prosper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.11.5|<< Ecclesiastes 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.7|Ecclesiastes 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

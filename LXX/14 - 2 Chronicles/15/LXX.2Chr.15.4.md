@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 15:4** 
 <small><sub>**LXX:**</sub></small>
 And he shall turn them in affliction unto \[the\] <span class="smallcaps">lord</span> the God of Israel, and they shall seek him, and he shall be found by them. 
-<small><sub>**KJV:**</sub></small>
-But when they in their trouble did turn unto the LORD God of Israel, and sought him, he was found of them.
-<small><sub>**BSB:**</sub></small>
-But in their distress they turned to the LORD, the God of Israel, and sought Him, and He was found by them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.3|<< 2 Chronicles 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.5|2 Chronicles 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

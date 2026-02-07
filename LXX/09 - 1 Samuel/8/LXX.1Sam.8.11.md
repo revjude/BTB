@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he said, This will be the ordinance of the king, of the one reigning over you.  Your sons he shall take and put them in his chariots and among his horsemen, and they shall run in front  of his chariots. 
-<small><sub>**KJV:**</sub></small>
-And he said, This will be the manner of the king that shall reign over you: He will take your sons, and appoint [them] for himself, for his chariots, and [to be] his horsemen; and [some] shall run before his chariots.
-<small><sub>**BSB:**</sub></small>
-He said, “This will be the manner of the king who will reign over you: He will take your sons and appoint them to serve his own chariots and horses, and to run in front of his chariots.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.10|<< 1 Samuel 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.12|1 Samuel 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

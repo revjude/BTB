@@ -1,4 +1,4 @@
-**Daniel 11:23** 
+**Daniel 11:23**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after the league [made] with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After an alliance is made with him, he will act deceitfully; for he will rise to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.22|<< Daniel 11:22]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.24|Daniel 11:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from when  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | made an alliance  |**<big>&#8207;[[H2266\|הִֽתְחַבְּר֥וּת]]&#8207; </big>**| hit.cha.be.Rut<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 27:6** 
 <small><sub>**LXX:**</sub></small>
 And now behold, he raised up high  my head over my enemies. I encircled and sacrificed in  his tent a sacrifice of praise and of a shout; I shall sing and strum to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Then my head will be held high above my enemies around me. At His tabernacle I will offer sacrifices with shouts of joy; I will sing and make music to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.27.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.5|<< Psalm 27:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.7|Psalm 27:7 >>]]</td></tr></table>
 
 | Translation | Greek |

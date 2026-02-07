@@ -1,4 +1,4 @@
-**2 Samuel 2:30** 
+**2 Samuel 2:30**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab returned from following Abner: and when he had gathered all the people together, there lacked of David’s servants nineteen men and Asahel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Joab returned from pursuing Abner, he gathered all the troops. In addition 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.29|<< 2 Samuel 2:29]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.31|2 Samuel 2:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Joab  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3097G\|יוֹאָ֗ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he returned  |**<big>&#8207;[[H7725G\|שָׁ֚ב]]&#8207; </big>**| Shav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

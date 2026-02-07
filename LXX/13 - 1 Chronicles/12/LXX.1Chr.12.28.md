@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:28** 
 <small><sub>**LXX:**</sub></small>
 And Zadok, a young man, mighty in strength, and of the house  of his father \[were\] twenty and two rulers. 
-<small><sub>**KJV:**</sub></small>
-And Zadok, a young man mighty of valour, and of his father’s house twenty and two captains.
-<small><sub>**BSB:**</sub></small>
-and Zadok, a mighty young man of valor, with 22 commanders from his own family.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.27|<< 1 Chronicles 12:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.29|1 Chronicles 12:29 >>]]</td></tr></table>
 
 | Translation | Greek |

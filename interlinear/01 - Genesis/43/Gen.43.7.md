@@ -1,4 +1,4 @@
-**Genesis 43:7** 
+**Genesis 43:7**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, The man asked us straitly of our state, and of our kindred, saying, [Is] your father yet alive? have ye [another] brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They replied, “The man questioned us in detail about ourselves and our family:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.6|<< Genesis 43:6]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.8|Genesis 43:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֡וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | carefully \<to ask>  |**<big>&#8207;[[H7592\|שָׁא֣וֹל]]&#8207; </big>**| sha.'ol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

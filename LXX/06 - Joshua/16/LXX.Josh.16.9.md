@@ -1,10 +1,7 @@
 **LXX Joshua 16:9** 
 <small><sub>**LXX:**</sub></small>
 And the separated cities to the sons of Ephraim \[were\] in the midst of the inheritance of \[the\] sons of Manasseh, all the cities, and  their towns. 
-<small><sub>**KJV:**</sub></small>
-And the separate cities for the children of Ephraim [were] among the inheritance of the children of Manasseh, all the cities with their villages.
-<small><sub>**BSB:**</sub></small>
-along with all the cities and villages set apart for the descendants of Ephraim within the inheritance of Manasseh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.8|<< Joshua 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.10|Joshua 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

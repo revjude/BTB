@@ -1,4 +1,4 @@
-**Psalms 34:12** (34:13)
+**Psalms 34:12**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What man [is he that] desireth life, [and] loveth [many] days, that he may see good?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who is the man who delights in life, who desires to see good days?
 > $\quad$ referenced by: [[1Pet.3.10|1Pet 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the person  |**<big>&#8207;[[H9009\|הָ֭]]&#8207;&#8207;[[H0376G\|אִישׁ]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

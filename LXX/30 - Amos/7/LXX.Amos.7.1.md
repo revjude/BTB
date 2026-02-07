@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus \[the\] <span class="smallcaps">lord</span> God showed to me; and behold, a breed of locusts coming in early morning, and behold one grasshopper -- Gog the king. 
-<small><sub>**KJV:**</sub></small>
-Thus hath the Lord GOD shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, [it was] the latter growth after the king’s mowings.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD showed me: He was preparing swarms of locusts just after the king’s harvest, as the late spring crop was coming up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.14|<< Amos 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.2|Amos 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

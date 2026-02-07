@@ -1,4 +1,4 @@
-**1 Chronicles 11:18** 
+**1 Chronicles 11:18**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the three brake through the host of the Philistines, and drew water out of the well of Bethlehem, that [was] by the gate, and took [it], and brought [it] to David: but David would not drink [of] it, but poured it out to the LORD,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Three broke through the Philistine camp, drew water from the well at the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.17|<< 1 Chronicles 11:17]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.19|1 Chronicles 11:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they broke through  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1234\|יִּבְקְע֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.ke.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the three  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7969\|שְּׁלֹשָׁ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

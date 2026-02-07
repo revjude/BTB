@@ -1,4 +1,4 @@
-**Jeremiah 36:19** 
+**Jeremiah 36:19**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the princes unto Baruch, Go, hide thee, thou and Jeremiah; and let no man know where ye be.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the officials said to Baruch, “You and Jeremiah must hide yourselves and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.18|<< Jeremiah 36:18]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.20|Jeremiah 36:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the officials  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8269\|שָּׂרִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

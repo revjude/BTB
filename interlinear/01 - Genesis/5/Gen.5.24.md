@@ -1,4 +1,4 @@
-**Genesis 5:24** 
+**Genesis 5:24**<big><big>[[Gen.5.18 God Takes Up Enoch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Enoch walked with God: and he [was] not; for God took him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Enoch walked with God, and then he was no more, because God had taken him away.
 > $\quad$ referenced by: [[Heb.11.5|Heb 11:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he walked about  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980I\|יִּתְהַלֵּ֥ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ha.Lekh<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Enoch  |**<big>&#8207;[[H2585H\|חֲנ֖וֹךְ]]&#8207; </big>**| cha.Nokh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

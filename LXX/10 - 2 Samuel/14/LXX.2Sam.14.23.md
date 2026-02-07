@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joab rose up and went into Geshur, and he led  Absalom into Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-So Joab arose and went to Geshur, and brought Absalom to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-So Joab got up, went to Geshur, and brought Absalom to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.22|<< 2 Samuel 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.24|2 Samuel 14:24 >>]]</td></tr></table>
 
 | Translation | Greek |

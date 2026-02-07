@@ -1,12 +1,12 @@
-**Matthew 20:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:16**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So the last shall be first, and the first last: for many be called, but few chosen.
 <small><sub>**BSB:**</sub></small>
 So the last will be first, and the first will be last.”
 <small><sub>**Literal:**</sub></small>
 Thus will be the last first and the first last many for are called few now chosen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.15|<< Matthew 20:15]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.17|Matthew 20:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will be |**<big>[[G1510\|ἔσονται]]</big>**  |esontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

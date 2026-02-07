@@ -1,10 +1,7 @@
 **LXX Proverbs 7:12** 
 <small><sub>**LXX:**</sub></small>
 For at certain time she strays outside, and \[another\] time she lies in wait in \[the\] squares by every corner. 
-<small><sub>**KJV:**</sub></small>
-Now [is she] without, now in the streets, and lieth in wait at every corner.)
-<small><sub>**BSB:**</sub></small>
-Now in the street, now in the squares, she lurks at every corner.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.11|<< Proverbs 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.13|Proverbs 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

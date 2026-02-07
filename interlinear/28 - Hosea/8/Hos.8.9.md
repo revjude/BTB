@@ -1,4 +1,4 @@
-**Hosea 8:9** 
+**Hosea 8:9**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they are gone up to Assyria, a wild ass alone by himself: Ephraim hath hired lovers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they have gone up to Assyria like a wild donkey on its own. Ephraim has hire
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.8|<< Hosea 8:8]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.10|Hosea 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֙מָּה֙]]&#8207; </big>**| he.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

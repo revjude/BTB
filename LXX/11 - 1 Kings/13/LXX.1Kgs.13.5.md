@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:5** 
 <small><sub>**LXX:**</sub></small>
 And the altar tore, and the fatness poured out from the altar, according to the portent which the man of God gave by \[the\] word of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the LORD.
-<small><sub>**BSB:**</sub></small>
-And the altar was split apart, and the ashes poured out, according to the sign that the man of God had given by the word of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.4|<< 1 Kings 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.6|1 Kings 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 23:7** 
 <small><sub>**LXX:**</sub></small>
 for in which manner as if any may swallow down a hair, thus he eats and drinks; nor should you bring him to yourself, \[nor\] you should eat  your morsel with him, 
-<small><sub>**KJV:**</sub></small>
-For as he thinketh in his heart, so [is] he: Eat and drink, saith he to thee; but his heart [is] not with thee.
-<small><sub>**BSB:**</sub></small>
-for he is keeping track, inwardly counting the cost. “Eat and drink,” he says to you, but his heart is not with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.6|<< Proverbs 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.8|Proverbs 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

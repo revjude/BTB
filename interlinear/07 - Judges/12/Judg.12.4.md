@@ -1,4 +1,4 @@
-**Judges 12:4** 
+**Judges 12:4**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites [are] fugitives of Ephraim among the Ephraimites, [and] among the Manassites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jephthah then gathered all the men of Gilead and fought against Ephraim. And the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.3|<< Judges 12:3]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.5|Judges 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקְבֹּ֤ץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Botz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jephthah  |**<big>&#8207;[[H3316H\|יִפְתָּח֙]]&#8207; </big>**| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

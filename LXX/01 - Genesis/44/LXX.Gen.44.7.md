@@ -1,10 +1,7 @@
 **LXX Genesis 44:7** 
 <small><sub>**LXX:**</sub></small>
  And they said to him, Why speaks the master in  these words? May it not be  for your servants to do according to  this word; 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, Wherefore saith my lord these words? God forbid that thy servants should do according to this thing:
-<small><sub>**BSB:**</sub></small>
-“Why does my lord say these things?” they asked. “Your servants could not possibly do such a thing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.6|<< Genesis 44:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.8|Genesis 44:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 39:28** 
+**Ezekiel 39:28**<big><big>[[Ezek.39.21 Israel to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall they know that I [am] the LORD their God, which caused them to be led into captivity among the heathen: but I have gathered them unto their own land, and have left none of them any more there.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then they will know that I am the LORD their God, when I regather them to their 
 > $\quad$ referenced by: [[Joel.2.27|Joel 2:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדְע֗וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

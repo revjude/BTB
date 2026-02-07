@@ -1,10 +1,7 @@
 **LXX Judges 1:31** 
 <small><sub>**LXX:**</sub></small>
 And Asher did not remove the ones dwelling Accho, and the ones dwelling Sidon, and the ones dwelling Ahlab, and  Achzib, and  Helbah, and  Aphik, and  Rehob. 
-<small><sub>**KJV:**</sub></small>
-Neither did Asher drive out the inhabitants of Accho, nor the inhabitants of Zidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob:
-<small><sub>**BSB:**</sub></small>
-Asher failed to drive out the inhabitants of Acco, Sidon, Ahlab, Achzib, Helbah, Aphik, and Rehob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.30|<< Judges 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.32|Judges 1:32 >>]]</td></tr></table>
 
 | Translation | Greek |

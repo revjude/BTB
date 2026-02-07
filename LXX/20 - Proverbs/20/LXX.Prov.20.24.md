@@ -1,10 +1,7 @@
 **LXX Proverbs 20:24** 
 <small><sub>**LXX:**</sub></small>
 The footsteps of a man \[are\] straightened by \[the\] <span class="smallcaps">lord</span>; but a mortal, how can he comprehend  his ways? 
-<small><sub>**KJV:**</sub></small>
-Man’s goings [are] of the LORD; how can a man then understand his own way?
-<small><sub>**BSB:**</sub></small>
-A man’s steps are from the LORD, so how can anyone understand his own way?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.23|<< Proverbs 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.25|Proverbs 20:25 >>]]</td></tr></table>
 
 | Translation | Greek |

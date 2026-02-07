@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:39** 
 <small><sub>**LXX:**</sub></small>
 And the servant-lad did not know anything, only Jonathan and David knew the thing. 
-<small><sub>**KJV:**</sub></small>
-But the lad knew not any thing: only Jonathan and David knew the matter.
-<small><sub>**BSB:**</sub></small>
-But the boy did not know anything; only Jonathan and David knew the arrangement.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.38|<< 1 Samuel 20:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.40|1 Samuel 20:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 27:7** 
 <small><sub>**LXX:**</sub></small>
 Bring to me game, and make food for me! that eating, I may bless you before \[the\] <span class="smallcaps">lord</span>, before  my dying. 
-<small><sub>**KJV:**</sub></small>
-Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death.
-<small><sub>**BSB:**</sub></small>
-‘Bring me some game and prepare me a tasty dish to eat, so that I may bless you in the presence of the LORD before I die.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.6|<< Genesis 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.8|Genesis 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

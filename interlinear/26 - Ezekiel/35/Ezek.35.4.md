@@ -1,4 +1,4 @@
-**Ezekiel 35:4** 
+**Ezekiel 35:4**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will turn your cities into ruins, and you will become a desolation. Then you w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.3|<< Ezekiel 35:3]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.5|Ezekiel 35:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cities your  |**<big>&#8207;[[H5892B\|עָרֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'a.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a ruin  |**<big>&#8207;[[H2723\|חָרְבָּ֣ה]]&#8207; </big>**| cha.re.Bah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

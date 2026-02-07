@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:23** 
 <small><sub>**LXX:**</sub></small>
 And the servants of Saul spoke into the ears of David  these things. And David said, Is it the light \[thing\] in your eyes to be allied by marriage to \[the\] king? And I \[am\] a humble man, and not esteemed? 
-<small><sub>**KJV:**</sub></small>
-And Saul’s servants spake those words in the ears of David. And David said, Seemeth it to you [a] light [thing] to be a king’s son in law, seeing that I [am] a poor man, and lightly esteemed?
-<small><sub>**BSB:**</sub></small>
-But when Saul’s servants relayed these words to David, he replied, “Does it seem trivial in your sight to be the son-in-law of the king? I am a poor man and lightly esteemed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.22|<< 1 Samuel 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.24|1 Samuel 18:24 >>]]</td></tr></table>
 
 | Translation | Greek |

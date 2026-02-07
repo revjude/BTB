@@ -1,10 +1,7 @@
 **LXX Amos 5:9** 
 <small><sub>**LXX:**</sub></small>
 The one dividing conflict into strength, and \[the\] one bringing misery upon \[the\] fortress. 
-<small><sub>**KJV:**</sub></small>
-That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress.
-<small><sub>**BSB:**</sub></small>
-He flashes destruction on the strong, so that fury comes upon the stronghold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.8|<< Amos 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.10|Amos 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

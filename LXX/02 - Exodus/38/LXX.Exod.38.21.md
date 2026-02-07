@@ -1,10 +1,7 @@
 **LXX Exodus 38:21** 
 <small><sub>**LXX:**</sub></small>
 And this \[was\] the arrangement of the tent of the testimony, as was given orders to Moses; the ministration to be of the Levites through Ithamar the son of Aaron the priest. 
-<small><sub>**KJV:**</sub></small>
-This is the sum of the tabernacle, [even] of the tabernacle of testimony, as it was counted, according to the commandment of Moses, [for] the service of the Levites, by the hand of Ithamar, son to Aaron the priest.
-<small><sub>**BSB:**</sub></small>
-This is the inventory for the tabernacle, the tabernacle of the Testimony, as recorded at Moses’ command by the Levites under the direction of Ithamar son of Aaron the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.20|<< Exodus 38:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.22|Exodus 38:22 >>]]</td></tr></table>
 
 | Translation | Greek |

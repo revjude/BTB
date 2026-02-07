@@ -1,10 +1,7 @@
 **LXX Daniel 11:33** 
 <small><sub>**LXX:**</sub></small>
 And the discerning of the people shall perceive in many \[things\], and they shall be weak by \[the\] broadsword, and by flame, and by captivity, and by ravaging of days. 
-<small><sub>**KJV:**</sub></small>
-And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, [many] days.
-<small><sub>**BSB:**</sub></small>
-Those with insight will instruct many, though for a time they will fall by sword or flame, or be captured or plundered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.32|<< Daniel 11:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.34|Daniel 11:34 >>]]</td></tr></table>
 
 | Translation | Greek |

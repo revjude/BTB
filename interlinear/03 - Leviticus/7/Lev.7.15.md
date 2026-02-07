@@ -1,4 +1,4 @@
-**Leviticus 7:15** 
+**Leviticus 7:15**<big><big>[[Lev.7.11 The Peace Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The meat of the sacrifice of his peace offering of thanksgiving must be eaten on
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.14|<< Leviticus 7:14]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.16|Leviticus 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] meat of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1320\|בְשַׂ֗ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sacrifice of  |**<big>&#8207;[[H2077\|זֶ֚בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 8:4** 
 <small><sub>**LXX:**</sub></small>
 And David first took  of his \[things\] a thousand chariots, and seven thousand horsemen, and twenty thousand men -- footmen. And David disabled all the chariots, and he left behind for himself of them a hundred chariots. 
-<small><sub>**KJV:**</sub></small>
-And David took from him a thousand [chariots], and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot [horses], but reserved of them [for] an hundred chariots.
-<small><sub>**BSB:**</sub></small>
-David captured from him a thousand chariots, seven thousand charioteers, and twenty thousand foot soldiers, and he hamstrung all the horses except a hundred he kept for the chariots.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.3|<< 2 Samuel 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.5|2 Samuel 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

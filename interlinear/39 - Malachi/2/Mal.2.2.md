@@ -1,4 +1,4 @@
-**Malachi 2:2** 
+**Malachi 2:2**<big><big>[[Mal.2.1 A Warning to the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye will not hear, and if ye will not lay [it] to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay [it] to heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you do not listen, and if you do not take it to heart to honor My name,” sa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.1|<< Malachi 2:1]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.3|Malachi 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

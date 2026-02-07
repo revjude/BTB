@@ -1,12 +1,12 @@
-**Colossians 1:21
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:21**<big><big>[[Col.1.15 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And you, that were sometime alienated and enemies in [your] mind by wicked works, yet now hath he reconciled
 <small><sub>**BSB:**</sub></small>
 Once you were alienated from God and were hostile in your minds, engaging in evil deeds.
 <small><sub>**Literal:**</sub></small>
 And you once being alienated and hostile <the> in mind in the deeds <the> evil,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.20|<< Colossians 1:20]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.22|Colossians 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

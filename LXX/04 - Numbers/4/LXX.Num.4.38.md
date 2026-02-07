@@ -1,10 +1,7 @@
 **LXX Numbers 4:38** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Gershon were numbered according to their peoples, according to \[the\] houses of their patrimony, 
-<small><sub>**KJV:**</sub></small>
-And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers,
-<small><sub>**BSB:**</sub></small>
-Then the Gershonites were numbered by their clans and families,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.37|<< Numbers 4:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.39|Numbers 4:39 >>]]</td></tr></table>
 
 | Translation | Greek |

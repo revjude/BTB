@@ -1,4 +1,4 @@
-**Exodus 25:30** 
+**Exodus 25:30**<big><big>[[Exod.25.23 The Table of Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt set upon the table shewbread before me alway.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And place the Bread of the Presence on the table before Me at all times.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.29|<< Exodus 25:29]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.31|Exodus 25:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַתָּ֧]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

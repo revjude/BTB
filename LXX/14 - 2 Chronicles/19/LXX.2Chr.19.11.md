@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 19:11** 
 <small><sub>**LXX:**</sub></small>
 And behold, Amariah the leading priest over you \[is\] for every matter of \[the\] <span class="smallcaps">lord</span>; and Zebadiah son of Ishmael \[is\] the leader in the house of Judah for every word of the king. And the scribes, the Levites, \[are\] before you. Be strong and act! and \[the\] <span class="smallcaps">lord</span> will be with the good. 
-<small><sub>**KJV:**</sub></small>
-And, behold, Amariah the chief priest [is] over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites [shall be] officers before you. Deal courageously, and the LORD shall be with the good.
-<small><sub>**BSB:**</sub></small>
-Note that Amariah, the chief priest, will be over you in all that pertains to the LORD, and Zebadiah son of Ishmael, the ruler of the house of Judah, in all that pertains to the king. And the Levites will serve as officers before you. Act resolutely; may the LORD be with the upright!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.10|<< 2 Chronicles 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.1|2 Chronicles 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

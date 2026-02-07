@@ -1,12 +1,12 @@
-**Acts 16:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:31**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.
 <small><sub>**BSB:**</sub></small>
 They replied, “Believe in the Lord Jesus and you will be saved, you and your household.”
 <small><sub>**Literal:**</sub></small>
 <the> And they said; do believe on the Lord Jesus Christ and will be saved you yourself and the household of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.30|<< Acts 16:30]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.32|Acts 16:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 137:6** 
+**Psalms 137:6**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May my tongue cling to the roof of my mouth if I do not remember you, if I do no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.5|<< Psalms 137:5]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.7|Psalms 137:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it cleave  |**<big>&#8207;[[H1692\|תִּדְבַּ֥ק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tid.Bak-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tongue my  |**<big>&#8207;[[H3956G\|לְשׁוֹנִ֨]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.sho.N<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

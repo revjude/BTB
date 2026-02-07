@@ -1,12 +1,12 @@
-**2 Timothy 2:3
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:3**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou therefore endure hardness, as a good soldier of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 Join me in suffering, like a good soldier of Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 you yourself therefore do share in suffering as [a] good soldier of Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.2|<< 2 Timothy 2:2]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.4|2 Timothy 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

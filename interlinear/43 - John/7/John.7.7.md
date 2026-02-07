@@ -1,12 +1,12 @@
-**John 7:7
-**<small><sub>**KJV:**</sub></small>
+**John 7:7**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.
 <small><sub>**BSB:**</sub></small>
 The world cannot hate you, but it hates Me, because I testify that its works are evil.
 <small><sub>**Literal:**</sub></small>
 Not is able the world to hate you, Me myself however it hates, because I myself bear witness concerning it that the works of it evil are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.6|<< John 7:6]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.8|John 7:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is able |**<big>[[G1410\|δύναται]]</big>**  |dunatai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

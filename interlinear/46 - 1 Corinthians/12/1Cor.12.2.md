@@ -1,12 +1,12 @@
-**1 Corinthians 12:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:2**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.
 <small><sub>**BSB:**</sub></small>
 You know that when you were pagans, you were influenced and led astray to mute idols.
 <small><sub>**Literal:**</sub></small>
 You know that when pagans you were to <the> idols <the> mute even as maybe you were led being carried away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.1|<< 1 Corinthians 12:1]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.3|1 Corinthians 12:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You know |**<big>[[G6063\|οἴδατε]]</big>**  |oidate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

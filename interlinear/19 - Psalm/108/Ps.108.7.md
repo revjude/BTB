@@ -1,4 +1,4 @@
-**Psalms 108:7** (108:8)
+**Psalms 108:7**<big><big>[[Ps.108.1 Israel’s Kingdom Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God has spoken from His sanctuary: “I will triumph! I will parcel out Shechem 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.108.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.6|<< Psalms 108:6]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.8|Psalms 108:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֤ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has spoken  |**<big>&#8207;[[H1696I\|דִּבֶּ֥ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

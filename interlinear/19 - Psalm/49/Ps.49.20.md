@@ -1,4 +1,4 @@
-**Psalms 49:20** (49:21)
+**Psalms 49:20**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Man [that is] in honour, and understandeth not, is like the beasts [that] perish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man who has riches without understanding is like the beasts that perish.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.19|<< Psalms 49:19]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.0|Psalms 50:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֣ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with honor  |**<big>&#8207;[[H9003\|בִּ֭]]&#8207;&#8207;[[H3366\|יקָר]]&#8207; </big>**| Bi.<small><sup>[[HR]]</sup></small> kor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 5:17** 
+**Exodus 5:17**<big><big>[[Exod.5.15 The Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he said, Ye [are] idle, [ye are] idle: therefore ye say, Let us go [and] do sacrifice to the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But he said, Ye [are] idle, [ye are] idle: therefore ye say, Let us go [and] do 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.16|<< Exodus 5:16]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.18|Exodus 5:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֛אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] idle  |**<big>&#8207;[[H7503\|נִרְפִּ֥ים]]&#8207; </big>**| nir.Pim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

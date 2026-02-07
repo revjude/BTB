@@ -1,4 +1,4 @@
-**Ezekiel 15:5** 
+**Ezekiel 15:5**<big><big>[[Ezek.15.1 Jerusalem the Useless Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, when it was whole, it was meet for no work: how much less shall it be meet yet for [any] work, when the fire hath devoured it, and it is burned?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even when it was whole, it could not be made useful. How much less can it ever b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.15.4|<< Ezekiel 15:4]]</td><td align="center" style="border:none;">[[Ezek.15|Ezekiel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15.6|Ezekiel 15:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּה֙]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when was it  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H1961\|הְיוֹת֣]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> h.yo.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

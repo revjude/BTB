@@ -1,12 +1,12 @@
-**Ephesians 2:8
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:8**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For by grace are ye saved through faith; and that not of yourselves: [it is] the gift of God:
 <small><sub>**BSB:**</sub></small>
 For it is by grace you have been saved through faith, and this not from yourselves; it is the gift of God,
 <small><sub>**Literal:**</sub></small>
 <the> For by grace you are saved through <the> faith, and this not of yourselves, [it is] of God the gift,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.7|<< Ephesians 2:7]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.9|Ephesians 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

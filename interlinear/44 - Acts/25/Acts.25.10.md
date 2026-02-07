@@ -1,12 +1,12 @@
-**Acts 25:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:10**<big><big>[[Acts.25.10 Paul Appeals to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Paul, I stand at Caesar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest.
 <small><sub>**BSB:**</sub></small>
 Paul replied, “I am standing before the judgment seat of Caesar, where I ought to be tried. I have done nothing wrong to the Jews, as you yourself know very well.
 <small><sub>**Literal:**</sub></small>
 Said then <the> Paul; Before the judgment seat of Caesar standing I am, where me it behooves to be judged. To [the] Jews no [thing] I have done wrong, as also you yourself very well know;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.9|<< Acts 25:9]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.11|Acts 25:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

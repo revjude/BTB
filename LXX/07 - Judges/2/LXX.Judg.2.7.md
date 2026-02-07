@@ -1,10 +1,7 @@
 **LXX Judges 2:7** 
 <small><sub>**LXX:**</sub></small>
 And the people served to the <span class="smallcaps">lord</span> all the days of Joshua, and all the days of the elders, as many as prolonged their days with Joshua, as many as knew every  great work \[of the\] <span class="smallcaps">lord</span> which he did  to Israel. 
-<small><sub>**KJV:**</sub></small>
-And the people served the LORD all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the LORD, that he did for Israel.
-<small><sub>**BSB:**</sub></small>
-And the people served the LORD throughout the days of Joshua and of the elders who outlived him, who had seen all the great works that the LORD had done for Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.6|<< Judges 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.8|Judges 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

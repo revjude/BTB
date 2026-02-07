@@ -1,4 +1,4 @@
-**Hosea 2:13** (2:15)
+**Hosea 2:13**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will punish her for the days of the Baals when she burned incense to them, whe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.12|<< Hosea 2:12]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.14|Hosea 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will visit  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6485H\|פָקַדְתִּ֣י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.kad.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on her  |**<big>&#8207;[[H5921A\|עָלֶ֗י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

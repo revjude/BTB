@@ -1,12 +1,12 @@
-**John 18:10
-**<small><sub>**KJV:**</sub></small>
+**John 18:10**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Simon Peter having a sword drew it, and smote the high priest’s servant, and cut off his right ear. The servant’s name was Malchus.
 <small><sub>**BSB:**</sub></small>
 Then Simon Peter drew his sword and struck the servant of the high priest, cutting off his right ear. The servant’s name was Malchus.
 <small><sub>**Literal:**</sub></small>
 Simon then Peter having a sword drew it and he struck the of the high priest servant and cut off of him the ear <the> right; Was now name of the servant Malchus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.9|<< John 18:9]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.11|John 18:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Simon |**<big>[[G4613O\|Σίμων]]</big>**  |Simōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

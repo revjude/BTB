@@ -1,10 +1,7 @@
 **LXX Genesis 33:13** 
 <small><sub>**LXX:**</sub></small>
 And he said to him,  My master knows that the children are tender, and the sheep and the oxen are giving birth to me. If then I should drive them one \[more\] day all the cattle will die. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, My lord knoweth that the children [are] tender, and the flocks and herds with young [are] with me: and if men should overdrive them one day, all the flock will die.
-<small><sub>**BSB:**</sub></small>
-But Jacob replied, “My lord knows that the children are frail, and I must care for sheep and cattle that are nursing their young. If they are driven hard for even a day, all the animals will die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.12|<< Genesis 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.14|Genesis 33:14 >>]]</td></tr></table>
 
 | Translation | Greek |

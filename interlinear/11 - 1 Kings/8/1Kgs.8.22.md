@@ -1,4 +1,4 @@
-**1 Kings 8:22** 
+**1 Kings 8:22**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands toward heaven:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Solomon stood before the altar of the LORD in front of the whole assembly o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.21|<< 1 Kings 8:21]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.23|1 Kings 8:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stood  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975G\|יַּעֲמֹ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֗ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

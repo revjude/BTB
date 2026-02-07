@@ -1,4 +1,4 @@
-**1 Kings 10:15** 
+**1 Kings 10:15**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside [that he had] of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ not including the revenue from the merchants, traders, and all the Arabian kings
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.14|<< 1 Kings 10:14]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.16|1 Kings 10:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> apart  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905H\|בַד֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] men of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

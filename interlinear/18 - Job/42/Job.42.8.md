@@ -1,4 +1,4 @@
-**Job 42:8** 
+**Job 42:8**<big><big>[[Job.42.7 The LORD Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you [after your] folly, in that ye have not spoken of me [the thing which is] right, like my servant Job.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, take seven bulls and seven rams, go to My servant Job, and sacrifice a b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.7|<< Job 42:7]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.9|Job 42:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take  |**<big>&#8207;[[H3947G\|קְחֽוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.chu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

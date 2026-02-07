@@ -1,4 +1,4 @@
-**Ezekiel 44:31** 
+**Ezekiel 44:31**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priests may not eat any bird or animal found dead or torn by wild beasts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.30|<< Ezekiel 44:30]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.1|Ezekiel 45:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | carcass  |**<big>&#8207;[[H5038\|נְבֵלָה֙]]&#8207; </big>**| ne.ve.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

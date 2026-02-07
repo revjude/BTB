@@ -1,12 +1,12 @@
-**2 Peter 3:3
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:3**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
 <small><sub>**BSB:**</sub></small>
 Most importantly, you must understand that in the last days scoffers will come, scoffing and following their own evil desires.
 <small><sub>**Literal:**</sub></small>
 this first knowing that they will come in [these] last of the days with scoffing scoffers according to <the> [their] own evil desires of them following<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.2|<< 2 Peter 3:2]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.4|2 Peter 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | first |**<big>[[G4413G\|πρῶτον]]</big>**  |prōton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

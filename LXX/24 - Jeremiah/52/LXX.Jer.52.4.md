@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the ninth year  of his kingdom, in the tenth month, on \[the\] tenth of the month, Nebuchadnezzar king of Babylon came, and all  his force against Jerusalem. And they encamped by it, and they built against it a rampart round about. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the ninth year of his reign, in the tenth month, in the tenth [day] of the month, [that] Nebuchadrezzar king of Babylon came, he and all his army, against Jerusalem, and pitched against it, and built forts against it round about.
-<small><sub>**BSB:**</sub></small>
-So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built a siege wall all around it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.3|<< Jeremiah 52:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.5|Jeremiah 52:5 >>]]</td></tr></table>
 
 | Translation | Greek |

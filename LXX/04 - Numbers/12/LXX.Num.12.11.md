@@ -1,10 +1,7 @@
 **LXX Numbers 12:11** 
 <small><sub>**LXX:**</sub></small>
 And Aaron said to Moses, I beseech you, O my master, you should not join sin to us, for we knew not that we sinned. 
-<small><sub>**KJV:**</sub></small>
-And Aaron said unto Moses, Alas, my lord, I beseech thee, lay not the sin upon us, wherein we have done foolishly, and wherein we have sinned.
-<small><sub>**BSB:**</sub></small>
-and said to Moses, “My lord, please do not hold against us this sin we have so foolishly committed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.10|<< Numbers 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.12|Numbers 12:12 >>]]</td></tr></table>
 
 | Translation | Greek |

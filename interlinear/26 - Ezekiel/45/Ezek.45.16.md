@@ -1,4 +1,4 @@
-**Ezekiel 45:16** 
+**Ezekiel 45:16**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the people of the land shall give this oblation for the prince in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the people of the land must participate in this contribution for the prince 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.15|<< Ezekiel 45:15]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.17|Ezekiel 45:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כֹּ֚ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people of  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֣ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

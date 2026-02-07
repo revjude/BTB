@@ -1,4 +1,4 @@
-**Jonah 3:9** 
+**Jonah 3:9**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can tell [if] God will turn and repent, and turn away from his fierce anger, that we perish not?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who knows? God may turn and relent; He may turn from His fierce anger, so that w
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] knowing  |**<big>&#8207;[[H3045\|יוֹדֵ֣עַ]]&#8207; </big>**| yo.De.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

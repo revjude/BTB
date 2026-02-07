@@ -1,12 +1,12 @@
-**Luke 1:56
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:56**<big><big>[[Luke.1.46 Mary’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Mary abode with her about three months, and returned to her own house.
 <small><sub>**BSB:**</sub></small>
 Mary stayed with Elizabeth for about three months and then returned home.
 <small><sub>**Literal:**</sub></small>
 Dwelt then Mary with her about months three and returned to the home of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.55|<< Luke 1:55]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.57|Luke 1:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Dwelt |**<big>[[G3306\|Ἔμεινεν]]</big>**  |Emeinen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

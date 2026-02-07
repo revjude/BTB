@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:11** 
 <small><sub>**LXX:**</sub></small>
 he and  his people with him, \[the\] pestilent ones from nations being sent to destroy the land. And they shall all empty out  their swords against Egypt, and shall fill the land with slain. 
-<small><sub>**KJV:**</sub></small>
-He and his people with him, the terrible of the nations, shall be brought to destroy the land: and they shall draw their swords against Egypt, and fill the land with the slain.
-<small><sub>**BSB:**</sub></small>
-He and his people with him, the most ruthless of the nations, will be brought in to destroy the land. They will draw their swords against Egypt and fill the land with the slain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.10|<< Ezekiel 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.12|Ezekiel 30:12 >>]]</td></tr></table>
 
 | Translation | Greek |

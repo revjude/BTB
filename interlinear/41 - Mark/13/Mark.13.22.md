@@ -1,12 +1,12 @@
-**Mark 13:22
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:22**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For false Christs and false prophets shall rise, and shall shew signs and wonders, to seduce, if [it were] possible, even the elect.
 <small><sub>**BSB:**</sub></small>
 For false Christs and false prophets will appear and perform signs and wonders to deceive even the elect, if that were possible.
 <small><sub>**Literal:**</sub></small>
 There will arise for false Christs and false prophets and will give signs and wonders so as <the> to deceive if possible and the elect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.21|<< Mark 13:21]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.23|Mark 13:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There will arise |**<big>[[G1453\|ἐγερθήσονται]]</big>**  |egerthēsontai <small><sup>[[V-FPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

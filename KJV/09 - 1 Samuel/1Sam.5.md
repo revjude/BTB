@@ -1,6 +1,6 @@
 (KJV) **1 Samuel 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4|<< 1 Samuel 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6|1 Samuel 6 >>]]</td></tr></table>
 
-***The Ark Afflicts the Philistines*** ^bsb667
+<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥃]]</big></big>***The Ark Afflicts the Philistines***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Sam.5.1|1]]**<span class="endversemarker">]</span> And the Philistines took<small><small>[^2]</small></small> the ark of God, and brought it from Eben–ezer<small><small>[^3]</small></small> unto Ashdod<small><small>[^4]</small></small>. <span class="startversemarker">[</span>**[[1Sam.5.2|2]]**<span class="endversemarker">]</span> When the Philistines took the ark of God, they brought it into the house of Dagon<small><small>[^5]</small></small>, and set it by Dagon. 
 

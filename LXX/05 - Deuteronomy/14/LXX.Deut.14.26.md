@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall give the silver for all, of what ever your soul should desire, for oxen, or for sheep, or for wine, or for liquor, or for any \[thing\] of which ever your soul should desire. And you shall eat there before \[the\] <span class="smallcaps">lord</span>  your God. And you shall be glad, you and  your house. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household,
-<small><sub>**BSB:**</sub></small>
-Then you may spend the money on anything you desire: cattle, sheep, wine, strong drink, or anything you wish. You are to feast there in the presence of the LORD your God and rejoice with your household.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.25|<< Deuteronomy 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.27|Deuteronomy 14:27 >>]]</td></tr></table>
 
 | Translation | Greek |

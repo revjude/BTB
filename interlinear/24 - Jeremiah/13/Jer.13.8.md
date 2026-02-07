@@ -1,4 +1,4 @@
-**Jeremiah 13:8** 
+**Jeremiah 13:8**<big><big>[[Jer.13.1 The Linen Loincloth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the word of the LORD came to me:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.7|<< Jeremiah 13:7]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.9|Jeremiah 13:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] word of  |**<big>&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

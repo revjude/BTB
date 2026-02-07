@@ -1,10 +1,7 @@
 **LXX Isaiah 22:4** 
 <small><sub>**LXX:**</sub></small>
 On account of this, I said, Let me go! I shall weep bitterly. You should not grow strong to comfort me over the destruction of the daughter  of my people. 
-<small><sub>**KJV:**</sub></small>
-Therefore said I, Look away from me; I will weep bitterly, labour not to comfort me, because of the spoiling of the daughter of my people.
-<small><sub>**BSB:**</sub></small>
-Therefore I said, “Turn away from me, let me weep bitterly! Do not try to console me over the destruction of the daughter of my people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.3|<< Isaiah 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.5|Isaiah 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

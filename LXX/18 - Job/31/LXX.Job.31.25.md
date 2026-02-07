@@ -1,10 +1,7 @@
 **LXX Job 31:25** 
 <small><sub>**LXX:**</sub></small>
 and even if great gladness in riches was coming to me; and if also I put my hand upon innumerable \[things\]; 
-<small><sub>**KJV:**</sub></small>
-If I rejoiced because my wealth [was] great, and because mine hand had gotten much;
-<small><sub>**BSB:**</sub></small>
-if I have rejoiced in my great wealth because my hand had gained so much,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.24|<< Job 31:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.26|Job 31:26 >>]]</td></tr></table>
 
 | Translation | Greek |

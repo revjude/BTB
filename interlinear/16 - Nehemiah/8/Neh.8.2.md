@@ -1,4 +1,4 @@
-**Nehemiah 8:2** 
+**Nehemiah 8:2**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the first day of the seventh month, Ezra the priest brought the Law before th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.1|<< Nehemiah 8:1]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.3|Nehemiah 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבִ֣יא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vi'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ezra  |**<big>&#8207;[[H5830G\|עֶזְרָ֣א]]&#8207; </big>**| 'ez.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

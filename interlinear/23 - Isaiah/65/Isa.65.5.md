@@ -1,4 +1,4 @@
-**Isaiah 65:5** 
+**Isaiah 65:5**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which say, Stand by thyself, come not near to me; for I am holier than thou. These [are] a smoke in my nose, a fire that burneth all the day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They say, ‘Keep to yourself; do not come near me, for I am holier than you!’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.4|<< Isaiah 65:4]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.6|Isaiah 65:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who say  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0559\|אֹֽמְרִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | draw near  |**<big>&#8207;[[H7126G\|קְרַ֣ב]]&#8207; </big>**| ke.Rav<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

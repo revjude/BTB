@@ -1,12 +1,12 @@
-**Philippians 3:12
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:12**<big><big>[[Phil.3.12 Pressing on toward the Goal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 Not that I have already obtained all this, or have already been made perfect, but I press on to take hold of that for which Christ Jesus took hold of me.
 <small><sub>**Literal:**</sub></small>
 Not for already I have obtained [it] or already have been perfected, I am pursuing however if even I shall grasp of that for which also I was grasped by <the> Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.11|<< Philippians 3:11]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.13|Philippians 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

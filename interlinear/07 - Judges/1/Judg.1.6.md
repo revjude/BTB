@@ -1,4 +1,4 @@
-**Judges 1:6** 
+**Judges 1:6**<big><big>[[Judg.1.1 The Conquest of Canaan Proceeds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Adonibezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As Adoni-bezek fled, they pursued him, seized him, and cut off his thumbs and bi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.5|<< Judges 1:5]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.7|Judges 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he fled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּ֙נָס֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.nos<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adoni-  |**<big>&#8207;[[H0137\|אֲדֹ֣נִי]]&#8207; </big>**| 'a.Do.ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

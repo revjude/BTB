@@ -1,12 +1,12 @@
-**1 Peter 5:6
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:6**<big><big>[[1Pet.5.5 Cast Your Cares on Him|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:
 <small><sub>**BSB:**</sub></small>
 Humble yourselves, therefore, under God’s mighty hand, so that in due time He may exalt you.
 <small><sub>**Literal:**</sub></small>
 do be humbled therefore under the mighty hand <the> of God, so that you He may exalt in [due] time,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.5|<< 1 Peter 5:5]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.7|1 Peter 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be humbled |**<big>[[G5013\|ταπεινώθητε]]</big>**  |tapeinōthēte <small><sup>[[V-APM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

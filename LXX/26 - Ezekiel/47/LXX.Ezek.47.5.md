@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:5** 
 <small><sub>**LXX:**</sub></small>
 And he measured a thousand, and he was not able to go through any more, for the water overflowed as \[the\] impetus of a rushing stream of which shall not be passed over. 
-<small><sub>**KJV:**</sub></small>
-Afterward he measured a thousand; [and it was] a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over.
-<small><sub>**BSB:**</sub></small>
-Once again he measured off a thousand cubits, but now it was a river that I could not cross, because the water had risen and was deep enough for swimming—a river that could not be crossed on foot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.4|<< Ezekiel 47:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.6|Ezekiel 47:6 >>]]</td></tr></table>
 
 | Translation | Greek |

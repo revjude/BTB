@@ -1,4 +1,4 @@
-**Numbers 14:43** 
+**Numbers 14:43**<big><big>[[Num.14.40 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Amalekites and the Canaanites [are] there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For there the Amalekites and Canaanites will face you, and you will fall by the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.42|<< Numbers 14:42]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.44|Numbers 14:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Amalekite[s]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6003\|עֲמָלֵקִ֨י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.mal.Ki<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

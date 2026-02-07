@@ -1,10 +1,7 @@
 **LXX Numbers 22:3** 
 <small><sub>**LXX:**</sub></small>
 And Moab feared the people exceedingly, for they were many. And Moab loathed of \[the\] face of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Moab was sore afraid of the people, because they [were] many: and Moab was distressed because of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-and Moab was terrified of the people because they were numerous. Indeed, Moab dreaded the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.2|<< Numbers 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.4|Numbers 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ecclesiastes 4:2** 
+**Ecclesiastes 4:2**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I praised the dead which are already dead more than the living which are yet alive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I admired the dead, who had already died, above the living, who are still ali
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.1|<< Ecclesiastes 4:1]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.3|Ecclesiastes 4:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I congratulated  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7623B\|שַׁבֵּ֧חַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.Be.ach<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֛י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

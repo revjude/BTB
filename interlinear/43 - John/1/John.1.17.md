@@ -1,12 +1,12 @@
-**John 1:17
-**<small><sub>**KJV:**</sub></small>
+**John 1:17**<big><big>[[John.1.14 The Word Became Flesh|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the law was given by Moses, [but] grace and truth came by Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 For the law was given through Moses; grace and truth came through Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 For the law through Moses was given, <the> grace and <the> truth through Jesus Christ came.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.16|<< John 1:16]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.18|John 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:9** 
 <small><sub>**LXX:**</sub></small>
 And I bathed you in water, and washed  your blood from you, and anointed you with oil. 
-<small><sub>**KJV:**</sub></small>
-Then washed I thee with water; yea, I throughly washed away thy blood from thee, and I anointed thee with oil.
-<small><sub>**BSB:**</sub></small>
-Then I bathed you with water, rinsed off your blood, and anointed you with oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.8|<< Ezekiel 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.10|Ezekiel 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

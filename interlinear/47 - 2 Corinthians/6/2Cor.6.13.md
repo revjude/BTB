@@ -1,12 +1,12 @@
-**2 Corinthians 6:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:13**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now for a recompence in the same, (I speak as unto [my] children,) be ye also enlarged.
 <small><sub>**BSB:**</sub></small>
 As a fair exchange—I speak as to my children—open wide your hearts also.
 <small><sub>**Literal:**</sub></small>
 <the> Now [as] the same recompense, as to children I speak, do open [yourselves] also you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.12|<< 2 Corinthians 6:12]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.14|2 Corinthians 6:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

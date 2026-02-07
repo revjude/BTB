@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:57** 
 <small><sub>**LXX:**</sub></small>
 And as David returned having struck the Philistine, Abner received him and brought him in before Saul. And the head of the Philistine \[was\] in  his hand. 
-<small><sub>**KJV:**</sub></small>
-And as David returned from the slaughter of the Philistine, Abner took him, and brought him before Saul with the head of the Philistine in his hand.
-<small><sub>**BSB:**</sub></small>
-So when David returned from killing the Philistine, still holding his head in his hand, Abner took him and brought him before Saul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.56|<< 1 Samuel 17:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.58|1 Samuel 17:58 >>]]</td></tr></table>
 
 | Translation | Greek |

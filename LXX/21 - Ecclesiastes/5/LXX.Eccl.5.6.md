@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:6** 
 <small><sub>**LXX:**</sub></small>
 You should not give  your mouth  your flesh into sin; and you should not say before \[the\] presence  of God that, It is in ignorance; lest God should be provoked to anger at your voice, and should utterly destroy the \[things\] made by your hands. 
-<small><sub>**KJV:**</sub></small>
-Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it [was] an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?
-<small><sub>**BSB:**</sub></small>
-Do not let your mouth cause your flesh to sin, and do not tell the messenger that your vow was a mistake. Why should God be angry with your words and destroy the work of your hands?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.5|<< Ecclesiastes 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.7|Ecclesiastes 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

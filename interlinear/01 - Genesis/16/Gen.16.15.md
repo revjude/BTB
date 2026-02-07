@@ -1,4 +1,4 @@
-**Genesis 16:15** 
+**Genesis 16:15**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had b
 > $\quad$ referenced by: [[Gal.4.22|Gal 4:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֧לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hagar  |**<big>&#8207;[[H1904\|הָגָ֛ר]]&#8207; </big>**| ha.Gar<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

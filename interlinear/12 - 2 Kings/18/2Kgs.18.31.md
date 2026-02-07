@@ -1,4 +1,4 @@
-**2 Kings 18:31** 
+**2 Kings 18:31**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken not to Hezekiah: for thus saith the king of Assyria, Make [an agreement] with me by a present, and come out to me, and [then] eat ye every man of his own vine, and every one of his fig tree, and drink ye every one the waters of his cistern:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not listen to Hezekiah, for this is what the king of Assyria says: Make peace
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.30|<< 2 Kings 18:30]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.32|2 Kings 18:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you listen  |**<big>&#8207;[[H8085G\|תִּשְׁמְע֖וּ]]&#8207; </big>**| tish.me.'U<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

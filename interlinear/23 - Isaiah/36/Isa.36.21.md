@@ -1,4 +1,4 @@
-**Isaiah 36:21** 
+**Isaiah 36:21**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they held their peace, and answered him not a word: for the king’s commandment was, saying, Answer him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the people remained silent and did not answer a word, for Hezekiah had comma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.20|<< Isaiah 36:20]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.22|Isaiah 36:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they kept silent  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2790B\|יַּחֲרִ֔ישׁוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Ri.shu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

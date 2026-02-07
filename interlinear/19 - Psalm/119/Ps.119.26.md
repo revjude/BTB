@@ -1,4 +1,4 @@
-**Psalms 119:26** 
+**Psalms 119:26**<big><big>[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have declared my ways, and thou heardest me: teach me thy statutes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I recounted my ways, and You answered me; teach me Your statutes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.25|<< Psalms 119:25]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.27|Psalms 119:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ways my  |**<big>&#8207;[[H1870G\|דְּרָכַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| de.ra.Kha<small><sup>[[HNcbpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I recounted  |**<big>&#8207;[[H5608A\|סִ֭פַּרְתִּי]]&#8207; </big>**| Si.par.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

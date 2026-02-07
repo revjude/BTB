@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:4** 
 <small><sub>**LXX:**</sub></small>
 And Jehoram rose over the kingdom  of his father, and was strengthened, and he killed all  his brothers by \[the\] broadsword, and indeed \[some\] of the rulers of Israel. 
-<small><sub>**KJV:**</sub></small>
-Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and [divers] also of the princes of Israel.
-<small><sub>**BSB:**</sub></small>
-When Jehoram had established himself over his father’s kingdom, he strengthened himself by putting to the sword all his brothers along with some of the princes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.3|<< 2 Chronicles 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.5|2 Chronicles 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

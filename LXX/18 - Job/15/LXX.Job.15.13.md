@@ -1,10 +1,7 @@
 **LXX Job 15:13** 
 <small><sub>**LXX:**</sub></small>
 that \[your\] rage tore before the <span class="smallcaps">lord</span>, such sayings led forth from out of \[your\] mouth? 
-<small><sub>**KJV:**</sub></small>
-That thou turnest thy spirit against God, and lettest [such] words go out of thy mouth?
-<small><sub>**BSB:**</sub></small>
-so that you turn your spirit against God and pour such words from your mouth?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.12|<< Job 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.14|Job 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

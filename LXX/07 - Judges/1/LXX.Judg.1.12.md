@@ -1,10 +1,7 @@
 **LXX Judges 1:12** 
 <small><sub>**LXX:**</sub></small>
 And Caleb said, Who ever should strike the City  of Letters, and be first to take it, I will give to him  Achsah my daughter for a wife. 
-<small><sub>**KJV:**</sub></small>
-And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
-<small><sub>**BSB:**</sub></small>
-And Caleb said, “To the man who strikes down Kiriath-sepher and captures it, I will give my daughter Acsah in marriage.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.11|<< Judges 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.13|Judges 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

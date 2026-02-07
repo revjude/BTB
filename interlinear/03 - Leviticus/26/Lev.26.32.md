@@ -1,4 +1,4 @@
-**Leviticus 26:32** 
+**Leviticus 26:32**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring the land into desolation: and your enemies which dwell therein shall be astonished at it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will lay waste the land, so that your enemies who dwell in it will be appa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.31|<< Leviticus 26:31]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.33|Leviticus 26:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will devastate  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8074G\|הֲשִׁמֹּתִ֥י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.shi.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

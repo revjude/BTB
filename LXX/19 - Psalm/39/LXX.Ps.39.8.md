@@ -1,10 +1,7 @@
 **LXX Psalm 39:8** 
 <small><sub>**LXX:**</sub></small>
 From all  my lawless deeds rescue me! You gave me for scorn to \[the\] fool. 
-<small><sub>**KJV:**</sub></small>
-Deliver me from all my transgressions: make me not the reproach of the foolish.
-<small><sub>**BSB:**</sub></small>
-Deliver me from all my transgressions; do not make me the reproach of fools.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.39.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.7|<< Psalm 39:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.9|Psalm 39:9 >>]]</td></tr></table>
 
 | Translation | Greek |

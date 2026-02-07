@@ -1,10 +1,7 @@
 **LXX Psalm 109:16** 
 <small><sub>**LXX:**</sub></small>
 Because he did not remember to perform mercy, but pursued a needy and poor man, and vexing the heart  to kill \[him\]. 
-<small><sub>**KJV:**</sub></small>
-Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.
-<small><sub>**BSB:**</sub></small>
-For he never thought to show kindness, but pursued the poor and needy and brokenhearted, even to their death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.15|<< Psalm 109:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.17|Psalm 109:17 >>]]</td></tr></table>
 
 | Translation | Greek |

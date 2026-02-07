@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:15** 
 <small><sub>**LXX:**</sub></small>
 colored \[belts\] tied upon  their loins; deeply dyed \[apparel\] upon  their heads; all with \[the\] appearance of officials, a likeness of sons of Babylon of \[the\] Chaldeans, of \[the\] land of their fatherland. 
-<small><sub>**KJV:**</sub></small>
-Girded with girdles upon their loins, exceeding in dyed attire upon their heads, all of them princes to look to, after the manner of the Babylonians of Chaldea, the land of their nativity:
-<small><sub>**BSB:**</sub></small>
-wearing belts on their waists and flowing turbans on their heads; all of them looked like officers of the Babylonians in Chaldea, the land of their birth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.14|<< Ezekiel 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.16|Ezekiel 23:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 23:6** 
 <small><sub>**LXX:**</sub></small>
 And if in much strength he shall come upon me, so then he shall not treat me with intimidation. 
-<small><sub>**KJV:**</sub></small>
-Will he plead against me with [his] great power? No; but he would put [strength] in me.
-<small><sub>**BSB:**</sub></small>
-Would He contend with me in His great power? No, He would certainly take note of me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.5|<< Job 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.7|Job 23:7 >>]]</td></tr></table>
 
 | Translation | Greek |

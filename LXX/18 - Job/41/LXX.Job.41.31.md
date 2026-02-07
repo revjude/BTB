@@ -1,10 +1,7 @@
 **LXX Job 41:31** 
 <small><sub>**LXX:**</sub></small>
 The abyss breaks out as a brazen cauldron; and he esteems the sea as an ointment jar. 
-<small><sub>**KJV:**</sub></small>
-He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.
-<small><sub>**BSB:**</sub></small>
-He makes the depths seethe like a cauldron; he makes the sea like a jar of ointment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.30|<< Job 41:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.32|Job 41:32 >>]]</td></tr></table>
 
 | Translation | Greek |

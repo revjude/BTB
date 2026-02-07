@@ -1,10 +1,7 @@
 **LXX Obadiah 1:14** 
 <small><sub>**LXX:**</sub></small>
 nor should you have stood upon  their mountain passes to utterly destroy the ones escaping of them; nor should you have closed up the ones fleeing from them in \[the\] day of \[their\] affliction. 
-<small><sub>**KJV:**</sub></small>
-Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
-<small><sub>**BSB:**</sub></small>
-Nor should you stand at the crossroads to cut off their fugitives, nor deliver up their survivors in the day of their distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.13|<< Obadiah 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.15|Obadiah 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

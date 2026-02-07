@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:15** 
 <small><sub>**LXX:**</sub></small>
 And I will exhaust  my rage against the wall, and upon the ones plastering it, and it shall fall. And I said to you, The wall is not, nor the ones plastering it -- 
-<small><sub>**KJV:**</sub></small>
-Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered [morter], and will say unto you, The wall [is] no [more], neither they that daubed it;
-<small><sub>**BSB:**</sub></small>
-And after I have vented My wrath against the wall and against those who whitewashed it, I will say to you: ‘The wall is gone, and so are those who whitewashed it—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.14|<< Ezekiel 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.16|Ezekiel 13:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 2:11** 
+**Exodus 2:11**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ One day, after Moses had grown up, he went out to his own people and observed th
 > $\quad$ referenced by: [[Acts.7.24|Acts 7:24]] ☩ [[Heb.11.25|Heb 11:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the days  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יָּמִ֣ים]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

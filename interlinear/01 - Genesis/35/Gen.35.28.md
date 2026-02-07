@@ -1,4 +1,4 @@
-**Genesis 35:28** 
+**Genesis 35:28**<big><big>[[Gen.35.27 The Death of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the days of Isaac were an hundred and fourscore years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Isaac lived 180 years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.27|<< Genesis 35:27]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.29|Genesis 35:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּֽהְי֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֣י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

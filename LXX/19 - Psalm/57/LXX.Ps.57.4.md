@@ -1,10 +1,7 @@
 **LXX Psalm 57:4** 
 <small><sub>**LXX:**</sub></small>
 and he rescued  my soul from \[the\] midst \[of lion\] cubs. I went to bed being disturbed; \[the\] sons of men --  their teeth \[are\] weapons and arrows, and  their tongue a sharp sword. 
-<small><sub>**KJV:**</sub></small>
-My soul [is] among lions: [and] I lie [even among] them that are set on fire, [even] the sons of men, whose teeth [are] spears and arrows, and their tongue a sharp sword.
-<small><sub>**BSB:**</sub></small>
-My soul is among the lions; I lie down with ravenous beasts—with men whose teeth are spears and arrows, whose tongues are sharp swords.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.57.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.3|<< Psalm 57:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.57.5|Psalm 57:5 >>]]</td></tr></table>
 
 | Translation | Greek |

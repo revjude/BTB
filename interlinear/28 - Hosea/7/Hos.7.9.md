@@ -1,4 +1,4 @@
-**Hosea 7:9** 
+**Hosea 7:9**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Strangers have devoured his strength, and he knoweth [it] not: yea, gray hairs are here and there upon him, yet he knoweth not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Foreigners consume his strength, but he does not notice. Even his hair is streak
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.8|<< Hosea 7:8]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.10|Hosea 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have consumed  |**<big>&#8207;[[H0398\|אָכְל֤וּ]]&#8207; </big>**| 'a.khe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strangers  |**<big>&#8207;[[H2114A\|זָרִים֙]]&#8207; </big>**| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

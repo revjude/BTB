@@ -1,4 +1,4 @@
-**Proverbs 31:31** 
+**Proverbs 31:31**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give her of the fruit of her hands; and let her own works praise her in the gates.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give her the fruit of her hands, and let her works praise her at the gates.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.30|<< Proverbs 31:30]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.1|Ecclesiastes 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give  |**<big>&#8207;[[H5414G\|תְּנוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.nu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to her  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

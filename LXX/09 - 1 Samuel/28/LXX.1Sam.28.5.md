@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:5** 
 <small><sub>**LXX:**</sub></small>
 And Saul beheld the camp of the Philistines, and he was fearful, and it startled  his heart exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And when Saul saw the host of the Philistines, he was afraid, and his heart greatly trembled.
-<small><sub>**BSB:**</sub></small>
-When Saul saw the Philistine army, he was afraid and trembled violently.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.4|<< 1 Samuel 28:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.6|1 Samuel 28:6 >>]]</td></tr></table>
 
 | Translation | Greek |

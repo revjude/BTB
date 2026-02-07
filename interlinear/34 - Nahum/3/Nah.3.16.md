@@ -1,4 +1,4 @@
-**Nahum 3:16** 
+**Nahum 3:16**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have multiplied your merchants more than the stars of the sky. The young loc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.15|<< Nahum 3:15]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.17|Nahum 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have increased  |**<big>&#8207;[[H7235A\|הִרְבֵּית֙]]&#8207; </big>**| hir.Beit<small><sup>[[HVhp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | traders your  |**<big>&#8207;[[H7402\|רֹֽכְלַ֔יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ro.khe.La.yi<small><sup>[[HVqrmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

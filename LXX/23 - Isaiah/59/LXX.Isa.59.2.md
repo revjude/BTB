@@ -1,10 +1,7 @@
 **LXX Isaiah 59:2** 
 <small><sub>**LXX:**</sub></small>
 But  your sins make a part between you and  God; and on account of  your sins he turned  his face from you,  to not show mercy. 
-<small><sub>**KJV:**</sub></small>
-But your iniquities have separated between you and your God, and your sins have hid [his] face from you, that he will not hear.
-<small><sub>**BSB:**</sub></small>
-But your iniquities have built barriers between you and your God, and your sins have hidden His face from you, so that He does not hear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.1|<< Isaiah 59:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.3|Isaiah 59:3 >>]]</td></tr></table>
 
 | Translation | Greek |

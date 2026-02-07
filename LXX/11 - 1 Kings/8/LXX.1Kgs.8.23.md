@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:23** 
 <small><sub>**LXX:**</sub></small>
 And he said, O <span class="smallcaps">lord</span>  God of Israel, there is no God as you in the heaven upward and upon the earth below, guarding covenant and mercy \[with\] your servant, to the one going before you with his entire heart; 
-<small><sub>**KJV:**</sub></small>
-And he said, LORD God of Israel, [there is] no God like thee, in heaven above, or on earth beneath, who keepest covenant and mercy with thy servants that walk before thee with all their heart:
-<small><sub>**BSB:**</sub></small>
-and said: “O LORD, God of Israel, there is no God like You in heaven above or on earth below, keeping Your covenant of loving devotion with Your servants who walk before You with all their hearts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.22|<< 1 Kings 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.24|1 Kings 8:24 >>]]</td></tr></table>
 
 | Translation | Greek |

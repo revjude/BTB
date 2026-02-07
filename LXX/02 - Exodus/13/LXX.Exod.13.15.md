@@ -1,10 +1,7 @@
 **LXX Exodus 13:15** 
 <small><sub>**LXX:**</sub></small>
 And when he hardened Pharaoh to send us, \[the\] <span class="smallcaps">lord</span> slew all \[the\] first-born in \[the\] land of Egypt, from \[the\] first-born of men, unto \[the\] first-born of cattle. On account of this I sacrifice to the <span class="smallcaps">lord</span> every \[offspring\] opening \[the\] womb, the males to the <span class="smallcaps">lord</span>, and every first-born  of my sons I will ransom. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem.
-<small><sub>**BSB:**</sub></small>
-And when Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in the land of Egypt, both of man and beast. This is why I sacrifice to the LORD the firstborn male of every womb, but I redeem all the firstborn of my sons.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.14|<< Exodus 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.16|Exodus 13:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 13:15** is...

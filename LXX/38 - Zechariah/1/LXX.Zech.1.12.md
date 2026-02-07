@@ -1,10 +1,7 @@
 **LXX Zechariah 1:12** 
 <small><sub>**LXX:**</sub></small>
 And the angel \[of the\] <span class="smallcaps">lord</span> answered and said, O <span class="smallcaps">lord</span> of the forces, until when shall you in no way show mercy  on Jerusalem, and the cities of Judah, in which you were enraged over this seventieth year? 
-<small><sub>**KJV:**</sub></small>
-Then the angel of the LORD answered and said, O LORD of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these threescore and ten years?
-<small><sub>**BSB:**</sub></small>
-Then the angel of the LORD said, “How long, O LORD of Hosts, will You withhold mercy from Jerusalem and the cities of Judah, with which You have been angry these seventy years?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.11|<< Zechariah 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.13|Zechariah 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

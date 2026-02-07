@@ -1,4 +1,4 @@
-**Numbers 6:13** 
+**Numbers 6:13**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the law of the Nazarite, when the days of his separation are fulfilled: he shall be brought unto the door of the tabernacle of the congregation:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now this is the law of the Nazirite when his time of separation is complete: He 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.12|<< Numbers 6:12]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.14|Numbers 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹ֥את]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] law of  |**<big>&#8207;[[H8451\|תּוֹרַ֖ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

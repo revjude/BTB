@@ -1,10 +1,7 @@
 **LXX Exodus 32:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses, saying, Proceed  quickly! to go down from here, for your people acted lawlessly, whom you led from \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Go, get thee down; for thy people, which thou broughtest out of the land of Egypt, have corrupted [themselves]:
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Go down at once, for your people, whom you brought up out of the land of Egypt, have corrupted themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.6|<< Exodus 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.8|Exodus 32:8 >>]]</td></tr></table>
 
 | Translation | Greek |

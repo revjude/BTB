@@ -1,10 +1,7 @@
 **LXX Daniel 6:7** 
 <small><sub>**LXX:**</sub></small>
 All the ones over your kingdom took counsel -- \[the\] commandants, and satraps, \[the\] supreme \[leaders\], and toparchs,  to establish a royal position, and to strengthen an enactment, so that whoever should ask a request from any god or man, for thirty days, except from you, O king, shall be put into the pit of the lions. 
-<small><sub>**KJV:**</sub></small>
-All the presidents of the kingdom, the governors, and the princes, the counsellers, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions.
-<small><sub>**BSB:**</sub></small>
-All the royal administrators, prefects, satraps, advisers, and governors have agreed that the king should establish an ordinance and enforce a decree that for thirty days anyone who petitions any god or man except you, O king, will be thrown into the den of lions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.6|<< Daniel 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.8|Daniel 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

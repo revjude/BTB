@@ -1,4 +1,4 @@
-**1 Kings 7:20** 
+**1 Kings 7:20**<big><big>[[1Kgs.7.13 The Pillars and Capitals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chapiters upon the two pillars [had pomegranates] also above, over against the belly which [was] by the network: and the pomegranates [were] two hundred in rows round about upon the other chapiter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the capitals of both pillars, just above the rounded projection next to the n
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.19|<< 1 Kings 7:19]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.21|1 Kings 7:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] capitals  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3805\|כֹתָרֹ֗ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kho.ta.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

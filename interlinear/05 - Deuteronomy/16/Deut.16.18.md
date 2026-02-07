@@ -1,4 +1,4 @@
-**Deuteronomy 16:18** 
+**Deuteronomy 16:18**<big><big>[[Deut.16.18 Judges and Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judges and officers shalt thou make thee in all thy gates, which the LORD thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to appoint judges and officials for your tribes in every town that the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.17|<< Deuteronomy 16:17]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.19|Deuteronomy 16:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | judges  |**<big>&#8207;[[H8199\|שֹׁפְטִ֣ים]]&#8207; </big>**| sho.fe.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and officials  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7860\|שֹֽׁטְרִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sho.te.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

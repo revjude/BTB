@@ -1,4 +1,4 @@
-**Job 21:33** 
+**Job 21:33**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The clods of the valley shall be sweet unto him, and every man shall draw after him, as [there are] innumerable before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The clods of the valley are sweet to him; everyone follows behind him, and those
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.32|<< Job 21:32]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.34|Job 21:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will be sweet  |**<big>&#8207;[[H4985\|מָֽתְקוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.te.ku-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

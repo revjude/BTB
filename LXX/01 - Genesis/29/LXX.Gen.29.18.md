@@ -1,10 +1,7 @@
 **LXX Genesis 29:18** 
 <small><sub>**LXX:**</sub></small>
 And Jacob loved  Rachel. And he said, I will serve you seven years for Rachel  your younger daughter. 
-<small><sub>**KJV:**</sub></small>
-And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter.
-<small><sub>**BSB:**</sub></small>
-Since Jacob loved Rachel, he answered, “I will serve you seven years for your younger daughter Rachel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.17|<< Genesis 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.19|Genesis 29:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 11:18** 
+**Deuteronomy 11:18**<big><big>[[Deut.11.18 Remember God’s Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Fix these words of mine in your hearts and minds; tie them as reminders on your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.17|<< Deuteronomy 11:17]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.19|Deuteronomy 11:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760H\|שַׂמְתֶּם֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

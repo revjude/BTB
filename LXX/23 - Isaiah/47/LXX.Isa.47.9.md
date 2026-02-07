@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But now these two \[things\] shall come upon you suddenly in one day; childlessness and widowhood shall come suddenly upon you in  your sorcery, in the strength  of your enchantments -- exceedingly. 
-<small><sub>**KJV:**</sub></small>
-But these two [things] shall come to thee in a moment in one day, the loss of children, and widowhood: they shall come upon thee in their perfection for the multitude of thy sorceries, [and] for the great abundance of thine enchantments.
-<small><sub>**BSB:**</sub></small>
-These two things will overtake you in a moment, in a single day: loss of children, and widowhood. They will come upon you in full measure, in spite of your many sorceries and the potency of your spells.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.8|<< Isaiah 47:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.10|Isaiah 47:10 >>]]</td></tr></table>
 
 | Translation | Greek |

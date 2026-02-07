@@ -1,4 +1,4 @@
-**Psalms 52:5** (52:7)
+**Psalms 52:5**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of [thy] dwelling place, and root thee out of the land of the living. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely God will bring you down to everlasting ruin; He will snatch you up and te
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.4|<< Psalms 52:4]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.6|Psalms 52:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0410G\|אֵל֮]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

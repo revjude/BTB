@@ -1,10 +1,7 @@
 **LXX Isaiah 31:2** 
 <small><sub>**LXX:**</sub></small>
 And he wisely brought upon them bad \[things\], and  his word in no way shall be annulled. And he shall rise up against \[the\] houses of wicked men, and against  their vain hope -- 
-<small><sub>**KJV:**</sub></small>
-Yet he also [is] wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity.
-<small><sub>**BSB:**</sub></small>
-Yet He too is wise and brings disaster; He does not call back His words. He will rise up against the house of the wicked and against the allies of evildoers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.1|<< Isaiah 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.3|Isaiah 31:3 >>]]</td></tr></table>
 
 | Translation | Greek |

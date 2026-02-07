@@ -1,4 +1,4 @@
-**Isaiah 8:5** 
+**Isaiah 8:5**<big><big>[[Isa.8.1 Assyrian Invasion Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD spake also unto me again, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD spoke to me further:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.4|<< Isaiah 8:4]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.6|Isaiah 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יֹּ֣סֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.sef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

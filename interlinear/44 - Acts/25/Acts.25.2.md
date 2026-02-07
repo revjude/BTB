@@ -1,12 +1,12 @@
-**Acts 25:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:2**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the high priest and the chief of the Jews informed him against Paul, and besought him,
 <small><sub>**BSB:**</sub></small>
 where the chief priests and Jewish leaders presented their case against Paul. They urged Festus
 <small><sub>**Literal:**</sub></small>
 Made a presentation then before him the chief priests and the chiefs of the Jews against <the> Paul and they were begging him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.1|<< Acts 25:1]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.3|Acts 25:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Made a presentation |**<big>[[G1718\|ἐνεφάνισάν]]</big>**  |enephanisan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

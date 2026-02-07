@@ -1,5 +1,5 @@
-**John 12:27
-**<small><sub>**KJV:**</sub></small>
+**John 12:27**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.
 <small><sub>**BSB:**</sub></small>
 Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? No, it is for this purpose that I have come to this hour.
@@ -10,7 +10,7 @@ Now the soul of Mine has been troubled, and what shall I say? Father, do save Me
 > $\quad$ referencing: [[LXX.Ps.6.3|Ps 6:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3568\|Νῦν]]</big>**  |Nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

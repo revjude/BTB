@@ -1,4 +1,4 @@
-**1 Samuel 8:5** 
+**1 Samuel 8:5**<big><big>[[1Sam.8.1 Israel Demands a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now 
 > $\quad$ referenced by: [[Acts.13.21|Acts 13:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

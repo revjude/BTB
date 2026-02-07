@@ -1,4 +1,4 @@
-**Proverbs 29:13** 
+**Proverbs 29:13**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The poor and the deceitful man meet together: the LORD lighteneth both their eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The poor man and the oppressor have this in common: The LORD gives light to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.12|<< Proverbs 29:12]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.14|Proverbs 29:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a poor [person]  |**<big>&#8207;[[H7326\|רָ֤שׁ]]&#8207; </big>**| rash<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a person of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

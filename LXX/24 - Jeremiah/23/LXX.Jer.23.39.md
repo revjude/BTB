@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:39** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, I will take and dash you down, and the city which I have given to you and \[to\] your fathers. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, I, even I, will utterly forget you, and I will forsake you, and the city that I gave you and your fathers, [and cast you] out of my presence:
-<small><sub>**BSB:**</sub></small>
-therefore I will surely forget you and will cast you out of My presence, both you and the city that I gave to you and your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.38|<< Jeremiah 23:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.40|Jeremiah 23:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 2:4** 
+**1 Kings 2:4**<big><big>[[1Kgs.2.1 David Instructs Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the LORD may continue his word which he spake concerning me, saying, If thy children take heed to their way, to walk before me in truth with all their heart and with all their soul, there shall not fail thee (said he) a man on the throne of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and so that the LORD may fulfill His promise to me: ‘If your descendants take 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.3|<< 1 Kings 2:3]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.5|1 Kings 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַעַן֩]]&#8207; </big>**| le.ma.'An<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he may establish  |**<big>&#8207;[[H6965I\|יָקִ֨ים]]&#8207; </big>**| ya.Kim<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

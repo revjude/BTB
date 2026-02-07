@@ -1,12 +1,12 @@
-**Philemon 1:20
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:20**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.
 <small><sub>**BSB:**</sub></small>
 Yes, brother, let me have some benefit from you in the Lord. Refresh my heart in Christ.
 <small><sub>**Literal:**</sub></small>
 Yes, brother, I myself from you I would have profit in [the] Lord; do refresh my <the> heart in Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.19|<< Philemon 1:19]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.21|Philemon 1:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yes, |**<big>[[G3483\|ναί,]]</big>**  |nai <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brother, |**<big>[[G0080\|ἀδελφέ,]]</big>**  |adelphe <small><sup>[[N-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

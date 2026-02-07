@@ -1,4 +1,4 @@
-**2 Samuel 16:5** 
+**2 Samuel 16:5**<big><big>[[2Sam.16.5 Shimei Curses David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name [was] Shimei, the son of Gera: he came forth, and cursed still as he came.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As King David approached Bahurim, a man from the family of the house of Saul was
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.4|<< 2 Samuel 16:4]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.6|2 Samuel 16:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֛א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֥לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

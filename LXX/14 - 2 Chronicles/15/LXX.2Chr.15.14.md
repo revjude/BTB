@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 15:14** 
 <small><sub>**LXX:**</sub></small>
 And they swore by an oath to \[the\] <span class="smallcaps">lord</span> with a great voice, and with shouting, and with trumpets, and with horns. 
-<small><sub>**KJV:**</sub></small>
-And they sware unto the LORD with a loud voice, and with shouting, and with trumpets, and with cornets.
-<small><sub>**BSB:**</sub></small>
-They took an oath to the LORD with a loud voice, with shouting, trumpets, and rams’ horns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.13|<< 2 Chronicles 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.15|2 Chronicles 15:15 >>]]</td></tr></table>
 
 | Translation | Greek |

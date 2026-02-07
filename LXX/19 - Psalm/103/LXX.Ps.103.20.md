@@ -1,10 +1,7 @@
 **LXX Psalm 103:20** 
 <small><sub>**LXX:**</sub></small>
 Bless the <span class="smallcaps">lord</span> all \[you\] his angels, mighty in strength, executing  his word,  to hearken to the sound  of his words! 
-<small><sub>**KJV:**</sub></small>
-Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.
-<small><sub>**BSB:**</sub></small>
-Bless the LORD, all His angels mighty in strength who carry out His word, who hearken to the voice of His command.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.103.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.19|<< Psalm 103:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.21|Psalm 103:21 >>]]</td></tr></table>
 
 | Translation | Greek |

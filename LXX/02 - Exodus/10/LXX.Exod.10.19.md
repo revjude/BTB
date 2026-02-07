@@ -1,10 +1,7 @@
 **LXX Exodus 10:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> turned a vehement wind from \[the\] sea, and it took up the locust, and cast it into the red sea. And there was not left behind one locust in all \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the LORD turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt.
-<small><sub>**BSB:**</sub></small>
-And the LORD changed the wind to a very strong west wind that carried off the locusts and blew them into the Red Sea. Not a single locust remained anywhere in Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.18|<< Exodus 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.20|Exodus 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

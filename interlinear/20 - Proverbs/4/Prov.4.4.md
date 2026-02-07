@@ -1,4 +1,4 @@
-**Proverbs 4:4** 
+**Proverbs 4:4**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He taught me also, and said unto me, Let thine heart retain my words: keep my commandments, and live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he taught me and said, “Let your heart lay hold of my words; keep my commands 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.3|<< Proverbs 4:3]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.5|Proverbs 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he taught me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3384B\|יֹּרֵ֗]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Re.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

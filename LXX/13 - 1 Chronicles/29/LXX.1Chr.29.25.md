@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:25** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> magnified  Solomon before all Israel, and put upon him glory of \[the\] kingdom of which did not happen unto any king before him over  Israel. 
-<small><sub>**KJV:**</sub></small>
-And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him [such] royal majesty as had not been on any king before him in Israel.
-<small><sub>**BSB:**</sub></small>
-The LORD highly exalted Solomon in the sight of all Israel and bestowed on him royal majesty such as had not been bestowed on any king in Israel before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.24|<< 1 Chronicles 29:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.26|1 Chronicles 29:26 >>]]</td></tr></table>
 
 | Translation | Greek |

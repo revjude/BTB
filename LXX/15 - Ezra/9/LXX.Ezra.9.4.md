@@ -1,10 +1,7 @@
 **LXX Ezra 9:4** 
 <small><sub>**LXX:**</sub></small>
 And there gathered to me everyone  trembling \[at the\] word of \[the\] God of Israel concerning \[the\] breach-of-contract of the resettlement. And I was sitting calming myself until the evening sacrifice. 
-<small><sub>**KJV:**</sub></small>
-Then were assembled unto me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat astonied until the evening sacrifice.
-<small><sub>**BSB:**</sub></small>
-Then everyone who trembled at the words of the God of Israel gathered around me because of the unfaithfulness of the exiles, while I sat there in horror until the evening offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.3|<< Ezra 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.5|Ezra 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

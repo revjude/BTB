@@ -1,4 +1,4 @@
-**2 Kings 6:5** 
+**2 Kings 6:5**<big><big>[[2Kgs.6.1 The Axe Head Floats|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As one of them was cutting down a tree, the iron axe head fell into the water. �
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.4|<< 2 Kings 6:4]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.6|2 Kings 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the one  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0259\|אֶחָד֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

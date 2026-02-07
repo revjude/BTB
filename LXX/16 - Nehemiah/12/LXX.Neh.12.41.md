@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:41** 
 <small><sub>**LXX:**</sub></small>
 And the priests, Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, Hananiah, \[were\] with trumpets; 
-<small><sub>**KJV:**</sub></small>
-And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, [and] Hananiah, with trumpets;
-<small><sub>**BSB:**</sub></small>
-as well as the priests with their trumpets—Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.40|<< Nehemiah 12:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.42|Nehemiah 12:42 >>]]</td></tr></table>
 
 | Translation | Greek |

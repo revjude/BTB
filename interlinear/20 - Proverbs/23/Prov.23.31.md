@@ -1,4 +1,4 @@
-**Proverbs 23:31** 
+**Proverbs 23:31**<big><big>[[Prov.23.29 Saying 19|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look not thou upon the wine when it is red, when it giveth his colour in the cup, [when] it moveth itself aright.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Do not gaze at wine while it is red, when it sparkles in the cup and goes down s
 > $\quad$ referenced by: [[Eph.5.18|Eph 5:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you see  |**<big>&#8207;[[H7200G\|תֵּ֥רֶא]]&#8207; </big>**| Te.re'<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

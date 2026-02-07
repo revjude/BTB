@@ -1,4 +1,4 @@
-**1 Chronicles 29:3** 
+**1 Chronicles 29:3**<big><big>[[1Chr.29.1 Offerings for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover, because I have set my affection to the house of my God, I have of mine own proper good, of gold and silver, [which] I have given to the house of my God, over and above all that I have prepared for the holy house,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, because of my delight in the house of my God, I now give for it my per
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.2|<< 1 Chronicles 29:2]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.4|1 Chronicles 29:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and again  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5750\|ע֗וֹד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | because delight I  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7521\|רְצוֹתִ]]&#8207;&#8207;[[H9040\|י֙]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> r.tzo.T<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

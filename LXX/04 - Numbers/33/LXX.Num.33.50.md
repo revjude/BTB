@@ -1,10 +1,7 @@
 **LXX Numbers 33:50** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses near \[the\] descent of Moab by the Jordan near Jericho, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses in the plains of Moab by Jordan [near] Jericho, saying,
-<small><sub>**BSB:**</sub></small>
-On the plains of Moab by the Jordan across from Jericho, the LORD said to Moses,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.49|<< Numbers 33:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.51|Numbers 33:51 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 25:15** 
+**Exodus 25:15**<big><big>[[Exod.25.10 The Ark of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The staves shall be in the rings of the ark: they shall not be taken from it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The poles are to remain in the rings of the ark; they must not be removed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.14|<< Exodus 25:14]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.16|Exodus 25:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] rings of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2885\|טַבְּעֹת֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ta.be.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ark  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0727\|אָרֹ֔ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

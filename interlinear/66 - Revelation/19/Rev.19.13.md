@@ -1,5 +1,5 @@
-**Revelation 19:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:13**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he [was] clothed with a vesture dipped in blood: and his name is called The Word of God.
 <small><sub>**BSB:**</sub></small>
 He is dressed in a robe dipped in blood, and His name is The Word of God.
@@ -10,7 +10,7 @@ and having clothed themselves with a garment dipped in blood, And has been calle
 > $\quad$ alluding to: [[LXX.Isa.63.1|Isa 63:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having clothed themselves with |**<big>[[G4016\|περιβεβλημένος]]</big>**  |peribeblēmenos <small><sup>[[V-RMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

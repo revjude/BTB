@@ -1,10 +1,7 @@
 **LXX Judges 20:23** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel ascended up, and they wept before \[the\] <span class="smallcaps">lord</span> until evening, and they asked of \[the\] <span class="smallcaps">lord</span>, saying, Shall I proceed to draw near for war against \[the\] sons of Benjamin  my brother? And \[the\] <span class="smallcaps">lord</span> said, Ascend against him! 
-<small><sub>**KJV:**</sub></small>
-(And the children of Israel went up and wept before the LORD until even, and asked counsel of the LORD, saying, Shall I go up again to battle against the children of Benjamin my brother? And the LORD said, Go up against him.)
-<small><sub>**BSB:**</sub></small>
-They went up and wept before the LORD until evening, inquiring of Him, “Should we again draw near for battle against our brothers the Benjamites?” And the LORD answered, “Go up against them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.22|<< Judges 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.24|Judges 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

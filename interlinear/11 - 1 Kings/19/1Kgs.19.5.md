@@ -1,4 +1,4 @@
-**1 Kings 19:5** 
+**1 Kings 19:5**<big><big>[[1Kgs.19.1 Elijah Flees from Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise [and] eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he lay down under the broom tree and fell asleep. Suddenly an angel touched
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.4|<< 1 Kings 19:4]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.6|1 Kings 19:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901G\|יִּשְׁכַּב֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he slept  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3462\|יִּישַׁ֔ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Shan<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 102:24** (102:25)
+**Psalms 102:24**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said, O my God, take me not away in the midst of my days: thy years [are] throughout all generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I say: “O my God, do not take me in the midst of my days! Your years go on thr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.23|<< Psalms 102:23]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.25|Psalms 102:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I said  |**<big>&#8207;[[H0559\|אֹמַ֗ר]]&#8207; </big>**| 'o.Mar<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God my  |**<big>&#8207;[[H0410G\|אֵלִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

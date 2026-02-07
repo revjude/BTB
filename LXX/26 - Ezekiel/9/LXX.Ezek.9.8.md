@@ -1,10 +1,7 @@
 **LXX Ezekiel 9:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  their smiting, that I fell upon my face, and I yelled out, and said, Alas, Adonai, O <span class="smallcaps">lord</span>, do you wipe away the remnant  of Israel in the pouring out  of your rage upon Jerusalem? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord GOD! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?
-<small><sub>**BSB:**</sub></small>
-While they were killing, I was left alone. And I fell facedown and cried out, “Oh, Lord GOD, when You pour out Your wrath on Jerusalem, will You destroy the entire remnant of Israel?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.7|<< Ezekiel 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.9|Ezekiel 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

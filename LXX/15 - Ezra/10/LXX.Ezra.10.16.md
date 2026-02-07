@@ -1,10 +1,7 @@
 **LXX Ezra 10:16** 
 <small><sub>**LXX:**</sub></small>
 And the sons of the resettlement did thus. And Ezra the priest drew apart, and \[the\] men rulers of \[the\] families of the households, and all by names, for they returned on day one of the tenth month to inquire of the matter. 
-<small><sub>**KJV:**</sub></small>
-And the children of the captivity did so. And Ezra the priest, [with] certain chief of the fathers, after the house of their fathers, and all of them by [their] names, were separated, and sat down in the first day of the tenth month to examine the matter.
-<small><sub>**BSB:**</sub></small>
-So the exiles did as proposed. Ezra the priest selected men who were family heads, each of them identified by name, to represent their families. On the first day of the tenth month they launched the investigation,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.15|<< Ezra 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.17|Ezra 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

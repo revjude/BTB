@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Behold days come, says \[the\] <span class="smallcaps">lord</span>, and I will send out famine upon the land; not a famine of bread loaves, nor famine of water, but a famine  to hear the word of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, saith the Lord GOD, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD:
-<small><sub>**BSB:**</sub></small>
-Behold, the days are coming, declares the Lord GOD, when I will send a famine on the land—not a famine of bread or a thirst for water, but a famine of hearing the words of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.10|<< Amos 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.12|Amos 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

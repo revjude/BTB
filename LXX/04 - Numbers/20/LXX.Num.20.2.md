@@ -1,10 +1,7 @@
 **LXX Numbers 20:2** 
 <small><sub>**LXX:**</sub></small>
 And there was no water for the congregation, and they gathered themselves against Moses and Aaron. 
-<small><sub>**KJV:**</sub></small>
-And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.
-<small><sub>**BSB:**</sub></small>
-Now there was no water for the congregation, so they gathered against Moses and Aaron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.1|<< Numbers 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.3|Numbers 20:3 >>]]</td></tr></table>
 
 | Translation | Greek |

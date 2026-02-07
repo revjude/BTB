@@ -1,4 +1,4 @@
-**Isaiah 38:15** 
+**Isaiah 38:15**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What shall I say? he hath both spoken unto me, and himself hath done [it]: I shall go softly all my years in the bitterness of my soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What can I say? He has spoken to me, and He Himself has done this. I will walk s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.14|<< Isaiah 38:14]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.16|Isaiah 38:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I say  |**<big>&#8207;[[H1696G\|אֲדַבֵּ֥ר]]&#8207; </big>**| 'a.da.Ber<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 48:16** 
+**Isaiah 48:16**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come ye near unto me, hear ye this; I have not spoken in secret from the beginning; from the time that it was, there [am] I: and now the Lord GOD, and his Spirit, hath sent me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come near to Me and listen to this: From the beginning I have not spoken in secr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.15|<< Isaiah 48:15]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.17|Isaiah 48:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | draw near  |**<big>&#8207;[[H7126G\|קִרְב֧וּ]]&#8207; </big>**| kir.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

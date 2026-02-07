@@ -1,10 +1,7 @@
 **LXX Exodus 30:31** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Israel you shall speak, saying, An oil of anointing -- a holy anointing this will be to you into  your generations. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations.
-<small><sub>**BSB:**</sub></small>
-And you are to tell the Israelites, ‘This will be My sacred anointing oil for the generations to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.30|<< Exodus 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.32|Exodus 30:32 >>]]</td></tr></table>
 
 | Translation | Greek |

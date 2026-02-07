@@ -1,12 +1,12 @@
-**Mark 8:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:9**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that had eaten were about four thousand: and he sent them away.
 <small><sub>**BSB:**</sub></small>
 And about four thousand men were present. And when Jesus had dismissed the crowd,
 <small><sub>**Literal:**</sub></small>
 There were now <the> having eaten of about four thousand; And He sent away them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.8|<< Mark 8:8]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.10|Mark 8:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There were |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

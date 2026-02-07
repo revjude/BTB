@@ -1,4 +1,4 @@
-**Exodus 6:22** 
+**Exodus 6:22**<big><big>[[Exod.6.14 Genealogies of Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Uzziel; Mishael, and Elzaphan, and Zithri.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Uzziel were Mishael, Elzaphan, and Sithri.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.21|<< Exodus 6:21]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.23|Exodus 6:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Uzziel  |**<big>&#8207;[[H5816G\|עֻזִּיאֵ֑ל]]&#8207; </big>**| 'u.zi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

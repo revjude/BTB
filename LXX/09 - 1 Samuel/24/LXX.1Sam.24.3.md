@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:3** 
 <small><sub>**LXX:**</sub></small>
 And he came unto the herds of the flocks of the ones upon the way. And a cave was there, and Saul entered to make preparation. And David and  his men \[were\] in the cave inside sitting down in it. 
-<small><sub>**KJV:**</sub></small>
-And he came to the sheepcotes by the way, where [was] a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.
-<small><sub>**BSB:**</sub></small>
-Soon Saul came to the sheepfolds along the road, where there was a cave, and he went in to relieve himself. And David and his men were hiding in the recesses of the cave.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.2|<< 1 Samuel 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.4|1 Samuel 24:4 >>]]</td></tr></table>
 
 | Translation | Greek |

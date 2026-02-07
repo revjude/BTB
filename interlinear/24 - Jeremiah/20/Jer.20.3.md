@@ -1,4 +1,4 @@
-**Jeremiah 20:3** 
+**Jeremiah 20:3**<big><big>[[Jer.20.1 Pashhur Persecutes Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the morrow, that Pashur brought forth Jeremiah out of the stocks. Then said Jeremiah unto him, The LORD hath not called thy name Pashur, but Magormissabib.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The next day, when Pashhur released Jeremiah from the stocks, Jeremiah said to h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.2|<< Jeremiah 20:2]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.4|Jeremiah 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] next day  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4283\|מָּחֳרָ֔ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mo.cho.Rat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

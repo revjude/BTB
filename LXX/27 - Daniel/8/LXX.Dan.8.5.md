@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I was perceiving. And behold, a he-goat of \[the\] goats came from \[the\] southwest upon \[the\] face of all the earth, and was not touching the earth. And to the he-goat \[was\] a horn which may be viewed between  his eyes. 
-<small><sub>**KJV:**</sub></small>
-And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat [had] a notable horn between his eyes.
-<small><sub>**BSB:**</sub></small>
-As I was contemplating all this, suddenly a goat with a prominent horn between his eyes came out of the west, crossing the surface of the entire earth without touching the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.4|<< Daniel 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.6|Daniel 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

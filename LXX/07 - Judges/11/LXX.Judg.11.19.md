@@ -1,10 +1,7 @@
 **LXX Judges 11:19** 
 <small><sub>**LXX:**</sub></small>
 And Israel sent messengers to Sihon king of the Amorites, king of Heshbon. And Israel said to him, I shall go by through  your land unto  my place. 
-<small><sub>**KJV:**</sub></small>
-And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place.
-<small><sub>**BSB:**</sub></small>
-And Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, ‘Please let us pass through your land into our own place.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.18|<< Judges 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.20|Judges 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 5:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:12**<big><big>[[Acts.5.12 The Apostles Heal Many|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And by the hands of the apostles were many signs and wonders wrought among the people; (and they were all with one accord in Solomon’s porch.
 <small><sub>**BSB:**</sub></small>
 The apostles performed many signs and wonders among the people, and with one accord the believers gathered together in Solomon’s Colonnade.
 <small><sub>**Literal:**</sub></small>
 By now the hands of the apostles were happening signs and wonders many among the people; And they were with one accord all in the Colonnade of Solomon;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.11|<< Acts 5:11]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.13|Acts 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By |**<big>[[G1223\|Διὰ]]</big>**  |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

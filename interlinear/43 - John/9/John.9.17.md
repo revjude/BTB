@@ -1,12 +1,12 @@
-**John 9:17
-**<small><sub>**KJV:**</sub></small>
+**John 9:17**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.
 <small><sub>**BSB:**</sub></small>
 So once again they asked the man who had been blind, “What do you say about Him, since it was your eyes He opened?” “He is a prophet,” the man replied.
 <small><sub>**Literal:**</sub></small>
 They say therefore to the blind [man] again; What you yourself say concerning Him for He opened of you the eyes? <the> And he said that A prophet He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.16|<< John 9:16]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.18|John 9:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They say |**<big>[[G3004G\|λέγουσιν]]</big>**  |legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

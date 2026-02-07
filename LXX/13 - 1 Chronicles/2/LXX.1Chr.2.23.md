@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:23** 
 <small><sub>**LXX:**</sub></small>
 And he took Geshur and Aram the towns of Jair from them,  \[with\] Kenath and  her towns -- sixty cities. All these sons of Machir father of Gilead. 
-<small><sub>**KJV:**</sub></small>
-And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, [even] threescore cities. All these [belonged to] the sons of Machir the father of Gilead.
-<small><sub>**BSB:**</sub></small>
-But Geshur and Aram captured Havvoth-jair, along with Kenath and its sixty surrounding villages. All these were descendants of Machir the father of Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.22|<< 1 Chronicles 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.24|1 Chronicles 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

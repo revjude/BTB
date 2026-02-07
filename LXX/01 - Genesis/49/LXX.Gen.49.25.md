@@ -1,10 +1,7 @@
 **LXX Genesis 49:25** 
 <small><sub>**LXX:**</sub></small>
 And my God gave help to you, and blessed you \[with the\] blessing of heaven above, and \[the\] blessing of earth having all \[things\]; because of \[the\] blessing of breasts and of \[the\] womb; 
-<small><sub>**KJV:**</sub></small>
-[Even] by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:
-<small><sub>**BSB:**</sub></small>
-by the God of your father who helps you, and by the Almighty who blesses you, with blessings of the heavens above, with blessings of the depths below, with blessings of the breasts and womb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.24|<< Genesis 49:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.26|Genesis 49:26 >>]]</td></tr></table>
 
 | Translation | Greek |

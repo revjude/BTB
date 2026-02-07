@@ -1,10 +1,7 @@
 **LXX Isaiah 9:17** 
 <small><sub>**LXX:**</sub></small>
 On account of this the <span class="smallcaps">lord</span> shall not be gladdened over their young men; and \[upon\]  their orphans and  their widows he shall not show mercy. For all \[are\] lawless ones and wicked ones, and every mouth speaks unjustly. For all these \[things\] his rage shall not turn away, but still  his hand \[is\] high. 
-<small><sub>**KJV:**</sub></small>
-Therefore the Lord shall have no joy in their young men, neither shall have mercy on their fatherless and widows: for every one [is] an hypocrite and an evildoer, and every mouth speaketh folly. For all this his anger is not turned away, but his hand [is] stretched out still.
-<small><sub>**BSB:**</sub></small>
-Therefore the Lord takes no pleasure in their young men; He has no compassion on their fatherless and widows. For every one of them is godless and wicked, and every mouth speaks folly. Despite all this, His anger is not turned away; His hand is still upraised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.16|<< Isaiah 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.18|Isaiah 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

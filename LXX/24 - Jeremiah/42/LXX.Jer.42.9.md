@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Thus said \[the\] <span class="smallcaps">lord</span>, the God of Israel, of whom you sent me to him that your supplication should fall before him. 
-<small><sub>**KJV:**</sub></small>
-And said unto them, Thus saith the LORD, the God of Israel, unto whom ye sent me to present your supplication before him;
-<small><sub>**BSB:**</sub></small>
-Jeremiah told them, “Thus says the LORD, the God of Israel, to whom you sent me to present your petition:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.8|<< Jeremiah 42:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.10|Jeremiah 42:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 13:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 13:12**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.
 <small><sub>**BSB:**</sub></small>
 Now we see but a dim reflection as in a mirror; then we shall see face to face. Now I know in part; then I shall know fully, even as I am fully known.
 <small><sub>**Literal:**</sub></small>
 We see for presently through a glass in obscurity, then however face to face; presently I know in part, then however I will know fully even as also I have been fully known.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.11|<< 1 Corinthians 13:11]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.13|1 Corinthians 13:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We see |**<big>[[G0991\|βλέπομεν]]</big>**  |blepomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

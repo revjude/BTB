@@ -1,4 +1,4 @@
-**Genesis 28:9** 
+**Genesis 28:9**<big><big>[[Gen.28.6 Esau Marries Mahalath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went Esau unto Ishmael, and took unto the wives which he had Mahalath the daughter of Ishmael Abraham’s son, the sister of Nebajoth, to be his wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Esau went to Ishmael and married Mahalath, the sister of Nebaioth and daughter o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.8|<< Genesis 28:8]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.10|Genesis 28:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֥לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esau  |**<big>&#8207;[[H6215G\|עֵשָׂ֖ו]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

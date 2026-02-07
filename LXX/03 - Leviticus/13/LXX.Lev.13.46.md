@@ -1,10 +1,7 @@
 **LXX Leviticus 13:46** 
 <small><sub>**LXX:**</sub></small>
 all the days, as many as the infection might be upon him -- being unclean, he shall be unclean; being separated he shall sit down outside  of his camp, it will be to him a \[place\] for pastime. 
-<small><sub>**KJV:**</sub></small>
-All the days wherein the plague [shall be] in him he shall be defiled; he [is] unclean: he shall dwell alone; without the camp [shall] his habitation [be].
-<small><sub>**BSB:**</sub></small>
-As long as he has the infection, he remains unclean. He must live alone in a place outside the camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.45|<< Leviticus 13:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.47|Leviticus 13:47 >>]]</td></tr></table>
 
 | Translation | Greek |

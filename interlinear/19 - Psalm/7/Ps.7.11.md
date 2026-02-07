@@ -1,4 +1,4 @@
-**Psalms 7:11** (7:12)
+**Psalms 7:11**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God judgeth the righteous, and God is angry [with the wicked] every day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God is a righteous judge and a God who feels indignation each day.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.10|<< Psalms 7:10]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.12|Psalms 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a judge  |**<big>&#8207;[[H8199\|שׁוֹפֵ֣ט]]&#8207; </big>**| sho.Fet<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

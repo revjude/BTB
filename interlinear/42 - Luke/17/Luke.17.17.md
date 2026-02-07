@@ -1,12 +1,12 @@
-**Luke 17:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:17**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said, Were there not ten cleansed? but where [are] the nine?
 <small><sub>**BSB:**</sub></small>
 “Were not all ten cleansed?” Jesus asked. “Where then are the other nine?
 <small><sub>**Literal:**</sub></small>
 Having answered then <the> Jesus said; surely the ten were cleansed? <the> But the nine are where?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.16|<< Luke 17:16]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.18|Luke 17:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having answered |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

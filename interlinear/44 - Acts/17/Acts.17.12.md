@@ -1,12 +1,12 @@
-**Acts 17:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:12**<big><big>[[Acts.17.10 The Character of the Bereans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore many of them believed; also of honourable women which were Greeks, and of men, not a few.
 <small><sub>**BSB:**</sub></small>
 As a result, many of them believed, along with quite a few prominent Greek women and men.
 <small><sub>**Literal:**</sub></small>
 Many indeed therefore of them believed, and of the Grecian women <the> prominent and men not a few.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.11|<< Acts 17:11]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.13|Acts 17:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|Πολλοὶ]]</big>**  |Polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

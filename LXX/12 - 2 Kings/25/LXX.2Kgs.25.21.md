@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:21** 
 <small><sub>**LXX:**</sub></small>
 And the king of Babylon smote them, and killed them in Riblah in \[the\] land of Hamath. And he resettled Judah from  its land. 
-<small><sub>**KJV:**</sub></small>
-And the king of Babylon smote them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land.
-<small><sub>**BSB:**</sub></small>
-There at Riblah in the land of Hamath, the king of Babylon struck them down and put them to death. So Judah was taken into exile, away from its own land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.20|<< 2 Kings 25:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.22|2 Kings 25:22 >>]]</td></tr></table>
 
 | Translation | Greek |

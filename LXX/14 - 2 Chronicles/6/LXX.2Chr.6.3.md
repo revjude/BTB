@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:3** 
 <small><sub>**LXX:**</sub></small>
 And the king turned  his face, and he blessed all the assembly of Israel. And all the assembly of Israel stood by. 
-<small><sub>**KJV:**</sub></small>
-And the king turned his face, and blessed the whole congregation of Israel: and all the congregation of Israel stood.
-<small><sub>**BSB:**</sub></small>
-And as the whole assembly of Israel stood there, the king turned around and blessed them all<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.2|<< 2 Chronicles 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.4|2 Chronicles 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

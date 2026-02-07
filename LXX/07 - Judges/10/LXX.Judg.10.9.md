@@ -1,10 +1,7 @@
 **LXX Judges 10:9** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Ammon passed over the Jordan to wage war even against  Judah and Benjamin, and against the house of Ephraim; and they afflicted the sons of Israel exceedingly. 
-<small><sub>**KJV:**</sub></small>
-Moreover the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed.
-<small><sub>**BSB:**</sub></small>
-The Ammonites also crossed the Jordan to fight against Judah, Benjamin, and the house of Ephraim, and Israel was in deep distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.8|<< Judges 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.10|Judges 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

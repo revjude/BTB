@@ -1,4 +1,4 @@
-**Ezekiel 48:16** 
+**Ezekiel 48:16**<big><big>[[Ezek.48.15 The Common Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [shall be] the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and will have these measurements: 4,500 cubits on the north side, 4,500 cubits o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.15|<< Ezekiel 48:15]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.17|Ezekiel 48:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵלֶּה֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] measurements its  |**<big>&#8207;[[H4060A\|מִדּוֹתֶי]]&#8207;&#8207;[[H9024\|הָ֒]]&#8207; </big>**| mi.do.tei.<small><sup>[[HNcfpc]]</sup></small> Ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 17:18
-**<small><sub>**KJV:**</sub></small>
+**John 17:18**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As thou hast sent me into the world, even so have I also sent them into the world.
 <small><sub>**BSB:**</sub></small>
 As You sent Me into the world, I have also sent them into the world.
 <small><sub>**Literal:**</sub></small>
 Even as Me myself You sent into the world, I myself also sent them into the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.17|<< John 17:17]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.19|John 17:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Me myself |**<big>[[G1473\|ἐμὲ]]</big>**  |eme <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

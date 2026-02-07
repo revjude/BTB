@@ -1,10 +1,7 @@
 **LXX Isaiah 54:8** 
 <small><sub>**LXX:**</sub></small>
 In a little rage I turned  my face from you; and in eternal mercy I will show mercy on you, said the one rescuing you, \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the LORD thy Redeemer.
-<small><sub>**BSB:**</sub></small>
-In a surge of anger I hid My face from you for a moment, but with everlasting kindness I will have compassion on you,” says the LORD your Redeemer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.7|<< Isaiah 54:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.9|Isaiah 54:9 >>]]</td></tr></table>
 
 | Translation | Greek |

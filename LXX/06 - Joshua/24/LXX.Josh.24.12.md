@@ -1,10 +1,7 @@
 **LXX Joshua 24:12** 
 <small><sub>**LXX:**</sub></small>
 And he sent the swarm of wasps in front of you, and it cast them out from your presence -- \[the\] two kings of the Amorites; \[but\] not by  your broadsword, nor by  your bow. 
-<small><sub>**KJV:**</sub></small>
-And I sent the hornet before you, which drave them out from before you, [even] the two kings of the Amorites; [but] not with thy sword, nor with thy bow.
-<small><sub>**BSB:**</sub></small>
-I sent the hornet ahead of you, and it drove out the two Amorite kings before you, but not by your own sword or bow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.11|<< Joshua 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.13|Joshua 24:13 >>]]</td></tr></table>
 
 | Translation | Greek |

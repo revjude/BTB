@@ -1,4 +1,4 @@
-**Nehemiah 12:26** 
+**Nehemiah 12:26**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.25|<< Nehemiah 12:25]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.27|Nehemiah 12:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֕לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] in [the] days of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3117G\|ימֵ֛י]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

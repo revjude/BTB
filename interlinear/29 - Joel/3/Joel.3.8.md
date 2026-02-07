@@ -1,4 +1,4 @@
-**Joel 3:8** (4:8)
+**Joel 3:8**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will sell your sons and daughters into the hands of the people of Judah, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.7|<< Joel 3:7]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.9|Joel 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will sell  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4376\|מָכַרְתִּ֞י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.khar.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

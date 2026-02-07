@@ -1,12 +1,12 @@
-**Mark 16:20
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:20**<big><big>[[Mark.16.19 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they went forth, and preached every where, the Lord working with [them], and confirming the word with signs following. Amen.
 <small><sub>**BSB:**</sub></small>
 And they went out and preached everywhere, and the Lord worked through them, confirming His word by the signs that accompanied it.
 <small><sub>**Literal:**</sub></small>
 They now having gone forth they preached everywhere, of the Lord [who] working with [them] and the word confirming through the accompanying signs. Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.19|<< Mark 16:19]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.1|Luke 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They |**<big>[[G1565\|ἐκεῖνοι]]</big>**  |ekeinoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |

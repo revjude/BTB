@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:19** 
 <small><sub>**LXX:**</sub></small>
 And I scattered them into the nations, and winnowed them into the places. According to  their way and according to  their sin I judged them. 
-<small><sub>**KJV:**</sub></small>
-And I scattered them among the heathen, and they were dispersed through the countries: according to their way and according to their doings I judged them.
-<small><sub>**BSB:**</sub></small>
-I dispersed them among the nations, and they were scattered throughout the lands. I judged them according to their ways and deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.18|<< Ezekiel 36:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.20|Ezekiel 36:20 >>]]</td></tr></table>
 
 | Translation | Greek |

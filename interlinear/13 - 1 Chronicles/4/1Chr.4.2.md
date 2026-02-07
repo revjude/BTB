@@ -1,4 +1,4 @@
-**1 Chronicles 4:2** 
+**1 Chronicles 4:2**<big><big>[[1Chr.4.1 The Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These [are] the families of the Zorathites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Reaiah son of Shobal was the father of Jahath, and Jahath was the father of Ahum
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.1|<< 1 Chronicles 4:1]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.3|1 Chronicles 4:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Reaiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7211I\|רְאָיָ֤ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.'a.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

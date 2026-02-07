@@ -1,4 +1,4 @@
-**Proverbs 26:5** 
+**Proverbs 26:5**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Answer a fool according to his folly, lest he be wise in his own conceit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Answer a fool according to his folly, lest he become wise in his own eyes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.4|<< Proverbs 26:4]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.6|Proverbs 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | answer  |**<big>&#8207;[[H6030B\|עֲנֵ֣ה]]&#8207; </big>**| 'a.Neh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fool  |**<big>&#8207;[[H3684\|כְ֭סִיל]]&#8207; </big>**| Khe.sil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

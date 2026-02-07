@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:14** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Manasseh -- Ashriel whom his Syrian concubine bore  Machir father of Gilead. 
-<small><sub>**KJV:**</sub></small>
-The sons of Manasseh; Ashriel, whom she bare: ([but] his concubine the Aramitess bare Machir the father of Gilead:
-<small><sub>**BSB:**</sub></small>
-The descendants of Manasseh: Asriel through his Aramean concubine. She also gave birth to Machir the father of Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.13|<< 1 Chronicles 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.15|1 Chronicles 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

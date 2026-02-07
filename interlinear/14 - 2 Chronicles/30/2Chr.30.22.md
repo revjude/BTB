@@ -1,4 +1,4 @@
-**2 Chronicles 30:22** 
+**2 Chronicles 30:22**<big><big>[[2Chr.30.13 Hezekiah Celebrates the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Hezekiah encouraged all the Levites who performed skillfully before the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.21|<< 2 Chronicles 30:21]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.23|2 Chronicles 30:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|יְחִזְקִיָּ֗הוּ]]&#8207; </big>**| ye.chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

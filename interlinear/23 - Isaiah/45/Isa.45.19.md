@@ -1,4 +1,4 @@
-**Isaiah 45:19** 
+**Isaiah 45:19**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have not spoken in secret, in a dark place of the earth: I said not unto the seed of Jacob, Seek ye me in vain: I the LORD speak righteousness, I declare things that are right.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have not spoken in secret, from a place in a land of darkness. I did not say t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.18|<< Isaiah 45:18]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.20|Isaiah 45:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֧א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> secrecy  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H5643A\|סֵּ֣תֶר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Se.ter<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

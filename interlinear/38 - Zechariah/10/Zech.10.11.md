@@ -1,4 +1,4 @@
-**Zechariah 10:11** 
+**Zechariah 10:11**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall pass through the sea with affliction, and shall smite the waves in the sea, and all the deeps of the river shall dry up: and the pride of Assyria shall be brought down, and the sceptre of Egypt shall depart away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will pass through the sea of distress and strike the waves of the sea; all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.10|<< Zechariah 10:10]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.12|Zechariah 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will pass  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|עָבַ֨ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Var<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the sea  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3220G\|יָּ֜ם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

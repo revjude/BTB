@@ -1,12 +1,12 @@
-**Luke 6:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:14**<big><big>[[Luke.6.12 The Twelve Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Simon, (whom he also named Peter,) and Andrew his brother, James and John, Philip and Bartholomew,
 <small><sub>**BSB:**</sub></small>
 Simon, whom He named Peter, and his brother Andrew; James and John; Philip and Bartholomew;
 <small><sub>**Literal:**</sub></small>
 Simon whom also He named Peter and Andrew the brother of him and James and John and Philip and Bartholomew<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.13|<< Luke 6:13]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.15|Luke 6:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Simon |**<big>[[G4613O\|Σίμωνα]]</big>**  |Simōna <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

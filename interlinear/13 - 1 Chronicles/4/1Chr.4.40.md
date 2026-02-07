@@ -1,4 +1,4 @@
-**1 Chronicles 4:40** 
+**1 Chronicles 4:40**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they found fat pasture and good, and the land [was] wide, and quiet, and peaceable; for [they] of Ham had dwelt there of old.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There they found rich, good pasture, and the land was spacious, peaceful, and qu
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.39|<< 1 Chronicles 4:39]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.41|1 Chronicles 4:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they found  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H4672\|יִּמְצְא֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pasture  |**<big>&#8207;[[H4829\|מִרְעֶה֙]]&#8207; </big>**| mir.'Eh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

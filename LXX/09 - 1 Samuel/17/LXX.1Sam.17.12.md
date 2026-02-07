@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David \[was a\] son of an Ephrathite man; this one \[was\] from Beth-lehem Judah, and \[the\] name to him \[was\] Jesse, and to him \[were\] eight sons. And the man \[was\] old in days of Saul arriving in \[the\] year. 
-<small><sub>**KJV:**</sub></small>
-Now David [was] the son of that Ephrathite of Bethlehemjudah, whose name [was] Jesse; and he had eight sons: and the man went among men [for] an old man in the days of Saul.
-<small><sub>**BSB:**</sub></small>
-Now David was the son of a man named Jesse, an Ephrathite from Bethlehem of Judah who had eight sons. And in the days of Saul, Jesse was old and well along in years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.11|<< 1 Samuel 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.13|1 Samuel 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

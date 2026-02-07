@@ -1,4 +1,4 @@
-**Psalms 72:13** 
+**Psalms 72:13**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall spare the poor and needy, and shall save the souls of the needy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will take pity on the poor and needy and save the lives of the oppressed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.12|<< Psalms 72:12]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.14|Psalms 72:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will have compassion  |**<big>&#8207;[[H2347\|יָ֭חֹס]]&#8207; </big>**| Ya.chos<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

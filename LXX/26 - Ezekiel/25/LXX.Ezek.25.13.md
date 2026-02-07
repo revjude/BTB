@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:13** 
 <small><sub>**LXX:**</sub></small>
 on account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Even I will stretch out  my hand against  Edom. And I will utterly destroy from her man and beast. And I will make it desolate. And from out of Teman and of Ledan \[the\] ones being pursued shall fall by \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.
-<small><sub>**BSB:**</sub></small>
-therefore this is what the Lord GOD says: I will stretch out My hand against Edom and cut off from it both man and beast. I will make it a wasteland, and from Teman to Dedan they will fall by the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.12|<< Ezekiel 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.14|Ezekiel 25:14 >>]]</td></tr></table>
 
 | Translation | Greek |

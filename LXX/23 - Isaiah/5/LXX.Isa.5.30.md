@@ -1,10 +1,7 @@
 **LXX Isaiah 5:30** 
 <small><sub>**LXX:**</sub></small>
 And he shall yell on account of them  in that day, as \[the\] sound of \[the\] sea swelling up. And they shall look into the heaven upward and below; and behold, a hard darkness in  their perplexity. 
-<small><sub>**KJV:**</sub></small>
-And in that day they shall roar against them like the roaring of the sea: and if [one] look unto the land, behold darkness [and] sorrow, and the light is darkened in the heavens thereof.
-<small><sub>**BSB:**</sub></small>
-In that day they will roar over it, like the roaring of the sea. If one looks over the land, he will see darkness and distress; even the light will be obscured by clouds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.29|<< Isaiah 5:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.1|Isaiah 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

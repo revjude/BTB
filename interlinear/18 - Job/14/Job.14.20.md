@@ -1,4 +1,4 @@
-**Job 14:20** 
+**Job 14:20**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You forever overpower him, and he passes on; You change his countenance and send
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.19|<< Job 14:19]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.21|Job 14:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you overpower him  |**<big>&#8207;[[H8630\|תִּתְקְפֵ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| tit.ke.Fe.<small><sup>[[HVqi2ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to perpetuity  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H5331\|נֶצַח]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> ne.tzach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

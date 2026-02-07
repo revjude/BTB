@@ -1,10 +1,7 @@
 **LXX Hosea 11:2** 
 <small><sub>**LXX:**</sub></small>
 As I called them back, so they moved from in front of me; they sacrificed to the Baalim; and to the carved \[images\] they burned incense. 
-<small><sub>**KJV:**</sub></small>
-[As] they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.
-<small><sub>**BSB:**</sub></small>
-But the more I called Israel, the farther they departed from Me. They sacrificed to the Baals and burned incense to carved images.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.1|<< Hosea 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.3|Hosea 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

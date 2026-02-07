@@ -1,4 +1,4 @@
-**Hosea 2:18** (2:20)
+**Hosea 2:18**<big><big>[[Hos.2.14 God’s Mercy to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and [with] the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that day I will make a covenant for them with the beasts of the field and the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.17|<< Hosea 2:17]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.19|Hosea 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3772H\|כָרַתִּ֨י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> kha.ra.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֤ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

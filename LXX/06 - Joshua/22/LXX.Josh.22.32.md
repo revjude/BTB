@@ -1,10 +1,7 @@
 **LXX Joshua 22:32** 
 <small><sub>**LXX:**</sub></small>
 And Phinehas son of Eleazar the priest and the rulers returned from the sons of Reuben, and from the sons of Gad, from out of  Gilead unto \[the\] land of Canaan, to the sons of Israel; and they answered to them \[with these\] words. 
-<small><sub>**KJV:**</sub></small>
-And Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, unto the land of Canaan, to the children of Israel, and brought them word again.
-<small><sub>**BSB:**</sub></small>
-Then Phinehas son of Eleazar the priest, together with the other leaders, returned to the Israelites in the land of Canaan and brought back a report regarding the Reubenites and Gadites in the land of Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.31|<< Joshua 22:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.33|Joshua 22:33 >>]]</td></tr></table>
 
 | Translation | Greek |

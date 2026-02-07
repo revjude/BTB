@@ -1,12 +1,12 @@
-**Matthew 13:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:13**<big><big>[[Matt.13.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.
 <small><sub>**BSB:**</sub></small>
 This is why I speak to them in parables: ‘Though seeing, they do not see; though hearing, they do not hear or understand.’
 <small><sub>**Literal:**</sub></small>
 Because of this in parables to them I speak Because seeing not do they see and hearing not do they hear nor do they understand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.12|<< Matthew 13:12]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.14|Matthew 13:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

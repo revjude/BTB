@@ -1,4 +1,4 @@
-**Numbers 7:9** 
+**Numbers 7:9**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto the sons of Kohath he gave none: because the service of the sanctuary belonging unto them [was that] they should bear upon their shoulders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But he did not give any to the Kohathites, since they were to carry on their sho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.8|<< Numbers 7:8]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.10|Numbers 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] descendants of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121A\|בְנֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Kohath  |**<big>&#8207;[[H6955\|קְהָ֖ת]]&#8207; </big>**| ke.Hat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

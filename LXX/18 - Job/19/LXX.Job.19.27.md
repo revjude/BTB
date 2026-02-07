@@ -1,10 +1,7 @@
 **LXX Job 19:27** 
 <small><sub>**LXX:**</sub></small>
 which I myself am conscious of, which my eye has seen, and not another; but all has been exhausted on me in \[my\] bosom. 
-<small><sub>**KJV:**</sub></small>
-Whom I shall see for myself, and mine eyes shall behold, and not another; [though] my reins be consumed within me.
-<small><sub>**BSB:**</sub></small>
-I will see Him for myself; my eyes will behold Him, and not as a stranger. How my heart yearns within me!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.26|<< Job 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.28|Job 19:28 >>]]</td></tr></table>
 
 | Translation | Greek |

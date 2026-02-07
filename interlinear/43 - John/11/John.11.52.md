@@ -1,12 +1,12 @@
-**John 11:52
-**<small><sub>**KJV:**</sub></small>
+**John 11:52**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 <small><sub>**BSB:**</sub></small>
 and not only for the nation, but also for the scattered children of God, to gather them together into one.
 <small><sub>**Literal:**</sub></small>
 and not for the nation only but that also the children <the> of God those scattered He may gather together into one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.51|<< John 11:51]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.53|John 11:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

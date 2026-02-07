@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:8** 
 <small><sub>**LXX:**</sub></small>
 And David said  to Uriah, Go down to  your house, even to wash  your feet! And Uriah went forth from \[the\] house of the king; and went forth after him a tribute from the king. 
-<small><sub>**KJV:**</sub></small>
-And David said to Uriah, Go down to thy house, and wash thy feet. And Uriah departed out of the king’s house, and there followed him a mess [of meat] from the king.
-<small><sub>**BSB:**</sub></small>
-Then he said to Uriah, “Go down to your house and wash your feet.” So Uriah left the palace, and a gift from the king followed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.7|<< 2 Samuel 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.9|2 Samuel 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

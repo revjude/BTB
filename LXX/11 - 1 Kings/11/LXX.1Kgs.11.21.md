@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:21** 
 <small><sub>**LXX:**</sub></small>
 And Hadad heard in Egypt that David had gone to sleep with  his fathers, and that Joab the ruler of the military had died. And Hadad said to Pharaoh, Send me, and I will return unto  my land. 
-<small><sub>**KJV:**</sub></small>
-And when Hadad heard in Egypt that David slept with his fathers, and that Joab the captain of the host was dead, Hadad said to Pharaoh, Let me depart, that I may go to mine own country.
-<small><sub>**BSB:**</sub></small>
-When Hadad heard in Egypt that David had rested with his fathers and that Joab, the commander of the army, was dead, he said to Pharaoh, “Let me go, that I may return to my own country.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.20|<< 1 Kings 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.22|1 Kings 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

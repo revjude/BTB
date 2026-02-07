@@ -1,10 +1,7 @@
 **LXX Psalm 37:25** 
 <small><sub>**LXX:**</sub></small>
 I was \[once\] younger and I grew old; and I beheld \[the\] just not being abandoned, nor  his seed seeking bread loaves. 
-<small><sub>**KJV:**</sub></small>
-I have been young, and [now] am old; yet have I not seen the righteous forsaken, nor his seed begging bread.
-<small><sub>**BSB:**</sub></small>
-I once was young and now am old, yet never have I seen the righteous abandoned or their children begging for bread.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.24|<< Psalm 37:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.26|Psalm 37:26 >>]]</td></tr></table>
 
 | Translation | Greek |

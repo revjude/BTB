@@ -1,12 +1,12 @@
-**Mark 15:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:15**<big><big>[[Mark.15.12 Pilate Delivers Up Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And [so] Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged [him], to be crucified.
 <small><sub>**BSB:**</sub></small>
 And wishing to satisfy the crowd, Pilate released Barabbas to them. But he had Jesus flogged, and handed Him over to be crucified.
 <small><sub>**Literal:**</sub></small>
 <the> And Pilate desiring to the crowd that which [was] satisfactory to do he released to them <the> Barabbas and he delivered <the> Jesus having flogged [him] that He may be crucified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.14|<< Mark 15:14]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.16|Mark 15:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

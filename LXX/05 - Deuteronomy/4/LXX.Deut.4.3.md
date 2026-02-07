@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:3** 
 <small><sub>**LXX:**</sub></small>
  Your eyes have seen all as many \[things\] as \[the\] <span class="smallcaps">lord</span> our God did to Baal-peor. For every man whoever went after Baal-peor, \[the\] <span class="smallcaps">lord</span> your God obliterated him from you. 
-<small><sub>**KJV:**</sub></small>
-Your eyes have seen what the LORD did because of Baalpeor: for all the men that followed Baalpeor, the LORD thy God hath destroyed them from among you.
-<small><sub>**BSB:**</sub></small>
-Your eyes have seen what the LORD did at Baal-peor, for the LORD your God destroyed from among you all who followed Baal of Peor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.2|<< Deuteronomy 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.4|Deuteronomy 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

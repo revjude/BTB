@@ -1,10 +1,7 @@
 **LXX Genesis 27:3** 
 <small><sub>**LXX:**</sub></small>
 Now then, take  your \[hunting\] equipment, both the quiver and the bow! and go forth into the plain, and hunt for me game! 
-<small><sub>**KJV:**</sub></small>
-Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me [some] venison;
-<small><sub>**BSB:**</sub></small>
-Take your weapons—your quiver and bow—and go out into the field to hunt some game for me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.2|<< Genesis 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.4|Genesis 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 19:6** 
 <small><sub>**LXX:**</sub></small>
 And the rivers and the aqueducts of the river shall fail; and all \[the\] gathering of water shall be dried up, and in every marsh of reed and papyrus, 
-<small><sub>**KJV:**</sub></small>
-And they shall turn the rivers far away; [and] the brooks of defence shall be emptied and dried up: the reeds and flags shall wither.
-<small><sub>**BSB:**</sub></small>
-The canals will stink; the streams of Egypt will trickle and dry up; the reeds and rushes will wither.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.5|<< Isaiah 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.7|Isaiah 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

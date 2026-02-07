@@ -1,4 +1,4 @@
-**2 Chronicles 3:2** 
+**2 Chronicles 3:2**<big><big>[[2Chr.3.1 Temple Construction Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he began to build in the second [day] of the second month, in the fourth year of his reign.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon began construction on the second day of the second month in the fourth y
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.1|<< 2 Chronicles 3:1]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.3|2 Chronicles 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he began  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H2490C\|יָּחֶל]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.chel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to build  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1129\|בְנ֞וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Not<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

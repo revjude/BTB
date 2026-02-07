@@ -1,10 +1,7 @@
 **LXX Judges 6:10** 
 <small><sub>**LXX:**</sub></small>
 And I said to you, I am \[the\] <span class="smallcaps">lord</span>  your God; you shall not fear the gods of the Amorites in which you dwell in  their land. But you hearkened not to  my voice. 
-<small><sub>**KJV:**</sub></small>
-And I said unto you, I [am] the LORD your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice.
-<small><sub>**BSB:**</sub></small>
-And I said to you: ‘I am the LORD your God. You must not fear the gods of the Amorites, in whose land you dwell.’ But you did not obey Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.9|<< Judges 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.11|Judges 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

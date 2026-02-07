@@ -1,4 +1,4 @@
-**Isaiah 29:18** 
+**Isaiah 29:18**<big><big>[[Isa.29.17 Sanctification for the Godly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ On that day the deaf will hear the words of the scroll, and out of the deep dark
 > $\quad$ referenced by: [[Matt.11.5|Matt 11:5]] ☩ [[Luke.7.22|Luke 7:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָׁמְע֧וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.me.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.yom-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

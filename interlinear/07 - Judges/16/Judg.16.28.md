@@ -1,4 +1,4 @@
-**Judges 16:28** 
+**Judges 16:28**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson called unto the LORD, and said, O Lord GOD, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God, that I may be at once avenged of the Philistines for my two eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Samson called out to the LORD: “O Lord GOD, please remember me. Strengthe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.27|<< Judges 16:27]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.29|Judges 16:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samson  |**<big>&#8207;[[H8123\|שִׁמְשׁ֛וֹן]]&#8207; </big>**| shim.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

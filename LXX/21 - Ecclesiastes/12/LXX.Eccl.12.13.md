@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 12:13** 
 <small><sub>**LXX:**</sub></small>
 \[The\] end of the whole matter, hear!  Fear God, and  keep his commandments! for this \[is\] all man! 
-<small><sub>**KJV:**</sub></small>
-Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this [is] the whole [duty] of man.
-<small><sub>**BSB:**</sub></small>
-When all has been heard, the conclusion of the matter is this: Fear God and keep His commandments, because this is the whole duty of man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.12|<< Ecclesiastes 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.14|Ecclesiastes 12:14 >>]]</td></tr></table>
 
 | Translation | Greek |

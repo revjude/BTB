@@ -1,4 +1,4 @@
-**Job 27:6** 
+**Job 27:6**<big><big>[[Job.27.1 Job Affirms His Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My righteousness I hold fast, and will not let it go: my heart shall not reproach [me] so long as I live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will cling to my righteousness and never let go. As long as I live, my conscie
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.5|<< Job 27:5]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.7|Job 27:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on righteousness my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6666\|צִדְקָתִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> tzid.ka.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have kept hold  |**<big>&#8207;[[H2388H\|הֶ֭חֱזַקְתִּי]]&#8207; </big>**| He.che.zak.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

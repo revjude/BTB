@@ -1,4 +1,4 @@
-**Psalms 96:3** 
+**Psalms 96:3**<big><big>[[Ps.96.1 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declare his glory among the heathen, his wonders among all people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Declare His glory among the nations, His wonders among all peoples.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.96.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.2|<< Psalms 96:2]]</td><td align="center" style="border:none;">[[Ps.96|Psalms 96]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.4|Psalms 96:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | recount  |**<big>&#8207;[[H5608A\|סַפְּר֣וּ]]&#8207; </big>**| sa.pe.Ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the nations  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֣ם]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

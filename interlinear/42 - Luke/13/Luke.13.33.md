@@ -1,12 +1,12 @@
-**Luke 13:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:33**<big><big>[[Luke.13.31 Lament over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless I must walk to day, and to morrow, and the [day] following: for it cannot be that a prophet perish out of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, I must keep going today and tomorrow and the next day, for it is not admissible for a prophet to perish outside of Jerusalem.
 <small><sub>**Literal:**</sub></small>
 But it behooves Me today and tomorrow and to the [day] following to proceed, for not it is possible [for] a prophet to perish outside of Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.32|<< Luke 13:32]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.34|Luke 13:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G4133\|πλὴν]]</big>**  |plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it behooves |**<big>[[G1163\|δεῖ]]</big>**  |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

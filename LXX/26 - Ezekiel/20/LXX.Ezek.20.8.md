@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:8** 
 <small><sub>**LXX:**</sub></small>
 And they revolted from me, and wanted not to listen to me. Each threw not away the abominations of their eyes, and the practices of Egypt they abandoned not. And I spoke  to pour out  my rage upon them;  to complete  my anger among them in \[the\] midst  of Egypt. 
-<small><sub>**KJV:**</sub></small>
-But they rebelled against me, and would not hearken unto me: they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt: then I said, I will pour out my fury upon them, to accomplish my anger against them in the midst of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-But they rebelled against Me and refused to listen. None of them cast away the abominations before their eyes, and they did not forsake the idols of Egypt. So I resolved to pour out My wrath upon them and vent My anger against them in the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.7|<< Ezekiel 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.9|Ezekiel 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

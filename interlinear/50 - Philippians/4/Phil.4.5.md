@@ -1,5 +1,5 @@
-**Philippians 4:5
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:5**<big><big>[[Phil.4.1 Rejoice in the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let your moderation be known unto all men. The Lord [is] at hand.
 <small><sub>**BSB:**</sub></small>
 Let your gentleness be apparent to all. The Lord is near.
@@ -11,7 +11,7 @@ The gentleness of you should be known to all men. The Lord [is] near.<br><table 
 > $\quad$ alluding to: [[LXX.Ps.145.18|Ps 145:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | gentleness |**<big>[[G1933\|ἐπιεικὲς]]</big>**  |epieikes <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

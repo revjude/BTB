@@ -1,12 +1,12 @@
-**Mark 8:38
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:38**<big><big>[[Mark.8.34 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.
 <small><sub>**BSB:**</sub></small>
 If anyone is ashamed of Me and My words in this adulterous and sinful generation, the Son of Man will also be ashamed of him when He comes in His Father’s glory with the holy angels.”
 <small><sub>**Literal:**</sub></small>
 Who[ever] for if shall be ashamed of Me and <the> My words in <the> generation this <the> adulterous and sinful, also the Son <the> of Man will be ashamed of him when He may come in the glory of the Father of Him with the angels <the> holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.37|<< Mark 8:37]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.1|Mark 9:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

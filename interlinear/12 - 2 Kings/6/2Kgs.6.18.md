@@ -1,4 +1,4 @@
-**2 Kings 6:18** 
+**2 Kings 6:18**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they came down to him, Elisha prayed unto the LORD, and said, Smite this people, I pray thee, with blindness. And he smote them with blindness according to the word of Elisha.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the Arameans came down against him, Elisha prayed to the LORD, “Please stri
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.17|<< 2 Kings 6:17]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.19|2 Kings 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּרְדוּ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.re.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָי]]&#8207;&#8207;[[H9033\|ו֒]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

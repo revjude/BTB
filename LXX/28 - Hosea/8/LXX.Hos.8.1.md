@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Into their bosom as land, as an eagle against \[the\] house of \[the\] <span class="smallcaps">lord</span>, because they violated  my covenant, and against  my law they were impious. 
-<small><sub>**KJV:**</sub></small>
-[Set] the trumpet to thy mouth. [He shall come] as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.
-<small><sub>**BSB:**</sub></small>
-Put the ram’s horn to your lips! An eagle looms over the house of the LORD, because the people have transgressed My covenant and rebelled against My law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.16|<< Hosea 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.2|Hosea 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 12:14** 
 <small><sub>**LXX:**</sub></small>
 From fruits of \[the\] mouth a soul of a man shall be filled of good \[things\]; and a recompense of his lips shall be rendered to him. 
-<small><sub>**KJV:**</sub></small>
-A man shall be satisfied with good by the fruit of [his] mouth: and the recompence of a man’s hands shall be rendered unto him.
-<small><sub>**BSB:**</sub></small>
-By fruitful speech a man is filled with good things, and the work of his hands returns to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.13|<< Proverbs 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.15|Proverbs 12:15 >>]]</td></tr></table>
 
 | Translation | Greek |

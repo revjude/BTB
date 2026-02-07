@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:12** 
 <small><sub>**LXX:**</sub></small>
 From you \[are\] the riches and the glory. You rule all, O <span class="smallcaps">lord</span>,  ruler of all sovereignty. And in  your hand \[is\] strength and dominion; and in your hand to magnify, and to strengthen  all. 
-<small><sub>**KJV:**</sub></small>
-Both riches and honour [come] of thee, and thou reignest over all; and in thine hand [is] power and might; and in thine hand [it is] to make great, and to give strength unto all.
-<small><sub>**BSB:**</sub></small>
-Both riches and honor come from You, and You are the ruler over all. In Your hands are power and might to exalt and give strength to all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.11|<< 1 Chronicles 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.13|1 Chronicles 29:13 >>]]</td></tr></table>
 
 | Translation | Greek |

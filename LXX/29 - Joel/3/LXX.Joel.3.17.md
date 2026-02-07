@@ -1,10 +1,7 @@
 **LXX Joel 3:17** 
 <small><sub>**LXX:**</sub></small>
 And you shall know that I \[am\] \[the\] <span class="smallcaps">lord</span>  your God encamping in Zion, my holy mountain. And Jerusalem will be holy, and foreigners  shall go through her no longer. 
-<small><sub>**KJV:**</sub></small>
-So shall ye know that I [am] the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.
-<small><sub>**BSB:**</sub></small>
-Then you will know that I am the LORD your God, who dwells in Zion, My holy mountain. Jerusalem will be holy, never again to be overrun by foreigners.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.16|<< Joel 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.18|Joel 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

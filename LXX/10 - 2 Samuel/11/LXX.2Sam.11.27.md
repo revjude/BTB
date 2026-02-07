@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:27** 
 <small><sub>**LXX:**</sub></small>
 And the \[time of\] mourning went by, and David sent and brought her into  his house. And she became to him for a wife, and she bore to him a son. And the matter which David did appeared wicked in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the LORD.
-<small><sub>**BSB:**</sub></small>
-And when the time of mourning was over, David had her brought to his house, and she became his wife and bore him a son. But the thing that David had done was evil in the sight of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.26|<< 2 Samuel 11:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.1|2 Samuel 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

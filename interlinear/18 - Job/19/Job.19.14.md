@@ -1,4 +1,4 @@
-**Job 19:14** 
+**Job 19:14**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My kinsfolk have failed, and my familiar friends have forgotten me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My kinsmen have failed me, and my friends have forgotten me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.13|<< Job 19:13]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.15|Job 19:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have ceased  |**<big>&#8207;[[H2308\|חָדְל֥וּ]]&#8207; </big>**| cha.de.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kindred my  |**<big>&#8207;[[H7138\|קְרוֹבָ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ke.ro.Va<small><sup>[[HAampc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

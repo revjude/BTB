@@ -1,4 +1,4 @@
-**2 Chronicles 15:12** 
+**2 Chronicles 15:12**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they entered into a covenant to seek the LORD, the God of their fathers, wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.11|<< 2 Chronicles 15:11]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.13|2 Chronicles 15:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the covenant  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1285\|בְּרִ֔ית]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> be.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

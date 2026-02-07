@@ -1,12 +1,12 @@
-**John 5:14
-**<small><sub>**KJV:**</sub></small>
+**John 5:14**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee.
 <small><sub>**BSB:**</sub></small>
 Afterward, Jesus found the man at the temple and said to him, “See, you have been made well. Stop sinning, or something worse may happen to you.”
 <small><sub>**Literal:**</sub></small>
 After these things finds him <the> Jesus in the temple and said to him; Behold well you have become; no more do sin that not worse to you something may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.13|<< John 5:13]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.15|John 5:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

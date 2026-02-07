@@ -1,12 +1,12 @@
-**Matthew 11:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:15**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that hath ears to hear, let him hear.
 <small><sub>**BSB:**</sub></small>
 He who has ears, let him hear.
 <small><sub>**Literal:**</sub></small>
 The [one] having ears he should hear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.14|<< Matthew 11:14]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.16|Matthew 11:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχων]]</big>**  |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

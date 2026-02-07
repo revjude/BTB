@@ -1,4 +1,4 @@
-**Isaiah 10:22** 
+**Isaiah 10:22**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For though thy people Israel be as the sand of the sea, [yet] a remnant of them shall return: the consumption decreed shall overflow with righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Though your people, O Israel, be like the sand of the sea, only a remnant will r
 > $\quad$ referenced by: [[Rom.9.27|Rom 9:27-28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | though  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

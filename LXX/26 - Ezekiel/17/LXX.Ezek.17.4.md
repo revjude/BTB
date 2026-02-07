@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:4** 
 <small><sub>**LXX:**</sub></small>
 The tips of the tender \[part\] he plucked off, and he brought them into \[the\] land of Canaan, he put them into a city being walled. 
-<small><sub>**KJV:**</sub></small>
-He cropped off the top of his young twigs, and carried it into a land of traffick; he set it in a city of merchants.
-<small><sub>**BSB:**</sub></small>
-He plucked off its topmost shoot, carried it to the land of merchants, and planted it in a city of traders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.3|<< Ezekiel 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.5|Ezekiel 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

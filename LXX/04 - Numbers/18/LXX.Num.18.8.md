@@ -1,10 +1,7 @@
 **LXX Numbers 18:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Aaron, And behold, I give to you the preservation  of my first-fruits of all the \[things\] having been sanctified by the sons of Israel. To you I give them as an honor, and \[to\] your sons for an eternal law. 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Aaron, “Behold, I have put you in charge of My offerings. As for all the sacred offerings of the Israelites, I have given them to you and your sons as a portion and a permanent statute.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.7|<< Numbers 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.9|Numbers 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

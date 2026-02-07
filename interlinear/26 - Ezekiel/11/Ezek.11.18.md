@@ -1,4 +1,4 @@
-**Ezekiel 11:18** 
+**Ezekiel 11:18**<big><big>[[Ezek.11.13 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall come thither, and they shall take away all the detestable things thereof and all the abominations thereof from thence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they return to it, they will remove all its detestable things and all its a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.17|<< Ezekiel 11:17]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.19|Ezekiel 11:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֖אוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va.'u-<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there towards  |**<big>&#8207;[[H8033G\|שָׁ֑מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

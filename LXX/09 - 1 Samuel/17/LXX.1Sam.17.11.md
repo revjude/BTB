@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:11** 
 <small><sub>**LXX:**</sub></small>
 And Saul heard, and all Israel,  these sayings of the Philistine, and they were startled, and feared exceedingly. 
-<small><sub>**KJV:**</sub></small>
-When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid.
-<small><sub>**BSB:**</sub></small>
-On hearing the words of the Philistine, Saul and all the Israelites were dismayed and greatly afraid.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.10|<< 1 Samuel 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.12|1 Samuel 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

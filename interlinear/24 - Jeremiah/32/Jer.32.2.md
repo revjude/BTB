@@ -1,4 +1,4 @@
-**Jeremiah 32:2** 
+**Jeremiah 32:2**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For then the king of Babylon’s army besieged Jerusalem: and Jeremiah the prophet was shut up in the court of the prison, which [was] in the king of Judah’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time the army of the king of Babylon was besieging Jerusalem, and Jeremi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.1|<< Jeremiah 32:1]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.3|Jeremiah 32:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and then  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0227A\|אָ֗ז]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] army of  |**<big>&#8207;[[H2428A\|חֵ֚יל]]&#8207; </big>**| cheil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

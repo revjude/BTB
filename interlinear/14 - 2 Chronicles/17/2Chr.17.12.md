@@ -1,4 +1,4 @@
-**2 Chronicles 17:12** 
+**2 Chronicles 17:12**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jehoshaphat grew stronger and stronger, and he built fortresses and store cities
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.11|<< 2 Chronicles 17:11]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.13|2 Chronicles 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֧י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoshaphat  |**<big>&#8207;[[H3092I\|יְהוֹשָׁפָ֛ט]]&#8207; </big>**| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

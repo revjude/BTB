@@ -1,10 +1,7 @@
 **LXX Psalm 32:8** 
 <small><sub>**LXX:**</sub></small>
 I will bring understanding to you, and I will instruct you in this way which you shall go. I will stay my eyes upon you. 
-<small><sub>**KJV:**</sub></small>
-I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.
-<small><sub>**BSB:**</sub></small>
-I will instruct you and teach you the way you should go; I will give you counsel and watch over you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.7|<< Psalm 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.9|Psalm 32:9 >>]]</td></tr></table>
 
 | Translation | Greek |

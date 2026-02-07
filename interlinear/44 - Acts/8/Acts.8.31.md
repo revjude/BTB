@@ -1,12 +1,12 @@
-**Acts 8:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:31**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him.
 <small><sub>**BSB:**</sub></small>
 “How can I,” he said, “unless someone guides me?” And he invited Philip to come up and sit with him.
 <small><sub>**Literal:**</sub></small>
 <the> And he said; How for maybe would I be able only unless someone will guide me? He invited then <the> Philip having come up to sit with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.30|<< Acts 8:30]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.32|Acts 8:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

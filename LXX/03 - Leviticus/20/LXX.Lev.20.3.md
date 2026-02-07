@@ -1,10 +1,7 @@
 **LXX Leviticus 20:3** 
 <small><sub>**LXX:**</sub></small>
 And I will set  my face against  that man, and I will destroy him from out of  his people. For  of his semen he gave to a chief \[god\], that he should defile  my holy place, and should profane the name -- the one having been sanctified to me. 
-<small><sub>**KJV:**</sub></small>
-And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name.
-<small><sub>**BSB:**</sub></small>
-And I will set My face against that man and cut him off from his people, because by giving his offspring to Molech, he has defiled My sanctuary and profaned My holy name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.2|<< Leviticus 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.4|Leviticus 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

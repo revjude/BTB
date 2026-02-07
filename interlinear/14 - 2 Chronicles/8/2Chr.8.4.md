@@ -1,4 +1,4 @@
-**2 Chronicles 8:4** 
+**2 Chronicles 8:4**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he built Tadmor in the wilderness, and all the store cities, which he built in Hamath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He built Tadmor in the wilderness, in addition to all the store cities that he h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.3|<< 2 Chronicles 8:3]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.5|2 Chronicles 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּ֥בֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

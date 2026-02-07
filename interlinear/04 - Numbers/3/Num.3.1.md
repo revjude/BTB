@@ -1,4 +1,4 @@
-**Numbers 3:1** 
+**Numbers 3:1**<big><big>[[Num.3.1 The Sons of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These also [are] the generations of Aaron and Moses in the day [that] the LORD spake with Moses in mount Sinai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the account of Aaron and Moses at the time the LORD spoke with Moses on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.34|<< Numbers 2:34]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.2|Numbers 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] descendants of  |**<big>&#8207;[[H8435\|תּוֹלְדֹ֥ת]]&#8207; </big>**| tol.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

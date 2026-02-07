@@ -1,10 +1,7 @@
 **LXX Numbers 31:51** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Eleazar the priest took the gold from them, every item being worked. 
-<small><sub>**KJV:**</sub></small>
-And Moses and Eleazar the priest took the gold of them, [even] all wrought jewels.
-<small><sub>**BSB:**</sub></small>
-So Moses and Eleazar the priest received from them all the articles made out of gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.50|<< Numbers 31:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.52|Numbers 31:52 >>]]</td></tr></table>
 
 | Translation | Greek |

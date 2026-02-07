@@ -1,10 +1,7 @@
 **LXX Deuteronomy 34:8** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel wept over Moses in \[the\] wilderness of Moab, at the Jordan by Jericho \[for\] thirty days; and they completed the days of the mourning of weeping for Moses. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping [and] mourning for Moses were ended.
-<small><sub>**BSB:**</sub></small>
-The Israelites grieved for Moses in the plains of Moab thirty days, until the time of weeping and mourning for Moses came to an end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.7|<< Deuteronomy 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.9|Deuteronomy 34:9 >>]]</td></tr></table>
 
 | Translation | Greek |

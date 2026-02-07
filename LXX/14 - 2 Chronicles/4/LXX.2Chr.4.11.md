@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:11** 
 <small><sub>**LXX:**</sub></small>
 And Hiram made the kettles, and the meat hooks, and the censers. And Hiram completed doing all the work which he did for Solomon the king in the house  of God -- 
-<small><sub>**KJV:**</sub></small>
-And Huram made the pots, and the shovels, and the basons. And Huram finished the work that he was to make for king Solomon for the house of God;
-<small><sub>**BSB:**</sub></small>
-Additionally, Huram made the pots, shovels, and sprinkling bowls. So Huram finished the work that he had undertaken for King Solomon in the house of God:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.10|<< 2 Chronicles 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.12|2 Chronicles 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

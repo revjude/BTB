@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:20** 
 <small><sub>**LXX:**</sub></small>
 And  my Sabbaths -- sanctify them! and it will be for a sign between me and you,  to know that I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-Keep My Sabbaths holy, that they may be a sign between us, so that you may know that I am the LORD your God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.19|<< Ezekiel 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.21|Ezekiel 20:21 >>]]</td></tr></table>
 
 | Translation | Greek |

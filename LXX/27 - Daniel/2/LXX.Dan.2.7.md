@@ -1,10 +1,7 @@
 **LXX Daniel 2:7** 
 <small><sub>**LXX:**</sub></small>
 They answered a second \[time\] and said, Let the king tell the dream to his servants! and the interpretation of it we shall announce. 
-<small><sub>**KJV:**</sub></small>
-They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.
-<small><sub>**BSB:**</sub></small>
-They answered a second time, “Let the king tell the dream to his servants, and we will give the interpretation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.6|<< Daniel 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.8|Daniel 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

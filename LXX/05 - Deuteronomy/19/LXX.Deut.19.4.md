@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:4** 
 <small><sub>**LXX:**</sub></small>
 And this will be the order for the man-slayer, who ever should flee there, and shall live -- who ever should strike  his neighbor unintentionally, and this one was not detesting him before  yesterday and before the third \[day\]. 
-<small><sub>**KJV:**</sub></small>
-And this [is] the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;
-<small><sub>**BSB:**</sub></small>
-Now this is the situation regarding the manslayer who flees to one of these cities to save his life, having killed his neighbor accidentally, without intending to harm him:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.3|<< Deuteronomy 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.5|Deuteronomy 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

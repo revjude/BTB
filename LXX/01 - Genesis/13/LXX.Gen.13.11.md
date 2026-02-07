@@ -1,10 +1,7 @@
 **LXX Genesis 13:11** 
 <small><sub>**LXX:**</sub></small>
 And Lot chose to himself all the place round about the Jordan. And Lot departed from \[the\] east. And they were parted, each from  his brother. 
-<small><sub>**KJV:**</sub></small>
-Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
-<small><sub>**BSB:**</sub></small>
-So Lot chose the whole plain of the Jordan for himself and set out toward the east. And Abram and Lot parted company.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.10|<< Genesis 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.12|Genesis 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

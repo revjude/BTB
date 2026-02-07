@@ -1,12 +1,12 @@
-**Hebrews 10:20
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:20**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;
 <small><sub>**BSB:**</sub></small>
 by the new and living way opened for us through the curtain of His body,
 <small><sub>**Literal:**</sub></small>
 which He dedicated for us a way new and living through the veil, That is through the flesh of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.19|<< Hebrews 10:19]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.21|Hebrews 10:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He dedicated |**<big>[[G1457\|ἐνεκαίνισεν]]</big>**  |enekainisen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

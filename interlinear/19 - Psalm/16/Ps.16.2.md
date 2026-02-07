@@ -1,4 +1,4 @@
-**Psalms 16:2** 
+**Psalms 16:2**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [O my soul], thou hast said unto the LORD, Thou [art] my Lord: my goodness [extendeth] not to thee;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I said to the LORD, “You are my Lord; apart from You I have no good thing.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.1|<< Psalms 16:1]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.3|Psalms 16:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you [fem] said  |**<big>&#8207;[[H0559\|אָמַ֣רְתְּ]]&#8207; </big>**| 'a.Mart<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ֭]]&#8207;&#8207;[[H3068G\|יהוָה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

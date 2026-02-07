@@ -1,4 +1,4 @@
-**Leviticus 1:12** 
+**Leviticus 1:12**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall cut it into his pieces, with his head and his fat: and the priest shall lay them in order on the wood that [is] on the fire which [is] upon the altar:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to cut the animal into pieces, and the priest shall arrange them, includin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.11|<< Leviticus 1:11]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.13|Leviticus 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will cut in pieces  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5408\|נִתַּ֤ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.Tach<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

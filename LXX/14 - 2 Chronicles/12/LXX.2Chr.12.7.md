@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 12:7** 
 <small><sub>**LXX:**</sub></small>
 And when  the <span class="smallcaps">lord</span> saw that they were ashamed, \[the\] word \[of the\] <span class="smallcaps">lord</span> came to Shemaiah, saying, They felt shame, I shall not utterly ruin them, but I will appoint them as small for deliverance, and in no way my rage be dripped over Jerusalem by \[the\] hand of Shishak, 
-<small><sub>**KJV:**</sub></small>
-And when the LORD saw that they humbled themselves, the word of the LORD came to Shemaiah, saying, They have humbled themselves; [therefore] I will not destroy them, but I will grant them some deliverance; and my wrath shall not be poured out upon Jerusalem by the hand of Shishak.
-<small><sub>**BSB:**</sub></small>
-When the LORD saw that they had humbled themselves, the word of the LORD came to Shemaiah, saying, “They have humbled themselves; I will not destroy them, but will soon grant them deliverance. My wrath will not be poured out on Jerusalem through Shishak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.6|<< 2 Chronicles 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.8|2 Chronicles 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

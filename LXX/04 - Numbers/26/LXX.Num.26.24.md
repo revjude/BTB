@@ -1,10 +1,7 @@
 **LXX Numbers 26:24** 
 <small><sub>**LXX:**</sub></small>
 \[to\] Jashub, \[the\] people the Jashubites; \[to\] Shimron, \[the\] people the Shimronites. 
-<small><sub>**KJV:**</sub></small>
-Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites.
-<small><sub>**BSB:**</sub></small>
-the Jashubite clan from Jashub, and the Shimronite clan from Shimron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.23|<< Numbers 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.25|Numbers 26:25 >>]]</td></tr></table>
 
 | Translation | Greek |

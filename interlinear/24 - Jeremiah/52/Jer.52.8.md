@@ -1,4 +1,4 @@
-**Jeremiah 52:8** 
+**Jeremiah 52:8**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the army of the Chaldeans pursued after the king, and overtook Zedekiah in the plains of Jericho; and all his army was scattered from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but the army of the Chaldeans pursued the king and overtook Zedekiah in the plai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.7|<< Jeremiah 52:7]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.9|Jeremiah 52:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they pursued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7291\|יִּרְדְּפ֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.de.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] army of  |**<big>&#8207;[[H2428A\|חֵיל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cheil-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

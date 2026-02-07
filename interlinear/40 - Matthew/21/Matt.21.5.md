@@ -1,5 +1,5 @@
-**Matthew 21:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:5**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt the foal of an ass.
 <small><sub>**BSB:**</sub></small>
 “Say to the Daughter of Zion, ‘See, your King comes to you, gentle and riding on a donkey, on a colt, the foal of a donkey.’”
@@ -10,7 +10,7 @@ do say to the daughter of Zion; Behold the King of you comes to you, gentle and 
 > $\quad$ referencing: [[LXX.Isa.62.11|Isa 62:11]] ☩ [[LXX.Zech.9.9|Zech 9:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do say |**<big>[[G2036\|εἴπατε]]</big>**  |eipate <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

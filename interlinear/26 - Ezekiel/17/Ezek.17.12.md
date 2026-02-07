@@ -1,4 +1,4 @@
-**Ezekiel 17:12** 
+**Ezekiel 17:12**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say now to the rebellious house, Know ye not what these [things mean]? tell [them], Behold, the king of Babylon is come to Jerusalem, and hath taken the king thereof, and the princes thereof, and led them with him to Babylon;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Say now to the rebellious house, Know ye not what these [things mean]? tell [the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.11|<< Ezekiel 17:11]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.13|Ezekiel 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אֱמָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.mor-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָא֙]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

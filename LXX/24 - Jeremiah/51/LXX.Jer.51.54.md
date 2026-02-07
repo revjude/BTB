@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:54** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sound of a cry in Babylon, and great destruction in \[the\] land of Chaldeans. 
-<small><sub>**KJV:**</sub></small>
-A sound of a cry [cometh] from Babylon, and great destruction from the land of the Chaldeans:
-<small><sub>**BSB:**</sub></small>
-“The sound of a cry comes from Babylon, the sound of great destruction from the land of the Chaldeans!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.53|<< Jeremiah 51:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.55|Jeremiah 51:55 >>]]</td></tr></table>
 
 | Translation | Greek |

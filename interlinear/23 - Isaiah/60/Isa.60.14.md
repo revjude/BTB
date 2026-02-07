@@ -1,4 +1,4 @@
-**Isaiah 60:14** 
+**Isaiah 60:14**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the LORD, The Zion of the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The sons of your oppressors will come and bow down to you; all who reviled you w
 > $\quad$ referenced by: [[Rev.3.9|Rev 3:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980H\|הָלְכ֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.le.Khu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵלַ֤יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'e.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

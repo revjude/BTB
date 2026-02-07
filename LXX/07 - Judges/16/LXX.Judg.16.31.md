@@ -1,10 +1,7 @@
 **LXX Judges 16:31** 
 <small><sub>**LXX:**</sub></small>
 And his brothers went down, and all the house  of his father, and they took him, and they ascended and entombed him between Zorah and between Esthaol in the burying-place of Manoah  his father. And he judged  Israel twenty years. 
-<small><sub>**KJV:**</sub></small>
-Then his brethren and all the house of his father came down, and took him, and brought [him] up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years.
-<small><sub>**BSB:**</sub></small>
-Then Samson’s brothers and his father’s family came down, carried him back, and buried him between Zorah and Eshtaol in the tomb of his father Manoah. And he had judged Israel twenty years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.30|<< Judges 16:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.1|Judges 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 17:15** 
+**Ezekiel 17:15**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he rebelled against him in sending his ambassadors into Egypt, that they might give him horses and much people. Shall he prosper? shall he escape that doeth such [things]? or shall he break the covenant, and be delivered?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But this king rebelled against Babylon by sending his envoys to Egypt to ask for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.14|<< Ezekiel 17:14]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.16|Ezekiel 17:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rebelled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4775\|יִּמְרָד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.rod-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against him  |**<big>&#8207;[[H9003\|בּ֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

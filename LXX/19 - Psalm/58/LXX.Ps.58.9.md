@@ -1,10 +1,7 @@
 **LXX Psalm 58:9** 
 <small><sub>**LXX:**</sub></small>
 Before the perceiving  of your thorn-bushes -- the white-thorn shrub; as living, as in anger he shall swallow them. 
-<small><sub>**KJV:**</sub></small>
-Before your pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in [his] wrath.
-<small><sub>**BSB:**</sub></small>
-Before your pots can feel the burning thorns—whether green or dry—He will sweep them away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.58.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.8|<< Psalm 58:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.10|Psalm 58:10 >>]]</td></tr></table>
 
 | Translation | Greek |

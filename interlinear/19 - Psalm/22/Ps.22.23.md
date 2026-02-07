@@ -1,4 +1,4 @@
-**Psalms 22:23** (22:24)
+**Psalms 22:23**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You who fear the LORD, praise Him! All descendants of Jacob, honor Him! All offs
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O [those] fearing  |**<big>&#8207;[[H3373\|יִרְאֵ֤י]]&#8207; </big>**| yir.'Ei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

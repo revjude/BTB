@@ -1,4 +1,4 @@
-**Judges 7:19** 
+**Judges 7:19**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Gideon, and the hundred men that [were] with him, came unto the outside of the camp in the beginning of the middle watch; and they had but newly set the watch: and they blew the trumpets, and brake the pitchers that [were] in their hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Gideon and the hundred men with him reached the outskirts of the camp at the beg
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.18|<< Judges 7:18]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.20|Judges 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gideon  |**<big>&#8207;[[H1439\|גִ֠דְעוֹן]]&#8207; </big>**| Gid.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

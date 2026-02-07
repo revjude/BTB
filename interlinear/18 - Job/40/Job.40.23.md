@@ -1,4 +1,4 @@
-**Job 40:23** 
+**Job 40:23**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he drinketh up a river, [and] hasteth not: he trusteth that he can draw up Jordan into his mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though the river rages, Behemoth is unafraid; he remains secure, though the Jord
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.22|<< Job 40:22]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.24|Job 40:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is violent  |**<big>&#8207;[[H6231\|יַעֲשֹׁ֣ק]]&#8207; </big>**| ya.'a.Shok<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

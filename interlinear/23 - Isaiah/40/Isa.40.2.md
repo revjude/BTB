@@ -1,4 +1,4 @@
-**Isaiah 40:2** 
+**Isaiah 40:2**<big><big>[[Isa.40.1 Prepare the Way for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accomplished, that her iniquity is pardoned: for she hath received of the LORD’S hand double for all her sins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak ye comfortably to Jerusalem, and cry unto her, that her warfare is accompl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.1|<< Isaiah 40:1]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.3|Isaiah 40:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H1696G\|דַּבְּר֞וּ]]&#8207; </big>**| da.be.Ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 5:18** 
 <small><sub>**LXX:**</sub></small>
 then he shall bring an unblemished ram from out of the flocks, \[the\] value of silver for \[the\] trespass \[offering\] to the priest. And the priest shall atone for him for  his ignorance of which he was ignorant of, and he did not know. And it will be forgiven him, 
-<small><sub>**KJV:**</sub></small>
-And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist [it] not, and it shall be forgiven him.
-<small><sub>**BSB:**</sub></small>
-He is to bring to the priest an unblemished ram of proper value from the flock as a guilt offering. Then the priest will make atonement on his behalf for the wrong he has committed in ignorance, and he will be forgiven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.17|<< Leviticus 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.19|Leviticus 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 18:3** 
 <small><sub>**LXX:**</sub></small>
 Whenever \[the\] impious should come into a depth of evils, he pays no attention, and there comes upon him dishonor and scorn. 
-<small><sub>**KJV:**</sub></small>
-When the wicked cometh, [then] cometh also contempt, and with ignominy reproach.
-<small><sub>**BSB:**</sub></small>
-With a wicked man comes contempt as well, and shame is accompanied by disgrace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.2|<< Proverbs 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.4|Proverbs 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

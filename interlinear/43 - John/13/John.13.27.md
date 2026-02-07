@@ -1,12 +1,12 @@
-**John 13:27
-**<small><sub>**KJV:**</sub></small>
+**John 13:27**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after the sop Satan entered into him. Then said Jesus unto him, That thou doest, do quickly.
 <small><sub>**BSB:**</sub></small>
 And when Judas had taken the morsel, Satan entered into him. Then Jesus said to Judas, “What you are about to do, do quickly.”
 <small><sub>**Literal:**</sub></small>
 And after the morsel, then entered into him <the> Satan. Says therefore to him <the> Jesus; What you enact, do enact quicker.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.26|<< John 13:26]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.28|John 13:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | after |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

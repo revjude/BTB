@@ -1,12 +1,12 @@
-**Luke 21:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:25**<big><big>[[Luke.21.25 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;
 <small><sub>**BSB:**</sub></small>
 There will be signs in the sun and moon and stars, and on the earth dismay among the nations, bewildered by the roaring of the sea and the surging of the waves.
 <small><sub>**Literal:**</sub></small>
 And there will be signs in sun and moon and stars, and upon the earth distress of nations with perplexity [the] sound of [the] sea and rolling surge<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.24|<< Luke 21:24]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.26|Luke 21:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there will be [^1] |**<big>[[G1510\|ἔσονται]]</big>**  |esontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

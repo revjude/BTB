@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:3** 
 <small><sub>**LXX:**</sub></small>
 Shout, O Heshbon! for Ai was destroyed. Cry out, O daughters of Rabbah! Gird on sackcloths! Be possessed, and lament over Milcom! For in resettlement his priests and his rulers shall proceed together. 
-<small><sub>**KJV:**</sub></small>
-Howl, O Heshbon, for Ai is spoiled: cry, ye daughters of Rabbah, gird you with sackcloth; lament, and run to and fro by the hedges; for their king shall go into captivity, [and] his priests and his princes together.
-<small><sub>**BSB:**</sub></small>
-Wail, O Heshbon, for Ai has been destroyed; cry out, O daughters of Rabbah! Put on sackcloth and mourn; run back and forth within your walls, for Milcom will go into exile together with his priests and officials.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.2|<< Jeremiah 49:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.4|Jeremiah 49:4 >>]]</td></tr></table>
 
 | Translation | Greek |

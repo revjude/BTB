@@ -1,10 +1,7 @@
 **LXX Isaiah 38:8** 
 <small><sub>**LXX:**</sub></small>
 Behold, I shall turn the shadow of the stairs which the sun went down the ten stairs of the house of your father. I will return the sun the ten stairs which the shadow went down. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.
-<small><sub>**BSB:**</sub></small>
-I will make the sun’s shadow that falls on the stairway of Ahaz go back ten steps.’” So the sunlight went back the ten steps it had descended.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.7|<< Isaiah 38:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.9|Isaiah 38:9 >>]]</td></tr></table>
 
 | Translation | Greek |

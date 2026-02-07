@@ -1,10 +1,7 @@
 **LXX Song of Solomon 7:8** 
 <small><sub>**LXX:**</sub></small>
 I said, I will ascend unto the palm, I will seize  its heights; and your breasts shall indeed be as clusters of grapes of the grapevine, and \[the\] scent of your nose as apples. 
-<small><sub>**KJV:**</sub></small>
-I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;
-<small><sub>**BSB:**</sub></small>
-I said, “I will climb the palm tree; I will take hold of its fruit.” May your breasts be like clusters of the vine, the fragrance of your breath like apples,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.7|<< Song of Solomon 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.9|Song of Solomon 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

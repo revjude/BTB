@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:9** 
 <small><sub>**LXX:**</sub></small>
 And they forgot \[the\] <span class="smallcaps">lord</span>  their God, and he gave them into \[the\] hands of Sisera commander-in-chief of Jabish, king of Hazor, and into \[the\] hands of \[the\] Philistines, and into \[the\] hands of \[the\] king of Moab; and they waged war with them. 
-<small><sub>**KJV:**</sub></small>
-And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.
-<small><sub>**BSB:**</sub></small>
-But they forgot the LORD their God, and He sold them into the hand of Sisera the commander of the army of Hazor, and into the hands of the Philistines and the king of Moab, who fought against them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.8|<< 1 Samuel 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.10|1 Samuel 12:10 >>]]</td></tr></table>
 
 | Translation | Greek |

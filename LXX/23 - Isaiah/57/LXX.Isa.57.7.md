@@ -1,10 +1,7 @@
 **LXX Isaiah 57:7** 
 <small><sub>**LXX:**</sub></small>
 Upon \[the\] high and elevated mountain, there \[is\] your  bed, and there you hauled to sacrifice your sacrifices. 
-<small><sub>**KJV:**</sub></small>
-Upon a lofty and high mountain hast thou set thy bed: even thither wentest thou up to offer sacrifice.
-<small><sub>**BSB:**</sub></small>
-On a high and lofty hill you have made your bed, and there you went up to offer sacrifices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.6|<< Isaiah 57:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.8|Isaiah 57:8 >>]]</td></tr></table>
 
 | Translation | Greek |

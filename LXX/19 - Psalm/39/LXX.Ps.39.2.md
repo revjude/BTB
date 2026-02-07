@@ -1,10 +1,7 @@
 **LXX Psalm 39:2** 
 <small><sub>**LXX:**</sub></small>
 I was mute and humbled and quiet of good \[words\], and  my pain was renewed. 
-<small><sub>**KJV:**</sub></small>
-I was dumb with silence, I held my peace, [even] from good; and my sorrow was stirred.
-<small><sub>**BSB:**</sub></small>
-I was speechless and still; I remained silent, even from speaking good, and my sorrow was stirred.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.1|<< Psalm 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.3|Psalm 39:3 >>]]</td></tr></table>
 
 | Translation | Greek |

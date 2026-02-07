@@ -1,4 +1,4 @@
-**2 Samuel 1:12** 
+**2 Samuel 1:12**<big><big>[[2Sam.1.1 Saul’s Death Reported to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They mourned and wept and fasted until evening for Saul and his son Jonathan, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.11|<< 2 Samuel 1:11]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.13|2 Samuel 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they mourned  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5594\|יִּסְפְּדוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.pe.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they wept  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1058\|יִּבְכּ֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

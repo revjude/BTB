@@ -1,4 +1,4 @@
-**Nehemiah 6:4** 
+**Nehemiah 6:4**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet they sent unto me four times after this sort; and I answered them after the same manner.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Four times they sent me the same message, and each time I gave the same reply.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.3|<< Nehemiah 6:3]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.5|Nehemiah 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלְח֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.le.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֛]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

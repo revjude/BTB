@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:16** 
 <small><sub>**LXX:**</sub></small>
 for six months Joab laid in wait there and all Israel, until of which \[time\] he utterly destroyed every man of  Edom. 
-<small><sub>**KJV:**</sub></small>
-(For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)
-<small><sub>**BSB:**</sub></small>
-Joab and all Israel had stayed there six months, until he had killed every male in Edom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.15|<< 1 Kings 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.17|1 Kings 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

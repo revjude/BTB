@@ -1,10 +1,7 @@
 **LXX Isaiah 43:3** 
 <small><sub>**LXX:**</sub></small>
 For I \[am\] \[the\] <span class="smallcaps">lord</span>  your God, the holy one of Israel, the one delivering you. I made a barter for you -- Egypt, and Ethiopia, and Seba for you. 
-<small><sub>**KJV:**</sub></small>
-For I [am] the LORD thy God, the Holy One of Israel, thy Saviour: I gave Egypt [for] thy ransom, Ethiopia and Seba for thee.
-<small><sub>**BSB:**</sub></small>
-For I am the LORD your God, the Holy One of Israel, your Savior; I give Egypt for your ransom, Cush and Seba in your place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.2|<< Isaiah 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.4|Isaiah 43:4 >>]]</td></tr></table>
 
 | Translation | Greek |

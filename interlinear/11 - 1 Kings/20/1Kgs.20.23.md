@@ -1,4 +1,4 @@
-**1 Kings 20:23** 
+**1 Kings 20:23**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servants of the king of Syria said unto him, Their gods [are] gods of the hills; therefore they were stronger than we; but let us fight against them in the plain, and surely we shall be stronger than they.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, the servants of the king of Aram said to him, “Their gods are gods 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.22|<< 1 Kings 20:22]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.24|1 Kings 20:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] servants of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5650\|עַבְדֵ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

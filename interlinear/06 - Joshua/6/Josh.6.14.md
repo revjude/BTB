@@ -1,4 +1,4 @@
-**Joshua 6:14** 
+**Joshua 6:14**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the second day they compassed the city once, and returned into the camp: so they did six days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So on the second day they marched around the city once and returned to the camp.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.13|<< Joshua 6:13]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.15|Joshua 6:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went around  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437H\|יָּסֹ֨בּוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.So.bu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

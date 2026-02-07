@@ -1,10 +1,7 @@
 **LXX Genesis 37:29** 
 <small><sub>**LXX:**</sub></small>
 And Ruben returned upon the well, and he did not see  Joseph in the well, and he tore  his clothes. 
-<small><sub>**KJV:**</sub></small>
-And Reuben returned unto the pit; and, behold, Joseph [was] not in the pit; and he rent his clothes.
-<small><sub>**BSB:**</sub></small>
-When Reuben returned to the pit and saw that Joseph was not there, he tore his clothes,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.28|<< Genesis 37:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.30|Genesis 37:30 >>]]</td></tr></table>
 
 | Translation | Greek |

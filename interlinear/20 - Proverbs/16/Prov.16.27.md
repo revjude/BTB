@@ -1,4 +1,4 @@
-**Proverbs 16:27** 
+**Proverbs 16:27**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An ungodly man diggeth up evil: and in his lips [there is] as a burning fire.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ A worthless man digs up evil, and his speech is like a scorching fire.
 > $\quad$ referenced by: [[Jas.5.3|Jas 5:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | worthlessness  |**<big>&#8207;[[H1100I\|בְּ֭לִיַּעַל]]&#8207; </big>**| Be.li.ya.'al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

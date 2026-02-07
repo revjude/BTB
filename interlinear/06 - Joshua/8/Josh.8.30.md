@@ -1,4 +1,4 @@
-**Joshua 8:30** 
+**Joshua 8:30**<big><big>[[Josh.8.30 Joshua Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joshua built an altar unto the LORD God of Israel in mount Ebal,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Joshua built an altar on Mount Ebal to the LORD, the God of Israel,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.29|<< Joshua 8:29]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.31|Joshua 8:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he built  |**<big>&#8207;[[H1129\|יִבְנֶ֤ה]]&#8207; </big>**| yiv.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

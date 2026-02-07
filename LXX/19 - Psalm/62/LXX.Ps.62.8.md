@@ -1,10 +1,7 @@
 **LXX Psalm 62:8** 
 <small><sub>**LXX:**</sub></small>
 Hope upon him, all you gathering people! pour out before him  your hearts! for  God \[is\] our helper. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-Trust in him at all times; ye people, pour out your heart before him: God [is] a refuge for us. Selah.
-<small><sub>**BSB:**</sub></small>
-Trust in Him at all times, O people; pour out your hearts before Him. God is our refuge. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.7|<< Psalm 62:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.9|Psalm 62:9 >>]]</td></tr></table>
 
 | Translation | Greek |

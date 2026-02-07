@@ -1,4 +1,4 @@
-**2 Samuel 22:37** 
+**2 Samuel 22:37**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast enlarged my steps under me; so that my feet did not slip.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You broaden the path beneath me so that my ankles do not give way.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.36|<< 2 Samuel 22:36]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.38|2 Samuel 22:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you enlarge  |**<big>&#8207;[[H7337\|תַּרְחִ֥יב]]&#8207; </big>**| tar.Chiv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | step[s] my  |**<big>&#8207;[[H6806\|צַעֲדִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| tza.'a.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

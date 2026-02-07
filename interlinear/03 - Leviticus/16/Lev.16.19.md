@@ -1,4 +1,4 @@
-**Leviticus 16:19** 
+**Leviticus 16:19**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to sprinkle some of the blood on it with his finger seven times to cleanse
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.18|<< Leviticus 16:18]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.20|Leviticus 16:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will spatter  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5137A\|הִזָּ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Zah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלָ֧י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 22:60
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:60**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew.
 <small><sub>**BSB:**</sub></small>
 “Man, I do not know what you are talking about,” Peter replied. And immediately, while he was still speaking, the rooster crowed.
 <small><sub>**Literal:**</sub></small>
 Said however <the> Peter; Man, not I know what you say. And immediately while is speaking he crowed the rooster.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.59|<< Luke 22:59]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.61|Luke 22:61 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 26:18** 
 <small><sub>**LXX:**</sub></small>
 And you shall make the posts for the tent -- twenty posts by the side towards the south. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make the boards for the tabernacle, twenty boards on the south side southward.
-<small><sub>**BSB:**</sub></small>
-Construct twenty frames for the south side of the tabernacle,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.17|<< Exodus 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.19|Exodus 26:19 >>]]</td></tr></table>
 
 | Translation | Greek |

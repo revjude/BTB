@@ -1,12 +1,12 @@
-**John 4:9
-**<small><sub>**KJV:**</sub></small>
+**John 4:9**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
 <small><sub>**BSB:**</sub></small>
 “You are a Jew,” said the woman. “How can You ask for a drink from me, a Samaritan woman?” (For Jews do not associate with Samaritans.)
 <small><sub>**Literal:**</sub></small>
 Says therefore to Him the woman <the> Samaritan; How You yourself a Jew being from me to drink you do ask a woman Samaritan being? Not for have association Jews with Samaritans.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.8|<< John 4:8]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.10|John 4:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

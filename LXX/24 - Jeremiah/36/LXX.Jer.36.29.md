@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:29** 
 <small><sub>**LXX:**</sub></small>
 And to Jehoaikim, the king of Judah, you shall say, Thus said \[the\] <span class="smallcaps">lord</span>, You incinerated  this scroll, saying, Why did you write upon it, saying, In entering \[the\] king of Babylon shall enter, and shall utterly destroy  this land, and he shall obliterate from it man and beast. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt say to Jehoiakim king of Judah, Thus saith the LORD; Thou hast burned this roll, saying, Why hast thou written therein, saying, The king of Babylon shall certainly come and destroy this land, and shall cause to cease from thence man and beast?
-<small><sub>**BSB:**</sub></small>
-You are to proclaim concerning Jehoiakim king of Judah that this is what the LORD says: You have burned the scroll and said, ‘Why have you written on it that the king of Babylon would surely come and destroy this land and deprive it of man and beast?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.28|<< Jeremiah 36:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.30|Jeremiah 36:30 >>]]</td></tr></table>
 
 | Translation | Greek |

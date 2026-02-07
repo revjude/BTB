@@ -1,12 +1,12 @@
-**Luke 15:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:12**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the younger of them said to [his] father, Father, give me the portion of goods that falleth [to me]. And he divided unto them [his] living.
 <small><sub>**BSB:**</sub></small>
 The younger son said to him, ‘Father, give me my share of the estate.’ So he divided his property between them.
 <small><sub>**Literal:**</sub></small>
 And said the younger of them to the father; Father, do give to me what is due [to me] portion of the property. <the> then he divided between them the property.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.11|<< Luke 15:11]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.13|Luke 15:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 8:29** (8:25)
+**Exodus 8:29**<big><big>[[Exod.8.20 The Fourth Plague：Flies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said, Behold, I go out from thee, and I will intreat the LORD that the swarms [of flies] may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Moses said, Behold, I go out from thee, and I will intreat the LORD that the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.28|<< Exodus 8:28]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.30|Exodus 8:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֗ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

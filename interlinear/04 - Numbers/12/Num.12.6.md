@@ -1,4 +1,4 @@
-**Numbers 12:6** 
+**Numbers 12:6**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Hear now my words: If there be a prophet among you, [I] the LORD will make myself known unto him in a vision, [and] will speak unto him in a dream.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He said, “Hear now My words: If there is a prophet among you, I, the LORD, wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.5|<< Numbers 12:5]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.7|Numbers 12:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְעוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shim.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

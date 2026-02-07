@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:49** 
 <small><sub>**LXX:**</sub></small>
 And Aaron and  his sons \[were\] for burning incense upon the altar of the whole burnt-offerings, and upon the altar  of incense, for every work of \[the\] holy  of holies, and to atone for Israel, according to all as much as Moses \[the\] servant of God gave charge. 
-<small><sub>**KJV:**</sub></small>
-But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, [and were appointed] for all the work of the [place] most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.
-<small><sub>**BSB:**</sub></small>
-But Aaron and his sons did all the work of the Most Holy Place. They presented the offerings on the altar of burnt offering and on the altar of incense to make atonement for Israel, according to all that Moses the servant of God had commanded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.48|<< 1 Chronicles 6:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.50|1 Chronicles 6:50 >>]]</td></tr></table>
 
 | Translation | Greek |

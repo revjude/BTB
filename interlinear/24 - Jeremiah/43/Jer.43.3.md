@@ -1,4 +1,4 @@
-**Jeremiah 43:3** 
+**Jeremiah 43:3**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Baruch the son of Neriah setteth thee on against us, for to deliver us into the hand of the Chaldeans, that they might put us to death, and carry us away captives into Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rather, Baruch son of Neriah is inciting you against us to deliver us into the h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.2|<< Jeremiah 43:2]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.4|Jeremiah 43:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֗י]]&#8207; </big>**| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Baruch  |**<big>&#8207;[[H1263J\|בָּרוּךְ֙]]&#8207; </big>**| ba.ruKh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

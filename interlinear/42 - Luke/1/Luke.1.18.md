@@ -1,12 +1,12 @@
-**Luke 1:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:18**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years.
 <small><sub>**BSB:**</sub></small>
 “How can I be sure of this?” Zechariah asked the angel. “I am an old man, and my wife is well along in years.”
 <small><sub>**Literal:**</sub></small>
 And said Zechariah to the angel; By what will I know this? I myself for am an old man, and the wife of mine having advanced in the years of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.17|<< Luke 1:17]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.19|Luke 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

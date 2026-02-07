@@ -1,12 +1,12 @@
-**Revelation 12:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:16**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
 <small><sub>**BSB:**</sub></small>
 But the earth helped the woman and opened its mouth to swallow up the river that the dragon had poured from his mouth.
 <small><sub>**Literal:**</sub></small>
 And gave help the earth to the woman and opened the earth the mouth of it and swallowed up the river which had cast the dragon out of the mouth of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.15|<< Revelation 12:15]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.17|Revelation 12:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | gave help |**<big>[[G0997\|ἐβοήθησεν]]</big>**  |eboēthēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

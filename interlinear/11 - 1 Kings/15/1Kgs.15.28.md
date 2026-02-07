@@ -1,4 +1,4 @@
-**1 Kings 15:28** 
+**1 Kings 15:28**<big><big>[[1Kgs.15.25 Nadab Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even in the third year of Asa king of Judah did Baasha slay him, and reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the third year of Asa’s reign over Judah, Baasha killed Nadab and reigned i
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.27|<< 1 Kings 15:27]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.29|1 Kings 15:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he killed him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יְמִתֵ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.mi.Te.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Baasha  |**<big>&#8207;[[H1201\|בַעְשָׁ֔א]]&#8207; </big>**| va'.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

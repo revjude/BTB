@@ -1,4 +1,4 @@
-**Amos 5:8** 
+**Amos 5:8**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Seek him] that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD [is] his name:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who made the Pleiades and Orion, who turns darkness into dawn and darkens day
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.7|<< Amos 5:7]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.9|Amos 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] maker of  |**<big>&#8207;[[H6213H\|עֹשֵׂ֨ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pleiades  |**<big>&#8207;[[H3598\|כִימָ֜ה]]&#8207; </big>**| khi.Mah<small><sup>[[HNtfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

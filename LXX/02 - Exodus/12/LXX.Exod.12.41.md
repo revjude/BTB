@@ -1,10 +1,7 @@
 **LXX Exodus 12:41** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the four hundred and thirty year, came forth all the force of \[the\] <span class="smallcaps">lord</span> from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-At the end of the 430 years, to the very day, all the LORD’s divisions went out of the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.40|<< Exodus 12:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.42|Exodus 12:42 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 12:41** is...

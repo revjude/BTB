@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:19** 
 <small><sub>**LXX:**</sub></small>
 And the gatekeepers; Akkub, Talmon, and  their brethren, the ones guarding at the gates -- a hundred seventy-two. 
-<small><sub>**KJV:**</sub></small>
-Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, [were] an hundred seventy and two.
-<small><sub>**BSB:**</sub></small>
-And the gatekeepers: Akkub, Talmon, and their associates, who kept watch at the gates—172 men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.18|<< Nehemiah 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.20|Nehemiah 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

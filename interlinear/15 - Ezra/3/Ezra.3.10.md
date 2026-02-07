@@ -1,4 +1,4 @@
-**Ezra 3:10** 
+**Ezra 3:10**<big><big>[[Ezra.3.8 Temple Restoration Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the builders had laid the foundation of the temple of the LORD, the priests
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.9|<< Ezra 3:9]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.11|Ezra 3:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they founded  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3245\|יִסְּד֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> yi.se.Du<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the builders  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1129\|בֹּנִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bo.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

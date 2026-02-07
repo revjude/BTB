@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:31** 
 <small><sub>**LXX:**</sub></small>
 Hear \[the\] word of \[the\] <span class="smallcaps">lord</span>! Thus says \[the\] <span class="smallcaps">lord</span>, Did I become a wilderness  to Israel, or a land being made barren? Why said  my people, We will not be lorded over, and we shall not come to you any longer? 
-<small><sub>**KJV:**</sub></small>
-O generation, see ye the word of the LORD. Have I been a wilderness unto Israel? a land of darkness? wherefore say my people, We are lords; we will come no more unto thee?
-<small><sub>**BSB:**</sub></small>
-You people of this generation, consider the word of the LORD: “Have I been a wilderness to Israel or a land of dense darkness? Why do My people say, ‘We are free to roam; we will come to You no more’?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.30|<< Jeremiah 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.32|Jeremiah 2:32 >>]]</td></tr></table>
 
 | Translation | Greek |

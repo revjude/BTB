@@ -1,12 +1,12 @@
-**1 Thessalonians 4:11
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:11**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;
 <small><sub>**BSB:**</sub></small>
 and to aspire to live quietly, to attend to your own matters, and to work with your own hands, as we instructed you.
 <small><sub>**Literal:**</sub></small>
 and to strive earnestly to live quietly and to attend to <the> [your] own and to work with the own hands of you even as you we commanded;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.10|<< 1 Thessalonians 4:10]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.12|1 Thessalonians 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to strive earnestly |**<big>[[G5389\|φιλοτιμεῖσθαι]]</big>**  |philotimeisthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

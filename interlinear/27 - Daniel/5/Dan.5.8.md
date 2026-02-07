@@ -1,4 +1,4 @@
-**Daniel 5:8** 
+**Daniel 5:8**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came in all the king’s wise [men]: but they could not read the writing, nor make known to the king the interpretation thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all the king’s wise men came in, but they could not read the inscription or
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.7|<< Daniel 5:7]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.9|Daniel 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֙יִן֙]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] going in  |**<big>&#8207;[[H5954\|עָֽלִּ֔ין]]&#8207; </big>**[^1] [^2] | a.la.lin<small><sup>[[AVqrmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:12** 
 <small><sub>**LXX:**</sub></small>
 \[Have\] the gods of the nations rescued which my fathers utterly destroyed --  both Gozan, and  Haran, and Rezeph, and the sons of Eden, the ones in Thelasar? 
-<small><sub>**KJV:**</sub></small>
-Have the gods of the nations delivered them which my fathers have destroyed; [as] Gozan, and Haran, and Rezeph, and the children of Eden which [were] in Thelasar?
-<small><sub>**BSB:**</sub></small>
-Did the gods of the nations destroyed by my fathers rescue those nations—the gods of Gozan, Haran, and Rezeph, and of the people of Eden in Telassar?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.11|<< 2 Kings 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.13|2 Kings 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

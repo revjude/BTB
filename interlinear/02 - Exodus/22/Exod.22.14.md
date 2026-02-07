@@ -1,4 +1,4 @@
-**Exodus 22:14** (22:13)
+**Exodus 22:14**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man borrow [ought] of his neighbour, and it be hurt, or die, the owner thereof [being] not with it, he shall surely make [it] good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man borrows an animal from his neighbor and it is injured or dies while its
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.13|<< Exodus 22:13]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.15|Exodus 22:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will ask  |**<big>&#8207;[[H7592\|יִשְׁאַ֥ל]]&#8207; </big>**| yish.'Al<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

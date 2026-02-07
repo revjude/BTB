@@ -1,4 +1,4 @@
-**Genesis 7:9** 
+**Genesis 7:9**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ came to Noah to enter the ark, two by two, male and female, as God had commanded
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.8|<< Genesis 7:8]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.10|Genesis 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | two  |**<big>&#8207;[[H8147\|שְׁנַ֨יִם]]&#8207; </big>**| she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנַ֜יִם]]&#8207; </big>**| she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 3:6** 
+**Isaiah 3:6**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a man shall take hold of his brother of the house of his father, [saying], Thou hast clothing, be thou our ruler, and [let] this ruin [be] under thy hand:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man will seize his brother within his father’s house: “You have a cloak—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.5|<< Isaiah 3:5]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.7|Isaiah 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will seize  |**<big>&#8207;[[H8610\|יִתְפֹּ֨שׂ]]&#8207; </big>**| yit.Pos<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

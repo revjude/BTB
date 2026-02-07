@@ -1,10 +1,7 @@
 **LXX Leviticus 6:28** 
 <small><sub>**LXX:**</sub></small>
 And an earthenware item of what ever should have been boiled in it, it shall be broken. And if it should have been boiled in an item of brass, he shall scour it, and wash it out in water. 
-<small><sub>**KJV:**</sub></small>
-But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water.
-<small><sub>**BSB:**</sub></small>
-The clay pot in which the sin offering is boiled must be broken; if it is boiled in a bronze pot, the pot must be scoured and rinsed with water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.27|<< Leviticus 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.29|Leviticus 6:29 >>]]</td></tr></table>
 
 | Translation | Greek |

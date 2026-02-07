@@ -1,4 +1,4 @@
-**Psalms 86:16** 
+**Psalms 86:16**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn to me and have mercy; grant Your strength to Your servant; save the son of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.15|<< Psalms 86:15]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.17|Psalms 86:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn  |**<big>&#8207;[[H6437G\|פְּנֵ֥ה]]&#8207; </big>**| pe.Neh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

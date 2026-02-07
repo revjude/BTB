@@ -1,4 +1,4 @@
-**Numbers 5:24** 
+**Numbers 5:24**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall cause the woman to drink the bitter water that causeth the curse: and the water that causeth the curse shall enter into her, [and become] bitter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to have the woman drink the bitter water that brings a curse, and it will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.23|<< Numbers 5:23]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.25|Numbers 5:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make drink  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8248H\|הִשְׁקָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.Kah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

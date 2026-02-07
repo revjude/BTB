@@ -1,12 +1,12 @@
-**Romans 7:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:3**<big><big>[[Rom.7.1 Release from the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So then if, while [her] husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.
 <small><sub>**BSB:**</sub></small>
 So then, if she is joined to another man while her husband is still alive, she is called an adulteress; but if her husband dies, she is free from that law and is not an adulteress if she marries another man.
 <small><sub>**Literal:**</sub></small>
 Then therefore while is living the husband an adulteress she will be called if she shall become [married] to man another; if however shall die the husband, free she is from the law which not to be her an adulteress having become [married] to man another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.2|<< Romans 7:2]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.4|Romans 7:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G0686\|ἄρα]]</big>**  |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

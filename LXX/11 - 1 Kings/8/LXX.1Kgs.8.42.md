@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:42** 
 <small><sub>**LXX:**</sub></small>
 for they shall hear  your great name, and  your strong hand, and  your high arm, and shall come and pray to  this place; 
-<small><sub>**KJV:**</sub></small>
-(For they shall hear of thy great name, and of thy strong hand, and of thy stretched out arm;) when he shall come and pray toward this house;
-<small><sub>**BSB:**</sub></small>
-for they will hear of Your great name and mighty hand and outstretched arm—when he comes and prays toward this temple,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.41|<< 1 Kings 8:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.43|1 Kings 8:43 >>]]</td></tr></table>
 
 | Translation | Greek |

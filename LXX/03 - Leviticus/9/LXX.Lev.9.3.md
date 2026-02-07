@@ -1,10 +1,7 @@
 **LXX Leviticus 9:3** 
 <small><sub>**LXX:**</sub></small>
 And to the council of elders of Israel you shall speak, saying, Take a young he-goat from out of \[the\] goats, one for a sin \[offering\], and a young calf, and a lamb of a year \[old\] for a whole offering, unblemished; 
-<small><sub>**KJV:**</sub></small>
-And unto the children of Israel thou shalt speak, saying, Take ye a kid of the goats for a sin offering; and a calf and a lamb, [both] of the first year, without blemish, for a burnt offering;
-<small><sub>**BSB:**</sub></small>
-Then speak to the Israelites and say, ‘Take a male goat for a sin offering, a calf and a lamb—both a year old and without blemish—for a burnt offering,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.2|<< Leviticus 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.4|Leviticus 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

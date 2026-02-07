@@ -1,4 +1,4 @@
-**Ezekiel 30:19** 
+**Ezekiel 30:19**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I execute judgments in Egypt: and they shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will execute judgment on Egypt, and they will know that I am the LORD.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.18|<< Ezekiel 30:18]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.20|Ezekiel 30:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring about  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִׂ֥יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judgments  |**<big>&#8207;[[H8201\|שְׁפָטִ֖ים]]&#8207; </big>**| she.fa.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

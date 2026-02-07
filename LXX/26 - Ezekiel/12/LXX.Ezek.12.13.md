@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:13** 
 <small><sub>**LXX:**</sub></small>
 And I will spread forth  my net upon him, and he shall be seized in  my encompassing about. And I will lead him into Babylon, into \[the\] land of Chaldeans. And he shall not see it, and he shall come to an end there. 
-<small><sub>**KJV:**</sub></small>
-My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon [to] the land of the Chaldeans; yet shall he not see it, though he shall die there.
-<small><sub>**BSB:**</sub></small>
-But I will spread My net over him, and he will be caught in My snare. I will bring him to Babylon, the land of the Chaldeans; yet he will not see it, and there he will die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.12|<< Ezekiel 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.14|Ezekiel 12:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 30:9** 
+**2 Chronicles 30:9**<big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For if ye turn again unto the LORD, your brethren and your children [shall find] compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God [is] gracious and merciful, and will not turn away [his] face from you, if ye return unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For if you return to the LORD, your brothers and sons will receive mercy in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.8|<< 2 Chronicles 30:8]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.10|2 Chronicles 30:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when return you  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7725G\|שׁוּבְ]]&#8207;&#8207;[[H9046\|כֶ֞ם]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> shu.ve.<small><sup>[[HVqcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

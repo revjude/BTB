@@ -1,10 +1,7 @@
 **LXX Isaiah 1:29** 
 <small><sub>**LXX:**</sub></small>
 For they shall be ashamed of  their idols, which they preferred; and they shall be ashamed over the gardens which they desired. 
-<small><sub>**KJV:**</sub></small>
-For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen.
-<small><sub>**BSB:**</sub></small>
-Surely you will be ashamed of the sacred oaks in which you have delighted; you will be embarrassed by the gardens that you have chosen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.28|<< Isaiah 1:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.30|Isaiah 1:30 >>]]</td></tr></table>
 
 | Translation | Greek |

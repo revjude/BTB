@@ -1,10 +1,7 @@
 **LXX Psalm 89:20** 
 <small><sub>**LXX:**</sub></small>
 I found David  my servant. I anointed him with my holy oil. 
-<small><sub>**KJV:**</sub></small>
-I have found David my servant; with my holy oil have I anointed him:
-<small><sub>**BSB:**</sub></small>
-I have found My servant David; with My sacred oil I have anointed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.19|<< Psalm 89:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.21|Psalm 89:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 89:20** is...

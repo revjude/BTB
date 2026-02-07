@@ -1,10 +1,7 @@
 **LXX Esther 6:6** 
 <small><sub>**LXX:**</sub></small>
 And the king said  to Haman, What shall I do to the man whom I want to extol? And Haman said to himself, Who \[does\] the king want to extol unless me? 
-<small><sub>**KJV:**</sub></small>
-So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?
-<small><sub>**BSB:**</sub></small>
-Haman entered, and the king asked him, “What should be done for the man whom the king is delighted to honor?” Now Haman thought to himself, “Whom would the king be delighted to honor more than me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.5|<< Esther 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.7|Esther 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

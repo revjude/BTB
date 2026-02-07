@@ -1,10 +1,7 @@
 **LXX Daniel 8:8** 
 <small><sub>**LXX:**</sub></small>
 And the he-goat of the goats was magnified even unto exceedingly. And in  his being strong his great horn was broken, and there ascended another four horns underneath him unto the four winds of the heaven. 
-<small><sub>**KJV:**</sub></small>
-Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.
-<small><sub>**BSB:**</sub></small>
-Thus the goat became very great, but at the height of his power, his large horn was broken off, and four prominent horns came up in its place, pointing toward the four winds of heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.7|<< Daniel 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.9|Daniel 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

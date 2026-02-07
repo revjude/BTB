@@ -1,10 +1,7 @@
 **LXX Isaiah 51:8** 
 <small><sub>**LXX:**</sub></small>
 For as a garment will be eaten upon time, and as wool shall be eaten by a moth; but the righteousness of mine will be into the eon; and the deliverance of mine for generations of generations. 
-<small><sub>**KJV:**</sub></small>
-For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation.
-<small><sub>**BSB:**</sub></small>
-For the moth will devour them like a garment, and the worm will eat them like wool. But My righteousness will last forever, My salvation through all generations.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.7|<< Isaiah 51:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.9|Isaiah 51:9 >>]]</td></tr></table>
 
 | Translation | Greek |

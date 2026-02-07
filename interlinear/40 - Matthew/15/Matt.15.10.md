@@ -1,12 +1,12 @@
-**Matthew 15:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:10**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he called the multitude, and said unto them, Hear, and understand:
 <small><sub>**BSB:**</sub></small>
 Jesus called the crowd to Him and said, “Listen and understand.
 <small><sub>**Literal:**</sub></small>
 And having called to [Him] the crowd He said to them; do hear and do understand:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.9|<< Matthew 15:9]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.11|Matthew 15:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called to [Him] |**<big>[[G4341\|προσκαλεσάμενος]]</big>**  |proskalesamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

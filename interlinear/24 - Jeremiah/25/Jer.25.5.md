@@ -1,4 +1,4 @@
-**Jeremiah 25:5** 
+**Jeremiah 25:5**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They said, Turn ye again now every one from his evil way, and from the evil of your doings, and dwell in the land that the LORD hath given unto you and to your fathers for ever and ever:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The prophets told you, ‘Turn now, each of you, from your evil ways and deeds, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.4|<< Jeremiah 25:4]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.6|Jeremiah 25:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> saying  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֗ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | turn back  |**<big>&#8207;[[H7725O\|שֽׁוּבוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shu.vu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

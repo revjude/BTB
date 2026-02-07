@@ -1,4 +1,4 @@
-**Jeremiah 31:1** 
+**Jeremiah 31:1**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the same time, saith the LORD, will I be the God of all the families of Israe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.24|<< Jeremiah 30:24]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.2|Jeremiah 31:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at the time  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H6256\|עֵ֤ת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הִיא֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

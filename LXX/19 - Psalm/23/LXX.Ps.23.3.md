@@ -1,10 +1,7 @@
 **LXX Psalm 23:3** 
 <small><sub>**LXX:**</sub></small>
  He returned my life; he guided me upon roads of righteousness because of  his name. 
-<small><sub>**KJV:**</sub></small>
-He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
-<small><sub>**BSB:**</sub></small>
-He restores my soul; He guides me in the paths of righteousness for the sake of His name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.23.2|<< Psalm 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.23.4|Psalm 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

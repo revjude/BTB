@@ -1,4 +1,4 @@
-**Ecclesiastes 7:2** 
+**Ecclesiastes 7:2**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] better to go to the house of mourning, than to go to the house of feasting: for that [is] the end of all men; and the living will lay [it] to his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is better to enter a house of mourning than a house of feasting, since death 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.1|<< Ecclesiastes 7:1]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.3|Ecclesiastes 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֞וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to go  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H1980G\|לֶ֣כֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Le.khet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

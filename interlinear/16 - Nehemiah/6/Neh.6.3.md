@@ -1,4 +1,4 @@
-**Nehemiah 6:3** 
+**Nehemiah 6:3**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I sent messengers unto them, saying, I [am] doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I sent messengers to them, saying, “I am doing a great work and cannot come
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.2|<< Nehemiah 6:2]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.4|Nehemiah 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I sent !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7971G\|אֶשְׁלְחָ֨]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.le.Cha<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֤ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

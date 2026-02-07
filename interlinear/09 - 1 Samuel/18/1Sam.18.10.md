@@ -1,4 +1,4 @@
-**1 Samuel 18:10** 
+**1 Samuel 18:10**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the morrow, that the evil spirit from God came upon Saul, and he prophesied in the midst of the house: and David played with his hand, as at other times: and [there was] a javelin in Saul’s hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The next day a spirit of distress sent from God came upon Saul, and he prophesie
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.9|<< 1 Samuel 18:9]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.11|1 Samuel 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] next day  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4283\|מָּחֳרָ֗ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mo.cho.Rat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 18:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:23**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he heard this, he was very sorrowful: for he was very rich.
 <small><sub>**BSB:**</sub></small>
 But when the ruler heard this, he became very sad, because he was extremely wealthy.
 <small><sub>**Literal:**</sub></small>
 <the> And having heard these things very sorrowful he became; he was for rich extremely.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.22|<< Luke 18:22]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.24|Luke 18:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

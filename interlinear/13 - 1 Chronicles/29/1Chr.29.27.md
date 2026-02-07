@@ -1,4 +1,4 @@
-**1 Chronicles 29:27** 
+**1 Chronicles 29:27**<big><big>[[1Chr.29.26 David’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the time that he reigned over Israel [was] forty years; seven years reigned he in Hebron, and thirty and three [years] reigned he in Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The length of David’s reign over Israel was forty years—seven years in Hebro
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.26|<< 1 Chronicles 29:26]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.28|1 Chronicles 29:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the days  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

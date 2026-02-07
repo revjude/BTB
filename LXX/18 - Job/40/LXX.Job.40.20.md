@@ -1,10 +1,7 @@
 **LXX Job 40:20** 
 <small><sub>**LXX:**</sub></small>
 And coming upon a chiseled mountain, he produces a cause for joy to \[the\] four-footed in the infernal region. 
-<small><sub>**KJV:**</sub></small>
-Surely the mountains bring him forth food, where all the beasts of the field play.
-<small><sub>**BSB:**</sub></small>
-The hills yield him their produce, while all the beasts of the field play nearby.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.40.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.19|<< Job 40:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.21|Job 40:21 >>]]</td></tr></table>
 
 | Translation | Greek |

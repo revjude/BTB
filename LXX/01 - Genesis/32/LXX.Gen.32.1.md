@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob went forth into  his own way. And having looked up, he saw \[the\] camp of God encamped. And the angels of God met with him. 
-<small><sub>**KJV:**</sub></small>
-And Jacob went on his way, and the angels of God met him.
-<small><sub>**BSB:**</sub></small>
-Jacob also went on his way, and the angels of God met him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.55|<< Genesis 31:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.2|Genesis 32:2 >>]]</td></tr></table>
 
 | Translation | Greek |

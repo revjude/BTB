@@ -1,4 +1,4 @@
-**Genesis 44:13** 
+**Genesis 44:13**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they rent their clothes, and laded every man his ass, and returned to the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they all tore their clothes, loaded their donkeys, and returned to the city
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.12|<< Genesis 44:12]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.14|Genesis 44:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they tore  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7167\|יִּקְרְע֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | clothes their  |**<big>&#8207;[[H8071\|שִׂמְלֹתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| sim.lo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

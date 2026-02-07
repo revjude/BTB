@@ -1,10 +1,7 @@
 **LXX Numbers 10:35** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the lifting away the ark, that Moses said, Awaken! O <span class="smallcaps">lord</span>, and your enemies be dispersed! and let flee all the ones detesting you! 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee.
-<small><sub>**BSB:**</sub></small>
-Whenever the ark set out, Moses would say, “Rise up, O LORD! May Your enemies be scattered; may those who hate You flee before You.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.34|<< Numbers 10:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.36|Numbers 10:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:20** 
 <small><sub>**LXX:**</sub></small>
 and of misery. Conflict is being called upon, for all the land is in misery suddenly. The tent languishes; my hide coverings have been pulled apart. 
-<small><sub>**KJV:**</sub></small>
-Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, [and] my curtains in a moment.
-<small><sub>**BSB:**</sub></small>
-Disaster after disaster is proclaimed, for the whole land is laid waste. My tents are destroyed in an instant, my curtains in a moment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.19|<< Jeremiah 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.21|Jeremiah 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

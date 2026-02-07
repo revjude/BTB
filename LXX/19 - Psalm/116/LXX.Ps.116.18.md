@@ -1,10 +1,7 @@
 **LXX Psalm 116:18** 
 <small><sub>**LXX:**</sub></small>
  I will render my vows to the <span class="smallcaps">lord</span> before all  his people, 
-<small><sub>**KJV:**</sub></small>
-I will pay my vows unto the LORD now in the presence of all his people,
-<small><sub>**BSB:**</sub></small>
-I will fulfill my vows to the LORD in the presence of all His people,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.116.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.17|<< Psalm 116:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.19|Psalm 116:19 >>]]</td></tr></table>
 
 | Translation | Greek |

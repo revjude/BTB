@@ -1,12 +1,12 @@
-**Ephesians 5:29
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:29**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
 <small><sub>**BSB:**</sub></small>
 Indeed, no one ever hated his own body, but he nourishes and cherishes it, just as Christ does the church.
 <small><sub>**Literal:**</sub></small>
 no [one] for at any time the his own flesh hated, but he nourishes and he cherishes it even as also [does] <the> Christ the church,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.28|<< Ephesians 5:28]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.30|Ephesians 5:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | no [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

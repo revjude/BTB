@@ -1,4 +1,4 @@
-**Isaiah 9:8** (9:7)
+**Isaiah 9:8**<big><big>[[Isa.9.8 Judgment against Israel’s Pride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord sent a word into Jacob, and it hath lighted upon Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Lord has sent a message against Jacob, and it has fallen upon Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.7|<< Isaiah 9:7]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.9|Isaiah 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a word  |**<big>&#8207;[[H1697G\|דָּבָ֛ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has sent  |**<big>&#8207;[[H7971G\|שָׁלַ֥ח]]&#8207; </big>**| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

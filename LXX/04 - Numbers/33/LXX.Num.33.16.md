@@ -1,10 +1,7 @@
 **LXX Numbers 33:16** 
 <small><sub>**LXX:**</sub></small>
 And departing from the wilderness of Sinai, and they camped at Tombs of the Desire. 
-<small><sub>**KJV:**</sub></small>
-And they removed from the desert of Sinai, and pitched at Kibrothhattaavah.
-<small><sub>**BSB:**</sub></small>
-They set out from the Wilderness of Sinai and camped at Kibroth-hattaavah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.15|<< Numbers 33:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.17|Numbers 33:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:20** 
 <small><sub>**LXX:**</sub></small>
 And the rage \[of the\] <span class="smallcaps">lord</span> shall not turn away until whenever he should execute it, and until whenever he should establish it according to \[the\] enterprise of his heart. At \[the\] latter end of the days they shall comprehend them. 
-<small><sub>**KJV:**</sub></small>
-The anger of the LORD shall not return, until he have executed, and till he have performed the thoughts of his heart: in the latter days ye shall consider it perfectly.
-<small><sub>**BSB:**</sub></small>
-The anger of the LORD will not turn back until He has fully accomplished the purposes of His heart. In the days to come you will understand this clearly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.19|<< Jeremiah 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.21|Jeremiah 23:21 >>]]</td></tr></table>
 
 | Translation | Greek |

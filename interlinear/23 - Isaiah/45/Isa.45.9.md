@@ -1,4 +1,4 @@
-**Isaiah 45:9** 
+**Isaiah 45:9**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto him that striveth with his Maker! [Let] the potsherd [strive] with the potsherds of the earth. Shall the clay say to him that fashioneth it, What makest thou? or thy work, He hath no hands?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Woe to him who quarrels with his Maker—one clay pot among many. Does the clay 
 > $\quad$ referenced by: [[Rom.9.20|Rom 9:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֗וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] contends  |**<big>&#8207;[[H7378\|רָ֚ב]]&#8207; </big>**| rav<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 16:11** 
+**Genesis 16:11**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD said unto her, Behold, thou [art] with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The angel of the LORD proceeded: “Behold, you have conceived and will bear a s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.10|<< Genesis 16:10]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.12|Genesis 16:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> her  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

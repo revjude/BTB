@@ -1,10 +1,7 @@
 **LXX Psalm 48:3** 
 <small><sub>**LXX:**</sub></small>
  God is known in her palaces, whenever he should assist her. 
-<small><sub>**KJV:**</sub></small>
-God is known in her palaces for a refuge.
-<small><sub>**BSB:**</sub></small>
-God is in her citadels; He has shown Himself to be a fortress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.48.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.2|<< Psalm 48:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.4|Psalm 48:4 >>]]</td></tr></table>
 
 | Translation | Greek |

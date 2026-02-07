@@ -1,10 +1,7 @@
 **LXX Psalm 22:30** 
 <small><sub>**LXX:**</sub></small>
 And  my seed shall serve to him. \[The\] generation coming shall be announced to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-A seed shall serve him; it shall be accounted to the Lord for a generation.
-<small><sub>**BSB:**</sub></small>
-Posterity will serve Him; they will declare the Lord to a new generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.29|<< Psalm 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.31|Psalm 22:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:30** is...

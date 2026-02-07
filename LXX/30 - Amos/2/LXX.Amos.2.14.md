@@ -1,10 +1,7 @@
 **LXX Amos 2:14** 
 <small><sub>**LXX:**</sub></small>
 And flight into exile shall be destroyed from \[the\] runner; and the strong in no way should hold  his strength; and the warrior in no way should deliver  his soul; 
-<small><sub>**KJV:**</sub></small>
-Therefore the flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver himself:
-<small><sub>**BSB:**</sub></small>
-Escape will fail the swift, the strong will not prevail by his strength, and the mighty will not save his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.13|<< Amos 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.15|Amos 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

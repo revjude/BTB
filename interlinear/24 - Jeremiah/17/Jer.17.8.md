@@ -1,4 +1,4 @@
-**Jeremiah 17:8** 
+**Jeremiah 17:8**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he shall be as a tree planted by the waters, and [that] spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is like a tree planted by the waters that sends out its roots toward the stre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.7|<< Jeremiah 17:7]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.9|Jeremiah 17:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֞ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a tree  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6086H\|עֵ֣ץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

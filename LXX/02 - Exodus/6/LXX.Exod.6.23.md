@@ -1,10 +1,7 @@
 **LXX Exodus 6:23** 
 <small><sub>**LXX:**</sub></small>
 And Aaron took  Elisheba daughter of Amminadab sister of Naahshon to himself as wife. And she bore to him  also Nadab, and Abihu, and Eleazar, and Ithamar. 
-<small><sub>**KJV:**</sub></small>
-And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar.
-<small><sub>**BSB:**</sub></small>
-And Aaron married Elisheba, the daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.22|<< Exodus 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.24|Exodus 6:24 >>]]</td></tr></table>
 
 | Translation | Greek |

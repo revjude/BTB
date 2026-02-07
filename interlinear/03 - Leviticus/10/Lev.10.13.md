@@ -1,4 +1,4 @@
-**Leviticus 10:13** 
+**Leviticus 10:13**<big><big>[[Lev.10.8 Restrictions for Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall eat it in the holy place, because it [is] thy due, and thy sons’ due, of the sacrifices of the LORD made by fire: for so I am commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall eat it in a holy place, because it is your share and your sons’ shar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.12|<< Leviticus 10:12]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.14|Leviticus 10:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will eat  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|אֲכַלְתֶּ֤ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.khal.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

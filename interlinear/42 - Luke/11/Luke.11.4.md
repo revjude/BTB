@@ -1,12 +1,12 @@
-**Luke 11:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:4**<big><big>[[Luke.11.1 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And forgive us our sins; for we also forgive every one that is indebted to us. And lead us not into temptation; but deliver us from evil.
 <small><sub>**BSB:**</sub></small>
 And forgive us our sins, for we also forgive everyone who sins against us. And lead us not into temptation.’”
 <small><sub>**Literal:**</sub></small>
 And do forgive us the sins of us; also for ourselves we forgive to everyone indebted to us; and may you not lead us into temptation but do deliver us from <the> evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.3|<< Luke 11:3]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.5|Luke 11:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do forgive |**<big>[[G0863H\|ἄφες]]</big>**  |aphes <small><sup>[[V-2AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

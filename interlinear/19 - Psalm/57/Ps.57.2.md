@@ -1,4 +1,4 @@
-**Psalms 57:2** (57:3)
+**Psalms 57:2**<big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will cry unto God most high; unto God that performeth [all things] for me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I cry out to God Most High, to God who fulfills His purpose for me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.1|<< Psalms 57:1]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.3|Psalms 57:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I call out  |**<big>&#8207;[[H7121G\|אֶ֭קְרָא]]&#8207; </big>**| 'Ek.ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to God  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430G\|אלֹהִ֣ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

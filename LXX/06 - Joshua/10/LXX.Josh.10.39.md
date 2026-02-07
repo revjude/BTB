@@ -1,10 +1,7 @@
 **LXX Joshua 10:39** 
 <small><sub>**LXX:**</sub></small>
 And and they took it, and  its king, and all  her towns; and they struck it by \[the\] mouth of \[the\] sword, and they utterly destroyed it, and every one breathing in it, and they did not leave behind one surviving. In which manner they did  to Hebron, so they did  to Dabir, and \[to\] its king; just as he did  to Libna and  its king. 
-<small><sub>**KJV:**</sub></small>
-And he took it, and the king thereof, and all the cities thereof; and they smote them with the edge of the sword, and utterly destroyed all the souls that [were] therein; he left none remaining: as he had done to Hebron, so he did to Debir, and to the king thereof; as he had done also to Libnah, and to her king.
-<small><sub>**BSB:**</sub></small>
-And they captured Debir, its king, and all its villages. They put them to the sword and devoted to destruction everyone in the city, leaving no survivors. Joshua did to Debir and its king as he had done to Hebron and as he had done to Libnah and its king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.38|<< Joshua 10:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.40|Joshua 10:40 >>]]</td></tr></table>
 
 | Translation | Greek |

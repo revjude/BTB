@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the king took the two sons of Rizpah daughter of Aiah, whom she bore \[to\] Saul --  Armoni and  Mephibosheth, and the five sons  of Michal daughter of Saul, whom she bore  to Adriel son of Barzillai the Meholahite. 
-<small><sub>**KJV:**</sub></small>
-But the king took the two sons of Rizpah the daughter of Aiah, whom she bare unto Saul, Armoni and Mephibosheth; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite:
-<small><sub>**BSB:**</sub></small>
-But the king took Armoni and Mephibosheth, the two sons whom Rizpah daughter of Aiah had borne to Saul, as well as the five sons whom Merab daughter of Saul had borne to Adriel son of Barzillai the Meholathite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.7|<< 2 Samuel 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.9|2 Samuel 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

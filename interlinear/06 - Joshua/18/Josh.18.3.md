@@ -1,4 +1,4 @@
-**Joshua 18:3** 
+**Joshua 18:3**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto the children of Israel, How long [are] ye slack to go to possess the land, which the LORD God of your fathers hath given you?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Joshua said to the Israelites, “How long will you put off entering and poss
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.2|<< Joshua 18:2]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.4|Joshua 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֖עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

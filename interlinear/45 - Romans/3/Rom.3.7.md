@@ -1,12 +1,12 @@
-**Romans 3:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:7**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if the truth of God hath more abounded through my lie unto his glory; why yet am I also judged as a sinner?
 <small><sub>**BSB:**</sub></small>
 However, if my falsehood accentuates God’s truthfulness, to the increase of His glory, why am I still condemned as a sinner?
 <small><sub>**Literal:**</sub></small>
 If however the truth <the> of God in <the> my lie abounded to the glory of Him, why still also I myself as a sinner am judged?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.6|<< Romans 3:6]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.8|Romans 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |

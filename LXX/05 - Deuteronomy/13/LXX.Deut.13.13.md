@@ -1,10 +1,7 @@
 **LXX Deuteronomy 13:13** 
 <small><sub>**LXX:**</sub></small>
 Men lawbreakers came forth from you, and left all the ones dwelling in their city, saying, We should go and serve other gods, which you did not know; 
-<small><sub>**KJV:**</sub></small>
-[Certain] men, the children of Belial, are gone out from among you, and have withdrawn the inhabitants of their city, saying, Let us go and serve other gods, which ye have not known;
-<small><sub>**BSB:**</sub></small>
-that wicked men have arisen from among you and have led the people of their city astray, saying, “Let us go and serve other gods” (which you have not known),<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.12|<< Deuteronomy 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.14|Deuteronomy 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

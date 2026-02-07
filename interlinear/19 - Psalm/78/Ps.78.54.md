@@ -1,4 +1,4 @@
-**Psalms 78:54** 
+**Psalms 78:54**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought them to the border of his sanctuary, [even to] this mountain, [which] his right hand had purchased.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He brought them to His holy land, to the mountain His right hand had acquired.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.53|<< Psalms 78:53]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.55|Psalms 78:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought them  |**<big>&#8207;[[H9001\|וַ֭]]&#8207;&#8207;[[H0935P\|יְבִיאֵ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> y.vi.'e<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

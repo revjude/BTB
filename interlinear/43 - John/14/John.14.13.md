@@ -1,12 +1,12 @@
-**John 14:13
-**<small><sub>**KJV:**</sub></small>
+**John 14:13**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.
 <small><sub>**BSB:**</sub></small>
 And I will do whatever you ask in My name, so that the Father may be glorified in the Son.
 <small><sub>**Literal:**</sub></small>
 And which one maybe you may ask in the name of Me, this will I do, so that may be glorified the Father in the Son.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.12|<< John 14:12]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.14|John 14:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|ὅ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH»1+Treg+TR+Byz">NK(o)</abbr> | |

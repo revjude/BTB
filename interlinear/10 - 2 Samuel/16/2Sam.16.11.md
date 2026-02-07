@@ -1,4 +1,4 @@
-**2 Samuel 16:11** 
+**2 Samuel 16:11**<big><big>[[2Sam.16.5 Shimei Curses David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now [may this] Benjamite [do it]? let him alone, and let him curse; for the LORD hath bidden him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then David said to Abishai and to all his servants, “Behold, my own son, my ow
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.10|<< 2 Samuel 16:10]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.12|2 Samuel 16:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֤ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 51:50** 
+**Jeremiah 51:50**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye that have escaped the sword, go away, stand not still: remember the LORD afar off, and let Jerusalem come into your mind.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You who have escaped the sword, depart and do not linger! Remember the LORD from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.49|<< Jeremiah 51:49]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.51|Jeremiah 51:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O escapees  |**<big>&#8207;[[H6412B\|פְּלֵטִ֣ים]]&#8207; </big>**| pe.le.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] sword  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2719\|חֶ֔רֶב]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

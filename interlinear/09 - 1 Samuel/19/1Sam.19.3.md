@@ -1,4 +1,4 @@
-**1 Samuel 19:3** 
+**1 Samuel 19:3**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will go out and stand beside my father in the field where thou [art], and I will commune with my father of thee; and what I see, that I will tell thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will go out and stand beside my father in the field where you are, so I can as
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.2|<< 1 Samuel 19:2]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.4|1 Samuel 19:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֨י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will go out  |**<big>&#8207;[[H3318G\|אֵצֵ֜א]]&#8207; </big>**| 'e.Tze'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

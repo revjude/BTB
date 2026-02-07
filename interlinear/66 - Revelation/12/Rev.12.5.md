@@ -1,5 +1,5 @@
-**Revelation 12:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:5**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and [to] his throne.
 <small><sub>**BSB:**</sub></small>
 And she gave birth to a son, a male child, who will rule all the nations with an iron scepter. And her child was caught up to God and to His throne.
@@ -11,7 +11,7 @@ And she brought forth a son male, who is about to rule all the nations with a ro
 > $\quad$ alluding to: [[LXX.Isa.66.7|Isa 66:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | she brought forth |**<big>[[G5088\|ἔτεκεν]]</big>**  |eteken <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

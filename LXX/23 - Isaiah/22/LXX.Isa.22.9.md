@@ -1,10 +1,7 @@
 **LXX Isaiah 22:9** 
 <small><sub>**LXX:**</sub></small>
 And they shall uncover the hidden \[places\] of the houses of the Akra of David. And they saw that there were many more, and they turned the water of the ancient pool into the city; 
-<small><sub>**KJV:**</sub></small>
-Ye have seen also the breaches of the city of David, that they are many: and ye gathered together the waters of the lower pool.
-<small><sub>**BSB:**</sub></small>
-You saw that there were many breaches in the walls of the City of David. You collected water from the lower pool.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.8|<< Isaiah 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.10|Isaiah 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

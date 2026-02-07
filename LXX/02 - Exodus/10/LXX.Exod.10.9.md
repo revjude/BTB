@@ -1,10 +1,7 @@
 **LXX Exodus 10:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses says, With the young and the older we will go; with our sons, and daughters, and sheep, and our oxen; for it is the holiday of \[the\] <span class="smallcaps">lord</span>  our God. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we [must hold] a feast unto the LORD.
-<small><sub>**BSB:**</sub></small>
-“We will go with our young and old,” Moses replied. “We will go with our sons and daughters, and with our flocks and herds, for we must hold a feast to the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.8|<< Exodus 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.10|Exodus 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

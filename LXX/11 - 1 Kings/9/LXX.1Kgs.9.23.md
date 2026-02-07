@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] rulers were (the ones having knowledge over the works of Solomon) five hundred fifty dominating among the people  doing  work. 
-<small><sub>**KJV:**</sub></small>
-These [were] the chief of the officers that [were] over Solomon’s work, five hundred and fifty, which bare rule over the people that wrought in the work.
-<small><sub>**BSB:**</sub></small>
-They were also the chief officers over Solomon’s projects: 550 supervisors over the people who did the work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.22|<< 1 Kings 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.24|1 Kings 9:24 >>]]</td></tr></table>
 
 | Translation | Greek |

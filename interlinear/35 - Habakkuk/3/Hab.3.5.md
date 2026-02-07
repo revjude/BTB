@@ -1,4 +1,4 @@
-**Habakkuk 3:5** 
+**Habakkuk 3:5**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before him went the pestilence, and burning coals went forth at his feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Plague went before Him, and fever followed in His steps.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.4|<< Habakkuk 3:4]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.6|Habakkuk 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> before him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it goes  |**<big>&#8207;[[H1980G\|יֵ֣לֶךְ]]&#8207; </big>**| Ye.lekh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 22:27** 
+**Ezekiel 22:27**<big><big>[[Ezek.22.23 Israel’s Wicked Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her princes in the midst thereof [are] like wolves ravening the prey, to shed blood, [and] to destroy souls, to get dishonest gain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her officials within her are like wolves tearing their prey, shedding blood, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.26|<< Ezekiel 22:26]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.28|Ezekiel 22:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | princes its  |**<big>&#8207;[[H8269\|שָׂרֶ֣י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| sa.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in midst its  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7130G\|קִרְבָּ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> kir.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

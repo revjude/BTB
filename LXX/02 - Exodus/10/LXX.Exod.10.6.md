@@ -1,10 +1,7 @@
 **LXX Exodus 10:6** 
 <small><sub>**LXX:**</sub></small>
 And I will fill your  houses, and the houses  of your attendants, and all the houses in all the land of the Egyptians, which at no time your fathers seen, nor  their forefathers, from which day they were upon the land, until  this day. And turning aside he went forth from Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers’ fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh.
-<small><sub>**BSB:**</sub></small>
-They will fill your houses and the houses of all your officials and every Egyptian—something neither your fathers nor your grandfathers have seen since the day they came into this land.’” Then Moses turned and left Pharaoh’s presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.5|<< Exodus 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.7|Exodus 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

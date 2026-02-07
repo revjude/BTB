@@ -1,12 +1,12 @@
-**Luke 20:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:34**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said unto them, The children of this world marry, and are given in marriage:
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “The sons of this age marry and are given in marriage.
 <small><sub>**Literal:**</sub></small>
 And answering said to them <the> Jesus; The sons of the age this marry and are given in marriage,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.33|<< Luke 20:33]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.35|Luke 20:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

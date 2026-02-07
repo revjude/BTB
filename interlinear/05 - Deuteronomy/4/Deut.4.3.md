@@ -1,4 +1,4 @@
-**Deuteronomy 4:3** 
+**Deuteronomy 4:3**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your eyes have seen what the LORD did because of Baalpeor: for all the men that followed Baalpeor, the LORD thy God hath destroyed them from among you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your eyes have seen what the LORD did at Baal-peor, for the LORD your God destro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.2|<< Deuteronomy 4:2]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.4|Deuteronomy 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | own eyes your  |**<big>&#8207;[[H5869A\|עֵֽינֵי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the [ones which] saw  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7200G\|רֹאֹ֔ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ro.'Ot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

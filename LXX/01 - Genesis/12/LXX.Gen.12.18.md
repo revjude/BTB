@@ -1,10 +1,7 @@
 **LXX Genesis 12:18** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh calling  Abram, said, What \[is\] this you did to me, that you reported not to me that she is your wife? 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh called Abram, and said, What [is] this [that] thou hast done unto me? why didst thou not tell me that she [was] thy wife?
-<small><sub>**BSB:**</sub></small>
-So Pharaoh summoned Abram and asked, “What have you done to me? Why didn’t you tell me she was your wife?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.17|<< Genesis 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.19|Genesis 12:19 >>]]</td></tr></table>
 
 | Translation | Greek |

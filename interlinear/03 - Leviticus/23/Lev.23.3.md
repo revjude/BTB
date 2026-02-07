@@ -1,4 +1,4 @@
-**Leviticus 23:3** 
+**Leviticus 23:3**<big><big>[[Lev.23.1 Feasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days shall work be done: but the seventh day [is] the sabbath of rest, an holy convocation; ye shall do no work [therein]: it [is] the sabbath of the LORD in all your dwellings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For six days work may be done, but the seventh day is a Sabbath of complete rest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.2|<< Leviticus 23:2]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.4|Leviticus 23:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six  |**<big>&#8207;[[H8337\|שֵׁ֣שֶׁת]]&#8207; </big>**| She.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִים֮]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 18:10** 
+**Jeremiah 18:10**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if it does evil in My sight and does not listen to My voice, then I will rel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.9|<< Jeremiah 18:9]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.11|Jeremiah 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשָׂ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the evil  [^2]|**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451H\|רַע֙]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> ra.'ah<small><sup>[[HAamsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

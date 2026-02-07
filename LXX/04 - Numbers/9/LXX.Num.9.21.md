@@ -1,10 +1,7 @@
 **LXX Numbers 9:21** 
 <small><sub>**LXX:**</sub></small>
 And it shall be whenever the cloud should be \[present\] from evening until morning, and the cloud should ascend in the morning, then they shall depart by day or night, 
-<small><sub>**KJV:**</sub></small>
-And [so] it was, when the cloud abode from even unto the morning, and [that] the cloud was taken up in the morning, then they journeyed: whether [it was] by day or by night that the cloud was taken up, they journeyed.
-<small><sub>**BSB:**</sub></small>
-Sometimes the cloud remained only from evening until morning, and when it lifted in the morning, they would set out. Whether it was by day or by night, when the cloud was taken up, they would set out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.20|<< Numbers 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.22|Numbers 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

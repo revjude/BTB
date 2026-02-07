@@ -1,12 +1,12 @@
-**Hebrews 3:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:12**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.
 <small><sub>**BSB:**</sub></small>
 See to it, brothers, that none of you has a wicked heart of unbelief that turns away from the living God.
 <small><sub>**Literal:**</sub></small>
 do take heed, brothers, otherwise there will be in any of you a heart evil of unbelief into <the> falling away from God [the] living;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.11|<< Hebrews 3:11]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.13|Hebrews 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do take heed, |**<big>[[G0991\|Βλέπετε,]]</big>**  |Blepete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers, |**<big>[[G0080\|ἀδελφοί,]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Samuel 9:6** 
+**2 Samuel 9:6**<big><big>[[2Sam.9.1 David and Mephibosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when Mephibosheth son of Jonathan, the son of Saul, came to David, he fell f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.5|<< 2 Samuel 9:5]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.7|2 Samuel 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0935G\|יָּבֹא]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mephibosheth  |**<big>&#8207;[[H4648G\|מְפִיבֹ֨שֶׁת]]&#8207; </big>**| me.fi.Vo.shet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

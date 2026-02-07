@@ -1,5 +1,5 @@
-**John 19:28
-**<small><sub>**KJV:**</sub></small>
+**John 19:28**<big><big>[[John.19.28 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.
 <small><sub>**BSB:**</sub></small>
 After this, knowing that everything had now been accomplished, and to fulfill the Scripture, Jesus said, “I am thirsty.”
@@ -10,7 +10,7 @@ After this knowing <the> Jesus that now all things has been accomplished, so tha
 > $\quad$ alluding to: [[LXX.Ps.69.21|Ps 69:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Galatians 3:22
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:22**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.
 <small><sub>**BSB:**</sub></small>
 But the Scripture pronounces all things confined by sin, so that by faith in Jesus Christ the promise might be given to those who believe.
 <small><sub>**Literal:**</sub></small>
 but imprisoned the Scripture <the> [things] all under sin, so that the promise by faith from Jesus Christ may be given to those believing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.21|<< Galatians 3:21]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.23|Galatians 3:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | imprisoned |**<big>[[G4788\|συνέκλεισεν]]</big>**  |sunekleisen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

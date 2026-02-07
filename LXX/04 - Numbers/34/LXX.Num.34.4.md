@@ -1,10 +1,7 @@
 **LXX Numbers 34:4** 
 <small><sub>**LXX:**</sub></small>
 and the borders shall encircle you from \[the\] south to \[the\] ascending of Akrabbim, and shall go by Ennak. And its outer reaches will be towards \[the\] south -- Kadesh  Barnea. And it shall come forth unto \[the\] property of Addar, and shall go by Azmon. 
-<small><sub>**KJV:**</sub></small>
-And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:
-<small><sub>**BSB:**</sub></small>
-cross south of the Ascent of Akrabbim, continue to Zin, and go south of Kadesh-barnea. Then it will go on to Hazar-addar and proceed to Azmon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.3|<< Numbers 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.5|Numbers 34:5 >>]]</td></tr></table>
 
 | Translation | Greek |

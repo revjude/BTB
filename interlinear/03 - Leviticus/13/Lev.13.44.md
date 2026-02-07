@@ -1,4 +1,4 @@
-**Leviticus 13:44** 
+**Leviticus 13:44**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He is a leprous man, he [is] unclean: the priest shall pronounce him utterly unclean; his plague [is] in his head.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the man is diseased; he is unclean. The priest must pronounce him unclean becaus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.43|<< Leviticus 13:43]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.45|Leviticus 13:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a person  |**<big>&#8207;[[H0376G\|אִישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] has a serious skin disease  |**<big>&#8207;[[H6879\|צָר֥וּעַ]]&#8207; </big>**| tza.Ru.a'<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

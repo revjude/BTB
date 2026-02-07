@@ -1,4 +1,4 @@
-**Jeremiah 23:38** 
+**Jeremiah 23:38**<big><big>[[Jer.23.33 False Prophecies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But since ye say, The burden of the LORD; therefore thus saith the LORD; Because ye say this word, The burden of the LORD, and I have sent unto you, saying, Ye shall not say, The burden of the LORD;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if you claim, ‘This is the burden of the LORD,’ then this is what the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.37|<< Jeremiah 23:37]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.39|Jeremiah 23:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] burden of  |**<big>&#8207;[[H4853B\|מַשָּׂ֣א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

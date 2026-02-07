@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:5** 
 <small><sub>**LXX:**</sub></small>
 They sinned -- \[they are\] not his children; \[they are\] a scoffing -- a crooked generation, and one turning aside. 
-<small><sub>**KJV:**</sub></small>
-They have corrupted themselves, their spot [is] not [the spot] of his children: [they are] a perverse and crooked generation.
-<small><sub>**BSB:**</sub></small>
-His people have acted corruptly toward Him; the blemish on them is not that of His children, but of a perverse and crooked generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.4|<< Deuteronomy 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.6|Deuteronomy 32:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 29:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said, this people approach unto me with  \[their\] mouth, and by  their lips they esteem me,  but their heart is far off at a distance from me; and in vain they worship me, teaching \[the\] precepts and instructions of men. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the Lord said, Forasmuch as this people draw near [me] with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
-<small><sub>**BSB:**</sub></small>
-Therefore the Lord said: “These people draw near to Me with their mouths and honor Me with their lips, but their hearts are far from Me. Their worship of Me is but rules taught by men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.12|<< Isaiah 29:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.14|Isaiah 29:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 29:13** is...

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Saul ascended, and all the people  with him, and they came unto the battle. And behold, every man's broadsword was upon  his neighbor, and an exceedingly great confusion. 
-<small><sub>**KJV:**</sub></small>
-And Saul and all the people that [were] with him assembled themselves, and they came to the battle: and, behold, every man’s sword was against his fellow, [and there was] a very great discomfiture.
-<small><sub>**BSB:**</sub></small>
-Then Saul and all his troops assembled and marched to the battle, and they found the Philistines in total confusion, with each man wielding the sword against his neighbor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.19|<< 1 Samuel 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.21|1 Samuel 14:21 >>]]</td></tr></table>
 
 | Translation | Greek |

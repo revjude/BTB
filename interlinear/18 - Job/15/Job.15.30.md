@@ -1,4 +1,4 @@
-**Job 15:30** 
+**Job 15:30**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will not escape from the darkness; the flame will wither his shoots, and the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.29|<< Job 15:29]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.31|Job 15:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will depart  |**<big>&#8207;[[H5493H\|יָס֨וּר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Sur<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

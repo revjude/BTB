@@ -1,4 +1,4 @@
-**Deuteronomy 27:7** 
+**Deuteronomy 27:7**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt offer peace offerings, and shalt eat there, and rejoice before the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There you are to sacrifice your peace offerings, eating them and rejoicing in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.6|<< Deuteronomy 27:6]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.8|Deuteronomy 27:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will sacrifice  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2076\|זָבַחְתָּ֥]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.vach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peace offerings  |**<big>&#8207;[[H8002\|שְׁלָמִ֖ים]]&#8207; </big>**| she.la.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

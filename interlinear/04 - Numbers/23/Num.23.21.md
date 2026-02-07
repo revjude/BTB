@@ -1,4 +1,4 @@
-**Numbers 23:21** 
+**Numbers 23:21**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the LORD his God [is] with him, and the shout of a king [is] among them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He considers no disaster for Jacob; He sees no trouble for Israel. The LORD thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.20|<< Numbers 23:20]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.22|Numbers 23:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has looked at  |**<big>&#8207;[[H5027\|הִבִּ֥יט]]&#8207; </big>**| hi.Bit<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

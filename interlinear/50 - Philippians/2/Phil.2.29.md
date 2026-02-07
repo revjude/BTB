@@ -1,12 +1,12 @@
-**Philippians 2:29
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:29**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Receive him therefore in the Lord with all gladness; and hold such in reputation:
 <small><sub>**BSB:**</sub></small>
 Welcome him in the Lord with great joy, and honor men like him,
 <small><sub>**Literal:**</sub></small>
 do receive therefore him in [the] Lord with all joy and <the> such in honor do hold;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.28|<< Philippians 2:28]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.30|Philippians 2:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do receive |**<big>[[G4327\|προσδέχεσθε]]</big>**  |prosdechesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

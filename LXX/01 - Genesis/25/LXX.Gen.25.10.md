@@ -1,10 +1,7 @@
 **LXX Genesis 25:10** 
 <small><sub>**LXX:**</sub></small>
 the field and the cave which Abraham acquired from the sons  of Heth. There they entombed Abraham and Sarah  his wife. 
-<small><sub>**KJV:**</sub></small>
-The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.
-<small><sub>**BSB:**</sub></small>
-This was the field that Abraham had bought from the Hittites. Abraham was buried there with his wife Sarah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.9|<< Genesis 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.11|Genesis 25:11 >>]]</td></tr></table>
 
 | Translation | Greek |

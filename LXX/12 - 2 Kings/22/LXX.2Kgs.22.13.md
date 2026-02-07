@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:13** 
 <small><sub>**LXX:**</sub></small>
 Go, seek after the <span class="smallcaps">lord</span> for me! and for all  my people, and for all Judah, concerning the words  of this scroll  being found; for great \[is\] the anger of \[the\] <span class="smallcaps">lord</span>  burning away against us, because our fathers hearkened not \[concerning\] the words  of this scroll,  to do according to all the \[things\] being written concerning us. 
-<small><sub>**KJV:**</sub></small>
-Go ye, inquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great [is] the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.
-<small><sub>**BSB:**</sub></small>
-“Go and inquire of the LORD for me, for the people, and for all Judah concerning the words in this book that has been found. For great is the wrath of the LORD that burns against us because our fathers have not obeyed the words of this book by doing all that is written about us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.12|<< 2 Kings 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.14|2 Kings 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

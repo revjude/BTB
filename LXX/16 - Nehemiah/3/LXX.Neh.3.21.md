@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:21** 
 <small><sub>**LXX:**</sub></small>
 And after him Meramoth repaired, son of Uriah son of Kos a second measured \[section\], from \[the\] door of \[the\] house of Eliashib unto \[the\] completion of \[the\] house of Eliashib. 
-<small><sub>**KJV:**</sub></small>
-After him repaired Meremoth the son of Urijah the son of Koz another piece, from the door of the house of Eliashib even to the end of the house of Eliashib.
-<small><sub>**BSB:**</sub></small>
-Next to him, Meremoth son of Uriah, the son of Hakkoz, repaired another section, from the doorway of the house of Eliashib to the end of the house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.20|<< Nehemiah 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.22|Nehemiah 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

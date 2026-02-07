@@ -1,4 +1,4 @@
-**Psalms 70:5** (70:6)
+**Psalms 70:5**<big><big>[[Ps.70.1 Hurry, O LORD, to Help Me!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I [am] poor and needy: make haste unto me, O God: thou [art] my help and my deliverer; O LORD, make no tarrying.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I am poor and needy; hurry to me, O God. You are my help and my deliverer; O
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.70.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.4|<< Psalms 70:4]]</td><td align="center" style="border:none;">[[Ps.70|Psalms 70]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.1|Psalms 71:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] poor  |**<big>&#8207;[[H6041\|עָנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

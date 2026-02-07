@@ -1,4 +1,4 @@
-**Zechariah 10:5** 
+**Zechariah 10:5**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be as mighty [men], which tread down [their enemies] in the mire of the streets in the battle: and they shall fight, because the LORD [is] with them, and the riders on horses shall be confounded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will be like mighty men in battle, trampling the enemy in the mire of the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.4|<< Zechariah 10:4]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.6|Zechariah 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like warriors  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H1368\|גִבֹּרִ֜ים]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

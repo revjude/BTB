@@ -1,4 +1,4 @@
-**Genesis 18:8** 
+**Genesis 18:8**<big><big>[[Gen.18.1 The Three Visitors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took butter, and milk, and the calf which he had dressed, and set [it] before them; and he stood by them under the tree, and they did eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Abraham brought curds and milk and the calf that had been prepared, and he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.7|<< Genesis 18:7]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.9|Genesis 18:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | curd\<s>  |**<big>&#8207;[[H2529A\|חֶמְאָ֜ה]]&#8207; </big>**| chem.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

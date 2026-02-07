@@ -1,4 +1,4 @@
-**Isaiah 48:7** 
+**Isaiah 48:7**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are created now, and not long ago; you have not heard of them before today.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.6|<< Isaiah 48:6]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.8|Isaiah 48:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֤ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have been created  |**<big>&#8207;[[H1254A\|נִבְרְאוּ֙]]&#8207; </big>**| niv.re.'U<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

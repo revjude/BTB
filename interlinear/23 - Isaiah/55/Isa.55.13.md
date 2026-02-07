@@ -1,4 +1,4 @@
-**Isaiah 55:13** 
+**Isaiah 55:13**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Instead of the thorn shall come up the fir tree, and instead of the brier shall come up the myrtle tree: and it shall be to the LORD for a name, for an everlasting sign [that] shall not be cut off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead of the thornbush, the cypress will grow, and instead of the brier, the m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.12|<< Isaiah 55:12]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.1|Isaiah 56:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in place of  |**<big>&#8207;[[H8478H\|תַּ֤חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the thornbush  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H5285\|נַּעֲצוּץ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.'a.Tzutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

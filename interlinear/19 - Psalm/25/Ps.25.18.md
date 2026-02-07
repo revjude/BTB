@@ -1,4 +1,4 @@
-**Psalms 25:18** 
+**Psalms 25:18**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look upon mine affliction and my pain; and forgive all my sins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Consider my affliction and trouble, and take away all my sins.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.17|<< Psalms 25:17]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.19|Psalms 25:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | consider  |**<big>&#8207;[[H7200H\|רְאֵ֣ה]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | affliction my  |**<big>&#8207;[[H6040\|עָ֭נְיִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'A.ne.y<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

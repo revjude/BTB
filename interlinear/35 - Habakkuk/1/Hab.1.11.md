@@ -1,4 +1,4 @@
-**Habakkuk 1:11** 
+**Habakkuk 1:11**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall [his] mind change, and he shall pass over, and offend, [imputing] this his power unto his god.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they sweep by like the wind and pass through. They are guilty; their own st
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.10|<< Habakkuk 1:10]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.12|Habakkuk 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it swept on  |**<big>&#8207;[[H2498\|חָלַ֥ף]]&#8207; </big>**| cha.Laf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

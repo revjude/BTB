@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:2** 
 <small><sub>**LXX:**</sub></small>
 And he said, \[The\] <span class="smallcaps">lord</span> is come from out of Sinai, and he appeared upon Seir to us. And he hastened from out of mount Paran with myriads of Kadesh -- at his right \[were\] angels with him. 
-<small><sub>**KJV:**</sub></small>
-And he said, The LORD came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand [went] a fiery law for them.
-<small><sub>**BSB:**</sub></small>
-He said: “The LORD came from Sinai and dawned upon us from Seir; He shone forth from Mount Paran and came with myriads of holy ones, with flaming fire at His right hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.1|<< Deuteronomy 33:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.3|Deuteronomy 33:3 >>]]</td></tr></table>
 
 | Translation | Greek |

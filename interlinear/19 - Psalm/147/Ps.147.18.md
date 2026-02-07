@@ -1,4 +1,4 @@
-**Psalms 147:18** 
+**Psalms 147:18**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sendeth out his word, and melteth them: he causeth his wind to blow, [and] the waters flow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sends forth His word and melts them; He unleashes His winds, and the waters f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.17|<< Psalms 147:17]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.19|Psalms 147:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he sends  |**<big>&#8207;[[H7971G\|יִשְׁלַ֣ח]]&#8207; </big>**| yish.Lach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | word his  |**<big>&#8207;[[H1697G\|דְּבָר֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| de.va.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

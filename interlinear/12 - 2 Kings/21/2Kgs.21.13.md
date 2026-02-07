@@ -1,4 +1,4 @@
-**2 Kings 21:13** 
+**2 Kings 21:13**<big><big>[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as [a man] wipeth a dish, wiping [it], and turning [it] upside down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will stretch out over Jerusalem the measuring line used against Samaria and th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.12|<< 2 Kings 21:12]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.14|2 Kings 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will stretch out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5186\|נָטִ֣יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Ti.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

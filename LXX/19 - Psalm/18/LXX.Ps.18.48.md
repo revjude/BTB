@@ -1,10 +1,7 @@
 **LXX Psalm 18:48** 
 <small><sub>**LXX:**</sub></small>
  my rescuer from my enemies prone to anger. You raised me up high from the ones rising up against me; from \[the\] unjust man you shall rescue me. 
-<small><sub>**KJV:**</sub></small>
-He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.
-<small><sub>**BSB:**</sub></small>
-who delivers me from my enemies. You exalt me above my foes; You rescue me from violent men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.47|<< Psalm 18:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.49|Psalm 18:49 >>]]</td></tr></table>
 
 | Translation | Greek |

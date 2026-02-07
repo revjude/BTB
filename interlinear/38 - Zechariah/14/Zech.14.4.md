@@ -1,4 +1,4 @@
-**Zechariah 14:4** 
+**Zechariah 14:4**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his feet shall stand in that day upon the mount of Olives, which [is] before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, [and there shall be] a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that day His feet will stand on the Mount of Olives, east of Jerusalem, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.3|<< Zechariah 14:3]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.5|Zechariah 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will stand  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975G\|עָמְד֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | feet his  |**<big>&#8207;[[H7272\|רַגְלָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| rag.La<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 9:38** 
 <small><sub>**LXX:**</sub></small>
 And Zebul said to him, Where is  your mouth, the one saying, Who is Abimelech, that we will serve him? Is this not the people whom you treated with contempt? Go forth indeed now and wage war with him! 
-<small><sub>**KJV:**</sub></small>
-Then said Zebul unto him, Where [is] now thy mouth, wherewith thou saidst, Who [is] Abimelech, that we should serve him? [is] not this the people that thou hast despised? go out, I pray now, and fight with them.
-<small><sub>**BSB:**</sub></small>
-“Where is your gloating now?” Zebul replied. “You said, ‘Who is Abimelech that we should serve him?’ Are these not the people you ridiculed? Go out now and fight them!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.37|<< Judges 9:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.39|Judges 9:39 >>]]</td></tr></table>
 
 | Translation | Greek |

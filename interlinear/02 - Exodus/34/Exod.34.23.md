@@ -1,4 +1,4 @@
-**Exodus 34:23** 
+**Exodus 34:23**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thrice in the year shall all your men children appear before the Lord GOD, the God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Three times a year all your males are to appear before the Lord GOD, the God of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.22|<< Exodus 34:22]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.24|Exodus 34:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | three  |**<big>&#8207;[[H7969\|שָׁלֹ֥שׁ]]&#8207; </big>**| sha.Losh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | times  |**<big>&#8207;[[H6471\|פְּעָמִ֖ים]]&#8207; </big>**| pe.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

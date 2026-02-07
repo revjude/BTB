@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:4** 
 <small><sub>**LXX:**</sub></small>
 If we should say, We should enter into the city, and the famine \[is\] in the city, then we shall die there. And if we sit here, then we shall die. And now, come, and we shall fall into the camp of Syria. If they should bring us forth alive, then we shall live. And if they should kill us, then we shall die. 
-<small><sub>**KJV:**</sub></small>
-If we say, We will enter into the city, then the famine [is] in the city, and we shall die there: and if we sit still here, we die also. Now therefore come, and let us fall unto the host of the Syrians: if they save us alive, we shall live; and if they kill us, we shall but die.
-<small><sub>**BSB:**</sub></small>
-If we say, ‘Let us go into the city,’ we will die there from the famine in the city; but if we sit here, we will also die. So come now, let us go over to the camp of the Arameans. If they let us live, we will live; if they kill us, we will die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.3|<< 2 Kings 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.5|2 Kings 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

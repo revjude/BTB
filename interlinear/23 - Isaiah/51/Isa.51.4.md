@@ -1,4 +1,4 @@
-**Isaiah 51:4** 
+**Isaiah 51:4**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken unto me, my people; and give ear unto me, O my nation: for a law shall proceed from me, and I will make my judgment to rest for a light of the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pay attention to Me, My people, and listen to Me, My nation; for a law will go o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.3|<< Isaiah 51:3]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.5|Isaiah 51:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pay attention  |**<big>&#8207;[[H7181\|הַקְשִׁ֤יבוּ]]&#8207; </big>**| hak.Shi.vu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

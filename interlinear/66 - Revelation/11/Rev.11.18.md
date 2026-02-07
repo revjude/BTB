@@ -1,5 +1,5 @@
-**Revelation 11:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:18**<big><big>[[Rev.11.15 The Seventh Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the nations were angry, and thy wrath is come, and the time of the dead, that they should be judged, and that thou shouldest give reward unto thy servants the prophets, and to the saints, and them that fear thy name, small and great; and shouldest destroy them which destroy the earth.
 <small><sub>**BSB:**</sub></small>
 The nations were enraged, and Your wrath has come. The time has come to judge the dead and to reward Your servants the prophets, as well as the saints and those who fear Your name, both small and great—and to destroy those who destroy the earth.”
@@ -11,7 +11,7 @@ And the nations were enraged, and came the wrath of You and the time for the dea
 > $\quad$ possibly alluding to: [[LXX.Ps.115.13|Ps 115:13]] ☩ [[LXX.Dan.7.10|Dan 7:10]] ☩ [[LXX.Dan.7.22|Dan 7:22]] ☩ [[LXX.Dan.11.44|Dan 11:44]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

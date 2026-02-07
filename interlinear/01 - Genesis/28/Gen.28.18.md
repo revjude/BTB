@@ -1,4 +1,4 @@
-**Genesis 28:18** 
+**Genesis 28:18**<big><big>[[Gen.28.18 The Stone of Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob rose up early in the morning, and took the stone that he had put [for] his pillows, and set it up [for] a pillar, and poured oil upon the top of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Early the next morning, Jacob took the stone that he had placed under his head, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.17|<< Genesis 28:17]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.19|Genesis 28:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rose early  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7925\|יַּשְׁכֵּ֨ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֜ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

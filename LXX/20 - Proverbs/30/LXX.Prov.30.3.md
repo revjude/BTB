@@ -1,10 +1,7 @@
 **LXX Proverbs 30:3** 
 <small><sub>**LXX:**</sub></small>
  God has taught me wisdom, and I know \[the\] knowledge of \[the\] holies. 
-<small><sub>**KJV:**</sub></small>
-I neither learned wisdom, nor have the knowledge of the holy.
-<small><sub>**BSB:**</sub></small>
-I have not learned wisdom, and I have no knowledge of the Holy One.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.2|<< Proverbs 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.4|Proverbs 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

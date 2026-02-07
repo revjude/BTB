@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:8** 
 <small><sub>**LXX:**</sub></small>
 and tore the crown of state from \[the\] house of David, and gave it to you; and \[yet\] you have not become as  my servant David, who kept  my commandments, and who went after me with all his heart,  to do the upright \[thing\] in my eyes. 
-<small><sub>**KJV:**</sub></small>
-And rent the kingdom away from the house of David, and gave it thee: and [yet] thou hast not been as my servant David, who kept my commandments, and who followed me with all his heart, to do [that] only [which was] right in mine eyes;
-<small><sub>**BSB:**</sub></small>
-I tore the kingdom away from the house of David and gave it to you. But you have not been like My servant David, who kept My commandments and followed Me with all his heart, doing only what was right in My eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.7|<< 1 Kings 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.9|1 Kings 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

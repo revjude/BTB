@@ -1,10 +1,7 @@
 **LXX Genesis 18:23** 
 <small><sub>**LXX:**</sub></small>
 And Abraham approaching, said, You would not destroy together \[the\] just with \[the\] impious, and the just will be as the impious? 
-<small><sub>**KJV:**</sub></small>
-And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?
-<small><sub>**BSB:**</sub></small>
-Abraham stepped forward and said, “Will You really sweep away the righteous with the wicked?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.22|<< Genesis 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.24|Genesis 18:24 >>]]</td></tr></table>
 
 | Translation | Greek |

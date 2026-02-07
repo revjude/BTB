@@ -1,12 +1,12 @@
-**Matthew 10:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:14**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.
 <small><sub>**BSB:**</sub></small>
 And if anyone will not welcome you or heed your words, shake the dust off your feet when you leave that home or town.
 <small><sub>**Literal:**</sub></small>
 And who[ever] maybe unless shall receive you nor shall he hear the words of you, going forth out of the house or of the city that do shake off the dust of the feet of you!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.13|<< Matthew 10:13]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.15|Matthew 10:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

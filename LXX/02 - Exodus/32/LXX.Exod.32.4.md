@@ -1,10 +1,7 @@
 **LXX Exodus 32:4** 
 <small><sub>**LXX:**</sub></small>
 And he took \[them\] from out of  their hands, and he shaped them with the stylus. And he made it a molten calf. And they said, These \[are\]  your gods, O Israel, who hauled you from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And he received [them] at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These [be] thy gods, O Israel, which brought thee up out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-He took the gold from their hands, and with an engraving tool he fashioned it into a molten calf. And they said, “These, O Israel, are your gods, who brought you up out of the land of Egypt!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.3|<< Exodus 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.5|Exodus 32:5 >>]]</td></tr></table>
 
 | Translation | Greek |

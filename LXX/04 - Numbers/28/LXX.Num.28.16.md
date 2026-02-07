@@ -1,10 +1,7 @@
 **LXX Numbers 28:16** 
 <small><sub>**LXX:**</sub></small>
 And in the first month, \[the\] fourteenth day of the month, \[is\] a passover \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And in the fourteenth day of the first month [is] the passover of the LORD.
-<small><sub>**BSB:**</sub></small>
-The fourteenth day of the first month is the LORD’s Passover.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.15|<< Numbers 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.17|Numbers 28:17 >>]]</td></tr></table>
 
 | Translation | Greek |

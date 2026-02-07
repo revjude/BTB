@@ -1,12 +1,12 @@
-**Acts 19:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:16**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.
 <small><sub>**BSB:**</sub></small>
 Then the man with the evil spirit jumped on them and overpowered them all. The attack was so violent that they ran out of the house naked and wounded.
 <small><sub>**Literal:**</sub></small>
 And having leapt the man upon them in whom was the spirit <the> evil, and having overpowered them all he prevailed against them so that naked and wounded fleeing out of the house that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.15|<< Acts 19:15]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.17|Acts 19:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having leapt [^1] |**<big>[[G2177\|ἐφαλόμενος]]</big>**  |ephalomenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

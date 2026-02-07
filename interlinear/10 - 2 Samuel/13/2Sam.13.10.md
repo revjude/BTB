@@ -1,4 +1,4 @@
-**2 Samuel 13:10** 
+**2 Samuel 13:10**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amnon said unto Tamar, Bring the meat into the chamber, that I may eat of thine hand. And Tamar took the cakes which she had made, and brought [them] into the chamber to Amnon her brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Amnon said to Tamar, “Bring the food into the bedroom, so that I may eat 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.9|<< 2 Samuel 13:9]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.11|2 Samuel 13:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amnon  |**<big>&#8207;[[H0550G\|אַמְנ֜וֹן]]&#8207; </big>**| 'am.Non<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

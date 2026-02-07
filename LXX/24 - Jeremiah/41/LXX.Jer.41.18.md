@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:18** 
 <small><sub>**LXX:**</sub></small>
 from \[the\] face of the Chaldeans. For they feared from their face, for Ishmael struck  Gedaliah whom the king of Babylon established in the land. 
-<small><sub>**KJV:**</sub></small>
-Because of the Chaldeans: for they were afraid of them, because Ishmael the son of Nethaniah had slain Gedaliah the son of Ahikam, whom the king of Babylon made governor in the land.
-<small><sub>**BSB:**</sub></small>
-to escape the Chaldeans. For they were afraid of the Chaldeans because Ishmael son of Nethaniah had struck down Gedaliah son of Ahikam, whom the king of Babylon had appointed over the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.17|<< Jeremiah 41:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.1|Jeremiah 42:1 >>]]</td></tr></table>
 
 | Translation | Greek |

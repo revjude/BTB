@@ -1,4 +1,4 @@
-**Proverbs 12:12** 
+**Proverbs 12:12**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked desireth the net of evil [men]: but the root of the righteous yieldeth [fruit].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wicked desire the plunder of evil men, but the root of the righteous flouris
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.11|<< Proverbs 12:11]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.13|Proverbs 12:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he covets  |**<big>&#8207;[[H2530A\|חָמַ֣ד]]&#8207; </big>**| cha.Mad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wicked [person]  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

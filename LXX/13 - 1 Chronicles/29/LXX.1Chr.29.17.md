@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:17** 
 <small><sub>**LXX:**</sub></small>
 And I know, O <span class="smallcaps">lord</span>, that you are the one examining hearts, and loving righteousness. And I in singleness of heart volunteered all these \[things\]. And now,  your people,  being found here, see with gladness, volunteering to you. 
-<small><sub>**KJV:**</sub></small>
-I know also, my God, that thou triest the heart, and hast pleasure in uprightness. As for me, in the uprightness of mine heart I have willingly offered all these things: and now have I seen with joy thy people, which are present here, to offer willingly unto thee.
-<small><sub>**BSB:**</sub></small>
-I know, my God, that You test the heart and delight in uprightness. All these things I have given willingly and with an upright heart, and now I have seen Your people who are present here giving joyfully and willingly to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.16|<< 1 Chronicles 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.18|1 Chronicles 29:18 >>]]</td></tr></table>
 
 | Translation | Greek |

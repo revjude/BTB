@@ -1,10 +1,7 @@
 **LXX Genesis 10:30** 
 <small><sub>**LXX:**</sub></small>
 And their dwelling was from Mesha unto \[the\] coming into Sephar, a mountain of \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.
-<small><sub>**BSB:**</sub></small>
-Their territory extended from Mesha to Sephar, in the eastern hill country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.29|<< Genesis 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.31|Genesis 10:31 >>]]</td></tr></table>
 
 | Translation | Greek |

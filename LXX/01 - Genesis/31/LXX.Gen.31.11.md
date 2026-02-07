@@ -1,10 +1,7 @@
 **LXX Genesis 31:11** 
 <small><sub>**LXX:**</sub></small>
 And the angel of God said to me during sleep, Jacob. And I said, What is it? 
-<small><sub>**KJV:**</sub></small>
-And the angel of God spake unto me in a dream, [saying], Jacob: And I said, Here [am] I.
-<small><sub>**BSB:**</sub></small>
-In that dream the angel of God said to me, ‘Jacob!’ And I replied, ‘Here I am.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.10|<< Genesis 31:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.12|Genesis 31:12 >>]]</td></tr></table>
 
 | Translation | Greek |

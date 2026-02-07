@@ -1,4 +1,4 @@
-**Joshua 8:7** 
+**Joshua 8:7**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall rise up from the ambush, and seize upon the city: for the LORD your God will deliver it into your hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you are to rise from the ambush and seize the city, for the LORD your God will d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.6|<< Joshua 8:6]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.8|Joshua 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will arise  |**<big>&#8207;[[H6965B\|תָּקֻ֙מוּ֙]]&#8207; </big>**| ta.Ku.mu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

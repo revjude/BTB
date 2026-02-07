@@ -1,4 +1,4 @@
-**Joshua 1:6** 
+**Joshua 1:6**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be strong and courageous, for you shall give these people the inheritance of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.5|<< Joshua 1:5]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.7|Joshua 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be strong  |**<big>&#8207;[[H2388G\|חֲזַ֖ק]]&#8207; </big>**| cha.Zak<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and be bold  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0553\|אֱמָ֑ץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Matz<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 10:11** 
+**Exodus 10:11**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Not so: go now ye [that are] men, and serve the LORD; for that ye did desire. And they were driven out from Pharaoh’s presence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No, only the men may go and worship the LORD, since that is what you have been r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.10|<< Exodus 10:10]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.12|Exodus 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

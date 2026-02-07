@@ -1,12 +1,12 @@
-**Luke 1:68
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:68**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [be] the Lord God of Israel; for he hath visited and redeemed his people,
 <small><sub>**BSB:**</sub></small>
 “Blessed be the Lord, the God of Israel, because He has visited and redeemed His people.
 <small><sub>**Literal:**</sub></small>
 Blessed [be] [the] Lord the God <the> of Israel, because He has visited and He has performed redemption [on] the people of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.67|<< Luke 1:67]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.69|Luke 1:69 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [be] |**<big>[[G2128\|εὐλογητὸς]]</big>**  |eulogētos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] Lord |**<big>[[G2962G\|κύριος]]</big>**  |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

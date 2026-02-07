@@ -1,4 +1,4 @@
-**Judges 18:30** 
+**Judges 18:30**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Dan set up the graven image: and Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of Dan until the day of the captivity of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Danites set up idols for themselves, and Jonathan son of Gershom, the son of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.29|<< Judges 18:29]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.31|Judges 18:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|יָּקִ֧ימוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ki.mu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 2:2** 
 <small><sub>**LXX:**</sub></small>
 And the king said to call the enchanters, and the magi, and the administers of potions, and the Chaldeans,  to announce to the king the \[things\] of his dreams. And they came and stood before the king. 
-<small><sub>**KJV:**</sub></small>
-Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.
-<small><sub>**BSB:**</sub></small>
-So the king gave orders to summon the magicians, enchanters, sorcerers, and astrologers to explain his dreams. When they came and stood before the king,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.1|<< Daniel 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.3|Daniel 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

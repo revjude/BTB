@@ -1,10 +1,7 @@
 **LXX Hosea 6:6** 
 <small><sub>**LXX:**</sub></small>
 For mercy I want, and not sacrifice; and full knowledge of God rather than whole burnt-offerings. 
-<small><sub>**KJV:**</sub></small>
-For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.
-<small><sub>**BSB:**</sub></small>
-For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.5|<< Hosea 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.7|Hosea 6:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 6:6** is...

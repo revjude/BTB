@@ -1,10 +1,7 @@
 **LXX Judges 3:25** 
 <small><sub>**LXX:**</sub></small>
 And they remained being ashamed. And behold, there was not  one opening the doors of the upper room. And they took the key, and they opened. And behold,  their master was fallen upon the ground having died. 
-<small><sub>**KJV:**</sub></small>
-And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened [them]: and, behold, their lord [was] fallen down dead on the earth.
-<small><sub>**BSB:**</sub></small>
-So they waited until they became worried and saw that he had still not opened the doors of the upper room. Then they took the key and opened the doors—and there was their lord lying dead on the floor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.24|<< Judges 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.26|Judges 3:26 >>]]</td></tr></table>
 
 | Translation | Greek |

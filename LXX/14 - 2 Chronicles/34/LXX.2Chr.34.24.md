@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:24** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Behold, I bring evils upon  this place, and upon the ones dwelling in it, of all the words  being written in the scroll  being read before the king of Judah. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, [even] all the curses that are written in the book which they have read before the king of Judah:
-<small><sub>**BSB:**</sub></small>
-that this is what the LORD says: I am about to bring calamity on this place and on its people, according to all the curses written in the book that has been read in the presence of the king of Judah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.23|<< 2 Chronicles 34:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.25|2 Chronicles 34:25 >>]]</td></tr></table>
 
 | Translation | Greek |

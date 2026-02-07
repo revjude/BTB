@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:7** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Barzillai the Gileadite you shall have mercy, and they shall be at the eating  of your table, for so they drew near to me in  my fleeing from \[the\] face  of your brother of Absalom. 
-<small><sub>**KJV:**</sub></small>
-But shew kindness unto the sons of Barzillai the Gileadite, and let them be of those that eat at thy table: for so they came to me when I fled because of Absalom thy brother.
-<small><sub>**BSB:**</sub></small>
-But show loving devotion to the sons of Barzillai the Gileadite, and let them be among those who eat at your table, because they stood by me when I fled from your brother Absalom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.6|<< 1 Kings 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.8|1 Kings 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

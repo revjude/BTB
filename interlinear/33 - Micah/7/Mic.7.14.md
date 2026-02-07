@@ -1,4 +1,4 @@
-**Micah 7:14** 
+**Micah 7:14**<big><big>[[Mic.7.14 God’s Compassion on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily [in] the wood, in the midst of Carmel: let them feed [in] Bashan and Gilead, as in the days of old.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shepherd with Your staff Your people, the flock of Your inheritance. They live a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.13|<< Micah 7:13]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.15|Micah 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shepherd  |**<big>&#8207;[[H7462B\|רְעֵ֧ה]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people your  |**<big>&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

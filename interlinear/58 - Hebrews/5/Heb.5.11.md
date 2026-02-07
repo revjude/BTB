@@ -1,12 +1,12 @@
-**Hebrews 5:11
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:11**<big><big>[[Heb.5.11 Milk and Solid Food|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.
 <small><sub>**BSB:**</sub></small>
 We have much to say about this, but it is hard to explain, because you are dull of hearing.
 <small><sub>**Literal:**</sub></small>
 Concerning this [there is] much from us <the> speech and difficult in interpretation to speak, since sluggish you have become in the hearings.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.10|<< Hebrews 5:10]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.12|Hebrews 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

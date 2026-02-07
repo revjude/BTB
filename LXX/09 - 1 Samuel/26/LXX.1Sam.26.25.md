@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:25** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to David, Being blessed \[are\] you, son David, and by performing you shall perform, and in ability you shall be able. And David went forth on  his way, and Saul returned to  his place. 
-<small><sub>**KJV:**</sub></small>
-Then Saul said to David, Blessed [be] thou, my son David: thou shalt both do great [things], and also shalt still prevail. So David went on his way, and Saul returned to his place.
-<small><sub>**BSB:**</sub></small>
-Saul said to him, “May you be blessed, David my son. You will accomplish great things and will surely prevail.” So David went on his way, and Saul returned home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.24|<< 1 Samuel 26:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.1|1 Samuel 27:1 >>]]</td></tr></table>
 
 | Translation | Greek |

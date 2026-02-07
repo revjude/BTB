@@ -1,4 +1,4 @@
-**Psalms 79:2** 
+**Psalms 79:2**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The dead bodies of thy servants have they given [to be] meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have given the corpses of Your servants as food to the birds of the air, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.1|<< Psalms 79:1]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.3|Psalms 79:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have given  |**<big>&#8207;[[H5414G\|נָֽתְנ֡וּ]]&#8207; </big>**| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

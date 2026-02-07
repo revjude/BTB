@@ -1,4 +1,4 @@
-**Joshua 5:1** 
+**Joshua 5:1**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when all the kings of the Amorites, which [were] on the side of Jordan westward, and all the kings of the Canaanites, which [were] by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when all the Amorite kings west of the Jordan and all the Canaanite kings al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.24|<< Joshua 4:24]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.2|Joshua 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H8085G\|שְׁמֹ֣עַ]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

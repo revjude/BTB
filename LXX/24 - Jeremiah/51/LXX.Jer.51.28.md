@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:28** 
 <small><sub>**LXX:**</sub></small>
 Haul up nations against her! the king of the Medes and all the earth;  his leaders, and all  of his commandants. 
-<small><sub>**KJV:**</sub></small>
-Prepare against her the nations with the kings of the Medes, the captains thereof, and all the rulers thereof, and all the land of his dominion.
-<small><sub>**BSB:**</sub></small>
-Prepare the nations for battle against her—the kings of the Medes, their governors and all their officials, and all the lands they rule.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.27|<< Jeremiah 51:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.29|Jeremiah 51:29 >>]]</td></tr></table>
 
 | Translation | Greek |

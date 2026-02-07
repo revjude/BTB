@@ -1,4 +1,4 @@
-**Job 24:23** 
+**Job 24:23**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Though] it be given him [to be] in safety, whereon he resteth; yet his eyes [are] upon their ways.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He gives them a sense of security, but His eyes are on their ways.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.22|<< Job 24:22]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.24|Job 24:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he gives  |**<big>&#8207;[[H5414G\|יִתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yi.ten-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H9005\|ל֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

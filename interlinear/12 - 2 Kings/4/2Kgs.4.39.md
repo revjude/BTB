@@ -1,4 +1,4 @@
-**2 Kings 4:39** 
+**2 Kings 4:39**<big><big>[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred [them] into the pot of pottage: for they knew [them] not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One of them went out to the field to gather herbs, and he found a wild vine from
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.38|<< 2 Kings 4:38]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.40|2 Kings 4:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one [man]  |**<big>&#8207;[[H0259\|אֶחָ֣ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

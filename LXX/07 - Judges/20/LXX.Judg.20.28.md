@@ -1,10 +1,7 @@
 **LXX Judges 20:28** 
 <small><sub>**LXX:**</sub></small>
 And Phinehas \[the\] son of Eleazar, \[the\] son of Aaron stood before it in  those days, saying, Shall I proceed still to go forth for war against \[the\] sons of Benjamin  my brother, or slacken? And \[the\] <span class="smallcaps">lord</span> said, Ascend, and tomorrow I will deliver him into  your hand. 
-<small><sub>**KJV:**</sub></small>
-And Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days,) saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And the LORD said, Go up; for to morrow I will deliver them into thine hand.
-<small><sub>**BSB:**</sub></small>
-and Phinehas son of Eleazar, the son of Aaron, served before it.) The Israelites asked, “Should we again go out to battle against our brothers the Benjamites, or should we stop?” The LORD answered, “Fight, for tomorrow I will deliver them into your hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.27|<< Judges 20:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.29|Judges 20:29 >>]]</td></tr></table>
 
 | Translation | Greek |

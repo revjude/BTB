@@ -1,4 +1,4 @@
-**Ezekiel 21:28** (21:33)
+**Ezekiel 21:28**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, son of man, prophesy and say, Thus saith the Lord GOD concerning the Ammonites, and concerning their reproach; even say thou, The sword, the sword [is] drawn: for the slaughter [it is] furbished, to consume because of the glittering:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now prophesy, son of man, and declare that this is what the Lord GOD says concer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.27|<< Ezekiel 21:27]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.29|Ezekiel 21:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

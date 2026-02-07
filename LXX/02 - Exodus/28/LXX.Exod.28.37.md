@@ -1,10 +1,7 @@
 **LXX Exodus 28:37** 
 <small><sub>**LXX:**</sub></small>
 And you shall place it upon blue being twined; and it will be upon the mitre -- in front of the mitre it shall be. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put it on a blue lace, that it may be upon the mitre; upon the forefront of the mitre it shall be.
-<small><sub>**BSB:**</sub></small>
-Fasten to it a blue cord to mount it on the turban; it shall be on the front of the turban.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.36|<< Exodus 28:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.38|Exodus 28:38 >>]]</td></tr></table>
 
 | Translation | Greek |

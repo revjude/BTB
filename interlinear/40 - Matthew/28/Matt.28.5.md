@@ -1,12 +1,12 @@
-**Matthew 28:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:5**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.
 <small><sub>**BSB:**</sub></small>
 But the angel said to the women, “Do not be afraid, for I know that you are looking for Jesus, who was crucified.
 <small><sub>**Literal:**</sub></small>
 Answering now the angel said to the women; Not do fear you yourselves; I know for that Jesus the [One] crucified you seek.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.4|<< Matthew 28:4]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.6|Matthew 28:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

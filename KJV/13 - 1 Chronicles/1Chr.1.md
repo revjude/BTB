@@ -1,6 +1,6 @@
 (KJV) **1 Chronicles 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25|<< 2 Kings 25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2|1 Chronicles 2 >>]]</td></tr></table>
 
-***From Adam to Abraham***&emsp;<small><sup>\[ [[Gen.5|Genesis 5:1–32]] <big>†</big> [[Gen.10|Genesis 10:1–32]] <big>†</big> [[Gen.11|Genesis 11:10–26]] ]</sup></small> ^bsb978
+<big><big>[[1Chr.1.1 From Adam to Abraham|⥃]]</big></big>***From Adam to Abraham***&emsp;<small><sup>\[ [[Gen.5|Genesis 5:1–32]] <big>†</big> [[Gen.10|Genesis 10:1–32]] <big>†</big> [[Gen.11|Genesis 11:10–26]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.1|1]]**<span class="endversemarker">]</span> Adam, Sheth<small><small>[^2]</small></small>, Enosh<small><small>[^3]</small></small>, <span class="startversemarker">[</span>**[[1Chr.1.2|2]]**<span class="endversemarker">]</span> Kenan<small><small>[^4]</small></small>, Mahalaleel<small><small>[^5]</small></small>, Jered<small><small>[^6]</small></small>, <span class="startversemarker">[</span>**[[1Chr.1.3|3]]**<span class="endversemarker">]</span> Henoch<small><small>[^7]</small></small>, Methuselah<small><small>[^8]</small></small>, Lamech<small><small>[^9]</small></small>, <span class="startversemarker">[</span>**[[1Chr.1.4|4]]**<span class="endversemarker">]</span> Noah<small><small>[^10]</small></small>, Shem<small><small>[^11]</small></small>, Ham, and Japheth. 
 
@@ -12,7 +12,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.17|17]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.24|24]]**<span class="endversemarker">]</span> [¶]Shem<small><small>[^45]</small></small>, Arphaxad, Shelah<small><small>[^46]</small></small>, <span class="startversemarker">[</span>**[[1Chr.1.25|25]]**<span class="endversemarker">]</span> Eber<small><small>[^47]</small></small>, Peleg<small><small>[^48]</small></small>, Reu<small><small>[^49]</small></small>, <span class="startversemarker">[</span>**[[1Chr.1.26|26]]**<span class="endversemarker">]</span> Serug<small><small>[^50]</small></small>, Nahor<small><small>[^51]</small></small>, Terah<small><small>[^52]</small></small>, <span class="startversemarker">[</span>**[[1Chr.1.27|27]]**<span class="endversemarker">]</span> Abram<small><small>[^53]</small></small>; the same \[is\] Abraham.
 
-***The Descendants of Abraham***&emsp;<small><sup>\[ [[Gen.25|Genesis 25:12–18]] ]</sup></small> ^bsb979
+<big><big>[[1Chr.1.28 The Descendants of Abraham|⥃]]</big></big>***The Descendants of Abraham***&emsp;<small><sup>\[ [[Gen.25|Genesis 25:12–18]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[1Chr.1.28|28]]**<span class="endversemarker">]</span> The sons of Abraham; Isaac<small><small>[^54]</small></small>, and Ishmael<small><small>[^55]</small></small>. 
 
@@ -20,17 +20,17 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.29|29]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.32|32]]**<span class="endversemarker">]</span> [¶]Now the sons<small><small>[^62]</small></small> of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, and Medan, and Midian<small><small>[^63]</small></small>, and Ishbak, and Shuah. And the sons of Jokshan; Sheba<small><small>[^64]</small></small>, and Dedan<small><small>[^65]</small></small>.<small><small>[^66]</small></small> <span class="startversemarker">[</span>**[[1Chr.1.33|33]]**<span class="endversemarker">]</span> And the sons of Midian; Ephah<small><small>[^67]</small></small>, and Epher, and Henoch, and Abida, and Eldaah. All these \[are\] the sons of Keturah. <span class="startversemarker">[</span>**[[1Chr.1.34|34]]**<span class="endversemarker">]</span> And Abraham<small><small>[^68]</small></small> begat Isaac. The sons of Isaac<small><small>[^69]</small></small>; Esau and Israel<small><small>[^70]</small></small>.
 
-***The Descendants of Esau***&emsp;<small><sup>\[ [[Gen.36|Genesis 36:1–19]] ]</sup></small> ^bsb980
+<big><big>[[1Chr.1.35 The Descendants of Esau|⥃]]</big></big>***The Descendants of Esau***&emsp;<small><sup>\[ [[Gen.36|Genesis 36:1–19]] ]</sup></small>
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.1.35|35]]**<span class="endversemarker">]</span> [¶]The sons of Esau<small><small>[^71]</small></small>; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah. <span class="startversemarker">[</span>**[[1Chr.1.36|36]]**<span class="endversemarker">]</span> The sons of Eliphaz; Teman<small><small>[^72]</small></small>, and Omar<small><small>[^73]</small></small>, Zephi<small><small>[^74]</small></small>, and Gatam, Kenaz, and Timna, and Amalek. <span class="startversemarker">[</span>**[[1Chr.1.37|37]]**<span class="endversemarker">]</span> The sons of Reuel<small><small>[^75]</small></small>; Nahath, Zerah, Shammah, and Mizzah.
 
-***The Descendants of Seir***&emsp;<small><sup>\[ [[Gen.36|Genesis 36:20–30]] ]</sup></small> ^bsb981
+<big><big>[[1Chr.1.38 The Descendants of Seir|⥃]]</big></big>***The Descendants of Seir***&emsp;<small><sup>\[ [[Gen.36|Genesis 36:20–30]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[1Chr.1.38|38]]**<span class="endversemarker">]</span> And the sons of Seir<small><small>[^76]</small></small>; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer<small><small>[^77]</small></small>, and Dishan. <span class="startversemarker">[</span>**[[1Chr.1.39|39]]**<span class="endversemarker">]</span> And the sons of Lotan; Hori<small><small>[^78]</small></small>, and Homam<small><small>[^79]</small></small>: and Timna \[was\] Lotan’s sister. <span class="startversemarker">[</span>**[[1Chr.1.40|40]]**<span class="endversemarker">]</span> The sons of Shobal; Alian<small><small>[^80]</small></small>, and Manahath, and Ebal, Shephi<small><small>[^81]</small></small>, and Onam. And the sons of Zibeon; Aiah<small><small>[^82]</small></small>, and Anah. <span class="startversemarker">[</span>**[[1Chr.1.41|41]]**<span class="endversemarker">]</span> The sons<small><small>[^83]</small></small> of Anah; Dishon<small><small>[^84]</small></small>. And the sons of Dishon; Amram<small><small>[^85]</small></small>, and Eshban, and Ithran, and Cheran. <span class="startversemarker">[</span>**[[1Chr.1.42|42]]**<span class="endversemarker">]</span> The sons of Ezer; Bilhan, and Zavan<small><small>[^86]</small></small>, \[and\] Jakan<small><small>[^87]</small></small>. The sons of Dishan; Uz, and Aran.
 
-***The Kings of Edom***&emsp;<small><sup>\[ [[Gen.36|Genesis 36:31–43]] ]</sup></small> ^bsb982
+<big><big>[[1Chr.1.43 The Kings of Edom|⥃]]</big></big>***The Kings of Edom***&emsp;<small><sup>\[ [[Gen.36|Genesis 36:31–43]] ]</sup></small>
 
  
 

@@ -1,4 +1,4 @@
-**2 Chronicles 26:6** 
+**2 Chronicles 26:6**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Uzziah went out to wage war against the Philistines, and he tore down the walls 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.5|<< 2 Chronicles 26:5]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.7|2 Chronicles 26:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he fought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3898A\|יִּלָּ֣חֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.La.chem<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

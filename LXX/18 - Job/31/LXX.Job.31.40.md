@@ -1,10 +1,7 @@
 **LXX Job 31:40** 
 <small><sub>**LXX:**</sub></small>
 instead of wheat then may there come forth to me nettles; and instead of barley a bush. And Job ceased words. 
-<small><sub>**KJV:**</sub></small>
-Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.
-<small><sub>**BSB:**</sub></small>
-then let briers grow instead of wheat and stinkweed instead of barley.” Thus conclude the words of Job.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.39|<< Job 31:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.1|Job 32:1 >>]]</td></tr></table>
 
 | Translation | Greek |

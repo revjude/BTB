@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 14:12** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines abandoned there  their gods. And David spoke, and they were set on fire with fire. 
-<small><sub>**KJV:**</sub></small>
-And when they had left their gods there, David gave a commandment, and they were burned with fire.
-<small><sub>**BSB:**</sub></small>
-There the Philistines abandoned their gods, and David ordered that they be burned in the fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.14.11|<< 1 Chronicles 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.13|1 Chronicles 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 6:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:5**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when thou prayest, thou shalt not be as the hypocrites [are]: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
 <small><sub>**BSB:**</sub></small>
 And when you pray, do not be like the hypocrites. For they love to pray standing in the synagogues and on the street corners to be seen by men. Truly I tell you, they already have their full reward.
 <small><sub>**Literal:**</sub></small>
 And when you [pl.] may pray, not you [pl.] will be like the hypocrites, for they love [to be] in the synagogues and on the corners of the streets having stood to pray so that maybe they may be seen <the> by men. Amen I say to you that: they have the reward of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.4|<< Matthew 6:4]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.6|Matthew 6:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

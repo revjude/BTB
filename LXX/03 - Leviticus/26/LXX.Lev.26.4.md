@@ -1,10 +1,7 @@
 **LXX Leviticus 26:4** 
 <small><sub>**LXX:**</sub></small>
 then I will give the rain to you in its season, and to the land I will give  its produce, and the trees of the fields will give back  their fruit. 
-<small><sub>**KJV:**</sub></small>
-Then I will give you rain in due season, and the land shall yield her increase, and the trees of the field shall yield their fruit.
-<small><sub>**BSB:**</sub></small>
-I will give you rains in their season, and the land will yield its produce, and the trees of the field will bear their fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.3|<< Leviticus 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.5|Leviticus 26:5 >>]]</td></tr></table>
 
 | Translation | Greek |

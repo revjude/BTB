@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:23** 
 <small><sub>**LXX:**</sub></small>
 For all  his judgments \[were\] in front of me, and  his ordinances did not depart from me. 
-<small><sub>**KJV:**</sub></small>
-For all his judgments [were] before me: and [as for] his statutes, I did not depart from them.
-<small><sub>**BSB:**</sub></small>
-For all His ordinances are before me; I have not disregarded His statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.22|<< 2 Samuel 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.24|2 Samuel 22:24 >>]]</td></tr></table>
 
 | Translation | Greek |

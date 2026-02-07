@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:16** 
 <small><sub>**LXX:**</sub></small>
 even the people to whom they prophesy to them. And they will be tossed in the streets of Jerusalem from in front \[of the\] sword, and of the famine. And there will not be one entombing them, even  their wives, and  their sons, and  their daughters. And I shall pour out against them  for their evils. 
-<small><sub>**KJV:**</sub></small>
-And the people to whom they prophesy shall be cast out in the streets of Jerusalem because of the famine and the sword; and they shall have none to bury them, them, their wives, nor their sons, nor their daughters: for I will pour their wickedness upon them.
-<small><sub>**BSB:**</sub></small>
-And the people to whom they prophesy will be thrown into the streets of Jerusalem because of famine and sword. There will be no one to bury them or their wives, their sons or their daughters. I will pour out their own evil upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.15|<< Jeremiah 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.17|Jeremiah 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

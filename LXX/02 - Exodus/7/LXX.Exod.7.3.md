@@ -1,10 +1,7 @@
 **LXX Exodus 7:3** 
 <small><sub>**LXX:**</sub></small>
 But I will harden the heart of Pharaoh, and I will multiply  my signs, and the miracles in \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-But I will harden Pharaoh’s heart, and though I will multiply My signs and wonders in the land of Egypt,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.2|<< Exodus 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.4|Exodus 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

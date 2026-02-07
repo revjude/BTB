@@ -1,4 +1,4 @@
-**Amos 8:3** 
+**Amos 8:3**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the songs of the temple shall be howlings in that day, saith the Lord GOD: [there shall be] many dead bodies in every place; they shall cast [them] forth with silence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the songs of the temple shall be howlings in that day, saith the Lord GOD: [
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.2|<< Amos 8:2]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.4|Amos 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will wail  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3213\|הֵילִ֜ילוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hei.Li.lu<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | songs of  |**<big>&#8207;[[H7892A\|שִׁיר֤וֹת]]&#8207; </big>**| shi.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 5:14** 
 <small><sub>**LXX:**</sub></small>
 And Hades widened  its breath, and opened wide  its mouth  to not stop. And the honorable ones shall go down, and the great, and the rich, and the one exalting in her. 
-<small><sub>**KJV:**</sub></small>
-Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it.
-<small><sub>**BSB:**</sub></small>
-Therefore Sheol enlarges its throat and opens wide its enormous jaws, and down go Zion’s nobles and masses, her revelers and carousers!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.13|<< Isaiah 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.15|Isaiah 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

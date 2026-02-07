@@ -1,4 +1,4 @@
-**Psalms 47:2** (47:3)
+**Psalms 47:2**<big><big>[[Ps.47.1 Clap Your Hands, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD most high [is] terrible; [he is] a great King over all the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How awesome is the LORD Most High, the great King over all the earth!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.47.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.47.1|<< Psalms 47:1]]</td><td align="center" style="border:none;">[[Ps.47|Psalms 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.47.3|Psalms 47:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 22:21** 
 <small><sub>**LXX:**</sub></small>
 And they answered (the sons of Reuben, and the sons of Gad, and the half tribe of Manasseh,) and said to the commanders of thousands of Israel, saying, 
-<small><sub>**KJV:**</sub></small>
-Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said unto the heads of the thousands of Israel,
-<small><sub>**BSB:**</sub></small>
-Then the Reubenites, the Gadites, and the half-tribe of Manasseh answered the leaders of the clans of Israel:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.20|<< Joshua 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.22|Joshua 22:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 31:48** 
 <small><sub>**LXX:**</sub></small>
 And there came forward to Moses all the ones placed as the commanders of the force -- commanders of thousands, and commanders of hundreds. And they said to Moses, 
-<small><sub>**KJV:**</sub></small>
-And the officers which [were] over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses:
-<small><sub>**BSB:**</sub></small>
-Then the officers who were over the units of the army—the commanders of thousands and of hundreds—approached Moses<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.47|<< Numbers 31:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.49|Numbers 31:49 >>]]</td></tr></table>
 
 | Translation | Greek |

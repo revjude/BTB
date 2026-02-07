@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:2** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Jeroboam son of Nebat heard, and he \[was\] still being in Egypt, as he had fled from \[the\] face  of king Solomon, and settled in Egypt, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard [of it], (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)
-<small><sub>**BSB:**</sub></small>
-When Jeroboam son of Nebat heard about this, he was still in Egypt where he had fled from King Solomon and had been living ever since.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.1|<< 1 Kings 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.3|1 Kings 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

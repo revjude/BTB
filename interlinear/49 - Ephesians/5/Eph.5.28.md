@@ -1,12 +1,12 @@
-**Ephesians 5:28
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:28**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
 <small><sub>**BSB:**</sub></small>
 In the same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.
 <small><sub>**Literal:**</sub></small>
 So ought also <the> husbands to love the their own wives as the their own bodies. The [one] loving the his own wife himself loves;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.27|<< Ephesians 5:27]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.29|Ephesians 5:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | ought |**<big>[[G3784\|ὀφείλουσιν]]</big>**  |opheilousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 8:5** (8:6)
+**Psalms 8:5**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You made him a little lower than the angels; You crowned him with glory and hono
 > $\quad$ referenced by: [[Heb.2.6|Heb 2:6-8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you have made lack him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2637\|תְּחַסְּרֵ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.cha.se.Re.<small><sup>[[HVpw2ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | little  |**<big>&#8207;[[H4592\|מְּ֭עַט]]&#8207; </big>**| Me.'at<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

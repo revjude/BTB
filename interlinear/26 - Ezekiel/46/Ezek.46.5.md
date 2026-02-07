@@ -1,4 +1,4 @@
-**Ezekiel 46:5** 
+**Ezekiel 46:5**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the meat offering [shall be] an ephah for a ram, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The grain offering with the ram shall be one ephah, and the grain offering with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.4|<< Ezekiel 46:4]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.6|Ezekiel 46:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a grain offering  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4503G\|מִנְחָה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] an ephah  |**<big>&#8207;[[H0374\|אֵיפָ֣ה]]&#8207; </big>**| 'ei.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

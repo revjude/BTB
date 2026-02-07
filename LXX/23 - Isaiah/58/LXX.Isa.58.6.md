@@ -1,10 +1,7 @@
 **LXX Isaiah 58:6** 
 <small><sub>**LXX:**</sub></small>
 choose I not such a fast, says \[the\] <span class="smallcaps">lord</span>. But untie every bond of injustice! Part violent perverseness of exchanges! Send out by a \[free\] release \[the\] ones having been devastated, and tear apart every unjust writ! 
-<small><sub>**KJV:**</sub></small>
-[Is] not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke?
-<small><sub>**BSB:**</sub></small>
-Isn’t this the fast that I have chosen: to break the chains of wickedness, to untie the cords of the yoke, to set the oppressed free and tear off every yoke?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.5|<< Isaiah 58:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.7|Isaiah 58:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 58:6** is...

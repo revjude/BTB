@@ -1,4 +1,4 @@
-**Psalms 119:155** 
+**Psalms 119:155**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Salvation [is] far from the wicked: for they seek not thy statutes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Salvation is far from the wicked because they do not seek Your statutes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.155|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.154|<< Psalms 119:154]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.156|Psalms 119:156 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] far  |**<big>&#8207;[[H7350\|רָח֣וֹק]]&#8207; </big>**| ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from wicked [people]  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7563\|רְשָׁעִ֣ים]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

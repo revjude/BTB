@@ -1,5 +1,5 @@
-**Hebrews 3:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:10**<big><big>[[Heb.3.7 Do Not Harden Your Hearts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore I was grieved with that generation, and said, They do alway err in [their] heart; and they have not known my ways.
 <small><sub>**BSB:**</sub></small>
 Therefore I was angry with that generation, and I said, ‘Their hearts are always going astray, and they have not known My ways.’
@@ -10,7 +10,7 @@ forty years; [10] Therefore I was angry with the generation that and I said; Alw
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | forty |**<big>[[G5062\|τεσσεράκοντα]]</big>**  [^1] |tesserakonta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |
 | years; |**<big>[[G2094\|ἔτη·]]</big>**  |etē <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^3] | |

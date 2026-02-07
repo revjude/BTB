@@ -1,4 +1,4 @@
-**Deuteronomy 20:6** 
+**Deuteronomy 20:6**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what man [is he] that hath planted a vineyard, and hath not [yet] eaten of it? let him [also] go and return unto his house, lest he die in the battle, and another man eat of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Has any man planted a vineyard and not begun to enjoy its fruit? Let him return 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.5|<< Deuteronomy 20:5]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.7|Deuteronomy 20:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֞ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

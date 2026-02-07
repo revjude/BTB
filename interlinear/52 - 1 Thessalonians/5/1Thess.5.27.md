@@ -1,12 +1,12 @@
-**1 Thessalonians 5:27
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:27**<big><big>[[1Thess.5.23 Final Blessings and Instructions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I charge you by the Lord that this epistle be read unto all the holy brethren.
 <small><sub>**BSB:**</sub></small>
 I charge you before the Lord to have this letter read to all the brothers.
 <small><sub>**Literal:**</sub></small>
 I adjure you [by] the Lord to be read [this] letter to all the saints brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.26|<< 1 Thessalonians 5:26]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.28|1 Thessalonians 5:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I adjure [^1] |**<big>[[G6034\|ἐνορκίζω]]</big>**  |enorkizō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

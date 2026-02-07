@@ -1,12 +1,12 @@
-**Matthew 22:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:23**<big><big>[[Matt.22.23 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The same day came to him the Sadducees, which say that there is no resurrection, and asked him,
 <small><sub>**BSB:**</sub></small>
 That same day the Sadducees, who say there is no resurrection, came to Jesus and questioned Him.
 <small><sub>**Literal:**</sub></small>
 On that [very] <the> day came to Him Sadducees those saying not being a resurrection and they questioned Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.22|<< Matthew 22:22]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.24|Matthew 22:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that [very] |**<big>[[G1565\|ἐκείνῃ]]</big>**  |ekeinē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Lamentations 1:21** 
+**Lamentations 1:21**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have heard that I sigh: [there is] none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done [it]: thou wilt bring the day [that] thou hast called, and they shall be like unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ People have heard my groaning, but there is no one to comfort me. All my enemies
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.20|<< Lamentations 1:20]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.22|Lamentations 1:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they heard  |**<big>&#8207;[[H8085G\|שָׁמְע֞וּ]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

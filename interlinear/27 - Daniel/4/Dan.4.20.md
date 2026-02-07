@@ -1,4 +1,4 @@
-**Daniel 4:20** (4:17)
+**Daniel 4:20**<big><big>[[Dan.4.19 Daniel Interprets the Second Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tree that thou sawest, which grew, and was strong, whose height reached unto the heaven, and the sight thereof to all the earth;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The tree you saw that grew large and strong, whose top reached the sky and was v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.19|<< Daniel 4:19]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.21|Daniel 4:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tree the  |**<big>&#8207;[[H0363\|אִֽילָנָ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| 'i.la.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

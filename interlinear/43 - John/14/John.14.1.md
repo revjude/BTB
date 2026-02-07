@@ -1,12 +1,12 @@
-**John 14:1
-**<small><sub>**KJV:**</sub></small>
+**John 14:1**<big><big>[[John.14.1 In My Father’s House Are Many Rooms|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let not your heart be troubled: ye believe in God, believe also in me.
 <small><sub>**BSB:**</sub></small>
 “Do not let your hearts be troubled. You believe in God; believe in Me as well.
 <small><sub>**Literal:**</sub></small>
 Not should be troubled of you the heart; You believe in <the> God also in Me myself believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.38|<< John 13:38]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.2|John 14:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | should be troubled |**<big>[[G5015\|ταρασσέσθω]]</big>**  |tarassesthō <small><sup>[[V-PPM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

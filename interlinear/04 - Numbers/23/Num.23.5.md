@@ -1,4 +1,4 @@
-**Numbers 23:5** 
+**Numbers 23:5**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD put a message in Balaam’s mouth, saying, “Return to Balak and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.4|<< Numbers 23:4]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.6|Numbers 23:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760H\|יָּ֧שֶׂם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:39** 
 <small><sub>**LXX:**</sub></small>
 For into the treasuries the sons of Israel and sons of the Levites shall carry in the first-fruits of the grain, and of the wine, and of the olive oil. And the holy vessels \[are\] there, and the priests, the ministers, and the gatekeepers, and the singers. And we shall not abandon the house  of our God. 
-<small><sub>**KJV:**</sub></small>
-For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where [are] the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.
-<small><sub>**BSB:**</sub></small>
-For the Israelites and the Levites are to bring the contributions of grain, new wine, and oil to the storerooms where the articles of the sanctuary are kept and where the ministering priests, the gatekeepers, and the singers stay. Thus we will not neglect the house of our God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.38|<< Nehemiah 10:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.1|Nehemiah 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

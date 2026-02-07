@@ -1,4 +1,4 @@
-**Numbers 9:11** 
+**Numbers 9:11**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fourteenth day of the second month at even they shall keep it, [and] eat it with unleavened bread and bitter [herbs].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Such people are to observe it at twilight on the fourteenth day of the second mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.10|<< Numbers 9:10]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.12|Numbers 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the month  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2320G\|חֹ֨דֶשׁ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> second  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8145\|שֵּׁנִ֜י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

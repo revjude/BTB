@@ -1,12 +1,12 @@
-**Matthew 23:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:5**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
 <small><sub>**BSB:**</sub></small>
 All their deeds are done for men to see. They broaden their phylacteries and lengthen their tassels.
 <small><sub>**Literal:**</sub></small>
 All now the deeds of them they do in order <the> to be seen <the> by men; They broaden for the phylacteries of them and enlarge <the> tassels the of garments of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.4|<< Matthew 23:4]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.6|Matthew 23:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

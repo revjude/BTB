@@ -1,4 +1,4 @@
-**Ezekiel 16:14** 
+**Ezekiel 16:14**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy renown went forth among the heathen for thy beauty: for it [was] perfect through my comeliness, which I had put upon thee, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your fame spread among the nations on account of your beauty, for it was perfect
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.13|<< Ezekiel 16:13]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.15|Ezekiel 16:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּ֨צֵא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of you  |**<big>&#8207;[[H9005\|לָ֥]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

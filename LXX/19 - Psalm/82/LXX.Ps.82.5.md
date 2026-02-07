@@ -1,10 +1,7 @@
 **LXX Psalm 82:5** 
 <small><sub>**LXX:**</sub></small>
 They did not know, nor perceived. They travel in darkness. All the foundations of the earth shall be shaken. 
-<small><sub>**KJV:**</sub></small>
-They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
-<small><sub>**BSB:**</sub></small>
-They do not know or understand; they wander in the darkness; all the foundations of the earth are shaken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.82.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.82.4|<< Psalm 82:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.82.6|Psalm 82:6 >>]]</td></tr></table>
 
 | Translation | Greek |

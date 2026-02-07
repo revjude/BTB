@@ -1,5 +1,5 @@
-**Luke 24:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:46**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:
 <small><sub>**BSB:**</sub></small>
 And He told them, “This is what is written: The Christ will suffer and rise from the dead on the third day,
@@ -11,7 +11,7 @@ And He said to them that Thus it has been written and thus it was necessary for 
 > $\quad$ alluding to: [[LXX.Hos.6.2|Hos 6:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

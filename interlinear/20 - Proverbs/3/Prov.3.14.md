@@ -1,4 +1,4 @@
-**Proverbs 3:14** 
+**Proverbs 3:14**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the merchandise of it [is] better than the merchandise of silver, and the gain thereof than fine gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for she is more profitable than silver, and her gain is better than fine gold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.13|<< Proverbs 3:13]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.15|Proverbs 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֣וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

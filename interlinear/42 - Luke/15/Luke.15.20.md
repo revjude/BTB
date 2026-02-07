@@ -1,12 +1,12 @@
-**Luke 15:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:20**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.
 <small><sub>**BSB:**</sub></small>
 So he got up and went to his father. But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him.
 <small><sub>**Literal:**</sub></small>
 And having risen up he went to the father of himself Still now he far being distant he saw him the father of him and was moved with compassion, and having run he fell upon the neck of him and he kissed him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.19|<< Luke 15:19]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.21|Luke 15:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having risen up |**<big>[[G0450\|ἀναστὰς]]</big>**  |anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

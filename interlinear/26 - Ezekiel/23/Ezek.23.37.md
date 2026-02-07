@@ -1,4 +1,4 @@
-**Ezekiel 23:37** 
+**Ezekiel 23:37**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they have committed adultery, and blood [is] in their hands, and with their idols have they committed adultery, and have also caused their sons, whom they bare unto me, to pass for them through [the fire], to devour [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they have committed adultery, and blood is on their hands. They have committ
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.36|<< Ezekiel 23:36]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.38|Ezekiel 23:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have committed adultery  |**<big>&#8207;[[H5003\|נִאֵ֗פוּ]]&#8207; </big>**| ni.'E.fu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

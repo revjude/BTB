@@ -1,10 +1,7 @@
 **LXX Genesis 1:3** 
 <small><sub>**LXX:**</sub></small>
 And God said, Let there be light! And there was light. 
-<small><sub>**KJV:**</sub></small>
-And God said, Let there be light: and there was light.
-<small><sub>**BSB:**</sub></small>
-And God said, “Let there be light,” and there was light.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.2|<< Genesis 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.4|Genesis 1:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 1:3** is...

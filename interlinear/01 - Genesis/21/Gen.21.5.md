@@ -1,4 +1,4 @@
-**Genesis 21:5** 
+**Genesis 21:5**<big><big>[[Gen.21.1 The Birth of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham was an hundred years old, when his son Isaac was born unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abraham was a hundred years old when his son Isaac was born to him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.4|<< Genesis 21:4]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.6|Genesis 21:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abraham  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0085\|אַבְרָהָ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

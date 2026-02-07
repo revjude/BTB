@@ -1,12 +1,12 @@
-**Mark 1:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:14**<big><big>[[Mark.1.12 The Temptation and Preaching of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,
 <small><sub>**BSB:**</sub></small>
 After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God.
 <small><sub>**Literal:**</sub></small>
 and after And the delivering up <the> of John came <the> Jesus into <the> Galilee proclaiming the gospel <the> kingdom <the> of God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.13|<< Mark 1:13]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.15|Mark 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="SBL+WH+Treg">o</abbr> | |
 | after |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

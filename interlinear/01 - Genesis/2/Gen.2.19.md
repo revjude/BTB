@@ -1,4 +1,4 @@
-**Genesis 2:19** 
+**Genesis 2:19**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought [them] unto Adam to see what he would call them: and whatsoever Adam called every living creature, that [was] the name thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And out of the ground the LORD God formed every beast of the field and every bir
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.18|<< Genesis 2:18]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.20|Genesis 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he formed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3335G\|יִּצֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tzer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

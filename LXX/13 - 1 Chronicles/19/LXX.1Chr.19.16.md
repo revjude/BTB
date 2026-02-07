@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:16** 
 <small><sub>**LXX:**</sub></small>
 And the Syrian saw that Israel put him to flight, and he sent messengers, and they brought the Syrian from the other side of the river. And Shophach the commander-in-chief of \[the\] force of Hadarezer \[was\] in front of them. 
-<small><sub>**KJV:**</sub></small>
-And when the Syrians saw that they were put to the worse before Israel, they sent messengers, and drew forth the Syrians that [were] beyond the river: and Shophach the captain of the host of Hadarezer [went] before them.
-<small><sub>**BSB:**</sub></small>
-When the Arameans saw that they had been defeated by Israel, they sent messengers to bring more Arameans from beyond the Euphrates, with Shophach the commander of Hadadezer’s army leading them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.15|<< 1 Chronicles 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.17|1 Chronicles 19:17 >>]]</td></tr></table>
 
 | Translation | Greek |

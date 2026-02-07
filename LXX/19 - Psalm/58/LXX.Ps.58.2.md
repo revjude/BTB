@@ -1,10 +1,7 @@
 **LXX Psalm 58:2** 
 <small><sub>**LXX:**</sub></small>
 For even in \[the\] heart you work lawlessness in the earth. Your hands closely join in injustice. 
-<small><sub>**KJV:**</sub></small>
-Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.
-<small><sub>**BSB:**</sub></small>
-No, in your hearts you devise injustice; with your hands you mete out violence on the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.58.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.1|<< Psalm 58:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.3|Psalm 58:3 >>]]</td></tr></table>
 
 | Translation | Greek |

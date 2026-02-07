@@ -1,4 +1,4 @@
-**Psalms 5:11** (5:12)
+**Psalms 5:11**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But let all who take refuge in You rejoice; let them ever shout for joy. May You
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.10|<< Psalms 5:10]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.12|Psalms 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and let them rejoice  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8055\|יִשְׂמְח֨וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yis.me.Chu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

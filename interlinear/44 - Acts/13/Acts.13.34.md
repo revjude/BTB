@@ -1,5 +1,5 @@
-**Acts 13:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:34**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as concerning that he raised him up from the dead, [now] no more to return to corruption, he said on this wise, I will give you the sure mercies of David.
 <small><sub>**BSB:**</sub></small>
 In fact, God raised Him from the dead, never to see decay. As He has said: ‘I will give you the holy and sure blessings promised to David.’
@@ -10,7 +10,7 @@ for then He raised Him out from [the] dead no more being about to return to deca
 > $\quad$ referencing: [[LXX.Isa.55.3|Isa 55:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

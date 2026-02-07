@@ -1,10 +1,7 @@
 **LXX Psalm 94:15** 
 <small><sub>**LXX:**</sub></small>
 until of which \[time\] righteousness returns for judgment, and having it \[are\] all the straight  in heart. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-But judgment shall return unto righteousness: and all the upright in heart shall follow it.
-<small><sub>**BSB:**</sub></small>
-Surely judgment will again be righteous, and all the upright in heart will follow it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.94.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.14|<< Psalm 94:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.16|Psalm 94:16 >>]]</td></tr></table>
 
 | Translation | Greek |

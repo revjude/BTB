@@ -1,10 +1,7 @@
 **LXX Daniel 3:26** 
 <small><sub>**LXX:**</sub></small>
 Then Nebuchadnezzar came forward to the door of the burning furnace of fire, and he said, Shadrach, Meshach, and Abed-nego, O servants  of God the highest, come forth and come! And came forth Shadrach, Meshach, \[and\] Abed-nego from out of \[the\] midst of the fire. 
-<small><sub>**KJV:**</sub></small>
-Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, [and] spake, and said, Shadrach, Meshach, and Abednego, ye servants of the most high God, come forth, and come [hither]. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire.
-<small><sub>**BSB:**</sub></small>
-Then Nebuchadnezzar approached the door of the blazing fiery furnace and called out, “Shadrach, Meshach, and Abednego, servants of the Most High God, come out!” So Shadrach, Meshach, and Abednego came out of the fire,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.25|<< Daniel 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.27|Daniel 3:27 >>]]</td></tr></table>
 
 | Translation | Greek |

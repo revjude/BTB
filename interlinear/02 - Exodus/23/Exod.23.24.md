@@ -1,4 +1,4 @@
-**Exodus 23:24** 
+**Exodus 23:24**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not bow down to their gods or serve them or follow their practices. Ins
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.23|<< Exodus 23:23]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.25|Exodus 23:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must bow down  |**<big>&#8207;[[H7812\|תִשְׁתַּחֲוֶ֤ה]]&#8207; </big>**| tish.ta.cha.Veh<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Hebrews 11:32
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:32**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And what shall I more say? for the time would fail me to tell of Gedeon, and [of] Barak, and [of] Samson, and [of] Jephthae; [of] David also, and Samuel, and [of] the prophets:
 <small><sub>**BSB:**</sub></small>
 And what more shall I say? Time will not allow me to tell of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets,
@@ -11,7 +11,7 @@ And what more shall I say? Will fail me for telling the time of Gideon, Barak, b
 > $\quad$ possibly alluding to: [[LXX.1Sam.7.1|1Sam 7:1-17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

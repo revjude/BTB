@@ -1,4 +1,4 @@
-**Exodus 27:7** 
+**Exodus 27:7**<big><big>[[Exod.27.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The poles are to be inserted into the rings so that the poles are on two sides o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.6|<< Exodus 27:6]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.8|Exodus 27:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הוּבָ֥א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hu.Va'<small><sup>[[HVHq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

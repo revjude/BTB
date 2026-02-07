@@ -1,4 +1,4 @@
-**1 Kings 9:13** 
+**1 Kings 9:13**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, What cities [are] these which thou hast given me, my brother? And he called them the land of Cabul unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said, What cities [are] these which thou hast given me, my brother? And h
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.12|<< 1 Kings 9:12]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.14|1 Kings 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֕אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מָ֚ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

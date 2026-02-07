@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Samuel, You should not look upon  his appearance, nor unto the manner  of his greatness, for I treat him with contempt; for not as a man shall look shall God see. For  man shall see on \[the\] surface,  but God shall see into \[the\] heart. 
-<small><sub>**KJV:**</sub></small>
-But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for [the LORD seeth] not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.
-<small><sub>**BSB:**</sub></small>
-But the LORD said to Samuel, “Do not consider his appearance or height, for I have rejected him; the LORD does not see as man does. For man sees the outward appearance, but the LORD sees the heart.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.6|<< 1 Samuel 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.8|1 Samuel 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

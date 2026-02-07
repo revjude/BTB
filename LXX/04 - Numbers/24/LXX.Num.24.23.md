@@ -1,10 +1,7 @@
 **LXX Numbers 24:23** 
 <small><sub>**LXX:**</sub></small>
 And taking up  his parable, he said, Oh, Oh, who shall live whenever God should appoint these \[things\]? 
-<small><sub>**KJV:**</sub></small>
-And he took up his parable, and said, Alas, who shall live when God doeth this!
-<small><sub>**BSB:**</sub></small>
-Once more Balaam lifted up an oracle, saying: “Ah, who can live unless God has ordained it?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.22|<< Numbers 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.24|Numbers 24:24 >>]]</td></tr></table>
 
 | Translation | Greek |

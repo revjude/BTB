@@ -1,4 +1,4 @@
-**Job 40:7** 
+**Job 40:7**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Gird up thy loins now like a man: I will demand of thee, and declare thou unto m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.6|<< Job 40:6]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.8|Job 40:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | gird up  |**<big>&#8207;[[H0247\|אֱזָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.zor-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Zechariah 1:17** 
+**Zechariah 1:17**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cry yet, saying, Thus saith the LORD of hosts; My cities through prosperity shall yet be spread abroad; and the LORD shall yet comfort Zion, and shall yet choose Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Proclaim further that this is what the LORD of Hosts says: ‘My cities will aga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.16|<< Zechariah 1:16]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.18|Zechariah 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | again  |**<big>&#8207;[[H5750\|ע֣וֹד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | proclaim  |**<big>&#8207;[[H7121I\|קְרָ֣א]]&#8207; </big>**| ke.Ra'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 11:2** 
 <small><sub>**LXX:**</sub></small>
 Give a portion  to seven, even indeed  to eight! for you do not know what evil there will be upon the earth. 
-<small><sub>**KJV:**</sub></small>
-Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.
-<small><sub>**BSB:**</sub></small>
-Divide your portion among seven, or even eight, for you do not know what disaster may befall the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.11.1|<< Ecclesiastes 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.3|Ecclesiastes 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

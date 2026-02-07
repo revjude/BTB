@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:2** 
 <small><sub>**LXX:**</sub></small>
 And Jeroboam said \[to\] his wife, Rise up and change that they shall not know that you \[are\] \[the\] wife of Jeroboam, and go unto Shiloh! Behold, Ahijah the prophet \[is\] there, he spoke unto me  to reign over  this people. 
-<small><sub>**KJV:**</sub></small>
-And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there [is] Ahijah the prophet, which told me that [I should be] king over this people.
-<small><sub>**BSB:**</sub></small>
-and Jeroboam said to his wife, “Now get up, disguise yourself so they will not recognize you as my wife, and go to Shiloh. For Ahijah the prophet is there; it was he who spoke about my kingship over this people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.1|<< 1 Kings 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.3|1 Kings 14:3 >>]]</td></tr></table>
 
 | Translation | Greek |

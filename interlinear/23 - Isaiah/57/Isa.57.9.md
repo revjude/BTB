@@ -1,4 +1,4 @@
-**Isaiah 57:9** 
+**Isaiah 57:9**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase [thyself even] unto hell.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You went to Molech with oil and multiplied your perfumes. You have sent your env
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.8|<< Isaiah 57:8]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.10|Isaiah 57:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you journeyed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7788\|תָּשֻׁ֤רִי]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Shu.ri<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the king  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4428G\|מֶּ֙לֶךְ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

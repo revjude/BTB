@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:10** 
 <small><sub>**LXX:**</sub></small>
 And there came to pass a change of state of \[the\] <span class="smallcaps">lord</span> upon all the kingdoms of the land round about Judah, and they did not wage war against Jehoshaphat. 
-<small><sub>**KJV:**</sub></small>
-And the fear of the LORD fell upon all the kingdoms of the lands that [were] round about Judah, so that they made no war against Jehoshaphat.
-<small><sub>**BSB:**</sub></small>
-And the dread of the LORD fell upon all the kingdoms of the lands that surrounded Judah, so that they did not make war against Jehoshaphat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.9|<< 2 Chronicles 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.11|2 Chronicles 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

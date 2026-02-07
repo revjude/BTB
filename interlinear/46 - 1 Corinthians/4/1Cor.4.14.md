@@ -1,12 +1,12 @@
-**1 Corinthians 4:14
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:14**<big><big>[[1Cor.4.14 Paul’s Fatherly Warning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I write not these things to shame you, but as my beloved sons I warn [you].
 <small><sub>**BSB:**</sub></small>
 I am not writing this to shame you, but to warn you as my beloved children.
 <small><sub>**Literal:**</sub></small>
 Not shaming you do I write these things, but as children of mine beloved admonishing [you].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.13|<< 1 Corinthians 4:13]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.15|1 Corinthians 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | shaming |**<big>[[G1788\|ἐντρέπων]]</big>**  |entrepōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

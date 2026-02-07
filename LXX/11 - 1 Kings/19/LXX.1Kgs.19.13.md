@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:13** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Elijah heard, that he covered over  his face with  his sheepskin, and he went forth and stood by the cave. And behold, before him \[was\] a voice, and he said, Why \[are\] you here, Elijah? 
-<small><sub>**KJV:**</sub></small>
-And it was [so], when Elijah heard [it], that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, [there came] a voice unto him, and said, What doest thou here, Elijah?
-<small><sub>**BSB:**</sub></small>
-When Elijah heard it, he wrapped his face in his cloak and went out and stood at the mouth of the cave. Suddenly a voice came to him and said, “What are you doing here, Elijah?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.12|<< 1 Kings 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.14|1 Kings 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

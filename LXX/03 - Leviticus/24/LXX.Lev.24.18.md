@@ -1,10 +1,7 @@
 **LXX Leviticus 24:18** 
 <small><sub>**LXX:**</sub></small>
 And who ever should strike cattle, and it should die, let him pay life for life! 
-<small><sub>**KJV:**</sub></small>
-And he that killeth a beast shall make it good; beast for beast.
-<small><sub>**BSB:**</sub></small>
-Whoever kills an animal must make restitution—life for life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.17|<< Leviticus 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.19|Leviticus 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

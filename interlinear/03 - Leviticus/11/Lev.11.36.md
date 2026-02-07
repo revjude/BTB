@@ -1,4 +1,4 @@
-**Leviticus 11:36** 
+**Leviticus 11:36**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless a fountain or pit, [wherein there is] plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, a spring or cistern containing water will remain clean, but one wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.35|<< Leviticus 11:35]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.37|Leviticus 11:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a spring  |**<big>&#8207;[[H4599\|מַעְיָ֥ן]]&#8207; </big>**| ma'.Yan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

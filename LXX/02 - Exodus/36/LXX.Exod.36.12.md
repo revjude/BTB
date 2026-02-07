@@ -1,10 +1,7 @@
 **LXX Exodus 36:12** 
 <small><sub>**LXX:**</sub></small>
 And fifty hooks he made for the one curtain, and fifty hooks he made for the part of the curtain corresponding to the coupling of the second, facing headlong into one another each. 
-<small><sub>**KJV:**</sub></small>
-Fifty loops made he in one curtain, and fifty loops made he in the edge of the curtain which [was] in the coupling of the second: the loops held one [curtain] to another.
-<small><sub>**BSB:**</sub></small>
-He made fifty loops on one curtain and fifty loops on the end curtain of the second set, so that the loops lined up opposite one another.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.11|<< Exodus 36:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.13|Exodus 36:13 >>]]</td></tr></table>
 
 | Translation | Greek |

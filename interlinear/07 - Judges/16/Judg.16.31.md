@@ -1,4 +1,4 @@
-**Judges 16:31** 
+**Judges 16:31**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then his brethren and all the house of his father came down, and took him, and brought [him] up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Samson’s brothers and his father’s family came down, carried him back, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.30|<< Judges 16:30]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.1|Judges 17:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּרְד֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.re.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brothers his  |**<big>&#8207;[[H0251G\|אֶחָ֜י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

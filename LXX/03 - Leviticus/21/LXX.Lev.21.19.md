@@ -1,10 +1,7 @@
 **LXX Leviticus 21:19** 
 <small><sub>**LXX:**</sub></small>
 or a man in which might be in him a broken hand, or a broken foot, 
-<small><sub>**KJV:**</sub></small>
-Or a man that is brokenfooted, or brokenhanded,
-<small><sub>**BSB:**</sub></small>
-no man who has a broken foot or hand,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.18|<< Leviticus 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.20|Leviticus 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

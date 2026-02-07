@@ -1,4 +1,4 @@
-**Habakkuk 3:11** 
+**Habakkuk 3:11**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun [and] moon stood still in their habitation: at the light of thine arrows they went, [and] at the shining of thy glittering spear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sun and moon stood still in their places at the flash of Your flying arrows, at 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.10|<< Habakkuk 3:10]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.12|Habakkuk 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sun  |**<big>&#8207;[[H8121\|שֶׁ֥מֶשׁ]]&#8207; </big>**| She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | moon  |**<big>&#8207;[[H3394\|יָרֵ֖חַ]]&#8207; </big>**| ya.Re.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

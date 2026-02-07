@@ -1,4 +1,4 @@
-**Leviticus 19:4** 
+**Leviticus 19:4**<big><big>[[Lev.19.1 Commandments for Holiness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn ye not unto idols, nor make to yourselves molten gods: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not turn to idols or make for yourselves molten gods. I am the LORD your God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.3|<< Leviticus 19:3]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.5|Leviticus 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you turn  |**<big>&#8207;[[H6437G\|תִּפְנוּ֙]]&#8207; </big>**| tif.Nu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

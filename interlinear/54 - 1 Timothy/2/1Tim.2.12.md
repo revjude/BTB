@@ -1,12 +1,12 @@
-**1 Timothy 2:12
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:12**<big><big>[[1Tim.2.9 Instructions to Women|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.
 <small><sub>**BSB:**</sub></small>
 I do not permit a woman to teach or to exercise authority over a man; she is to remain quiet.
 <small><sub>**Literal:**</sub></small>
 To teach however a woman not I do permit nor to use authority over a man but to be in quietness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.11|<< 1 Timothy 2:11]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.13|1 Timothy 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To teach |**<big>[[G1321\|διδάσκειν]]</big>**  |didaskein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

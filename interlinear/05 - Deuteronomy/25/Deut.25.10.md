@@ -1,4 +1,4 @@
-**Deuteronomy 25:10** 
+**Deuteronomy 25:10**<big><big>[[Deut.25.5 Widowhood and Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his name shall be called in Israel, The house of him that hath his shoe loosed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And his family name in Israel will be called “The House of the Unsandaled.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.9|<< Deuteronomy 25:9]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.11|Deuteronomy 25:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be called  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121H\|נִקְרָ֥א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nik.Ra'<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name its  |**<big>&#8207;[[H8034\|שְׁמ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 7:2** 
+**Deuteronomy 7:2**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the LORD thy God shall deliver them before thee; thou shalt smite them, [and] utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and when the LORD your God has delivered them over to you to defeat them, then y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.1|<< Deuteronomy 7:1]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.3|Deuteronomy 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will deliver up them  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414G\|נְתָנָ֞]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Na<small><sup>[[HVqq3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֧ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

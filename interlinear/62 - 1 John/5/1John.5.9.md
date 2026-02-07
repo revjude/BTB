@@ -1,12 +1,12 @@
-**1 John 5:9
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:9**<big><big>[[1John.5.9 God’s Testimony about His Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son.
 <small><sub>**BSB:**</sub></small>
 Even if we accept human testimony, the testimony of God is greater. For this is the testimony that God has given about His Son.
 <small><sub>**Literal:**</sub></small>
 If the testimony <the> of men we receive, the testimony <the> of God greater is, For this is the testimony <the> of God that He has testified concerning the Son of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.8|<< 1 John 5:8]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.10|1 John 5:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

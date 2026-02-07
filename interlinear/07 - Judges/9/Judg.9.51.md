@@ -1,4 +1,4 @@
-**Judges 9:51** 
+**Judges 9:51**<big><big>[[Judg.9.50 Abimelech’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut [it] to them, and gat them up to the top of the tower.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But there was a strong tower inside the city, and all the men, women, and leader
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.50|<< Judges 9:50]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.52|Judges 9:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a tower of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4026M\|מִגְדַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mig.dal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength  |**<big>&#8207;[[H5797\|עֹז֮]]&#8207; </big>**| 'oz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

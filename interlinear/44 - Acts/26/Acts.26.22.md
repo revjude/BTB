@@ -1,12 +1,12 @@
-**Acts 26:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:22**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:
 <small><sub>**BSB:**</sub></small>
 But I have had God’s help to this day, and I stand here to testify to small and great alike. I am saying nothing beyond what the prophets and Moses said would happen:
 <small><sub>**Literal:**</sub></small>
 Help therefore having obtained <the> from <the> God unto <the> day this I have stood bearing witness to small both and to great, no [thing] other saying than what both the prophets said was about to happen and Moses,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.21|<< Acts 26:21]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.23|Acts 26:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Help |**<big>[[G1947\|ἐπικουρίας]]</big>**  |epikourias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

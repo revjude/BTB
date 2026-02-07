@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:24** 
 <small><sub>**LXX:**</sub></small>
 melting \[them\] away in hunger, and being food of fowls, and incurable convulsion. \[The\] teeth of wild beasts I will send as a successor to them, with rage dragging \[them\] upon the ground. 
-<small><sub>**KJV:**</sub></small>
-[They shall be] burnt with hunger, and devoured with burning heat, and with bitter destruction: I will also send the teeth of beasts upon them, with the poison of serpents of the dust.
-<small><sub>**BSB:**</sub></small>
-They will be wasted from hunger and ravaged by pestilence and bitter plague; I will send the fangs of wild beasts against them, with the venom of vipers that slither in the dust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.23|<< Deuteronomy 32:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.25|Deuteronomy 32:25 >>]]</td></tr></table>
 
 | Translation | Greek |

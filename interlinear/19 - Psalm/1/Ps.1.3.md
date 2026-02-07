@@ -1,4 +1,4 @@
-**Psalms 1:3** 
+**Psalms 1:3**<big><big>[[Ps.1.1 The Two Paths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is like a tree planted by streams of water, yielding its fruit in season, who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.1.2|<< Psalms 1:2]]</td><td align="center" style="border:none;">[[Ps.1|Psalms 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.1.4|Psalms 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he is  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a tree  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6086H\|עֵץ֮]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'Etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

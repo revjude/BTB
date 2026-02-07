@@ -1,4 +1,4 @@
-**Joshua 1:4** 
+**Joshua 1:4**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your territory shall extend from the wilderness and Lebanon to the great River E
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.3|<< Joshua 1:3]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.5|Joshua 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from the wilderness  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4057B\|מִּדְבָּר֩]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<the> Lebanon  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3844G\|לְּבָנ֨וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

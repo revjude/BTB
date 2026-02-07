@@ -1,12 +1,12 @@
-**Romans 15:25
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:25**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now I go unto Jerusalem to minister unto the saints.
 <small><sub>**BSB:**</sub></small>
 Now, however, I am on my way to Jerusalem to serve the saints there.
 <small><sub>**Literal:**</sub></small>
 Now however I am going to Jerusalem ministering to the saints.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.24|<< Romans 15:24]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.26|Romans 15:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3570\|Νυνὶ]]</big>**  |Nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

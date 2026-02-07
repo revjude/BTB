@@ -1,4 +1,4 @@
-**Numbers 29:8** 
+**Numbers 29:8**<big><big>[[Num.29.7 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye shall offer a burnt offering unto the LORD [for] a sweet savour; one young bullock, one ram, [and] seven lambs of the first year; they shall be unto you without blemish:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Present as a pleasing aroma to the LORD a burnt offering of one young bull, one 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.7|<< Numbers 29:7]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.9|Numbers 29:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will bring near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126H\|הִקְרַבְתֶּ֨ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.rav.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a burnt offering  |**<big>&#8207;[[H5930A\|עֹלָ֤ה]]&#8207; </big>**| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

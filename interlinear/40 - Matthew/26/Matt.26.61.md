@@ -1,12 +1,12 @@
-**Matthew 26:61
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:61**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said, This [fellow] said, I am able to destroy the temple of God, and to build it in three days.
 <small><sub>**BSB:**</sub></small>
 and declared, “This man said, ‘I am able to destroy the temple of God and rebuild it in three days.’”
 <small><sub>**Literal:**</sub></small>
 they said; This [man] was saying: I am able to destroy the temple <the> of God and in three days to rebuild it him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.60|<< Matthew 26:60]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.62|Matthew 26:62 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they said; |**<big>[[G2036\|εἶπαν·]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | This [man] |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

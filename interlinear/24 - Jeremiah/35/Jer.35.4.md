@@ -1,4 +1,4 @@
-**Jeremiah 35:4** 
+**Jeremiah 35:4**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I brought them into the house of the LORD, into the chamber of the sons of Hanan, the son of Igdaliah, a man of God, which [was] by the chamber of the princes, which [was] above the chamber of Maaseiah the son of Shallum, the keeper of the door:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and I brought them into the house of the LORD, to a chamber occupied by the sons
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.3|<< Jeremiah 35:3]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.5|Jeremiah 35:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I brought  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0935P\|אָבִ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Vi'<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

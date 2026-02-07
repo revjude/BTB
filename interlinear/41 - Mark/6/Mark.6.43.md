@@ -1,12 +1,12 @@
-**Mark 6:43
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:43**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they took up twelve baskets full of the fragments, and of the fishes.
 <small><sub>**BSB:**</sub></small>
 and the disciples picked up twelve basketfuls of broken pieces of bread and fish.
 <small><sub>**Literal:**</sub></small>
 And they took up of fragments twelve hand-baskets fullness and of the fish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.42|<< Mark 6:42]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.44|Mark 6:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they took up |**<big>[[G0142\|ἦραν]]</big>**  |ēran <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

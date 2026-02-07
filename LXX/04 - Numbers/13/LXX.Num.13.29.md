@@ -1,10 +1,7 @@
 **LXX Numbers 13:29** 
 <small><sub>**LXX:**</sub></small>
 And Amalek dwells in the land, in the \[land\] to \[the\] south; and the Hittite, and the Hivite, and the Jebusite, and the Amorite dwell in the mountainous area; and the Canaanite dwell by \[the\] sea, and by the Jordan river. 
-<small><sub>**KJV:**</sub></small>
-The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.
-<small><sub>**BSB:**</sub></small>
-The Amalekites live in the land of the Negev; the Hittites, Jebusites, and Amorites live in the hill country; and the Canaanites live by the sea and along the Jordan.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.28|<< Numbers 13:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.30|Numbers 13:30 >>]]</td></tr></table>
 
 | Translation | Greek |

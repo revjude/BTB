@@ -1,4 +1,4 @@
-**Isaiah 66:8** 
+**Isaiah 66:8**<big><big>[[Isa.66.7 Rejoice with Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath heard such a thing? who hath seen such things? Shall the earth be made to bring forth in one day? [or] shall a nation be born at once? for as soon as Zion travailed, she brought forth her children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who has heard of such as this? Who has seen such things? Can a country be born i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.7|<< Isaiah 66:7]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.9|Isaiah 66:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he heard  |**<big>&#8207;[[H8085G\|שָׁמַ֣ע]]&#8207; </big>**| sha.Ma'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

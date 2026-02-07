@@ -1,4 +1,4 @@
-**Joshua 8:6** 
+**Joshua 8:6**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For they will come out after us) till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will pursue us until we have drawn them away from the city, for they will s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.5|<< Joshua 8:5]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.7|Joshua 8:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318G\|יָצְא֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.tze.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after us  |**<big>&#8207;[[H0310A\|אַחֲרֵ֗י]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| 'a.cha.Rei.<small><sup>[[HAcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

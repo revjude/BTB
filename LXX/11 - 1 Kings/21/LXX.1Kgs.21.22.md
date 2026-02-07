@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:22** 
 <small><sub>**LXX:**</sub></small>
 And I will appoint  your house as the house of Jeroboam son of Nebat, and as the house of Baasha son of Ahijah, on account of the provocations which you provoke to anger, and led Israel into sin. 
-<small><sub>**KJV:**</sub></small>
-And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked [me] to anger, and made Israel to sin.
-<small><sub>**BSB:**</sub></small>
-I will make your house like that of Jeroboam son of Nebat and like that of Baasha son of Ahijah, because you have provoked My anger and caused Israel to sin.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.21|<< 1 Kings 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.23|1 Kings 21:23 >>]]</td></tr></table>
 
 | Translation | Greek |

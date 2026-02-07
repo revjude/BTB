@@ -1,4 +1,4 @@
-**Leviticus 9:21** 
+**Leviticus 9:21**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the breasts and the right shoulder Aaron waved [for] a wave offering before the LORD; as Moses commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but he waved the breasts and the right thigh as a wave offering before the LORD,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.20|<< Leviticus 9:20]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.22|Leviticus 9:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֣ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the breasts  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2373\|חָז֗וֹת]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Zot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

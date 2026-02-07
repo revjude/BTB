@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:20** 
 <small><sub>**LXX:**</sub></small>
 To the alien you may lend with interest, but to your brother you shall not lend with interest; that \[the\] <span class="smallcaps">lord</span> your God should bless you in all  your works upon the land into which you enter there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the LORD thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
-<small><sub>**BSB:**</sub></small>
-You may charge a foreigner interest, but not your brother, so that the LORD your God may bless you in everything to which you put your hand in the land that you are entering to possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.19|<< Deuteronomy 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.21|Deuteronomy 23:21 >>]]</td></tr></table>
 
 | Translation | Greek |

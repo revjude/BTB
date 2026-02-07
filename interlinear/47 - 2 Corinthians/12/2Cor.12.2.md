@@ -1,12 +1,12 @@
-**2 Corinthians 12:2
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:2**<big><big>[[2Cor.12.1 Paul’s Revelation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.
 <small><sub>**BSB:**</sub></small>
 I know a man in Christ who fourteen years ago was caught up to the third heaven. Whether it was in the body or out of it I do not know, but God knows.
 <small><sub>**Literal:**</sub></small>
 I know a man in Christ ago years fourteen — whether in [the] body not I know, or out of the body not I know, <the> God knows — having been caught up <the> such a man until [the] third heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.1|<< 2 Corinthians 12:1]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.3|2 Corinthians 12:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|Οἶδα]]</big>**  |Oida <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a man |**<big>[[G0444\|ἄνθρωπον]]</big>**  |anthrōpon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

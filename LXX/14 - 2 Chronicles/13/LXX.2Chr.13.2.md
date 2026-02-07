@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:2** 
 <small><sub>**LXX:**</sub></small>
 Three years he reigned in Jerusalem. And \[the\] name  of his mother \[was\] Michaiah daughter of Uriel of Gibeah. And there was war between Abijah and between Jeroboam. 
-<small><sub>**KJV:**</sub></small>
-He reigned three years in Jerusalem. His mother’s name also [was] Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
-<small><sub>**BSB:**</sub></small>
-and he reigned in Jerusalem three years. His mother’s name was Micaiah daughter of Uriel; she was from Gibeah. And there was war between Abijah and Jeroboam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.1|<< 2 Chronicles 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.3|2 Chronicles 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 10:11** 
+**1 Chronicles 10:11**<big><big>[[1Chr.10.11 Jabesh-gilead’s Tribute to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all Jabeshgilead heard all that the Philistines had done to Saul,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all the people of Jabesh-gilead heard about everything the Philistines had 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.10|<< 1 Chronicles 10:10]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.12|1 Chronicles 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they heard  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H8085G\|יִּשְׁמְע֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.me.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 8:41
-**<small><sub>**KJV:**</sub></small>
+**John 8:41**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye do the deeds of your father. Then said they to him, We be not born of fornication; we have one Father, [even] God.
 <small><sub>**BSB:**</sub></small>
 You are doing the works of your father.” “We are not illegitimate children,” they declared. “Our only Father is God Himself.”
 <small><sub>**Literal:**</sub></small>
 You yourselves are doing the works of the father of you. They said therefore to Him; We ourselves of sexual immorality not have been born; one Father we have <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.40|<< John 8:40]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.42|John 8:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are doing |**<big>[[G4160G\|ποιεῖτε]]</big>**  |poieite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

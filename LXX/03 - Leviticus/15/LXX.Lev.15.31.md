@@ -1,10 +1,7 @@
 **LXX Leviticus 15:31** 
 <small><sub>**LXX:**</sub></small>
 And you shall make the sons of Israel be reverent \[because\] of  their uncleannesses. And they shall not die on account of  their uncleanness, in  their defiling  my tent, the one among them. 
-<small><sub>**KJV:**</sub></small>
-Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that [is] among them.
-<small><sub>**BSB:**</sub></small>
-You must keep the children of Israel separate from their uncleanness, so that they do not die by defiling My tabernacle, which is among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.30|<< Leviticus 15:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.32|Leviticus 15:32 >>]]</td></tr></table>
 
 | Translation | Greek |

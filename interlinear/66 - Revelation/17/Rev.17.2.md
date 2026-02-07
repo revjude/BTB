@@ -1,5 +1,5 @@
-**Revelation 17:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:2**<big><big>[[Rev.17.1 The Woman on the Beast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
 <small><sub>**BSB:**</sub></small>
 The kings of the earth were immoral with her, and those who dwell on the earth were intoxicated with the wine of her immorality.”
@@ -10,7 +10,7 @@ with whom committed sexual immorality the kings of the earth, and were made drun
 > $\quad$ alluding to: [[LXX.Jer.51.7|Jer 51:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with |**<big>[[G3326\|μεθ᾽]]</big>**  |meth᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ἧς]]</big>**  |hēs <small><sup>[[R-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

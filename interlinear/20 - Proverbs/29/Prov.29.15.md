@@ -1,4 +1,4 @@
-**Proverbs 29:15** 
+**Proverbs 29:15**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The rod and reproof give wisdom: but a child left [to himself] bringeth his mother to shame.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A rod of correction imparts wisdom, but a child left to himself disgraces his mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.14|<< Proverbs 29:14]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.16|Proverbs 29:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a rod  |**<big>&#8207;[[H7626G\|שֵׁ֣בֶט]]&#8207; </big>**| She.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and rebuke  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H8433B\|תוֹכַחַת]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> to.kha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

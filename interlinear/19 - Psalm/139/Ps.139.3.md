@@ -1,4 +1,4 @@
-**Psalms 139:3** 
+**Psalms 139:3**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou compassest my path and my lying down, and art acquainted [with] all my ways.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You search out my path and my lying down; You are aware of all my ways.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.2|<< Psalms 139:2]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.4|Psalms 139:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | traveling I  |**<big>&#8207;[[H0732\|אָרְחִ֣]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| 'a.re.Ch<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and lying down my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7252\|רִבְעִ֣]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> riv.'<small><sup>[[HVqcc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

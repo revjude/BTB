@@ -1,10 +1,10 @@
 (KJV) **2 Chronicles 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6|<< 2 Chronicles 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8|2 Chronicles 8 >>]]</td></tr></table>
 
-***Fire from Heaven***&emsp;<small><sup>\[ [[Ps.136|Psalms 136:1–26]] ]</sup></small> ^bsb1078
+<big><big>[[2Chr.7.1 Fire from Heaven|⥃]]</big></big>***Fire from Heaven***&emsp;<small><sup>\[ [[Ps.136|Psalms 136:1–26]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[2Chr.7.1|1]]**<span class="endversemarker">]</span> Now when Solomon<small><small>[^2]</small></small> had made an end of praying, the fire<small><small>[^3]</small></small> came down from heaven, and consumed the burnt offering and the sacrifices; and the glory<small><small>[^4]</small></small> of the <span class="smallcaps">Lord</span> filled the house. <span class="startversemarker">[</span>**[[2Chr.7.2|2]]**<span class="endversemarker">]</span> And the priests<small><small>[^5]</small></small> could not enter into the house of the <span class="smallcaps">Lord</span>, because the glory of the <span class="smallcaps">Lord</span> had filled the <span class="smallcaps">Lord’s</span> house. <span class="startversemarker">[</span>**[[2Chr.7.3|3]]**<span class="endversemarker">]</span> And when all the children of Israel saw how the fire came down, and the glory of the <span class="smallcaps">Lord</span> upon the house, they bowed<small><small>[^6]</small></small> themselves with their faces to the ground upon the pavement, and worshipped, and praised the <span class="smallcaps">Lord</span>, \[saying\], For \[he is<small><small>[^7]</small></small>\] good; for his mercy \[endureth\] for ever.
 
-***Sacrifices of Dedication***&emsp;<small><sup>\[ [[1Kgs.8|1 Kings 8:62–66]] ]</sup></small> ^bsb1079
+<big><big>[[2Chr.7.4 Sacrifices of Dedication|⥃]]</big></big>***Sacrifices of Dedication***&emsp;<small><sup>\[ [[1Kgs.8|1 Kings 8:62–66]] ]</sup></small>
 
  
 
@@ -12,7 +12,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Chr.7.4|4]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[2Chr.7.8|8]]**<span class="endversemarker">]</span> [¶]Also at the same time Solomon kept<small><small>[^20]</small></small> the feast seven days, and all Israel with him, a very great<small><small>[^21]</small></small> congregation, from the entering<small><small>[^22]</small></small> in of Hamath unto the river of Egypt. <span class="startversemarker">[</span>**[[2Chr.7.9|9]]**<span class="endversemarker">]</span> And in the eighth day they made a solemn assembly<small><small>[^23]</small></small>: for they kept the dedication of the altar seven days<small><small>[^24]</small></small>, and the feast seven days. <span class="startversemarker">[</span>**[[2Chr.7.10|10]]**<span class="endversemarker">]</span> And on the three and twentieth<small><small>[^25]</small></small> day of the seventh month he sent the people away into their tents, glad<small><small>[^26]</small></small> and merry in heart for the goodness<small><small>[^27]</small></small> that the <span class="smallcaps">Lord</span> had shewed unto David, and to Solomon, and to Israel his people.
 
-***The LORD’s Response to Solomon***&emsp;<small><sup>\[ [[1Kgs.9|1 Kings 9:1–9]] ]</sup></small> ^bsb1080
+<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥃]]</big></big>***The LORD’s Response to Solomon***&emsp;<small><sup>\[ [[1Kgs.9|1 Kings 9:1–9]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[2Chr.7.11|11]]**<span class="endversemarker">]</span> Thus Solomon<small><small>[^28]</small></small> finished the house of the <span class="smallcaps">Lord</span>, and the king’s house: and all that came<small><small>[^29]</small></small> into Solomon’s heart to make in the house of the <span class="smallcaps">Lord</span>, and in his own house, he prosperously effected. 
 

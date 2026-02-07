@@ -1,4 +1,4 @@
-**Proverbs 12:18** 
+**Proverbs 12:18**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is that speaketh like the piercings of a sword: but the tongue of the wise [is] health.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speaking rashly is like a piercing sword, but the tongue of the wise brings heal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.17|<< Proverbs 12:17]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.19|Proverbs 12:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is one who] speaks rashly  |**<big>&#8207;[[H0981\|בּ֭וֹטֶה]]&#8207; </big>**| Bo.teh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

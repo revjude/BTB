@@ -1,12 +1,12 @@
-**Colossians 4:1
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:1**<big><big>[[Col.4.1 Prayerful Speech and Actions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Masters, give unto [your] servants that which is just and equal; knowing that ye also have a Master in heaven.
 <small><sub>**BSB:**</sub></small>
 Masters, supply your slaves with what is right and fair, since you know that you also have a Master in heaven.
 <small><sub>**Literal:**</sub></small>
 you who [are] Masters, that which [is] righteous and that which [is] equal to the slaves do give knowing that also you yourselves have a Master in heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.25|<< Colossians 3:25]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.2|Colossians 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you who [are] |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Masters, |**<big>[[G2962H\|κύριοι,]]</big>**  |kurioi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

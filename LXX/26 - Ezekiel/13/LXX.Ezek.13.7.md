@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:7** 
 <small><sub>**LXX:**</sub></small>
 Have you not seen a false vision, and spoken vain divinations? And you speak, says \[the\] <span class="smallcaps">lord</span>, and I spoke not. 
-<small><sub>**KJV:**</sub></small>
-Have ye not seen a vain vision, and have ye not spoken a lying divination, whereas ye say, The LORD saith [it]; albeit I have not spoken?
-<small><sub>**BSB:**</sub></small>
-Haven’t you seen a false vision and spoken a lying divination when you proclaim, ‘Thus declares the LORD,’ even though I have not spoken?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.6|<< Ezekiel 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.8|Ezekiel 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

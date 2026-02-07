@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:34** 
 <small><sub>**LXX:**</sub></small>
 And Benaiah son of Jehoiada ascended, and met him, and killed him. And they entombed him in  his house in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness.
-<small><sub>**BSB:**</sub></small>
-So Benaiah son of Jehoiada went up, struck down Joab, and killed him. He was buried at his own home in the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.33|<< 1 Kings 2:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.35|1 Kings 2:35 >>]]</td></tr></table>
 
 | Translation | Greek |

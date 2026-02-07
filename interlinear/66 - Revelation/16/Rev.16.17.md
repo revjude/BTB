@@ -1,12 +1,12 @@
-**Revelation 16:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:17**<big><big>[[Rev.16.17 The Seventh Bowl of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done.
 <small><sub>**BSB:**</sub></small>
 Then the seventh angel poured out his bowl into the air, and a loud voice came from the throne in the temple, saying, “It is done!”
 <small><sub>**Literal:**</sub></small>
 And the seventh angel poured out the bowl of him upon the air, and came out a voice loud from the temple of the heaven from the throne saying; It has been done!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.16|<< Revelation 16:16]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.18|Revelation 16:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

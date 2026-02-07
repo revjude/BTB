@@ -1,4 +1,4 @@
-**Numbers 32:22** 
+**Numbers 32:22**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then when the land is subdued before the LORD, you may return and be free of obl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.21|<< Numbers 32:21]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.23|Numbers 32:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be subdued  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3533\|נִכְבְּשָׁ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nikh.be.Shah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֜רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

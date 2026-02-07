@@ -1,4 +1,4 @@
-**Proverbs 21:2** 
+**Proverbs 21:2**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every way of a man [is] right in his own eyes: but the LORD pondereth the hearts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All a man’s ways seem right to him, but the LORD weighs the heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.1|<< Proverbs 21:1]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.3|Proverbs 21:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | way of  |**<big>&#8207;[[H1870G\|דֶּרֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.rekh-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

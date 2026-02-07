@@ -1,10 +1,7 @@
 **LXX Isaiah 22:14** 
 <small><sub>**LXX:**</sub></small>
 And these \[things\] are being uncovered in the ears of \[the\] <span class="smallcaps">lord</span> of Hosts, for this sin shall not be forgiven you until whenever you should die. 
-<small><sub>**KJV:**</sub></small>
-And it was revealed in mine ears by the LORD of hosts, Surely this iniquity shall not be purged from you till ye die, saith the Lord GOD of hosts.
-<small><sub>**BSB:**</sub></small>
-The LORD of Hosts has revealed in my hearing: “Until your dying day, this sin of yours will never be atoned for,” says the Lord GOD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.13|<< Isaiah 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.15|Isaiah 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

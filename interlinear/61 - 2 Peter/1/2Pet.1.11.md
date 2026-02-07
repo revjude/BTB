@@ -1,12 +1,12 @@
-**2 Peter 1:11
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:11**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 and you will receive a lavish reception into the eternal kingdom of our Lord and Savior Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 In this way for richly will be supplied to you the entrance into the eternal kingdom of the Lord of us and Savior Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.10|<< 2 Peter 1:10]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.12|2 Peter 1:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In this way |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

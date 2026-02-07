@@ -1,5 +1,5 @@
-**Mark 15:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:24**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.
 <small><sub>**BSB:**</sub></small>
 And they crucified Him. They also divided His garments by casting lots to decide what each of them would take.
@@ -10,7 +10,7 @@ And having crucified Him also they divide for themselves the garments of Him cas
 > $\quad$ referencing: [[LXX.Ps.22.18|Ps 22:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having crucified [^1] |**<big>[[G4717\|σταυροῦσιν]]</big>**  |staurousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 32:4** 
+**Deuteronomy 32:4**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He is] the Rock, his work [is] perfect: for all his ways [are] judgment: a God of truth and without iniquity, just and right [is] he.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He is the Rock, His work is perfect; all His ways are just. A God of faithfulnes
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3]] ☩ [[Rev.19.2|Rev 19:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the rock  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6697H\|צּוּר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] perfect  |**<big>&#8207;[[H8549G\|תָּמִ֣ים]]&#8207; </big>**| ta.Mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

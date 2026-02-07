@@ -1,12 +1,12 @@
-**Matthew 2:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:2**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.
 <small><sub>**BSB:**</sub></small>
 asking, “Where is the One who has been born King of the Jews? We saw His star in the east and have come to worship Him.”
 <small><sub>**Literal:**</sub></small>
 saying; Where is the [One] having been born King of the Jews? We saw for His <the> star in the east and are come to worship Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.1|<< Matthew 2:1]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.3|Matthew 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Where |**<big>[[G4226\|ποῦ]]</big>**  |pou <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

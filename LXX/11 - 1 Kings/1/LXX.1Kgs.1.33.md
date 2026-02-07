@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:33** 
 <small><sub>**LXX:**</sub></small>
 And the king said to them, Take with you the servants  of your master, and set Solomon  my son upon  my mule, and lead him unto  Gihon! 
-<small><sub>**KJV:**</sub></small>
-The king also said unto them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon:
-<small><sub>**BSB:**</sub></small>
-“Take my servants with you,” said the king. “Set my son Solomon on my own mule and take him down to Gihon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.32|<< 1 Kings 1:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.34|1 Kings 1:34 >>]]</td></tr></table>
 
 | Translation | Greek |

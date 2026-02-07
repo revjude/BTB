@@ -1,10 +1,7 @@
 **LXX Genesis 29:28** 
 <small><sub>**LXX:**</sub></small>
 And Jacob did so, and fulfilled  these \[her\] sevenths. And Laban gave to him Rachel  his daughter, to him \[as\] wife. 
-<small><sub>**KJV:**</sub></small>
-And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.
-<small><sub>**BSB:**</sub></small>
-And Jacob did just that. He finished the week’s celebration, and Laban gave him his daughter Rachel as his wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.27|<< Genesis 29:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.29|Genesis 29:29 >>]]</td></tr></table>
 
 | Translation | Greek |

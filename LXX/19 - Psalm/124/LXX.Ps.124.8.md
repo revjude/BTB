@@ -1,10 +1,7 @@
 **LXX Psalm 124:8** 
 <small><sub>**LXX:**</sub></small>
  Our help \[is\] in \[the\] name of \[the\] <span class="smallcaps">lord</span>; the one making the heaven and the earth. 
-<small><sub>**KJV:**</sub></small>
-Our help [is] in the name of the LORD, who made heaven and earth.
-<small><sub>**BSB:**</sub></small>
-Our help is in the name of the LORD, the Maker of heaven and earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.124.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.124.7|<< Psalm 124:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.125.1|Psalm 125:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ecclesiastes 9:13** 
+**Ecclesiastes 9:13**<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This wisdom have I seen also under the sun, and it [seemed] great unto me:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have also seen this wisdom under the sun, and it was great to me:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.12|<< Ecclesiastes 9:12]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.14|Ecclesiastes 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2090\|זֹ֛ה]]&#8207; </big>**| zoh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

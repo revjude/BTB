@@ -1,4 +1,4 @@
-**Genesis 45:7** 
+**Genesis 45:7**<big><big>[[Gen.45.1 Joseph Reveals His Identity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God sent me before you to preserve you as a remnant on the earth and to save you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.6|<< Genesis 45:6]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.8|Genesis 45:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלָחֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.la.Che.<small><sup>[[HVqw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

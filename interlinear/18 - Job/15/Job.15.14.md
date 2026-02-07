@@ -1,4 +1,4 @@
-**Job 15:14** 
+**Job 15:14**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What [is] man, that he should be clean? and [he which is] born of a woman, that he should be righteous?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What is man, that he should be pure, or one born of woman, that he should be rig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.13|<< Job 15:13]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.15|Job 15:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a person  |**<big>&#8207;[[H0582\|אֱנ֥וֹשׁ]]&#8207; </big>**| 'e.No.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 21:22** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever their fathers or their brothers should come to quarrel with us, that we shall say to them, Show mercy on them! for a man did not take to himself a wife in the battle, for you did not give to them according to the time which you trespassed. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, when their fathers or their brethren come unto us to complain, that we will say unto them, Be favourable unto them for our sakes: because we reserved not to each man his wife in the war: for ye did not give unto them at this time, [that] ye should be guilty.
-<small><sub>**BSB:**</sub></small>
-When their fathers or brothers come to us to complain, we will tell them, ‘Do us a favor by helping them, since we did not get wives for each of them in the war. Since you did not actually give them your daughters, you have no guilt.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.21|<< Judges 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.23|Judges 21:23 >>]]</td></tr></table>
 
 | Translation | Greek |

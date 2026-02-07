@@ -1,10 +1,7 @@
 **LXX Esther 1:20** 
 <small><sub>**LXX:**</sub></small>
 And the law by the king be heard! which ever he should make for  his kingdom. And thus all the women shall invest honor to their own husbands, from poor unto rich. 
-<small><sub>**KJV:**</sub></small>
-And when the king’s decree which he shall make shall be published throughout all his empire, (for it is great,) all the wives shall give to their husbands honour, both to great and small.
-<small><sub>**BSB:**</sub></small>
-The edict the king issues will be heard throughout his vast kingdom—and so all women, from the least to the greatest, will honor their husbands.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.19|<< Esther 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.21|Esther 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

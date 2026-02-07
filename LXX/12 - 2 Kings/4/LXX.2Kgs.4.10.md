@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:10** 
 <small><sub>**LXX:**</sub></small>
 We should indeed make for him a small upper room, and we should put for him there a bed, and a table, and a chair, and a lamp-stand. And it will be in  his coming to us, that he shall turn aside there. 
-<small><sub>**KJV:**</sub></small>
-Let us make a little chamber, I pray thee, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither.
-<small><sub>**BSB:**</sub></small>
-Please let us make a small room upstairs and put in it a bed, a table, a chair, and a lamp for him. Then when he comes to us, he can stay there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.9|<< 2 Kings 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.11|2 Kings 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

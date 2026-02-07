@@ -1,4 +1,4 @@
-**Nehemiah 1:8** 
+**Nehemiah 1:8**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, [If] ye transgress, I will scatter you abroad among the nations:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember, I pray, the word that You commanded Your servant Moses when You said, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.7|<< Nehemiah 1:7]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.9|Nehemiah 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זְכָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ze.khor-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָא֙]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

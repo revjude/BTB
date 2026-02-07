@@ -1,10 +1,7 @@
 **LXX Isaiah 45:22** 
 <small><sub>**LXX:**</sub></small>
 Turn unto me! and you shall be delivered, O ones from \[the\] end of the earth. I am  God, and there is no other. 
-<small><sub>**KJV:**</sub></small>
-Look unto me, and be ye saved, all the ends of the earth: for I [am] God, and [there is] none else.
-<small><sub>**BSB:**</sub></small>
-Turn to Me and be saved, all the ends of the earth; for I am God, and there is no other.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.21|<< Isaiah 45:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.23|Isaiah 45:23 >>]]</td></tr></table>
 
 | Translation | Greek |

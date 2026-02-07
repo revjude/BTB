@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And king David blessed the <span class="smallcaps">lord</span> before the assembly, saying, Blessed are you, O <span class="smallcaps">lord</span>  God of Israel,  our father from the eon and unto the eon. 
-<small><sub>**KJV:**</sub></small>
-Wherefore David blessed the LORD before all the congregation: and David said, Blessed [be] thou, LORD God of Israel our father, for ever and ever.
-<small><sub>**BSB:**</sub></small>
-Then David blessed the LORD in the sight of all the assembly and said: “May You be blessed, O LORD, God of our father Israel, from everlasting to everlasting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.9|<< 1 Chronicles 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.11|1 Chronicles 29:11 >>]]</td></tr></table>
 
 | Translation | Greek |

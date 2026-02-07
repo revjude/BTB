@@ -1,10 +1,7 @@
 **LXX Proverbs 8:9** 
 <small><sub>**LXX:**</sub></small>
 All \[is\] face to face to the ones perceiving; and straight to the ones finding knowledge. 
-<small><sub>**KJV:**</sub></small>
-They [are] all plain to him that understandeth, and right to them that find knowledge.
-<small><sub>**BSB:**</sub></small>
-They are all plain to the discerning, and upright to those who find knowledge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.8|<< Proverbs 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.10|Proverbs 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

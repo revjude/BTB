@@ -1,4 +1,4 @@
-**Psalms 139:5** 
+**Psalms 139:5**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast beset me behind and before, and laid thine hand upon me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You hem me in behind and before; You have laid Your hand upon me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.4|<< Psalms 139:4]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.6|Psalms 139:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | back part  |**<big>&#8207;[[H0268\|אָח֣וֹר]]&#8207; </big>**| 'a.Chor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and front  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H6924H\|קֶ֣דֶם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

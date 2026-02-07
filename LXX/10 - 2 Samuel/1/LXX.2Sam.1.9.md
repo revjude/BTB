@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, Stand indeed above me, and put me to death! for an awful darkness constrained me, for my life \[is\] yet in me. 
-<small><sub>**KJV:**</sub></small>
-He said unto me again, Stand, I pray thee, upon me, and slay me: for anguish is come upon me, because my life [is] yet whole in me.
-<small><sub>**BSB:**</sub></small>
-Then he begged me, ‘Stand over me and kill me, for agony has seized me, but my life still lingers.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.8|<< 2 Samuel 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.10|2 Samuel 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

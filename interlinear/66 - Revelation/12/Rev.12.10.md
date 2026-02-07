@@ -1,12 +1,12 @@
-**Revelation 12:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:10**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
 <small><sub>**BSB:**</sub></small>
 And I heard a loud voice in heaven saying: “Now have come the salvation and the power and the kingdom of our God, and the authority of His Christ. For the accuser of our brothers has been thrown down—he who accuses them day and night before our God.
 <small><sub>**Literal:**</sub></small>
 And I heard a voice great in <the> heaven saying: Now have come the salvation and the power and the kingdom of the God of us, and the authority of the Christ of Him, because has been cast down the accuser of the brothers of us who is accusing them before the God of us day and night.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.9|<< Revelation 12:9]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.11|Revelation 12:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I heard |**<big>[[G0191\|ἤκουσα]]</big>**  |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

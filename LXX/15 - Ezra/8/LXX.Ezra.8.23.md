@@ -1,10 +1,7 @@
 **LXX Ezra 8:23** 
 <small><sub>**LXX:**</sub></small>
 And we fasted and sought from  our God concerning this; and he heeded us. 
-<small><sub>**KJV:**</sub></small>
-So we fasted and besought our God for this: and he was intreated of us.
-<small><sub>**BSB:**</sub></small>
-So we fasted and petitioned our God about this, and He granted our request.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.22|<< Ezra 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.24|Ezra 8:24 >>]]</td></tr></table>
 
 | Translation | Greek |

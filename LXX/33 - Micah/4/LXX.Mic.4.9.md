@@ -1,10 +1,7 @@
 **LXX Micah 4:9** 
 <small><sub>**LXX:**</sub></small>
 And now, why did you know bad \[things\]?  Was not a king in you? Or  \[has\] your counsel perished? For your pangs hold firmly as one giving birth. 
-<small><sub>**KJV:**</sub></small>
-Now why dost thou cry out aloud? [is there] no king in thee? is thy counseller perished? for pangs have taken thee as a woman in travail.
-<small><sub>**BSB:**</sub></small>
-Why do you now cry aloud? Is there no king among you? Has your counselor perished so that anguish grips you like a woman in labor?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.8|<< Micah 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.10|Micah 4:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Micah 4:9** is...

@@ -1,10 +1,7 @@
 **LXX Proverbs 11:29** 
 <small><sub>**LXX:**</sub></small>
 The one not being accommodating to his own house shall inherit \[the\] wind; and \[the\] fool will be a slave to \[the\] intelligent. 
-<small><sub>**KJV:**</sub></small>
-He that troubleth his own house shall inherit the wind: and the fool [shall be] servant to the wise of heart.
-<small><sub>**BSB:**</sub></small>
-He who brings trouble on his house will inherit the wind, and the fool will be servant to the wise of heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.28|<< Proverbs 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.30|Proverbs 11:30 >>]]</td></tr></table>
 
 | Translation | Greek |

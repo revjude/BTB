@@ -1,10 +1,7 @@
 **LXX Amos 2:5** 
 <small><sub>**LXX:**</sub></small>
 And I will send out fire upon Judah, and it shall devour the foundations of Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-But I will send a fire upon Judah, and it shall devour the palaces of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-So I will send fire upon Judah to consume the citadels of Jerusalem.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.4|<< Amos 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.6|Amos 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:15** 
 <small><sub>**LXX:**</sub></small>
 And Saul said, From out of Amalek I brought them, which the people procured, the most excellent of the flocks and of the herds, so as it may be a sacrifice \[to the\] <span class="smallcaps">lord</span>  your God, and the rest I utterly destroyed. 
-<small><sub>**KJV:**</sub></small>
-And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the LORD thy God; and the rest we have utterly destroyed.
-<small><sub>**BSB:**</sub></small>
-Saul answered, “The troops brought them from the Amalekites; they spared the best sheep and cattle to sacrifice to the LORD your God, but the rest we devoted to destruction.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.14|<< 1 Samuel 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.16|1 Samuel 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

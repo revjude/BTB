@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:21** 
 <small><sub>**LXX:**</sub></small>
 And Saul said, I will give her to him, and she shall be to him for an obstacle, and \[the\] hand of \[the\] Philistines shall be upon him. And Saul said to David \[a second time\], You shall ally to me by marriage today. 
-<small><sub>**KJV:**</sub></small>
-And Saul said, I will give him her, that she may be a snare to him, and that the hand of the Philistines may be against him. Wherefore Saul said to David, Thou shalt this day be my son in law in [the one of] the twain.
-<small><sub>**BSB:**</sub></small>
-“I will give her to David,” Saul thought, “so that she may be a snare to him, and the hand of the Philistines may be against him.” So Saul said to David, “For a second time now you can be my son-in-law.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.20|<< 1 Samuel 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.22|1 Samuel 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

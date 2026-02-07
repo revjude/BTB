@@ -1,5 +1,5 @@
-**Matthew 4:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:15**<big><big>[[Matt.4.12 Jesus Begins His Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The land of Zabulon, and the land of Nephthalim, [by] the way of the sea, beyond Jordan, Galilee of the Gentiles;
 <small><sub>**BSB:**</sub></small>
 “Land of Zebulun and land of Naphtali, the Way of the Sea, beyond the Jordan, Galilee of the Gentiles—
@@ -10,7 +10,7 @@ Land of Zebulun and land of Naphtali, way of [the] sea beyond the Jordan, Galile
 > $\quad$ referencing: [[LXX.Isa.9.1|Isa 9:1-2]] ☩ [[LXX.Isa.42.7|Isa 42:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Land |**<big>[[G1093H\|γῆ]]</big>**  |gē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Zebulun |**<big>[[G2194\|Ζαβουλὼν]]</big>**  |Zaboulōn <small><sup>[[N-GSM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

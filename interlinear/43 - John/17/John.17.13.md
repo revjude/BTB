@@ -1,12 +1,12 @@
-**John 17:13
-**<small><sub>**KJV:**</sub></small>
+**John 17:13**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now come I to thee; and these things I speak in the world, that they might have my joy fulfilled in themselves.
 <small><sub>**BSB:**</sub></small>
 But now I am coming to You; and I am saying these things while I am in the world, so that they may have My joy fulfilled within them.
 <small><sub>**Literal:**</sub></small>
 Now however to You I am coming and these things I speak in the world, so that they may have <the> joy <the> of Mine fulfilled within themselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.12|<< John 17:12]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.14|John 17:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

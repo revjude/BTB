@@ -1,12 +1,12 @@
-**Luke 9:55
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:55**<big><big>[[Luke.9.51 The Samaritans Reject Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of.
 <small><sub>**BSB:**</sub></small>
 But Jesus turned and rebuked them.
 <small><sub>**Literal:**</sub></small>
 Having turned then He rebuked them and said not you know such as spirit are you yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.54|<< Luke 9:54]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.56|Luke 9:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having turned |**<big>[[G4762\|στραφεὶς]]</big>**  |strapheis <small><sup>[[V-2APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

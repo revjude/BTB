@@ -1,12 +1,12 @@
-**Revelation 18:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:16**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saying, Alas, alas, that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!
 <small><sub>**BSB:**</sub></small>
 saying: “Woe, woe to the great city, clothed in fine linen and purple and scarlet, adorned with gold and precious stones and pearls!
 <small><sub>**Literal:**</sub></small>
 and saying: Woe woe you who [are] the city <the> great, which having been clothed with fine linen and purple and scarlet and adorned with gold [things] and with stone precious and with pearl!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.15|<< Revelation 18:15]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.17|Revelation 18:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | saying: |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Job 13:16** 
+**Job 13:16**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He also [shall be] my salvation: for an hypocrite shall not come before him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Moreover, this will be my salvation, for no godless man can appear before Him.
 > $\quad$ referenced by: [[Phil.1.19|Phil 1:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H1931\|הוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

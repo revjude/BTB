@@ -1,12 +1,12 @@
-**Luke 17:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:31**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.
 <small><sub>**BSB:**</sub></small>
 On that day, let no one on the housetop come down to retrieve his possessions. Likewise, let no one in the field return for anything he has left behind.
 <small><sub>**Literal:**</sub></small>
 In that [very] <the> day the [one who] will be on the housetop and the goods of him in the house, not he should come down to take away them; and the [one] in the field likewise not he should return to the [things] back.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.30|<< Luke 17:30]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.32|Luke 17:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that [very] |**<big>[[G1565\|ἐκείνῃ]]</big>**  |ekeinē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Numbers 6:10** 
+**Numbers 6:10**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the eighth day he shall bring two turtles, or two young pigeons, to the priest, to the door of the tabernacle of the congregation:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the eighth day he must bring two turtledoves or two young pigeons to the prie
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.9|<< Numbers 6:9]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.11|Numbers 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on the day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vai.<small><sup>[[HRd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> eighth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8066\|שְּׁמִינִ֗י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.mi.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

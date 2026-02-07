@@ -1,4 +1,4 @@
-**Psalms 143:5** 
+**Psalms 143:5**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I remember the days of old; I meditate on all Your works; I consider the work of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.4|<< Psalms 143:4]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.6|Psalms 143:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have remembered  |**<big>&#8207;[[H2142\|זָ֘כַ֤רְתִּי]]&#8207; </big>**| za.Khar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

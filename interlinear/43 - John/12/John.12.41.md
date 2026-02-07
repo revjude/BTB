@@ -1,12 +1,12 @@
-**John 12:41
-**<small><sub>**KJV:**</sub></small>
+**John 12:41**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These things said Esaias, when he saw his glory, and spake of him.
 <small><sub>**BSB:**</sub></small>
 Isaiah said these things because he saw Jesus’ glory and spoke about Him.
 <small><sub>**Literal:**</sub></small>
 These things said Isaiah because he saw the glory of Him and spoke concerning Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.40|<< John 12:40]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.42|John 12:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

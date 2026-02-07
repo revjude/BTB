@@ -1,10 +1,7 @@
 **LXX Proverbs 9:7** 
 <small><sub>**LXX:**</sub></small>
 The one correcting evil \[men\] shall take on himself dishonor; and in reproving, the impious scoffs at himself. 
-<small><sub>**KJV:**</sub></small>
-He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked [man getteth] himself a blot.
-<small><sub>**BSB:**</sub></small>
-He who corrects a mocker brings shame on himself; he who rebukes a wicked man taints himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.6|<< Proverbs 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.8|Proverbs 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 16:14** 
+**Leviticus 16:14**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take of the blood of the bullock, and sprinkle [it] with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And he is to take some of the bull’s blood and sprinkle it with his finger on 
 > $\quad$ referenced by: [[Heb.9.13|Heb 9:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַח֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of [the] blood of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1818\|דַּ֣ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Dam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

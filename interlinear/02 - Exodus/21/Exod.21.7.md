@@ -1,4 +1,4 @@
-**Exodus 21:7** 
+**Exodus 21:7**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if a man sells his daughter as a servant, she is not to go free as the mense
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.6|<< Exodus 21:6]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.8|Exodus 21:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will sell  |**<big>&#8207;[[H4376\|יִמְכֹּ֥ר]]&#8207; </big>**| yim.Kor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 18:26** 
 <small><sub>**LXX:**</sub></small>
 And to the Levites you shall speak, and you shall say to them, If you should take from the sons of Israel the tenth part, which I have given to you from them for a lot, then you shall remove to yourselves from it a cut-away portion \[to the\] <span class="smallcaps">lord</span>, a tenth of the tenth part. 
-<small><sub>**KJV:**</sub></small>
-Thus speak unto the Levites, and say unto them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the LORD, [even] a tenth [part] of the tithe.
-<small><sub>**BSB:**</sub></small>
-“Speak to the Levites and tell them: ‘When you receive from the Israelites the tithe that I have given you as your inheritance, you must present part of it as an offering to the LORD—a tithe of the tithe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.25|<< Numbers 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.27|Numbers 18:27 >>]]</td></tr></table>
 
 | Translation | Greek |

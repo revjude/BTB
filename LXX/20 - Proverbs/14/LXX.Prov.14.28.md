@@ -1,10 +1,7 @@
 **LXX Proverbs 14:28** 
 <small><sub>**LXX:**</sub></small>
 Glory of a king \[is\] in an abundant nation; but in a wanting people \[there is\] destruction of a mighty one. 
-<small><sub>**KJV:**</sub></small>
-In the multitude of people [is] the king’s honour: but in the want of people [is] the destruction of the prince.
-<small><sub>**BSB:**</sub></small>
-A large population is a king’s splendor, but a lack of subjects is a prince’s ruin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.27|<< Proverbs 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.29|Proverbs 14:29 >>]]</td></tr></table>
 
 | Translation | Greek |

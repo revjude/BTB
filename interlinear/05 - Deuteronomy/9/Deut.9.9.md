@@ -1,4 +1,4 @@
-**Deuteronomy 9:9** 
+**Deuteronomy 9:9**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I was gone up into the mount to receive the tables of stone, [even] the tables of the covenant which the LORD made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I went up on the mountain to receive the tablets of stone, the tablets of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.8|<< Deuteronomy 9:8]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.10|Deuteronomy 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when went up I  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5927G\|עֲלֹתִ֣]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.lo.T<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the mountain towards  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H2022G\|הָ֗רָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ha.ra<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

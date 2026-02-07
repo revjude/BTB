@@ -1,10 +1,7 @@
 **LXX Leviticus 18:3** 
 <small><sub>**LXX:**</sub></small>
 According to the practices of the land of Egypt, in which you sojourned in it, you shall not do. And according to the practices of the land of Canaan, into which I bring you there, you shall not do. And  their laws you shall not go by. 
-<small><sub>**KJV:**</sub></small>
-After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.
-<small><sub>**BSB:**</sub></small>
-You must not follow the practices of the land of Egypt, where you used to live, and you must not follow the practices of the land of Canaan, into which I am bringing you. You must not walk in their customs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.2|<< Leviticus 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.4|Leviticus 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:2** 
 <small><sub>**LXX:**</sub></small>
 And in the eleventh year  of Zedekiah, in the fourth month, ninth of the month, the city was broken asunder. 
-<small><sub>**KJV:**</sub></small>
-[And] in the eleventh year of Zedekiah, in the fourth month, the ninth [day] of the month, the city was broken up.
-<small><sub>**BSB:**</sub></small>
-And on the ninth day of the fourth month of Zedekiah’s eleventh year, the city was breached.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.1|<< Jeremiah 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.3|Jeremiah 39:3 >>]]</td></tr></table>
 
 | Translation | Greek |

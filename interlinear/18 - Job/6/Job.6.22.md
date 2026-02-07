@@ -1,4 +1,4 @@
-**Job 6:22** 
+**Job 6:22**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did I say, Bring unto me? or, Give a reward for me of your substance?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have I ever said, ‘Give me something; offer me a bribe from your wealth;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.21|<< Job 6:21]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.23|Job 6:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ for  |**<big>&#8207;[[H9008\|הֲֽ]]&#8207;&#8207;[[H3588A\|כִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have I said  |**<big>&#8207;[[H0559\|אָ֭מַרְתִּי]]&#8207; </big>**| 'A.mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

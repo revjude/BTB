@@ -1,5 +1,5 @@
-**Acts 7:42
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:42**<big><big>[[Acts.7.39 The Rebellion of Israel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices [by the space of] forty years in the wilderness?
 <small><sub>**BSB:**</sub></small>
 But God turned away from them and gave them over to the worship of the host of heaven, as it is written in the book of the prophets: ‘Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?
@@ -10,7 +10,7 @@ Turned away however <the> God and delivered them to worship the host <the> of he
 > $\quad$ referencing: [[LXX.Amos.5.25|Amos 5:25-27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Turned away |**<big>[[G4762\|ἔστρεψεν]]</big>**  |estrepsen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

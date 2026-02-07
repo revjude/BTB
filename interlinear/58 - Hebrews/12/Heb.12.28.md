@@ -1,12 +1,12 @@
-**Hebrews 12:28
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:28**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:
 <small><sub>**BSB:**</sub></small>
 Therefore, since we are receiving an unshakable kingdom, let us be filled with gratitude, and so worship God acceptably with reverence and awe.
 <small><sub>**Literal:**</sub></small>
 Therefore a kingdom not to be shaken receiving we may have grace through which we may serve well pleasingly <the> God with reverence and fear;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.27|<< Hebrews 12:27]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.29|Hebrews 12:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a kingdom |**<big>[[G0932\|βασιλείαν]]</big>**  |basileian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

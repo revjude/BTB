@@ -1,10 +1,7 @@
 **LXX Job 42:14** 
 <small><sub>**LXX:**</sub></small>
 And he called the  first, Day, and the second, Keziah, and the third, Amalthaia's Horn. 
-<small><sub>**KJV:**</sub></small>
-And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch.
-<small><sub>**BSB:**</sub></small>
-He named his first daughter Jemimah, his second Keziah, and his third Keren-happuch.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.13|<< Job 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.15|Job 42:15 >>]]</td></tr></table>
 
 | Translation | Greek |

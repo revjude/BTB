@@ -1,10 +1,7 @@
 **LXX Psalm 135:11** 
 <small><sub>**LXX:**</sub></small>
  Sihon king of the Amorites, and  Og king  of Bashan, and all the kingdoms of Canaan. 
-<small><sub>**KJV:**</sub></small>
-Sihon king of the Amorites, and Og king of Bashan, and all the kingdoms of Canaan:
-<small><sub>**BSB:**</sub></small>
-Sihon king of the Amorites, Og king of Bashan, and all the kings of Canaan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.10|<< Psalm 135:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.12|Psalm 135:12 >>]]</td></tr></table>
 
 | Translation | Greek |

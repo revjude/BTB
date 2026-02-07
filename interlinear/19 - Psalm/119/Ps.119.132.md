@@ -1,4 +1,4 @@
-**Psalms 119:132** 
+**Psalms 119:132**<big><big>[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look thou upon me, and be merciful unto me, as thou usest to do unto those that love thy name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn to me and show me mercy, as You do to those who love Your name.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.132|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.131|<< Psalms 119:131]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.133|Psalms 119:133 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn  |**<big>&#8207;[[H6437G\|פְּנֵה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.neh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

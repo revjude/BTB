@@ -1,4 +1,4 @@
-**Psalms 103:20** 
+**Psalms 103:20**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bless the LORD, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bless the LORD, all His angels mighty in strength who carry out His word, who he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.19|<< Psalms 103:19]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.21|Psalms 103:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bless  |**<big>&#8207;[[H1288\|בָּרֲכ֥וּ]]&#8207; </big>**| ba.ra.Khu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

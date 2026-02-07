@@ -1,12 +1,12 @@
-**Luke 4:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:43**<big><big>[[Luke.4.42 Jesus Preaches in Judea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, I must preach the kingdom of God to other cities also: for therefore am I sent.
 <small><sub>**BSB:**</sub></small>
 But Jesus told them, “I must preach the good news of the kingdom of God to the other towns as well, because that is why I was sent.”
 <small><sub>**Literal:**</sub></small>
 <the> But He said to them that Also to the other towns to evangelise Me it behooves of the kingdom <the> of God, because for this have I been sent forth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.42|<< Luke 4:42]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.44|Luke 4:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

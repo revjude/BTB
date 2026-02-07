@@ -1,10 +1,7 @@
 **LXX Isaiah 3:20** 
 <small><sub>**LXX:**</sub></small>
 and the array of the ornament  of glory, and the armlets, and the bracelets, and the wreaths, and the rings, and the right armbands, 
-<small><sub>**KJV:**</sub></small>
-The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the earrings,
-<small><sub>**BSB:**</sub></small>
-their headdresses, ankle chains, and sashes; their perfume bottles and charms;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.19|<< Isaiah 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.21|Isaiah 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

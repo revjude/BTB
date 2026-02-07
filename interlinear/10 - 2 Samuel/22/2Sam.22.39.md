@@ -1,4 +1,4 @@
-**2 Samuel 22:39** 
+**2 Samuel 22:39**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I devoured and crushed them so they could not rise; they have fallen under my fe
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.38|<< 2 Samuel 22:38]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.40|2 Samuel 22:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I brought to an end them  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3615H\|אֲכַלֵּ֥]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.kha.Le<small><sup>[[HVpw1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I shattered them  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H4272\|אֶמְחָצֵ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'em.cha.Tze<small><sup>[[HVqw1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

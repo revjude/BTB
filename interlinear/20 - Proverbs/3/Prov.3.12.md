@@ -1,4 +1,4 @@
-**Proverbs 3:12** 
+**Proverbs 3:12**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For whom the LORD loveth he correcteth; even as a father the son [in whom] he delighteth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ for the LORD disciplines the one He loves, as does a father the son in whom he d
 > $\quad$ referenced by: [[Heb.12.5|Heb 12:5-6]] ☩ [[Rev.3.19|Rev 3:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶ֥ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 10:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:29**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore came I [unto you] without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?
 <small><sub>**BSB:**</sub></small>
 So when I was invited, I came without objection. I ask, then, why have you sent for me?”
 <small><sub>**Literal:**</sub></small>
 Therefore also without objection I came having been summoned. I inquire therefore, for what reason did you summon me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.28|<< Acts 10:28]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.30|Acts 10:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

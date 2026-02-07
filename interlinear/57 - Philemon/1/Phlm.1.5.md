@@ -1,12 +1,12 @@
-**Philemon 1:5
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:5**<big><big>[[Phlm.1.4 Philemon’s Faith and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;
 <small><sub>**BSB:**</sub></small>
 because I hear about your faith in the Lord Jesus and your love for all the saints.
 <small><sub>**Literal:**</sub></small>
 hearing of your <the> love and the faith that you have toward the Lord Jesus and toward all the saints,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.4|<< Philemon 1:4]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.6|Philemon 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hearing |**<big>[[G0191\|ἀκούων]]</big>**  |akouōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of your |**<big>[[G4771\|σου]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

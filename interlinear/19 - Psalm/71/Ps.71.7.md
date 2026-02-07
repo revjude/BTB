@@ -1,4 +1,4 @@
-**Psalms 71:7** 
+**Psalms 71:7**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am as a wonder unto many; but thou [art] my strong refuge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have become a portent to many, but You are my strong refuge.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.6|<< Psalms 71:6]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.8|Psalms 71:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a portent  |**<big>&#8207;[[H9004\|כְּ֭]]&#8207;&#8207;[[H4159\|מוֹפֵת]]&#8207; </big>**| Ke.<small><sup>[[HR]]</sup></small> mo.fet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have become  |**<big>&#8207;[[H1961\|הָיִ֣יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

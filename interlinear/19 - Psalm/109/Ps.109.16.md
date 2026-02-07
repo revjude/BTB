@@ -1,4 +1,4 @@
-**Psalms 109:16** 
+**Psalms 109:16**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because that he remembered not to shew mercy, but persecuted the poor and needy man, that he might even slay the broken in heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For he never thought to show kindness, but pursued the poor and needy and broken
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.15|<< Psalms 109:15]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.17|Psalms 109:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H3282\|יַ֗עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 42:6** 
+**Isaiah 42:6**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I the LORD have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I the LORD have called thee in righteousness, and will hold thine hand, and will
 > $\quad$ referenced by: [[Isa.49.6|Isa 49:6]] ☩ [[Acts.13.47|Acts 13:47]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֧י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

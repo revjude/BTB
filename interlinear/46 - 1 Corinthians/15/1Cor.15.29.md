@@ -1,12 +1,12 @@
-**1 Corinthians 15:29
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:29**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?
 <small><sub>**BSB:**</sub></small>
 If these things are not so, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?
 <small><sub>**Literal:**</sub></small>
 Otherwise what will they do who are baptized for the dead? If at all [the] dead not are raised; why also are they baptized for <the> them?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.28|<< 1 Corinthians 15:28]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.30|1 Corinthians 15:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Otherwise |**<big>[[G1893\|Ἐπεὶ]]</big>**  |Epei <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

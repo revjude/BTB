@@ -1,4 +1,4 @@
-**Jeremiah 34:4** 
+**Jeremiah 34:4**<big><big>[[Jer.34.1 A Prophecy against Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet hear the word of the LORD, O Zedekiah king of Judah; Thus saith the LORD of thee, Thou shalt not die by the sword:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet hear the word of the LORD, O Zedekiah king of Judah. This is what the LORD s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.3|<< Jeremiah 34:3]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.5|Jeremiah 34:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַ֚ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hear  |**<big>&#8207;[[H8085G\|שְׁמַ֣ע]]&#8207; </big>**| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

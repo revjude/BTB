@@ -1,4 +1,4 @@
-**Psalms 119:103** 
+**Psalms 119:103**<big><big>[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How sweet are thy words unto my taste! [yea, sweeter] than honey to my mouth!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How sweet are Your words to my taste—sweeter than honey in my mouth!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.103|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.102|<< Psalms 119:102]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.104|Psalms 119:104 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are smooth  |**<big>&#8207;[[H4452\|נִּמְלְצ֣וּ]]&#8207; </big>**| nim.le.Tzu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

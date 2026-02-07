@@ -1,4 +1,4 @@
-**Song of Solomon 4:10** 
+**Song of Solomon 4:10**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How fair is thy love, my sister, [my] spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How delightful is your love, my sister, my bride! Your love is much better than 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.9|<< Song of Solomon 4:9]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.11|Song of Solomon 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are beautiful  |**<big>&#8207;[[H3302\|יָּפ֥וּ]]&#8207; </big>**| ya.Fu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

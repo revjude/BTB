@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:23** 
 <small><sub>**LXX:**</sub></small>
 And I rose up and went forth to the plain. And behold, there \[the\] glory of \[the\] <span class="smallcaps">lord</span> stood as the glory which I beheld by the river  Chebar. And I fell upon my face. 
-<small><sub>**KJV:**</sub></small>
-Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river of Chebar: and I fell on my face.
-<small><sub>**BSB:**</sub></small>
-So I got up and went out to the plain, and behold, the glory of the LORD was present there, like the glory I had seen by the River Kebar, and I fell facedown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.22|<< Ezekiel 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.24|Ezekiel 3:24 >>]]</td></tr></table>
 
 | Translation | Greek |

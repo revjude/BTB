@@ -1,4 +1,4 @@
-**Exodus 8:11** (8:7)
+**Exodus 8:11**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The frogs will depart from you and your houses and your officials and your peopl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.10|<< Exodus 8:10]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.12|Exodus 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will depart  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5493H\|סָר֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the frogs  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H6854\|צְפַרְדְּעִ֗ים]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> tz.far.de.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezra 10:3** 
 <small><sub>**LXX:**</sub></small>
 And now we should ordain a covenant \[with\] our God, to lead out all the wives and the ones being born from them, according to counsel of \[the\] <span class="smallcaps">lord</span>, and of the ones trembling in \[the\] commandments of our God. And let it be according to the law! 
-<small><sub>**KJV:**</sub></small>
-Now therefore let us make a covenant with our God to put away all the wives, and such as are born of them, according to the counsel of my lord, and of those that tremble at the commandment of our God; and let it be done according to the law.
-<small><sub>**BSB:**</sub></small>
-So now let us make a covenant before our God to send away all the foreign wives and their children, according to the counsel of my lord and of those who tremble at the command of our God. Let it be done according to the Law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.2|<< Ezra 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.4|Ezra 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

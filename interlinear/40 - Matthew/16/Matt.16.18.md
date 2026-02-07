@@ -1,12 +1,12 @@
-**Matthew 16:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:18**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
 <small><sub>**BSB:**</sub></small>
 And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it.
 <small><sub>**Literal:**</sub></small>
 I myself also now to you say that you yourself are Peter and on this the rock I will build My <the> church, and [the] gates of hades not will prevail against it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.17|<< Matthew 16:17]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.19|Matthew 16:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself also |**<big>[[G1473\|κἀγὼ]]</big>**  |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Hosea 7:12** 
 <small><sub>**LXX:**</sub></small>
 As whenever they shall go I will put over them  my net; as the birds  of heaven, I will lead them down; I will correct them in the hearing  of their affliction. 
-<small><sub>**KJV:**</sub></small>
-When they shall go, I will spread my net upon them; I will bring them down as the fowls of the heaven; I will chastise them, as their congregation hath heard.
-<small><sub>**BSB:**</sub></small>
-As they go, I will spread My net over them; I will bring them down like birds of the air. I will chastise them when I hear them flocking together.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.11|<< Hosea 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.13|Hosea 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 24:5** (24:6)
+**1 Samuel 24:5**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass afterward, that David’s heart smote him, because he had cut off Saul’s skirt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Afterward, David’s conscience was stricken because he had cut off the corner o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.4|<< 1 Samuel 24:4]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.6|1 Samuel 24:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַֽחֲרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.cha.rei-<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Open wide, O Lebanon,  your doors, and fire devour  your cedars! 
-<small><sub>**KJV:**</sub></small>
-Open thy doors, O Lebanon, that the fire may devour thy cedars.
-<small><sub>**BSB:**</sub></small>
-Open your doors, O Lebanon, that the fire may consume your cedars!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.12|<< Zechariah 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.2|Zechariah 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

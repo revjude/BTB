@@ -1,10 +1,7 @@
 **LXX Judges 14:11** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  their fearing him, that they posted in front to him thirty companions, and they were with him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when they saw him, that they brought thirty companions to be with him.
-<small><sub>**BSB:**</sub></small>
-And when the Philistines saw him, they selected thirty men to accompany him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.10|<< Judges 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.12|Judges 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 8:21** 
+**Daniel 8:21**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rough goat [is] the king of Grecia: and the great horn that [is] between his eyes [is] the first king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The shaggy goat represents the king of Greece, and the large horn between his ey
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.20|<< Daniel 8:20]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.22|Daniel 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the he-goat  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6842\|צָּפִ֥יר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> tza.Fir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> hairy  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8163B\|שָּׂעִ֖יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.'Ir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

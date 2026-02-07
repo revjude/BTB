@@ -1,4 +1,4 @@
-**1 Chronicles 17:25** 
+**1 Chronicles 17:25**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou, O my God, hast told thy servant that thou wilt build him an house: therefore thy servant hath found [in his heart] to pray before thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You, my God, have revealed to Your servant that You will build a house for h
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.24|<< 1 Chronicles 17:24]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.26|1 Chronicles 17:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

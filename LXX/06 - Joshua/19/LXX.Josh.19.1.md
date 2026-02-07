@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the second lot came forth  to Simeon, to the tribe of \[the\] sons of Simeon, according to their peoples; and their inheritance was between \[the\] lots of \[the\] sons of Judah. 
-<small><sub>**KJV:**</sub></small>
-And the second lot came forth to Simeon, [even] for the tribe of the children of Simeon according to their families: and their inheritance was within the inheritance of the children of Judah.
-<small><sub>**BSB:**</sub></small>
-The second lot came out for the clans of the tribe of Simeon: Their inheritance lay within the territory of Judah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.28|<< Joshua 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.2|Joshua 19:2 >>]]</td></tr></table>
 
 | Translation | Greek |

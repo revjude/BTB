@@ -1,10 +1,7 @@
 **LXX Proverbs 31:3** 
 <small><sub>**LXX:**</sub></small>
 You should not give your wealth to women, nor  your mind and livelihood for an afterthought. Do all \[things\] with counsel! Drink wine with counsel! 
-<small><sub>**KJV:**</sub></small>
-Give not thy strength unto women, nor thy ways to that which destroyeth kings.
-<small><sub>**BSB:**</sub></small>
-Do not spend your strength on women or your vigor on those who ruin kings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.2|<< Proverbs 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.4|Proverbs 31:4 >>]]</td></tr></table>
 
 | Translation | Greek |

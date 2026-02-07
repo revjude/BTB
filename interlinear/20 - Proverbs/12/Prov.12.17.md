@@ -1,4 +1,4 @@
-**Proverbs 12:17** 
+**Proverbs 12:17**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that] speaketh truth sheweth forth righteousness: but a false witness deceit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who speaks the truth declares what is right, but a false witness speaks decei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.16|<< Proverbs 12:16]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.18|Proverbs 12:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he breathes out  |**<big>&#8207;[[H6315\|יָפִ֣יחַ]]&#8207; </big>**| ya.Fi.ach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faithfulness  |**<big>&#8207;[[H0530\|אֱ֭מוּנָה]]&#8207; </big>**| 'E.mu.nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 4:19** 
 <small><sub>**LXX:**</sub></small>
 then the ones dwelling in houses of clay, of whom also we are from out of the same mortar -- he smites them in \[the\] manner of a moth. 
-<small><sub>**KJV:**</sub></small>
-How much less [in] them that dwell in houses of clay, whose foundation [is] in the dust, [which] are crushed before the moth?
-<small><sub>**BSB:**</sub></small>
-how much more those who dwell in houses of clay, whose foundations are in the dust, who can be crushed like a moth!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.18|<< Job 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.20|Job 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

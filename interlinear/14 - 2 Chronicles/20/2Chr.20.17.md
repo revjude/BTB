@@ -1,4 +1,4 @@
-**2 Chronicles 20:17** 
+**2 Chronicles 20:17**<big><big>[[2Chr.20.14 The Prophecy of Jahaziel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not [need] to fight in this [battle]: set yourselves, stand ye [still], and see the salvation of the LORD with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the LORD [will be] with you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You need not fight this battle. Take up your positions, stand firm, and see the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.16|<< 2 Chronicles 20:16]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.18|2 Chronicles 20:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

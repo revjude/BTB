@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:17** 
 <small><sub>**LXX:**</sub></small>
 And he turned towards \[the\] north and measured in front of the north \[side\] five hundred cubits with the reed  measure. 
-<small><sub>**KJV:**</sub></small>
-He measured the north side, five hundred reeds, with the measuring reed round about.
-<small><sub>**BSB:**</sub></small>
-He measured the north side to be five hundred cubits long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.16|<< Ezekiel 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.18|Ezekiel 42:18 >>]]</td></tr></table>
 
 | Translation | Greek |

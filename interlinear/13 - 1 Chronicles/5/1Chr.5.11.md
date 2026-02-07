@@ -1,4 +1,4 @@
-**1 Chronicles 5:11** 
+**1 Chronicles 5:11**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Gad dwelt over against them, in the land of Bashan unto Salchah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The descendants of Gad lived next to the Reubenites in the land of Bashan, as fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.10|<< 1 Chronicles 5:10]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.12|1 Chronicles 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] descendants of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gad  |**<big>&#8207;[[H1410G\|גָ֣ד]]&#8207; </big>**| gad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

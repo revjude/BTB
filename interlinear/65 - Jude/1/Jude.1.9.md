@@ -1,5 +1,5 @@
-**Jude 1:9
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:9**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.
 <small><sub>**BSB:**</sub></small>
 But even the archangel Michael, when he disputed with the devil over the body of Moses, did not presume to bring a slanderous charge against him, but said, “The Lord rebuke you!”
@@ -11,7 +11,7 @@ But even the archangel Michael, when he disputed with the devil over the body of
 > $\quad$ referencing: [[LXX.Zech.3.2|Zech 3:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

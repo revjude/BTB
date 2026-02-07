@@ -1,4 +1,4 @@
-**Psalms 48:13** (48:14)
+**Psalms 48:13**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mark ye well her bulwarks, consider her palaces; that ye may tell [it] to the generation following.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ consider her ramparts, tour her citadels, that you may tell the next generation.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.12|<< Psalms 48:12]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.14|Psalms 48:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | set  |**<big>&#8207;[[H7896K\|שִׁ֤יתוּ]]&#8207; </big>**| Shi.tu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart your  |**<big>&#8207;[[H3820A\|לִבְּ]]&#8207;&#8207;[[H9026\|כֶ֨ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| li.be.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

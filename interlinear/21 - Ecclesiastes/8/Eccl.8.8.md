@@ -1,4 +1,4 @@
-**Ecclesiastes 8:8** 
+**Ecclesiastes 8:8**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no man that hath power over the spirit to retain the spirit; neither [hath he] power in the day of death: and [there is] no discharge in [that] war; neither shall wickedness deliver those that are given to it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As no man has power over the wind to contain it, so no one has authority over hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.7|<< Ecclesiastes 8:7]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.9|Ecclesiastes 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] anyone  |**<big>&#8207;[[H0120G\|אָדָ֞ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:5** 
 <small><sub>**LXX:**</sub></small>
 But \[the\] man who will be just, the one executing equity and righteousness, 
-<small><sub>**KJV:**</sub></small>
-But if a man be just, and do that which is lawful and right,
-<small><sub>**BSB:**</sub></small>
-Now suppose a man is righteous and does what is just and right:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.4|<< Ezekiel 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.6|Ezekiel 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

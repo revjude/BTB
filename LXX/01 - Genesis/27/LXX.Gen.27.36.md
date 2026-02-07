@@ -1,10 +1,7 @@
 **LXX Genesis 27:36** 
 <small><sub>**LXX:**</sub></small>
 And he said, Justly his name called Jacob. For he has stomped upon me already this second \[time\]. Even my rights of the first-born he has taken, and now he took  my blessing. And Esau said \[to\] his father, Do you not leave behind to me a blessing, O father? 
-<small><sub>**KJV:**</sub></small>
-And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?
-<small><sub>**BSB:**</sub></small>
-So Esau declared, “Is he not rightly named Jacob? For he has cheated me twice. He took my birthright, and now he has taken my blessing.” Then he asked, “Haven’t you saved a blessing for me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.35|<< Genesis 27:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.37|Genesis 27:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 18:6** 
+**Joshua 18:6**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall therefore describe the land [into] seven parts, and bring [the description] hither to me, that I may cast lots for you here before the LORD our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you have mapped out the seven portions of land and brought it to me, I will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.5|<< Joshua 18:5]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.7|Joshua 18:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֞ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will describe in writing  |**<big>&#8207;[[H3789\|תִּכְתְּב֤וּ]]&#8207; </big>**| tikh.te.Vu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

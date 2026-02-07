@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass at night, that there came forth an angel of \[the\] <span class="smallcaps">lord</span>, and he struck among the camp of the Assyrians a hundred eighty-five thousand. And they rose early in the morning, and behold, all dead bodies. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they [were] all dead corpses.
-<small><sub>**BSB:**</sub></small>
-And that very night the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.34|<< 2 Kings 19:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.36|2 Kings 19:36 >>]]</td></tr></table>
 
 | Translation | Greek |

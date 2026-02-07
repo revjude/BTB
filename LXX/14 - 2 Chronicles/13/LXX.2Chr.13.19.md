@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:19** 
 <small><sub>**LXX:**</sub></small>
 And Abijah pursued after Jeroboam, and first took from him \[the\] cities  of Beth-el and  her towns, and  Jeshanah and  her towns, and  Ephrain and  her towns. 
-<small><sub>**KJV:**</sub></small>
-And Abijah pursued after Jeroboam, and took cities from him, Bethel with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof.
-<small><sub>**BSB:**</sub></small>
-Abijah pursued Jeroboam and captured some cities from him: Bethel, Jeshanah, and Ephron, along with their villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.18|<< 2 Chronicles 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.20|2 Chronicles 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

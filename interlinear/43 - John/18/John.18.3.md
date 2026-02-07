@@ -1,12 +1,12 @@
-**John 18:3
-**<small><sub>**KJV:**</sub></small>
+**John 18:3**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Judas then, having received a band [of men] and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.
 <small><sub>**BSB:**</sub></small>
 So Judas brought a band of soldiers and officers from the chief priests and Pharisees. They arrived at the garden carrying lanterns, torches, and weapons.
 <small><sub>**Literal:**</sub></small>
 <the> Therefore Judas having procured the cohort and from the chief priests and from the Pharisees officers comes there with lanterns and torches and weapons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.2|<< John 18:2]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.4|John 18:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

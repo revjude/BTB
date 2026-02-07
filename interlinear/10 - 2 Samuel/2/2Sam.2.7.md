@@ -1,4 +1,4 @@
-**2 Samuel 2:7** 
+**2 Samuel 2:7**<big><big>[[2Sam.2.1 David Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore now let your hands be strengthened, and be ye valiant: for your master Saul is dead, and also the house of Judah have anointed me king over them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now then, be strong and courageous, for though Saul your lord is dead, the house
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.6|<< 2 Samuel 2:6]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.8|2 Samuel 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let them be strong  |**<big>&#8207;[[H2388G\|תֶּחֱזַ֣קְנָה]]&#8207; </big>**| te.che.Zak.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

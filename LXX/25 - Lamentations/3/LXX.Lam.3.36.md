@@ -1,10 +1,7 @@
 **LXX Lamentations 3:36** 
 <small><sub>**LXX:**</sub></small>
 to condemn mankind in  judging him, \[the\] <span class="smallcaps">lord</span> did not say \[it\]. 
-<small><sub>**KJV:**</sub></small>
-To subvert a man in his cause, the Lord approveth not.
-<small><sub>**BSB:**</sub></small>
-to subvert a man in his lawsuit—of these the Lord does not approve.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.35|<< Lamentations 3:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.37|Lamentations 3:37 >>]]</td></tr></table>
 
 | Translation | Greek |

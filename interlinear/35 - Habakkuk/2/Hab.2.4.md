@@ -1,4 +1,4 @@
-**Habakkuk 2:4** 
+**Habakkuk 2:4**<big><big>[[Hab.2.1 The LORD Answers Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, his soul [which] is lifted up is not upright in him: but the just shall live by his faith.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Look at the proud one; his soul is not upright—but the righteous will live by 
 > $\quad$ referenced by: [[Rom.1.17|Rom 1:17]] ☩ [[Gal.3.11|Gal 3:11]] ☩ [[Heb.10.37|Heb 10:37-38]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is swollen  |**<big>&#8207;[[H6075A\|עֻפְּלָ֔ה]]&#8207; </big>**| 'u.pe.Lah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

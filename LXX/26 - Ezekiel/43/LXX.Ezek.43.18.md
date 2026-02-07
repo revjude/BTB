@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:18** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, thus says \[the\] <span class="smallcaps">lord</span>  God; These \[are\] the orders for the altar in the day of its being made  to offer upon it whole burnt-offerings, and to pour on it blood. 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, Son of man, thus saith the Lord GOD; These [are] the ordinances of the altar in the day when they shall make it, to offer burnt offerings thereon, and to sprinkle blood thereon.
-<small><sub>**BSB:**</sub></small>
-Then He said to me: “Son of man, this is what the Lord GOD says: ‘These are the statutes for the altar on the day it is constructed, so that burnt offerings may be sacrificed on it and blood may be splattered on it:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.17|<< Ezekiel 43:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.19|Ezekiel 43:19 >>]]</td></tr></table>
 
 | Translation | Greek |

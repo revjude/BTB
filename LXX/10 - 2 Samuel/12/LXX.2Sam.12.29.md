@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:29** 
 <small><sub>**LXX:**</sub></small>
 And David gathered together all the people, and he went to Rabbah, and waged war against it, and overtook it. 
-<small><sub>**KJV:**</sub></small>
-And David gathered all the people together, and went to Rabbah, and fought against it, and took it.
-<small><sub>**BSB:**</sub></small>
-So David assembled all the troops and went to Rabbah; and he fought against it and captured it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.28|<< 2 Samuel 12:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.30|2 Samuel 12:30 >>]]</td></tr></table>
 
 | Translation | Greek |

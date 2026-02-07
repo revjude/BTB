@@ -1,4 +1,4 @@
-**Psalms 2:3** 
+**Psalms 2:3**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us break their bands asunder, and cast away their cords from us.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Let us break their bands asunder, and cast away their cords from us.
 > $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let us tear off  |**<big>&#8207;[[H5423\|נְֽ֭נַתְּקָה]]&#8207; </big>**| Ne.na.te.kah<small><sup>[[HVpc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

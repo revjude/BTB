@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, take to yourself a sharp broadsword for a razor of a barber! You shall acquire it to yourself, and you shall bring it upon  your head, and upon  your beard. And you shall take a yoke \[balance scale\] of weights, and you shall part them. 
-<small><sub>**KJV:**</sub></small>
-And thou, son of man, take thee a sharp knife, take thee a barber’s rasor, and cause [it] to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the [hair].
-<small><sub>**BSB:**</sub></small>
-“As for you, son of man, take a sharp sword, use it as a barber’s razor, and shave your head and beard. Then take a set of scales and divide the hair.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.17|<< Ezekiel 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.2|Ezekiel 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

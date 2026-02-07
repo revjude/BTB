@@ -1,12 +1,12 @@
-**Acts 19:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:25**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whom he called together with the workmen of like occupation, and said, Sirs, ye know that by this craft we have our wealth.
 <small><sub>**BSB:**</sub></small>
 Demetrius assembled the craftsmen, along with the workmen in related trades. “Men,” he said, “you know that this business is our source of prosperity.
 <small><sub>**Literal:**</sub></small>
 whom having brought together also the in such things Workmen he said; Men, you know that from this <the> business the wealth of us is,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.24|<< Acts 19:24]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.26|Acts 19:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|οὓς]]</big>**  |hous <small><sup>[[R-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having brought together |**<big>[[G4867\|συναθροίσας]]</big>**  |sunathroisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

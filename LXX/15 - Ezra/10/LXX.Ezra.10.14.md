@@ -1,10 +1,7 @@
 **LXX Ezra 10:14** 
 <small><sub>**LXX:**</sub></small>
 indeed our rulers stand  in every assembly! and to all the ones in our cities who settled with alien wives, let them come at arranged times, and with them the elders city by city, and judges!  to turn \[the\] anger of \[the\] rage of our God from us, on account of  this matter. 
-<small><sub>**KJV:**</sub></small>
-Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.
-<small><sub>**BSB:**</sub></small>
-Let our leaders represent the whole assembly. Then let everyone in our towns who has married a foreign woman come at an appointed time, together with the elders and judges of each town, until the fierce anger of our God in this matter is turned away from us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.13|<< Ezra 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.15|Ezra 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

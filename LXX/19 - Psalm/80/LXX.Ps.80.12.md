@@ -1,10 +1,7 @@
 **LXX Psalm 80:12** 
 <small><sub>**LXX:**</sub></small>
 Why did you demolish  her barrier, and all the ones passing by the way gather her vintage? 
-<small><sub>**KJV:**</sub></small>
-Why hast thou [then] broken down her hedges, so that all they which pass by the way do pluck her?
-<small><sub>**BSB:**</sub></small>
-Why have You broken down its walls, so that all who pass by pick its fruit?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.11|<< Psalm 80:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.13|Psalm 80:13 >>]]</td></tr></table>
 
 | Translation | Greek |

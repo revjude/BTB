@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:17** 
 <small><sub>**LXX:**</sub></small>
 And the sons of your people shall say, the way of the <span class="smallcaps">lord</span> is not right; but this,  their way is not right. 
-<small><sub>**KJV:**</sub></small>
-Yet the children of thy people say, The way of the Lord is not equal: but as for them, their way is not equal.
-<small><sub>**BSB:**</sub></small>
-Yet your people say, ‘The way of the Lord is not just.’ But it is their way that is not just.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.16|<< Ezekiel 33:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.18|Ezekiel 33:18 >>]]</td></tr></table>
 
 | Translation | Greek |

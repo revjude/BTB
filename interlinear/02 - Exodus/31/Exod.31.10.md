@@ -1,4 +1,4 @@
-**Exodus 31:10** 
+**Exodus 31:10**<big><big>[[Exod.31.1 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as the woven garments, both the holy garments for Aaron the priest and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.9|<< Exodus 31:9]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.11|Exodus 31:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] garments of  |**<big>&#8207;[[H0899B\|בִּגְדֵ֣י]]&#8207; </big>**| big.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

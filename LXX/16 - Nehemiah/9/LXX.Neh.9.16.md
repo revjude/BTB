@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:16** 
 <small><sub>**LXX:**</sub></small>
 But they and  our fathers were prideful, and they hardened  their neck, and they did not hearken  unto your commandments. 
-<small><sub>**KJV:**</sub></small>
-But they and our fathers dealt proudly, and hardened their necks, and hearkened not to thy commandments,
-<small><sub>**BSB:**</sub></small>
-But they and our fathers became arrogant and stiff-necked and did not obey Your commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.15|<< Nehemiah 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.17|Nehemiah 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

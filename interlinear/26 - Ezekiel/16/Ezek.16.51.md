@@ -1,4 +1,4 @@
-**Ezekiel 16:51** 
+**Ezekiel 16:51**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither hath Samaria committed half of thy sins; but thou hast multiplied thine abominations more than they, and hast justified thy sisters in all thine abominations which thou hast done.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Furthermore, Samaria did not commit half the sins you did. You have multiplied y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.50|<< Ezekiel 16:50]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.52|Ezekiel 16:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Samaria  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8111\|שֹׁ֣מְר֔וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to [the] half of  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H2677\|חֲצִ֥י]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Esther 3:5** 
+**Esther 3:5**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Haman saw that Mordecai would not bow down or pay him homage, he was filled
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.4|<< Esther 3:4]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.6|Esther 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֣רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Haman  |**<big>&#8207;[[H2001\|הָמָ֔ן]]&#8207; </big>**| ha.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

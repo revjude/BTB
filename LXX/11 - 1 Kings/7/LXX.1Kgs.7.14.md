@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:14** 
 <small><sub>**LXX:**</sub></small>
 \[the\] son of a widow woman, and this one \[was\] from the tribe of Naphtali, and  his father \[was\] a Tyrian man, a fabricator of brass, and being accomplished of the wisdom of the craft, and of understanding, and full of knowledge  to do all \[the\] work in brass. And he was brought to  king Solomon, and he did every work. 
-<small><sub>**KJV:**</sub></small>
-He [was] a widow’s son of the tribe of Naphtali, and his father [was] a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work.
-<small><sub>**BSB:**</sub></small>
-He was the son of a widow from the tribe of Naphtali, and his father was a man of Tyre, a craftsman in bronze. Huram had great skill, understanding, and knowledge for every kind of bronze work. So he came to King Solomon and carried out all his work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.13|<< 1 Kings 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.15|1 Kings 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 4:21** 
+**Judges 4:21**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as he lay sleeping from exhaustion, Heber’s wife Jael took a tent peg, gra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.20|<< Judges 4:20]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.22|Judges 4:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּ֣ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jael  |**<big>&#8207;[[H3278\|יָעֵ֣ל]]&#8207; </big>**| ya.'El<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:8** 
 <small><sub>**LXX:**</sub></small>
 Woe to us, rescue us, O Master, today! for it happened not thus yesterday \[nor the\] third \[day before\]. Woe to us, who shall rescue us from out of \[the\] hand  of these substantial gods? These are the gods  striking  Egypt in every calamity, and in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-Woe unto us! who shall deliver us out of the hand of these mighty Gods? these [are] the Gods that smote the Egyptians with all the plagues in the wilderness.
-<small><sub>**BSB:**</sub></small>
-Woe to us! Who will deliver us from the hand of these mighty gods? These are the gods who struck the Egyptians with all kinds of plagues in the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.7|<< 1 Samuel 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.9|1 Samuel 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

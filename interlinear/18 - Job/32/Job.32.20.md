@@ -1,4 +1,4 @@
-**Job 32:20** 
+**Job 32:20**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will speak, that I may be refreshed: I will open my lips and answer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I must speak and find relief; I must open my lips and respond.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.19|<< Job 32:19]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.21|Job 32:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let me speak  |**<big>&#8207;[[H1696G\|אֲדַבְּרָ֥ה]]&#8207; </big>**| 'a.da.be.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it may be relieved  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7304\|יִֽרְוַֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yir.vach-<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

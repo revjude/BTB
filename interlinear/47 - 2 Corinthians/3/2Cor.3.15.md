@@ -1,12 +1,12 @@
-**2 Corinthians 3:15
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:15**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But even unto this day, when Moses is read, the vail is upon their heart.
 <small><sub>**BSB:**</sub></small>
 And even to this day when Moses is read, a veil covers their hearts.
 <small><sub>**Literal:**</sub></small>
 But unto this day when ever may be read Moses, a veil over the heart of them lies;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.14|<< 2 Corinthians 3:14]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.16|2 Corinthians 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | unto |**<big>[[G2193\|ἕως]]</big>**  |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Romans 3:24
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:24**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Being justified freely by his grace through the redemption that is in Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 and are justified freely by His grace through the redemption that is in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 being justified freely by the of Him grace through the redemption that [is] in Christ Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.23|<< Romans 3:23]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.25|Romans 3:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | being justified |**<big>[[G1344\|δικαιούμενοι]]</big>**  |dikaioumenoi <small><sup>[[V-PPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | freely |**<big>[[G1432\|δωρεὰν]]</big>**  |dōrean <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

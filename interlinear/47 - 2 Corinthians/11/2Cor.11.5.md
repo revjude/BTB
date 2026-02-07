@@ -1,12 +1,12 @@
-**2 Corinthians 11:5
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:5**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I suppose I was not a whit behind the very chiefest apostles.
 <small><sub>**BSB:**</sub></small>
 I consider myself in no way inferior to those “super-apostles.”
 <small><sub>**Literal:**</sub></small>
 I reckon for in nothing to have been inferior to those most eminent apostles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.4|<< 2 Corinthians 11:4]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.6|2 Corinthians 11:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I reckon |**<big>[[G3049\|Λογίζομαι]]</big>**  |Logizomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

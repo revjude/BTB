@@ -1,4 +1,4 @@
-**Genesis 21:31** 
+**Genesis 21:31**<big><big>[[Gen.21.22 The Covenant at Beersheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore he called that place Beersheba; because there they sware both of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So that place was called Beersheba, because it was there that the two of them sw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.30|<< Genesis 21:30]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.32|Genesis 21:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּ֗ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

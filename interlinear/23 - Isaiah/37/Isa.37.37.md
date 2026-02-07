@@ -1,4 +1,4 @@
-**Isaiah 37:37** 
+**Isaiah 37:37**<big><big>[[Isa.37.36 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.36|<< Isaiah 37:36]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.38|Isaiah 37:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסַּ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֔לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

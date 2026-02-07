@@ -1,10 +1,7 @@
 **LXX Exodus 5:7** 
 <small><sub>**LXX:**</sub></small>
 No longer will it be added to give straw to the people for the brickmaking, as yesterday and \[the\] third day \[before\]. Let them go and bring together for themselves the straw! 
-<small><sub>**KJV:**</sub></small>
-Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves.
-<small><sub>**BSB:**</sub></small>
-“You shall no longer supply the people with straw for making bricks. They must go and gather their own straw.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.6|<< Exodus 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.8|Exodus 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

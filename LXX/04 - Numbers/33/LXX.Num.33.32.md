@@ -1,10 +1,7 @@
 **LXX Numbers 33:32** 
 <small><sub>**LXX:**</sub></small>
 And departing from Bene-jaakan, and they camped in the mountain of Hagidgad. 
-<small><sub>**KJV:**</sub></small>
-And they removed from Benejaakan, and encamped at Horhagidgad.
-<small><sub>**BSB:**</sub></small>
-They set out from Bene-jaakan and camped at Hor-haggidgad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.31|<< Numbers 33:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.33|Numbers 33:33 >>]]</td></tr></table>
 
 | Translation | Greek |

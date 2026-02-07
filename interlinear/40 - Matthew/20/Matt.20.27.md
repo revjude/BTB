@@ -1,12 +1,12 @@
-**Matthew 20:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:27**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever will be chief among you, let him be your servant:
 <small><sub>**BSB:**</sub></small>
 and whoever wants to be first among you must be your slave—
 <small><sub>**Literal:**</sub></small>
 and who[ever] maybe shall wish among you to be first, he will be your slave;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.26|<< Matthew 20:26]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.28|Matthew 20:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

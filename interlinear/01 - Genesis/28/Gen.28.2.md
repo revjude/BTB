@@ -1,4 +1,4 @@
-**Genesis 28:2** 
+**Genesis 28:2**<big><big>[[Gen.28.1 Jacob’s Departure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, go to Padanaram, to the house of Bethuel thy mother’s father; and take thee a wife from thence of the daughters of Laban thy mother’s brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arise, go to Padanaram, to the house of Bethuel thy mother’s father; and take 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.1|<< Genesis 28:1]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.3|Genesis 28:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֥וּם]]&#8207; </big>**| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go  |**<big>&#8207;[[H1980G\|לֵךְ֙]]&#8207; </big>**| leKh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

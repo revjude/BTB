@@ -1,4 +1,4 @@
-**Genesis 46:4** 
+**Genesis 46:4**<big><big>[[Gen.46.1 Jacob’s Journey to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will go down with thee into Egypt; and I will also surely bring thee up [again]: and Joseph shall put his hand upon thine eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will go down with you to Egypt, and I will surely bring you back. And Joseph�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.3|<< Genesis 46:3]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.5|Genesis 46:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֗י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will go down  |**<big>&#8207;[[H3381\|אֵרֵ֤ד]]&#8207; </big>**| 'e.Red<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 22:29** (22:30)
+**Psalms 22:29**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All [they that be] fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All the rich of the earth will feast and worship; all who go down to the dust wi
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have eaten  |**<big>&#8207;[[H0398\|אָכְל֬וּ]]&#8207; </big>**| 'a.khe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have bowed down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7812\|יִּֽשְׁתַּחֲוּ֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.ta.cha.Vu<small><sup>[[HVvw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:15** 
 <small><sub>**LXX:**</sub></small>
 And Helkiah responded and said to Shaphan the scribe, I found \[the\] scroll of \[the\] law in the house of \[the\] <span class="smallcaps">lord</span>. And Helkiah gave the scroll  to Shaphan. 
-<small><sub>**KJV:**</sub></small>
-And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah delivered the book to Shaphan.
-<small><sub>**BSB:**</sub></small>
-And Hilkiah said to Shaphan the scribe, “I have found the Book of the Law in the house of the LORD!” And he gave it to Shaphan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.14|<< 2 Chronicles 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.16|2 Chronicles 34:16 >>]]</td></tr></table>
 
 | Translation | Greek |

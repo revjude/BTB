@@ -1,12 +1,12 @@
-**2 Corinthians 1:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:4**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.
 <small><sub>**BSB:**</sub></small>
 who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves have received from God.
 <small><sub>**Literal:**</sub></small>
 who is comforting us in all the tribulation of us for <the> to be able us to comfort those in every tribulation through the comfort with which we are comforted ourselves by <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.3|<< 2 Corinthians 1:3]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.5|2 Corinthians 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is comforting |**<big>[[G3870\|παρακαλῶν]]</big>**  |parakalōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

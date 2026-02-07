@@ -1,10 +1,7 @@
 **LXX Judges 18:10** 
 <small><sub>**LXX:**</sub></small>
 When ever you should enter, you shall come to a people being secure, and the land of broad space, for God delivered it over into your hand. A place where there is not any deficiency there of a thing as much as \[is\] on the earth. 
-<small><sub>**KJV:**</sub></small>
-When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where [there is] no want of any thing that [is] in the earth.
-<small><sub>**BSB:**</sub></small>
-When you enter, you will come to an unsuspecting people and a spacious land, for God has delivered it into your hand. It is a place where nothing on earth is lacking.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.9|<< Judges 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.11|Judges 18:11 >>]]</td></tr></table>
 
 | Translation | Greek |

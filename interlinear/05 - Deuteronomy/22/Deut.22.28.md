@@ -1,4 +1,4 @@
-**Deuteronomy 22:28** 
+**Deuteronomy 22:28**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man find a damsel [that is] a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man encounters a virgin who is not pledged in marriage, and he seizes her a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.27|<< Deuteronomy 22:27]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.29|Deuteronomy 22:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will find  |**<big>&#8207;[[H4672\|יִמְצָ֣א]]&#8207; </big>**| yim.Tza'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

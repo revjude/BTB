@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:15** 
 <small><sub>**LXX:**</sub></small>
 And he built the walls of the house from inside with wood of cedars, from the floors of the house, and unto the walls, and unto the beams. And he vaulted \[it\] holding \[it\] together with timbers from inside. And he compassed the inside of the house with ribs of pines. 
-<small><sub>**KJV:**</sub></small>
-And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: [and] he covered [them] on the inside with wood, and covered the floor of the house with planks of fir.
-<small><sub>**BSB:**</sub></small>
-He lined the interior walls with cedar paneling from the floor of the temple to the ceiling, and he covered the floor with cypress boards.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.14|<< 1 Kings 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.16|1 Kings 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

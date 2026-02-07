@@ -1,4 +1,4 @@
-**2 Kings 9:29** 
+**2 Kings 9:29**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the eleventh year of Joram the son of Ahab began Ahaziah to reign over Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in the eleventh year of Joram the son of Ahab began Ahaziah to reign over Ju
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.28|<< 2 Kings 9:28]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.30|2 Kings 9:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in year  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8141\|שְׁנַת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one [plus]  |**<big>&#8207;[[H0259\|אַחַ֣ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

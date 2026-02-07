@@ -1,10 +1,7 @@
 **LXX Job 41:2** 
 <small><sub>**LXX:**</sub></small>
 Or will you tie a hook in  his nose, and will you make a hole in his lip for a clasp? 
-<small><sub>**KJV:**</sub></small>
-Canst thou put an hook into his nose? or bore his jaw through with a thorn?
-<small><sub>**BSB:**</sub></small>
-Can you put a cord through his nose or pierce his jaw with a hook?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.1|<< Job 41:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.3|Job 41:3 >>]]</td></tr></table>
 
 | Translation | Greek |

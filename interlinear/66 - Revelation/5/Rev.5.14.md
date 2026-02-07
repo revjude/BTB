@@ -1,12 +1,12 @@
-**Revelation 5:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:14**<big><big>[[Rev.5.11 The Lamb Exalted|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the four beasts said, Amen. And the four [and] twenty elders fell down and worshipped him that liveth for ever and ever.
 <small><sub>**BSB:**</sub></small>
 And the four living creatures said, “Amen,” and the elders fell down and worshiped.
 <small><sub>**Literal:**</sub></small>
 And the four living creatures were saying; <the> Amen. And the twenty four elders fell down and they worshiped [the one] living into the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.13|<< Revelation 5:13]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.1|Revelation 6:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Chronicles 6:32** (6:17)
+**1 Chronicles 6:32**<big><big>[[1Chr.6.31 The Temple Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and [then] they waited on their office according to their order.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They ministered with song before the tabernacle, the Tent of Meeting, until Solo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.31|<< 1 Chronicles 6:31]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.33|1 Chronicles 6:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | serving  |**<big>&#8207;[[H8334\|מְשָׁרְתִ֜ים]]&#8207; </big>**| me.sha.re.Tim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 12:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:21**<big><big>[[Acts.12.20 The Death of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And upon a set day Herod, arrayed in royal apparel, sat upon his throne, and made an oration unto them.
 <small><sub>**BSB:**</sub></small>
 On the appointed day, Herod donned his royal robes, sat on his throne, and addressed the people.
 <small><sub>**Literal:**</sub></small>
 On the appointed now day <the> Herod having put on apparel royal and having sat on the throne was making an address to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.20|<< Acts 12:20]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.22|Acts 12:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the appointed |**<big>[[G5002\|Τακτῇ]]</big>**  |Taktēa <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

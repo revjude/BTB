@@ -1,12 +1,12 @@
-**John 21:7
-**<small><sub>**KJV:**</sub></small>
+**John 21:7**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt [his] fisher’s coat [unto him], (for he was naked,) and did cast himself into the sea.
 <small><sub>**BSB:**</sub></small>
 Then the disciple whom Jesus loved said to Peter, “It is the Lord!” As soon as Simon Peter heard that it was the Lord, he put on his outer garment (for he had removed it) and jumped into the sea.
 <small><sub>**Literal:**</sub></small>
 Says therefore the disciple that [one] whom was loving <the> Jesus <the> to Peter; The Lord it is. Simon therefore Peter having heard that the Lord it is the outer garment put on he was for naked and he cast himself into the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.6|<< John 21:6]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.8|John 21:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

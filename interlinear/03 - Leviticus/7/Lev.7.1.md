@@ -1,4 +1,4 @@
-**Leviticus 7:1** 
+**Leviticus 7:1**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Likewise this [is] the law of the trespass offering: it [is] most holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Likewise this [is] the law of the trespass offering: it [is] most holy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.30|<< Leviticus 6:30]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.2|Leviticus 7:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹ֥את]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] legal [procedure] of  |**<big>&#8207;[[H8451\|תּוֹרַ֖ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

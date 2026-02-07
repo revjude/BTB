@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:14** 
 <small><sub>**LXX:**</sub></small>
 Remember me, O God, in this! that my \[acts of\] mercy should not be wiped away, which I did in \[the\] house of \[the\] <span class="smallcaps">lord</span>  my God, and in  his watches. 
-<small><sub>**KJV:**</sub></small>
-Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof.
-<small><sub>**BSB:**</sub></small>
-Remember me for this, O my God, and do not blot out my deeds of loving devotion for the house of my God and for its services.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.13|<< Nehemiah 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.15|Nehemiah 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

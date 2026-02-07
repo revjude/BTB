@@ -1,12 +1,12 @@
-**1 Peter 2:21
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:21**<big><big>[[1Pet.2.21 Christ’s Example of Suffering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:
 <small><sub>**BSB:**</sub></small>
 For to this you were called, because Christ also suffered for you, leaving you an example, that you should follow in His footsteps:
 <small><sub>**Literal:**</sub></small>
 To this hereunto for you have been called, because also Christ suffered for for you, you leaving an example that you may follow after the steps of Him:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.20|<< 1 Peter 2:20]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.22|1 Peter 2:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To this |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | hereunto |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

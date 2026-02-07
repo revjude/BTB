@@ -1,4 +1,4 @@
-**Psalms 44:7** (44:8)
+**Psalms 44:7**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou hast saved us from our enemies, and hast put them to shame that hated us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You save us from our enemies; You put those who hate us to shame.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.6|<< Psalms 44:6]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.8|Psalms 44:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have saved us  |**<big>&#8207;[[H3467\|ה֭וֹשַׁעְתָּ]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| Ho.o.sha'.ta.<small><sup>[[HVhp2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

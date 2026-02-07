@@ -1,10 +1,7 @@
 **LXX Zechariah 6:5** 
 <small><sub>**LXX:**</sub></small>
 And the angel answered, the one speaking with me. And he said, These are the four winds of the heaven, and they go forth to stand beside the Lord of all the earth, 
-<small><sub>**KJV:**</sub></small>
-And the angel answered and said unto me, These [are] the four spirits of the heavens, which go forth from standing before the Lord of all the earth.
-<small><sub>**BSB:**</sub></small>
-And the angel told me, “These are the four spirits of heaven, going forth from their station before the Lord of all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.4|<< Zechariah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.6|Zechariah 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

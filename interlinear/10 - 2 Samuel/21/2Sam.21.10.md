@@ -1,4 +1,4 @@
-**2 Samuel 21:10** 
+**2 Samuel 21:10**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Rizpah the daughter of Aiah took sackcloth and spread it out for herself on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.9|<< 2 Samuel 21:9]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.11|2 Samuel 21:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּ֣ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rizpah  |**<big>&#8207;[[H7532\|רִצְפָּה֩]]&#8207; </big>**| ritz.Pah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 3:27** 
 <small><sub>**LXX:**</sub></small>
 And the satraps were brought together, and the commandants, and the toparchs, and the mighty ones of the king. And they viewed the men, for the fire did not dominate over  their body, and the hair  of their head was not ablaze, and  their pantaloons did not change, and \[the\] scent of fire was not on them. 
-<small><sub>**KJV:**</sub></small>
-And the princes, governors, and captains, and the king’s counsellers, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
-<small><sub>**BSB:**</sub></small>
-and when the satraps, prefects, governors, and royal advisers had gathered around, they saw that the fire had no effect on the bodies of these men. Not a hair of their heads was singed, their robes were unaffected, and there was no smell of fire on them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.26|<< Daniel 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.28|Daniel 3:28 >>]]</td></tr></table>
 
 | Translation | Greek |

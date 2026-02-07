@@ -1,12 +1,12 @@
-**Revelation 20:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:6**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed and holy [is] he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.
 <small><sub>**BSB:**</sub></small>
 Blessed and holy are those who share in the first resurrection! The second death has no power over them, but they will be priests of God and of Christ and will reign with Him for a thousand years.
 <small><sub>**Literal:**</sub></small>
 Blessed and holy [is] the [one] having a part in the resurrection <the> first! Over these the second death not has power, but they will be priests <the> of God and <the> of Christ and will reign with Him <the> a thousand years.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.5|<< Revelation 20:5]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.7|Revelation 20:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed |**<big>[[G3107\|μακάριος]]</big>**  |makarios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

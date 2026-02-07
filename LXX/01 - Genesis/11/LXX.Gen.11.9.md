@@ -1,10 +1,7 @@
 **LXX Genesis 11:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this the name of it was called Confusion, because there \[the\] <span class="smallcaps">lord</span> confounded the lips of all the earth, and from there the <span class="smallcaps">lord</span> scattered them upon \[the\] face of all the earth. 
-<small><sub>**KJV:**</sub></small>
-Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.
-<small><sub>**BSB:**</sub></small>
-That is why it is called Babel, for there the LORD confused the language of the whole world, and from that place the LORD scattered them over the face of all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.8|<< Genesis 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.10|Genesis 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

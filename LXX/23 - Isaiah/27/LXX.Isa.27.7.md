@@ -1,10 +1,7 @@
 **LXX Isaiah 27:7** 
 <small><sub>**LXX:**</sub></small>
 \[Is it\] not as he struck \[others\], even he himself so shall be struck? And as he did away with, also he himself thus shall be done away with? 
-<small><sub>**KJV:**</sub></small>
-Hath he smitten him, as he smote those that smote him? [or] is he slain according to the slaughter of them that are slain by him?
-<small><sub>**BSB:**</sub></small>
-Has the LORD struck Israel as He struck her oppressors? Was she killed like those who slayed her?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.6|<< Isaiah 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.8|Isaiah 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

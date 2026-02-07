@@ -1,4 +1,4 @@
-**2 Samuel 15:21** 
+**2 Samuel 15:21**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ittai answered the king, and said, [As] the LORD liveth, and [as] my lord the king liveth, surely in what place my lord the king shall be, whether in death or life, even there also will thy servant be.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Ittai answered the king, “As surely as the LORD lives, and as my lord the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.20|<< 2 Samuel 15:20]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.22|2 Samuel 15:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֧עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ittai  |**<big>&#8207;[[H0863G\|אִתַּ֛י]]&#8207; </big>**| 'i.Tai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 57:16** 
 <small><sub>**LXX:**</sub></small>
 punish not you into the eon, nor shall I be provoked to anger with you always; for a spirit from me shall go forth, and I made all breath. 
-<small><sub>**KJV:**</sub></small>
-For I will not contend for ever, neither will I be always wroth: for the spirit should fail before me, and the souls [which] I have made.
-<small><sub>**BSB:**</sub></small>
-For I will not accuse you forever, nor will I always be angry; for then the spirit of man would grow weak before Me—the breath of life I have made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.15|<< Isaiah 57:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.17|Isaiah 57:17 >>]]</td></tr></table>
 
 | Translation | Greek |

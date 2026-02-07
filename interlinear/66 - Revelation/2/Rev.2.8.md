@@ -1,12 +1,12 @@
-**Revelation 2:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:8**<big><big>[[Rev.2.8 To the Church in Smyrna|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;
 <small><sub>**BSB:**</sub></small>
 To the angel of the church in Smyrna write: These are the words of the First and the Last, who died and returned to life.
 <small><sub>**Literal:**</sub></small>
 And to the angel of the in Smyrna church do write: These things says the First and the Last, who became dead and came to life;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.7|<< Revelation 2:7]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.9|Revelation 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

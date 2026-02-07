@@ -1,12 +1,12 @@
-**2 Timothy 4:20
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:20**<big><big>[[2Tim.4.19 Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Erastus abode at Corinth: but Trophimus have I left at Miletum sick.
 <small><sub>**BSB:**</sub></small>
 Erastus has remained at Corinth, and Trophimus I left sick in Miletus.
 <small><sub>**Literal:**</sub></small>
 Erastus remained in Corinth; Trophimus however I left in Miletus ailing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.19|<< 2 Timothy 4:19]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.21|2 Timothy 4:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Erastus |**<big>[[G2037\|Ἔραστος]]</big>**  |Erastos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | remained |**<big>[[G3306\|ἔμεινεν]]</big>**  |emeinen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 119:5** 
+**Psalms 119:5**<big><big>[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O that my ways were directed to keep thy statutes!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Oh, that my ways were committed to keeping Your statutes!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.4|<< Psalms 119:4]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.6|Psalms 119:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | would that!  |**<big>&#8207;[[H0305\|אַ֭חֲלַי]]&#8207; </big>**| 'A.cha.lai<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be steadfast  |**<big>&#8207;[[H3559H\|יִכֹּ֥נוּ]]&#8207; </big>**| yi.Ko.nu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

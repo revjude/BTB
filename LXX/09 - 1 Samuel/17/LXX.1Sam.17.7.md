@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:7** 
 <small><sub>**LXX:**</sub></small>
 And the shaft  of his spear \[was\] as \[the\] weaver's beam of one weaving; and  his lance \[was\] six hundred shekels of iron. And the one lifting  his weapons went before him. 
-<small><sub>**KJV:**</sub></small>
-And the staff of his spear [was] like a weaver’s beam; and his spear’s head [weighed] six hundred shekels of iron: and one bearing a shield went before him.
-<small><sub>**BSB:**</sub></small>
-The shaft of his spear was like a weaver’s beam, and its iron point weighed six hundred shekels. In addition, his shield bearer went before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.6|<< 1 Samuel 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.8|1 Samuel 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

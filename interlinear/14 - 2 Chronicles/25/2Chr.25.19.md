@@ -1,4 +1,4 @@
-**2 Chronicles 25:19** 
+**2 Chronicles 25:19**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to [thine] hurt, that thou shouldest fall, [even] thou, and Judah with thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have said, ‘Look, I have defeated Edom,’ and your heart has become proud
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.18|<< 2 Chronicles 25:18]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.20|2 Chronicles 25:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have said  |**<big>&#8207;[[H0559\|אָמַ֗רְתָּ]]&#8207; </big>**| 'a.Mar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

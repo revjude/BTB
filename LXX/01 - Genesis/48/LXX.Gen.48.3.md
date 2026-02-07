@@ -1,10 +1,7 @@
 **LXX Genesis 48:3** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said  to Joseph,  My God was appeared to me in Luz, in \[the\] land of Canaan, and blessed me. 
-<small><sub>**KJV:**</sub></small>
-And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,
-<small><sub>**BSB:**</sub></small>
-Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan, and there He blessed me<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.2|<< Genesis 48:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.4|Genesis 48:4 >>]]</td></tr></table>
 
 | Translation | Greek |

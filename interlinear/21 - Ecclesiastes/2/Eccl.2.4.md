@@ -1,4 +1,4 @@
-**Ecclesiastes 2:4** 
+**Ecclesiastes 2:4**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I made me great works; I builded me houses; I planted me vineyards:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I expanded my pursuits. I built houses and planted vineyards for myself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.3|<< Ecclesiastes 2:3]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.5|Ecclesiastes 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I made great  |**<big>&#8207;[[H1431\|הִגְדַּ֖לְתִּי]]&#8207; </big>**| hig.Dal.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | works my  |**<big>&#8207;[[H4639G\|מַעֲשָׂ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ma.'a.Sa<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

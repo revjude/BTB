@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Let not indeed my master put  his heart against  this pestilent man, against Nabal! For according to  his name, thus is he Nabal. His name, and folly \[is\] with him. And I  your maidservant did not see the servants  of my master whom you sent. 
-<small><sub>**KJV:**</sub></small>
-Let not my lord, I pray thee, regard this man of Belial, [even] Nabal: for as his name [is], so [is] he; Nabal [is] his name, and folly [is] with him: but I thine handmaid saw not the young men of my lord, whom thou didst send.
-<small><sub>**BSB:**</sub></small>
-My lord should pay no attention to this scoundrel Nabal, for he lives up to his name: His name means Fool, and folly accompanies him. I, your servant, did not see my lord’s young men whom you sent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.24|<< 1 Samuel 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.26|1 Samuel 25:26 >>]]</td></tr></table>
 
 | Translation | Greek |

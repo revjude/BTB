@@ -1,4 +1,4 @@
-**Psalms 66:6** 
+**Psalms 66:6**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He turned the sea into dry [land]: they went through the flood on foot: there did we rejoice in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He turned the sea into dry land; they passed through the waters on foot; there w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.5|<< Psalms 66:5]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.7|Psalms 66:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he turned  |**<big>&#8207;[[H2015\|הָ֤פַךְ]]&#8207; </big>**| Ha.fakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sea  |**<big>&#8207;[[H3220G\|יָ֨ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

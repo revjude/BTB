@@ -1,4 +1,4 @@
-**Esther 2:13** 
+**Esther 2:13**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thus came [every] maiden unto the king; whatsoever she desired was given her to go with her out of the house of the women unto the king’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the young woman would go to the king, she was given whatever she requested 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.12|<< Esther 2:12]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.14|Esther 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in this [way]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H2088\|זֶ֕ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the young woman  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H5291\|נַּעֲרָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

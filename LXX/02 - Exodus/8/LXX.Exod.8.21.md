@@ -1,10 +1,7 @@
 **LXX Exodus 8:21** 
 <small><sub>**LXX:**</sub></small>
 But if you do not want to send out  my people, behold, I will send upon you, and upon  your attendants, and upon  your people, and upon  your houses \[the\] dog-fly. And the houses of the Egyptians shall be filled with the dog-fly, and into the land upon which they are upon it. 
-<small><sub>**KJV:**</sub></small>
-Else, if thou wilt not let my people go, behold, I will send swarms [of flies] upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms [of flies], and also the ground whereon they [are].
-<small><sub>**BSB:**</sub></small>
-But if you will not let My people go, I will send swarms of flies upon you and your officials and your people and your houses. The houses of the Egyptians and even the ground where they stand will be full of flies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.20|<< Exodus 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.22|Exodus 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 1:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:24**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after those days his wife Elisabeth conceived, and hid herself five months, saying,
 <small><sub>**BSB:**</sub></small>
 After these days, his wife Elizabeth became pregnant and for five months remained in seclusion. She declared,
 <small><sub>**Literal:**</sub></small>
 After then these <the> days conceived Elizabeth the wife of him and was hiding herself months five saying<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.23|<< Luke 1:23]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.25|Luke 1:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

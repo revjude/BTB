@@ -1,10 +1,7 @@
 **LXX Psalm 22:23** 
 <small><sub>**LXX:**</sub></small>
 O ones fearing the <span class="smallcaps">lord</span> -- praise him! All together, O seed of Jacob, glorify him! Fear indeed of him all together, O seed of Israel! 
-<small><sub>**KJV:**</sub></small>
-Ye that fear the LORD, praise him; all ye the seed of Jacob, glorify him; and fear him, all ye the seed of Israel.
-<small><sub>**BSB:**</sub></small>
-You who fear the LORD, praise Him! All descendants of Jacob, honor Him! All offspring of Israel, revere Him!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.22|<< Psalm 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.24|Psalm 22:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:23** is...

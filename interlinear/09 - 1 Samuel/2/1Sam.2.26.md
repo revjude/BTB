@@ -1,4 +1,4 @@
-**1 Samuel 2:26** 
+**1 Samuel 2:26**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the child Samuel grew on, and was in favour both with the LORD, and also with men.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the boy Samuel continued to grow in stature and in favor with the LORD and w
 > $\quad$ referenced by: [[Luke.2.52|Luke 2:52]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the lad  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5288\|נַּ֣עַר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֔ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

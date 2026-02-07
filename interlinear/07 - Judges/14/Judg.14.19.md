@@ -1,4 +1,4 @@
-**Judges 14:19** 
+**Judges 14:19**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Spirit of the LORD came upon him, and he went down to Ashkelon, and slew thirty men of them, and took their spoil, and gave change of garments unto them which expounded the riddle. And his anger was kindled, and he went up to his father’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Spirit of the LORD came mightily upon him, and he went down to Ashkelon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.18|<< Judges 14:18]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.20|Judges 14:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it rushed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6743A\|תִּצְלַ֨ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> titz.Lach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֜י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

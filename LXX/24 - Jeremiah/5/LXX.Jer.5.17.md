@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:17** 
 <small><sub>**LXX:**</sub></small>
 And they shall devour  your harvest, and  your bread loaves. And they shall devour  your sons, and  your daughters. And they shall devour  your sheep, and  your calves. And they shall devour  your vineyards, and  your fig groves, and  your olive groves. And they shall thresh  your fortified cities, (upon which you rely upon them,) by \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And they shall eat up thine harvest, and thy bread, [which] thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword.
-<small><sub>**BSB:**</sub></small>
-They will devour your harvest and food; they will consume your sons and daughters; they will eat up your flocks and herds; they will feed on your vines and fig trees. With the sword they will destroy the fortified cities in which you trust.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.16|<< Jeremiah 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.18|Jeremiah 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 9:20** 
+**Deuteronomy 9:20**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD was very angry with Aaron to have destroyed him: and I prayed for Aaron also the same time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD was angry enough with Aaron to destroy him, but at that time I also pra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.19|<< Deuteronomy 9:19]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.21|Deuteronomy 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and with Aaron  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0175\|אַהֲרֹ֗ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was angry  |**<big>&#8207;[[H0599\|הִתְאַנַּ֧ף]]&#8207; </big>**| hit.'a.Naf<small><sup>[[HVtp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

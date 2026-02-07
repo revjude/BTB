@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God of Israel chose by me from out of all the house  of my father to be king over Israel into the eon, and for Judah to take up the crown; and of \[the\] house of Judah, the house  of my father. And among the sons  of my father, in me he wanted  me to become king over all  Israel. 
-<small><sub>**KJV:**</sub></small>
-Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah [to be] the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make [me] king over all Israel:
-<small><sub>**BSB:**</sub></small>
-Yet the LORD, the God of Israel, chose me out of all my father’s house to be king over Israel forever. For He chose Judah as leader, and from the house of Judah He chose my father’s household, and from my father’s sons He was pleased to make me king over all Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.3|<< 1 Chronicles 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.5|1 Chronicles 28:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Hebrews 11:16
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:16**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now they desire a better [country], that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.
 <small><sub>**BSB:**</sub></small>
 Instead, they were longing for a better country, a heavenly one. Therefore God is not ashamed to be called their God, for He has prepared a city for them.
 <small><sub>**Literal:**</sub></small>
 now however to a better [one] they stretch forward to, That is to a heavenly [one]; Therefore not is ashamed of them <the> God God to be called of them; He has prepared indeed for them a city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.15|<< Hebrews 11:15]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.17|Hebrews 11:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now [^1] |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

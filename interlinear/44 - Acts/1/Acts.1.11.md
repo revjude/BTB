@@ -1,12 +1,12 @@
-**Acts 1:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:11**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.
 <small><sub>**BSB:**</sub></small>
 “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen Him go into heaven.”
 <small><sub>**Literal:**</sub></small>
 who also said; Men Galileans, why have you stood looking into <the> heaven? This <the> Jesus who having been taken up from you into <the> heaven thus will come in that manner you beheld Him going into <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.10|<< Acts 1:10]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.12|Acts 1:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|οἳ]]</big>**  |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

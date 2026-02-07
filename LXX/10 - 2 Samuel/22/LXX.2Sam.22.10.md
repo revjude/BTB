@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:10** 
 <small><sub>**LXX:**</sub></small>
 And he leaned \[the\] heavens, and came down; and dimness \[was\] under  his feet. 
-<small><sub>**KJV:**</sub></small>
-He bowed the heavens also, and came down; and darkness [was] under his feet.
-<small><sub>**BSB:**</sub></small>
-He parted the heavens and came down with dark clouds beneath His feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.9|<< 2 Samuel 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.11|2 Samuel 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

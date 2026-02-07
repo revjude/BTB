@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:13** 
 <small><sub>**LXX:**</sub></small>
 And I will lead them from out of the nations, and I will gather them from the regions, and I will bring them into  their land, and I will graze them upon the mountains of Israel, and in the ravines, and in every dwelling of the land. 
-<small><sub>**KJV:**</sub></small>
-And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country.
-<small><sub>**BSB:**</sub></small>
-I will bring them out from the peoples, gather them from the countries, and bring them into their own land. I will feed them on the mountains of Israel, in the ravines, and in all the settlements of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.12|<< Ezekiel 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.14|Ezekiel 34:14 >>]]</td></tr></table>
 
 | Translation | Greek |

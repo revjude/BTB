@@ -1,10 +1,7 @@
 **LXX Isaiah 13:11** 
 <small><sub>**LXX:**</sub></small>
 And I charge evils to the entire world, and to the impious  their sins; and I shall destroy \[the\] insolence of lawless ones; and I will abase \[the\] insolence of \[the\] proud. 
-<small><sub>**KJV:**</sub></small>
-And I will punish the world for [their] evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible.
-<small><sub>**BSB:**</sub></small>
-I will punish the world for its evil and the wicked for their iniquity. I will end the haughtiness of the arrogant and lay low the pride of the ruthless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.10|<< Isaiah 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.12|Isaiah 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

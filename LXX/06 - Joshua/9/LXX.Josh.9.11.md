@@ -1,10 +1,7 @@
 **LXX Joshua 9:11** 
 <small><sub>**LXX:**</sub></small>
 And our elders spoke to us, and all the ones dwelling \[in\] our land, saying, Take for yourselves provisions for the journey, and go to meet with them! And you shall say to them, We are your servants, and now ordain with us the covenant! 
-<small><sub>**KJV:**</sub></small>
-Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We [are] your servants: therefore now make ye a league with us.
-<small><sub>**BSB:**</sub></small>
-So the elders and inhabitants of our land told us, ‘Take provisions for your journey; go to meet them and say to them: We are your servants. Please make a treaty with us.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.10|<< Joshua 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.12|Joshua 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

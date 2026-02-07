@@ -1,4 +1,4 @@
-**Proverbs 24:27** 
+**Proverbs 24:27**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prepare thy work without, and make it fit for thyself in the field; and afterwards build thine house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Complete your outdoor work and prepare your field; after that, you may build you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.26|<< Proverbs 24:26]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.28|Proverbs 24:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | establish  |**<big>&#8207;[[H3559A\|הָ֘כֵ֤ן]]&#8207; </big>**| ha.Khen<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the outside  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2351\|ח֨וּץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Chutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

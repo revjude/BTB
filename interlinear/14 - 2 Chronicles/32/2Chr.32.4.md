@@ -1,4 +1,4 @@
-**2 Chronicles 32:4** 
+**2 Chronicles 32:4**<big><big>[[2Chr.32.1 Sennacherib Invades Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So there was gathered much people together, who stopped all the fountains, and the brook that ran through the midst of the land, saying, Why should the kings of Assyria come, and find much water?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many people assembled and stopped up all the springs and the stream that flowed 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.3|<< 2 Chronicles 32:3]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.5|2 Chronicles 32:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקָּבְצ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.ve.Tzu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people  |**<big>&#8207;[[H5971A\|עַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'am-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

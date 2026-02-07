@@ -1,10 +1,7 @@
 **LXX Isaiah 59:5** 
 <small><sub>**LXX:**</sub></small>
 They hatch eggs of asps, and weave of a spider a web. And the one about  to eat their eggs, breaking a rotten egg found also in it a cobra. 
-<small><sub>**KJV:**</sub></small>
-They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.
-<small><sub>**BSB:**</sub></small>
-They hatch the eggs of vipers and weave a spider’s web. Whoever eats their eggs will die; crack one open, and a viper is hatched.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.4|<< Isaiah 59:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.6|Isaiah 59:6 >>]]</td></tr></table>
 
 | Translation | Greek |

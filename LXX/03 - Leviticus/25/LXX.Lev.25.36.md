@@ -1,10 +1,7 @@
 **LXX Leviticus 25:36** 
 <small><sub>**LXX:**</sub></small>
 You shall not take interest from him, nor for an amount. And you shall fear  your God, and your brother shall live with you. 
-<small><sub>**KJV:**</sub></small>
-Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.
-<small><sub>**BSB:**</sub></small>
-Do not take any interest or profit from him, but fear your God, that your countryman may live among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.35|<< Leviticus 25:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.37|Leviticus 25:37 >>]]</td></tr></table>
 
 | Translation | Greek |

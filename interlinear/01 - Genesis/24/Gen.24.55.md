@@ -1,4 +1,4 @@
-**Genesis 24:55** 
+**Genesis 24:55**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her brother and her mother said, Let the damsel abide with us [a few] days, at the least ten; after that she shall go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But her brother and mother said, “Let the girl remain with us ten days or so. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.54|<< Genesis 24:54]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.56|Genesis 24:56 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brother her  |**<big>&#8207;[[H0251G\|אָחִ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

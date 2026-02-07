@@ -1,10 +1,7 @@
 **LXX Judges 16:18** 
 <small><sub>**LXX:**</sub></small>
 And Delilah knew that he reported to her all  his heart. And she sent and called the satraps of the Philistines, saying, Ascend  this once! for he reported to me all  his heart. And ascended up to her all the satraps of the Philistines, and they brought the silver into  her hands. 
-<small><sub>**KJV:**</sub></small>
-And when Delilah saw that he had told her all his heart, she sent and called for the lords of the Philistines, saying, Come up this once, for he hath shewed me all his heart. Then the lords of the Philistines came up unto her, and brought money in their hand.
-<small><sub>**BSB:**</sub></small>
-When Delilah realized that he had revealed to her all that was in his heart, she sent this message to the lords of the Philistines: “Come up once more, for he has revealed to me all that is in his heart.” Then the lords of the Philistines came to her, bringing the money in their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.17|<< Judges 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.19|Judges 16:19 >>]]</td></tr></table>
 
 | Translation | Greek |

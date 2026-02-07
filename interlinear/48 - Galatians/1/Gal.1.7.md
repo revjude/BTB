@@ -1,12 +1,12 @@
-**Galatians 1:7
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:7**<big><big>[[Gal.1.6 No Other Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 <small><sub>**BSB:**</sub></small>
 which is not even a gospel. Evidently some people are troubling you and trying to distort the gospel of Christ.
 <small><sub>**Literal:**</sub></small>
 which not is another, only except some there are who are troubling you and are desiring to pervert the gospel <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.6|<< Galatians 1:6]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.8|Galatians 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

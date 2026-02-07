@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:30** 
 <small><sub>**LXX:**</sub></small>
 and the pediments, according to  these measures. And \[there were\] windows to it; and to the pediment round about -- fifty cubits the length, and its breadth -- twenty-five cubits. 
-<small><sub>**KJV:**</sub></small>
-And the arches round about [were] five and twenty cubits long, and five cubits broad.
-<small><sub>**BSB:**</sub></small>
-(The porticoes around the inner court were twenty-five cubits long and five cubits deep.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.29|<< Ezekiel 40:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.31|Ezekiel 40:31 >>]]</td></tr></table>
 
 | Translation | Greek |

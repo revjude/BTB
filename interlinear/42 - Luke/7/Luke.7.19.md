@@ -1,12 +1,12 @@
-**Luke 7:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:19**<big><big>[[Luke.7.18 John’s Inquiry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And John calling [unto him] two of his disciples sent [them] to Jesus, saying, Art thou he that should come? or look we for another?
 <small><sub>**BSB:**</sub></small>
 So John called two of his disciples and sent them to ask the Lord, “Are You the One who was to come, or should we look for someone else?”
 <small><sub>**Literal:**</sub></small>
 sent [them] to the Lord saying; You yourself are the coming [One], or another are we to look for?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.18|<< Luke 7:18]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.20|Luke 7:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sent [them] |**<big>[[G3992\|ἔπεμψεν]]</big>**  |epempsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

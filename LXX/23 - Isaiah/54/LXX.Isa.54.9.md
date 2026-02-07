@@ -1,10 +1,7 @@
 **LXX Isaiah 54:9** 
 <small><sub>**LXX:**</sub></small>
 From the water  upon Noah, this is my \[plan\], in so far as I swore by an oath to him in  that time to the earth, to not be enraged against you any longer; nor by your intimidation. 
-<small><sub>**KJV:**</sub></small>
-For this [is as] the waters of Noah unto me: for [as] I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee.
-<small><sub>**BSB:**</sub></small>
-“For to Me this is like the days of Noah, when I swore that the waters of Noah would never again cover the earth. So I have sworn that I will not be angry with you or rebuke you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.8|<< Isaiah 54:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.10|Isaiah 54:10 >>]]</td></tr></table>
 
 | Translation | Greek |

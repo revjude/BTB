@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:5** 
 <small><sub>**LXX:**</sub></small>
 All these cities \[were\] fortified \[with\] high walls, gates, and bars; besides the cities of the Perizzites --  very many. 
-<small><sub>**KJV:**</sub></small>
-All these cities [were] fenced with high walls, gates, and bars; beside unwalled towns a great many.
-<small><sub>**BSB:**</sub></small>
-All these cities were fortified with high walls and gates and bars, and there were many more unwalled villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.4|<< Deuteronomy 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.6|Deuteronomy 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

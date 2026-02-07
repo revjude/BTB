@@ -1,10 +1,7 @@
 **LXX Isaiah 66:23** 
 <small><sub>**LXX:**</sub></small>
 And it will be month by month, and Sabbath by Sabbath, all flesh shall come  to do obeisance before me in Jerusalem, said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-From one New Moon to another and from one Sabbath to another, all mankind will come to worship before Me,” says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.22|<< Isaiah 66:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.24|Isaiah 66:24 >>]]</td></tr></table>
 
 | Translation | Greek |

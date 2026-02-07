@@ -1,4 +1,4 @@
-**Genesis 22:13** 
+**Genesis 22:13**<big><big>[[Gen.22.11 The LORD Provides the Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Abraham looked up and saw behind him a ram in a thicket, caught by its horn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.12|<< Genesis 22:12]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.14|Genesis 22:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375M\|יִּשָּׂ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֜ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

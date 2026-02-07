@@ -1,4 +1,4 @@
-**1 Kings 19:11** 
+**1 Kings 19:11**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Go forth, and stand upon the mount before the LORD. And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD; [but] the LORD [was] not in the wind: and after the wind an earthquake; [but] the LORD [was] not in the earthquake:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD said, “Go out and stand on the mountain before the LORD. Behold,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.10|<< 1 Kings 19:10]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.12|1 Kings 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go out  |**<big>&#8207;[[H3318G\|צֵ֣א]]&#8207; </big>**| tze'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:27** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> did not speak to wipe away the name  of Israel from beneath  heaven. And he delivered them by \[the\] hand of Jeroboam son of Joash. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said not that he would blot out the name of Israel from under heaven: but he saved them by the hand of Jeroboam the son of Joash.
-<small><sub>**BSB:**</sub></small>
-and since the LORD had said that He would not blot out the name of Israel from under heaven, He saved them by the hand of Jeroboam son of Jehoash.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.26|<< 2 Kings 14:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.28|2 Kings 14:28 >>]]</td></tr></table>
 
 | Translation | Greek |

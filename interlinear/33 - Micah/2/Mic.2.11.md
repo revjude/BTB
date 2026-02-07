@@ -1,4 +1,4 @@
-**Micah 2:11** 
+**Micah 2:11**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man walking in the spirit and falsehood do lie, [saying], I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man of wind were to come and say falsely, “I will preach to you of wine a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.10|<< Micah 2:10]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.12|Micah 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3863\|לוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lu-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anyone  |**<big>&#8207;[[H0376I\|אִ֞ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

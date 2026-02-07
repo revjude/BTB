@@ -1,10 +1,7 @@
 **LXX Genesis 6:14** 
 <small><sub>**LXX:**</sub></small>
 Make then for yourself an ark from four-cornered wood! Nested \[compartments\] you shall make among the ark, and you shall apply asphalt to it -- from inside and from outside with the asphalt. 
-<small><sub>**KJV:**</sub></small>
-Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.
-<small><sub>**BSB:**</sub></small>
-Make for yourself an ark of gopher wood; make rooms in the ark and coat it with pitch inside and out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.13|<< Genesis 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.15|Genesis 6:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 6:14** is...

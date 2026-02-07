@@ -1,12 +1,12 @@
-**John 10:21
-**<small><sub>**KJV:**</sub></small>
+**John 10:21**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?
 <small><sub>**BSB:**</sub></small>
 But others replied, “These are not the words of a man possessed by a demon. Can a demon open the eyes of the blind?”
 <small><sub>**Literal:**</sub></small>
 Others now were saying; These <the> declarations not are [those] of one demonised; Surely not a demon is able of [the] blind [their] eyes to open?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.20|<< John 10:20]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.22|John 10:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Others |**<big>[[G0243\|ἄλλοι]]</big>**  |alloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NIV+P66+P66*+01+032">o</abbr> | |

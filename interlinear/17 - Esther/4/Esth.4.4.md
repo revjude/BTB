@@ -1,4 +1,4 @@
-**Esther 4:4** 
+**Esther 4:4**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Esther’s maids and her chamberlains came and told [it] her. Then was the queen exceedingly grieved; and she sent raiment to clothe Mordecai, and to take away his sackcloth from him: but he received [it] not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Esther’s maidens and eunuchs came and told her about Mordecai, the queen 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.3|<< Esther 4:3]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.5|Esther 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0935G\|תָּבֹאינָה]]&#8207; </big>**[^1] [^2] | va.<small><sup>[[Hc]]</sup></small> te.vo.'ei.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | [the] maids of  |**<big>&#8207;[[H5291\|נַעֲר֨וֹת]]&#8207; </big>**| na.'a.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

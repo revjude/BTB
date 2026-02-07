@@ -1,4 +1,4 @@
-**Psalms 94:19** 
+**Psalms 94:19**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the multitude of my thoughts within me thy comforts delight my soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When anxiety overwhelms me, Your consolation delights my soul.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.18|<< Psalms 94:18]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.20|Psalms 94:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] multitude of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רֹ֣ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | disquieting thoughts my  |**<big>&#8207;[[H8312\|שַׂרְעַפַּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| sar.'a.Pa<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

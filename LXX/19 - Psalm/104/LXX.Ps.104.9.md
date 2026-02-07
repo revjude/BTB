@@ -1,10 +1,7 @@
 **LXX Psalm 104:9** 
 <small><sub>**LXX:**</sub></small>
 You placed a limit which they shall not pass, nor shall they return to cover the earth. 
-<small><sub>**KJV:**</sub></small>
-Thou hast set a bound that they may not pass over; that they turn not again to cover the earth.
-<small><sub>**BSB:**</sub></small>
-You set a boundary they cannot cross, that they may never again cover the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.8|<< Psalm 104:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.10|Psalm 104:10 >>]]</td></tr></table>
 
 | Translation | Greek |

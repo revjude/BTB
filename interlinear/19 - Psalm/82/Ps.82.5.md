@@ -1,4 +1,4 @@
-**Psalms 82:5** 
+**Psalms 82:5**<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They do not know or understand; they wander in the darkness; all the foundations
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.4|<< Psalms 82:4]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.6|Psalms 82:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they know  |**<big>&#8207;[[H3045\|יָֽדְע֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.de.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

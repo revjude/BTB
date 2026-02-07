@@ -1,12 +1,12 @@
-**Matthew 4:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:13**<big><big>[[Matt.4.12 Jesus Begins His Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:
 <small><sub>**BSB:**</sub></small>
 Leaving Nazareth, He went and lived in Capernaum, which is by the sea in the region of Zebulun and Naphtali,
 <small><sub>**Literal:**</sub></small>
 And having left <the> Nazareth, having come he dwelt at Capernaum which [is] on the sea-side in [the] region of Zebulun and of Naphtali,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.12|<< Matthew 4:12]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.14|Matthew 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having left |**<big>[[G2641\|καταλιπὼν]]</big>**  |katalipōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

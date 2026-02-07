@@ -1,4 +1,4 @@
-**Numbers 5:9** 
+**Numbers 5:9**<big><big>[[Num.5.5 Confession and Restitution|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every sacred contribution the Israelites bring to the priest shall belong to him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.8|<< Numbers 5:8]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.10|Numbers 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | contribution  |**<big>&#8207;[[H8641\|תְּרוּמָ֞ה]]&#8207; </big>**| te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

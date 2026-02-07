@@ -1,10 +1,7 @@
 **LXX Numbers 19:14** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the law. A man, if he should die in a house, every  one entering into the house, and as many as are in the house, will be unclean seven days. 
-<small><sub>**KJV:**</sub></small>
-This [is] the law, when a man dieth in a tent: all that come into the tent, and all that [is] in the tent, shall be unclean seven days.
-<small><sub>**BSB:**</sub></small>
-This is the law when a person dies in a tent: Everyone who enters the tent and everyone already in the tent will be unclean for seven days,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.13|<< Numbers 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.15|Numbers 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 31:43** 
 <small><sub>**LXX:**</sub></small>
 And responding Laban said to Jacob, The daughters \[are\] my daughters, and \[the\] sons my sons, and the cattle my cattle; and all as much as you see is mine, and the \[property\] of my daughters. What shall I do with these \[women\] today or the children of them whom they bore? 
-<small><sub>**KJV:**</sub></small>
-And Laban answered and said unto Jacob, [These] daughters [are] my daughters, and [these] children [are] my children, and [these] cattle [are] my cattle, and all that thou seest [is] mine: and what can I do this day unto these my daughters, or unto their children which they have born?
-<small><sub>**BSB:**</sub></small>
-But Laban answered Jacob, “These daughters are my daughters, these sons are my sons, and these flocks are my flocks! Everything you see is mine! Yet what can I do today about these daughters of mine or the children they have borne?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.42|<< Genesis 31:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.44|Genesis 31:44 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 4:3** 
 <small><sub>**LXX:**</sub></small>
 For since you admonished many, and comforted \[the\] hands of \[the\] weak, 
-<small><sub>**KJV:**</sub></small>
-Behold, thou hast instructed many, and thou hast strengthened the weak hands.
-<small><sub>**BSB:**</sub></small>
-Surely you have instructed many, and have strengthened their feeble hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.2|<< Job 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.4|Job 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

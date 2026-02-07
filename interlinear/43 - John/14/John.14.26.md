@@ -1,12 +1,12 @@
-**John 14:26
-**<small><sub>**KJV:**</sub></small>
+**John 14:26**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the Comforter, [which is] the Holy Ghost, whom the Father will send in my name, he shall teach you all things, and bring all things to your remembrance, whatsoever I have said unto you.
 <small><sub>**BSB:**</sub></small>
 But the Advocate, the Holy Spirit, whom the Father will send in My name, will teach you all things and will remind you of everything I have told you.
 <small><sub>**Literal:**</sub></small>
 The however Helper, the Spirit <the> Holy whom will send the Father in the name of Me, He you will teach all things and He will bring to remembrance of you all things that have said to you I myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.25|<< John 14:25]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.27|John 14:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

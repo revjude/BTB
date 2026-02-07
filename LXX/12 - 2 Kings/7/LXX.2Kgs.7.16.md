@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:16** 
 <small><sub>**LXX:**</sub></small>
 And the people came forth, and they tore in pieces the camp of Syria. And a measure of fine flour became \[worth\] a shekel, and two measures of barley for a shekel, according to the saying of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the people went out, and spoiled the tents of the Syrians. So a measure of fine flour was [sold] for a shekel, and two measures of barley for a shekel, according to the word of the LORD.
-<small><sub>**BSB:**</sub></small>
-Then the people went out and plundered the camp of the Arameans. It was then that a seah of fine flour sold for a shekel, and two seahs of barley sold for a shekel, according to the word of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.15|<< 2 Kings 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.17|2 Kings 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

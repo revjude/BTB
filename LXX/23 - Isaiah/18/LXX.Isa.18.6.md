@@ -1,10 +1,7 @@
 **LXX Isaiah 18:6** 
 <small><sub>**LXX:**</sub></small>
 And he shall leave them behind together for the winged creatures of the heaven, and for the wild beasts of the earth. And the winged creatures of the heaven shall be brought together upon them; and all the wild beasts of the earth shall come upon her. 
-<small><sub>**KJV:**</sub></small>
-They shall be left together unto the fowls of the mountains, and to the beasts of the earth: and the fowls shall summer upon them, and all the beasts of the earth shall winter upon them.
-<small><sub>**BSB:**</sub></small>
-They will all be left to the mountain birds of prey, and to the beasts of the land. The birds will feed on them in summer, and all the wild animals in winter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.5|<< Isaiah 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.18.7|Isaiah 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

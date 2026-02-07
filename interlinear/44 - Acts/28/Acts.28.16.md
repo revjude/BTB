@@ -1,12 +1,12 @@
-**Acts 28:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:16**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.
 <small><sub>**BSB:**</sub></small>
 When we arrived in Rome, Paul was permitted to stay by himself, with a soldier to guard him.
 <small><sub>**Literal:**</sub></small>
 When now we came to Rome, the centurion delivered <the> prisoners to the commanders was allowed <the> Now Paul to stay by himself with who is guarding him soldier.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.15|<< Acts 28:15]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.17|Acts 28:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|Ὅτε]]</big>**  |Hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

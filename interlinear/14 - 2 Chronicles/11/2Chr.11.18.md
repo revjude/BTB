@@ -1,4 +1,4 @@
-**2 Chronicles 11:18** 
+**2 Chronicles 11:18**<big><big>[[2Chr.11.18 Rehoboam’s Family|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to wife, [and] Abihail the daughter of Eliab the son of Jesse;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Rehoboam married Mahalath, who was the daughter of David’s son Jerimoth an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.17|<< 2 Chronicles 11:17]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.19|2 Chronicles 11:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947I\|יִּֽקַּֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.kach-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for himself  |**<big>&#8207;[[H9005\|ל֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

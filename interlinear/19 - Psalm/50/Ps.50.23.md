@@ -1,4 +1,4 @@
-**Psalms 50:23** 
+**Psalms 50:23**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso offereth praise glorifieth me: and to him that ordereth [his] conversation [aright] will I shew the salvation of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who sacrifices a thank offering honors Me, and to him who rightly orders his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.22|<< Psalms 50:22]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.0|Psalms 51:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] sacrifices  |**<big>&#8207;[[H2076\|זֹבֵ֥חַ]]&#8207; </big>**| zo.Ve.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a thank-offering  |**<big>&#8207;[[H8426\|תּוֹדָ֗ה]]&#8207; </big>**| to.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

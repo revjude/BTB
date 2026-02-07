@@ -1,12 +1,12 @@
-**Romans 3:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:5**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if our unrighteousness commend the righteousness of God, what shall we say? [Is] God unrighteous who taketh vengeance? (I speak as a man)
 <small><sub>**BSB:**</sub></small>
 But if our unrighteousness highlights the righteousness of God, what shall we say? That God is unjust to inflict His wrath on us? I am speaking in human terms.
 <small><sub>**Literal:**</sub></small>
 If however the unrighteousness of us God’s righteousness shows, what will we say? Surely not [is] unrighteous <the> God who is inflicting the wrath? According to man I speak;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.4|<< Romans 3:4]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.6|Romans 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

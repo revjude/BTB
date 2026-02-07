@@ -1,12 +1,12 @@
-**Romans 15:24
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:24**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your [company].
 <small><sub>**BSB:**</sub></small>
 I hope to see you on my way to Spain. And after I have enjoyed your company for a while, you can equip me for my journey.
 <small><sub>**Literal:**</sub></small>
 whenever maybe I shall go to <the> Spain I will come to you I hope for going through to see you and by you to be equipped there, if of you first in part I shall be filled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.23|<< Romans 15:23]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.25|Romans 15:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whenever |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | maybe [^1] |**<big>[[G0302\|ἂν]]</big>**  |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

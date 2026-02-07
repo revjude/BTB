@@ -1,12 +1,12 @@
-**Psalms 8:1** (8:2)
+**Psalms 8:1**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician upon Gittith, A Psalm of David. O LORD our Lord, how excellent [is] thy name in all the earth! who hast set thy glory above the heavens.
+O LORD our Lord, how excellent [is] thy name in all the earth! who hast set thy glory above the heavens.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. According to Gittith. A Psalm of David. O LORD, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.0|<< Psalms 8:0]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.2|Psalms 8:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lord\<s> our  |**<big>&#8207;[[H0113\|אֲדֹנֵ֗י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'a.do.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

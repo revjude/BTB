@@ -1,4 +1,4 @@
-**Deuteronomy 34:8** 
+**Deuteronomy 34:8**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping [and] mourning for Moses were ended.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Israelites grieved for Moses in the plains of Moab thirty days, until the ti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.7|<< Deuteronomy 34:7]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.9|Deuteronomy 34:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they wept for  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1058\|יִּבְכּוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵ֨י]]&#8207; </big>**| ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:28** 
 <small><sub>**LXX:**</sub></small>
 And you fornicated with the sons of Assyria, and neither thus were you satisfied. Yes, you fornicated, and you were not satisfied. 
-<small><sub>**KJV:**</sub></small>
-Thou hast played the whore also with the Assyrians, because thou wast unsatiable; yea, thou hast played the harlot with them, and yet couldest not be satisfied.
-<small><sub>**BSB:**</sub></small>
-Then you prostituted yourself with the Assyrians, because you were not yet satisfied. Even after that, you were still not satisfied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.27|<< Ezekiel 16:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.29|Ezekiel 16:29 >>]]</td></tr></table>
 
 | Translation | Greek |

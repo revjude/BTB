@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:18** 
 <small><sub>**LXX:**</sub></small>
 And \[is it\] not enough to you that you fed on the good pasture, and the rest  of your pasture you trampled \[with\] your feet? and the place of water you drank, and the rest with your feet you disturbed? 
-<small><sub>**KJV:**</sub></small>
-[Seemeth it] a small thing unto you to have eaten up the good pasture, but ye must tread down with your feet the residue of your pastures? and to have drunk of the deep waters, but ye must foul the residue with your feet?
-<small><sub>**BSB:**</sub></small>
-Is it not enough for you to feed on the good pasture? Must you also trample the rest of the pasture with your feet? Is it not enough for you to drink the clear waters? Must you also muddy the rest with your feet?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.17|<< Ezekiel 34:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.19|Ezekiel 34:19 >>]]</td></tr></table>
 
 | Translation | Greek |

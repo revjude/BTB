@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:18** 
 <small><sub>**LXX:**</sub></small>
 You shall not fear them; remembering you shall remember as much as \[the\] <span class="smallcaps">lord</span> your God did \[to\] Pharaoh and to all the Egyptians; 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not be afraid of them: [but] shalt well remember what the LORD thy God did unto Pharaoh, and unto all Egypt;
-<small><sub>**BSB:**</sub></small>
-But do not be afraid of them. Be sure to remember what the LORD your God did to Pharaoh and all Egypt:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.17|<< Deuteronomy 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.19|Deuteronomy 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

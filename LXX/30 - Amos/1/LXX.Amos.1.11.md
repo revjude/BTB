@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, For the three impious deeds  of Edom, even for the four, I will not turn away from them. Because of  his brother pursuing them with \[the\] broadsword, and he laid waste \[the\] mother upon the earth, and seized by force for a testimony of his shuddering awe; and his impulse he kept unto victory. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; For three transgressions of Edom, and for four, I will not turn away [the punishment] thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “For three transgressions of Edom, even four, I will not revoke My judgment, because he pursued his brother with the sword and stifled all compassion; his anger raged continually, and his fury flamed incessantly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.10|<< Amos 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.12|Amos 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

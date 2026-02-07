@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:20** 
 <small><sub>**LXX:**</sub></small>
 May \[the\] <span class="smallcaps">lord</span> send upon you  lack, and  craving, and  consumption, upon all \[things\] of which ever your hand upon, as much as you should do, until whenever he should utterly destroy you, and until whenever he should consume you quickly because of  your wicked practices, because you abandoned me. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me.
-<small><sub>**BSB:**</sub></small>
-The LORD will send curses upon you, confusion and reproof in all to which you put your hand, until you are destroyed and quickly perish because of the wickedness you have committed in forsaking Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.19|<< Deuteronomy 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.21|Deuteronomy 28:21 >>]]</td></tr></table>
 
 | Translation | Greek |

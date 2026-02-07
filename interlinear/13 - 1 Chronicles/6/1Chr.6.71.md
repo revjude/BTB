@@ -1,4 +1,4 @@
-**1 Chronicles 6:71** (6:56)
+**1 Chronicles 6:71**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto the sons of Gershom [were given] out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Gershomites received the following: From the clan of the half-tribe of Manas
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.71|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.70|<< 1 Chronicles 6:70]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.72|1 Chronicles 6:72 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [the] descendants of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵי֮]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gershom  |**<big>&#8207;[[H1647H\|גֵּרְשׁוֹם֒]]&#8207; </big>**| ge.re.shOm<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

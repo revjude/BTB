@@ -1,12 +1,12 @@
-**Acts 8:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:19**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 “Give me this power as well,” he said, “so that everyone on whom I lay my hands may receive the Holy Spirit.”
 <small><sub>**Literal:**</sub></small>
 saying; do give also to me <the> authority this, that on whom when I shall lay the hands he may receive [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.18|<< Acts 8:18]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.20|Acts 8:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do give |**<big>[[G1325\|δότε]]</big>**  |dote <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

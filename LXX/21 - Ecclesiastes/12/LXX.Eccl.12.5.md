@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 12:5** 
 <small><sub>**LXX:**</sub></small>
 and indeed from \[the\] height they shall see, even stupefactions in the way; and the almond shall bloom, and the locust shall thicken, and the caper shall be dispersed; because man went to his eternal house; and the ones beating their chests in mourning circled in \[the\] market; 
-<small><sub>**KJV:**</sub></small>
-Also [when] they shall be afraid of [that which is] high, and fears [shall be] in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:
-<small><sub>**BSB:**</sub></small>
-when men fear the heights and dangers of the road, when the almond tree blossoms, the grasshopper loses its spring, and the caper berry shrivels—for then man goes to his eternal home and mourners walk the streets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.4|<< Ecclesiastes 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.6|Ecclesiastes 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

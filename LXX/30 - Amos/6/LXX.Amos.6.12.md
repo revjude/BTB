@@ -1,10 +1,7 @@
 **LXX Amos 6:12** 
 <small><sub>**LXX:**</sub></small>
 Shall horses pursue in \[the\] rocks, \[no\]. shall they remain silent around females, \[no\]. For you distorted judgment into rage, and \[the\] fruit of righteousness into bitterness; 
-<small><sub>**KJV:**</sub></small>
-Shall horses run upon the rock? will [one] plow [there] with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:
-<small><sub>**BSB:**</sub></small>
-“Do horses gallop on the cliffs? Does one plow the sea with oxen? But you have turned justice into poison and the fruit of righteousness into wormwood—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.11|<< Amos 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.13|Amos 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

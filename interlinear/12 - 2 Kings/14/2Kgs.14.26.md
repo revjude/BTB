@@ -1,4 +1,4 @@
-**2 Kings 14:26** 
+**2 Kings 14:26**<big><big>[[2Kgs.14.23 Jeroboam II Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD saw the affliction of Israel, [that it was] very bitter: for [there was] not any shut up, nor any left, nor any helper for Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD saw that the affliction of the Israelites, both slave and free, was
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.25|<< 2 Kings 14:25]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.27|2 Kings 14:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he saw  |**<big>&#8207;[[H7200G\|רָאָ֧ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

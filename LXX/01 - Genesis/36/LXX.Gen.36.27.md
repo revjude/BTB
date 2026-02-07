@@ -1,10 +1,7 @@
 **LXX Genesis 36:27** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] \[the\] sons of Ezer -- Bilhan, and Zaavan, and Akan. 
-<small><sub>**KJV:**</sub></small>
-The children of Ezer [are] these; Bilhan, and Zaavan, and Akan.
-<small><sub>**BSB:**</sub></small>
-These are the sons of Ezer: Bilhan, Zaavan, and Akan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.26|<< Genesis 36:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.28|Genesis 36:28 >>]]</td></tr></table>
 
 | Translation | Greek |

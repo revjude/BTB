@@ -1,10 +1,7 @@
 **LXX Joshua 8:25** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass that all the ones falling \[in\] that day, from man and unto woman -- twelve thousand, all the ones dwelling in Ai. 
-<small><sub>**KJV:**</sub></small>
-And [so] it was, [that] all that fell that day, both of men and women, [were] twelve thousand, [even] all the men of Ai.
-<small><sub>**BSB:**</sub></small>
-A total of twelve thousand men and women fell that day—all the people of Ai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.24|<< Joshua 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.26|Joshua 8:26 >>]]</td></tr></table>
 
 | Translation | Greek |

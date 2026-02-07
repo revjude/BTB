@@ -1,12 +1,12 @@
-**Mark 13:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:9**<big><big>[[Mark.13.9 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But take heed to yourselves: for they shall deliver you up to councils; and in the synagogues ye shall be beaten: and ye shall be brought before rulers and kings for my sake, for a testimony against them.
 <small><sub>**BSB:**</sub></small>
 So be on your guard. You will be delivered over to the councils and beaten in the synagogues. On My account you will stand before governors and kings as witnesses to them.
 <small><sub>**Literal:**</sub></small>
 do take heed however <you yourselves> to yourselves; they will betray for you to courts and in synagogues you will be beaten and before governors and kings you will stand because of Me for a testimony to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.8|<< Mark 13:8]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.10|Mark 13:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do take heed |**<big>[[G0991\|Βλέπετε]]</big>**  |Blepete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

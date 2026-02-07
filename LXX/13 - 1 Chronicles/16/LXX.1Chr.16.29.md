@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:29** 
 <small><sub>**LXX:**</sub></small>
 Give to the <span class="smallcaps">lord</span> glory \[due\] his name! Take sacrifices, and enter before him! And do obeisance to the <span class="smallcaps">lord</span> in his holy courtyards! 
-<small><sub>**KJV:**</sub></small>
-Give unto the LORD the glory [due] unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness.
-<small><sub>**BSB:**</sub></small>
-Ascribe to the LORD the glory due His name; bring an offering and come before Him. Worship the LORD in the splendor of His holiness;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.28|<< 1 Chronicles 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.30|1 Chronicles 16:30 >>]]</td></tr></table>
 
 | Translation | Greek |

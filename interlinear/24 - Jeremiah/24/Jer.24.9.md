@@ -1,4 +1,4 @@
-**Jeremiah 24:9** 
+**Jeremiah 24:9**<big><big>[[Jer.24.1 The Good and Bad Figs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will deliver them to be removed into all the kingdoms of the earth for [their] hurt, [to be] a reproach and a proverb, a taunt and a curse, in all places whither I shall drive them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make them a horror and an offense to all the kingdoms of the earth, a dis
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.8|<< Jeremiah 24:8]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.10|Jeremiah 24:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make them  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414I\|נְתַתִּי]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into a terror  [^2]|**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2189\|זַעֲוָ֣ה]]&#8207; </big>**[^3] | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

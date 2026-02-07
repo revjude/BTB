@@ -1,10 +1,7 @@
 **LXX Hosea 4:18** 
 <small><sub>**LXX:**</sub></small>
 He took up \[with\] Canaanites, ones committing harlotry. They fornicated and loved dishonor of their neighing. 
-<small><sub>**KJV:**</sub></small>
-Their drink is sour: they have committed whoredom continually: her rulers [with] shame do love, Give ye.
-<small><sub>**BSB:**</sub></small>
-When their liquor is gone, they turn to prostitution; their rulers dearly love disgrace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.17|<< Hosea 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.19|Hosea 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

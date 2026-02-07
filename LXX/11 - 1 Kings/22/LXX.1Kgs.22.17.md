@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Micaiah said thus, I see all  Israel being scattered in the mountains as sheep in which there is no shepherd. And \[the\] <span class="smallcaps">lord</span> said, \[There\] is no lord to these, each return to  his house in peace! 
-<small><sub>**KJV:**</sub></small>
-And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the LORD said, These have no master: let them return every man to his house in peace.
-<small><sub>**BSB:**</sub></small>
-So Micaiah declared: “I saw all Israel scattered on the hills like sheep without a shepherd. And the LORD said, ‘These people have no master; let each one return home in peace.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.16|<< 1 Kings 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.18|1 Kings 22:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Kings 22:17** is...

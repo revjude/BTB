@@ -1,5 +1,5 @@
-**2 Corinthians 5:17
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:17**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore if any man [be] in Christ, [he is] a new creature: old things are passed away; behold, all things are become new.
 <small><sub>**BSB:**</sub></small>
 Therefore if anyone is in Christ, he is a new creation. The old has passed away. Behold, the new has come!
@@ -10,7 +10,7 @@ Therefore if anyone [is] in Christ, [he is] a new creation; The old things have 
 > $\quad$ referencing: [[LXX.Isa.43.18|Isa 43:18-19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

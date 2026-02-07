@@ -1,12 +1,12 @@
-**John 4:14
-**<small><sub>**KJV:**</sub></small>
+**John 4:14**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
 <small><sub>**BSB:**</sub></small>
 But whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a fount of water springing up to eternal life.”
 <small><sub>**Literal:**</sub></small>
 who[ever] however maybe may drink of the water that I myself will give to him, certainly not will thirst to the age, Instead the water that I will give to him it will become in him a spring of water welling up into life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.13|<< John 4:13]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.15|John 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δ᾽]]</big>**  |d᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

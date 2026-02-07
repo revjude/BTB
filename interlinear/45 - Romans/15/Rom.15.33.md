@@ -1,12 +1,12 @@
-**Romans 15:33
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:33**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the God of peace [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 The God of peace be with all of you. Amen.
 <small><sub>**Literal:**</sub></small>
 <the> And the God <the> of peace [be] with all of you, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.32|<< Romans 15:32]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.1|Romans 16:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

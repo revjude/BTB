@@ -1,10 +1,7 @@
 **LXX Zechariah 11:6** 
 <small><sub>**LXX:**</sub></small>
 On account of this, I will not spare any longer over the ones inhabiting the land, says \[the\] <span class="smallcaps">lord</span>. And behold, I deliver up the men, each into \[the\] hand  of his neighbor, and into \[the\] hand of his king; and they shall cut in pieces the land, and in no way should I rescue from out of their hand. 
-<small><sub>**KJV:**</sub></small>
-For I will no more pity the inhabitants of the land, saith the LORD: but, lo, I will deliver the men every one into his neighbour’s hand, and into the hand of his king: and they shall smite the land, and out of their hand I will not deliver [them].
-<small><sub>**BSB:**</sub></small>
-For I will no longer have compassion on the people of the land, declares the LORD, but behold, I will cause each man to fall into the hands of his neighbor and his king, who will devastate the land, and I will not deliver it from their hands.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.5|<< Zechariah 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.7|Zechariah 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

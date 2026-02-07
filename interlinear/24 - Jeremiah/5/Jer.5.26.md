@@ -1,4 +1,4 @@
-**Jeremiah 5:26** 
+**Jeremiah 5:26**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For among my people are found wicked [men]: they lay wait, as he that setteth snares; they set a trap, they catch men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For among My people are wicked men; they watch like fowlers lying in wait; they 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.25|<< Jeremiah 5:25]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.27|Jeremiah 5:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are found  |**<big>&#8207;[[H4672\|נִמְצְא֥וּ]]&#8207; </big>**| nim.tze.'U<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

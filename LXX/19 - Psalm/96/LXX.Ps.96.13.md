@@ -1,10 +1,7 @@
 **LXX Psalm 96:13** 
 <small><sub>**LXX:**</sub></small>
 from \[the\] face of the <span class="smallcaps">lord</span>, for he comes; for he comes to judge the earth. He shall judge the inhabitable world in righteousness, and peoples in  his truth. 
-<small><sub>**KJV:**</sub></small>
-Before the LORD: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.
-<small><sub>**BSB:**</sub></small>
-before the LORD, for He is coming—He is coming to judge the earth. He will judge the world in righteousness and the peoples in His faithfulness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.96.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.12|<< Psalm 96:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.1|Psalm 97:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 96:13** is...

@@ -1,10 +1,7 @@
 **LXX Joshua 7:16** 
 <small><sub>**LXX:**</sub></small>
 And Joshua rose early in the morning, and the people forward by its tribe. And the tribe of Judah was made manifest. 
-<small><sub>**KJV:**</sub></small>
-So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:
-<small><sub>**BSB:**</sub></small>
-So Joshua arose early the next morning and had Israel come forward tribe by tribe, and the tribe of Judah was selected.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.15|<< Joshua 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.17|Joshua 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

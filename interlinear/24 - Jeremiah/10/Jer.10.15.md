@@ -1,4 +1,4 @@
-**Jeremiah 10:15** 
+**Jeremiah 10:15**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They [are] vanity, [and] the work of errors: in the time of their visitation they shall perish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are worthless, a work to be mocked. In the time of their punishment they wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.14|<< Jeremiah 10:14]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.16|Jeremiah 10:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] futility  |**<big>&#8207;[[H1892\|הֶ֣בֶל]]&#8207; </big>**| He.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֔מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

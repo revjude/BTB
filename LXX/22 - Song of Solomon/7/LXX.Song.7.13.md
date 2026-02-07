@@ -1,10 +1,7 @@
 **LXX Song of Solomon 7:13** 
 <small><sub>**LXX:**</sub></small>
 The mandrakes gave a scent, and at our doors \[are\] all the fruit trees -- new to old. O my beloved \[man\], I kept them for you. 
-<small><sub>**KJV:**</sub></small>
-The mandrakes give a smell, and at our gates [are] all manner of pleasant [fruits], new and old, [which] I have laid up for thee, O my beloved.
-<small><sub>**BSB:**</sub></small>
-The mandrakes send forth a fragrance, and at our door is every delicacy, new as well as old, that I have treasured up for you, my beloved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.12|<< Song of Solomon 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.1|Song of Solomon 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

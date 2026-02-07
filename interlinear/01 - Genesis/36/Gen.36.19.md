@@ -1,4 +1,4 @@
-**Genesis 36:19** 
+**Genesis 36:19**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Esau, who [is] Edom, and these [are] their dukes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All these are the sons of Esau (that is, Edom), and they were their chiefs.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.18|<< Genesis 36:18]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.20|Genesis 36:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֧לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

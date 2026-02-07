@@ -1,12 +1,12 @@
-**Matthew 17:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:27**<big><big>[[Matt.17.24 The Temple Tax|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee.
 <small><sub>**BSB:**</sub></small>
 “But so that we may not offend them, go to the sea, cast a hook, and take the first fish you catch. When you open its mouth, you will find a four-drachma coin. Take it and give it to them for My tax and yours.”
 <small><sub>**Literal:**</sub></small>
 That however not we may offend them, having gone to <the> sea do cast a hook and the having raised first fish do take; and having opened the mouth of it you will find a four-drachma coin. That [which] having taken do give to them for Me and yourself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.26|<< Matthew 17:26]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.1|Matthew 18:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

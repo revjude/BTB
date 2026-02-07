@@ -1,4 +1,4 @@
-**2 Chronicles 25:27** 
+**2 Chronicles 25:27**<big><big>[[2Chr.25.25 The Death of Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now after the time that Amaziah did turn away from following the LORD they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the time that Amaziah turned from following the LORD, a conspiracy was form
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.26|<< 2 Chronicles 25:26]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.28|2 Chronicles 25:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] time  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6256\|עֵ֗ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

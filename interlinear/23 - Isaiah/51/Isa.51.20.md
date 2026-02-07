@@ -1,4 +1,4 @@
-**Isaiah 51:20** 
+**Isaiah 51:20**<big><big>[[Isa.51.17 God’s Fury Removed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the LORD, the rebuke of thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your sons have fainted; they lie at the head of every street, like an antelope i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.19|<< Isaiah 51:19]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.21|Isaiah 51:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | children your  |**<big>&#8207;[[H1121A\|בָּנַ֜יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ba.Na.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have become faint  |**<big>&#8207;[[H5968\|עֻלְּפ֥וּ]]&#8207; </big>**| 'u.le.Fu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

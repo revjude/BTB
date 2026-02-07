@@ -1,12 +1,12 @@
-**Hebrews 10:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:10**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By the which will we are sanctified through the offering of the body of Jesus Christ once [for all].
 <small><sub>**BSB:**</sub></small>
 And by that will, we have been sanctified through the sacrifice of the body of Jesus Christ once for all.
 <small><sub>**Literal:**</sub></small>
 By that will sanctified we are <the> through the offering of the body <the> of Jesus Christ once for all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.9|<< Hebrews 10:9]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.11|Hebrews 10:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

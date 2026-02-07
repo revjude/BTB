@@ -1,10 +1,7 @@
 **LXX Judges 15:20** 
 <small><sub>**LXX:**</sub></small>
 And he judged  Israel in \[the\] days of \[the\] Philistines twenty years. 
-<small><sub>**KJV:**</sub></small>
-And he judged Israel in the days of the Philistines twenty years.
-<small><sub>**BSB:**</sub></small>
-And Samson judged Israel for twenty years in the days of the Philistines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.19|<< Judges 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.1|Judges 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

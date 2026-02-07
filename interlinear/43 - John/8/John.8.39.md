@@ -1,12 +1,12 @@
-**John 8:39
-**<small><sub>**KJV:**</sub></small>
+**John 8:39**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham’s children, ye would do the works of Abraham.
 <small><sub>**BSB:**</sub></small>
 “Abraham is our father,” they replied. “If you were children of Abraham,” said Jesus, “you would do the works of Abraham.
 <small><sub>**Literal:**</sub></small>
 They answered and they said to Him; The father of us Abraham is. Says to them <the> Jesus; If children <the> of Abraham you are, the works <the> of Abraham you perform then would.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.38|<< John 8:38]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.40|John 8:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They answered |**<big>[[G0611\|Ἀπεκρίθησαν]]</big>**  |Apekrithēsan <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

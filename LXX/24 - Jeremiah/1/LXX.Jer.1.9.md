@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:9** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> stretched  his hand to me, and touched  my mouth. And \[the\] <span class="smallcaps">lord</span> said to me, Behold, I have placed  my words in  your mouth. 
-<small><sub>**KJV:**</sub></small>
-Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold, I have put my words in thy mouth.
-<small><sub>**BSB:**</sub></small>
-Then the LORD reached out His hand, touched my mouth, and said to me: “Behold, I have put My words in your mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.8|<< Jeremiah 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.10|Jeremiah 1:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 1:9** is...

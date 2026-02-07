@@ -1,10 +1,7 @@
 **LXX Exodus 18:24** 
 <small><sub>**LXX:**</sub></small>
 And Moses hearkened to the voice  of his father-in-law, and he did as much as he said to him. 
-<small><sub>**KJV:**</sub></small>
-So Moses hearkened to the voice of his father in law, and did all that he had said.
-<small><sub>**BSB:**</sub></small>
-Moses listened to his father-in-law and did everything he said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.23|<< Exodus 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.25|Exodus 18:25 >>]]</td></tr></table>
 
 | Translation | Greek |

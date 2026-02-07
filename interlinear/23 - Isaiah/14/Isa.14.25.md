@@ -1,4 +1,4 @@
-**Isaiah 14:25** 
+**Isaiah 14:25**<big><big>[[Isa.14.24 God’s Purpose against Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will break Assyria in My land; I will trample him on My mountain. His yoke wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.24|<< Isaiah 14:24]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.26|Isaiah 14:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to break  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7665\|שְׁבֹּ֤ר]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Bor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Assyria  |**<big>&#8207;[[H0804G\|אַשּׁוּר֙]]&#8207; </big>**| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

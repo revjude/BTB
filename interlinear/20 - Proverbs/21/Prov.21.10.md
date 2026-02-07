@@ -1,4 +1,4 @@
-**Proverbs 21:10** 
+**Proverbs 21:10**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The soul of the wicked man craves evil; his neighbor finds no favor in his eyes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.9|<< Proverbs 21:9]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.11|Proverbs 21:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] appetite of  |**<big>&#8207;[[H5315G\|נֶ֣פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wicked [person]  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

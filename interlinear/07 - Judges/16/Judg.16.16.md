@@ -1,4 +1,4 @@
-**Judges 16:16** 
+**Judges 16:16**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when she pressed him daily with her words, and urged him, [so] that his soul was vexed unto death;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Finally, after she had pressed him daily with her words and pleaded until he was
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.15|<< Judges 16:15]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.17|Judges 16:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> y.hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

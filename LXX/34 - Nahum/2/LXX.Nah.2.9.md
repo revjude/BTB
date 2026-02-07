@@ -1,10 +1,7 @@
 **LXX Nahum 2:9** 
 <small><sub>**LXX:**</sub></small>
 They plundered the silver, they plundered the gold, and there was no limit  to her decoration; they were weighed down by all  her desirable items. 
-<small><sub>**KJV:**</sub></small>
-Take ye the spoil of silver, take the spoil of gold: for [there is] none end of the store [and] glory out of all the pleasant furniture.
-<small><sub>**BSB:**</sub></small>
-“Plunder the silver! Plunder the gold!” There is no end to the treasure, an abundance of every precious thing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.8|<< Nahum 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.10|Nahum 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

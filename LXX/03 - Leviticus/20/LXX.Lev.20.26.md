@@ -1,10 +1,7 @@
 **LXX Leviticus 20:26** 
 <small><sub>**LXX:**</sub></small>
 And you will be holy to me, for I \[am\] holy, \[the\] <span class="smallcaps">lord</span>  your God, the one separating you from all the nations, to be mine. 
-<small><sub>**KJV:**</sub></small>
-And ye shall be holy unto me: for I the LORD [am] holy, and have severed you from [other] people, that ye should be mine.
-<small><sub>**BSB:**</sub></small>
-You are to be holy to Me because I, the LORD, am holy, and I have set you apart from the nations to be My own.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.25|<< Leviticus 20:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.27|Leviticus 20:27 >>]]</td></tr></table>
 
 | Translation | Greek |

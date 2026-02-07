@@ -1,10 +1,7 @@
 **LXX Job 12:7** 
 <small><sub>**LXX:**</sub></small>
 But indeed ask \[the\] four-footed \[beasts\]! if they should speak to you, or birds of the heaven, if they were able to report to you. 
-<small><sub>**KJV:**</sub></small>
-But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:
-<small><sub>**BSB:**</sub></small>
-But ask the animals, and they will instruct you; ask the birds of the air, and they will tell you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.6|<< Job 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.8|Job 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

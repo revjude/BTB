@@ -1,4 +1,4 @@
-**Genesis 45:1** 
+**Genesis 45:1**<big><big>[[Gen.45.1 Joseph Reveals His Identity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then Joseph could no longer control himself before all his attendants, and he cr
 > $\quad$ referenced by: [[Acts.7.13|Acts 7:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was able  |**<big>&#8207;[[H3201\|יָכֹ֨ל]]&#8207; </big>**| ya.Khol<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

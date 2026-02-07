@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:13** 
 <small><sub>**LXX:**</sub></small>
 And his servants approached, and they said to him, If the prophet spoke a great word to you, would you not have done in so far as he said to you? Bathe and be cleansed! 
-<small><sub>**KJV:**</sub></small>
-And his servants came near, and spake unto him, and said, My father, [if] the prophet had bid thee [do some] great thing, wouldest thou not have done [it]? how much rather then, when he saith to thee, Wash, and be clean?
-<small><sub>**BSB:**</sub></small>
-Naaman’s servants, however, approached him and said, “My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, ‘Wash and be cleansed’?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.12|<< 2 Kings 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.14|2 Kings 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

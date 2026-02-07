@@ -1,4 +1,4 @@
-**1 Samuel 22:9** 
+**1 Samuel 22:9**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Doeg the Edomite, who had stationed himself with Saul’s servants, answered
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.8|<< 1 Samuel 22:8]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.10|1 Samuel 22:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֜עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Doeg  |**<big>&#8207;[[H1673\|דֹּאֵ֣ג]]&#8207; </big>**| do.'Eg<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

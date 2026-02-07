@@ -1,4 +1,4 @@
-**Isaiah 3:3** 
+**Isaiah 3:3**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The captain of fifty, and the honourable man, and the counseller, and the cunning artificer, and the eloquent orator.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the commander of fifty and the dignitary, the counselor, the cunning magician, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.2|<< Isaiah 3:2]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.4|Isaiah 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | commander of  |**<big>&#8207;[[H8269\|שַׂר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֖ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 17:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:6**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
 <small><sub>**BSB:**</sub></small>
 I could see that the woman was drunk with the blood of the saints and witnesses for Jesus. And I was utterly amazed at the sight of her.
 <small><sub>**Literal:**</sub></small>
 And I saw the woman being drunk with the blood of the saints and with the blood of the witnesses of Jesus, And I marveled having seen her with wonder great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.5|<< Revelation 17:5]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.7|Revelation 17:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  [^1] |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

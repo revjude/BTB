@@ -1,4 +1,4 @@
-**Ezekiel 45:12** 
+**Ezekiel 45:12**<big><big>[[Ezek.45.10 Honest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the shekel [shall be] twenty gerahs: twenty shekels, five and twenty shekels, fifteen shekels, shall be your maneh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The shekel will consist of twenty gerahs. Twenty shekels plus twenty-five shekel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.11|<< Ezekiel 45:11]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.13|Ezekiel 45:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the shekel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8255\|שֶּׁ֖קֶל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> She.kel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֣ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

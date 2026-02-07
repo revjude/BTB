@@ -1,4 +1,4 @@
-**Ezekiel 20:14** 
+**Ezekiel 20:14**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I wrought for my name’s sake, that it should not be polluted before the heathen, in whose sight I brought them out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I acted for the sake of My name, so that it would not be profaned in the eye
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.13|<< Ezekiel 20:13]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.15|Ezekiel 20:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I acted  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6213A\|אֶעֱשֶׂ֖ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.'e.Seh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] sake of  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

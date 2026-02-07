@@ -1,10 +1,7 @@
 **LXX Esther 2:18** 
 <small><sub>**LXX:**</sub></small>
 And the king made a banquet for all  his friends, and the powerful ones, for seven days. And he exalted the wedding \[feasts\] of Esther; and he made a release to the ones under  his kingdom. 
-<small><sub>**KJV:**</sub></small>
-Then the king made a great feast unto all his princes and his servants, [even] Esther’s feast; and he made a release to the provinces, and gave gifts, according to the state of the king.
-<small><sub>**BSB:**</sub></small>
-Then the king held a great banquet, Esther’s banquet, for all his officials and servants. He proclaimed a tax holiday in the provinces and gave gifts worthy of the king’s bounty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.17|<< Esther 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.19|Esther 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

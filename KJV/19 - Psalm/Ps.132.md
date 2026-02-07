@@ -1,6 +1,6 @@
 (KJV) **Psalm 132**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.131|<< Psalm 131]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133|Psalm 133 >>]]</td></tr></table>
 
-***The LORD Has Chosen Zion*** ^bsb1425
+<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥃]]</big></big>***The LORD Has Chosen Zion***
 
 
 

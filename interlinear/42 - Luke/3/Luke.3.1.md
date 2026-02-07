@@ -1,12 +1,12 @@
-**Luke 3:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:1**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,
 <small><sub>**BSB:**</sub></small>
 In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,
 <small><sub>**Literal:**</sub></small>
 In year then fifteenth of the reign of Tiberius Caesar, when is being governor Pontius Pilate <the> of Judea and when is being tetrarch <the> of Galilee Herod, Philip now the brother when he is being tetrarch <the> of Ituraea and of Trachonitis [the] region and Lysanias <the> of Abilene being tetrarch<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.52|<< Luke 2:52]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.2|Luke 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | year |**<big>[[G2094\|ἔτει]]</big>**  |etei <small><sup>[[N-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

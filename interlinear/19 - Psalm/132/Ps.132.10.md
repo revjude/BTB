@@ -1,4 +1,4 @@
-**Psalms 132:10** 
+**Psalms 132:10**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy servant David’s sake turn not away the face of thine anointed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the sake of Your servant David, do not reject Your anointed one.
 > $\quad$ referenced by: [[2Chr.6.42|2Chr 6:42]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for sake of  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H5668\|עֲבוּר]]&#8207; </big>**| Ba.<small><sup>[[HR]]</sup></small> 'a.vur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֣ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

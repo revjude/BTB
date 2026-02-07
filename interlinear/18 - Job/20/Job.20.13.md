@@ -1,4 +1,4 @@
-**Job 20:13** 
+**Job 20:13**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Though] he spare it, and forsake it not; but keep it still within his mouth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ though he cannot bear to let it go and keeps it in his mouth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.12|<< Job 20:12]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.14|Job 20:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he spares  |**<big>&#8207;[[H2550\|יַחְמֹ֣ל]]&#8207; </big>**| yach.Mol<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<on> it  |**<big>&#8207;[[H5921A\|עָ֭לֶי]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'A.lei.<small><sup>[[HR]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

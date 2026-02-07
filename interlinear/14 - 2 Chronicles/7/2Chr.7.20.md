@@ -1,4 +1,4 @@
-**2 Chronicles 7:20** 
+**2 Chronicles 7:20**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it [to be] a proverb and a byword among all nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then I will uproot Israel from the soil I have given them, and I will banish fro
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.19|<< 2 Chronicles 7:19]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.21|2 Chronicles 7:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will pluck up them  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5428\|נְתַשְׁתִּ֗י]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.tash.Ti<small><sup>[[HVqq1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from on  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

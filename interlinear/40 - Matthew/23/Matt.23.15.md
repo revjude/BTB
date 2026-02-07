@@ -1,12 +1,12 @@
-**Matthew 23:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:15**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.
 <small><sub>**BSB:**</sub></small>
 Woe to you, scribes and Pharisees, you hypocrites! You traverse land and sea to win a single convert, and when he becomes one, you make him twice as much a son of hell as you are.
 <small><sub>**Literal:**</sub></small>
 Woe to you, scribes and Pharisees hypocrites! For you traverse the sea and the dry [land] to make one convert, and when he may become [so], you make him a son of hell twofold more than yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.14|<< Matthew 23:14]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.16|Matthew 23:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Woe |**<big>[[G3759\|Οὐαὶ]]</big>**  |Ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you, |**<big>[[G4771\|ὑμῖν,]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

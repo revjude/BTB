@@ -1,4 +1,4 @@
-**Proverbs 5:19** 
+**Proverbs 5:19**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Let her be as] the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A loving doe, a graceful fawn—may her breasts satisfy you always; may you be c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.18|<< Proverbs 5:18]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.20|Proverbs 5:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a doe of  |**<big>&#8207;[[H0355\|אַיֶּ֥לֶת]]&#8207; </big>**| 'ai.Ye.let<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | loves  |**<big>&#8207;[[H0158\|אֲהָבִ֗ים]]&#8207; </big>**| 'a.ha.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

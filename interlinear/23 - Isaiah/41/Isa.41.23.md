@@ -1,4 +1,4 @@
-**Isaiah 41:23** 
+**Isaiah 41:23**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shew the things that are to come hereafter, that we may know that ye [are] gods: yea, do good, or do evil, that we may be dismayed, and behold [it] together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tell us the things that are to come, so that we may know that you are gods. Yes,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.22|<< Isaiah 41:22]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.24|Isaiah 41:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tell  |**<big>&#8207;[[H5046\|הַגִּ֙ידוּ֙]]&#8207; </big>**| ha.Gi.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [things] coming  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0857\|אֹתִיּ֣וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.ti.Yot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

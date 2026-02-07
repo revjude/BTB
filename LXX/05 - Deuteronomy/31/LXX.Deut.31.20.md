@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:20** 
 <small><sub>**LXX:**</sub></small>
 For I shall bring them into the good land which I swore by an oath \[to\] their fathers; a land flowing milk and honey. And they shall eat. And being filled up they shall satisfy \[themselves\], and shall turn to alien gods, and shall serve to them, and shall provoke me, and shall efface  my covenant which I ordained with them. 
-<small><sub>**KJV:**</sub></small>
-For when I shall have brought them into the land which I sware unto their fathers, that floweth with milk and honey; and they shall have eaten and filled themselves, and waxen fat; then will they turn unto other gods, and serve them, and provoke me, and break my covenant.
-<small><sub>**BSB:**</sub></small>
-When I have brought them into the land that I swore to give their fathers, a land flowing with milk and honey, they will eat their fill and prosper. Then they will turn to other gods and worship them, and they will reject Me and break My covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.19|<< Deuteronomy 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.21|Deuteronomy 31:21 >>]]</td></tr></table>
 
 | Translation | Greek |

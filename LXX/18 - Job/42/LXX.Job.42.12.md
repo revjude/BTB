@@ -1,10 +1,7 @@
 **LXX Job 42:12** 
 <small><sub>**LXX:**</sub></small>
 And the <span class="smallcaps">lord</span> blessed the latter end of Job than the former. And his cattle was -- ten thousand four thousand sheep, six thousand camels, a thousand teams of oxen, a thousand female grazing donkeys. 
-<small><sub>**KJV:**</sub></small>
-So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.
-<small><sub>**BSB:**</sub></small>
-So the LORD blessed Job’s latter days more than his first. He owned 14,000 sheep, 6,000 camels, 1,000 yoke of oxen, and 1,000 female donkeys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.11|<< Job 42:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.13|Job 42:13 >>]]</td></tr></table>
 
 | Translation | Greek |

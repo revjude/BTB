@@ -1,12 +1,12 @@
-**2 Corinthians 4:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:14**<big><big>[[2Cor.4.7 Treasure in Jars of Clay|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present [us] with you.
 <small><sub>**BSB:**</sub></small>
 knowing that the One who raised the Lord Jesus will also raise us with Jesus and present us with you in His presence.
 <small><sub>**Literal:**</sub></small>
 knowing that the [One] having raised up the Lord Jesus also us with Jesus He will raise up and He will present [us] with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.13|<< 2 Corinthians 4:13]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.15|2 Corinthians 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G6063\|εἰδότες]]</big>**  |eidotes <small><sup>[[V-RAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

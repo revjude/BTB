@@ -1,12 +1,12 @@
-**1 John 4:10
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:10**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Herein is love, not that we loved God, but that he loved us, and sent his Son [to be] the propitiation for our sins.
 <small><sub>**BSB:**</sub></small>
 And love consists in this: not that we loved God, but that He loved us and sent His Son as the atoning sacrifice for our sins.
 <small><sub>**Literal:**</sub></small>
 In this is <the> love, not that we ourselves have loved <the> God, but that He himself loved us and He sent the Son of Him [as] a propitiation for the sins of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.9|<< 1 John 4:9]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.11|1 John 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τούτῳ]]</big>**  |toutō <small><sup>[[D-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

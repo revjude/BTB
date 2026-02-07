@@ -1,10 +1,7 @@
 **LXX Joshua 22:15** 
 <small><sub>**LXX:**</sub></small>
 And they came to the sons of Reuben, and to the sons of Gad, and to the halves of \[the\] tribe of Manasseh, unto \[the\] land of Gilead; and they spoke to them, saying, 
-<small><sub>**KJV:**</sub></small>
-And they came unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, unto the land of Gilead, and they spake with them, saying,
-<small><sub>**BSB:**</sub></small>
-They went to the Reubenites, the Gadites, and the half-tribe of Manasseh in the land of Gilead and said to them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.14|<< Joshua 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.16|Joshua 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

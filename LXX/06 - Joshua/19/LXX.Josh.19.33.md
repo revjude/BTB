@@ -1,10 +1,7 @@
 **LXX Joshua 19:33** 
 <small><sub>**LXX:**</sub></small>
 And their borders were Heleph, and Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and their outer reaches were the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:
-<small><sub>**BSB:**</sub></small>
-Their border started at Heleph and the great tree of Zaanannim, passing Adami-nekeb and Jabneel as far as Lakkum and ending at the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.32|<< Joshua 19:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.34|Joshua 19:34 >>]]</td></tr></table>
 
 | Translation | Greek |

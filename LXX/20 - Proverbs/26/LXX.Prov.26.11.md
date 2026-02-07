@@ -1,10 +1,7 @@
 **LXX Proverbs 26:11** 
 <small><sub>**LXX:**</sub></small>
 As a dog whenever it comes upon  its own vomit, and becomes detested; so a fool returning \[to\] his own evil, unto  his own sin. 
-<small><sub>**KJV:**</sub></small>
-As a dog returneth to his vomit, [so] a fool returneth to his folly.
-<small><sub>**BSB:**</sub></small>
-As a dog returns to its vomit, so a fool repeats his folly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.10|<< Proverbs 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.12|Proverbs 26:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Proverbs 26:11** is...

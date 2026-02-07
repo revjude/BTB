@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they entered to the king, into the courtyard, and they put the scroll to guard in \[the\] house of Elishama the scribe. And they announced to the king all  these words. 
-<small><sub>**KJV:**</sub></small>
-And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king.
-<small><sub>**BSB:**</sub></small>
-So the officials went to the king in the courtyard. And having stored the scroll in the chamber of Elishama the scribe, they reported everything to the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.19|<< Jeremiah 36:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.21|Jeremiah 36:21 >>]]</td></tr></table>
 
 | Translation | Greek |

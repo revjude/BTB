@@ -1,12 +1,12 @@
-**Mark 15:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:31**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.
 <small><sub>**BSB:**</sub></small>
 In the same way, the chief priests and scribes mocked Him among themselves, saying, “He saved others, but He cannot save Himself!
 <small><sub>**Literal:**</sub></small>
 Likewise now also the chief priests mocking among one another with the scribes were saying; Others He saved, Himself not He is able to save;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.30|<< Mark 15:30]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.32|Mark 15:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise |**<big>[[G3668\|ὁμοίως]]</big>**  |homoiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |

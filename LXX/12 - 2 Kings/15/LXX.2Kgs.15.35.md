@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:35** 
 <small><sub>**LXX:**</sub></small>
 Only the high \[places\] he did not remove, \[and\] still the people sacrificed and burned incense on the high \[places\]. He built the gate of \[the\] house of \[the\] <span class="smallcaps">lord</span> -- the upper. 
-<small><sub>**KJV:**</sub></small>
-Howbeit the high places were not removed: the people sacrificed and burned incense still in the high places. He built the higher gate of the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the high places were not taken away; the people continued sacrificing and burning incense there. Jotham rebuilt the Upper Gate of the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.34|<< 2 Kings 15:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.36|2 Kings 15:36 >>]]</td></tr></table>
 
 | Translation | Greek |

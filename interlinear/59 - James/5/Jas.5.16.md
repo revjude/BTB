@@ -1,12 +1,12 @@
-**James 5:16
-**<small><sub>**KJV:**</sub></small>
+**James 5:16**<big><big>[[Jas.5.13 The Prayer of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Confess [your] faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.
 <small><sub>**BSB:**</sub></small>
 Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous man has great power to prevail.
 <small><sub>**Literal:**</sub></small>
 do confess therefore to one another the sins and do pray for one another, so that you may be healed; Much prevails [the] prayer of a righteous [man] being made effective.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.15|<< James 5:15]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.17|James 5:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do confess |**<big>[[G1843\|ἐξομολογεῖσθε]]</big>**  |exomologeisthe <small><sup>[[V-PMM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

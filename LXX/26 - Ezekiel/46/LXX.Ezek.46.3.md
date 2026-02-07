@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:3** 
 <small><sub>**LXX:**</sub></small>
 And the people of the land shall do obeisance at the thresholds  of that gate during the Sabbaths and during the new moons before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Likewise the people of the land shall worship at the door of this gate before the LORD in the sabbaths and in the new moons.
-<small><sub>**BSB:**</sub></small>
-On the Sabbaths and New Moons the people of the land are also to bow in worship before the LORD at the entrance to that gateway.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.2|<< Ezekiel 46:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.4|Ezekiel 46:4 >>]]</td></tr></table>
 
 | Translation | Greek |

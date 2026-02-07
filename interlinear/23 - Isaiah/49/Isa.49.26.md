@@ -1,4 +1,4 @@
-**Isaiah 49:26** 
+**Isaiah 49:26**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD [am] thy Saviour and thy Redeemer, the mighty One of Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make your oppressors eat their own flesh; they will be drunk on their own
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.25|<< Isaiah 49:25]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.1|Isaiah 50:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will cause to eat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|הַאֲכַלְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.'a.khal.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

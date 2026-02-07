@@ -1,4 +1,4 @@
-**2 Samuel 5:4** 
+**2 Samuel 5:4**<big><big>[[2Sam.5.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 David [was] thirty years old when he began to reign, [and] he reigned forty years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David was thirty years old when he became king, and he reigned forty years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.3|<< 2 Samuel 5:3]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.5|2 Samuel 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֥ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

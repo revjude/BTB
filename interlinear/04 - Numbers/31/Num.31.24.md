@@ -1,4 +1,4 @@
-**Numbers 31:24** 
+**Numbers 31:24**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall wash your clothes on the seventh day, and ye shall be clean, and afterward ye shall come into the camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the seventh day you are to wash your clothes, and you will be clean. After th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.23|<< Numbers 31:23]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.25|Numbers 31:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will wash  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3526H\|כִבַּסְתֶּ֧ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.bas.Tem<small><sup>[[HVpq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | clothes your  |**<big>&#8207;[[H0899B\|בִּגְדֵי]]&#8207;&#8207;[[H9026\|כֶ֛ם]]&#8207; </big>**| big.dei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

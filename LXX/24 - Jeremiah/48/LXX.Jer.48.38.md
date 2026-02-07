@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:38** 
 <small><sub>**LXX:**</sub></small>
 even upon all the roofs of Moab, and upon  its squares. For I broke  Moab, says \[the\] <span class="smallcaps">lord</span>, as a receptacle of which there is no need of it. 
-<small><sub>**KJV:**</sub></small>
-[There shall be] lamentation generally upon all the housetops of Moab, and in the streets thereof: for I have broken Moab like a vessel wherein [is] no pleasure, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-On all the rooftops of Moab and in the public squares, everyone is mourning; for I have shattered Moab like an unwanted jar,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.37|<< Jeremiah 48:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.39|Jeremiah 48:39 >>]]</td></tr></table>
 
 | Translation | Greek |

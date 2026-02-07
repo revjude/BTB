@@ -1,4 +1,4 @@
-**2 Samuel 17:25** 
+**2 Samuel 17:25**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom made Amasa captain of the host instead of Joab: which Amasa [was] a man’s son, whose name [was] Ithra an Israelite, that went in to Abigail the daughter of Nahash, sister to Zeruiah Joab’s mother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Absalom had appointed Amasa over the army in place of Joab. Amasa was the son of
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.24|<< 2 Samuel 17:24]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.26|2 Samuel 17:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amasa  |**<big>&#8207;[[H6021G\|עֲמָשָׂ֗א]]&#8207; </big>**| 'a.ma.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

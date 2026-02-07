@@ -1,4 +1,4 @@
-**Deuteronomy 32:52** 
+**Deuteronomy 32:52**<big><big>[[Deut.32.48 Moses’ Death Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet thou shalt see the land before [thee]; but thou shalt not go thither unto the land which I give the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Although you shall see from a distance the land that I am giving the Israelites,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.51|<< Deuteronomy 32:51]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.1|Deuteronomy 33:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5048\|נֶּ֖גֶד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ne.ged<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

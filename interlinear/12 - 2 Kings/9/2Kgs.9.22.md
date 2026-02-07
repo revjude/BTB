@@ -1,4 +1,4 @@
-**2 Kings 9:22** 
+**2 Kings 9:22**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Joram saw Jehu, that he said, [Is it] peace, Jehu? And he answered, What peace, so long as the whoredoms of thy mother Jezebel and her witchcrafts [are so] many?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Joram saw Jehu, he asked, “Have you come in peace, Jehu?” “How can th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.21|<< 2 Kings 9:21]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.23|2 Kings 9:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when saw  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7200G\|רְא֤וֹת]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

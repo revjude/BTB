@@ -1,4 +1,4 @@
-**Leviticus 27:4** 
+**Leviticus 27:4**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it [be] a female, then thy estimation shall be thirty shekels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or if it is a female, then your valuation shall be thirty shekels.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.3|<< Leviticus 27:3]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.5|Leviticus 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] female  |**<big>&#8207;[[H5347\|נְקֵבָ֖ה]]&#8207; </big>**| ne.ke.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

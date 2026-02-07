@@ -1,4 +1,4 @@
-**Isaiah 2:10** 
+**Isaiah 2:10**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go into the rocks and hide in the dust from the terror of the LORD and the splen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.9|<< Isaiah 2:9]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.11|Isaiah 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H0935G\|בּ֣וֹא]]&#8207; </big>**| Bo'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the rock  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H6697H\|צּ֔וּר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

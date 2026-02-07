@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:21** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] sound of their downfall the earth was shaken. Your cry in \[the\] sea was heard. 
-<small><sub>**KJV:**</sub></small>
-The earth is moved at the noise of their fall, at the cry the noise thereof was heard in the Red sea.
-<small><sub>**BSB:**</sub></small>
-At the sound of their fall the earth will quake; their cry will resound to the Red Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.20|<< Jeremiah 49:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.22|Jeremiah 49:22 >>]]</td></tr></table>
 
 | Translation | Greek |

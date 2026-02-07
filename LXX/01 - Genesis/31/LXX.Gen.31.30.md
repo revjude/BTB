@@ -1,10 +1,7 @@
 **LXX Genesis 31:30** 
 <small><sub>**LXX:**</sub></small>
 Now then, you go! For with desire you desired to go forth unto the house  of your father; why did you steal  my gods? 
-<small><sub>**KJV:**</sub></small>
-And now, [though] thou wouldest needs be gone, because thou sore longedst after thy father’s house, [yet] wherefore hast thou stolen my gods?
-<small><sub>**BSB:**</sub></small>
-Now you have gone off because you long for your father’s house. But why have you stolen my gods?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.29|<< Genesis 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.31|Genesis 31:31 >>]]</td></tr></table>
 
 | Translation | Greek |

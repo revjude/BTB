@@ -1,4 +1,4 @@
-**Genesis 28:5** 
+**Genesis 28:5**<big><big>[[Gen.28.1 Jacob’s Departure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob’s and Esau’s mother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Isaac sent Jacob to Paddan-aram, to Laban son of Bethuel the Aramean, the bro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.4|<< Genesis 28:4]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.6|Genesis 28:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent off  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Isaac  |**<big>&#8207;[[H3327\|יִצְחָק֙]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

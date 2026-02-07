@@ -1,10 +1,7 @@
 **LXX Numbers 31:5** 
 <small><sub>**LXX:**</sub></small>
 And they counted out from the thousands of Israel, a thousand from a tribe. Twelve thousand being armed in battle array. 
-<small><sub>**KJV:**</sub></small>
-So there were delivered out of the thousands of Israel, a thousand of [every] tribe, twelve thousand armed for war.
-<small><sub>**BSB:**</sub></small>
-So a thousand men were recruited from each tribe of Israel—twelve thousand armed for war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.4|<< Numbers 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.6|Numbers 31:6 >>]]</td></tr></table>
 
 | Translation | Greek |

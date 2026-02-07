@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:16** 
 <small><sub>**LXX:**</sub></small>
 And the king said to him, How often shall I adjure you that you should speak to me \[the\] truth in \[the\] name of \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And the king said unto him, How many times shall I adjure thee that thou tell me nothing but [that which is] true in the name of the LORD?
-<small><sub>**BSB:**</sub></small>
-But the king said to him, “How many times must I make you swear not to tell me anything but the truth in the name of the LORD?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.15|<< 1 Kings 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.17|1 Kings 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

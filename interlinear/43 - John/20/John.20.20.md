@@ -1,12 +1,12 @@
-**John 20:20
-**<small><sub>**KJV:**</sub></small>
+**John 20:20**<big><big>[[John.20.19 Jesus Appears to the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had so said, he shewed unto them [his] hands and his side. Then were the disciples glad, when they saw the Lord.
 <small><sub>**BSB:**</sub></small>
 After He had said this, He showed them His hands and His side. The disciples rejoiced when they saw the Lord.
 <small><sub>**Literal:**</sub></small>
 And this having said He showed also the hands and the side of him to them. Rejoiced then the disciples having seen the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.19|<< John 20:19]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.21|John 20:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

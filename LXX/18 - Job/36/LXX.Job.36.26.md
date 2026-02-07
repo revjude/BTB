@@ -1,10 +1,7 @@
 **LXX Job 36:26** 
 <small><sub>**LXX:**</sub></small>
 Behold, the strong one \[is\] great, and we shall not know \[him\]; and \[the\] number of his years \[are\] unlimited. 
-<small><sub>**KJV:**</sub></small>
-Behold, God [is] great, and we know [him] not, neither can the number of his years be searched out.
-<small><sub>**BSB:**</sub></small>
-Indeed, God is great—beyond our knowledge; the number of His years is unsearchable.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.25|<< Job 36:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.27|Job 36:27 >>]]</td></tr></table>
 
 | Translation | Greek |

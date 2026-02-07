@@ -1,4 +1,4 @@
-**Job 40:2** 
+**Job 40:2**<big><big>[[Job.40.1 Job Humbles Himself before the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall he that contendeth with the Almighty instruct [him]? he that reproveth God, let him answer it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shall he that contendeth with the Almighty instruct [him]? he that reproveth God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.1|<< Job 40:1]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.3|Job 40:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will he contend  |**<big>&#8207;[[H9008\|הֲ֭]]&#8207;&#8207;[[H7378\|רֹב]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ro<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

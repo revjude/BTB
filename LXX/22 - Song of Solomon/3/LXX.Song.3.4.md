@@ -1,10 +1,7 @@
 **LXX Song of Solomon 3:4** 
 <small><sub>**LXX:**</sub></small>
 It was a little \[time\] when I passed by them, until of which \[time\] I found whom my soul loved. I held him, and did not let go of him, until of which \[time\] I brought him into the house of my mother, and into \[the\] inner chamber of the one conceiving me. 
-<small><sub>**KJV:**</sub></small>
-[It was] but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother’s house, and into the chamber of her that conceived me.
-<small><sub>**BSB:**</sub></small>
-I had just passed them when I found the one I love. I held him and would not let go until I had brought him to my mother’s house, to the chamber of the one who conceived me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.3.3|<< Song of Solomon 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.3.5|Song of Solomon 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

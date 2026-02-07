@@ -1,5 +1,5 @@
-**Acts 7:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:33**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.
 <small><sub>**BSB:**</sub></small>
 Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground.
@@ -10,7 +10,7 @@ Said then to him the Lord; do take off the sandal of the feet of you; <the> for 
 > $\quad$ referencing: [[LXX.Exod.3.5|Exod 3:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

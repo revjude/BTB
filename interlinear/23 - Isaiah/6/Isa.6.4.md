@@ -1,4 +1,4 @@
-**Isaiah 6:4** 
+**Isaiah 6:4**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the posts of the door moved at the voice of him that cried, and the house was filled with smoke.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ At the sound of their voices the doorposts and thresholds shook, and the temple 
 > $\quad$ referenced by: [[Rev.15.8|Rev 15:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they shook  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5128\|יָּנֻ֙עוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Nu.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] foundations of  |**<big>&#8207;[[H0520B\|אַמּ֣וֹת]]&#8207; </big>**| 'a.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

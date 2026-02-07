@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:9** 
 <small><sub>**LXX:**</sub></small>
 And I will provoke to anger \[the\] heart of many peoples, whenever I lead you \[as\] a captivity into the nations, into a land which you knew not. 
-<small><sub>**KJV:**</sub></small>
-I will also vex the hearts of many people, when I shall bring thy destruction among the nations, into the countries which thou hast not known.
-<small><sub>**BSB:**</sub></small>
-‘I will trouble the hearts of many peoples, when I bring about your destruction among the nations, in countries you do not know.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.8|<< Ezekiel 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.10|Ezekiel 32:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 18:19** 
+**Numbers 18:19**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, by a statute for ever: it [is] a covenant of salt for ever before the LORD unto thee and to thy seed with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the holy offerings that the Israelites present to the LORD I give to you and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.18|<< Numbers 18:18]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.20|Numbers 18:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כֹּ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] contributions of  |**<big>&#8207;[[H8641\|תְּרוּמֹ֣ת]]&#8207; </big>**| te.ru.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

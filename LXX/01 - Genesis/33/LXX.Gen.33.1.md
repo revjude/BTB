@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob looking up saw. And behold, Esau  his brother \[was\] coming, and four hundred men with him. And Jacob divided the servants unto Leah and unto Rachel, and the two maidservants. 
-<small><sub>**KJV:**</sub></small>
-And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.
-<small><sub>**BSB:**</sub></small>
-Now Jacob looked up and saw Esau coming toward him with four hundred men. So he divided the children among Leah, Rachel, and the two maidservants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.33.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.32|<< Genesis 32:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.2|Genesis 33:2 >>]]</td></tr></table>
 
 | Translation | Greek |

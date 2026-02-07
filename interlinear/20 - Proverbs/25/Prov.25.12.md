@@ -1,4 +1,4 @@
-**Proverbs 25:12** 
+**Proverbs 25:12**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] an earring of gold, and an ornament of fine gold, [so is] a wise reprover upon an obedient ear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like an earring of gold or an ornament of fine gold is a wise man’s rebuke to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.11|<< Proverbs 25:11]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.13|Proverbs 25:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an earring of  |**<big>&#8207;[[H5141\|נֶ֣זֶם]]&#8207; </big>**| Ne.zem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָ֭הָב]]&#8207; </big>**| za.ho<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

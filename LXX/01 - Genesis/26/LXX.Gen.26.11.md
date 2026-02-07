@@ -1,10 +1,7 @@
 **LXX Genesis 26:11** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech gave orders to all  his people, saying, Any \[one\]  touching  this man and  his wife will be liable unto death. 
-<small><sub>**KJV:**</sub></small>
-And Abimelech charged all [his] people, saying, He that toucheth this man or his wife shall surely be put to death.
-<small><sub>**BSB:**</sub></small>
-So Abimelech warned all the people, saying, “Whoever harms this man or his wife will surely be put to death.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.10|<< Genesis 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.12|Genesis 26:12 >>]]</td></tr></table>
 
 | Translation | Greek |

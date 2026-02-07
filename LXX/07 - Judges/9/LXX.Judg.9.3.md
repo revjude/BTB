@@ -1,10 +1,7 @@
 **LXX Judges 9:3** 
 <small><sub>**LXX:**</sub></small>
 And the brothers of his mother spoke concerning him in the ears of all of the men of Shechem all  these words. And their heart leaned after Abimelech; for they said, He is our brother. 
-<small><sub>**KJV:**</sub></small>
-And his mother’s brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He [is] our brother.
-<small><sub>**BSB:**</sub></small>
-And when his mother’s brothers spoke all these words about him in the presence of all the leaders of Shechem, their hearts were inclined to follow Abimelech, for they said, “He is our brother.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.2|<< Judges 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.4|Judges 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

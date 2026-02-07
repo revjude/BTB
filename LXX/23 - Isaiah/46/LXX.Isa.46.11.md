@@ -1,10 +1,7 @@
 **LXX Isaiah 46:11** 
 <small><sub>**LXX:**</sub></small>
 calling \[the\] winged creature from \[the\] east, and from a land at a distance, for the \[things\] which I have planned. And indeed I spoke, and indeed I led. I created and I did. I led him, and I prospered  his way. 
-<small><sub>**KJV:**</sub></small>
-Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken [it], I will also bring it to pass; I have purposed [it], I will also do it.
-<small><sub>**BSB:**</sub></small>
-I summon a bird of prey from the east, a man for My purpose from a far-off land. Truly I have spoken, and truly I will bring it to pass. I have planned it, and I will surely do it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.46.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.10|<< Isaiah 46:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.12|Isaiah 46:12 >>]]</td></tr></table>
 
 | Translation | Greek |

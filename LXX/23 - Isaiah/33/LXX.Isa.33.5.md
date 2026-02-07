@@ -1,10 +1,7 @@
 **LXX Isaiah 33:5** 
 <small><sub>**LXX:**</sub></small>
 Holy \[is\] the God  dwelling in heavens. Zion shall be filled up with equity and righteousness. 
-<small><sub>**KJV:**</sub></small>
-The LORD is exalted; for he dwelleth on high: he hath filled Zion with judgment and righteousness.
-<small><sub>**BSB:**</sub></small>
-The LORD is exalted, for He dwells on high; He has filled Zion with justice and righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.4|<< Isaiah 33:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.6|Isaiah 33:6 >>]]</td></tr></table>
 
 | Translation | Greek |

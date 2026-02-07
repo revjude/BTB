@@ -1,12 +1,12 @@
-**Psalms 119:137** 
+**Psalms 119:137**<big><big>[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-TZADDI. Righteous [art] thou, O LORD, and upright [are] thy judgments.
+Righteous [art] thou, O LORD, and upright [are] thy judgments.
 <small><sub>**BSB:**</sub></small>
 Righteous are You, O LORD, and upright are Your judgments.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.137|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.136|<< Psalms 119:136]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.138|Psalms 119:138 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] righteous  |**<big>&#8207;[[H6662\|צַדִּ֣יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

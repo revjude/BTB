@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:23** 
 <small><sub>**LXX:**</sub></small>
 And they brought the winter yearlings of the ones for a sin \[offering\] before the king and the assembly; and they placed  their hands upon them. 
-<small><sub>**KJV:**</sub></small>
-And they brought forth the he goats [for] the sin offering before the king and the congregation; and they laid their hands upon them:
-<small><sub>**BSB:**</sub></small>
-Then they brought the goats for the sin offering before the king and the assembly, who laid their hands on them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.22|<< 2 Chronicles 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.24|2 Chronicles 29:24 >>]]</td></tr></table>
 
 | Translation | Greek |

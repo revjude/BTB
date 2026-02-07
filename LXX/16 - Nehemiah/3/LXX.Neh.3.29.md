@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:29** 
 <small><sub>**LXX:**</sub></small>
 And after \[them\] Zadok repaired, son of Immer, right opposite his own house. And after him Shemaiah repaired, son of Shechaniah, keeper of the east gate. 
-<small><sub>**KJV:**</sub></small>
-After them repaired Zadok the son of Immer over against his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate.
-<small><sub>**BSB:**</sub></small>
-Next to them, Zadok son of Immer made repairs opposite his house, and next to him, Shemaiah son of Shecaniah, the guard of the East Gate, made repairs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.28|<< Nehemiah 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.30|Nehemiah 3:30 >>]]</td></tr></table>
 
 | Translation | Greek |

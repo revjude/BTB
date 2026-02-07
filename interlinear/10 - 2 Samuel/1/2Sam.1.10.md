@@ -1,4 +1,4 @@
-**2 Samuel 1:10** 
+**2 Samuel 1:10**<big><big>[[2Sam.1.1 Saul’s Death Reported to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I stood upon him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that [was] upon his head, and the bracelet that [was] on his arm, and have brought them hither unto my lord.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I stood over him and killed him, because I knew that after he had fallen he c
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.9|<< 2 Samuel 1:9]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.11|2 Samuel 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I stood  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5975G\|אֶעֱמֹ֤ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.'e.Mod<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over him  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

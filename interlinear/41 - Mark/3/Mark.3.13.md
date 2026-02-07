@@ -1,12 +1,12 @@
-**Mark 3:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:13**<big><big>[[Mark.3.13 The Twelve Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he goeth up into a mountain, and calleth [unto him] whom he would: and they came unto him.
 <small><sub>**BSB:**</sub></small>
 Then Jesus went up on the mountain and called for those He wanted, and they came to Him.
 <small><sub>**Literal:**</sub></small>
 And He goes up on the mountain and calls near those whom he was wanting Himself, and they went to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.12|<< Mark 3:12]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.14|Mark 3:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He goes up |**<big>[[G0305\|ἀναβαίνει]]</big>**  |anabainei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

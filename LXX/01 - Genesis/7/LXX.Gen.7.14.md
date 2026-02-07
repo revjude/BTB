@@ -1,10 +1,7 @@
 **LXX Genesis 7:14** 
 <small><sub>**LXX:**</sub></small>
 And all the wild beasts according to type, and all the cattle according to type, and every reptile moving upon the earth, according to type, and every winged creature according to type, 
-<small><sub>**KJV:**</sub></small>
-They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.
-<small><sub>**BSB:**</sub></small>
-they and every kind of wild animal, livestock, crawling creature, bird, and winged creature.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.13|<< Genesis 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.15|Genesis 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

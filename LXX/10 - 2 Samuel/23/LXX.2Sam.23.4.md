@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:4** 
 <small><sub>**LXX:**</sub></small>
 And as the early morning light, \[the\] sun arises in the morning, and it shall not darken; from brightness and from out of rain as pasturage of \[the\] earth. 
-<small><sub>**KJV:**</sub></small>
-And [he shall be] as the light of the morning, [when] the sun riseth, [even] a morning without clouds; [as] the tender grass [springing] out of the earth by clear shining after rain.
-<small><sub>**BSB:**</sub></small>
-is like the light of the morning at sunrise of a cloudless dawn, the glistening after the rain on the sprouting grass of the earth.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.3|<< 2 Samuel 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.5|2 Samuel 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

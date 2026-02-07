@@ -1,4 +1,4 @@
-**Daniel 4:8** (4:5)
+**Daniel 4:8**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But at the last Daniel came in before me, whose name [was] Belteshazzar, according to the name of my god, and in whom [is] the spirit of the holy gods: and before him I told the dream, [saying],
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But at last, into my presence came Daniel (whose name is Belteshazzar after the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.7|<< Daniel 4:7]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.9|Daniel 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and until  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5705\|עַ֣ד]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'Ad<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at last  |**<big>&#8207;[[H0318\|אָחֳרֵ֡ין]]&#8207; </big>**| 'o.cho.Rein<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

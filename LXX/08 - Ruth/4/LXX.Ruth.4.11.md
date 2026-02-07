@@ -1,10 +1,7 @@
 **LXX Ruth 4:11** 
 <small><sub>**LXX:**</sub></small>
 And all the people at the gate said, \[We are\] witnesses. And the elders said, May \[the\] <span class="smallcaps">lord</span> give  your wife, the one entering into  your house, \[to be\] as Rachel and as Leah, the ones who both built the house of Israel, and did powerfully in Ephratah, and it will be a name in Beth-lehem. 
-<small><sub>**KJV:**</sub></small>
-And all the people that [were] in the gate, and the elders, said, [We are] witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:
-<small><sub>**BSB:**</sub></small>
-“We are witnesses,” said the elders and all the people at the gate. “May the LORD make the woman entering your home like Rachel and Leah, who together built up the house of Israel. May you be prosperous in Ephrathah and famous in Bethlehem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.10|<< Ruth 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.12|Ruth 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

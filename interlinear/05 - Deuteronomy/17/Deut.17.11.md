@@ -1,4 +1,4 @@
-**Deuteronomy 17:11** 
+**Deuteronomy 17:11**<big><big>[[Deut.17.8 Courts of Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to the sentence of the law which they shall teach thee, and according to the judgment which they shall tell thee, thou shalt do: thou shalt not decline from the sentence which they shall shew thee, [to] the right hand, nor [to] the left.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ according to the terms of law they give and the verdict they proclaim. Do not tu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.10|<< Deuteronomy 17:10]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.12|Deuteronomy 17:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mouth of  |**<big>&#8207;[[H6310I\|פִּ֨י]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

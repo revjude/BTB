@@ -1,4 +1,4 @@
-**Exodus 14:10** 
+**Exodus 14:10**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As Pharaoh approached, the Israelites looked up and saw the Egyptians marching a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.9|<< Exodus 14:9]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.11|Exodus 14:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Pharaoh  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6547J\|פַרְעֹ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> far.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he drew near  |**<big>&#8207;[[H7126G\|הִקְרִ֑יב]]&#8207; </big>**| hik.Riv<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

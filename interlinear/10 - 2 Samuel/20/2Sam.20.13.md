@@ -1,4 +1,4 @@
-**2 Samuel 20:13** 
+**2 Samuel 20:13**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as Amasa’s body was removed from the road, all the men went on with Jo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.12|<< 2 Samuel 20:12]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.14|2 Samuel 20:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<just> when  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֥ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had removed [him]  |**<big>&#8207;[[H3014\|הֹגָ֖ה]]&#8207; </big>**| ho.Gah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

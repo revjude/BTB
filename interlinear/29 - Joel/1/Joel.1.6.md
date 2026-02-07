@@ -1,4 +1,4 @@
-**Joel 1:6** 
+**Joel 1:6**<big><big>[[Joel.1.1 The Invasion of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a nation is come up upon my land, strong, and without number, whose teeth [are] the teeth of a lion, and he hath the cheek teeth of a great lion.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For a nation has invaded My land, powerful and without number; its teeth are the
 > $\quad$ referenced by: [[Rev.9.7|Rev 9:7-9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a nation  |**<big>&#8207;[[H1471A\|גוֹי֙]]&#8207; </big>**| goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

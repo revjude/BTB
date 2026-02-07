@@ -1,10 +1,7 @@
 **LXX Exodus 18:8** 
 <small><sub>**LXX:**</sub></small>
 And Moses described \[to\] his father-in-law all as much as \[the\] <span class="smallcaps">lord</span> did  to Pharaoh, and to the Egyptians, on account  of Israel; and all the trouble, the one coming to them in the way; and that \[the\] <span class="smallcaps">lord</span> rescued them from out of \[the\] hand of Pharaoh, and from out of \[the\] hand of the Egyptians. 
-<small><sub>**KJV:**</sub></small>
-And Moses told his father in law all that the LORD had done unto Pharaoh and to the Egyptians for Israel’s sake, [and] all the travail that had come upon them by the way, and [how] the LORD delivered them.
-<small><sub>**BSB:**</sub></small>
-Then Moses recounted to his father-in-law all that the LORD had done to Pharaoh and the Egyptians for Israel’s sake, all the hardships they had encountered along the way, and how the LORD had delivered them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.7|<< Exodus 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.9|Exodus 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

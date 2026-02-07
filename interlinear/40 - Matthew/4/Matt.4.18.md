@@ -1,12 +1,12 @@
-**Matthew 4:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:18**<big><big>[[Matt.4.18 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
 <small><sub>**BSB:**</sub></small>
 As Jesus was walking beside the Sea of Galilee, He saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the sea, for they were fishermen.
 <small><sub>**Literal:**</sub></small>
 Walking now <the> Jesus beside the Sea <the> of Galilee He saw two brothers, Simon the [one] being named Peter and Andrew the brother of him casting a net into the sea; they were for fishermen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.17|<< Matthew 4:17]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.19|Matthew 4:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Walking |**<big>[[G4043\|Περιπατῶν]]</big>**  |Peripatōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

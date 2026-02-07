@@ -1,4 +1,4 @@
-**Leviticus 5:6** 
+**Leviticus 5:6**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall bring his trespass offering unto the LORD for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he must bring his guilt offering to the LORD for the sin he has committed: a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.5|<< Leviticus 5:5]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.7|Leviticus 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bring  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵבִ֣יא]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Vi'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

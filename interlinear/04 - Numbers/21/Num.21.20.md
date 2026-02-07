@@ -1,4 +1,4 @@
-**Numbers 21:20** 
+**Numbers 21:20**<big><big>[[Num.21.10 The Journey to Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from Bamoth [in] the valley, that [is] in the country of Moab, to the top of Pisgah, which looketh toward Jeshimon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and from Bamoth to the valley in Moab where the top of Pisgah overlooks the wast
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.19|<< Numbers 21:19]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.21|Numbers 21:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from Bamoth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1120G\|בָּמ֗וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ba.Mot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the valley  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1516R\|גַּיְא֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gaY'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

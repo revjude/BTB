@@ -1,10 +1,7 @@
 **LXX Exodus 28:17** 
 <small><sub>**LXX:**</sub></small>
 And you shall interweave in it a woven work inlaid with precious stones, arranged in four rows. A row of stones will be sardius, topaz, and emerald -- \[for\] the one row. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt set in it settings of stones, [even] four rows of stones: [the first] row [shall be] a sardius, a topaz, and a carbuncle: [this shall be] the first row.
-<small><sub>**BSB:**</sub></small>
-And mount on it a setting of gemstones, four rows of stones: In the first row there shall be a ruby, a topaz, and an emerald;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.16|<< Exodus 28:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.18|Exodus 28:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 6:55
-**<small><sub>**KJV:**</sub></small>
+**John 6:55**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For my flesh is meat indeed, and my blood is drink indeed.
 <small><sub>**BSB:**</sub></small>
 For My flesh is real food, and My blood is real drink.
 <small><sub>**Literal:**</sub></small>
 The for flesh of Me true is food, and the blood of Me true is drink.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.54|<< John 6:54]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.56|John 6:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

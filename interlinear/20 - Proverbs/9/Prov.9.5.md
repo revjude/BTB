@@ -1,4 +1,4 @@
-**Proverbs 9:5** 
+**Proverbs 9:5**<big><big>[[Prov.9.1 The Way of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, eat of my bread, and drink of the wine [which] I have mingled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, eat of my bread, and drink of the wine [which] I have mingled.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.4|<< Proverbs 9:4]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.6|Proverbs 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H1980K\|לְ֭כוּ]]&#8207; </big>**| Le.khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eat  |**<big>&#8207;[[H3898B\|לַחֲמ֣וּ]]&#8207; </big>**| la.cha.Mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

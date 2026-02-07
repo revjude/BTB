@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:4** 
 <small><sub>**LXX:**</sub></small>
 Is it by  your higher knowledge, or in  your intelligence you produced for yourself power, and you procured gold and silver among  your treasures? 
-<small><sub>**KJV:**</sub></small>
-With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:
-<small><sub>**BSB:**</sub></small>
-By your wisdom and understanding you have gained your wealth and amassed gold and silver for your treasuries.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.3|<< Ezekiel 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.5|Ezekiel 28:5 >>]]</td></tr></table>
 
 | Translation | Greek |

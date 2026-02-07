@@ -1,12 +1,12 @@
-**Acts 3:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:4**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Peter, fastening his eyes upon him with John, said, Look on us.
 <small><sub>**BSB:**</sub></small>
 Peter looked directly at him, as did John. “Look at us!” said Peter.
 <small><sub>**Literal:**</sub></small>
 Having looked intently now Peter upon him with <the> John he said; do look unto us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.3|<< Acts 3:3]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.5|Acts 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having looked intently |**<big>[[G0816\|ἀτενίσας]]</big>**  |atenisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

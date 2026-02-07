@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:34** 
 <small><sub>**LXX:**</sub></small>
 then you shall hearken from the heaven, and shall be propitious to the sins  of your people Israel, and shall turn towards them in the land which you gave \[to\] their fathers. 
-<small><sub>**KJV:**</sub></small>
-Then hear thou in heaven, and forgive the sin of thy people Israel, and bring them again unto the land which thou gavest unto their fathers.
-<small><sub>**BSB:**</sub></small>
-then may You hear from heaven and forgive the sin of Your people Israel. May You restore them to the land You gave to their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.33|<< 1 Kings 8:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.35|1 Kings 8:35 >>]]</td></tr></table>
 
 | Translation | Greek |

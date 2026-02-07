@@ -1,5 +1,5 @@
-**John 12:34
-**<small><sub>**KJV:**</sub></small>
+**John 12:34**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The people answered him, We have heard out of the law that Christ abideth for ever: and how sayest thou, The Son of man must be lifted up? who is this Son of man?
 <small><sub>**BSB:**</sub></small>
 The crowd replied, “We have heard from the Law that the Christ will remain forever. So how can You say that the Son of Man must be lifted up? Who is this Son of Man?”
@@ -11,7 +11,7 @@ Answered therefore to Him the crowd; We ourselves heard from the law that the Ch
 > $\quad$ referencing: [[LXX.Ps.89.36|Ps 89:36-37]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">NO</abbr> | |

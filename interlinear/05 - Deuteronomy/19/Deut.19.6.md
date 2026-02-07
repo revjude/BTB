@@ -1,4 +1,4 @@
-**Deuteronomy 19:6** 
+**Deuteronomy 19:6**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he [was] not worthy of death, inasmuch as he hated him not in time past.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Otherwise, the avenger of blood might pursue the manslayer in a rage, overtake h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.5|<< Deuteronomy 19:5]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.7|Deuteronomy 19:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he should pursue  |**<big>&#8207;[[H7291\|יִרְדֹּף֩]]&#8207; </big>**| yir.Dof<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

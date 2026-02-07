@@ -1,4 +1,4 @@
-**Micah 2:10** 
+**Micah 2:10**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise ye, and depart; for this [is] not [your] rest: because it is polluted, it shall destroy [you], even with a sore destruction.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Arise and depart, for this is not your place of rest, because its defilement bri
 > $\quad$ referenced by: [[Heb.13.14|Heb 13:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֣וּמוּ]]&#8207; </big>**| Ku.mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and go  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1980G\|לְכ֔וּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 46:6** 
 <small><sub>**LXX:**</sub></small>
 And the ones uniting in gold from a money bag, and silver in a yoke \[balance scale\] shall establish by weight; and ones hiring a goldsmith made handmade \[idols\], and bowing they do obeisance to it. 
-<small><sub>**KJV:**</sub></small>
-They lavish gold out of the bag, and weigh silver in the balance, [and] hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.
-<small><sub>**BSB:**</sub></small>
-They pour out their bags of gold and weigh out silver on scales; they hire a goldsmith to fashion it into a god, so they can bow down and worship.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.46.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.5|<< Isaiah 46:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.7|Isaiah 46:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 34:22** 
+**Jeremiah 34:22**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will command, saith the LORD, and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I am going to give the command, declares the LORD, and I will bring them
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.21|<< Jeremiah 34:21]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.1|Jeremiah 35:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to give command  |**<big>&#8207;[[H6680\|מְצַוֶּ֜ה]]&#8207; </big>**| me.tza.Veh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

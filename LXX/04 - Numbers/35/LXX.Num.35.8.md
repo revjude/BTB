@@ -1,10 +1,7 @@
 **LXX Numbers 35:8** 
 <small><sub>**LXX:**</sub></small>
 And the cities which you shall give from the possession of \[the\] sons of Israel, from the \[ones having\]  many \[will be\] many; and from the \[ones having\] less \[will be\] less; each according to  his inheritance which they shall allot, they shall give from the cities to the Levites. 
-<small><sub>**KJV:**</sub></small>
-And the cities which ye shall give [shall be] of the possession of the children of Israel: from [them that have] many ye shall give many; but from [them that have] few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.
-<small><sub>**BSB:**</sub></small>
-The cities that you apportion from the territory of the Israelites should be given to the Levites in proportion to the inheritance of each tribe: more from a larger tribe and less from a smaller one.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.7|<< Numbers 35:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.9|Numbers 35:9 >>]]</td></tr></table>
 
 | Translation | Greek |

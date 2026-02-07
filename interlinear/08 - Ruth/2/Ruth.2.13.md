@@ -1,4 +1,4 @@
-**Ruth 2:13** 
+**Ruth 2:13**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then she said, Let me find favour in thy sight, my lord; for that thou hast comforted me, and for that thou hast spoken friendly unto thine handmaid, though I be not like unto one of thine handmaidens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then she said, Let me find favour in thy sight, my lord; for that thou hast comf
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.12|<< Ruth 2:12]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.14|Ruth 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0559\|תֹּאמֶר]]&#8207; </big>**| Va.<small><sup>[[Hc]]</sup></small> to.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I am finding  |**<big>&#8207;[[H4672\|אֶמְצָא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'em.tza'-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

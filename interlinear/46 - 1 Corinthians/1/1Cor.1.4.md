@@ -1,12 +1,12 @@
-**1 Corinthians 1:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:4**<big><big>[[1Cor.1.4 Thanksgiving|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;
 <small><sub>**BSB:**</sub></small>
 I always thank my God for you because of the grace He has given you in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 I thank the God of mine always concerning you for the grace <the> of God which having been given you in Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.3|<< 1 Corinthians 1:3]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.5|1 Corinthians 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I thank |**<big>[[G2168\|Εὐχαριστῶ]]</big>**  |Eucharistō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

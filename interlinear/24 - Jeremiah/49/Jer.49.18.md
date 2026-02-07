@@ -1,4 +1,4 @@
-**Jeremiah 49:18** 
+**Jeremiah 49:18**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As in the overthrow of Sodom and Gomorrah and the neighbour [cities] thereof, saith the LORD, no man shall abide there, neither shall a son of man dwell in it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As Sodom and Gomorrah were overthrown along with their neighbors,” says the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.17|<< Jeremiah 49:17]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.19|Jeremiah 49:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like [the] overthrow of  |**<big>&#8207;[[H9004\|כְּֽ]]&#8207;&#8207;[[H4114\|מַהְפֵּכַ֞ת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mah.pe.Khat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sodom  |**<big>&#8207;[[H5467\|סְדֹ֧ם]]&#8207; </big>**| se.Dom<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 24:16** 
+**2 Chronicles 24:16**<big><big>[[2Chr.24.15 Jehoiada’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they buried him in the city of David among the kings, because he had done good in Israel, both toward God, and toward his house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jehoiada was buried with the kings in the City of David, because he had done
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.15|<< 2 Chronicles 24:15]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.17|2 Chronicles 24:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people buried him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|יִּקְבְּרֻ֥]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.be.Ru.<small><sup>[[HVqw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] city of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5892B\|עִיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'ir-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Lamentations 2:2** 
+**Lamentations 2:2**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought [them] down to the ground: he hath polluted the kingdom and the princes thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Without pity the Lord has swallowed up all the dwellings of Jacob. In His wrath 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.1|<< Lamentations 2:1]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.3|Lamentations 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has swallowed up  |**<big>&#8207;[[H1104\|בִּלַּ֨ע]]&#8207; </big>**| bi.La'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֜י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

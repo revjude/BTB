@@ -1,12 +1,12 @@
-**Matthew 22:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:28**<big><big>[[Matt.22.23 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore in the resurrection whose wife shall she be of the seven? for they all had her.
 <small><sub>**BSB:**</sub></small>
 In the resurrection, then, whose wife will she be of the seven? For all of them were married to her.”
 <small><sub>**Literal:**</sub></small>
 In the resurrection therefore of which of the seven will she be wife? All for had her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.27|<< Matthew 22:27]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.29|Matthew 22:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it was pleasing before Darius, and he placed over the kingdom a hundred twenty satraps,  \[for\] them to be in his entire kingdom. 
-<small><sub>**KJV:**</sub></small>
-It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;
-<small><sub>**BSB:**</sub></small>
-Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.31|<< Daniel 5:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.2|Daniel 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

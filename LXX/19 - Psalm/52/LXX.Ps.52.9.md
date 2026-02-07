@@ -1,10 +1,7 @@
 **LXX Psalm 52:9** 
 <small><sub>**LXX:**</sub></small>
 I will make acknowledgment to you into the eon, for you acted; and I will wait on  your name, for \[you are\] gracious before  your sacred ones. 
-<small><sub>**KJV:**</sub></small>
-I will praise thee for ever, because thou hast done [it]: and I will wait on thy name; for [it is] good before thy saints.
-<small><sub>**BSB:**</sub></small>
-I will praise You forever, because You have done it. I will wait on Your name—for it is good—in the presence of Your saints.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.52.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.52.8|<< Psalm 52:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.53.1|Psalm 53:1 >>]]</td></tr></table>
 
 | Translation | Greek |

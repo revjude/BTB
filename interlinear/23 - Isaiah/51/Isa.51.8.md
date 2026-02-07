@@ -1,4 +1,4 @@
-**Isaiah 51:8** 
+**Isaiah 51:8**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the moth will devour them like a garment, and the worm will eat them like wo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.7|<< Isaiah 51:7]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.9|Isaiah 51:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> garment  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H0899B\|בֶּ֙גֶד֙]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> Be.ged<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

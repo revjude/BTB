@@ -1,10 +1,7 @@
 **LXX Hosea 7:3** 
 <small><sub>**LXX:**</sub></small>
 In  their evils they gladdened a king, and in  their lies rulers. 
-<small><sub>**KJV:**</sub></small>
-They make the king glad with their wickedness, and the princes with their lies.
-<small><sub>**BSB:**</sub></small>
-They delight the king with their evil, and the princes with their lies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.2|<< Hosea 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.4|Hosea 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

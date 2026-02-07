@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:16** 
 <small><sub>**LXX:**</sub></small>
 Whereupon I gave  my heart  to know  wisdom, and  to behold the distraction  being done upon the earth. For also at day and at night \[a person\] is not seeing sleep with his eyes. 
-<small><sub>**KJV:**</sub></small>
-When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also [there is that] neither day nor night seeth sleep with his eyes:)
-<small><sub>**BSB:**</sub></small>
-When I applied my mind to know wisdom and to observe the task that one performs on the earth—though his eyes do not see sleep in the day or even in the night—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.15|<< Ecclesiastes 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.17|Ecclesiastes 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

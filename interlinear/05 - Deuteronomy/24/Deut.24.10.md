@@ -1,4 +1,4 @@
-**Deuteronomy 24:10** 
+**Deuteronomy 24:10**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou dost lend thy brother any thing, thou shalt not go into his house to fetch his pledge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you lend anything to your neighbor, do not enter his house to collect secur
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.9|<< Deuteronomy 24:9]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.11|Deuteronomy 24:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will lend  |**<big>&#8207;[[H5383\|תַשֶּׁ֥ה]]&#8207; </big>**| ta.Sheh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

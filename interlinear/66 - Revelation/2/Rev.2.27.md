@@ -1,5 +1,5 @@
-**Revelation 2:27
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:27**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he shall rule them with a rod of iron; as the vessels of a potter shall they be broken to shivers: even as I received of my Father.
 <small><sub>**BSB:**</sub></small>
 He will rule them with an iron scepter and shatter them like pottery—just as I have received authority from My Father.
@@ -10,7 +10,7 @@ and he will shepherd them with a rod of iron, as the vessels [of] the potter are
 > $\quad$ referencing: [[LXX.Ps.2.9|Ps 2:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he will shepherd |**<big>[[G4165\|ποιμανεῖ]]</big>**  |poimanei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

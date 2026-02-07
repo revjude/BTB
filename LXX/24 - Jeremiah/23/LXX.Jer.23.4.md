@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:4** 
 <small><sub>**LXX:**</sub></small>
 And I shall raise up to them shepherds  tending them, and they shall not be fearful any more, nor shall they be terrified, nor shall they be seeking after, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will set up shepherds over them which shall feed them: and they shall fear no more, nor be dismayed, neither shall they be lacking, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will raise up shepherds over them who will tend them, and they will no longer be afraid or dismayed, nor will any go missing, declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.3|<< Jeremiah 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.5|Jeremiah 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

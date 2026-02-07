@@ -1,4 +1,4 @@
-**1 Kings 10:29** 
+**1 Kings 10:29**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a chariot came up and went out of Egypt for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring [them] out by their means.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A chariot could be imported from Egypt for six hundred shekels of silver, and a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.28|<< 1 Kings 10:28]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.1|1 Kings 11:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came up  |**<big>&#8207;[[H9001\|וַֽ֠]]&#8207;&#8207;[[H5927H\|תַּעֲלֶה]]&#8207; </big>**| Va.<small><sup>[[Hc]]</sup></small> ta.'a.leh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it came out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|תֵּצֵ֨א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Tze'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:22** 
 <small><sub>**LXX:**</sub></small>
 But Edom annulled \[allegiance\] from beneath \[the\] hand of Judah until  this day. Then Libnah annulled \[allegiance\] in  that time. 
-<small><sub>**KJV:**</sub></small>
-Yet Edom revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time.
-<small><sub>**BSB:**</sub></small>
-So to this day Edom has been in rebellion against the hand of Judah. Likewise, Libnah rebelled at the same time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.21|<< 2 Kings 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.23|2 Kings 8:23 >>]]</td></tr></table>
 
 | Translation | Greek |

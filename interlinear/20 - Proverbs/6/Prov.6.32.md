@@ -1,4 +1,4 @@
-**Proverbs 6:32** 
+**Proverbs 6:32**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] whoso committeth adultery with a woman lacketh understanding: he [that] doeth it destroyeth his own soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who commits adultery lacks judgment; whoever does so destroys himself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.31|<< Proverbs 6:31]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.33|Proverbs 6:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] commits adultery  |**<big>&#8207;[[H5003\|נֹאֵ֣ף]]&#8207; </big>**| no.'Ef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֣ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

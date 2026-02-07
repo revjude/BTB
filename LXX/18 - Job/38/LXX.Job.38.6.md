@@ -1,10 +1,7 @@
 **LXX Job 38:6** 
 <small><sub>**LXX:**</sub></small>
 Upon what  are its hooks pitched on? And who is \[the\] one an angular foundation stone upon it? 
-<small><sub>**KJV:**</sub></small>
-Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;
-<small><sub>**BSB:**</sub></small>
-On what were its foundations set, or who laid its cornerstone,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.5|<< Job 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.7|Job 38:7 >>]]</td></tr></table>
 
 | Translation | Greek |

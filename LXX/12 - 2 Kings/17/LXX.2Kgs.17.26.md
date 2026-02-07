@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:26** 
 <small><sub>**LXX:**</sub></small>
 And they said to the king of \[the\] Assyrians, saying, The nations which you resettled and relocated, in the cities of Samaria, they know not the distinguishing \[manner\]  of \[the\] God of the land. And he sent to them lions, and behold, they are killing them, in so far as they do not know the distinguishing \[manner\] of the God of the land. 
-<small><sub>**KJV:**</sub></small>
-Wherefore they spake to the king of Assyria, saying, The nations which thou hast removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he hath sent lions among them, and, behold, they slay them, because they know not the manner of the God of the land.
-<small><sub>**BSB:**</sub></small>
-So they spoke to the king of Assyria, saying, “The peoples that you have removed and placed in the cities of Samaria do not know the requirements of the God of the land. Because of this, He has sent lions among them, which are indeed killing them off.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.25|<< 2 Kings 17:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.27|2 Kings 17:27 >>]]</td></tr></table>
 
 | Translation | Greek |

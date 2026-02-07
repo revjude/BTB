@@ -1,4 +1,4 @@
-**Job 41:6** (40:30)
+**Job 41:6**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall the companions make a banquet of him? shall they part him among the merchants?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will traders barter for him or divide him among the merchants?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.5|<< Job 41:5]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.7|Job 41:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | will they bargain?  |**<big>&#8207;[[H3739A\|יִכְר֣וּ]]&#8207; </big>**| yikh.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָ֭לָי]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'A.la<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

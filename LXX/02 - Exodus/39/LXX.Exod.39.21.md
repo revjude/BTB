@@ -1,10 +1,7 @@
 **LXX Exodus 39:21** 
 <small><sub>**LXX:**</sub></small>
 And he fastened the oracle by the rings  upon it, to the rings of the shoulder-piece, to hold \[it\] together -- from out of  blue, being closely joined into the woven work of the shoulder-piece, that the oracle would not slacken from the shoulder-piece, as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And they did bind the breastplate by his rings unto the rings of the ephod with a lace of blue, that it might be above the curious girdle of the ephod, and that the breastplate might not be loosed from the ephod; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-Then they tied the rings of the breastpiece to the rings of the ephod with a cord of blue yarn, so that the breastpiece was above the waistband of the ephod and would not swing out from the ephod, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.20|<< Exodus 39:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.22|Exodus 39:22 >>]]</td></tr></table>
 
 | Translation | Greek |

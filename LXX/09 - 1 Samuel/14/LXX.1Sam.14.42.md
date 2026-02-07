@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Saul said, Throw \[the\] lot between me and between Jonathan  my son, whomever \[the\] <span class="smallcaps">lord</span> should choose by lot let him die! And they threw lots between him and between Jonathan, and Jonathan was chosen by lot. 
-<small><sub>**KJV:**</sub></small>
-And Saul said, Cast [lots] between me and Jonathan my son. And Jonathan was taken.
-<small><sub>**BSB:**</sub></small>
-Then Saul said, “Cast the lot between me and my son Jonathan.” And Jonathan was selected.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.41|<< 1 Samuel 14:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.43|1 Samuel 14:43 >>]]</td></tr></table>
 
 | Translation | Greek |

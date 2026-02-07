@@ -1,4 +1,4 @@
-**Exodus 30:18** 
+**Exodus 30:18**<big><big>[[Exod.30.17 The Bronze Basin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt also make a laver [of] brass, and his foot [also of] brass, to wash [withal]: and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thou shalt also make a laver [of] brass, and his foot [also of] brass, to wash [
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.17|<< Exodus 30:17]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.19|Exodus 30:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֜יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a laver of  |**<big>&#8207;[[H3595\|כִּיּ֥וֹר]]&#8207; </big>**| ki.Yor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

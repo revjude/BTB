@@ -1,4 +1,4 @@
-**Deuteronomy 7:14** 
+**Deuteronomy 7:14**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be blessed above all people: there shall not be male or female barren among you, or among your cattle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be blessed above all peoples; among you there will be no barren man or 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.13|<< Deuteronomy 7:13]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.15|Deuteronomy 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | blessed  |**<big>&#8207;[[H1288\|בָּר֥וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֖ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

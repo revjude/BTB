@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hear the word of \[the\] <span class="smallcaps">lord</span> which I take up against you -- a lamentation! \[The\] house  of Israel fell; no longer should it proceed  to rise. 
-<small><sub>**KJV:**</sub></small>
-Hear ye this word which I take up against you, [even] a lamentation, O house of Israel.
-<small><sub>**BSB:**</sub></small>
-Hear this word, O house of Israel, this lamentation I take up against you:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.13|<< Amos 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.2|Amos 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

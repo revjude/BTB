@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:20** 
 <small><sub>**LXX:**</sub></small>
 Why do you bring frankincense from out of Sheba to me, and cinnamon from out of a land far off?  Your whole burnt-offerings are not acceptable, and  your sacrifices have not delighted me. 
-<small><sub>**KJV:**</sub></small>
-To what purpose cometh there to me incense from Sheba, and the sweet cane from a far country? your burnt offerings [are] not acceptable, nor your sacrifices sweet unto me.
-<small><sub>**BSB:**</sub></small>
-What use to Me is frankincense from Sheba or sweet cane from a distant land? Your burnt offerings are not acceptable; your sacrifices do not please Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.19|<< Jeremiah 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.21|Jeremiah 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

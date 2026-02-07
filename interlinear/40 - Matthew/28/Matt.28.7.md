@@ -1,12 +1,12 @@
-**Matthew 28:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:7**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you.
 <small><sub>**BSB:**</sub></small>
 Then go quickly and tell His disciples, ‘He has risen from the dead and is going ahead of you into Galilee. There you will see Him.’ See, I have told you.”
 <small><sub>**Literal:**</sub></small>
 And quickly having gone do say to the disciples of Him that He is risen from the dead and behold He goes before you into <the> Galilee; there Him you will behold. Behold I have told you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.6|<< Matthew 28:6]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.8|Matthew 28:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | quickly |**<big>[[G5035\|ταχὺ]]</big>**  |tachu <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Daniel 11:38** 
+**Daniel 11:38**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in their place, he will honor a god of fortresses—a god his fathers did no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.37|<< Daniel 11:37]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.39|Daniel 11:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> a god of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0433\|אֱלֹ֙הַּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> 'e.Lo.ah<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strongholds  |**<big>&#8207;[[H4581\|מָֽעֻזִּ֔ים]]&#8207; </big>**| ma.'u.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 8:19** 
 <small><sub>**LXX:**</sub></small>
 And Joshua stretched the javelin and  his hand against the city, and the ones in ambush rose up  quickly from out of  their place. And they went forth when he stretched out the hand. And they entered into the city, and overtook it. And hastening they burned the city in fire. 
-<small><sub>**KJV:**</sub></small>
-And the ambush arose quickly out of their place, and they ran as soon as he had stretched out his hand: and they entered into the city, and took it, and hasted and set the city on fire.
-<small><sub>**BSB:**</sub></small>
-and as soon as he did so, the men in ambush rose quickly from their position. They rushed forward, entered the city, captured it, and immediately set it on fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.18|<< Joshua 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.20|Joshua 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

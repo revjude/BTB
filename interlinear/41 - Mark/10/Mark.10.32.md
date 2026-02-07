@@ -1,12 +1,12 @@
-**Mark 10:32
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:32**<big><big>[[Mark.10.32 The Third Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,
 <small><sub>**BSB:**</sub></small>
 As they were going up the road to Jerusalem, Jesus was walking ahead of them. The disciples were amazed, but those who followed were afraid. Again Jesus took the Twelve aside and began to tell them what was going to happen to Him:
 <small><sub>**Literal:**</sub></small>
 They were then on the way going up to Jerusalem, and was going on before them <the> Jesus, and they were astonished; those then following were afraid. And having brought to [Himself] again the Twelve He began them to tell the [things] are being soon to Him to happen<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.31|<< Mark 10:31]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.33|Mark 10:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were |**<big>[[G1510\|Ἦσαν]]</big>**  |Ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

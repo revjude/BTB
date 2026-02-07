@@ -1,4 +1,4 @@
-**Isaiah 59:6** 
+**Isaiah 59:6**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their webs shall not become garments, neither shall they cover themselves with their works: their works [are] works of iniquity, and the act of violence [is] in their hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their cobwebs cannot be made into clothing, and they cannot cover themselves wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.5|<< Isaiah 59:5]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.7|Isaiah 59:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | webs their  |**<big>&#8207;[[H6980\|קֽוּרֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| ku.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

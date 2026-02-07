@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:22** 
 <small><sub>**LXX:**</sub></small>
 \[What\] happens to the man in all his effort, and in resolve of his heart in which he makes an effort under the sun? 
-<small><sub>**KJV:**</sub></small>
-For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?
-<small><sub>**BSB:**</sub></small>
-For what does a man get for all the toil and striving with which he labors under the sun?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.21|<< Ecclesiastes 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.23|Ecclesiastes 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

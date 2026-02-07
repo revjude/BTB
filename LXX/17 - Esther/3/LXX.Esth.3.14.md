@@ -1,10 +1,7 @@
 **LXX Esther 3:14** 
 <small><sub>**LXX:**</sub></small>
 And the copies of the letters were displayed \[in each\] place. And it was assigned to all to be prepared for  that day. 
-<small><sub>**KJV:**</sub></small>
-The copy of the writing for a commandment to be given in every province was published unto all people, that they should be ready against that day.
-<small><sub>**BSB:**</sub></small>
-A copy of the text of the edict was to be issued in every province and published to all the people, so that they would be ready on that day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.13|<< Esther 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.15|Esther 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

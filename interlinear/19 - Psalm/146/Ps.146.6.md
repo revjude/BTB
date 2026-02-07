@@ -1,4 +1,4 @@
-**Psalms 146:6** 
+**Psalms 146:6**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which made heaven, and earth, the sea, and all that therein [is]: which keepeth truth for ever:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ the Maker of heaven and earth, the sea, and everything in them. He remains faith
 > $\quad$ referenced by: [[Acts.4.24|Acts 4:24]] ☩ [[Acts.14.15|Acts 14:15]] ☩ [[Rev.10.6|Rev 10:6]] ☩ [[Rev.14.7|Rev 14:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] made  |**<big>&#8207;[[H6213H\|עֹשֶׂ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heaven  |**<big>&#8207;[[H8064\|שָׁ֘מַ֤יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

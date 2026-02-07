@@ -1,4 +1,4 @@
-**2 Chronicles 6:29** 
+**2 Chronicles 6:29**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] what prayer [or] what supplication soever shall be made of any man, or of all thy people Israel, when every one shall know his own sore and his own grief, and shall spread forth his hands in this house:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then may whatever prayer or plea Your people Israel make—each knowing his own 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.28|<< 2 Chronicles 6:28]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.30|2 Chronicles 6:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prayer  |**<big>&#8207;[[H8605\|תְּפִלָּ֣ה]]&#8207; </big>**| te.fi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

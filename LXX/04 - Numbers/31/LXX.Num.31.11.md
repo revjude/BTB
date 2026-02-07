@@ -1,10 +1,7 @@
 **LXX Numbers 31:11** 
 <small><sub>**LXX:**</sub></small>
 And they took all the plunder, and all  their spoils -- from man unto beast. 
-<small><sub>**KJV:**</sub></small>
-And they took all the spoil, and all the prey, [both] of men and of beasts.
-<small><sub>**BSB:**</sub></small>
-and carried away all the plunder and spoils, both people and animals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.10|<< Numbers 31:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.12|Numbers 31:12 >>]]</td></tr></table>
 
 | Translation | Greek |

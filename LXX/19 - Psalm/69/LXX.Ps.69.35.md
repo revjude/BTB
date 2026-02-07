@@ -1,10 +1,7 @@
 **LXX Psalm 69:35** 
 <small><sub>**LXX:**</sub></small>
 For  God shall deliver  Zion, and the cities of Judea shall be built up. And they shall dwell there, and they shall inherit her. 
-<small><sub>**KJV:**</sub></small>
-For God will save Zion, and will build the cities of Judah: that they may dwell there, and have it in possession.
-<small><sub>**BSB:**</sub></small>
-For God will save Zion and rebuild the cities of Judah, that they may dwell there and possess it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.34|<< Psalm 69:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.36|Psalm 69:36 >>]]</td></tr></table>
 
 | Translation | Greek |

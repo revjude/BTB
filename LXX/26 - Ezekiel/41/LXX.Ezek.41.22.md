@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:22** 
 <small><sub>**LXX:**</sub></small>
 of a wooden altar, three cubits  \[was\] its height, and two cubits the length, and the breadth -- two cubits; and it had horns, and  its base and  its walls \[were\] wooden. And he said to me, This \[is\] the table  before \[the\] face of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The altar of wood [was] three cubits high, and the length thereof two cubits; and the corners thereof, and the length thereof, and the walls thereof, [were] of wood: and he said unto me, This [is] the table that [is] before the LORD.
-<small><sub>**BSB:**</sub></small>
-There was an altar of wood three cubits high and two cubits square. Its corners, base, and sides were of wood. And the man told me, “This is the table that is before the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.21|<< Ezekiel 41:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.23|Ezekiel 41:23 >>]]</td></tr></table>
 
 | Translation | Greek |

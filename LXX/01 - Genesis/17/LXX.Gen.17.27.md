@@ -1,10 +1,7 @@
 **LXX Genesis 17:27** 
 <small><sub>**LXX:**</sub></small>
 and all the males  of his house, and the native-born servants, and the \[ones\] bought with silver from foreign nations. 
-<small><sub>**KJV:**</sub></small>
-And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him.
-<small><sub>**BSB:**</sub></small>
-And all the men of Abraham’s household—both servants born in his household and those purchased from foreigners—were circumcised with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.26|<< Genesis 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.1|Genesis 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

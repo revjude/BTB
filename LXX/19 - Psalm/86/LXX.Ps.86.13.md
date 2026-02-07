@@ -1,10 +1,7 @@
 **LXX Psalm 86:13** 
 <small><sub>**LXX:**</sub></small>
 For  your mercy \[is\] great towards me; and you rescued  my soul from out of lowermost Hades. 
-<small><sub>**KJV:**</sub></small>
-For great [is] thy mercy toward me: and thou hast delivered my soul from the lowest hell.
-<small><sub>**BSB:**</sub></small>
-For great is Your loving devotion to me; You have delivered me from the depths of Sheol.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.12|<< Psalm 86:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.14|Psalm 86:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:32** 
 <small><sub>**LXX:**</sub></small>
 And should you become to them as \[the\] sound of a sweet sounding well-tuned psaltery, and they shall hear your  words, but no way shall they do them. 
-<small><sub>**KJV:**</sub></small>
-And, lo, thou [art] unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not.
-<small><sub>**BSB:**</sub></small>
-Indeed, you are to them like a singer of love songs with a beautiful voice, who skillfully plays an instrument. They hear your words but do not put them into practice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.31|<< Ezekiel 33:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.33|Ezekiel 33:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 33:32** is...

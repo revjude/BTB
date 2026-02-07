@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:23** 
 <small><sub>**LXX:**</sub></small>
 And what other nation \[is\] as your people Israel in the earth? As God guided it  to ransom to himself a people,  to establish your name for the executing greatness and grandeur,  for you to cast out from in front  of your people, whom you ransomed to yourself from out of Egypt, \[even\] nations and tents? 
-<small><sub>**KJV:**</sub></small>
-And what one nation in the earth [is] like thy people, [even] like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt, [from] the nations and their gods?
-<small><sub>**BSB:**</sub></small>
-And who is like Your people Israel—the one nation on earth whom God went out to redeem as a people for Himself and to make a name for Himself? You performed great and awesome wonders by driving out nations and their gods from before Your people, whom You redeemed for Yourself from Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.22|<< 2 Samuel 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.24|2 Samuel 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

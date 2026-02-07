@@ -1,4 +1,4 @@
-**Psalms 68:16** (68:17)
+**Psalms 68:16**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why leap ye, ye high hills? [this is] the hill [which] God desireth to dwell in; yea, the LORD will dwell [in it] for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do you gaze in envy, O mountains of many peaks? This is the mountain God cho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.15|<< Psalms 68:15]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.17|Psalms 68:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H4100\|מָּה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you watch with envy !  |**<big>&#8207;[[H7520\|תְּֽרַצְּדוּ]]&#8207;&#8207;[[H9013\|ן֮]]&#8207; </big>**| te.ra.tze.Du<small><sup>[[HVpi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

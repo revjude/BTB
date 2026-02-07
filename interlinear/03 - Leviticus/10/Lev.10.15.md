@@ -1,4 +1,4 @@
-**Leviticus 10:15** 
+**Leviticus 10:15**<big><big>[[Lev.10.8 Restrictions for Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heave shoulder and the wave breast shall they bring with the offerings made by fire of the fat, to wave [it for] a wave offering before the LORD; and it shall be thine, and thy sons’ with thee, by a statute for ever; as the LORD hath commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are to bring the thigh of the contribution and the breast of the wave offer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.14|<< Leviticus 10:14]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.16|Leviticus 10:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] thigh of  |**<big>&#8207;[[H7785\|שׁ֣וֹק]]&#8207; </big>**| Shok<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the contribution  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8641\|תְּרוּמָ֞ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

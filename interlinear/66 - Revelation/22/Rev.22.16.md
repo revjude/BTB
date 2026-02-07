@@ -1,5 +1,5 @@
-**Revelation 22:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:16**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, [and] the bright and morning star.
 <small><sub>**BSB:**</sub></small>
 “I, Jesus, have sent My angel to give you this testimony for the churches. I am the Root and the Offspring of David, the bright Morning Star.”
@@ -10,7 +10,7 @@ I myself Jesus sent the angel of Mine to testify to you these things in the chur
 > $\quad$ alluding to: [[LXX.Isa.11.1|Isa 11:1]] ☩ [[LXX.Isa.11.10|Isa 11:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|Ἐγὼ]]</big>**  |Egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

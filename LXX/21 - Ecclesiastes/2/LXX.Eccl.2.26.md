@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:26** 
 <small><sub>**LXX:**</sub></small>
 For to the man, to the one good before his face, he gave wisdom, and knowledge, and gladness. And to the one sinning, he gave distraction  to be added and  to bring together; \[so as\] to give to the good \[man\] before \[the\] face  of God. For even indeed this \[is\] folly and resolve of spirit. 
-<small><sub>**KJV:**</sub></small>
-For [God] giveth to a man that [is] good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to [him that is] good before God. This also [is] vanity and vexation of spirit.
-<small><sub>**BSB:**</sub></small>
-To the man who is pleasing in His sight, He gives wisdom and knowledge and joy, but to the sinner He assigns the task of gathering and accumulating that which he will hand over to one who pleases God. This too is futile and a pursuit of the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.25|<< Ecclesiastes 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.1|Ecclesiastes 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:28** 
 <small><sub>**LXX:**</sub></small>
 The prophet by which the dream is, let him describe  his dream! and \[the one\] by which  my word \[is truly\] with him, let him describe  my word in truth! What \[is\] the straw to the grain? Thus \[are\]  my words, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The prophet that hath a dream, let him tell a dream; and he that hath my word, let him speak my word faithfully. What [is] the chaff to the wheat? saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Let the prophet who has a dream retell it, but let him who has My word speak it truthfully. For what is straw compared to grain?” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.27|<< Jeremiah 23:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.29|Jeremiah 23:29 >>]]</td></tr></table>
 
 | Translation | Greek |

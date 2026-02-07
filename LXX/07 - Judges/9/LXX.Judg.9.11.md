@@ -1,10 +1,7 @@
 **LXX Judges 9:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] fig-tree said to them, Allowing  my sweetness and  my good produce, should I go to rule the trees? 
-<small><sub>**KJV:**</sub></small>
-But the fig tree said unto them, Should I forsake my sweetness, and my good fruit, and go to be promoted over the trees?
-<small><sub>**BSB:**</sub></small>
-But the fig tree replied, ‘Should I stop giving my sweetness and my good fruit, to hold sway over the trees?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.10|<< Judges 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.12|Judges 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

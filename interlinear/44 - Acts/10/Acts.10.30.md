@@ -1,12 +1,12 @@
-**Acts 10:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:30**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Cornelius said, Four days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and, behold, a man stood before me in bright clothing,
 <small><sub>**BSB:**</sub></small>
 Cornelius answered: “Four days ago I was in my house praying at this, the ninth hour. Suddenly a man in radiant clothing stood before me
 <small><sub>**Literal:**</sub></small>
 And <the> Cornelius was saying; Ago four days until this the hour I was fasting and at the ninth hour praying in the house of mine, and behold a man stood before me in apparel bright<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.29|<< Acts 10:29]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.31|Acts 10:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

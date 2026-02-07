@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:33** 
 <small><sub>**LXX:**</sub></small>
 then you shall listen from out of the heaven, from your prepared home, and you shall do according to all as much as the alien should have called upon you; so that all the peoples of the earth should know  your name, and  to fear you, as  your people Israel, and  to know that  your name is called upon  \[in\] this house which I built. 
-<small><sub>**KJV:**</sub></small>
-Then hear thou from the heavens, [even] from thy dwelling place, and do according to all that the stranger calleth to thee for; that all people of the earth may know thy name, and fear thee, as [doth] thy people Israel, and may know that this house which I have built is called by thy name.
-<small><sub>**BSB:**</sub></small>
-then may You hear from heaven, Your dwelling place, and do according to all for which the foreigner calls to You. Then all the peoples of the earth will know Your name and fear You, as do Your people Israel, and they will know that this house I have built is called by Your Name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.32|<< 2 Chronicles 6:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.34|2 Chronicles 6:34 >>]]</td></tr></table>
 
 | Translation | Greek |

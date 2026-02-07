@@ -1,6 +1,6 @@
 (KJV) **Psalm 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20|<< Psalm 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22|Psalm 22 >>]]</td></tr></table>
 
-***After the Battle***&emsp;<small><sup>\[ [[Prov.21|Proverbs 21:1–31]] ]</sup></small> ^bsb1314
+<big><big>[[Ps.21.1 After the Battle|⥃]]</big></big>***After the Battle***&emsp;<small><sup>\[ [[Prov.21|Proverbs 21:1–31]] ]</sup></small>
 
 
 

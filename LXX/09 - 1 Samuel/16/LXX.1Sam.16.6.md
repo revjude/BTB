@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:6** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  their entering, that he beheld  Eliab, and said, None other than his anointed \[is\] before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when they were come, that he looked on Eliab, and said, Surely the LORD’S anointed [is] before him.
-<small><sub>**BSB:**</sub></small>
-When they arrived, Samuel saw Eliab and said, “Surely here before the LORD is His anointed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.5|<< 1 Samuel 16:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.7|1 Samuel 16:7 >>]]</td></tr></table>
 
 | Translation | Greek |

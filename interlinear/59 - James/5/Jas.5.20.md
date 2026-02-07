@@ -1,5 +1,5 @@
-**James 5:20
-**<small><sub>**KJV:**</sub></small>
+**James 5:20**<big><big>[[Jas.5.19 Restoring a Sinner|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let him know, that he which converteth the sinner from the error of his way shall save a soul from death, and shall hide a multitude of sins.
 <small><sub>**BSB:**</sub></small>
 consider this: Whoever turns a sinner from the error of his way will save his soul from death and cover over a multitude of sins.
@@ -10,7 +10,7 @@ he should know that the [one] having brought back a sinner from [the] error of t
 > $\quad$ referencing: [[LXX.Prov.10.12|Prov 10:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he should know [^1] [^2] |**<big>[[G1097\|γινωσκέτω]]</big>**  |ginōsketō <small><sup>[[V-PAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(O)</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

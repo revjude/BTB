@@ -1,12 +1,12 @@
-**Luke 14:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:7**<big><big>[[Luke.14.7 The Parable of the Guests|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,
 <small><sub>**BSB:**</sub></small>
 When Jesus noticed how the guests chose the places of honor, He told them a parable:
 <small><sub>**Literal:**</sub></small>
 He was speaking then to those invited a parable remarking how the first places they were choosing out, saying to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.6|<< Luke 14:6]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.8|Luke 14:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was speaking |**<big>[[G3004G\|Ἔλεγεν]]</big>**  |Elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

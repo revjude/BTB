@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:2** 
 <small><sub>**LXX:**</sub></small>
 And Moses called all the sons of Israel, and he said to them, You see all as many \[things\] as \[the\] <span class="smallcaps">lord</span> your God did in \[the\] land of Egypt before you to Pharaoh and  his attendants, and all  his land; 
-<small><sub>**KJV:**</sub></small>
-And Moses called unto all Israel, and said unto them, Ye have seen all that the LORD did before your eyes in the land of Egypt unto Pharaoh, and unto all his servants, and unto all his land;
-<small><sub>**BSB:**</sub></small>
-Moses summoned all Israel and proclaimed to them, “You have seen with your own eyes everything the LORD did in Egypt to Pharaoh, to all his officials, and to all his land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.1|<< Deuteronomy 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.3|Deuteronomy 29:3 >>]]</td></tr></table>
 
 | Translation | Greek |

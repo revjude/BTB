@@ -1,12 +1,12 @@
-**1 John 4:1
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:1**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.
 <small><sub>**BSB:**</sub></small>
 Beloved, do not believe every spirit, but test the spirits to see whether they are from God. For many false prophets have gone out into the world.
 <small><sub>**Literal:**</sub></small>
 Beloved, not every spirit do believe but do test the spirits whether of <the> God they are, because many false prophets have gone out into the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.24|<< 1 John 3:24]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.2|1 John 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Beloved, |**<big>[[G0027\|Ἀγαπητοί,]]</big>**  |Agapētoi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

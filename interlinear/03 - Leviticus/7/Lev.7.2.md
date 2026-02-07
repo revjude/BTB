@@ -1,4 +1,4 @@
-**Leviticus 7:2** 
+**Leviticus 7:2**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The guilt offering must be slaughtered in the place where the burnt offering is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.1|<< Leviticus 7:1]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.3|Leviticus 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] place  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4725\|מְק֗וֹם]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> where  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

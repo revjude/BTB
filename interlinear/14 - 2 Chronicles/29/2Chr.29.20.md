@@ -1,4 +1,4 @@
-**2 Chronicles 29:20** 
+**2 Chronicles 29:20**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Early the next morning King Hezekiah gathered the city officials and went up to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.19|<< 2 Chronicles 29:19]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.21|2 Chronicles 29:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rose early  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7925\|יַּשְׁכֵּם֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|יְחִזְקִיָּ֣הוּ]]&#8207; </big>**| ye.chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

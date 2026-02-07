@@ -1,10 +1,7 @@
 **LXX Genesis 8:13** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the one and six hundredth year in the life  of Noah, the first month, \[day\] one of the month, the water subsided from the earth. And Noah uncovered the roof of the ark which he made. And he beheld that the water subsided from \[the\] face of the earth. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the six hundredth and first year, in the first [month], the first [day] of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.
-<small><sub>**BSB:**</sub></small>
-In Noah’s six hundred and first year, on the first day of the first month, the waters had dried up from the earth. So Noah removed the covering from the ark and saw that the surface of the ground was dry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.12|<< Genesis 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.14|Genesis 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

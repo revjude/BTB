@@ -1,12 +1,12 @@
-**Acts 28:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:13**<big><big>[[Acts.28.11 Paul Arrives in Italy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:
 <small><sub>**BSB:**</sub></small>
 From there we weighed anchor and came to Rhegium. After one day, a south wind came up, and on the second day we arrived at Puteoli.
 <small><sub>**Literal:**</sub></small>
 from where having taken off we arrived at Rhegium And after one day when was comong on a south wind on the second day we came to Puteoli;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.12|<< Acts 28:12]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.14|Acts 28:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from where |**<big>[[G3606\|ὅθεν]]</big>**  |hothen <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken off [^1] [^2] |**<big>[[G4014\|περιελόντες]]</big>**  |perielontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(K)O</abbr> | |

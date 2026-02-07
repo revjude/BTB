@@ -1,10 +1,7 @@
 **LXX Numbers 16:14** 
 <small><sub>**LXX:**</sub></small>
 and into a land flowing milk and honey you brought us, and you gave to us a lot \[of inheritance\] of field and vineyards? \[Would you have\] cut out the eyes of those men? We do not ascend. 
-<small><sub>**KJV:**</sub></small>
-Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.
-<small><sub>**BSB:**</sub></small>
-Moreover, you have not brought us into a land flowing with milk and honey or given us an inheritance of fields and vineyards. Will you gouge out the eyes of these men? No, we will not come!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.13|<< Numbers 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.15|Numbers 16:15 >>]]</td></tr></table>
 
 | Translation | Greek |

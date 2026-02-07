@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:4** 
 <small><sub>**LXX:**</sub></small>
 And slain shall fall in \[the\] land of \[the\] Chaldeans, and men being pierced through \[will fall\] from outside of her. 
-<small><sub>**KJV:**</sub></small>
-Thus the slain shall fall in the land of the Chaldeans, and [they that are] thrust through in her streets.
-<small><sub>**BSB:**</sub></small>
-And they will fall slain in the land of the Chaldeans, and pierced through in her streets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.3|<< Jeremiah 51:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.5|Jeremiah 51:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 45:3** 
+**Isaiah 45:3**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call [thee] by thy name, [am] the God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will give you the treasures of darkness and the riches hidden in secret places
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.2|<< Isaiah 45:2]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.4|Isaiah 45:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 7:15** 
 <small><sub>**LXX:**</sub></small>
 My spirit shuddered, I Daniel, in  my manner, and the visions  of my head disturbed me. 
-<small><sub>**KJV:**</sub></small>
-I Daniel was grieved in my spirit in the midst of [my] body, and the visions of my head troubled me.
-<small><sub>**BSB:**</sub></small>
-I, Daniel, was grieved in my spirit, and the visions in my mind alarmed me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.14|<< Daniel 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.16|Daniel 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

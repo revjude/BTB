@@ -1,10 +1,7 @@
 **LXX Isaiah 35:6** 
 <small><sub>**LXX:**</sub></small>
 Then the lame shall leap as a stag, and \[the\] tongue of \[the\] stammering will be plain; for water was torn \[forth\] in the wilderness, and a ravine in a thirsting land. 
-<small><sub>**KJV:**</sub></small>
-Then shall the lame [man] leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert.
-<small><sub>**BSB:**</sub></small>
-Then the lame will leap like a deer and the mute tongue will shout for joy. For waters will gush forth in the wilderness, and streams in the desert.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.35.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.5|<< Isaiah 35:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.7|Isaiah 35:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 35:6** is...

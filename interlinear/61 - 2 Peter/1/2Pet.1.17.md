@@ -1,5 +1,5 @@
-**2 Peter 1:17
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:17**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.
 <small><sub>**BSB:**</sub></small>
 For He received honor and glory from God the Father when the voice came to Him from the Majestic Glory, saying, “This is My beloved Son, in whom I am well pleased.”
@@ -11,7 +11,7 @@ Having received for from God [the] Father honor and glory a voice was brought to
 > $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having received |**<big>[[G2983\|λαβὼν]]</big>**  |labōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 50:11** 
+**Isaiah 50:11**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, all ye that kindle a fire, that compass [yourselves] about with sparks: walk in the light of your fire, and in the sparks [that] ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, all you who kindle a fire, who array yourselves with firebrands, walk in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.10|<< Isaiah 50:10]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.1|Isaiah 51:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2005\|הֵ֧ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O all of you  |**<big>&#8207;[[H3605\|כֻּלְּ]]&#8207;&#8207;[[H9026\|כֶ֛ם]]&#8207; </big>**| ku.le.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

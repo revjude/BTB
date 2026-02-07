@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:48** 
 <small><sub>**LXX:**</sub></small>
 From Aroer, which is upon the bank of \[the\] rushing stream Arnon, and upon the mountain  of Sion, which is Hermon, 
-<small><sub>**KJV:**</sub></small>
-From Aroer, which [is] by the bank of the river Arnon, even unto mount Sion, which [is] Hermon,
-<small><sub>**BSB:**</sub></small>
-extending from Aroer on the rim of the Arnon Valley as far as Mount Siyon (that is, Hermon),<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.47|<< Deuteronomy 4:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.49|Deuteronomy 4:49 >>]]</td></tr></table>
 
 | Translation | Greek |

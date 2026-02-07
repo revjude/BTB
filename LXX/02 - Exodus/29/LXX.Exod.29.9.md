@@ -1,10 +1,7 @@
 **LXX Exodus 29:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall tie around them the belts, and shall put on them the turbans, and it will be for them a priesthood to me into the eon. And you shall perfect the hands of Aaron, and the hands  of his sons. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest’s office shall be theirs for a perpetual statute: and thou shalt consecrate Aaron and his sons.
-<small><sub>**BSB:**</sub></small>
-Wrap the sashes around Aaron and his sons and tie headbands on them. The priesthood shall be theirs by a permanent statute. In this way you are to ordain Aaron and his sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.8|<< Exodus 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.10|Exodus 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

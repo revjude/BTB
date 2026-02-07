@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:10** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever \[the\] <span class="smallcaps">lord</span> your God shall bring you into the land which he swore by an oath \[to\] your fathers, \[to\] Abraham, and \[to\] Isaac, and \[to\] Jacob, to give to you \[the\] great and good cities which you did not build; 
-<small><sub>**KJV:**</sub></small>
-And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,
-<small><sub>**BSB:**</sub></small>
-And when the LORD your God brings you into the land He swore to your fathers, to Abraham, Isaac, and Jacob, that He would give you—a land with great and splendid cities that you did not build,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.9|<< Deuteronomy 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.11|Deuteronomy 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

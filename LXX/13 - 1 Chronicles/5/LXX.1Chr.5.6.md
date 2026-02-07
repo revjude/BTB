@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:6** 
 <small><sub>**LXX:**</sub></small>
 Beerah his son, whom Tiglath-pileser king of Assyria resettled -- he \[was\] ruler  of Reuben. 
-<small><sub>**KJV:**</sub></small>
-Beerah his son, whom Tilgathpilneser king of Assyria carried away [captive]: he [was] prince of the Reubenites.
-<small><sub>**BSB:**</sub></small>
-and Beerah his son, whom Tiglath-pileser king of Assyria carried into exile. Beerah was a leader of the Reubenites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.5|<< 1 Chronicles 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.7|1 Chronicles 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

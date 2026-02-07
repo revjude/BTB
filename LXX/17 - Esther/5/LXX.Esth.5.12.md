@@ -1,10 +1,7 @@
 **LXX Esther 5:12** 
 <small><sub>**LXX:**</sub></small>
 And Haman said, The queen has called no one with the king, not one to the banquet but me, and for  tomorrow she has invited me. 
-<small><sub>**KJV:**</sub></small>
-Haman said moreover, Yea, Esther the queen did let no man come in with the king unto the banquet that she had prepared but myself; and to morrow am I invited unto her also with the king.
-<small><sub>**BSB:**</sub></small>
-“What is more,” Haman added, “Queen Esther invited no one but me to join the king at the banquet she prepared, and I am invited back tomorrow along with the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.11|<< Esther 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.13|Esther 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 28:7** 
 <small><sub>**LXX:**</sub></small>
 Two shoulder-pieces will be for him, being held together \[the\] other to the other, attached upon the two parts. 
-<small><sub>**KJV:**</sub></small>
-It shall have the two shoulderpieces thereof joined at the two edges thereof; and [so] it shall be joined together.
-<small><sub>**BSB:**</sub></small>
-It shall have two shoulder pieces attached at two of its corners, so it can be fastened.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.6|<< Exodus 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.8|Exodus 28:8 >>]]</td></tr></table>
 
 | Translation | Greek |

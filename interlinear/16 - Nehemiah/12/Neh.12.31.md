@@ -1,4 +1,4 @@
-**Nehemiah 12:31** 
+**Nehemiah 12:31**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I brought up the princes of Judah upon the wall, and appointed two great [companies of them that gave] thanks, [whereof one] went on the right hand upon the wall toward the dung gate:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I brought the leaders of Judah up on the wall, and I appointed two great th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.30|<< Nehemiah 12:30]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.32|Nehemiah 12:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I caused to go up  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5927H\|אַעֲלֶה֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.'a.Leh<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

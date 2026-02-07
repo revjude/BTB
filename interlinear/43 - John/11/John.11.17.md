@@ -1,12 +1,12 @@
-**John 11:17
-**<small><sub>**KJV:**</sub></small>
+**John 11:17**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then when Jesus came, he found that he had [lain] in the grave four days already.
 <small><sub>**BSB:**</sub></small>
 When Jesus arrived, He found that Lazarus had already spent four days in the tomb.
 <small><sub>**Literal:**</sub></small>
 Having come therefore <the> Jesus found him four already days having been in the tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.16|<< John 11:16]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.18|John 11:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

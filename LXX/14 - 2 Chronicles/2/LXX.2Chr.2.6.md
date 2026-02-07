@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:6** 
 <small><sub>**LXX:**</sub></small>
 And who is strong to build to him a house? For the heaven and the heaven of the heaven does not bear him. And who am I building to him a house, except  to burn incense in front of him? 
-<small><sub>**KJV:**</sub></small>
-But who is able to build him an house, seeing the heaven and heaven of heavens cannot contain him? who [am] I then, that I should build him an house, save only to burn sacrifice before him?
-<small><sub>**BSB:**</sub></small>
-But who is able to build a house for Him, since the heavens, even the highest heavens, cannot contain Him? Who then am I, that I should build a house for Him, except as a place to burn sacrifices before Him?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.5|<< 2 Chronicles 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.7|2 Chronicles 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 18:6** 
 <small><sub>**LXX:**</sub></small>
 And you portion the land \[into\] seven portions, and bring \[the diagram\] to me here! and I shall bring forth to you a lot here before \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Ye shall therefore describe the land [into] seven parts, and bring [the description] hither to me, that I may cast lots for you here before the LORD our God.
-<small><sub>**BSB:**</sub></small>
-When you have mapped out the seven portions of land and brought it to me, I will cast lots for you here in the presence of the LORD our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.5|<< Joshua 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.7|Joshua 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

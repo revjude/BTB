@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΟΥΑΥ</p>
 
 And went forth from \[the\] daughter of Zion all  her beauty. Her rulers became as rams not finding pasture, and going with no strength in front \[of the\] one pursuing. 
-<small><sub>**KJV:**</sub></small>
-And from the daughter of Zion all her beauty is departed: her princes are become like harts [that] find no pasture, and they are gone without strength before the pursuer.
-<small><sub>**BSB:**</sub></small>
-All the splendor has departed from the Daughter of Zion. Her princes are like deer that find no pasture; they lack the strength to flee in the face of the hunter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.5|<< Lamentations 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.7|Lamentations 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

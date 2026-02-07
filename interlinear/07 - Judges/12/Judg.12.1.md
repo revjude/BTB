@@ -1,4 +1,4 @@
-**Judges 12:1** 
+**Judges 12:1**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the men of Ephraim assembled and crossed the Jordan to Zaphon. They said to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.40|<< Judges 11:40]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.2|Judges 12:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6817\|יִּצָּעֵק֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.tza.'Ek<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] man of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

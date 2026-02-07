@@ -1,4 +1,4 @@
-**Ezekiel 24:18** 
+**Ezekiel 24:18**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I spoke to the people in the morning, and in the evening my wife died. And th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.17|<< Ezekiel 24:17]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.19|Ezekiel 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I spoke  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H1696G\|אֲדַבֵּ֤ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.da.Ber<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

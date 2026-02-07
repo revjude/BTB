@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:5** 
 <small><sub>**LXX:**</sub></small>
 According to \[the\] number of the satrapies of the Philistines -- five buttocks of gold, for \[the\] fault in you, and  your rulers, and to the people. And five golden mice, a representation  of your mice, of the ones corrupting the land. And you shall give to the <span class="smallcaps">lord</span> God glory, so that he should lighten  his hand from you, and from  your gods, and from  your land. 
-<small><sub>**KJV:**</sub></small>
-Wherefore ye shall make images of your emerods, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land.
-<small><sub>**BSB:**</sub></small>
-Make images of your tumors and of the rats that are ravaging the land. Give glory to the God of Israel, and perhaps He will lift His hand from you and your gods and your land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.4|<< 1 Samuel 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.6|1 Samuel 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

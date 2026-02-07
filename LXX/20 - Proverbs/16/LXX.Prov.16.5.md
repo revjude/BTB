@@ -1,10 +1,7 @@
 **LXX Proverbs 16:5** 
 <small><sub>**LXX:**</sub></small>
 Every proud heart \[is\] unclean with God; and a man putting a hand \[against\] hands unjustly shall not be acquitted. \[The\] beginning of a good way  \[is\] to do  just \[things\]; and \[it is more\] acceptable by God rather than to sacrifice sacrifices. \[The\] one seeking the <span class="smallcaps">lord</span> shall find knowledge with righteousness; \[and\] the ones rightly seeking him shall find peace. All the works of the <span class="smallcaps">lord</span> \[are\] with righteousness; and the impious is kept for \[the\] evil day. 
-<small><sub>**KJV:**</sub></small>
-Every one [that is] proud in heart [is] an abomination to the LORD: [though] hand [join] in hand, he shall not be unpunished.
-<small><sub>**BSB:**</sub></small>
-Everyone who is proud in heart is detestable to the LORD; be assured that he will not go unpunished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.1|<< Proverbs 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.10|Proverbs 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

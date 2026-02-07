@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:7** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Because  your opportunity \[for lawlessness is\] from the nations  round about you, and in  my laws you did not go, and  my ordinances you did not observe, but not even according to the ordinances of the nations  round about you  did you observe; 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Because ye multiplied more than the nations that [are] round about you, [and] have not walked in my statutes, neither have kept my judgments, neither have done according to the judgments of the nations that [are] round about you;
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: ‘You have been more insubordinate than the nations around you; you have not walked in My statutes or kept My ordinances, nor have you even conformed to the ordinances of the nations around you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.6|<< Ezekiel 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.8|Ezekiel 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

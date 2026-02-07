@@ -1,4 +1,4 @@
-**Joshua 6:26** 
+**Joshua 6:26**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua adjured [them] at that time, saying, Cursed [be] the man before the LORD, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest [son] shall he set up the gates of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Joshua invoked this solemn oath: “Cursed before the LORD is the m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.25|<< Joshua 6:25]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.27|Joshua 6:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he administered an oath  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7650\|יַּשְׁבַּ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Ba'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֔עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

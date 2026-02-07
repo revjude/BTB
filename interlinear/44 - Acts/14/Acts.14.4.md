@@ -1,12 +1,12 @@
-**Acts 14:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:4**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the multitude of the city was divided: and part held with the Jews, and part with the apostles.
 <small><sub>**BSB:**</sub></small>
 The people of the city were divided. Some sided with the Jews, and others with the apostles.
 <small><sub>**Literal:**</sub></small>
 Was divided now the multitude of the city, and some indeed were with the Jews, some however with the apostles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.3|<< Acts 14:3]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.5|Acts 14:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was divided |**<big>[[G4977\|ἐσχίσθη]]</big>**  |eschisthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

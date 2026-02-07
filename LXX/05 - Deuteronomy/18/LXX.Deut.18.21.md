@@ -1,10 +1,7 @@
 **LXX Deuteronomy 18:21** 
 <small><sub>**LXX:**</sub></small>
 But if you should say in  your heart, How shall we know the word which \[the\] <span class="smallcaps">lord</span> spoke not? 
-<small><sub>**KJV:**</sub></small>
-And if thou say in thine heart, How shall we know the word which the LORD hath not spoken?
-<small><sub>**BSB:**</sub></small>
-You may ask in your heart, “How can we recognize a message that the LORD has not spoken?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.20|<< Deuteronomy 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.22|Deuteronomy 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 11:3
-**<small><sub>**KJV:**</sub></small>
+**John 11:3**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore his sisters sent unto him, saying, Lord, behold, he whom thou lovest is sick.
 <small><sub>**BSB:**</sub></small>
 So the sisters sent word to Jesus, “Lord, the one You love is sick.”
 <small><sub>**Literal:**</sub></small>
 Sent therefore the sisters to Him saying; Lord, behold [he] whom You love was being sick.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.2|<< John 11:2]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.4|John 11:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Sent |**<big>[[G0649\|ἀπέστειλαν]]</big>**  |apesteilan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

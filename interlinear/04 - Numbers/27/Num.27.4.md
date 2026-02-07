@@ -1,4 +1,4 @@
-**Numbers 27:4** 
+**Numbers 27:4**<big><big>[[Num.27.1 The Daughters of Zelophehad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why should the name of our father be done away from among his family, because he hath no son? Give unto us [therefore] a possession among the brethren of our father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why should the name of our father disappear from his clan because he had no sons
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.3|<< Numbers 27:3]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.5|Numbers 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will it be withdrawn  |**<big>&#8207;[[H1639\|יִגָּרַ֤ע]]&#8207; </big>**| yi.ga.Ra'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

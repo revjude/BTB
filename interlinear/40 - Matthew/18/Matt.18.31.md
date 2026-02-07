@@ -1,12 +1,12 @@
-**Matthew 18:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:31**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.
 <small><sub>**BSB:**</sub></small>
 When his fellow servants saw what had happened, they were greatly distressed, and they went and recounted all of this to their master.
 <small><sub>**Literal:**</sub></small>
 Having seen therefore the fellow servants of him the [things] having taken place they were grieved deeply, and having gone they narrated to the master of themselves all that having taken place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.30|<< Matthew 18:30]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.32|Matthew 18:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδόντες]]</big>**  |Idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

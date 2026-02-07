@@ -1,4 +1,4 @@
-**Ezekiel 5:14** 
+**Ezekiel 5:14**<big><big>[[Ezek.5.11 Famine, Sword, and Dispersion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I will make thee waste, and a reproach among the nations that [are] round about thee, in the sight of all that pass by.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make you a ruin and a disgrace among the nations around you, in the sight
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.13|<< Ezekiel 5:13]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.15|Ezekiel 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414I\|אֶתְּנֵ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.te.ne<small><sup>[[HVqu1cs]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into a ruin  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2723\|חָרְבָּ֣ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cha.re.Bah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

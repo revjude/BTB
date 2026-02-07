@@ -1,12 +1,12 @@
-**Luke 18:41
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:41**<big><big>[[Luke.18.35 Jesus Heals a Blind Beggar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight.
 <small><sub>**BSB:**</sub></small>
 “What do you want Me to do for you?” “Lord,” he said, “let me see again.”
 <small><sub>**Literal:**</sub></small>
 saying What to you desire you I may do? <the> And he said; Lord, that I may receive sight.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.40|<< Luke 18:40]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.42|Luke 18:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
 | What |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

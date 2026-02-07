@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 36:2** 
 <small><sub>**LXX:**</sub></small>
 Jehoahaz \[was\] a son being twenty and three years \[old\] in  his taking reign, and three months he reigned in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Jehoahaz [was] twenty and three years old when he began to reign, and he reigned three months in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.1|<< 2 Chronicles 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.3|2 Chronicles 36:3 >>]]</td></tr></table>
 
 | Translation | Greek |

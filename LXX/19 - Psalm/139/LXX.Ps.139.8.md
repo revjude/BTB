@@ -1,10 +1,7 @@
 **LXX Psalm 139:8** 
 <small><sub>**LXX:**</sub></small>
 If I should ascend into the heaven, you are there; if I should go down into  Hades, you are at hand. 
-<small><sub>**KJV:**</sub></small>
-If I ascend up into heaven, thou [art] there: if I make my bed in hell, behold, thou [art there].
-<small><sub>**BSB:**</sub></small>
-If I ascend to the heavens, You are there; if I make my bed in Sheol, You are there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.7|<< Psalm 139:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.9|Psalm 139:9 >>]]</td></tr></table>
 
 | Translation | Greek |

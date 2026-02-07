@@ -1,5 +1,5 @@
-**Luke 2:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:34**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Simeon blessed them, and said unto Mary his mother, Behold, this [child] is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;
 <small><sub>**BSB:**</sub></small>
 Then Simeon blessed them and said to His mother Mary: “Behold, this Child is appointed to cause the rise and fall of many in Israel, and to be a sign that will be spoken against,
@@ -10,7 +10,7 @@ And blessed them Simeon and said to Mary the mother of Him: Behold this [Child] 
 > $\quad$ alluding to: [[LXX.Isa.8.14|Isa 8:14-15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | blessed |**<big>[[G2127\|εὐλόγησεν]]</big>**  |eulogēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

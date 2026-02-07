@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:13** 
 <small><sub>**LXX:**</sub></small>
 And she spoke in  her heart, and  her lips moved, but her voice was not heard. And Eli considered her to be intoxicated. 
-<small><sub>**KJV:**</sub></small>
-Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.
-<small><sub>**BSB:**</sub></small>
-Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.12|<< 1 Samuel 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.14|1 Samuel 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

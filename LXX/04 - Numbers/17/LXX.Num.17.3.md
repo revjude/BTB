@@ -1,10 +1,7 @@
 **LXX Numbers 17:3** 
 <small><sub>**LXX:**</sub></small>
 And the name of Aaron you shall inscribe upon the rod of Levi. For it is one rod according to \[the\] tribe of \[the\] house of their patrimony. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt write Aaron’s name upon the rod of Levi: for one rod [shall be] for the head of the house of their fathers.
-<small><sub>**BSB:**</sub></small>
-and write Aaron’s name on the staff of Levi, because there must be one staff for the head of each tribe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.2|<< Numbers 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.4|Numbers 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

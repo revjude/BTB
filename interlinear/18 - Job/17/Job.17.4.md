@@ -1,4 +1,4 @@
-**Job 17:4** 
+**Job 17:4**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast hid their heart from understanding: therefore shalt thou not exalt [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have closed their minds to understanding; therefore You will not exalt them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.3|<< Job 17:3]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.5|Job 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart their  |**<big>&#8207;[[H3820A\|לִ֭בָּ]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| Li.bo<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

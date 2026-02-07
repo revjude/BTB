@@ -1,12 +1,12 @@
-**John 20:15
-**<small><sub>**KJV:**</sub></small>
+**John 20:15**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.
 <small><sub>**BSB:**</sub></small>
 “Woman, why are you weeping?” Jesus asked. “Whom are you seeking?” Thinking He was the gardener, she said, “Sir, if you have carried Him off, tell me where you have put Him, and I will get Him.”
 <small><sub>**Literal:**</sub></small>
 Says to her <the> Jesus; Woman, why do you weep? Whom do you seek? She thinking that the gardener He is she says to Him; Sir, if you yourself carried off him, do tell me where you have laid Him, and I myself him will take away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.14|<< John 20:14]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.16|John 20:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to her |**<big>[[G0846\|αὐτῇ]]</big>**  |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

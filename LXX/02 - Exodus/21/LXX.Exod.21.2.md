@@ -1,10 +1,7 @@
 **LXX Exodus 21:2** 
 <small><sub>**LXX:**</sub></small>
 If you should acquire a Hebrew servant, he shall serve to you six years, but the seventh year you shall send \[him\] free without charge. 
-<small><sub>**KJV:**</sub></small>
-If thou buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.
-<small><sub>**BSB:**</sub></small>
-If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free without paying anything.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.1|<< Exodus 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.3|Exodus 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

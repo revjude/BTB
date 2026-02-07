@@ -1,4 +1,4 @@
-**Genesis 42:15** 
+**Genesis 42:15**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And this is how you will be tested: As surely as Pharaoh lives, you shall not le
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.14|<< Genesis 42:14]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.16|Genesis 42:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by this  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2063\|זֹ֖את]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be tested  |**<big>&#8207;[[H0974\|תִּבָּחֵ֑נוּ]]&#8207; </big>**| ti.ba.Che.nu<small><sup>[[HVNi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

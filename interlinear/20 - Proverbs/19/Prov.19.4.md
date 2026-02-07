@@ -1,4 +1,4 @@
-**Proverbs 19:4** 
+**Proverbs 19:4**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wealth maketh many friends; but the poor is separated from his neighbour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wealth attracts many friends, but a poor man is deserted by his friend.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.3|<< Proverbs 19:3]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.5|Proverbs 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wealth  |**<big>&#8207;[[H1952\|ה֗וֹן]]&#8207; </big>**| Hon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it adds  |**<big>&#8207;[[H3254H\|יֹ֭סִיף]]&#8207; </big>**| Yo.sif<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

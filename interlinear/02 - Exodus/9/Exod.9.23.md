@@ -1,4 +1,4 @@
-**Exodus 9:23** 
+**Exodus 9:23**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses stretched forth his rod toward heaven: and the LORD sent thunder and hail, and the fire ran along upon the ground; and the LORD rained hail upon the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Moses stretched out his staff toward heaven, and the LORD sent thunder and ha
 > $\quad$ referenced by: [[Rev.8.7|Rev 8:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stretched out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5186\|יֵּ֨ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yet<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֣ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

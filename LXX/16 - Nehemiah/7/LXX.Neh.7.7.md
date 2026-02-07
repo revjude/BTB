@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:7** 
 <small><sub>**LXX:**</sub></small>
 the ones coming with Zerubbabel, and Jeshua, and Nehemiah, Azariah, and Raamiah, Nahamani, Mordecai, Bilshan, Mispereth Bigvai, Nehum, Baana and Masphar; \[the\] men of \[the\] people of Israel -- 
-<small><sub>**KJV:**</sub></small>
-Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, [I say], of the men of the people of Israel [was this];
-<small><sub>**BSB:**</sub></small>
-accompanied by Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah. This is the count of the men of Israel:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.6|<< Nehemiah 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.8|Nehemiah 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

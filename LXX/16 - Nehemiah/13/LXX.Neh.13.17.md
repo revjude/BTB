@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:17** 
 <small><sub>**LXX:**</sub></small>
 And I quarreled with the free \[men\] of Judah, and I said to them, What \[is\]  this wicked matter which you do, and profane the day of the Sabbath? 
-<small><sub>**KJV:**</sub></small>
-Then I contended with the nobles of Judah, and said unto them, What evil thing [is] this that ye do, and profane the sabbath day?
-<small><sub>**BSB:**</sub></small>
-Then I rebuked the nobles of Judah and asked, “What is this evil you are doing—profaning the Sabbath day?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.16|<< Nehemiah 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.18|Nehemiah 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

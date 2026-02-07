@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:12** 
 <small><sub>**LXX:**</sub></small>
 And after the rumbling a fire; \[but the\] <span class="smallcaps">lord</span> \[was\] not in the fire. And after the fire a sound of a fine breeze -- there \[was\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And after the earthquake a fire; [but] the LORD [was] not in the fire: and after the fire a still small voice.
-<small><sub>**BSB:**</sub></small>
-After the earthquake there was a fire, but the LORD was not in the fire. And after the fire came a still, small voice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.11|<< 1 Kings 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.13|1 Kings 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

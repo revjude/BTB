@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:7** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Saul was a concubine, and \[the\] name to her \[was\] Rizpah, daughter of Aiah. And Ishbosheth son of Saul said to Abner, Why \[is it\] that you enter to the concubine  of my father? 
-<small><sub>**KJV:**</sub></small>
-And Saul had a concubine, whose name [was] Rizpah, the daughter of Aiah: and [Ishbosheth] said to Abner, Wherefore hast thou gone in unto my father’s concubine?
-<small><sub>**BSB:**</sub></small>
-Now Saul had a concubine named Rizpah, the daughter of Aiah. So Ish-bosheth questioned Abner, “Why did you sleep with my father’s concubine?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.6|<< 2 Samuel 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.8|2 Samuel 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

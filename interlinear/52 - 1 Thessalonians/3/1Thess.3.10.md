@@ -1,12 +1,12 @@
-**1 Thessalonians 3:10
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 3:10**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?
 <small><sub>**BSB:**</sub></small>
 Night and day we pray most earnestly that we may see you face to face and supply what is lacking in your faith.
 <small><sub>**Literal:**</sub></small>
 by night and day super overexcessively imploring for [us] <the> to see your <the> face and to supply the [things] lacking in the faith of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.9|<< 1 Thessalonians 3:9]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.11|1 Thessalonians 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by night |**<big>[[G3571\|νυκτὸς]]</big>**  |nuktos <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

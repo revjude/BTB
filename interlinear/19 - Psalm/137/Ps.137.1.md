@@ -1,4 +1,4 @@
-**Psalms 137:1** 
+**Psalms 137:1**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By the rivers of Babylon we sat and wept when we remembered Zion.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.26|<< Psalms 136:26]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.2|Psalms 137:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at  |**<big>&#8207;[[H5921A\|עַ֥ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] rivers of  |**<big>&#8207;[[H5104H\|נַהֲר֨וֹת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| na.ha.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

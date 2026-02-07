@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:22** 
 <small><sub>**LXX:**</sub></small>
 They shall enter into Babylon, and there they shall be until the day  of their visitation, and I will lead them and I will return them into  this place. 
-<small><sub>**KJV:**</sub></small>
-They shall be carried to Babylon, and there shall they be until the day that I visit them, saith the LORD; then will I bring them up, and restore them to this place.
-<small><sub>**BSB:**</sub></small>
-‘They will be carried to Babylon and will remain there until the day I attend to them again,’ declares the LORD. ‘Then I will bring them back and restore them to this place.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.21|<< Jeremiah 27:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.1|Jeremiah 28:1 >>]]</td></tr></table>
 
 | Translation | Greek |

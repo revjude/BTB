@@ -1,4 +1,4 @@
-**Psalms 4:6** (4:7)
+**Psalms 4:6**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There be] many that say, Who will shew us [any] good? LORD, lift thou up the light of thy countenance upon us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many ask, “Who can show us the good?” Shine the light of Your face upon us, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.5|<< Psalms 4:5]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.7|Psalms 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | many [people]  |**<big>&#8207;[[H7227A\|רַבִּ֥ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] saying  |**<big>&#8207;[[H0559\|אֹמְרִים֮]]&#8207; </big>**| 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

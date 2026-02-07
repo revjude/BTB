@@ -1,12 +1,12 @@
-**John 6:47
-**<small><sub>**KJV:**</sub></small>
+**John 6:47**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, He that believeth on me hath everlasting life.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, he who believes has eternal life.
 <small><sub>**Literal:**</sub></small>
 Amen Amen I say to you; the [one] believing into me myself has life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.46|<< John 6:46]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.48|John 6:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|Ἀμὴν]]</big>**  |Amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

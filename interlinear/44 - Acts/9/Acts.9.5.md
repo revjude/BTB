@@ -1,12 +1,12 @@
-**Acts 9:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:5**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: [it is] hard for thee to kick against the pricks.
 <small><sub>**BSB:**</sub></small>
 “Who are You, Lord?” Saul asked. “I am Jesus, whom you are persecuting,” He replied.
 <small><sub>**Literal:**</sub></small>
 He said then; Who are You, Lord? <the> And [He said] Lord said: I myself am Jesus whom you yourself are persecuting hard to you to stingers to kick;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.4|<< Acts 9:4]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.6|Acts 9:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then; |**<big>[[G1161\|δέ·]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

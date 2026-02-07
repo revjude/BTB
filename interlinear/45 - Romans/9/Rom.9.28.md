@@ -1,5 +1,5 @@
-**Romans 9:28
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:28**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he will finish the work, and cut [it] short in righteousness: because a short work will the Lord make upon the earth.
 <small><sub>**BSB:**</sub></small>
 For the Lord will carry out His sentence on the earth thoroughly and decisively.”
@@ -10,7 +10,7 @@ For the Lord will carry out His sentence on the earth thoroughly and decisively.
 > $\quad$ referencing: [[LXX.Isa.10.22|Isa 10:22-23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] sentence |**<big>[[G3056\|λόγον]]</big>**  |logon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

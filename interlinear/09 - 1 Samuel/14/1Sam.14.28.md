@@ -1,4 +1,4 @@
-**1 Samuel 14:28** 
+**1 Samuel 14:28**<big><big>[[1Sam.14.24 Jonathan Eats the Honey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered one of the people, and said, Thy father straitly charged the people with an oath, saying, Cursed [be] the man that eateth [any] food this day. And the people were faint.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then one of the soldiers told him, “Your father bound the troops with a solemn
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.27|<< 1 Samuel 14:27]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.29|1 Samuel 14:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּעַן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'An<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0376G\|אִ֨ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

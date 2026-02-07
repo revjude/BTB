@@ -1,12 +1,12 @@
-**John 8:33
-**<small><sub>**KJV:**</sub></small>
+**John 8:33**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?
 <small><sub>**BSB:**</sub></small>
 “We are Abraham’s descendants,” they answered. “We have never been slaves to anyone. How can You say we will be set free?”
 <small><sub>**Literal:**</sub></small>
 They answered unto Him; Seed of Abraham we are and to no [one] have we been under bondage ever; How You yourself say that Free you will become’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.32|<< John 8:32]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.34|John 8:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They answered |**<big>[[G0611\|ἀπεκρίθησαν]]</big>**  |apekrithēsan <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | unto |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 18:14** 
 <small><sub>**LXX:**</sub></small>
  For these nations which you inherit them, these shall hear prognostications and divinations; but to you \[the\] <span class="smallcaps">lord</span> your God did not so give. 
-<small><sub>**KJV:**</sub></small>
-For these nations, which thou shalt possess, hearkened unto observers of times, and unto diviners: but as for thee, the LORD thy God hath not suffered thee so [to do].
-<small><sub>**BSB:**</sub></small>
-Though these nations, which you will dispossess, listen to conjurers and diviners, the LORD your God has not permitted you to do so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.13|<< Deuteronomy 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.15|Deuteronomy 18:15 >>]]</td></tr></table>
 
 | Translation | Greek |

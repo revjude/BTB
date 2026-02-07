@@ -1,4 +1,4 @@
-**Jeremiah 25:36** 
+**Jeremiah 25:36**<big><big>[[Jer.25.34 The Cry of the Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A voice of the cry of the shepherds, and an howling of the principal of the flock, [shall be heard]: for the LORD hath spoiled their pasture.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear the cry of the shepherds, the wailing of the leaders of the flock, for the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.35|<< Jeremiah 25:35]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.37|Jeremiah 25:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sound of  |**<big>&#8207;[[H6963A\|ק֚וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] cry of distress of  |**<big>&#8207;[[H6818\|צַעֲקַ֣ת]]&#8207; </big>**| tza.'a.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

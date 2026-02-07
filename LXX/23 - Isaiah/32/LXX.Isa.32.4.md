@@ -1,10 +1,7 @@
 **LXX Isaiah 32:4** 
 <small><sub>**LXX:**</sub></small>
 And  the heart of the ones being weak shall take heed  to hear; and the tongues stuttering, quickly they shall learn to speak peace. 
-<small><sub>**KJV:**</sub></small>
-The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.
-<small><sub>**BSB:**</sub></small>
-The mind of the rash will know and understand, and the stammering tongue will speak clearly and fluently.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.3|<< Isaiah 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.5|Isaiah 32:5 >>]]</td></tr></table>
 
 | Translation | Greek |

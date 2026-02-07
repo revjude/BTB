@@ -1,4 +1,4 @@
-**1 Chronicles 16:33** 
+**1 Chronicles 16:33**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the trees of the wood sing out at the presence of the LORD, because he cometh to judge the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the trees of the forest will sing for joy before the LORD, for He is coming
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.32|<< 1 Chronicles 16:32]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.34|1 Chronicles 16:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֥ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will shout for joy  |**<big>&#8207;[[H7442B\|יְרַנְּנ֖וּ]]&#8207; </big>**| ye.ra.ne.Nu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezra 5:10** 
 <small><sub>**LXX:**</sub></small>
 And  we asked of them their names,  to make known to you, so as to write to you the names of the men of their rulers. 
-<small><sub>**KJV:**</sub></small>
-We asked their names also, to certify thee, that we might write the names of the men that [were] the chief of them.
-<small><sub>**BSB:**</sub></small>
-We also asked for their names, so that we could write down the names of their leaders for your information.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.9|<< Ezra 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.11|Ezra 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

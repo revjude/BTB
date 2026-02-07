@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Deborah and Barak son of Abinoam sang in  that day, and said, 
-<small><sub>**KJV:**</sub></small>
-Then sang Deborah and Barak the son of Abinoam on that day, saying,
-<small><sub>**BSB:**</sub></small>
-On that day Deborah and Barak son of Abinoam sang this song:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.24|<< Judges 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.2|Judges 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

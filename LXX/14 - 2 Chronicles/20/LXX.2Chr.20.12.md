@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:12** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  our God, will you not judge  them? For there is not to us strength  to oppose against  this vast multitude  coming against us. And we do not know what we should do, but our eyes \[are\] unto you. 
-<small><sub>**KJV:**</sub></small>
-O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes [are] upon thee.
-<small><sub>**BSB:**</sub></small>
-Our God, will You not judge them? For we are powerless before this vast army that comes against us. We do not know what to do, but our eyes are upon You.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.11|<< 2 Chronicles 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.13|2 Chronicles 20:13 >>]]</td></tr></table>
 
 | Translation | Greek |

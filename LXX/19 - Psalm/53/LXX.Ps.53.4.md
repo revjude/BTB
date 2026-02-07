@@ -1,10 +1,7 @@
 **LXX Psalm 53:4** 
 <small><sub>**LXX:**</sub></small>
 all the ones working lawlessness not know, the ones eating up  my people for solid food of bread?  They did not call upon \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Have the workers of iniquity no knowledge? who eat up my people [as] they eat bread: they have not called upon God.
-<small><sub>**BSB:**</sub></small>
-Will the workers of iniquity never learn? They devour my people like bread; they refuse to call upon God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.53.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.53.3|<< Psalm 53:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.53.5|Psalm 53:5 >>]]</td></tr></table>
 
 | Translation | Greek |

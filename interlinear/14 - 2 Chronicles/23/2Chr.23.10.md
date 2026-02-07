@@ -1,4 +1,4 @@
-**2 Chronicles 23:10** 
+**2 Chronicles 23:10**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He stationed all the troops, with their weapons in hand, surrounding the king by
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.9|<< 2 Chronicles 23:9]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.11|2 Chronicles 23:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stationed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975H\|יַּעֲמֵ֨ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 16:27** 
+**Numbers 16:27**<big><big>[[Num.16.23 Moses Separates the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they moved away from the dwellings of Korah, Dathan, and Abiram. Meanwhile, D
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.26|<< Numbers 16:26]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.28|Numbers 16:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took themselves up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יֵּעָל֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'a.Lu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from at  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֧ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

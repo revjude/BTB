@@ -1,10 +1,7 @@
 **LXX Numbers 3:13** 
 <small><sub>**LXX:**</sub></small>
 For every first-born is mine. In which day I struck all \[the\] first-born in \[the\] land of Egypt, I sanctified to myself every first-born in Israel; from man unto beast they shall be mine. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Because all the firstborn [are] mine; [for] on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-for all the firstborn are Mine. On the day I struck down every firstborn in the land of Egypt, I consecrated to Myself all the firstborn in Israel, both man and beast. They are Mine; I am the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.12|<< Numbers 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.14|Numbers 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

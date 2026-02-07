@@ -1,4 +1,4 @@
-**Genesis 4:4** 
+**Genesis 4:4**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ while Abel brought the best portions of the firstborn of his flock. And the LORD
 > $\quad$ referenced by: [[Heb.11.4|Heb 11:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1893\|הֶ֨בֶל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> He.vel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he brought  |**<big>&#8207;[[H0935P\|הֵבִ֥יא]]&#8207; </big>**| he.Vi'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

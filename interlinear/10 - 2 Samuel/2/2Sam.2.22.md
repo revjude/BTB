@@ -1,4 +1,4 @@
-**2 Samuel 2:22** 
+**2 Samuel 2:22**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abner said again to Asahel, Turn thee aside from following me: wherefore should I smite thee to the ground? how then should I hold up my face to Joab thy brother?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once again, Abner warned Asahel, “Stop chasing me. Why should I strike you to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.21|<< 2 Samuel 2:21]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.23|2 Samuel 2:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יֹּ֧סֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.sef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֣וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

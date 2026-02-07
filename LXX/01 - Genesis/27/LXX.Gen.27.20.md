@@ -1,10 +1,7 @@
 **LXX Genesis 27:20** 
 <small><sub>**LXX:**</sub></small>
 And Isaac said  to his son, What is this which \[so\] quickly you found, O child?  And he said, \[that\] which \[the\] <span class="smallcaps">lord</span> your God delivered up before me. 
-<small><sub>**KJV:**</sub></small>
-And Isaac said unto his son, How [is it] that thou hast found [it] so quickly, my son? And he said, Because the LORD thy God brought [it] to me.
-<small><sub>**BSB:**</sub></small>
-But Isaac asked his son, “How did you ever find it so quickly, my son?” “Because the LORD your God brought it to me,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.19|<< Genesis 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.21|Genesis 27:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 22:6** 
+**2 Kings 22:6**<big><big>[[2Kgs.22.3 Funding the Temple Repairs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to the carpenters, builders, and masons—to buy timber and dressed stone to rep
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.5|<< 2 Kings 22:5]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.7|2 Kings 22:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the craftsmen  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H2796\|חָ֣רָשִׁ֔ים]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Cha.ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to the builders  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1129\|בֹּנִ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> bo.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

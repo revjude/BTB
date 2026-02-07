@@ -1,4 +1,4 @@
-**2 Chronicles 17:7** 
+**2 Chronicles 17:7**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in the third year of his reign he sent to his princes, [even] to Benhail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the third year of his reign, Jehoshaphat sent his officials Ben-hail, Obadiah
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.6|<< 2 Chronicles 17:6]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.8|2 Chronicles 17:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in year  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8141\|שְׁנַ֨ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שָׁל֜וֹשׁ]]&#8207; </big>**| sha.Lo.osh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

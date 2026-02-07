@@ -1,5 +1,5 @@
-**Matthew 26:64
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:64**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto him, Thou hast said: nevertheless I say unto you, Hereafter shall ye see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
 <small><sub>**BSB:**</sub></small>
 “You have said it yourself,” Jesus answered. “But I say to all of you, from now on you will see the Son of Man sitting at the right hand of Power and coming on the clouds of heaven.”
@@ -10,7 +10,7 @@ Says to him <the> Jesus; You yourself have said. But I say to you; from now you 
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]] ☩ [[LXX.Dan.7.13|Dan 7:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Job 10:15** 
+**Job 10:15**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I be wicked, woe unto me; and [if] I be righteous, [yet] will I not lift up my head. [I am] full of confusion; therefore see thou mine affliction;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I am guilty, woe to me! And even if I am righteous, I cannot lift my head. I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.14|<< Job 10:14]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.16|Job 10:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I am guilty  |**<big>&#8207;[[H7561\|רָשַׁ֡עְתִּי]]&#8207; </big>**| ra.Sha'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

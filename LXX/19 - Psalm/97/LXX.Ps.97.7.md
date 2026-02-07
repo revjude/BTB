@@ -1,10 +1,7 @@
 **LXX Psalm 97:7** 
 <small><sub>**LXX:**</sub></small>
 All the ones doing obeisance to the carvings were shamed; the ones boasting in  their idols. all his angels do obeisance to him! 
-<small><sub>**KJV:**</sub></small>
-Confounded be all they that serve graven images, that boast themselves of idols: worship him, all [ye] gods.
-<small><sub>**BSB:**</sub></small>
-All worshipers of images are put to shame—those who boast in idols. Worship Him, all you gods!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.97.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.6|<< Psalm 97:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.8|Psalm 97:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 97:7** is...

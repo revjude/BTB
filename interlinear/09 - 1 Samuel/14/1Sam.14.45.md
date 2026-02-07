@@ -1,4 +1,4 @@
-**1 Samuel 14:45** 
+**1 Samuel 14:45**<big><big>[[1Sam.14.37 The People Save Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people said unto Saul, Shall Jonathan die, who hath wrought this great salvation in Israel? God forbid: [as] the LORD liveth, there shall not one hair of his head fall to the ground; for he hath wrought with God this day. So the people rescued Jonathan, that he died not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the people said to Saul, “Must Jonathan die—he who accomplished such a g
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.44|<< 1 Samuel 14:44]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.46|1 Samuel 14:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֜ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

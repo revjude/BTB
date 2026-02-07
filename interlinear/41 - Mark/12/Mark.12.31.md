@@ -1,5 +1,5 @@
-**Mark 12:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:31**<big><big>[[Mark.12.28 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the second [is] like, [namely] this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these.
 <small><sub>**BSB:**</sub></small>
 The second is this: ‘Love your neighbor as yourself.’ No other commandment is greater than these.”
@@ -10,7 +10,7 @@ and [The] second like this: You will love the neighbour of you as yourself.’ G
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Tyn+TR+Byz">ko</abbr> | |
 | [The] second |**<big>[[G1208\|δευτέρα]]</big>**  |deutera <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

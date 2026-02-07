@@ -1,12 +1,12 @@
-**Luke 20:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:35**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:
 <small><sub>**BSB:**</sub></small>
 But those who are considered worthy to share in the age to come and in the resurrection from the dead will neither marry nor be given in marriage.
 <small><sub>**Literal:**</sub></small>
 those however having been considered worthy of the age that [one] to obtain and of the resurrection <the> from [the] dead neither marry nor are given in marriage;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.34|<< Luke 20:34]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.36|Luke 20:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

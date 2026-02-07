@@ -1,4 +1,4 @@
-**Genesis 10:9** 
+**Genesis 10:9**<big><big>[[Gen.10.6 The Hamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He was a mighty hunter before the LORD; so it is said, “Like Nimrod, a mighty 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.8|<< Genesis 10:8]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.10|Genesis 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was  |**<big>&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

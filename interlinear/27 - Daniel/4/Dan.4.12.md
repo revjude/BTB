@@ -1,4 +1,4 @@
-**Daniel 4:12** (4:9)
+**Daniel 4:12**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The leaves thereof [were] fair, and the fruit thereof much, and in it [was] meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Its leaves were beautiful, its fruit was abundant, and upon it was food for all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.11|<< Daniel 4:11]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.13|Daniel 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | foliage its  |**<big>&#8207;[[H6074\|עָפְיֵ֤]]&#8207;&#8207;[[H9023\|הּ]]&#8207; </big>**| 'a.fe.Ye<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] beautiful  |**<big>&#8207;[[H8209\|שַׁפִּיר֙]]&#8207; </big>**| sha.Pir<small><sup>[[AAabsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

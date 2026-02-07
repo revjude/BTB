@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:6** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Ahijah heard the sound of her feet of her entering in the passage, that he said, Enter, O wife of Jeroboam! why \[is\] this you are as a stranger, and I am a harsh envoy to you? 
-<small><sub>**KJV:**</sub></small>
-And it was [so], when Ahijah heard the sound of her feet, as she came in at the door, that he said, Come in, thou wife of Jeroboam; why feignest thou thyself [to be] another? for I [am] sent to thee [with] heavy [tidings].
-<small><sub>**BSB:**</sub></small>
-So when Ahijah heard the sound of her feet entering the door, he said, “Come in, wife of Jeroboam! Why are you disguised? For I have been sent to you with bad news.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.5|<< 1 Kings 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.7|1 Kings 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

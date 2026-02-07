@@ -1,4 +1,4 @@
-**Psalms 12:7** (12:8)
+**Psalms 12:7**<big><big>[[Ps.12.1 The Godly Are No More|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You, O LORD, will keep us; You will forever guard us from this generation.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.6|<< Psalms 12:6]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.8|Psalms 12:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.tah-<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

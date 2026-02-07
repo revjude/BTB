@@ -1,12 +1,12 @@
-**1 Timothy 1:8
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:8**<big><big>[[1Tim.1.3 Correcting False Teachers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we know that the law [is] good, if a man use it lawfully;
 <small><sub>**BSB:**</sub></small>
 Now we know that the law is good, if one uses it legitimately.
 <small><sub>**Literal:**</sub></small>
 We know now that good [is] the law if one it lawfully shall use,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.7|<< 1 Timothy 1:7]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.9|1 Timothy 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|Οἴδαμεν]]</big>**  |Oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

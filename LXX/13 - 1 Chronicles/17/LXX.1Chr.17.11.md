@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:11** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever your days should be filled  to go with  your fathers, that I will raise up  your seed after you, who will be from  your belly, and I will prepare  his kingdom. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when thy days be expired that thou must go [to be] with thy fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom.
-<small><sub>**BSB:**</sub></small>
-And when your days are fulfilled and you go to be with your fathers, I will raise up your descendant after you, one of your own sons, and I will establish his kingdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.10|<< 1 Chronicles 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.12|1 Chronicles 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

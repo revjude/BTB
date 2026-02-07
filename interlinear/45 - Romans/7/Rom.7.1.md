@@ -1,12 +1,12 @@
-**Romans 7:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:1**<big><big>[[Rom.7.1 Release from the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
 <small><sub>**BSB:**</sub></small>
 Do you not know, brothers (for I am speaking to those who know the law), that the law has authority over a man only as long as he lives?
 <small><sub>**Literal:**</sub></small>
 Or are you ignorant, brothers — to those knowing for law I speak — that the law rules over the man for as long as [the] time he is alive?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.23|<< Romans 6:23]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.2|Romans 7:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|Ἢ]]</big>**  |Ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are you ignorant, |**<big>[[G0050\|ἀγνοεῖτε,]]</big>**  |agnoeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

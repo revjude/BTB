@@ -1,10 +1,7 @@
 **LXX Joel 2:10** 
 <small><sub>**LXX:**</sub></small>
 Before his face the earth shall be confounded, and the heaven shall be shaken; the sun and the moon shall darken, and the stars shall let down their brightness. 
-<small><sub>**KJV:**</sub></small>
-The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:
-<small><sub>**BSB:**</sub></small>
-Before them the earth quakes; the heavens tremble. The sun and moon grow dark, and the stars lose their brightness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.9|<< Joel 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.11|Joel 2:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 2:10** is...

@@ -1,5 +1,5 @@
-**Luke 4:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:25**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I tell you of a truth, many widows were in Israel in the days of Elias, when the heaven was shut up three years and six months, when great famine was throughout all the land;
 <small><sub>**BSB:**</sub></small>
 But I tell you truthfully that there were many widows in Israel in the time of Elijah, when the sky was shut for three and a half years and great famine swept over all the land.
@@ -10,7 +10,7 @@ In truth now I say to you; many widows there were in the days of Elijah in <the>
 > $\quad$ alluding to: [[LXX.1Kgs.17.1|1Kgs 17:1]] ☩ [[LXX.1Kgs.17.9|1Kgs 17:9]] ☩ [[LXX.1Kgs.18.1|1Kgs 18:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1909\|ἐπ᾽]]</big>**  |ep᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | truth |**<big>[[G0225\|ἀληθείας]]</big>**  |alētheias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

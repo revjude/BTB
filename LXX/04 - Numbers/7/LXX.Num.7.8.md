@@ -1,10 +1,7 @@
 **LXX Numbers 7:8** 
 <small><sub>**LXX:**</sub></small>
 And the four wagons and the eight oxen he gave to the sons of Merari for  their ministrations, by Ithamar son of Aaron the priest. 
-<small><sub>**KJV:**</sub></small>
-And four wagons and eight oxen he gave unto the sons of Merari, according unto their service, under the hand of Ithamar the son of Aaron the priest.
-<small><sub>**BSB:**</sub></small>
-and he gave the Merarites four carts and eight oxen, as their service required, all under the direction of Ithamar son of Aaron the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.7|<< Numbers 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.9|Numbers 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

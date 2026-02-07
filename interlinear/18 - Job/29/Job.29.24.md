@@ -1,4 +1,4 @@
-**Job 29:24** 
+**Job 29:24**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] I laughed on them, they believed [it] not; and the light of my countenance they cast not down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I smiled at them, they did not believe it; the light of my countenance was pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.23|<< Job 29:23]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.25|Job 29:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I laughed  |**<big>&#8207;[[H7832\|אֶשְׂחַ֣ק]]&#8207; </big>**| 'es.Chak<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H0413\|אֲ֭לֵ]]&#8207;&#8207;[[H9038\|הֶם]]&#8207; </big>**| 'A.le.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

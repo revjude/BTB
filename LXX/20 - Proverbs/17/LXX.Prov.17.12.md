@@ -1,10 +1,7 @@
 **LXX Proverbs 17:12** 
 <small><sub>**LXX:**</sub></small>
 Anxiety shall fall unto an intelligent man; but the fools shall argue evil \[things\]. 
-<small><sub>**KJV:**</sub></small>
-Let a bear robbed of her whelps meet a man, rather than a fool in his folly.
-<small><sub>**BSB:**</sub></small>
-It is better to meet a bear robbed of her cubs than a fool in his folly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.11|<< Proverbs 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.13|Proverbs 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

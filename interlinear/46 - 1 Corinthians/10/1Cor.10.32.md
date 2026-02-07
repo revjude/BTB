@@ -1,12 +1,12 @@
-**1 Corinthians 10:32
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:32**<big><big>[[1Cor.10.23 All to God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:
 <small><sub>**BSB:**</sub></small>
 Do not become a stumbling block, whether to Jews or Greeks or the church of God—
 <small><sub>**Literal:**</sub></small>
 Without offense both to Jews do you be and to Greeks and to the church <the> of God —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.31|<< 1 Corinthians 10:31]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.33|1 Corinthians 10:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Without offense |**<big>[[G0677\|ἀπρόσκοποι]]</big>**  |aproskopoi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | both |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

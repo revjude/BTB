@@ -1,12 +1,12 @@
-**Luke 8:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:21**<big><big>[[Luke.8.19 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.
 <small><sub>**BSB:**</sub></small>
 But He replied, “My mother and brothers are those who hear the word of God and carry it out.”
 <small><sub>**Literal:**</sub></small>
 <the> But answering He said to them; Mother of Mine and brothers of mine those are who the word <the> of God are hearing and doing it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.20|<< Luke 8:20]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.22|Luke 8:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**John 6:45
-**<small><sub>**KJV:**</sub></small>
+**John 6:45**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.
 <small><sub>**BSB:**</sub></small>
 It is written in the Prophets: ‘And they will all be taught by God.’ Everyone who has heard the Father and learned from Him comes to Me—
@@ -11,7 +11,7 @@ It is written in the prophets: And they will be all taught <the> of God.’ Ever
 > $\quad$ alluding to: [[LXX.Jer.31.33|Jer 31:33-34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It is |**<big>[[G1510\|ἔστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | written |**<big>[[G1125\|γεγραμμένον]]</big>**  |gegrammenon <small><sup>[[V-RPP-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

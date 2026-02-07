@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:19** 
 <small><sub>**LXX:**</sub></small>
 And a woman took and opened and spread out  a covering over the mouth of the cistern. And she cooled dried clusters upon it, and they did not know the thing. 
-<small><sub>**KJV:**</sub></small>
-And the woman took and spread a covering over the well’s mouth, and spread ground corn thereon; and the thing was not known.
-<small><sub>**BSB:**</sub></small>
-Then the man’s wife took a covering, spread it over the mouth of the well, and scattered grain over it so nobody would know a thing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.18|<< 2 Samuel 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.20|2 Samuel 17:20 >>]]</td></tr></table>
 
 | Translation | Greek |

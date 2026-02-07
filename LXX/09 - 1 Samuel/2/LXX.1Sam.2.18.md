@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samuel was officiating in the presence of \[the\] <span class="smallcaps">lord</span>, a boy being girded with a linen ephod. 
-<small><sub>**KJV:**</sub></small>
-But Samuel ministered before the LORD, [being] a child, girded with a linen ephod.
-<small><sub>**BSB:**</sub></small>
-Now Samuel was ministering before the LORD—a boy wearing a linen ephod.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.17|<< 1 Samuel 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.19|1 Samuel 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

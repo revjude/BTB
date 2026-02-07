@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:17** 
 <small><sub>**LXX:**</sub></small>
 O son of man, I have appointed you watchman to the house of Israel, and you shall hear \[the\] word from out of my mouth; and you shall threaten them by me. 
-<small><sub>**KJV:**</sub></small>
-Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.
-<small><sub>**BSB:**</sub></small>
-“Son of man, I have made you a watchman for the house of Israel. Whenever you hear a word from My mouth, give them a warning from Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.16|<< Ezekiel 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.18|Ezekiel 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

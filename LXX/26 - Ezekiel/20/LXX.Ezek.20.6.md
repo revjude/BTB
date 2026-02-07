@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:6** 
 <small><sub>**LXX:**</sub></small>
 In that  day I took hold of them  by my hand,  to lead them from out of \[the\] land of Egypt, into the land which I prepared for them; a land flowing milk and honey, \[the\] honeycomb is beyond every  land. 
-<small><sub>**KJV:**</sub></small>
-In the day [that] I lifted up mine hand unto them, to bring them forth of the land of Egypt into a land that I had espied for them, flowing with milk and honey, which [is] the glory of all lands:
-<small><sub>**BSB:**</sub></small>
-On that day I swore to bring them out of the land of Egypt into a land that I had searched out for them, a land flowing with milk and honey, the glory of all lands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.5|<< Ezekiel 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.7|Ezekiel 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

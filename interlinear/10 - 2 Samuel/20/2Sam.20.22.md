@@ -1,4 +1,4 @@
-**2 Samuel 20:22** 
+**2 Samuel 20:22**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the woman went unto all the people in her wisdom. And they cut off the head of Sheba the son of Bichri, and cast [it] out to Joab. And he blew a trumpet, and they retired from the city, every man to his tent. And Joab returned to Jerusalem unto the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the woman went to all the people with her wise counsel, and they cut off th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.21|<< 2 Samuel 20:21]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.23|2 Samuel 20:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּבוֹא֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the woman  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֨ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

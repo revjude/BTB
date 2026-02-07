@@ -1,10 +1,7 @@
 **LXX Song of Solomon 6:9** 
 <small><sub>**LXX:**</sub></small>
 My dove is one, my perfect one. She is \[the only\] one \[to\] her mother; \[the\] choice one is to the one giving birth to her. \[The\] daughters beheld her, and queens will declare her blessed, and indeed \[the\] concubines also shall praise her. 
-<small><sub>**KJV:**</sub></small>
-My dove, my undefiled is [but] one; she [is] the [only] one of her mother, she [is] the choice [one] of her that bare her. The daughters saw her, and blessed her; [yea], the queens and the concubines, and they praised her.
-<small><sub>**BSB:**</sub></small>
-but my dove, my perfect one, is unique, the favorite of the mother who bore her. The maidens see her and call her blessed; the queens and concubines sing her praises.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.8|<< Song of Solomon 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.10|Song of Solomon 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 2:12** 
+**Joshua 2:12**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, I pray you, swear unto me by the LORD, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now therefore, please swear to me by the LORD that you will indeed show kindness
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.11|<< Joshua 2:11]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.13|Joshua 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | swear  |**<big>&#8207;[[H7650\|הִשָּֽׁבְעוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.sha.ve.'u-<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

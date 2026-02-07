@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:6** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, A man ascended to meet us, and he said to us, Go, return to the king, the one sending you, and say to him! Thus says \[the\] <span class="smallcaps">lord</span>, Is it because  there is no God in Israel you go to seek anxiously by  Baal \[the\] fly god of Ekron? On account of this, the bed upon which you ascended upon it, you shall not go from it, for to death you shall die. 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, [Is it] not because [there is] not a God in Israel, [that] thou sendest to inquire of Baalzebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die.
-<small><sub>**BSB:**</sub></small>
-They replied, “A man came up to meet us and said, ‘Go back to the king who sent you and tell him that this is what the LORD says: Is it because there is no God in Israel that you are sending these men to inquire of Baal-zebub, the god of Ekron? Therefore you will not get up from the bed on which you are lying. You will surely die.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.5|<< 2 Kings 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.7|2 Kings 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

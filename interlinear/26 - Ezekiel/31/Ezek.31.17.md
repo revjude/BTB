@@ -1,4 +1,4 @@
-**Ezekiel 31:17** 
+**Ezekiel 31:17**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They also went down into hell with him unto [them that be] slain with the sword; and [they that were] his arm, [that] dwelt under his shadow in the midst of the heathen.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They too descended with it to Sheol, to those slain by the sword. As its allies 
 > $\quad$ related to: [[Isa.14.8|Isa 14:8-9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֗ם]]&#8207; </big>**| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

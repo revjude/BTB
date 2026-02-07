@@ -1,5 +1,5 @@
-**1 John 3:5
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:5**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye know that he was manifested to take away our sins; and in him is no sin.
 <small><sub>**BSB:**</sub></small>
 But you know that Christ appeared to take away sins, and in Him there is no sin.
@@ -10,7 +10,7 @@ And you know that He appeared so that the sins of us He may take away, and sin i
 > $\quad$ possibly alluding to: [[LXX.Isa.53.4|Isa 53:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you know |**<big>[[G6063\|οἴδατε]]</big>**  |oidate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

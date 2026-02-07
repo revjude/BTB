@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:18** 
 <small><sub>**LXX:**</sub></small>
  But \[if\] his father by affliction afflicted, and by seizure seized by force, and did contrary in \[the\] midst  of his people, then he shall die in  his iniquity. 
-<small><sub>**KJV:**</sub></small>
-[As for] his father, because he cruelly oppressed, spoiled his brother by violence, and did [that] which [is] not good among his people, lo, even he shall die in his iniquity.
-<small><sub>**BSB:**</sub></small>
-As for his father, he will die for his own iniquity, because he practiced extortion, robbed his brother, and did what was wrong among his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.17|<< Ezekiel 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.19|Ezekiel 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

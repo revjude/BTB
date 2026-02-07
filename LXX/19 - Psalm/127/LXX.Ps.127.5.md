@@ -1,10 +1,7 @@
 **LXX Psalm 127:5** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[is\] the one who shall fill  his desire with them; they shall not be disgraced whenever they should speak \[to\] his enemies at \[the\] gates. 
-<small><sub>**KJV:**</sub></small>
-Happy [is] the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.
-<small><sub>**BSB:**</sub></small>
-Blessed is the man whose quiver is full of them. He will not be put to shame when he confronts the enemies at the gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.127.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.127.4|<< Psalm 127:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.128.1|Psalm 128:1 >>]]</td></tr></table>
 
 | Translation | Greek |

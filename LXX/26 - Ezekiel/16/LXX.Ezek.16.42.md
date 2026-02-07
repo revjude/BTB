@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:42** 
 <small><sub>**LXX:**</sub></small>
 And I will slacken  my rage against you, and my jealousy shall be removed from you. And I will rest, and in no way will I be anxious any longer. 
-<small><sub>**KJV:**</sub></small>
-So will I make my fury toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry.
-<small><sub>**BSB:**</sub></small>
-So I will lay to rest My wrath against you, and My jealousy will turn away from you. Then I will be calm and no longer angry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.41|<< Ezekiel 16:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.43|Ezekiel 16:43 >>]]</td></tr></table>
 
 | Translation | Greek |

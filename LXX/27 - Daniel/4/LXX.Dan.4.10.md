@@ -1,10 +1,7 @@
 **LXX Daniel 4:10** 
 <small><sub>**LXX:**</sub></small>
 And the visions  of my head I viewed upon my bed. And behold, a tree \[was\] in \[the\] midst of the earth, and the height of it \[was\] great. 
-<small><sub>**KJV:**</sub></small>
-Thus [were] the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height thereof [was] great.
-<small><sub>**BSB:**</sub></small>
-In these visions of my mind as I was lying in bed, I saw this come to pass: There was a tree in the midst of the land, and its height was great.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.9|<< Daniel 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.11|Daniel 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

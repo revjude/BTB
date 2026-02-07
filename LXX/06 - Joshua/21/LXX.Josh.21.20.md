@@ -1,10 +1,7 @@
 **LXX Joshua 21:20** 
 <small><sub>**LXX:**</sub></small>
 And to the peoples of \[the\] sons of Kohath, to the Levites being left behind from the sons of Kohath. And the city of their borders came from \[the\] tribe of Ephraim. 
-<small><sub>**KJV:**</sub></small>
-And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.
-<small><sub>**BSB:**</sub></small>
-The remaining Kohathite clans of the Levites were allotted these cities: From the tribe of Ephraim<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.19|<< Joshua 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.21|Joshua 21:21 >>]]</td></tr></table>
 
 | Translation | Greek |

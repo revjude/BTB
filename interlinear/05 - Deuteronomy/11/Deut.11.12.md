@@ -1,4 +1,4 @@
-**Deuteronomy 11:12** 
+**Deuteronomy 11:12**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A land which the LORD thy God careth for: the eyes of the LORD thy God [are] always upon it, from the beginning of the year even unto the end of the year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is a land for which the LORD your God cares; the eyes of the LORD your God ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.11|<< Deuteronomy 11:11]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.13|Deuteronomy 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a land  |**<big>&#8207;[[H0776G\|אֶ֕רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

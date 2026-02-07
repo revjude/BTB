@@ -1,4 +1,4 @@
-**Exodus 4:2** 
+**Exodus 4:2**<big><big>[[Exod.4.1 Moses’ Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto him, What [is] that in thine hand? And he said, A rod.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD asked him, “What is that in your hand?” “A staff,” he repli
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.1|<< Exodus 4:1]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.3|Exodus 4:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֧אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֛י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 36:7** (36:8)
+**Psalms 36:7**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How excellent [is] thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How precious is Your loving devotion, O God, that the children of men take refug
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.6|<< Psalms 36:6]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.8|Psalms 36:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | precious  |**<big>&#8207;[[H3368\|יָּקָ֥ר]]&#8207; </big>**| ya.Kar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

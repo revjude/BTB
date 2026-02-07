@@ -1,12 +1,12 @@
-**Matthew 26:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:36**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder.
 <small><sub>**BSB:**</sub></small>
 Then Jesus went with His disciples to a place called Gethsemane, and He told them, “Sit here while I go over there and pray.”
 <small><sub>**Literal:**</sub></small>
 Then comes with them <the> Jesus to a place being named Gethsemane and He says to the disciples; do sit here until that having gone away over there I may pray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.35|<< Matthew 26:35]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.37|Matthew 26:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | comes |**<big>[[G2064\|ἔρχεται]]</big>**  |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 17:15** 
+**Psalms 17:15**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for me, I will behold Your face in righteousness; when I awake, I will be sat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.14|<< Psalms 17:14]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.0|Psalms 18:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֗י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in righteousness  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H6664G\|צֶדֶק]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

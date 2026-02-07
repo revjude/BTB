@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:17** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> has done to you as he said by my hand. And \[the\] <span class="smallcaps">lord</span> will tear the kingdom from out of your hand, and will give it to your neighbor, \[to\] David. 
-<small><sub>**KJV:**</sub></small>
-And the LORD hath done to him, as he spake by me: for the LORD hath rent the kingdom out of thine hand, and given it to thy neighbour, [even] to David:
-<small><sub>**BSB:**</sub></small>
-He has done exactly what He spoke through me: The LORD has torn the kingdom out of your hand and given it to your neighbor David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.16|<< 1 Samuel 28:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.18|1 Samuel 28:18 >>]]</td></tr></table>
 
 | Translation | Greek |

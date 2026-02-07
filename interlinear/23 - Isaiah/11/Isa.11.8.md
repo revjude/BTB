@@ -1,4 +1,4 @@
-**Isaiah 11:8** 
+**Isaiah 11:8**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The infant will play by the cobra’s den, and the toddler will reach into the v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.7|<< Isaiah 11:7]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.9|Isaiah 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will play  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8173B\|שִֽׁעֲשַׁ֥ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.'a.Sha'<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a suckling-child  |**<big>&#8207;[[H3243J\|יוֹנֵ֖ק]]&#8207; </big>**| yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

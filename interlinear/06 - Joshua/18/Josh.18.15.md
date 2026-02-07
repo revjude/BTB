@@ -1,4 +1,4 @@
-**Joshua 18:15** 
+**Joshua 18:15**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the south quarter [was] from the end of Kirjathjearim, and the border went out on the west, and went out to the well of waters of Nephtoah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the south side the border began at the outskirts of Kiriath-jearim and extend
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.14|<< Joshua 18:14]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.16|Joshua 18:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] side of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6285\|פְאַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.'at-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] south \<towards>  |**<big>&#8207;[[H5045H\|נֶ֕גְבָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Neg.ba<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

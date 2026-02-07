@@ -1,12 +1,12 @@
-**1 Timothy 5:21
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:21**<big><big>[[1Tim.5.21 A Charge to Timothy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I charge [thee] before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality.
 <small><sub>**BSB:**</sub></small>
 I solemnly charge you before God and Christ Jesus and the elect angels to maintain these principles without bias, and to do nothing out of partiality.
 <small><sub>**Literal:**</sub></small>
 I earnestly testify before <the> God and Lord Christ Jesus and the elect angels that these things you may keep apart from prejudice nothing doing out of partiality.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.20|<< 1 Timothy 5:20]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.22|1 Timothy 5:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I earnestly testify |**<big>[[G1263\|Διαμαρτύρομαι]]</big>**  |Diamarturomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | before |**<big>[[G1799\|ἐνώπιον]]</big>**  |enōpion <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

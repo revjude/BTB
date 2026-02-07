@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I spoke to the people in the morning, in which manner he gave charge to me. And my wife died at evening. And I did in the morning in which manner orders were given to me. 
-<small><sub>**KJV:**</sub></small>
-So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
-<small><sub>**BSB:**</sub></small>
-So I spoke to the people in the morning, and in the evening my wife died. And the next morning I did as I had been commanded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.17|<< Ezekiel 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.19|Ezekiel 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

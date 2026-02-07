@@ -1,12 +1,12 @@
-**1 Thessalonians 3:12
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 3:12**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Lord make you to increase and abound in love one toward another, and toward all [men], even as we [do] toward you:
 <small><sub>**BSB:**</sub></small>
 And may the Lord cause you to increase and overflow with love for one another and for everyone else, just as our love for you overflows,
 <small><sub>**Literal:**</sub></small>
 You now the Lord would make to increase and He would abound <the> in love toward one another and toward all just as also we ourselves toward you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.11|<< 1 Thessalonians 3:11]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.13|1 Thessalonians 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

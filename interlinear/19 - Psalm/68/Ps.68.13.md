@@ -1,4 +1,4 @@
-**Psalms 68:13** (68:14)
+**Psalms 68:13**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though ye have lien among the pots, [yet shall ye be as] the wings of a dove covered with silver, and her feathers with yellow gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though you lie down among the sheepfolds, the wings of the dove are covered with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.12|<< Psalms 68:12]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.14|Psalms 68:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will lie down !  |**<big>&#8207;[[H7901G\|תִּשְׁכְּבוּ]]&#8207;&#8207;[[H9013\|ן֮]]&#8207; </big>**| tish.ke.Vu<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

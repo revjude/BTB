@@ -1,12 +1,12 @@
-**John 12:37
-**<small><sub>**KJV:**</sub></small>
+**John 12:37**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But though he had done so many miracles before them, yet they believed not on him:
 <small><sub>**BSB:**</sub></small>
 Although Jesus had performed so many signs in their presence, they still did not believe in Him.
 <small><sub>**Literal:**</sub></small>
 So many however of Him signs having been done before them not they were believing in Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.36|<< John 12:36]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.38|John 12:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So many |**<big>[[G5118\|Τοσαῦτα]]</big>**  |Tosauta <small><sup>[[K-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

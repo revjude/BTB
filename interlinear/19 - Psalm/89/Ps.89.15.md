@@ -1,4 +1,4 @@
-**Psalms 89:15** (89:16)
+**Psalms 89:15**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed are those who know the joyful sound, who walk, O LORD, in the light of Y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.14|<< Psalms 89:14]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.16|Psalms 89:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֣י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the people  |**<big>&#8207;[[H9009\|הָ֭]]&#8207;&#8207;[[H5971A\|עָם]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> 'om<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

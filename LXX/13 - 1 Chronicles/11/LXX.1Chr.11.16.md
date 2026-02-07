@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:16** 
 <small><sub>**LXX:**</sub></small>
 And David \[was\] then in the citadel, and the garrison of the Philistines \[was\] then in Beth-lehem. 
-<small><sub>**KJV:**</sub></small>
-And David [was] then in the hold, and the Philistines’ garrison [was] then at Bethlehem.
-<small><sub>**BSB:**</sub></small>
-At that time David was in the stronghold, and the garrison of the Philistines was at Bethlehem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.15|<< 1 Chronicles 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.17|1 Chronicles 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 19:12** 
 <small><sub>**LXX:**</sub></small>
 And his master said to him, In no way shall we turn aside into an alien city, in which there is no \[one\] from the sons of Israel; even we shall go by unto Gibeah. 
-<small><sub>**KJV:**</sub></small>
-And his master said unto him, We will not turn aside hither into the city of a stranger, that [is] not of the children of Israel; we will pass over to Gibeah.
-<small><sub>**BSB:**</sub></small>
-But his master replied, “We will not turn aside to the city of foreigners, where there are no Israelites. We will go on to Gibeah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.11|<< Judges 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.13|Judges 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:64** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel gave to the Levites the cities and  their outskirts. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel gave to the Levites [these] cities with their suburbs.
-<small><sub>**BSB:**</sub></small>
-So the Israelites gave to the Levites these cities and their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.63|<< 1 Chronicles 6:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.65|1 Chronicles 6:65 >>]]</td></tr></table>
 
 | Translation | Greek |

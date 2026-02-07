@@ -1,10 +1,7 @@
 **LXX Genesis 24:64** 
 <small><sub>**LXX:**</sub></small>
 And Rebekah looking up with the eyes, saw  Isaac, and she leaped down from the camel. 
-<small><sub>**KJV:**</sub></small>
-And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel.
-<small><sub>**BSB:**</sub></small>
-And when Rebekah looked up and saw Isaac, she got down from her camel<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.63|<< Genesis 24:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.65|Genesis 24:65 >>]]</td></tr></table>
 
 | Translation | Greek |

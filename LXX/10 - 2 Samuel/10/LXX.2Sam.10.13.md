@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:13** 
 <small><sub>**LXX:**</sub></small>
 And Joab approached and  his people with him for war against Syria. And they fled from his face. 
-<small><sub>**KJV:**</sub></small>
-And Joab drew nigh, and the people that [were] with him, unto the battle against the Syrians: and they fled before him.
-<small><sub>**BSB:**</sub></small>
-So Joab and his troops advanced to fight the Arameans, who fled before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.12|<< 2 Samuel 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.14|2 Samuel 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

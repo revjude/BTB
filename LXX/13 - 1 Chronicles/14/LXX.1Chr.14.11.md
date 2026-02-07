@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 14:11** 
 <small><sub>**LXX:**</sub></small>
 And he ascended into Baal Perazim. And David struck them there. And David said, God cut through  my enemies by my hand as a severance of water. On account of this he called the name  of that place -- Severance of Baal Perazim. 
-<small><sub>**KJV:**</sub></small>
-So they came up to Baalperazim; and David smote them there. Then David said, God hath broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baalperazim.
-<small><sub>**BSB:**</sub></small>
-So David and his men went up to Baal-perazim, where he defeated the Philistines and said, “Like a bursting flood, God has burst out against my enemies by my hand.” So they called that place Baal-perazim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.14.10|<< 1 Chronicles 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.12|1 Chronicles 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

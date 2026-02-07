@@ -1,4 +1,4 @@
-**1 Chronicles 25:24** 
+**1 Chronicles 25:24**<big><big>[[1Chr.25.1 Twenty-Four Divisions of Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The seventeenth to Joshbekashah, [he], his sons, and his brethren, [were] twelve:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the seventeenth to Joshbekashah, his sons, and his brothers—12 in all;
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.25.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.23|<< 1 Chronicles 25:23]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.25|1 Chronicles 25:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for seven-  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7651\|שִׁבְעָ֤ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> shiv.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | teen  |**<big>&#8207;[[H6240\|עָשָׂר֙]]&#8207; </big>**| 'a.Sar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

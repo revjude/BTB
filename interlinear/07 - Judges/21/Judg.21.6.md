@@ -1,4 +1,4 @@
-**Judges 21:6** 
+**Judges 21:6**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel repented them for Benjamin their brother, and said, There is one tribe cut off from Israel this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Israelites grieved for their brothers, the Benjamites, and said, “Toda
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.5|<< Judges 21:5]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.7|Judges 21:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they had compassion  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5162G\|יִּנָּֽחֲמוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.na.cha.Mu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

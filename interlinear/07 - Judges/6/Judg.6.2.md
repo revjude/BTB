@@ -1,4 +1,4 @@
-**Judges 6:2** 
+**Judges 6:2**<big><big>[[Judg.6.1 Midian Oppresses Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the hand of Midian prevailed against Israel: [and] because of the Midianites the children of Israel made them the dens which [are] in the mountains, and caves, and strong holds.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the hand of Midian prevailed against Israel. Because of the Midianites, the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.1|<< Judges 6:1]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.3|Judges 6:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it prevailed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5810\|תָּ֥עָז]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'oz<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hand of  |**<big>&#8207;[[H3027H\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

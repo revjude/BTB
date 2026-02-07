@@ -1,4 +1,4 @@
-**Genesis 43:18** 
+**Genesis 43:18**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the brothers were frightened that they had been taken to Joseph’s house. �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.17|<< Genesis 43:17]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.19|Genesis 43:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּֽירְא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the men  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

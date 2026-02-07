@@ -1,4 +1,4 @@
-**Deuteronomy 2:26** 
+**Deuteronomy 2:26**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I sent messengers out of the wilderness of Kedemoth unto Sihon king of Heshbon with words of peace, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So from the Wilderness of Kedemoth I sent messengers with an offer of peace to S
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.25|<< Deuteronomy 2:25]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.27|Deuteronomy 2:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I sent  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7971G\|אֶשְׁלַ֤ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Lach<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | messengers  |**<big>&#8207;[[H4397G\|מַלְאָכִים֙]]&#8207; </big>**| mal.'a.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

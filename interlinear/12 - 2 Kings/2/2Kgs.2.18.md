@@ -1,4 +1,4 @@
-**2 Kings 2:18** 
+**2 Kings 2:18**<big><big>[[2Kgs.2.15 Elisha Succeeds Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they returned to Elisha, who was staying in Jericho, he said to them, “Di
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.17|<< 2 Kings 2:17]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.19|2 Kings 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּשֻׁ֣בוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

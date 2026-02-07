@@ -1,10 +1,7 @@
 **LXX Nahum 3:13** 
 <small><sub>**LXX:**</sub></small>
 Behold,  your people \[are\] as women among you to the ones your enemies. By opening \[the\] gates of your land shall be open. Fire shall devour the bars of your \[gates\]. 
-<small><sub>**KJV:**</sub></small>
-Behold, thy people in the midst of thee [are] women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars.
-<small><sub>**BSB:**</sub></small>
-Look at your troops—they are like your women! The gates of your land are wide open to your enemies; fire consumes their bars.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.12|<< Nahum 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.14|Nahum 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

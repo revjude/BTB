@@ -1,6 +1,6 @@
 (KJV) **Genesis 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22|<< Genesis 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24|Genesis 24 >>]]</td></tr></table>
 
-***The Death and Burial of Sarah*** ^bsb66
+<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥃]]</big></big>***The Death and Burial of Sarah***
 
  $\quad$ <span class="startversemarker">[</span>**[[Gen.23.1|1]]**<span class="endversemarker">]</span> And Sarah<small><small>[^2]</small></small> was an<small><small>[^3]</small></small> hundred and seven and twenty years old: \[these were\] the years of the life of Sarah.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Gen.23.2|2]]**<span class="endversemarker">]</span> And Sarah died in Kirjath–arba<small><small>[^5]</small></small>; the same \[is\] Hebron in the land of Canaan: and Abraham came<small><small>[^6]</small></small> to mourn<small><small>[^7]</small></small> for Sarah, and to weep for her. 
 

@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:7** 
 <small><sub>**LXX:**</sub></small>
 And in no way way shall you build houses, \[nor\] in any way shall you sow seed, and a vineyard shall not be to you; for in tents you shall dwell all  your days, so that you should live many days upon the land, upon which you spend your time upon it. 
-<small><sub>**KJV:**</sub></small>
-Neither shall ye build house, nor sow seed, nor plant vineyard, nor have [any]: but all your days ye shall dwell in tents; that ye may live many days in the land where ye [be] strangers.
-<small><sub>**BSB:**</sub></small>
-Nor are you ever to build a house or sow seed or plant a vineyard. Those things are not for you. Instead, you must live in tents all your lives, so that you may live a long time in the land where you wander.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.6|<< Jeremiah 35:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.8|Jeremiah 35:8 >>]]</td></tr></table>
 
 | Translation | Greek |

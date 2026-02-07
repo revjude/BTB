@@ -1,10 +1,7 @@
 **LXX Psalm 68:28** 
 <small><sub>**LXX:**</sub></small>
 Give charge, O God, \[to\] your power! Strengthen, O God! this which you worked out among us. 
-<small><sub>**KJV:**</sub></small>
-Thy God hath commanded thy strength: strengthen, O God, that which thou hast wrought for us.
-<small><sub>**BSB:**</sub></small>
-Summon Your power, O God; show Your strength, O God, which You have exerted on our behalf.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.27|<< Psalm 68:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.29|Psalm 68:29 >>]]</td></tr></table>
 
 | Translation | Greek |

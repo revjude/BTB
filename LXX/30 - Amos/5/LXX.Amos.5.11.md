@@ -1,10 +1,7 @@
 **LXX Amos 5:11** 
 <small><sub>**LXX:**</sub></small>
 On account of this, because \[the\] poor with their fist, and they took choice gifts from them; \[seeing that\] you built planed houses, that in no way shall you dwell in them; you planted desirable vineyards, but in no way should you drink  of their wine. 
-<small><sub>**KJV:**</sub></small>
-Forasmuch therefore as your treading [is] upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them.
-<small><sub>**BSB:**</sub></small>
-Therefore, because you trample on the poor and exact from him a tax of grain, you will never live in the stone houses you have built; you will never drink the wine from the lush vineyards you have planted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.10|<< Amos 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.12|Amos 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

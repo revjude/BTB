@@ -1,4 +1,4 @@
-**Judges 10:1** 
+**Judges 10:1**<big><big>[[Judg.10.1 Tola|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dod
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.57|<< Judges 9:57]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.2|Judges 10:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקָם֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Kam<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֨י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

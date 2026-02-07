@@ -1,4 +1,4 @@
-**1 Kings 13:5** 
+**1 Kings 13:5**<big><big>[[1Kgs.13.1 Jeroboam’s Hand Withers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The altar also was rent, and the ashes poured out from the altar, according to the sign which the man of God had given by the word of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the altar was split apart, and the ashes poured out, according to the sign t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.4|<< 1 Kings 13:4]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.6|1 Kings 13:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the altar  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֣חַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was torn apart  |**<big>&#8207;[[H7167\|נִקְרָ֔ע]]&#8207; </big>**| nik.Ra'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

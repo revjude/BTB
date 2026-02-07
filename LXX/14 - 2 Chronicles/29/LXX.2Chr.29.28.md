@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:28** 
 <small><sub>**LXX:**</sub></small>
 And all the assembly did obeisance, and the psalm singers \[were\] singing, and the trumpets trumpeting, until of which \[time\] the whole burnt-offering was completed. 
-<small><sub>**KJV:**</sub></small>
-And all the congregation worshipped, and the singers sang, and the trumpeters sounded: [and] all [this continued] until the burnt offering was finished.
-<small><sub>**BSB:**</sub></small>
-The whole assembly was worshiping, the singers were singing, and the trumpeters were playing. All this continued until the burnt offering was completed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.27|<< 2 Chronicles 29:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.29|2 Chronicles 29:29 >>]]</td></tr></table>
 
 | Translation | Greek |

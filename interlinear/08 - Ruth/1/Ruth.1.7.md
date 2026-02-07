@@ -1,4 +1,4 @@
-**Ruth 1:7** 
+**Ruth 1:7**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Accompanied by her two daughters-in-law, she left the place where she had been l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.6|<< Ruth 1:6]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.8|Ruth 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|תֵּצֵ֗א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Tze'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

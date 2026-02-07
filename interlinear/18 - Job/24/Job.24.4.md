@@ -1,4 +1,4 @@
-**Job 24:4** 
+**Job 24:4**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They turn the needy out of the way: the poor of the earth hide themselves together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They push the needy off the road and force all the poor of the land into hiding.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.3|<< Job 24:3]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.5|Job 24:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they thrust aside  |**<big>&#8207;[[H5186\|יַטּ֣וּ]]&#8207; </big>**| ya.Tu<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | needy [people]  |**<big>&#8207;[[H0034\|אֶבְיוֹנִ֣ים]]&#8207; </big>**| 'ev.yo.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

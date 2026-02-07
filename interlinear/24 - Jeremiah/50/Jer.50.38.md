@@ -1,4 +1,4 @@
-**Jeremiah 50:38** 
+**Jeremiah 50:38**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A drought [is] upon her waters; and they shall be dried up: for it [is] the land of graven images, and they are mad upon [their] idols.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ A drought is upon her waters, and they will be dried up. For it is a land of gra
 > $\quad$ referenced by: [[Rev.16.12|Rev 16:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a drought  |**<big>&#8207;[[H2721A\|חֹ֥רֶב]]&#8207; </big>**| Cho.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

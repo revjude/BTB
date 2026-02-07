@@ -1,10 +1,7 @@
 **LXX Psalm 63:3** 
 <small><sub>**LXX:**</sub></small>
 For your mercy \[is\] better than life.  My lips shall praise you; 
-<small><sub>**KJV:**</sub></small>
-Because thy lovingkindness [is] better than life, my lips shall praise thee.
-<small><sub>**BSB:**</sub></small>
-Because Your loving devotion is better than life, my lips will glorify You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.63.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.2|<< Psalm 63:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.4|Psalm 63:4 >>]]</td></tr></table>
 
 | Translation | Greek |

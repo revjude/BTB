@@ -1,10 +1,7 @@
 **LXX 1 Samuel 5:7** 
 <small><sub>**LXX:**</sub></small>
 And the men of Ashdod beheld that \[it was\] so, and they spoke \[saying\] that, the ark of the God of Israel shall not settle with us, for his hand \[is\] hard against us, and against Dagon  our god. 
-<small><sub>**KJV:**</sub></small>
-And when the men of Ashdod saw that [it was] so, they said, The ark of the God of Israel shall not abide with us: for his hand is sore upon us, and upon Dagon our god.
-<small><sub>**BSB:**</sub></small>
-And when the men of Ashdod saw what was happening, they said, “The ark of the God of Israel must not stay here with us, because His hand is heavy upon us and upon our god Dagon.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.6|<< 1 Samuel 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.8|1 Samuel 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

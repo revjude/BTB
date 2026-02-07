@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:9** 
 <small><sub>**LXX:**</sub></small>
 The Phoenicians named  Hermon, Sirion, but the Amorite named it Shenir. 
-<small><sub>**KJV:**</sub></small>
-([Which] Hermon the Sidonians call Sirion; and the Amorites call it Shenir;)
-<small><sub>**BSB:**</sub></small>
-which the Sidonians call Sirion but the Amorites call Senir—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.8|<< Deuteronomy 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.10|Deuteronomy 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

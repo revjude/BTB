@@ -1,10 +1,7 @@
 **LXX Zechariah 1:9** 
 <small><sub>**LXX:**</sub></small>
 And I said, What \[are\] these, O lord? And the angel said to me, the one speaking to me, I will show to you what these are. 
-<small><sub>**KJV:**</sub></small>
-Then said I, O my lord, what [are] these? And the angel that talked with me said unto me, I will shew thee what these [be].
-<small><sub>**BSB:**</sub></small>
-“What are these, my lord?” I asked. And the angel who was speaking with me replied, “I will show you what they are.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.8|<< Zechariah 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.10|Zechariah 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

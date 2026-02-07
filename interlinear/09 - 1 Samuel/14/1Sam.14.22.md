@@ -1,4 +1,4 @@
-**1 Samuel 14:22** 
+**1 Samuel 14:22**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Likewise all the men of Israel which had hid themselves in mount Ephraim, [when] they heard that the Philistines fled, even they also followed hard after them in the battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all the Israelites who had been hiding in the hill country of Ephraim heard
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.21|<< 1 Samuel 14:21]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.23|1 Samuel 14:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹל֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> person of  |**<big>&#8207;[[H0376G\|אִ֨ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

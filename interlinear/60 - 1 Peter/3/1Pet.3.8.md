@@ -1,12 +1,12 @@
-**1 Peter 3:8
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:8**<big><big>[[1Pet.3.8 Turning from Evil|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Finally, [be ye] all of one mind, having compassion one of another, love as brethren, [be] pitiful, [be] courteous:
 <small><sub>**BSB:**</sub></small>
 Finally, all of you, be like-minded and sympathetic, love as brothers, be tenderhearted and humble.
 <small><sub>**Literal:**</sub></small>
 <the> Now the end All [be] single-minded, sympathetic, loving as brothers, tender-hearted, humble,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.7|<< 1 Peter 3:7]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.9|1 Peter 3:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τὸ]]</big>**  |To <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

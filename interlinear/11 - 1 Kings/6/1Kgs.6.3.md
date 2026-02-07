@@ -1,4 +1,4 @@
-**1 Kings 6:3** 
+**1 Kings 6:3**<big><big>[[1Kgs.6.1 Temple Construction Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the porch before the temple of the house, twenty cubits [was] the length thereof, according to the breadth of the house; [and] ten cubits [was] the breadth thereof before the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The portico at the front of the main hall of the temple was twenty cubits long, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.2|<< 1 Kings 6:2]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.4|1 Kings 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the porch  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0197J\|אוּלָ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'u.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

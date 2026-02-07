@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:25** 
 <small><sub>**LXX:**</sub></small>
 Or do you not know the evil of Abner son of Ner, that he came to deceive you, and to know  your entering and  your exiting, and to know all together as much as you do? 
-<small><sub>**KJV:**</sub></small>
-Thou knowest Abner the son of Ner, that he came to deceive thee, and to know thy going out and thy coming in, and to know all that thou doest.
-<small><sub>**BSB:**</sub></small>
-Surely you realize that Abner son of Ner came to deceive you and to track your movements and all that you are doing.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.24|<< 2 Samuel 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.26|2 Samuel 3:26 >>]]</td></tr></table>
 
 | Translation | Greek |

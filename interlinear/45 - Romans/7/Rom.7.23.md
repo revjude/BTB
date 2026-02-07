@@ -1,12 +1,12 @@
-**Romans 7:23
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:23**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members.
 <small><sub>**BSB:**</sub></small>
 But I see another law at work in my body, warring against the law of my mind and holding me captive to the law of sin that dwells within me.
 <small><sub>**Literal:**</sub></small>
 I see however another law in the members of mine warring against the law of the mind of mine and making captive me to the law <the> of sin which is being in the members of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.22|<< Romans 7:22]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.24|Romans 7:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I see |**<big>[[G0991\|βλέπω]]</big>**  |blepō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 22:24** (22:23)
+**Exodus 22:24**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My anger will be kindled, and I will kill you with the sword; then your wives wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.23|<< Exodus 22:23]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.25|Exodus 22:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will burn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2734\|חָרָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Rah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anger my  |**<big>&#8207;[[H0639G\|אַפִּ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 50:16** 
+**Psalms 50:16**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto the wicked God saith, What hast thou to do to declare my statutes, or [that] thou shouldest take my covenant in thy mouth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To the wicked, however, God says, “What right have you to recite My statutes a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.15|<< Psalms 50:15]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.17|Psalms 50:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to the wicked  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H7563\|רָשָׁ֨ע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> La.<small><sup>[[HRd]]</sup></small> ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָ֘מַ֤ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

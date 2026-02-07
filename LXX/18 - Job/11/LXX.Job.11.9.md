@@ -1,10 +1,7 @@
 **LXX Job 11:9** 
 <small><sub>**LXX:**</sub></small>
 or longer \[than the\] measure \[of the\] earth, or \[the\] breadth of \[the\] sea. 
-<small><sub>**KJV:**</sub></small>
-The measure thereof [is] longer than the earth, and broader than the sea.
-<small><sub>**BSB:**</sub></small>
-Their measure is longer than the earth and wider than the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.8|<< Job 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.10|Job 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

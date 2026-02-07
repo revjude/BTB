@@ -1,4 +1,4 @@
-**Psalms 104:1** 
+**Psalms 104:1**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bless the LORD, O my soul! O LORD my God, You are very great; You are clothed wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.22|<< Psalms 103:22]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.2|Psalms 104:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bless  |**<big>&#8207;[[H1288\|בָּרֲכִ֥י]]&#8207; </big>**| ba.ra.Khi<small><sup>[[HVpv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O self my  |**<big>&#8207;[[H5315G\|נַפְשִׁ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

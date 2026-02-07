@@ -1,4 +1,4 @@
-**2 Chronicles 28:17** 
+**2 Chronicles 28:17**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For again the Edomites had come and smitten Judah, and carried away captives.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Edomites had again come and attacked Judah and carried away captives.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.16|<< 2 Chronicles 28:16]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.18|2 Chronicles 28:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and again  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5750\|ע֥וֹד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Edomites  |**<big>&#8207;[[H0130\|אֲדוֹמִ֖ים]]&#8207; </big>**| 'a.do.Mim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

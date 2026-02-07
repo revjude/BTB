@@ -1,4 +1,4 @@
-**Judges 19:15** 
+**Judges 19:15**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they turned aside thither, to go in [and] to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for [there was] no man that took them into his house to lodging.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They stopped to go in and lodge in Gibeah. The Levite went in and sat down in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.14|<< Judges 19:14]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.16|Judges 19:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned aside  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493I\|יָּסֻ֣רוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Su.ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֔ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

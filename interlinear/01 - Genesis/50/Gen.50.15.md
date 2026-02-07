@@ -1,4 +1,4 @@
-**Genesis 50:15** 
+**Genesis 50:15**<big><big>[[Gen.50.15 Joseph Comforts His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Joseph’s brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Joseph’s brothers saw that their father was dead, they said, “What if J
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.14|<< Genesis 50:14]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.16|Genesis 50:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יִּרְא֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] brothers of  |**<big>&#8207;[[H0251G\|אֲחֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.chei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

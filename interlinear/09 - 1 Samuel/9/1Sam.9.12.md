@@ -1,4 +1,4 @@
-**1 Samuel 9:12** 
+**1 Samuel 9:12**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they answered them, and said, He is; behold, [he is] before you: make haste now, for he came to day to the city; for [there is] a sacrifice of the people to day in the high place:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they answered them, and said, He is; behold, [he is] before you: make haste 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.11|<< 1 Samuel 9:11]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.13|1 Samuel 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|תַּעֲנֶ֧ינָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Nei.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ֛]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

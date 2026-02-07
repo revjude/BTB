@@ -1,12 +1,12 @@
-**Mark 12:43
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:43**<big><big>[[Mark.12.41 The Widow’s Offering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he called [unto him] his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:
 <small><sub>**BSB:**</sub></small>
 Jesus called His disciples to Him and said, “Truly I tell you, this poor widow has put more than all the others into the treasury.
 <small><sub>**Literal:**</sub></small>
 And having called to [Him] the disciples of Him He says to them; Amen I say to you that <the> widow this <the> poor more than all has cast [in] of those casting into the treasury;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.42|<< Mark 12:42]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.44|Mark 12:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called to [Him] |**<big>[[G4341\|προσκαλεσάμενος]]</big>**  |proskalesamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

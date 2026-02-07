@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 13:12** 
 <small><sub>**LXX:**</sub></small>
 And David feared  God in  that day, saying, How shall I carry in to myself the ark  of God? 
-<small><sub>**KJV:**</sub></small>
-And David was afraid of God that day, saying, How shall I bring the ark of God [home] to me?
-<small><sub>**BSB:**</sub></small>
-That day David feared God and asked, “How can I ever bring the ark of God to me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.11|<< 1 Chronicles 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.13.13|1 Chronicles 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

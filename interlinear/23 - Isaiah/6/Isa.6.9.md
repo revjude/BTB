@@ -1,4 +1,4 @@
-**Isaiah 6:9** 
+**Isaiah 6:9**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And He replied: “Go and tell this people, ‘Be ever hearing, but never unders
 > $\quad$ referenced by: [[Matt.13.14|Matt 13:14-15]] ☩ [[Mark.4.12|Mark 4:12]] ☩ [[Luke.8.10|Luke 8:10]] ☩ [[John.12.40|John 12:40]] ☩ [[Acts.28.26|Acts 28:26-27]] ☩ [[Rom.11.8|Rom 11:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֕אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go  |**<big>&#8207;[[H1980G\|לֵ֥ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

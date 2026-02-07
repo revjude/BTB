@@ -1,12 +1,12 @@
-**Acts 5:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:26**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned.
 <small><sub>**BSB:**</sub></small>
 At that point, the captain went with the officers and brought the apostles—but not by force, for fear the people would stone them.
 <small><sub>**Literal:**</sub></small>
 Then having gone the captain with the officers was bringing them not with force, they were afraid of for the people so that lest they may be stoned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.25|<< Acts 5:25]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.27|Acts 5:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone |**<big>[[G0565\|ἀπελθὼν]]</big>**  |apelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

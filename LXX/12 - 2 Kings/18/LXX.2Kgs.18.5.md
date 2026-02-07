@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:5** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] <span class="smallcaps">lord</span> God of Israel he hoped, there was not one likened to him after him among the kings of Judah, and among the \[ones\] taking place before him. 
-<small><sub>**KJV:**</sub></small>
-He trusted in the LORD God of Israel; so that after him was none like him among all the kings of Judah, nor [any] that were before him.
-<small><sub>**BSB:**</sub></small>
-Hezekiah trusted in the LORD, the God of Israel. No king of Judah was like him, either before him or after him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.4|<< 2 Kings 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.6|2 Kings 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

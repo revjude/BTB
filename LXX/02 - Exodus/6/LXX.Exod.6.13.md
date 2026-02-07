@@ -1,10 +1,7 @@
 **LXX Exodus 6:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses and Aaron, and he ordered them to Pharaoh king of Egypt, so as to lead out the sons of Israel from out of the land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-Then the LORD spoke to Moses and Aaron and gave them a charge concerning both the Israelites and Pharaoh king of Egypt, to bring the Israelites out of the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.12|<< Exodus 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.14|Exodus 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

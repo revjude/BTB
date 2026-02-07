@@ -1,4 +1,4 @@
-**Hosea 6:3** 
+**Hosea 6:3**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall we know, [if] we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter [and] former rain unto the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So let us know—let us press on to know the LORD. As surely as the sun rises, H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.2|<< Hosea 6:2]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.4|Hosea 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and let us know  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3045\|נֵדְעָ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ne.de.'Ah<small><sup>[[HVqu1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us pursue  |**<big>&#8207;[[H7291\|נִרְדְּפָ֗ה]]&#8207; </big>**| nir.de.Fah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

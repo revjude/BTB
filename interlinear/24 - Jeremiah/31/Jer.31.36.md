@@ -1,4 +1,4 @@
-**Jeremiah 31:36** 
+**Jeremiah 31:36**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If those ordinances depart from before me, saith the LORD, [then] the seed of Israel also shall cease from being a nation before me for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If those ordinances depart from before me, saith the LORD, [then] the seed of Is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.35|<< Jeremiah 31:35]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.37|Jeremiah 31:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will depart  |**<big>&#8207;[[H4185\|יָמֻ֜שׁוּ]]&#8207; </big>**| ya.Mu.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

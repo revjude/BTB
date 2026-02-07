@@ -1,4 +1,4 @@
-**1 Samuel 3:8** 
+**1 Samuel 3:8**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD called Samuel again the third time. And he arose and went to Eli, and said, Here [am] I; for thou didst call me. And Eli perceived that the LORD had called the child.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once again, for the third time, the LORD called to Samuel. He got up, went to El
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.7|<< 1 Samuel 3:7]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.9|1 Samuel 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יֹּ֨סֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.sef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

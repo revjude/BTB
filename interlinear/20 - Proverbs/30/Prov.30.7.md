@@ -1,4 +1,4 @@
-**Proverbs 30:7** 
+**Proverbs 30:7**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Two [things] have I required of thee; deny me [them] not before I die:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two things I ask of You—do not refuse me before I die:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.6|<< Proverbs 30:6]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.8|Proverbs 30:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | two [things]  |**<big>&#8207;[[H8147\|שְׁ֭תַּיִם]]&#8207; </big>**| She.ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I ask  |**<big>&#8207;[[H7592\|שָׁאַ֣לְתִּי]]&#8207; </big>**| sha.'Al.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

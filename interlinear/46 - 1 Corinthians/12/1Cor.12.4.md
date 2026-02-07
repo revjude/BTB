@@ -1,12 +1,12 @@
-**1 Corinthians 12:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:4**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now there are diversities of gifts, but the same Spirit.
 <small><sub>**BSB:**</sub></small>
 There are different gifts, but the same Spirit.
 <small><sub>**Literal:**</sub></small>
 Varieties now of gifts there are, <the> but the same Spirit;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.3|<< 1 Corinthians 12:3]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.5|1 Corinthians 12:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Varieties |**<big>[[G1243\|διαιρέσεις]]</big>**  |diaireseis <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

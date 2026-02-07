@@ -1,12 +1,12 @@
-**Luke 16:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:24**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.
 <small><sub>**BSB:**</sub></small>
 So he cried out, ‘Father Abraham, have mercy on me and send Lazarus to dip the tip of his finger in water and cool my tongue. For I am in agony in this fire.’
 <small><sub>**Literal:**</sub></small>
 And he himself having cried out said; Father Abraham, do have mercy on me and do send Lazarus that he may dip the tip of the finger of him in water and may cool the tongue of mine, for I am suffering in <the> flame this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.23|<< Luke 16:23]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.25|Luke 16:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 7:7** 
 <small><sub>**LXX:**</sub></small>
 Remember then that my breath  is life; and no longer my eye return back to behold good. 
-<small><sub>**KJV:**</sub></small>
-O remember that my life [is] wind: mine eye shall no more see good.
-<small><sub>**BSB:**</sub></small>
-Remember that my life is but a breath. My eyes will never again see happiness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.6|<< Job 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.8|Job 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

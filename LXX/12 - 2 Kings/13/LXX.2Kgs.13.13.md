@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joash slept with  his fathers. And Jeroboam sat upon  his throne. And Joash was entombed in Samaria with the kings of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Joash slept with his fathers; and Jeroboam sat upon his throne: and Joash was buried in Samaria with the kings of Israel.
-<small><sub>**BSB:**</sub></small>
-And Jehoash rested with his fathers, and Jeroboam succeeded him on the throne. Jehoash was buried in Samaria with the kings of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.12|<< 2 Kings 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.14|2 Kings 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

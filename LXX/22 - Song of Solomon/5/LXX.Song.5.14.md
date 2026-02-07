@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:14** 
 <small><sub>**LXX:**</sub></small>
 His hands \[are as\] turned gold, being filled with Tharsis \[stone\]. His belly \[is as\] a writing-tablet of ivory upon a stone of sapphire. 
-<small><sub>**KJV:**</sub></small>
-His hands [are as] gold rings set with the beryl: his belly [is as] bright ivory overlaid [with] sapphires.
-<small><sub>**BSB:**</sub></small>
-His arms are rods of gold set with beryl. His body is polished ivory bedecked with sapphires.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.13|<< Song of Solomon 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.15|Song of Solomon 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

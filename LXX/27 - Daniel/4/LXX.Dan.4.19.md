@@ -1,10 +1,7 @@
 **LXX Daniel 4:19** 
 <small><sub>**LXX:**</sub></small>
 Then Daniel, whose  name \[was\] Belteshazzar, was rendered speechless for one hour, and  his thoughts disturbed him. And the king answered and said, Belteshazzar, the dream and  interpretation you hasten not! Belteshazzar answered and said, O lord, let be the dream to the ones detesting you, and the interpretation of it  for your enemies! 
-<small><sub>**KJV:**</sub></small>
-Then Daniel, whose name [was] Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble thee. Belteshazzar answered and said, My lord, the dream [be] to them that hate thee, and the interpretation thereof to thine enemies.
-<small><sub>**BSB:**</sub></small>
-For a time, Daniel, who was also known as Belteshazzar, was perplexed, and his thoughts alarmed him. So the king said, “Belteshazzar, do not let the dream or its interpretation alarm you.” “My lord,” replied Belteshazzar, “may the dream apply to those who hate you, and its interpretation to your enemies!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.18|<< Daniel 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.20|Daniel 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

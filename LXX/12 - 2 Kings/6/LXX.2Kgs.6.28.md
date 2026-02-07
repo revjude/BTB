@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:28** 
 <small><sub>**LXX:**</sub></small>
 And the king said to her, What is it with you? And she said,  This woman said to me, Give  your son! and we shall eat him today, and  my son we shall eat tomorrow. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto her, What aileth thee? And she answered, This woman said unto me, Give thy son, that we may eat him to day, and we will eat my son to morrow.
-<small><sub>**BSB:**</sub></small>
-Then the king asked her, “What is the matter?” And she answered, “This woman said to me, ‘Give up your son, that we may eat him, and tomorrow we will eat my son.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.27|<< 2 Kings 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.29|2 Kings 6:29 >>]]</td></tr></table>
 
 | Translation | Greek |

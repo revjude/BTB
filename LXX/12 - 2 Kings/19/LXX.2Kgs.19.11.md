@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:11** 
 <small><sub>**LXX:**</sub></small>
 Behold, you heard all as much as \[the\] king of \[the\] Assyrians did in all the lands, as they utterly destroyed them; and how shall you be rescued? 
-<small><sub>**KJV:**</sub></small>
-Behold, thou hast heard what the kings of Assyria have done to all lands, by destroying them utterly: and shalt thou be delivered?
-<small><sub>**BSB:**</sub></small>
-Surely you have heard what the kings of Assyria have done to all the other countries, devoting them to destruction. Will you then be spared?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.10|<< 2 Kings 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.12|2 Kings 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

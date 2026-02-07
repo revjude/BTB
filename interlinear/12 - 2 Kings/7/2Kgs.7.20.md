@@ -1,4 +1,4 @@
-**2 Kings 7:20** 
+**2 Kings 7:20**<big><big>[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And so it fell out unto him: for the people trode upon him in the gate, and he died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And that is just what happened to him. The people trampled him in the gateway, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.19|<< 2 Kings 7:19]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.1|2 Kings 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it happened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.hi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H9005\|ל֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

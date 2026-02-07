@@ -1,4 +1,4 @@
-**Genesis 11:11** 
+**Genesis 11:11**<big><big>[[Gen.11.10 Genealogy from Shem to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And after he had become the father of Arphaxad, Shem lived 500 years and had oth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.10|<< Genesis 11:10]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.12|Genesis 11:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2421\|יְחִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.chi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shem  |**<big>&#8207;[[H8035\|שֵׁ֗ם]]&#8207; </big>**| Shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

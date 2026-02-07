@@ -1,4 +1,4 @@
-**Judges 8:28** 
+**Judges 8:28**<big><big>[[Judg.8.28 Forty Years of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus was Midian subdued before the children of Israel, so that they lifted up their heads no more. And the country was in quietness forty years in the days of Gideon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In this way Midian was subdued before the Israelites and did not raise its head 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.27|<< Judges 8:27]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.29|Judges 8:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was subdued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3665\|יִּכָּנַ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Na'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Midian  |**<big>&#8207;[[H4080H\|מִדְיָ֗ן]]&#8207; </big>**| mid.Yan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 21:7** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\], thus says \[the\] <span class="smallcaps">lord</span>, I will deliver up  Zedekiah king of Judah, and  his servants, and the people, the one surviving in  this city from  death, and from  famine, and from the sword, into \[the\] hands of their enemies, of the ones seeking  their lives. And they shall cut them in pieces by \[the\] mouth of \[the\] sword; I will not spare against them, and in no way shall I pity them. 
-<small><sub>**KJV:**</sub></small>
-And afterward, saith the LORD, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy.
-<small><sub>**BSB:**</sub></small>
-‘After that,’ declares the LORD, ‘I will hand over Zedekiah king of Judah, his officers, and the people in this city who survive the plague and sword and famine, to Nebuchadnezzar king of Babylon and to their enemies who seek their lives. He will put them to the sword; he will not spare them or show pity or compassion.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.6|<< Jeremiah 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.8|Jeremiah 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

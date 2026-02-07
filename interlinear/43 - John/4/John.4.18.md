@@ -1,12 +1,12 @@
-**John 4:18
-**<small><sub>**KJV:**</sub></small>
+**John 4:18**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly.
 <small><sub>**BSB:**</sub></small>
 In fact, you have had five husbands, and the man you now have is not your husband. You have spoken truthfully.”
 <small><sub>**Literal:**</sub></small>
 Five for husbands you have had, and now he whom you have not is your husband; this truly you have spoken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.17|<< John 4:17]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.19|John 4:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Five |**<big>[[G4002\|πέντε]]</big>**  |pente <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

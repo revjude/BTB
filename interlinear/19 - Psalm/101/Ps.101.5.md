@@ -1,4 +1,4 @@
-**Psalms 101:5** 
+**Psalms 101:5**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever slanders his neighbor in secret, I will put to silence; the one with hau
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.4|<< Psalms 101:4]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.6|Psalms 101:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] slanders  |**<big>&#8207;[[H3960\|מְלָשְׁנִ֬י]]&#8207; </big>**[^1] [^2] | me.la.she.Ni<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | in \<the> secrecy  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H5643A\|סֵּ֨תֶר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Se.ter<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

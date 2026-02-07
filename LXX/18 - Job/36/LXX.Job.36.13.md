@@ -1,10 +1,7 @@
 **LXX Job 36:13** 
 <small><sub>**LXX:**</sub></small>
 And hypocrites in heart shall order rage; they shall not yell, for he bound them. 
-<small><sub>**KJV:**</sub></small>
-But the hypocrites in heart heap up wrath: they cry not when he bindeth them.
-<small><sub>**BSB:**</sub></small>
-The godless in heart harbor resentment; even when He binds them, they do not cry for help.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.12|<< Job 36:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.14|Job 36:14 >>]]</td></tr></table>
 
 | Translation | Greek |

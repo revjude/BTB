@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:19** 
 <small><sub>**LXX:**</sub></small>
 And who knows if he will be a wise man or a fool? And if he exercises authority in all my effort in which I made an effort in, and in which I gained discernment under the sun. Even indeed this \[is\] folly. 
-<small><sub>**KJV:**</sub></small>
-And who knoweth whether he shall be a wise [man] or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This [is] also vanity.
-<small><sub>**BSB:**</sub></small>
-And who knows whether that man will be wise or foolish? Yet he will take over all the labor at which I have worked skillfully under the sun. This too is futile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.18|<< Ecclesiastes 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.20|Ecclesiastes 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

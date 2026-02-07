@@ -1,4 +1,4 @@
-**Jeremiah 13:24** 
+**Jeremiah 13:24**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I scatter them as the stubble that passeth away by the wind of the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore will I scatter them as the stubble that passeth away by the wind of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.23|<< Jeremiah 13:23]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.25|Jeremiah 13:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will scatter them  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6327A\|אֲפִיצֵ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.fi.Tze<small><sup>[[HVhu1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like chaff  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7179\|קַשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> kash-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

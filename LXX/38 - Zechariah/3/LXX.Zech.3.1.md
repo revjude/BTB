@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> showed to me Joshua the great priest standing in front of \[the\] angel of \[the\] <span class="smallcaps">lord</span>, and the devil standing at \[the\] right of him,  being an adversary against him. 
-<small><sub>**KJV:**</sub></small>
-And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him.
-<small><sub>**BSB:**</sub></small>
-Then the angel showed me Joshua the high priest standing before the angel of the LORD, with Satan standing at his right hand to accuse him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.13|<< Zechariah 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.2|Zechariah 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

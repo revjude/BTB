@@ -1,5 +1,5 @@
-**Acts 2:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:31**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.
 <small><sub>**BSB:**</sub></small>
 Foreseeing this, David spoke about the resurrection of the Christ, that He was not abandoned to Hades, nor did His body see decay.
@@ -10,7 +10,7 @@ Having foreseen he spoke concerning the resurrection of the Christ that neither 
 > $\quad$ referencing: [[LXX.Ps.16.10|Ps 16:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having foreseen |**<big>[[G4308\|προϊδὼν]]</big>**  |proidōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he spoke |**<big>[[G2980\|ἐλάλησεν]]</big>**  |elalēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΙΝ</p>
 
 Hear indeed! for I moan. There is not  one comforting me. All  my enemies heard the bad things \[concerning\] me, and they rejoice that you did \[it\]. You brought on \[the\] day; you called \[the\] time, they became alike to me. 
-<small><sub>**KJV:**</sub></small>
-They have heard that I sigh: [there is] none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done [it]: thou wilt bring the day [that] thou hast called, and they shall be like unto me.
-<small><sub>**BSB:**</sub></small>
-People have heard my groaning, but there is no one to comfort me. All my enemies have heard of my trouble; they are glad that You have caused it. May You bring the day You have announced, so that they may become like me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.20|<< Lamentations 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.22|Lamentations 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Behold, \[the\] <span class="smallcaps">lord</span> lays waste the whole inhabitable world, and will make it desolate, and shall uncover  its surface, and disperse the ones dwelling on it. 
-<small><sub>**KJV:**</sub></small>
-Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.
-<small><sub>**BSB:**</sub></small>
-Behold, the LORD lays waste the earth and leaves it in ruins. He will twist its surface and scatter its inhabitants—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.18|<< Isaiah 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.2|Isaiah 24:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:10** 
 <small><sub>**LXX:**</sub></small>
 And the one guiding in \[the\] midst of them in  their entering shall enter, and in  their going forth, he shall come forth. 
-<small><sub>**KJV:**</sub></small>
-And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth.
-<small><sub>**BSB:**</sub></small>
-When the people enter, the prince shall go in with them, and when they leave, he shall leave.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.9|<< Ezekiel 46:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.11|Ezekiel 46:11 >>]]</td></tr></table>
 
 | Translation | Greek |

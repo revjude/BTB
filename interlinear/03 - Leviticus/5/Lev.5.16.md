@@ -1,4 +1,4 @@
-**Leviticus 5:16** 
+**Leviticus 5:16**<big><big>[[Lev.5.14 Laws for Guilt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Regarding any holy thing he has harmed, he must make restitution by adding a fif
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.15|<< Leviticus 5:15]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.17|Leviticus 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֣ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

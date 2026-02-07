@@ -1,4 +1,4 @@
-**1 Chronicles 24:31** 
+**1 Chronicles 24:31**<big><big>[[1Chr.24.20 The Rest of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As their brothers the descendants of Aaron did, they also cast lots in the prese
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.30|<< 1 Chronicles 24:30]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.1|1 Chronicles 25:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cast  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307I\|יַּפִּילוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.pi.Lu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

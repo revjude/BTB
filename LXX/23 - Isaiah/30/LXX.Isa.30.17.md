@@ -1,10 +1,7 @@
 **LXX Isaiah 30:17** 
 <small><sub>**LXX:**</sub></small>
 On account of one voice thousands shall flee; and because of \[the\] voice of five many shall flee until whenever you should be left behind as a mast upon a mountain, and as a flag borne upon a hill. 
-<small><sub>**KJV:**</sub></small>
-One thousand [shall flee] at the rebuke of one; at the rebuke of five shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on an hill.
-<small><sub>**BSB:**</sub></small>
-A thousand will flee at the threat of one; at the threat of five you will all flee, until you are left alone like a pole on a mountaintop, like a banner on a hill.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.16|<< Isaiah 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.18|Isaiah 30:18 >>]]</td></tr></table>
 
 | Translation | Greek |

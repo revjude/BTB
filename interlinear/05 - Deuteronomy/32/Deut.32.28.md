@@ -1,4 +1,4 @@
-**Deuteronomy 32:28** 
+**Deuteronomy 32:28**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [are] a nation void of counsel, neither [is there any] understanding in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel is a nation devoid of counsel, with no understanding among them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.27|<< Deuteronomy 32:27]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.29|Deuteronomy 32:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] a nation  |**<big>&#8207;[[H1471A\|ג֛וֹי]]&#8207; </big>**| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

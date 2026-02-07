@@ -1,4 +1,4 @@
-**Psalms 31:19** (31:20)
+**Psalms 31:19**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Oh] how great [is] thy goodness, which thou hast laid up for them that fear thee; [which] thou hast wrought for them that trust in thee before the sons of men!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How great is Your goodness which You have laid up for those who fear You, which 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.18|<< Psalms 31:18]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.20|Psalms 31:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מָ֤ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | great  |**<big>&#8207;[[H7227A\|רַֽב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rav-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

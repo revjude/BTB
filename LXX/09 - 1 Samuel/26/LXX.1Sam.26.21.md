@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:21** 
 <small><sub>**LXX:**</sub></small>
 And Saul said, I have sinned. Return, son David! for I shall not do evil against you any more, because my life was valued in your eyes; and   today I have acted in folly, and I am ignorant very much. 
-<small><sub>**KJV:**</sub></small>
-Then said Saul, I have sinned: return, my son David: for I will no more do thee harm, because my soul was precious in thine eyes this day: behold, I have played the fool, and have erred exceedingly.
-<small><sub>**BSB:**</sub></small>
-Then Saul replied, “I have sinned. Come back, David my son. I will never harm you again, because today you considered my life precious. I have played the fool and have committed a grave error!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.20|<< 1 Samuel 26:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.22|1 Samuel 26:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**John 10:34
-**<small><sub>**KJV:**</sub></small>
+**John 10:34**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered them, Is it not written in your law, I said, Ye are gods?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Is it not written in your Law: ‘I have said you are gods’?
@@ -10,7 +10,7 @@ Answered to them <the> Jesus; Surely it is written in the law of you that I myse
 > $\quad$ referencing: [[LXX.Ps.82.6|Ps 82:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 17:17** 
+**Ezekiel 17:17**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall Pharaoh with [his] mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh with his mighty army and vast horde will not help him in battle, when ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.16|<< Ezekiel 17:16]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.18|Ezekiel 17:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with an army  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2428A\|חַ֨יִל]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

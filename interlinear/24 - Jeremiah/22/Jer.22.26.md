@@ -1,4 +1,4 @@
-**Jeremiah 22:26** 
+**Jeremiah 22:26**<big><big>[[Jer.22.24 A Warning to Coniah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cast thee out, and thy mother that bare thee, into another country, where ye were not born; and there shall ye die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will hurl you and the mother who gave you birth into another land, where neith
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.25|<< Jeremiah 22:25]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.27|Jeremiah 22:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will throw out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2904\|הֵֽטַלְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.tal.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֹתְ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| 'o.te.<small><sup>[[HTo]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

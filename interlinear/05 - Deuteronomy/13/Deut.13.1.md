@@ -1,4 +1,4 @@
-**Deuteronomy 13:1** (13:2)
+**Deuteronomy 13:1**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If there arise among you a prophet, or a dreamer of dreams, and giveth thee a sign or a wonder,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a prophet or dreamer of dreams arises among you and proclaims a sign or wonde
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.32|<< Deuteronomy 12:32]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.2|Deuteronomy 13:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will arise  |**<big>&#8207;[[H6965B\|יָק֤וּם]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

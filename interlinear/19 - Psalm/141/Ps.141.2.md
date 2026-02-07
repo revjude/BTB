@@ -1,4 +1,4 @@
-**Psalms 141:2** 
+**Psalms 141:2**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let my prayer be set forth before thee [as] incense; [and] the lifting up of my hands [as] the evening sacrifice.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May my prayer be set before You like incense; my uplifted hands, like the evenin
 > $\quad$ referenced by: [[Rev.5.8|Rev 5:8]] ☩ [[Rev.8.3|Rev 8:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be established  |**<big>&#8207;[[H3559I\|תִּכּ֤וֹן]]&#8207; </big>**| ti.Kon<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prayer my  |**<big>&#8207;[[H8605\|תְּפִלָּתִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| te.fi.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

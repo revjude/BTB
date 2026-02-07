@@ -1,4 +1,4 @@
-**Ezekiel 16:42** 
+**Ezekiel 16:42**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So will I make my fury toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will lay to rest My wrath against you, and My jealousy will turn away from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.41|<< Ezekiel 16:41]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.43|Ezekiel 16:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give rest to  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5117\|הֲנִחֹתִ֤י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ni.cho.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rage my  |**<big>&#8207;[[H2534\|חֲמָתִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| cha.ma.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

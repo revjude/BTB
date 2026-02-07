@@ -1,12 +1,12 @@
-**John 12:23
-**<small><sub>**KJV:**</sub></small>
+**John 12:23**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “The hour has come for the Son of Man to be glorified.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus answered to them saying; Has come the hour that may be glorified the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.22|<< John 12:22]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.24|John 12:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

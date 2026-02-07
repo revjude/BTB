@@ -1,12 +1,12 @@
-**Revelation 22:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:4**<big><big>[[Rev.22.1 The River of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they shall see his face; and his name [shall be] in their foreheads.
 <small><sub>**BSB:**</sub></small>
 They will see His face, and His name will be on their foreheads.
 <small><sub>**Literal:**</sub></small>
 And they will behold the face of Him, and the name of Him [will be] on the foreheads of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.3|<< Revelation 22:3]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.5|Revelation 22:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they will behold |**<big>[[G3700G\|ὄψονται]]</big>**  |opsontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

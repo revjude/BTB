@@ -1,10 +1,7 @@
 **LXX Genesis 41:22** 
 <small><sub>**LXX:**</sub></small>
 And I saw again in  my sleep, even as if seven ears of corn ascended in one lower branch, full and good. 
-<small><sub>**KJV:**</sub></small>
-And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:
-<small><sub>**BSB:**</sub></small>
-In my dream I also saw seven heads of grain, plump and ripe, growing on a single stalk.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.21|<< Genesis 41:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.23|Genesis 41:23 >>]]</td></tr></table>
 
 | Translation | Greek |

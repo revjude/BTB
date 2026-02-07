@@ -1,4 +1,4 @@
-**Joshua 17:9** 
+**Joshua 17:9**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast descended unto the river Kanah, southward of the river: these cities of Ephraim [are] among the cities of Manasseh: the coast of Manasseh also [was] on the north side of the river, and the outgoings of it were at the sea:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there the border continued southward to the Brook of Kanah. There were citi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.8|<< Joshua 17:8]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.10|Joshua 17:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it goes down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָרַ֣ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Rad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּבוּל֩]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

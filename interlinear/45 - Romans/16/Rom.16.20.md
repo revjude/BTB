@@ -1,12 +1,12 @@
-**Romans 16:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:20**<big><big>[[Rom.16.17 Avoid Divisions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ [be] with you. Amen.
 <small><sub>**BSB:**</sub></small>
 The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you.
 <small><sub>**Literal:**</sub></small>
 The now God <the> of peace will crush <the> Satan under the feet of you with speed. The grace of the Lord of us Jesus Christ [be] with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.19|<< Romans 16:19]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.21|Romans 16:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

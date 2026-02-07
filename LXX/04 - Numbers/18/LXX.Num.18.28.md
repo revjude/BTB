@@ -1,10 +1,7 @@
 **LXX Numbers 18:28** 
 <small><sub>**LXX:**</sub></small>
 So you shall remove, even you yourselves, from all the cut-away portions of \[the\] <span class="smallcaps">lord</span>, from all  your tenth parts; as many \[things\] as you should take from the sons of Israel; and you shall give of them a cut-away portion \[to the\] <span class="smallcaps">lord</span>, \[through\] Aaron the priest. 
-<small><sub>**KJV:**</sub></small>
-Thus ye also shall offer an heave offering unto the LORD of all your tithes, which ye receive of the children of Israel; and ye shall give thereof the LORD’S heave offering to Aaron the priest.
-<small><sub>**BSB:**</sub></small>
-So you are to present an offering to the LORD from all the tithes you receive from the Israelites, and from these you are to give the LORD’s offering to Aaron the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.27|<< Numbers 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.29|Numbers 18:29 >>]]</td></tr></table>
 
 | Translation | Greek |

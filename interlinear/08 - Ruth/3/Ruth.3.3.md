@@ -1,4 +1,4 @@
-**Ruth 3:3** 
+**Ruth 3:3**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wash thyself therefore, and anoint thee, and put thy raiment upon thee, and get thee down to the floor: [but] make not thyself known unto the man, until he shall have done eating and drinking.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore wash yourself, put on perfume, and wear your best clothes. Go down to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.2|<< Ruth 3:2]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.4|Ruth 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will wash  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7364\|רָחַ֣צְתְּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.Chatzt<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will anoint yourself  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5480\|סַ֗כְתְּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Sakht<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

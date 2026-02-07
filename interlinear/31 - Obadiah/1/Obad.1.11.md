@@ -1,4 +1,4 @@
-**Obadiah 1:11** 
+**Obadiah 1:11**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day that thou stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou [wast] as one of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the day you stood aloof while strangers carried off his wealth and foreigners
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.10|<< Obadiah 1:10]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.12|Obadiah 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | standing you  |**<big>&#8207;[[H5975G\|עֲמָֽדְ]]&#8207;&#8207;[[H9041\|ךָ֣]]&#8207; </big>**| 'a.ma.de.<small><sup>[[HVqcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 16:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:9**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory.
 <small><sub>**BSB:**</sub></small>
 And the people were scorched by intense heat, and they cursed the name of God, who had authority over these plagues. Yet they did not repent and give Him glory.
 <small><sub>**Literal:**</sub></small>
 And were scorched the men with heat great and they denigrated the  people the name <the> of God who is having <the> authority over <the> plagues these and not did they repent to give Him glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.8|<< Revelation 16:8]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.10|Revelation 16:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were scorched |**<big>[[G2739\|ἐκαυματίσθησαν]]</big>**  |ekaumatisthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

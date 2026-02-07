@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, I tossed  my \[plead for\] mercy before \[the\] eyes of the king, to  not return me to \[the\] house of Jonathan for me to die there. 
-<small><sub>**KJV:**</sub></small>
-Then thou shalt say unto them, I presented my supplication before the king, that he would not cause me to return to Jonathan’s house, to die there.
-<small><sub>**BSB:**</sub></small>
-then tell them, ‘I was presenting to the king my petition that he not return me to the house of Jonathan to die there.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.25|<< Jeremiah 38:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.27|Jeremiah 38:27 >>]]</td></tr></table>
 
 | Translation | Greek |

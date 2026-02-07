@@ -1,4 +1,4 @@
-**Genesis 18:28** 
+**Genesis 18:28**<big><big>[[Gen.18.16 Abraham Intercedes for Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for [lack of] five? And he said, If I find there forty and five, I will not destroy [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ suppose the fifty righteous ones lack five. Will You destroy the whole city for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.27|<< Genesis 18:27]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.29|Genesis 18:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | perhaps  |**<big>&#8207;[[H0194\|א֠וּלַי]]&#8207; </big>**| 'U.lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will lack !  |**<big>&#8207;[[H2637\|יַחְסְר֞וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| yach.se.Ru<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

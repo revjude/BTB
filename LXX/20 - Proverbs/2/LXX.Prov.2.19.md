@@ -1,10 +1,7 @@
 **LXX Proverbs 2:19** 
 <small><sub>**LXX:**</sub></small>
 All the ones coming near with her shall not return; nor shall they overtake straight paths; for they are not overtaken by years of life. 
-<small><sub>**KJV:**</sub></small>
-None that go unto her return again, neither take they hold of the paths of life.
-<small><sub>**BSB:**</sub></small>
-None who go to her return or negotiate the paths of life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.18|<< Proverbs 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.20|Proverbs 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

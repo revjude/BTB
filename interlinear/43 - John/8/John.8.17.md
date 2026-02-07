@@ -1,5 +1,5 @@
-**John 8:17
-**<small><sub>**KJV:**</sub></small>
+**John 8:17**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is also written in your law, that the testimony of two men is true.
 <small><sub>**BSB:**</sub></small>
 Even in your own Law it is written that the testimony of two men is valid.
@@ -10,7 +10,7 @@ And in the law also <the> of you it has been written that of two men the testimo
 > $\quad$ referencing: [[LXX.Deut.19.15|Deut 19:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

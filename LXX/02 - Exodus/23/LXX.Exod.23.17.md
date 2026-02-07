@@ -1,10 +1,7 @@
 **LXX Exodus 23:17** 
 <small><sub>**LXX:**</sub></small>
 Three times  a year every male of yours shall appear before \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Three times in the year all thy males shall appear before the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Three times a year all your males are to appear before the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.16|<< Exodus 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.18|Exodus 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

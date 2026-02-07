@@ -1,10 +1,7 @@
 **LXX Numbers 32:15** 
 <small><sub>**LXX:**</sub></small>
 that you shall turn away from him to add still to leave him in the wilderness, and shall act lawlessly against this entire congregation. 
-<small><sub>**KJV:**</sub></small>
-For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people.
-<small><sub>**BSB:**</sub></small>
-For if you turn away from following Him, He will once again leave this people in the wilderness, and you will be the cause of their destruction.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.14|<< Numbers 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.16|Numbers 32:16 >>]]</td></tr></table>
 
 | Translation | Greek |

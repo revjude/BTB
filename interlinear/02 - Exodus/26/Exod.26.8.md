@@ -1,4 +1,4 @@
-**Exodus 26:8** 
+**Exodus 26:8**<big><big>[[Exod.26.7 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The length of one curtain [shall be] thirty cubits, and the breadth of one curtain four cubits: and the eleven curtains [shall be all] of one measure.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each of the eleven curtains is to be the same size—thirty cubits long and four
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.7|<< Exodus 26:7]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.9|Exodus 26:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] length of  |**<big>&#8207;[[H0753\|אֹ֣רֶךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the curtain  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3407\|יְרִיעָ֣ה]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.ri.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

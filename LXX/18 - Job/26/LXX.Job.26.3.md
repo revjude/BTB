@@ -1,10 +1,7 @@
 **LXX Job 26:3** 
 <small><sub>**LXX:**</sub></small>
 By whom have you been advised, is it not to \[the\] one who \[has\] all wisdom? or to whom will you follow after, \[is it\] not \[the one\] who \[has\] greatest power? 
-<small><sub>**KJV:**</sub></small>
-How hast thou counselled [him that hath] no wisdom? and [how] hast thou plentifully declared the thing as it is?
-<small><sub>**BSB:**</sub></small>
-How you have counseled the unwise and provided fully sound insight!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.26.2|<< Job 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.26.4|Job 26:4 >>]]</td></tr></table>
 
 | Translation | Greek |

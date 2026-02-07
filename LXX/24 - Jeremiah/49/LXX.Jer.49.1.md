@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 To the sons of Ammon, thus said \[the\] <span class="smallcaps">lord</span>, Are there no sons in Israel? or is there no one inheriting of them? Why did Milcom inherit  Gad, and  their people dwell in their cities? 
-<small><sub>**KJV:**</sub></small>
-Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no heir? why [then] doth their king inherit Gad, and his people dwell in his cities?
-<small><sub>**BSB:**</sub></small>
-Concerning the Ammonites, this is what the LORD says: “Has Israel no sons? Is he without heir? Why then has Milcom taken possession of Gad? Why have his people settled in their cities?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.47|<< Jeremiah 48:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.2|Jeremiah 49:2 >>]]</td></tr></table>
 
 | Translation | Greek |

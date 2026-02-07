@@ -1,12 +1,12 @@
-**Mark 9:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:21**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he asked his father, How long is it ago since this came unto him? And he said, Of a child.
 <small><sub>**BSB:**</sub></small>
 Jesus asked the boy’s father, “How long has this been with him?” “From childhood,” he said.
 <small><sub>**Literal:**</sub></small>
 And He asked the father of him; How long a time is it that this has been with him? <the> And he said; From childhood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.20|<< Mark 9:20]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.22|Mark 9:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He asked |**<big>[[G1905\|ἐπηρώτησεν]]</big>**  |epērōtēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

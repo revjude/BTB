@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Concerning the mountains, take up a lamenting! and for the roads of the wilderness, a wailing! For they failed by there not being men. They heard not \[the\] sound of \[the\] existence of winged creatures of the heaven. And  \[the\] cattle receded -- they were set out. 
-<small><sub>**KJV:**</sub></small>
-For the mountains will I take up a weeping and wailing, and for the habitations of the wilderness a lamentation, because they are burned up, so that none can pass through [them]; neither can [men] hear the voice of the cattle; both the fowl of the heavens and the beast are fled; they are gone.
-<small><sub>**BSB:**</sub></small>
-I will take up a weeping and wailing for the mountains, a dirge over the wilderness pasture, for they have been scorched so no one passes through, and the lowing of cattle is not heard. Both the birds of the air and the beasts have fled; they have gone away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.9|<< Jeremiah 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.11|Jeremiah 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

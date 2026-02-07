@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Tola -- Uzzi, and Raphaiah, and Jeriel, and Jahmai, and Jibsam, and Shemuel, rulers according to \[the\] house of their families. \[To\] Tola \[were\] mighty ones in strength according to their generations;  their number in \[the\] days of David -- twenty and two thousand and six hundred. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Tola; Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Jibsam, and Shemuel, heads of their father’s house, [to wit], of Tola: [they were] valiant men of might in their generations; whose number [was] in the days of David two and twenty thousand and six hundred.
-<small><sub>**BSB:**</sub></small>
-The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, the heads of their families. In the days of David, 22,600 descendants of Tola were numbered in their genealogies as mighty men of valor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.1|<< 1 Chronicles 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.3|1 Chronicles 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

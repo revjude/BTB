@@ -1,12 +1,12 @@
-**Revelation 9:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:19**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For their power is in their mouth, and in their tails: for their tails [were] like unto serpents, and had heads, and with them they do hurt.
 <small><sub>**BSB:**</sub></small>
 For the power of the horses was in their mouths and in their tails; indeed, their tails were like snakes, having heads with which to inflict harm.
 <small><sub>**Literal:**</sub></small>
 the for power of the horses in the mouths of them are and in the tails of them. the for tails of them [are] like as serpents having heads and with them they injure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.18|<< Revelation 9:18]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.20|Revelation 9:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [^1] |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

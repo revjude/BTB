@@ -1,4 +1,4 @@
-**Exodus 8:3** (7:28)
+**Exodus 8:3**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Nile will teem with frogs, and they will come into your palace and up to you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.2|<< Exodus 8:2]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.4|Exodus 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will swarm  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8317\|שָׁרַ֣ץ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Ratz<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the River  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2975G\|יְאֹר֮]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.'Or<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

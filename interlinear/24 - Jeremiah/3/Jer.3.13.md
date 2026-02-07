@@ -1,4 +1,4 @@
-**Jeremiah 3:13** 
+**Jeremiah 3:13**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only acknowledge thine iniquity, that thou hast transgressed against the LORD thy God, and hast scattered thy ways to the strangers under every green tree, and ye have not obeyed my voice, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Only acknowledge your guilt, that you have rebelled against the LORD your God. Y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.12|<< Jeremiah 3:12]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.14|Jeremiah 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַ֚ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | recognize  |**<big>&#8207;[[H3045\|דְּעִ֣י]]&#8207; </big>**| de.'I<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

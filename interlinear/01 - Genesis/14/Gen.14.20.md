@@ -1,4 +1,4 @@
-**Genesis 14:20** 
+**Genesis 14:20**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and blessed be God Most High, who has delivered your enemies into your hand.” 
 > $\quad$ referenced by: [[Heb.7.1|Heb 7:1-2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [be] blessed  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1288\|בָרוּךְ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.ruKh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0410J\|אֵ֣ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

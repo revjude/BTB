@@ -1,4 +1,4 @@
-**Nehemiah 11:14** 
+**Nehemiah 11:14**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer [was] Zabdiel, the son of [one of] the great men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and his associates—128 mighty men of valor. Zabdiel son of Haggedolim was thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.13|<< Nehemiah 11:13]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.15|Nehemiah 11:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and brothers their  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0251H\|אֲחֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mighty [men] of  |**<big>&#8207;[[H1368\|גִּבּ֣וֹרֵי]]&#8207; </big>**| gi.Bo.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

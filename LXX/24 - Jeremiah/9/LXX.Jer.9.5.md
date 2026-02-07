@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:5** 
 <small><sub>**LXX:**</sub></small>
 Each shall mock against his friend. In no way shall they speak truth. Their tongue has learned to speak falsely. They wronged, and stopped not  to turn back. 
-<small><sub>**KJV:**</sub></small>
-And they will deceive every one his neighbour, and will not speak the truth: they have taught their tongue to speak lies, [and] weary themselves to commit iniquity.
-<small><sub>**BSB:**</sub></small>
-Each one betrays his friend; no one tells the truth. They have taught their tongues to lie; they wear themselves out committing iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.4|<< Jeremiah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.6|Jeremiah 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 137:3** 
+**Psalms 137:3**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there they that carried us away captive required of us a song; and they that wasted us [required of us] mirth, [saying], Sing us [one] of the songs of Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for there our captors requested a song; our tormentors demanded songs of joy: �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.2|<< Psalms 137:2]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.4|Psalms 137:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֨ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

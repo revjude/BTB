@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:3** 
 <small><sub>**LXX:**</sub></small>
 And Absalom said to him, Behold,  your words \[are\] good and well-tempered; but  there is no one hearing you from the king. 
-<small><sub>**KJV:**</sub></small>
-And Absalom said unto him, See, thy matters [are] good and right; but [there is] no man [deputed] of the king to hear thee.
-<small><sub>**BSB:**</sub></small>
-Absalom would say, “Look, your claims are good and right, but the king has no deputy to hear you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.2|<< 2 Samuel 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.4|2 Samuel 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

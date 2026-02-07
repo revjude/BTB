@@ -1,4 +1,4 @@
-**1 Samuel 17:8** 
+**1 Samuel 17:8**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stood and cried unto the armies of Israel, and said unto them, Why are ye come out to set [your] battle in array? [am] not I a Philistine, and ye servants to Saul? choose you a man for you, and let him come down to me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Goliath stood and shouted to the ranks of Israel, “Why do you come out and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.7|<< 1 Samuel 17:7]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.9|1 Samuel 17:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stood  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5975G\|יַּעֲמֹ֗ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he called out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121I\|יִּקְרָא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 12:7** 
+**Job 12:7**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But ask the animals, and they will instruct you; ask the birds of the air, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.6|<< Job 12:6]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.8|Job 12:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and but  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0199\|אוּלָ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'u.Lam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ask  |**<big>&#8207;[[H7592\|שְׁאַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.'al-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

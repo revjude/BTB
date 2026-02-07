@@ -1,10 +1,7 @@
 **LXX Leviticus 17:5** 
 <small><sub>**LXX:**</sub></small>
 so that the sons of Israel should bring  their sacrifices, as many as they should slay in the plains, and shall bring them to the <span class="smallcaps">lord</span> at the door of the tent of the testimony, to the priest. And they shall sacrifice them as a sacrifice of deliverance to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the LORD, unto the door of the tabernacle of the congregation, unto the priest, and offer them [for] peace offerings unto the LORD.
-<small><sub>**BSB:**</sub></small>
-For this reason the Israelites will bring to the LORD the sacrifices they have been offering in the open fields. They are to bring them to the priest at the entrance to the Tent of Meeting and offer them as sacrifices of peace offerings to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.4|<< Leviticus 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.6|Leviticus 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

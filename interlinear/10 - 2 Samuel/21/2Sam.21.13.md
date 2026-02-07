@@ -1,4 +1,4 @@
-**2 Samuel 21:13** 
+**2 Samuel 21:13**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought up from thence the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David had the bones of Saul and his son Jonathan brought from there, and they
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.12|<< 2 Samuel 21:12]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.14|2 Samuel 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927H\|יַּ֤עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁם֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the ones building laid a foundation  to build the house of \[the\] <span class="smallcaps">lord</span>. And the priests stood being robed with trumpets, and the Levites, \[the\] sons of Asaph with cymbals,  to praise the <span class="smallcaps">lord</span> by \[the\] hands of David king of Israel. 
-<small><sub>**KJV:**</sub></small>
-And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel.
-<small><sub>**BSB:**</sub></small>
-When the builders had laid the foundation of the temple of the LORD, the priests in their apparel with trumpets, and the Levites (the sons of Asaph) with cymbals, took their positions to praise the LORD, as David king of Israel had prescribed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.9|<< Ezra 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.11|Ezra 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

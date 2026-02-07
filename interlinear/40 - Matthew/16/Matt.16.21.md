@@ -1,12 +1,12 @@
-**Matthew 16:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:21**<big><big>[[Matt.16.21 Christ’s Passion Foretold|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.
 <small><sub>**BSB:**</sub></small>
 From that time on Jesus began to show His disciples that He must go to Jerusalem and suffer many things at the hands of the elders, chief priests, and scribes, and that He must be killed and on the third day be raised to life.
 <small><sub>**Literal:**</sub></small>
 From that time began <the> Jesus Christ to show to the disciples of Him that it is necessary for Him to Jerusalem to go away and many things to suffer from the elders and chief priests and scribes and to be killed and on the third day to be raised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.20|<< Matthew 16:20]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.22|Matthew 16:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|Ἀπὸ]]</big>**  |Apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that time |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

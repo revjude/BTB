@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:30** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah the king and the rulers spoke to the Levites \[for them\] to praise the <span class="smallcaps">lord</span> by \[the\] words of David, and of Asaph the prophet. And they sang praise with gladness, and they fell and did obeisance. 
-<small><sub>**KJV:**</sub></small>
-Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the LORD with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped.
-<small><sub>**BSB:**</sub></small>
-Then King Hezekiah and his officials ordered the Levites to sing praises to the LORD in the words of David and of Asaph the seer. So they sang praises with gladness and bowed down and worshiped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.29|<< 2 Chronicles 29:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.31|2 Chronicles 29:31 >>]]</td></tr></table>
 
 | Translation | Greek |

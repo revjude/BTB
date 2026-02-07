@@ -1,5 +1,5 @@
-**James 2:25
-**<small><sub>**KJV:**</sub></small>
+**James 2:25**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent [them] out another way?
 <small><sub>**BSB:**</sub></small>
 In the same way, was not even Rahab the prostitute justified by her actions when she welcomed the spies and sent them off on another route?
@@ -10,7 +10,7 @@ Likewise then also Rahab the prostitute not by works was justified having receiv
 > $\quad$ alluding to: [[LXX.Josh.2.1|Josh 2:1]] ☩ [[LXX.Josh.6.17|Josh 6:17]] ☩ [[LXX.Josh.6.23|Josh 6:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise |**<big>[[G3668\|Ὁμοίως]]</big>**  |Homoiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

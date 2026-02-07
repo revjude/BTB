@@ -1,4 +1,4 @@
-**Genesis 14:15** 
+**Genesis 14:15**<big><big>[[Gen.14.10 Abram Rescues Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which [is] on the left hand of Damascus.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During the night, Abram divided his forces and routed Chedorlaomer’s army, pur
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.14|<< Genesis 14:14]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.16|Genesis 14:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and divided himself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2505A\|יֵּחָלֵ֨ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.cha.Lek<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֧ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 24:14** 
+**2 Kings 24:14**<big><big>[[2Kgs.24.10 The Captivity of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, [even] ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He carried into exile all Jerusalem—all the commanders and mighty men of valor
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.13|<< 2 Kings 24:13]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.15|2 Kings 24:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took into exile  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1540K\|הִגְלָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hig.Lah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 28:21** 
+**1 Samuel 28:21**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the woman came unto Saul, and saw that he was sore troubled, and said unto him, Behold, thine handmaid hath obeyed thy voice, and I have put my life in my hand, and have hearkened unto thy words which thou spakest unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the woman came to Saul and saw how distraught he was, she said to him, “L
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.20|<< 1 Samuel 28:20]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.22|1 Samuel 28:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּב֤וֹא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the woman  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0802G\|אִשָּׁה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:15** 
 <small><sub>**LXX:**</sub></small>
 And I took from you wise men, and having knowledge, and discerning for  your tribes. And I ordained them to take the lead over you -- commanders of thousands, and commanders of hundreds, and commanders of fifties, and commanders of tens, and judicial recorders \[for\] your judges. 
-<small><sub>**KJV:**</sub></small>
-So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.
-<small><sub>**BSB:**</sub></small>
-So I took the leaders of your tribes, wise and respected men, and appointed them as leaders over you—as commanders of thousands, of hundreds, of fifties, and of tens, and as officers for your tribes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.14|<< Deuteronomy 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.16|Deuteronomy 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

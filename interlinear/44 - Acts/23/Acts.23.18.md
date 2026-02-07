@@ -1,12 +1,12 @@
-**Acts 23:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:18**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So he took him, and brought [him] to the chief captain, and said, Paul the prisoner called me unto [him], and prayed me to bring this young man unto thee, who hath something to say unto thee.
 <small><sub>**BSB:**</sub></small>
 So the centurion took him to the commander and said, “Paul the prisoner sent and asked me to bring this young man to you. He has something to tell you.”
 <small><sub>**Literal:**</sub></small>
 The [one] indeed therefore having taken him he brought [him] to the commander and he says; The prisoner Paul having called to me he asked [me] this <the> young man to lead to you having something to say to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.17|<< Acts 23:17]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.19|Acts 23:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

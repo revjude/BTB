@@ -1,4 +1,4 @@
-**2 Kings 23:11** 
+**2 Kings 23:11**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathanmelech the chamberlain, which [was] in the suburbs, and burned the chariots of the sun with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he removed from the entrance to the house of the LORD the horses that the ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.10|<< 2 Kings 23:10]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.12|2 Kings 23:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7673A\|יַּשְׁבֵּ֣ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Bet<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

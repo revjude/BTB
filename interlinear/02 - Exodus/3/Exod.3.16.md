@@ -1,4 +1,4 @@
-**Exodus 3:16** 
+**Exodus 3:16**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go, and gather the elders of Israel together, and say unto them, The LORD God of your fathers, the God of Abraham, of Isaac, and of Jacob, appeared unto me, saying, I have surely visited you, and [seen] that which is done to you in Egypt:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Go, assemble the elders of Israel and say to them, ‘The LORD, the God of your 
 > $\quad$ referenced by: [[Acts.7.35|Acts 7:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לֵ֣ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will gather  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0622\|אָֽסַפְתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.saf.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

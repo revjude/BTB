@@ -1,4 +1,4 @@
-**2 Kings 4:44** 
+**2 Kings 4:44**<big><big>[[2Kgs.4.42 Feeding a Hundred Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he set [it] before them, and they did eat, and left [thereof], according to the word of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he set it before them, and they ate and had some left over, according to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.43|<< 2 Kings 4:43]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.1|2 Kings 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414H\|יִּתֵּ֧ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before them  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9028\|הֶ֛ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

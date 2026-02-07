@@ -1,10 +1,7 @@
 **LXX Genesis 47:19** 
 <small><sub>**LXX:**</sub></small>
 that then we might not die before you, and the land should be made desolate, you acquire us and  our land for bread loaves, and we will be to you and  our land, servants  to Pharaoh! Give \[us\] seed! that we should sow, and we should live and should not die, and the land \[will\] not be made desolate. 
-<small><sub>**KJV:**</sub></small>
-Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give [us] seed, that we may live, and not die, that the land be not desolate.
-<small><sub>**BSB:**</sub></small>
-Why should we perish before your eyes—we and our land as well? Purchase us and our land in exchange for food. Then we, along with our land, will be slaves to Pharaoh. Give us seed that we may live and not die, and that the land may not become desolate.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.18|<< Genesis 47:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.20|Genesis 47:20 >>]]</td></tr></table>
 
 | Translation | Greek |

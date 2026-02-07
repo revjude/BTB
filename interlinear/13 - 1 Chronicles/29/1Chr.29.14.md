@@ -1,4 +1,4 @@
-**1 Chronicles 29:14** 
+**1 Chronicles 29:14**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But who [am] I, and what [is] my people, that we should be able to offer so willingly after this sort? for all things [come] of thee, and of thine own have we given thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But who am I, and who are my people, that we should be able to give as generousl
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.13|<< 1 Chronicles 29:13]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.15|1 Chronicles 29:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and that  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

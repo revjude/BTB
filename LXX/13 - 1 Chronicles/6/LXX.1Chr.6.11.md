@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:11** 
 <small><sub>**LXX:**</sub></small>
 And Azariah engendered  Amariah, and Amariah engendered  Ahitub, 
-<small><sub>**KJV:**</sub></small>
-And Azariah begat Amariah, and Amariah begat Ahitub,
-<small><sub>**BSB:**</sub></small>
-Azariah was the father of Amariah, Amariah was the father of Ahitub,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.10|<< 1 Chronicles 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.12|1 Chronicles 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

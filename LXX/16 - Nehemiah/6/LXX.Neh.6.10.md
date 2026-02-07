@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:10** 
 <small><sub>**LXX:**</sub></small>
 And I entered into \[the\] house of Shemaiah son of Dalaiah, son of Mehetabeel, and he was constrained; and he said, We should gather together in \[the\] house  of God, in \[the\] midst of it, and we should lock  its doors, for they are coming by night to murder you. 
-<small><sub>**KJV:**</sub></small>
-Afterward I came unto the house of Shemaiah the son of Delaiah the son of Mehetabeel, who [was] shut up; and he said, Let us meet together in the house of God, within the temple, and let us shut the doors of the temple: for they will come to slay thee; yea, in the night will they come to slay thee.
-<small><sub>**BSB:**</sub></small>
-Later, I went to the house of Shemaiah son of Delaiah, the son of Mehetabel, who was confined to his house. He said: “Let us meet at the house of God inside the temple. Let us shut the temple doors because they are coming to kill you—by night they are coming to kill you!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.9|<< Nehemiah 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.11|Nehemiah 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

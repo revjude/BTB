@@ -1,4 +1,4 @@
-**Ezekiel 32:13** 
+**Ezekiel 32:13**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will destroy also all the beasts thereof from beside the great waters; neither shall the foot of man trouble them any more, nor the hoofs of beasts trouble them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will slaughter all her cattle beside the abundant waters. No human foot will m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.12|<< Ezekiel 32:12]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.14|Ezekiel 32:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will destroy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0006\|הַֽאֲבַדְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.'a.vad.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 51:46** 
+**Jeremiah 51:46**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And lest your heart faint, and ye fear for the rumour that shall be heard in the land; a rumour shall both come [one] year, and after that in [another] year [shall come] a rumour, and violence in the land, ruler against ruler.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not let your heart grow faint, and do not be afraid when the rumor is heard i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.45|<< Jeremiah 51:45]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.47|Jeremiah 51:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and lest  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6435\|פֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it should be weak  |**<big>&#8207;[[H7401\|יֵרַ֤ךְ]]&#8207; </big>**| ye.Rakh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

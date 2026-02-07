@@ -1,12 +1,12 @@
-**Luke 8:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:3**<big><big>[[Luke.8.1 Women Minister to Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance.
 <small><sub>**BSB:**</sub></small>
 Joanna the wife of Herod’s household manager Chuza, Susanna, and many others. These women were ministering to them out of their own means.
 <small><sub>**Literal:**</sub></small>
 and Joanna wife of Chuza a steward of Herod and Susanna and others many who were ministering to them out of the possessions of theirs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.2|<< Luke 8:2]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.4|Luke 8:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Joanna |**<big>[[G2489\|Ἰωάννα]]</big>**  [^1] |Iōanna <small><sup>[[N-NSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

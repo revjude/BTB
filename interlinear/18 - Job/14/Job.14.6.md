@@ -1,4 +1,4 @@
-**Job 14:6** 
+**Job 14:6**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ look away from him and let him rest, so he can enjoy his day as a hired hand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.5|<< Job 14:5]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.7|Job 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | look away  |**<big>&#8207;[[H8159\|שְׁעֵ֣ה]]&#8207; </big>**| she.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from on \<the> him  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עָלָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

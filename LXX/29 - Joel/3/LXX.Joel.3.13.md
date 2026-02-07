@@ -1,10 +1,7 @@
 **LXX Joel 3:13** 
 <small><sub>**LXX:**</sub></small>
 Send out sickles! for the gathering of the crops stands by. Enter in! Tread! for the wine vat \[is\] full. The wine-vats overflow, for their evils are multiplied. 
-<small><sub>**KJV:**</sub></small>
-Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness [is] great.
-<small><sub>**BSB:**</sub></small>
-Swing the sickle, for the harvest is ripe. Come, trample the grapes, for the winepress is full; the wine vats overflow because their wickedness is great.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.12|<< Joel 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.14|Joel 3:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 3:13** is...

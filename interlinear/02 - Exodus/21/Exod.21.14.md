@@ -1,4 +1,4 @@
-**Exodus 21:14** 
+**Exodus 21:14**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if a man schemes and acts willfully against his neighbor to kill him, you mu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.13|<< Exodus 21:13]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.15|Exodus 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will act presumptuously  |**<big>&#8207;[[H2102\|יָזִ֥ד]]&#8207; </big>**| ya.Zid<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

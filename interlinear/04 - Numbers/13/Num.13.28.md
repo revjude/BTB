@@ -1,4 +1,4 @@
-**Numbers 13:28** 
+**Numbers 13:28**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the people [be] strong that dwell in the land, and the cities [are] walled, [and] very great: and moreover we saw the children of Anak there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, the people living in the land are strong, and the cities are large
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.27|<< Numbers 13:27]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.29|Numbers 13:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0657A\|אֶ֚פֶס]]&#8207; </big>**| 'E.fes<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

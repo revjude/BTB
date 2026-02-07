@@ -1,10 +1,7 @@
 **LXX Zephaniah 1:10** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day, says \[the\] <span class="smallcaps">lord</span>, \[the\] sound of a cry from \[the\] gate of men piercing, and shrieking of women from the second \[quarter\], and great conflict from the hills. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, saith the LORD, [that there shall be] the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills.
-<small><sub>**BSB:**</sub></small>
-On that day,” declares the LORD, “a cry will go up from the Fish Gate, a wail from the Second District, and a loud crashing from the hills.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.9|<< Zephaniah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.11|Zephaniah 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

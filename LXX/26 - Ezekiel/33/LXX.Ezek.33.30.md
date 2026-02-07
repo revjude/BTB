@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:30** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, the sons  of your people, the ones speaking concerning you by the walls and in the gatehouses of the houses, and each speaks \[to\] his brother, saying, We should come together and should hear the goings forth from \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Also, thou son of man, the children of thy people still are talking against thee by the walls and in the doors of the houses, and speak one to another, every one to his brother, saying, Come, I pray you, and hear what is the word that cometh forth from the LORD.
-<small><sub>**BSB:**</sub></small>
-As for you, son of man, your people are talking about you near the city walls and in the doorways of their houses. One speaks to another, each saying to his brother, ‘Come and hear the message that has come from the LORD!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.29|<< Ezekiel 33:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.31|Ezekiel 33:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 33:30** is...

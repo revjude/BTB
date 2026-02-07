@@ -1,10 +1,7 @@
 **LXX Psalm 72:15** 
 <small><sub>**LXX:**</sub></small>
 And he shall live, and there shall be given to him from the gold  of Arabia. And they shall pray for him always; \[the\] entire  day they shall bless him. 
-<small><sub>**KJV:**</sub></small>
-And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; [and] daily shall he be praised.
-<small><sub>**BSB:**</sub></small>
-Long may he live! May gold from Sheba be given him. May people ever pray for him; may they bless him all day long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.14|<< Psalm 72:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.16|Psalm 72:16 >>]]</td></tr></table>
 
 | Translation | Greek |

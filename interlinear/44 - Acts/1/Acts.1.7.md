@@ -1,12 +1,12 @@
-**Acts 1:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:7**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “It is not for you to know times or seasons that the Father has fixed by His own authority.
 <small><sub>**Literal:**</sub></small>
 He said then to them; Not yours it is to know times or seasons which the Father put in place by <the> His own authority,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.6|<< Acts 1:6]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.8|Acts 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:2** 
 <small><sub>**LXX:**</sub></small>
 And the king planned, and the rulers, and all the assembly in Jerusalem to observe the passover in the second month, 
-<small><sub>**KJV:**</sub></small>
-For the king had taken counsel, and his princes, and all the congregation in Jerusalem, to keep the passover in the second month.
-<small><sub>**BSB:**</sub></small>
-For the king and his officials and the whole assembly in Jerusalem had decided to keep the Passover in the second month,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.1|<< 2 Chronicles 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.3|2 Chronicles 30:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:5** 
 <small><sub>**LXX:**</sub></small>
 And the force of the Chaldeans pursued after the king, and they overtook him by \[the\] descent of Jericho; and all  his force were dispersed from about him. 
-<small><sub>**KJV:**</sub></small>
-And the army of the Chaldees pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him.
-<small><sub>**BSB:**</sub></small>
-but the army of the Chaldeans pursued the king and overtook him in the plains of Jericho, and his whole army deserted him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.4|<< 2 Kings 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.6|2 Kings 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

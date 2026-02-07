@@ -1,4 +1,4 @@
-**Numbers 14:32** 
+**Numbers 14:32**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [as for] you, your carcases, they shall fall in this wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As for you, however, your bodies will fall in this wilderness.
 > $\quad$ referenced by: [[Jude.1.5|Jude 1:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and corpses your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6297\|פִגְרֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fig.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֑ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

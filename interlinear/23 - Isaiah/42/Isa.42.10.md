@@ -1,4 +1,4 @@
-**Isaiah 42:10** 
+**Isaiah 42:10**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD a new song, [and] his praise from the end of the earth, ye that go down to the sea, and all that is therein; the isles, and the inhabitants thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sing to the LORD a new song—His praise from the ends of the earth—you who go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.9|<< Isaiah 42:9]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.11|Isaiah 42:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sing  |**<big>&#8207;[[H7891\|שִׁ֤ירוּ]]&#8207; </big>**| Shi.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָה֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

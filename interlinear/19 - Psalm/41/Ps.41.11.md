@@ -1,4 +1,4 @@
-**Psalms 41:11** (41:12)
+**Psalms 41:11**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By this I know that thou favourest me, because mine enemy doth not triumph over me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By this I know that You delight in me, for my enemy does not triumph over me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.10|<< Psalms 41:10]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.12|Psalms 41:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by this  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I know  |**<big>&#8207;[[H3045\|יָ֭דַעְתִּי]]&#8207; </big>**| Ya.da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

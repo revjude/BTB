@@ -1,4 +1,4 @@
-**Exodus 25:28** 
+**Exodus 25:28**<big><big>[[Exod.25.23 The Table of Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make the staves [of] shittim wood, and overlay them with gold, that the table may be borne with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Make the poles of acacia wood and overlay them with gold, so that the table may 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.27|<< Exodus 25:27]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.29|Exodus 25:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֤יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

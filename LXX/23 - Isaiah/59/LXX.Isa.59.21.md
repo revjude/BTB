@@ -1,10 +1,7 @@
 **LXX Isaiah 59:21** 
 <small><sub>**LXX:**</sub></small>
 And this covenant to them is by me, said \[the\] <span class="smallcaps">lord</span>. The spirit --  mine, which is upon you, and  my words which I put in  your mouth, in no way shall fail from  your mouth, \[nor\] from out of the mouth  of your seed; said \[the\] <span class="smallcaps">lord</span>, from the present and unto the eon. 
-<small><sub>**KJV:**</sub></small>
-As for me, this [is] my covenant with them, saith the LORD; My spirit that [is] upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever.
-<small><sub>**BSB:**</sub></small>
-“As for Me, this is My covenant with them,” says the LORD. “My Spirit will not depart from you, and My words that I have put in your mouth will not depart from your mouth or from the mouths of your children and grandchildren, from now on and forevermore,” says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.20|<< Isaiah 59:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.1|Isaiah 60:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 59:21** is...

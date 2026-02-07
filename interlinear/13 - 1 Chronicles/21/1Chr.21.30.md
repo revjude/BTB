@@ -1,4 +1,4 @@
-**1 Chronicles 21:30** 
+**1 Chronicles 21:30**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But David could not go before it to inquire of God: for he was afraid because of the sword of the angel of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but David could not go before it to inquire of God, because he was afraid of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.29|<< 1 Chronicles 21:29]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.1|1 Chronicles 22:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was able  |**<big>&#8207;[[H3201\|יָכֹ֥ל]]&#8207; </big>**| ya.Khol<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 12:36** 
+**Exodus 12:36**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD gave the people favour in the sight of the Egyptians, so that they lent unto them [such things as they required]. And they spoiled the Egyptians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD gave the people such favor in the sight of the Egyptians that they 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.35|<< Exodus 12:35]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.37|Exodus 12:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֞ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gave  |**<big>&#8207;[[H5414G\|נָתַ֨ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

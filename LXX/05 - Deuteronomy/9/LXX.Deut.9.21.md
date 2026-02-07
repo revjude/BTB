@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:21** 
 <small><sub>**LXX:**</sub></small>
 And  your sin which you made -- the calf; I took and I incinerated it in fire, and cut it down, and ground it down exceeding, until of which it became fine, and became as a cloud of dust. And I tossed the dust into the rushing stream, the one coming down from the mountain. 
-<small><sub>**KJV:**</sub></small>
-And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, [and] ground [it] very small, [even] until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount.
-<small><sub>**BSB:**</sub></small>
-And I took that sinful thing, the calf you had made, and burned it in the fire. Then I crushed it and ground it to powder as fine as dust, and I cast it into the stream that came down from the mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.20|<< Deuteronomy 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.22|Deuteronomy 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

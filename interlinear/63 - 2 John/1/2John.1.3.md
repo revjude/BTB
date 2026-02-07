@@ -1,12 +1,12 @@
-**2 John 1:3
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:3**<big><big>[[2John.1.1 A Greeting from the Elder|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Grace be with you, mercy, [and] peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
 <small><sub>**BSB:**</sub></small>
 Grace, mercy, and peace from God the Father and from Jesus Christ, the Son of the Father, will be with us in truth and love.
 <small><sub>**Literal:**</sub></small>
 Will be with us grace mercy [and] peace from God [the] Father and from Lord Jesus Christ the Son of the Father in truth and love.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.2|<< 2 John 1:2]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.4|2 John 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Will be |**<big>[[G1510\|ἔσται]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with |**<big>[[G3326\|μεθ᾽]]</big>**  |meth᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

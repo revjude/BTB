@@ -1,4 +1,4 @@
-**1 Chronicles 14:14** 
+**1 Chronicles 14:14**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore David inquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David again inquired of God, who answered him, “Do not march up after them,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.13|<< 1 Chronicles 14:13]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.15|1 Chronicles 14:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he enquired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7592\|יִּשְׁאַ֨ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.'Al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֤וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

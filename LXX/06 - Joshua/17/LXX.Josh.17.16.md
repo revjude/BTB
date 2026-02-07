@@ -1,10 +1,7 @@
 **LXX Joshua 17:16** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Joseph said, Mount Ephraim does not please us, for choice horses and an iron \[weapon\] \[is\] to all the Canaanite  dwelling in the land Emek in Beth-shean, and in  her towns, and in the valley of Jezreel. 
-<small><sub>**KJV:**</sub></small>
-And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, [both they] who [are] of Bethshean and her towns, and [they] who [are] of the valley of Jezreel.
-<small><sub>**BSB:**</sub></small>
-“The hill country is not enough for us,” they replied, “and all the Canaanites who live in the valley have iron chariots, both in Beth-shean with its towns and in the Valley of Jezreel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.15|<< Joshua 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.17|Joshua 17:17 >>]]</td></tr></table>
 
 | Translation | Greek |

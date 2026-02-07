@@ -1,4 +1,4 @@
-**Amos 5:6** 
+**Amos 5:6**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour [it], and [there be] none to quench [it] in Bethel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seek the LORD and live, or He will sweep like fire through the house of Joseph; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.5|<< Amos 5:5]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.7|Amos 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seek  |**<big>&#8207;[[H1875\|דִּרְשׁ֥וּ]]&#8207; </big>**| dir.Shu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

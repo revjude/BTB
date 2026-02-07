@@ -1,4 +1,4 @@
-**Isaiah 34:17** 
+**Isaiah 34:17**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has allotted their portion; His hand has distributed it by measure. They will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.16|<< Isaiah 34:16]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.1|Isaiah 35:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has cast  |**<big>&#8207;[[H5307I\|הִפִּ֤יל]]&#8207; </big>**| hi.Pil<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

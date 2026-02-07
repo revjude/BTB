@@ -1,10 +1,10 @@
-**Proverbs 16:2** 
+**Proverbs 16:2**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the ways of a man [are] clean in his own eyes; but the LORD weigheth the spirits.
 <small><sub>**BSB:**</sub></small>
 All a man’s ways are pure in his own eyes, but his motives are weighed out by the LORD.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.1|<< Proverbs 16:1]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.3|Proverbs 16:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ways of  |**<big>&#8207;[[H1870G\|דַּרְכֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| dar.khei-<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

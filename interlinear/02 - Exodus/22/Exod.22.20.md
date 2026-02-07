@@ -1,4 +1,4 @@
-**Exodus 22:20** (22:19)
+**Exodus 22:20**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that sacrificeth unto [any] god, save unto the LORD only, he shall be utterly destroyed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If anyone sacrifices to any god other than the LORD alone, he must be set apart 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.19|<< Exodus 22:19]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.21|Exodus 22:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] sacrifices  |**<big>&#8207;[[H2076\|זֹבֵ֥חַ]]&#8207; </big>**| zo.Ve.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the gods  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0430J\|אֱלֹהִ֖ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

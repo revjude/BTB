@@ -1,10 +1,7 @@
 **LXX Exodus 40:31** 
 <small><sub>**LXX:**</sub></small>
 for Moses and Aaron and his sons to wash from it  their hands and  feet, 
-<small><sub>**KJV:**</sub></small>
-And Moses and Aaron and his sons washed their hands and their feet thereat:
-<small><sub>**BSB:**</sub></small>
-and from it Moses, Aaron, and his sons washed their hands and feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.30|<< Exodus 40:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.32|Exodus 40:32 >>]]</td></tr></table>
 
 | Translation | Greek |

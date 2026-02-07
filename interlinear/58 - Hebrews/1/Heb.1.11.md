@@ -1,5 +1,5 @@
-**Hebrews 1:11
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:11**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They shall perish; but thou remainest; and they all shall wax old as doth a garment;
 <small><sub>**BSB:**</sub></small>
 They will perish, but You remain; they will all wear out like a garment.
@@ -10,7 +10,7 @@ They themselves will perish, You yourself however remain; and all like a garment
 > $\quad$ referencing: [[LXX.Ps.102.25|Ps 102:25-27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They themselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will perish, |**<big>[[G0622\|ἀπολοῦνται,]]</big>**  |apolountai <small><sup>[[V-FMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

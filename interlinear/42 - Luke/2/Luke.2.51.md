@@ -1,12 +1,12 @@
-**Luke 2:51
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:51**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.
 <small><sub>**BSB:**</sub></small>
 Then He went down to Nazareth with them and was obedient to them. But His mother treasured up all these things in her heart.
 <small><sub>**Literal:**</sub></small>
 And He went down with them and He came to Nazareth and He was subject to them. And the mother of Him was treasuring up all <the> declaration these in the heart of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.50|<< Luke 2:50]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.52|Luke 2:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He went down |**<big>[[G2597\|κατέβη]]</big>**  |katebē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

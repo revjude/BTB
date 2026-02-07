@@ -1,10 +1,7 @@
 **LXX Hosea 2:7** 
 <small><sub>**LXX:**</sub></small>
 And she shall pursue  her lovers, and in no way shall she overtake them; and she shall seek them, and in no way shall she find \[them\]. And she shall say, I shall go and return to  my former husband, for it was good to me then \[rather\] than now. 
-<small><sub>**KJV:**</sub></small>
-And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find [them]: then shall she say, I will go and return to my first husband; for then [was it] better with me than now.
-<small><sub>**BSB:**</sub></small>
-She will pursue her lovers but not catch them; she will seek them but not find them. Then she will say, ‘I will return to my first husband, for then I was better off than now.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.6|<< Hosea 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.8|Hosea 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

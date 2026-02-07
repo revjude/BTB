@@ -1,4 +1,4 @@
-**Isaiah 63:2** 
+**Isaiah 63:2**<big><big>[[Isa.63.1 God’s Vengeance on the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore [art thou] red in thine apparel, and thy garments like him that treadeth in the winefat?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why are Your clothes red, and Your garments like one who treads the winepress?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.1|<< Isaiah 63:1]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.3|Isaiah 63:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַדּ֥וּעַ]]&#8207; </big>**| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [does] redness  |**<big>&#8207;[[H0122A\|אָדֹ֖ם]]&#8207; </big>**| 'a.Dom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

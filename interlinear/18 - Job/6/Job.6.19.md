@@ -1,4 +1,4 @@
-**Job 6:19** 
+**Job 6:19**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The troops of Tema looked, the companies of Sheba waited for them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The caravans of Tema look for water; the travelers of Sheba hope to find it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.18|<< Job 6:18]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.20|Job 6:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they look  |**<big>&#8207;[[H5027\|הִ֭בִּיטוּ]]&#8207; </big>**| Hi.bi.tu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] caravans of  |**<big>&#8207;[[H0734\|אָרְח֣וֹת]]&#8207; </big>**| 'a.re.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

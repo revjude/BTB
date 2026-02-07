@@ -1,12 +1,12 @@
-**Acts 21:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:19**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had saluted them, he declared particularly what things God had wrought among the Gentiles by his ministry.
 <small><sub>**BSB:**</sub></small>
 Paul greeted them and recounted one by one the things that God had done among the Gentiles through his ministry.
 <small><sub>**Literal:**</sub></small>
 And having greeted them he was relating by one each of the things did <the> God among the Gentiles through the ministry of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.18|<< Acts 21:18]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.20|Acts 21:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having greeted |**<big>[[G0782\|ἀσπασάμενος]]</big>**  |aspasamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

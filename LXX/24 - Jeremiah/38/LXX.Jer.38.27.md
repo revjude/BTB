@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:27** 
 <small><sub>**LXX:**</sub></small>
 And came all the rulers to Jeremiah, and they asked him. And he announced to them according to all  these words which the king gave charge to him. And they were silent, for the matter was not heard. 
-<small><sub>**KJV:**</sub></small>
-Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived.
-<small><sub>**BSB:**</sub></small>
-When all the officials came to Jeremiah and questioned him, he relayed to them the exact words the king had commanded him to say. So they said no more to him, for no one had overheard the conversation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.26|<< Jeremiah 38:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.28|Jeremiah 38:28 >>]]</td></tr></table>
 
 | Translation | Greek |

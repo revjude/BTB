@@ -1,10 +1,7 @@
 **LXX Genesis 41:7** 
 <small><sub>**LXX:**</sub></small>
 And the seven thin and destroyed by wind ears of corn swallowed down the seven choice and full ears of corn. And Pharaoh arose, and it was a dream. 
-<small><sub>**KJV:**</sub></small>
-And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, [it was] a dream.
-<small><sub>**BSB:**</sub></small>
-And the thin heads of grain swallowed up the seven plump, ripe ones. Then Pharaoh awoke and realized it was a dream.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.6|<< Genesis 41:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.8|Genesis 41:8 >>]]</td></tr></table>
 
 | Translation | Greek |

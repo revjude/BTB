@@ -1,4 +1,4 @@
-**Psalms 141:5** 
+**Psalms 141:5**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the righteous smite me; [it shall be] a kindness: and let him reprove me; [it shall be] an excellent oil, [which] shall not break my head: for yet my prayer also [shall be] in their calamities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the righteous man strike me; let his rebuke be an act of loving devotion. It
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.4|<< Psalms 141:4]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.6|Psalms 141:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let him strike me  |**<big>&#8207;[[H1986\|יֶֽהֶלְמֵֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.hel.me.<small><sup>[[HVqi3ms]]</sup></small> ni-<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a righteous [person]  |**<big>&#8207;[[H6662\|צַדִּ֨יק]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

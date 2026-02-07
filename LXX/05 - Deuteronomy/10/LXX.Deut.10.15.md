@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:15** 
 <small><sub>**LXX:**</sub></small>
 Except concerning your fathers, \[the\] <span class="smallcaps">lord</span> preferred to love them, and he chose  their seed after them -- you, from all the nations according to  this day. 
-<small><sub>**KJV:**</sub></small>
-Only the LORD had a delight in thy fathers to love them, and he chose their seed after them, [even] you above all people, as [it is] this day.
-<small><sub>**BSB:**</sub></small>
-Yet the LORD has set His affection on your fathers and loved them. And He has chosen you, their descendants after them, above all the peoples, even to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.14|<< Deuteronomy 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.16|Deuteronomy 10:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 10:15** is...

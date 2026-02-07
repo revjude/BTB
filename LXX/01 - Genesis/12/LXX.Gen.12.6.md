@@ -1,10 +1,7 @@
 **LXX Genesis 12:6** 
 <small><sub>**LXX:**</sub></small>
 And Abram traveled through the land unto the place of Shechem unto the high oak. And the Canaanites then dwelt the land. 
-<small><sub>**KJV:**</sub></small>
-And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite [was] then in the land.
-<small><sub>**BSB:**</sub></small>
-Abram traveled through the land as far as the site of the Oak of Moreh at Shechem. And at that time the Canaanites were in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.5|<< Genesis 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.7|Genesis 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 55:17** (55:18)
+**Psalms 55:17**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Morning, noon, and night, I cry out in distress, and He hears my voice.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.16|<< Psalms 55:16]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.18|Psalms 55:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | evening  |**<big>&#8207;[[H6153\|עֶ֤רֶב]]&#8207; </big>**| 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and morning  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1242\|בֹ֣קֶר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Vo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

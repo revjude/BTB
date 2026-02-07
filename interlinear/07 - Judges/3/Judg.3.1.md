@@ -1,4 +1,4 @@
-**Judges 3:1** 
+**Judges 3:1**<big><big>[[Judg.3.1 Nations Left to Test Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the nations which the LORD left, to prove Israel by them, [even] as many [of Israel] as had not known all the wars of Canaan;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the nations that the LORD left to test all the Israelites who had not 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.23|<< Judges 2:23]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.2|Judges 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֤לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the nations  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּוֹיִם֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

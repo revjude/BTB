@@ -1,4 +1,4 @@
-**Exodus 28:7** 
+**Exodus 28:7**<big><big>[[Exod.28.6 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall have the two shoulderpieces thereof joined at the two edges thereof; and [so] it shall be joined together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It shall have two shoulder pieces attached at two of its corners, so it can be f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.6|<< Exodus 28:6]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.8|Exodus 28:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | two  |**<big>&#8207;[[H8147\|שְׁתֵּ֧י]]&#8207; </big>**| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | shoulder-pieces  |**<big>&#8207;[[H3802\|כְתֵפֹ֣ת]]&#8207; </big>**| khe.te.Fot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

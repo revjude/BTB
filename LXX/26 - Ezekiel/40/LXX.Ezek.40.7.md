@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:7** 
 <small><sub>**LXX:**</sub></small>
 And the vestibule \[was\] equal to the reed in length, and equal to the reed in width; and the columned porch in the midst of the chambers -- six cubits. And the second vestibule \[was\] equal to the reed in width, and equal to the reed in length; and the columned porch -- five cubits. 
-<small><sub>**KJV:**</sub></small>
-And [every] little chamber [was] one reed long, and one reed broad; and between the little chambers [were] five cubits; and the threshold of the gate by the porch of the gate within [was] one reed.
-<small><sub>**BSB:**</sub></small>
-Each gate chamber was one rod long and one rod wide, and there were five cubits between the gate chambers. The inner threshold of the gate by the portico facing inward was one rod deep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.6|<< Ezekiel 40:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.8|Ezekiel 40:8 >>]]</td></tr></table>
 
 | Translation | Greek |

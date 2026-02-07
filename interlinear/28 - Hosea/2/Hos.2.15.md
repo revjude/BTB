@@ -1,4 +1,4 @@
-**Hosea 2:15** (2:17)
+**Hosea 2:15**<big><big>[[Hos.2.14 God’s Mercy to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There I will give back her vineyards and make the Valley of Achor into a gateway
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.14|<< Hosea 2:14]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.16|Hosea 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַ֨תִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Ta.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to her  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 10:21** 
 <small><sub>**LXX:**</sub></small>
 But I will announce to you the arranging in \[the\] writing of truth. And there is no one holding with me concerning these \[things\], except Michael  your ruler. 
-<small><sub>**KJV:**</sub></small>
-But I will shew thee that which is noted in the scripture of truth: and [there is] none that holdeth with me in these things, but Michael your prince.
-<small><sub>**BSB:**</sub></small>
-But first I will tell you what is inscribed in the Book of Truth. Yet no one has the courage to support me against these, except Michael your prince.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.20|<< Daniel 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.1|Daniel 11:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 10:21** is...

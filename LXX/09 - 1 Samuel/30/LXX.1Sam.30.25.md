@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:25** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass from  that day and forward, that it became for an order and for an ordinance  in Israel until  this day. 
-<small><sub>**KJV:**</sub></small>
-And it was [so] from that day forward, that he made it a statute and an ordinance for Israel unto this day.
-<small><sub>**BSB:**</sub></small>
-And so it has been from that day forward. David established this statute and ordinance for Israel to this very day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.24|<< 1 Samuel 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.26|1 Samuel 30:26 >>]]</td></tr></table>
 
 | Translation | Greek |

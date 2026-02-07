@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:24** 
 <small><sub>**LXX:**</sub></small>
 And his servants led him from the chariot, and hauled him upon the second chariot which was his; and they led him to Jerusalem, and he died, and he was entombed with  his fathers. And all Judah and Jerusalem mourned over Josiah. 
-<small><sub>**KJV:**</sub></small>
-His servants therefore took him out of that chariot, and put him in the second chariot that he had; and they brought him to Jerusalem, and he died, and was buried in [one of] the sepulchres of his fathers. And all Judah and Jerusalem mourned for Josiah.
-<small><sub>**BSB:**</sub></small>
-So his servants took him out of his chariot, put him in his second chariot, and brought him to Jerusalem, where he died. And Josiah was buried in the tomb of his fathers, and all Judah and Jerusalem mourned for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.23|<< 2 Chronicles 35:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.25|2 Chronicles 35:25 >>]]</td></tr></table>
 
 | Translation | Greek |

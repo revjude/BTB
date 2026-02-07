@@ -1,10 +1,7 @@
 **LXX Exodus 20:12** 
 <small><sub>**LXX:**</sub></small>
 Esteem  your father and  your mother! that good should happen to you, and that you may be a long time upon the good earth which \[the\] <span class="smallcaps">lord</span>  your God gives to you. 
-<small><sub>**KJV:**</sub></small>
-Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.
-<small><sub>**BSB:**</sub></small>
-Honor your father and mother, so that your days may be long in the land that the LORD your God is giving you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.11|<< Exodus 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.13|Exodus 20:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 20:12** is...

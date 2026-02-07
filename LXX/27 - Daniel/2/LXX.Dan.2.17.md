@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Daniel went into  his house, and \[to\] Hananiah, and \[to\] Mishael, and \[to\] Azariah  his friends to make known the saying. 
-<small><sub>**KJV:**</sub></small>
-Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:
-<small><sub>**BSB:**</sub></small>
-Then Daniel returned to his house and explained the matter to his friends Hananiah, Mishael, and Azariah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.16|<< Daniel 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.18|Daniel 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

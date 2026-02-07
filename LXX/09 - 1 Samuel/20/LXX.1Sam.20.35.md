@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:35** 
 <small><sub>**LXX:**</sub></small>
 And it became morning, and Jonathan came forth into \[the\] field as he gave order for the testimony \[to\] David, and \[the\] small servant-lad was with him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him.
-<small><sub>**BSB:**</sub></small>
-In the morning Jonathan went out to the field for the appointment with David, and a small boy was with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.34|<< 1 Samuel 20:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.36|1 Samuel 20:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:14** 
 <small><sub>**LXX:**</sub></small>
 And he said, \[It is\] a lie, I \[am\] not fleeing unto the Chaldeans. But he did not listen to him. And Irijah seized  Jeremiah, and brought him to the rulers. 
-<small><sub>**KJV:**</sub></small>
-Then said Jeremiah, [It is] false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes.
-<small><sub>**BSB:**</sub></small>
-“That is a lie,” Jeremiah replied. “I am not deserting to the Chaldeans!” But Irijah would not listen to him; instead, he arrested Jeremiah and took him to the officials.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.13|<< Jeremiah 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.15|Jeremiah 37:15 >>]]</td></tr></table>
 
 | Translation | Greek |

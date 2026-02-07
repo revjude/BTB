@@ -1,10 +1,7 @@
 **LXX Numbers 3:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall give the Levites \[to\] Aaron  your brother, and \[to\] his sons to the priests for a gift being given; these to me are from the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt give the Levites unto Aaron and to his sons: they [are] wholly given unto him out of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Assign the Levites to Aaron and his sons; they have been given exclusively to him from among the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.8|<< Numbers 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.10|Numbers 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

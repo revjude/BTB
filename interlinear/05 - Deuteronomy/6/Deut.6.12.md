@@ -1,4 +1,4 @@
-**Deuteronomy 6:12** 
+**Deuteronomy 6:12**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] beware lest thou forget the LORD, which brought thee forth out of the land of Egypt, from the house of bondage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ be careful not to forget the LORD who brought you out of the land of Egypt, out 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.11|<< Deuteronomy 6:11]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.13|Deuteronomy 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take heed  |**<big>&#8207;[[H8104J\|הִשָּׁ֣מֶר]]&#8207; </big>**| hi.Sha.mer<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to yourself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

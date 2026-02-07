@@ -1,4 +1,4 @@
-**Psalms 53:2** (53:3)
+**Psalms 53:2**<big><big>[[Ps.53.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God looked down from heaven upon the children of men, to see if there were [any] that did understand, that did seek God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ God looks down from heaven upon the sons of men to see if any understand, if any
 > $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God  |**<big>&#8207;[[H0430G\|אֱֽלֹהִ֗ים]]&#8207; </big>**| 'elo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from heaven  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8064\|שָּׁמַיִם֮]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sha.ma.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 20:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:33**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore in the resurrection whose wife of them is she? for seven had her to wife.
 <small><sub>**BSB:**</sub></small>
 So then, in the resurrection, whose wife will she be? For all seven were married to her.”
 <small><sub>**Literal:**</sub></small>
 The woman therefore in the resurrection, of which of them does she become wife? <the> For the seven had her as wife.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.32|<< Luke 20:32]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.34|Luke 20:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">no</abbr> | |
 | woman |**<big>[[G1135H\|γυνὴ]]</big>**  |gunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">no</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 136:24** 
 <small><sub>**LXX:**</sub></small>
 And he ransomed us from  our enemies, for into the eon  \[is\] his mercy. 
-<small><sub>**KJV:**</sub></small>
-And hath redeemed us from our enemies: for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-and freed us from our enemies. His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.136.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.23|<< Psalm 136:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.25|Psalm 136:25 >>]]</td></tr></table>
 
 | Translation | Greek |

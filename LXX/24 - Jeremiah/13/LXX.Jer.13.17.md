@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:17** 
 <small><sub>**LXX:**</sub></small>
 But if you should not hearken, secretly your soul shall weep from in front of insolence; and your eyes shall lead down tears. For the flock \[of the\] <span class="smallcaps">lord</span> was broken up. 
-<small><sub>**KJV:**</sub></small>
-But if ye will not hear it, my soul shall weep in secret places for [your] pride; and mine eye shall weep sore, and run down with tears, because the LORD’S flock is carried away captive.
-<small><sub>**BSB:**</sub></small>
-But if you do not listen, I will weep in secret because of your pride. My eyes will overflow with tears, because the LORD’s flock has been taken captive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.16|<< Jeremiah 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.18|Jeremiah 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

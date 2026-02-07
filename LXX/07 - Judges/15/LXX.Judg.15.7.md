@@ -1,10 +1,7 @@
 **LXX Judges 15:7** 
 <small><sub>**LXX:**</sub></small>
 And Samson said to them, Since you should do thus, I shall not think well, but  I will execute my vengeance against each one of you. 
-<small><sub>**KJV:**</sub></small>
-And Samson said unto them, Though ye have done this, yet will I be avenged of you, and after that I will cease.
-<small><sub>**BSB:**</sub></small>
-And Samson told them, “Because you have done this, I will not rest until I have taken vengeance upon you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.6|<< Judges 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.8|Judges 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

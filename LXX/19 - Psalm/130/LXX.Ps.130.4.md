@@ -1,10 +1,7 @@
 **LXX Psalm 130:4** 
 <small><sub>**LXX:**</sub></small>
 For atonement is by you. Because of  your name I waited for you, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But [there is] forgiveness with thee, that thou mayest be feared.
-<small><sub>**BSB:**</sub></small>
-But with You there is forgiveness, so that You may be feared.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.130.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.130.3|<< Psalm 130:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.5|Psalm 130:5 >>]]</td></tr></table>
 
 | Translation | Greek |

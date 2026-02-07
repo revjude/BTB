@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David the king and the rulers of the force established for the works \[some\] of the sons of Asaph, and Heman, and Jeduthun, the ones declaring with lutes, and with stringed instruments, and with cymbals. And their number was according to \[the\] head \[count\] of men of the ones working in  their service. 
-<small><sub>**KJV:**</sub></small>
-Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:
-<small><sub>**BSB:**</sub></small>
-Additionally, David and the commanders of the army set apart some of the sons of Asaph, Heman, and Jeduthun to prophesy with the accompaniment of lyres, harps, and cymbals. The following is the list of the men who performed this service:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.31|<< 1 Chronicles 24:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.2|1 Chronicles 25:2 >>]]</td></tr></table>
 
 | Translation | Greek |

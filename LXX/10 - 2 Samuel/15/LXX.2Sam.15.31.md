@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:31** 
 <small><sub>**LXX:**</sub></small>
 And it was announced \[to\] David, saying, And Ahithophel is among the ones confederating with Absalom. And David said, O <span class="smallcaps">lord</span>  my God, efface indeed the counsel of Ahithophel! 
-<small><sub>**KJV:**</sub></small>
-And [one] told David, saying, Ahithophel [is] among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness.
-<small><sub>**BSB:**</sub></small>
-Now someone told David: “Ahithophel is among the conspirators with Absalom.” So David pleaded, “O LORD, please turn the counsel of Ahithophel into foolishness!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.30|<< 2 Samuel 15:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.32|2 Samuel 15:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses, saying, Take to yourself Joshua son of Nun! a man who has spirit in him. And you shall place  your hands upon him. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom [is] the spirit, and lay thine hand upon him;
-<small><sub>**BSB:**</sub></small>
-And the LORD replied to Moses, “Take Joshua son of Nun, a man with the Spirit in him, and lay your hands on him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.17|<< Numbers 27:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.19|Numbers 27:19 >>]]</td></tr></table>
 
 | Translation | Greek |

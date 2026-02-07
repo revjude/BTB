@@ -1,5 +1,5 @@
-**Luke 20:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:17**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?
 <small><sub>**BSB:**</sub></small>
 But Jesus looked directly at them and said, “Then what is the meaning of that which is written: ‘The stone the builders rejected has become the cornerstone’?
@@ -10,7 +10,7 @@ But Jesus looked directly at them and said, “Then what is the meaning of that 
 > $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22-23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

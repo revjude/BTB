@@ -1,12 +1,12 @@
-**Mark 11:29
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:29**<big><big>[[Mark.11.27 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto them, I will also ask of you one question, and answer me, and I will tell you by what authority I do these things.
 <small><sub>**BSB:**</sub></small>
 “I will ask you one question,” Jesus replied, “and if you answer Me, I will tell you by what authority I am doing these things.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus answering said to them; I will ask you I myself also one question, and do answer Me, and I will tell you by what authority these things I do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.28|<< Mark 11:28]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.30|Mark 11:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

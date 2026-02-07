@@ -1,4 +1,4 @@
-**1 Chronicles 7:17** 
+**1 Chronicles 7:17**<big><big>[[1Chr.7.14 The Descendants of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Ulam; Bedan. These [were] the sons of Gilead, the son of Machir, the son of Manasseh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The son of Ulam: Bedan. These were the sons of Gilead son of Machir, the son of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.16|<< 1 Chronicles 7:16]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.18|1 Chronicles 7:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ulam  |**<big>&#8207;[[H0198G\|אוּלָ֖ם]]&#8207; </big>**| 'u.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

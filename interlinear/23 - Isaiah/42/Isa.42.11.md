@@ -1,4 +1,4 @@
-**Isaiah 42:11** 
+**Isaiah 42:11**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the wilderness and the cities thereof lift up [their voice], the villages [that] Kedar doth inhabit: let the inhabitants of the rock sing, let them shout from the top of the mountains.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the desert and its cities raise their voices; let the villages of Kedar cry 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.10|<< Isaiah 42:10]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.12|Isaiah 42:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them lift up  |**<big>&#8207;[[H5375N\|יִשְׂא֤וּ]]&#8207; </big>**| yis.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wilderness  |**<big>&#8207;[[H4057B\|מִדְבָּר֙]]&#8207; </big>**| mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

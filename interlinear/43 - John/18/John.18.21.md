@@ -1,12 +1,12 @@
-**John 18:21
-**<small><sub>**KJV:**</sub></small>
+**John 18:21**<big><big>[[John.18.19 Jesus before the High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Why askest thou me? ask them which heard me, what I have said unto them: behold, they know what I said.
 <small><sub>**BSB:**</sub></small>
 Why are you asking Me? Ask those who heard My message. Surely they know what I said.”
 <small><sub>**Literal:**</sub></small>
 Why Me do you ask? do ask those having heard what I spoke to them. behold they know what said I myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.20|<< John 18:20]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.22|John 18:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Why |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Me |**<big>[[G3165\|με]]</big>**  |me <small><sup>[[P-1AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

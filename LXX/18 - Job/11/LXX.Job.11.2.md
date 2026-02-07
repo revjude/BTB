@@ -1,10 +1,7 @@
 **LXX Job 11:2** 
 <small><sub>**LXX:**</sub></small>
 The one  saying many \[things\] also shall listen in turn; or \[does\] the well-spoken imagine \[himself\] to be just? Blessed be \[the\] one born of woman short-lived. 
-<small><sub>**KJV:**</sub></small>
-Should not the multitude of words be answered? and should a man full of talk be justified?
-<small><sub>**BSB:**</sub></small>
-“Should this stream of words go unanswered and such a speaker be vindicated?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.1|<< Job 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.3|Job 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

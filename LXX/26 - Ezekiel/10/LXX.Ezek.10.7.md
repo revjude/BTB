@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:7** 
 <small><sub>**LXX:**</sub></small>
 And the cherub stretched out  his hand into \[the\] midst of the fire, of the one being in \[the\] midst of the cherubim. And he took, and put \[it\] unto the hands of the one being clothed by the holy robe. And he took \[it\] and came forth. 
-<small><sub>**KJV:**</sub></small>
-And [one] cherub stretched forth his hand from between the cherubims unto the fire that [was] between the cherubims, and took [thereof], and put [it] into the hands of [him that was] clothed with linen: who took [it], and went out.
-<small><sub>**BSB:**</sub></small>
-Then one of the cherubim reached out his hand and took some of the fire that was among them. And he put it into the hands of the man clothed in linen, who received it and went out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.6|<< Ezekiel 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.8|Ezekiel 10:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 10:7** is...

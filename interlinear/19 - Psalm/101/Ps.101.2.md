@@ -1,4 +1,4 @@
-**Psalms 101:2** 
+**Psalms 101:2**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will ponder the way that is blameless—when will You come to me? I will walk 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.1|<< Psalms 101:1]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.3|Psalms 101:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will give attention  |**<big>&#8207;[[H7919A\|אַשְׂכִּ֤ילָה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'as.Ki.lah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to a way  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1870G\|דֶ֬רֶךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

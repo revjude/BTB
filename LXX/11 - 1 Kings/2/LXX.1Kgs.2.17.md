@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:17** 
 <small><sub>**LXX:**</sub></small>
 And he said to her, Speak indeed to Solomon the king! for he will not turn away  your face, so that he shall give to me  Abishag the Shunammite for wife. 
-<small><sub>**KJV:**</sub></small>
-And he said, Speak, I pray thee, unto Solomon the king, (for he will not say thee nay,) that he give me Abishag the Shunammite to wife.
-<small><sub>**BSB:**</sub></small>
-Adonijah replied, “Please speak to King Solomon, since he will not turn you down. Let him give me Abishag the Shunammite as my wife.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.16|<< 1 Kings 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.18|1 Kings 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

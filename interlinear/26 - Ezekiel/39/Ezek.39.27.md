@@ -1,4 +1,4 @@
-**Ezekiel 39:27** 
+**Ezekiel 39:27**<big><big>[[Ezek.39.21 Israel to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I have brought them again from the people, and gathered them out of their enemies’ lands, and am sanctified in them in the sight of many nations;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I bring them back from the peoples and gather them out of the lands of thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.26|<< Ezekiel 39:26]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.28|Ezekiel 39:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when bring back I  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7725G\|שׁוֹבְבִ֤]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sho.V<small><sup>[[HVpcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

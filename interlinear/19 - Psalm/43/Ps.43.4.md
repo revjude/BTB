@@ -1,4 +1,4 @@
-**Psalms 43:4** 
+**Psalms 43:4**<big><big>[[Ps.43.1 Send Out Your Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I will go to the altar of God, to God, my greatest joy. I will praise You w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.43.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43.3|<< Psalms 43:3]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.5|Psalms 43:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will go  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0935G\|אָב֤וֹאָה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Vo.'ah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 5:29** 
+**Numbers 5:29**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the law of jealousies, when a wife goeth aside [to another] instead of her husband, and is defiled;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the law of jealousy when a wife goes astray and defiles herself while un
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.28|<< Numbers 5:28]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.30|Numbers 5:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֥את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] law of  |**<big>&#8207;[[H8451\|תּוֹרַ֖ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

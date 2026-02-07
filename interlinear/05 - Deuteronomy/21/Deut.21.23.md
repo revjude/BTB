@@ -1,4 +1,4 @@
-**Deuteronomy 21:23** 
+**Deuteronomy 21:23**<big><big>[[Deut.21.22 Cursed Is Anyone Hung on a Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged [is] accursed of God;) that thy land be not defiled, which the LORD thy God giveth thee [for] an inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ you must not leave the body on the tree overnight, but you must be sure to bury 
 > $\quad$ referenced by: [[Gal.3.13|Gal 3:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will remain overnight  |**<big>&#8207;[[H3885A\|תָלִ֨ין]]&#8207; </big>**| ta.Lin<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

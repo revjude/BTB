@@ -1,10 +1,7 @@
 **LXX Leviticus 21:17** 
 <small><sub>**LXX:**</sub></small>
 Speak to Aaron, saying, A man from  your kind, throughout  your generations, to any if there might be on him a blemish, shall not come forward to offer the gifts  of his God. 
-<small><sub>**KJV:**</sub></small>
-Speak unto Aaron, saying, Whosoever [he be] of thy seed in their generations that hath [any] blemish, let him not approach to offer the bread of his God.
-<small><sub>**BSB:**</sub></small>
-“Say to Aaron, ‘For the generations to come, none of your descendants who has a physical defect may approach to offer the food of his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.16|<< Leviticus 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.18|Leviticus 21:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Philippians 3:11
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:11**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If by any means I might attain unto the resurrection of the dead.
 <small><sub>**BSB:**</sub></small>
 and so, somehow, to attain to the resurrection from the dead.
 <small><sub>**Literal:**</sub></small>
 if somehow I shall attain to the resurrection that out from [the] dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.10|<< Philippians 3:10]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.12|Philippians 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | somehow |**<big>[[G4458\|πως]]</big>**  |pōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

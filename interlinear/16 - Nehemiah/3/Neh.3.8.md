@@ -1,4 +1,4 @@
-**Nehemiah 3:8** 
+**Nehemiah 3:8**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of [one of] the apothecaries, and they fortified Jerusalem unto the broad wall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next to them, Uzziel son of Harhaiah, one of the goldsmiths, made repairs. And n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.7|<< Nehemiah 3:7]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.9|Nehemiah 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand his  |**<big>&#8207;[[H3027I\|יָד֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

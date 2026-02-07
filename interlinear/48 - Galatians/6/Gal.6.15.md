@@ -1,12 +1,12 @@
-**Galatians 6:15
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:15**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.
 <small><sub>**BSB:**</sub></small>
 For neither circumcision nor uncircumcision means anything. What counts is a new creation.
 <small><sub>**Literal:**</sub></small>
 in Christ Jesus Neither for circumcision anything is nor uncircumcision instead a new creation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.14|<< Galatians 6:14]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.16|Galatians 6:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | Christ |**<big>[[G5547\|Χριστῷ]]</big>**  |Christō <small><sup>[[N-DSM-T]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

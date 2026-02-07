@@ -1,4 +1,4 @@
-**Jeremiah 23:9** 
+**Jeremiah 23:9**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the LORD, and because of the words of his holiness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the prophets: My heart is broken within me, and all my bones tremble. I h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.8|<< Jeremiah 23:8]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.10|Jeremiah 23:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of the prophets  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5030\|נְּבִאִ֞ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is broken  |**<big>&#8207;[[H7665\|נִשְׁבַּ֧ר]]&#8207; </big>**| nish.Bar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

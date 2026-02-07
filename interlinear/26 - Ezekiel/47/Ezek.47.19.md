@@ -1,4 +1,4 @@
-**Ezekiel 47:19** 
+**Ezekiel 47:19**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the south side southward, from Tamar [even] to the waters of strife [in] Kadesh, the river to the great sea. And [this is] the south side southward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the south side it will run from Tamar to the waters of Meribath-kadesh, and a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.18|<< Ezekiel 47:18]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.20|Ezekiel 47:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] side of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6285\|פְאַת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] south  |**<big>&#8207;[[H5045H\|נֶ֣גֶב]]&#8207; </big>**| Ne.gev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,6 +1,6 @@
 (KJV) **Psalm 124**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.123|<< Psalm 123]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.125|Psalm 125 >>]]</td></tr></table>
 
-***Our Help Is in the Name of the LORD*** ^bsb1417
+<big><big>[[Ps.124.1 Our Help Is in the Name of the LORD|⥃]]</big></big>***Our Help Is in the Name of the LORD***
 
 
 

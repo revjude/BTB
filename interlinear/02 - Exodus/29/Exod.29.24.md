@@ -1,4 +1,4 @@
-**Exodus 29:24** 
+**Exodus 29:24**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them [for] a wave offering before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Put all these in the hands of Aaron and his sons and wave them before the LORD a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.23|<< Exodus 29:23]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.25|Exodus 29:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760H\|שַׂמְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> everything  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3605\|כֹּ֔ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

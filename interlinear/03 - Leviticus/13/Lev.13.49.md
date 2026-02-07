@@ -1,4 +1,4 @@
-**Leviticus 13:49** 
+**Leviticus 13:49**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it [is] a plague of leprosy, and shall be shewed unto the priest:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if the mark in the fabric, leather, weave, knit, or leather article is green
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.48|<< Leviticus 13:48]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.50|Leviticus 13:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the plague  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5061\|נֶּ֜גַע]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ne.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

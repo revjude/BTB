@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hear, and give ear, and do not be encouraged! for \[the\] <span class="smallcaps">lord</span> spoke. 
-<small><sub>**KJV:**</sub></small>
-Hear ye, and give ear; be not proud: for the LORD hath spoken.
-<small><sub>**BSB:**</sub></small>
-Listen and give heed. Do not be arrogant, for the LORD has spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.14|<< Jeremiah 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.16|Jeremiah 13:16 >>]]</td></tr></table>
 
 | Translation | Greek |

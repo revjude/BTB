@@ -1,4 +1,4 @@
-**1 Kings 9:15** 
+**1 Kings 9:15**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the reason of the levy which king Solomon raised; for to build the house of the LORD, and his own house, and Millo, and the wall of Jerusalem, and Hazor, and Megiddo, and Gezer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the account of the forced labor that King Solomon imposed to build the h
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.14|<< 1 Kings 9:14]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.16|1 Kings 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] word of  |**<big>&#8207;[[H1697M\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

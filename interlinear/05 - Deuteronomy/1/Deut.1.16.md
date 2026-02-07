@@ -1,4 +1,4 @@
-**Deuteronomy 1:16** 
+**Deuteronomy 1:16**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I charged your judges at that time, saying, Hear [the causes] between your brethren, and judge righteously between [every] man and his brother, and the stranger [that is] with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time I charged your judges: “Hear the disputes between your brothers, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.15|<< Deuteronomy 1:15]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.17|Deuteronomy 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I commanded  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6680\|אֲצַוֶּה֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.tza.Veh<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 6:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall build an altar to the <span class="smallcaps">lord</span>  your God, to the one appearing to you upon the top  of this mountain of Maoz in the battle array. And you shall take with the second calf, and you shall offer whole burnt-offerings in the trees of the sacred grove which you cut down. 
-<small><sub>**KJV:**</sub></small>
-And build an altar unto the LORD thy God upon the top of this rock, in the ordered place, and take the second bullock, and offer a burnt sacrifice with the wood of the grove which thou shalt cut down.
-<small><sub>**BSB:**</sub></small>
-Then build a proper altar to the LORD your God on the top of this stronghold. And with the wood of the Asherah pole you cut down, take the second bull and offer it as a burnt offering.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.25|<< Judges 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.27|Judges 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

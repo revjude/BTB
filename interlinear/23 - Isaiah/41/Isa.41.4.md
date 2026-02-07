@@ -1,4 +1,4 @@
-**Isaiah 41:4** 
+**Isaiah 41:4**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath wrought and done [it], calling the generations from the beginning? I the LORD, the first, and with the last; I [am] he.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who has performed this and carried it out, calling forth the generations from th
 > $\quad$ referenced by: [[Rev.1.8|Rev 1:8]] ☩ [[Rev.22.13|Rev 22:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he done [it]  |**<big>&#8207;[[H6466\|פָעַ֣ל]]&#8207; </big>**| fa.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

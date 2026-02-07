@@ -1,4 +1,4 @@
-**Genesis 31:10** 
+**Genesis 31:10**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle [were] ringstraked, speckled, and grisled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the flocks were breeding, I saw in a dream that the streaked, spotted, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.9|<< Genesis 31:9]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.11|Genesis 31:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at [the] time  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6256\|עֵת֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

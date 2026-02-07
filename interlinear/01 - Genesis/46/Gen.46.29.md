@@ -1,4 +1,4 @@
-**Genesis 46:29** 
+**Genesis 46:29**<big><big>[[Gen.46.28 Jacob Arrives in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joseph prepared his chariot and went there to meet his father Israel. Joseph pre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.28|<< Genesis 46:28]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.30|Genesis 46:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he harnessed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0631\|יֶּאְסֹ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye'.Sor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵף֙]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

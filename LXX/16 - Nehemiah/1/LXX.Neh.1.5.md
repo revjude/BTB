@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:5** 
 <small><sub>**LXX:**</sub></small>
 And I said, O indeed, O <span class="smallcaps">lord</span>  God  of heaven, the strong and great and fearful \[one\], guarding the covenant and the mercy to the ones loving him and to the ones guarding  his commandments. 
-<small><sub>**KJV:**</sub></small>
-And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:
-<small><sub>**BSB:**</sub></small>
-Then I said: “O LORD, God of heaven, the great and awesome God who keeps His covenant of loving devotion with those who love Him and keep His commandments,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.4|<< Nehemiah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.6|Nehemiah 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

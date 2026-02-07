@@ -1,10 +1,7 @@
 **LXX Joshua 1:2** 
 <small><sub>**LXX:**</sub></small>
 Moses,  my attendant has come to an end; now then rising up, pass over the Jordan! you, and all  this people, into the land which I give to them. 
-<small><sub>**KJV:**</sub></small>
-Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, [even] to the children of Israel.
-<small><sub>**BSB:**</sub></small>
-“Moses My servant is dead. Now therefore arise, you and all these people, and cross over the Jordan into the land that I am giving to the children of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.1|<< Joshua 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.3|Joshua 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

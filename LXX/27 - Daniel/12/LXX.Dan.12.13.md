@@ -1,10 +1,7 @@
 **LXX Daniel 12:13** 
 <small><sub>**LXX:**</sub></small>
 And you, go, for satisfying completion. And you shall rest, and shall rise up at  your lot at \[the\] completion of days. 
-<small><sub>**KJV:**</sub></small>
-But go thou thy way till the end [be]: for thou shalt rest, and stand in thy lot at the end of the days.
-<small><sub>**BSB:**</sub></small>
-But as for you, go on your way until the end. You will rest, and then you will arise to your inheritance at the end of the days.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.12|<< Daniel 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.1.1|Hosea 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

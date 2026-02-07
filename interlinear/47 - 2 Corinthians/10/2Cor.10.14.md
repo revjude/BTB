@@ -1,12 +1,12 @@
-**2 Corinthians 10:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:14**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we stretch not ourselves beyond [our measure], as though we reached not unto you: for we are come as far as to you also in [preaching] the gospel of Christ:
 <small><sub>**BSB:**</sub></small>
 We are not overstepping our bounds, as if we had not come to you. Indeed, we were the first to reach you with the gospel of Christ.
 <small><sub>**Literal:**</sub></small>
 Not for as not reaching to you we are overextending ourselves; as far as for also you we came in the gospel <the> of Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.13|<< 2 Corinthians 10:13]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.15|2 Corinthians 10:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

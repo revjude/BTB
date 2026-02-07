@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:24** 
 <small><sub>**LXX:**</sub></small>
 even the ones dwelling in the cities of Judah, and in all  his land together with \[the\] farmer, and he shall be lifted with \[the\] flock. 
-<small><sub>**KJV:**</sub></small>
-And there shall dwell in Judah itself, and in all the cities thereof together, husbandmen, and they [that] go forth with flocks.
-<small><sub>**BSB:**</sub></small>
-And Judah and all its cities will dwell together in the land, the farmers and those who move with the flocks,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.23|<< Jeremiah 31:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.25|Jeremiah 31:25 >>]]</td></tr></table>
 
 | Translation | Greek |

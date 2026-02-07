@@ -1,10 +1,7 @@
 **LXX Psalm 31:7** 
 <small><sub>**LXX:**</sub></small>
 I will exult and be glad over  your mercy, for you looked upon  my humiliation. You delivered my soul from the \[wants\] of necessities; 
-<small><sub>**KJV:**</sub></small>
-I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;
-<small><sub>**BSB:**</sub></small>
-I will be glad and rejoice in Your loving devotion, for You have seen my affliction; You have known the anguish of my soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.6|<< Psalm 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.8|Psalm 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

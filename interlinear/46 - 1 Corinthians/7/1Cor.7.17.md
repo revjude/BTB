@@ -1,12 +1,12 @@
-**1 Corinthians 7:17
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:17**<big><big>[[1Cor.7.17 Live Your Calling|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.
 <small><sub>**BSB:**</sub></small>
 Regardless, each one should lead the life that the Lord has assigned to him and to which God has called him. This is what I prescribe in all the churches.
 <small><sub>**Literal:**</sub></small>
 only except to each as has assigned the Lord to each as has called <the> God so he should walk; And thus in the churches all I prescribe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.16|<< 1 Corinthians 7:16]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.18|1 Corinthians 7:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only |**<big>[[G1487H\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | except |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

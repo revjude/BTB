@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:4** 
 <small><sub>**LXX:**</sub></small>
 Saddle the horses, mount up the horsemen, and put on  your helmets! Furbish the spears, and put on  your chest \[plates\]! 
-<small><sub>**KJV:**</sub></small>
-Harness the horses; and get up, ye horsemen, and stand forth with [your] helmets; furbish the spears, [and] put on the brigandines.
-<small><sub>**BSB:**</sub></small>
-Harness the horses; mount the steeds; take your positions with helmets on! Polish your spears; put on armor!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.3|<< Jeremiah 46:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.5|Jeremiah 46:5 >>]]</td></tr></table>
 
 | Translation | Greek |

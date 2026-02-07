@@ -1,4 +1,4 @@
-**Genesis 25:16** 
+**Genesis 25:16**<big><big>[[Gen.25.12 The Descendants of Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Ishmael, and these [are] their names, by their towns, and by their castles; twelve princes according to their nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the sons of Ishmael, and these were their names by their villages and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.15|<< Genesis 25:15]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.17|Genesis 25:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֞ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

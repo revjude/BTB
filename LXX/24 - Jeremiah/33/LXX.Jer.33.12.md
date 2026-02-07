@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:12** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span> of the forces, \[There\] shall yet be in  this desolate place (by \[reason of\]  not being a man and cattle in all  of its cities) a lodging for shepherds bedding flocks. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; Again in this place, which is desolate without man and without beast, and in all the cities thereof, shall be an habitation of shepherds causing [their] flocks to lie down.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: In this desolate place, without man or beast, and in all its cities, there will once more be pastures for shepherds to rest their flocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.11|<< Jeremiah 33:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.13|Jeremiah 33:13 >>]]</td></tr></table>
 
 | Translation | Greek |

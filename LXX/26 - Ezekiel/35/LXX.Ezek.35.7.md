@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:7** 
 <small><sub>**LXX:**</sub></small>
 And I will appoint  mount Seir for a wilderness, and \[for\] being made desolate; and I will destroy from it men and beasts. 
-<small><sub>**KJV:**</sub></small>
-Thus will I make mount Seir most desolate, and cut off from it him that passeth out and him that returneth.
-<small><sub>**BSB:**</sub></small>
-I will make Mount Seir a desolate waste and will cut off from it those who come and go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.6|<< Ezekiel 35:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.8|Ezekiel 35:8 >>]]</td></tr></table>
 
 | Translation | Greek |

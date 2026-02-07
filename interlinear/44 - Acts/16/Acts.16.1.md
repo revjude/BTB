@@ -1,12 +1,12 @@
-**Acts 16:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:1**<big><big>[[Acts.16.1 Timothy Joins Paul and Silas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father [was] a Greek:
 <small><sub>**BSB:**</sub></small>
 Paul came to Derbe and then to Lystra, where he found a disciple named Timothy, the son of a believing Jewish woman and a Greek father.
 <small><sub>**Literal:**</sub></small>
 He came then both to Derbe and to Lystra. And behold a disciple certain was there, named Timothy, [the] son of a woman certain Jewish believing, father however a Greek;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.41|<< Acts 15:41]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.2|Acts 16:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He came |**<big>[[G2658\|Κατήντησεν]]</big>**  |Katēntēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

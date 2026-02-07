@@ -1,12 +1,12 @@
-**Acts 12:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:8**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angel said unto him, Gird thyself, and bind on thy sandals. And so he did. And he saith unto him, Cast thy garment about thee, and follow me.
 <small><sub>**BSB:**</sub></small>
 “Get dressed and put on your sandals,” said the angel. Peter did so, and the angel told him, “Wrap your cloak around you and follow me.”
 <small><sub>**Literal:**</sub></small>
 Said then the angel to him; do dress yourself and do yourself put on the sandals of you. He did and so. And he says to him; do yourself wrap around the cloak of you and do follow me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.7|<< Acts 12:7]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.9|Acts 12:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

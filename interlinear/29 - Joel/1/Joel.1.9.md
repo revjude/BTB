@@ -1,4 +1,4 @@
-**Joel 1:9** 
+**Joel 1:9**<big><big>[[Joel.1.8 A Call to Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD’S ministers, mourn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Grain and drink offerings have been cut off from the house of the LORD; the prie
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.8|<< Joel 1:8]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.10|Joel 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has been cut off  |**<big>&#8207;[[H3772I\|הָכְרַ֥ת]]&#8207; </big>**| ha.khe.Rat<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | grain offering  |**<big>&#8207;[[H4503G\|מִנְחָ֛ה]]&#8207; </big>**| min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

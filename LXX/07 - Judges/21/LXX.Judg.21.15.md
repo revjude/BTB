@@ -1,10 +1,7 @@
 **LXX Judges 21:15** 
 <small><sub>**LXX:**</sub></small>
 And the people were comforted concerning  Benjamin, for the <span class="smallcaps">lord</span> made a breach among the tribes of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the people repented them for Benjamin, because that the LORD had made a breach in the tribes of Israel.
-<small><sub>**BSB:**</sub></small>
-The people grieved for Benjamin, because the LORD had made a void in the tribes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.14|<< Judges 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.16|Judges 21:16 >>]]</td></tr></table>
 
 | Translation | Greek |

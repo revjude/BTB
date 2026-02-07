@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:36** 
 <small><sub>**LXX:**</sub></small>
 And Benaiah son of Jehoiada responded to the king, and said, May it be so. \[the\] <span class="smallcaps">lord</span> God of my master the king confirm \[it\]. 
-<small><sub>**KJV:**</sub></small>
-And Benaiah the son of Jehoiada answered the king, and said, Amen: the LORD God of my lord the king say so [too].
-<small><sub>**BSB:**</sub></small>
-“Amen,” replied Benaiah son of Jehoiada. “May the LORD, the God of my lord the king, so declare it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.35|<< 1 Kings 1:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.37|1 Kings 1:37 >>]]</td></tr></table>
 
 | Translation | Greek |

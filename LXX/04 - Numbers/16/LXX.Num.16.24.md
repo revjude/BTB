@@ -1,10 +1,7 @@
 **LXX Numbers 16:24** 
 <small><sub>**LXX:**</sub></small>
 Speak to the congregation! saying, Withdraw round about from the congregation of Korah, and Dathan, and Abiram! 
-<small><sub>**KJV:**</sub></small>
-Speak unto the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram.
-<small><sub>**BSB:**</sub></small>
-“Tell the congregation to move away from the dwellings of Korah, Dathan, and Abiram.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.23|<< Numbers 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.25|Numbers 16:25 >>]]</td></tr></table>
 
 | Translation | Greek |

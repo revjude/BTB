@@ -1,4 +1,4 @@
-**Joel 3:2** (4:2)
+**Joel 3:2**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and [for] my heritage Israel, whom they have scattered among the nations, and parted my land.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will gather all the nations and bring them down to the Valley of Jehoshaphat. 
 > $\quad$ referenced by: [[Rev.16.14|Rev 16:14]] ☩ [[Rev.16.16|Rev 16:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will gather  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6908\|קִבַּצְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.batz.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 2:31** 
 <small><sub>**LXX:**</sub></small>
 All the ones being numbered of the camp of Dan -- a hundred and fifty-seven thousand and six hundred; they shall lift away last according to their order. 
-<small><sub>**KJV:**</sub></small>
-All they that were numbered in the camp of Dan [were] an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards.
-<small><sub>**BSB:**</sub></small>
-The total number of men in the camp of Dan is 157,600; they shall set out last, under their standards.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.30|<< Numbers 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.32|Numbers 2:32 >>]]</td></tr></table>
 
 | Translation | Greek |

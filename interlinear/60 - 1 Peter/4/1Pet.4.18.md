@@ -1,5 +1,5 @@
-**1 Peter 4:18
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:18**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?
 <small><sub>**BSB:**</sub></small>
 And, “If it is hard for the righteous to be saved, what will become of the ungodly and the sinner?”
@@ -10,7 +10,7 @@ And If the righteous [one] with difficulty is saved, the now ungodly and sinner 
 > $\quad$ referencing: [[LXX.Prov.11.31|Prov 11:31]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

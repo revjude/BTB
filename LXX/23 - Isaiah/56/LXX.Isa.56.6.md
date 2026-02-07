@@ -1,10 +1,7 @@
 **LXX Isaiah 56:6** 
 <small><sub>**LXX:**</sub></small>
 And \[I will give it\] to the foreigners  joining \[to the\] <span class="smallcaps">lord</span>, to serve him, and to love the name of \[the\] <span class="smallcaps">lord</span>,  to be to him for manservants and maidservants, and all the ones keeping  my Sabbaths, to not profane, and \[the\] ones holding to  my covenant. 
-<small><sub>**KJV:**</sub></small>
-Also the sons of the stranger, that join themselves to the LORD, to serve him, and to love the name of the LORD, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;
-<small><sub>**BSB:**</sub></small>
-And the foreigners who join themselves to the LORD to minister to Him, to love the name of the LORD, and to be His servants—all who keep the Sabbath without profaning it and who hold fast to My covenant—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.56.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.5|<< Isaiah 56:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.7|Isaiah 56:7 >>]]</td></tr></table>
 
 | Translation | Greek |

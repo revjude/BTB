@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:37** 
 <small><sub>**LXX:**</sub></small>
 And David said, \[The\] <span class="smallcaps">lord</span> who rescued me from out of \[the\] hand of the lion, and from out of \[the\] hand of the bear, he will rescue me from out of \[the\] hand  of this uncircumcised Philistine. And Saul said to David, Go and the <span class="smallcaps">lord</span> will be with you! 
-<small><sub>**KJV:**</sub></small>
-David said moreover, The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the LORD be with thee.
-<small><sub>**BSB:**</sub></small>
-David added, “The LORD, who delivered me from the claws of the lion and the bear, will deliver me from the hand of this Philistine.” “Go,” said Saul, “and may the LORD be with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.36|<< 1 Samuel 17:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.38|1 Samuel 17:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] men were robbers among you, so that they shed blood among you. And they were eating upon the mountains \[to idols\] among you. They committed unholiness in your midst. 
-<small><sub>**KJV:**</sub></small>
-In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness.
-<small><sub>**BSB:**</sub></small>
-Among you are slanderous men bent on bloodshed; within you are those who eat on the mountain shrines and commit acts of indecency.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.8|<< Ezekiel 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.10|Ezekiel 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

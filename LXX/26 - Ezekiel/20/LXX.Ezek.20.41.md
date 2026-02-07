@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:41** 
 <small><sub>**LXX:**</sub></small>
 In a scent of pleasant aroma I will favorably receive you, in  my leading you from out of the peoples, and to take you from out of the places in which you were dispersed in them. And I shall be sanctified in you before \[the\] eyes of the peoples. 
-<small><sub>**KJV:**</sub></small>
-I will accept you with your sweet savour, when I bring you out from the people, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you before the heathen.
-<small><sub>**BSB:**</sub></small>
-When I bring you from the peoples and gather you from the lands to which you have been scattered, I will accept you as a pleasing aroma. And I will show My holiness through you in the sight of the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.40|<< Ezekiel 20:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.42|Ezekiel 20:42 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 4:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:6**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the devil said unto him, All this power will I give thee, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it.
 <small><sub>**BSB:**</sub></small>
 “I will give You authority over all these kingdoms and all their glory,” he said. “For it has been relinquished to me, and I can give it to anyone I wish.
 <small><sub>**Literal:**</sub></small>
 And said to Him the devil; To You will I give <the> authority this all and the glory of it, for to me myself it has been delivered and to whom maybe I shall wish I give it;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.5|<< Luke 4:5]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.7|Luke 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

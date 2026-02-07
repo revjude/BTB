@@ -1,12 +1,12 @@
-**1 Timothy 1:15
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:15**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This [is] a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
 <small><sub>**BSB:**</sub></small>
 This is a trustworthy saying, worthy of full acceptance: Christ Jesus came into the world to save sinners, of whom I am the worst.
 <small><sub>**Literal:**</sub></small>
 Trustworthy [is] the saying and of full acceptance worthy that Christ Jesus came into the world sinners to save, of whom [the] foremost am I myself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.14|<< 1 Timothy 1:14]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.16|1 Timothy 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Trustworthy [is] |**<big>[[G4103\|Πιστὸς]]</big>**  |Pistos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

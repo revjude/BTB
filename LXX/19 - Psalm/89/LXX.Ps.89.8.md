@@ -1,10 +1,7 @@
 **LXX Psalm 89:8** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, the God of the forces, who \[is\] likened to you? You are mighty, O <span class="smallcaps">lord</span>, and  your truth \[is\] round about you. 
-<small><sub>**KJV:**</sub></small>
-O LORD God of hosts, who [is] a strong LORD like unto thee? or to thy faithfulness round about thee?
-<small><sub>**BSB:**</sub></small>
-O LORD God of Hosts, who is like You? O mighty LORD, Your faithfulness surrounds You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.7|<< Psalm 89:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.9|Psalm 89:9 >>]]</td></tr></table>
 
 | Translation | Greek |

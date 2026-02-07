@@ -1,10 +1,7 @@
 **LXX Exodus 31:10** 
 <small><sub>**LXX:**</sub></small>
 and the ministry apparels of Aaron, and the apparels  of his sons in the officiating as priest to me, 
-<small><sub>**KJV:**</sub></small>
-And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office,
-<small><sub>**BSB:**</sub></small>
-as well as the woven garments, both the holy garments for Aaron the priest and the garments for his sons to serve as priests,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.9|<< Exodus 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.11|Exodus 31:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Hebrews 4:3
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:3**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.
 <small><sub>**BSB:**</sub></small>
 Now we who have believed enter that rest. As for the others, it is just as God has said: “So I swore on oath in My anger, ‘They shall never enter My rest.’” And yet His works have been finished since the foundation of the world.
@@ -10,7 +10,7 @@ We enter for into the rest those having believed even as He has said: So I swore
 > $\quad$ referencing: [[LXX.Ps.95.11|Ps 95:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We enter |**<big>[[G1525\|Εἰσερχόμεθα]]</big>**  |Eiserchometha <small><sup>[[V-PNI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

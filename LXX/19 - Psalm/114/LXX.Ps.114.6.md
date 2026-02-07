@@ -1,10 +1,7 @@
 **LXX Psalm 114:6** 
 <small><sub>**LXX:**</sub></small>
 for the mountains leaped as rams, and the hills as little lambs of sheep. 
-<small><sub>**KJV:**</sub></small>
-Ye mountains, [that] ye skipped like rams; [and] ye little hills, like lambs?
-<small><sub>**BSB:**</sub></small>
-O mountains, that you skipped like rams, O hills, like lambs?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.114.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.114.5|<< Psalm 114:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.114.7|Psalm 114:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 3:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:20**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he shall send Jesus Christ, which before was preached unto you:
 <small><sub>**BSB:**</sub></small>
 that times of refreshing may come from the presence of the Lord, and that He may send Jesus, the Christ, who has been appointed for you.
 <small><sub>**Literal:**</sub></small>
 so that maybe may come times of refreshing from [the] presence of the Lord [20] and [that] He may send the [One] appointed to you Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.19|<< Acts 3:19]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.21|Acts 3:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | maybe |**<big>[[G0302\|ἂν]]</big>**  |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

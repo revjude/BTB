@@ -1,4 +1,4 @@
-**Isaiah 57:11** 
+**Isaiah 57:11**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of whom hast thou been afraid or feared, that thou hast lied, and hast not remembered me, nor laid [it] to thy heart? have not I held my peace even of old, and thou fearest me not?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whom have you dreaded and feared, so that you lied and failed to remember Me or 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.10|<< Isaiah 57:10]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.12|Isaiah 57:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom?  |**<big>&#8207;[[H4310\|מִ֞י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

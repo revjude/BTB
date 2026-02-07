@@ -1,4 +1,4 @@
-**Isaiah 63:1** 
+**Isaiah 63:1**<big><big>[[Isa.63.1 God’s Vengeance on the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] this that cometh from Edom, with dyed garments from Bozrah? this [that is] glorious in his apparel, travelling in the greatness of his strength? I that speak in righteousness, mighty to save.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is 
 > $\quad$ referenced by: [[Rev.19.13|Rev 19:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

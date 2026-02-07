@@ -1,4 +1,4 @@
-**Proverbs 26:19** 
+**Proverbs 26:19**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So [is] the man [that] deceiveth his neighbour, and saith, Am not I in sport?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so is the man who deceives his neighbor and says, “I was only joking!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.18|<< Proverbs 26:18]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.20|Proverbs 26:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so  |**<big>&#8207;[[H3651C\|כֵּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ken-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0376G\|אִ֭ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

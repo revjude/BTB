@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:7** 
 <small><sub>**LXX:**</sub></small>
 Remember! you should not forget as much as you provoked \[the\] <span class="smallcaps">lord</span>  your God in the wilderness, from which day you came forth from \[the\] land of Egypt, until you came into  this place, \[for by\] resisting persuasion you completed the \[things\] against \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Remember, [and] forget not, how thou provokedst the LORD thy God to wrath in the wilderness: from the day that thou didst depart out of the land of Egypt, until ye came unto this place, ye have been rebellious against the LORD.
-<small><sub>**BSB:**</sub></small>
-Remember this, and never forget how you provoked the LORD your God in the wilderness. From the day you left the land of Egypt until you reached this place, you have been rebelling against the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.6|<< Deuteronomy 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.8|Deuteronomy 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

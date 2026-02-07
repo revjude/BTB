@@ -1,12 +1,12 @@
-**2 Timothy 2:10
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:10**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore I endure all things for the elect’s sakes, that they may also obtain the salvation which is in Christ Jesus with eternal glory.
 <small><sub>**BSB:**</sub></small>
 For this reason I endure all things for the sake of the elect, so that they too may obtain the salvation that is in Christ Jesus, with eternal glory.
 <small><sub>**Literal:**</sub></small>
 Because of this all things I endure for the sake of the elect, so that also they themselves [the] salvation may obtain that [is] in Christ Jesus with glory eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.9|<< 2 Timothy 2:9]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.11|2 Timothy 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

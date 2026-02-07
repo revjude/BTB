@@ -1,4 +1,4 @@
-**Judges 3:30** 
+**Judges 3:30**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Moab was subdued under the hand of Israel that day, and the land had rest for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.29|<< Judges 3:29]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.31|Judges 3:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was subdued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3665\|תִּכָּנַ֤ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.ka.Na'<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָב֙]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:22** 
 <small><sub>**LXX:**</sub></small>
 All  of his transgressions, as many as he did, they shall not be remembered to him; in  his righteousness which he did he shall live. 
-<small><sub>**KJV:**</sub></small>
-All his transgressions that he hath committed, they shall not be mentioned unto him: in his righteousness that he hath done he shall live.
-<small><sub>**BSB:**</sub></small>
-None of the transgressions he has committed will be held against him. Because of the righteousness he has practiced, he will live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.21|<< Ezekiel 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.23|Ezekiel 18:23 >>]]</td></tr></table>
 
 | Translation | Greek |

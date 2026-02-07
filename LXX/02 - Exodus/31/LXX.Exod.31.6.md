@@ -1,10 +1,7 @@
 **LXX Exodus 31:6** 
 <small><sub>**LXX:**</sub></small>
 And I have given him even  Aholiab, the \[son\] of Ahisamach, of \[the\] tribe of Dan. And to every one discerning in heart I have given understanding. And they shall make all as much as I gave orders to you -- 
-<small><sub>**KJV:**</sub></small>
-And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee;
-<small><sub>**BSB:**</sub></small>
-Moreover, I have selected Oholiab son of Ahisamach, of the tribe of Dan, as his assistant. I have also given skill to all the craftsmen, that they may fashion all that I have commanded you:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.5|<< Exodus 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.7|Exodus 31:7 >>]]</td></tr></table>
 
 | Translation | Greek |

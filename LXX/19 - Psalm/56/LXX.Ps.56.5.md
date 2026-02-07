@@ -1,10 +1,7 @@
 **LXX Psalm 56:5** 
 <small><sub>**LXX:**</sub></small>
 \[The\] entire  day  they abhorred my words; all their thoughts \[are\] against me for bad. 
-<small><sub>**KJV:**</sub></small>
-Every day they wrest my words: all their thoughts [are] against me for evil.
-<small><sub>**BSB:**</sub></small>
-All day long they twist my words; all their thoughts are on my demise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.4|<< Psalm 56:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.6|Psalm 56:6 >>]]</td></tr></table>
 
 | Translation | Greek |

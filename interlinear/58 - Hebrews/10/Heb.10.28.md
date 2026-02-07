@@ -1,5 +1,5 @@
-**Hebrews 10:28
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:28**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that despised Moses’ law died without mercy under two or three witnesses:
 <small><sub>**BSB:**</sub></small>
 Anyone who rejected the law of Moses died without mercy on the testimony of two or three witnesses.
@@ -10,7 +10,7 @@ Having set aside anyone [the] law of Moses without mercies on the basis of two o
 > $\quad$ referencing: [[LXX.Deut.17.6|Deut 17:6]] ☩ [[LXX.Deut.19.15|Deut 19:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having set aside |**<big>[[G0114\|ἀθετήσας]]</big>**  |athetēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

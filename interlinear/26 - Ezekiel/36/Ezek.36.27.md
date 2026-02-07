@@ -1,4 +1,4 @@
-**Ezekiel 36:27** 
+**Ezekiel 36:27**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do [them].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And I will put My Spirit within you and cause you to walk in My statutes and to 
 > $\quad$ related to: [[John.3.5|John 3:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | spirit my  |**<big>&#8207;[[H7307G\|רוּחִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ru.Ch<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

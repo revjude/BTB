@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:15** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, Still there shall be created fields, and houses, and vineyards in  this land. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD of hosts, the God of Israel; Houses and fields and vineyards shall be possessed again in this land.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts, the God of Israel, says: Houses, fields, and vineyards will again be bought in this land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.14|<< Jeremiah 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.16|Jeremiah 32:16 >>]]</td></tr></table>
 
 | Translation | Greek |

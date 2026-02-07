@@ -1,10 +1,7 @@
 **LXX Ezekiel 9:3** 
 <small><sub>**LXX:**</sub></small>
 And the glory of the God  of Israel ascended from the cherubim, (the \[glory\] being upon them,) into the open air of the house. And he called the man  being clothed \[with\] the foot length robe, who had the belt upon his loin. 
-<small><sub>**KJV:**</sub></small>
-And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which [had] the writer’s inkhorn by his side;
-<small><sub>**BSB:**</sub></small>
-Then the glory of the God of Israel rose from above the cherubim, where it had been, and moved to the threshold of the temple. And He called to the man clothed in linen who had the writing kit at his side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.2|<< Ezekiel 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.4|Ezekiel 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

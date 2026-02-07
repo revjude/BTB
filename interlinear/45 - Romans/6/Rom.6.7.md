@@ -1,12 +1,12 @@
-**Romans 6:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:7**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he that is dead is freed from sin.
 <small><sub>**BSB:**</sub></small>
 For anyone who has died has been freed from sin.
 <small><sub>**Literal:**</sub></small>
 The [one] for having died he has been freed from <the> sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.6|<< Romans 6:6]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.8|Romans 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

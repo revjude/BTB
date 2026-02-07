@@ -1,4 +1,4 @@
-**Jeremiah 50:14** 
+**Jeremiah 50:14**<big><big>[[Jer.50.11 Babylon’s Fall Is Certain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put yourselves in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Line up in formation around Babylon, all you who draw the bow! Shoot at her! Spa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.13|<< Jeremiah 50:13]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.15|Jeremiah 50:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | line up  |**<big>&#8207;[[H6186A\|עִרְכ֨וּ]]&#8207; </big>**| 'ir.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

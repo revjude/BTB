@@ -1,10 +1,7 @@
 **LXX Isaiah 41:19** 
 <small><sub>**LXX:**</sub></small>
 I will put into the waterless earth \[the\] cedar and boxwood, and myrtle, and cypress, and white poplar; 
-<small><sub>**KJV:**</sub></small>
-I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and the oil tree; I will set in the desert the fir tree, [and] the pine, and the box tree together:
-<small><sub>**BSB:**</sub></small>
-I will plant cedars in the wilderness, acacias, myrtles, and olive trees. I will set cypresses in the desert, elms and boxwood together,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.18|<< Isaiah 41:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.20|Isaiah 41:20 >>]]</td></tr></table>
 
 | Translation | Greek |

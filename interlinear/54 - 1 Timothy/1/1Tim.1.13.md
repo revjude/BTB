@@ -1,12 +1,12 @@
-**1 Timothy 1:13
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:13**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did [it] ignorantly in unbelief.
 <small><sub>**BSB:**</sub></small>
 I was formerly a blasphemer, a persecutor, and a violent man; yet because I had acted in ignorance and unbelief, I was shown mercy.
 <small><sub>**Literal:**</sub></small>
 <the> formerly being a blasphemer and a persecutor and insolent; but I was shown mercy, because being ignorant I did [it] in unbelief;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.12|<< 1 Timothy 1:12]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.14|1 Timothy 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> [^1] |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | formerly |**<big>[[G4386\|πρότερον]]</big>**  |proteron <small><sup>[[ADV-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

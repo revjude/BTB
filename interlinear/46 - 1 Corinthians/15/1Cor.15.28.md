@@ -1,12 +1,12 @@
-**1 Corinthians 15:28
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:28**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.
 <small><sub>**BSB:**</sub></small>
 And when all things have been subjected to Him, then the Son Himself will be made subject to Him who put all things under Him, so that God may be all in all.
 <small><sub>**Literal:**</sub></small>
 When now shall have been subjected to Him <the> all things, then also Himself the Son will be put in subjection to the [One] having put in subjection to Him <the> all things, so that may be <the> God <the> all in all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.27|<< 1 Corinthians 15:27]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.29|1 Corinthians 15:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

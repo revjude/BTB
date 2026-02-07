@@ -1,4 +1,4 @@
-**Psalms 78:59** 
+**Psalms 78:59**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When God heard [this], he was wroth, and greatly abhorred Israel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On hearing it, God was furious and rejected Israel completely.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.58|<< Psalms 78:58]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.60|Psalms 78:60 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he heard  |**<big>&#8207;[[H8085G\|שָׁמַ֣ע]]&#8207; </big>**| sha.Ma'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

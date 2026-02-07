@@ -1,10 +1,7 @@
 **LXX Exodus 3:4** 
 <small><sub>**LXX:**</sub></small>
 And as \[the\] <span class="smallcaps">lord</span> saw that he neared to see, \[the\] <span class="smallcaps">lord</span> called him from out of the bush, saying, Moses, Moses.  And he said, What is it? 
-<small><sub>**KJV:**</sub></small>
-And when the LORD saw that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he said, Here [am] I.
-<small><sub>**BSB:**</sub></small>
-When the LORD saw that he had gone over to look, God called out to him from within the bush, “Moses, Moses!” “Here I am,” he answered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.3|<< Exodus 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.5|Exodus 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 20:3** 
+**Exodus 20:3**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt have no other gods before me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall have no other gods before Me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.2|<< Exodus 20:2]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.4|Exodus 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be[long]  |**<big>&#8207;[[H1961\|יִהְיֶֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yih.yeh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

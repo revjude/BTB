@@ -1,10 +1,7 @@
 **LXX Psalm 44:4** 
 <small><sub>**LXX:**</sub></small>
 You are he, O my king and  my God, the one giving charge to the deliverances of Jacob. 
-<small><sub>**KJV:**</sub></small>
-Thou art my King, O God: command deliverances for Jacob.
-<small><sub>**BSB:**</sub></small>
-You are my King, O God, who ordains victories for Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.3|<< Psalm 44:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.5|Psalm 44:5 >>]]</td></tr></table>
 
 | Translation | Greek |

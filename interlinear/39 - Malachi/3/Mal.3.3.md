@@ -1,4 +1,4 @@
-**Malachi 3:3** 
+**Malachi 3:3**<big><big>[[Mal.3.1 I Will Send My Messenger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall sit [as] a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And He will sit as a refiner and purifier of silver; He will purify the sons of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.2|<< Malachi 3:2]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.4|Malachi 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will sit  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3427\|יָשַׁ֨ב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Shav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] refines  |**<big>&#8207;[[H6884\|מְצָרֵ֤ף]]&#8207; </big>**| me.tza.Ref<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

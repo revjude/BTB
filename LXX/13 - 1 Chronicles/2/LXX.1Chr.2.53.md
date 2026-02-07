@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:53** 
 <small><sub>**LXX:**</sub></small>
 and Oumasphae \[the\] city of Jair. Aithalim, and Miphithim, and Esamathim, and Emasaraim. From out of these came forth the Zareathitees, and the Eshtaulites. 
-<small><sub>**KJV:**</sub></small>
-And the families of Kirjathjearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites.
-<small><sub>**BSB:**</sub></small>
-and the clans of Kiriath-jearim—the Ithrites, Puthites, Shumathites, and Mishraites. From these descended the Zorathites and Eshtaolites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.52|<< 1 Chronicles 2:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.54|1 Chronicles 2:54 >>]]</td></tr></table>
 
 | Translation | Greek |

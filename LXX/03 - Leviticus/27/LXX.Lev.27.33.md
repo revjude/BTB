@@ -1,10 +1,7 @@
 **LXX Leviticus 27:33** 
 <small><sub>**LXX:**</sub></small>
 You shall not barter it good \[for\] bad, nor bad \[for\] good. And if in bartering you should barter it, it shall be and  its barter holy, it shall not be ransomed. 
-<small><sub>**KJV:**</sub></small>
-He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.
-<small><sub>**BSB:**</sub></small>
-He must not inspect whether it is good or bad, and he shall not make any substitution. But if he does make a substitution, both the animal and its substitute shall become holy; they cannot be redeemed.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.32|<< Leviticus 27:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.34|Leviticus 27:34 >>]]</td></tr></table>
 
 | Translation | Greek |

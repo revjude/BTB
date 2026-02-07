@@ -1,12 +1,12 @@
-**John 6:51
-**<small><sub>**KJV:**</sub></small>
+**John 6:51**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world.
 <small><sub>**BSB:**</sub></small>
 I am the living bread that came down from heaven. If anyone eats of this bread, he will live forever. And this bread, which I will give for the life of the world, is My flesh.”
 <small><sub>**Literal:**</sub></small>
 I myself am the bread which is living <the> from <the> heaven having come down; if anyone shall have eaten of this <the> bread, he will live to the age. and the bread also that I myself will give the flesh of Me is which I myself I will give for the of the world life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.50|<< John 6:50]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.52|John 6:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|Ἐγώ]]</big>**  |Egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | am |**<big>[[G1510\|εἰμι]]</big>**  |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

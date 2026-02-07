@@ -1,4 +1,4 @@
-**Job 30:30** 
+**Job 30:30**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My skin is black upon me, and my bones are burned with heat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My skin grows black and peels, and my bones burn with fever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.29|<< Job 30:29]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.31|Job 30:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | skin my  |**<big>&#8207;[[H5785\|ע֭וֹרִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| o.r<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has become black  |**<big>&#8207;[[H7835\|שָׁחַ֣ר]]&#8207; </big>**| sha.Char<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

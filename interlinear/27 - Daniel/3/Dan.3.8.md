@@ -1,4 +1,4 @@
-**Daniel 3:8** 
+**Daniel 3:8**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore at that time certain Chaldeans came near, and accused the Jews.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At this time some astrologers came forward and maliciously accused the Jews,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.7|<< Daniel 3:7]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.9|Daniel 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as to  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ko<small><sup>[[AR]]</sup></small> l-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | because  |**<big>&#8207;[[H6903H\|קֳבֵ֤ל]]&#8207; </big>**| ko.Vel<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

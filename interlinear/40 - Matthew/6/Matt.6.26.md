@@ -1,12 +1,12 @@
-**Matthew 6:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:26**<big><big>[[Matt.6.25 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?
 <small><sub>**BSB:**</sub></small>
 Look at the birds of the air: They do not sow or reap or gather into barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?
 <small><sub>**Literal:**</sub></small>
 do look at the birds of the air that not they sow nor do they reap nor do they gather into barns — and the Father of you <the> Heavenly feeds them; Surely you yourselves much are more valuable than they?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.25|<< Matthew 6:25]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.27|Matthew 6:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do look |**<big>[[G1689\|ἐμβλέψατε]]</big>**  |emblepsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | at |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

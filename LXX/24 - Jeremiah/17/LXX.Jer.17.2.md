@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:2** 
 <small><sub>**LXX:**</sub></small>
 \[even\] in the remembering of their sons of their shrines and  their sacred groves upon tree woods, upon the high hills. 
-<small><sub>**KJV:**</sub></small>
-Whilst their children remember their altars and their groves by the green trees upon the high hills.
-<small><sub>**BSB:**</sub></small>
-Even their children remember their altars and Asherah poles by the green trees and on the high hills.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.1|<< Jeremiah 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.3|Jeremiah 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

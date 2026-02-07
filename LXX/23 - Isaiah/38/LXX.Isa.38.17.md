@@ -1,10 +1,7 @@
 **LXX Isaiah 38:17** 
 <small><sub>**LXX:**</sub></small>
 Behold, \[being\] in peace \[was\] bitter for me. For you took up my  soul, that it should not perish; and you threw away all my sins behind me. 
-<small><sub>**KJV:**</sub></small>
-Behold, for peace I had great bitterness: but thou hast in love to my soul [delivered it] from the pit of corruption: for thou hast cast all my sins behind thy back.
-<small><sub>**BSB:**</sub></small>
-Surely for my own welfare I had such great anguish; but Your love has delivered me from the pit of oblivion, for You have cast all my sins behind Your back.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.16|<< Isaiah 38:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.18|Isaiah 38:18 >>]]</td></tr></table>
 
 | Translation | Greek |

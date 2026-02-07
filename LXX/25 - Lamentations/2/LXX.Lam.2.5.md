@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">Η</p>
 
 \[The\] <span class="smallcaps">lord</span> became as an enemy. He sunk Israel, he sunk all  his palaces. He utterly destroyed  his fortresses, and multiplied to the daughter of Judah \[the\] one humbling and \[the\] one being humbled. 
-<small><sub>**KJV:**</sub></small>
-The Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation.
-<small><sub>**BSB:**</sub></small>
-The Lord is like an enemy; He has swallowed up Israel. He has swallowed up all her palaces and destroyed her strongholds. He has multiplied mourning and lamentation for the Daughter of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.4|<< Lamentations 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.6|Lamentations 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

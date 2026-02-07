@@ -1,10 +1,7 @@
 **LXX Leviticus 14:3** 
 <small><sub>**LXX:**</sub></small>
 that the priest shall come forth outside the camp. And the priest shall look, and behold, \[if\] the infection has been healed of the leprosy from the leper, 
-<small><sub>**KJV:**</sub></small>
-And the priest shall go forth out of the camp; and the priest shall look, and, behold, [if] the plague of leprosy be healed in the leper;
-<small><sub>**BSB:**</sub></small>
-The priest is to go outside the camp to examine him, and if the skin disease of the afflicted person has healed,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.2|<< Leviticus 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.4|Leviticus 14:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 14:3** is...

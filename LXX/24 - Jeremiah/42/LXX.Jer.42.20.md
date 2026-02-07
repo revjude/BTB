@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:20** 
 <small><sub>**LXX:**</sub></small>
 that you did wickedly in your souls, sending me to \[the\] <span class="smallcaps">lord</span>  your God, saying, Pray concerning us! to \[the\] <span class="smallcaps">lord</span>, and according to all what ever \[the\] <span class="smallcaps">lord</span> our God should say to you, thus you tell us and we will act. 
-<small><sub>**KJV:**</sub></small>
-For ye dissembled in your hearts, when ye sent me unto the LORD your God, saying, Pray for us unto the LORD our God; and according unto all that the LORD our God shall say, so declare unto us, and we will do [it].
-<small><sub>**BSB:**</sub></small>
-For you have deceived yourselves by sending me to the LORD your God, saying, ‘Pray to the LORD our God on our behalf, and as for all that the LORD our God says, tell it to us and we will do it.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.19|<< Jeremiah 42:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.21|Jeremiah 42:21 >>]]</td></tr></table>
 
 | Translation | Greek |

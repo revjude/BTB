@@ -1,4 +1,4 @@
-**Song of Solomon 6:5** 
+**Song of Solomon 6:5**<big><big>[[Song.6.4 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn away thine eyes from me, for they have overcome me: thy hair [is] as a flock of goats that appear from Gilead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn your eyes away from me, for they have overcome me. Your hair is like a floc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.4|<< Song of Solomon 6:4]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.6|Song of Solomon 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn  |**<big>&#8207;[[H5437J\|הָסֵ֤בִּי]]&#8207; </big>**| ha.Se.bi<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes your  |**<big>&#8207;[[H5869A\|עֵינַ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| 'ei.Na.yi<small><sup>[[HNcfdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

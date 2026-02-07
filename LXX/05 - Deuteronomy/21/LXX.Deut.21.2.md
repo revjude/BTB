@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:2** 
 <small><sub>**LXX:**</sub></small>
 there shall come forth  your council of elders, and  your judges, and they shall measure out \[the distances\] of the cities  round about the slain \[person\]; 
-<small><sub>**KJV:**</sub></small>
-Then thy elders and thy judges shall come forth, and they shall measure unto the cities which [are] round about him that is slain:
-<small><sub>**BSB:**</sub></small>
-your elders and judges must come out and measure the distance from the victim to the neighboring cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.1|<< Deuteronomy 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.3|Deuteronomy 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 27:39** 
 <small><sub>**LXX:**</sub></small>
 And Isaac his father answering said to him, Behold, from the fatness of the earth will be  your dwelling, and from the dew of the heaven above. 
-<small><sub>**KJV:**</sub></small>
-And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;
-<small><sub>**BSB:**</sub></small>
-His father Isaac answered him: “Behold, your dwelling place shall be away from the richness of the land, away from the dew of heaven above.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.38|<< Genesis 27:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.40|Genesis 27:40 >>]]</td></tr></table>
 
 | Translation | Greek |

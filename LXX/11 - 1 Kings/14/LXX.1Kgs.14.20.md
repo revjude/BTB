@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:20** 
 <small><sub>**LXX:**</sub></small>
 And the days which Jeroboam reigned \[were\] twenty and two years. And he slept with  his fathers, and Nadab his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And the days which Jeroboam reigned [were] two and twenty years: and he slept with his fathers, and Nadab his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And the length of Jeroboam’s reign was twenty-two years, and he rested with his fathers, and his son Nadab reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.19|<< 1 Kings 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.21|1 Kings 14:21 >>]]</td></tr></table>
 
 | Translation | Greek |

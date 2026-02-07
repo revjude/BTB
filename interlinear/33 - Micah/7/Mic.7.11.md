@@ -1,4 +1,4 @@
-**Micah 7:11** 
+**Micah 7:11**<big><big>[[Mic.7.7 Israel’s Confession and Comfort|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [In] the day that thy walls are to be built, [in] that day shall the decree be far removed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The day for rebuilding your walls will come—the day for extending your boundar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.10|<< Micah 7:10]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.12|Micah 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a day  |**<big>&#8207;[[H3117G\|י֖וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to build  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1129\|בְנ֣וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Not<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

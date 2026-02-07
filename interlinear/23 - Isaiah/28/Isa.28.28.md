@@ -1,4 +1,4 @@
-**Isaiah 28:28** 
+**Isaiah 28:28**<big><big>[[Isa.28.23 Listen and Hear|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bread [corn] is bruised; because he will not ever be threshing it, nor break [it with] the wheel of his cart, nor bruise it [with] his horsemen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Grain for bread must be ground, but it is not endlessly threshed. Though the whe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.27|<< Isaiah 28:27]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.29|Isaiah 28:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bread  |**<big>&#8207;[[H3899H\|לֶ֣חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is crushed  |**<big>&#8207;[[H1854\|יוּדָ֔ק]]&#8207; </big>**| yu.Dak<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 26:24** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> appeared to him in  that night, and said, I am the God of Abraham  your father. Do not fear! for I am with you. And I will bless you, and I will multiply  your seed because of Abraham  your father. 
-<small><sub>**KJV:**</sub></small>
-And the LORD appeared unto him the same night, and said, I [am] the God of Abraham thy father: fear not, for I [am] with thee, and will bless thee, and multiply thy seed for my servant Abraham’s sake.
-<small><sub>**BSB:**</sub></small>
-and that night the LORD appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of My servant Abraham.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.23|<< Genesis 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.25|Genesis 26:25 >>]]</td></tr></table>
 
 | Translation | Greek |

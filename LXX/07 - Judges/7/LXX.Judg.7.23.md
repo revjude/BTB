@@ -1,10 +1,7 @@
 **LXX Judges 7:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man of Israel called for aid of Naphtali, and of Asher, and of all Manasseh; and they pursued after Midian. 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel gathered themselves together out of Naphtali, and out of Asher, and out of all Manasseh, and pursued after the Midianites.
-<small><sub>**BSB:**</sub></small>
-Then the men of Israel were called out from Naphtali, Asher, and all Manasseh, and they pursued the Midianites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.22|<< Judges 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.24|Judges 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

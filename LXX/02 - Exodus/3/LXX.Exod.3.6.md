@@ -1,10 +1,7 @@
 **LXX Exodus 3:6** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, I am the God  of your father; the God of Abraham, and the God of Isaac, and the God of Jacob. And Moses turned  his face, for he venerated to look in the presence of  God. 
-<small><sub>**KJV:**</sub></small>
-Moreover he said, I [am] the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.
-<small><sub>**BSB:**</sub></small>
-Then He said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” At this, Moses hid his face, for he was afraid to look at God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.5|<< Exodus 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.7|Exodus 3:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 3:6** is...

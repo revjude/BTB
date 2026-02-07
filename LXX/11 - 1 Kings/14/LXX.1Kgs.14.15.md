@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall strike  Israel as a reed shaken in the water. And he shall pluck out  Israel upward  of this good soil of which he gave \[to\] their fathers. And he shall winnow them on the other side of the river, because of as many of their sacred groves they made, the <span class="smallcaps">lord</span> to anger. 
-<small><sub>**KJV:**</sub></small>
-For the LORD shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the LORD to anger.
-<small><sub>**BSB:**</sub></small>
-For the LORD will strike Israel as a reed is shaken in the water. He will uproot Israel from this good land that He gave their fathers, and He will scatter them beyond the Euphrates, because they have made their Asherah poles, provoking the LORD to anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.14|<< 1 Kings 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.16|1 Kings 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 19:29** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  God obliterating all the adjacent cities, God remembered  Abraham, and he sent out  Lot from the middle of the final event, in the eradicating the cities in which Lot dwelt in them. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.
-<small><sub>**BSB:**</sub></small>
-So when God destroyed the cities of the plain, He remembered Abraham, and He brought Lot out of the catastrophe that destroyed the cities where he had lived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.28|<< Genesis 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.30|Genesis 19:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 19:29** is...

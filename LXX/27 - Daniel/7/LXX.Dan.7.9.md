@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 I viewed until when thrones were set, and \[the\] old one of days sat down. And  his garment \[was\] as snow -- white. And the hair  of his head \[was\] as pure wool.  His throne a flame of fire,  its wheels \[as\] fire blazing. 
-<small><sub>**KJV:**</sub></small>
-I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire.
-<small><sub>**BSB:**</sub></small>
-As I continued to watch, thrones were set in place, and the Ancient of Days took His seat. His clothing was white as snow, and the hair of His head was like pure wool. His throne was flaming with fire, and its wheels were all ablaze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.8|<< Daniel 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.10|Daniel 7:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:9** is...

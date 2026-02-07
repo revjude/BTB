@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:21** 
 <small><sub>**LXX:**</sub></small>
 And Ahaz took the \[things\] in the house of \[the\] <span class="smallcaps">lord</span>, and the \[things\] in the house of the king, and of the rulers, and gave to the king of Assyria; but he was not for a help to him, 
-<small><sub>**KJV:**</sub></small>
-For Ahaz took away a portion [out] of the house of the LORD, and [out] of the house of the king, and of the princes, and gave [it] unto the king of Assyria: but he helped him not.
-<small><sub>**BSB:**</sub></small>
-Although Ahaz had taken a portion from the house of the LORD, from the royal palace, and from the princes and had presented it to the king of Assyria, it did not help him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.20|<< 2 Chronicles 28:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.22|2 Chronicles 28:22 >>]]</td></tr></table>
 
 | Translation | Greek |

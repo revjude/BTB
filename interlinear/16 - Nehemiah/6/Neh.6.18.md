@@ -1,4 +1,4 @@
-**Nehemiah 6:18** 
+**Nehemiah 6:18**<big><big>[[Neh.6.15 Completion of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [there were] many in Judah sworn unto him, because he [was] the son in law of Shechaniah the son of Arah; and his son Johanan had taken the daughter of Meshullam the son of Berechiah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For many in Judah were bound by oath to him, since he was a son-in-law of Shecan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.17|<< Nehemiah 6:17]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.19|Nehemiah 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | many [people]  |**<big>&#8207;[[H7227A\|רַבִּ֣ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

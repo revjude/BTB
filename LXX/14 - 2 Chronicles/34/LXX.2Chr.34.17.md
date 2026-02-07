@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:17** 
 <small><sub>**LXX:**</sub></small>
 And they cast in a furnace the silver  found in \[the\] house of \[the\] <span class="smallcaps">lord</span>, and they put \[it\] into \[the\] hand of the overseers, and into \[the\] hand of the ones doing the work. 
-<small><sub>**KJV:**</sub></small>
-And they have gathered together the money that was found in the house of the LORD, and have delivered it into the hand of the overseers, and to the hand of the workmen.
-<small><sub>**BSB:**</sub></small>
-They have paid out the money that was found in the house of the LORD and have put it into the hands of the supervisors and workers.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.16|<< 2 Chronicles 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.18|2 Chronicles 34:18 >>]]</td></tr></table>
 
 | Translation | Greek |

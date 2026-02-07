@@ -1,10 +1,7 @@
 **LXX Genesis 41:43** 
 <small><sub>**LXX:**</sub></small>
 And he transported him upon  his second chariot. And a herald proclaimed in front of him. And he placed him over \[the\] entire land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him [ruler] over all the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-He had Joseph ride in his second chariot, with men calling out before him, “Bow the knee!” So he placed him over all the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.42|<< Genesis 41:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.44|Genesis 41:44 >>]]</td></tr></table>
 
 | Translation | Greek |

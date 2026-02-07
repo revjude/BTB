@@ -1,10 +1,7 @@
 **LXX Job 7:20** 
 <small><sub>**LXX:**</sub></small>
 If I sinned, how am I able to act out against you, O one having knowledge of the mind  of men? Why did you establish me as your accuser, and I am a load unto you? 
-<small><sub>**KJV:**</sub></small>
-I have sinned; what shall I do unto thee, O thou preserver of men? why hast thou set me as a mark against thee, so that I am a burden to myself?
-<small><sub>**BSB:**</sub></small>
-If I have sinned, what have I done to You, O watcher of mankind? Why have You made me Your target, so that I am a burden to You?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.19|<< Job 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.21|Job 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

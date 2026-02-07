@@ -1,12 +1,12 @@
-**1 Corinthians 14:18
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:18**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I thank my God, I speak with tongues more than ye all:
 <small><sub>**BSB:**</sub></small>
 I thank God that I speak in tongues more than all of you.
 <small><sub>**Literal:**</sub></small>
 I thank the God of mine than all of you more in tongues speaking;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.17|<< 1 Corinthians 14:17]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.19|1 Corinthians 14:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I thank |**<big>[[G2168\|Εὐχαριστῶ]]</big>**  |Eucharistō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

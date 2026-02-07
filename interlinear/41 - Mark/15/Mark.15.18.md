@@ -1,12 +1,12 @@
-**Mark 15:18
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:18**<big><big>[[Mark.15.16 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And began to salute him, Hail, King of the Jews!
 <small><sub>**BSB:**</sub></small>
 And they began to salute Him: “Hail, King of the Jews!”
 <small><sub>**Literal:**</sub></small>
 and they began to salute Him; Hail the King of the Jews!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.17|<< Mark 15:17]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.19|Mark 15:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they began |**<big>[[G0757\|ἤρξαντο]]</big>**  |ērxanto <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

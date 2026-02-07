@@ -1,10 +1,7 @@
 **LXX Psalm 147:14** 
 <small><sub>**LXX:**</sub></small>
 The one putting  your borders at peace; and \[with\] fatness of wheat filling you up. 
-<small><sub>**KJV:**</sub></small>
-He maketh peace [in] thy borders, [and] filleth thee with the finest of the wheat.
-<small><sub>**BSB:**</sub></small>
-He makes peace at your borders; He fills you with the finest wheat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.147.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.13|<< Psalm 147:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.15|Psalm 147:15 >>]]</td></tr></table>
 
 | Translation | Greek |

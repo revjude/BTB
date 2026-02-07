@@ -1,12 +1,12 @@
-**1 Timothy 5:24
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:24**<big><big>[[1Tim.5.21 A Charge to Timothy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Some men’s sins are open beforehand, going before to judgment; and some [men] they follow after.
 <small><sub>**BSB:**</sub></small>
 The sins of some men are obvious, going ahead of them to judgment; but the sins of others do not surface until later.
 <small><sub>**Literal:**</sub></small>
 Of some men the sins manifest are going before [them] to judgment; of some however also they appear later.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.23|<< 1 Timothy 5:23]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.25|1 Timothy 5:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of some |**<big>[[G5100\|τινῶν]]</big>**  |tinōn <small><sup>[[X-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | men |**<big>[[G0444\|ἀνθρώπων]]</big>**  |anthrōpōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

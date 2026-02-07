@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:29** 
 <small><sub>**LXX:**</sub></small>
 Then it will be whenever \[the\] <span class="smallcaps">lord</span> your God should bring you into the land into which you pass over there to inherit it, then you shall give the blessing upon mount Gerizim, and the curse upon mount Ebal. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when the LORD thy God hath brought thee in unto the land whither thou goest to possess it, that thou shalt put the blessing upon mount Gerizim, and the curse upon mount Ebal.
-<small><sub>**BSB:**</sub></small>
-When the LORD your God brings you into the land you are entering to possess, you are to proclaim the blessing on Mount Gerizim and the curse on Mount Ebal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.28|<< Deuteronomy 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.30|Deuteronomy 11:30 >>]]</td></tr></table>
 
 | Translation | Greek |

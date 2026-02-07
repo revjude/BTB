@@ -1,4 +1,4 @@
-**Job 22:16** 
+**Job 22:16**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which were cut down out of time, whose foundation was overflown with a flood:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They were snatched away before their time, and their foundations were swept away
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.15|<< Job 22:15]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.17|Job 22:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶֽׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were snatched away  |**<big>&#8207;[[H7059\|קֻמְּט֥וּ]]&#8207; </big>**| ku.me.Tu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

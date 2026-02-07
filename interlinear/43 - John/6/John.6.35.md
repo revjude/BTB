@@ -1,12 +1,12 @@
-**John 6:35
-**<small><sub>**KJV:**</sub></small>
+**John 6:35**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “I am the bread of life. Whoever comes to Me will never hunger, and whoever believes in Me will never thirst.
 <small><sub>**Literal:**</sub></small>
 Said now to them <the> Jesus; I myself am the bread <the> of life; the [one] coming to Me myself certainly not may hunger, and the [one] believing in Me myself certainly not will thirst at any time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.34|<< John 6:34]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.36|John 6:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now [^1] [^2] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K(O)</abbr> | |

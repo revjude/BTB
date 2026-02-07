@@ -1,4 +1,4 @@
-**Job 16:9** 
+**Job 16:9**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He teareth [me] in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His anger has torn me and opposed me; He gnashes His teeth at me. My adversary p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.8|<< Job 16:8]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.10|Job 16:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | anger his  |**<big>&#8207;[[H0639G\|אַפּ֤]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'a.P<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has torn [me]  |**<big>&#8207;[[H2963\|טָרַ֨ף]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ta.Raf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

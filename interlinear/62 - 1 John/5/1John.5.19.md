@@ -1,12 +1,12 @@
-**1 John 5:19
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:19**<big><big>[[1John.5.18 The True God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [And] we know that we are of God, and the whole world lieth in wickedness.
 <small><sub>**BSB:**</sub></small>
 We know that we are of God, and that the whole world is under the power of the evil one.
 <small><sub>**Literal:**</sub></small>
 We know that of <the> God we are and the world whole in the evil [one] lies.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.18|<< 1 John 5:18]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.20|1 John 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

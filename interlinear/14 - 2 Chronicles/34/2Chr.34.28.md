@@ -1,4 +1,4 @@
-**2 Chronicles 34:28** 
+**2 Chronicles 34:28**<big><big>[[2Chr.34.22 Huldah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy gra
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.27|<< 2 Chronicles 34:27]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.29|2 Chronicles 34:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will] gather you  |**<big>&#8207;[[H0622\|אֹֽסִפְ]]&#8207;&#8207;[[H9031\|ךָ֜]]&#8207; </big>**| 'o.sif.<small><sup>[[HVqi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

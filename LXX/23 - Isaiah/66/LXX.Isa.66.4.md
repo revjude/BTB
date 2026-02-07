@@ -1,10 +1,7 @@
 **LXX Isaiah 66:4** 
 <small><sub>**LXX:**</sub></small>
 And I will choose  their mockeries, and  I will recompense their sins against them. For I called them, and they did not hearken to me; I spoke and they heard not; and they acted  wickedly before me, and chose that which I did not want. 
-<small><sub>**KJV:**</sub></small>
-I also will choose their delusions, and will bring their fears upon them; because when I called, none did answer; when I spake, they did not hear: but they did evil before mine eyes, and chose [that] in which I delighted not.
-<small><sub>**BSB:**</sub></small>
-So I will choose their punishment and I will bring terror upon them, because I called and no one answered, I spoke and no one listened. But they did evil in My sight and chose that in which I did not delight.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.3|<< Isaiah 66:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.5|Isaiah 66:5 >>]]</td></tr></table>
 
 | Translation | Greek |

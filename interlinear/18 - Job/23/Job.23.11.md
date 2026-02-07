@@ -1,4 +1,4 @@
-**Job 23:11** 
+**Job 23:11**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My foot hath held his steps, his way have I kept, and not declined.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My feet have followed in His tracks; I have kept His way without turning aside.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.10|<< Job 23:10]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.12|Job 23:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on step his  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H0838A\|אֲשֻׁר]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.shu.r<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has taken hold  |**<big>&#8207;[[H0270\|אָחֲזָ֣ה]]&#8207; </big>**| 'a.cha.Zah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

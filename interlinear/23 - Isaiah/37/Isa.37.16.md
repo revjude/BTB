@@ -1,4 +1,4 @@
-**Isaiah 37:16** 
+**Isaiah 37:16**<big><big>[[Isa.37.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD of hosts, God of Israel, that dwellest [between] the cherubims, thou [art] the God, [even] thou alone, of all the kingdoms of the earth: thou hast made heaven and earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ O LORD of hosts, God of Israel, that dwellest [between] the cherubims, thou [art
 > $\quad$ referenced by: [[Acts.4.24|Acts 4:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָא֜וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

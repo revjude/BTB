@@ -1,4 +1,4 @@
-**Genesis 41:54** 
+**Genesis 41:54**<big><big>[[Gen.41.53 The Famine Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ the seven years of famine began, just as Joseph had said. And although there was
 > $\quad$ referenced by: [[Acts.7.11|Acts 7:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they began  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2490C\|תְּחִלֶּ֜ינָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.chi.Lei.nah<small><sup>[[HVhw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שֶׁ֣בַע]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

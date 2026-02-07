@@ -1,4 +1,4 @@
-**1 Kings 3:16** 
+**1 Kings 3:16**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came there two women, [that were] harlots, unto the king, and stood before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time two prostitutes came to the king and stood before him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.15|<< 1 Kings 3:15]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.17|1 Kings 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they came  |**<big>&#8207;[[H0935G\|תָּבֹ֗אנָה]]&#8207; </big>**| ta.Vo.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

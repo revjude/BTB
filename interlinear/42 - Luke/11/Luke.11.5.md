@@ -1,12 +1,12 @@
-**Luke 11:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:5**<big><big>[[Luke.11.5 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Which of you shall have a friend, and shall go unto him at midnight, and say unto him, Friend, lend me three loaves;
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to them, “Suppose one of you goes to his friend at midnight and says, ‘Friend, lend me three loaves of bread,
 <small><sub>**Literal:**</sub></small>
 And He said to them; Who among you will have a friend, and will go to him at midnight and say to him; Friend, do lend me three loaves,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.4|<< Luke 11:4]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.6|Luke 11:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

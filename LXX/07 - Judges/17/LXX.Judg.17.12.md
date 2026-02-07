@@ -1,10 +1,7 @@
 **LXX Judges 17:12** 
 <small><sub>**LXX:**</sub></small>
 And Micah filled up the hand of the Levite, and the young man became to him for a priest, and he was in the house of Micah. 
-<small><sub>**KJV:**</sub></small>
-And Micah consecrated the Levite; and the young man became his priest, and was in the house of Micah.
-<small><sub>**BSB:**</sub></small>
-Micah ordained the Levite, and the young man became his priest and lived in his house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.11|<< Judges 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.13|Judges 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

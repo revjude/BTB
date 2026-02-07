@@ -1,12 +1,12 @@
-**Matthew 19:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:10**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 His disciples say unto him, If the case of the man be so with [his] wife, it is not good to marry.
 <small><sub>**BSB:**</sub></small>
 His disciples said to Him, “If this is the case between a man and his wife, it is better not to marry.”
 <small><sub>**Literal:**</sub></small>
 Say to Him the disciples of Him: If this is the case of the man with the wife, not it is better to marry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.9|<< Matthew 19:9]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.11|Matthew 19:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Say |**<big>[[G3004G\|Λέγουσιν]]</big>**  |Legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 14:7
-**<small><sub>**KJV:**</sub></small>
+**John 14:7**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye had known me, ye should have known my Father also: and from henceforth ye know him, and have seen him.
 <small><sub>**BSB:**</sub></small>
 If you had known Me, you would know My Father as well. From now on you do know Him and have seen Him.”
 <small><sub>**Literal:**</sub></small>
 If you have known Me, also the Father of Mine then you will know; and from now you know Him and you have seen Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.6|<< John 14:6]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.8|John 14:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you have known [^1] |**<big>[[G1097\|ἐγνώκατέ]]</big>**  |egnōkate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27">N(k)O</abbr> | |

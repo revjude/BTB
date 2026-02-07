@@ -1,4 +1,4 @@
-**Numbers 28:4** 
+**Numbers 28:4**<big><big>[[Num.28.1 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The one lamb shalt thou offer in the morning, and the other lamb shalt thou offer at even;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Offer one lamb in the morning and the other at twilight,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.3|<< Numbers 28:3]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.5|Numbers 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lamb  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3532\|כֶּ֥בֶשׂ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ke.ves<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

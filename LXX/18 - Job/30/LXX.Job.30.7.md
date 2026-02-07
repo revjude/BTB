@@ -1,10 +1,7 @@
 **LXX Job 30:7** 
 <small><sub>**LXX:**</sub></small>
 \[the\] ones who pass life under wild stick \[dwellings\] shall yell in \[the\] midst of distinct \[places\]. 
-<small><sub>**KJV:**</sub></small>
-Among the bushes they brayed; under the nettles they were gathered together.
-<small><sub>**BSB:**</sub></small>
-They cried out among the shrubs and huddled beneath the nettles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.6|<< Job 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.8|Job 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

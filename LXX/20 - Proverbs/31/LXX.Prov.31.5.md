@@ -1,10 +1,7 @@
 **LXX Proverbs 31:5** 
 <small><sub>**LXX:**</sub></small>
 lest drinking they should forget  wisdom, and in no way are able rightly to judge the weak. 
-<small><sub>**KJV:**</sub></small>
-Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.
-<small><sub>**BSB:**</sub></small>
-lest they drink and forget what is decreed, depriving all the oppressed of justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.4|<< Proverbs 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.6|Proverbs 31:6 >>]]</td></tr></table>
 
 | Translation | Greek |

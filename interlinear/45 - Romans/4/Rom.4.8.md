@@ -1,5 +1,5 @@
-**Romans 4:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:8**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [is] the man to whom the Lord will not impute sin.
 <small><sub>**BSB:**</sub></small>
 Blessed is the man whose sin the Lord will never count against him.”
@@ -10,7 +10,7 @@ blessed [is] [the] man of whom certainly not may reckon [the] Lord sin.<br><tabl
 > $\quad$ referencing: [[LXX.Ps.32.1|Ps 32:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | blessed [is] |**<big>[[G3107\|μακάριος]]</big>**  |makarios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] man |**<big>[[G0435G\|ἀνὴρ]]</big>**  |anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

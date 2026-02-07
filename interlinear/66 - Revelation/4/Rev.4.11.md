@@ -1,12 +1,12 @@
-**Revelation 4:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:11**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.
 <small><sub>**BSB:**</sub></small>
 “Worthy are You, our Lord and God, to receive glory and honor and power, for You created all things; by Your will they exist and were created.”
 <small><sub>**Literal:**</sub></small>
 Worthy are You Lord and the God of us, the Holy One to receive <the> glory and <the> honor and <the> power. for You yourself created <the> all things, and because of the will of You they were existing and were created.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.10|<< Revelation 4:10]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.1|Revelation 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Worthy |**<big>[[G0514\|ἄξιος]]</big>**  |axios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|εἶ,]]</big>**  |ei <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

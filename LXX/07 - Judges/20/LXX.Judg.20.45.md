@@ -1,10 +1,7 @@
 **LXX Judges 20:45** 
 <small><sub>**LXX:**</sub></small>
 And they turned aside and fled into the wilderness to the rock  of Rimmon. And they gleaned him in the ways -- five thousand men. And they cleaved after them unto Gidom, and struck of them two thousand men. 
-<small><sub>**KJV:**</sub></small>
-And they turned and fled toward the wilderness unto the rock of Rimmon: and they gleaned of them in the highways five thousand men; and pursued hard after them unto Gidom, and slew two thousand men of them.
-<small><sub>**BSB:**</sub></small>
-Then the Benjamites turned and fled toward the wilderness to the rock of Rimmon, and Israel cut down 5,000 men on the roads. And they overtook them at Gidom and struck down 2,000 more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.44|<< Judges 20:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.46|Judges 20:46 >>]]</td></tr></table>
 
 | Translation | Greek |

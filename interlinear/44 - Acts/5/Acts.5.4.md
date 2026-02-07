@@ -1,12 +1,12 @@
-**Acts 5:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:4**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God.
 <small><sub>**BSB:**</sub></small>
 Did it not belong to you before it was sold? And after it was sold, was it not at your disposal? How could you conceive such a deed in your heart? You have not lied to men, but to God!”
 <small><sub>**Literal:**</sub></small>
 Surely remaining to you it was remaining And having been sold in the own authority it was? Why for did you purpose in the heart of you <the> deed this? Not you have lied to men but <the> to God!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.3|<< Acts 5:3]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.5|Acts 5:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3780\|οὐχὶ]]</big>**  |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | remaining |**<big>[[G3306\|μένον]]</big>**  |menon <small><sup>[[V-PAP-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

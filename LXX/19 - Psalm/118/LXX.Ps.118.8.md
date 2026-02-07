@@ -1,10 +1,7 @@
 **LXX Psalm 118:8** 
 <small><sub>**LXX:**</sub></small>
 \[It is\] good to yield unto \[the\] <span class="smallcaps">lord</span>, than to yield unto man. 
-<small><sub>**KJV:**</sub></small>
-[It is] better to trust in the LORD than to put confidence in man.
-<small><sub>**BSB:**</sub></small>
-It is better to take refuge in the LORD than to trust in man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.7|<< Psalm 118:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.9|Psalm 118:9 >>]]</td></tr></table>
 
 | Translation | Greek |

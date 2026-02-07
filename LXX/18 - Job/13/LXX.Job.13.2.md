@@ -1,10 +1,7 @@
 **LXX Job 13:2** 
 <small><sub>**LXX:**</sub></small>
 And I know as much as even you know; and I am not more senseless than you. 
-<small><sub>**KJV:**</sub></small>
-What ye know, [the same] do I know also: I [am] not inferior unto you.
-<small><sub>**BSB:**</sub></small>
-What you know, I also know; I am not inferior to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.1|<< Job 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.3|Job 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:18** 
 <small><sub>**LXX:**</sub></small>
 And I said to  their children in the wilderness, Do not go in the laws of your fathers, and  do not keep their ordinances, and do not intermingle in their practices, and be not defiled! 
-<small><sub>**KJV:**</sub></small>
-But I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their judgments, nor defile yourselves with their idols:
-<small><sub>**BSB:**</sub></small>
-In the wilderness I said to their children: ‘Do not walk in the statutes of your fathers or keep their ordinances or defile yourselves with their idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.17|<< Ezekiel 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.19|Ezekiel 20:19 >>]]</td></tr></table>
 
 | Translation | Greek |

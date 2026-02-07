@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:10** 
 <small><sub>**LXX:**</sub></small>
 He sufficed him in  a wilderness land, in thirst of sweltering heat in a waterless land. He encircled him, and corrected him, and guarded him as a pupil of an eye. 
-<small><sub>**KJV:**</sub></small>
-He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.
-<small><sub>**BSB:**</sub></small>
-He found him in a desert land, in a barren, howling wilderness; He surrounded him, He instructed him, He guarded him as the apple of His eye.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.9|<< Deuteronomy 32:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.11|Deuteronomy 32:11 >>]]</td></tr></table>
 
 | Translation | Greek |

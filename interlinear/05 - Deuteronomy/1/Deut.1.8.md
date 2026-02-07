@@ -1,4 +1,4 @@
-**Deuteronomy 1:8** 
+**Deuteronomy 1:8**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See, I have placed the land before you. Enter and possess the land that the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.7|<< Deuteronomy 1:7]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.9|Deuteronomy 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200I\|רְאֵ֛ה]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I set  |**<big>&#8207;[[H5414H\|נָתַ֥תִּי]]&#8207; </big>**| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

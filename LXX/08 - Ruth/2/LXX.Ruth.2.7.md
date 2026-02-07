@@ -1,10 +1,7 @@
 **LXX Ruth 2:7** 
 <small><sub>**LXX:**</sub></small>
 And she said, I shall collect together please, and I will bring in the sheaves behind the ones harvesting. And she came and stood, from morning and until evening, she did not rest in the field a little. 
-<small><sub>**KJV:**</sub></small>
-And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.
-<small><sub>**BSB:**</sub></small>
-She has said, ‘Please let me glean and gather among the sheaves after the harvesters.’ So she came out and has continued from morning until now, except that she rested a short time in the shelter.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.6|<< Ruth 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.8|Ruth 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

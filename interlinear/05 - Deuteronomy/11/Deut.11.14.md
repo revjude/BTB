@@ -1,4 +1,4 @@
-**Deuteronomy 11:14** 
+**Deuteronomy 11:14**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I will give [you] the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then I will provide rain for your land in season, the autumn and spring rains, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.13|<< Deuteronomy 11:13]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.15|Deuteronomy 11:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתִּ֧י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] rain of  |**<big>&#8207;[[H4306\|מְטַֽר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.tar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

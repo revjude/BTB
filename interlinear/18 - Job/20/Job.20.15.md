@@ -1,4 +1,4 @@
-**Job 20:15** 
+**Job 20:15**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He swallows wealth but vomits it out; God will force it from his stomach.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.14|<< Job 20:14]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.16|Job 20:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wealth  |**<big>&#8207;[[H2428H\|חַ֣יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he swallows  |**<big>&#8207;[[H1104\|בָּ֭לַע]]&#8207; </big>**| Ba.la'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

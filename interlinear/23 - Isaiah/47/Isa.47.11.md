@@ -1,4 +1,4 @@
-**Isaiah 47:11** 
+**Isaiah 47:11**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall evil come upon thee; thou shalt not know from whence it riseth: and mischief shall fall upon thee; thou shalt not be able to put it off: and desolation shall come upon thee suddenly, [which] thou shalt not know.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But disaster will come upon you; you will not know how to charm it away. A calam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.10|<< Isaiah 47:10]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.12|Isaiah 47:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֧א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלַ֣יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

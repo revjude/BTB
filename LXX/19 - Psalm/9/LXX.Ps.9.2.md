@@ -1,10 +1,7 @@
 **LXX Psalm 9:2** 
 <small><sub>**LXX:**</sub></small>
 I will be glad and exult in you. I shall strum \[to\] your name, O highest one. 
-<small><sub>**KJV:**</sub></small>
-I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.
-<small><sub>**BSB:**</sub></small>
-I will be glad and rejoice in You; I will sing praise to Your name, O Most High.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.1|<< Psalm 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.3|Psalm 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

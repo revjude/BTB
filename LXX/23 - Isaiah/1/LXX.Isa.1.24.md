@@ -1,10 +1,7 @@
 **LXX Isaiah 1:24** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says the master, \[the\] <span class="smallcaps">lord</span> of Hosts, Woe the ones being strong of Israel, for my rage will not cease among the contrary ones, and I will execute judgment on my enemies. 
-<small><sub>**KJV:**</sub></small>
-Therefore saith the Lord, the LORD of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:
-<small><sub>**BSB:**</sub></small>
-Therefore the Lord GOD of Hosts, the Mighty One of Israel, declares: “Ah, I will be relieved of My foes and avenge Myself on My enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.23|<< Isaiah 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.25|Isaiah 1:25 >>]]</td></tr></table>
 
 | Translation | Greek |

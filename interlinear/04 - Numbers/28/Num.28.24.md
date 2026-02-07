@@ -1,4 +1,4 @@
-**Numbers 28:24** 
+**Numbers 28:24**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the LORD: it shall be offered beside the continual burnt offering, and his drink offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Offer the same food each day for seven days as a food offering, a pleasing aroma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.23|<< Numbers 28:23]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.25|Numbers 28:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like these [things]  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H0428\|אֵ֜לֶּה]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will offer  |**<big>&#8207;[[H6213I\|תַּעֲשׂ֤וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

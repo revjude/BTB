@@ -1,4 +1,4 @@
-**1 Kings 4:21** (5:1)
+**1 Kings 4:21**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Solomon reigned over all the kingdoms from the Euphrates to the land of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.20|<< 1 Kings 4:20]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.22|1 Kings 4:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Solomon  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8010\|שְׁלֹמֹ֗ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was  |**<big>&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

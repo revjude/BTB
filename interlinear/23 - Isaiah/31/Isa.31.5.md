@@ -1,4 +1,4 @@
-**Isaiah 31:5** 
+**Isaiah 31:5**<big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As birds flying, so will the LORD of hosts defend Jerusalem; defending also he will deliver [it; and] passing over he will preserve [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like birds hovering overhead, so the LORD of Hosts will protect Jerusalem. He wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.31.4|<< Isaiah 31:4]]</td><td align="center" style="border:none;">[[Isa.31|Isaiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.6|Isaiah 31:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like birds  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6833\|צִפֳּרִ֣ים]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> tzi.po.Rim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flying  |**<big>&#8207;[[H5774A\|עָפ֔וֹת]]&#8207; </big>**| a.Fot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Obadiah 1:17** 
+**Obadiah 1:17**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But on Mount Zion there will be deliverance, and it will be holy, and the house 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.16|<< Obadiah 1:16]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.18|Obadiah 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on [the] mountain of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2022G\|הַ֥ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֛וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

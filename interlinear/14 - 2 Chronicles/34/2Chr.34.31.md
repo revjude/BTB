@@ -1,4 +1,4 @@
-**2 Chronicles 34:31** 
+**2 Chronicles 34:31**<big><big>[[2Chr.34.29 Josiah Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the king stood by the pillar and made a covenant before the LORD to follow th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.30|<< 2 Chronicles 34:30]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.32|2 Chronicles 34:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stood  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975G\|יַּעֲמֹ֨ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֜לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

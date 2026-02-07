@@ -1,10 +1,7 @@
 **LXX Ezra 7:23** 
 <small><sub>**LXX:**</sub></small>
 All what is in \[the\] decree of the God of the heaven, let it become in the house of the God of the heaven! Take heed lest any make an attempt against the house of the God of the heaven! lest at any time anger should happen upon the kingdom of the king, and  his sons. 
-<small><sub>**KJV:**</sub></small>
-Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?
-<small><sub>**BSB:**</sub></small>
-Whatever is commanded by the God of heaven must be done diligently for His house. For why should wrath fall on the realm of the king and his sons?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.22|<< Ezra 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.24|Ezra 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

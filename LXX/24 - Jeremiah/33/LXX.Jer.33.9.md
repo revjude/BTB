@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:9** 
 <small><sub>**LXX:**</sub></small>
 And it will be to me for a name for gladness, and for praise, and for magnificence to all the people of the earth, who shall hear all the good \[things\] which I do for them. And they shall fear and shall be pricked on account of all the good \[things\], and on account of all the peace which I make for them. 
-<small><sub>**KJV:**</sub></small>
-And it shall be to me a name of joy, a praise and an honour before all the nations of the earth, which shall hear all the good that I do unto them: and they shall fear and tremble for all the goodness and for all the prosperity that I procure unto it.
-<small><sub>**BSB:**</sub></small>
-So this city will bring Me renown, joy, praise, and glory before all the nations of the earth, who will hear of all the good I do for it. They will tremble in awe because of all the goodness and prosperity that I will provide for it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.8|<< Jeremiah 33:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.10|Jeremiah 33:10 >>]]</td></tr></table>
 
 | Translation | Greek |

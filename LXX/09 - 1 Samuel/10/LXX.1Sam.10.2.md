@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:2** 
 <small><sub>**LXX:**</sub></small>
 As soon as you should go forth today from me, that you shall find two men near the burying-places of Rachel, on the borders of Benjamin, leaping greatly. And they shall say to you, the donkeys have been found which you went to seek. And behold,  your father brushed off the matter of the donkeys, and is worried about you, saying, What should I do about  my son? 
-<small><sub>**KJV:**</sub></small>
-When thou art departed from me to day, then thou shalt find two men by Rachel’s sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?
-<small><sub>**BSB:**</sub></small>
-When you leave me today, you will find two men at Rachel’s tomb in Zelzah on the border of Benjamin. They will say to you, ‘The donkeys you seek have been found, and now your father has stopped worrying about the donkeys and started worrying about you, asking, “What should I do about my son?”’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.1|<< 1 Samuel 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.3|1 Samuel 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 85:8** 
 <small><sub>**LXX:**</sub></small>
 I shall hear what \[the\] <span class="smallcaps">lord</span> God shall speak to me; for he shall speak peace unto  his people, and unto  his sacred ones, and unto the ones turning hearts unto him. 
-<small><sub>**KJV:**</sub></small>
-I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.
-<small><sub>**BSB:**</sub></small>
-I will listen to what God the LORD will say; for He will surely speak peace to His people and His saints; He will not let them return to folly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.85.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.7|<< Psalm 85:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.9|Psalm 85:9 >>]]</td></tr></table>
 
 | Translation | Greek |

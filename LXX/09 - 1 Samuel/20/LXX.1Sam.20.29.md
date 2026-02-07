@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:29** 
 <small><sub>**LXX:**</sub></small>
 And he said, Send me indeed, for we \[have\] a sacrifice of the tribe in the city, and my brethren gave charge for me. And now if I have found favor in your eyes, I will go forth indeed and see  my brethren. On account of this he does not come unto the table of the king. 
-<small><sub>**KJV:**</sub></small>
-And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me [to be there]: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king’s table.
-<small><sub>**BSB:**</sub></small>
-saying, ‘Please let me go, because our clan is holding a sacrifice in the city, and my brother has told me to be there. So now, if I have found favor in your eyes, please let me go and see my brothers.’ That is why he has not come to the king’s table.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.28|<< 1 Samuel 20:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.30|1 Samuel 20:30 >>]]</td></tr></table>
 
 | Translation | Greek |

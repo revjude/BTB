@@ -1,12 +1,12 @@
-**John 21:6
-**<small><sub>**KJV:**</sub></small>
+**John 21:6**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes.
 <small><sub>**BSB:**</sub></small>
 He told them, “Cast the net on the right side of the boat, and you will find some.” So they cast it there, and they were unable to haul it in because of the great number of fish.
 <small><sub>**Literal:**</sub></small>
 <the> And He said to them; do cast to the right side of the boat the net and you will find [some]. They cast therefore, and no longer it to haul in were they able from the multitude of the fish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.5|<< John 21:5]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.7|John 21:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

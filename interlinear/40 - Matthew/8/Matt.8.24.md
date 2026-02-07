@@ -1,12 +1,12 @@
-**Matthew 8:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:24**<big><big>[[Matt.8.23 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep.
 <small><sub>**BSB:**</sub></small>
 Suddenly a violent storm came up on the sea, so that the boat was engulfed by the waves. But Jesus was sleeping.
 <small><sub>**Literal:**</sub></small>
 And behold a storm great arose in the sea so that the boat being swamped by the waves; He Himself however was sleeping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.23|<< Matthew 8:23]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.25|Matthew 8:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 55:5** 
 <small><sub>**LXX:**</sub></small>
 Behold, nations which do not know you shall call upon you, and peoples which have no knowledge of you shall take refuge upon you, because of \[the\] <span class="smallcaps">lord</span>  your God, even the holy one of Israel -- for he glorified you. 
-<small><sub>**KJV:**</sub></small>
-Behold, thou shalt call a nation [that] thou knowest not, and nations [that] knew not thee shall run unto thee because of the LORD thy God, and for the Holy One of Israel; for he hath glorified thee.
-<small><sub>**BSB:**</sub></small>
-Surely you will summon a nation you do not know, and nations who do not know you will run to you. For the LORD your God, the Holy One of Israel, has bestowed glory on you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.55.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.4|<< Isaiah 55:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.6|Isaiah 55:6 >>]]</td></tr></table>
 
 | Translation | Greek |

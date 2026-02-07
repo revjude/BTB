@@ -1,4 +1,4 @@
-**Genesis 3:12** 
+**Genesis 3:12**<big><big>[[Gen.3.8 God Arraigns Adam and Eve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man said, The woman whom thou gavest [to be] with me, she gave me of the tree, and I did eat.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the man answered, “The woman whom You gave me, she gave me fruit from the 
 > $\quad$ referenced by: [[1Tim.2.14|1Tim 2:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0120H\|אָדָ֑ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

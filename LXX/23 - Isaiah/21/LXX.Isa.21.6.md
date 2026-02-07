@@ -1,10 +1,7 @@
 **LXX Isaiah 21:6** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span> to me, Proceeding, stand yourself as watchman, and whatever you should behold announce! 
-<small><sub>**KJV:**</sub></small>
-For thus hath the Lord said unto me, Go, set a watchman, let him declare what he seeth.
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord says to me: “Go, post a lookout and have him report what he sees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.5|<< Isaiah 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.7|Isaiah 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

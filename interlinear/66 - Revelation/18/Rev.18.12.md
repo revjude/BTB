@@ -1,12 +1,12 @@
-**Revelation 18:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:12**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The merchandise of gold, and silver, and precious stones, and of pearls, and fine linen, and purple, and silk, and scarlet, and all thyine wood, and all manner vessels of ivory, and all manner vessels of most precious wood, and of brass, and iron, and marble,
 <small><sub>**BSB:**</sub></small>
 cargo of gold, silver, precious stones, and pearls; of fine linen, purple, silk, and scarlet; of all kinds of citron wood and every article of ivory, precious wood, bronze, iron, and marble;
 <small><sub>**Literal:**</sub></small>
 cargo of gold and of silver and of stone precious and of pearls and of fine linen [things] and of purple cloth and of silk and of scarlet and all wood citron and every article of ivory and every article of wood most precious and of bronze and of iron and of marble<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.11|<< Revelation 18:11]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.13|Revelation 18:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cargo |**<big>[[G1117\|γόμον]]</big>**  |gomon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of gold |**<big>[[G5557\|χρυσοῦ]]</big>**  |chrusou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

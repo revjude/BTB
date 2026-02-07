@@ -1,10 +1,7 @@
 **LXX Leviticus 16:26** 
 <small><sub>**LXX:**</sub></small>
 And the one sending out the young he-goat, the one having been drawn apart for release, shall wash  his garments and shall bathe  his body in water, and after these \[things\] he shall enter into the camp. 
-<small><sub>**KJV:**</sub></small>
-And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.
-<small><sub>**BSB:**</sub></small>
-The man who released the goat as the scapegoat must wash his clothes and bathe himself with water; afterward he may reenter the camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.25|<< Leviticus 16:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.27|Leviticus 16:27 >>]]</td></tr></table>
 
 | Translation | Greek |

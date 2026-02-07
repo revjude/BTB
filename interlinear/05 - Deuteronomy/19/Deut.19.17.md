@@ -1,4 +1,4 @@
-**Deuteronomy 19:17** 
+**Deuteronomy 19:17**<big><big>[[Deut.19.15 The Testimony of Two or Three Witnesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then both the men, between whom the controversy [is], shall stand before the LORD, before the priests and the judges, which shall be in those days;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ both parties to the dispute must stand in the presence of the LORD, before the p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.16|<< Deuteronomy 19:16]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.18|Deuteronomy 19:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will stand  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975G\|עָמְד֧וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.nei-<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

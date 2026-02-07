@@ -1,4 +1,4 @@
-**Psalms 141:4** 
+**Psalms 141:4**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Incline not my heart to [any] evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not let my heart be drawn to any evil thing or take part in works of wickedne
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.3|<< Psalms 141:3]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.5|Psalms 141:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you turn  |**<big>&#8207;[[H5186\|תַּט]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tat-<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

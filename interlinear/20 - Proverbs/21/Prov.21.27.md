@@ -1,4 +1,4 @@
-**Proverbs 21:27** 
+**Proverbs 21:27**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sacrifice of the wicked [is] abomination: how much more, [when] he bringeth it with a wicked mind?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sacrifice of the wicked is detestable—how much more so when brought with i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.26|<< Proverbs 21:26]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.28|Proverbs 21:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sacrifice of  |**<big>&#8207;[[H2077\|זֶ֣בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְ֭שָׁעִים]]&#8207; </big>**| Re.sha.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

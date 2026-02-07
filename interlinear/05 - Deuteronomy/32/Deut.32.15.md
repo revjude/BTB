@@ -1,4 +1,4 @@
-**Deuteronomy 32:15** 
+**Deuteronomy 32:15**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered [with fatness]; then he forsook God [which] made him, and lightly esteemed the Rock of his salvation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Jeshurun grew fat and kicked—becoming fat, bloated, and gorged. He abandon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.14|<< Deuteronomy 32:14]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.16|Deuteronomy 32:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he grew fat  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8080\|יִּשְׁמַ֤ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Man<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeshurun  |**<big>&#8207;[[H3484\|יְשֻׁרוּן֙]]&#8207; </big>**| ye.shu.Run<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

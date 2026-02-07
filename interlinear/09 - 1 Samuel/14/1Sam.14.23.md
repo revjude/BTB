@@ -1,4 +1,4 @@
-**1 Samuel 14:23** 
+**1 Samuel 14:23**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the LORD saved Israel that day: and the battle passed over unto Bethaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD saved Israel that day, and the battle moved on beyond Beth-aven.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.22|<< 1 Samuel 14:22]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.24|1 Samuel 14:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he delivered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3467\|יּ֧וֹשַׁע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.o.sha'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

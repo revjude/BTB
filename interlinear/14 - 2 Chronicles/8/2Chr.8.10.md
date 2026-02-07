@@ -1,4 +1,4 @@
-**2 Chronicles 8:10** 
+**2 Chronicles 8:10**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [were] the chief of king Solomon’s officers, [even] two hundred and fifty, that bare rule over the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They were also the chief officers for King Solomon: 250 supervisors.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.9|<< 2 Chronicles 8:9]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.11|2 Chronicles 8:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֨לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] commanders of  |**<big>&#8207;[[H8269\|שָׂרֵ֤י]]&#8207; </big>**| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 15:14** 
+**Jeremiah 15:14**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make [thee] to pass with thine enemies into a land [which] thou knowest not: for a fire is kindled in mine anger, [which] shall burn upon you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I will enslave you to your enemies in a land you do not know, for My anger 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.13|<< Jeremiah 15:13]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.15|Jeremiah 15:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make to pass  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|הַֽעֲבַרְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.'a.var.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

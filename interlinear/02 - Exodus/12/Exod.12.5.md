@@ -1,4 +1,4 @@
-**Exodus 12:5** 
+**Exodus 12:5**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your lamb shall be without blemish, a male of the first year: ye shall take [it] out from the sheep, or from the goats:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your lamb must be an unblemished year-old male, and you may take it from the she
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.4|<< Exodus 12:4]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.6|Exodus 12:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a lamb  |**<big>&#8207;[[H7716\|שֶׂ֥ה]]&#8207; </big>**| seh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | unblemished  |**<big>&#8207;[[H8549G\|תָמִ֛ים]]&#8207; </big>**| ta.Mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

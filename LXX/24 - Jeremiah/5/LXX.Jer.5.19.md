@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:19** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever you should say, For what \[reason\] \[the\] <span class="smallcaps">lord</span> our God do to us all these \[things\]? That you shall say to them, Because you abandoned me, and served strange gods in  your land. Thus shall you serve strangers in a land not of yours. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when ye shall say, Wherefore doeth the LORD our God all these [things] unto us? then shalt thou answer them, Like as ye have forsaken me, and served strange gods in your land, so shall ye serve strangers in a land [that is] not yours.
-<small><sub>**BSB:**</sub></small>
-And when the people ask, ‘For what offense has the LORD our God done all these things to us?’ You are to tell them, ‘Just as you have forsaken Me and served foreign gods in your land, so will you serve foreigners in a land that is not your own.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.18|<< Jeremiah 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.20|Jeremiah 5:20 >>]]</td></tr></table>
 
 | Translation | Greek |

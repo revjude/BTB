@@ -1,4 +1,4 @@
-**Habakkuk 1:15** 
+**Habakkuk 1:15**<big><big>[[Hab.1.12 Habakkuk’s Second Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The foe pulls all of them up with a hook; he catches them in his dragnet, and ga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.14|<< Habakkuk 1:14]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.16|Habakkuk 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of it  |**<big>&#8207;[[H3605\|כֻּלֹּ]]&#8207;&#8207;[[H9023\|ה֙]]&#8207; </big>**| ku.Lo<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with a fish hook  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2443\|חַכָּ֣ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

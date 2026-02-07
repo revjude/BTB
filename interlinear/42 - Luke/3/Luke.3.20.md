@@ -1,12 +1,12 @@
-**Luke 3:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:20**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Added yet this above all, that he shut up John in prison.
 <small><sub>**BSB:**</sub></small>
 Herod added this to them all: He locked John up in prison.
 <small><sub>**Literal:**</sub></small>
 added yet this to all: Also he locked up <the> John in <the> prison.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.19|<< Luke 3:19]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.21|Luke 3:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | added |**<big>[[G4369\|προσέθηκεν]]</big>**  |prosethēken <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | yet |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:8** 
 <small><sub>**LXX:**</sub></small>
 And I went by you, and beheld you. And behold, \[it was\] your time, and a time of resting up. And I opened and spread out  my wings over you, and I covered  your indecency, and I swore an oath to you, and entered into a covenant with you, says Adonai \[the\] <span class="smallcaps">lord</span>, and you became mine. 
-<small><sub>**KJV:**</sub></small>
-Now when I passed by thee, and looked upon thee, behold, thy time [was] the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord GOD, and thou becamest mine.
-<small><sub>**BSB:**</sub></small>
-Then I passed by and saw you, and you were indeed old enough for love. So I spread My cloak over you and covered your nakedness. I pledged Myself to you, entered into a covenant with you, and you became Mine, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.7|<< Ezekiel 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.9|Ezekiel 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

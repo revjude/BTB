@@ -1,12 +1,12 @@
-**1 Peter 1:3
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:3**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [be] the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,
 <small><sub>**BSB:**</sub></small>
 Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,
 <small><sub>**Literal:**</sub></small>
 Blessed [be] the God and Father of the Lord of us Jesus Christ, the [One] according to the great of Him mercy having begotten again us to a hope living through [the] resurrection of Jesus Christ out from [the] dead,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.2|<< 1 Peter 1:2]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.4|1 Peter 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [be] |**<big>[[G2128\|Εὐλογητὸς]]</big>**  |Eulogētos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

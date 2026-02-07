@@ -1,4 +1,4 @@
-**Isaiah 43:10** 
+**Isaiah 43:10**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye [are] my witnesses, saith the LORD, and my servant whom I have chosen: that ye may know and believe me, and understand that I [am] he: before me there was no God formed, neither shall there be after me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ye [are] my witnesses, saith the LORD, and my servant whom I have chosen: that y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.9|<< Isaiah 43:9]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.11|Isaiah 43:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֤ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] witnesses my  |**<big>&#8207;[[H5707\|עֵדַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'e.Da<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

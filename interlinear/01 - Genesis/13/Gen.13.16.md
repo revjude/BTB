@@ -1,4 +1,4 @@
-**Genesis 13:16** 
+**Genesis 13:16**<big><big>[[Gen.13.14 God Renews the Promise to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, [then] shall thy seed also be numbered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make your offspring like the dust of the earth, so that if one could coun
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.15|<< Genesis 13:15]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.17|Genesis 13:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760A\|שַׂמְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

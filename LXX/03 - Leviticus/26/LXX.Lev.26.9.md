@@ -1,10 +1,7 @@
 **LXX Leviticus 26:9** 
 <small><sub>**LXX:**</sub></small>
 And I will look upon you, and I will increase you, and I will multiply you, and I will establish  my covenant with you. 
-<small><sub>**KJV:**</sub></small>
-For I will have respect unto you, and make you fruitful, and multiply you, and establish my covenant with you.
-<small><sub>**BSB:**</sub></small>
-I will turn toward you and make you fruitful and multiply you, and I will establish My covenant with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.8|<< Leviticus 26:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.10|Leviticus 26:10 >>]]</td></tr></table>
 
 | Translation | Greek |

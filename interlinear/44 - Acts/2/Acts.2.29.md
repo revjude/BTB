@@ -1,12 +1,12 @@
-**Acts 2:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:29**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Men [and] brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
 <small><sub>**BSB:**</sub></small>
 Brothers, I can tell you with confidence that the patriarch David died and was buried, and his tomb is with us to this day.
 <small><sub>**Literal:**</sub></small>
 Men brothers, it is permitted [me] to speak with freedom to you concerning the patriarch David that both he died and was buried and the tomb of him is among us unto <the> day this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.28|<< Acts 2:28]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.30|Acts 2:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Men |**<big>[[G0435G\|Ἄνδρες]]</big>**  |Andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers, |**<big>[[G0080\|ἀδελφοί,]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

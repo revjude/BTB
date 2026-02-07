@@ -1,4 +1,4 @@
-**Psalms 89:30** (89:31)
+**Psalms 89:30**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If his children forsake my law, and walk not in my judgments;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If his sons forsake My law and do not walk in My judgments,
 > $\quad$ referenced by: [[John.12.34|John 12:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will forsake  |**<big>&#8207;[[H5800A\|יַֽעַזְב֣וּ]]&#8207; </big>**| ya.'az.Vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

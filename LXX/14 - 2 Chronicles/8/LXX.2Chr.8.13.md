@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:13** 
 <small><sub>**LXX:**</sub></small>
 according to the reckoning, day by day,  to offer according to the commandments of Moses, on the Sabbaths, and at the months, and in the holidays, three times \[during\] the year -- in the holiday of the unleavened \[breads\], and in the holiday of the period of sevens, and in the holiday of the tents. 
-<small><sub>**KJV:**</sub></small>
-Even after a certain rate every day, offering according to the commandment of Moses, on the sabbaths, and on the new moons, and on the solemn feasts, three times in the year, [even] in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles.
-<small><sub>**BSB:**</sub></small>
-He observed the daily requirement for offerings according to the commandment of Moses for Sabbaths, New Moons, and the three annual appointed feasts—the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.12|<< 2 Chronicles 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.14|2 Chronicles 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

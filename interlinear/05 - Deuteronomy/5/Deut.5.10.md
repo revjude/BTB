@@ -1,4 +1,4 @@
-**Deuteronomy 5:10** 
+**Deuteronomy 5:10**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shewing mercy unto thousands of them that love me and keep my commandments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but showing loving devotion to a thousand generations of those who love Me and k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.9|<< Deuteronomy 5:9]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.11|Deuteronomy 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [who] does  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6213A\|עֹ֤֥שֶׂה]]&#8207; </big>**[^1] | ve.<small><sup>[[HC]]</sup></small> 'O.seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | covenant loyalty  |**<big>&#8207;[[H2617A\|חֶ֖֙סֶד֙]]&#8207; </big>**[^2] | che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

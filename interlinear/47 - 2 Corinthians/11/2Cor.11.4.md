@@ -1,12 +1,12 @@
-**2 Corinthians 11:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:4**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if he that cometh preacheth another Jesus, whom we have not preached, or [if] ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with [him].
 <small><sub>**BSB:**</sub></small>
 For if someone comes and proclaims a Jesus other than the One we proclaimed, or if you receive a different spirit than the One you received, or a different gospel than the one you accepted, you put up with it very easily.
 <small><sub>**Literal:**</sub></small>
 If indeed for the [one] coming another Jesus proclaims whom not we did proclaim, or a spirit different you receive which not you did receive, or glad tidings different which not you did accept, well you are enduring [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.3|<< 2 Corinthians 11:3]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.5|2 Corinthians 11:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

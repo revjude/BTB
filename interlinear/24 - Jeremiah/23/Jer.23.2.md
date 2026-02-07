@@ -1,4 +1,4 @@
-**Jeremiah 23:2** 
+**Jeremiah 23:2**<big><big>[[Jer.23.1 David’s Righteous Branch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore this is what the LORD, the God of Israel, says about the shepherds who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.1|<< Jeremiah 23:1]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.3|Jeremiah 23:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ֠]]&#8207;&#8207;[[H3651C\|כֵן]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

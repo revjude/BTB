@@ -1,4 +1,4 @@
-**Ezekiel 10:6** 
+**Ezekiel 10:6**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, [that] when he had commanded the man clothed with linen, saying, Take fire from between the wheels, from between the cherubims; then he went in, and stood beside the wheels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the LORD commanded the man clothed in linen, saying, “Take fire from with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.5|<< Ezekiel 10:5]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.7|Ezekiel 10:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when commanded he  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6680\|צַוֹּת]]&#8207;&#8207;[[H9043\|וֹ֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> tza.vo.T<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

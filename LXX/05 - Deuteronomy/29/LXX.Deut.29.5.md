@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:5** 
 <small><sub>**LXX:**</sub></small>
 And he led you forty years in the wilderness. Your garments did not become old, and  your sandals did not wear away from  your feet. 
-<small><sub>**KJV:**</sub></small>
-And I have led you forty years in the wilderness: your clothes are not waxen old upon you, and thy shoe is not waxen old upon thy foot.
-<small><sub>**BSB:**</sub></small>
-For forty years I led you in the wilderness, yet your clothes and sandals did not wear out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.4|<< Deuteronomy 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.6|Deuteronomy 29:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 8:19** 
 <small><sub>**LXX:**</sub></small>
 Best to gather my fruit than gold and precious stone;  and my produce \[is\] better \[than\] choice silver. 
-<small><sub>**KJV:**</sub></small>
-My fruit [is] better than gold, yea, than fine gold; and my revenue than choice silver.
-<small><sub>**BSB:**</sub></small>
-My fruit is better than gold, pure gold, and my harvest surpasses choice silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.18|<< Proverbs 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.20|Proverbs 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

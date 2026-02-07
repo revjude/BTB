@@ -1,12 +1,12 @@
-**Hebrews 13:23
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:23**<big><big>[[Heb.13.20 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Know ye that [our] brother Timothy is set at liberty; with whom, if he come shortly, I will see you.
 <small><sub>**BSB:**</sub></small>
 Be aware that our brother Timothy has been released. If he arrives soon, I will come with him to see you.
 <small><sub>**Literal:**</sub></small>
 You know the brother of us Timothy released with whom if quicker he shall come, I will see you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.22|<< Hebrews 13:22]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.24|Hebrews 13:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You know |**<big>[[G1097\|Γινώσκετε]]</big>**  |Ginōskete <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

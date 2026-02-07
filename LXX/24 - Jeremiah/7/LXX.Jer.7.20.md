@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:20** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, Behold, my anger and rage is poured upon  this place, and upon the men, and upon the cattle, and upon every tree of the field, and upon the produce of the land; and it shall be kindled and not extinguished. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Behold, mine anger and my fury shall be poured out upon this place, upon man, and upon beast, and upon the trees of the field, and upon the fruit of the ground; and it shall burn, and shall not be quenched.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: Behold, My anger and My fury will be poured out on this place, on man and beast, on the trees of the field and the produce of the land, and it will burn and not be extinguished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.19|<< Jeremiah 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.21|Jeremiah 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

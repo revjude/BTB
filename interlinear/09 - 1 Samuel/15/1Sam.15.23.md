@@ -1,4 +1,4 @@
-**1 Samuel 15:23** 
+**1 Samuel 15:23**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For rebellion [is as] the sin of witchcraft, and stubbornness [is as] iniquity and idolatry. Because thou hast rejected the word of the LORD, he hath also rejected thee from [being] king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For rebellion is like the sin of divination, and arrogance is like the wickednes
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.22|<< 1 Samuel 15:22]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.24|1 Samuel 15:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is the] sin of  |**<big>&#8207;[[H2403B\|חַטַּאת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.tat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

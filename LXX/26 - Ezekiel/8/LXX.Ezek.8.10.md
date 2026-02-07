@@ -1,10 +1,7 @@
 **LXX Ezekiel 8:10** 
 <small><sub>**LXX:**</sub></small>
 And I entered and I saw. And behold, every likeness of a crawling thing and a beast, vain abominations, and all the idols of \[the\] house of Israel, being diagramed upon the wall round about wholly. 
-<small><sub>**KJV:**</sub></small>
-So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about.
-<small><sub>**BSB:**</sub></small>
-So I went in and looked, and engraved all around the wall was every kind of crawling creature and detestable beast, along with all the idols of the house of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.9|<< Ezekiel 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.11|Ezekiel 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

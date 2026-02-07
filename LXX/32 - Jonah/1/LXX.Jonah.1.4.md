@@ -1,10 +1,7 @@
 **LXX Jonah 1:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> raised up a wind upon the sea; and there became a great swell in the sea, and the boat was exposed to danger  of breaking up. 
-<small><sub>**KJV:**</sub></small>
-But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.
-<small><sub>**BSB:**</sub></small>
-Then the LORD hurled a great wind upon the sea, and such a violent storm arose that the ship was in danger of breaking apart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.3|<< Jonah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.5|Jonah 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

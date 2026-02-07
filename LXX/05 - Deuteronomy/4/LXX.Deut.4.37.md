@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:37** 
 <small><sub>**LXX:**</sub></small>
 \[It is\] on account of  his loving  your fathers that he chose  their seed after them -- you. And he led you himself by  his great strength from out of Egypt, 
-<small><sub>**KJV:**</sub></small>
-And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;
-<small><sub>**BSB:**</sub></small>
-Because He loved your fathers, He chose their descendants after them and brought you out of Egypt by His presence and great power,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.36|<< Deuteronomy 4:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.38|Deuteronomy 4:38 >>]]</td></tr></table>
 
 | Translation | Greek |

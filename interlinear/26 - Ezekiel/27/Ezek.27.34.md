@@ -1,4 +1,4 @@
-**Ezekiel 27:34** 
+**Ezekiel 27:34**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the time [when] thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now you are shattered by the seas in the depths of the waters; your merchandise 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.33|<< Ezekiel 27:33]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.35|Ezekiel 27:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] time  |**<big>&#8207;[[H6256\|עֵ֛ת]]&#8207; </big>**| 'et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | being broken  |**<big>&#8207;[[H7665\|נִשְׁבֶּ֥רֶת]]&#8207; </big>**| nish.Be.ret<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

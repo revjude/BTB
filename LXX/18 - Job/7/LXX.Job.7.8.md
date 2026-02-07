@@ -1,10 +1,7 @@
 **LXX Job 7:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] eye of \[the\] one seeing me shall not look round about;  your eyes \[are\] on me, and I am not. 
-<small><sub>**KJV:**</sub></small>
-The eye of him that hath seen me shall see me no [more]: thine eyes [are] upon me, and I [am] not.
-<small><sub>**BSB:**</sub></small>
-The eye that beholds me will no longer see me. You will look for me, but I will be no more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.7|<< Job 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.9|Job 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

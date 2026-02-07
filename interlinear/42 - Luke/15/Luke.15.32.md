@@ -1,12 +1,12 @@
-**Luke 15:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:32**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
 <small><sub>**BSB:**</sub></small>
 But it was fitting to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”
 <small><sub>**Literal:**</sub></small>
 To make merry however and to rejoice it was fitting, because the brother of you this dead was and is alive , and having been lost was and is found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.31|<< Luke 15:31]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.1|Luke 16:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To make merry |**<big>[[G2165\|εὐφρανθῆναι]]</big>**  |euphranthēnai <small><sup>[[V-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

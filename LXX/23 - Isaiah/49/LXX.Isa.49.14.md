@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Zion said, \[The\] <span class="smallcaps">lord</span> abandoned me, and,  My Lord forgot. 
-<small><sub>**KJV:**</sub></small>
-But Zion said, The LORD hath forsaken me, and my Lord hath forgotten me.
-<small><sub>**BSB:**</sub></small>
-But Zion said, “The LORD has forsaken me; the Lord has forgotten me!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.13|<< Isaiah 49:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.15|Isaiah 49:15 >>]]</td></tr></table>
 
 | Translation | Greek |

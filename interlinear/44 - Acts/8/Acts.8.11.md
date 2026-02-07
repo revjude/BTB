@@ -1,12 +1,12 @@
-**Acts 8:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:11**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to him they had regard, because that of long time he had bewitched them with sorceries.
 <small><sub>**BSB:**</sub></small>
 They paid close attention to him because he had astounded them for a long time with his sorcery.
 <small><sub>**Literal:**</sub></small>
 They were giving heed now to him because the long time with the magic arts to have amazed them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.10|<< Acts 8:10]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.12|Acts 8:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were giving heed |**<big>[[G4337\|προσεῖχον]]</big>**  |proseichon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:4** 
 <small><sub>**LXX:**</sub></small>
 And they went through mount Ephraim. And they went through the land of Shalitha, and they did not find. And they went through the land of Shalim, and it was not. And they went through the land of Benjamin, and they did not find. 
-<small><sub>**KJV:**</sub></small>
-And he passed through mount Ephraim, and passed through the land of Shalisha, but they found [them] not: then they passed through the land of Shalim, and [there they were] not: and he passed through the land of the Benjamites, but they found [them] not.
-<small><sub>**BSB:**</sub></small>
-So Saul passed through the hill country of Ephraim and then through the land of Shalishah, but they did not find the donkeys. He and the servant went through the region of Shaalim, but they were not there. Then they went through the land of Benjamin, and still they did not find them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.3|<< 1 Samuel 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.5|1 Samuel 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

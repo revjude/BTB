@@ -1,12 +1,12 @@
-**Matthew 16:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:10**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither the seven loaves of the four thousand, and how many baskets ye took up?
 <small><sub>**BSB:**</sub></small>
 Or the seven loaves for the four thousand, and how many basketfuls you gathered?
 <small><sub>**Literal:**</sub></small>
 Nor [remember] the seven loaves for the four thousand and how many baskets you gathered?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.9|<< Matthew 16:9]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.11|Matthew 16:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nor [remember] |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

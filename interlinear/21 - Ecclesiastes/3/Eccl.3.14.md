@@ -1,4 +1,4 @@
-**Ecclesiastes 3:14** 
+**Ecclesiastes 3:14**<big><big>[[Eccl.3.9 God’s Works Remain Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth [it], that [men] should fear before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I know that everything God does endures forever; nothing can be added to it or t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.13|<< Ecclesiastes 3:13]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.15|Ecclesiastes 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know  |**<big>&#8207;[[H3045\|יָדַ֗עְתִּי]]&#8207; </big>**| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֠י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

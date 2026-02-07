@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:57** 
 <small><sub>**LXX:**</sub></small>
 and  her afterbirth  coming forth through  her thighs, and  her child which ever she should give birth to -- they she shall eat them because of the lack of all \[things\], secretly, in the straits. and in the affliction by which your enemy shall afflict you in  your cities, 
-<small><sub>**KJV:**</sub></small>
-And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all [things] secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates.
-<small><sub>**BSB:**</sub></small>
-the afterbirth that comes from between her legs and the children she bears, because she will secretly eat them for lack of anything else in the siege and distress that your enemy will inflict on you within your gates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.56|<< Deuteronomy 28:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.58|Deuteronomy 28:58 >>]]</td></tr></table>
 
 | Translation | Greek |

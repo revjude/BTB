@@ -1,4 +1,4 @@
-**Genesis 19:15** 
+**Genesis 19:15**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At daybreak the angels hurried Lot along, saying, “Get up! Take your wife and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.14|<< Genesis 19:14]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.16|Genesis 19:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3644G\|כְמוֹ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the dawn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7837\|שַּׁ֣חַר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sha.char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

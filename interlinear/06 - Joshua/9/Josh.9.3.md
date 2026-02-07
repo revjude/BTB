@@ -1,4 +1,4 @@
-**Joshua 9:3** 
+**Joshua 9:3**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the people of Gibeon, having heard what Joshua had done to Jericho and Ai,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.2|<< Joshua 9:2]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.4|Joshua 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] inhabitants of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3427\|יֹשְׁבֵ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gibeon  |**<big>&#8207;[[H1391\|גִבְע֜וֹן]]&#8207; </big>**| giv.'on<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

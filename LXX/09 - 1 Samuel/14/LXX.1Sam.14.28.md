@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:28** 
 <small><sub>**LXX:**</sub></small>
 And one of the people responded and said, By an oath your father bound the people, saying, Accursed be the man who shall eat bread today; and the people were faint. 
-<small><sub>**KJV:**</sub></small>
-Then answered one of the people, and said, Thy father straitly charged the people with an oath, saying, Cursed [be] the man that eateth [any] food this day. And the people were faint.
-<small><sub>**BSB:**</sub></small>
-Then one of the soldiers told him, “Your father bound the troops with a solemn oath, saying, ‘Cursed is the man who eats food today.’ That is why the people are faint.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.27|<< 1 Samuel 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.29|1 Samuel 14:29 >>]]</td></tr></table>
 
 | Translation | Greek |

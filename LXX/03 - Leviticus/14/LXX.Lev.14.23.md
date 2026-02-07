@@ -1,10 +1,7 @@
 **LXX Leviticus 14:23** 
 <small><sub>**LXX:**</sub></small>
 And he shall bring them on the eighth day, for  his cleansing, to the priest, unto the door of the tent of the testimony before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he shall bring them on the eighth day for his cleansing unto the priest, unto the door of the tabernacle of the congregation, before the LORD.
-<small><sub>**BSB:**</sub></small>
-On the eighth day he is to bring them for his cleansing to the priest at the entrance to the Tent of Meeting before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.22|<< Leviticus 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.24|Leviticus 14:24 >>]]</td></tr></table>
 
 | Translation | Greek |

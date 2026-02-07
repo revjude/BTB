@@ -1,10 +1,7 @@
 **LXX Daniel 4:9** 
 <small><sub>**LXX:**</sub></small>
 O Belteshazzar,  ruler of the enchanters, whom knowing that holy spirit \[is\] in you, and \[concerning\] every mystery you are not powerless, hear the vision  of my dream which I beheld, and the interpretation of it tell to me! 
-<small><sub>**KJV:**</sub></small>
-O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods [is] in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof.
-<small><sub>**BSB:**</sub></small>
-“O Belteshazzar, chief of the magicians, I know that the spirit of the holy gods is in you and that no mystery baffles you. So explain to me the visions I saw in my dream, and their interpretation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.8|<< Daniel 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.10|Daniel 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

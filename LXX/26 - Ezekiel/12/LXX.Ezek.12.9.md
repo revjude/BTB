@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:9** 
 <small><sub>**LXX:**</sub></small>
 O son of man, said not to you the house  of Israel, the rebelling house, What are you doing? 
-<small><sub>**KJV:**</sub></small>
-Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?
-<small><sub>**BSB:**</sub></small>
-“Son of man, hasn’t the rebellious house of Israel asked you, ‘What are you doing?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.8|<< Ezekiel 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.10|Ezekiel 12:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 106:23** 
 <small><sub>**LXX:**</sub></small>
 And he spoke  to utterly destroy them, unless Moses  his chosen one stood among the devastation before him,  to turn  his rage  to not utterly destroy them. 
-<small><sub>**KJV:**</sub></small>
-Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy [them].
-<small><sub>**BSB:**</sub></small>
-So He said He would destroy them—had not Moses His chosen one stood before Him in the breach to divert His wrath from destroying them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.22|<< Psalm 106:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.24|Psalm 106:24 >>]]</td></tr></table>
 
 | Translation | Greek |

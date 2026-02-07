@@ -1,12 +1,12 @@
-**Matthew 27:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:21**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.
 <small><sub>**BSB:**</sub></small>
 “Which of the two do you want me to release to you?” asked the governor. “Barabbas,” they replied.
 <small><sub>**Literal:**</sub></small>
 Answering now the governor said to them; Which do you desire of the two I may release to you? <the> And they said; <the> Barabbas.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.20|<< Matthew 27:20]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.22|Matthew 27:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

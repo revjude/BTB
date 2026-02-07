@@ -1,10 +1,7 @@
 **LXX Ezra 4:16** 
 <small><sub>**LXX:**</sub></small>
 We make known then ourselves to the king, that if  that city should be built, and  its walls should be readied for these \[things\], there shall not be to you a part on the other side of the river. 
-<small><sub>**KJV:**</sub></small>
-We certify the king that, if this city be builded [again], and the walls thereof set up, by this means thou shalt have no portion on this side the river.
-<small><sub>**BSB:**</sub></small>
-We advise the king that if this city is rebuilt and its walls are restored, you will have no dominion west of the Euphrates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.15|<< Ezra 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.17|Ezra 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

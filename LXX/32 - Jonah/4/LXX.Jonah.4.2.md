@@ -1,10 +1,7 @@
 **LXX Jonah 4:2** 
 <small><sub>**LXX:**</sub></small>
 And he prayed to \[the\] <span class="smallcaps">lord</span>, and he said, O <span class="smallcaps">lord</span>, \[Were\] not these  my words still being  in  my land? Because of this \[I thought\] beforehand  to flee unto Tarshish. Because I knew that you \[are\] merciful and pitying, lenient and full of mercy, and one to change his mind over the evils. 
-<small><sub>**KJV:**</sub></small>
-And he prayed unto the LORD, and said, I pray thee, O LORD, [was] not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou [art] a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.
-<small><sub>**BSB:**</sub></small>
-So he prayed to the LORD, saying, “O LORD, is this not what I said while I was still in my own country? This is why I was so quick to flee toward Tarshish. I knew that You are a gracious and compassionate God, slow to anger, abounding in loving devotion—One who relents from sending disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.1|<< Jonah 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.3|Jonah 4:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 4:2** is...

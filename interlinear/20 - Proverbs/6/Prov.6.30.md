@@ -1,4 +1,4 @@
-**Proverbs 6:30** 
+**Proverbs 6:30**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Men] do not despise a thief, if he steal to satisfy his soul when he is hungry;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Men do not despise the thief if he steals to satisfy his hunger.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.29|<< Proverbs 6:29]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.31|Proverbs 6:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people despise  |**<big>&#8207;[[H0936\|יָב֣וּזוּ]]&#8207; </big>**| ya.Vu.zu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

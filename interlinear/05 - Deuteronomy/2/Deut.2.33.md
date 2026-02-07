@@ -1,4 +1,4 @@
-**Deuteronomy 2:33** 
+**Deuteronomy 2:33**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD our God delivered him before us; and we smote him, and his sons, and all his people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD our God delivered him over to us, and we defeated him and his sons 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.32|<< Deuteronomy 2:32]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.34|Deuteronomy 2:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he delivered up him  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5414G\|יִּתְּנֵ֛]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Ne.<small><sup>[[HVqw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 78:31** 
+**Psalms 78:31**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wrath of God came upon them, and slew the fattest of them, and smote down the chosen [men] of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God’s anger flared against them, and He put to death their strongest and subdu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.30|<< Psalms 78:30]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.32|Psalms 78:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] anger of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0639G\|אַ֤ף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Af<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

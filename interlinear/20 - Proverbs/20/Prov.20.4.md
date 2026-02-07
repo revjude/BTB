@@ -1,4 +1,4 @@
-**Proverbs 20:4** 
+**Proverbs 20:4**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sluggard will not plow by reason of the cold; [therefore] shall he beg in harvest, and [have] nothing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The slacker does not plow in season; at harvest time he looks, but nothing is th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.3|<< Proverbs 20:3]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.5|Proverbs 20:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from winter  |**<big>&#8207;[[H9006\|מֵ֭]]&#8207;&#8207;[[H2779\|חֹרֶף]]&#8207; </big>**| Me.<small><sup>[[HR]]</sup></small> cho.ref<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sluggard  |**<big>&#8207;[[H6102\|עָצֵ֣ל]]&#8207; </big>**| 'a.Tzel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

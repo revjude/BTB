@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:22** 
 <small><sub>**LXX:**</sub></small>
 And  is no balm in Gilead? and Is no physician there? Why \[did\] a healing not ascend \[for the\] daughter of my people? 
-<small><sub>**KJV:**</sub></small>
-[Is there] no balm in Gilead; [is there] no physician there? why then is not the health of the daughter of my people recovered?
-<small><sub>**BSB:**</sub></small>
-Is there no balm in Gilead? Is no physician there? Why then has the health of the daughter of my people not been restored?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.21|<< Jeremiah 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.1|Jeremiah 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 29:6** 
+**Ezekiel 29:6**<big><big>[[Ezek.29.1 A Prophecy against Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the inhabitants of Egypt shall know that I [am] the LORD, because they have been a staff of reed to the house of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the people of Egypt will know that I am the LORD. For you were only a s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.5|<< Ezekiel 29:5]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.7|Ezekiel 29:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָֽדְעוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

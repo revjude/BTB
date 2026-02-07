@@ -1,12 +1,12 @@
-**Matthew 13:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:22**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.
 <small><sub>**BSB:**</sub></small>
 The seed sown among the thorns is the one who hears the word, but the worries of this life and the deceitfulness of wealth choke the word, and it becomes unfruitful.
 <small><sub>**Literal:**</sub></small>
 That which now among the thorns having been sown, this is the [one] the word hearing, and the care of the age this and the deceit <the> of riches choke the word, and unfruitful it becomes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.21|<< Matthew 13:21]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.23|Matthew 13:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That which |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

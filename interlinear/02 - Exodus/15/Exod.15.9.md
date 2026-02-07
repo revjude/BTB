@@ -1,4 +1,4 @@
-**Exodus 15:9** 
+**Exodus 15:9**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The enemy declared, ‘I will pursue, I will overtake. I will divide the spoils;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.8|<< Exodus 15:8]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.10|Exodus 15:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he said  |**<big>&#8207;[[H0559\|אָמַ֥ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] enemy  |**<big>&#8207;[[H0341\|אוֹיֵ֛ב]]&#8207; </big>**| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

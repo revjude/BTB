@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:24** 
 <small><sub>**LXX:**</sub></small>
 And I \[the\] <span class="smallcaps">lord</span> will be to them for God, and  my servant  David in \[the\] midst of them a ruler. I \[the\] <span class="smallcaps">lord</span> have spoken. 
-<small><sub>**KJV:**</sub></small>
-And I the LORD will be their God, and my servant David a prince among them; I the LORD have spoken [it].
-<small><sub>**BSB:**</sub></small>
-I, the LORD, will be their God, and My servant David will be a prince among them. I, the LORD, have spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.23|<< Ezekiel 34:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.25|Ezekiel 34:25 >>]]</td></tr></table>
 
 | Translation | Greek |

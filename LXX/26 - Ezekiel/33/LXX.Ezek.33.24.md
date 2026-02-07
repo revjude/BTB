@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:24** 
 <small><sub>**LXX:**</sub></small>
 O son of man, the ones inhabiting the \[places\] being made desolate upon the land  of Israel, speaking they say, Abraham was one, and he held down the land; and we, we are many; the land was given to us for a possession. 
-<small><sub>**KJV:**</sub></small>
-Son of man, they that inhabit those wastes of the land of Israel speak, saying, Abraham was one, and he inherited the land: but we [are] many; the land is given us for inheritance.
-<small><sub>**BSB:**</sub></small>
-“Son of man, those living in the ruins in the land of Israel are saying, ‘Abraham was only one man, yet he possessed the land. But we are many; surely the land has been given to us as a possession.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.23|<< Ezekiel 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.25|Ezekiel 33:25 >>]]</td></tr></table>
 
 | Translation | Greek |

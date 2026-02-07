@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:6** 
 <small><sub>**LXX:**</sub></small>
 And they said not, Where is \[the\] <span class="smallcaps">lord</span>, the one directing us from out of \[the\] land of Egypt, the one steering us in the wilderness, in a vast and untrodden land, in a land waterless and unfruitful, in a land in which no man traveled through in it, and no man dwelt there? 
-<small><sub>**KJV:**</sub></small>
-Neither said they, Where [is] the LORD that brought us up out of the land of Egypt, that led us through the wilderness, through a land of deserts and of pits, through a land of drought, and of the shadow of death, through a land that no man passed through, and where no man dwelt?
-<small><sub>**BSB:**</sub></small>
-They did not ask, ‘Where is the LORD who brought us up from the land of Egypt, who led us through the wilderness, through a land of deserts and pits, a land of drought and darkness, a land where no one travels and no one lives?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.5|<< Jeremiah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.7|Jeremiah 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

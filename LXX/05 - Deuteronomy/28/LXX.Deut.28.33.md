@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:33** 
 <small><sub>**LXX:**</sub></small>
 The resources  of your land, and all the \[things\] of your toils a nation shall eat which you have no knowledge of; and you will be injured and devastated all the days. 
-<small><sub>**KJV:**</sub></small>
-The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
-<small><sub>**BSB:**</sub></small>
-A people you do not know will eat the produce of your land and of all your toil. All your days you will be oppressed and crushed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.32|<< Deuteronomy 28:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.34|Deuteronomy 28:34 >>]]</td></tr></table>
 
 | Translation | Greek |

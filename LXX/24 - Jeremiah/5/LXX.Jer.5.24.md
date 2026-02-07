@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:24** 
 <small><sub>**LXX:**</sub></small>
 And they have not said in  their heart, We should indeed fear \[the\] <span class="smallcaps">lord</span>  our God, the one giving to us \[the\] early and late rain according to \[its\] season of \[the\] fullness of \[the\] order of harvest, and he guarded it for us. 
-<small><sub>**KJV:**</sub></small>
-Neither say they in their heart, Let us now fear the LORD our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest.
-<small><sub>**BSB:**</sub></small>
-They have not said in their hearts, ‘Let us fear the LORD our God, who gives the rains, both autumn and spring, in season, who keeps for us the appointed weeks of harvest.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.23|<< Jeremiah 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.25|Jeremiah 5:25 >>]]</td></tr></table>
 
 | Translation | Greek |

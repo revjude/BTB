@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:22** 
 <small><sub>**LXX:**</sub></small>
 He built  Elath, and returned \[it\]  to Judah after  the king slept with  his fathers. 
-<small><sub>**KJV:**</sub></small>
-He built Elath, and restored it to Judah, after that the king slept with his fathers.
-<small><sub>**BSB:**</sub></small>
-Azariah was the one who rebuilt Elath and restored it to Judah after King Amaziah rested with his fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.21|<< 2 Kings 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.23|2 Kings 14:23 >>]]</td></tr></table>
 
 | Translation | Greek |

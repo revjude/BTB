@@ -1,4 +1,4 @@
-**Job 19:17** 
+**Job 19:17**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My breath is strange to my wife, though I intreated for the children’s [sake] of mine own body.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My breath is repulsive to my wife, and I am loathsome to my own family.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.16|<< Job 19:16]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.18|Job 19:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | breath my  |**<big>&#8207;[[H7307H\|ר֭וּחִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Ru.ch<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is loathsome  |**<big>&#8207;[[H2114B\|זָ֣רָה]]&#8207; </big>**| Za.rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

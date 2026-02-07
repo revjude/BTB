@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:25** 
 <small><sub>**LXX:**</sub></small>
 Thus  your lot and  portion  for your resisting me, says \[the\] <span class="smallcaps">lord</span>; as you forgot me and hoped upon lies. 
-<small><sub>**KJV:**</sub></small>
-This [is] thy lot, the portion of thy measures from me, saith the LORD; because thou hast forgotten me, and trusted in falsehood.
-<small><sub>**BSB:**</sub></small>
-This is your lot, the portion I have measured to you,” declares the LORD, “because you have forgotten Me and trusted in falsehood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.24|<< Jeremiah 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.26|Jeremiah 13:26 >>]]</td></tr></table>
 
 | Translation | Greek |

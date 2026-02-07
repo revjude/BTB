@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:65** 
 <small><sub>**LXX:**</sub></small>
 And they gave them by lot and from \[the\] tribe of \[the\] sons of Judah, and from \[the\] tribe of \[the\] sons of Simeon, and from \[the\] tribe of \[the\] sons of Benjamin,  these cities which they call them by name. 
-<small><sub>**KJV:**</sub></small>
-And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by [their] names.
-<small><sub>**BSB:**</sub></small>
-They assigned by lot the cities named above from the tribes of Judah, Simeon, and Benjamin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.64|<< 1 Chronicles 6:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.66|1 Chronicles 6:66 >>]]</td></tr></table>
 
 | Translation | Greek |

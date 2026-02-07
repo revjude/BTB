@@ -1,5 +1,5 @@
-**Acts 7:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:12**<big><big>[[Acts.7.9 Joseph Sold into Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Jacob heard that there was corn in Egypt, he sent out our fathers first.
 <small><sub>**BSB:**</sub></small>
 When Jacob heard that there was grain in Egypt, he sent our fathers on their first visit.
@@ -10,7 +10,7 @@ Having heard now Jacob [there] is grain in Egypt he sent forth the fathers of us
 > $\quad$ alluding to: [[LXX.Gen.42.2|Gen 42:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσας]]</big>**  |Akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

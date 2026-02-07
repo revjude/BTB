@@ -1,4 +1,4 @@
-**Jeremiah 31:35** 
+**Jeremiah 31:35**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, which giveth the sun for a light by day, [and] the ordinances of the moon and of the stars for a light by night, which divideth the sea when the waves thereof roar; The LORD of hosts [is] his name:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus says the LORD, who gives the sun for light by day, who sets in order the mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.34|<< Jeremiah 31:34]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.36|Jeremiah 31:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

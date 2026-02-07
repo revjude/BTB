@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:29** 
 <small><sub>**LXX:**</sub></small>
 There \[is\] Edom and  her kings, and all the rulers. Assyria, the ones giving  their strength to \[the\] wound of \[the\] sword; these sleep with \[the\] slain, with \[the\] ones going down into \[the\] pit. 
-<small><sub>**KJV:**</sub></small>
-There [is] Edom, her kings, and all her princes, which with their might are laid by [them that were] slain by the sword: they shall lie with the uncircumcised, and with them that go down to the pit.
-<small><sub>**BSB:**</sub></small>
-Edom is there, and all her kings and princes, who despite their might are laid among those slain by the sword. They lie down with the uncircumcised, with those who descend to the Pit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.28|<< Ezekiel 32:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.30|Ezekiel 32:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:30** 
 <small><sub>**LXX:**</sub></small>
 And let not Hezekiah raise your hope unto \[the\] <span class="smallcaps">lord</span>! saying, In rescuing, the <span class="smallcaps">lord</span> will rescue us, and \[and\] in no way this city be delivered into \[the\] hand of \[the\] king of \[the\] Assyrians. 
-<small><sub>**KJV:**</sub></small>
-Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us, and this city shall not be delivered into the hand of the king of Assyria.
-<small><sub>**BSB:**</sub></small>
-Do not let Hezekiah persuade you to trust in the LORD when he says, ‘The LORD will surely deliver us; this city will not be given into the hand of the king of Assyria.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.29|<< 2 Kings 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.31|2 Kings 18:31 >>]]</td></tr></table>
 
 | Translation | Greek |

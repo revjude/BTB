@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:28** 
 <small><sub>**LXX:**</sub></small>
 And the man Jeroboam \[was\] strong in power. And Solomon saw the young man that he is a man of works, and he placed him over the tribute of \[the\] house of Joseph. 
-<small><sub>**KJV:**</sub></small>
-And the man Jeroboam [was] a mighty man of valour: and Solomon seeing the young man that he was industrious, he made him ruler over all the charge of the house of Joseph.
-<small><sub>**BSB:**</sub></small>
-Now Jeroboam was a mighty man of valor. So when Solomon noticed that the young man was industrious, he put him in charge of the whole labor force of the house of Joseph.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.27|<< 1 Kings 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.29|1 Kings 11:29 >>]]</td></tr></table>
 
 | Translation | Greek |

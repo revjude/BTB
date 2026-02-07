@@ -1,10 +1,7 @@
 **LXX Nahum 1:8** 
 <small><sub>**LXX:**</sub></small>
 And by a flood coursing he shall execute a consummation of the ones rousing up; and  darkness shall pursue his enemies. 
-<small><sub>**KJV:**</sub></small>
-But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies.
-<small><sub>**BSB:**</sub></small>
-But with an overwhelming flood He will make an end of Nineveh and pursue His enemies into darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.7|<< Nahum 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.9|Nahum 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

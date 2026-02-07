@@ -1,10 +1,7 @@
 **LXX Isaiah 30:20** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> shall give to you bread of affliction, and scant water. And the ones misleading you no longer shall approach to you. For  your eyes shall discover the ones misleading you, 
-<small><sub>**KJV:**</sub></small>
-And [though] the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more, but thine eyes shall see thy teachers:
-<small><sub>**BSB:**</sub></small>
-The Lord will give you the bread of adversity and the water of affliction, but your Teacher will no longer hide Himself—with your own eyes you will see Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.19|<< Isaiah 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.21|Isaiah 30:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Matthew 5:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:31**<big><big>[[Matt.5.31 Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:
 <small><sub>**BSB:**</sub></small>
 It has also been said, ‘Whoever divorces his wife must give her a certificate of divorce.’
@@ -10,7 +10,7 @@ It was said also that: Who[ever] maybe may divorce the wife of him, he should gi
 > $\quad$ referencing: [[LXX.Deut.24.1|Deut 24:1]][[LXX.Deut.24.3|, 3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It was said |**<big>[[G2046\|Ἐρρέθη]]</big>**  [^1] |Errethē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

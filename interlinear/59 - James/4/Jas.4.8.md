@@ -1,12 +1,12 @@
-**James 4:8
-**<small><sub>**KJV:**</sub></small>
+**James 4:8**<big><big>[[Jas.4.7 Drawing Near to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Draw nigh to God, and he will draw nigh to you. Cleanse [your] hands, [ye] sinners; and purify [your] hearts, [ye] double minded.
 <small><sub>**BSB:**</sub></small>
 Draw near to God, and He will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.
 <small><sub>**Literal:**</sub></small>
 do draw near <the> to God and He will draw near to you. do cleanse [your] hands, [you] sinners, and do purify hearts, [you] double-minded.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.7|<< James 4:7]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.9|James 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do draw near |**<big>[[G1448\|ἐγγίσατε]]</big>**  |engisate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 26:11** 
 <small><sub>**LXX:**</sub></small>
 And you shall make fifty hooks of brass. And you shall join together the hooks by the hooks, and you shall join together the hide coverings, and it shall be one. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make fifty taches of brass, and put the taches into the loops, and couple the tent together, that it may be one.
-<small><sub>**BSB:**</sub></small>
-Make fifty bronze clasps and put them through the loops to join the tent together as a unit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.10|<< Exodus 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.12|Exodus 26:12 >>]]</td></tr></table>
 
 | Translation | Greek |

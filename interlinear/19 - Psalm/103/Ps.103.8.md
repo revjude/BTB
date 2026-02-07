@@ -1,4 +1,4 @@
-**Psalms 103:8** 
+**Psalms 103:8**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] merciful and gracious, slow to anger, and plenteous in mercy.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD is compassionate and gracious, slow to anger, abounding in loving devot
 > $\quad$ referenced by: [[Jas.5.11|Jas 5:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] compassionate  |**<big>&#8207;[[H7349\|רַח֣וּם]]&#8207; </big>**| ra.Chum<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and gracious  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2587\|חַנּ֣וּן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Nun<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

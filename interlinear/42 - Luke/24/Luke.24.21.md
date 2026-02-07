@@ -1,12 +1,12 @@
-**Luke 24:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:21**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.
 <small><sub>**BSB:**</sub></small>
 But we were hoping He was the One who would redeem Israel. And besides all this, it is the third day since these things took place.
 <small><sub>**Literal:**</sub></small>
 We ourselves however were hoping that He himself it is who is about to redeem <the> Israel. But indeed also with all these things [the] third this day brings today away from which these things came to pass.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.20|<< Luke 24:20]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.22|Luke 24:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

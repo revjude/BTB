@@ -1,10 +1,7 @@
 **LXX Job 41:33** 
 <small><sub>**LXX:**</sub></small>
 There is not anything upon the earth likened to him, being made, to be mocked at by  my angels. 
-<small><sub>**KJV:**</sub></small>
-Upon earth there is not his like, who is made without fear.
-<small><sub>**BSB:**</sub></small>
-Nothing on earth is his equal—a creature devoid of fear!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.32|<< Job 41:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.34|Job 41:34 >>]]</td></tr></table>
 
 | Translation | Greek |

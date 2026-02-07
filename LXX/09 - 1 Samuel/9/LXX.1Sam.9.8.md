@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:8** 
 <small><sub>**LXX:**</sub></small>
 And the servant-lad proceeded to answer  Saul, and said, Behold, there is found in  my hand a fourth shekel of silver; and you shall give \[it\] to the man  of God, and he shall report to us  our way. 
-<small><sub>**KJV:**</sub></small>
-And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: [that] will I give to the man of God, to tell us our way.
-<small><sub>**BSB:**</sub></small>
-The servant answered him again. “Look,” he said, “I have here in my hand a quarter shekel of silver. I will give it to the man of God, and he will tell us our way.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.7|<< 1 Samuel 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.9|1 Samuel 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

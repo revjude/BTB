@@ -1,12 +1,12 @@
-**James 5:12
-**<small><sub>**KJV:**</sub></small>
+**James 5:12**<big><big>[[Jas.5.7 Patience in Suffering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But above all things, my brethren, swear not, neither by heaven, neither by the earth, neither by any other oath: but let your yea be yea; and [your] nay, nay; lest ye fall into condemnation.
 <small><sub>**BSB:**</sub></small>
 Above all, my brothers, do not swear, not by heaven or earth or by any other oath. Simply let your “Yes” be yes, and your “No,” no, so that you will not fall under judgment.
 <small><sub>**Literal:**</sub></small>
 Before all things however, brothers of mine, not do swear, neither [swear by] <the> heaven nor [swear by] the earth nor [swear by] other any oath; should be however of you the Yes [be] yes and the No [be] no, so that not under judgment you may fall.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.11|<< James 5:11]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.13|James 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Before |**<big>[[G4253\|Πρὸ]]</big>**  |Pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all things |**<big>[[G3956\|πάντων]]</big>**  |pantōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

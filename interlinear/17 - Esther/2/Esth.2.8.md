@@ -1,4 +1,4 @@
-**Esther 2:8** 
+**Esther 2:8**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So it came to pass, when the king’s commandment and his decree was heard, and when many maidens were gathered together unto Shushan the palace, to the custody of Hegai, that Esther was brought also unto the king’s house, to the custody of Hegai, keeper of the women.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the king’s command and edict had been proclaimed, many young women gather
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.7|<< Esther 2:7]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.9|Esther 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when were heard  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8085I\|הִשָּׁמַ֤ע]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> hi.sha.Ma'<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

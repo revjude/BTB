@@ -1,12 +1,12 @@
-**Luke 19:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:26**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
 <small><sub>**BSB:**</sub></small>
 He replied, ‘I tell you that everyone who has will be given more; but the one who does not have, even what he has will be taken away from him.
 <small><sub>**Literal:**</sub></small>
 I say for to you that to everyone who is having will be given, from however the [one] not having even that which he has will be taken away from of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.25|<< Luke 19:25]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.27|Luke 19:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 34:2** 
 <small><sub>**LXX:**</sub></small>
 And come prepared in the morning! and you shall ascend upon  mount  Sinai, and you shall stand there to me upon \[the\] tip of the mountain. 
-<small><sub>**KJV:**</sub></small>
-And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.
-<small><sub>**BSB:**</sub></small>
-Be ready in the morning, and come up on Mount Sinai to present yourself before Me on the mountaintop.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.1|<< Exodus 34:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.3|Exodus 34:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Matthew 5:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:21**<big><big>[[Matt.5.21 Anger and Reconciliation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
 <small><sub>**BSB:**</sub></small>
 You have heard that it was said to the ancients, ‘Do not murder’ and ‘Anyone who murders will be subject to judgment.’
@@ -10,7 +10,7 @@ You have heard that it was said to the ancients; Not you will murder; who[ever] 
 > $\quad$ referencing: [[LXX.Exod.20.13|Exod 20:13]] ☩ [[LXX.Deut.5.17|Deut 5:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You have heard |**<big>[[G0191\|Ἠκούσατε]]</big>**  |Ēkousate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

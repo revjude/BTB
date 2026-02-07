@@ -1,4 +1,4 @@
-**Esther 9:6** 
+**Esther 9:6**<big><big>[[Esth.9.1 The Jews Destroy Their Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in Shushan the palace the Jews slew and destroyed five hundred men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the citadel of Susa, the Jews killed and destroyed five hundred men,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.5|<< Esther 9:5]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.7|Esther 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in Susa  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7800\|שׁוּשַׁ֣ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> shu.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the citadel  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1002\|בִּירָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bi.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

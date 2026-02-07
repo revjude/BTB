@@ -1,4 +1,4 @@
-**1 Chronicles 7:40** 
+**1 Chronicles 7:40**<big><big>[[1Chr.7.30 The Descendants of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these [were] the children of Asher, heads of [their] father’s house, choice [and] mighty men of valour, chief of the princes. And the number throughout the genealogy of them that were apt to the war [and] to battle [was] twenty and six thousand men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All these were the descendants of Asher—heads of their families, choice and mi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.39|<< 1 Chronicles 7:39]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.1|1 Chronicles 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

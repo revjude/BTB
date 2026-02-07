@@ -1,10 +1,7 @@
 **LXX Isaiah 58:10** 
 <small><sub>**LXX:**</sub></small>
 and should give to ones hungering the bread from your soul, and should fill up \[the\] soul being humble, then your light shall rise in the darkness, and  your darkness \[shall be\] as midday. 
-<small><sub>**KJV:**</sub></small>
-And [if] thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness [be] as the noonday:
-<small><sub>**BSB:**</sub></small>
-and if you give yourself to the hungry and satisfy the afflicted soul, then your light will go forth in the darkness, and your night will be like noonday.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.9|<< Isaiah 58:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.11|Isaiah 58:11 >>]]</td></tr></table>
 
 | Translation | Greek |

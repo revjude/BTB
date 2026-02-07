@@ -1,10 +1,7 @@
 **LXX Daniel 2:24** 
 <small><sub>**LXX:**</sub></small>
 And Daniel came to Arioch, whom the king appointed to destroy the \[wise\] men of Babylon, and said to him, The wise \[men\] of Babylon you should not destroy, but bring me before the king, and the interpretation to the king I will announce. 
-<small><sub>**KJV:**</sub></small>
-Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise [men] of Babylon: he went and said thus unto him; Destroy not the wise [men] of Babylon: bring me in before the king, and I will shew unto the king the interpretation.
-<small><sub>**BSB:**</sub></small>
-Therefore Daniel went to Arioch, whom the king had appointed to destroy the wise men of Babylon, and said to him, “Do not execute the wise men of Babylon! Bring me before the king, and I will give him the interpretation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.23|<< Daniel 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.25|Daniel 2:25 >>]]</td></tr></table>
 
 | Translation | Greek |

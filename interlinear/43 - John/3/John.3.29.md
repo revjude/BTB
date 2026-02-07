@@ -1,12 +1,12 @@
-**John 3:29
-**<small><sub>**KJV:**</sub></small>
+**John 3:29**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is fulfilled.
 <small><sub>**BSB:**</sub></small>
 The bride belongs to the bridegroom. The friend of the bridegroom stands and listens for him, and is overjoyed to hear the bridegroom’s voice. That joy is mine, and it is now complete.
 <small><sub>**Literal:**</sub></small>
 The [one] having the bride [the] bridegroom is. the now friend of the bridegroom, the [one] having stood and listening for him, with joy rejoices because of the voice of the bridegroom. This therefore the joy <the> of mine has been fulfilled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.28|<< John 3:28]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.30|John 3:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχων]]</big>**  |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

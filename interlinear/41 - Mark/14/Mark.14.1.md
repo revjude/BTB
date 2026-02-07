@@ -1,12 +1,12 @@
-**Mark 14:1
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:1**<big><big>[[Mark.14.1 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After two days was [the feast of] the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put [him] to death.
 <small><sub>**BSB:**</sub></small>
 Now the Passover and the Feast of Unleavened Bread were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him.
 <small><sub>**Literal:**</sub></small>
 It was now the Passover and the [Feast of] Unleavened Bread after two days, And were seeking the chief priests and the scribes how Him by stealth having taken they may kill [Him];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.37|<< Mark 13:37]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.2|Mark 14:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It was |**<big>[[G1510\|Ἦν]]</big>**  |Ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

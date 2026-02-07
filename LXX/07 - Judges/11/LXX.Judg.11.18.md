@@ -1,10 +1,7 @@
 **LXX Judges 11:18** 
 <small><sub>**LXX:**</sub></small>
 And \[Israel\] went through in the wilderness, and encircled the land of Edom and the land of Moab. And it arrived according to \[the\] rising of \[the\] sun of the land of Moab, and camped on the other side of Arnon, and did not enter into the border of Moab. 
-<small><sub>**KJV:**</sub></small>
-Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon [was] the border of Moab.
-<small><sub>**BSB:**</sub></small>
-Then Israel traveled through the wilderness and bypassed the lands of Edom and Moab. They came to the east side of the land of Moab and camped on the other side of the Arnon. But they did not enter the territory of Moab, since the Arnon was its border.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.17|<< Judges 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.19|Judges 11:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 22:2** (22:3)
+**Psalms 22:2**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my God, I cry in the daytime, but thou hearest not; and in the night season, and am not silent.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I cry out by day, O my God, but You do not answer, and by night, but I have no r
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God my  |**<big>&#8207;[[H0430G\|אֱֽלֹהַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'elo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I call out  |**<big>&#8207;[[H7121G\|אֶקְרָ֣א]]&#8207; </big>**| 'ek.Ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

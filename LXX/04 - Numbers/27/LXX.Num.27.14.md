@@ -1,10 +1,7 @@
 **LXX Numbers 27:14** 
 <small><sub>**LXX:**</sub></small>
 because you \[both\] violated  my word in the wilderness of Zin, when  the congregation rushed headlong against the sanctifying me; you did not sanctify me at the water before them -- this is The Water of Dispute -- Kadesh, in the wilderness of Zin. 
-<small><sub>**KJV:**</sub></small>
-For ye rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that [is] the water of Meribah in Kadesh in the wilderness of Zin.
-<small><sub>**BSB:**</sub></small>
-for when the congregation contended in the Wilderness of Zin, both of you rebelled against My command to show My holiness in their sight regarding the waters.” Those were the waters of Meribah in Kadesh, in the Wilderness of Zin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.13|<< Numbers 27:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.15|Numbers 27:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:7** 
 <small><sub>**LXX:**</sub></small>
 For a man, a man from the house of Israel, and from the foreigners of the ones converting in  Israel, who ever should separate from me, and set  his thoughts upon  his heart, and  should arrange punishment for his iniquities before his face, and should come to the \[false\] prophet  to ask him concerning me, I \[the\] <span class="smallcaps">lord</span> will answer to him in the \[things\] which he presses in them. 
-<small><sub>**KJV:**</sub></small>
-For every one of the house of Israel, or of the stranger that sojourneth in Israel, which separateth himself from me, and setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to a prophet to inquire of him concerning me; I the LORD will answer him by myself:
-<small><sub>**BSB:**</sub></small>
-For when any Israelite or any foreigner dwelling in Israel separates himself from Me, sets up idols in his heart, and puts a wicked stumbling block before his face, and then comes to the prophet to inquire of Me, I the LORD will answer him Myself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.6|<< Ezekiel 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.8|Ezekiel 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

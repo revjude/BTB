@@ -1,4 +1,4 @@
-**Ezekiel 34:26** 
+**Ezekiel 34:26**<big><big>[[Ezek.34.25 The Covenant of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make them and the places round about my hill a blessing; and I will cause the shower to come down in his season; there shall be showers of blessing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make them and the places around My hill a blessing. I will send down show
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.25|<< Ezekiel 34:25]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.27|Ezekiel 34:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414I\|נָתַתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ֛]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

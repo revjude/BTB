@@ -1,4 +1,4 @@
-**Jeremiah 49:4** 
+**Jeremiah 49:4**<big><big>[[Jer.49.1 Judgment on the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore gloriest thou in the valleys, thy flowing valley, O backsliding daughter? that trusted in her treasures, [saying], Who shall come unto me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do you boast of your valleys—your valleys so fruitful, O faithless daughte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.3|<< Jeremiah 49:3]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.5|Jeremiah 49:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you boast  |**<big>&#8207;[[H1984H\|תִּתְהַֽלְלִי֙]]&#8207; </big>**| tit.ha.Li<small><sup>[[HVti2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

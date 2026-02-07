@@ -1,4 +1,4 @@
-**2 Kings 10:24** 
+**2 Kings 10:24**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they went in to offer sacrifices and burnt offerings, Jehu appointed fourscore men without, and said, [If] any of the men whom I have brought into your hands escape, [he that letteth him go], his life [shall be] for the life of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they went in to offer sacrifices and burnt offerings. Now Jehu had stationed
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.23|<< 2 Kings 10:23]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.25|2 Kings 10:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֕אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to offer  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213I\|עֲשׂ֖וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

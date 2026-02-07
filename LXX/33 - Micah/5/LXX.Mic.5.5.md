@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And this shall be the peace, whenever the Assyrian should come upon  our land, and whenever he should mount upon  our place. And there shall be roused up against him seven shepherds, and eight strikes of men. 
-<small><sub>**KJV:**</sub></small>
-And this [man] shall be the peace, when the Assyrian shall come into our land: and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.
-<small><sub>**BSB:**</sub></small>
-And He will be our peace when Assyria invades our land and tramples our citadels. We will raise against it seven shepherds, even eight leaders of men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.4|<< Micah 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.6|Micah 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

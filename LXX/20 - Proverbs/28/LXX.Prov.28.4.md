@@ -1,10 +1,7 @@
 **LXX Proverbs 28:4** 
 <small><sub>**LXX:**</sub></small>
 Thus the ones abandoning the law laud impiety; but the ones loving the law a wall around themselves. 
-<small><sub>**KJV:**</sub></small>
-They that forsake the law praise the wicked: but such as keep the law contend with them.
-<small><sub>**BSB:**</sub></small>
-Those who forsake the law praise the wicked, but those who keep the law resist them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.3|<< Proverbs 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.5|Proverbs 28:5 >>]]</td></tr></table>
 
 | Translation | Greek |

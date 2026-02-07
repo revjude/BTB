@@ -1,4 +1,4 @@
-**Ezra 7:1** 
+**Ezra 7:1**<big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many years later, during the reign of Artaxerxes king of Persia, Ezra son of Ser
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.22|<< Ezra 6:22]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.2|Ezra 7:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the things  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דְּבָרִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

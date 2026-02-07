@@ -1,4 +1,4 @@
-**Psalms 13:4** (13:5)
+**Psalms 13:4**<big><big>[[Ps.13.1 How Long, O LORD？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest mine enemy say, I have prevailed against him; [and] those that trouble me rejoice when I am moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ lest my enemy say, “I have overcome him,” and my foes rejoice when I fall.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.3|<< Psalms 13:3]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.13.5|Psalms 13:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he should say  |**<big>&#8207;[[H0559\|יֹאמַ֣ר]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

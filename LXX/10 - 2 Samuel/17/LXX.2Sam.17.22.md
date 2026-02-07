@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:22** 
 <small><sub>**LXX:**</sub></small>
 And David rose up, and all the people  with him, and they passed over the Jordan until the light of the morning, until one was not unaware of who did not pass over the Jordan. 
-<small><sub>**KJV:**</sub></small>
-Then David arose, and all the people that [were] with him, and they passed over Jordan: by the morning light there lacked not one of them that was not gone over Jordan.
-<small><sub>**BSB:**</sub></small>
-So David and all the people with him got up and crossed the Jordan. By daybreak, there was no one left who had not crossed the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.21|<< 2 Samuel 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.23|2 Samuel 17:23 >>]]</td></tr></table>
 
 | Translation | Greek |

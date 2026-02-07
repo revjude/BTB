@@ -1,10 +1,7 @@
 **LXX Job 33:13** 
 <small><sub>**LXX:**</sub></small>
 But you say, Why  of my righteousness has he not heeded every word? 
-<small><sub>**KJV:**</sub></small>
-Why dost thou strive against him? for he giveth not account of any of his matters.
-<small><sub>**BSB:**</sub></small>
-Why do you complain to Him that He answers nothing a man asks?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.12|<< Job 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.14|Job 33:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 31:5** 
+**2 Chronicles 31:5**<big><big>[[2Chr.31.3 Contributions for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as soon as the commandment came abroad, the children of Israel brought in abundance the firstfruits of corn, wine, and oil, and honey, and of all the increase of the field; and the tithe of all [things] brought they in abundantly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as the order went out, the Israelites generously provided the firstfruit
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.4|<< 2 Chronicles 31:4]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.6|2 Chronicles 31:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as spread  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H6555\|פְרֹ֣ץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HR]]</sup></small> f.Rotz<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֗ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

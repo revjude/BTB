@@ -1,10 +1,7 @@
 **LXX Deuteronomy 18:2** 
 <small><sub>**LXX:**</sub></small>
 And there will not be a lot to him among  his brethren; \[the\] <span class="smallcaps">lord</span> himself \[is\] his lot, in so far as he said to him. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall they have no inheritance among their brethren: the LORD [is] their inheritance, as he hath said unto them.
-<small><sub>**BSB:**</sub></small>
-Although they have no inheritance among their brothers, the LORD is their inheritance, as He promised them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.1|<< Deuteronomy 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.3|Deuteronomy 18:3 >>]]</td></tr></table>
 
 | Translation | Greek |

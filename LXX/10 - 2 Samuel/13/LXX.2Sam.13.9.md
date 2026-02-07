@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:9** 
 <small><sub>**LXX:**</sub></small>
 And she took the frying pan, and emptied \[it\] before him, and he did not want to eat. And Amnon said, Lead out every man from about me! And they led out every man about him. 
-<small><sub>**KJV:**</sub></small>
-And she took a pan, and poured [them] out before him; but he refused to eat. And Amnon said, Have out all men from me. And they went out every man from him.
-<small><sub>**BSB:**</sub></small>
-Then she brought the pan and set it down before him, but he refused to eat. “Send everyone away!” said Amnon. And everyone went out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.8|<< 2 Samuel 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.10|2 Samuel 13:10 >>]]</td></tr></table>
 
 | Translation | Greek |

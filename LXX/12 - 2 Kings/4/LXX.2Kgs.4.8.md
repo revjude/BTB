@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And a day came and Elisha passed over into Shunem, and \[there was\] a great woman there, and she took hold of him to eat bread. And it came to pass \[whenever it was\] fit  for him to enter \[that\] he turned aside  there to eat bread. 
-<small><sub>**KJV:**</sub></small>
-And it fell on a day, that Elisha passed to Shunem, where [was] a great woman; and she constrained him to eat bread. And [so] it was, [that] as oft as he passed by, he turned in thither to eat bread.
-<small><sub>**BSB:**</sub></small>
-One day Elisha went to Shunem, and a prominent woman who lived there persuaded him to have a meal. So whenever he would pass by, he would stop there to eat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.7|<< 2 Kings 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.9|2 Kings 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

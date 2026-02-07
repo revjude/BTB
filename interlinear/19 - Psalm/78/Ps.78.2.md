@@ -1,4 +1,4 @@
-**Psalms 78:2** 
+**Psalms 78:2**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will open my mouth in a parable: I will utter dark sayings of old:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will open my mouth in parables; I will utter things hidden from the beginning,
 > $\quad$ referenced by: [[Matt.13.35|Matt 13:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will open  |**<big>&#8207;[[H6605A\|אֶפְתְּחָ֣ה]]&#8207; </big>**| 'ef.te.Chah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in a parable  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4912\|מָשָׁ֣ל]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ma.Shal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:9** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass so as his shoulder turned to go forth from Samuel, that God converted his heart to another. And came \[to pass\] all  these signs in  that day. 
-<small><sub>**KJV:**</sub></small>
-And it was [so], that when he had turned his back to go from Samuel, God gave him another heart: and all those signs came to pass that day.
-<small><sub>**BSB:**</sub></small>
-As Saul turned to leave Samuel, God changed Saul’s heart, and all the signs came to pass that day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.8|<< 1 Samuel 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.10|1 Samuel 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

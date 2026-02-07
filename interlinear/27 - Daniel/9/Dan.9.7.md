@@ -1,4 +1,4 @@
-**Daniel 9:7** 
+**Daniel 9:7**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, righteousness [belongeth] unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, [that are] near, and [that are] far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To You, O Lord, belongs righteousness, but this day we are covered with shame—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.6|<< Daniel 9:6]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.8|Daniel 9:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belongs] to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֤]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָי֙]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

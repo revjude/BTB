@@ -1,4 +1,4 @@
-**Jeremiah 16:16** 
+**Jeremiah 16:16**<big><big>[[Jer.16.14 God Will Restore Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will send for many fishers, saith the LORD, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But for now I will send for many fishermen, declares the LORD, and they will cat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.15|<< Jeremiah 16:15]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.17|Jeremiah 16:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to send  |**<big>&#8207;[[H7971G\|שֹׁלֵ֜חַ]]&#8207; </big>**| sho.Le.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

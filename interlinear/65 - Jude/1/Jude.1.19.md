@@ -1,12 +1,12 @@
-**Jude 1:19
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:19**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These be they who separate themselves, sensual, having not the Spirit.
 <small><sub>**BSB:**</sub></small>
 These are the ones who cause divisions, who are worldly and devoid of the Spirit.
 <small><sub>**Literal:**</sub></small>
 These are those causing divisions, worldly-minded, [the] Spirit not having.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.18|<< Jude 1:18]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.20|Jude 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοί]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|εἰσιν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

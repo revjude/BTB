@@ -1,10 +1,7 @@
 **LXX Psalm 15:5** 
 <small><sub>**LXX:**</sub></small>
  his money he did not give for interest, and bribes from \[the\] innocent he did not take. The one doing these \[things\] shall not be shaken into the eon. 
-<small><sub>**KJV:**</sub></small>
-[He that] putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these [things] shall never be moved.
-<small><sub>**BSB:**</sub></small>
-who lends his money without interest and refuses a bribe against the innocent. He who does these things will never be shaken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.15.4|<< Psalm 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.1|Psalm 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

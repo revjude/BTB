@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:25** 
 <small><sub>**LXX:**</sub></small>
 And Micaiah said, Behold, you shall see in  that day, whenever you shall enter an inner chamber of the storeroom  to hide. 
-<small><sub>**KJV:**</sub></small>
-And Micaiah said, Behold, thou shalt see in that day, when thou shalt go into an inner chamber to hide thyself.
-<small><sub>**BSB:**</sub></small>
-Micaiah replied, “You will soon see, on that day when you go and hide in an inner room.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.24|<< 1 Kings 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.26|1 Kings 22:26 >>]]</td></tr></table>
 
 | Translation | Greek |

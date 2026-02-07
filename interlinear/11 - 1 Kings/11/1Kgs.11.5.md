@@ -1,4 +1,4 @@
-**1 Kings 11:5** 
+**1 Kings 11:5**<big><big>[[1Kgs.11.1 Solomon’s Foreign Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Solomon went after Ashtoreth the goddess of the Zidonians, and after Milcom the abomination of the Ammonites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon followed Ashtoreth the goddess of the Sidonians and Milcom the abominati
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.4|<< 1 Kings 11:4]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.6|1 Kings 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he walked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980N\|יֵּ֣לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֔ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 24:2** 
 <small><sub>**LXX:**</sub></small>
 He founded it upon seas; and upon rivers he prepared it. 
-<small><sub>**KJV:**</sub></small>
-For he hath founded it upon the seas, and established it upon the floods.
-<small><sub>**BSB:**</sub></small>
-For He has founded it upon the seas and established it upon the waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.24.1|<< Psalm 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.3|Psalm 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

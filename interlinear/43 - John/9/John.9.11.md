@@ -1,12 +1,12 @@
-**John 9:11
-**<small><sub>**KJV:**</sub></small>
+**John 9:11**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.
 <small><sub>**BSB:**</sub></small>
 He answered, “The man they call Jesus made some mud and anointed my eyes, and He told me to go to Siloam and wash. So I went and washed and received my sight.”
 <small><sub>**Literal:**</sub></small>
 Answered He and said: The man who is being named Jesus clay made and He anointed my <the> eyes and He said to me that do go to <the> pool <the> Siloam and do wash. yourself Having gone therefore and having washed I received sight.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.10|<< John 9:10]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.12|John 9:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He |**<big>[[G1565\|ἐκεῖνος]]</big>**  |ekeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

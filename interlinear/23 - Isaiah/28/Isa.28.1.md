@@ -1,4 +1,4 @@
-**Isaiah 28:1** 
+**Isaiah 28:1**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty [is] a fading flower, which [are] on the head of the fat valleys of them that are overcome with wine!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to the majestic crown of Ephraim’s drunkards, to the fading flower of his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.13|<< Isaiah 27:13]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.2|Isaiah 28:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֗וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] crown of  |**<big>&#8207;[[H5850\|עֲטֶ֤רֶת]]&#8207; </big>**| 'a.Te.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

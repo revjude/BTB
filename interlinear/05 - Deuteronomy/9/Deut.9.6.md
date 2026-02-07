@@ -1,4 +1,4 @@
-**Deuteronomy 9:6** 
+**Deuteronomy 9:6**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Understand therefore, that the LORD thy God giveth thee not this good land to possess it for thy righteousness; for thou [art] a stiffnecked people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Understand, then, that it is not because of your righteousness that the LORD you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.5|<< Deuteronomy 9:5]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.7|Deuteronomy 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדַעְתָּ֗]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.da'.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֠י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

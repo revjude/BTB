@@ -1,10 +1,7 @@
 **LXX Job 24:24** 
 <small><sub>**LXX:**</sub></small>
 For his arrogance afflicted many; but he withered as a mallow plant in sweltering heat, and as an ear of corn falling off from \[the\] stubble by itself. 
-<small><sub>**KJV:**</sub></small>
-They are exalted for a little while, but are gone and brought low; they are taken out of the way as all [other], and cut off as the tops of the ears of corn.
-<small><sub>**BSB:**</sub></small>
-They are exalted for a moment, then they are gone; they are brought low and gathered up like all others; they are cut off like heads of grain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.23|<< Job 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.25|Job 24:25 >>]]</td></tr></table>
 
 | Translation | Greek |

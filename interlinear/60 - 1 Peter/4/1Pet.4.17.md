@@ -1,12 +1,12 @@
-**1 Peter 4:17
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:17**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the time [is come] that judgment must begin at the house of God: and if [it] first [begin] at us, what shall the end [be] of them that obey not the gospel of God?
 <small><sub>**BSB:**</sub></small>
 For it is time for judgment to begin with the family of God; and if it begins with us, what will the outcome be for those who disobey the gospel of God?
 <small><sub>**Literal:**</sub></small>
 For [it is] the time [for] <the> to have begun the judgment from the house <the> of God; if now first from us, what [will be] the outcome of those disobeying the <the> of God gospel?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.16|<< 1 Peter 4:16]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.18|1 Peter 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For [it is] |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

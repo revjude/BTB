@@ -1,4 +1,4 @@
-**Isaiah 14:24** 
+**Isaiah 14:24**<big><big>[[Isa.14.24 God’s Purpose against Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, [so] shall it stand:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD of Hosts has sworn: “Surely, as I have planned, so will it be; as I h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.23|<< Isaiah 14:23]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.25|Isaiah 14:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has sworn  |**<big>&#8207;[[H7650\|נִשְׁבַּ֛ע]]&#8207; </big>**| nish.Ba'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

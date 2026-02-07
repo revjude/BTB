@@ -1,10 +1,7 @@
 **LXX Ezra 6:11** 
 <small><sub>**LXX:**</sub></small>
 And from me was rendered a decree, that every man who ever changes  this word \[the\] timber of his house shall be demolished, and \[a stake\] being straight up he shall be pitched upon it, and  his house will be for ravaging. 
-<small><sub>**KJV:**</sub></small>
-Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this.
-<small><sub>**BSB:**</sub></small>
-I also decree that if any man interferes with this directive, a beam is to be torn from his house and raised up, and he is to be impaled on it. And his own house shall be made a pile of rubble for this offense.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.10|<< Ezra 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.12|Ezra 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

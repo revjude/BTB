@@ -1,12 +1,12 @@
-**Romans 8:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:16**<big><big>[[Rom.8.12 Heirs with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Spirit itself beareth witness with our spirit, that we are the children of God:
 <small><sub>**BSB:**</sub></small>
 The Spirit Himself testifies with our spirit that we are God’s children.
 <small><sub>**Literal:**</sub></small>
 Himself the Spirit bears witness with the spirit of us that we are children of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.15|<< Romans 8:15]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.17|Romans 8:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Himself |**<big>[[G0846\|αὐτὸ]]</big>**  |auto <small><sup>[[P-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

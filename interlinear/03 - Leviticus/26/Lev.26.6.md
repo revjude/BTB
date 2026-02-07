@@ -1,4 +1,4 @@
-**Leviticus 26:6** 
+**Leviticus 26:6**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give peace in the land, and ye shall lie down, and none shall make [you] afraid: and I will rid evil beasts out of the land, neither shall the sword go through your land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will give peace to the land, and you will lie down with nothing to fear. I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.5|<< Leviticus 26:5]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.7|Leviticus 26:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peace  |**<big>&#8207;[[H7965G\|שָׁלוֹם֙]]&#8207; </big>**| sha.lOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

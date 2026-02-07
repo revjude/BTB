@@ -1,10 +1,7 @@
 **LXX Genesis 25:24** 
 <small><sub>**LXX:**</sub></small>
 And were fulfilled the days  for her to bear. And thus there were twins in  her belly. 
-<small><sub>**KJV:**</sub></small>
-And when her days to be delivered were fulfilled, behold, [there were] twins in her womb.
-<small><sub>**BSB:**</sub></small>
-When her time came to give birth, there were indeed twins in her womb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.23|<< Genesis 25:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.25|Genesis 25:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zechariah 10:9** 
 <small><sub>**LXX:**</sub></small>
 And I will sow them among peoples, and the \[ones\] far off shall remember me. And they shall nourish  their children, and they shall return. 
-<small><sub>**KJV:**</sub></small>
-And I will sow them among the people: and they shall remember me in far countries; and they shall live with their children, and turn again.
-<small><sub>**BSB:**</sub></small>
-Though I sow them among the nations, they will remember Me in distant lands; they and their children will live and return.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.8|<< Zechariah 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.10|Zechariah 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 19:21** 
+**Isaiah 19:21**<big><big>[[Isa.19.16 A Blessing upon the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall be known to Egypt, and the Egyptians shall know the LORD in that day, and shall do sacrifice and oblation; yea, they shall vow a vow unto the LORD, and perform [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will make Himself known to Egypt, and on that day Egypt will acknowledg
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.20|<< Isaiah 19:20]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.22|Isaiah 19:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make himself known  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|נוֹדַ֤ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> no.Da'<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

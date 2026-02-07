@@ -1,4 +1,4 @@
-**Judges 8:7** 
+**Judges 8:7**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gideon said, Therefore when the LORD hath delivered Zebah and Zalmunna into mine hand, then I will tear your flesh with the thorns of the wilderness and with briers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Gideon said, Therefore when the LORD hath delivered Zebah and Zalmunna into 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.6|<< Judges 8:6]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.8|Judges 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gideon  |**<big>&#8207;[[H1439\|גִּדְע֔וֹן]]&#8207; </big>**| gid.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

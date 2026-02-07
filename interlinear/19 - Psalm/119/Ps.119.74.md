@@ -1,4 +1,4 @@
-**Psalms 119:74** 
+**Psalms 119:74**<big><big>[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that fear thee will be glad when they see me; because I have hoped in thy word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May those who fear You see me and rejoice, for I have hoped in Your word.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.74|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.73|<< Psalms 119:73]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.75|Psalms 119:75 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those] fearing you  |**<big>&#8207;[[H3373\|יְ֭רֵאֶי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Ye.re.'ei.<small><sup>[[HAampc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may they see me  |**<big>&#8207;[[H7200G\|יִרְא֣וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| yir.'U.<small><sup>[[HVqi3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

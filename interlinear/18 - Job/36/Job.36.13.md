@@ -1,4 +1,4 @@
-**Job 36:13** 
+**Job 36:13**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the hypocrites in heart heap up wrath: they cry not when he bindeth them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The godless in heart harbor resentment; even when He binds them, they do not cry
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.12|<< Job 36:12]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.14|Job 36:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [people] godless of  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H2611\|חַנְפֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chan.fei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart  |**<big>&#8207;[[H3820A\|לֵ֭ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

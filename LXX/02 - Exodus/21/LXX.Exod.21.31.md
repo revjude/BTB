@@ -1,10 +1,7 @@
 **LXX Exodus 21:31** 
 <small><sub>**LXX:**</sub></small>
 And if a son or daughter should be gored, according to  this ordinance they shall observe it. 
-<small><sub>**KJV:**</sub></small>
-Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him.
-<small><sub>**BSB:**</sub></small>
-If the ox gores a son or a daughter, it shall be done to him according to the same rule.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.30|<< Exodus 21:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.32|Exodus 21:32 >>]]</td></tr></table>
 
 | Translation | Greek |

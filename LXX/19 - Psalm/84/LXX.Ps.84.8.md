@@ -1,10 +1,7 @@
 **LXX Psalm 84:8** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, the God of the forces, listen to  my prayer! Give ear, O God of Jacob! PAUSE. 
-<small><sub>**KJV:**</sub></small>
-O LORD God of hosts, hear my prayer: give ear, O God of Jacob. Selah.
-<small><sub>**BSB:**</sub></small>
-O LORD God of Hosts, hear my prayer; give ear, O God of Jacob. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.7|<< Psalm 84:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.9|Psalm 84:9 >>]]</td></tr></table>
 
 | Translation | Greek |

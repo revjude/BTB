@@ -1,4 +1,4 @@
-**Joshua 4:23** 
+**Joshua 4:23**<big><big>[[Josh.4.19 The Camp at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD your God dried up the waters of Jordan from before you, until ye were passed over, as the LORD your God did to the Red sea, which he dried up from before us, until we were gone over:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD your God dried up the waters of the Jordan before you until you had
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.22|<< Joshua 4:22]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.24|Joshua 4:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he dried up  |**<big>&#8207;[[H3001\|הוֹבִישׁ֩]]&#8207; </big>**| ho.Vish<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

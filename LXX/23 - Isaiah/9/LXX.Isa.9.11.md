@@ -1,10 +1,7 @@
 **LXX Isaiah 9:11** 
 <small><sub>**LXX:**</sub></small>
 And God shall dash down the ones rising against mount Zion, against him; and  he shall efface his enemies -- 
-<small><sub>**KJV:**</sub></small>
-Therefore the LORD shall set up the adversaries of Rezin against him, and join his enemies together;
-<small><sub>**BSB:**</sub></small>
-The LORD has raised up the foes of Rezin against him and joined his enemies together.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.10|<< Isaiah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.12|Isaiah 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

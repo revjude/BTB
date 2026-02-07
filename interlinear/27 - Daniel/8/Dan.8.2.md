@@ -1,4 +1,4 @@
-**Daniel 8:2** 
+**Daniel 8:2**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I saw in a vision; and it came to pass, when I saw, that I [was] at Shushan [in] the palace, which [is] in the province of Elam; and I saw in a vision, and I was by the river of Ulai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in the vision I saw myself in the citadel of Susa, in the province of Elam. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.1|<< Daniel 8:1]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.3|Daniel 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H7200G\|אֶרְאֶה֮]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'er.'Eh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the vision  |**<big>&#8207;[[H9003\|בֶּ]]&#8207;&#8207;[[H2377\|חָזוֹן֒]]&#8207; </big>**| be.<small><sup>[[HRd]]</sup></small> cha.zOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 14:4** 
 <small><sub>**LXX:**</sub></small>
 And he spoke \[to\] Judah,  to seek after the <span class="smallcaps">lord</span>  God  of their fathers, and to observe the law and the commandments. 
-<small><sub>**KJV:**</sub></small>
-And commanded Judah to seek the LORD God of their fathers, and to do the law and the commandment.
-<small><sub>**BSB:**</sub></small>
-He commanded the people of Judah to seek the LORD, the God of their fathers, and to observe the law and the commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.14.3|<< 2 Chronicles 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.5|2 Chronicles 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

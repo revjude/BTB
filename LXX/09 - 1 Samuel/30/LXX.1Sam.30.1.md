@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in \[the\] entering of David and  of his men  to Ziklag, on the third day, that Amalek made an attack upon the south, and upon  Ziklag. And it struck  Ziklag, and burnt it with fire. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when David and his men were come to Ziklag on the third day, that the Amalekites had invaded the south, and Ziklag, and smitten Ziklag, and burned it with fire;
-<small><sub>**BSB:**</sub></small>
-On the third day David and his men arrived in Ziklag, and the Amalekites had raided the Negev, attacked Ziklag, and burned it down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.11|<< 1 Samuel 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.2|1 Samuel 30:2 >>]]</td></tr></table>
 
 | Translation | Greek |

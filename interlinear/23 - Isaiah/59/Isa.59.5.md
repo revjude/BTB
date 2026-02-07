@@ -1,4 +1,4 @@
-**Isaiah 59:5** 
+**Isaiah 59:5**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They hatch the eggs of vipers and weave a spider’s web. Whoever eats their egg
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.4|<< Isaiah 59:4]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.6|Isaiah 59:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | eggs of  |**<big>&#8207;[[H1000\|בֵּיצֵ֤י]]&#8207; </big>**| bei.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a viper  |**<big>&#8207;[[H6848B\|צִפְעוֹנִי֙]]&#8207; </big>**| tzif.'o.Ni<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

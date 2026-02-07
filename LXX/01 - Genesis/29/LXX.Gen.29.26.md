@@ -1,10 +1,7 @@
 **LXX Genesis 29:26** 
 <small><sub>**LXX:**</sub></small>
 And Laban said, It is not so in  our place to give the younger before the elder. 
-<small><sub>**KJV:**</sub></small>
-And Laban said, It must not be so done in our country, to give the younger before the firstborn.
-<small><sub>**BSB:**</sub></small>
-Laban replied, “It is not our custom here to give the younger daughter in marriage before the older.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.25|<< Genesis 29:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.27|Genesis 29:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:30** 
 <small><sub>**LXX:**</sub></small>
 And he took the crown  of their king from  his head. And  its weight was a talent of gold, and of precious stone. And it was upon the head of David. And he brought forth exceedingly much spoils of the city. 
-<small><sub>**KJV:**</sub></small>
-And he took their king’s crown from off his head, the weight whereof [was] a talent of gold with the precious stones: and it was [set] on David’s head. And he brought forth the spoil of the city in great abundance.
-<small><sub>**BSB:**</sub></small>
-Then he took the crown from the head of their king. It weighed a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.29|<< 2 Samuel 12:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.31|2 Samuel 12:31 >>]]</td></tr></table>
 
 | Translation | Greek |

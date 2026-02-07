@@ -1,10 +1,7 @@
 **LXX Isaiah 57:11** 
 <small><sub>**LXX:**</sub></small>
 In venerating whom were you afraid of, that you lied against me, and did not remember me, nor took me into  your consideration, nor into  your heart? And I beholding you will overlook, yet you did not fear me. 
-<small><sub>**KJV:**</sub></small>
-And of whom hast thou been afraid or feared, that thou hast lied, and hast not remembered me, nor laid [it] to thy heart? have not I held my peace even of old, and thou fearest me not?
-<small><sub>**BSB:**</sub></small>
-Whom have you dreaded and feared, so that you lied and failed to remember Me or take this to heart? Is it not because I have long been silent that you do not fear Me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.10|<< Isaiah 57:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.12|Isaiah 57:12 >>]]</td></tr></table>
 
 | Translation | Greek |

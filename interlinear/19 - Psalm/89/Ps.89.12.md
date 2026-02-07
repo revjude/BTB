@@ -1,4 +1,4 @@
-**Psalms 89:12** (89:13)
+**Psalms 89:12**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ North and south You created; Tabor and Hermon shout for joy at Your name.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.11|<< Psalms 89:11]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.13|Psalms 89:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] north  |**<big>&#8207;[[H6828G\|צָפ֣וֹן]]&#8207; </big>**| tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] south  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H3225H\|יָמִין]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ya.min<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

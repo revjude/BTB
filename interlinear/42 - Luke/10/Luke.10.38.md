@@ -1,12 +1,12 @@
-**Luke 10:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:38**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.
 <small><sub>**BSB:**</sub></small>
 As they traveled along, Jesus entered a village where a woman named Martha welcomed Him into her home.
 <small><sub>**Literal:**</sub></small>
 it came to pass In now the proceeding of them and He himself entered into a village certain. a woman now certain named Martha received Him into the house of her<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.37|<< Luke 10:37]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.39|Luke 10:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it came to pass [^1] |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

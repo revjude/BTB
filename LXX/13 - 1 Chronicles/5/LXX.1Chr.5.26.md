@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:26** 
 <small><sub>**LXX:**</sub></small>
 And the God of Israel roused up the spirit of Pul king of \[the\] Assyrians, and the spirit of Tiglath-Pileser king of \[the\] Assyrians. And he resettled  Reuben, and the Gadites, and the half tribe of Manasseh. And he led them into Halah, and Habor, and Hara, and unto \[the\] river Gozan, unto  this day. 
-<small><sub>**KJV:**</sub></small>
-And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day.
-<small><sub>**BSB:**</sub></small>
-So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tiglath-pileser king of Assyria) to take the Reubenites, the Gadites, and the half-tribe of Manasseh into exile. And he brought them to Halah, Habor, Hara, and the river of Gozan, where they remain to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.25|<< 1 Chronicles 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.1|1 Chronicles 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

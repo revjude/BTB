@@ -1,4 +1,4 @@
-**2 Kings 18:4** 
+**2 Kings 18:4**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He removed the high places, shattered the sacred pillars, and cut down the Asher
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.3|<< 2 Kings 18:3]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.5|2 Kings 18:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he removed  |**<big>&#8207;[[H5493G\|הֵסִ֣יר]]&#8207; </big>**| he.Sir<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

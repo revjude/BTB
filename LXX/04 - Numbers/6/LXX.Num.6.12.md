@@ -1,10 +1,7 @@
 **LXX Numbers 6:12** 
 <small><sub>**LXX:**</sub></small>
 in which he was sanctified to the <span class="smallcaps">lord</span>, all the days of the vow. And he shall lead forward a lamb of a year \[old\] for a trespass \[offering\]. And the former days shall not be reckoned, for the head of his vow was defiled. 
-<small><sub>**KJV:**</sub></small>
-And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled.
-<small><sub>**BSB:**</sub></small>
-He must rededicate his time of separation to the LORD and bring a year-old male lamb as a guilt offering. But the preceding days shall not be counted, because his separation was defiled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.11|<< Numbers 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.13|Numbers 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

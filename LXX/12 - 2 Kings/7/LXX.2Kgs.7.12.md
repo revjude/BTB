@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:12** 
 <small><sub>**LXX:**</sub></small>
 And the king rose up \[in the\] night, and said \[to\] his servants, I shall report indeed to you what the Syrians have done to us. They know that we hunger, and they went forth from out of the camp, to hide in a field, saying, They shall come forth from out of the city, and we shall seize them alive, and we shall enter into the city. 
-<small><sub>**KJV:**</sub></small>
-And the king arose in the night, and said unto his servants, I will now shew you what the Syrians have done to us. They know that we [be] hungry; therefore are they gone out of the camp to hide themselves in the field, saying, When they come out of the city, we shall catch them alive, and get into the city.
-<small><sub>**BSB:**</sub></small>
-So the king got up in the night and said to his servants, “Let me tell you what the Arameans have done to us. They know we are starving, so they have left the camp to hide in the field, thinking, ‘When they come out of the city, we will take them alive and enter the city.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.11|<< 2 Kings 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.13|2 Kings 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

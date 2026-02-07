@@ -1,4 +1,4 @@
-**Psalms 18:35** (18:36)
+**Psalms 18:35**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have given me Your shield of salvation; Your right hand upholds me, and Your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.34|<< Psalms 18:34]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.36|Psalms 18:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you have given  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|תִּתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.ten-<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 6:22** 
+**Jeremiah 6:22**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Behold, a people cometh from the north country, and a great nation shall be raised from the sides of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what the LORD says: “Behold, an army is coming from the land of the no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.21|<< Jeremiah 6:21]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.23|Jeremiah 6:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֚ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

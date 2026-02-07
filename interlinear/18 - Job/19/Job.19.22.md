@@ -1,4 +1,4 @@
-**Job 19:22** 
+**Job 19:22**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why do ye persecute me as God, and are not satisfied with my flesh?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do you persecute me as God does? Will you never get enough of my flesh?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.21|<< Job 19:21]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.23|Job 19:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | are you persecuting me  |**<big>&#8207;[[H7291\|תִּרְדְּפֻ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| tir.de.Fu.<small><sup>[[HVqi2mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

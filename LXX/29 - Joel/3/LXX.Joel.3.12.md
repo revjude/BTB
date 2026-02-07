@@ -1,10 +1,7 @@
 **LXX Joel 3:12** 
 <small><sub>**LXX:**</sub></small>
 Awaken and ascend all  nations into the valley of Jehoshaphat! for there I will sit  to separate all the nations round about. 
-<small><sub>**KJV:**</sub></small>
-Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about.
-<small><sub>**BSB:**</sub></small>
-Let the nations be roused and advance to the Valley of Jehoshaphat, for there I will sit down to judge all the nations on every side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.11|<< Joel 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.13|Joel 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

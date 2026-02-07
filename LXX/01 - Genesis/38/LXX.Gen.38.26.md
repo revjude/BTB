@@ -1,10 +1,7 @@
 **LXX Genesis 38:26** 
 <small><sub>**LXX:**</sub></small>
 And Judah realized, and said, Tamar has done justice rather than I, because I did not give her Shelah  my son. And he did not add any longer  to know her. 
-<small><sub>**KJV:**</sub></small>
-And Judah acknowledged [them], and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more.
-<small><sub>**BSB:**</sub></small>
-Judah recognized the items and said, “She is more righteous than I, since I did not give her to my son Shelah.” And he did not have relations with her again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.25|<< Genesis 38:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.27|Genesis 38:27 >>]]</td></tr></table>
 
 | Translation | Greek |

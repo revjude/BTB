@@ -1,5 +1,5 @@
-**1 Peter 2:8
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:8**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a stone of stumbling, and a rock of offence, [even to them] which stumble at the word, being disobedient: whereunto also they were appointed.
 <small><sub>**BSB:**</sub></small>
 and, “A stone of stumbling and a rock of offense.” They stumble because they disobey the word—and to this they were appointed.
@@ -10,7 +10,7 @@ and A stone of stumbling and a rock of offense, [They] stumble at on the word be
 > $\quad$ referencing: [[LXX.Isa.8.14|Isa 8:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | A stone |**<big>[[G3037\|λίθος]]</big>**  |lithos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

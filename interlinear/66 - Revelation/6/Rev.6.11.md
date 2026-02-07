@@ -1,12 +1,12 @@
-**Revelation 6:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:11**<big><big>[[Rev.6.9 The Fifth Seal：The Martyrs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they [were], should be fulfilled.
 <small><sub>**BSB:**</sub></small>
 Then each of them was given a white robe and told to rest a little while longer until the full number of their fellow servants, their brothers, were killed, just as they had been killed.
 <small><sub>**Literal:**</sub></small>
 And were given to them each a robe white and it was said to them that they will rest yet a time little until when may be fulfilled also the fellow servants of them and the brothers of them, and those being about to be killed as also [had been] they.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.10|<< Revelation 6:10]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.12|Revelation 6:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were given [^1] |**<big>[[G1325\|ἐδόθη]]</big>**  |edothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

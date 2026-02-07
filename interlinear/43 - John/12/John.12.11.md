@@ -1,12 +1,12 @@
-**John 12:11
-**<small><sub>**KJV:**</sub></small>
+**John 12:11**<big><big>[[John.12.9 The Plot to Kill Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because that by reason of him many of the Jews went away, and believed on Jesus.
 <small><sub>**BSB:**</sub></small>
 for on account of him many of the Jews were deserting them and believing in Jesus.
 <small><sub>**Literal:**</sub></small>
 because many on account of him were going away of the Jews and were believing in <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.10|<< John 12:10]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.12|John 12:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

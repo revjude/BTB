@@ -1,10 +1,7 @@
 **LXX Joshua 2:19** 
 <small><sub>**LXX:**</sub></small>
 And it will be any which ever should come forth by the door  of your house \[unto\] outside, shall be liable to himself, and we \[will be\] innocent  in this your oath. And as many as should be with you in  your house, we will be liable if a hand should have touched him. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, [that] whosoever shall go out of the doors of thy house into the street, his blood [shall be] upon his head, and we [will be] guiltless: and whosoever shall be with thee in the house, his blood [shall be] on our head, if [any] hand be upon him.
-<small><sub>**BSB:**</sub></small>
-If anyone goes out the door of your house into the street, his blood will be on his own head, and we will be innocent. But if a hand is laid on anyone with you in the house, his blood will be on our heads.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.18|<< Joshua 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.20|Joshua 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Romans 2:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:6**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who will render to every man according to his deeds:
 <small><sub>**BSB:**</sub></small>
 God “will repay each one according to his deeds.”
@@ -10,7 +10,7 @@ who will give to each according to the works of him,<br><table width="100%" bord
 > $\quad$ referencing: [[LXX.Ps.62.12|Ps 62:12]] ☩ [[LXX.Prov.24.12|Prov 24:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will give |**<big>[[G0591\|ἀποδώσει]]</big>**  |apodōsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

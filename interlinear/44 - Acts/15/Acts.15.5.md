@@ -1,12 +1,12 @@
-**Acts 15:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:5**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command [them] to keep the law of Moses.
 <small><sub>**BSB:**</sub></small>
 But some believers from the party of the Pharisees stood up and declared, “The Gentiles must be circumcised and required to obey the law of Moses.”
 <small><sub>**Literal:**</sub></small>
 Rose up now certain of those of the sect of the Pharisees having believed saying that It is necessary to circumcise them to command [them] then to keep the law of Moses.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.4|<< Acts 15:4]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.6|Acts 15:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Rose up |**<big>[[G1817\|Ἐξανέστησαν]]</big>**  |Exanestēsan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

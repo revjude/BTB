@@ -1,4 +1,4 @@
-**Zephaniah 2:11** 
+**Zephaniah 2:11**<big><big>[[Zeph.2.8 Judgment on Moab and Ammon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [will be] terrible unto them: for he will famish all the gods of the earth; and [men] shall worship him, every one from his place, [even] all the isles of the heathen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will be terrifying to them when He starves all the gods of the earth. T
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.10|<< Zephaniah 2:10]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.12|Zephaniah 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [will be] awesome  |**<big>&#8207;[[H3372H\|נוֹרָ֤א]]&#8207; </big>**| no.Ra'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 2:6
-**<small><sub>**KJV:**</sub></small>
+**John 2:6**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.
 <small><sub>**BSB:**</sub></small>
 Now six stone water jars had been set there for the Jewish rites of purification. Each could hold from twenty to thirty gallons.
 <small><sub>**Literal:**</sub></small>
 There were now there of stone water jars six according to the purification of the Jews standing, having space for metretae two or three.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.5|<< John 2:5]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.7|John 2:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There were |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

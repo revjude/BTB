@@ -1,10 +1,7 @@
 **LXX Judges 20:21** 
 <small><sub>**LXX:**</sub></small>
 And came forth the sons of Benjamin from the city, and utterly destroyed in Israel on  that day two and twenty thousand men upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And the children of Benjamin came forth out of Gibeah, and destroyed down to the ground of the Israelites that day twenty and two thousand men.
-<small><sub>**BSB:**</sub></small>
-And the Benjamites came out of Gibeah and cut down 22,000 Israelites on the battlefield that day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.20|<< Judges 20:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.22|Judges 20:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:11** 
 <small><sub>**LXX:**</sub></small>
 And, O my father, even behold, the border  of your doubled garment in  my hand. I removed the border  of your doubled garment, and I did not kill you. And know and behold today! that there is no evil in  my hand, nor annulment, nor impiety, and I have not sinned against you. But you bind  my life  to take it. 
-<small><sub>**KJV:**</sub></small>
-Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that [there is] neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it.
-<small><sub>**BSB:**</sub></small>
-See, my father, look at the corner of your robe in my hand. For I cut it off, but I did not kill you. Know and see that there is no evil or rebellion in my hands. I have not sinned against you, even though you are hunting me down to take my life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.10|<< 1 Samuel 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.12|1 Samuel 24:12 >>]]</td></tr></table>
 
 | Translation | Greek |

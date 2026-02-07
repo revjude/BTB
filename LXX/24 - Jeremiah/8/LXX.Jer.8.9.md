@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] wise men are ashamed, terrified, and convicted; for the word of \[the\] <span class="smallcaps">lord</span> they rejected; what wisdom is in them? 
-<small><sub>**KJV:**</sub></small>
-The wise [men] are ashamed, they are dismayed and taken: lo, they have rejected the word of the LORD; and what wisdom [is] in them?
-<small><sub>**BSB:**</sub></small>
-The wise will be put to shame; they will be dismayed and trapped. Since they have rejected the word of the LORD, what wisdom do they really have?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.8|<< Jeremiah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.10|Jeremiah 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

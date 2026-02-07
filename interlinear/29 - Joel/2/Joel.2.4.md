@@ -1,4 +1,4 @@
-**Joel 2:4** 
+**Joel 2:4**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The appearance of them [is] as the appearance of horses; and as horsemen, so shall they run.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Their appearance is like that of horses, and they gallop like swift steeds.
 > $\quad$ referenced by: [[Rev.9.7|Rev 9:7-9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] like [the] appearance of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4758\|מַרְאֵ֥ה]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mar.'Eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | horses  |**<big>&#8207;[[H5483M\|סוּסִ֖ים]]&#8207; </big>**| su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

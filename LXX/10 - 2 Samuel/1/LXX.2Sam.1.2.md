@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:2** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the third day, that behold, a man came from out of the camp of the people of Saul, and  his clothes were torn up, and earth \[was\] upon  his head. And it happened in  his entering to David, that he fell upon the ground and did obeisance to him. 
-<small><sub>**KJV:**</sub></small>
-It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and [so] it was, when he came to David, that he fell to the earth, and did obeisance.
-<small><sub>**BSB:**</sub></small>
-On the third day a man with torn clothes and dust on his head arrived from Saul’s camp. When he came to David, he fell to the ground to pay him homage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.1|<< 2 Samuel 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.3|2 Samuel 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

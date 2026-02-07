@@ -1,12 +1,12 @@
-**Luke 20:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:16**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard [it], they said, God forbid.
 <small><sub>**BSB:**</sub></small>
 He will come and kill those tenants and give the vineyard to others.” And when the people heard this, they said, “May such a thing never happen!”
 <small><sub>**Literal:**</sub></small>
 He will come and he will destroy <the> farmers these and will give the vineyard to others. Having heard [it] then they said; Never would it be!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.15|<< Luke 20:15]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.17|Luke 20:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He will come |**<big>[[G2064\|ἐλεύσεται]]</big>**  |eleusetai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

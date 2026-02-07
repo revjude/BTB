@@ -1,4 +1,4 @@
-**Deuteronomy 5:9** 
+**Deuteronomy 5:9**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall not bow down to them or worship them; for I, the LORD your God, am a j
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.8|<< Deuteronomy 5:8]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.10|Deuteronomy 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must bow down  |**<big>&#8207;[[H7812\|תִשְׁתַּחֲוֶ֥֣ה]]&#8207; </big>**[^1] | tish.ta.cha.Veh<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

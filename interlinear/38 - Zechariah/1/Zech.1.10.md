@@ -1,4 +1,4 @@
-**Zechariah 1:10** 
+**Zechariah 1:10**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man that stood among the myrtle trees answered and said, These [are they] whom the LORD hath sent to walk to and fro through the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the man standing among the myrtle trees explained, “They are the ones the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.9|<< Zechariah 1:9]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.11|Zechariah 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֗עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֛ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ecclesiastes 12:5** 
+**Ecclesiastes 12:5**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also [when] they shall be afraid of [that which is] high, and fears [shall be] in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ when men fear the heights and dangers of the road, when the almond tree blossoms
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.4|<< Ecclesiastes 12:4]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.6|Ecclesiastes 12:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a high [place]  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1364\|גָּבֹ֤הַּ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ga.Vo.ah<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

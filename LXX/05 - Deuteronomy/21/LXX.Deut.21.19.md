@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:19** 
 <small><sub>**LXX:**</sub></small>
 then his father and his mother seizing him then shall lead him to the council of elders  of his city, and unto the gate  of his place. 
-<small><sub>**KJV:**</sub></small>
-Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;
-<small><sub>**BSB:**</sub></small>
-his father and mother are to lay hold of him and bring him to the elders of his city, to the gate of his hometown,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.18|<< Deuteronomy 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.20|Deuteronomy 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

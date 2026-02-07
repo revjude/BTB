@@ -1,12 +1,12 @@
-**Luke 7:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:12**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.
 <small><sub>**BSB:**</sub></small>
 As He approached the town gate, He saw a dead man being carried out, the only son of his mother, and she was a widow. And a large crowd from the town was with her.
 <small><sub>**Literal:**</sub></small>
 As then He drew near to the gate of the town, also behold was being carried out [one] having died only begotten son from the mother of him, and she was a widow; And a crowd of the town considerable was with her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.11|<< Luke 7:11]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.13|Luke 7:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 95:9** 
+**Psalms 95:9**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When your fathers tempted me, proved me, and saw my work.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ where your fathers tested and tried Me, though they had seen My work.
 > $\quad$ referenced by: [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they put to [the] test me  |**<big>&#8207;[[H5254G\|נִ֭סּוּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Ni.su.<small><sup>[[HVpp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

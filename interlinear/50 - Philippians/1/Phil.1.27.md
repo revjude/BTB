@@ -1,12 +1,12 @@
-**Philippians 1:27
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:27**<big><big>[[Phil.1.27 Worthy of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
 <small><sub>**BSB:**</sub></small>
 Nevertheless, conduct yourselves in a manner worthy of the gospel of Christ. Then, whether I come and see you or only hear about you in my absence, I will know that you stand firm in one spirit, contending together as one for the faith of the gospel,
 <small><sub>**Literal:**</sub></small>
 Only worthily of the gospel <the> of Christ do conduct yourselves, so that whether having come and having seen you or being absent I shall hear the [things] concerning you that you are standing firm in one spirit, with one mind striving together for the faith of the gospel,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.26|<< Philippians 1:26]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.28|Philippians 1:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Only |**<big>[[G3441\|μόνον]]</big>**  |monon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | worthily |**<big>[[G0516\|ἀξίως]]</big>**  |axiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 16:19** 
+**Deuteronomy 16:19**<big><big>[[Deut.16.18 Judges and Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift: for a gift doth blind the eyes of the wise, and pervert the words of the righteous.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not deny justice or show partiality. Do not accept a bribe, for a bribe blind
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.18|<< Deuteronomy 16:18]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.20|Deuteronomy 16:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will turn aside  |**<big>&#8207;[[H5186\|תַטֶּ֣ה]]&#8207; </big>**| ta.Teh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

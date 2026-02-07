@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:27** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, thus said \[the\] <span class="smallcaps">lord</span> almighty, Drink, be intoxicated, and vomit forth, and fall, and in no way rise up from in front of the sword! of which I send in the midst of you. 
-<small><sub>**KJV:**</sub></small>
-Therefore thou shalt say unto them, Thus saith the LORD of hosts, the God of Israel; Drink ye, and be drunken, and spue, and fall, and rise no more, because of the sword which I will send among you.
-<small><sub>**BSB:**</sub></small>
-“Then you are to tell them that this is what the LORD of Hosts, the God of Israel, says: ‘Drink, get drunk, and vomit. Fall down and never get up again, because of the sword I will send among you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.26|<< Jeremiah 25:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.28|Jeremiah 25:28 >>]]</td></tr></table>
 
 | Translation | Greek |

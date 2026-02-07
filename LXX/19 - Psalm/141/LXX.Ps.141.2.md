@@ -1,10 +1,7 @@
 **LXX Psalm 141:2** 
 <small><sub>**LXX:**</sub></small>
 my prayer be straightened as incense before you; \[the\] raising  of my hands as a sacrifice at evening. 
-<small><sub>**KJV:**</sub></small>
-Let my prayer be set forth before thee [as] incense; [and] the lifting up of my hands [as] the evening sacrifice.
-<small><sub>**BSB:**</sub></small>
-May my prayer be set before You like incense; my uplifted hands, like the evening offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.141.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.1|<< Psalm 141:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.3|Psalm 141:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 141:2** is...

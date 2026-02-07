@@ -1,4 +1,4 @@
-**Genesis 21:26** 
+**Genesis 21:26**<big><big>[[Gen.21.22 The Covenant at Beersheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I [of it], but to day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abimelech replied, “I do not know who has done this. You did not tell me, so I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.25|<< Genesis 21:25]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.27|Genesis 21:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abimelech  |**<big>&#8207;[[H0040G\|אֲבִימֶ֔לֶךְ]]&#8207; </big>**| 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

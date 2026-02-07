@@ -1,4 +1,4 @@
-**Deuteronomy 15:21** 
+**Deuteronomy 15:21**<big><big>[[Deut.15.19 Firstborn Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if there be [any] blemish therein, [as if it be] lame, or blind, [or have] any ill blemish, thou shalt not sacrifice it unto the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if an animal has a defect, is lame or blind, or has any serious flaw, you mu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.20|<< Deuteronomy 15:20]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.22|Deuteronomy 15:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be  |**<big>&#8207;[[H1961\|יִהְיֶ֨ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 20:38** 
+**Ezekiel 20:38**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will purge you of those who rebel and transgress against Me. I will bring 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.37|<< Ezekiel 20:37]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.39|Ezekiel 20:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will purge  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1305\|בָרוֹתִ֣י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.ro.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9036\|כֶּ֗ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

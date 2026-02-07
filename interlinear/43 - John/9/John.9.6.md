@@ -1,12 +1,12 @@
-**John 9:6
-**<small><sub>**KJV:**</sub></small>
+**John 9:6**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,
 <small><sub>**BSB:**</sub></small>
 When Jesus had said this, He spit on the ground, made some mud, and applied it to the man’s eyes.
 <small><sub>**Literal:**</sub></small>
 These things having said He spat on [the] ground and He made clay of the spittle and he rubbed on him the clay to the eyes of the blind<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.5|<< John 9:5]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.7|John 9:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having said |**<big>[[G2036\|εἰπὼν]]</big>**  |eipōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

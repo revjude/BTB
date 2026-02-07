@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:15** 
 <small><sub>**LXX:**</sub></small>
 And you shall remember that you were a servant in \[the\] land of Egypt, and \[the\] <span class="smallcaps">lord</span> your God led you from there by a fortified hand and with a high arm. On account of this \[the\] <span class="smallcaps">lord</span> your God gave orders to you, so as for you to guard the day of the Sabbaths, and to sanctify it. 
-<small><sub>**KJV:**</sub></small>
-And remember that thou wast a servant in the land of Egypt, and [that] the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day.
-<small><sub>**BSB:**</sub></small>
-Remember that you were a slave in the land of Egypt, and that the LORD your God brought you out of there with a mighty hand and an outstretched arm. That is why the LORD your God has commanded you to keep the Sabbath day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.14|<< Deuteronomy 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.16|Deuteronomy 5:16 >>]]</td></tr></table>
 
 | Translation | Greek |

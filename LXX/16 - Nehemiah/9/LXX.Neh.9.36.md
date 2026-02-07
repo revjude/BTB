@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:36** 
 <small><sub>**LXX:**</sub></small>
 Behold, we are today servants, and the land which you gave \[to\] our fathers, to eat the fruit of it, and the good \[things\] of it, even behold, we are servants upon it. 
-<small><sub>**KJV:**</sub></small>
-Behold, we [are] servants this day, and [for] the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we [are] servants in it:
-<small><sub>**BSB:**</sub></small>
-So here we are today as slaves in the land You gave our fathers to enjoy its fruit and goodness—here we are as slaves!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.35|<< Nehemiah 9:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.37|Nehemiah 9:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Matthew 17:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:5**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.
 <small><sub>**BSB:**</sub></small>
 While Peter was still speaking, a bright cloud enveloped them, and a voice from the cloud said, “This is My beloved Son, in whom I am well pleased. Listen to Him!”
@@ -12,7 +12,7 @@ While yet when he is speaking behold a cloud bright overshadowed them, and behol
 > $\quad$ alluding to: [[LXX.Isa.42.1|Isa 42:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While yet |**<big>[[G2089\|Ἔτι]]</big>**  |Eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when he |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Chronicles 13:14** 
+**1 Chronicles 13:14**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the ark of God remained with the family of Obed-edom in his house for three
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.13|<< 1 Chronicles 13:13]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.1|1 Chronicles 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it remained  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּשֶׁב֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ark of  |**<big>&#8207;[[H0727\|אֲר֨וֹן]]&#8207; </big>**| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

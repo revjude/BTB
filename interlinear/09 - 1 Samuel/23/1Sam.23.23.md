@@ -1,4 +1,4 @@
-**1 Samuel 23:23** 
+**1 Samuel 23:23**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 See therefore, and take knowledge of all the lurking places where he hideth himself, and come ye again to me with the certainty, and I will go with you: and it shall come to pass, if he be in the land, that I will search him out throughout all the thousands of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Observe and find out all the places where he hides. Then come back to me with ce
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.22|<< 1 Samuel 23:22]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.24|1 Samuel 23:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and see  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7200I\|רְא֣וּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and know  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3045\|דְע֗וּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

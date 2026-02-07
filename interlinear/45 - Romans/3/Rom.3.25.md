@@ -1,12 +1,12 @@
-**Romans 3:25
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:25**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whom God hath set forth [to be] a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;
 <small><sub>**BSB:**</sub></small>
 God presented Him as an atoning sacrifice in His blood through faith, in order to demonstrate His righteousness, because in His forbearance He had passed over the sins committed beforehand.
 <small><sub>**Literal:**</sub></small>
 whom set forth as <the> God a propitiation through <the> faith in <the> His blood for a showing forth of the righteousness of Him because of the forbearance of the having taken place beforehand sins — (26) in the forbearance <the> of God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.24|<< Romans 3:24]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.26|Romans 3:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | set forth as |**<big>[[G4388\|προέθετο]]</big>**  |proetheto <small><sup>[[V-2AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

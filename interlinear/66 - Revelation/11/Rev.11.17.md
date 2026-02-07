@@ -1,12 +1,12 @@
-**Revelation 11:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:17**<big><big>[[Rev.11.15 The Seventh Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, We give thee thanks, O Lord God Almighty, which art, and wast, and art to come; because thou hast taken to thee thy great power, and hast reigned.
 <small><sub>**BSB:**</sub></small>
 saying: “We give thanks to You, O Lord God Almighty, the One who is and who was, because You have taken Your great power and have begun to reign.
 <small><sub>**Literal:**</sub></small>
 saying: We give thanks to You, Lord <the> God <the> Almighty, who is being and who was and who is coming for You have taken the power of You <the> great and began to reign.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.16|<< Revelation 11:16]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.18|Revelation 11:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying: |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | We give thanks |**<big>[[G2168\|εὐχαριστοῦμέν]]</big>**  |eucharistoumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

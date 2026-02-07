@@ -1,12 +1,12 @@
-**Luke 22:66
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:66**<big><big>[[Luke.22.66 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,
 <small><sub>**BSB:**</sub></small>
 At daybreak the council of the elders of the people, both the chief priests and scribes, met together. They led Jesus into their Sanhedrin and said,
 <small><sub>**Literal:**</sub></small>
 And when it became day, were gathered together the elderhood of the people, chief priests both and scribes, and they led away Him into the council of them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.65|<< Luke 22:65]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.67|Luke 22:67 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

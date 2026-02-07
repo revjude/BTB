@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 5:5** 
 <small><sub>**LXX:**</sub></small>
 And they brought the ark, and the tent of the testimony, and all the holy items, the ones in the tent; and the priests and the Levites brought it. 
-<small><sub>**KJV:**</sub></small>
-And they brought up the ark, and the tabernacle of the congregation, and all the holy vessels that [were] in the tabernacle, these did the priests [and] the Levites bring up.
-<small><sub>**BSB:**</sub></small>
-and they brought up the ark and the Tent of Meeting with all its sacred furnishings. The Levitical priests carried them up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.4|<< 2 Chronicles 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.6|2 Chronicles 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

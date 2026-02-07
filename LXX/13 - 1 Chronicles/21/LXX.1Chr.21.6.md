@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:6** 
 <small><sub>**LXX:**</sub></small>
 And  Levi and  Benjamin were not counted in \[the\] midst of them, for the word of the king \[was\] disgraceful to Joab. 
-<small><sub>**KJV:**</sub></small>
-But Levi and Benjamin counted he not among them: for the king’s word was abominable to Joab.
-<small><sub>**BSB:**</sub></small>
-But Joab did not include Levi and Benjamin in the count, because the king’s command was detestable to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.5|<< 1 Chronicles 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.7|1 Chronicles 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

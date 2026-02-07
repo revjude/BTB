@@ -1,10 +1,7 @@
 **LXX Numbers 8:24** 
 <small><sub>**LXX:**</sub></small>
 This is the \[thing\] for the Levites from five and twenty years and up. They shall enter to minister a ministration in works in the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-This [is it] that [belongeth] unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:
-<small><sub>**BSB:**</sub></small>
-“This applies to the Levites: Men twenty-five years of age or older shall enter to perform the service in the work at the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.23|<< Numbers 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.25|Numbers 8:25 >>]]</td></tr></table>
 
 | Translation | Greek |

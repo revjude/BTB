@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hear, O Israel! You pass over today the Jordan to enter to inherit great and stronger nations than you; great and walled cities unto the heaven; 
-<small><sub>**KJV:**</sub></small>
-Hear, O Israel: Thou [art] to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,
-<small><sub>**BSB:**</sub></small>
-Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.20|<< Deuteronomy 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.2|Deuteronomy 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

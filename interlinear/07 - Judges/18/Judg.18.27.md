@@ -1,4 +1,4 @@
-**Judges 18:27** 
+**Judges 18:27**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took [the things] which Micah had made, and the priest which he had, and came unto Laish, unto a people [that were] at quiet and secure: and they smote them with the edge of the sword, and burnt the city with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After they had taken Micah’s idols and his priest, they went to Laish, to a qu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.26|<< Judges 18:26]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.28|Judges 18:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֨מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they took  |**<big>&#8207;[[H3947G\|לָקְח֜וּ]]&#8207; </big>**| la.ke.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

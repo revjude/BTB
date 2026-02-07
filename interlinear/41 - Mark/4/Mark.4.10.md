@@ -1,12 +1,12 @@
-**Mark 4:10
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:10**<big><big>[[Mark.4.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was alone, they that were about him with the twelve asked of him the parable.
 <small><sub>**BSB:**</sub></small>
 As soon as Jesus was alone with the Twelve and those around Him, they asked Him about the parable.
 <small><sub>**Literal:**</sub></small>
 And when now He was utterly alone, they were asking Him those around Him with the Twelve about the parables.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.9|<< Mark 4:9]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.11|Mark 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

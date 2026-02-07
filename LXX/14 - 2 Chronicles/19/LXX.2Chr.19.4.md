@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 19:4** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat dwelt in Jerusalem. And again he went forth to the people from Beer-sheba unto mount Ephraim, and turned them unto \[the\] <span class="smallcaps">lord</span> the God  of their fathers. 
-<small><sub>**KJV:**</sub></small>
-And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto the LORD God of their fathers.
-<small><sub>**BSB:**</sub></small>
-Jehoshaphat lived in Jerusalem, and once again he went out among the people from Beersheba to the hill country of Ephraim and turned them back to the LORD, the God of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.3|<< 2 Chronicles 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.5|2 Chronicles 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

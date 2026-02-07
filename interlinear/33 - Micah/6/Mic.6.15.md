@@ -1,4 +1,4 @@
-**Micah 6:15** 
+**Micah 6:15**<big><big>[[Mic.6.9 The Punishment of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt sow, but thou shalt not reap; thou shalt tread the olives, but thou shalt not anoint thee with oil; and sweet wine, but shalt not drink wine.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You will sow but not reap; you will press olives but not anoint yourselves with 
 > $\quad$ referenced by: [[John.4.37|John 4:37]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֥ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will sow  |**<big>&#8207;[[H2232\|תִזְרַ֖ע]]&#8207; </big>**| tiz.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

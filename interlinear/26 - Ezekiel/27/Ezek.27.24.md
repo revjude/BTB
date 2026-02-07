@@ -1,4 +1,4 @@
-**Ezekiel 27:24** 
+**Ezekiel 27:24**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] thy merchants in all sorts [of things], in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In your marketplace they traded with you fine garments of blue, embroidered work
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.23|<< Ezekiel 27:23]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.25|Ezekiel 27:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֤מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] traders your  |**<big>&#8207;[[H7402\|רֹכְלַ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| ro.khe.La.yi<small><sup>[[HVqrmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

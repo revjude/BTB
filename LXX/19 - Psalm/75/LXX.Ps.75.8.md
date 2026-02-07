@@ -1,10 +1,7 @@
 **LXX Psalm 75:8** 
 <small><sub>**LXX:**</sub></small>
 For a cup \[is\] in \[the\] hand of \[the\] <span class="smallcaps">lord</span> of undiluted wine, a full mixture; and he leans \[it\]  this \[way\] unto this \[other way\], but  its wine with dregs was not emptied out. All the sinners of the earth shall drink. 
-<small><sub>**KJV:**</sub></small>
-For in the hand of the LORD [there is] a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring [them] out, [and] drink [them].
-<small><sub>**BSB:**</sub></small>
-For a cup is in the hand of the LORD, full of foaming wine mixed with spices. He pours from His cup, and all the wicked of the earth drink it down to the dregs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.75.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.75.7|<< Psalm 75:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.75.9|Psalm 75:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:46** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the ones being initiated of the things being forsaken in the days of Asa  his father he removed from the land. 
-<small><sub>**KJV:**</sub></small>
-And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land.
-<small><sub>**BSB:**</sub></small>
-He banished from the land the male shrine prostitutes who remained from the days of his father Asa.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.45|<< 1 Kings 22:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.47|1 Kings 22:47 >>]]</td></tr></table>
 
 | Translation | Greek |

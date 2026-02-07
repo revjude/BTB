@@ -1,12 +1,12 @@
-**Matthew 22:45
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:45**<big><big>[[Matt.22.41 Whose Son Is the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If David then call him Lord, how is he his son?
 <small><sub>**BSB:**</sub></small>
 So if David calls Him ‘Lord,’ how can He be David’s son?”
 <small><sub>**Literal:**</sub></small>
 If therefore David calls Him Lord, how son of him is He?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.44|<< Matthew 22:44]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.46|Matthew 22:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Numbers 30:12** (30:13)
+**Numbers 30:12**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if her husband hath utterly made them void on the day he heard [them; then] whatsoever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand: her husband hath made them void; and the LORD shall forgive her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if her husband nullifies them on the day he hears of them, then nothing that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.11|<< Numbers 30:11]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.13|Numbers 30:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | actually \<break>  |**<big>&#8207;[[H6565A\|הָפֵר֩]]&#8207; </big>**| ha.Fer<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

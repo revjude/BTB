@@ -1,4 +1,4 @@
-**Psalms 106:8** 
+**Psalms 106:8**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless he saved them for his name’s sake, that he might make his mighty power to be known.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet He saved them for the sake of His name, to make His power known.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.7|<< Psalms 106:7]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.9|Psalms 106:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saved them  |**<big>&#8207;[[H9001\|וַֽ֭]]&#8207;&#8207;[[H3467\|יּוֹשִׁיעֵ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yo.shi.'e<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] sake of  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

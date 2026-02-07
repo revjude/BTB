@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:30** 
 <small><sub>**LXX:**</sub></small>
 And Jehu came to Jezreel. And Jezebel heard, and her eyes with antimony, and she adorned  her head, and she looked through the window. 
-<small><sub>**KJV:**</sub></small>
-And when Jehu was come to Jezreel, Jezebel heard [of it]; and she painted her face, and tired her head, and looked out at a window.
-<small><sub>**BSB:**</sub></small>
-Now when Jehu arrived in Jezreel, Jezebel heard of it. So she painted her eyes, adorned her head, and looked down from a window.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.29|<< 2 Kings 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.31|2 Kings 9:31 >>]]</td></tr></table>
 
 | Translation | Greek |

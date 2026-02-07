@@ -1,4 +1,4 @@
-**Job 2:5** 
+**Job 2:5**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But stretch out Your hand and strike his flesh and bones, and he will surely cur
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.4|<< Job 2:4]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.6|Job 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but  |**<big>&#8207;[[H0199\|אוּלָם֙]]&#8207; </big>**| 'u.Lam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | stretch out  |**<big>&#8207;[[H7971K\|שְֽׁלַֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.lach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Hosea 9:5** 
 <small><sub>**LXX:**</sub></small>
 What will you do in \[the\] day of festival, and in \[the\] day of \[the\] holiday feast of the <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-What will ye do in the solemn day, and in the day of the feast of the LORD?
-<small><sub>**BSB:**</sub></small>
-What will you do on the appointed day, on the day of the LORD’s feast?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.4|<< Hosea 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.6|Hosea 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

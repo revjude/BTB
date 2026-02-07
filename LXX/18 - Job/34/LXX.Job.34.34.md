@@ -1,10 +1,7 @@
 **LXX Job 34:34** 
 <small><sub>**LXX:**</sub></small>
 Therefore \[the\] discerning in heart shall say these \[things\], and a wise man hears my  word. 
-<small><sub>**KJV:**</sub></small>
-Let men of understanding tell me, and let a wise man hearken unto me.
-<small><sub>**BSB:**</sub></small>
-Men of understanding will declare to me, and the wise men who hear me will say:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.33|<< Job 34:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.35|Job 34:35 >>]]</td></tr></table>
 
 | Translation | Greek |

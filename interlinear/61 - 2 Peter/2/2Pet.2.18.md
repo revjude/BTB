@@ -1,12 +1,12 @@
-**2 Peter 2:18
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:18**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For when they speak great swelling [words] of vanity, they allure through the lusts of the flesh, [through much] wantonness, those that were clean escaped from them who live in error.
 <small><sub>**BSB:**</sub></small>
 With lofty but empty words, they appeal to the sensual passions of the flesh and entice those who are just escaping from others who live in error.
 <small><sub>**Literal:**</sub></small>
 Arrogant for of vanity speaking words they entice with [the] passions of [the] flesh to sensuality those scarcely escaping from those in error living,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.17|<< 2 Peter 2:17]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.19|2 Peter 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Arrogant |**<big>[[G5246\|Ὑπέρογκα]]</big>**  |Huperogka <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

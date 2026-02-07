@@ -1,12 +1,12 @@
-**Ephesians 2:20
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:20**<big><big>[[Eph.2.19 Christ Our Cornerstone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner [stone];
 <small><sub>**BSB:**</sub></small>
 built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone.
 <small><sub>**Literal:**</sub></small>
 having been built upon the foundation of the apostles and prophets, being [the] cornerstone Himself Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.19|<< Ephesians 2:19]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.21|Ephesians 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having been built |**<big>[[G2026\|ἐποικοδομηθέντες]]</big>**  |epoikodomēthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | upon |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

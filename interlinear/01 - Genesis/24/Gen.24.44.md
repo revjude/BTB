@@ -1,4 +1,4 @@
-**Genesis 24:44** 
+**Genesis 24:44**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she say to me, Both drink thou, and I will also draw for thy camels: [let] the same [be] the woman whom the LORD hath appointed out for my master’s son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and she replies, ‘Drink, and I will draw water for your camels as well,’ may
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.43|<< Genesis 24:43]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.45|Genesis 24:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמְרָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Rah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

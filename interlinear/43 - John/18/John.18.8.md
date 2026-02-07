@@ -1,12 +1,12 @@
-**John 18:8
-**<small><sub>**KJV:**</sub></small>
+**John 18:8**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered, I have told you that I am [he]: if therefore ye seek me, let these go their way:
 <small><sub>**BSB:**</sub></small>
 “I told you that I am He,” Jesus replied. “So if you are looking for Me, let these men go.”
 <small><sub>**Literal:**</sub></small>
 Answered <the> Jesus; I have told you that I myself am [He]. If therefore Me myself you seek, do allow these to go away;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.7|<< John 18:7]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.9|John 18:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR">k</abbr> | |

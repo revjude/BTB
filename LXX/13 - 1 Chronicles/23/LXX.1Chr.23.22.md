@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:22** 
 <small><sub>**LXX:**</sub></small>
 And Eleazar died, and there were no sons to him, but only daughters. And \[the\] sons of Kish their brethren took them. 
-<small><sub>**KJV:**</sub></small>
-And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.
-<small><sub>**BSB:**</sub></small>
-Eleazar died without having any sons; he had only daughters. Their cousins, the sons of Kish, married them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.21|<< 1 Chronicles 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.23|1 Chronicles 23:23 >>]]</td></tr></table>
 
 | Translation | Greek |

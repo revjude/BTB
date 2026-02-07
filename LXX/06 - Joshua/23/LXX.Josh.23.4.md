@@ -1,10 +1,7 @@
 **LXX Joshua 23:4** 
 <small><sub>**LXX:**</sub></small>
 Behold whatsoever I said, I cast to you nations, the ones being left to you. These \[lands will be\] for  lots to  your tribes. All the nations from the Jordan I utterly destroyed, and from the great sea you shall define the bounds by \[the\] descent of \[the\] sun. 
-<small><sub>**KJV:**</sub></small>
-Behold, I have divided unto you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even unto the great sea westward.
-<small><sub>**BSB:**</sub></small>
-See, I have allotted as an inheritance to your tribes these remaining nations, including all the nations I have already cut off, from the Jordan westward to the Great Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.3|<< Joshua 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.5|Joshua 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

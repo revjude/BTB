@@ -1,12 +1,12 @@
-**Acts 4:32
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:32**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the multitude of them that believed were of one heart and of one soul: neither said any [of them] that ought of the things which he possessed was his own; but they had all things common.
 <small><sub>**BSB:**</sub></small>
 The multitude of believers was one in heart and soul. No one claimed that any of his possessions was his own, but they shared everything they owned.
 <small><sub>**Literal:**</sub></small>
 <the> And the multitude who having believed were [in] <the> heart and <the> soul one; and not one anything of the possessions to him was claiming [his] own to be, but were to them all things in common.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.31|<< Acts 4:31]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.33|Acts 4:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τοῦ]]</big>**  |Tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

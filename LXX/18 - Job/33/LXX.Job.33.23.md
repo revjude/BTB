@@ -1,10 +1,7 @@
 **LXX Job 33:23** 
 <small><sub>**LXX:**</sub></small>
 If there might be a thousand messengers causing death, one of them in no way shall pierce him, if he should purpose \[in his\] heart to turn towards \[the\] <span class="smallcaps">lord</span>, and announce to man  his own complaint,  and should show his lawlessness; 
-<small><sub>**KJV:**</sub></small>
-If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:
-<small><sub>**BSB:**</sub></small>
-Yet if there is a messenger on his side, one mediator in a thousand, to tell a man what is right for him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.22|<< Job 33:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.24|Job 33:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 40:4** 
+**Jeremiah 40:4**<big><big>[[Jer.40.1 Jeremiah Remains in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, I loose thee this day from the chains which [were] upon thine hand. If it seem good unto thee to come with me into Babylon, come; and I will look well unto thee: but if it seem ill unto thee to come with me into Babylon, forbear: behold, all the land [is] before thee: whither it seemeth good and convenient for thee to go, thither go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now, behold, I am freeing you today from the chains that were on your wrists
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.3|<< Jeremiah 40:3]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.5|Jeremiah 40:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֧ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

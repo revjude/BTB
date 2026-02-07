@@ -1,4 +1,4 @@
-**Ezekiel 40:4** 
+**Ezekiel 40:4**<big><big>[[Ezek.40.1 The Man with a Measuring Rod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew [them] unto thee [art] thou brought hither: declare all that thou seest to the house of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the man said unto me, Son of man, behold with thine eyes, and hear with thin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.3|<< Ezekiel 40:3]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.5|Ezekiel 40:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֜]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

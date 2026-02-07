@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:31** 
 <small><sub>**LXX:**</sub></small>
 And he made houses upon high \[places\], and he appointed priests from any part of the people who were not of the sons of Levi. 
-<small><sub>**KJV:**</sub></small>
-And he made an house of high places, and made priests of the lowest of the people, which were not of the sons of Levi.
-<small><sub>**BSB:**</sub></small>
-Jeroboam also built shrines on the high places and appointed from every class of people priests who were not Levites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.30|<< 1 Kings 12:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.32|1 Kings 12:32 >>]]</td></tr></table>
 
 | Translation | Greek |

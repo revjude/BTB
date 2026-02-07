@@ -1,10 +1,7 @@
 **LXX Psalm 19:14** 
 <small><sub>**LXX:**</sub></small>
 And the oracles of my mouth will be for benevolence, and the meditation  of my heart before you always, O <span class="smallcaps">lord</span>, my helper and \[the\] one ransoming me. 
-<small><sub>**KJV:**</sub></small>
-Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.
-<small><sub>**BSB:**</sub></small>
-May the words of my mouth and the meditation of my heart be pleasing in Your sight, O LORD, my Rock and my Redeemer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.13|<< Psalm 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.20.1|Psalm 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

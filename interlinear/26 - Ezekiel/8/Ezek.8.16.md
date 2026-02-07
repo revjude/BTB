@@ -1,4 +1,4 @@
-**Ezekiel 8:16** 
+**Ezekiel 8:16**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought me into the inner court of the LORD’S house, and, behold, at the door of the temple of the LORD, between the porch and the altar, [were] about five and twenty men, with their backs toward the temple of the LORD, and their faces toward the east; and they worshipped the sun toward the east.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So He brought me to the inner court of the house of the LORD, and there at the e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.15|<< Ezekiel 8:15]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.17|Ezekiel 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ve'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> me  |**<big>&#8207;[[H0853\|אֹתִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

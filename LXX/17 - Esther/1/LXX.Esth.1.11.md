@@ -1,10 +1,7 @@
 **LXX Esther 1:11** 
 <small><sub>**LXX:**</sub></small>
 to bring in the queen to him, to give her reign, and to put on her the diadem, and to show her to all the rulers and to the nations  of her beauty, for she was beautiful. 
-<small><sub>**KJV:**</sub></small>
-To bring Vashti the queen before the king with the crown royal, to shew the people and the princes her beauty: for she [was] fair to look on.
-<small><sub>**BSB:**</sub></small>
-to bring Queen Vashti before him, wearing her royal crown, to display her beauty to the people and officials. For she was beautiful to behold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.10|<< Esther 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.12|Esther 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

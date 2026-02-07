@@ -1,4 +1,4 @@
-**Daniel 10:20** 
+**Daniel 10:20**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then said he, Knowest thou wherefore I come unto thee? and now will I return to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.19|<< Daniel 10:19]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.21|Daniel 10:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ do you know  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3045\|יָדַ֙עְתָּ֙]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ya.Da'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

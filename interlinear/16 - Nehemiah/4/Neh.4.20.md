@@ -1,4 +1,4 @@
-**Nehemiah 4:20** (4:14)
+**Nehemiah 4:20**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In what place [therefore] ye hear the sound of the trumpet, resort ye thither unto us: our God shall fight for us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wherever you hear the sound of the horn, rally to us there. Our God will fight f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.19|<< Nehemiah 4:19]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.21|Nehemiah 4:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] place  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4725\|מְק֗וֹם]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> where  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

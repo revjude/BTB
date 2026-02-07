@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 14:7** 
 <small><sub>**LXX:**</sub></small>
 And he said \[to\] Judah, We should build  these cities, and we should make walls, and towers, and gates, and bars, in which  land we dominate, for as we sought \[the\] <span class="smallcaps">lord</span>  our God, he sought us, and rested us round about. And they built and prospered. 
-<small><sub>**KJV:**</sub></small>
-Therefore he said unto Judah, Let us build these cities, and make about [them] walls, and towers, gates, and bars, [while] the land [is] yet before us; because we have sought the LORD our God, we have sought [him], and he hath given us rest on every side. So they built and prospered.
-<small><sub>**BSB:**</sub></small>
-So he said to the people of Judah, “Let us build these cities and surround them with walls and towers, with doors and bars. The land is still ours because we have sought the LORD our God. We have sought Him, and He has given us rest on every side.” So they built and prospered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.14.6|<< 2 Chronicles 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.8|2 Chronicles 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 7:15** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Gideon heard the description of the dream, and  its interpretation, that he did obeisance to \[the\] <span class="smallcaps">lord</span>, and he returned into the camp of Israel. And he said, Rise up! for \[the\] <span class="smallcaps">lord</span> delivered up into your hands the camp of Midian. 
-<small><sub>**KJV:**</sub></small>
-And it was [so], when Gideon heard the telling of the dream, and the interpretation thereof, that he worshipped, and returned into the host of Israel, and said, Arise; for the LORD hath delivered into your hand the host of Midian.
-<small><sub>**BSB:**</sub></small>
-When Gideon heard the dream and its interpretation, he bowed in worship. He returned to the camp of Israel and said, “Get up, for the LORD has delivered the camp of Midian into your hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.14|<< Judges 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.16|Judges 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

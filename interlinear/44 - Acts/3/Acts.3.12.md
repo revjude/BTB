@@ -1,12 +1,12 @@
-**Acts 3:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:12**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Peter saw [it], he answered unto the people, Ye men of Israel, why marvel ye at this? or why look ye so earnestly on us, as though by our own power or holiness we had made this man to walk?
 <small><sub>**BSB:**</sub></small>
 And when Peter saw this, he addressed the people: “Men of Israel, why are you surprised by this? Why do you stare at us as if by our own power or godliness we had made this man walk?
 <small><sub>**Literal:**</sub></small>
 Having seen [it] however <the> Peter answered to the people: Men Israelites, why wonder you at this? Or on us why you look intently as if by [our] own power or godliness having made <the> to walk him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.11|<< Acts 3:11]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.13|Acts 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen [it] |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 27:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:30**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as the shipmen were about to flee out of the ship, when they had let down the boat into the sea, under colour as though they would have cast anchors out of the foreship,
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the sailors attempted to escape from the ship. Pretending to lower anchors from the bow, they let the lifeboat down into the sea.
 <small><sub>**Literal:**</sub></small>
 Of the then sailors seeking to flee out of the ship and having let down the lifeboat into the sea under pretense as from [the] bow anchors being about to cast out<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.29|<< Acts 27:29]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.31|Acts 27:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

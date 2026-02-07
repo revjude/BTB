@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this, O shepherds, hear \[the\] word of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Therefore, O ye shepherds, hear the word of the LORD;
-<small><sub>**BSB:**</sub></small>
-therefore, you shepherds, hear the word of the LORD!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.8|<< Ezekiel 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.10|Ezekiel 34:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 34:9** is...

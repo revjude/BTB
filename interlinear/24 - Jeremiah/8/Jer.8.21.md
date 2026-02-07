@@ -1,4 +1,4 @@
-**Jeremiah 8:21** 
+**Jeremiah 8:21**<big><big>[[Jer.8.18 Jeremiah Weeps for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the hurt of the daughter of my people am I hurt; I am black; astonishment hath taken hold on me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the brokenness of the daughter of my people I am crushed. I mourn; horror ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.20|<< Jeremiah 8:20]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.22|Jeremiah 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] brokenness of  |**<big>&#8207;[[H7667\|שֶׁ֥בֶר]]&#8207; </big>**| She.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

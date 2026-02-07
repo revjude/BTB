@@ -1,10 +1,7 @@
 **LXX Leviticus 25:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! And you shall say to them, Whenever you should enter into the land which I give to you, then the land shall rest a Sabbath to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD.
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and say to them: When you enter the land that I am giving you, the land itself must observe a Sabbath to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.1|<< Leviticus 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.3|Leviticus 25:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:14** 
 <small><sub>**LXX:**</sub></small>
 There shall not enter there except the priests, and they shall not come forth from out of the holy \[place\] into the outer courtyard, so that the ones leading forward be always holy; \[so that\] they should not touch  their uniform in which they officiate in them, for it is holy, and they shall put on other garments whenever they should touch the people. 
-<small><sub>**KJV:**</sub></small>
-When the priests enter therein, then shall they not go out of the holy [place] into the utter court, but there they shall lay their garments wherein they minister; for they [are] holy; and shall put on other garments, and shall approach to [those things] which [are] for the people.
-<small><sub>**BSB:**</sub></small>
-Once the priests have entered the holy area, they must not go out into the outer court until they have left behind the garments in which they minister, for these are holy. They are to put on other clothes before they approach the places that are for the people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.13|<< Ezekiel 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.15|Ezekiel 42:15 >>]]</td></tr></table>
 
 | Translation | Greek |

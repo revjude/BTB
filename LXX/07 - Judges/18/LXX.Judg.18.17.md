@@ -1,10 +1,7 @@
 **LXX Judges 18:17** 
 <small><sub>**LXX:**</sub></small>
 Then the five men going to survey the land ascended; and coming there, they took the carved \[image\], and the ephod, and the teraphim, and the molten \[image\]. And the priest was set up by the door of the gatehouse, and the six hundred men  were girded with weapons for warfare. 
-<small><sub>**KJV:**</sub></small>
-And the five men that went to spy out the land went up, [and] came in thither, [and] took the graven image, and the ephod, and the teraphim, and the molten image: and the priest stood in the entering of the gate with the six hundred men [that were] appointed with weapons of war.
-<small><sub>**BSB:**</sub></small>
-And the five men who had gone to spy out the land went inside and took the graven image, the ephod, the household idols, and the molten idol, while the priest stood at the entrance of the gate with the six hundred armed men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.16|<< Judges 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.18|Judges 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

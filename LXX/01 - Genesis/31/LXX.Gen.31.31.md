@@ -1,10 +1,7 @@
 **LXX Genesis 31:31** 
 <small><sub>**LXX:**</sub></small>
 And answering Jacob said  to Laban, For I said, Lest at any time you should remove  your daughters from me, and all  my \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure thou wouldest take by force thy daughters from me.
-<small><sub>**BSB:**</sub></small>
-“I was afraid,” Jacob answered, “for I thought you would take your daughters from me by force.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.30|<< Genesis 31:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.32|Genesis 31:32 >>]]</td></tr></table>
 
 | Translation | Greek |

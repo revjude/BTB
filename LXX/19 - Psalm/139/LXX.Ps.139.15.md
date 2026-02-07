@@ -1,10 +1,7 @@
 **LXX Psalm 139:15** 
 <small><sub>**LXX:**</sub></small>
 My bones were not hidden from you, which you made in secret; and  my essence in the lowermost \[parts\] of the earth. 
-<small><sub>**KJV:**</sub></small>
-My substance was not hid from thee, when I was made in secret, [and] curiously wrought in the lowest parts of the earth.
-<small><sub>**BSB:**</sub></small>
-My frame was not hidden from You when I was made in secret, when I was woven together in the depths of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.14|<< Psalm 139:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.16|Psalm 139:16 >>]]</td></tr></table>
 
 | Translation | Greek |

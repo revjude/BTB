@@ -1,10 +1,7 @@
 **LXX Exodus 28:20** 
 <small><sub>**LXX:**</sub></small>
 And the fourth row, chrysolite, and beryl, and onyx, being covered all around in gold and being tied together by gold; let them be according to their row! 
-<small><sub>**KJV:**</sub></small>
-And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.
-<small><sub>**BSB:**</sub></small>
-and in the fourth row a beryl, an onyx, and a jasper. Mount these stones in gold filigree settings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.19|<< Exodus 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.21|Exodus 28:21 >>]]</td></tr></table>
 
 | Translation | Greek |

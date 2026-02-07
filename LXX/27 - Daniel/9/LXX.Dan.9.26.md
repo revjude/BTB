@@ -1,10 +1,7 @@
 **LXX Daniel 9:26** 
 <small><sub>**LXX:**</sub></small>
 And after the sixty-two periods of seven, \[the\] anointing shall be utterly destroyed, and judgment is no longer in it. And the city, and the holy place he shall corrupt with the one taking the lead, the one coming, and they shall be cut off as in a flood, and he shall order in extinctions until \[the\] end of war being terminated. 
-<small><sub>**KJV:**</sub></small>
-And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof [shall be] with a flood, and unto the end of the war desolations are determined.
-<small><sub>**BSB:**</sub></small>
-Then after the sixty-two weeks the Messiah will be cut off and will have nothing. Then the people of the prince who is to come will destroy the city and the sanctuary. The end will come like a flood, and until the end there will be war; desolations have been decreed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.25|<< Daniel 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.27|Daniel 9:27 >>]]</td></tr></table>
 
 | Translation | Greek |

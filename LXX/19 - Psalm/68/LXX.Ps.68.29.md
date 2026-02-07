@@ -1,10 +1,7 @@
 **LXX Psalm 68:29** 
 <small><sub>**LXX:**</sub></small>
 Because of  your temple at Jerusalem kings will bring gifts to you. 
-<small><sub>**KJV:**</sub></small>
-Because of thy temple at Jerusalem shall kings bring presents unto thee.
-<small><sub>**BSB:**</sub></small>
-Because of Your temple at Jerusalem kings will bring You gifts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.28|<< Psalm 68:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.30|Psalm 68:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -6,10 +6,7 @@ A psalm \[to\] David; in  his being in the wilderness  of Judah.
 
 <small><sub>**LXX:**</sub></small>
 O God,  my God, to you I rise early. My soul thirsted for you. How often my flesh \[longed\] for you in a barren and untrodden and waterless land. 
-<small><sub>**KJV:**</sub></small>
-A Psalm of David, when he was in the wilderness of Judah. O God, thou [art] my God; early will I seek thee: my soul thirsteth for thee, my flesh longeth for thee in a dry and thirsty land, where no water is;
-<small><sub>**BSB:**</sub></small>
-A Psalm of David, when he was in the Wilderness of Judah. O God, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.63.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.12|<< Psalm 62:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.2|Psalm 63:2 >>]]</td></tr></table>
 
 | Translation | Greek |

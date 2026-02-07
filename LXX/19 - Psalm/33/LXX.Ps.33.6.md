@@ -1,10 +1,7 @@
 **LXX Psalm 33:6** 
 <small><sub>**LXX:**</sub></small>
 \[By\] the word of the <span class="smallcaps">lord</span> the heavens \[were\] solidified, and \[by\] the breath  of his mouth all  their force; 
-<small><sub>**KJV:**</sub></small>
-By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth.
-<small><sub>**BSB:**</sub></small>
-By the word of the LORD the heavens were made, and all the stars by the breath of His mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.5|<< Psalm 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.7|Psalm 33:7 >>]]</td></tr></table>
 
 | Translation | Greek |

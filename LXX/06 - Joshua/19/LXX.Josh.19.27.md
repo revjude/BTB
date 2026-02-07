@@ -1,10 +1,7 @@
 **LXX Joshua 19:27** 
 <small><sub>**LXX:**</sub></small>
 And it will turn from \[the\] east of \[the\] sun and Beth-dagon, and shall join together \[with\] Zebulun and unto Jiphthah-el, according to \[the\] north of Beth-emek and Neiel, and shall go unto Cabul from \[the\] left, 
-<small><sub>**KJV:**</sub></small>
-And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to the valley of Jiphthahel toward the north side of Bethemek, and Neiel, and goeth out to Cabul on the left hand,
-<small><sub>**BSB:**</sub></small>
-then turned eastward toward Beth-dagon, touched Zebulun and the Valley of Iphtah-el, and went north to Beth-emek and Neiel, passing Cabul on the left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.26|<< Joshua 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.28|Joshua 19:28 >>]]</td></tr></table>
 
 | Translation | Greek |

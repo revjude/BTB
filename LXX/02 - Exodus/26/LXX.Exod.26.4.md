@@ -1,10 +1,7 @@
 **LXX Exodus 26:4** 
 <small><sub>**LXX:**</sub></small>
 And you shall make for them hooks of blue upon the edge of the one curtain, \[joining\] the one part to the coupling. And thus you shall make upon the edge of the outer curtain for the second coupling. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make loops of blue upon the edge of the one curtain from the selvedge in the coupling; and likewise shalt thou make in the uttermost edge of [another] curtain, in the coupling of the second.
-<small><sub>**BSB:**</sub></small>
-Make loops of blue material on the edge of the end curtain in the first set, and do the same for the end curtain in the second set.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.3|<< Exodus 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.5|Exodus 26:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 29:18** 
+**Exodus 29:18**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt burn the whole ram upon the altar: it [is] a burnt offering unto the LORD: it [is] a sweet savour, an offering made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then burn the entire ram on the altar; it is a burnt offering to the LORD, a ple
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.17|<< Exodus 29:17]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.19|Exodus 29:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make smoke  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6999A\|הִקְטַרְתָּ֤]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.tar.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

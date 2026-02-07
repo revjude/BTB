@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:12** 
 <small><sub>**LXX:**</sub></small>
 And he placed darkness for his concealment. Round about him  his tent \[was\] darkness of waters; thickened in clouds of air. 
-<small><sub>**KJV:**</sub></small>
-And he made darkness pavilions round about him, dark waters, [and] thick clouds of the skies.
-<small><sub>**BSB:**</sub></small>
-He made darkness a canopy around Him, a gathering of water and thick clouds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.11|<< 2 Samuel 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.13|2 Samuel 22:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 115:15** 
+**Psalms 115:15**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye [are] blessed of the LORD which made heaven and earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May you be blessed by the LORD, the Maker of heaven and earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.14|<< Psalms 115:14]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.16|Psalms 115:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [be] blessed  |**<big>&#8207;[[H1288\|בְּרוּכִ֣ים]]&#8207; </big>**| be.ru.Khim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַ֭תֶּם]]&#8207; </big>**| 'A.tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

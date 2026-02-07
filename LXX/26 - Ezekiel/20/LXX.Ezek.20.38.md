@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:38** 
 <small><sub>**LXX:**</sub></small>
 And I shall choose from you the impious, and the ones revolting; because I will lead them from out of their sojourning, and they shall not enter into the land of Israel. And you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-And I will purge you of those who rebel and transgress against Me. I will bring them out of the land in which they dwell, but they will not enter the land of Israel. Then you will know that I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.37|<< Ezekiel 20:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.39|Ezekiel 20:39 >>]]</td></tr></table>
 
 | Translation | Greek |

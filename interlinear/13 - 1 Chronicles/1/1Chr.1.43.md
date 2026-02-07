@@ -1,4 +1,4 @@
-**1 Chronicles 1:43** 
+**1 Chronicles 1:43**<big><big>[[1Chr.1.43 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the kings that reigned in the land of Edom before [any] king reigned over the children of Israel; Bela the son of Beor: and the name of his city [was] Dinhabah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the kings who reigned in the land of Edom before any king reigned over
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.42|<< 1 Chronicles 1:42]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.44|1 Chronicles 1:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] the kings  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מְּלָכִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

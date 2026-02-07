@@ -1,4 +1,4 @@
-**Genesis 15:13** 
+**Genesis 15:13**<big><big>[[Gen.15.8 God Confirms His Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land [that is] not theirs, and shall serve them; and they shall afflict them four hundred years;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the LORD said to Abram, “Know for certain that your descendants will be s
 > $\quad$ referenced by: [[Acts.7.6|Acts 7:6-7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Abram  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0087\|אַבְרָ֗ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 9:25
-**<small><sub>**KJV:**</sub></small>
+**John 9:25**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He answered and said, Whether he be a sinner [or no], I know not: one thing I know, that, whereas I was blind, now I see.
 <small><sub>**BSB:**</sub></small>
 He answered, “Whether He is a sinner I do not know. There is one thing I do know: I was blind, but now I see!”
 <small><sub>**Literal:**</sub></small>
 Answered then he and said: Whether a sinner He is not I know; One [thing] I do know that blind being now I see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.24|<< John 9:24]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.26|John 9:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

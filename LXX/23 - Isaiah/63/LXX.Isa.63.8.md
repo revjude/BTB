@@ -1,10 +1,7 @@
 **LXX Isaiah 63:8** 
 <small><sub>**LXX:**</sub></small>
 And he said,  Children in no way will disrespect my people. And he became to them for deliverance, 
-<small><sub>**KJV:**</sub></small>
-For he said, Surely they [are] my people, children [that] will not lie: so he was their Saviour.
-<small><sub>**BSB:**</sub></small>
-For He said, “They are surely My people, sons who will not be disloyal.” So He became their Savior.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.7|<< Isaiah 63:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.9|Isaiah 63:9 >>]]</td></tr></table>
 
 | Translation | Greek |

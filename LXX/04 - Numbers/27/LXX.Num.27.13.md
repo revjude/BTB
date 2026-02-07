@@ -1,10 +1,7 @@
 **LXX Numbers 27:13** 
 <small><sub>**LXX:**</sub></small>
 And you shall see it, and you shall be added to  your people, even you, as Aaron your brother was added in Or the mountain; 
-<small><sub>**KJV:**</sub></small>
-And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered.
-<small><sub>**BSB:**</sub></small>
-After you have seen it, you too will be gathered to your people, as your brother Aaron was;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.12|<< Numbers 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.14|Numbers 27:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 32:29** 
+**Jeremiah 32:29**<big><big>[[Jer.32.26 The LORD Answers Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Chaldeans, that fight against this city, shall come and set fire on this city, and burn it with the houses, upon whose roofs they have offered incense unto Baal, and poured out drink offerings unto other gods, to provoke me to anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Chaldeans who are fighting against this city will come in, set it on fir
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.28|<< Jeremiah 32:28]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.30|Jeremiah 32:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֣אוּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va.'u<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Chaldeans  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3778\|כַּשְׂדִּ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kas.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

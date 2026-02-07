@@ -1,4 +1,4 @@
-**Proverbs 30:11** 
+**Proverbs 30:11**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a generation [that] curseth their father, and doth not bless their mother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is a generation of those who curse their fathers and do not bless their mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.10|<< Proverbs 30:10]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.12|Proverbs 30:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a generation  |**<big>&#8207;[[H1755\|דּ֭וֹר]]&#8207; </big>**| Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father its  |**<big>&#8207;[[H0001G\|אָבִ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

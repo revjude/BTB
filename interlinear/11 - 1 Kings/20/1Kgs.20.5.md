@@ -1,4 +1,4 @@
-**1 Kings 20:5** 
+**1 Kings 20:5**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the messengers came again, and said, Thus speaketh Benhadad, saying, Although I have sent unto thee, saying, Thou shalt deliver me thy silver, and thy gold, and thy wives, and thy children;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The messengers came back and said, “This is what Ben-hadad says: ‘I have sen
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.4|<< 1 Kings 20:4]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.6|1 Kings 20:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725J\|יָּשֻׁ֙בוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the messengers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4397G\|מַּלְאָכִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mal.'a.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

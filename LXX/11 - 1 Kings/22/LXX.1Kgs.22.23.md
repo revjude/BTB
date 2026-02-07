@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:23** 
 <small><sub>**LXX:**</sub></small>
 And now, behold, \[the\] <span class="smallcaps">lord</span> has put a lying spirit in \[the\] mouth of all  these your prophets, and \[the\] <span class="smallcaps">lord</span> spoke against you bad \[things\]. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.
-<small><sub>**BSB:**</sub></small>
-So you see, the LORD has put a lying spirit in the mouths of all these prophets of yours, and the LORD has pronounced disaster against you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.22|<< 1 Kings 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.24|1 Kings 22:24 >>]]</td></tr></table>
 
 | Translation | Greek |

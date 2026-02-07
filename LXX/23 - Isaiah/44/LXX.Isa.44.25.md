@@ -1,10 +1,7 @@
 **LXX Isaiah 44:25** 
 <small><sub>**LXX:**</sub></small>
 Who other shall efface \[the\] signs of the ones who deliver oracles, and divinations from \[the\] heart; to turn \[the\] intelligent ones unto the rear, and  their counsel being moronish; 
-<small><sub>**KJV:**</sub></small>
-That frustrateth the tokens of the liars, and maketh diviners mad; that turneth wise [men] backward, and maketh their knowledge foolish;
-<small><sub>**BSB:**</sub></small>
-who foils the signs of false prophets and makes fools of diviners, who confounds the wise and turns their knowledge into nonsense,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.24|<< Isaiah 44:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.26|Isaiah 44:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 44:25** is...

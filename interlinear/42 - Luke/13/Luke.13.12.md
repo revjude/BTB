@@ -1,12 +1,12 @@
-**Luke 13:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:12**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Jesus saw her, he called [her to him], and said unto her, Woman, thou art loosed from thine infirmity.
 <small><sub>**BSB:**</sub></small>
 When Jesus saw her, He called her over and said, “Woman, you are set free from your disability.”
 <small><sub>**Literal:**</sub></small>
 Having seen then her <the> Jesus called [her] near and He said to her; Woman, you have been freed from the sickness of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.11|<< Luke 13:11]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.13|Luke 13:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

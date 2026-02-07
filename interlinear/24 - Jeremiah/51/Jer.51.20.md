@@ -1,4 +1,4 @@
-**Jeremiah 51:20** 
+**Jeremiah 51:20**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] my battle axe [and] weapons of war: for with thee will I break in pieces the nations, and with thee will I destroy kingdoms;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thou [art] my battle axe [and] weapons of war: for with thee will I break in pie
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.19|<< Jeremiah 51:19]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.21|Jeremiah 51:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] a war-club  |**<big>&#8207;[[H4661\|מַפֵּץ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.petz-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

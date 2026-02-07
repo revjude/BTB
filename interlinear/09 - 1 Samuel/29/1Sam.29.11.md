@@ -1,4 +1,4 @@
-**1 Samuel 29:11** 
+**1 Samuel 29:11**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David and his men rose up early to depart in the morning, to return into the land of the Philistines. And the Philistines went up to Jezreel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David and his men got up early in the morning to return to the land of the Ph
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.10|<< 1 Samuel 29:10]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.1|1 Samuel 30:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rose early  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7925\|יַּשְׁכֵּ֨ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֜ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

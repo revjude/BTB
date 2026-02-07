@@ -1,4 +1,4 @@
-**Song of Solomon 7:2** (7:3)
+**Song of Solomon 7:2**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy navel [is like] a round goblet, [which] wanteth not liquor: thy belly [is like] an heap of wheat set about with lilies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your navel is a rounded goblet; it never lacks blended wine. Your waist is a mou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.1|<< Song of Solomon 7:1]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.3|Song of Solomon 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | navel your  |**<big>&#8207;[[H8326\|שָׁרְרֵ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| sha.re.re<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] bowl of  |**<big>&#8207;[[H0101\|אַגַּ֣ן]]&#8207; </big>**| 'a.Gan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 39:13** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as she saw that leaving behind  his clothes in  her hands, he fled and went forth outside, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,
-<small><sub>**BSB:**</sub></small>
-When she saw that he had left his cloak in her hand and had run out of the house,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.12|<< Genesis 39:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.14|Genesis 39:14 >>]]</td></tr></table>
 
 | Translation | Greek |

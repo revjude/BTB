@@ -1,12 +1,12 @@
-**Revelation 16:20
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:20**<big><big>[[Rev.16.17 The Seventh Bowl of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And every island fled away, and the mountains were not found.
 <small><sub>**BSB:**</sub></small>
 Then every island fled, and no mountain could be found.
 <small><sub>**Literal:**</sub></small>
 And every island fled, and mountains not were to be found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.19|<< Revelation 16:19]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.21|Revelation 16:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | every |**<big>[[G3956\|πᾶσα]]</big>**  |pasa <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 23:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:40**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?
 <small><sub>**BSB:**</sub></small>
 But the other one rebuked him, saying, “Do you not even fear God, since you are under the same judgment?
 <small><sub>**Literal:**</sub></small>
 Answering now the other rebuking him was speaking; Not even do fear you yourself <the> God that under the same judgment you are?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.39|<< Luke 23:39]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.41|Luke 23:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

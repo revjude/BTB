@@ -1,4 +1,4 @@
-**Obadiah 1:15** 
+**Obadiah 1:15**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the day of the LORD [is] near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the Day of the LORD is near for all the nations. As you have done, it will b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.14|<< Obadiah 1:14]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.16|Obadiah 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] near  |**<big>&#8207;[[H7138\|קָר֥וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

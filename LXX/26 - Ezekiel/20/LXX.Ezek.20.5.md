@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Thus says \[the\] <span class="smallcaps">lord</span>; From which day I took up the house  of Israel, and made known to the seed of \[the\] house  of Jacob, and was known by them in \[the\] land of Egypt, and took hold of  them with my hand, saying, I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And say unto them, Thus saith the Lord GOD; In the day when I chose Israel, and lifted up mine hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up mine hand unto them, saying, I [am] the LORD your God;
-<small><sub>**BSB:**</sub></small>
-and tell them that this is what the Lord GOD says: On the day I chose Israel, I swore an oath to the descendants of the house of Jacob and made Myself known to them in the land of Egypt. With an uplifted hand I said to them, ‘I am the LORD your God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.4|<< Ezekiel 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.6|Ezekiel 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

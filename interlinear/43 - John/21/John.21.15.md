@@ -1,12 +1,12 @@
-**John 21:15
-**<small><sub>**KJV:**</sub></small>
+**John 21:15**<big><big>[[John.21.15 Jesus and Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So when they had dined, Jesus saith to Simon Peter, Simon, [son] of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.
 <small><sub>**BSB:**</sub></small>
 When they had finished eating, Jesus asked Simon Peter, “Simon son of John, do you love Me more than these?” “Yes, Lord,” he answered, “You know I love You.” Jesus replied, “Feed My lambs.”
 <small><sub>**Literal:**</sub></small>
 When therefore they had dined, says <the> to Simon to Peter <the> Jesus; Simon [son] of John, love you Me more than these? He says to Him; Yes Lord, You yourself know that I dearly love You. He says to him; do feed the lambs of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.14|<< John 21:14]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.16|John 21:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|Ὅτε]]</big>**  |Hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

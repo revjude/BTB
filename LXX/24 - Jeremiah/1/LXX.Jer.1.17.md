@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:17** 
 <small><sub>**LXX:**</sub></small>
 And you, gird  your loin and rise up, and speak to them all as much as I should give charge to you! You should not be fearful from in front of them, nor should you be terrified before them, for I am with you  to rescue you, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them.
-<small><sub>**BSB:**</sub></small>
-Get yourself ready. Stand up and tell them everything that I command you. Do not be intimidated by them, or I will terrify you before them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.16|<< Jeremiah 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.18|Jeremiah 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

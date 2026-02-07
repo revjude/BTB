@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:23** 
 <small><sub>**LXX:**</sub></small>
 And he was not willing  to leave. And Abner struck him with the rear of the spear upon \[his\] flank. And the spear went completely through out  behind him. And he falls there and dies underneath him. And it came to pass every one  coming unto the place where Asahel fell there and died, even stood \[still\]. 
-<small><sub>**KJV:**</sub></small>
-Howbeit he refused to turn aside: wherefore Abner with the hinder end of the spear smote him under the fifth [rib], that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, [that] as many as came to the place where Asahel fell down and died stood still.
-<small><sub>**BSB:**</sub></small>
-But Asahel refused to turn away. So Abner thrust the butt of his spear into his stomach, and it came out his back, and he fell dead on the spot. And every man paused when he came to the place where Asahel had fallen and died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.22|<< 2 Samuel 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.24|2 Samuel 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

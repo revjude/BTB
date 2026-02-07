@@ -1,4 +1,4 @@
-**Ruth 4:16** 
+**Ruth 4:16**<big><big>[[Ruth.4.13 Boaz Marries Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Naomi took the child, and laid it in her bosom, and became nurse unto it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Naomi took the child, placed him on her lap, and became a nurse to him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.15|<< Ruth 4:15]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.17|Ruth 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּ֨ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naomi  |**<big>&#8207;[[H5281\|נָעֳמִ֤י]]&#8207; </big>**| no.'o.Mi<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

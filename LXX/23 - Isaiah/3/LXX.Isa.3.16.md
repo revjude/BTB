@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Because the daughters of Zion are haughty, and they go \[with\] a high neck, and with \[the\] beckon of \[the\] eyes, and their goings  \[with their\] feet together, dragging their inner garments, and their feet playing together; 
-<small><sub>**KJV:**</sub></small>
-Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing [as] they go, and making a tinkling with their feet:
-<small><sub>**BSB:**</sub></small>
-The LORD also says: “Because the daughters of Zion are haughty—walking with heads held high and wanton eyes, prancing and skipping as they go, jingling the bracelets on their ankles—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.15|<< Isaiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.17|Isaiah 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

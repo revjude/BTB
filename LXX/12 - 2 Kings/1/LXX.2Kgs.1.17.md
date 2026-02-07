@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he died according to the saying of \[the\] <span class="smallcaps">lord</span> which Elijah spoke. And Jehoram the brother of Ahaziah reigned instead of him, (for there was no son to him) in the second year of Jehoram son of Jehoshaphat king of Judah. 
-<small><sub>**KJV:**</sub></small>
-So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.
-<small><sub>**BSB:**</sub></small>
-So Ahaziah died according to the word of the LORD that Elijah had spoken. And since he had no son, Jehoram succeeded him in the second year of the reign of Jehoram son of Jehoshaphat over Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.16|<< 2 Kings 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.18|2 Kings 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

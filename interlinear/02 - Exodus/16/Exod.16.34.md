@@ -1,4 +1,4 @@
-**Exodus 16:34** 
+**Exodus 16:34**<big><big>[[Exod.16.31 The Jar of Manna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Aaron placed it in front of the Testimony, to be preserved just as the LORD 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.33|<< Exodus 16:33]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.35|Exodus 16:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֛ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had commanded  |**<big>&#8207;[[H6680\|צִוָּ֥ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

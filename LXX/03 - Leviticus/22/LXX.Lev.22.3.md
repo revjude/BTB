@@ -1,10 +1,7 @@
 **LXX Leviticus 22:3** 
 <small><sub>**LXX:**</sub></small>
 Say to them! Unto  your generations every man who ever should come forward from all  your seed to the holy \[things\], as much as indeed the sons of Israel should sanctify to the <span class="smallcaps">lord</span>, and  his uncleanness is upon him, they shall utterly destroy  that soul from me. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Say unto them, Whosoever [he be] of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-Tell them that for the generations to come, if any of their descendants in a state of uncleanness approaches the sacred offerings that the Israelites consecrate to the LORD, that person must be cut off from My presence. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.2|<< Leviticus 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.4|Leviticus 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

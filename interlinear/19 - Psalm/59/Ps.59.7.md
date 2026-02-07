@@ -1,4 +1,4 @@
-**Psalms 59:7** (59:8)
+**Psalms 59:7**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, they belch out with their mouth: swords [are] in their lips: for who, [say they], doth hear?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See what they spew from their mouths—sharp words from their lips: “For who c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.6|<< Psalms 59:6]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.8|Psalms 59:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they pour forth !  |**<big>&#8207;[[H5042\|יַבִּ֘יע֤וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ya.Bi.'U<small><sup>[[HVhi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

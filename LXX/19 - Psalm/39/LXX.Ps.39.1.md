@@ -6,10 +6,7 @@ To the director; \[to\] Jeduthun; an ode \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 I said, I shall guard  my ways  for me to not sin with my tongue. I put  a guard for my mouth while the sinner stood before me. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, [even] to Jeduthun, A Psalm of David. I said, I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. For Jeduthun. A Psalm of David. I said, “I will watch my ways so that I will not sin with my tongue; I will guard my mouth with a muzzle as long as the wicked are present.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.39.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.22|<< Psalm 38:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.2|Psalm 39:2 >>]]</td></tr></table>
 
 | Translation | Greek |

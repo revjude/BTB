@@ -1,4 +1,4 @@
-**Zechariah 2:5** (2:9)
+**Zechariah 2:5**<big><big>[[Zech.2.1 The Vision of the Measuring Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I, saith the LORD, will be unto her a wall of fire round about, and will be the glory in the midst of her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I will be a wall of fire around it, declares the LORD, and I will be the glo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.4|<< Zechariah 2:4]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.6|Zechariah 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will be  |**<big>&#8207;[[H1961\|אֶֽהְיֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'eh.yeh-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

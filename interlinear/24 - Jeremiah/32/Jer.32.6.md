@@ -1,4 +1,4 @@
-**Jeremiah 32:6** 
+**Jeremiah 32:6**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jeremiah said, The word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Jeremiah replied, “The word of the LORD came to me, saying:
 > $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָ֑הוּ]]&#8207; </big>**| yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

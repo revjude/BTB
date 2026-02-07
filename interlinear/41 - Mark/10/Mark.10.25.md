@@ -1,12 +1,12 @@
-**Mark 10:25
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:25**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 It is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”
 <small><sub>**Literal:**</sub></small>
 Easier it is [for] a camel through the eye of the needle to pass than [for] a rich man into the kingdom <the> of God to enter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.24|<< Mark 10:24]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.26|Mark 10:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Easier |**<big>[[G2123\|εὐκοπώτερόν]]</big>**  |eukopōteron <small><sup>[[A-NSN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

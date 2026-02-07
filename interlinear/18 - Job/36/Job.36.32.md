@@ -1,4 +1,4 @@
-**Job 36:32** 
+**Job 36:32**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With clouds he covereth the light; and commandeth it [not to shine] by [the cloud] that cometh betwixt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He fills His hands with lightning and commands it to strike its mark.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.31|<< Job 36:31]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.33|Job 36:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | palms of hands  |**<big>&#8207;[[H3709G\|כַּפַּ֥יִם]]&#8207; </big>**| ka.Pa.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

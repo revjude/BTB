@@ -1,10 +1,7 @@
 **LXX Genesis 22:23** 
 <small><sub>**LXX:**</sub></small>
 And Bethuel procreated  Rebekah. These \[are\] \[the\] eight sons whom Milcah bore  to Nahor the brother of Abraham. 
-<small><sub>**KJV:**</sub></small>
-And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother.
-<small><sub>**BSB:**</sub></small>
-And Bethuel became the father of Rebekah. Milcah bore these eight sons to Abraham’s brother Nahor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.22|<< Genesis 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.24|Genesis 22:24 >>]]</td></tr></table>
 
 | Translation | Greek |

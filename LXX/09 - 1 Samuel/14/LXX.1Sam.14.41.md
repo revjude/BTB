@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:41** 
 <small><sub>**LXX:**</sub></small>
 And Saul said, O <span class="smallcaps">lord</span>  God of Israel, give manifestations! And Saul was chosen by lot and Jonathan, and the people went forth \[free\]. 
-<small><sub>**KJV:**</sub></small>
-Therefore Saul said unto the LORD God of Israel, Give a perfect [lot]. And Saul and Jonathan were taken: but the people escaped.
-<small><sub>**BSB:**</sub></small>
-So Saul said to the LORD, the God of Israel, “Why have You not answered Your servant this day? If the fault is with me or my son Jonathan, respond with Urim, but if the fault is with the men of Israel, respond with Thummim.” And Jonathan and Saul were selected, but the people were cleared of the charge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.40|<< 1 Samuel 14:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.42|1 Samuel 14:42 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 20:47** 
 <small><sub>**LXX:**</sub></small>
 And they turned aside and fled into the wilderness to the rock  of Rimmon -- six hundred men; and they stayed at \[the\] rock of Rimmon four months. 
-<small><sub>**KJV:**</sub></small>
-But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months.
-<small><sub>**BSB:**</sub></small>
-But 600 men turned and fled into the wilderness to the rock of Rimmon, where they stayed four months.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.46|<< Judges 20:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.48|Judges 20:48 >>]]</td></tr></table>
 
 | Translation | Greek |

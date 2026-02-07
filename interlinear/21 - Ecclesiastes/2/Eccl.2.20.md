@@ -1,4 +1,4 @@
-**Ecclesiastes 2:20** 
+**Ecclesiastes 2:20**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I went about to cause my heart to despair of all the labour which I took under the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So my heart began to despair over all the labor that I had done under the sun.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.19|<< Ecclesiastes 2:19]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.21|Ecclesiastes 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I turned  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5437G\|סַבּ֥וֹתִֽי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Bo.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

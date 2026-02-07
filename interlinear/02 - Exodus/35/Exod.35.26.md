@@ -1,4 +1,4 @@
-**Exodus 35:26** 
+**Exodus 35:26**<big><big>[[Exod.35.20 The People Offer Gifts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the women whose heart stirred them up in wisdom spun goats’ [hair].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all the skilled women whose hearts were stirred spun the goat hair.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.25|<< Exodus 35:25]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.27|Exodus 35:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the women  |**<big>&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H0802G\|נָּשִׁ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 17:26** 
+**2 Kings 17:26**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore they spake to the king of Assyria, saying, The nations which thou hast removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he hath sent lions among them, and, behold, they slay them, because they know not the manner of the God of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they spoke to the king of Assyria, saying, “The peoples that you have remov
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.25|<< 2 Kings 17:25]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.27|2 Kings 17:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] king of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

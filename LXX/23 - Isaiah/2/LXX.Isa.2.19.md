@@ -1,10 +1,7 @@
 **LXX Isaiah 2:19** 
 <small><sub>**LXX:**</sub></small>
 carrying them into the caves, and into the fissures of the rocks, and into the burrows of the earth, from in front of the fear of \[the\] <span class="smallcaps">lord</span>, and from the glory  of his strength, whenever he should rise up to devastate the earth. 
-<small><sub>**KJV:**</sub></small>
-And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.
-<small><sub>**BSB:**</sub></small>
-Men will flee to caves in the rocks and holes in the ground, away from the terror of the LORD and from the splendor of His majesty, when He rises to shake the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.18|<< Isaiah 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.20|Isaiah 2:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 2:19** is...

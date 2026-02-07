@@ -1,12 +1,12 @@
-**Acts 21:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:2**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And finding a ship sailing over unto Phenicia, we went aboard, and set forth.
 <small><sub>**BSB:**</sub></small>
 Finding a ship crossing over to Phoenicia, we boarded it and set sail.
 <small><sub>**Literal:**</sub></small>
 And having found a boat passing over into Phoenicia having gone on board we set sail.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.1|<< Acts 21:1]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.3|Acts 21:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having found |**<big>[[G2147\|εὑρόντες]]</big>**  |heurontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

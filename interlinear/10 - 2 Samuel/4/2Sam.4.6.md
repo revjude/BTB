@@ -1,4 +1,4 @@
-**2 Samuel 4:6** 
+**2 Samuel 4:6**<big><big>[[2Sam.4.1 The Murder of Ish-bosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came thither into the midst of the house, [as though] they would have fetched wheat; and they smote him under the fifth [rib]: and Rechab and Baanah his brother escaped.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They entered the interior of the house as if to get some wheat, and they stabbed
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.5|<< 2 Samuel 4:5]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.7|2 Samuel 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they [fem]  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H2007\|הֵנָּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> he.nah<small><sup>[[HPp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they came  |**<big>&#8207;[[H0935G\|בָּ֜אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

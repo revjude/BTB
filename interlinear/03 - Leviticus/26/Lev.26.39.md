@@ -1,4 +1,4 @@
-**Leviticus 26:39** 
+**Leviticus 26:39**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that are left of you shall pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers shall they pine away with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those of you who survive in the lands of your enemies will waste away in their i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.38|<< Leviticus 26:38]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.40|Leviticus 26:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and those [who] remain  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7604\|נִּשְׁאָרִ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> nish.'a.Rim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among \<the> you  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9036\|כֶ֗ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

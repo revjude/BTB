@@ -1,12 +1,12 @@
-**Revelation 11:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:9**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they of the people and kindreds and tongues and nations shall see their dead bodies three days and an half, and shall not suffer their dead bodies to be put in graves.
 <small><sub>**BSB:**</sub></small>
 For three and a half days all peoples and tribes and tongues and nations will view their bodies and will not permit them to be laid in a tomb.
 <small><sub>**Literal:**</sub></small>
 And gaze [those] of the peoples and tribes and tongues and nations [on] the body of them days three and a half, and the bodies of them not they allow to be put into a tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.8|<< Revelation 11:8]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.10|Revelation 11:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | gaze [^1] |**<big>[[G0991\|βλέπουσιν]]</big>**  |blepousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

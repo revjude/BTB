@@ -1,4 +1,4 @@
-**Numbers 25:9** 
+**Numbers 25:9**<big><big>[[Num.25.6 The Zeal of Phinehas|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those that died in the plague were twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ but those who died in the plague numbered 24,000.
 > $\quad$ referenced by: [[1Cor.10.8|1Cor 10:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֕וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] died  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4191\|מֵּתִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 29:5** 
+**Isaiah 29:5**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones [shall be] as chaff that passeth away: yea, it shall be at an instant suddenly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But your many foes will be like fine dust, the multitude of the ruthless like bl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.4|<< Isaiah 29:4]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.6|Isaiah 29:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֛ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like dust  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0080\|אָבָ֥ק]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'a.Vak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

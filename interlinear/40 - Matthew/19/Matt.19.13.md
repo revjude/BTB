@@ -1,12 +1,12 @@
-**Matthew 19:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:13**<big><big>[[Matt.19.13 Jesus Blesses the Children|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then were there brought unto him little children, that he should put [his] hands on them, and pray: and the disciples rebuked them.
 <small><sub>**BSB:**</sub></small>
 Then little children were brought to Jesus for Him to place His hands on them and pray for them. And the disciples rebuked those who brought them.
 <small><sub>**Literal:**</sub></small>
 Then were brought to Him little children that the hands He may lay on them and He may pray; <the> however the disciples rebuked them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.12|<< Matthew 19:12]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.14|Matthew 19:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were brought [^1] |**<big>[[G4374\|προσηνέχθησαν]]</big>**  |prosēnechthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

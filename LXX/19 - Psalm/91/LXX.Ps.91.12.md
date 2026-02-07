@@ -1,10 +1,7 @@
 **LXX Psalm 91:12** 
 <small><sub>**LXX:**</sub></small>
 By hands they will lift you, lest at any time you should stumble your foot against a stone. 
-<small><sub>**KJV:**</sub></small>
-They shall bear thee up in [their] hands, lest thou dash thy foot against a stone.
-<small><sub>**BSB:**</sub></small>
-They will lift you up in their hands, so that you will not strike your foot against a stone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.11|<< Psalm 91:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.13|Psalm 91:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 91:12** is...

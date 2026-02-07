@@ -1,12 +1,12 @@
-**1 Corinthians 8:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:4**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol [is] nothing in the world, and that [there is] none other God but one.
 <small><sub>**BSB:**</sub></small>
 So about eating food sacrificed to idols: We know that an idol is nothing at all in the world, and that there is no God but one.
 <small><sub>**Literal:**</sub></small>
 Concerning the eating therefore of the idol-sacrifices we know that no [thing] an idol [is] in [the] world and that [there is] no God other only except one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.3|<< 1 Corinthians 8:3]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.5|1 Corinthians 8:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

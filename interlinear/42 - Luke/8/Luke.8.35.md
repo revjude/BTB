@@ -1,12 +1,12 @@
-**Luke 8:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:35**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.
 <small><sub>**BSB:**</sub></small>
 So the people went out to see what had happened. They came to Jesus and found the man whom the demons had left, sitting at Jesus’ feet, clothed and in his right mind; and they were afraid.
 <small><sub>**Literal:**</sub></small>
 They went out then to see that having happened and they came to <the> Jesus and found sitting the man from whom the demons had gone out clothed and being of sound mind at the feet <the> of Jesus, And they were afraid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.34|<< Luke 8:34]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.36|Luke 8:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They went out |**<big>[[G1831\|ἐξῆλθον]]</big>**  |exēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

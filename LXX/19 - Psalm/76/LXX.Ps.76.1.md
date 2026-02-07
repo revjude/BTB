@@ -6,10 +6,7 @@ To the director; among \[the\] hymns; a psalm \[to\] Asaph; an ode to the Assyri
 
 <small><sub>**LXX:**</sub></small>
 God \[is\] made known in Judea; in  Israel his name \[is\] great, 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician on Neginoth, A Psalm [or] Song of Asaph. In Judah [is] God known: his name [is] great in Israel.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. With stringed instruments. A Psalm of Asaph. A song. God is known in Judah; His name is great in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.76.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.75.10|<< Psalm 75:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.2|Psalm 76:2 >>]]</td></tr></table>
 
 | Translation | Greek |

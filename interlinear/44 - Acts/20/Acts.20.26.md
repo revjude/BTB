@@ -1,12 +1,12 @@
-**Acts 20:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:26**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore I take you to record this day, that I [am] pure from the blood of all [men].
 <small><sub>**BSB:**</sub></small>
 Therefore I testify to you this day that I am innocent of the blood of all men.
 <small><sub>**Literal:**</sub></small>
 therefore I testify to you in <the> this day that innocent I am of the blood of all;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.25|<< Acts 20:25]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.27|Acts 20:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | therefore [^1] |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Byz">N(k)O</abbr> | |
 | I testify |**<big>[[G3143\|μαρτύρομαι]]</big>**  |marturomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

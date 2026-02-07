@@ -1,4 +1,4 @@
-**Numbers 31:39** 
+**Numbers 31:39**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the asses [were] thirty thousand and five hundred; of which the LORD’S tribute [was] threescore and one.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the asses [were] thirty thousand and five hundred; of which the LORD’S tri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.38|<< Numbers 31:38]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.40|Numbers 31:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and donkeys  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2543\|חֲמֹרִ֕ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mo.Rim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֥ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

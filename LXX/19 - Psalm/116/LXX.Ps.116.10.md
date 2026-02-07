@@ -1,10 +1,7 @@
 **LXX Psalm 116:10** 
 <small><sub>**LXX:**</sub></small>
 I trusted, therefore I spoke; but I was humbled exceedingly. 
-<small><sub>**KJV:**</sub></small>
-I believed, therefore have I spoken: I was greatly afflicted:
-<small><sub>**BSB:**</sub></small>
-I believed, therefore I said, “I am greatly afflicted.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.116.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.9|<< Psalm 116:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.11|Psalm 116:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 116:10** is...

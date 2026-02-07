@@ -1,4 +1,4 @@
-**Leviticus 25:47** 
+**Leviticus 25:47**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a sojourner or stranger wax rich by thee, and thy brother [that dwelleth] by him wax poor, and sell himself unto the stranger [or] sojourner by thee, or to the stock of the stranger’s family:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a foreigner residing among you prospers, but your countryman dwelling near hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.46|<< Leviticus 25:46]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.48|Leviticus 25:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will reach  |**<big>&#8207;[[H5381\|תַשִּׂ֗יג]]&#8207; </big>**| ta.Sig<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

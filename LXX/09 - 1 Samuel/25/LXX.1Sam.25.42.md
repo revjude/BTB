@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:42** 
 <small><sub>**LXX:**</sub></small>
 And Abigail hastened and rose up, and mounted upon the donkey, and five of her young women followed her. And she went after the servants of David, and became to him for a wife. 
-<small><sub>**KJV:**</sub></small>
-And Abigail hasted, and arose, and rode upon an ass, with five damsels of hers that went after her; and she went after the messengers of David, and became his wife.
-<small><sub>**BSB:**</sub></small>
-So Abigail hurried and got on a donkey, and attended by five of her maidens, she followed David’s messengers and became his wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.41|<< 1 Samuel 25:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.43|1 Samuel 25:43 >>]]</td></tr></table>
 
 | Translation | Greek |

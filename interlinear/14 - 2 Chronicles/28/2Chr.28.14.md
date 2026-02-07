@@ -1,4 +1,4 @@
-**2 Chronicles 28:14** 
+**2 Chronicles 28:14**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the armed men left the captives and the spoil before the princes and all the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the armed men left the captives and the plunder before the leaders and all th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.13|<< 2 Chronicles 28:13]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.15|2 Chronicles 28:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he left  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5800A\|יַּעֲזֹ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Zo<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [man] equipped  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H2502B\|חָל֗וּץ]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Lutz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

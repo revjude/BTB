@@ -1,4 +1,4 @@
-**Isaiah 8:12** 
+**Isaiah 8:12**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say ye not, A confederacy, to all [them to] whom this people shall say, A confederacy; neither fear ye their fear, nor be afraid.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Say ye not, A confederacy, to all [them to] whom this people shall say, A confed
 > $\quad$ referenced by: [[1Pet.3.14|1Pet 3:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must say !  |**<big>&#8207;[[H0559\|תֹאמְר֣וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| tom.Ru<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

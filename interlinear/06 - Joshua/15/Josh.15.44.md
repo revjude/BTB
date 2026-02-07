@@ -1,4 +1,4 @@
-**Joshua 15:44** 
+**Joshua 15:44**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Keilah, and Achzib, and Mareshah; nine cities with their villages:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Keilah, Achzib, and Mareshah—nine cities, along with their villages.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.43|<< Joshua 15:43]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.45|Joshua 15:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Keilah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7084\|קְעִילָ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.'i.Lah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Aczib  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0392G\|אַכְזִ֖יב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'akh.Ziv<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 16:23
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:23**<big><big>[[Rom.16.21 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.
 <small><sub>**BSB:**</sub></small>
 Gaius, who has hosted me and all the church, sends you greetings. Erastus, the city treasurer, sends you greetings, as does our brother Quartus.
 <small><sub>**Literal:**</sub></small>
 Greets you Gaius the host of mine and of all the church. Greets you Erastus the steward of the city and Quartus the brother.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.22|<< Romans 16:22]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.24|Romans 16:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Greets |**<big>[[G0782\|Ἀσπάζεται]]</big>**  |Aspazetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

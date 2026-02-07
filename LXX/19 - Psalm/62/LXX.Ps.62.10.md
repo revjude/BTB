@@ -1,10 +1,7 @@
 **LXX Psalm 62:10** 
 <small><sub>**LXX:**</sub></small>
 Hope not upon unrighteousness, and long not after a \[thing\] seized! If wealth should flow, set not \[the\] heart \[upon it\]! 
-<small><sub>**KJV:**</sub></small>
-Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart [upon them].
-<small><sub>**BSB:**</sub></small>
-Place no trust in extortion or false hope in stolen goods. If your riches increase, do not set your heart upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.9|<< Psalm 62:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.11|Psalm 62:11 >>]]</td></tr></table>
 
 | Translation | Greek |

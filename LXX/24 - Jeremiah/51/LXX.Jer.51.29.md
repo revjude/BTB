@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:29** 
 <small><sub>**LXX:**</sub></small>
 The earth was shaken, and toiled because \[the\] device \[of the\] <span class="smallcaps">lord</span> rose up against Babylon,  to appoint the land of Babylon for extinction, and to not inhabit it. 
-<small><sub>**KJV:**</sub></small>
-And the land shall tremble and sorrow: for every purpose of the LORD shall be performed against Babylon, to make the land of Babylon a desolation without an inhabitant.
-<small><sub>**BSB:**</sub></small>
-The earth quakes and writhes because the LORD’s intentions against Babylon stand: to make the land of Babylon a desolation, without inhabitant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.28|<< Jeremiah 51:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.30|Jeremiah 51:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 6:3** 
+**Exodus 6:3**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I appeared unto Abraham, unto Isaac, and unto Jacob, by [the name of] God Almighty, but by my name JEHOVAH was I not known to them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by My name th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.2|<< Exodus 6:2]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.4|Exodus 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I appeared  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֵרָ֗א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Ra'<small><sup>[[HVNw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 22:41** 
+**1 Kings 22:41**<big><big>[[1Kgs.22.41 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat the son of Asa began to reign over Judah in the fourth year of Ahab king of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the fourth year of Ahab’s reign over Israel, Jehoshaphat son of Asa became 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.40|<< 1 Kings 22:40]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.42|1 Kings 22:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jehoshaphat  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3092I\|יהֽוֹשָׁפָט֙]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 14:6** 
+**Genesis 14:6**<big><big>[[Gen.14.1 The War of the Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Horites in their mount Seir, unto Elparan, which [is] by the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the Horites in the area of Mount Seir, as far as El-paran, which is near the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.5|<< Genesis 14:5]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.7|Genesis 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Horite[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2752\|חֹרִ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cho.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

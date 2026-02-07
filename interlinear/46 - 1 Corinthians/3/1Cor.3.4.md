@@ -1,12 +1,12 @@
-**1 Corinthians 3:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:4**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For while one saith, I am of Paul; and another, I [am] of Apollos; are ye not carnal?
 <small><sub>**BSB:**</sub></small>
 For when one of you says, “I follow Paul,” and another, “I follow Apollos,” are you not mere men?
 <small><sub>**Literal:**</sub></small>
 When for may say one; I myself indeed am of Paul, another however I myself of Apollos, surely human are you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.3|<< 1 Corinthians 3:3]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.5|1 Corinthians 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 7:18
-**<small><sub>**KJV:**</sub></small>
+**John 7:18**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.
 <small><sub>**BSB:**</sub></small>
 He who speaks on his own authority seeks his own glory, but He who seeks the glory of the One who sent Him is a man of truth; in Him there is no falsehood.
 <small><sub>**Literal:**</sub></small>
 The [one] from himself speaking the glory <the> [their] own seeks; the [One] however seeking the glory of the [One who] having sent Him, He true is, and unrighteousness in Him not is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.17|<< John 7:17]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.19|John 7:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G0575\|ἀφ᾽]]</big>**  |aph᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

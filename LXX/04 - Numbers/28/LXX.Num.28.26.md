@@ -1,10 +1,7 @@
 **LXX Numbers 28:26** 
 <small><sub>**LXX:**</sub></small>
 And the day of the new \[produce\], whenever you should bring a new \[produce\] sacrifice of the period of sevens \[to the\] <span class="smallcaps">lord</span>, it will be a holy summoning to you. All servile work you shall not do. 
-<small><sub>**KJV:**</sub></small>
-Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks [be out], ye shall have an holy convocation; ye shall do no servile work:
-<small><sub>**BSB:**</sub></small>
-On the day of firstfruits, when you present an offering of new grain to the LORD during the Feast of Weeks, you are to hold a sacred assembly; you must not do any regular work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.25|<< Numbers 28:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.27|Numbers 28:27 >>]]</td></tr></table>
 
 | Translation | Greek |

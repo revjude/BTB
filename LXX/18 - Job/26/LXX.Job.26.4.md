@@ -1,10 +1,7 @@
 **LXX Job 26:4** 
 <small><sub>**LXX:**</sub></small>
 To whom did you announce words? and whose breath is it that comes forth from you? 
-<small><sub>**KJV:**</sub></small>
-To whom hast thou uttered words? and whose spirit came from thee?
-<small><sub>**BSB:**</sub></small>
-To whom have you uttered these words? And whose spirit spoke through you?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.26.3|<< Job 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.26.5|Job 26:5 >>]]</td></tr></table>
 
 | Translation | Greek |

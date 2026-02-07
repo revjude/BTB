@@ -1,10 +1,7 @@
 **LXX Psalm 90:2** 
 <small><sub>**LXX:**</sub></small>
 Before the mountains existed, and the earth and inhabitable world took shape; even from  eon and until the eon you are. 
-<small><sub>**KJV:**</sub></small>
-Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou [art] God.
-<small><sub>**BSB:**</sub></small>
-Before the mountains were born or You brought forth the earth and the world, from everlasting to everlasting You are God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.90.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.1|<< Psalm 90:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.3|Psalm 90:3 >>]]</td></tr></table>
 
 | Translation | Greek |

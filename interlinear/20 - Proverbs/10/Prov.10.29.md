@@ -1,4 +1,4 @@
-**Proverbs 10:29** 
+**Proverbs 10:29**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of the LORD [is] strength to the upright: but destruction [shall be] to the workers of iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The way of the LORD is a refuge to the upright, but destruction awaits those who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.28|<< Proverbs 10:28]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.30|Proverbs 10:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a refuge  |**<big>&#8207;[[H4581\|מָע֣וֹז]]&#8207; </big>**| ma.'oz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> integrity  |**<big>&#8207;[[H9005\|לַ֭]]&#8207;&#8207;[[H8537\|תֹּם]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

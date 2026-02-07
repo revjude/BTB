@@ -1,12 +1,12 @@
-**Luke 12:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:15**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Take heed, and beware of covetousness: for a man’s life consisteth not in the abundance of the things which he possesseth.
 <small><sub>**BSB:**</sub></small>
 And He said to them, “Watch out! Guard yourselves against every form of greed, for one’s life does not consist in the abundance of his possessions.”
 <small><sub>**Literal:**</sub></small>
 He said then to them; do watch and do keep yourselves from all covetousness, for not in the abounding to anyone the life to him is of the possessions of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.14|<< Luke 12:14]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.16|Luke 12:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

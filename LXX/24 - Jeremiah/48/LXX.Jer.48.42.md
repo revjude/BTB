@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:42** 
 <small><sub>**LXX:**</sub></small>
 And Moab shall be destroyed from \[being a\] multitude, for it magnified itself against the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Moab shall be destroyed from [being] a people, because he hath magnified [himself] against the LORD.
-<small><sub>**BSB:**</sub></small>
-Moab will be destroyed as a nation because he vaunted himself against the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.41|<< Jeremiah 48:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.43|Jeremiah 48:43 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 13:23
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:23**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But take ye heed: behold, I have foretold you all things.
 <small><sub>**BSB:**</sub></small>
 So be on your guard; I have told you everything in advance.
 <small><sub>**Literal:**</sub></small>
 You yourselves however do take heed; behold I have foretold to you all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.22|<< Mark 13:22]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.24|Mark 13:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:21** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, I will make manifest to them my hand in this time; and I shall make known to them  my power; and they shall know that my name \[is the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, I will this once cause them to know, I will cause them to know mine hand and my might; and they shall know that my name [is] The LORD.
-<small><sub>**BSB:**</sub></small>
-“Therefore behold, I will inform them, and this time I will make them know My power and My might; then they will know that My name is the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.20|<< Jeremiah 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.1|Jeremiah 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

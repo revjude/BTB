@@ -1,4 +1,4 @@
-**Ecclesiastes 4:12** 
+**Ecclesiastes 4:12**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And though one may be overpowered, two can resist. Moreover, a cord of three str
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.11|<< Ecclesiastes 4:11]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.13|Ecclesiastes 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and though  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone will overpower him  |**<big>&#8207;[[H8630\|יִתְקְפ]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| yit.ke.F<small><sup>[[HVqi3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

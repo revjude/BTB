@@ -1,12 +1,12 @@
-**Acts 10:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:22**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.
 <small><sub>**BSB:**</sub></small>
 “Cornelius the centurion has sent us,” they said. “He is a righteous and God-fearing man with a good reputation among the whole Jewish nation. A holy angel instructed him to request your presence in his home so he could hear a message from you.”
 <small><sub>**Literal:**</sub></small>
 <the> And they said; Cornelius a centurion, a man righteous and fearing <the> God being well testified to then by all the nation of the Jews, was divinely instructed by an angel holy to send for you to the house of him and to hear declaration from you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.21|<< Acts 10:21]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.23|Acts 10:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

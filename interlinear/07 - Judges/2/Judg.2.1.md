@@ -1,4 +1,4 @@
-**Judges 2:1** 
+**Judges 2:1**<big><big>[[Judg.2.1 Israel Rebuked at Bochim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the angel of the LORD went up from Gilgal to Bochim and said, “I brought y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.36|<< Judges 1:36]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.2|Judges 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֧עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mal.'akh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 18:47** (18:48)
+**Psalms 18:47**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] God that avengeth me, and subdueth the people under me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the God who avenges me and subdues nations beneath me,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.46|<< Psalms 18:46]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.48|Psalms 18:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0410G\|אֵ֗ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the [one who] has given  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5414G\|נּוֹתֵ֣ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

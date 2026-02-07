@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:10** 
 <small><sub>**LXX:**</sub></small>
 And his name shall be called in Israel, House of the Untied  Sandal. 
-<small><sub>**KJV:**</sub></small>
-And his name shall be called in Israel, The house of him that hath his shoe loosed.
-<small><sub>**BSB:**</sub></small>
-And his family name in Israel will be called “The House of the Unsandaled.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.9|<< Deuteronomy 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.11|Deuteronomy 25:11 >>]]</td></tr></table>
 
 | Translation | Greek |

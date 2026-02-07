@@ -1,10 +1,7 @@
 **LXX Job 12:6** 
 <small><sub>**LXX:**</sub></small>
 as many as the <span class="smallcaps">lord</span> to anger, as if be not also their chastisement. 
-<small><sub>**KJV:**</sub></small>
-The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth [abundantly].
-<small><sub>**BSB:**</sub></small>
-The tents of robbers are safe, and those who provoke God are secure—those who carry their god in their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.5|<< Job 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.7|Job 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

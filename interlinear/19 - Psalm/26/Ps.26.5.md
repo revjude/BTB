@@ -1,4 +1,4 @@
-**Psalms 26:5** 
+**Psalms 26:5**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have hated the congregation of evil doers; and will not sit with the wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I hate the mob of evildoers, and refuse to sit with the wicked.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.4|<< Psalms 26:4]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.6|Psalms 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I hate  |**<big>&#8207;[[H8130\|שָׂ֭נֵאתִי]]&#8207; </big>**| Sa.ne.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] assembly of  |**<big>&#8207;[[H6951\|קְהַ֣ל]]&#8207; </big>**| ke.Hal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

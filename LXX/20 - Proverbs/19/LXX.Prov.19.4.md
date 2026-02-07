@@ -1,10 +1,7 @@
 **LXX Proverbs 19:4** 
 <small><sub>**LXX:**</sub></small>
 Riches add many friends; but the poor one \[is\] forsaken even by the friend that exists. 
-<small><sub>**KJV:**</sub></small>
-Wealth maketh many friends; but the poor is separated from his neighbour.
-<small><sub>**BSB:**</sub></small>
-Wealth attracts many friends, but a poor man is deserted by his friend.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.3|<< Proverbs 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.5|Proverbs 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

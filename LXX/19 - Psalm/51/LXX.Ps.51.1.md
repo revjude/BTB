@@ -6,10 +6,7 @@ To the director; a psalm \[to\] David in  Nathan the prophet, entering to him wh
 
 <small><sub>**LXX:**</sub></small>
 Show mercy on me, O God, according to  your great mercy, and according to the multitude  of your compassions! Wipe away  my violation of \[the\] law! 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba. Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of David. When Nathan the prophet came to him after his adultery with Bathsheba. Have mercy on me, O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.51.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.23|<< Psalm 50:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.2|Psalm 51:2 >>]]</td></tr></table>
 
 | Translation | Greek |

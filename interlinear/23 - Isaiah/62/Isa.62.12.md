@@ -1,4 +1,4 @@
-**Isaiah 62:12** 
+**Isaiah 62:12**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall call them, The holy people, The redeemed of the LORD: and thou shalt be called, Sought out, A city not forsaken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they will be called the Holy People, the Redeemed of The LORD; and you will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.11|<< Isaiah 62:11]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.1|Isaiah 63:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people will call  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121H\|קָרְא֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.re.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

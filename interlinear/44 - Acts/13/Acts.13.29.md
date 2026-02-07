@@ -1,12 +1,12 @@
-**Acts 13:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:29**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had fulfilled all that was written of him, they took [him] down from the tree, and laid [him] in a sepulchre.
 <small><sub>**BSB:**</sub></small>
 When they had carried out all that was written about Him, they took Him down from the tree and laid Him in a tomb.
 <small><sub>**Literal:**</sub></small>
 When then they had finished all the [things] about Him written, having taken [Him] down from the tree they put [Him] in a tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.28|<< Acts 13:28]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.30|Acts 13:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

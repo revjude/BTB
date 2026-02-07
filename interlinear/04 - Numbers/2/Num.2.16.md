@@ -1,4 +1,4 @@
-**Numbers 2:16** 
+**Numbers 2:16**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All that were numbered in the camp of Reuben [were] an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies. And they shall set forth in the second rank.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The total number of men in the divisions of the camp of Reuben is 151,450; they 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.15|<< Numbers 2:15]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.17|Numbers 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those enrolled  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6485A\|פְּקֻדִ֞ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.ku.Dim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

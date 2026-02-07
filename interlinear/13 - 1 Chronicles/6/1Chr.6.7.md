@@ -1,4 +1,4 @@
-**1 Chronicles 6:7** (5:33)
+**1 Chronicles 6:7**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Meraioth begat Amariah, and Amariah begat Ahitub,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meraioth was the father of Amariah, Amariah was the father of Ahitub,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.6|<< 1 Chronicles 6:6]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.8|1 Chronicles 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Meraioth  |**<big>&#8207;[[H4812G\|מְרָיוֹת֙]]&#8207; </big>**| me.ra.yOt<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

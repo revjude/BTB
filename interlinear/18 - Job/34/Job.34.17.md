@@ -1,4 +1,4 @@
-**Job 34:17** 
+**Job 34:17**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall even he that hateth right govern? and wilt thou condemn him that is most just?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Could one who hates justice govern? Will you condemn the just and mighty One,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.16|<< Job 34:16]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.18|Job 34:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ also  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0637\|אַ֬ף]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'Af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] hates  |**<big>&#8207;[[H8130\|שׂוֹנֵ֣א]]&#8207; </big>**| so.Ne'<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

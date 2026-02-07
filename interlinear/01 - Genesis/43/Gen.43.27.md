@@ -1,4 +1,4 @@
-**Genesis 43:27** 
+**Genesis 43:27**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he asked them of [their] welfare, and said, [Is] your father well, the old man of whom ye spake? [Is] he yet alive?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He asked if they were well, and then he asked, “How is your elderly father you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.26|<< Genesis 43:26]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.28|Genesis 43:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he asked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7592\|יִּשְׁאַ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.'Al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

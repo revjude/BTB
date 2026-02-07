@@ -1,4 +1,4 @@
-**Isaiah 40:3** 
+**Isaiah 40:3**<big><big>[[Isa.40.1 Prepare the Way for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ A voice of one calling: “Prepare the way for the LORD in the wilderness; make 
 > $\quad$ referenced by: [[Matt.3.3|Matt 3:3]] ☩ [[Mark.1.2|Mark 1:2-3]] ☩ [[Luke.3.4|Luke 3:4-6]] ☩ [[John.1.23|John 1:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a voice  |**<big>&#8207;[[H6963A\|ק֣וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] calling  |**<big>&#8207;[[H7121I\|קוֹרֵ֔א]]&#8207; </big>**| ko.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

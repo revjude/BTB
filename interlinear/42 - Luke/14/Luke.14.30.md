@@ -1,12 +1,12 @@
-**Luke 14:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:30**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, This man began to build, and was not able to finish.
 <small><sub>**BSB:**</sub></small>
 saying, ‘This man could not finish what he started to build.’
 <small><sub>**Literal:**</sub></small>
 saying that This <the> man began to build and not he was able to finish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.29|<< Luke 14:29]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.31|Luke 14:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγοντες]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

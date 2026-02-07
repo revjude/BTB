@@ -1,12 +1,12 @@
-**Philippians 2:30
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:30**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.
 <small><sub>**BSB:**</sub></small>
 because he nearly died for the work of Christ, risking his life to make up for your deficit of service to me.
 <small><sub>**Literal:**</sub></small>
 because for the sake of the work <the> of Christ unto death he came near having disregarded <the> [his] life so that he may fill up the of you deficit <the> of toward me service.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.29|<< Philippians 2:29]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.1|Philippians 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for the sake of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

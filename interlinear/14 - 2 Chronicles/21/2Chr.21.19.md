@@ -1,4 +1,4 @@
-**2 Chronicles 21:19** 
+**2 Chronicles 21:19**<big><big>[[2Chr.21.16 Jehoram’s Disease and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no burning for him, like the burning of his fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This continued day after day until two full years had passed. Finally, his intes
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.18|<< 2 Chronicles 21:18]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.20|2 Chronicles 21:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to days  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3117G\|יָמִ֣ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

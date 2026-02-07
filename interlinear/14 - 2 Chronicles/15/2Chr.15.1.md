@@ -1,4 +1,4 @@
-**2 Chronicles 15:1** 
+**2 Chronicles 15:1**<big><big>[[2Chr.15.1 The Prophecy of Azariah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Spirit of God came upon Azariah the son of Oded:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the Spirit of God came upon Azariah son of Oded.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.15|<< 2 Chronicles 14:15]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.2|2 Chronicles 15:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Azariah  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5838M\|עֲזַרְיָ֙הוּ֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.zar.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

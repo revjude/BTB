@@ -1,4 +1,4 @@
-**Ezekiel 16:52** 
+**Ezekiel 16:52**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now you must bear your disgrace, since you have brought justification for you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.51|<< Ezekiel 16:51]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.53|Ezekiel 16:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859C\|אַ֣תְּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'at<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

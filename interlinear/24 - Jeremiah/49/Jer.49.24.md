@@ -1,4 +1,4 @@
-**Jeremiah 49:24** 
+**Jeremiah 49:24**<big><big>[[Jer.49.23 Judgment on Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Damascus is waxed feeble, [and] turneth herself to flee, and fear hath seized on [her]: anguish and sorrows have taken her, as a woman in travail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Damascus has become feeble; she has turned to flee. Panic has gripped her; angui
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.23|<< Jeremiah 49:23]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.25|Jeremiah 49:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will be disheartened  |**<big>&#8207;[[H7503\|רָפְתָ֥ה]]&#8207; </big>**| ra.fe.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Damascus  |**<big>&#8207;[[H1834\|דַמֶּ֛שֶׂק]]&#8207; </big>**| da.Me.sek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

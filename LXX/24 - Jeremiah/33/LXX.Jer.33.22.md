@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:22** 
 <small><sub>**LXX:**</sub></small>
 As if the military of heaven shall not be counted, and the sand of the sea shall not be measured, thus I shall multiply the seed  of David  my firebrand, and of the Levites  of my ministration. 
-<small><sub>**KJV:**</sub></small>
-As the host of heaven cannot be numbered, neither the sand of the sea measured: so will I multiply the seed of David my servant, and the Levites that minister unto me.
-<small><sub>**BSB:**</sub></small>
-As the hosts of heaven cannot be counted and as the sand on the seashore cannot be measured, so too will I multiply the descendants of My servant David and the Levites who minister before Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.21|<< Jeremiah 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.23|Jeremiah 33:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 6:9** 
 <small><sub>**LXX:**</sub></small>
 And he said, Go! and say  to this people, Hearing, you shall hear, but in no way shall you perceive; and seeing you shall see, but in no way shall you know. 
-<small><sub>**KJV:**</sub></small>
-And he said, Go, and tell this people, Hear ye indeed, but understand not; and see ye indeed, but perceive not.
-<small><sub>**BSB:**</sub></small>
-And He replied: “Go and tell this people, ‘Be ever hearing, but never understanding; be ever seeing, but never perceiving.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.8|<< Isaiah 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.10|Isaiah 6:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 6:9** is...

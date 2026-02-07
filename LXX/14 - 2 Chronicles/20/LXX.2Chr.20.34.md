@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:34** 
 <small><sub>**LXX:**</sub></small>
 And the rest of \[the\] words of Jehoshaphat, the first and the last, behold, they are written in \[the\] words of Jehu the \[son of\] Hanani, which he wrote down upon a scroll of \[the\] kings of Israel. 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Jehoshaphat, first and last, behold, they [are] written in the book of Jehu the son of Hanani, who [is] mentioned in the book of the kings of Israel.
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Jehoshaphat, from beginning to end, they are indeed written in the Chronicles of Jehu son of Hanani, which are recorded in the Book of the Kings of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.33|<< 2 Chronicles 20:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.35|2 Chronicles 20:35 >>]]</td></tr></table>
 
 | Translation | Greek |

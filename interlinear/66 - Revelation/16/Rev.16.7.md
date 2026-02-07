@@ -1,12 +1,12 @@
-**Revelation 16:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:7**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous [are] thy judgments.
 <small><sub>**BSB:**</sub></small>
 And I heard the altar reply: “Yes, Lord God Almighty, true and just are Your judgments.”
 <small><sub>**Literal:**</sub></small>
 And I heard other from the altar saying: Yes Lord O God <the> Almighty, true and righteous [are] the judgments of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.6|<< Revelation 16:6]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.8|Revelation 16:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I heard |**<big>[[G0191\|ἤκουσα]]</big>**  |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

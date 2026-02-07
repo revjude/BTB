@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:22** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] blood of \[the\] slain, and from \[the\] fat of \[the\] mighty ones, \[the\] bow of Jonathan did not return empty to the rear; and \[the\] broadsword of Saul did not return empty. 
-<small><sub>**KJV:**</sub></small>
-From the blood of the slain, from the fat of the mighty, the bow of Jonathan turned not back, and the sword of Saul returned not empty.
-<small><sub>**BSB:**</sub></small>
-From the blood of the slain, from the fat of the mighty, the bow of Jonathan did not retreat, and the sword of Saul did not return empty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.21|<< 2 Samuel 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.23|2 Samuel 1:23 >>]]</td></tr></table>
 
 | Translation | Greek |

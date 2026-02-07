@@ -1,4 +1,4 @@
-**Psalms 35:24** 
+**Psalms 35:24**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judge me, O LORD my God, according to thy righteousness; and let them not rejoice over me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Vindicate me by Your righteousness, O LORD my God, and do not let them gloat ove
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.23|<< Psalms 35:23]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.25|Psalms 35:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | vindicate me  |**<big>&#8207;[[H8199\|שָׁפְטֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| sha.fe.Te.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to righteousness your  |**<big>&#8207;[[H9004\|כְ֭]]&#8207;&#8207;[[H6664G\|צִדְקְ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Khe.<small><sup>[[HR]]</sup></small> tzid.ke.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 28:31** 
+**Numbers 28:31**<big><big>[[Num.28.26 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall offer [them] beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Offer them with their drink offerings in addition to the regular burnt offering 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.30|<< Numbers 28:30]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.1|Numbers 29:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<from> \<to> besides  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H0905J\|בַ֞ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] burnt offering of  |**<big>&#8207;[[H5930A\|עֹלַ֧ת]]&#8207; </big>**| 'o.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

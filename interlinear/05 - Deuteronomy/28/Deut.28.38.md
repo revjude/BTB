@@ -1,4 +1,4 @@
-**Deuteronomy 28:38** 
+**Deuteronomy 28:38**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt carry much seed out into the field, and shalt gather [but] little in; for the locust shall consume it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will sow much seed in the field but harvest little, because the locusts will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.37|<< Deuteronomy 28:37]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.39|Deuteronomy 28:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seed  |**<big>&#8207;[[H2233G\|זֶ֥רַע]]&#8207; </big>**| Ze.ra'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | much  |**<big>&#8207;[[H7227A\|רַ֖ב]]&#8207; </big>**| rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

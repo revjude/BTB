@@ -1,5 +1,5 @@
-**1 Peter 2:12
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:12**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by [your] good works, which they shall behold, glorify God in the day of visitation.
 <small><sub>**BSB:**</sub></small>
 Conduct yourselves with such honor among the Gentiles that, though they slander you as evildoers, they may see your good deeds and glorify God on the day He visits us.
@@ -10,7 +10,7 @@ the conduct of you among the Gentiles keeping honorable, so that wherein which t
 > $\quad$ referencing: [[LXX.Isa.10.3|Isa 10:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | conduct |**<big>[[G0391\|ἀναστροφὴν]]</big>**  |anastrophēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

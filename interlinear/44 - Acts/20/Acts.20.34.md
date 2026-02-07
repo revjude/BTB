@@ -1,12 +1,12 @@
-**Acts 20:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:34**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me.
 <small><sub>**BSB:**</sub></small>
 You yourselves know that these hands of mine have ministered to my own needs and those of my companions.
 <small><sub>**Literal:**</sub></small>
 You yourselves now know that to the needs of me and to that [of those] being with me ministered to <the> hands these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.33|<< Acts 20:33]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.35|Acts 20:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 37:30** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the sign to you, Eat this  year what you have sown; and the second year the vestige left; and the third \[year\], sow, \[and\] reap, and plant vineyards, and eat  of their fruit! 
-<small><sub>**KJV:**</sub></small>
-And this [shall be] a sign unto thee, Ye shall eat [this] year such as groweth of itself; and the second year that which springeth of the same: and in the third year sow ye, and reap, and plant vineyards, and eat the fruit thereof.
-<small><sub>**BSB:**</sub></small>
-And this will be a sign to you, O Hezekiah: This year you will eat what grows on its own, and in the second year what springs from the same. But in the third year you will sow and reap; you will plant vineyards and eat their fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.29|<< Isaiah 37:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.31|Isaiah 37:31 >>]]</td></tr></table>
 
 | Translation | Greek |

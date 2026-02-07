@@ -1,4 +1,4 @@
-**Genesis 6:19** 
+**Genesis 6:19**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of every living thing of all flesh, two of every [sort] shalt thou bring into the ark, to keep [them] alive with thee; they shall be male and female.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you are to bring two of every living creature into the ark—male and female
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.18|<< Genesis 6:18]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.20|Genesis 6:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and of every  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> living [thing]  |**<big>&#8207;[[H9009\|הָ֠]]&#8207;&#8207;[[H2416A\|חַי]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

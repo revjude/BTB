@@ -1,10 +1,7 @@
 **LXX Exodus 6:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Merari -- Mahli, and Mushi. These \[are\] the houses of \[the\] families of Levi, according to their kin. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Merari; Mahali and Mushi: these [are] the families of Levi according to their generations.
-<small><sub>**BSB:**</sub></small>
-The sons of Merari were Mahli and Mushi. These were the clans of the Levites according to their records.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.18|<< Exodus 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.20|Exodus 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

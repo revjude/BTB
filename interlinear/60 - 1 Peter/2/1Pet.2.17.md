@@ -1,5 +1,5 @@
-**1 Peter 2:17
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:17**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Honour all [men]. Love the brotherhood. Fear God. Honour the king.
 <small><sub>**BSB:**</sub></small>
 Treat everyone with high regard: Love the brotherhood of believers, fear God, honor the king.
@@ -10,7 +10,7 @@ Everyone do honor, The brotherhood do love, <the> God do fear, the king do honor
 > $\quad$ alluding to: [[LXX.Prov.24.21|Prov 24:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|πάντας]]</big>**  |pantas <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do honor, |**<big>[[G5091\|τιμήσατε,]]</big>**  |timēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

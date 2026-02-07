@@ -1,10 +1,7 @@
 **LXX Isaiah 42:11** 
 <small><sub>**LXX:**</sub></small>
 Be glad, O wilderness and  her towns, properties, and the ones dwelling in Kedar! The ones dwelling in \[the\] rock shall be glad. From \[the\] tip of the mountains they shall yell. 
-<small><sub>**KJV:**</sub></small>
-Let the wilderness and the cities thereof lift up [their voice], the villages [that] Kedar doth inhabit: let the inhabitants of the rock sing, let them shout from the top of the mountains.
-<small><sub>**BSB:**</sub></small>
-Let the desert and its cities raise their voices; let the villages of Kedar cry aloud. Let the people of Sela sing for joy; let them cry out from the mountaintops.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.10|<< Isaiah 42:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.12|Isaiah 42:12 >>]]</td></tr></table>
 
 | Translation | Greek |

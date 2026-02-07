@@ -1,10 +1,7 @@
 **LXX Psalm 44:18** 
 <small><sub>**LXX:**</sub></small>
 and we did not leave our heart to the rear, nor turned aside  our paths from  your way. 
-<small><sub>**KJV:**</sub></small>
-Our heart is not turned back, neither have our steps declined from thy way;
-<small><sub>**BSB:**</sub></small>
-Our hearts have not turned back; our steps have not strayed from Your path.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.17|<< Psalm 44:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.19|Psalm 44:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And ascended an angel of \[the\] <span class="smallcaps">lord</span> from Gilgal, unto the Place of Weeping. And he said to them, \[The\] <span class="smallcaps">lord</span> transported you from Egypt, and brought you into the land which he swore by an oath \[to\] your fathers  to give to you. And he said, I shall not efface  my covenant with you into the eon. 
-<small><sub>**KJV:**</sub></small>
-And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.
-<small><sub>**BSB:**</sub></small>
-Now the angel of the LORD went up from Gilgal to Bochim and said, “I brought you up out of Egypt and led you into the land that I had promised to your fathers, and I said, ‘I will never break My covenant with you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.36|<< Judges 1:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.2|Judges 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

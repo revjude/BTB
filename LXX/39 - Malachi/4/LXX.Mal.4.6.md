@@ -1,10 +1,7 @@
 **LXX Malachi 4:6** 
 <small><sub>**LXX:**</sub></small>
 the one who shall restore \[the\] heart of \[the\] father to \[the\] son, and \[the\] heart of a man to  his neighbor, lest coming I strike the earth entirely. 
-<small><sub>**KJV:**</sub></small>
-And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
-<small><sub>**BSB:**</sub></small>
-And he will turn the hearts of the fathers to their children, and the hearts of the children to their fathers. Otherwise, I will come and strike the land with a curse.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.4.5|<< Malachi 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">&nbsp;</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Malachi 4:6** is...

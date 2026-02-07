@@ -1,12 +1,12 @@
-**Matthew 4:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:5**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,
 <small><sub>**BSB:**</sub></small>
 Then the devil took Him to the holy city and set Him on the pinnacle of the temple.
 <small><sub>**Literal:**</sub></small>
 Then takes Him the devil to the holy city and set Him upon the pinnacle of the temple<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.4|<< Matthew 4:4]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.6|Matthew 4:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | takes |**<big>[[G3880\|παραλαμβάνει]]</big>**  |paralambanei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 45:7** 
 <small><sub>**LXX:**</sub></small>
 You loved righteousness, and detested lawlessness; on account of this God your God anointed you with oil of exultation beyond  your \[fellow\] partakers. 
-<small><sub>**KJV:**</sub></small>
-Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.
-<small><sub>**BSB:**</sub></small>
-You have loved righteousness and hated wickedness; therefore God, your God, has anointed you above your companions with the oil of joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.45.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.6|<< Psalm 45:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.8|Psalm 45:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 45:7** is...

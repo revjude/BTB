@@ -1,10 +1,7 @@
 **LXX Psalm 78:53** 
 <small><sub>**LXX:**</sub></small>
 And he guided them with hope; and they were not timid, and  \[the\] sea covered their enemies. 
-<small><sub>**KJV:**</sub></small>
-And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.
-<small><sub>**BSB:**</sub></small>
-He led them safely, so they did not fear, but the sea engulfed their enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.52|<< Psalm 78:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.54|Psalm 78:54 >>]]</td></tr></table>
 
 | Translation | Greek |

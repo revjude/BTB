@@ -1,12 +1,12 @@
-**1 Corinthians 3:14
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:14**<big><big>[[1Cor.3.10 Christ Our Foundation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man’s work abide which he hath built thereupon, he shall receive a reward.
 <small><sub>**BSB:**</sub></small>
 If what he has built survives, he will receive a reward.
 <small><sub>**Literal:**</sub></small>
 If of anyone the work will remain which he built up, a reward he will receive;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.13|<< 1 Corinthians 3:13]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.15|1 Corinthians 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of anyone |**<big>[[G5100\|τινος]]</big>**  |tinos <small><sup>[[X-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

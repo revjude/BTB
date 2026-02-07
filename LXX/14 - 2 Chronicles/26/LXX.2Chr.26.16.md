@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And as he grew strong his heart was raised up  to corrupt. And he transgressed against \[the\] <span class="smallcaps">lord</span>  his God, and he entered into the temple of \[the\] <span class="smallcaps">lord</span>  to burn incense upon the altar of the of incenses. 
-<small><sub>**KJV:**</sub></small>
-But when he was strong, his heart was lifted up to [his] destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.
-<small><sub>**BSB:**</sub></small>
-But when Uzziah became powerful, his arrogance led to his own destruction. He was unfaithful to the LORD his God, for he entered the temple of the LORD to burn incense on the altar of incense.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.15|<< 2 Chronicles 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.17|2 Chronicles 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

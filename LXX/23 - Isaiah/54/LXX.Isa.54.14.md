@@ -1,10 +1,7 @@
 **LXX Isaiah 54:14** 
 <small><sub>**LXX:**</sub></small>
 And you shall be built in righteousness at a distance from \[the\] unjust. And you shall not be fearful, and trembling shall not approach to you. 
-<small><sub>**KJV:**</sub></small>
-In righteousness shalt thou be established: thou shalt be far from oppression; for thou shalt not fear: and from terror; for it shall not come near thee.
-<small><sub>**BSB:**</sub></small>
-In righteousness you will be established, far from oppression, for you will have no fear. Terror will be far removed, for it will not come near you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.13|<< Isaiah 54:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.15|Isaiah 54:15 >>]]</td></tr></table>
 
 | Translation | Greek |

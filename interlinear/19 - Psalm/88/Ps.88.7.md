@@ -1,4 +1,4 @@
-**Psalms 88:7** (88:8)
+**Psalms 88:7**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy wrath lieth hard upon me, and thou hast afflicted [me] with all thy waves. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your wrath weighs heavily upon me; all Your waves have submerged me. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.6|<< Psalms 88:6]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.8|Psalms 88:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on me  |**<big>&#8207;[[H5921A\|עָ֭לַ]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'A.la<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has lain  |**<big>&#8207;[[H5564\|סָמְכָ֣ה]]&#8207; </big>**| sa.me.Khah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

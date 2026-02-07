@@ -1,10 +1,7 @@
 **LXX Psalm 71:5** 
 <small><sub>**LXX:**</sub></small>
 For you are  my endurance, O Lord, O <span class="smallcaps">lord</span>, the one of my hope from my youth. 
-<small><sub>**KJV:**</sub></small>
-For thou [art] my hope, O Lord GOD: [thou art] my trust from my youth.
-<small><sub>**BSB:**</sub></small>
-For You are my hope, O Lord GOD, my confidence from my youth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.4|<< Psalm 71:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.6|Psalm 71:6 >>]]</td></tr></table>
 
 | Translation | Greek |

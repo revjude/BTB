@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Who will give my head water, and my eyes a spring of tears, that I shall weep \[for\]  this my people day and night, the ones being slain of \[the\] daughter of my people? 
-<small><sub>**KJV:**</sub></small>
-Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!
-<small><sub>**BSB:**</sub></small>
-Oh, that my head were a spring of water, and my eyes a fountain of tears! I would weep day and night over the slain daughter of my people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.22|<< Jeremiah 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.2|Jeremiah 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

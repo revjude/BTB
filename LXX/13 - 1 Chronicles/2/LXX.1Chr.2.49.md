@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:49** 
 <small><sub>**LXX:**</sub></small>
 and she bore Shaaph father of Madmannah, and  Sheva father of Machbenah, and \[the\] father of Gibea; and \[the\] daughter of Caleb was Achsa. 
-<small><sub>**KJV:**</sub></small>
-She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb [was] Achsah.
-<small><sub>**BSB:**</sub></small>
-She was also the mother of Shaaph father of Madmannah, and of Sheva father of Machbenah and Gibea. Caleb’s daughter was Acsah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.48|<< 1 Chronicles 2:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.50|1 Chronicles 2:50 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 17:7** 
+**Joshua 17:7**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast of Manasseh was from Asher to Michmethah, that [lieth] before Shechem; and the border went along on the right hand unto the inhabitants of Entappuah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the border of Manasseh went from Asher to Michmethath near Shechem, then sou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.6|<< Joshua 17:6]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.8|Joshua 17:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] border of  |**<big>&#8207;[[H1366H\|גְבוּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ge.Vul-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

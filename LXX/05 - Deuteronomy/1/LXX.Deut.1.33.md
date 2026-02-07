@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:33** 
 <small><sub>**LXX:**</sub></small>
 who goes forth in front of you in the way, to choose for you a place, guiding you by fire at night, showing to you the way by which you go by it, and with a cloud by day. 
-<small><sub>**KJV:**</sub></small>
-Who went in the way before you, to search you out a place to pitch your tents [in], in fire by night, to shew you by what way ye should go, and in a cloud by day.
-<small><sub>**BSB:**</sub></small>
-who went before you on the journey, in the fire by night and in the cloud by day, to seek out a place for you to camp and to show you the road to travel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.32|<< Deuteronomy 1:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.34|Deuteronomy 1:34 >>]]</td></tr></table>
 
 | Translation | Greek |

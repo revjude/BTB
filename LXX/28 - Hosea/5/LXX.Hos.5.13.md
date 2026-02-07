@@ -1,10 +1,7 @@
 **LXX Hosea 5:13** 
 <small><sub>**LXX:**</sub></small>
 And Ephraim beheld  his disease, and Judah  his grief. And Ephraim went to Assyria, and sent ambassadors to king Jareb; and he was not able to rescue; and in no way should there be a discontinuance of your grief. 
-<small><sub>**KJV:**</sub></small>
-When Ephraim saw his sickness, and Judah [saw] his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.
-<small><sub>**BSB:**</sub></small>
-When Ephraim saw his sickness and Judah his wound, then Ephraim turned to Assyria and sent to the great king. But he cannot cure you or heal your wound.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.12|<< Hosea 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.14|Hosea 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

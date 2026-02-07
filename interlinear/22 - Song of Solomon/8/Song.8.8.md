@@ -1,4 +1,4 @@
-**Song of Solomon 8:8** 
+**Song of Solomon 8:8**<big><big>[[Song.8.8 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have a little sister, and her breasts are not yet grown. What shall we do for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.7|<< Song of Solomon 8:7]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.9|Song of Solomon 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a sister  |**<big>&#8207;[[H0269\|אָח֥וֹת]]&#8207; </big>**| 'a.Chot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to us  |**<big>&#8207;[[H9005\|לָ֙]]&#8207;&#8207;[[H9035\|נוּ֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

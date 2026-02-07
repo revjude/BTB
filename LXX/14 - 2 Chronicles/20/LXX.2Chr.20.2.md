@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:2** 
 <small><sub>**LXX:**</sub></small>
 And they came and reported \[to\] Jehoshaphat, saying, a vast multitude comes against you from the other side of the sea, from Syria; and behold, they are in Hazazon-tamar -- this is En-gedi. 
-<small><sub>**KJV:**</sub></small>
-Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they [be] in Hazazontamar, which [is] Engedi.
-<small><sub>**BSB:**</sub></small>
-Then some men came and told Jehoshaphat, “A vast army is coming against you from Edom, from beyond the Sea; they are already in Hazazon-tamar” (that is, En-gedi).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.1|<< 2 Chronicles 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.3|2 Chronicles 20:3 >>]]</td></tr></table>
 
 | Translation | Greek |

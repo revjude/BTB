@@ -1,10 +1,7 @@
 **LXX Deuteronomy 27:19** 
 <small><sub>**LXX:**</sub></small>
 Accursed \[is\] who ever turns aside a judgment \[which favors\] a foreigner, and orphan, and widow. And all the people shall say, May it be. 
-<small><sub>**KJV:**</sub></small>
-Cursed [be] he that perverteth the judgment of the stranger, fatherless, and widow. And all the people shall say, Amen.
-<small><sub>**BSB:**</sub></small>
-‘Cursed is he who withholds justice from the foreigner, the fatherless, or the widow.’ And let all the people say, ‘Amen!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.18|<< Deuteronomy 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.20|Deuteronomy 27:20 >>]]</td></tr></table>
 
 | Translation | Greek |

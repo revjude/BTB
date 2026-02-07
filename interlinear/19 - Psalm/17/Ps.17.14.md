@@ -1,4 +1,4 @@
-**Psalms 17:14** 
+**Psalms 17:14**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From men [which are] thy hand, O LORD, from men of the world, [which have] their portion in [this] life, and whose belly thou fillest with thy hid [treasure]: they are full of children, and leave the rest of their [substance] to their babes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from such men, O LORD, by Your hand—from men of the world whose portion is in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.13|<< Psalms 17:13]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.15|Psalms 17:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from men  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4962\|מְתִ֥ים]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand your  |**<big>&#8207;[[H3027H\|יָדְ]]&#8207;&#8207;[[H9021\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.de.<small><sup>[[HNcbsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

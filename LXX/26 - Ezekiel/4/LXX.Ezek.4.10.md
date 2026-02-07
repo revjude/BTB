@@ -1,10 +1,7 @@
 **LXX Ezekiel 4:10** 
 <small><sub>**LXX:**</sub></small>
 And  your food which you shall eat by weight \[is\] twenty shekels  a day; from time to time you shall eat them. 
-<small><sub>**KJV:**</sub></small>
-And thy meat which thou shalt eat [shall be] by weight, twenty shekels a day: from time to time shalt thou eat it.
-<small><sub>**BSB:**</sub></small>
-You are to weigh out twenty shekels of food to eat each day, and you are to eat it at set times.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.9|<< Ezekiel 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.11|Ezekiel 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 17:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:4**<big><big>[[Luke.17.1 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.
 <small><sub>**BSB:**</sub></small>
 Even if he sins against you seven times in a day, and seven times returns to say, ‘I repent,’ you must forgive him.”
 <small><sub>**Literal:**</sub></small>
 And if seven times in the day he shall sin against you and seven times <the> day shall return to you saying: I repent, you will forgive him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.3|<< Luke 17:3]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.5|Luke 17:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

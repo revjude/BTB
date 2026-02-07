@@ -1,12 +1,12 @@
-**Psalms 49:1** (49:2)
+**Psalms 49:1**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm for the sons of Korah. Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:
+Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of the sons of Korah. Hear this, all you peoples; listen, all inhabitants of the world,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.0|<< Psalms 49:0]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.2|Psalms 49:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְעוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shim.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֭את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

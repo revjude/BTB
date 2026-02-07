@@ -1,4 +1,4 @@
-**Esther 3:14** 
+**Esther 3:14**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The copy of the writing for a commandment to be given in every province was published unto all people, that they should be ready against that day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A copy of the text of the edict was to be issued in every province and published
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.13|<< Esther 3:13]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.15|Esther 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> copy of  |**<big>&#8207;[[H6572B\|פַּתְשֶׁ֣גֶן]]&#8207; </big>**| pat.She.gen<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the writing  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3791\|כְּתָ֗ב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.Tav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

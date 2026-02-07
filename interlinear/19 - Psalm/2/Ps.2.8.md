@@ -1,4 +1,4 @@
-**Psalms 2:8** 
+**Psalms 2:8**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ask of me, and I shall give [thee] the heathen [for] thine inheritance, and the uttermost parts of the earth [for] thy possession.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Ask Me, and I will make the nations Your inheritance, the ends of the earth Your
 > $\quad$ referenced by: [[Rev.2.26|Rev 2:26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ask  |**<big>&#8207;[[H7592\|שְׁאַ֤ל]]&#8207; </big>**| she.'Al<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from me  |**<big>&#8207;[[H4480A\|מִמֶּ֗]]&#8207;&#8207;[[H9030\|נִּי]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

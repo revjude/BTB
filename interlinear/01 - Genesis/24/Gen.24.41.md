@@ -1,4 +1,4 @@
-**Genesis 24:41** 
+**Genesis 24:41**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou be clear from [this] my oath, when thou comest to my kindred; and if they give not thee [one], thou shalt be clear from my oath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when you go to my kindred, if they refuse to give her to you, then you will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.40|<< Genesis 24:40]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.42|Genesis 24:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be free  |**<big>&#8207;[[H5352\|תִּנָּקֶה֙]]&#8207; </big>**| ti.na.Keh<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 6:21** 
+**Numbers 6:21**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the law of the Nazarite who hath vowed, [and of] his offering unto the LORD for his separation, beside [that] that his hand shall get: according to the vow which he vowed, so he must do after the law of his separation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the law of the Nazirite who vows his offering to the LORD for his separa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.20|<< Numbers 6:20]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.22|Numbers 6:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] law of  |**<big>&#8207;[[H8451\|תּוֹרַ֣ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

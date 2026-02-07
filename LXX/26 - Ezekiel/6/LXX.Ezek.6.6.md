@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:6** 
 <small><sub>**LXX:**</sub></small>
 In all  your house the cities shall be made quite desolate, and the high \[places\] shall be obliterated, so that your altars shall be utterly destroyed, and your idols shall be broken and caused to cease, and your sacred precincts shall be lifted away, and your works shall be wiped away. 
-<small><sub>**KJV:**</sub></small>
-In all your dwellingplaces the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished.
-<small><sub>**BSB:**</sub></small>
-Wherever you live, the cities will be laid waste and the high places will be demolished, so that your altars will be laid waste and desecrated, your idols smashed and obliterated, your incense altars cut down, and your works blotted out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.5|<< Ezekiel 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.7|Ezekiel 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

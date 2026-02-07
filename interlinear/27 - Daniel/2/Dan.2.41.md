@@ -1,4 +1,4 @@
-**Daniel 2:41** 
+**Daniel 2:41**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And just as you saw that the feet and toes were made partly of fired clay and pa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.40|<< Daniel 2:40]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.42|Daniel 2:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and that  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1768\|דִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you saw  |**<big>&#8207;[[H2370\|חֲזַ֜יְתָה]]&#8207; </big>**| cha.Zay.tah<small><sup>[[AVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

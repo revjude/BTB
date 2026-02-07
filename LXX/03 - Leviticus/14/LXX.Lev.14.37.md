@@ -1,10 +1,7 @@
 **LXX Leviticus 14:37** 
 <small><sub>**LXX:**</sub></small>
 And he shall look at the infection. And behold, \[if\] the infection \[is\] in the walls of the house, \[with\] a cavity being greenish or being reddish, and  their appearance deep in the walls. 
-<small><sub>**KJV:**</sub></small>
-And he shall look on the plague, and, behold, [if] the plague [be] in the walls of the house with hollow strakes, greenish or reddish, which in sight [are] lower than the wall;
-<small><sub>**BSB:**</sub></small>
-He is to examine the house, and if the mildew on the walls consists of green or red depressions that appear to be beneath the surface of the wall,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.36|<< Leviticus 14:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.38|Leviticus 14:38 >>]]</td></tr></table>
 
 | Translation | Greek |

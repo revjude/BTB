@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:7** 
 <small><sub>**LXX:**</sub></small>
 And who \[is\] the man who has espoused a woman, and did not take her? Let him go, and let him return to  his house! lest he die in the war, and another man shall take her. 
-<small><sub>**KJV:**</sub></small>
-And what man [is there] that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.
-<small><sub>**BSB:**</sub></small>
-Has any man become pledged to a woman and not married her? Let him return home, or he may die in battle and another man marry her.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.6|<< Deuteronomy 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.8|Deuteronomy 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

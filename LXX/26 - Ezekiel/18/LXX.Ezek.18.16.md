@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:16** 
 <small><sub>**LXX:**</sub></small>
 and tyrannized not over a man, and took not collateral for security, and by seizure seized not by force;  \[but\] gave his bread to \[the\] hungry, and covered \[the\] naked with a garment, 
-<small><sub>**KJV:**</sub></small>
-Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, [but] hath given his bread to the hungry, and hath covered the naked with a garment,
-<small><sub>**BSB:**</sub></small>
-He does not oppress another, or retain a pledge, or commit robbery. He gives his bread to the hungry and covers the naked with clothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.15|<< Ezekiel 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.17|Ezekiel 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

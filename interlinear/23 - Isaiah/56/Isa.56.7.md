@@ -1,4 +1,4 @@
-**Isaiah 56:7** 
+**Isaiah 56:7**<big><big>[[Isa.56.1 Salvation for Foreigners|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices [shall be] accepted upon mine altar; for mine house shall be called an house of prayer for all people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will bring them to My holy mountain and make them joyful in My house of prayer
 > $\quad$ referenced by: [[Matt.21.13|Matt 21:13]] ☩ [[Mark.11.17|Mark 11:17]] ☩ [[Luke.19.46|Luke 19:46]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|הֲבִיאוֹתִ֞י]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.vi.'o.Ti<small><sup>[[HVhq1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

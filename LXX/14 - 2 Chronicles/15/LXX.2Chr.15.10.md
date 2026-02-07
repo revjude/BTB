@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 15:10** 
 <small><sub>**LXX:**</sub></small>
 And they gathered in Jerusalem in the third month, in the fifteenth year of the kingdom of Asa. 
-<small><sub>**KJV:**</sub></small>
-So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa.
-<small><sub>**BSB:**</sub></small>
-So they gathered together in Jerusalem in the third month of the fifteenth year of Asa’s reign.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.9|<< 2 Chronicles 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.11|2 Chronicles 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

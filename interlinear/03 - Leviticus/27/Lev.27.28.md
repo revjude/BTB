@@ -1,4 +1,4 @@
-**Leviticus 27:28** 
+**Leviticus 27:28**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, [both] of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing [is] most holy unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nothing that a man sets apart to the LORD from all he owns—whether a man, an a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.27|<< Leviticus 27:27]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.29|Leviticus 27:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

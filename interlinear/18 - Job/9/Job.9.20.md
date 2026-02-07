@@ -1,4 +1,4 @@
-**Job 9:20** 
+**Job 9:20**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I justify myself, mine own mouth shall condemn me: [if I say], I [am] perfect, it shall also prove me perverse.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even if I were righteous, my mouth would condemn me; if I were blameless, it wou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.19|<< Job 9:19]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.21|Job 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | though  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I am righteous  |**<big>&#8207;[[H6663\|אֶ֭צְדָּק]]&#8207; </big>**| 'Etz.dok<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

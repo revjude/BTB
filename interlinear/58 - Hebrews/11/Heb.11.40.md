@@ -1,12 +1,12 @@
-**Hebrews 11:40
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:40**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 God having provided some better thing for us, that they without us should not be made perfect.
 <small><sub>**BSB:**</sub></small>
 God had planned something better for us, so that together with us they would be made perfect.
 <small><sub>**Literal:**</sub></small>
 <the> God for us better something having planned, so that not apart from us they may be made perfect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.39|<< Hebrews 11:39]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.1|Hebrews 12:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | God |**<big>[[G2316\|θεοῦ]]</big>**  |theou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

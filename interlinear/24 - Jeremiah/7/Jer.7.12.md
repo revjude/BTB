@@ -1,4 +1,4 @@
-**Jeremiah 7:12** 
+**Jeremiah 7:12**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But go ye now unto my place which [was] in Shiloh, where I set my name at the first, and see what I did to it for the wickedness of my people Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But go now to the place in Shiloh where I first made a dwelling for My Name, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.11|<< Jeremiah 7:11]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.13|Jeremiah 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go  |**<big>&#8207;[[H1980G\|לְכוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.khu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

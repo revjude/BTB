@@ -1,4 +1,4 @@
-**Isaiah 33:23** 
+**Isaiah 33:23**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy tacklings are loosed; they could not well strengthen their mast, they could not spread the sail: then is the prey of a great spoil divided; the lame take the prey.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your ropes are slack; they cannot secure the mast or spread the sail. Then an ab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.22|<< Isaiah 33:22]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.24|Isaiah 33:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are loose  |**<big>&#8207;[[H5203\|נִטְּשׁ֖וּ]]&#8207; </big>**| ni.te.Shu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ropes your  |**<big>&#8207;[[H2256M\|חֲבָלָ֑יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| cha.va.La.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

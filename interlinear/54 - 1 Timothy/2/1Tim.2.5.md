@@ -1,12 +1,12 @@
-**1 Timothy 2:5
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:5**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [there is] one God, and one mediator between God and men, the man Christ Jesus;
 <small><sub>**BSB:**</sub></small>
 For there is one God, and there is one mediator between God and men, the man Christ Jesus,
 <small><sub>**Literal:**</sub></small>
 One for God [there is], one then mediator between God and men, [the] man Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.4|<< 1 Timothy 2:4]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.6|1 Timothy 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | One |**<big>[[G1520\|Εἷς]]</big>**  |Heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

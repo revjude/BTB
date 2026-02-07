@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:20** 
 <small><sub>**LXX:**</sub></small>
 Hear indeed, O women, \[the\] word of God! And your ears receive \[the\] words of his mouth! And teach  your daughters a lamentation! and \[let every\] woman \[teach\]  her neighbor wailing! 
-<small><sub>**KJV:**</sub></small>
-Yet hear the word of the LORD, O ye women, and let your ear receive the word of his mouth, and teach your daughters wailing, and every one her neighbour lamentation.
-<small><sub>**BSB:**</sub></small>
-Now, O women, hear the word of the LORD. Open your ears to the word of His mouth. Teach your daughters to wail, and one another to lament.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.19|<< Jeremiah 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.21|Jeremiah 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

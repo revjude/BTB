@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:27** 
 <small><sub>**LXX:**</sub></small>
  Your force, and  your wage, and  your consolidations, and  your oarsmen, and  your navigators, and  your counselors, and  your consolidations from out of  your consolidations, and all the men,  your warriors  among you; and your whole gathering in \[the\] midst of you shall fall in \[the\] heart of \[the\] sea in the day  of your downfall. 
-<small><sub>**KJV:**</sub></small>
-Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that [are] in thee, and in all thy company which [is] in the midst of thee, shall fall into the midst of the seas in the day of thy ruin.
-<small><sub>**BSB:**</sub></small>
-Your wealth, wares, and merchandise, your sailors, captains, and shipwrights, your merchants and all the warriors within you, with all the other people on board, will sink into the heart of the sea on the day of your downfall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.26|<< Ezekiel 27:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.28|Ezekiel 27:28 >>]]</td></tr></table>
 
 | Translation | Greek |

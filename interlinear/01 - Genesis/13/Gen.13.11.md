@@ -1,4 +1,4 @@
-**Genesis 13:11** 
+**Genesis 13:11**<big><big>[[Gen.13.10 Lot Proceeds toward Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Lot chose the whole plain of the Jordan for himself and set out toward the ea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.10|<< Genesis 13:10]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.12|Genesis 13:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he chose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0977\|יִּבְחַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.char-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> himself  |**<big>&#8207;[[H9005\|ל֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

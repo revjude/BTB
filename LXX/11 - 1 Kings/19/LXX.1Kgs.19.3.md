@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:3** 
 <small><sub>**LXX:**</sub></small>
 And Elijah feared, and rose up, and went forth for  his life. And he came into Beersheba  of Judah. And he left  his servant-lad there. 
-<small><sub>**KJV:**</sub></small>
-And when he saw [that], he arose, and went for his life, and came to Beersheba, which [belongeth] to Judah, and left his servant there.
-<small><sub>**BSB:**</sub></small>
-And Elijah was afraid and ran for his life. When he came to Beersheba in Judah, he left his servant there,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.2|<< 1 Kings 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.4|1 Kings 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 14:19** 
+**Genesis 14:19**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he blessed him, and said, Blessed [be] Abram of the most high God, possessor of heaven and earth:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and he blessed Abram and said: “Blessed be Abram by God Most High, Creator of 
 > $\quad$ referenced by: [[Heb.7.1|Heb 7:1-2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he blessed him  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1288\|יְבָרְכֵ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.re.Khe.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֑ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

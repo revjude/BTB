@@ -1,10 +1,7 @@
 **LXX Zechariah 1:5** 
 <small><sub>**LXX:**</sub></small>
  Your fathers, where are they and the prophets, \[Shall\] they live into the eon? 
-<small><sub>**KJV:**</sub></small>
-Your fathers, where [are] they? and the prophets, do they live for ever?
-<small><sub>**BSB:**</sub></small>
-Where are your fathers now? And the prophets, do they live forever?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.4|<< Zechariah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.6|Zechariah 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

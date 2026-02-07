@@ -1,12 +1,12 @@
-**Luke 6:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:1**<big><big>[[Luke.6.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing [them] in [their] hands.
 <small><sub>**BSB:**</sub></small>
 One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain, rub them in their hands, and eat them.
 <small><sub>**Literal:**</sub></small>
 It came to pass then on a Sabbath second [after the] first [is] passing along He through <the> grainfields, and were plucking the disciples of Him and were eating the heads of grain rubbing [them] in the hands.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.39|<< Luke 5:39]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.2|Luke 6:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

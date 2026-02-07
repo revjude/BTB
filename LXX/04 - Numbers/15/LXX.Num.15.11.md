@@ -1,10 +1,7 @@
 **LXX Numbers 15:11** 
 <small><sub>**LXX:**</sub></small>
 Thus you shall offer for the one calf, or the one ram, or the one lamb from the sheep, or \[a kid\] of the goats. 
-<small><sub>**KJV:**</sub></small>
-Thus shall it be done for one bullock, or for one ram, or for a lamb, or a kid.
-<small><sub>**BSB:**</sub></small>
-This is to be done for each bull, ram, lamb, or goat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.10|<< Numbers 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.12|Numbers 15:12 >>]]</td></tr></table>
 
 | Translation | Greek |

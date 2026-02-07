@@ -1,12 +1,12 @@
-**John 11:49
-**<small><sub>**KJV:**</sub></small>
+**John 11:49**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one of them, [named] Caiaphas, being the high priest that same year, said unto them, Ye know nothing at all,
 <small><sub>**BSB:**</sub></small>
 But one of them, named Caiaphas, who was high priest that year, said to them, “You know nothing at all!
 <small><sub>**Literal:**</sub></small>
 One however certain of them Caiaphas, high priest being on the year same, said to them; You yourselves not know no [thing],<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.48|<< John 11:48]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.50|John 11:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | One |**<big>[[G1520\|Εἷς]]</big>**  |Heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

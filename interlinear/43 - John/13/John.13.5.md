@@ -1,12 +1,12 @@
-**John 13:5
-**<small><sub>**KJV:**</sub></small>
+**John 13:5**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After that he poureth water into a bason, and began to wash the disciples’ feet, and to wipe [them] with the towel wherewith he was girded.
 <small><sub>**BSB:**</sub></small>
 After that, He poured water into a basin and began to wash the disciples’ feet and dry them with the towel that was around Him.
 <small><sub>**Literal:**</sub></small>
 After that He pours water into the basin and He began to wash the feet of the disciples and to wipe [them] with the towel with which He was having girded himself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.4|<< John 13:4]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.6|John 13:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After that |**<big>[[G1534\|εἶτα]]</big>**  |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He pours |**<big>[[G0906J\|βάλλει]]</big>**  |ballei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

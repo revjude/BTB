@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:10** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat and shall be filled up, and shall bless \[the\] <span class="smallcaps">lord</span>  your God upon the good land of which he has given to you. 
-<small><sub>**KJV:**</sub></small>
-When thou hast eaten and art full, then thou shalt bless the LORD thy God for the good land which he hath given thee.
-<small><sub>**BSB:**</sub></small>
-When you eat and are satisfied, you are to bless the LORD your God for the good land that He has given you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.9|<< Deuteronomy 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.11|Deuteronomy 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

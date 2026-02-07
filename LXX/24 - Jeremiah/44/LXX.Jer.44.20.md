@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:20** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah said to all the people, to the mighty \[men\], and to the women, and to all the people  responding to him \[with\] words, saying, 
-<small><sub>**KJV:**</sub></small>
-Then Jeremiah said unto all the people, to the men, and to the women, and to all the people which had given him [that] answer, saying,
-<small><sub>**BSB:**</sub></small>
-Then Jeremiah said to all the people, both men and women, who were answering him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.19|<< Jeremiah 44:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.21|Jeremiah 44:21 >>]]</td></tr></table>
 
 | Translation | Greek |

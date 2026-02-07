@@ -1,4 +1,4 @@
-**2 Chronicles 4:19** 
+**2 Chronicles 4:19**<big><big>[[2Chr.4.19 Completion of the Gold Furnishings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon made all the vessels that [were for] the house of God, the golden altar also, and the tables whereon the shewbread [was set];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon also made all the furnishings for the house of God: the golden altar; th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.18|<< 2 Chronicles 4:18]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.20|2 Chronicles 4:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֔ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

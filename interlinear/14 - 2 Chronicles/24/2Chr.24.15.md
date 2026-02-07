@@ -1,4 +1,4 @@
-**2 Chronicles 24:15** 
+**2 Chronicles 24:15**<big><big>[[2Chr.24.15 Jehoiada’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old [was he] when he died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Jehoiada was old and full of years, he died at the age of 130.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.14|<< 2 Chronicles 24:14]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.16|2 Chronicles 24:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he became old  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2204\|יִּזְקַ֧ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Kan<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoiada  |**<big>&#8207;[[H3077H\|יְהוֹיָדָ֛ע]]&#8207; </big>**| ye.ho.ya.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

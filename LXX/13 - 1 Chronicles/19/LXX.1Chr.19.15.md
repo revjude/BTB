@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:15** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Ammon beheld that the Syrians fled, and they fled even themselves from in front of Abishai, and from in front of Joab  his brother. And they came into the city. And Joab went to Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And when the children of Ammon saw that the Syrians were fled, they likewise fled before Abishai his brother, and entered into the city. Then Joab came to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-When the Ammonites saw that the Arameans had fled, they too fled before Joab’s brother Abishai, and they entered the city. So Joab went back to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.14|<< 1 Chronicles 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.16|1 Chronicles 19:16 >>]]</td></tr></table>
 
 | Translation | Greek |

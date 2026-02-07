@@ -1,4 +1,4 @@
-**Proverbs 20:21** 
+**Proverbs 20:21**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An inheritance [may be] gotten hastily at the beginning; but the end thereof shall not be blessed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ An inheritance gained quickly will not be blessed in the end.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.20|<< Proverbs 20:20]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.22|Proverbs 20:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an inheritance  |**<big>&#8207;[[H5159\|נַ֭חֲלָה]]&#8207; </big>**| Na.cha.lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hastily gained  [^1]|**<big>&#8207;[[H0926\|מְבֹהֶ֣לֶת]]&#8207; </big>**[^2] | me.vu.che.let<small><sup>[[HVPsfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 12:9** 
+**Exodus 12:9**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Eat not of it raw, nor sodden at all with water, but roast [with] fire; his head with his legs, and with the purtenance thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not eat any of the meat raw or cooked in boiling water, but only roasted over
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.8|<< Exodus 12:8]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.10|Exodus 12:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you eat  |**<big>&#8207;[[H0398\|תֹּאכְל֤וּ]]&#8207; </big>**| to.khe.Lu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

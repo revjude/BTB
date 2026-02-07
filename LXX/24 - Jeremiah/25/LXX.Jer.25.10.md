@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:10** 
 <small><sub>**LXX:**</sub></small>
 And I will destroy from them \[the\] voice of joy, and \[the\] voice of gladness, \[the\] voice of \[the\] groom, and \[the\] voice of \[the\] bride, \[the\] scent of perfumed liquid, and \[the\] light of a lamp. 
-<small><sub>**KJV:**</sub></small>
-Moreover I will take from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the millstones, and the light of the candle.
-<small><sub>**BSB:**</sub></small>
-Moreover, I will banish from them the sounds of joy and gladness, the voices of the bride and bridegroom, the sound of the millstones, and the light of the lamp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.9|<< Jeremiah 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.11|Jeremiah 25:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 25:10** is...

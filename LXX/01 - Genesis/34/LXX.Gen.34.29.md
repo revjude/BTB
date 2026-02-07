@@ -1,10 +1,7 @@
 **LXX Genesis 34:29** 
 <small><sub>**LXX:**</sub></small>
 And all  their persons, and all  their belongings, and  their women they captured. And they plundered as much as was in the city, and as much as was in the houses. 
-<small><sub>**KJV:**</sub></small>
-And all their wealth, and all their little ones, and their wives took they captive, and spoiled even all that [was] in the house.
-<small><sub>**BSB:**</sub></small>
-They carried off all their possessions and women and children, and they plundered everything in their houses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.28|<< Genesis 34:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.30|Genesis 34:30 >>]]</td></tr></table>
 
 | Translation | Greek |

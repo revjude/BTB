@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:26** 
 <small><sub>**LXX:**</sub></small>
 And the people entered into the apiary, and behold, honey went forth. And there was not the one turning  his hand to  his mouth, for the people feared the oath of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And when the people were come into the wood, behold, the honey dropped; but no man put his hand to his mouth: for the people feared the oath.
-<small><sub>**BSB:**</sub></small>
-And when they entered the forest and saw the flowing honey, not one of them put his hand to his mouth, because they feared the oath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.25|<< 1 Samuel 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.27|1 Samuel 14:27 >>]]</td></tr></table>
 
 | Translation | Greek |

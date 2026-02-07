@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:2** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, the God of Israel, against the shepherds, the ones tending  my people; You scattered  my sheep, and pushed them out, and did not visit them. Behold, I shall take vengeance upon you, against  your wicked practices. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD, the God of Israel, says about the shepherds who tend My people: “You have scattered My flock and driven them away, and have not attended to them. Behold, I will attend to you for the evil of your deeds, declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.1|<< Jeremiah 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.3|Jeremiah 23:3 >>]]</td></tr></table>
 
 | Translation | Greek |

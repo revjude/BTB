@@ -1,4 +1,4 @@
-**Proverbs 26:9** 
+**Proverbs 26:9**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] a thorn goeth up into the hand of a drunkard, so [is] a parable in the mouth of fools.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a thorn that goes into the hand of a drunkard is a proverb in the mouth of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.8|<< Proverbs 26:8]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.10|Proverbs 26:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thorn[s]  |**<big>&#8207;[[H2336\|ח֭וֹחַ]]&#8207; </big>**| Cho.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it goes up  |**<big>&#8207;[[H5927G\|עָלָ֣ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

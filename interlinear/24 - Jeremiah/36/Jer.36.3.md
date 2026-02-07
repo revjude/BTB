@@ -1,4 +1,4 @@
-**Jeremiah 36:3** 
+**Jeremiah 36:3**<big><big>[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It may be that the house of Judah will hear all the evil which I purpose to do unto them; that they may return every man from his evil way; that I may forgive their iniquity and their sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Perhaps when the people of Judah hear about all the calamity I plan to bring upo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.2|<< Jeremiah 36:2]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.4|Jeremiah 36:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | perhaps  |**<big>&#8207;[[H0194\|אוּלַ֤י]]&#8207; </big>**| 'u.Lai<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will hear  |**<big>&#8207;[[H8085G\|יִשְׁמְעוּ֙]]&#8207; </big>**| yish.me.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

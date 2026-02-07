@@ -1,10 +1,7 @@
 **LXX Genesis 14:14** 
 <small><sub>**LXX:**</sub></small>
 And Abram having heard that Lot the \[son\] of his brother has been captured, counted out  his own native-born servants, three hundred ten and eight. And he pursued unto Dan. 
-<small><sub>**KJV:**</sub></small>
-And when Abram heard that his brother was taken captive, he armed his trained [servants], born in his own house, three hundred and eighteen, and pursued [them] unto Dan.
-<small><sub>**BSB:**</sub></small>
-And when Abram heard that his relative had been captured, he mobilized the 318 trained men born in his household, and they set out in pursuit as far as Dan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.13|<< Genesis 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.15|Genesis 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

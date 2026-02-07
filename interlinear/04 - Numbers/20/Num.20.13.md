@@ -1,4 +1,4 @@
-**Numbers 20:13** 
+**Numbers 20:13**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the waters of Meribah, where the Israelites quarreled with the LORD, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.12|<< Numbers 20:12]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.14|Numbers 20:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֚מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] waters of  |**<big>&#8207;[[H4325G\|מֵ֣י]]&#8207; </big>**| mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

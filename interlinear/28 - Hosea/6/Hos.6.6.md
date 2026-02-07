@@ -1,4 +1,4 @@
-**Hosea 6:6** 
+**Hosea 6:6**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For I desire mercy, not sacrifice, and the knowledge of God rather than burnt of
 > $\quad$ referenced by: [[Matt.12.7|Matt 12:7]] ☩ [[Matt.9.13|Matt 9:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant loyalty  |**<big>&#8207;[[H2617A\|חֶ֥סֶד]]&#8207; </big>**| Che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

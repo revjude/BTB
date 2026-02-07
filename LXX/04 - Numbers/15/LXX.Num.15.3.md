@@ -1,10 +1,7 @@
 **LXX Numbers 15:3** 
 <small><sub>**LXX:**</sub></small>
 and you shall offer yield \[offerings\] to the <span class="smallcaps">lord</span>, or a whole burnt-offering, or sacrifice \[offering\] to magnify a vow, or concerning a voluntary \[offering\], or in  your holiday \[feasts\], you shall offer a scent of pleasant aroma to the <span class="smallcaps">lord</span>, either from the oxen or from the sheep. 
-<small><sub>**KJV:**</sub></small>
-And will make an offering by fire unto the LORD, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the LORD, of the herd, or of the flock:
-<small><sub>**BSB:**</sub></small>
-and you present a food offering to the LORD from the herd or flock to produce a pleasing aroma to the LORD—either a burnt offering or a sacrifice, for a special vow or freewill offering or appointed feast—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.2|<< Numbers 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.4|Numbers 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

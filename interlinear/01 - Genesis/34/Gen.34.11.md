@@ -1,4 +1,4 @@
-**Genesis 34:11** 
+**Genesis 34:11**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what ye shall say unto me I will give.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Shechem said to Dinah’s father and brothers, “Grant me this favor, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.10|<< Genesis 34:10]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.12|Genesis 34:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shechem  |**<big>&#8207;[[H7927H\|שְׁכֶם֙]]&#8207; </big>**| she.Khem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

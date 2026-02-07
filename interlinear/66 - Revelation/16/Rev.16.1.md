@@ -1,12 +1,12 @@
-**Revelation 16:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:1**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I heard a great voice out of the temple saying to the seven angels, Go your ways, and pour out the vials of the wrath of God upon the earth.
 <small><sub>**BSB:**</sub></small>
 Then I heard a loud voice from the temple saying to the seven angels, “Go, pour out on the earth the seven bowls of God’s wrath.”
 <small><sub>**Literal:**</sub></small>
 And I heard [a] loud voice from the temple saying to the seven angels; do go and do pour out the seven bowls of the wrath <the> of God into the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.8|<< Revelation 15:8]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.2|Revelation 16:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I heard |**<big>[[G0191\|ἤκουσα]]</big>**  |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

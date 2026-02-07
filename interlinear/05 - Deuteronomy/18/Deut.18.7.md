@@ -1,4 +1,4 @@
-**Deuteronomy 18:7** 
+**Deuteronomy 18:7**<big><big>[[Deut.18.1 Provision for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he shall minister in the name of the LORD his God, as all his brethren the Levites [do], which stand there before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then he shall serve in the name of the LORD his God like all his fellow Levites 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.6|<< Deuteronomy 18:6]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.8|Deuteronomy 18:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will serve  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8334\|שֵׁרֵ֕ת]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> she.Ret<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] name of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8034\|שֵׁ֖ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

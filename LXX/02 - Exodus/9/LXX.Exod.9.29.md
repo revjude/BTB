@@ -1,10 +1,7 @@
 **LXX Exodus 9:29** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to him, whenever I should go from the city, I will spread forth  my hands to the <span class="smallcaps">lord</span>, and the sounds will cease; and the hail and the rain will not be any longer, that you may know that the earth \[is\] of the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; [and] the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth [is] the LORD’S.
-<small><sub>**BSB:**</sub></small>
-Moses said to him, “When I have left the city, I will spread out my hands to the LORD. The thunder will cease, and there will be no more hail, so that you may know that the earth is the LORD’s.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.28|<< Exodus 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.30|Exodus 9:30 >>]]</td></tr></table>
 
 | Translation | Greek |

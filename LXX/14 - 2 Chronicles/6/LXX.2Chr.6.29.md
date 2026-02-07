@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:29** 
 <small><sub>**LXX:**</sub></small>
 then every prayer, and all supplication, whichever should be by any man, and all  your people Israel, if a man should know his infection and  his infirmity, and should open and spread out  his hands to  this house; 
-<small><sub>**KJV:**</sub></small>
-[Then] what prayer [or] what supplication soever shall be made of any man, or of all thy people Israel, when every one shall know his own sore and his own grief, and shall spread forth his hands in this house:
-<small><sub>**BSB:**</sub></small>
-then may whatever prayer or plea Your people Israel make—each knowing his own afflictions and spreading out his hands toward this temple—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.28|<< 2 Chronicles 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.30|2 Chronicles 6:30 >>]]</td></tr></table>
 
 | Translation | Greek |

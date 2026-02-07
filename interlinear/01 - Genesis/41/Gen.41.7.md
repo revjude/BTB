@@ -1,4 +1,4 @@
-**Genesis 41:7** 
+**Genesis 41:7**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, [it was] a dream.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the thin heads of grain swallowed up the seven plump, ripe ones. Then Pharao
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.6|<< Genesis 41:6]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.8|Genesis 41:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they swallowed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1104\|תִּבְלַ֙עְנָה֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiv.La'.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ears of grain  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7641B\|שִּׁבֳּלִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> shi.bo.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

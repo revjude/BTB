@@ -1,4 +1,4 @@
-**Judges 9:25** 
+**Judges 9:25**<big><big>[[Judg.9.22 Gaal Conspires with the Shechemites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Shechem set liers in wait for him in the top of the mountains, and they robbed all that came along that way by them: and it was told Abimelech.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The leaders of Shechem set up an ambush against Abimelech on the hilltops, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.24|<< Judges 9:24]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.26|Judges 9:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760H\|יָּשִׂ֣ימוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ֩]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

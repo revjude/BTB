@@ -1,4 +1,4 @@
-**1 Samuel 19:13** 
+**1 Samuel 19:13**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Michal took an image, and laid [it] in the bed, and put a pillow of goats’ [hair] for his bolster, and covered [it] with a cloth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Michal took a household idol and laid it in the bed, placed some goat hair 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.12|<< 1 Samuel 19:12]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.14|1 Samuel 19:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּ֨ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Michal  |**<big>&#8207;[[H4324G\|מִיכַ֜ל]]&#8207; </big>**| mi.Khal<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

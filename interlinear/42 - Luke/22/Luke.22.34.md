@@ -1,12 +1,12 @@
-**Luke 22:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:34**<big><big>[[Luke.22.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “I tell you, Peter, the rooster will not crow today until you have denied three times that you know Me.”
 <small><sub>**Literal:**</sub></small>
 <the> And He said; I tell you Peter, certainly not will crow today [the] rooster until three times Me you may deny not to know<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.33|<< Luke 22:33]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.35|Luke 22:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 22:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:7**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the king heard [thereof], he was wroth: and he sent forth his armies, and destroyed those murderers, and burned up their city.
 <small><sub>**BSB:**</sub></small>
 The king was enraged, and he sent his troops to destroy those murderers and burn their city.
 <small><sub>**Literal:**</sub></small>
 and having heard <the> Now the king that was angry, and having sent the armies of him he destroyed the murderers those and the city of them he burned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.6|<< Matthew 22:6]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.8|Matthew 22:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Byz">o</abbr> | |
 | having heard |**<big>[[G0191\|ἀκούσας]]</big>**  |akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

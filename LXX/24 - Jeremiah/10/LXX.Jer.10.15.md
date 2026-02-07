@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:15** 
 <small><sub>**LXX:**</sub></small>
 They are vanities, mocking works. In \[the\] time of their visitation they shall be destroyed. 
-<small><sub>**KJV:**</sub></small>
-They [are] vanity, [and] the work of errors: in the time of their visitation they shall perish.
-<small><sub>**BSB:**</sub></small>
-They are worthless, a work to be mocked. In the time of their punishment they will perish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.14|<< Jeremiah 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.16|Jeremiah 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

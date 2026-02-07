@@ -1,4 +1,4 @@
-**Nehemiah 9:8** 
+**Nehemiah 9:8**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give [it, I say], to his seed, and hast performed thy words; for thou [art] righteous:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You found his heart faithful before You, and made a covenant with him to give th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.7|<< Nehemiah 9:7]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.9|Nehemiah 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you found  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4672\|מָצָ֣אתָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.Tza.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

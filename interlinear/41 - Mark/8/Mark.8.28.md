@@ -1,12 +1,12 @@
-**Mark 8:28
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:28**<big><big>[[Mark.8.27 Peter’s Confession of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they answered, John the Baptist: but some [say], Elias; and others, One of the prophets.
 <small><sub>**BSB:**</sub></small>
 They replied, “Some say John the Baptist; others say Elijah; and still others, one of the prophets.”
 <small><sub>**Literal:**</sub></small>
 <the> And they said to Him saying: that John the Baptist, and others; Elijah, others now that one of the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.27|<< Mark 8:27]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.29|Mark 8:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

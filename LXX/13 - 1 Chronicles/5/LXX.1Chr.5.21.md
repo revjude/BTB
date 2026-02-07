@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:21** 
 <small><sub>**LXX:**</sub></small>
 And they captured  their possessions; camels -- fifty thousand, and sheep -- two hundred and fifty thousand, and donkeys -- two thousand, and lives of men -- a hundred thousand. 
-<small><sub>**KJV:**</sub></small>
-And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.
-<small><sub>**BSB:**</sub></small>
-They seized the livestock of the Hagrites—50,000 camels, 250,000 sheep, and 2,000 donkeys. They also took 100,000 captives,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.20|<< 1 Chronicles 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.22|1 Chronicles 5:22 >>]]</td></tr></table>
 
 | Translation | Greek |

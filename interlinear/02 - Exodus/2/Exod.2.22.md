@@ -1,4 +1,4 @@
-**Exodus 2:22** 
+**Exodus 2:22**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she bare [him] a son, and he called his name Gershom: for he said, I have been a stranger in a strange land.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And she gave birth to a son, and Moses named him Gershom, saying, “I have beco
 > $\quad$ referenced by: [[Acts.7.6|Acts 7:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֣לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a son  |**<big>&#8207;[[H1121A\|בֵּ֔ן]]&#8207; </big>**| Ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

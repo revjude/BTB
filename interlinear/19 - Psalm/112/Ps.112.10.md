@@ -1,4 +1,4 @@
-**Psalms 112:10** 
+**Psalms 112:10**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked shall see [it], and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wicked man will see and be grieved; he will gnash his teeth and waste away; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.9|<< Psalms 112:9]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.113.1|Psalms 113:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wicked [person]  |**<big>&#8207;[[H7563\|רָ֘שָׁ֤ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will see  |**<big>&#8207;[[H7200G\|יִרְאֶ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yir.'Eh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

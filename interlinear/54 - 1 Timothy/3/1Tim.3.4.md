@@ -1,12 +1,12 @@
-**1 Timothy 3:4
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:4**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 One that ruleth well his own house, having his children in subjection with all gravity;
 <small><sub>**BSB:**</sub></small>
 An overseer must manage his own household well and keep his children under control, with complete dignity.
 <small><sub>**Literal:**</sub></small>
 <the> [his] own house well managing, children having in submission with all dignity —.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.3|<< 1 Timothy 3:3]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.5|1 Timothy 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [his] own |**<big>[[G2398\|ἰδίου]]</big>**  |idiou <small><sup>[[A-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

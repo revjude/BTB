@@ -1,12 +1,12 @@
-**Revelation 2:28
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:28**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I will give him the morning star.
 <small><sub>**BSB:**</sub></small>
 And I will give him the morning star.
 <small><sub>**Literal:**</sub></small>
 just as I myself also have received from the Father of Mine. [28] And I will give to him the star <the> morning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.27|<< Revelation 2:27]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.29|Revelation 2:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | I myself also |**<big>[[G1473\|κἀγὼ]]</big>**  |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

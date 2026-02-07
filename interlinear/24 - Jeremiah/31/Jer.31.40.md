@@ -1,4 +1,4 @@
-**Jeremiah 31:40** 
+**Jeremiah 31:40**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the whole valley of the dead bodies, and of the ashes, and all the fields unto the brook of Kidron, unto the corner of the horse gate toward the east, [shall be] holy unto the LORD; it shall not be plucked up, nor thrown down any more for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The whole valley of the dead bodies and ashes, and all the fields as far as the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.39|<< Jeremiah 31:39]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.1|Jeremiah 32:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the valley of  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6010R\|עֵ֣מֶק]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.mek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

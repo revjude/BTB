@@ -1,4 +1,4 @@
-**2 Chronicles 6:8** 
+**2 Chronicles 6:8**<big><big>[[2Chr.6.1 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD said to David my father, Forasmuch as it was in thine heart to build an house for my name, thou didst well in that it was in thine heart:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD said to my father David, ‘Since it was in your heart to build a h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.7|<< 2 Chronicles 6:7]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.9|2 Chronicles 6:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

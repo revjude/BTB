@@ -1,10 +1,7 @@
 **LXX Joshua 13:13** 
 <small><sub>**LXX:**</sub></small>
 But the sons of Israel did not utterly destroy the Geshurite, and the Maachathite. And \[the\] king of \[the\] Geshurites and the Maachathites dwelt among the sons of Israel until  this day. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day.
-<small><sub>**BSB:**</sub></small>
-but the Israelites did not drive out the Geshurites or the Maacathites. So Geshur and Maacath dwell among the Israelites to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.12|<< Joshua 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.14|Joshua 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

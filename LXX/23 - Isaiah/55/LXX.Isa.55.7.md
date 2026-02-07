@@ -1,10 +1,7 @@
 **LXX Isaiah 55:7** 
 <small><sub>**LXX:**</sub></small>
 the impious one leave  his ways, and \[the\] lawless man  his plans! And let him return unto \[the\] <span class="smallcaps">lord</span>! and he shall be shown mercy, even from  our God, for he will forgive your sins unto much. 
-<small><sub>**KJV:**</sub></small>
-Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.
-<small><sub>**BSB:**</sub></small>
-Let the wicked man forsake his way and the unrighteous man his thoughts; let him return to the LORD, that He may have compassion, and to our God, for He will freely pardon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.55.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.6|<< Isaiah 55:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.8|Isaiah 55:8 >>]]</td></tr></table>
 
 | Translation | Greek |

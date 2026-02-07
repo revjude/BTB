@@ -1,4 +1,4 @@
-**Ruth 2:1** 
+**Ruth 2:1**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name [was] Boaz.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Naomi had a relative on her husband’s side, a prominent man of noble chara
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.22|<< Ruth 1:22]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.2|Ruth 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belonged] to Naomi  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5281\|נָעֳמִ֞י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> no.'o.Mi<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a relative  [^1]|**<big>&#8207;[[H4129\|מוֹדַ֣ע]]&#8207; </big>**[^2] | me.yu.da'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

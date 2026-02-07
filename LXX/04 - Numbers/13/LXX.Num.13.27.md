@@ -1,10 +1,7 @@
 **LXX Numbers 13:27** 
 <small><sub>**LXX:**</sub></small>
 And they described to him, and they said, We came into the land unto which you sent us, a land flowing milk and honey. And this \[is\]  its fruit. 
-<small><sub>**KJV:**</sub></small>
-And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this [is] the fruit of it.
-<small><sub>**BSB:**</sub></small>
-And they gave this account to Moses: “We went into the land to which you sent us, and indeed, it is flowing with milk and honey. Here is some of its fruit!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.26|<< Numbers 13:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.28|Numbers 13:28 >>]]</td></tr></table>
 
 | Translation | Greek |

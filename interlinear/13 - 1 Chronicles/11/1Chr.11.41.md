@@ -1,4 +1,4 @@
-**1 Chronicles 11:41** 
+**1 Chronicles 11:41**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Uriah the Hittite, Zabad the son of Ahlai,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Uriah the Hittite, Zabad son of Ahlai,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.40|<< 1 Chronicles 11:40]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.42|1 Chronicles 11:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Uriah  |**<big>&#8207;[[H0223A\|אֽוּרִיָּה֙]]&#8207; </big>**| 'u.ri.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Hittite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2850\|חִתִּ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chi.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 80:18** (80:19)
+**Psalms 80:18**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So will not we go back from thee: quicken us, and we will call upon thy name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then we will not turn away from You; revive us, and we will call on Your name.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.17|<< Psalms 80:17]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.19|Psalms 80:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will turn back  |**<big>&#8207;[[H5472\|נָס֥וֹג]]&#8207; </big>**| na.Sog<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

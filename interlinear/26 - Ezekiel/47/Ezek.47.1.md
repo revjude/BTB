@@ -1,4 +1,4 @@
-**Ezekiel 47:1** 
+**Ezekiel 47:1**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house [stood toward] the east, and the waters came down from under from the right side of the house, at the south [side] of the altar.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the man brought me back to the entrance of the temple, and I saw water flow
 > $\quad$ referenced by: [[Rev.22.1|Rev 22:1-2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought back me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יְשִׁבֵ]]&#8207;&#8207;[[H9030\|נִי֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.shi.ve.<small><sup>[[HVhw3ms]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

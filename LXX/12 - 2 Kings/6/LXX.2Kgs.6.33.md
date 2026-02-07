@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:33** 
 <small><sub>**LXX:**</sub></small>
 While he was speaking with them, that behold, the messenger came to him. And he said, Behold, this  evil \[is\] from \[the\] <span class="smallcaps">lord</span>, why remain behind for the <span class="smallcaps">lord</span> any longer? 
-<small><sub>**KJV:**</sub></small>
-And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil [is] of the LORD; what should I wait for the LORD any longer?
-<small><sub>**BSB:**</sub></small>
-While Elisha was still speaking with them, the messenger came down to him. And the king said, “This calamity is from the LORD. Why should I wait for the LORD any longer?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.32|<< 2 Kings 6:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.1|2 Kings 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

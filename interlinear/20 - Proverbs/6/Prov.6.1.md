@@ -1,4 +1,4 @@
-**Proverbs 6:1** 
+**Proverbs 6:1**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, if thou be surety for thy friend, [if] thou hast stricken thy hand with a stranger,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My son, if you have put up security for your neighbor, if you have struck hands 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.23|<< Proverbs 5:23]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.2|Proverbs 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son my  |**<big>&#8207;[[H1121A\|בְּ֭נִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Be.n<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

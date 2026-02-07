@@ -1,4 +1,4 @@
-**Deuteronomy 7:18** 
+**Deuteronomy 7:18**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not be afraid of them: [but] shalt well remember what the LORD thy God did unto Pharaoh, and unto all Egypt;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But do not be afraid of them. Be sure to remember what the LORD your God did to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.17|<< Deuteronomy 7:17]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.19|Deuteronomy 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must be afraid  |**<big>&#8207;[[H3372G\|תִירָ֖א]]&#8207; </big>**| ti.Ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

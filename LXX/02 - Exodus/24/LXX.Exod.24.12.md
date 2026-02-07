@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Ascend to me unto the mountain, and you be there! And I will give to you the stone writing-tablets of the law, and the commandments which I wrote to establish law to them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Come up to Me on the mountain and stay here, so that I may give you the tablets of stone, with the law and commandments I have written for their instruction.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.11|<< Exodus 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.13|Exodus 24:13 >>]]</td></tr></table>
 
 | Translation | Greek |

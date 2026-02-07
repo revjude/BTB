@@ -1,12 +1,12 @@
-**Acts 11:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:23**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.
 <small><sub>**BSB:**</sub></small>
 When he arrived and saw the grace of God, he rejoiced and encouraged them all to abide in the Lord with all their hearts.
 <small><sub>**Literal:**</sub></small>
 who having come and having seen the grace which [is] <the> of God he rejoiced and he was exhorting all <the> with resolute purpose <the> of heart to abide in the Lord;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.22|<< Acts 11:22]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.24|Acts 11:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G3854\|παραγενόμενος]]</big>**  |paragenomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

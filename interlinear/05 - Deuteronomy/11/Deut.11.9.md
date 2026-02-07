@@ -1,4 +1,4 @@
-**Deuteronomy 11:9** 
+**Deuteronomy 11:9**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that ye may prolong [your] days in the land, which the LORD sware unto your fathers to give unto them and to their seed, a land that floweth with milk and honey.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and so that you may live long in the land that the LORD swore to your fathers to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.8|<< Deuteronomy 11:8]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.10|Deuteronomy 11:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and so that  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4616\|לְמַ֨עַן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you may prolong  |**<big>&#8207;[[H0748\|תַּאֲרִ֤יכוּ]]&#8207; </big>**| ta.'a.Ri.khu<small><sup>[[HVhj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

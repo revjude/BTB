@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:7** 
 <small><sub>**LXX:**</sub></small>
 for  your eyes saw all the works of \[the\] <span class="smallcaps">lord</span>, the great ones, as many as he did among you today. 
-<small><sub>**KJV:**</sub></small>
-But your eyes have seen all the great acts of the LORD which he did.
-<small><sub>**BSB:**</sub></small>
-For it is your own eyes that have seen every great work that the LORD has done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.6|<< Deuteronomy 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.8|Deuteronomy 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

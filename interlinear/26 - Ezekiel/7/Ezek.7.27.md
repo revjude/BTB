@@ -1,4 +1,4 @@
-**Ezekiel 7:27** 
+**Ezekiel 7:27**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king shall mourn, and the prince shall be clothed with desolation, and the hands of the people of the land shall be troubled: I will do unto them after their way, and according to their deserts will I judge them; and they shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king will mourn, the prince will be clothed with despair, and the hands of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.26|<< Ezekiel 7:26]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.1|Ezekiel 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֣לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will mourn  |**<big>&#8207;[[H0056\|יִתְאַבָּ֗ל]]&#8207; </big>**| yit.'a.Bal<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

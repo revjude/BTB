@@ -1,10 +1,7 @@
 **LXX Psalm 69:12** 
 <small><sub>**LXX:**</sub></small>
 The ones sitting down at \[the\] gates meditated against me; and against me they strummed, \[even\] the ones drinking  wine. 
-<small><sub>**KJV:**</sub></small>
-They that sit in the gate speak against me; and I [was] the song of the drunkards.
-<small><sub>**BSB:**</sub></small>
-Those who sit at the gate mock me, and I am the song of drunkards.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.11|<< Psalm 69:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.13|Psalm 69:13 >>]]</td></tr></table>
 
 | Translation | Greek |

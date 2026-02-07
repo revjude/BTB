@@ -1,4 +1,4 @@
-**Exodus 4:14** 
+**Exodus 4:14**<big><big>[[Exod.4.10 The Appointment of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was kindled against Moses, and he said, [Is] not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the anger of the LORD burned against Moses, and He said, “Is not Aaron th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.13|<< Exodus 4:13]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.15|Exodus 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it burned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2734\|יִּֽחַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.char-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] anger of  |**<big>&#8207;[[H0639G\|אַ֨ף]]&#8207; </big>**| 'af<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

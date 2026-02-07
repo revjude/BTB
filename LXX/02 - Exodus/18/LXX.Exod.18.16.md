@@ -1,10 +1,7 @@
 **LXX Exodus 18:16** 
 <small><sub>**LXX:**</sub></small>
 For whenever there is to them a dispute, and they should come to me, I litigate each, and I instruct them in the orders  of God, and  his law. 
-<small><sub>**KJV:**</sub></small>
-When they have a matter, they come unto me; and I judge between one and another, and I do make [them] know the statutes of God, and his laws.
-<small><sub>**BSB:**</sub></small>
-“Whenever they have a dispute, it is brought to me to judge between one man and another, and I make known to them the statutes and laws of God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.15|<< Exodus 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.17|Exodus 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

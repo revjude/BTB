@@ -1,4 +1,4 @@
-**Nehemiah 4:18** (4:12)
+**Nehemiah 4:18**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the builders, every one had his sword girded by his side, and [so] builded. And he that sounded the trumpet [was] by me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And each of the builders worked with his sword strapped at his side. But the tru
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.17|<< Nehemiah 4:17]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.19|Nehemiah 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the builders  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H1129\|בּוֹנִ֔ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> bo.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | each one  |**<big>&#8207;[[H0376I\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 65:1** 
+**Isaiah 65:1**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am sought of [them that] asked not [for me]; I am found of [them that] sought me not: I said, Behold me, behold me, unto a nation [that] was not called by my name.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I am sought of [them that] asked not [for me]; I am found of [them that] sought 
 > $\quad$ referenced by: [[Rom.10.20|Rom 10:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I let myself be consulted  |**<big>&#8207;[[H1875\|נִדְרַ֙שְׁתִּי֙]]&#8207; </big>**| nid.Rash.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [those who] not  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3808\|ל֣וֹא]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

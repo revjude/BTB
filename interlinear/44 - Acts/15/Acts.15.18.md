@@ -1,5 +1,5 @@
-**Acts 15:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:18**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Known unto God are all his works from the beginning of the world.
 <small><sub>**BSB:**</sub></small>
 that have been known for ages.’
@@ -10,7 +10,7 @@ known from eternity’ is <the> to God all the works of him.<br><table width="10
 > $\quad$ referencing: [[LXX.Isa.45.21|Isa 45:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | known |**<big>[[G1110\|γνωστὰ]]</big>**  |gnōsta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G0575\|ἀπ᾽]]</big>**  |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

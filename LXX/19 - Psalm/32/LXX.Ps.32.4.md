@@ -1,10 +1,7 @@
 **LXX Psalm 32:4** 
 <small><sub>**LXX:**</sub></small>
 For day and night your hand presses upon me. I was turned to misery by the thorn sticking me. 
-<small><sub>**KJV:**</sub></small>
-For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.
-<small><sub>**BSB:**</sub></small>
-For day and night Your hand was heavy upon me; my strength was drained as in the summer heat. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.3|<< Psalm 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.5|Psalm 32:5 >>]]</td></tr></table>
 
 | Translation | Greek |

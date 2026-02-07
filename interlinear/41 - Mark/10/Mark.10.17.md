@@ -1,12 +1,12 @@
-**Mark 10:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:17**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?
 <small><sub>**BSB:**</sub></small>
 As Jesus started on His way, a man ran up and knelt before Him. “Good Teacher,” he asked, “what must I do to inherit eternal life?”
 <small><sub>**Literal:**</sub></small>
 And when is going forth He on [the] journey having run up one and he having knelt down to Him he was asking Him; Teacher good, what shall I do that life eternal I may inherit?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.16|<< Mark 10:16]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.18|Mark 10:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when is going forth |**<big>[[G1607\|ἐκπορευομένου]]</big>**  |ekporeuomenou <small><sup>[[V-PNP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

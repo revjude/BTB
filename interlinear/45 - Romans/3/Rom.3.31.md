@@ -1,12 +1,12 @@
-**Romans 3:31
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:31**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do we then make void the law through faith? God forbid: yea, we establish the law.
 <small><sub>**BSB:**</sub></small>
 Do we, then, nullify the law by this faith? Certainly not! Instead, we uphold the law.
 <small><sub>**Literal:**</sub></small>
 Law then do we nullify through <the> faith? Never would it be! Instead law we uphold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.30|<< Romans 3:30]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.1|Romans 4:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Law |**<big>[[G3551\|νόμον]]</big>**  |nomon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

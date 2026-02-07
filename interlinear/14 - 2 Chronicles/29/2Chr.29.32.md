@@ -1,4 +1,4 @@
-**2 Chronicles 29:32** 
+**2 Chronicles 29:32**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, [and] two hundred lambs: all these [were] for a burnt offering to the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The number of burnt offerings the assembly brought was seventy bulls, a hundred 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.31|<< 2 Chronicles 29:31]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.33|2 Chronicles 29:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֞י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] number of  |**<big>&#8207;[[H4557\|מִסְפַּ֣ר]]&#8207; </big>**| mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

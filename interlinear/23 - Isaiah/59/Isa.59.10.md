@@ -1,4 +1,4 @@
-**Isaiah 59:10** 
+**Isaiah 59:10**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We grope for the wall like the blind, and we grope as if [we had] no eyes: we stumble at noonday as in the night; [we are] in desolate places as dead [men].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like the blind, we feel our way along the wall, groping like those without eyes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.9|<< Isaiah 59:9]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.11|Isaiah 59:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we grope for  |**<big>&#8207;[[H1659\|נְגַֽשְׁשָׁ֤ה]]&#8207; </big>**| ne.gash.Shah<small><sup>[[HVpc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> blind [people]  |**<big>&#8207;[[H9004\|כַֽ]]&#8207;&#8207;[[H5787\|עִוְרִים֙]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> 'iv.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

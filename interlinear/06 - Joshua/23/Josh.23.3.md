@@ -1,4 +1,4 @@
-**Joshua 23:3** 
+**Joshua 23:3**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye have seen all that the LORD your God hath done unto all these nations because of you; for the LORD your God [is] he that hath fought for you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And ye have seen all that the LORD your God hath done unto all these nations bec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.2|<< Joshua 23:2]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.4|Joshua 23:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have seen  |**<big>&#8207;[[H7200G\|רְאִיתֶ֗ם]]&#8207; </big>**| re.'i.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

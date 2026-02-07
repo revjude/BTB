@@ -1,4 +1,4 @@
-**Proverbs 18:17** 
+**Proverbs 18:17**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that is] first in his own cause [seemeth] just; but his neighbour cometh and searcheth him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The first to state his case seems right until another comes and cross-examines h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.16|<< Proverbs 18:16]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.18|Proverbs 18:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] righteous  |**<big>&#8207;[[H6662\|צַדִּ֣יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the first  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223G\|רִאשׁ֣וֹן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.Shon<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

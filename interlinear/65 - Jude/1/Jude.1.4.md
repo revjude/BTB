@@ -1,12 +1,12 @@
-**Jude 1:4
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:4**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 For certain men have crept in among you unnoticed—ungodly ones who were designated long ago for condemnation. They turn the grace of our God into a license for immorality, and they deny our only Master and Lord, Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 Came in stealthily for certain men, those long ago designated unto this <the> condemnation, ungodly [ones], the of the God of us grace changing into sensuality and the only master God and Lord of us Jesus Christ denying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.3|<< Jude 1:3]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.5|Jude 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came in stealthily |**<big>[[G3921\|παρεισέδυσαν]]</big>**  [^1] |pareisedusan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

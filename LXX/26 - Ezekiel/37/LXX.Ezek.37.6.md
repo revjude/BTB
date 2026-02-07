@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:6** 
 <small><sub>**LXX:**</sub></small>
 And I shall put upon you nerves, and I will lead flesh upon you, and I shall stretch out upon you skin, and I will put my spirit into you, and you shall live, and you shall know that I am \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will lay sinews upon you, and will bring up flesh upon you, and cover you with skin, and put breath in you, and ye shall live; and ye shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-I will attach tendons to you and make flesh grow upon you and cover you with skin. I will put breath within you so that you will come to life. Then you will know that I am the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.5|<< Ezekiel 37:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.7|Ezekiel 37:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 11:25
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:25**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.
 <small><sub>**BSB:**</sub></small>
 And when you stand to pray, if you hold anything against another, forgive it, so that your Father in heaven will forgive your trespasses as well.”
 <small><sub>**Literal:**</sub></small>
 And when you stand praying, do forgive if anything you have against anyone so that also the Father of you who [is] in the heavens may forgive you the trespasses of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.24|<< Mark 11:24]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.26|Mark 11:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Hosea 4:16** 
+**Hosea 4:16**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Israel is as obstinate as a stubborn heifer. Can the LORD now shepherd them 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.15|<< Hosea 4:15]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.17|Hosea 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a heifer  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6510\|פָרָ֣ה]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> fa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

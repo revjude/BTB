@@ -1,4 +1,4 @@
-**Genesis 4:13** 
+**Genesis 4:13**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Cain said unto the LORD, My punishment [is] greater than I can bear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Cain said to the LORD, “My punishment is greater than I can bear.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.12|<< Genesis 4:12]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.14|Genesis 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Cain  |**<big>&#8207;[[H7014B\|קַ֖יִן]]&#8207; </big>**| Ka.yin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

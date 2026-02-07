@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:48** 
 <small><sub>**LXX:**</sub></small>
 And I will return \[the\] impiety of the land, and all the women shall be corrected, and in no way shall they do according to  their impious deeds. 
-<small><sub>**KJV:**</sub></small>
-Thus will I cause lewdness to cease out of the land, that all women may be taught not to do after your lewdness.
-<small><sub>**BSB:**</sub></small>
-So I will put an end to indecency in the land, and all the women will be admonished not to imitate your behavior.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.47|<< Ezekiel 23:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.49|Ezekiel 23:49 >>]]</td></tr></table>
 
 | Translation | Greek |

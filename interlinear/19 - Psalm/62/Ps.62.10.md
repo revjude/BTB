@@ -1,4 +1,4 @@
-**Psalms 62:10** (62:11)
+**Psalms 62:10**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart [upon them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Place no trust in extortion or false hope in stolen goods. If your riches increa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.9|<< Psalms 62:9]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.11|Psalms 62:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you trust  |**<big>&#8207;[[H0982\|תִּבְטְח֣וּ]]&#8207; </big>**| tiv.te.Chu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

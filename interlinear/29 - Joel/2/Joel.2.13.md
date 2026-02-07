@@ -1,4 +1,4 @@
-**Joel 2:13** 
+**Joel 2:13**<big><big>[[Joel.2.12 Return with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And rend your heart, and not your garments, and turn unto the LORD your God: for he [is] gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So rend your hearts and not your garments, and return to the LORD your God. For 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.12|<< Joel 2:12]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.14|Joel 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and tear  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7167\|קִרְע֤וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kir.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart your  |**<big>&#8207;[[H3824\|לְבַבְ]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| le.vav.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

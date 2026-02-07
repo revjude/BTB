@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:29** 
 <small><sub>**LXX:**</sub></small>
 And came to pass a change of state of \[the\] <span class="smallcaps">lord</span> upon all the kingdoms of the earth, in  their hearing that \[the\] <span class="smallcaps">lord</span> waged war with the ones being opponents of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the fear of God was on all the kingdoms of [those] countries, when they had heard that the LORD fought against the enemies of Israel.
-<small><sub>**BSB:**</sub></small>
-And the fear of God came upon all the kingdoms of the lands when they heard that the LORD had fought against the enemies of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.28|<< 2 Chronicles 20:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.30|2 Chronicles 20:30 >>]]</td></tr></table>
 
 | Translation | Greek |

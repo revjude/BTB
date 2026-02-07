@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Amaziah grew strong, and took to himself  his people, and went into the valley  of salts, and struck there the sons of Seir -- ten thousand. 
-<small><sub>**KJV:**</sub></small>
-And Amaziah strengthened himself, and led forth his people, and went to the valley of salt, and smote of the children of Seir ten thousand.
-<small><sub>**BSB:**</sub></small>
-Amaziah, however, summoned his strength and led his troops to the Valley of Salt, where he struck down 10,000 men of Seir,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.10|<< 2 Chronicles 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.12|2 Chronicles 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

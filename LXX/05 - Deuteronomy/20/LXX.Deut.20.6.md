@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:6** 
 <small><sub>**LXX:**</sub></small>
 And Who \[is\] the man whoever plants a vineyard, and was not glad from it? Let him go, and let him return to  his house! lest he should die in the war, and another man be glad from out of his \[labor\]. 
-<small><sub>**KJV:**</sub></small>
-And what man [is he] that hath planted a vineyard, and hath not [yet] eaten of it? let him [also] go and return unto his house, lest he die in the battle, and another man eat of it.
-<small><sub>**BSB:**</sub></small>
-Has any man planted a vineyard and not begun to enjoy its fruit? Let him return home, or he may die in battle and another man enjoy its fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.5|<< Deuteronomy 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.7|Deuteronomy 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

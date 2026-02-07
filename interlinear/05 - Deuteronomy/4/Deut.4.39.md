@@ -1,4 +1,4 @@
-**Deuteronomy 4:39** 
+**Deuteronomy 4:39**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know therefore this day, and consider [it] in thine heart, that the LORD he [is] God in heaven above, and upon the earth beneath: [there is] none else.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Know therefore this day and take to heart that the LORD is God in heaven above a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.38|<< Deuteronomy 4:38]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.40|Deuteronomy 4:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדַעְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.da'.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּ֗וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

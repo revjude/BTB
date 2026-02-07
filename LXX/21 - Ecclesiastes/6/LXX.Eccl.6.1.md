@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 There is a wickedness which I beheld under the sun, and it is abundant with  men. 
-<small><sub>**KJV:**</sub></small>
-There is an evil which I have seen under the sun, and it [is] common among men:
-<small><sub>**BSB:**</sub></small>
-There is another evil I have seen under the sun, and it weighs heavily upon mankind:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.20|<< Ecclesiastes 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.2|Ecclesiastes 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

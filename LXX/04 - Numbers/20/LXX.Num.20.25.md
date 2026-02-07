@@ -1,10 +1,7 @@
 **LXX Numbers 20:25** 
 <small><sub>**LXX:**</sub></small>
 Take  Aaron and Eleazar  his son, and haul them unto Hor the mountain! 
-<small><sub>**KJV:**</sub></small>
-Take Aaron and Eleazar his son, and bring them up unto mount Hor:
-<small><sub>**BSB:**</sub></small>
-Take Aaron and his son Eleazar and bring them up Mount Hor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.24|<< Numbers 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.26|Numbers 20:26 >>]]</td></tr></table>
 
 | Translation | Greek |

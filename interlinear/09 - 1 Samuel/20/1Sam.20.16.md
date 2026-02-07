@@ -1,4 +1,4 @@
-**1 Samuel 20:16** 
+**1 Samuel 20:16**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jonathan made [a covenant] with the house of David, [saying], Let the LORD even require [it] at the hand of David’s enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jonathan made a covenant with the house of David, saying, “May the LORD hol
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.15|<< 1 Samuel 20:15]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.17|1 Samuel 20:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772H\|יִּכְרֹ֥ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.Rot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jonathan  |**<big>&#8207;[[H3083H\|יְהוֹנָתָ֖ן]]&#8207; </big>**| ye.ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

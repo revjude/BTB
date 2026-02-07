@@ -1,12 +1,12 @@
-**Matthew 3:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:16**<big><big>[[Matt.3.13 The Baptism of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:
 <small><sub>**BSB:**</sub></small>
 As soon as Jesus was baptized, He went up out of the water. Suddenly the heavens were opened, and He saw the Spirit of God descending like a dove and resting on Him.
 <small><sub>**Literal:**</sub></small>
 and Having been baptized now <the> Jesus immediately went up from the water. and behold were opened to Him the heavens, and he saw the Spirit <the> of God descending as a dove and alighting upon Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.15|<< Matthew 3:15]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.17|Matthew 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Having been baptized |**<big>[[G0907\|Βαπτισθεὶς]]</big>**  |Baptistheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 23:1** 
+**Exodus 23:1**<big><big>[[Exod.23.1 Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thou shalt not raise a false report: put not thine hand with the wicked to be an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.31|<< Exodus 22:31]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.2|Exodus 23:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must bear  |**<big>&#8207;[[H5375N\|תִשָּׂ֖א]]&#8207; </big>**| ti.Sa'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

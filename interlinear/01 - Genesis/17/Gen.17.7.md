@@ -1,4 +1,4 @@
-**Genesis 17:7** 
+**Genesis 17:7**<big><big>[[Gen.17.1 Abraham to Father Many Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will establish My covenant as an everlasting covenant between Me and you and y
 > $\quad$ referenced by: [[Gal.3.16|Gal 3:16-17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will establish  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|הֲקִמֹתִ֨י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ki.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

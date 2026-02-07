@@ -1,12 +1,12 @@
-**Acts 15:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:34**<big><big>[[Acts.15.30 The Believers at Antioch Rejoice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Notwithstanding it pleased Silas to abide there still.
 <small><sub>**BSB:**</sub></small>
 
 <small><sub>**Literal:**</sub></small>
 It seemed good however <the> to Silas to remain here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.33|<< Acts 15:33]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.35|Acts 15:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It seemed good |**<big>[[G1380\|ἔδοξεν]]</big>**  |edoxen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 12:18** 
+**Ezekiel 12:18**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Son of man, eat thy bread with quaking, and drink thy water with trembling and w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.17|<< Ezekiel 12:17]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.19|Ezekiel 12:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֕ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

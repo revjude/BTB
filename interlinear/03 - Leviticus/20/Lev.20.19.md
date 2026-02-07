@@ -1,4 +1,4 @@
-**Leviticus 20:19** 
+**Leviticus 20:19**<big><big>[[Lev.20.10 Punishments for Sexual Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt not uncover the nakedness of thy mother’s sister, nor of thy father’s sister: for he uncovereth his near kin: they shall bear their iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not have sexual relations with the sister of your mother or your father
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.18|<< Leviticus 20:18]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.20|Leviticus 20:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] nakedness of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6172\|עֶרְוַ֨ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'er.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sister of  |**<big>&#8207;[[H0269\|אֲח֧וֹת]]&#8207; </big>**| 'a.Chot<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

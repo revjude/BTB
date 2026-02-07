@@ -1,5 +1,5 @@
-**2 Corinthians 6:16
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:16**<big><big>[[2Cor.6.14 Do Not Be Unequally Yoked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in [them]; and I will be their God, and they shall be my people.
 <small><sub>**BSB:**</sub></small>
 What agreement can exist between the temple of God and idols? For we are the temple of the living God. As God has said: “I will dwell with them and walk among them, and I will be their God, and they will be My people.”
@@ -10,7 +10,7 @@ What now agreement [the] temple of God with idols? We ourselves for [the] temple
 > $\quad$ referencing: [[LXX.Lev.26.11|Lev 26:11-12]] ☩ [[LXX.Isa.52.11|Isa 52:11-12]] ☩ [[LXX.Jer.31.9|Jer 31:9]] ☩ [[LXX.Ezek.37.27|Ezek 37:27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

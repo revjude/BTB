@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:14** 
 <small><sub>**LXX:**</sub></small>
 And you shall inherit it, each as  his brother in which I lifted  my hand  to give \[to\] their fathers; and this land shall fall to you by inheritance. 
-<small><sub>**KJV:**</sub></small>
-And ye shall inherit it, one as well as another: [concerning] the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance.
-<small><sub>**BSB:**</sub></small>
-You are to divide it equally among them. Because I swore with an uplifted hand to give it to your forefathers, this land will fall to you as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.13|<< Ezekiel 47:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.15|Ezekiel 47:15 >>]]</td></tr></table>
 
 | Translation | Greek |

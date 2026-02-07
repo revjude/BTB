@@ -1,12 +1,12 @@
-**Psalms 68:1** (68:2)
+**Psalms 68:1**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm [or] Song of David. Let God arise, let his enemies be scattered: let them also that hate him flee before him.
+Let God arise, let his enemies be scattered: let them also that hate him flee before him.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. A song. God arises. His enemies are scattered, and those who hate Him flee His presence.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.0|<< Psalms 68:0]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.2|Psalms 68:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he arise  |**<big>&#8207;[[H6965B\|יָק֣וּם]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

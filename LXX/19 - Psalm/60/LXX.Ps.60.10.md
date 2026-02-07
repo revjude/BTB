@@ -1,10 +1,7 @@
 **LXX Psalm 60:10** 
 <small><sub>**LXX:**</sub></small>
 Will not you, O God, the one thrusting us away? And will you not go forth, O God, with  our forces? 
-<small><sub>**KJV:**</sub></small>
-[Wilt] not thou, O God, [which] hadst cast us off? and [thou], O God, [which] didst not go out with our armies?
-<small><sub>**BSB:**</sub></small>
-Have You not rejected us, O God? Will You no longer march out, O God, with our armies?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.60.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.9|<< Psalm 60:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.11|Psalm 60:11 >>]]</td></tr></table>
 
 | Translation | Greek |

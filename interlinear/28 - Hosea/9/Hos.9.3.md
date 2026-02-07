@@ -1,4 +1,4 @@
-**Hosea 9:3** 
+**Hosea 9:3**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not dwell in the LORD’S land; but Ephraim shall return to Egypt, and they shall eat unclean [things] in Assyria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will not remain in the land of the LORD; Ephraim will return to Egypt and e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.2|<< Hosea 9:2]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.4|Hosea 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will remain  |**<big>&#8207;[[H3427\|יֵשְׁב֖וּ]]&#8207; </big>**| ye.she.Vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

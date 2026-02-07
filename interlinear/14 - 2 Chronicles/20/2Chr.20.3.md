@@ -1,4 +1,4 @@
-**2 Chronicles 20:3** 
+**2 Chronicles 20:3**<big><big>[[2Chr.20.1 War against Jehoshaphat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jehoshaphat was alarmed and set his face to seek the LORD. And he proclaimed a f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.2|<< 2 Chronicles 20:2]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.4|2 Chronicles 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּרָ֕א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414H\|יִּתֵּ֧ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

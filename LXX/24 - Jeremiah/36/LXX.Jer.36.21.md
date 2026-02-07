@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:21** 
 <small><sub>**LXX:**</sub></small>
 And the king sent  Jehudi to take the scroll. And he took it from out of \[the\] house of Elishama the scribe, and Jehudi read in the ears of the king, and in the ears of all the rulers  sitting around the king. 
-<small><sub>**KJV:**</sub></small>
-So the king sent Jehudi to fetch the roll: and he took it out of Elishama the scribe’s chamber. And Jehudi read it in the ears of the king, and in the ears of all the princes which stood beside the king.
-<small><sub>**BSB:**</sub></small>
-Then the king sent Jehudi to get the scroll, and he took it from the chamber of Elishama the scribe. And Jehudi read it in the hearing of the king and all the officials who were standing beside him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.20|<< Jeremiah 36:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.22|Jeremiah 36:22 >>]]</td></tr></table>
 
 | Translation | Greek |

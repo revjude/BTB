@@ -1,4 +1,4 @@
-**Psalms 7:6** (7:7)
+**Psalms 7:6**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me [to] the judgment [that] thou hast commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arise, O LORD, in Your anger; rise up against the fury of my enemies. Awake, my 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.5|<< Psalms 7:5]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.7|Psalms 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise !  |**<big>&#8207;[[H6965B\|ק֘וּמָ֤]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ku.Ma<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

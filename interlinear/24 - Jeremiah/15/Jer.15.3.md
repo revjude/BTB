@@ -1,4 +1,4 @@
-**Jeremiah 15:3** 
+**Jeremiah 15:3**<big><big>[[Jer.15.1 Judgment to Continue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will appoint over them four kinds, saith the LORD: the sword to slay, and the dogs to tear, and the fowls of the heaven, and the beasts of the earth, to devour and destroy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will appoint over them four kinds of destroyers, declares the LORD: the sword 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.2|<< Jeremiah 15:2]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.4|Jeremiah 15:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will appoint  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6485J\|פָקַדְתִּ֨י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.kad.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

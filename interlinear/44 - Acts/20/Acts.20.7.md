@@ -1,12 +1,12 @@
-**Acts 20:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:7**<big><big>[[Acts.20.7 Eutychus Revived at Troas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And upon the first [day] of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.
 <small><sub>**BSB:**</sub></small>
 On the first day of the week we came together to break bread. Since Paul was ready to leave the next day, he talked to them and kept on speaking until midnight.
 <small><sub>**Literal:**</sub></small>
 In then the first [day] of the week come together we disciples for the breaking of bread <the> Paul was talking to them about to depart on the next day he was continuing then the talk until midnight;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.6|<< Acts 20:6]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.8|Acts 20:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

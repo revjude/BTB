@@ -1,4 +1,4 @@
-**Genesis 26:9** 
+**Genesis 26:9**<big><big>[[Gen.26.6 Isaac Deceives Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech called Isaac, and said, Behold, of a surety she [is] thy wife: and how saidst thou, She [is] my sister? And Isaac said unto him, Because I said, Lest I die for her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abimelech sent for Isaac and said, “So she is really your wife! How could you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.8|<< Genesis 26:8]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.10|Genesis 26:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abimelech  |**<big>&#8207;[[H0040G\|אֲבִימֶ֜לֶךְ]]&#8207; </big>**| 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

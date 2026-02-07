@@ -1,4 +1,4 @@
-**Exodus 7:7** 
+**Exodus 7:7**<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses [was] fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses was eighty years old and Aaron was eighty-three when they spoke to Pharaoh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.6|<< Exodus 7:6]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.8|Exodus 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Moses  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4872\|מֹשֶׁה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

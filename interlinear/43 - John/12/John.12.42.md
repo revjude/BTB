@@ -1,12 +1,12 @@
-**John 12:42
-**<small><sub>**KJV:**</sub></small>
+**John 12:42**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess [him], lest they should be put out of the synagogue:
 <small><sub>**BSB:**</sub></small>
 Nevertheless, many of the leaders believed in Him. But because of the Pharisees they did not confess Him, for fear that they would be put out of the synagogue.
 <small><sub>**Literal:**</sub></small>
 Nevertheless indeed even of the rulers many believed in Him, but on account of the Pharisees not they were confessing, so that not put out of the synagogue they may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.41|<< John 12:41]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.43|John 12:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nevertheless |**<big>[[G3676\|ὅμως]]</big>**  |homōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3305\|μέντοι]]</big>**  |mentoi <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

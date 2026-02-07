@@ -1,6 +1,6 @@
 (KJV) **Psalm 62**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61|<< Psalm 61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.63|Psalm 63 >>]]</td></tr></table>
 
-***Waiting on God*** ^bsb1355
+<big><big>[[Ps.62.1 Waiting on God|⥃]]</big></big>***Waiting on God***
 
 
 

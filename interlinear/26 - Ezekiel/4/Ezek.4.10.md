@@ -1,4 +1,4 @@
-**Ezekiel 4:10** 
+**Ezekiel 4:10**<big><big>[[Ezek.4.9 The Defiled Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy meat which thou shalt eat [shall be] by weight, twenty shekels a day: from time to time shalt thou eat it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to weigh out twenty shekels of food to eat each day, and you are to eat 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.9|<< Ezekiel 4:9]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.11|Ezekiel 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and food your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3978\|מַאֲכָֽלְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'a.kha.le.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

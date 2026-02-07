@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:5** 
 <small><sub>**LXX:**</sub></small>
 And the king of Syria said, Come, enter! and I will send out a scroll to the king of Israel. And he went and took in  his hand ten talents of silver, and six thousand \[pieces\] of gold, and ten changes of apparels. 
-<small><sub>**KJV:**</sub></small>
-And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand [pieces] of gold, and ten changes of raiment.
-<small><sub>**BSB:**</sub></small>
-“Go now,” said the king of Aram, “and I will send you with a letter to the king of Israel.” So Naaman departed, taking with him ten talents of silver, six thousand shekels of gold, and ten sets of clothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.4|<< 2 Kings 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.6|2 Kings 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 9:27** 
+**Daniel 9:27**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make [it] desolate, even until the consummation, and that determined shall be poured upon the desolate.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And he will confirm a covenant with many for one week, but in the middle of the 
 > $\quad$ referenced by: [[Matt.24.15|Matt 24:15]] ☩ [[Mark.13.14|Mark 13:14]] ☩ [[Rev.20.4|Rev 20:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make strong  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1396\|הִגְבִּ֥יר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hig.Bir<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a covenant  |**<big>&#8207;[[H1285\|בְּרִ֛ית]]&#8207; </big>**| be.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

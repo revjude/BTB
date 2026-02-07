@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:28** 
 <small><sub>**LXX:**</sub></small>
 And they shall know that I am \[the\] <span class="smallcaps">lord</span>  their God in  my appearing to them among the nations,  in  my gathering them upon  their land. And I shall not abandon them any more -- not one there. 
-<small><sub>**KJV:**</sub></small>
-Then shall they know that I [am] the LORD their God, which caused them to be led into captivity among the heathen: but I have gathered them unto their own land, and have left none of them any more there.
-<small><sub>**BSB:**</sub></small>
-Then they will know that I am the LORD their God, when I regather them to their own land, not leaving any of them behind after their exile among the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.27|<< Ezekiel 39:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.29|Ezekiel 39:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 39:28** is...

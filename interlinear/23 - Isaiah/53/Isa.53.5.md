@@ -1,4 +1,4 @@
-**Isaiah 53:5** 
+**Isaiah 53:5**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he [was] wounded for our transgressions, [he was] bruised for our iniquities: the chastisement of our peace [was] upon him; and with his stripes we are healed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But He was pierced for our transgressions, He was crushed for our iniquities; th
 > $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[1Pet.2.24|1Pet 2:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|הוּא֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] pierced  |**<big>&#8207;[[H2490A\|מְחֹלָ֣ל]]&#8207; </big>**| me.cho.Lal<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

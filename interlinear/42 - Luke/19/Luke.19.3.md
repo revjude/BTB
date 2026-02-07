@@ -1,12 +1,12 @@
-**Luke 19:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:3**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he sought to see Jesus who he was; and could not for the press, because he was little of stature.
 <small><sub>**BSB:**</sub></small>
 He was trying to see who Jesus was, but could not see over the crowd because he was small in stature.
 <small><sub>**Literal:**</sub></small>
 And he was seeking to see <the> Jesus who He is and not he was able because of the crowd, because <the> in stature small he was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.2|<< Luke 19:2]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.4|Luke 19:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he was seeking |**<big>[[G2212\|ἐζήτει]]</big>**  |ezētei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

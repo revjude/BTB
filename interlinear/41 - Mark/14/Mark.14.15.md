@@ -1,12 +1,12 @@
-**Mark 14:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:15**<big><big>[[Mark.14.12 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he will shew you a large upper room furnished [and] prepared: there make ready for us.
 <small><sub>**BSB:**</sub></small>
 And he will show you a large upper room, furnished and ready. Make preparations for us there.”
 <small><sub>**Literal:**</sub></small>
 And he himself you will show an upper room large furnished [and] ready; And there do prepare for us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.14|<< Mark 14:14]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.16|Mark 14:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

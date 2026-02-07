@@ -1,4 +1,4 @@
-**Deuteronomy 6:4** 
+**Deuteronomy 6:4**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, O Israel: The LORD our God [is] one LORD:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Hear, O Israel: The LORD our God, the LORD is One.
 > $\quad$ referenced by: [[Mark.12.29|Mark 12:29-30]] ☩ [[Mark.12.32|Mark 12:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שְׁמַ֖ע]]&#8207; </big>**| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 44:22** (44:23)
+**Psalms 44:22**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.
 <small><sub>**BSB:**</sub></small>
@@ -11,7 +11,7 @@ Yet for Your sake we face death all day long; we are considered as sheep to be s
 > $\quad$ referenced by: [[Luke.11.49|Luke 11:49-50]] ☩ [[Rom.8.36|Rom 8:36]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָ֭לֶי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'A.lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

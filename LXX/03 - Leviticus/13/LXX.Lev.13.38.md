@@ -1,10 +1,7 @@
 **LXX Leviticus 13:38** 
 <small><sub>**LXX:**</sub></small>
 And a man or woman, in whom ever should have in \[the\] skin  of his flesh shinings shining forth being white, 
-<small><sub>**KJV:**</sub></small>
-If a man also or a woman have in the skin of their flesh bright spots, [even] white bright spots;
-<small><sub>**BSB:**</sub></small>
-When a man or a woman has white spots on the skin,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.37|<< Leviticus 13:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.39|Leviticus 13:39 >>]]</td></tr></table>
 
 | Translation | Greek |

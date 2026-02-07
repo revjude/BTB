@@ -1,10 +1,7 @@
 **LXX Exodus 8:22** 
 <small><sub>**LXX:**</sub></small>
 And I will do an incredible thing in  that day in the land of Goshen, upon which  my people are upon it; upon which there will not be there the dog-fly, that you may know that I am \[the\] <span class="smallcaps">lord</span> of all the earth. 
-<small><sub>**KJV:**</sub></small>
-And I will sever in that day the land of Goshen, in which my people dwell, that no swarms [of flies] shall be there; to the end thou mayest know that I [am] the LORD in the midst of the earth.
-<small><sub>**BSB:**</sub></small>
-But on that day I will give special treatment to the land of Goshen, where My people live; no swarms of flies will be found there. In this way you will know that I, the LORD, am in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.21|<< Exodus 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.23|Exodus 8:23 >>]]</td></tr></table>
 
 | Translation | Greek |

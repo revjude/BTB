@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 13:14** 
 <small><sub>**LXX:**</sub></small>
 And the ark of God stayed in \[the\] household of Obed Edom in  his house three months. And \[the\] <span class="smallcaps">lord</span> blessed the house of Obed Edom, and all  of his. 
-<small><sub>**KJV:**</sub></small>
-And the ark of God remained with the family of Obededom in his house three months. And the LORD blessed the house of Obededom, and all that he had.
-<small><sub>**BSB:**</sub></small>
-Thus the ark of God remained with the family of Obed-edom in his house for three months, and the LORD blessed his household and everything he owned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.13|<< 1 Chronicles 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.1|1 Chronicles 14:1 >>]]</td></tr></table>
 
 | Translation | Greek |

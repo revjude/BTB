@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:2** 
 <small><sub>**LXX:**</sub></small>
 By destruction you shall destroy all the places in which the nations serve there  their gods, whose \[lands\] you shall inherit them upon the high mountains, and upon the hills, and underneath every bushy tree. 
-<small><sub>**KJV:**</sub></small>
-Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:
-<small><sub>**BSB:**</sub></small>
-Destroy completely all the places where the nations you are dispossessing have served their gods—atop the high mountains, on the hills, and under every green tree.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.1|<< Deuteronomy 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.3|Deuteronomy 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

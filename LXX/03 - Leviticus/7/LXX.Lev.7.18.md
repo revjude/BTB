@@ -1,10 +1,7 @@
 **LXX Leviticus 7:18** 
 <small><sub>**LXX:**</sub></small>
 And if in eating he should eat from the meats of the third day, it shall not be accepted to the one offering it; it shall not be imputed to him -- it is a defilement, and the soul who should eat of it, he shall bear the sin. 
-<small><sub>**KJV:**</sub></small>
-And if [any] of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it shall not be accepted, neither shall it be imputed unto him that offereth it: it shall be an abomination, and the soul that eateth of it shall bear his iniquity.
-<small><sub>**BSB:**</sub></small>
-If any of the meat from his peace offering is eaten on the third day, it will not be accepted. It will not be credited to the one who presented it; it shall be an abomination, and the one who eats of it shall bear his iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.17|<< Leviticus 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.19|Leviticus 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 8:5** 
+**Zechariah 8:5**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the streets of the city shall be full of boys and girls playing in the streets thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the streets of the city will be filled with boys and girls playing there.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.4|<< Zechariah 8:4]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.6|Zechariah 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] open places of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7339\|רְחֹב֤וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.cho.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִיר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

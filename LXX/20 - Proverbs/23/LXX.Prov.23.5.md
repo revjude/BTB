@@ -1,10 +1,7 @@
 **LXX Proverbs 23:5** 
 <small><sub>**LXX:**</sub></small>
 If you set  your eye upon him, he shall not at all appear; for there are carefully prepared for him wings as of an eagle, and he returns to the house  being set for him. 
-<small><sub>**KJV:**</sub></small>
-Wilt thou set thine eyes upon that which is not? for [riches] certainly make themselves wings; they fly away as an eagle toward heaven.
-<small><sub>**BSB:**</sub></small>
-When you glance at wealth, it disappears, for it makes wings for itself and flies like an eagle to the sky.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.4|<< Proverbs 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.6|Proverbs 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

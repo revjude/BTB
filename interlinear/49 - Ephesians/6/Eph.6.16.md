@@ -1,12 +1,12 @@
-**Ephesians 6:16
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:16**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked.
 <small><sub>**BSB:**</sub></small>
 In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.
 <small><sub>**Literal:**</sub></small>
 besides all having taken up the shield <the> of faith with which you will be able all the arrows of the evil one which enflamed to quench;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.15|<< Ephesians 6:15]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.17|Ephesians 6:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | besides [^1] |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | all |**<big>[[G3956\|πᾶσιν]]</big>**  |pasin <small><sup>[[A-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

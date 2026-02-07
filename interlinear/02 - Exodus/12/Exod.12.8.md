@@ -1,4 +1,4 @@
-**Exodus 12:8** 
+**Exodus 12:8**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall eat the flesh in that night, roast with fire, and unleavened bread; [and] with bitter [herbs] they shall eat it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are to eat the meat that night, roasted over the fire, along with unleavene
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.7|<< Exodus 12:7]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.9|Exodus 12:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will eat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָכְל֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.khe.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

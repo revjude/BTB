@@ -1,12 +1,12 @@
-**Luke 22:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:27**<big><big>[[Luke.22.24 Who Is the Greatest？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whether [is] greater, he that sitteth at meat, or he that serveth? [is] not he that sitteth at meat? but I am among you as he that serveth.
 <small><sub>**BSB:**</sub></small>
 For who is greater, the one who reclines at the table or the one who serves? Is it not the one who reclines? But I am among you as one who serves.
 <small><sub>**Literal:**</sub></small>
 Who for [is] greater, the [one] reclining or the [one] serving? Surely the [one] reclining? I myself however in [the] midst of you am as the [One] serving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.26|<< Luke 22:26]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.28|Luke 22:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

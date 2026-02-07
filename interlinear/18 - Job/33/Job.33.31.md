@@ -1,4 +1,4 @@
-**Job 33:31** 
+**Job 33:31**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mark well, O Job, hearken unto me: hold thy peace, and I will speak.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pay attention, Job, and listen to me; be silent, and I will speak.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.30|<< Job 33:30]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.32|Job 33:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pay attention  |**<big>&#8207;[[H7181\|הַקְשֵׁ֖ב]]&#8207; </big>**| hak.Shev<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Job  |**<big>&#8207;[[H0347\|אִיּ֥וֹב]]&#8207; </big>**| 'i.Yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

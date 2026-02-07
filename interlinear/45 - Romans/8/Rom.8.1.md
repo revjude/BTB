@@ -1,12 +1,12 @@
-**Romans 8:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:1**<big><big>[[Rom.8.1 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [There is] therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 <small><sub>**BSB:**</sub></small>
 Therefore, there is now no condemnation for those who are in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 No therefore now condemnation to those in Christ Jesus not according to flesh walk but according to spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.25|<< Romans 7:25]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.2|Romans 8:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No |**<big>[[G3762\|Οὐδὲν]]</big>**  |Ouden <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G0686\|ἄρα]]</big>**  |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 56:4** 
 <small><sub>**LXX:**</sub></small>
 In  God I will praise  by my words. Upon  God I hoped. I shall not fear what flesh shall do to me. 
-<small><sub>**KJV:**</sub></small>
-In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.
-<small><sub>**BSB:**</sub></small>
-In God, whose word I praise—in God I trust. I will not be afraid. What can man do to me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.3|<< Psalm 56:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.5|Psalm 56:5 >>]]</td></tr></table>
 
 | Translation | Greek |

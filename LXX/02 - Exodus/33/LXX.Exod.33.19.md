@@ -1,10 +1,7 @@
 **LXX Exodus 33:19** 
 <small><sub>**LXX:**</sub></small>
 And he said, I will go by in front of you \[in\] my glory; and I will call the name, \[the\] <span class="smallcaps">lord</span>, before you; and I will show mercy \[on\] whom ever I should show mercy, and I will pity whom ever I should pity. 
-<small><sub>**KJV:**</sub></small>
-And he said, I will make all my goodness pass before thee, and I will proclaim the name of the LORD before thee; and will be gracious to whom I will be gracious, and will shew mercy on whom I will shew mercy.
-<small><sub>**BSB:**</sub></small>
-“I will cause all My goodness to pass before you,” the LORD replied, “and I will proclaim My name—the LORD—in your presence. I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.18|<< Exodus 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.20|Exodus 33:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 33:19** is...

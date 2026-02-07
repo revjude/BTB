@@ -1,4 +1,4 @@
-**2 Chronicles 19:1** 
+**2 Chronicles 19:1**<big><big>[[2Chr.19.1 Jehoshaphat Reproved by Jehu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Jehoshaphat king of Judah had returned safely to his home in Jerusalem,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.34|<< 2 Chronicles 18:34]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.2|2 Chronicles 19:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he returned  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7725G\|יָּשָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.sho<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoshaphat  |**<big>&#8207;[[H3092I\|יְהוֹשָׁפָ֨ט]]&#8207; </big>**| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

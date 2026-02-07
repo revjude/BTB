@@ -1,10 +1,7 @@
 **LXX Isaiah 64:2** 
 <small><sub>**LXX:**</sub></small>
 as beeswax from fire shall melt away. And fire shall incinerate the adversaries, and your name will be for distinction among the adversaries. From in front of you nations shall be disturbed. 
-<small><sub>**KJV:**</sub></small>
-As [when] the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, [that] the nations may tremble at thy presence!
-<small><sub>**BSB:**</sub></small>
-as fire kindles the brushwood and causes the water to boil, to make Your name known to Your enemies, so that the nations will tremble at Your presence!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.64.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.1|<< Isaiah 64:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.3|Isaiah 64:3 >>]]</td></tr></table>
 
 | Translation | Greek |

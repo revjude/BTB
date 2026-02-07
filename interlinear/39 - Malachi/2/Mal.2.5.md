@@ -1,4 +1,4 @@
-**Malachi 2:5** 
+**Malachi 2:5**<big><big>[[Mal.2.1 A Warning to the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My covenant was with him of life and peace; and I gave them to him [for] the fear wherewith he feared me, and was afraid before my name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My covenant was with him of life and peace; and I gave them to him [for] the fea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.4|<< Malachi 2:4]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.6|Malachi 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | covenant my  |**<big>&#8207;[[H1285\|בְּרִיתִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.ri.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was  |**<big>&#8207;[[H1961\|הָיְתָ֣ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

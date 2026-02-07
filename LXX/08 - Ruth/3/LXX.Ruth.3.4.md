@@ -1,10 +1,7 @@
 **LXX Ruth 3:4** 
 <small><sub>**LXX:**</sub></small>
 And it will be at  his going to sleep, that you shall perceive the place where he sleeps there, and you shall go in, and uncover the \[things\] by his feet, and you shall go to sleep. And he shall report to you what you shall do. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do.
-<small><sub>**BSB:**</sub></small>
-When he lies down, note the place where he lies. Then go in and uncover his feet, and lie down, and he will explain to you what you should do.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.3|<< Ruth 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.5|Ruth 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

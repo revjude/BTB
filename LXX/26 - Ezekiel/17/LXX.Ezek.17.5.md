@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:5** 
 <small><sub>**LXX:**</sub></small>
 And he took from the seed of the land, and he put it into the ground fit for sowing \[as\] a plant by much water; he arranged it for attention. 
-<small><sub>**KJV:**</sub></small>
-He took also of the seed of the land, and planted it in a fruitful field; he placed [it] by great waters, [and] set it [as] a willow tree.
-<small><sub>**BSB:**</sub></small>
-He took some of the seed of the land and planted it in fertile soil; he placed it by abundant waters and set it out like a willow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.4|<< Ezekiel 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.6|Ezekiel 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

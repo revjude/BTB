@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Rimmon the Beerothite went out, Rechab and Baana; and they entered in the sweltering heat of the day into the house of Ishbosheth, and he was asleep in the bed in the midday. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Rimmon the Beerothite, Rechab and Baanah, went, and came about the heat of the day to the house of Ishbosheth, who lay on a bed at noon.
-<small><sub>**BSB:**</sub></small>
-Now Rechab and Baanah, the sons of Rimmon the Beerothite, set out and arrived at the house of Ish-bosheth in the heat of the day, while the king was taking his midday nap.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.4|<< 2 Samuel 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.6|2 Samuel 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

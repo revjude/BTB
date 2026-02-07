@@ -1,12 +1,12 @@
-**Acts 7:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:23**<big><big>[[Acts.7.23 The Rejection and Flight of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.
 <small><sub>**BSB:**</sub></small>
 When Moses was forty years old, he decided to visit his brothers, the children of Israel.
 <small><sub>**Literal:**</sub></small>
 When then was fulfilled to him of forty years a period, it came into the mind of him to visit the brothers of him the sons of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.22|<< Acts 7:22]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.24|Acts 7:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

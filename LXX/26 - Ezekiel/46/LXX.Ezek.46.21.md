@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:21** 
 <small><sub>**LXX:**</sub></small>
 And he led me into the outer courtyard; and led me around upon the four parts of the courtyard. And behold, \[there was\] a courtyard according to \[each of\] the sides of the courtyard. 
-<small><sub>**KJV:**</sub></small>
-Then he brought me forth into the utter court, and caused me to pass by the four corners of the court; and, behold, in every corner of the court [there was] a court.
-<small><sub>**BSB:**</sub></small>
-Then he brought me into the outer court and led me around to its four corners, and I saw a separate court in each of its corners.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.20|<< Ezekiel 46:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.22|Ezekiel 46:22 >>]]</td></tr></table>
 
 | Translation | Greek |

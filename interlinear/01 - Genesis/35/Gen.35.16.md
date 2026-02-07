@@ -1,4 +1,4 @@
-**Genesis 35:16** 
+**Genesis 35:16**<big><big>[[Gen.35.16 Benjamin Born, Rachel Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, they set out from Bethel, and while they were still some distance from Ep
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.15|<< Genesis 35:15]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.17|Genesis 35:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסְעוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Beth-  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1008G\|בֵּ֣ית]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

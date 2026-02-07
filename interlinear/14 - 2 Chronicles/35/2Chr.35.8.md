@@ -1,4 +1,4 @@
-**2 Chronicles 35:8** 
+**2 Chronicles 35:8**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred [small cattle], and three hundred oxen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His officials also contributed willingly to the people and priests and Levites. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.7|<< 2 Chronicles 35:7]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.9|2 Chronicles 35:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and officials his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שָׂרָ֞י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Ra<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to a freewill offering  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H5071\|נְדָבָ֥ה]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> n.da.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

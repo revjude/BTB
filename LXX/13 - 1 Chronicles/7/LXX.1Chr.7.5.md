@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:5** 
 <small><sub>**LXX:**</sub></small>
 And  their brethren among all \[the\] kin of Issachar \[were\] mighty in power -- eighty and seven thousand  of all their genealogy. 
-<small><sub>**KJV:**</sub></small>
-And their brethren among all the families of Issachar [were] valiant men of might, reckoned in all by their genealogies fourscore and seven thousand.
-<small><sub>**BSB:**</sub></small>
-Their kinsmen belonging to all the families of Issachar who were mighty men of valor totaled 87,000, as listed in their genealogies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.4|<< 1 Chronicles 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.6|1 Chronicles 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

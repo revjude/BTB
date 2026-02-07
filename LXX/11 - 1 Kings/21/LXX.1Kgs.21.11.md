@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:11** 
 <small><sub>**LXX:**</sub></small>
 And they did (the men  of his city, the elders, and the free \[men\]  dwelling in  his city) as Jezebel sent to them, and as was written in the scrolls which she sent to them. 
-<small><sub>**KJV:**</sub></small>
-And the men of his city, [even] the elders and the nobles who were the inhabitants in his city, did as Jezebel had sent unto them, [and] as it [was] written in the letters which she had sent unto them.
-<small><sub>**BSB:**</sub></small>
-So the elders and nobles who lived in Naboth’s city did as Jezebel had instructed in the letters she had written to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.10|<< 1 Kings 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.12|1 Kings 21:12 >>]]</td></tr></table>
 
 | Translation | Greek |

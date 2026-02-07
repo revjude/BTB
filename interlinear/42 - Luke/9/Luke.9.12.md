@@ -1,12 +1,12 @@
-**Luke 9:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:12**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place.
 <small><sub>**BSB:**</sub></small>
 As the day neared its end, the Twelve came to Jesus and said, “Dismiss the crowd so they can go to the surrounding villages and countryside for lodging and provisions. For we are in a desolate place here.”
 <small><sub>**Literal:**</sub></small>
 <the> And the day began to decline. having come then the Twelve said to Him; do dismiss the crowd that having travelled into the surrounding villages and <the> countryside they may lodge and they may find provisions; for here in a desolate place we are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.11|<< Luke 9:11]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.13|Luke 9:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

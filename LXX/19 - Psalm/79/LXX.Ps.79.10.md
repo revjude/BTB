@@ -1,10 +1,7 @@
 **LXX Psalm 79:10** 
 <small><sub>**LXX:**</sub></small>
 Lest at any time the nations should say, Where is  their God? then let it be known among the nations, before  our eyes, the vengeance for the blood  of your servants  being poured out! 
-<small><sub>**KJV:**</sub></small>
-Wherefore should the heathen say, Where [is] their God? let him be known among the heathen in our sight [by] the revenging of the blood of thy servants [which is] shed.
-<small><sub>**BSB:**</sub></small>
-Why should the nations ask, “Where is their God?” Before our eyes, make known among the nations Your vengeance for the bloodshed of Your servants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.79.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.9|<< Psalm 79:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.11|Psalm 79:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:11** 
 <small><sub>**LXX:**</sub></small>
 With the hoofs  of his horses they shall trample all  your squares;  they shall do away with your people by sword; and the support  of your strength they shall bring down to the ground. 
-<small><sub>**KJV:**</sub></small>
-With the hoofs of his horses shall he tread down all thy streets: he shall slay thy people by the sword, and thy strong garrisons shall go down to the ground.
-<small><sub>**BSB:**</sub></small>
-The hooves of his horses will trample all your streets. He will slaughter your people with the sword, and your mighty pillars will fall to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.10|<< Ezekiel 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.12|Ezekiel 26:12 >>]]</td></tr></table>
 
 | Translation | Greek |

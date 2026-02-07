@@ -1,4 +1,4 @@
-**Numbers 36:7** 
+**Numbers 36:7**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No inheritance in Israel may be transferred from tribe to tribe, because each of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.6|<< Numbers 36:6]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.8|Numbers 36:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will go about  |**<big>&#8207;[[H5437G\|תִסֹּ֤ב]]&#8207; </big>**| ti.So<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

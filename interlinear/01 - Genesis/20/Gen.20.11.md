@@ -1,4 +1,4 @@
-**Genesis 20:11** 
+**Genesis 20:11**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham said, Because I thought, Surely the fear of God [is] not in this place; and they will slay me for my wife’s sake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abraham replied, “I thought to myself, ‘Surely there is no fear of God in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.10|<< Genesis 20:10]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.12|Genesis 20:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֔ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

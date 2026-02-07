@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:27** 
 <small><sub>**LXX:**</sub></small>
 for in the field he found her; the young woman being espoused yelled, and was there no one  helping her. 
-<small><sub>**KJV:**</sub></small>
-For he found her in the field, [and] the betrothed damsel cried, and [there was] none to save her.
-<small><sub>**BSB:**</sub></small>
-When he found her in the field, the betrothed woman cried out, but there was no one to save her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.26|<< Deuteronomy 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.28|Deuteronomy 22:28 >>]]</td></tr></table>
 
 | Translation | Greek |

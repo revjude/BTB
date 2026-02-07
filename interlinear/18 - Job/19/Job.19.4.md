@@ -1,4 +1,4 @@
-**Job 19:4** 
+**Job 19:4**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And be it indeed [that] I have erred, mine error remaineth with myself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even if I have truly gone astray, my error concerns me alone.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.3|<< Job 19:3]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.5|Job 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and even  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | truly  |**<big>&#8207;[[H0551\|אָמְנָ֥ם]]&#8207; </big>**| 'a.me.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

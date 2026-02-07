@@ -1,4 +1,4 @@
-**2 Chronicles 29:9** 
+**2 Chronicles 29:9**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives [are] in captivity for this.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For behold, this is why our fathers have fallen by the sword, and our sons and d
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.8|<< 2 Chronicles 29:8]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.10|2 Chronicles 29:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have fallen  |**<big>&#8207;[[H5307G\|נָפְל֥וּ]]&#8207; </big>**| na.fe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

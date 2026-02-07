@@ -1,10 +1,7 @@
 **LXX Jonah 1:5** 
 <small><sub>**LXX:**</sub></small>
 And the mariners feared, and yelled out each to  his god. And they made an expulsion of the items, of the ones in the boat, into the sea,  to lighten of them. But Jonah went down into the hold of the boat, and he went to sleep, and snored. 
-<small><sub>**KJV:**</sub></small>
-Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that [were] in the ship into the sea, to lighten [it] of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.
-<small><sub>**BSB:**</sub></small>
-The sailors were afraid, and each cried out to his own god. And they threw the ship’s cargo into the sea to lighten the load. But Jonah had gone down to the lowest part of the vessel, where he lay down and fell into a deep sleep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.4|<< Jonah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.6|Jonah 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

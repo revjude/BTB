@@ -1,10 +1,7 @@
 **LXX Daniel 9:21** 
 <small><sub>**LXX:**</sub></small>
 and yet \[during\] my speaking in the prayer, that behold, \[the\] man Gabriel, whom I beheld in the vision at the beginning flying, and he touched me about \[the\] hour of \[the\] evening sacrifice. 
-<small><sub>**KJV:**</sub></small>
-Yea, whiles I [was] speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.
-<small><sub>**BSB:**</sub></small>
-while I was still praying, Gabriel, the man I had seen in the earlier vision, came to me in swift flight about the time of the evening sacrifice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.20|<< Daniel 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.22|Daniel 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

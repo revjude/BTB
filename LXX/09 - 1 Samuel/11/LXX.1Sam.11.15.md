@@ -1,10 +1,7 @@
 **LXX 1 Samuel 11:15** 
 <small><sub>**LXX:**</sub></small>
 And all the people went unto Gilgal; and Samuel anointed Saul there as king before \[the\] <span class="smallcaps">lord</span> in Gilgal. And he sacrificed there sacrifice \[offerings\] and peace \[offerings\] before \[the\] <span class="smallcaps">lord</span>. And Saul was glad there and all \[the\] men of Israel greatly. 
-<small><sub>**KJV:**</sub></small>
-And all the people went to Gilgal; and there they made Saul king before the LORD in Gilgal; and there they sacrificed sacrifices of peace offerings before the LORD; and there Saul and all the men of Israel rejoiced greatly.
-<small><sub>**BSB:**</sub></small>
-So all the people went to Gilgal and confirmed Saul as king in the presence of the LORD. There they sacrificed peace offerings before the LORD, and Saul and all the Israelites rejoiced greatly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.14|<< 1 Samuel 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.1|1 Samuel 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:10** 
 <small><sub>**LXX:**</sub></small>
 And Absalom sent spies into all the tribes  of Israel, saying, In  your hearing the sound of the trumpet, that you shall say, Absalom reigns in Hebron. 
-<small><sub>**KJV:**</sub></small>
-But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron.
-<small><sub>**BSB:**</sub></small>
-Then Absalom sent spies throughout the tribes of Israel with this message: “When you hear the sound of the horn, you are to say, ‘Absalom reigns in Hebron!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.9|<< 2 Samuel 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.11|2 Samuel 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

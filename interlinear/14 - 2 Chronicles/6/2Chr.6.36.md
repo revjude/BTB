@@ -1,4 +1,4 @@
-**2 Chronicles 6:36** 
+**2 Chronicles 6:36**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If they sin against thee, (for [there is] no man which sinneth not,) and thou be angry with them, and deliver them over before [their] enemies, and they carry them away captives unto a land far off or near;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they sin against You—for there is no one who does not sin—and You becom
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.35|<< 2 Chronicles 6:35]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.37|2 Chronicles 6:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will sin  |**<big>&#8207;[[H2398\|יֶחֶטְאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.chet.'u-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

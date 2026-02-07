@@ -1,12 +1,12 @@
-**1 Corinthians 12:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:7**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the manifestation of the Spirit is given to every man to profit withal.
 <small><sub>**BSB:**</sub></small>
 Now to each one the manifestation of the Spirit is given for the common good.
 <small><sub>**Literal:**</sub></small>
 To each now is given the manifestation of the Spirit for the common profiting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.6|<< 1 Corinthians 12:6]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.8|1 Corinthians 12:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To each |**<big>[[G1538\|Ἑκάστῳ]]</big>**  |Hekastō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

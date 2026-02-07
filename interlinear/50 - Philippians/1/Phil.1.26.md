@@ -1,12 +1,12 @@
-**Philippians 1:26
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:26**<big><big>[[Phil.1.21 To Live Is Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.
 <small><sub>**BSB:**</sub></small>
 so that through my coming to you again your exultation in Christ Jesus will resound on account of me.
 <small><sub>**Literal:**</sub></small>
 so that the boasting of you may abound to Christ Jesus in me myself through <the> my coming again to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.25|<< Philippians 1:25]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.27|Philippians 1:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

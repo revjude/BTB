@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:38** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan yelled out after  his servant-lad, saying, In hastening, you hasten! for you should not stand. And the servant-lad of Jonathan gathered up the darts, and he brought the darts to  his master. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan cried after the lad, Make speed, haste, stay not. And Jonathan’s lad gathered up the arrows, and came to his master.
-<small><sub>**BSB:**</sub></small>
-Then Jonathan cried out, “Hurry! Make haste! Do not delay!” So the boy picked up the arrow and returned to his master.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.37|<< 1 Samuel 20:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.39|1 Samuel 20:39 >>]]</td></tr></table>
 
 | Translation | Greek |

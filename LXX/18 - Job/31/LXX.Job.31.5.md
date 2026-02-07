@@ -1,10 +1,7 @@
 **LXX Job 31:5** 
 <small><sub>**LXX:**</sub></small>
 But if I was going with jokesters, or even hurrying  my foot for treachery; 
-<small><sub>**KJV:**</sub></small>
-If I have walked with vanity, or if my foot hath hasted to deceit;
-<small><sub>**BSB:**</sub></small>
-If I have walked in falsehood or my foot has rushed to deceit,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.4|<< Job 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.6|Job 31:6 >>]]</td></tr></table>
 
 | Translation | Greek |

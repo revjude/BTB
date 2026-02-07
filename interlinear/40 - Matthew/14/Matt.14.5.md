@@ -1,12 +1,12 @@
-**Matthew 14:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:5**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he would have put him to death, he feared the multitude, because they counted him as a prophet.
 <small><sub>**BSB:**</sub></small>
 Although Herod wanted to kill John, he was afraid of the people, because they regarded John as a prophet.
 <small><sub>**Literal:**</sub></small>
 Although wishing him to kill he feared the multitude because as a prophet him they were holding.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.4|<< Matthew 14:4]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.6|Matthew 14:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Although |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wishing |**<big>[[G2309\|θέλων]]</big>**  |thelōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

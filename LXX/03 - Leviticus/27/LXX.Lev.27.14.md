@@ -1,10 +1,7 @@
 **LXX Leviticus 27:14** 
 <small><sub>**LXX:**</sub></small>
 And a man, who ever should sanctify  his house holy to the <span class="smallcaps">lord</span>, then the priest shall value it between good and between bad; what ever the priest shall value it, so it shall stand. 
-<small><sub>**KJV:**</sub></small>
-And when a man shall sanctify his house [to be] holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.
-<small><sub>**BSB:**</sub></small>
-Now if a man consecrates his house as holy to the LORD, then the priest shall value it either as good or bad. The price will stand just as the priest values it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.13|<< Leviticus 27:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.15|Leviticus 27:15 >>]]</td></tr></table>
 
 | Translation | Greek |

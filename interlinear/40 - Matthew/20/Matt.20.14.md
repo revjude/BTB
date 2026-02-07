@@ -1,12 +1,12 @@
-**Matthew 20:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:14**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Take [that] thine [is], and go thy way: I will give unto this last, even as unto thee.
 <small><sub>**BSB:**</sub></small>
 Take your pay and go. I want to give this last man the same as I gave you.
 <small><sub>**Literal:**</sub></small>
 do take what [is] yours and do go. I desire now to this <the> last to give as also to you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.13|<< Matthew 20:13]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.15|Matthew 20:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do take |**<big>[[G0142\|ἆρον]]</big>**  |aron <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what [is] |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

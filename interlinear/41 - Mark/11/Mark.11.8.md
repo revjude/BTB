@@ -1,12 +1,12 @@
-**Mark 11:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:8**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many spread their garments in the way: and others cut down branches off the trees, and strawed [them] in the way.
 <small><sub>**BSB:**</sub></small>
 Many in the crowd spread their cloaks on the road, while others spread branches they had cut from the fields.
 <small><sub>**Literal:**</sub></small>
 And many now the cloaks of them spread on the road, others then branches cutting down from the fields and were spreading into <the> way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.7|<< Mark 11:7]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.9|Mark 11:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

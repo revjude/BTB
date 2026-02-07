@@ -1,12 +1,12 @@
-**Luke 9:62
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:62**<big><big>[[Luke.9.57 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Then Jesus declared, “No one who puts his hand to the plow and then looks back is fit for the kingdom of God.”
 <small><sub>**Literal:**</sub></small>
 Said then to him <the> Jesus: No [one] having laid the hand of him upon [the] plow and looking on the [things] back suitable is for the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.61|<< Luke 9:61]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.1|Luke 10:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

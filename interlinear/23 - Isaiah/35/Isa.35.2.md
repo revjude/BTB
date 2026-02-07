@@ -1,4 +1,4 @@
-**Isaiah 35:2** 
+**Isaiah 35:2**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall blossom abundantly, and rejoice even with joy and singing: the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon, they shall see the glory of the LORD, [and] the excellency of our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It will bloom profusely and rejoice with joy and singing. The glory of Lebanon w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.1|<< Isaiah 35:1]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.3|Isaiah 35:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | completely \<to bud>  |**<big>&#8207;[[H6524A\|פָּרֹ֨חַ]]&#8207; </big>**| pa.Ro.ach<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will bud  |**<big>&#8207;[[H6524A\|תִּפְרַ֜ח]]&#8207; </big>**| tif.Rach<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And  Absalom placed Amasa instead of Joab over the force. And Amasa \[was\] a son of a man, and \[the\] name to him \[was\] Ithra the Israelite. This one entered to Abigail, daughter of Nahash, sister of Zeruiah, mother of Joab. 
-<small><sub>**KJV:**</sub></small>
-And Absalom made Amasa captain of the host instead of Joab: which Amasa [was] a man’s son, whose name [was] Ithra an Israelite, that went in to Abigail the daughter of Nahash, sister to Zeruiah Joab’s mother.
-<small><sub>**BSB:**</sub></small>
-Absalom had appointed Amasa over the army in place of Joab. Amasa was the son of a man named Ithra, the Ishmaelite who had married Abigail, the daughter of Nahash and sister of Zeruiah the mother of Joab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.24|<< 2 Samuel 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.26|2 Samuel 17:26 >>]]</td></tr></table>
 
 | Translation | Greek |

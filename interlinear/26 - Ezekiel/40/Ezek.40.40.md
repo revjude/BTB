@@ -1,4 +1,4 @@
-**Ezekiel 40:40** 
+**Ezekiel 40:40**<big><big>[[Ezek.40.38 Eight Tables for Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at the side without, as one goeth up to the entry of the north gate, [were] two tables; and on the other side, which [was] at the porch of the gate, [were] two tables.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Outside, as one goes up to the entrance of the north gateway, there were two tab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.39|<< Ezekiel 40:39]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.41|Ezekiel 40:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the side  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3802\|כָּתֵ֣ף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Tef<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

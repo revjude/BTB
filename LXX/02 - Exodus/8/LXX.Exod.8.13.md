@@ -1,10 +1,7 @@
 **LXX Exodus 8:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> did just as Moses said, and ended the frogs from the houses, and from the properties, and from the fields. 
-<small><sub>**KJV:**</sub></small>
-And the LORD did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields.
-<small><sub>**BSB:**</sub></small>
-And the LORD did as Moses requested, and the frogs in the houses, the courtyards, and the fields died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.12|<< Exodus 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.14|Exodus 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

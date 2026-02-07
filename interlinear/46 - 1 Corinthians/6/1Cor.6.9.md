@@ -1,12 +1,12 @@
-**1 Corinthians 6:9
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:9**<big><big>[[1Cor.6.9 Members of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,
 <small><sub>**BSB:**</sub></small>
 Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral, nor idolaters, nor adulterers, nor men who submit to or perform homosexual acts,
 <small><sub>**Literal:**</sub></small>
 Or surely you know that [the] unrighteous ones of God [the] kingdom not will inherit? Not do be deceived: neither [the] sexually immoral nor idolaters nor adulterers nor effeminate nor homosexuals<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.8|<< 1 Corinthians 6:8]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.10|1 Corinthians 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | surely |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

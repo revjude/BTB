@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:17** 
 <small><sub>**LXX:**</sub></small>
 And the king placed the tribune (upon whom the king rested upon  his hand) over the gate. And the people trampled him at the gate, and he died as the man of God said, who spoke with the messenger coming down to him. 
-<small><sub>**KJV:**</sub></small>
-And the king appointed the lord on whose hand he leaned to have the charge of the gate: and the people trode upon him in the gate, and he died, as the man of God had said, who spake when the king came down to him.
-<small><sub>**BSB:**</sub></small>
-Now the king had appointed the officer on whose arm he leaned to be in charge of the gate, but the people trampled him in the gateway, and he died, just as the man of God had foretold when the king had come to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.16|<< 2 Kings 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.18|2 Kings 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

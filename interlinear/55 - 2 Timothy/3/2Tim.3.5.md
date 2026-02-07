@@ -1,12 +1,12 @@
-**2 Timothy 3:5
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:5**<big><big>[[2Tim.3.1 Evil in the Last Days|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having a form of godliness, but denying the power thereof: from such turn away.
 <small><sub>**BSB:**</sub></small>
 having a form of godliness but denying its power. Turn away from such as these!
 <small><sub>**Literal:**</sub></small>
 having a form of godliness <the> but the power of it already denying. And these do yourself turn away from.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.4|<< 2 Timothy 3:4]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.6|2 Timothy 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having |**<big>[[G2192\|ἔχοντες]]</big>**  |echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a form |**<big>[[G3446\|μόρφωσιν]]</big>**  |morphōsin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:27** 
 <small><sub>**LXX:**</sub></small>
 Thus say to them! Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; \[As\] I live, assuredly the ones in the places being made desolate shall fall by swords, and the ones upon \[the\] face of the plain shall be given to the wild beasts of the field for a thing \[to be\] devoured, and the ones behind the \[places\] being walled, and the ones in the caves I will kill by plague. 
-<small><sub>**KJV:**</sub></small>
-Say thou thus unto them, Thus saith the Lord GOD; [As] I live, surely they that [are] in the wastes shall fall by the sword, and him that [is] in the open field will I give to the beasts to be devoured, and they that [be] in the forts and in the caves shall die of the pestilence.
-<small><sub>**BSB:**</sub></small>
-Tell them that this is what the Lord GOD says: ‘As surely as I live, those in the ruins will fall by the sword, those in the open field I will give to be devoured by wild animals, and those in the strongholds and caves will die by plague.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.26|<< Ezekiel 33:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.28|Ezekiel 33:28 >>]]</td></tr></table>
 
 | Translation | Greek |

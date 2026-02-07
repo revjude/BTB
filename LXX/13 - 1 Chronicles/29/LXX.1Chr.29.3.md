@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:3** 
 <small><sub>**LXX:**</sub></small>
 And still, because of  my favoring to \[the\] house of my God, there is to me gold and silver which I procured; and behold, I give \[it\] for the house of my God, for above \[and\] outside what I prepared for the house of the holy place -- 
-<small><sub>**KJV:**</sub></small>
-Moreover, because I have set my affection to the house of my God, I have of mine own proper good, of gold and silver, [which] I have given to the house of my God, over and above all that I have prepared for the holy house,
-<small><sub>**BSB:**</sub></small>
-Moreover, because of my delight in the house of my God, I now give for it my personal treasures of gold and silver, over and above all that I have provided for this holy temple:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.2|<< 1 Chronicles 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.4|1 Chronicles 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

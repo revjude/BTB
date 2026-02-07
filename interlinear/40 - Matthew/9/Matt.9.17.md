@@ -1,12 +1,12 @@
-**Matthew 9:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:17**<big><big>[[Matt.9.16 The Patches and the Wineskins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.
 <small><sub>**BSB:**</sub></small>
 Neither do men pour new wine into old wineskins. If they do, the skins will burst, the wine will spill, and the wineskins will be ruined. Instead, they pour new wine into new wineskins, and both are preserved.”
 <small><sub>**Literal:**</sub></small>
 Nor pour they wine new into wineskins old; lest then except indeed are burst the wineskins, and the wine is poured out and the wineskins are ruined. But they pour wine new into wineskins new, and both are preserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.16|<< Matthew 9:16]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.18|Matthew 9:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nor |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | pour they |**<big>[[G0906H\|βάλλουσιν]]</big>**  |ballousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

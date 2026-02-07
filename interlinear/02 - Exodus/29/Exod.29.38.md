@@ -1,4 +1,4 @@
-**Exodus 29:38** 
+**Exodus 29:38**<big><big>[[Exod.29.38 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now this [is that] which thou shalt offer upon the altar; two lambs of the first year day by day continually.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is what you are to offer regularly on the altar, each day: two lambs that a
 > $\quad$ referenced by: [[Heb.10.11|Heb 10:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

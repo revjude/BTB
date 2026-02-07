@@ -1,4 +1,4 @@
-**Deuteronomy 5:27** 
+**Deuteronomy 5:27**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear [it], and do [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go near and listen to all that the LORD our God says. Then you can tell us every
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.26|<< Deuteronomy 5:26]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.28|Deuteronomy 5:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | draw near  |**<big>&#8207;[[H7126G\|קְרַ֤ב]]&#8207; </big>**| ke.Rav<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

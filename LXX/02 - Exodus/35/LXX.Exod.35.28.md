@@ -1,10 +1,7 @@
 **LXX Exodus 35:28** 
 <small><sub>**LXX:**</sub></small>
 and the compositions, and for the oil of the anointing, and the composition of the incense. 
-<small><sub>**KJV:**</sub></small>
-And spice, and oil for the light, and for the anointing oil, and for the sweet incense.
-<small><sub>**BSB:**</sub></small>
-as well as spices and olive oil for the light, for the anointing oil, and for the fragrant incense.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.27|<< Exodus 35:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.29|Exodus 35:29 >>]]</td></tr></table>
 
 | Translation | Greek |

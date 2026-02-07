@@ -1,10 +1,7 @@
 **LXX Isaiah 65:13** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says \[the\] <span class="smallcaps">lord</span>, Behold, the ones serving to me shall eat, but you shall hunger. Behold,  my servants shall drink, but you shall thirst. Behold, the ones serving me shall be glad, but you shall be ashamed. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD, Behold, my servants shall eat, but ye shall be hungry: behold, my servants shall drink, but ye shall be thirsty: behold, my servants shall rejoice, but ye shall be ashamed:
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: “My servants will eat, but you will go hungry; My servants will drink, but you will go thirsty; My servants will rejoice, but you will be put to shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.12|<< Isaiah 65:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.14|Isaiah 65:14 >>]]</td></tr></table>
 
 | Translation | Greek |

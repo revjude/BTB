@@ -1,10 +1,7 @@
 **LXX Daniel 3:8** 
 <small><sub>**LXX:**</sub></small>
 Then Chaldean men came forward, and they accused the Jews. And undertaking, they said to king Nebuchadnezzar, 
-<small><sub>**KJV:**</sub></small>
-Wherefore at that time certain Chaldeans came near, and accused the Jews.
-<small><sub>**BSB:**</sub></small>
-At this time some astrologers came forward and maliciously accused the Jews,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.7|<< Daniel 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.9|Daniel 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

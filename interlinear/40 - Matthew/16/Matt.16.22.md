@@ -1,12 +1,12 @@
-**Matthew 16:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:22**<big><big>[[Matt.16.21 Christ’s Passion Foretold|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.
 <small><sub>**BSB:**</sub></small>
 Peter took Him aside and began to rebuke Him. “Far be it from You, Lord!” he said. “This shall never happen to You!”
 <small><sub>**Literal:**</sub></small>
 And having taken aside Him <the> Peter began to rebuke Him saying; Far be it from You, Lord; certainly not will be to You this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.21|<< Matthew 16:21]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.23|Matthew 16:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken aside |**<big>[[G4355\|προσλαβόμενος]]</big>**  |proslabomenos <small><sup>[[V-2AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:36** 
 <small><sub>**LXX:**</sub></small>
 And your servant beat the lion and the bear, and this uncircumcised Philistine will be as one of these who berates \[the\] battle array of \[the\] living God. 
-<small><sub>**KJV:**</sub></small>
-Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God.
-<small><sub>**BSB:**</sub></small>
-Your servant has killed lions and bears; this uncircumcised Philistine will be like one of them, for he has defied the armies of the living God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.35|<< 1 Samuel 17:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.37|1 Samuel 17:37 >>]]</td></tr></table>
 
 | Translation | Greek |

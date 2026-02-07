@@ -1,12 +1,12 @@
-**1 John 2:14
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:14**<big><big>[[1John.2.7 A New Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I have written unto you, fathers, because ye have known him [that is] from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.
 <small><sub>**BSB:**</sub></small>
 I have written to you, fathers, because you know Him who is from the beginning. I have written to you, young men, because you are strong, and the word of God abides in you, and you have overcome the evil one.
 <small><sub>**Literal:**</sub></small>
 I have written to you, little children, because you have known the Father. [14] I have written to you, fathers, because you have known Him who [is] from [the] beginning. I have written to you, young men, because strong you are and the word <the> of God in you abides and you have overcome the evil [one].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.13|<< 1 John 2:13]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.15|1 John 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have written [^1] |**<big>[[G1125\|Ἔγραψα]]</big>**  |Egrapsa <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr>[^2] | |
 | to you, |**<big>[[G4771\|ὑμῖν,]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^3] | |

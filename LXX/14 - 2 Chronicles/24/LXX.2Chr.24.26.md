@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:26** 
 <small><sub>**LXX:**</sub></small>
 And the ones assailing against him -- Zabad son of Shimeath the Ammonitess, and Jehozabad son of Shimrith the Moabitess. 
-<small><sub>**KJV:**</sub></small>
-And these are they that conspired against him; Zabad the son of Shimeath an Ammonitess, and Jehozabad the son of Shimrith a Moabitess.
-<small><sub>**BSB:**</sub></small>
-Those who conspired against Joash were Zabad son of Shimeath the Ammonitess and Jehozabad son of Shimrith the Moabitess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.25|<< 2 Chronicles 24:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.27|2 Chronicles 24:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 82:4** 
 <small><sub>**LXX:**</sub></small>
 Deliver \[the\] needy and \[the\] poor! rescue him from \[the\] hand of \[the\] sinner! 
-<small><sub>**KJV:**</sub></small>
-Deliver the poor and needy: rid [them] out of the hand of the wicked.
-<small><sub>**BSB:**</sub></small>
-Rescue the weak and needy; save them from the hand of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.82.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.82.3|<< Psalm 82:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.82.5|Psalm 82:5 >>]]</td></tr></table>
 
 | Translation | Greek |

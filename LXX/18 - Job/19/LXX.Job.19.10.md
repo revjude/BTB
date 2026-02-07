@@ -1,10 +1,7 @@
 **LXX Job 19:10** 
 <small><sub>**LXX:**</sub></small>
 He pulled me apart round about, and I am set out; and he cut down my hope as if a tree. 
-<small><sub>**KJV:**</sub></small>
-He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.
-<small><sub>**BSB:**</sub></small>
-He tears me down on every side until I am gone; He uproots my hope like a tree.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.9|<< Job 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.11|Job 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

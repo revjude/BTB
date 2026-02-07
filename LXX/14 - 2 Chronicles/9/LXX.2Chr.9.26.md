@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:26** 
 <small><sub>**LXX:**</sub></small>
 And he was leader of all the kings from the river and unto \[the\] land of \[the\] Philistines, and unto the border of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And he reigned over all the kings from the river even unto the land of the Philistines, and to the border of Egypt.
-<small><sub>**BSB:**</sub></small>
-He reigned over all the kings from the Euphrates to the land of the Philistines, as far as the border of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.25|<< 2 Chronicles 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.27|2 Chronicles 9:27 >>]]</td></tr></table>
 
 | Translation | Greek |

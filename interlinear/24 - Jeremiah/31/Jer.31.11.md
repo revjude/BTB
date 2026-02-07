@@ -1,4 +1,4 @@
-**Jeremiah 31:11** 
+**Jeremiah 31:11**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath redeemed Jacob, and ransomed him from the hand of [him that was] stronger than he.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD has ransomed Jacob and redeemed him from the hand that had overpowe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.10|<< Jeremiah 31:10]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.12|Jeremiah 31:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has ransomed  |**<big>&#8207;[[H6299\|פָדָ֥ה]]&#8207; </big>**| fa.Dah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

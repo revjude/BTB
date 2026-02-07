@@ -1,4 +1,4 @@
-**Judges 5:29** 
+**Judges 5:29**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her wise ladies answered her, yea, she returned answer to herself,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her wisest ladies answer; indeed she keeps telling herself,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.28|<< Judges 5:28]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.30|Judges 5:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] wise [women] of  |**<big>&#8207;[[H2450\|חַכְמ֥וֹת]]&#8207; </big>**| chakh.Mot<small><sup>[[HAafpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | noble ladies her  |**<big>&#8207;[[H8282\|שָׂרוֹתֶ֖י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| sa.ro.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

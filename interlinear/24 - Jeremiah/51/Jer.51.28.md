@@ -1,4 +1,4 @@
-**Jeremiah 51:28** 
+**Jeremiah 51:28**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prepare against her the nations with the kings of the Medes, the captains thereof, and all the rulers thereof, and all the land of his dominion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Prepare the nations for battle against her—the kings of the Medes, their gover
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.27|<< Jeremiah 51:27]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.29|Jeremiah 51:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | consecrate  |**<big>&#8207;[[H6942J\|קַדְּשׁ֨וּ]]&#8207; </big>**| ka.de.Shu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלֶ֤י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 7:14** 
+**Ezekiel 7:14**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have blown the trumpet, even to make all ready; but none goeth to the battle: for my wrath [is] upon all the multitude thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have blown the trumpet and made everything ready, but no one goes to war, f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.13|<< Ezekiel 7:13]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.15|Ezekiel 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have given a blast  |**<big>&#8207;[[H8628\|תָּקְע֤וּ]]&#8207; </big>**| ta.ke.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the trumpet  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8619\|תָּק֙וֹעַ֙]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> ta.Ko.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

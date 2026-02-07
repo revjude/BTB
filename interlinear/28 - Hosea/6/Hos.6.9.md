@@ -1,4 +1,4 @@
-**Hosea 6:9** 
+**Hosea 6:9**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as troops of robbers wait for a man, [so] the company of priests murder in the way by consent: for they commit lewdness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like raiders who lie in ambush, so does a band of priests; they murder on the wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.8|<< Hosea 6:8]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.10|Hosea 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and as wait for  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H2442\|חַכֵּ֨י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> cha.Kei<small><sup>[[HVprmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0376G\|אִ֜ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

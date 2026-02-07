@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:25** 
 <small><sub>**LXX:**</sub></small>
 And if you should enter into \[the\] harvest \[field\]  of your neighbor, then you may collect together corn in your hands; but \[the\] sickle in no way shall be put upon the harvest  of your neighbor. 
-<small><sub>**KJV:**</sub></small>
-When thou comest into the standing corn of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour’s standing corn.
-<small><sub>**BSB:**</sub></small>
-When you enter your neighbor’s grainfield, you may pluck the heads of grain with your hand, but you must not put a sickle to your neighbor’s grain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.24|<< Deuteronomy 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.1|Deuteronomy 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

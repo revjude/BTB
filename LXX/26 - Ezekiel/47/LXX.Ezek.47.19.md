@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:19** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the \[borders\] towards \[the\] south and southwest from Teman, and Palm-grove unto \[the\] water of Mariboth Kadesh, reaching forth unto the great sea -- this  part \[is the\] south and southwest. 
-<small><sub>**KJV:**</sub></small>
-And the south side southward, from Tamar [even] to the waters of strife [in] Kadesh, the river to the great sea. And [this is] the south side southward.
-<small><sub>**BSB:**</sub></small>
-On the south side it will run from Tamar to the waters of Meribath-kadesh, and along the Brook of Egypt to the Great Sea. This will be the southern boundary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.18|<< Ezekiel 47:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.20|Ezekiel 47:20 >>]]</td></tr></table>
 
 | Translation | Greek |

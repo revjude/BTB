@@ -1,10 +1,7 @@
 **LXX Psalm 27:5** 
 <small><sub>**LXX:**</sub></small>
 For he hides me in his tent; in a day of my evils he sheltered me in concealment  of his tent; in a rock he raised me up high. 
-<small><sub>**KJV:**</sub></small>
-For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.
-<small><sub>**BSB:**</sub></small>
-For in the day of trouble He will hide me in His shelter; He will conceal me under the cover of His tent; He will set me high upon a rock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.4|<< Psalm 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.6|Psalm 27:6 >>]]</td></tr></table>
 
 | Translation | Greek |

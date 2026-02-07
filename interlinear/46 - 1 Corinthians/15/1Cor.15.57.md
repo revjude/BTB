@@ -1,12 +1,12 @@
-**1 Corinthians 15:57
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:57**<big><big>[[1Cor.15.50 Where, O Death, Is Your Victory？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But thanks [be] to God, which giveth us the victory through our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 But thanks be to God, who gives us the victory through our Lord Jesus Christ!
 <small><sub>**Literal:**</sub></small>
 <the> however to God [be] thanks who is giving us the victory through the Lord of us Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.56|<< 1 Corinthians 15:56]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.58|1 Corinthians 15:58 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τῷ]]</big>**  |Tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

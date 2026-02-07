@@ -1,12 +1,12 @@
-**Acts 7:54
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:54**<big><big>[[Acts.7.54 The Stoning of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When they heard these things, they were cut to the heart, and they gnashed on him with [their] teeth.
 <small><sub>**BSB:**</sub></small>
 On hearing this, the members of the Sanhedrin were enraged, and they gnashed their teeth at him.
 <small><sub>**Literal:**</sub></small>
 Hearing now these things they felt cut up in the hearts of them and were gnashing the teeth at him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.53|<< Acts 7:53]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.55|Acts 7:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hearing |**<big>[[G0191\|Ἀκούοντες]]</big>**  |Akouontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

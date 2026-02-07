@@ -1,10 +1,7 @@
 **LXX Numbers 35:32** 
 <small><sub>**LXX:**</sub></small>
 And you shall not take ransoms for the one fleeing into a city of the places of refuge,  to again dwell in the land, until whenever the great priest should die. 
-<small><sub>**KJV:**</sub></small>
-And ye shall take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest.
-<small><sub>**BSB:**</sub></small>
-Nor should you accept a ransom for the person who flees to a city of refuge and allow him to return and live on his own land before the death of the high priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.31|<< Numbers 35:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.33|Numbers 35:33 >>]]</td></tr></table>
 
 | Translation | Greek |

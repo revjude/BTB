@@ -1,4 +1,4 @@
-**Daniel 8:3** 
+**Daniel 8:3**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had [two] horns: and the [two] horns [were] high; but one [was] higher than the other, and the higher came up last.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I lifted up my eyes and saw a ram with two horns standing beside the canal.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.2|<< Daniel 8:2]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.4|Daniel 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I lifted up  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5375M\|אֶשָּׂ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Sa'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes my  |**<big>&#8207;[[H5869A\|עֵינַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

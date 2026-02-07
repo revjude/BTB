@@ -1,10 +1,7 @@
 **LXX Job 35:10** 
 <small><sub>**LXX:**</sub></small>
 And \[one\] said not, Where is the God  who made me, the one delegating \[the\] nightly watches; 
-<small><sub>**KJV:**</sub></small>
-But none saith, Where [is] God my maker, who giveth songs in the night;
-<small><sub>**BSB:**</sub></small>
-But no one asks, ‘Where is God my Maker, who gives us songs in the night,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.35.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.9|<< Job 35:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.11|Job 35:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 18:27** 
 <small><sub>**LXX:**</sub></small>
 And Abraham responding said, Now \[that\] I began to speak to  my Lord, and I am earth and ashes. 
-<small><sub>**KJV:**</sub></small>
-And Abraham answered and said, Behold now, I have taken upon me to speak unto the Lord, which [am but] dust and ashes:
-<small><sub>**BSB:**</sub></small>
-Then Abraham answered, “Now that I have ventured to speak to the Lord—though I am but dust and ashes—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.26|<< Genesis 18:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.28|Genesis 18:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 10:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:15**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town.
 <small><sub>**Literal:**</sub></small>
 Amen I say to you; More tolerable it will be for [the] land of Sodom and of Gomorrah on day of judgment than the city for that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.14|<< Matthew 10:14]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.16|Matthew 10:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Revelation 9:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:4**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it was commanded them that they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men which have not the seal of God in their foreheads.
 <small><sub>**BSB:**</sub></small>
 They were told not to harm the grass of the earth or any plant or tree, but only those who did not have the seal of God on their foreheads.
@@ -10,7 +10,7 @@ And it was said to them that not they will harm the grass of the earth nor any g
 > $\quad$ alluding to: [[LXX.Ezek.9.6|Ezek 9:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it was said |**<big>[[G2046\|ἐρρέθη]]</big>**  |errethē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

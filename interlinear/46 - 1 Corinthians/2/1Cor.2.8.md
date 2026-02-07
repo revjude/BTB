@@ -1,12 +1,12 @@
-**1 Corinthians 2:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:8**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which none of the princes of this world knew: for had they known [it], they would not have crucified the Lord of glory.
 <small><sub>**BSB:**</sub></small>
 None of the rulers of this age understood it. For if they had, they would not have crucified the Lord of glory.
 <small><sub>**Literal:**</sub></small>
 which none of the rulers <the> age of this has understood; if for they had understood [it], not then would the Lord <the> of glory they crucified,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.7|<< 1 Corinthians 2:7]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.9|1 Corinthians 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | none |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

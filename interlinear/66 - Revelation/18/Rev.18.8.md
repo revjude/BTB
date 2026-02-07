@@ -1,5 +1,5 @@
-**Revelation 18:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:8**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore shall her plagues come in one day, death, and mourning, and famine; and she shall be utterly burned with fire: for strong [is] the Lord God who judgeth her.
 <small><sub>**BSB:**</sub></small>
 Therefore her plagues will come in one day—death and grief and famine—and she will be consumed by fire, for mighty is the Lord God who judges her.”
@@ -10,7 +10,7 @@ Because of this in one day will come the plagues of her, death and misery and fa
 > $\quad$ alluding to: [[LXX.Isa.47.7|Isa 47:7]] ☩ [[LXX.Jer.50.31|Jer 50:31]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

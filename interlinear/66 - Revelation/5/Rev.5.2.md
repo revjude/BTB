@@ -1,12 +1,12 @@
-**Revelation 5:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:2**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?
 <small><sub>**BSB:**</sub></small>
 And I saw a mighty angel proclaiming in a loud voice, “Who is worthy to break the seals and open the scroll?”
 <small><sub>**Literal:**</sub></small>
 And I saw an angel strong proclaiming in a voice loud; Who is worthy to open the scroll and to break the seals of it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.1|<< Revelation 5:1]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.3|Revelation 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 25:17** 
+**Deuteronomy 25:17**<big><big>[[Deut.25.17 Revenge on the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember what the Amalekites did to you along your way from Egypt,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.16|<< Deuteronomy 25:16]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.18|Deuteronomy 25:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זָכ֕וֹר]]&#8207; </big>**| za.Khor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֛ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

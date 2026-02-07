@@ -1,4 +1,4 @@
-**1 Samuel 14:14** 
+**1 Samuel 14:14**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that first slaughter, which Jonathan and his armourbearer made, was about twenty men, within as it were an half acre of land, [which] a yoke [of oxen might plow].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In that first assault, Jonathan and his armor-bearer struck down about twenty me
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.13|<< 1 Samuel 14:13]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.15|1 Samuel 14:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִ֞י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the slaughter  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4347\|מַּכָּ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

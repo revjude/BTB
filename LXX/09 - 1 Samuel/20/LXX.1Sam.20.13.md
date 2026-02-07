@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:13** 
 <small><sub>**LXX:**</sub></small>
 Thus God do  to Jonathan, and thus add to it, if I will not bring the evils unto you, and I will uncover  your ear, and I will send you, and you will go in peace. And \[the\] <span class="smallcaps">lord</span> will be with you, as he was with  my father. 
-<small><sub>**KJV:**</sub></small>
-The LORD do so and much more to Jonathan: but if it please my father [to do] thee evil, then I will shew it thee, and send thee away, that thou mayest go in peace: and the LORD be with thee, as he hath been with my father.
-<small><sub>**BSB:**</sub></small>
-But if my father intends to bring evil on you, then may the LORD punish me, and ever so severely, if I do not tell you and send you on your way in safety. May the LORD be with you, just as He has been with my father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.12|<< 1 Samuel 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.14|1 Samuel 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

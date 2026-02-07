@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 6:7** 
 <small><sub>**LXX:**</sub></small>
 Every effort of man \[is\] for his mouth, and indeed the soul shall not be filled. 
-<small><sub>**KJV:**</sub></small>
-All the labour of man [is] for his mouth, and yet the appetite is not filled.
-<small><sub>**BSB:**</sub></small>
-All a man’s labor is for his mouth, yet his appetite is never satisfied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.6|<< Ecclesiastes 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.8|Ecclesiastes 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

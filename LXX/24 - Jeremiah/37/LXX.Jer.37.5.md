@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] force of Pharaoh came forth from out of Egypt. And the Chaldeans heard the report of them, and they ascended unto Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Then Pharaoh’s army was come forth out of Egypt: and when the Chaldeans that besieged Jerusalem heard tidings of them, they departed from Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Pharaoh’s army had left Egypt, and when the Chaldeans who were besieging Jerusalem heard the report, they withdrew from Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.4|<< Jeremiah 37:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.6|Jeremiah 37:6 >>]]</td></tr></table>
 
 | Translation | Greek |

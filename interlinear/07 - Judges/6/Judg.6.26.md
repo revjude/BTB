@@ -1,4 +1,4 @@
-**Judges 6:26** 
+**Judges 6:26**<big><big>[[Judg.6.25 Gideon Destroys Baal’s Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And build an altar unto the LORD thy God upon the top of this rock, in the ordered place, and take the second bullock, and offer a burnt sacrifice with the wood of the grove which thou shalt cut down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then build a proper altar to the LORD your God on the top of this stronghold. An
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.25|<< Judges 6:25]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.27|Judges 6:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will build  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1129\|בָנִ֨יתָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Ni.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an altar  |**<big>&#8207;[[H4196\|מִזְבֵּ֜חַ]]&#8207; </big>**| miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

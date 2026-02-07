@@ -1,10 +1,7 @@
 **LXX Psalm 23:5** 
 <small><sub>**LXX:**</sub></small>
 You prepared before me a table, right opposite the ones afflicting me. You anointed my head with oil, and  your cup is intoxicating me as most excellent. 
-<small><sub>**KJV:**</sub></small>
-Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.
-<small><sub>**BSB:**</sub></small>
-You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.23.4|<< Psalm 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.23.6|Psalm 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 39:14** 
+**Jeremiah 39:14**<big><big>[[Jer.39.11 Jeremiah Delivered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even they sent, and took Jeremiah out of the court of the prison, and committed him unto Gedaliah the son of Ahikam the son of Shaphan, that he should carry him home: so he dwelt among the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ had Jeremiah brought from the courtyard of the guard, and they turned him over t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.13|<< Jeremiah 39:13]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.15|Jeremiah 39:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלְחוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.le.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they fetched  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקְח֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

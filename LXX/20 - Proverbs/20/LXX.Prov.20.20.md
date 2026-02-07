@@ -1,10 +1,7 @@
 **LXX Proverbs 20:20** 
 <small><sub>**LXX:**</sub></small>
 One speaking evil of father or mother, \[his\] torch shall be extinguished; and the pupils  of his eyes shall see darkness. 
-<small><sub>**KJV:**</sub></small>
-Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.
-<small><sub>**BSB:**</sub></small>
-Whoever curses his father or mother, his lamp will be extinguished in deepest darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.19|<< Proverbs 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.21|Proverbs 20:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Proverbs 20:20** is...

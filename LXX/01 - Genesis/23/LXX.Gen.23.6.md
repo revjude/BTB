@@ -1,10 +1,7 @@
 **LXX Genesis 23:6** 
 <small><sub>**LXX:**</sub></small>
 But hear us; you are with us \[as a\] king by God. You entomb your dead in our choice sepulchres! for not one of us in any way will withhold  his sepulchre from you  to entomb  your dead there. 
-<small><sub>**KJV:**</sub></small>
-Hear us, my lord: thou [art] a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead.
-<small><sub>**BSB:**</sub></small>
-“Listen to us, sir. You are God’s chosen one among us. Bury your dead in the finest of our tombs. None of us will withhold his tomb for burying your dead.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.5|<< Genesis 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.7|Genesis 23:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:31** 
 <small><sub>**LXX:**</sub></small>
 And they come to you as a people going with \[one another\], and they sit down before you, and they hear  your sayings, but in no way will they do them, for \[the\] lie \[is\] in  their mouth, and their heart goes after their defilements. 
-<small><sub>**KJV:**</sub></small>
-And they come unto thee as the people cometh, and they sit before thee [as] my people, and they hear thy words, but they will not do them: for with their mouth they shew much love, [but] their heart goeth after their covetousness.
-<small><sub>**BSB:**</sub></small>
-So My people come to you as usual, sit before you, and hear your words; but they do not put them into practice. Although they express love with their mouths, their hearts pursue dishonest gain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.30|<< Ezekiel 33:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.32|Ezekiel 33:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 33:31** is...

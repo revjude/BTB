@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:16** 
 <small><sub>**LXX:**</sub></small>
 And Shaphan carried the scroll to the king, and he gave yet to the king a word, saying, All the money was rendered into \[the\] hand  of your servants of the ones doing the work. 
-<small><sub>**KJV:**</sub></small>
-And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do [it].
-<small><sub>**BSB:**</sub></small>
-Then Shaphan brought the book to the king and reported, “Your servants are doing all that has been placed in their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.15|<< 2 Chronicles 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.17|2 Chronicles 34:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 6:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:1**<big><big>[[Acts.6.1 The Choosing of the Seven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.
 <small><sub>**BSB:**</sub></small>
 In those days when the disciples were increasing in number, the Grecian Jews among them began to grumble against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.
 <small><sub>**Literal:**</sub></small>
 In now <the> days these when are multiplying the disciples there arose a grumbling of the Hellenists against the Hebrews, because were being overlooked in the distribution <the> daily the widows of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.42|<< Acts 5:42]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.2|Acts 6:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Chronicles 23:13** 
+**2 Chronicles 23:13**<big><big>[[2Chr.23.12 The Death of Athaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And she looked and saw the king standing by his pillar at the entrance. The offi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.12|<< 2 Chronicles 23:12]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.14|2 Chronicles 23:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תֵּ֡רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.re'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

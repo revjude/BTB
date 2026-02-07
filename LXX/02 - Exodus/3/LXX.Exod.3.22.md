@@ -1,10 +1,7 @@
 **LXX Exodus 3:22** 
 <small><sub>**LXX:**</sub></small>
 But a woman will ask from her neighbor and fellow tent-dweller of items of silver, and of gold, and clothes. And you will place \[them\] upon  your sons, and upon  your daughters, and you will despoil the Egyptians. 
-<small><sub>**KJV:**</sub></small>
-But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put [them] upon your sons, and upon your daughters; and ye shall spoil the Egyptians.
-<small><sub>**BSB:**</sub></small>
-Every woman shall ask her neighbor and any woman staying in her house for silver and gold jewelry and clothing, and you will put them on your sons and daughters. So you will plunder the Egyptians.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.21|<< Exodus 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.1|Exodus 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

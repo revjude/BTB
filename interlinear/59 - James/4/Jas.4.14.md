@@ -1,12 +1,12 @@
-**James 4:14
-**<small><sub>**KJV:**</sub></small>
+**James 4:14**<big><big>[[Jas.4.13 Do Not Boast about Tomorrow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whereas ye know not what [shall be] on the morrow. For what [is] your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.
 <small><sub>**BSB:**</sub></small>
 You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes.
 <small><sub>**Literal:**</sub></small>
 [you] who not you know what [is] on the next day [is] What [is] for the life of you! A vapor just you are <the> for a little [while] appearing then and also vanishing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.13|<< James 4:13]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.15|James 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [you] who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 3:20** 
 <small><sub>**LXX:**</sub></small>
 And Adam called the name  of his wife, Zoe, for she was mother of all the living. 
-<small><sub>**KJV:**</sub></small>
-And Adam called his wife’s name Eve; because she was the mother of all living.
-<small><sub>**BSB:**</sub></small>
-And Adam named his wife Eve, because she would be the mother of all the living.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.19|<< Genesis 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.21|Genesis 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

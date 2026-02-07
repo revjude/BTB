@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, For the three impious deeds of Gaza, and for the four, I will not turn away from them. Because of  their capturing \[the\] captivity  of Solomon,  to close \[them\] up in  Edom. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; For three transgressions of Gaza, and for four, I will not turn away [the punishment] thereof; because they carried away captive the whole captivity, to deliver [them] up to Edom:
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “For three transgressions of Gaza, even four, I will not revoke My judgment, because they exiled a whole population, delivering them up to Edom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.5|<< Amos 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.7|Amos 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

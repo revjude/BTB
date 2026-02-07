@@ -1,4 +1,4 @@
-**Ezekiel 21:9** (21:14)
+**Ezekiel 21:9**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, prophesy, and say, Thus saith the LORD; Say, A sword, a sword is sharpened, and also furbished:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Son of man, prophesy, and say, Thus saith the LORD; Say, A sword, a sword is sha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.8|<< Ezekiel 21:8]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.10|Ezekiel 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֕ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

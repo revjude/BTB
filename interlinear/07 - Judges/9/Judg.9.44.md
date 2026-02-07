@@ -1,4 +1,4 @@
-**Judges 9:44** 
+**Judges 9:44**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech, and the company that [was] with him, rushed forward, and stood in the entering of the gate of the city: and the two [other] companies ran upon all [the people] that [were] in the fields, and slew them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Abimelech and the companies with him rushed forward and took their stand at
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.43|<< Judges 9:43]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.45|Judges 9:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abimelech  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0040H\|אֲבִימֶ֗לֶךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the companies  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7218K\|רָאשִׁים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

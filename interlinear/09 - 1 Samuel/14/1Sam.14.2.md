@@ -1,4 +1,4 @@
-**1 Samuel 14:2** 
+**1 Samuel 14:2**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul tarried in the uttermost part of Gibeah under a pomegranate tree which [is] in Migron: and the people that [were] with him [were] about six hundred men;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, Saul was staying under the pomegranate tree in Migron on the outskirt
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.1|<< 1 Samuel 14:1]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.3|1 Samuel 14:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Saul  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7586G\|שָׁא֗וּל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] remaining  |**<big>&#8207;[[H3427\|יוֹשֵׁב֙]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 16:2** 
 <small><sub>**LXX:**</sub></small>
 For you shall be as a young winged creature flying about being removed, O daughter of Moab; and thereupon, O Arnon. 
-<small><sub>**KJV:**</sub></small>
-For it shall be, [that], as a wandering bird cast out of the nest, [so] the daughters of Moab shall be at the fords of Arnon.
-<small><sub>**BSB:**</sub></small>
-Like fluttering birds pushed out of the nest, so are the daughters of Moab at the fords of the Arnon:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.1|<< Isaiah 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.3|Isaiah 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

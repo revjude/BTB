@@ -1,4 +1,4 @@
-**Judges 20:35** 
+**Judges 20:35**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD smote Benjamin before Israel: and the children of Israel destroyed of the Benjamites that day twenty and five thousand and an hundred men: all these drew the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD defeated Benjamin in the presence of Israel, and on that day the Israel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.34|<< Judges 20:34]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.36|Judges 20:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he defeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5062\|יִּגֹּ֨ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Gof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

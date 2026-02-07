@@ -1,4 +1,4 @@
-**Ecclesiastes 8:3** 
+**Ecclesiastes 8:3**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not hasten to leave his presence, and do not persist in a bad cause, for he w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.2|<< Ecclesiastes 8:2]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.4|Ecclesiastes 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be hasty  |**<big>&#8207;[[H0926\|תִּבָּהֵ֤ל]]&#8207; </big>**| ti.ba.Hel<small><sup>[[HVNj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

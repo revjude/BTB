@@ -1,4 +1,4 @@
-**Exodus 26:7** 
+**Exodus 26:7**<big><big>[[Exod.26.7 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make curtains [of] goats’ [hair] to be a covering upon the tabernacle: eleven curtains shalt thou make.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to make curtains of goat hair for the tent over the tabernacle—eleven 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.6|<< Exodus 26:6]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.8|Exodus 26:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֙יתָ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | curtains of  |**<big>&#8207;[[H3407\|יְרִיעֹ֣ת]]&#8207; </big>**| ye.ri.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

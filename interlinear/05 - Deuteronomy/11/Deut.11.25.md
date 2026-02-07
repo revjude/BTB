@@ -1,4 +1,4 @@
-**Deuteronomy 11:25** 
+**Deuteronomy 11:25**<big><big>[[Deut.11.18 Remember God’s Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall no man be able to stand before you: [for] the LORD your God shall lay the fear of you and the dread of you upon all the land that ye shall tread upon, as he hath said unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No man will be able to stand against you; the LORD your God will put the fear an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.24|<< Deuteronomy 11:24]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.26|Deuteronomy 11:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will stand  |**<big>&#8207;[[H3320\|יִתְיַצֵּ֥ב]]&#8207; </big>**| yit.ya.Tzev<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

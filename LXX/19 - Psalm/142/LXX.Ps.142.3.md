@@ -1,10 +1,7 @@
 **LXX Psalm 142:3** 
 <small><sub>**LXX:**</sub></small>
 In  my spirit failing from me, then you knew  my paths; in this \[very\] way that I went, they hid a snare for me. 
-<small><sub>**KJV:**</sub></small>
-When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me.
-<small><sub>**BSB:**</sub></small>
-Although my spirit grows faint within me, You know my way. Along the path I travel they have hidden a snare for me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.142.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.2|<< Psalm 142:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.4|Psalm 142:4 >>]]</td></tr></table>
 
 | Translation | Greek |

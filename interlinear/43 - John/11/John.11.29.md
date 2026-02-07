@@ -1,12 +1,12 @@
-**John 11:29
-**<small><sub>**KJV:**</sub></small>
+**John 11:29**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As soon as she heard [that], she arose quickly, and came unto him.
 <small><sub>**BSB:**</sub></small>
 And when Mary heard this, she got up quickly and went to Him.
 <small><sub>**Literal:**</sub></small>
 She then when she heard [she] rose up quickly and was coming to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.28|<< John 11:28]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.30|John 11:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | She |**<big>[[G1565\|ἐκείνη]]</big>**  |ekeinē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 15:10** 
 <small><sub>**LXX:**</sub></small>
 You sent  your breath, \[the\] sea covered them; they went down as lead in vehement water. 
-<small><sub>**KJV:**</sub></small>
-Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.
-<small><sub>**BSB:**</sub></small>
-But You blew with Your breath, and the sea covered them. They sank like lead in the mighty waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.9|<< Exodus 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.11|Exodus 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

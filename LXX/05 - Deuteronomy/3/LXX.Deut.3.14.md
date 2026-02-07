@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:14** 
 <small><sub>**LXX:**</sub></small>
 And Jair son of Manasseh took all the place round about Argob, unto the borders of \[the\] Geshurites and Maachathites. And he named them after  his name --  Bashan Havoth Jair until  this day. 
-<small><sub>**KJV:**</sub></small>
-Jair the son of Manasseh took all the country of Argob unto the coasts of Geshuri and Maachathi; and called them after his own name, Bashanhavothjair, unto this day.
-<small><sub>**BSB:**</sub></small>
-Jair, a descendant of Manasseh, took the whole region of Argob as far as the border of the Geshurites and Maacathites. He renamed Bashan after himself, Havvoth-jair, by which it is called to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.13|<< Deuteronomy 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.15|Deuteronomy 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

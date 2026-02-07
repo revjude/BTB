@@ -1,10 +1,7 @@
 **LXX Isaiah 41:25** 
 <small><sub>**LXX:**</sub></small>
 But I raised up the one from \[the\] north, and the one from \[the\] sun eastward; they shall be called  by my name; \[the\] rulers come! and as clay of a potter, and as a potter trampling down the clay, so you shall be trampled. 
-<small><sub>**KJV:**</sub></small>
-I have raised up [one] from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as [upon] morter, and as the potter treadeth clay.
-<small><sub>**BSB:**</sub></small>
-I have raised up one from the north, and he has come—one from the east who calls on My name. He will march over rulers as if they were mortar, like a potter who treads the clay.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.24|<< Isaiah 41:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.26|Isaiah 41:26 >>]]</td></tr></table>
 
 | Translation | Greek |

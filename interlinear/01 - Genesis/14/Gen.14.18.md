@@ -1,4 +1,4 @@
-**Genesis 14:18** 
+**Genesis 14:18**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Melchizedek king of Salem brought forth bread and wine: and he [was] the priest of the most high God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then Melchizedek king of Salem brought out bread and wine—since he was priest 
 > $\quad$ referenced by: [[Heb.7.1|Heb 7:1-2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Melchi-  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4442\|מַלְכִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.ki-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -zedek  |**<big>&#8207;[[H4442\|צֶ֙דֶק֙]]&#8207; </big>**| tze.dek<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

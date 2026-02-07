@@ -1,4 +1,4 @@
-**Psalms 89:4** (89:5)
+**Psalms 89:4**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy seed will I establish for ever, and build up thy throne to all generations. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Thy seed will I establish for ever, and build up thy throne to all generations. 
 > $\quad$ referenced by: [[John.7.42|John 7:42]] ☩ [[Acts.2.30|Acts 2:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | perpetuity  |**<big>&#8207;[[H5769G\|ע֭וֹלָם]]&#8207; </big>**| o.lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

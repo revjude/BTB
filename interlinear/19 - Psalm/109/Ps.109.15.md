@@ -1,4 +1,4 @@
-**Psalms 109:15** 
+**Psalms 109:15**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be before the LORD continually, that he may cut off the memory of them from the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May their sins always remain before the LORD, that He may cut off their memory f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.14|<< Psalms 109:14]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.16|Psalms 109:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them be  |**<big>&#8207;[[H1961\|יִהְי֣וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | before  |**<big>&#8207;[[H5048\|נֶֽגֶד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.ged-<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

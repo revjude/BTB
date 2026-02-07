@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] third year of Cyrus, king of \[the\] Persians, \[the\] word was uncovered \[to\] Daniel (of whom the name was called Belteshazzar) and the word \[is\] true. And great ability and understanding was given to him in the apparition. 
-<small><sub>**KJV:**</sub></small>
-In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing [was] true, but the time appointed [was] long: and he understood the thing, and had understanding of the vision.
-<small><sub>**BSB:**</sub></small>
-In the third year of Cyrus king of Persia, a message was revealed to Daniel, who was called Belteshazzar. The message was true, and it concerned a great conflict. And the understanding of the message was given to him in a vision.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.27|<< Daniel 9:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.2|Daniel 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

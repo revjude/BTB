@@ -1,12 +1,12 @@
-**Romans 5:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:8**<big><big>[[Rom.5.6 Christ’s Sacrifice for the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 <small><sub>**BSB:**</sub></small>
 But God proves His love for us in this: While we were still sinners, Christ died for us.
 <small><sub>**Literal:**</sub></small>
 Demonstrates however the His own love to us <the> God, that still sinners when being we Christ for us died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.7|<< Romans 5:7]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.9|Romans 5:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Demonstrates |**<big>[[G4921\|συνίστησιν]]</big>**  |sunistēsin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

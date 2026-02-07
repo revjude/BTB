@@ -1,4 +1,4 @@
-**1 Chronicles 26:10** 
+**1 Chronicles 26:10**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Hosah, of the children of Merari, had sons; Simri the chief, (for [though] he was not the firstborn, yet his father made him the chief;)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hosah the Merarite also had sons: Shimri the first (although he was not the firs
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.9|<< 1 Chronicles 26:9]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.11|1 Chronicles 26:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belonged] to Hosah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2621H\|חֹסָ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> cho.Sah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one of  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

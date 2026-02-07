@@ -1,10 +1,7 @@
 **LXX Zechariah 14:5** 
 <small><sub>**LXX:**</sub></small>
 And the valley of my mountains shall be obstructed, and \[the\] ravine shall be joined \[together\] by mountains unto Azal. And it shall be obstructed in which manner it was obstructed from in front of the earthquake in the days of Uzziah king of Judah. And \[the\] <span class="smallcaps">lord</span> my God shall come, and all the holy ones with him. 
-<small><sub>**KJV:**</sub></small>
-And ye shall flee [to] the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the LORD my God shall come, [and] all the saints with thee.
-<small><sub>**BSB:**</sub></small>
-You will flee by My mountain valley, for it will extend to Azal. You will flee as you fled from the earthquake in the days of Uzziah king of Judah. Then the LORD my God will come, and all the holy ones with Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.4|<< Zechariah 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.6|Zechariah 14:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 14:5** is...

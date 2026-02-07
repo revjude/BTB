@@ -1,4 +1,4 @@
-**Jeremiah 12:2** 
+**Jeremiah 12:2**<big><big>[[Jer.12.1 The Prosperity of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou [art] near in their mouth, and far from their reins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You planted them, and they have taken root. They have grown and produced fruit. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.1|<< Jeremiah 12:1]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.3|Jeremiah 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have planted them  |**<big>&#8207;[[H5193\|נְטַעְתָּ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| ne.ta'.Ta<small><sup>[[HVqp2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

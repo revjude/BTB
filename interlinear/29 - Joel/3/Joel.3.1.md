@@ -1,4 +1,4 @@
-**Joel 3:1** (4:1)
+**Joel 3:1**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For, behold, in those days, and in that time, when I shall bring again the capti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.32|<< Joel 2:32]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.2|Joel 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֗י]]&#8207; </big>**| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

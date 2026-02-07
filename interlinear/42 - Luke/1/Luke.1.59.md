@@ -1,12 +1,12 @@
-**Luke 1:59
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:59**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.
 <small><sub>**BSB:**</sub></small>
 On the eighth day, when they came to circumcise the child, they were going to name him after his father Zechariah.
 <small><sub>**Literal:**</sub></small>
 And it came to pass on <the> day the eighth they came to circumcise the child and were calling it after the name of the father of him Zechariah.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.58|<< Luke 1:58]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.60|Luke 1:60 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

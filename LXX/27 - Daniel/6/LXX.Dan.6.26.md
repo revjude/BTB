@@ -1,10 +1,7 @@
 **LXX Daniel 6:26** 
 <small><sub>**LXX:**</sub></small>
 From my presence I made a decree for the one in every rule  of my kingdom to be trembling and fearing from \[the\] face of the God of Daniel. For he is \[the\] living God, and \[the\] one abiding into the eons, and  his kingdom shall not be destroyed, and  his dominion \[is\] unto \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he [is] the living God, and stedfast for ever, and his kingdom [that] which shall not be destroyed, and his dominion [shall be even] unto the end.
-<small><sub>**BSB:**</sub></small>
-I hereby decree that in every part of my kingdom, men are to tremble in fear before the God of Daniel: For He is the living God, and He endures forever; His kingdom will never be destroyed, and His dominion will never end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.25|<< Daniel 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.27|Daniel 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

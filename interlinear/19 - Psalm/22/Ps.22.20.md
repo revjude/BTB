@@ -1,4 +1,4 @@
-**Psalms 22:20** (22:21)
+**Psalms 22:20**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver my soul from the sword; my darling from the power of the dog.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Deliver my soul from the sword, my precious life from the power of wild dogs.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deliver !  |**<big>&#8207;[[H5337\|הַצִּ֣ילָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.Tzi.la<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] sword  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2719\|חֶ֣רֶב]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

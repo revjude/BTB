@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:44** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Merari  their brethren at the left sides -- Ethan son of Kishi, son of Abdi, son of Malluch, 
-<small><sub>**KJV:**</sub></small>
-And their brethren the sons of Merari [stood] on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,
-<small><sub>**BSB:**</sub></small>
-On the left were their kinsmen, the sons of Merari: Ethan the son of Kishi, the son of Abdi, the son of Malluch,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.43|<< 1 Chronicles 6:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.45|1 Chronicles 6:45 >>]]</td></tr></table>
 
 | Translation | Greek |

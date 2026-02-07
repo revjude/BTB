@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:2** 
 <small><sub>**LXX:**</sub></small>
 And indeed yesterday and indeed \[the\] third \[day before\] in Saul being king, you were the one bringing in and leading out  Israel. And \[the\] <span class="smallcaps">lord</span> your God said to you, You tend  my people  Israel, and you shall be for leader over  my people Israel. 
-<small><sub>**KJV:**</sub></small>
-And moreover in time past, even when Saul was king, thou [wast] he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.
-<small><sub>**BSB:**</sub></small>
-Even in times past, while Saul was king, you were the one who led Israel out and brought them back. And the LORD your God said, ‘You will shepherd My people Israel, and you will be ruler over them.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.1|<< 1 Chronicles 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.3|1 Chronicles 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

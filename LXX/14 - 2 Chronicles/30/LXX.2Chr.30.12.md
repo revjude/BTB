@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:12** 
 <small><sub>**LXX:**</sub></small>
 And in Judah \[the\] hand of God came to give them one heart to come and to do according to the order of the king and of the rulers, by \[the\] word of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of the LORD.
-<small><sub>**BSB:**</sub></small>
-Moreover, the power of God was on the people in Judah to give them one heart to obey the command of the king and his officials according to the word of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.11|<< 2 Chronicles 30:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.13|2 Chronicles 30:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 28:63** 
+**Deuteronomy 28:63**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to destroy you, and to bring you to nought; and ye shall be plucked from off the land whither thou goest to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just as it pleased the LORD to make you prosper and multiply, so also it will pl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.62|<< Deuteronomy 28:62]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.64|Deuteronomy 28:64 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H1961\|הָיָה]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

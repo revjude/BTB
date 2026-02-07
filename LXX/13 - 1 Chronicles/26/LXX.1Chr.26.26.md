@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:26** 
 <small><sub>**LXX:**</sub></small>
 He, Shelomith and  his brethren \[were\] over all the treasures of the holies, which David the king sanctified, and the rulers of the families -- commanders of thousands, and commanders of hundreds, and chiefs of the force, 
-<small><sub>**KJV:**</sub></small>
-Which Shelomith and his brethren [were] over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated.
-<small><sub>**BSB:**</sub></small>
-This Shelomith and his brothers were in charge of all the treasuries for the things dedicated by King David, by the heads of families who were the commanders of thousands and of hundreds, and by the army commanders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.25|<< 1 Chronicles 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.27|1 Chronicles 26:27 >>]]</td></tr></table>
 
 | Translation | Greek |

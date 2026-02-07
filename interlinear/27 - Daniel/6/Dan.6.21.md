@@ -1,4 +1,4 @@
-**Daniel 6:21** (6:22)
+**Daniel 6:21**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Daniel unto the king, O king, live for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Daniel replied, “O king, may you live forever!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.20|<< Daniel 6:20]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.22|Daniel 6:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֙יִן֙]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Daniel  |**<big>&#8207;[[H1841H\|דָּנִיֶּ֔אל]]&#8207; </big>**| da.ni.Yel<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

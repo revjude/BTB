@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in  their bringing forth the money  coming in as income into the house of \[the\] <span class="smallcaps">lord</span>, Helkiah the priest found the scroll of the law of \[the\] <span class="smallcaps">lord</span>, the one by \[the\] hand of Moses. 
-<small><sub>**KJV:**</sub></small>
-And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD [given] by Moses.
-<small><sub>**BSB:**</sub></small>
-While they were bringing out the money that had been taken into the house of the LORD, Hilkiah the priest found the Book of the Law of the LORD given by Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.13|<< 2 Chronicles 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.15|2 Chronicles 34:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 15:7** 
 <small><sub>**LXX:**</sub></small>
 And the borders ascend unto  Debir of the ravine of Achor, and according to \[the\] north it goes down to Gilgal, which is before the entrance approach of Adummim, which is towards \[the\] south in the ravine. And passes out the border unto the water of \[the\] spring of sun. And his outer reaches will be \[the\] spring of Rogel. 
-<small><sub>**KJV:**</sub></small>
-And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that [is] before the going up to Adummim, which [is] on the south side of the river: and the border passed toward the waters of Enshemesh, and the goings out thereof were at Enrogel:
-<small><sub>**BSB:**</sub></small>
-Then the border went up to Debir from the Valley of Achor, turning north to Gilgal, which faces the Ascent of Adummim south of the ravine. It continued along the waters of En-shemesh and came out at En-rogel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.6|<< Joshua 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.8|Joshua 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

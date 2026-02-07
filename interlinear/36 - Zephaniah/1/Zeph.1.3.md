@@ -1,4 +1,4 @@
-**Zephaniah 1:3** 
+**Zephaniah 1:3**<big><big>[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will consume man and beast; I will consume the fowls of the heaven, and the fi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.2|<< Zephaniah 1:2]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.4|Zephaniah 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will bring to an end  |**<big>&#8207;[[H5486\|אָסֵ֨ף]]&#8207; </big>**| 'a.Sef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | human being  |**<big>&#8207;[[H0120G\|אָדָ֜ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

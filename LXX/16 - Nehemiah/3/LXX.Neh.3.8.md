@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:8** 
 <small><sub>**LXX:**</sub></small>
 And near their hand Uzziel repaired, son of Harhaiah of \[the\] refiners, and near his hand Hananiah repaired, son of the perfumers, and they established Jerusalem unto the broad wall. 
-<small><sub>**KJV:**</sub></small>
-Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of [one of] the apothecaries, and they fortified Jerusalem unto the broad wall.
-<small><sub>**BSB:**</sub></small>
-Next to them, Uzziel son of Harhaiah, one of the goldsmiths, made repairs. And next to him, Hananiah, one of the perfumers, made repairs. They fortified Jerusalem as far as the Broad Wall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.7|<< Nehemiah 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.9|Nehemiah 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

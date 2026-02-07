@@ -1,4 +1,4 @@
-**Psalms 22:12** (22:13)
+**Psalms 22:12**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many bulls have compassed me: strong [bulls] of Bashan have beset me round.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Many bulls surround me; strong bulls of Bashan encircle me.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have surrounded me  |**<big>&#8207;[[H5437H\|סְ֭בָבוּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Se.va.vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bulls  |**<big>&#8207;[[H6499\|פָּרִ֣ים]]&#8207; </big>**| pa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

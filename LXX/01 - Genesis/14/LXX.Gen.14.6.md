@@ -1,10 +1,7 @@
 **LXX Genesis 14:6** 
 <small><sub>**LXX:**</sub></small>
 and the Horites, the ones in the mountains of Seir, unto the terebinth tree  of El-paran, which is in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And the Horites in their mount Seir, unto Elparan, which [is] by the wilderness.
-<small><sub>**BSB:**</sub></small>
-and the Horites in the area of Mount Seir, as far as El-paran, which is near the desert.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.5|<< Genesis 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.7|Genesis 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

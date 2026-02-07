@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:2** 
 <small><sub>**LXX:**</sub></small>
 And David ascended there, and both  his wives -- Ahinoam the Jezreelitess, and Abigail the wife of Nabal the Carmelite. 
-<small><sub>**KJV:**</sub></small>
-So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal’s wife the Carmelite.
-<small><sub>**BSB:**</sub></small>
-So David went there with his two wives, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.1|<< 2 Samuel 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.3|2 Samuel 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

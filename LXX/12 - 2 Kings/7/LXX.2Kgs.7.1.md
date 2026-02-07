@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Elisha said, Hear the word of \[the\] <span class="smallcaps">lord</span>! Thus says \[the\] <span class="smallcaps">lord</span>, At  this same hour tomorrow, a measure of fine flour \[shall be sold for a\] shekel, and two measures of barley for a shekel, at the gate of Samaria. 
-<small><sub>**KJV:**</sub></small>
-Then Elisha said, Hear ye the word of the LORD; Thus saith the LORD, To morrow about this time [shall] a measure of fine flour [be sold] for a shekel, and two measures of barley for a shekel, in the gate of Samaria.
-<small><sub>**BSB:**</sub></small>
-Then Elisha said, “Hear the word of the LORD! This is what the LORD says: ‘About this time tomorrow at the gate of Samaria, a seah of fine flour will sell for a shekel, and two seahs of barley will sell for a shekel.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.33|<< 2 Kings 6:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.2|2 Kings 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

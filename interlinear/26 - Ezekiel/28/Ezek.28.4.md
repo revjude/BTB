@@ -1,4 +1,4 @@
-**Ezekiel 28:4** 
+**Ezekiel 28:4**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By your wisdom and understanding you have gained your wealth and amassed gold an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.3|<< Ezekiel 28:3]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.5|Ezekiel 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by wisdom your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2451\|חָכְמָֽתְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cha.khe.ma.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and by understanding your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8394\|תְבוּנָ֣תְ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> t.vu.Na.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

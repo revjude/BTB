@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 3:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Hananiah -- Pelatiah, and Jesaiah his son, Rephaiah his son, Arnan his son, Obadiah his son, Shechaniah his son. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Hananiah; Pelatiah, and Jesaiah: the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shechaniah.
-<small><sub>**BSB:**</sub></small>
-The descendants of Hananiah: Pelatiah, Jeshaiah, and the sons of Rephaiah, of Arnan, of Obadiah, and of Shecaniah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.20|<< 1 Chronicles 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.22|1 Chronicles 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

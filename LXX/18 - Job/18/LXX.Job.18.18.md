@@ -1,10 +1,7 @@
 **LXX Job 18:18** 
 <small><sub>**LXX:**</sub></small>
 May one thrust him from light unto darkness; and from the inhabitable world they displaced him. 
-<small><sub>**KJV:**</sub></small>
-He shall be driven from light into darkness, and chased out of the world.
-<small><sub>**BSB:**</sub></small>
-He is driven from light into darkness and is chased from the inhabited world.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.17|<< Job 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.19|Job 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

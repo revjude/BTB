@@ -1,4 +1,4 @@
-**Ezekiel 32:12** 
+**Ezekiel 32:12**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the swords of the mighty will I cause thy multitude to fall, the terrible of the nations, all of them: and they shall spoil the pomp of Egypt, and all the multitude thereof shall be destroyed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make your hordes fall by the swords of the mighty, the most ruthless of a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.11|<< Ezekiel 32:11]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.13|Ezekiel 32:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [the] swords of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2719\|חַרְב֤וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> char.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | warriors  |**<big>&#8207;[[H1368\|גִּבּוֹרִים֙]]&#8207; </big>**| gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

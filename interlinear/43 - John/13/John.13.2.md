@@ -1,12 +1,12 @@
-**John 13:2
-**<small><sub>**KJV:**</sub></small>
+**John 13:2**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon’s [son], to betray him;
 <small><sub>**BSB:**</sub></small>
 The evening meal was underway, and the devil had already put into the heart of Judas, the son of Simon Iscariot, to betray Jesus.
 <small><sub>**Literal:**</sub></small>
 And supper taking place, the devil already having put into the heart that he may betray Him Judas [son] of Simon Iscariot<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.1|<< John 13:1]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.3|John 13:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | supper |**<big>[[G1173\|δείπνου]]</big>**  |deipnou <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

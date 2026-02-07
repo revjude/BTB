@@ -1,4 +1,4 @@
-**Numbers 23:4** 
+**Numbers 23:4**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon [every] altar a bullock and a ram.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and God met with him. “I have set up seven altars,” Balaam said, “and on e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.3|<< Numbers 23:3]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.5|Numbers 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he met  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7136A\|יִּקָּ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kar<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

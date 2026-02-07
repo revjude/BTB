@@ -1,4 +1,4 @@
-**2 Chronicles 16:12** 
+**2 Chronicles 16:12**<big><big>[[2Chr.16.11 The Death and Burial of Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease [was] exceeding [great]: yet in his disease he sought not to the LORD, but to the physicians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the thirty-ninth year of his reign, Asa became diseased in his feet, and his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.11|<< 2 Chronicles 16:11]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.13|2 Chronicles 16:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he became sick  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2456\|יֶּחֱלֶ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.che.Le'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asa  |**<big>&#8207;[[H0609G\|אָסָ֡א]]&#8207; </big>**| 'a.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 47:7** (47:8)
+**Psalms 47:7**<big><big>[[Ps.47.1 Clap Your Hands, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For God [is] the King of all the earth: sing ye praises with understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For God is King of all the earth; sing to Him a psalm of praise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.47.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.47.6|<< Psalms 47:6]]</td><td align="center" style="border:none;">[[Ps.47|Psalms 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.47.8|Psalms 47:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] king of  |**<big>&#8207;[[H4428G\|מֶ֖לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

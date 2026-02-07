@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:11** 
 <small><sub>**LXX:**</sub></small>
 Each with the wife  of his neighbor acted lawlessly; and each  defiled his daughter-in-law in impiety; and each  abased his sister \[the\] daughter of his father among you. 
-<small><sub>**KJV:**</sub></small>
-And one hath committed abomination with his neighbour’s wife; and another hath lewdly defiled his daughter in law; and another in thee hath humbled his sister, his father’s daughter.
-<small><sub>**BSB:**</sub></small>
-One man commits an abomination with his neighbor’s wife; another wickedly defiles his daughter-in-law; and yet another violates his sister, his own father’s daughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.10|<< Ezekiel 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.12|Ezekiel 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

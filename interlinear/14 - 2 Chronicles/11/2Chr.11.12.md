@@ -1,4 +1,4 @@
-**2 Chronicles 11:12** 
+**2 Chronicles 11:12**<big><big>[[2Chr.11.5 Rehoboam Fortifies Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in every several city [he put] shields and spears, and made them exceeding strong, having Judah and Benjamin on his side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also put shields and spears in all the cities and strengthened them greatly. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.11|<< 2 Chronicles 11:11]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.13|2 Chronicles 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] in every  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | city  |**<big>&#8207;[[H5892B\|עִ֤יר]]&#8207; </big>**| 'ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Nehemiah 6:14** 
+**Nehemiah 6:14**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My God, think thou upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the rest of the prophets, that would have put me in fear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O my God, remember Tobiah and Sanballat for what they have done, and also Noadia
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.13|<< Nehemiah 6:13]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.15|Nehemiah 6:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember !  |**<big>&#8207;[[H2142\|זָכְרָ֧]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| za.khe.Ra<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God my  |**<big>&#8207;[[H0430G\|אֱלֹהַ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

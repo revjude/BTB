@@ -1,4 +1,4 @@
-**Job 7:21** 
+**Job 7:21**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I [shall] not [be].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do You not pardon my transgression and take away my iniquity? For soon I wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.20|<< Job 7:20]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.1|Job 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and why?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מֶ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Hosea 2:5** (2:7)
+**Hosea 2:5**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give [me] my bread and my water, my wool and my flax, mine oil and my drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For their mother has played the harlot and has conceived them in disgrace. For s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.4|<< Hosea 2:4]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.6|Hosea 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she has prostituted herself  |**<big>&#8207;[[H2181\|זָֽנְתָה֙]]&#8207; </big>**| za.ne.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

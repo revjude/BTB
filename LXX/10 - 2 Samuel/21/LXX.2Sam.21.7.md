@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:7** 
 <small><sub>**LXX:**</sub></small>
 And the king spared for  Mephibosheth, son of Jonathan, son of Saul, on account of the oath of \[the\] <span class="smallcaps">lord</span>  between them; even between David and between Jonathan \[the\] son of Saul. 
-<small><sub>**KJV:**</sub></small>
-But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD’S oath that [was] between them, between David and Jonathan the son of Saul.
-<small><sub>**BSB:**</sub></small>
-Now the king spared Mephibosheth son of Jonathan, the son of Saul, because of the oath before the LORD between David and Jonathan son of Saul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.6|<< 2 Samuel 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.8|2 Samuel 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

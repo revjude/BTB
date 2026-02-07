@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:24** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, These \[are\] the houses of the cooks of which the ones ministering to the house shall boil there the \[things\] which are offered in sacrifice by the people. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, These [are] the places of them that boil, where the ministers of the house shall boil the sacrifice of the people.
-<small><sub>**BSB:**</sub></small>
-And he said to me, “These are the kitchens where those who minister at the temple will cook the sacrifices offered by the people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.23|<< Ezekiel 46:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.1|Ezekiel 47:1 >>]]</td></tr></table>
 
 | Translation | Greek |

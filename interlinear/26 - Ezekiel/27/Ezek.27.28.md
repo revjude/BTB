@@ -1,4 +1,4 @@
-**Ezekiel 27:28** 
+**Ezekiel 27:28**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The suburbs shall shake at the sound of the cry of thy pilots.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The countryside will shake when your sailors cry out.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.27|<< Ezekiel 27:27]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.29|Ezekiel 27:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [the] sound of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6963H\|ק֖וֹל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] outcry of  |**<big>&#8207;[[H2201\|זַעֲקַ֣ת]]&#8207; </big>**| za.'a.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

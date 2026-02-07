@@ -1,4 +1,4 @@
-**Joshua 2:15** 
+**Joshua 2:15**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then she let them down by a cord through the window: for her house [was] upon the town wall, and she dwelt upon the wall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Rahab let them down by a rope through the window, since the house where she
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.14|<< Joshua 2:14]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.16|Joshua 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she let down them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|תּוֹרִדֵ֥]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> to.ri.De<small><sup>[[HVhw3fs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> rope  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2256M\|חֶ֖בֶל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Che.vel<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

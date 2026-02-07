@@ -1,4 +1,4 @@
-**Proverbs 28:14** 
+**Proverbs 28:14**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Happy [is] the man that feareth alway: but he that hardeneth his heart shall fall into mischief.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed is the man who is always reverent, but he who hardens his heart falls in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.13|<< Proverbs 28:13]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.15|Proverbs 28:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֣י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a person  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

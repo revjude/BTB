@@ -1,4 +1,4 @@
-**Jeremiah 19:12** 
+**Jeremiah 19:12**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I do unto this place, saith the LORD, and to the inhabitants thereof, and [even] make this city as Tophet:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what I will do to this place and to its residents, declares the LORD. I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.11|<< Jeremiah 19:11]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.13|Jeremiah 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3651C\|כֵּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ken-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will do  |**<big>&#8207;[[H6213A\|אֶעֱשֶׂ֞ה]]&#8207; </big>**| 'e.'e.Seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

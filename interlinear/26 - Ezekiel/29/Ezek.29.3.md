@@ -1,4 +1,4 @@
-**Ezekiel 29:3** 
+**Ezekiel 29:3**<big><big>[[Ezek.29.1 A Prophecy against Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak, and say, Thus saith the Lord GOD; Behold, I [am] against thee, Pharaoh king of Egypt, the great dragon that lieth in the midst of his rivers, which hath said, My river [is] mine own, and I have made [it] for myself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak to him and tell him that this is what the Lord GOD says: Behold, I am agai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.2|<< Ezekiel 29:2]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.4|Ezekiel 29:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֨ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתָּ֜]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 9:32
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:32**<big><big>[[Rom.9.30 Israel’s Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore? Because [they sought it] not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;
 <small><sub>**BSB:**</sub></small>
 Why not? Because their pursuit was not by faith, but as if it were by works. They stumbled over the stumbling stone,
 <small><sub>**Literal:**</sub></small>
 Because of why? Because [it was] not by faith but as by works of law; They stumbled for over the stone <the> of stumbling<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.31|<< Romans 9:31]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.33|Romans 9:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | why? |**<big>[[G5101\|τί;]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

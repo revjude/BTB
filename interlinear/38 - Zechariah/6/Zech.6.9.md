@@ -1,4 +1,4 @@
-**Zechariah 6:9** 
+**Zechariah 6:9**<big><big>[[Zech.6.9 The Crown and the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The word of the LORD also came to me, saying,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.8|<< Zechariah 6:8]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.10|Zechariah 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] word of  |**<big>&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

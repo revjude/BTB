@@ -1,10 +1,7 @@
 **LXX Job 20:6** 
 <small><sub>**LXX:**</sub></small>
 If his gifts should ascend into heaven,  and his sacrifice should touch \[the\] clouds; 
-<small><sub>**KJV:**</sub></small>
-Though his excellency mount up to the heavens, and his head reach unto the clouds;
-<small><sub>**BSB:**</sub></small>
-Though his arrogance reaches the heavens, and his head touches the clouds,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.5|<< Job 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.7|Job 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

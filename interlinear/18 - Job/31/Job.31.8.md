@@ -1,4 +1,4 @@
-**Job 31:8** 
+**Job 31:8**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] let me sow, and let another eat; yea, let my offspring be rooted out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then may another eat what I have sown, and may my crops be uprooted.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.7|<< Job 31:7]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.9|Job 31:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let me sow  |**<big>&#8207;[[H2232\|אֶ֭זְרְעָה]]&#8207; </big>**| 'Ez.re.'ah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and another  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0312\|אַחֵ֣ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

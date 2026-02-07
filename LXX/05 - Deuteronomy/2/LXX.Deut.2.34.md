@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:34** 
 <small><sub>**LXX:**</sub></small>
 And we held all  his cities in  that time. And we utterly destroyed every city; next also  their women, and  their children we did not leave behind for taking alive. 
-<small><sub>**KJV:**</sub></small>
-And we took all his cities at that time, and utterly destroyed the men, and the women, and the little ones, of every city, we left none to remain:
-<small><sub>**BSB:**</sub></small>
-At that time we captured all his cities and devoted to destruction the people of every city, including women and children. We left no survivors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.33|<< Deuteronomy 2:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.35|Deuteronomy 2:35 >>]]</td></tr></table>
 
 | Translation | Greek |

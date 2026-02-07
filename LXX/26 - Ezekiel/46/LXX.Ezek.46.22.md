@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:22** 
 <small><sub>**LXX:**</sub></small>
 Upon the four sides of the courtyard \[were\] small courtyards, forty cubits in length, and a breadth of thirty cubits -- one measure to the four. 
-<small><sub>**KJV:**</sub></small>
-In the four corners of the court [there were] courts joined of forty [cubits] long and thirty broad: these four corners [were] of one measure.
-<small><sub>**BSB:**</sub></small>
-In the four corners of the outer court there were enclosed courts, each forty cubits long and thirty cubits wide. Each of the four corner areas had the same dimensions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.21|<< Ezekiel 46:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.23|Ezekiel 46:23 >>]]</td></tr></table>
 
 | Translation | Greek |

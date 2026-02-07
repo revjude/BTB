@@ -1,10 +1,7 @@
 **LXX Numbers 21:16** 
 <small><sub>**LXX:**</sub></small>
 And from there \[they came to\] The Well. This is the well which \[the\] <span class="smallcaps">lord</span> said to Moses, Gather together the people, and I will give to them water. 
-<small><sub>**KJV:**</sub></small>
-And from thence [they went] to Beer: that [is] the well whereof the LORD spake unto Moses, Gather the people together, and I will give them water.
-<small><sub>**BSB:**</sub></small>
-From there they went on to Beer, the well where the LORD said to Moses, “Gather the people so that I may give them water.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.15|<< Numbers 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.17|Numbers 21:17 >>]]</td></tr></table>
 
 | Translation | Greek |

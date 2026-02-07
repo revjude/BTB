@@ -1,10 +1,7 @@
 **LXX Hosea 9:4** 
 <small><sub>**LXX:**</sub></small>
 They offered not a libation to the <span class="smallcaps">lord</span> of wine, and were not delicious to him;  their sacrifices \[were\] as bread of mourning to them; all the ones eating them shall be defiled. For their bread loaves  for their lives shall not enter into the house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-They shall not offer wine [offerings] to the LORD, neither shall they be pleasing unto him: their sacrifices [shall be] unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-They will not pour out wine offerings to the LORD, and their sacrifices will not please Him, but will be to them like the bread of mourners; all who eat will be defiled. For their bread will be for themselves; it will not enter the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.3|<< Hosea 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.5|Hosea 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

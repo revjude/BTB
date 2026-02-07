@@ -1,12 +1,12 @@
-**2 Corinthians 11:30
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:30**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If I must needs glory, I will glory of the things which concern mine infirmities.
 <small><sub>**BSB:**</sub></small>
 If I must boast, I will boast of the things that show my weakness.
 <small><sub>**Literal:**</sub></small>
 If to boast it behooves [me], [in] the [things] of the weakness of mine I will boast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.29|<< 2 Corinthians 11:29]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.31|2 Corinthians 11:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to boast |**<big>[[G2744\|καυχᾶσθαι]]</big>**  |kauchasthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

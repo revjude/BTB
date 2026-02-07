@@ -1,10 +1,7 @@
 **LXX 1 Samuel 31:7** 
 <small><sub>**LXX:**</sub></small>
 And the men of Israel beheld, the ones on the other side of the valley, and the ones on the other side of the Jordan, that the men of Israel fled, and that Saul died, and  his sons. And they leave  their cities, and flee. And the Philistines come and dwell in them. 
-<small><sub>**KJV:**</sub></small>
-And when the men of Israel that [were] on the other side of the valley, and [they] that [were] on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them.
-<small><sub>**BSB:**</sub></small>
-When the Israelites along the valley and those on the other side of the Jordan saw that the army of Israel had fled and that Saul and his sons had died, they abandoned their cities and ran away. So the Philistines came and occupied their cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.6|<< 1 Samuel 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.8|1 Samuel 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

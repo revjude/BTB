@@ -1,12 +1,12 @@
-**2 Corinthians 3:2
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:2**<big><big>[[2Cor.3.1 Ministers of a New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye are our epistle written in our hearts, known and read of all men:
 <small><sub>**BSB:**</sub></small>
 You yourselves are our letter, inscribed on our hearts, known and read by everyone.
 <small><sub>**Literal:**</sub></small>
 The letter of us you yourselves are inscribed in the hearts of us, being known and being read by all men,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.1|<< 2 Corinthians 3:1]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.3|2 Corinthians 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | letter |**<big>[[G1992\|ἐπιστολὴ]]</big>**  |epistolē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

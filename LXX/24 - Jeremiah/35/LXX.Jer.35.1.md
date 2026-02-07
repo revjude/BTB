@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word  coming to Jeremiah by \[the\] <span class="smallcaps">lord</span> in \[the\] days of Jehoiakim son of Josiah king of Judah, saying, 
-<small><sub>**KJV:**</sub></small>
-The word which came unto Jeremiah from the LORD in the days of Jehoiakim the son of Josiah king of Judah, saying,
-<small><sub>**BSB:**</sub></small>
-This is the word that came to Jeremiah from the LORD in the days of Jehoiakim son of Josiah king of Judah:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.22|<< Jeremiah 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.2|Jeremiah 35:2 >>]]</td></tr></table>
 
 | Translation | Greek |

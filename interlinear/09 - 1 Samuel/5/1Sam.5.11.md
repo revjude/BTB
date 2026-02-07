@@ -1,4 +1,4 @@
-**1 Samuel 5:11** 
+**1 Samuel 5:11**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they sent and gathered together all the lords of the Philistines, and said, Send away the ark of the God of Israel, and let it go again to his own place, that it slay us not, and our people: for there was a deadly destruction throughout all the city; the hand of God was very heavy there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Ekronites called together all the rulers of the Philistines and said, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.10|<< 1 Samuel 5:10]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.12|1 Samuel 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלְח֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.le.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0622\|יַּאַסְפ֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'as.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

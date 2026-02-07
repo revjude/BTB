@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall love \[the\] <span class="smallcaps">lord</span>  your God with your entire heart, and with your entire soul, and with your entire power. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
-<small><sub>**BSB:**</sub></small>
-And you shall love the LORD your God with all your heart and with all your soul and with all your strength.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.4|<< Deuteronomy 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.6|Deuteronomy 6:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 6:5** is...

@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:23** 
 <small><sub>**LXX:**</sub></small>
 And he made the cast sea -- ten by a cubit from  its rim unto  its rim, globular, round about the same, five by a cubit  \[was\] its height. And a \[measuring\] meeting together thirty cubits encircled it. 
-<small><sub>**KJV:**</sub></small>
-And he made a molten sea, ten cubits from the one brim to the other: [it was] round all about, and his height [was] five cubits: and a line of thirty cubits did compass it round about.
-<small><sub>**BSB:**</sub></small>
-He also made the Sea of cast metal. It was circular in shape, measuring ten cubits from rim to rim, five cubits in height, and thirty cubits in circumference.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.22|<< 1 Kings 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.24|1 Kings 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

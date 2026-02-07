@@ -1,4 +1,4 @@
-**Deuteronomy 16:7** 
+**Deuteronomy 16:7**<big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt roast and eat [it] in the place which the LORD thy God shall choose: and thou shalt turn in the morning, and go unto thy tents.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall roast it and eat it in the place the LORD your God will choose, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.6|<< Deuteronomy 16:6]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.8|Deuteronomy 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will cook [it]  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1310\|בִשַּׁלְתָּ֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> vi.shal.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will eat [it]  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָ֣כַלְתָּ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'A.khal.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

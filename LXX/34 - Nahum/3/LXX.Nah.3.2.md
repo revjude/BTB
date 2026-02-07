@@ -1,10 +1,7 @@
 **LXX Nahum 3:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sound of whips, and \[the\] sound of quaking of wheels, and \[the\] pursuing horse, and \[the\] chariot stirring up, 
-<small><sub>**KJV:**</sub></small>
-The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.
-<small><sub>**BSB:**</sub></small>
-The crack of the whip, the rumble of the wheel, galloping horse and bounding chariot!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.1|<< Nahum 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.3|Nahum 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

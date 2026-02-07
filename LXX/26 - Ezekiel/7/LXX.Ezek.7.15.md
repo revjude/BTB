@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:15** 
 <small><sub>**LXX:**</sub></small>
 The broadsword from outside, and the famine and  plague from inside. The one in the plain shall come to an end by a broadsword, and the ones in the city shall end by famine and plague. 
-<small><sub>**KJV:**</sub></small>
-The sword [is] without, and the pestilence and the famine within: he that [is] in the field shall die with the sword; and he that [is] in the city, famine and pestilence shall devour him.
-<small><sub>**BSB:**</sub></small>
-The sword is outside; plague and famine are within. Those in the country will die by the sword, and those in the city will be devoured by famine and plague.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.14|<< Ezekiel 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.16|Ezekiel 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

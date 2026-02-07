@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:44** 
 <small><sub>**LXX:**</sub></small>
 And the king sent with him  Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethite, and the Pelethite. And they sat him upon the mule of the king. 
-<small><sub>**KJV:**</sub></small>
-And the king hath sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king’s mule:
-<small><sub>**BSB:**</sub></small>
-And with Solomon, the king has sent Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada, along with the Cherethites and Pelethites, and they have set him on the king’s mule.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.43|<< 1 Kings 1:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.45|1 Kings 1:45 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 2:4** 
+**Daniel 2:4**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the astrologers answered the king in Aramaic, “O king, may you live forev
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.3|<< Daniel 2:3]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.5|Daniel 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they spoke  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1696G\|יְדַבְּר֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.be.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Chaldeans  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3778\|כַּשְׂדִּ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kas.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

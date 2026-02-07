@@ -1,10 +1,7 @@
 **LXX Proverbs 31:13** 
 <small><sub>**LXX:**</sub></small>
 She makes her hands useful furling wool and flax. 
-<small><sub>**KJV:**</sub></small>
-She seeketh wool, and flax, and worketh willingly with her hands.
-<small><sub>**BSB:**</sub></small>
-She selects wool and flax and works with eager hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.12|<< Proverbs 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.14|Proverbs 31:14 >>]]</td></tr></table>
 
 | Translation | Greek |

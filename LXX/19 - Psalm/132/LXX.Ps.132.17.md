@@ -1,10 +1,7 @@
 **LXX Psalm 132:17** 
 <small><sub>**LXX:**</sub></small>
 There \[the\] horn to rise up \[to\] David; I prepared a lamp for my anointed one. 
-<small><sub>**KJV:**</sub></small>
-There will I make the horn of David to bud: I have ordained a lamp for mine anointed.
-<small><sub>**BSB:**</sub></small>
-There I will make a horn grow for David; I have prepared a lamp for My anointed one.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.132.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.16|<< Psalm 132:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.18|Psalm 132:18 >>]]</td></tr></table>
 
 | Translation | Greek |

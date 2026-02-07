@@ -1,10 +1,7 @@
 **LXX Judges 7:17** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Of me you shall see, and thus shall you do. And behold, I will enter into \[the\] midst of the camp, and it will be as whenever I shall act, so shall you act. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Look on me, and do likewise: and, behold, when I come to the outside of the camp, it shall be [that], as I do, so shall ye do.
-<small><sub>**BSB:**</sub></small>
-“Watch me and do as I do,” Gideon said. “When I come to the outskirts of the camp, do exactly as I do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.16|<< Judges 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.18|Judges 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

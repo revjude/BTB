@@ -1,4 +1,4 @@
-**1 Samuel 15:34** 
+**1 Samuel 15:34**<big><big>[[1Sam.15.24 Saul’s Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Samuel went to Ramah, but Saul went up to his home in Gibeah of Saul.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.33|<< 1 Samuel 15:33]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.35|1 Samuel 15:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֥לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֖ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

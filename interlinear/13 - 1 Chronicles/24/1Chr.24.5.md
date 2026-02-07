@@ -1,4 +1,4 @@
-**1 Chronicles 24:5** 
+**1 Chronicles 24:5**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus were they divided by lot, one sort with another; for the governors of the sanctuary, and governors [of the house] of God, were of the sons of Eleazar, and of the sons of Ithamar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus they were divided by lot, for there were officers of the sanctuary and offi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.4|<< 1 Chronicles 24:4]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.6|1 Chronicles 24:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they divided them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2505A\|יַּחְלְק֥וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.le.Ku<small><sup>[[HVqw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by lots  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1486\|גוֹרָל֖וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> go.ra.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

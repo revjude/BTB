@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:16** 
 <small><sub>**LXX:**</sub></small>
 And Johanan took, and all the leaders of the force  with him, all the remnant of the people whom he returned from Ishmael son of Nethaniah from Mizpah -- after  his striking Gedaliah son of Ahikam -- mighty men in war, and the women, and the rest \[of the things\], and the eunuchs, whom he returned from Gibeon. 
-<small><sub>**KJV:**</sub></small>
-Then took Johanan the son of Kareah, and all the captains of the forces that [were] with him, all the remnant of the people whom he had recovered from Ishmael the son of Nethaniah, from Mizpah, after [that] he had slain Gedaliah the son of Ahikam, [even] mighty men of war, and the women, and the children, and the eunuchs, whom he had brought again from Gibeon:
-<small><sub>**BSB:**</sub></small>
-Then Johanan son of Kareah and all the commanders of the armies with him took the whole remnant of the people from Mizpah whom he had recovered from Ishmael son of Nethaniah after Ishmael had killed Gedaliah son of Ahikam: the soldiers, women, children, and court officials he had brought back from Gibeon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.15|<< Jeremiah 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.17|Jeremiah 41:17 >>]]</td></tr></table>
 
 | Translation | Greek |

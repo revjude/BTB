@@ -1,4 +1,4 @@
-**Proverbs 24:24** 
+**Proverbs 24:24**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that saith unto the wicked, Thou [art] righteous; him shall the people curse, nations shall abhor him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever tells the guilty, “You are innocent”—peoples will curse him, and n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.23|<< Proverbs 24:23]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.25|Proverbs 24:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] says  |**<big>&#8207;[[H0559\|אֹ֤מֵ֨ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to a wicked [person]  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7563\|רָשָׁע֮]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

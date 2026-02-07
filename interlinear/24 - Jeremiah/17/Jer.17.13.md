@@ -1,4 +1,4 @@
-**Jeremiah 17:13** 
+**Jeremiah 17:13**<big><big>[[Jer.17.12 Jeremiah’s Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, the hope of Israel, all that forsake thee shall be ashamed, [and] they that depart from me shall be written in the earth, because they have forsaken the LORD, the fountain of living waters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, the hope of Israel, all who abandon You will be put to shame. All who tu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.12|<< Jeremiah 17:12]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.14|Jeremiah 17:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O hope of  |**<big>&#8207;[[H4723B\|מִקְוֵ֤ה]]&#8207; </big>**| mik.Veh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵל֙]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

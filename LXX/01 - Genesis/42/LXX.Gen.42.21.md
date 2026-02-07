@@ -1,10 +1,7 @@
 **LXX Genesis 42:21** 
 <small><sub>**LXX:**</sub></small>
 And said each to  his brother, Yes, for we are in sins on account of  our brother, for we overlooked the affliction  of his soul when he besought us, and we did not listen to him, and because of this this affliction came upon us. 
-<small><sub>**KJV:**</sub></small>
-And they said one to another, We [are] verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.
-<small><sub>**BSB:**</sub></small>
-Then they said to one another, “Surely we are being punished because of our brother. We saw his anguish when he pleaded with us, but we would not listen. That is why this distress has come upon us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.20|<< Genesis 42:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.22|Genesis 42:22 >>]]</td></tr></table>
 
 | Translation | Greek |

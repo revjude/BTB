@@ -1,12 +1,12 @@
-**Mark 5:28
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:28**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For she said, If I may touch but his clothes, I shall be whole.
 <small><sub>**BSB:**</sub></small>
 For she kept saying, “If only I touch His garments, I will be healed.”
 <small><sub>**Literal:**</sub></small>
 She was saying for that If I shall touch even the garments of Him I will be healed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.27|<< Mark 5:27]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.29|Mark 5:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | She was saying |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

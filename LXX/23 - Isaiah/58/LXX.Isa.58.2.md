@@ -1,10 +1,7 @@
 **LXX Isaiah 58:2** 
 <small><sub>**LXX:**</sub></small>
 They seek me day by day, and they desire to know my ways, as a people executing righteousness, and not abandoning judgment of their God. They ask me now for a just judgment, and they desire to approach to God, 
-<small><sub>**KJV:**</sub></small>
-Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God.
-<small><sub>**BSB:**</sub></small>
-For day after day they seek Me and delight to know My ways, like a nation that does what is right and does not forsake the justice of their God. They ask Me for righteous judgments; they delight in the nearness of God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.1|<< Isaiah 58:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.3|Isaiah 58:3 >>]]</td></tr></table>
 
 | Translation | Greek |

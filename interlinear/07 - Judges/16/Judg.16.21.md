@@ -1,4 +1,4 @@
-**Judges 16:21** 
+**Judges 16:21**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Philistines took him, and put out his eyes, and brought him down to Gaza, and bound him with fetters of brass; and he did grind in the prison house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Philistines seized him, gouged out his eyes, and brought him down to Ga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.20|<< Judges 16:20]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.22|Judges 16:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they seized him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0270\|יֹּאחֲז֣וּ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.cha.Zu.<small><sup>[[HVqw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּ֔ים]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

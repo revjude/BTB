@@ -1,4 +1,4 @@
-**Psalms 107:2** 
+**Psalms 107:2**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the redeemed of the LORD say [so], whom he hath redeemed from the hand of the enemy;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the redeemed of the LORD say so, whom He has redeemed from the hand of the e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.1|<< Psalms 107:1]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.3|Psalms 107:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them say  |**<big>&#8207;[[H0559\|יֹ֭אמְרוּ]]&#8207; </big>**| Yo.me.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] redeemed of  |**<big>&#8207;[[H1350A\|גְּאוּלֵ֣י]]&#8207; </big>**| ge.'u.Lei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

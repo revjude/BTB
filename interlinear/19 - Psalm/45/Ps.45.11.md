@@ -1,4 +1,4 @@
-**Psalms 45:11** (45:12)
+**Psalms 45:11**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall the king greatly desire thy beauty: for he [is] thy Lord; and worship thou him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the king will desire your beauty; bow to him, for he is your lord.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.10|<< Psalms 45:10]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.12|Psalms 45:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so may he desire  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0183\|יִתְאָ֣ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yit.'Av<small><sup>[[HVtj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֣לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

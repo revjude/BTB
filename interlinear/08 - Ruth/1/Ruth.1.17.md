@@ -1,4 +1,4 @@
-**Ruth 1:17** 
+**Ruth 1:17**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, [if ought] but death part thee and me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where you die, I will die, and there I will be buried. May the LORD punish me, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.16|<< Ruth 1:16]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.18|Ruth 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at where  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H0834B\|אֲשֶׁ֤ר]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will die  |**<big>&#8207;[[H4191\|תָּמ֙וּתִי֙]]&#8207; </big>**| ta.Mu.ti<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

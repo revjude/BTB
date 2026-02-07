@@ -1,12 +1,12 @@
-**Mark 2:20
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:20**<big><big>[[Mark.2.18 Questions about Fasting|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.
 <small><sub>**BSB:**</sub></small>
 But the time will come when the bridegroom will be taken from them; then they will fast.
 <small><sub>**Literal:**</sub></small>
 Will come however [the] days when may have been taken away from them the bridegroom, and then they will fast in that <the> day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.19|<< Mark 2:19]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.21|Mark 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Will come |**<big>[[G2064\|ἐλεύσονται]]</big>**  |eleusontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

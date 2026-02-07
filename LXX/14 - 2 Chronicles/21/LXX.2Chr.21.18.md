@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:18** 
 <small><sub>**LXX:**</sub></small>
 And after all these \[things\] \[the\] <span class="smallcaps">lord</span> struck him in  his belly with a sickness in which there is no healing. 
-<small><sub>**KJV:**</sub></small>
-And after all this the LORD smote him in his bowels with an incurable disease.
-<small><sub>**BSB:**</sub></small>
-After all this, the LORD afflicted Jehoram with an incurable disease of the bowels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.17|<< 2 Chronicles 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.19|2 Chronicles 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 34:35** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel saw the face of Moses, that it was glorified; and Moses put \[the\] covering upon  his face until whenever he entered to converse together with him. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel saw the face of Moses, that the skin of Moses’ face shone: and Moses put the vail upon his face again, until he went in to speak with him.
-<small><sub>**BSB:**</sub></small>
-and the Israelites would see that the face of Moses was radiant. So Moses would put the veil back over his face until he went in to speak with the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.34|<< Exodus 34:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.1|Exodus 35:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 34:35** is...

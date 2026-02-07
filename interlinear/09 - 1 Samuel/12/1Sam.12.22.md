@@ -1,4 +1,4 @@
-**1 Samuel 12:22** 
+**1 Samuel 12:22**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD will not forsake his people for his great name’s sake: because it hath pleased the LORD to make you his people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Indeed, for the sake of His great name, the LORD will not abandon His people, be
 > $\quad$ referenced by: [[Rom.11.2|Rom 11:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֠י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

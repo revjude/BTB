@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:18** 
 <small><sub>**LXX:**</sub></small>
 In hearing I heard Ephraim grieving, \[saying\], You corrected me, and I was corrected. I, as a calf, was not taught. Turn me! and I will turn. For you \[are\] \[the\] <span class="smallcaps">lord</span>  my God. 
-<small><sub>**KJV:**</sub></small>
-I have surely heard Ephraim bemoaning himself [thus]; Thou hast chastised me, and I was chastised, as a bullock unaccustomed [to the yoke]: turn thou me, and I shall be turned; for thou [art] the LORD my God.
-<small><sub>**BSB:**</sub></small>
-I have surely heard Ephraim’s moaning: ‘You disciplined me severely, like an untrained calf. Restore me, that I may return, for You are the LORD my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.17|<< Jeremiah 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.19|Jeremiah 31:19 >>]]</td></tr></table>
 
 | Translation | Greek |

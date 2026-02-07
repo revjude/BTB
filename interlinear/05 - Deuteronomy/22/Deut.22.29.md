@@ -1,4 +1,4 @@
-**Deuteronomy 22:29** 
+**Deuteronomy 22:29**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the man that lay with her shall give unto the damsel’s father fifty [shekels] of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then the man who lay with her must pay the young woman’s father fifty shekels 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.28|<< Deuteronomy 22:28]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.30|Deuteronomy 22:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will give  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H5414N\|נָתַן]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> na.tan<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֨ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

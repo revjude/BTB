@@ -1,4 +1,4 @@
-**1 Chronicles 12:28** (12:29)
+**1 Chronicles 12:28**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zadok, a young man mighty of valour, and of his father’s house twenty and two captains.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Zadok, a mighty young man of valor, with 22 commanders from his own family.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.27|<< 1 Chronicles 12:27]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.29|1 Chronicles 12:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Zadok  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6659G\|צָד֥וֹק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.Dok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a young man  |**<big>&#8207;[[H5288\|נַ֖עַר]]&#8207; </big>**| Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

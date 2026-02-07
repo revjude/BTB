@@ -1,10 +1,7 @@
 **LXX Psalm 137:3** 
 <small><sub>**LXX:**</sub></small>
 For there the ones capturing us asked us of words of odes; and the ones having taken us away \[asked for\] a hymn -- Sing to us from the odes of Zion! 
-<small><sub>**KJV:**</sub></small>
-For there they that carried us away captive required of us a song; and they that wasted us [required of us] mirth, [saying], Sing us [one] of the songs of Zion.
-<small><sub>**BSB:**</sub></small>
-for there our captors requested a song; our tormentors demanded songs of joy: “Sing us a song of Zion.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.137.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.137.2|<< Psalm 137:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.137.4|Psalm 137:4 >>]]</td></tr></table>
 
 | Translation | Greek |

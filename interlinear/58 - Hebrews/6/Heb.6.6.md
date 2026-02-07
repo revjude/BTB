@@ -1,12 +1,12 @@
-**Hebrews 6:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:6**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put [him] to an open shame.
 <small><sub>**BSB:**</sub></small>
 and then have fallen away—to be restored to repentance, because they themselves are crucifying the Son of God all over again and subjecting Him to open shame.
 <small><sub>**Literal:**</sub></small>
 and then having fallen away — again to restore [them] to repentance crucifying in themselves the Son <the> of God and subjecting [Him] to open shame.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.5|<< Hebrews 6:5]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.7|Hebrews 6:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and then |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having fallen away — |**<big>[[G3895\|παραπεσόντας]]</big>**  |parapesontas <small><sup>[[V-2AAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

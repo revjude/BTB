@@ -1,4 +1,4 @@
-**Ezekiel 42:14** 
+**Ezekiel 42:14**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the priests enter therein, then shall they not go out of the holy [place] into the utter court, but there they shall lay their garments wherein they minister; for they [are] holy; and shall put on other garments, and shall approach to [those things] which [are] for the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once the priests have entered the holy area, they must not go out into the outer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.13|<< Ezekiel 42:13]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.15|Ezekiel 42:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when go they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0935G\|בֹאָ֣]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> vo.'A<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

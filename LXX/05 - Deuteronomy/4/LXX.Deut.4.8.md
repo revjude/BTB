@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:8** 
 <small><sub>**LXX:**</sub></small>
 And what great nation in which there is to it just ordinances and judgments according to all  this law, which I give before you today? 
-<small><sub>**KJV:**</sub></small>
-And what nation [is there so] great, that hath statutes and judgments [so] righteous as all this law, which I set before you this day?
-<small><sub>**BSB:**</sub></small>
-And what nation is great enough to have righteous statutes and ordinances like this entire law I set before you today?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.7|<< Deuteronomy 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.9|Deuteronomy 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

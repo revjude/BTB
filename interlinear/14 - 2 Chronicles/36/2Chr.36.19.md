@@ -1,4 +1,4 @@
-**2 Chronicles 36:19** 
+**2 Chronicles 36:19**<big><big>[[2Chr.36.15 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Chaldeans set fire to the house of God and broke down the wall of Jerus
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.18|<< 2 Chronicles 36:18]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.20|2 Chronicles 36:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they burned  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H8313\|יִּשְׂרְפוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.re.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

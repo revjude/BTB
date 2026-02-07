@@ -1,5 +1,5 @@
-**Revelation 9:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:9**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they had breastplates, as it were breastplates of iron; and the sound of their wings [was] as the sound of chariots of many horses running to battle.
 <small><sub>**BSB:**</sub></small>
 They also had breastplates like breastplates of iron, and the sound of their wings was like the roar of many horses and chariots rushing into battle.
@@ -10,7 +10,7 @@ And they had breastplates like breastplates of iron, and the sound of the wings 
 > $\quad$ alluding to: [[LXX.Joel.1.6|Joel 1:6]] ☩ [[LXX.Joel.2.4|Joel 2:4]] ☩ [[LXX.Joel.2.5|Joel 2:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they had |**<big>[[G2192\|εἶχον]]</big>**  [^1] |eichon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

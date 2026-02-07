@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:13** 
 <small><sub>**LXX:**</sub></small>
 And all the people hearing shall fear, and shall not be impious any more. 
-<small><sub>**KJV:**</sub></small>
-And all the people shall hear, and fear, and do no more presumptuously.
-<small><sub>**BSB:**</sub></small>
-Then all the people will hear and be afraid, and will no longer behave arrogantly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.12|<< Deuteronomy 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.14|Deuteronomy 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

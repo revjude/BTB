@@ -1,10 +1,7 @@
 **LXX Esther 5:9** 
 <small><sub>**LXX:**</sub></small>
 And Haman went forth from the king overjoyed and being glad. But in  Haman seeing Mordecai the Jew in the courtyard, he was enraged exceedingly. 
-<small><sub>**KJV:**</sub></small>
-Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.
-<small><sub>**BSB:**</sub></small>
-That day Haman went out full of joy and glad of heart. At the king’s gate, however, he saw Mordecai, who did not rise or tremble in fear at his presence. And Haman was filled with rage toward Mordecai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.8|<< Esther 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.10|Esther 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

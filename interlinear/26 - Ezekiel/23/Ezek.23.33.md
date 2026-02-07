@@ -1,4 +1,4 @@
-**Ezekiel 23:33** 
+**Ezekiel 23:33**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be filled with drunkenness and sorrow, with the cup of astonishment and desolation, with the cup of thy sister Samaria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be filled with drunkenness and grief, with a cup of devastation and des
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.32|<< Ezekiel 23:32]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.34|Ezekiel 23:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | drunkenness  |**<big>&#8207;[[H7943\|שִׁכָּר֥וֹן]]&#8207; </big>**| shi.ka.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and sorrow  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3015\|יָג֖וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Gon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

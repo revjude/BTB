@@ -1,10 +1,7 @@
 **LXX Exodus 25:7** 
 <small><sub>**LXX:**</sub></small>
 and stones of sardius, and stones for the carving for the shoulder-piece, and the foot length robe. 
-<small><sub>**KJV:**</sub></small>
-Onyx stones, and stones to be set in the ephod, and in the breastplate.
-<small><sub>**BSB:**</sub></small>
-and onyx stones and gemstones to be mounted on the ephod and breastpiece.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.6|<< Exodus 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.8|Exodus 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

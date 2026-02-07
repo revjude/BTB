@@ -1,10 +1,7 @@
 **LXX Proverbs 9:17** 
 <small><sub>**LXX:**</sub></small>
 Bread loaves of secrets you touch with pleasure, and water of fraud you drink sweet! 
-<small><sub>**KJV:**</sub></small>
-Stolen waters are sweet, and bread [eaten] in secret is pleasant.
-<small><sub>**BSB:**</sub></small>
-“Stolen water is sweet, and bread eaten in secret is tasty!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.16|<< Proverbs 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.18|Proverbs 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

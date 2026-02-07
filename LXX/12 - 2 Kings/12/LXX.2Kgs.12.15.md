@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:15** 
 <small><sub>**LXX:**</sub></small>
 And they did not call into account the men to whom was given the money into their hands, to give to the ones doing the work; for they were acting in trust. 
-<small><sub>**KJV:**</sub></small>
-Moreover they reckoned not with the men, into whose hand they delivered the money to be bestowed on workmen: for they dealt faithfully.
-<small><sub>**BSB:**</sub></small>
-No accounting was required from the men who received the money to pay the workmen, because they acted with integrity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.14|<< 2 Kings 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.16|2 Kings 12:16 >>]]</td></tr></table>
 
 | Translation | Greek |

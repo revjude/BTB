@@ -1,4 +1,4 @@
-**Psalms 147:19** 
+**Psalms 147:19**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sheweth his word unto Jacob, his statutes and his judgments unto Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He declares His word to Jacob, His statutes and judgments to Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.18|<< Psalms 147:18]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.20|Psalms 147:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the one who] declares  |**<big>&#8207;[[H5046\|מַגִּ֣יד]]&#8207; </big>**| ma.Gid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | words his  [^2]|**<big>&#8207;[[H1697G\|דְּבָרָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^3] | de.va.ro<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

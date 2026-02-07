@@ -1,10 +1,7 @@
 **LXX Daniel 9:3** 
 <small><sub>**LXX:**</sub></small>
 And I put  my face towards \[the\] <span class="smallcaps">lord</span>  God,  to inquire by prayer and supplication, in fasting, and sackcloth, and ashes. 
-<small><sub>**KJV:**</sub></small>
-And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:
-<small><sub>**BSB:**</sub></small>
-So I turned my attention to the Lord God to seek Him by prayer and petition, with fasting, sackcloth, and ashes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.2|<< Daniel 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.4|Daniel 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

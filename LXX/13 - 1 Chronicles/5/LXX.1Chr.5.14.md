@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:14** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] \[the\] sons of Abihail son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz, 
-<small><sub>**KJV:**</sub></small>
-These [are] the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;
-<small><sub>**BSB:**</sub></small>
-These were the sons of Abihail son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.13|<< 1 Chronicles 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.15|1 Chronicles 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezra 8:28** 
+**Ezra 8:28**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto them, Ye [are] holy unto the LORD; the vessels [are] holy also; and the silver and the gold [are] a freewill offering unto the LORD God of your fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I told them, “You are holy to the LORD, and these articles are holy. The 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.27|<< Ezra 8:27]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.29|Ezra 8:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמְרָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.me.Ra<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H0413\|אֲלֵ]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| 'a.le.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

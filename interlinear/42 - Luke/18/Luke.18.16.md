@@ -1,12 +1,12 @@
-**Luke 18:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:16**<big><big>[[Luke.18.15 Jesus Blesses the Children|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus called them [unto him], and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 But Jesus called the children to Him and said, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these.
 <small><sub>**Literal:**</sub></small>
 <the> But Jesus called them speaking; do permit the little children to come to Me and not do forbid them; <the> for of such is the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.15|<< Luke 18:15]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.17|Luke 18:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

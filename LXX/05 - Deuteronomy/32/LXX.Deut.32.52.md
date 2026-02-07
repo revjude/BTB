@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:52** 
 <small><sub>**LXX:**</sub></small>
 For you shall see the land before \[you\], and you shall not enter there, into the land which I give to the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Yet thou shalt see the land before [thee]; but thou shalt not go thither unto the land which I give the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Although you shall see from a distance the land that I am giving the Israelites, you shall not enter it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.51|<< Deuteronomy 32:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.1|Deuteronomy 33:1 >>]]</td></tr></table>
 
 | Translation | Greek |

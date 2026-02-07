@@ -1,4 +1,4 @@
-**Proverbs 16:19** 
+**Proverbs 16:19**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [it is to be] of an humble spirit with the lowly, than to divide the spoil with the proud.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is better to be lowly in spirit among the humble than to divide the spoil wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.18|<< Proverbs 16:18]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.20|Proverbs 16:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֣וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to be lowly  |**<big>&#8207;[[H8213\|שְׁפַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.fal-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

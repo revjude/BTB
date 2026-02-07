@@ -1,4 +1,4 @@
-**Proverbs 24:11** 
+**Proverbs 24:11**<big><big>[[Prov.24.10 Saying 25|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou forbear to deliver [them that are] drawn unto death, and [those that are] ready to be slain;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rescue those being led away to death, and restrain those stumbling toward the sl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.10|<< Proverbs 24:10]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.12|Proverbs 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deliver  |**<big>&#8207;[[H5337\|הַ֭צֵּל]]&#8207; </big>**| Ha.tzel<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those being] taken  |**<big>&#8207;[[H3947G\|לְקֻחִ֣ים]]&#8207; </big>**| le.ku.Chim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 14:18** 
+**Exodus 14:18**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Egyptians shall know that I [am] the LORD, when I have gotten me honour upon Pharaoh, upon his chariots, and upon his horsemen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Egyptians will know that I am the LORD when I am honored through Pharaoh, hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.17|<< Exodus 14:17]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.19|Exodus 14:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדְע֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4713\|מִצְרַ֖יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

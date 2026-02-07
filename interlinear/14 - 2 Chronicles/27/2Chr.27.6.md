@@ -1,4 +1,4 @@
-**2 Chronicles 27:6** 
+**2 Chronicles 27:6**<big><big>[[2Chr.27.1 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jotham became mighty, because he prepared his ways before the LORD his God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jotham grew powerful because he ordered his ways before the LORD his God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27.5|<< 2 Chronicles 27:5]]</td><td align="center" style="border:none;">[[2Chr.27|2 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.7|2 Chronicles 27:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he strengthened himself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|יִּתְחַזֵּ֖ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.cha.Zek<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jotham  |**<big>&#8207;[[H3147H\|יוֹתָ֑ם]]&#8207; </big>**| yo.Tam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

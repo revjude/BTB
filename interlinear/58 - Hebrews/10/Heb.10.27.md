@@ -1,5 +1,5 @@
-**Hebrews 10:27
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:27**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.
 <small><sub>**BSB:**</sub></small>
 but only a fearful expectation of judgment and of raging fire that will consume all adversaries.
@@ -11,7 +11,7 @@ terrifying however a certain expectation of judgment and of fire fury to devour 
 > $\quad$ possibly alluding to: [[LXX.Isa.64.1|Isa 64:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | terrifying |**<big>[[G5398\|φοβερὰ]]</big>**  |phobera <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

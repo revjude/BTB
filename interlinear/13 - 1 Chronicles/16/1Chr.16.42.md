@@ -1,4 +1,4 @@
-**1 Chronicles 16:42** 
+**1 Chronicles 16:42**<big><big>[[1Chr.16.37 Worship before the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun [were] porters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Heman and Jeduthun had with them trumpets and cymbals for the music and instrume
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.41|<< 1 Chronicles 16:41]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.43|1 Chronicles 16:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] with them  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5973A\|עִמָּ]]&#8207;&#8207;[[H9038\|הֶם֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.ma.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Heman  |**<big>&#8207;[[H1968I\|הֵימָ֨ן]]&#8207; </big>**| hei.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

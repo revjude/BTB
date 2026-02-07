@@ -1,12 +1,12 @@
-**Titus 3:1
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:1**<big><big>[[Titus.3.1 Heirs of Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,
 <small><sub>**BSB:**</sub></small>
 Remind the believers to submit to rulers and authorities, to be obedient and ready for every good work,
 <small><sub>**Literal:**</sub></small>
 do remind them to rulers and to authorities to be subject, to be obedient, for every work good ready to be,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.15|<< Titus 2:15]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.2|Titus 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do remind |**<big>[[G5279\|Ὑπομίμνῃσκε]]</big>**  |Hupomimnēske <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them |**<big>[[G0846\|αὐτοὺς]]</big>**  |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

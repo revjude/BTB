@@ -1,4 +1,4 @@
-**Exodus 38:19** 
+**Exodus 38:19**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their pillars [were] four, and their sockets [of] brass four; their hooks [of] silver, and the overlaying of their chapiters and their fillets [of] silver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ with four posts and four bronze bases. Their hooks were silver, as well as the b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.18|<< Exodus 38:18]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.20|Exodus 38:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and pillars their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5982G\|עַמֻּֽדֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.mu.dei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | four  |**<big>&#8207;[[H0702\|אַרְבָּעָ֔ה]]&#8207; </big>**| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:6** 
 <small><sub>**LXX:**</sub></small>
 And he went in the way of \[the\] kings of Israel, as did \[the\] house of Ahab, for a daughter of Ahab was to him for a wife. And he did the wicked \[thing\] before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he walked in the way of the kings of Israel, like as did the house of Ahab: for he had the daughter of Ahab to wife: and he wrought [that which was] evil in the eyes of the LORD.
-<small><sub>**BSB:**</sub></small>
-And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab had done. For he married a daughter of Ahab and did evil in the sight of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.5|<< 2 Chronicles 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.7|2 Chronicles 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

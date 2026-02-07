@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:13** 
 <small><sub>**LXX:**</sub></small>
 O son of man, a land,  if it should sin against me  to fall into transgression, then I shall stretch out  my hand against it, and I will break its reliance on bread, and I will send upon it famine, and I will lift away man and beast from it. 
-<small><sub>**KJV:**</sub></small>
-Son of man, when the land sinneth against me by trespassing grievously, then will I stretch out mine hand upon it, and will break the staff of the bread thereof, and will send famine upon it, and will cut off man and beast from it:
-<small><sub>**BSB:**</sub></small>
-“Son of man, if a land sins against Me by acting unfaithfully, and I stretch out My hand against it to cut off its supply of food, to send famine upon it, and to cut off from it both man and beast,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.12|<< Ezekiel 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.14|Ezekiel 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

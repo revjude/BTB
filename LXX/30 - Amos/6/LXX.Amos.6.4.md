@@ -1,10 +1,7 @@
 **LXX Amos 6:4** 
 <small><sub>**LXX:**</sub></small>
 the ones sleeping upon beds of ivory, and living wastefully upon  their strewn beds, and eating kids of \[the\] flocks, and young calves of \[the\] midst of \[the\] herds -- sucklings; 
-<small><sub>**KJV:**</sub></small>
-That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;
-<small><sub>**BSB:**</sub></small>
-You lie on beds inlaid with ivory, and lounge upon your couches. You dine on lambs from the flock and calves from the stall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.3|<< Amos 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.5|Amos 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

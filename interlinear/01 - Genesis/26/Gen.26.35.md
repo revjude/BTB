@@ -1,4 +1,4 @@
-**Genesis 26:35** 
+**Genesis 26:35**<big><big>[[Gen.26.34 Esau’s Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which were a grief of mind unto Isaac and to Rebekah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they brought grief to Isaac and Rebekah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.34|<< Genesis 26:34]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.1|Genesis 27:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תִּהְיֶ֖יןָ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tih.Yei.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bitterness of  |**<big>&#8207;[[H4786\|מֹ֣רַת]]&#8207; </big>**| Mo.rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

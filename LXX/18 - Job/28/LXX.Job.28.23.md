@@ -1,10 +1,7 @@
 **LXX Job 28:23** 
 <small><sub>**LXX:**</sub></small>
 God commended her way well; and he knows  her place. 
-<small><sub>**KJV:**</sub></small>
-God understandeth the way thereof, and he knoweth the place thereof.
-<small><sub>**BSB:**</sub></small>
-But God understands its way, and He knows its place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.22|<< Job 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.24|Job 28:24 >>]]</td></tr></table>
 
 | Translation | Greek |

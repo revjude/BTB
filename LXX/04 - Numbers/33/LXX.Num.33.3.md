@@ -1,10 +1,7 @@
 **LXX Numbers 33:3** 
 <small><sub>**LXX:**</sub></small>
 Departing from out of Rameses in the first month, the fifteenth day of the first month; the next day of the passover the sons of Israel came forth with a high hand before all the Egyptians. 
-<small><sub>**KJV:**</sub></small>
-And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.
-<small><sub>**BSB:**</sub></small>
-On the fifteenth day of the first month, on the day after the Passover, the Israelites set out from Rameses. They marched out defiantly in full view of all the Egyptians,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.2|<< Numbers 33:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.4|Numbers 33:4 >>]]</td></tr></table>
 
 | Translation | Greek |

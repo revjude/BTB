@@ -1,4 +1,4 @@
-**Isaiah 60:3** 
+**Isaiah 60:3**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Gentiles shall come to thy light, and kings to the brightness of thy rising.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Nations will come to your light, and kings to the brightness of your dawn.
 > $\quad$ referenced by: [[Rev.21.24|Rev 21:24-25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980H\|הָלְכ֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.le.Khu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גוֹיִ֖ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

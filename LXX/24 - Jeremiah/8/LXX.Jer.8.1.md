@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  that time, says \[the\] <span class="smallcaps">lord</span>, They shall bring forth the bones of the kings of Judah, and the bones  of its rulers, and the bones of the priests, and the bones  of their prophets, and the bones of the ones dwelling in Jerusalem, from out of  their burying-places. 
-<small><sub>**KJV:**</sub></small>
-At that time, saith the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:
-<small><sub>**BSB:**</sub></small>
-“At that time,” declares the LORD, “the bones of the kings of Judah, the bones of the officials, the bones of the priests, the bones of the prophets, and the bones of the people of Jerusalem will be removed from their graves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.34|<< Jeremiah 7:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.2|Jeremiah 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 80:14** (80:15)
+**Psalms 80:14**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Return, we beseech thee, O God of hosts: look down from heaven, and behold, and visit this vine;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Return, O God of Hosts, we pray! Look down from heaven and see! Attend to this v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.13|<< Psalms 80:13]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.15|Psalms 80:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God of  |**<big>&#8207;[[H0430G\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hosts  |**<big>&#8207;[[H6635B\|צְבָאוֹת֮]]&#8207; </big>**| tze.va.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

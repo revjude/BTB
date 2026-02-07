@@ -1,10 +1,7 @@
 **LXX Psalm 72:14** 
 <small><sub>**LXX:**</sub></small>
 From interest and from injustice he shall ransom  their souls, and his valued name \[will be\] before them. 
-<small><sub>**KJV:**</sub></small>
-He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight.
-<small><sub>**BSB:**</sub></small>
-He will redeem them from oppression and violence, for their blood is precious in his sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.13|<< Psalm 72:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.15|Psalm 72:15 >>]]</td></tr></table>
 
 | Translation | Greek |

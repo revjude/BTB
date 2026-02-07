@@ -1,12 +1,12 @@
-**Hebrews 10:29
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:29**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 <small><sub>**BSB:**</sub></small>
 How much more severely do you think one deserves to be punished who has trampled on the Son of God, profaned the blood of the covenant that sanctified him, and insulted the Spirit of grace?
 <small><sub>**Literal:**</sub></small>
 How much think you worse will he deserve punishment the [one] the Son <the> of God having trampled upon and the blood of the covenant ordinary having esteemed by which he was sanctified and the Spirit <the> of grace having insulted?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.28|<< Hebrews 10:28]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.30|Hebrews 10:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | How much |**<big>[[G4214\|πόσῳ,]]</big>**  |posō <small><sup>[[Q-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | think you |**<big>[[G1380\|δοκεῖτε,]]</big>**  |dokeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

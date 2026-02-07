@@ -1,4 +1,4 @@
-**Proverbs 11:4** 
+**Proverbs 11:4**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Riches profit not in the day of wrath: but righteousness delivereth from death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Riches are worthless in the day of wrath, but righteousness brings deliverance f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.3|<< Proverbs 11:3]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.5|Proverbs 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it profits  |**<big>&#8207;[[H3276\|יוֹעִ֣יל]]&#8207; </big>**| yo.'Il<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

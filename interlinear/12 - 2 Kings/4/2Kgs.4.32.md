@@ -1,4 +1,4 @@
-**2 Kings 4:32** 
+**2 Kings 4:32**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Elisha was come into the house, behold, the child was dead, [and] laid upon his bed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Elisha reached the house, there was the boy lying dead on his bed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.31|<< 2 Kings 4:31]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.33|2 Kings 4:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elisha  |**<big>&#8207;[[H0477\|אֱלִישָׁ֖ע]]&#8207; </big>**| 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

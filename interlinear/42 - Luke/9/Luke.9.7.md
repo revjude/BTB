@@ -1,12 +1,12 @@
-**Luke 9:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:7**<big><big>[[Luke.9.7 Herod Tries to See Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;
 <small><sub>**BSB:**</sub></small>
 When Herod the tetrarch heard about all that was happening, he was perplexed. For some were saying that John had risen from the dead,
 <small><sub>**Literal:**</sub></small>
 Heard of now Herod the Tetrarch the [things] being done by him all and was perplexed because of the saying by some that John has been raised out from [the] dead,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.6|<< Luke 9:6]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.8|Luke 9:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Heard of |**<big>[[G0191\|Ἤκουσεν]]</big>**  |Ēkousen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

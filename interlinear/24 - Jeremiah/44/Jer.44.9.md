@@ -1,4 +1,4 @@
-**Jeremiah 44:9** 
+**Jeremiah 44:9**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have you forgotten the wickedness of your fathers and of the kings of Judah and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.8|<< Jeremiah 44:8]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.10|Jeremiah 44:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ have you forgotten  |**<big>&#8207;[[H9008\|הַֽ]]&#8207;&#8207;[[H7911\|שְׁכַחְתֶּם֩]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> sh.khach.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

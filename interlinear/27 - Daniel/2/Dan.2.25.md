@@ -1,4 +1,4 @@
-**Daniel 2:25** 
+**Daniel 2:25**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arioch hastily brought Daniel before the king and said to him, “I have found a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.24|<< Daniel 2:24]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.26|Daniel 2:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֤יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Arioch  |**<big>&#8207;[[H0746B\|אַרְיוֹךְ֙]]&#8207; </big>**| 'ar.yoKh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

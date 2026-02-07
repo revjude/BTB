@@ -1,4 +1,4 @@
-**Isaiah 30:9** 
+**Isaiah 30:9**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That this [is] a rebellious people, lying children, children [that] will not hear the law of the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are rebellious people, deceitful children, children unwilling to obey the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.8|<< Isaiah 30:8]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.10|Isaiah 30:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a people of  |**<big>&#8207;[[H5971A\|עַ֤ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

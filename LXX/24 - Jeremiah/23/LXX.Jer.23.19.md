@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:19** 
 <small><sub>**LXX:**</sub></small>
 Behold, a quaking by \[the\] <span class="smallcaps">lord</span>, and anger shall go forth in a rumbling. It shall come contracting upon the impious. 
-<small><sub>**KJV:**</sub></small>
-Behold, a whirlwind of the LORD is gone forth in fury, even a grievous whirlwind: it shall fall grievously upon the head of the wicked.
-<small><sub>**BSB:**</sub></small>
-Behold, the storm of the LORD has gone out with fury, a whirlwind swirling down upon the heads of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.18|<< Jeremiah 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.20|Jeremiah 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

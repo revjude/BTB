@@ -1,12 +1,12 @@
-**Matthew 9:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:14**<big><big>[[Matt.9.14 Questions about Fasting|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?
 <small><sub>**BSB:**</sub></small>
 Then John’s disciples came to Jesus and asked, “Why is it that we and the Pharisees fast so often, but Your disciples do not fast?”
 <small><sub>**Literal:**</sub></small>
 Then come to Him the disciples of John saying; Because of why we ourselves and the Pharisees do fast many times, the however disciples of You not fast?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.13|<< Matthew 9:13]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.15|Matthew 9:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | come |**<big>[[G4334\|προσέρχονται]]</big>**  |proserchontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

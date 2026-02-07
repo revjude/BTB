@@ -1,4 +1,4 @@
-**Exodus 33:8** 
+**Exodus 33:8**<big><big>[[Exod.33.7 The Tent of Meeting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Moses went out unto the tabernacle, [that] all the people rose up, and stood every man [at] his tent door, and looked after Moses, until he was gone into the tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then, whenever Moses went out to the tent, all the people would stand at the ent
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.7|<< Exodus 33:7]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.9|Exodus 33:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when went out  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3318G\|צֵ֤את]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Tzet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

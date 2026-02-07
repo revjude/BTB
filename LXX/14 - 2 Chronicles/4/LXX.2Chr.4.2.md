@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:2** 
 <small><sub>**LXX:**</sub></small>
 And he made the cast sea -- ten cubits the diameter, from  its lip to  its lip, globular round about, and five cubits \[was\] the height. And the circumference -- thirty cubits encircled it round about. 
-<small><sub>**KJV:**</sub></small>
-Also he made a molten sea of ten cubits from brim to brim, round in compass, and five cubits the height thereof; and a line of thirty cubits did compass it round about.
-<small><sub>**BSB:**</sub></small>
-He also made the Sea of cast metal. It was circular in shape, measuring ten cubits from rim to rim, five cubits in height, and thirty cubits in circumference.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.1|<< 2 Chronicles 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.3|2 Chronicles 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

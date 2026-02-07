@@ -1,6 +1,6 @@
-**Psalms 48:1** (48:2)
+**Psalms 48:1**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Song [and] Psalm for the sons of Korah. Great [is] the LORD, and greatly to be praised in the city of our God, [in] the mountain of his holiness.
+Great [is] the LORD, and greatly to be praised in the city of our God, [in] the mountain of his holiness.
 <small><sub>**BSB:**</sub></small>
 A song. A Psalm of the sons of Korah. Great is the LORD, and greatly to be praised in the city of our God, His holy mountain.
 <small><sub>**LXX:**</sub></small>
@@ -10,7 +10,7 @@ A song. A Psalm of the sons of Korah. Great is the LORD, and greatly to be prais
 > $\quad$ referenced by: [[Matt.5.35|Matt 5:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] great  |**<big>&#8207;[[H1419A\|גָּ֘ד֤וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

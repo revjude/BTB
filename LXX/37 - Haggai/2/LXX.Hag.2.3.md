@@ -1,10 +1,7 @@
 **LXX Haggai 2:3** 
 <small><sub>**LXX:**</sub></small>
 Who \[is there\] of you who beheld  this house in the former glory of it? And how do you see it now? \[Is it\] as not existing before you? 
-<small><sub>**KJV:**</sub></small>
-Who [is] left among you that saw this house in her first glory? and how do ye see it now? [is it] not in your eyes in comparison of it as nothing?
-<small><sub>**BSB:**</sub></small>
-‘Who is left among you who saw this house in its former glory? How does it look to you now? Does it not appear to you like nothing in comparison?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.2|<< Haggai 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.4|Haggai 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

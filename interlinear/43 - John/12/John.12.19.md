@@ -1,12 +1,12 @@
-**John 12:19
-**<small><sub>**KJV:**</sub></small>
+**John 12:19**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him.
 <small><sub>**BSB:**</sub></small>
 Then the Pharisees said to one another, “You can see that this is doing you no good. Look how the whole world has gone after Him!”
 <small><sub>**Literal:**</sub></small>
 <the> Therefore the Pharisees said among themselves; You see that not you gain no [thing]? Behold the world wholly after Him has gone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.18|<< John 12:18]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.20|John 12:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

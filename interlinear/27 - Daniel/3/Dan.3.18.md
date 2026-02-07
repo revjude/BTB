@@ -1,4 +1,4 @@
-**Daniel 3:18** 
+**Daniel 3:18**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But even if He does not, let it be known to you, O king, that we will not serve 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.17|<< Daniel 3:17]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.19|Daniel 3:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2006A\|הֵ֣ן]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> Hen<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3809\|לָ֔א]]&#8207; </big>**| La'<small><sup>[[ATn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in \[the\] third year  of Hoshea son of Elah king of Israel, Hezekiah son of Ahaz king of Judah reigned. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass in the third year of Hoshea son of Elah king of Israel, [that] Hezekiah the son of Ahaz king of Judah began to reign.
-<small><sub>**BSB:**</sub></small>
-In the third year of the reign of Hoshea son of Elah over Israel, Hezekiah son of Ahaz became king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.41|<< 2 Kings 17:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.2|2 Kings 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

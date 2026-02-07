@@ -1,12 +1,12 @@
-**Acts 24:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:9**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Jews also assented, saying that these things were so.
 <small><sub>**BSB:**</sub></small>
 The Jews concurred, asserting that these charges were true.
 <small><sub>**Literal:**</sub></small>
 Agreed then also the Jews declaring these things so to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.8|<< Acts 24:8]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.10|Acts 24:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Agreed [^1] |**<big>[[G9315\|συνεπέθεντο]]</big>**  |sunepethento <small><sup>[[V-2AMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

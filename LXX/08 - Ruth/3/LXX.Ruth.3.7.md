@@ -1,10 +1,7 @@
 **LXX Ruth 3:7** 
 <small><sub>**LXX:**</sub></small>
 And Boaz ate, and drank, and did good \[to\] his heart; and he went  to go to sleep in a portion of the pile. And she came in secret, and uncovered the \[things\] by his feet, and she went to sleep. 
-<small><sub>**KJV:**</sub></small>
-And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down.
-<small><sub>**BSB:**</sub></small>
-After Boaz had finished eating and drinking and was in good spirits, he went to lie down at the end of the heap of grain. Then Ruth went in secretly, uncovered his feet, and lay down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.6|<< Ruth 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.8|Ruth 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

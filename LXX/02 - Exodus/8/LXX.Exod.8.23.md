@@ -1,10 +1,7 @@
 **LXX Exodus 8:23** 
 <small><sub>**LXX:**</sub></small>
 And I will make a difference between  my people, and between  your people. And in the next morning this will be the sign upon the land. 
-<small><sub>**KJV:**</sub></small>
-And I will put a division between my people and thy people: to morrow shall this sign be.
-<small><sub>**BSB:**</sub></small>
-I will make a distinction between My people and your people. This sign will take place tomorrow.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.22|<< Exodus 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.24|Exodus 8:24 >>]]</td></tr></table>
 
 | Translation | Greek |

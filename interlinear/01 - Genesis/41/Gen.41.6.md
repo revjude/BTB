@@ -1,4 +1,4 @@
-**Genesis 41:6** 
+**Genesis 41:6**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, seven thin ears and blasted with the east wind sprung up after them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After them, seven other heads of grain sprouted, thin and scorched by the east w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.5|<< Genesis 41:5]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.7|Genesis 41:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שֶׁ֣בַע]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

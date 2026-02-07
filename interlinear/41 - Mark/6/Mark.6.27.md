@@ -1,12 +1,12 @@
-**Mark 6:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:27**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately the king sent an executioner, and commanded his head to be brought: and he went and beheaded him in the prison,
 <small><sub>**BSB:**</sub></small>
 So without delay, the king commanded that John’s head be brought in. He sent an executioner, who went and beheaded him in the prison.
 <small><sub>**Literal:**</sub></small>
 And immediately having sent the king an executioner he commanded to be brought the head of him. <the> And having gone he beheaded him in the prison<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.26|<< Mark 6:26]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.28|Mark 6:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

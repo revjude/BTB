@@ -1,10 +1,7 @@
 **LXX Psalm 46:6** 
 <small><sub>**LXX:**</sub></small>
 Nations were disturbed; kingdoms leaned; the highest gave \[out\] his voice, the earth shook. 
-<small><sub>**KJV:**</sub></small>
-The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.
-<small><sub>**BSB:**</sub></small>
-Nations rage, kingdoms crumble; the earth melts when He lifts His voice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.46.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.46.5|<< Psalm 46:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.7|Psalm 46:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 46:6** is...

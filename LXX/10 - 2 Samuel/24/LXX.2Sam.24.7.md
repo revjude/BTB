@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:7** 
 <small><sub>**LXX:**</sub></small>
 and they came into Mapsar of Tyre, and to all the cities of the Hivite, and the Canaanite. And they went out unto \[the\] south of Judah into Beer-sheba. 
-<small><sub>**KJV:**</sub></small>
-And came to the strong hold of Tyre, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, [even] to Beersheba.
-<small><sub>**BSB:**</sub></small>
-They went toward the fortress of Tyre and all the cities of the Hivites and Canaanites. Finally, they went on to the Negev of Judah, to Beersheba.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.6|<< 2 Samuel 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.8|2 Samuel 24:8 >>]]</td></tr></table>
 
 | Translation | Greek |

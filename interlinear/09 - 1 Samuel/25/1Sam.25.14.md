@@ -1,4 +1,4 @@
-**1 Samuel 25:14** 
+**1 Samuel 25:14**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But one of the young men told Abigail, Nabal’s wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, one of Nabal’s young men informed Nabal’s wife Abigail, “Look, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.13|<< 1 Samuel 25:13]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.15|1 Samuel 25:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Abigail  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0026G\|אֲבִיגַ֙יִל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.vi.Ga.yil<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wife of  |**<big>&#8207;[[H0802H\|אֵ֣שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

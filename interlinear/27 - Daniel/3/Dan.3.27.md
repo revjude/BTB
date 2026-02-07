@@ -1,4 +1,4 @@
-**Daniel 3:27** 
+**Daniel 3:27**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes, governors, and captains, and the king’s counsellers, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and when the satraps, prefects, governors, and royal advisers had gathered aroun
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.26|<< Daniel 3:26]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.28|Daniel 3:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] gathered  |**<big>&#8207;[[H9002\|וּ֠]]&#8207;&#8207;[[H3673\|מִֽתְכַּנְּשִׁין]]&#8207; </big>**| U.<small><sup>[[AC]]</sup></small> mit.ka.ne.shin<small><sup>[[AVMrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | satraps the  |**<big>&#8207;[[H0324\|אֲחַשְׁדַּרְפְּנַיָּ֞]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| 'a.chash.dar.pe.nai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:16** 
 <small><sub>**LXX:**</sub></small>
 They did not know, they did not judge with equity to \[the\] humble, nor with equity to \[the\] needy. Is this not \[because of\] your not knowing me, says \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-He judged the cause of the poor and needy; then [it was] well [with him: was] not this to know me? saith the LORD.
-<small><sub>**BSB:**</sub></small>
-He took up the cause of the poor and needy, and so it went well with him. Is this not what it means to know Me?” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.15|<< Jeremiah 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.17|Jeremiah 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

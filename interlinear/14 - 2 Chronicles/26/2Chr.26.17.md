@@ -1,4 +1,4 @@
-**2 Chronicles 26:17** 
+**2 Chronicles 26:17**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Azariah the priest went in after him, and with him fourscore priests of the LORD, [that were] valiant men:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Azariah the priest, along with eighty brave priests of the LORD, went in af
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.16|<< 2 Chronicles 26:16]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.18|2 Chronicles 26:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

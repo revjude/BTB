@@ -1,12 +1,12 @@
-**Matthew 20:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:33**<big><big>[[Matt.20.29 The Blind Men by the Road|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They say unto him, Lord, that our eyes may be opened.
 <small><sub>**BSB:**</sub></small>
 “Lord,” they answered, “let our eyes be opened.”
 <small><sub>**Literal:**</sub></small>
 They say to Him; Lord, that may be opened the eyes of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.32|<< Matthew 20:32]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.34|Matthew 20:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They say |**<big>[[G3004G\|λέγουσιν]]</big>**  |legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him; |**<big>[[G0846\|αὐτῷ·]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

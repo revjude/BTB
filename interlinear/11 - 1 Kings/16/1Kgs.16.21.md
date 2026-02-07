@@ -1,4 +1,4 @@
-**1 Kings 16:21** 
+**1 Kings 16:21**<big><big>[[1Kgs.16.21 Omri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time the people of Israel were divided: Half of the people supported Tib
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.20|<< 1 Kings 16:20]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.22|1 Kings 16:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֧ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was divided  |**<big>&#8207;[[H2505A\|יֵחָלֵ֛ק]]&#8207; </big>**| ye.cha.Lek<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 27:16** 
+**Exodus 27:16**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the gate of the court [shall be] an hanging of twenty cubits, [of] blue, and purple, and scarlet, and fine twined linen, wrought with needlework: [and] their pillars [shall be] four, and their sockets four.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The gate of the courtyard shall be twenty cubits long, with a curtain embroidere
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.15|<< Exodus 27:15]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.17|Exodus 27:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and for [the] gate of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8179G\|שַׁ֨עַר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the courtyard  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H2691A\|חָצֵ֜ר]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 6:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:1**<big><big>[[1Cor.6.1 Lawsuits among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?
 <small><sub>**BSB:**</sub></small>
 If any of you has a grievance against another, how dare he go to law before the unrighteous instead of before the saints!
 <small><sub>**Literal:**</sub></small>
 Dare anyone of you a matter having against the other go to law before the unrighteous and not [go] before the saints?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.13|<< 1 Corinthians 5:13]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.2|1 Corinthians 6:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Dare |**<big>[[G5111\|Τολμᾷ]]</big>**  |Tolma <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

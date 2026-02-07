@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:47** 
 <small><sub>**LXX:**</sub></small>
 And I shall return \[the\] captivity  of Moab in the last days, says \[the\] <span class="smallcaps">lord</span>. Unto this \[is\] the judgment of Moab. 
-<small><sub>**KJV:**</sub></small>
-Yet will I bring again the captivity of Moab in the latter days, saith the LORD. Thus far [is] the judgment of Moab.
-<small><sub>**BSB:**</sub></small>
-Yet in the latter days I will restore Moab from captivity,” declares the LORD. Here ends the judgment on Moab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.46|<< Jeremiah 48:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.1|Jeremiah 49:1 >>]]</td></tr></table>
 
 | Translation | Greek |

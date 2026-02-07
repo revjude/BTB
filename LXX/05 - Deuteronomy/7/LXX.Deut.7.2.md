@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God shall deliver them into  your hands, and you shall strike them. To extinction you shall remove them. You shall not ordain with them a covenant, nor in any way should you show mercy \[unto\] them; 
-<small><sub>**KJV:**</sub></small>
-And when the LORD thy God shall deliver them before thee; thou shalt smite them, [and] utterly destroy them; thou shalt make no covenant with them, nor shew mercy unto them:
-<small><sub>**BSB:**</sub></small>
-and when the LORD your God has delivered them over to you to defeat them, then you must devote them to complete destruction. Make no treaty with them and show them no mercy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.1|<< Deuteronomy 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.3|Deuteronomy 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

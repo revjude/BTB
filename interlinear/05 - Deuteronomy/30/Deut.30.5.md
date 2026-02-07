@@ -1,4 +1,4 @@
-**Deuteronomy 30:5** 
+**Deuteronomy 30:5**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD your God will bring you into the land your fathers possessed, and y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.4|<< Deuteronomy 30:4]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.6|Deuteronomy 30:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bring you  |**<big>&#8207;[[H9001\|וֶ]]&#8207;&#8207;[[H0935P\|הֱבִֽיאֲ]]&#8207;&#8207;[[H9031\|ךָ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.vi.'a.<small><sup>[[HVhq3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

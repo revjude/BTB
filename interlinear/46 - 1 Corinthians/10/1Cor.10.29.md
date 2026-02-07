@@ -1,12 +1,12 @@
-**1 Corinthians 10:29
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:29**<big><big>[[1Cor.10.23 All to God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Conscience, I say, not thine own, but of the other: for why is my liberty judged of another [man’s] conscience?
 <small><sub>**BSB:**</sub></small>
 the other one’s conscience, I mean, not your own. For why should my freedom be determined by someone else’s conscience?
 <small><sub>**Literal:**</sub></small>
 [the] conscience now I am saying [is] not <the> your own but that of the other. so why for the freedom of mine is judged by another’s conscience?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.28|<< 1 Corinthians 10:28]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.30|1 Corinthians 10:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] conscience |**<big>[[G4893\|συνείδησιν]]</big>**  |suneidēsin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

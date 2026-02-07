@@ -1,4 +1,4 @@
-**Hosea 6:5** 
+**Hosea 6:5**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore have I hewed [them] by the prophets; I have slain them by the words of my mouth: and thy judgments [are as] the light [that] goeth forth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore I have hewn them by the prophets; I have slain them by the words of My
 > $\quad$ referenced by: [[Eph.6.17|Eph 6:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּ֗ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

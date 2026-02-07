@@ -1,5 +1,5 @@
-**Revelation 15:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 15:7**<big><big>[[Rev.15.5 Preparation for Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever.
 <small><sub>**BSB:**</sub></small>
 Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.
@@ -10,7 +10,7 @@ And one of the four living creatures gave to the seven angels seven bowls golden
 > $\quad$ alluding to: [[LXX.Ezek.10.7|Ezek 10:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | one |**<big>[[G1520\|ἓν]]</big>**  |hen <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

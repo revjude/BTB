@@ -1,4 +1,4 @@
-**Psalms 69:13** (69:14)
+**Psalms 69:13**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for me, my prayer [is] unto thee, O LORD, [in] an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But my prayer to You, O LORD, is for a time of favor. In Your abundant loving de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.12|<< Psalms 69:12]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.14|Psalms 69:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prayer my  |**<big>&#8207;[[H8605\|תְפִלָּתִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.fi.la.t<small><sup>[[HNcfsc]]</sup></small> i-<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

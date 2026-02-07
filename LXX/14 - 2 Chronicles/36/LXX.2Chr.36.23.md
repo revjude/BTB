@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 36:23** 
 <small><sub>**LXX:**</sub></small>
 Thus says Cyrus king of \[the\] Persians, to all the kingdoms of the earth, \[The\] <span class="smallcaps">lord</span> God of the heaven gave to me; and he gave charge to me to build to him a house in Jerusalem  in  Judea. Who \[is there\] of you of all  his people? \[The\] <span class="smallcaps">lord</span>  his God will be with him -- let him ascend! 
-<small><sub>**KJV:**</sub></small>
-Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which [is] in Judah. Who [is there] among you of all his people? The LORD his God [be] with him, and let him go up.
-<small><sub>**BSB:**</sub></small>
-“This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, who has given me all the kingdoms of the earth, has appointed me to build a house for Him at Jerusalem in Judah. Whoever among you belongs to His people, may the LORD his God be with him, and may he go up.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.22|<< 2 Chronicles 36:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.1|Ezra 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

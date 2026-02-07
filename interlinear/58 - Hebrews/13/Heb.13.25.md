@@ -1,12 +1,12 @@
-**Hebrews 13:25
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:25**<big><big>[[Heb.13.20 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Grace [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 Grace be with all of you.
 <small><sub>**Literal:**</sub></small>
 <the> Grace [be] with all of you. Amen. to Hebrews it was written from <the> Italy through Timothy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.24|<< Hebrews 13:24]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.1|James 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Grace [be] |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

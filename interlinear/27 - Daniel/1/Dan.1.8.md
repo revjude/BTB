@@ -1,4 +1,4 @@
-**Daniel 1:8** 
+**Daniel 1:8**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Daniel purposed in his heart that he would not defile himself with the portion of the king’s meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Daniel made up his mind that he would not defile himself with the king’s f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.7|<< Daniel 1:7]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.9|Daniel 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760A\|יָּ֤שֶׂם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Daniel  |**<big>&#8207;[[H1840G\|דָּנִיֵּאל֙]]&#8207; </big>**| da.ni.yeL<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

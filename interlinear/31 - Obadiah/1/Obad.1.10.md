@@ -1,4 +1,4 @@
-**Obadiah 1:10** 
+**Obadiah 1:10**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [thy] violence against thy brother Jacob shame shall cover thee, and thou shalt be cut off for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because of the violence against your brother Jacob, you will be covered with sha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.9|<< Obadiah 1:9]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.11|Obadiah 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] violence of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2555\|חֲמַ֛ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.Mas<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brother your  |**<big>&#8207;[[H0251G\|אָחִ֥י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.Chi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

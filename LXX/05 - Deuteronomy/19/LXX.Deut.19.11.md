@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:11** 
 <small><sub>**LXX:**</sub></small>
 But if there should be a man detesting \[his\] neighbor, and he shall lie in wait for him, and should rise up against him, and should strike his  life, and he should die, and he should flee into one  of these cities; 
-<small><sub>**KJV:**</sub></small>
-But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:
-<small><sub>**BSB:**</sub></small>
-If, however, a man hates his neighbor and lies in wait, attacks him and kills him, and then flees to one of these cities,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.10|<< Deuteronomy 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.12|Deuteronomy 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

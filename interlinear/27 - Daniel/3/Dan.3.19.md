@@ -1,4 +1,4 @@
-**Daniel 3:19** 
+**Daniel 3:19**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: [therefore] he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At this, Nebuchadnezzar was filled with rage, and the expression on his face cha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.18|<< Daniel 3:18]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.20|Daniel 3:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֨יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nebuchadnezzar  |**<big>&#8207;[[H5020\|נְבוּכַדְנֶצַּ֜ר]]&#8207; </big>**| ne.vu.khad.ne.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

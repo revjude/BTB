@@ -1,12 +1,12 @@
-**Luke 15:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:10**<big><big>[[Luke.15.8 The Parable of the Lost Coin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.
 <small><sub>**BSB:**</sub></small>
 In the same way, I tell you, there is joy in the presence of God’s angels over one sinner who repents.”
 <small><sub>**Literal:**</sub></small>
 Thus I say to you, there is joy before the angels <the> of God over one sinner repenting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.9|<< Luke 15:9]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.11|Luke 15:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|Οὕτως,]]</big>**  |Houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

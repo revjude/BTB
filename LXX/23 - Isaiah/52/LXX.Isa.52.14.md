@@ -1,10 +1,7 @@
 **LXX Isaiah 52:14** 
 <small><sub>**LXX:**</sub></small>
 In which manner many shall be amazed by you, so the sight of your appearance shall be despised by men, and  your glory by \[the\] sons of men. 
-<small><sub>**KJV:**</sub></small>
-As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:
-<small><sub>**BSB:**</sub></small>
-Just as many were appalled at Him—His appearance was disfigured beyond that of any man, and His form was marred beyond human likeness—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.13|<< Isaiah 52:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.15|Isaiah 52:15 >>]]</td></tr></table>
 
 | Translation | Greek |

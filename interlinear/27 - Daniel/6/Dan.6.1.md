@@ -1,4 +1,4 @@
-**Daniel 6:1** (6:2)
+**Daniel 6:1**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.31|<< Daniel 5:31]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.2|Daniel 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it seemed good  |**<big>&#8207;[[H8232\|שְׁפַר֙]]&#8207; </big>**| she.Far<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | before  |**<big>&#8207;[[H6925\|קֳדָ֣ם]]&#8207; </big>**| ko.Dam<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

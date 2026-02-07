@@ -1,12 +1,12 @@
-**Philippians 1:23
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:23**<big><big>[[Phil.1.21 To Live Is Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:
 <small><sub>**BSB:**</sub></small>
 I am torn between the two. I desire to depart and be with Christ, which is far better indeed.
 <small><sub>**Literal:**</sub></small>
 I am pressed now between the two, the desire having for [myself] <the> to depart and with Christ to be, very much for more better;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.22|<< Philippians 1:22]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.24|Philippians 1:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I am pressed |**<big>[[G4912\|συνέχομαι]]</big>**  |sunechomai <small><sup>[[V-PPI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

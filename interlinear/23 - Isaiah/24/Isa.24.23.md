@@ -1,4 +1,4 @@
-**Isaiah 24:23** 
+**Isaiah 24:23**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The moon will be confounded and the sun will be ashamed; for the LORD of Hosts w
 > $\quad$ referenced by: [[Rev.6.12|Rev 6:12-13]] ☩ [[Rev.22.5|Rev 22:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be abashed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2659\|חָֽפְרָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.fe.Rah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the moon  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3842\|לְּבָנָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.va.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

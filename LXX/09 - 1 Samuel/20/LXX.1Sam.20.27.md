@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:27** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the next day of the month, the second day, and the place of David was watched. And Saul said to Jonathan  his son, Why \[is it\] that he has not come, the son of Jesse, even yesterday and today unto the table? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the morrow, [which was] the second [day] of the month, that David’s place was empty: and Saul said unto Jonathan his son, Wherefore cometh not the son of Jesse to meat, neither yesterday, nor to day?
-<small><sub>**BSB:**</sub></small>
-But on the day after the New Moon, the second day, David’s place was still empty, and Saul asked his son Jonathan, “Why hasn’t the son of Jesse come to the meal either yesterday or today?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.26|<< 1 Samuel 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.28|1 Samuel 20:28 >>]]</td></tr></table>
 
 | Translation | Greek |

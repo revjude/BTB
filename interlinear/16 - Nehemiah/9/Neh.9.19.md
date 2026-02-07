@@ -1,4 +1,4 @@
-**Nehemiah 9:19** 
+**Nehemiah 9:19**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet thou in thy manifold mercies forsookest them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You in Your great compassion did not forsake them in the wilderness. By day the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.18|<< Nehemiah 9:18]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.20|Nehemiah 9:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in compassion\<s> your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7356B\|רַחֲמֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ra.cha.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

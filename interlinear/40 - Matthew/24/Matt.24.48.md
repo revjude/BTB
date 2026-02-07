@@ -1,12 +1,12 @@
-**Matthew 24:48
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:48**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But and if that evil servant shall say in his heart, My lord delayeth his coming;
 <small><sub>**BSB:**</sub></small>
 But suppose that servant is wicked and says in his heart, ‘My master will be away a long time.’
 <small><sub>**Literal:**</sub></small>
 If however shall say the evil servant that one in the heart of him; Delays My <the> master to come<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.47|<< Matthew 24:47]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.49|Matthew 24:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|Ἐὰν]]</big>**  |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

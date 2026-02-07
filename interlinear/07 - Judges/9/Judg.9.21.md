@@ -1,4 +1,4 @@
-**Judges 9:21** 
+**Judges 9:21**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jotham ran away, escaping to Beer, and he lived there for fear of his broth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.20|<< Judges 9:20]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.22|Judges 9:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he fled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּ֣נָס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.nos<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jotham  |**<big>&#8207;[[H3147G\|יוֹתָ֔ם]]&#8207; </big>**| yo.Tam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

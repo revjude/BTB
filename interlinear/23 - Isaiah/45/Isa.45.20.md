@@ -1,4 +1,4 @@
-**Isaiah 45:20** 
+**Isaiah 45:20**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Assemble yourselves and come; draw near together, ye [that are] escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray unto a god [that] cannot save.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, gather together, and draw near, you fugitives from the nations. Ignorant a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.19|<< Isaiah 45:19]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.21|Isaiah 45:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | gather together  |**<big>&#8207;[[H6908\|הִקָּבְצ֥וּ]]&#8207; </big>**| hi.ka.ve.Tzu<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and come  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0935G\|בֹ֛אוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Vo.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

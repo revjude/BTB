@@ -1,12 +1,12 @@
-**Matthew 26:51
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:51**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, one of them which were with Jesus stretched out [his] hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear.
 <small><sub>**BSB:**</sub></small>
 At this, one of Jesus’ companions drew his sword and struck the servant of the high priest, cutting off his ear.
 <small><sub>**Literal:**</sub></small>
 And behold one of those with Jesus having stretched out the hand drew the sword of him, and having struck the servant of the high priest cut off of him the ear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.50|<< Matthew 26:50]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.52|Matthew 26:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

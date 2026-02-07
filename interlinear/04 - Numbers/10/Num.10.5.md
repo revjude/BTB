@@ -1,4 +1,4 @@
-**Numbers 10:5** 
+**Numbers 10:5**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When ye blow an alarm, then the camps that lie on the east parts shall go forward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you sound short blasts, the camps that lie on the east side are to set out.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.4|<< Numbers 10:4]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.6|Numbers 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will give a blast  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8628\|תְקַעְתֶּ֖ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> te.ka'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an alarm  |**<big>&#8207;[[H8643\|תְּרוּעָ֑ה]]&#8207; </big>**| te.ru.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

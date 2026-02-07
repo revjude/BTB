@@ -1,4 +1,4 @@
-**2 Samuel 16:6** 
+**2 Samuel 16:6**<big><big>[[2Sam.16.5 Shimei Curses David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men [were] on his right hand and on his left.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He threw stones at David and at all the servants of the king, though the troops 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.5|<< 2 Samuel 16:5]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.7|2 Samuel 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5619\|יְסַקֵּ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.Kel<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> stones  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H0068G\|אֲבָנִים֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

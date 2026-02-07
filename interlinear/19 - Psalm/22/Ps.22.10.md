@@ -1,4 +1,4 @@
-**Psalms 22:10** (22:11)
+**Psalms 22:10**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I was cast upon thee from the womb: thou [art] my God from my mother’s belly.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ From birth I was cast upon You; from my mother’s womb You have been my God.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on you  |**<big>&#8207;[[H5921A\|עָ֭לֶי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'A.lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was cast  |**<big>&#8207;[[H7993\|הָשְׁלַ֣כְתִּי]]&#8207; </big>**| ha.she.Lakh.ti<small><sup>[[HVHp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

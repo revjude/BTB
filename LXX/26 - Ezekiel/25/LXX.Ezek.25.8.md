@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Because Moab and Seir said, Behold, in the manner of all the nations \[is\] the house Judah. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah [is] like unto all the heathen;
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘Because Moab and Seir said, “Look, the house of Judah is like all the other nations,”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.7|<< Ezekiel 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.9|Ezekiel 25:9 >>]]</td></tr></table>
 
 | Translation | Greek |

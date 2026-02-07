@@ -1,10 +1,7 @@
 **LXX Amos 9:15** 
 <small><sub>**LXX:**</sub></small>
 And I will plant them upon  their land. And in no way shall they be pulled out any longer from  their land of which I gave to them, says \[the\] <span class="smallcaps">lord</span>  God. 
-<small><sub>**KJV:**</sub></small>
-And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-I will firmly plant them in their own land, never again to be uprooted from the land that I have given them,” says the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.14|<< Amos 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.1|Obadiah 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

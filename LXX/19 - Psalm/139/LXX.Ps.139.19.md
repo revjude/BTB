@@ -1,10 +1,7 @@
 **LXX Psalm 139:19** 
 <small><sub>**LXX:**</sub></small>
 \[O that you\] should kill sinners, O God. O men of blood, turn aside from me! 
-<small><sub>**KJV:**</sub></small>
-Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.
-<small><sub>**BSB:**</sub></small>
-O God, that You would slay the wicked—away from me, you bloodthirsty men—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.18|<< Psalm 139:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.20|Psalm 139:20 >>]]</td></tr></table>
 
 | Translation | Greek |

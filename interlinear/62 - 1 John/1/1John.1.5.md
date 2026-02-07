@@ -1,12 +1,12 @@
-**1 John 1:5
-**<small><sub>**KJV:**</sub></small>
+**1 John 1:5**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
 <small><sub>**BSB:**</sub></small>
 And this is the message we have heard from Him and announce to you: God is light, and in Him there is no darkness at all.
 <small><sub>**Literal:**</sub></small>
 And is this the message that we have heard from Him and we preach to you that <the> God light is and darkness in Him not is none.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.4|<< 1 John 1:4]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.6|1 John 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἔστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

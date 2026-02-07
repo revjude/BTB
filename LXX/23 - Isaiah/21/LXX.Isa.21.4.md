@@ -1,10 +1,7 @@
 **LXX Isaiah 21:4** 
 <small><sub>**LXX:**</sub></small>
  My heart wanders, and  lawlessness immerses me;  my soul attends to fear. 
-<small><sub>**KJV:**</sub></small>
-My heart panted, fearfulness affrighted me: the night of my pleasure hath he turned into fear unto me.
-<small><sub>**BSB:**</sub></small>
-My heart falters; fear makes me tremble. The twilight I desired has turned to horror.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.3|<< Isaiah 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.5|Isaiah 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

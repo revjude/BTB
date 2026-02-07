@@ -1,10 +1,7 @@
 **LXX Hosea 6:5** 
 <small><sub>**LXX:**</sub></small>
 On account of this I mowed you by the prophets; I killed them by \[the\] discourse of my mouth; and  your judgment as light shall go forth. 
-<small><sub>**KJV:**</sub></small>
-Therefore have I hewed [them] by the prophets; I have slain them by the words of my mouth: and thy judgments [are as] the light [that] goeth forth.
-<small><sub>**BSB:**</sub></small>
-Therefore I have hewn them by the prophets; I have slain them by the words of My mouth, and My judgments go forth like lightning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.4|<< Hosea 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.6|Hosea 6:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 6:5** is...

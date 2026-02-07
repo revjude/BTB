@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:18** 
 <small><sub>**LXX:**</sub></small>
 How David proceed yet to you, to glorify you --  your servant? and you  know your servant. 
-<small><sub>**KJV:**</sub></small>
-What can David [speak] more to thee for the honour of thy servant? for thou knowest thy servant.
-<small><sub>**BSB:**</sub></small>
-What more can David say to You for honoring Your servant? For You know Your servant,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.17|<< 1 Chronicles 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.19|1 Chronicles 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

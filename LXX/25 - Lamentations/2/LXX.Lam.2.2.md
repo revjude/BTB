@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΒΗΘ</p>
 
 \[the\] <span class="smallcaps">lord</span> sunk, not sparing, all the beautiful \[things\] of Jacob. He demolished in his rage the fortresses of the daughter of Judah. He cleaved unto the ground. He profaned her king and her ruler. 
-<small><sub>**KJV:**</sub></small>
-The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought [them] down to the ground: he hath polluted the kingdom and the princes thereof.
-<small><sub>**BSB:**</sub></small>
-Without pity the Lord has swallowed up all the dwellings of Jacob. In His wrath He has demolished the fortified cities of the Daughter of Judah. He brought to the ground and defiled her kingdom and its princes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.1|<< Lamentations 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.3|Lamentations 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

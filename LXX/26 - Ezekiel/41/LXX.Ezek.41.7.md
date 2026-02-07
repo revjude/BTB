@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:7** 
 <small><sub>**LXX:**</sub></small>
 And the breadth of the higher of the sides \[was\] according to the appendage \[protruding\] out of the wall, to the higher \[one\] round about the house, so as to flatten out \[wider\] above; so that from out of \[the\] parts below they should ascend unto the upper rooms, and from out of the middles unto the third stories. 
-<small><sub>**KJV:**</sub></small>
-And [there was] an enlarging, and a winding about still upward to the side chambers: for the winding about of the house went still upward round about the house: therefore the breadth of the house [was still] upward, and so increased [from] the lowest [chamber] to the highest by the midst.
-<small><sub>**BSB:**</sub></small>
-The side rooms surrounding the temple widened at each successive level, because the structure surrounding the temple ascended by stages corresponding to the narrowing of the temple wall as it rose upward. And so a stairway went up from the lowest story to the highest, through the middle one.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.6|<< Ezekiel 41:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.8|Ezekiel 41:8 >>]]</td></tr></table>
 
 | Translation | Greek |

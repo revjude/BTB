@@ -1,10 +1,7 @@
 **LXX Daniel 8:15** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  my beholding, I Daniel, the vision, and I sought understanding. And behold, there stood before me as an appearance of a man. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when I, [even] I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.
-<small><sub>**BSB:**</sub></small>
-While I, Daniel, was watching the vision and trying to understand it, there stood before me one having the appearance of a man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.14|<< Daniel 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.16|Daniel 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

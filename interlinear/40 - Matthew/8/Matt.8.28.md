@@ -1,12 +1,12 @@
-**Matthew 8:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:28**<big><big>[[Matt.8.28 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
 <small><sub>**BSB:**</sub></small>
 When Jesus arrived on the other side in the region of the Gadarenes, He was met by two demon-possessed men coming from the tombs. They were so violent that no one could pass that way.
 <small><sub>**Literal:**</sub></small>
 And when was coming He to the other side to the region of the Gadarenes met Him two being demonised out of the tombs coming forth, violent extremely, so that not to be able anyone to pass through the way that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.27|<< Matthew 8:27]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.29|Matthew 8:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was coming [^1] |**<big>[[G2064\|ἐλθόντος]]</big>**  |elthontos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

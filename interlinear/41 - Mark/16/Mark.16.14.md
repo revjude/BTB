@@ -1,12 +1,12 @@
-**Mark 16:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:14**<big><big>[[Mark.16.14 The Great Commission|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief and hardness of heart, because they believed not them which had seen him after he was risen.
 <small><sub>**BSB:**</sub></small>
 Later, as they were eating, Jesus appeared to the Eleven and rebuked them for their unbelief and hardness of heart, because they did not believe those who had seen Him after He had risen.
 <small><sub>**Literal:**</sub></small>
 Afterward now when were reclining they to the eleven He appeared and rebuked the unbelief of them and hardness of heart because those having seen Him arisen from dead not believed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.13|<< Mark 16:13]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.15|Mark 16:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Afterward |**<big>[[G5306\|ὕστερον]]</big>**  |husteron <small><sup>[[A-ASN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA27+Tyn+WH+Treg+TR">KO</abbr> | |

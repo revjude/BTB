@@ -1,4 +1,4 @@
-**Joel 2:10** 
+**Joel 2:10**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth shall quake before them; the heavens shall tremble: the sun and the moon shall be dark, and the stars shall withdraw their shining:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Before them the earth quakes; the heavens tremble. The sun and moon grow dark, a
 > $\quad$ referenced by: [[Ezek.32.7|Ezek 32:7]] ☩ [[Matt.24.29|Matt 24:29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> before it  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it trembles  |**<big>&#8207;[[H7264\|רָ֣גְזָה]]&#8207; </big>**| Ra.ge.zah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

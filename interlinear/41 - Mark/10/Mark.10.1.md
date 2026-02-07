@@ -1,12 +1,12 @@
-**Mark 10:1
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:1**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
 <small><sub>**BSB:**</sub></small>
 Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom.
 <small><sub>**Literal:**</sub></small>
 And from there having risen up He comes into the region <the> of Judea and <the> beyond the Jordan, And come together again crowds to Him, and as He had been accustomed again He was teaching them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.50|<< Mark 9:50]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.2|Mark 10:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz">NKO</abbr> | |
 | from there |**<big>[[G1564\|ἐκεῖθεν]]</big>**  [^1] |ekeithen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 3:14** 
 <small><sub>**LXX:**</sub></small>
 And he made the veil out of blue, and purple, and scarlet, and of linen. And he wove cherubim in it. 
-<small><sub>**KJV:**</sub></small>
-And he made the vail [of] blue, and purple, and crimson, and fine linen, and wrought cherubims thereon.
-<small><sub>**BSB:**</sub></small>
-He made the veil of blue, purple, and crimson yarn and fine linen, with cherubim woven into it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.13|<< 2 Chronicles 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.15|2 Chronicles 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

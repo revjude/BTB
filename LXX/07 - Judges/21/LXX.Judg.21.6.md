@@ -1,10 +1,7 @@
 **LXX Judges 21:6** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel relented concerning their brother Benjamin, and said, one tribe from Israel is removed today. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel repented them for Benjamin their brother, and said, There is one tribe cut off from Israel this day.
-<small><sub>**BSB:**</sub></small>
-And the Israelites grieved for their brothers, the Benjamites, and said, “Today a tribe is cut off from Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.5|<< Judges 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.7|Judges 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 22:64
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:64**<big><big>[[Luke.22.63 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?
 <small><sub>**BSB:**</sub></small>
 They blindfolded Him and kept demanding, “Prophesy! Who hit You?”
 <small><sub>**Literal:**</sub></small>
 And having blindfolded Him they were striking of him <the> face and they were questioning him saying; do prophesy, who is the [one] having struck You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.63|<< Luke 22:63]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.65|Luke 22:65 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having blindfolded |**<big>[[G4028\|περικαλύψαντες]]</big>**  |perikalupsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 1:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:6**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.
 <small><sub>**BSB:**</sub></small>
 Both of them were righteous in the sight of God, walking blamelessly in all the commandments and decrees of the Lord.
 <small><sub>**Literal:**</sub></small>
 They were now righteous both in front of <the> God walking in all the commandments and ordinances of the Lord blameless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.5|<< Luke 1:5]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.7|Luke 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

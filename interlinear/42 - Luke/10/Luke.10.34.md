@@ -1,12 +1,12 @@
-**Luke 10:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:34**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And went to [him], and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.
 <small><sub>**BSB:**</sub></small>
 He went to him and bandaged his wounds, pouring on oil and wine. Then he put him on his own animal, brought him to an inn, and took care of him.
 <small><sub>**Literal:**</sub></small>
 and having approached he bound up the wounds of him pouring on oil and wine. having put then him on <the> [his] own beast he brought him to an inn and took care of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.33|<< Luke 10:33]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.35|Luke 10:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having approached |**<big>[[G4334\|προσελθὼν]]</big>**  |proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

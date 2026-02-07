@@ -1,10 +1,7 @@
 **LXX Exodus 28:18** 
 <small><sub>**LXX:**</sub></small>
 And the second row, carbuncle, and sapphire, and jasper. 
-<small><sub>**KJV:**</sub></small>
-And the second row [shall be] an emerald, a sapphire, and a diamond.
-<small><sub>**BSB:**</sub></small>
-in the second row a turquoise, a sapphire, and a diamond;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.17|<< Exodus 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.19|Exodus 28:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Hosea 1:10** (2:1)
+**Hosea 1:10**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, [that] in the place where it was said unto them, Ye [are] not my people, [there] it shall be said unto them, [Ye are] the sons of the living God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Yet the number of the Israelites will be like the sand of the sea, which cannot 
 > $\quad$ referenced by: [[Rom.9.26|Rom 9:26]] ☩ [[Rom.9.27|Rom 9:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְֽ֠]]&#8207;&#8207;[[H1961\|הָיָה]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] number of  |**<big>&#8207;[[H4557\|מִסְפַּ֤ר]]&#8207; </big>**| mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

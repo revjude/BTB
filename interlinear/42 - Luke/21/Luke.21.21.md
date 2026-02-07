@@ -1,12 +1,12 @@
-**Luke 21:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:21**<big><big>[[Luke.21.20 The Destruction of Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.
 <small><sub>**BSB:**</sub></small>
 Then let those who are in Judea flee to the mountains, let those in the city get out, and let those in the country stay out of the city.
 <small><sub>**Literal:**</sub></small>
 Then those in <the> Judea they should flee to the mountains, and those in midst of her they should depart out, and those in the countries not they should enter into her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.20|<< Luke 21:20]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.22|Luke 21:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

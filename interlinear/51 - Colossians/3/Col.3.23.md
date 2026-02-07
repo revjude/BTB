@@ -1,12 +1,12 @@
-**Colossians 3:23
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:23**<big><big>[[Col.3.22 Serving with Honor|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whatsoever ye do, do [it] heartily, as to the Lord, and not unto men;
 <small><sub>**BSB:**</sub></small>
 Whatever you do, work at it with your whole being, as for the Lord and not for men,
 <small><sub>**Literal:**</sub></small>
 and everything that any [of] maybe you shall do, from [the] soul do work as to the Lord and not to men;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.22|<< Colossians 3:22]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.24|Colossians 3:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | everything [^1] |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-ASN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

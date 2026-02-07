@@ -1,4 +1,4 @@
-**Isaiah 60:19** 
+**Isaiah 60:19**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an everlasting light, and thy God thy glory.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ No longer will the sun be your light by day, nor the brightness of the moon shin
 > $\quad$ referenced by: [[Rev.21.23|Rev 21:23]] ☩ [[Rev.22.5|Rev 22:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be  |**<big>&#8207;[[H1961\|יִֽהְיֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yih.yeh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

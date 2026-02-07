@@ -1,12 +1,12 @@
-**Luke 1:69
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:69**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hath raised up an horn of salvation for us in the house of his servant David;
 <small><sub>**BSB:**</sub></small>
 He has raised up a horn of salvation for us in the house of His servant David,
 <small><sub>**Literal:**</sub></small>
 and has raised up a horn of salvation for us in the house of David the servant of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.68|<< Luke 1:68]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.70|Luke 1:70 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has raised up |**<big>[[G1453\|ἤγειρεν]]</big>**  |ēgeiren <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 44:22** 
 <small><sub>**LXX:**</sub></small>
 For because of you we are being put to death \[the\] entire  day; we are considered as sheep for slaughter. 
-<small><sub>**KJV:**</sub></small>
-Yea, for thy sake are we killed all the day long; we are counted as sheep for the slaughter.
-<small><sub>**BSB:**</sub></small>
-Yet for Your sake we face death all day long; we are considered as sheep to be slaughtered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.21|<< Psalm 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.23|Psalm 44:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 44:22** is...

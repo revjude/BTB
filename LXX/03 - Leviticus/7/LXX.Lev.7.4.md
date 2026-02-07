@@ -1,10 +1,7 @@
 **LXX Leviticus 7:4** 
 <small><sub>**LXX:**</sub></small>
 and the two kidneys, and the fat  upon them  by the thighs, and the lobe  upon the liver, with the kidneys, he shall remove them. 
-<small><sub>**KJV:**</sub></small>
-And the two kidneys, and the fat that [is] on them, which [is] by the flanks, and the caul [that is] above the liver, with the kidneys, it shall he take away:
-<small><sub>**BSB:**</sub></small>
-both kidneys with the fat on them near the loins, and the lobe of the liver, which is to be removed with the kidneys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.3|<< Leviticus 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.5|Leviticus 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

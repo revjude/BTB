@@ -1,4 +1,4 @@
-**Isaiah 55:7** 
+**Isaiah 55:7**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the wicked man forsake his way and the unrighteous man his thoughts; let him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.6|<< Isaiah 55:6]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.8|Isaiah 55:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let him forsake  |**<big>&#8207;[[H5800A\|יַעֲזֹ֤ב]]&#8207; </big>**| ya.'a.Zo<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wicked [person]  |**<big>&#8207;[[H7563\|רָשָׁע֙]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:21** 
 <small><sub>**LXX:**</sub></small>
 But if you give orders to the just man to not sin, and he should not sin, the just man shall live to life, for you warned him, and you  shall have rescued your own soul. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless if thou warn the righteous [man], that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also thou hast delivered thy soul.
-<small><sub>**BSB:**</sub></small>
-But if you warn the righteous man not to sin, and he does not sin, he will indeed live because he heeded your warning, and you will have saved yourself.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.20|<< Ezekiel 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.22|Ezekiel 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezra 9:2** 
+**Ezra 9:2**<big><big>[[Ezra.9.1 Intermarriage with Neighboring Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of [those] lands: yea, the hand of the princes and rulers hath been chief in this trespass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, the Israelites have taken some of their daughters as wives for themselve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.1|<< Ezra 9:1]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.3|Ezra 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have taken  |**<big>&#8207;[[H5375U\|נָשְׂא֣וּ]]&#8207; </big>**| na.se.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

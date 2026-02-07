@@ -1,10 +1,7 @@
 **LXX Psalm 138:4** 
 <small><sub>**LXX:**</sub></small>
 Let them make acknowledgment to you, O <span class="smallcaps">lord</span>, \[even\] all the kings of the earth! for they heard all the sayings  of your mouth. 
-<small><sub>**KJV:**</sub></small>
-All the kings of the earth shall praise thee, O LORD, when they hear the words of thy mouth.
-<small><sub>**BSB:**</sub></small>
-All the kings of the earth will give You thanks, O LORD, when they hear the words of Your mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.138.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.138.3|<< Psalm 138:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.138.5|Psalm 138:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 16:18** 
+**Jeremiah 16:18**<big><big>[[Jer.16.14 God Will Restore Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And first I will recompense their iniquity and their sin double; because they have defiled my land, they have filled mine inheritance with the carcases of their detestable and abominable things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will first repay them double their iniquity and their sin, because they ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.17|<< Jeremiah 16:17]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.19|Jeremiah 16:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will repay  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7999A\|שִׁלַּמְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.lam.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | first  |**<big>&#8207;[[H7223G\|רִֽאשׁוֹנָ֗ה]]&#8207; </big>**| ri.sho.Nah<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

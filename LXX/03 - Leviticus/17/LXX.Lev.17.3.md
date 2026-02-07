@@ -1,10 +1,7 @@
 **LXX Leviticus 17:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] man, a man of the sons of Israel, who ever should slay a calf or a sheep or a goat in the camp, and who ever should slay outside the camp, 
-<small><sub>**KJV:**</sub></small>
-What man soever [there be] of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth [it] out of the camp,
-<small><sub>**BSB:**</sub></small>
-‘Anyone from the house of Israel who slaughters an ox, a lamb, or a goat in the camp or outside of it<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.2|<< Leviticus 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.4|Leviticus 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

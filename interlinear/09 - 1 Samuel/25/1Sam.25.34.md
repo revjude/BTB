@@ -1,4 +1,4 @@
-**1 Samuel 25:34** 
+**1 Samuel 25:34**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in very deed, [as] the LORD God of Israel liveth, which hath kept me back from hurting thee, except thou hadst hasted and come to meet me, surely there had not been left unto Nabal by the morning light any that pisseth against the wall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Otherwise, as surely as the LORD, the God of Israel, lives, who has restrained m
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.33|<< 1 Samuel 25:33]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.35|1 Samuel 25:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and but  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0199\|אוּלָ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'u.Lam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [by] [the] life  |**<big>&#8207;[[H2416A\|חַי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chai-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

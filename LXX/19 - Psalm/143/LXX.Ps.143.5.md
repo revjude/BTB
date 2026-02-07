@@ -1,10 +1,7 @@
 **LXX Psalm 143:5** 
 <small><sub>**LXX:**</sub></small>
 I remembered days of old. I meditated on all  your works. I meditated on \[the\] actions of your hands. 
-<small><sub>**KJV:**</sub></small>
-I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.
-<small><sub>**BSB:**</sub></small>
-I remember the days of old; I meditate on all Your works; I consider the work of Your hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.4|<< Psalm 143:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.6|Psalm 143:6 >>]]</td></tr></table>
 
 | Translation | Greek |

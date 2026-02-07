@@ -1,6 +1,6 @@
 (KJV) **Psalm 86**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85|<< Psalm 85]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.87|Psalm 87 >>]]</td></tr></table>
 
-***Tried but Trusting*** ^bsb1379
+<big><big>[[Ps.86.1 Tried but Trusting|⥃]]</big></big>***Tried but Trusting***
 
 
 

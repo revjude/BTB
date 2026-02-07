@@ -1,4 +1,4 @@
-**Jeremiah 44:6** 
+**Jeremiah 44:6**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted [and] desolate, as at this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore My wrath and anger poured out and burned in the cities of Judah and in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.5|<< Jeremiah 44:5]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.7|Jeremiah 44:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it poured forth  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5413\|תִּתַּ֤ךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Takh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rage my  |**<big>&#8207;[[H2534\|חֲמָתִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| cha.ma.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

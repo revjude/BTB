@@ -1,10 +1,7 @@
 **LXX Leviticus 7:30** 
 <small><sub>**LXX:**</sub></small>
  His own hands shall bring the yield \[offerings\] to the <span class="smallcaps">lord</span>; the fat  upon the breast, and the lobe, the one upon the liver, he shall bring them so as to place a gift before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-His own hands shall bring the offerings of the LORD made by fire, the fat with the breast, it shall he bring, that the breast may be waved [for] a wave offering before the LORD.
-<small><sub>**BSB:**</sub></small>
-With his own hands he is to bring the food offerings to the LORD; he shall bring the fat, together with the breast, and wave the breast as a wave offering before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.29|<< Leviticus 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.31|Leviticus 7:31 >>]]</td></tr></table>
 
 | Translation | Greek |

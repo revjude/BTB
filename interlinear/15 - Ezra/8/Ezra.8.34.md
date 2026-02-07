@@ -1,4 +1,4 @@
-**Ezra 8:34** 
+**Ezra 8:34**<big><big>[[Ezra.8.32 Arrival in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By number [and] by weight of every one: and all the weight was written at that time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Everything was verified by number and weight, and the total weight was recorded 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.33|<< Ezra 8:33]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.35|Ezra 8:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by number  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4557\|מִסְפָּ֥ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mis.Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by weight  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4948\|מִשְׁקָ֖ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mish.Kal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

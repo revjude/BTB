@@ -1,4 +1,4 @@
-**Joshua 11:7** 
+**Joshua 11:7**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So by the waters of Merom, Joshua and his whole army came upon them suddenly and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.6|<< Joshua 11:6]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.8|Joshua 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֡עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

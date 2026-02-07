@@ -1,10 +1,7 @@
 **LXX Genesis 4:23** 
 <small><sub>**LXX:**</sub></small>
 And Lamech said \[to\] his own wives, Adah and Zillah, Hear my  voice, O wives of Lamech! Give ear to my  words! for I killed a man for \[giving\] a wound to me, and a young \[man\] for \[giving\] a stripe to me. 
-<small><sub>**KJV:**</sub></small>
-And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.
-<small><sub>**BSB:**</sub></small>
-Then Lamech said to his wives: “Adah and Zillah, hear my voice; wives of Lamech, listen to my speech. For I have slain a man for wounding me, a young man for striking me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.22|<< Genesis 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.24|Genesis 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

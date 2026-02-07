@@ -1,12 +1,12 @@
-**Matthew 12:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:36**<big><big>[[Matt.12.33 Good and Bad Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.
 <small><sub>**BSB:**</sub></small>
 But I tell you that men will give an account on the day of judgment for every careless word they have spoken.
 <small><sub>**Literal:**</sub></small>
 I say now to you that every declaration careless that if will speak <the> men, they will give of it an account in day of judgment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.35|<< Matthew 12:35]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.37|Matthew 12:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|Λέγω]]</big>**  |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

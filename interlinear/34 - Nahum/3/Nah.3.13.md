@@ -1,4 +1,4 @@
-**Nahum 3:13** 
+**Nahum 3:13**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thy people in the midst of thee [are] women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look at your troops—they are like your women! The gates of your land are wide 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.12|<< Nahum 3:12]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.14|Nahum 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people your  |**<big>&#8207;[[H5971K\|עַמֵּ֤]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'a.Me<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

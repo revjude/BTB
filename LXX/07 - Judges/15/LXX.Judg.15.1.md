@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after \[some\] days, at \[the\] days of \[the\] wheat harvest, that Samson visited  his wife, carrying a kid of \[the\] goats. And he said, I shall enter to  my wife into the bedroom. But her father would not grant him to enter. 
-<small><sub>**KJV:**</sub></small>
-But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.
-<small><sub>**BSB:**</sub></small>
-Later on, at the time of the wheat harvest, Samson took a young goat and went to visit his wife. “I want to go to my wife in her room,” he said. But her father would not let him enter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.20|<< Judges 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.2|Judges 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

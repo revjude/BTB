@@ -1,10 +1,7 @@
 **LXX Leviticus 21:14** 
 <small><sub>**LXX:**</sub></small>
 But a widow, and one being cast out and being profaned, and a harlot -- these he shall not take; but only a virgin from out of  his people shall he take for a wife. 
-<small><sub>**KJV:**</sub></small>
-A widow, or a divorced woman, or profane, [or] an harlot, these shall he not take: but he shall take a virgin of his own people to wife.
-<small><sub>**BSB:**</sub></small>
-He is not to marry a widow, a divorced woman, or one defiled by prostitution. He is to marry a virgin from his own people,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.13|<< Leviticus 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.15|Leviticus 21:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 84:3** 
 <small><sub>**LXX:**</sub></small>
 For even \[the\] sparrow finds for himself a house; and \[the\] turtle-dove a nest for herself, where she puts  her own nestlings, \[even\] your altars, O <span class="smallcaps">lord</span> of the forces,  my king and  my God. 
-<small><sub>**KJV:**</sub></small>
-Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, [even] thine altars, O LORD of hosts, my King, and my God.
-<small><sub>**BSB:**</sub></small>
-Even the sparrow has found a home, and the swallow a nest for herself, where she places her young near Your altars, O LORD of Hosts, my King and my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.2|<< Psalm 84:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.4|Psalm 84:4 >>]]</td></tr></table>
 
 | Translation | Greek |

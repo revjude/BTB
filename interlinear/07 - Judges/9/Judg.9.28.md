@@ -1,4 +1,4 @@
-**Judges 9:28** 
+**Judges 9:28**<big><big>[[Judg.9.22 Gaal Conspires with the Shechemites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gaal the son of Ebed said, Who [is] Abimelech, and who [is] Shechem, that we should serve him? [is] not [he] the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Gaal son of Ebed said, “Who is Abimelech, and who is Shechem, that we sho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.27|<< Judges 9:27]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.29|Judges 9:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gaal  |**<big>&#8207;[[H1603\|גַּ֣עַל]]&#8207; </big>**| Ga.'al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

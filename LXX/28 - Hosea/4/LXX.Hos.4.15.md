@@ -1,10 +1,7 @@
 **LXX Hosea 4:15** 
 <small><sub>**LXX:**</sub></small>
 But you, O Israel, be not ignorant! And Judah, enter not into Gilgal, and ascend not unto the house of On, and swear not an oath, \[saying\], The <span class="smallcaps">lord</span> lives! 
-<small><sub>**KJV:**</sub></small>
-Though thou, Israel, play the harlot, [yet] let not Judah offend; and come not ye unto Gilgal, neither go ye up to Bethaven, nor swear, The LORD liveth.
-<small><sub>**BSB:**</sub></small>
-Though you prostitute yourself, O Israel, may Judah avoid such guilt! Do not journey to Gilgal, do not go up to Beth-aven, and do not swear on oath, ‘As surely as the LORD lives!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.14|<< Hosea 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.16|Hosea 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Mark 15:28
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:28**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the scripture was fulfilled, which saith, And he was numbered with the transgressors.
 <small><sub>**BSB:**</sub></small>
 
@@ -10,7 +10,7 @@ and was fulfilled <the> scripture which is saying And with [the] lawless was cre
 > $\quad$ referencing: [[LXX.Isa.53.12|Isa 53:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | was fulfilled |**<big>[[G4137\|ἐπληρώθη]]</big>**  |eplērōthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

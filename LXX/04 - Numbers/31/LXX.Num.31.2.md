@@ -1,10 +1,7 @@
 **LXX Numbers 31:2** 
 <small><sub>**LXX:**</sub></small>
 the sons of Israel avenge with punishment on the Midianites; and at \[the\] last you shall be added to  your people. 
-<small><sub>**KJV:**</sub></small>
-Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people.
-<small><sub>**BSB:**</sub></small>
-“Take vengeance on the Midianites for the Israelites. After that, you will be gathered to your people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.1|<< Numbers 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.3|Numbers 31:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 14:13** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to the people, Be of courage! Stand, and see the deliverance  by the <span class="smallcaps">lord</span>, which he will do for us today! For in which manner you see the Egyptians today, you will not proceed still to see them into the eon of time. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto the people, Fear ye not, stand still, and see the salvation of the LORD, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever.
-<small><sub>**BSB:**</sub></small>
-But Moses told the people, “Do not be afraid. Stand firm and you will see the LORD’s salvation, which He will accomplish for you today; for the Egyptians you see today, you will never see again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.12|<< Exodus 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.14|Exodus 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

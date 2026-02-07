@@ -1,12 +1,12 @@
-**Acts 10:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:5**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now send men to Joppa, and call for [one] Simon, whose surname is Peter:
 <small><sub>**BSB:**</sub></small>
 Now send men to Joppa to call for a man named Simon who is called Peter.
 <small><sub>**Literal:**</sub></small>
 And now do send men to Joppa and do yourself summon Simon someone who is called Peter;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.4|<< Acts 10:4]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.6|Acts 10:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

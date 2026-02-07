@@ -1,10 +1,7 @@
 **LXX Exodus 28:14** 
 <small><sub>**LXX:**</sub></small>
 And you shall make two bordered fringes from out of pure gold, being mixed with a work of wreathen flowers. And you shall place the bordered fringes being plaited upon the bezels, on  their shoulder straps from the front. 
-<small><sub>**KJV:**</sub></small>
-And two chains [of] pure gold at the ends; [of] wreathen work shalt thou make them, and fasten the wreathen chains to the ouches.
-<small><sub>**BSB:**</sub></small>
-and two chains of pure gold, made of braided cord work; and attach these chains to the settings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.13|<< Exodus 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.15|Exodus 28:15 >>]]</td></tr></table>
 
 | Translation | Greek |

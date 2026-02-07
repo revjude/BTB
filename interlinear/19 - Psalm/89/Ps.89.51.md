@@ -1,4 +1,4 @@
-**Psalms 89:51** (89:52)
+**Psalms 89:51**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ how Your enemies have taunted, O LORD, and have mocked every step of Your anoint
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.50|<< Psalms 89:50]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.52|Psalms 89:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have reproached  |**<big>&#8207;[[H2778A\|חֵרְפ֖וּ]]&#8207; </big>**| che.re.Fu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

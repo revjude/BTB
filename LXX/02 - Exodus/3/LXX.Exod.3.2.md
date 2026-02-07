@@ -1,10 +1,7 @@
 **LXX Exodus 3:2** 
 <small><sub>**LXX:**</sub></small>
 And appeared to him an angel of \[the\] <span class="smallcaps">lord</span> in flaming fire from out of the bush. and he saw that the bush burned with fire, but the bush did not incinerate. 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush [was] not consumed.
-<small><sub>**BSB:**</sub></small>
-There the angel of the LORD appeared to him in a blazing fire from within a bush. Moses saw the bush ablaze with fire, but it was not consumed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.1|<< Exodus 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.3|Exodus 3:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 3:2** is...

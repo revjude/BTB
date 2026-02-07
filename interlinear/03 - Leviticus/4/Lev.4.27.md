@@ -1,4 +1,4 @@
-**Leviticus 4:27** 
+**Leviticus 4:27**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if any one of the common people sin through ignorance, while he doeth [somewhat against] any of the commandments of the LORD [concerning things] which ought not to be done, and be guilty;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if one of the common people sins unintentionally and does what is prohibited
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.26|<< Leviticus 4:26]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.28|Leviticus 4:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H5315J\|נֶ֧פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

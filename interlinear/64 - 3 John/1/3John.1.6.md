@@ -1,12 +1,12 @@
-**3 John 1:6
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:6**<big><big>[[3John.1.5 Gaius Commended for Hospitality|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:
 <small><sub>**BSB:**</sub></small>
 They have testified to the church about your love. You will do well to send them on their way in a manner worthy of God.
 <small><sub>**Literal:**</sub></small>
 who testified of your <the> love before [the] church, whom well you will do having set forward worthily <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.5|<< 3 John 1:5]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.7|3 John 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|οἳ]]</big>**  |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | testified |**<big>[[G3140\|ἐμαρτύρησάν]]</big>**  |emarturēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

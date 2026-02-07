@@ -1,5 +1,5 @@
-**Revelation 15:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 15:2**<big><big>[[Rev.15.1 The Song of Moses and the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, [and] over the number of his name, stand on the sea of glass, having the harps of God.
 <small><sub>**BSB:**</sub></small>
 And I saw something like a sea of glass mixed with fire, beside which stood those who had conquered the beast and its image and the number of its name. They were holding harps from God,
@@ -10,7 +10,7 @@ And I saw [something] like a sea of glass mingled with fire and those conquering
 > $\quad$ alluding to: [[LXX.Ezek.1.22|Ezek 1:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

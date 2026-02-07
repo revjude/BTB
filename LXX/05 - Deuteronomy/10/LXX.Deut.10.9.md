@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this there is not to the Levites a portion or lot among  their brethren. \[The\] <span class="smallcaps">lord</span> himself \[is\] his lot, as \[the\] <span class="smallcaps">lord</span> your God told them. 
-<small><sub>**KJV:**</sub></small>
-Wherefore Levi hath no part nor inheritance with his brethren; the LORD [is] his inheritance, according as the LORD thy God promised him.
-<small><sub>**BSB:**</sub></small>
-That is why Levi has no portion or inheritance among his brothers; the LORD is his inheritance, as the LORD your God promised him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.8|<< Deuteronomy 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.10|Deuteronomy 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:23** 
 <small><sub>**LXX:**</sub></small>
 And he ran and took him from there, and placed \[him\] in \[the\] midst of the people, and he was high above all the people -- head and shoulders and above. 
-<small><sub>**KJV:**</sub></small>
-And they ran and fetched him thence: and when he stood among the people, he was higher than any of the people from his shoulders and upward.
-<small><sub>**BSB:**</sub></small>
-So they ran and brought Saul, and when he stood among the people, he was a head taller than any of the others.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.22|<< 1 Samuel 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.24|1 Samuel 10:24 >>]]</td></tr></table>
 
 | Translation | Greek |

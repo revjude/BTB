@@ -1,4 +1,4 @@
-**2 Chronicles 35:6** 
+**2 Chronicles 35:6**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So kill the passover, and sanctify yourselves, and prepare your brethren, that [they] may do according to the word of the LORD by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Slaughter the Passover lambs, consecrate yourselves, and make preparations for y
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.5|<< 2 Chronicles 35:5]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.7|2 Chronicles 35:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and slaughter  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7819A\|שַׁחֲט֖וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.cha.Tu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the passover  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6453\|פָּ֑סַח]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Pa.sach<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 29:27** (29:26)
+**Deuteronomy 29:27**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was kindled against this land, to bring upon it all the curses that are written in this book:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore the anger of the LORD burned against this land, and He brought upon it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.26|<< Deuteronomy 29:26]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.28|Deuteronomy 29:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it burned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2734\|יִּֽחַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.char-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] anger of  |**<big>&#8207;[[H0639G\|אַ֥ף]]&#8207; </big>**| 'af<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

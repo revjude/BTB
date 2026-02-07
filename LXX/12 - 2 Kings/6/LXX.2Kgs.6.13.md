@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:13** 
 <small><sub>**LXX:**</sub></small>
 And he said, Go, and see where this one \[is\]! and sending I will take him. And they reported to him, saying, Behold, \[he is\] in Dothan. 
-<small><sub>**KJV:**</sub></small>
-And he said, Go and spy where he [is], that I may send and fetch him. And it was told him, saying, Behold, [he is] in Dothan.
-<small><sub>**BSB:**</sub></small>
-So the king said, “Go and see where he is, that I may send men to capture him.” On receiving the report, “Elisha is in Dothan,”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.12|<< 2 Kings 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.14|2 Kings 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

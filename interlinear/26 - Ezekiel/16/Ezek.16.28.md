@@ -1,4 +1,4 @@
-**Ezekiel 16:28** 
+**Ezekiel 16:28**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast played the whore also with the Assyrians, because thou wast unsatiable; yea, thou hast played the harlot with them, and yet couldest not be satisfied.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you prostituted yourself with the Assyrians, because you were not yet satis
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.27|<< Ezekiel 16:27]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.29|Ezekiel 16:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you acted as a prostitute  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2181\|תִּזְנִי֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiz.Ni<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

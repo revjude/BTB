@@ -1,4 +1,4 @@
-**2 Chronicles 33:19** 
+**2 Chronicles 33:19**<big><big>[[2Chr.33.10 Manasseh’s Repentance and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His prayer also, and [how God] was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they [are] written among the sayings of the seers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His prayer and how God received his plea, as well as all his sin and unfaithfuln
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.18|<< 2 Chronicles 33:18]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.20|2 Chronicles 33:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and prayer his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8605\|תְפִלָּת֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.fi.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and being entreated  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6279\|הֵֽעָתֶר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> he.'a.ter-<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

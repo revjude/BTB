@@ -1,4 +1,4 @@
-**Judges 2:8** 
+**Judges 2:8**<big><big>[[Judg.2.6 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua the son of Nun, the servant of the LORD, died, [being] an hundred and ten years old.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Joshua son of Nun, the servant of the LORD, died at the age of 110.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.7|<< Judges 2:7]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.9|Judges 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֛מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֥עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

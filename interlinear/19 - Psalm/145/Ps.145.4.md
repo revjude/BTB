@@ -1,4 +1,4 @@
-**Psalms 145:4** 
+**Psalms 145:4**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One generation shall praise thy works to another, and shall declare thy mighty acts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One generation will commend Your works to the next, and will proclaim Your might
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.3|<< Psalms 145:3]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.5|Psalms 145:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | generation  |**<big>&#8207;[[H1755\|דּ֣וֹר]]&#8207; </big>**| Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to generation  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H1755\|דוֹר]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 7:27** 
 <small><sub>**LXX:**</sub></small>
 Every soul which ever should eat blood, that soul shall be destroyed from  its people. 
-<small><sub>**KJV:**</sub></small>
-Whatsoever soul [it be] that eateth any manner of blood, even that soul shall be cut off from his people.
-<small><sub>**BSB:**</sub></small>
-If anyone eats blood, that person must be cut off from his people.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.26|<< Leviticus 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.28|Leviticus 7:28 >>]]</td></tr></table>
 
 | Translation | Greek |

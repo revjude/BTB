@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:34** 
 <small><sub>**LXX:**</sub></small>
 And I will lead you from out of the peoples, and I will take you from out of the places of which you were dispersed in them, with a fortified hand and with a high arm, and with rage being poured forth. 
-<small><sub>**KJV:**</sub></small>
-And I will bring you out from the people, and will gather you out of the countries wherein ye are scattered, with a mighty hand, and with a stretched out arm, and with fury poured out.
-<small><sub>**BSB:**</sub></small>
-With a strong hand, an outstretched arm, and outpoured wrath I will bring you out from the peoples and gather you from the lands to which you have been scattered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.33|<< Ezekiel 20:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.35|Ezekiel 20:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 20:34** is...

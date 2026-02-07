@@ -1,4 +1,4 @@
-**Isaiah 10:2** 
+**Isaiah 10:2**<big><big>[[Isa.10.1 Woe to Tyrants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and [that] they may rob the fatherless!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to deprive the poor of fair treatment and withhold justice from the oppressed of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.1|<< Isaiah 10:1]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.3|Isaiah 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to turn aside  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5186\|הַטּ֤וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Tot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from judgment  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1779\|דִּין֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Din<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

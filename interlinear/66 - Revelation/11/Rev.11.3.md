@@ -1,12 +1,12 @@
-**Revelation 11:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:3**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I will give [power] unto my two witnesses, and they shall prophesy a thousand two hundred [and] threescore days, clothed in sackcloth.
 <small><sub>**BSB:**</sub></small>
 And I will empower my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.”
 <small><sub>**Literal:**</sub></small>
 And I will grant to the two witnesses of mine, and they will prophesy days a thousand two hundred sixty having clothed themselves in sackcloth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.2|<< Revelation 11:2]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.4|Revelation 11:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I will grant |**<big>[[G1325\|δώσω]]</big>**  |dōsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

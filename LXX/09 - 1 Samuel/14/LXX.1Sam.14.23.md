@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:23** 
 <small><sub>**LXX:**</sub></small>
 And the war was dispersing into every  city in  mount Ephraim. 
-<small><sub>**KJV:**</sub></small>
-So the LORD saved Israel that day: and the battle passed over unto Bethaven.
-<small><sub>**BSB:**</sub></small>
-So the LORD saved Israel that day, and the battle moved on beyond Beth-aven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.22|<< 1 Samuel 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.24|1 Samuel 14:24 >>]]</td></tr></table>
 
 | Translation | Greek |

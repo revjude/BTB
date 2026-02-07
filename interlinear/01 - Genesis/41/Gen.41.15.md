@@ -1,4 +1,4 @@
-**Genesis 41:15** 
+**Genesis 41:15**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh said unto Joseph, I have dreamed a dream, and [there is] none that can interpret it: and I have heard say of thee, [that] thou canst understand a dream to interpret it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh said to Joseph, “I had a dream, and no one can interpret it. But I hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.14|<< Genesis 41:14]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.16|Genesis 41:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547H\|פַּרְעֹה֙]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

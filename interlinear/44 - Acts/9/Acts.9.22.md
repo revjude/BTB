@@ -1,12 +1,12 @@
-**Acts 9:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:22**<big><big>[[Acts.9.20 Saul Preaches at Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Saul increased the more in strength, and confounded the Jews which dwelt at Damascus, proving that this is very Christ.
 <small><sub>**BSB:**</sub></small>
 But Saul was empowered all the more, and he confounded the Jews living in Damascus by proving that Jesus is the Christ.
 <small><sub>**Literal:**</sub></small>
 Saul however all the more was empowered and was confounding the Jews those dwelling in Damascus, proving that this is the Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.21|<< Acts 9:21]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.23|Acts 9:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Saul |**<big>[[G4569G\|Σαῦλος]]</big>**  |Saulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 27:13** 
+**Proverbs 27:13**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take his garment that is surety for a stranger, and take a pledge of him for a strange woman.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take the garment of him who posts security for a stranger; get collateral if it 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.12|<< Proverbs 27:12]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.14|Proverbs 27:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take  |**<big>&#8207;[[H3947G\|קַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | garment his  |**<big>&#8207;[[H0899B\|בִּ֭גְד]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| big.d<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

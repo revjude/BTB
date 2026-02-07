@@ -1,12 +1,12 @@
-**1 Thessalonians 4:7
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:7**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For God hath not called us unto uncleanness, but unto holiness.
 <small><sub>**BSB:**</sub></small>
 For God has not called us to impurity, but to holiness.
 <small><sub>**Literal:**</sub></small>
 Not for has called us <the> God to impurity but into holiness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.6|<< 1 Thessalonians 4:6]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.8|1 Thessalonians 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

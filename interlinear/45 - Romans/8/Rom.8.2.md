@@ -1,12 +1,12 @@
-**Romans 8:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:2**<big><big>[[Rom.8.1 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.
 <small><sub>**BSB:**</sub></small>
 For in Christ Jesus the law of the Spirit of life set you free from the law of sin and death.
 <small><sub>**Literal:**</sub></small>
 <the> For the law of the Spirit <the> of life in Christ Jesus has set free you from the law <the> of sin and <the> of death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.1|<< Romans 8:1]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.3|Romans 8:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

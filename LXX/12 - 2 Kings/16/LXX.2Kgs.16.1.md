@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham king of Judah reigned. 
-<small><sub>**KJV:**</sub></small>
-In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.
-<small><sub>**BSB:**</sub></small>
-In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham became king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.38|<< 2 Kings 15:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.2|2 Kings 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

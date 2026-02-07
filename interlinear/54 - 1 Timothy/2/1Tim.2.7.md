@@ -1,12 +1,12 @@
-**1 Timothy 2:7
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:7**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, [and] lie not;) a teacher of the Gentiles in faith and verity.
 <small><sub>**BSB:**</sub></small>
 For this reason I was appointed as a preacher, an apostle, and a faithful and true teacher of the Gentiles. I am telling the truth; I am not lying about anything.
 <small><sub>**Literal:**</sub></small>
 in regard to which was appointed I myself a herald and an apostle — [the] truth I am speaking in Christ not I do lie — a teacher of [the] Gentiles in faith and truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.6|<< 1 Timothy 2:6]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.8|1 Timothy 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in regard to |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

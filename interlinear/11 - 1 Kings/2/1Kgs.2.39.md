@@ -1,4 +1,4 @@
-**1 Kings 2:39** 
+**1 Kings 2:39**<big><big>[[1Kgs.2.36 The Execution of Shimei|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, thy servants [be] in Gath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After three years, however, two of Shimei’s slaves ran away to Achish son of M
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.38|<< 1 Kings 2:38]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.40|1 Kings 2:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] end of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7093\|קֵּץ֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ketz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

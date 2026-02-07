@@ -1,4 +1,4 @@
-**Ezekiel 37:25** 
+**Ezekiel 37:25**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, [even] they, and their children, and their children’s children for ever: and my servant David [shall be] their prince for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will live in the land that I gave to My servant Jacob, where your fathers l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.24|<< Ezekiel 37:24]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.26|Ezekiel 37:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3427\|יָשְׁב֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.she.Vu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

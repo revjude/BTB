@@ -1,10 +1,7 @@
 **LXX Job 21:23** 
 <small><sub>**LXX:**</sub></small>
 This one shall die in \[the\] might of his singleness \[of purpose\], but entirely enjoying pleasure and prospering; 
-<small><sub>**KJV:**</sub></small>
-One dieth in his full strength, being wholly at ease and quiet.
-<small><sub>**BSB:**</sub></small>
-One man dies full of vigor, completely secure and at ease.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.22|<< Job 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.24|Job 21:24 >>]]</td></tr></table>
 
 | Translation | Greek |

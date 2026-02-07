@@ -1,5 +1,5 @@
-**Galatians 3:13
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:13**<big><big>[[Gal.3.10 Christ Has Redeemed Us|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed [is] every one that hangeth on a tree:
 <small><sub>**BSB:**</sub></small>
 Christ redeemed us from the curse of the law by becoming a curse for us. For it is written: “Cursed is everyone who is hung on a tree.”
@@ -10,7 +10,7 @@ Christ us redeemed from the curse of the Law having become for us a curse; since
 > $\quad$ referencing: [[LXX.Deut.21.23|Deut 21:23]] ☩ [[LXX.Deut.27.26|Deut 27:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Christ |**<big>[[G5547\|Χριστὸς]]</big>**  |Christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | us |**<big>[[G3165\|ἡμᾶς]]</big>**  |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 20:9** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech called  Abraham. And he said to him, What \[is\] this you did to us, lest we sinned against you, that you bring upon me and upon  my kingdom a great sin? A work which no one will do, you have done to me. 
-<small><sub>**KJV:**</sub></small>
-Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done.
-<small><sub>**BSB:**</sub></small>
-Then Abimelech called Abraham and asked, “What have you done to us? How have I sinned against you, that you have brought such tremendous guilt upon me and my kingdom? You have done things to me that should not be done.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.8|<< Genesis 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.10|Genesis 20:10 >>]]</td></tr></table>
 
 | Translation | Greek |

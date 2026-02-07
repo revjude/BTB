@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:29** 
 <small><sub>**LXX:**</sub></small>
 Except from \[the\] sins of Jeroboam son of Nebat, who led Israel into sin Jehu did not abstain from \[following\] after them -- the heifers  of gold in Bethel and in Dan. 
-<small><sub>**KJV:**</sub></small>
-Howbeit [from] the sins of Jeroboam the son of Nebat, who made Israel to sin, Jehu departed not from after them, [to wit], the golden calves that [were] in Bethel, and that [were] in Dan.
-<small><sub>**BSB:**</sub></small>
-but he did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit—the worship of the golden calves at Bethel and Dan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.28|<< 2 Kings 10:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.30|2 Kings 10:30 >>]]</td></tr></table>
 
 | Translation | Greek |

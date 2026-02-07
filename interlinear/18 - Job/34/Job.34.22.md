@@ -1,4 +1,4 @@
-**Job 34:22** 
+**Job 34:22**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no darkness, nor shadow of death, where the workers of iniquity may hide themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is no darkness or deep shadow where the workers of iniquity can hide.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.21|<< Job 34:21]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.23|Job 34:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] darkness  |**<big>&#8207;[[H2822\|חֹ֭שֶׁךְ]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

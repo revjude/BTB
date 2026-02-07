@@ -1,10 +1,7 @@
 **LXX Haggai 1:15** 
 <small><sub>**LXX:**</sub></small>
 on the fourth and twentieth day of the sixth month, in the second year  of Darius the king. 
-<small><sub>**KJV:**</sub></small>
-In the four and twentieth day of the sixth month, in the second year of Darius the king.
-<small><sub>**BSB:**</sub></small>
-on the twenty-fourth day of the sixth month, in the second year of King Darius.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.14|<< Haggai 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.1|Haggai 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

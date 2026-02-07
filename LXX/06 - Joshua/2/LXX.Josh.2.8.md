@@ -1,10 +1,7 @@
 **LXX Joshua 2:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the ones pursuing after them went forth, and before  their going to sleep, that she ascended upon the roof to them. 
-<small><sub>**KJV:**</sub></small>
-And before they were laid down, she came up unto them upon the roof;
-<small><sub>**BSB:**</sub></small>
-Before the spies lay down for the night, Rahab went up on the roof<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.7|<< Joshua 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.9|Joshua 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

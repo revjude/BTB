@@ -1,4 +1,4 @@
-**Genesis 35:3** 
+**Genesis 35:3**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let us arise, and go up to Bethel; and I will make there an altar unto God, who answered me in the day of my distress, and was with me in the way which I went.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then let us arise and go to Bethel. I will build an altar there to God, who answ
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.2|<< Genesis 35:2]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.4|Genesis 35:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so let us arise  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6965B\|נָק֥וּמָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Ku.mah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and we may go up  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5927G\|נַעֲלֶ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.'a.Leh<small><sup>[[HVqu1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

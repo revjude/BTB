@@ -1,4 +1,4 @@
-**Job 12:6** 
+**Job 12:6**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth [abundantly].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The tents of robbers are safe, and those who provoke God are secure—those who 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.5|<< Job 12:5]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.7|Job 12:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are at peace  |**<big>&#8207;[[H7951\|יִשְׁלָ֤יוּ]]&#8207; </big>**| yish.La.yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tents  |**<big>&#8207;[[H0168G\|אֹֽהָלִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.ha.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

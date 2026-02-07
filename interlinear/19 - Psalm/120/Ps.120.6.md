@@ -1,4 +1,4 @@
-**Psalms 120:6** 
+**Psalms 120:6**<big><big>[[Ps.120.1 In My Distress I Cried to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul hath long dwelt with him that hateth peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Too long have I dwelt among those who hate peace.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.120.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120.5|<< Psalms 120:5]]</td><td align="center" style="border:none;">[[Ps.120|Psalms 120]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.7|Psalms 120:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | much  |**<big>&#8207;[[H7227A\|רַ֭בַּת]]&#8207; </big>**| Ra.bat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has dwelt  |**<big>&#8207;[[H7931\|שָֽׁכְנָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sha.khe.nah-<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

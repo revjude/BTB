@@ -1,10 +1,7 @@
 **LXX Amos 3:8** 
 <small><sub>**LXX:**</sub></small>
 A lion shall bellow, and who will not be fearful? \[The\] <span class="smallcaps">lord</span>  God spoke, and who will not prophesy? 
-<small><sub>**KJV:**</sub></small>
-The lion hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?
-<small><sub>**BSB:**</sub></small>
-The lion has roared—who will not fear? The Lord GOD has spoken—who will not prophesy?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.7|<< Amos 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.9|Amos 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

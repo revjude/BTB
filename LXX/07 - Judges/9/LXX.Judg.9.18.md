@@ -1,10 +1,7 @@
 **LXX Judges 9:18** 
 <small><sub>**LXX:**</sub></small>
 and you rose up against the house  of my father today, and you killed  his sons, seventy men upon one stone; and you gave reign to  Abimelech \[the\] son  of his maidservant over the men of Shechem, because he is your brother; 
-<small><sub>**KJV:**</sub></small>
-And ye are risen up against my father’s house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maidservant, king over the men of Shechem, because he [is] your brother;)
-<small><sub>**BSB:**</sub></small>
-but you have risen up against my father’s house this day and killed his seventy sons on a single stone, and you have made Abimelech, the son of his maidservant, king over the leaders of Shechem because he is your brother—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.17|<< Judges 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.19|Judges 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

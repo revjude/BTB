@@ -1,4 +1,4 @@
-**Deuteronomy 12:25** 
+**Deuteronomy 12:25**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not eat it; that it may go well with thee, and with thy children after thee, when thou shalt do [that which is] right in the sight of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not eat it, so that it may go well with you and your children after you, beca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.24|<< Deuteronomy 12:24]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.26|Deuteronomy 12:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֖א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must eat it  |**<big>&#8207;[[H0398\|תֹּאכְלֶ֑]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| to.khe.Le.<small><sup>[[HVqi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

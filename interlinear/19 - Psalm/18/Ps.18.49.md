@@ -1,4 +1,4 @@
-**Psalms 18:49** (18:50)
+**Psalms 18:49**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I give thanks unto thee, O LORD, among the heathen, and sing praises unto thy name.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore I will praise You, O LORD, among the nations; I will sing praises to Y
 > $\quad$ referenced by: [[2Sam.22.50|2Sam 22:50]] ☩ [[Rom.15.9|Rom 15:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 2:10** 
 <small><sub>**LXX:**</sub></small>
 Be happy and glad, O daughter of Zion! For behold, I come, and I will encamp in \[the\] midst of you, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“Shout for joy and be glad, O Daughter of Zion, for I am coming to dwell among you,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.9|<< Zechariah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.11|Zechariah 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

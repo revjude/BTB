@@ -1,4 +1,4 @@
-**Isaiah 42:18** 
+**Isaiah 42:18**<big><big>[[Isa.42.18 Israel Is Deaf and Blind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, ye deaf; and look, ye blind, that ye may see.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Listen, you deaf ones; look, you blind ones, that you may see!
 > $\quad$ referenced by: [[Matt.11.5|Matt 11:5]] ☩ [[Luke.7.22|Luke 7:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O deaf [people]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2795\|חֵרְשִׁ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> che.re.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | listen  |**<big>&#8207;[[H8085G\|שְׁמָ֑עוּ]]&#8207; </big>**| she.Ma.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

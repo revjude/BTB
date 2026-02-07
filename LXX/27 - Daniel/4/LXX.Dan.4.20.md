@@ -1,10 +1,7 @@
 **LXX Daniel 4:20** 
 <small><sub>**LXX:**</sub></small>
 The tree which you beheld, the one magnified and  strengthened, of which the height came unto the heaven, and the extent of it into all the earth, 
-<small><sub>**KJV:**</sub></small>
-The tree that thou sawest, which grew, and was strong, whose height reached unto the heaven, and the sight thereof to all the earth;
-<small><sub>**BSB:**</sub></small>
-The tree you saw that grew large and strong, whose top reached the sky and was visible to all the earth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.19|<< Daniel 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.21|Daniel 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

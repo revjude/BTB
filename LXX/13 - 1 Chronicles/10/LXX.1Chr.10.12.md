@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 10:12** 
 <small><sub>**LXX:**</sub></small>
 And every mighty man from out of Gilead rose up, and they came and took the body of Saul, and the bodies  of his sons, and they brought them into Jabesh, and they entombed  their bones under the oak in Jabesh, and they fasted seven days. 
-<small><sub>**KJV:**</sub></small>
-They arose, all the valiant men, and took away the body of Saul, and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days.
-<small><sub>**BSB:**</sub></small>
-all their men of valor set out and retrieved the bodies of Saul and his sons and brought them to Jabesh. And they buried their bones under the oak in Jabesh and fasted seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.11|<< 1 Chronicles 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.13|1 Chronicles 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

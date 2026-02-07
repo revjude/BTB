@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Guard the month of the new \[corn\]! And you shall observe the passover \[to the\] <span class="smallcaps">lord</span>  your God, for in the month of the new corn \[the\] <span class="smallcaps">lord</span> your God led you out of Egypt \[by\] night. 
-<small><sub>**KJV:**</sub></small>
-Observe the month of Abib, and keep the passover unto the LORD thy God: for in the month of Abib the LORD thy God brought thee forth out of Egypt by night.
-<small><sub>**BSB:**</sub></small>
-Observe the month of Abib and celebrate the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.23|<< Deuteronomy 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.2|Deuteronomy 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

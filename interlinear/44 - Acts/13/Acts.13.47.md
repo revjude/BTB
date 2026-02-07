@@ -1,5 +1,5 @@
-**Acts 13:47
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:47**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For so hath the Lord commanded us, [saying], I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord has commanded us: ‘I have made you a light for the Gentiles, to bring salvation to the ends of the earth.’”
@@ -10,7 +10,7 @@ Thus for has commanded us the Lord: I have set you for a light of [the] Gentiles
 > $\quad$ referencing: [[LXX.Isa.42.6|Isa 42:6]] ☩ [[LXX.Isa.49.6|Isa 49:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  [^1] |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

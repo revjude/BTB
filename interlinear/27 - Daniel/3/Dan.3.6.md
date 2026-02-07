@@ -1,4 +1,4 @@
-**Daniel 3:6** 
+**Daniel 3:6**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And whoever does not fall down and worship will immediately be thrown into the b
 > $\quad$ referenced by: [[Matt.13.42|Matt 13:42]][[Matt.13.50|, 50]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and whoever  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4479\|מַן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> man-<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H1768\|דִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

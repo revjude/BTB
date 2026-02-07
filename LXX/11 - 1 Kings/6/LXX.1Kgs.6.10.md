@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:10** 
 <small><sub>**LXX:**</sub></small>
 And he built the chambers through \[the\] entire  house, five cubits \[was\] the height of it, and he held it together  by bonding \[it\] together with timbers of cedars. 
-<small><sub>**KJV:**</sub></small>
-And [then] he built chambers against all the house, five cubits high: and they rested on the house with timber of cedar.
-<small><sub>**BSB:**</sub></small>
-He built chambers all along the temple, each five cubits high and attached to the temple with beams of cedar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.9|<< 1 Kings 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.11|1 Kings 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

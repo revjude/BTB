@@ -1,4 +1,4 @@
-**Psalms 125:4** 
+**Psalms 125:4**<big><big>[[Ps.125.1 The LORD Surrounds His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do good, O LORD, unto [those that be] good, and to [them that are] upright in their hearts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do good, O LORD, to those who are good, and to the upright in heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.125.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.125.3|<< Psalms 125:3]]</td><td align="center" style="border:none;">[[Ps.125|Psalms 125]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.125.5|Psalms 125:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do good !  |**<big>&#8207;[[H3190\|הֵיטִ֣יבָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| hei.Ti.va<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

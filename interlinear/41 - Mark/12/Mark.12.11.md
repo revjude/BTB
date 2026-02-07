@@ -1,5 +1,5 @@
-**Mark 12:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:11**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This was the Lord’s doing, and it is marvellous in our eyes?
 <small><sub>**BSB:**</sub></small>
 This is from the Lord, and it is marvelous in our eyes’?”
@@ -10,7 +10,7 @@ from [the] Lord was this, and it is marvelous in [the] eyes of us.’?<br><table
 > $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22-23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] |**<big>[[G3844\|παρὰ]]</big>**  |para <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Lord |**<big>[[G2962G\|κυρίου]]</big>**  |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

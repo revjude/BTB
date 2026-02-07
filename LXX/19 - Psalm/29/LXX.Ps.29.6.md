@@ -1,10 +1,7 @@
 **LXX Psalm 29:6** 
 <small><sub>**LXX:**</sub></small>
 and he shall thin them out as the calf  of Lebanon; even the one being loved as a son of unicorns. 
-<small><sub>**KJV:**</sub></small>
-He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.
-<small><sub>**BSB:**</sub></small>
-He makes Lebanon skip like a calf, and Sirion like a young wild ox.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.5|<< Psalm 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.7|Psalm 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

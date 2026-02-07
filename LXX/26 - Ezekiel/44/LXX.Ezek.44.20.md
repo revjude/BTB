@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:20** 
 <small><sub>**LXX:**</sub></small>
 And  their heads they shall not shave, and  their hair they shall not make bare; by covering they shall cover  their heads. 
-<small><sub>**KJV:**</sub></small>
-Neither shall they shave their heads, nor suffer their locks to grow long; they shall only poll their heads.
-<small><sub>**BSB:**</sub></small>
-They must not shave their heads or let their hair grow long, but must carefully trim their hair.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.19|<< Ezekiel 44:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.21|Ezekiel 44:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 104:11** 
+**Psalms 104:11**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They give drink to every beast of the field: the wild asses quench their thirst.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They give drink to every beast of the field; the wild donkeys quench their thirs
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.10|<< Psalms 104:10]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.12|Psalms 104:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they give drink to  |**<big>&#8207;[[H8248G\|יַ֭שְׁקוּ]]&#8207; </big>**| Yash.ku<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

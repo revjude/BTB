@@ -1,12 +1,12 @@
-**Matthew 9:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:22**<big><big>[[Matt.9.18 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.
 <small><sub>**BSB:**</sub></small>
 Jesus turned and saw her. “Take courage, daughter,” He said, “your faith has healed you.” And the woman was healed from that very hour.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus having turned and having seen her He said; Take courage daughter, the faith of you has cured you. And was cured the woman from the hour very.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.21|<< Matthew 9:21]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.23|Matthew 9:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

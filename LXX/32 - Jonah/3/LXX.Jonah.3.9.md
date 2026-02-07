@@ -1,10 +1,7 @@
 **LXX Jonah 3:9** 
 <small><sub>**LXX:**</sub></small>
 Who knows if God shall change his mind, and he shall turn from \[the\] anger of his rage, and in no way should we perish? 
-<small><sub>**KJV:**</sub></small>
-Who can tell [if] God will turn and repent, and turn away from his fierce anger, that we perish not?
-<small><sub>**BSB:**</sub></small>
-Who knows? God may turn and relent; He may turn from His fierce anger, so that we will not perish.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.8|<< Jonah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.10|Jonah 3:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 3:9** is...

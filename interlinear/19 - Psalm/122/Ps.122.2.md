@@ -1,4 +1,4 @@
-**Psalms 122:2** 
+**Psalms 122:2**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our feet shall stand within thy gates, O Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our feet are standing in your gates, O Jerusalem.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.1|<< Psalms 122:1]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.122.3|Psalms 122:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | standing  |**<big>&#8207;[[H5975G\|עֹ֭מְדוֹת]]&#8207; </big>**| 'O.me.dot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were  |**<big>&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

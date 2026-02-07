@@ -1,10 +1,7 @@
 **LXX Hosea 1:9** 
 <small><sub>**LXX:**</sub></small>
 And he said, Call  his name, Not My People! because you \[are\] not my people, and I am not of you. 
-<small><sub>**KJV:**</sub></small>
-Then said [God], Call his name Loammi: for ye [are] not my people, and I will not be your [God].
-<small><sub>**BSB:**</sub></small>
-And the LORD said, “Name him Lo-ammi, for you are not My people, and I am not your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.1.8|<< Hosea 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.1.10|Hosea 1:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 1:9** is...

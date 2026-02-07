@@ -1,10 +1,7 @@
 **LXX Song of Solomon 4:15** 
 <small><sub>**LXX:**</sub></small>
 A spring of gardens; a well of water living, and gurgling from  Lebanon. 
-<small><sub>**KJV:**</sub></small>
-A fountain of gardens, a well of living waters, and streams from Lebanon.
-<small><sub>**BSB:**</sub></small>
-You are a garden spring, a well of fresh water flowing down from Lebanon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.14|<< Song of Solomon 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.16|Song of Solomon 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

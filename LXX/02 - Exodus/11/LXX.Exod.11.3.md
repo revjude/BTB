@@ -1,10 +1,7 @@
 **LXX Exodus 11:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> gave  favor \[to\] his people before the Egyptians, and they treated them. And the man Moses became exceedingly great before the Egyptians, and before Pharaoh, and before  his attendants. 
-<small><sub>**KJV:**</sub></small>
-And the LORD gave the people favour in the sight of the Egyptians. Moreover the man Moses [was] very great in the land of Egypt, in the sight of Pharaoh’s servants, and in the sight of the people.
-<small><sub>**BSB:**</sub></small>
-And the LORD gave the people favor in the sight of the Egyptians. Moreover, Moses himself was highly regarded in Egypt by Pharaoh’s officials and by the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.11.2|<< Exodus 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.11.4|Exodus 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

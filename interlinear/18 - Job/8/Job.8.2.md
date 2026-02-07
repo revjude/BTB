@@ -1,4 +1,4 @@
-**Job 8:2** 
+**Job 8:2**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long wilt thou speak these [things]? and [how long shall] the words of thy mouth [be like] a strong wind?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How long wilt thou speak these [things]? and [how long shall] the words of thy m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.1|<< Job 8:1]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.3|Job 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when?  |**<big>&#8207;[[H0575\|אָ֥ן]]&#8207; </big>**| 'an<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 11:9** 
 <small><sub>**LXX:**</sub></small>
 And Joshua did to them in so far as \[the\] <span class="smallcaps">lord</span> gave charge to him.  He hamstrung their horses, and  he burned their chariots by fire. 
-<small><sub>**KJV:**</sub></small>
-And Joshua did unto them as the LORD bade him: he houghed their horses, and burnt their chariots with fire.
-<small><sub>**BSB:**</sub></small>
-Joshua treated them as the LORD had told him; he hamstrung their horses and burned up their chariots.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.8|<< Joshua 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.10|Joshua 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

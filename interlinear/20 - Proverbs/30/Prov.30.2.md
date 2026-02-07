@@ -1,4 +1,4 @@
-**Proverbs 30:2** 
+**Proverbs 30:2**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely I [am] more brutish than [any] man, and have not the understanding of a man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely I am the most ignorant of men, and I lack the understanding of a man.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.1|<< Proverbs 30:1]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.3|Proverbs 30:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] stupid  |**<big>&#8207;[[H1198\|בַ֣עַר]]&#8207; </big>**| Va.'ar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

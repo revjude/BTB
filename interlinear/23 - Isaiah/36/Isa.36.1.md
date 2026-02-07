@@ -1,4 +1,4 @@
-**Isaiah 36:1** 
+**Isaiah 36:1**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass in the fourteenth year of king Hezekiah, [that] Sennacherib king of Assyria came up against all the defenced cities of Judah, and took them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the fourteenth year of Hezekiah’s reign, Sennacherib king of Assyria attack
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.10|<< Isaiah 35:10]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.2|Isaiah 36:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֡י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in four-  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0702\|אַרְבַּע֩]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.Ba'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

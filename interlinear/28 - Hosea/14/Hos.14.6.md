@@ -1,4 +1,4 @@
-**Hosea 14:6** (14:7)
+**Hosea 14:6**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His shoots will sprout, and his splendor will be like the olive tree, his fragra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.5|<< Hosea 14:5]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.7|Hosea 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will go  |**<big>&#8207;[[H1980I\|יֵֽלְכוּ֙]]&#8207; </big>**| ye.le.Khu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | young shoots its  |**<big>&#8207;[[H3127\|יֹֽנְקוֹתָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| yo.ne.ko.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 17:25** 
+**Genesis 17:25**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ishmael his son [was] thirteen years old, when he was circumcised in the flesh of his foreskin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and his son Ishmael was thirteen;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.24|<< Genesis 17:24]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.26|Genesis 17:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ishmael  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3458G\|יִשְׁמָעֵ֣אל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְּנ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 44:12** 
+**Genesis 44:12**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he searched, [and] began at the eldest, and left at the youngest: and the cup was found in Benjamin’s sack.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The steward searched, beginning with the oldest and ending with the youngest—a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.11|<< Genesis 44:11]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.13|Genesis 44:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he searched  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2664\|יְחַפֵּ֕שׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.Pes<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with the old [brother]  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1419K\|גָּד֣וֹל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

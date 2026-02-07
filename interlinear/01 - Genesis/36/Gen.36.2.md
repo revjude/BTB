@@ -1,4 +1,4 @@
-**Genesis 36:2** 
+**Genesis 36:2**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Esau took his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Esau took his wives from the daughters of Canaan: Adah daughter of Elon the Hitt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.1|<< Genesis 36:1]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.3|Genesis 36:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Esau  |**<big>&#8207;[[H6215G\|עֵשָׂ֛ו]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he took  |**<big>&#8207;[[H3947G\|לָקַ֥ח]]&#8207; </big>**| la.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

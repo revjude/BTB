@@ -1,4 +1,4 @@
-**Exodus 36:27** 
+**Exodus 36:27**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the sides of the tabernacle westward he made six boards.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made six frames for the rear of the tabernacle, the west side,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.26|<< Exodus 36:26]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.28|Exodus 36:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and for [the] innermost parts of  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3411\|יַרְכְּתֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> yar.ke.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the tabernacle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4908\|מִּשְׁכָּ֖ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

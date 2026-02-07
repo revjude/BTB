@@ -1,4 +1,4 @@
-**Numbers 26:21** 
+**Numbers 26:21**<big><big>[[Num.26.19 The Tribe of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And these were the descendants of Perez: the Hezronite clan from Hezron and the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.20|<< Numbers 26:20]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.22|Numbers 26:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

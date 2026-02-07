@@ -1,4 +1,4 @@
-**2 Chronicles 14:11** (14:10)
+**2 Chronicles 14:11**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Asa cried unto the LORD his God, and said, LORD, [it is] nothing with thee to help, whether with many, or with them that have no power: help us, O LORD our God; for we rest on thee, and in thy name we go against this multitude. O LORD, thou [art] our God; let not man prevail against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Asa cried out to the LORD his God: “O LORD, there is no one besides You t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.10|<< 2 Chronicles 14:10]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.12|2 Chronicles 14:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asa  |**<big>&#8207;[[H0609G\|אָסָ֜א]]&#8207; </big>**| 'a.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

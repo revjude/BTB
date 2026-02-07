@@ -1,12 +1,12 @@
-**Luke 6:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:28**<big><big>[[Luke.6.27 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Bless them that curse you, and pray for them which despitefully use you.
 <small><sub>**BSB:**</sub></small>
 bless those who curse you, pray for those who mistreat you.
 <small><sub>**Literal:**</sub></small>
 do bless those cursing you, and do pray for those mistreating you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.27|<< Luke 6:27]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.29|Luke 6:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do bless |**<big>[[G2127\|εὐλογεῖτε]]</big>**  |eulogeite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

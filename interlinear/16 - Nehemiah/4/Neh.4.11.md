@@ -1,4 +1,4 @@
-**Nehemiah 4:11** (4:5)
+**Nehemiah 4:11**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And our enemies said, “Before they know or see a thing, we will come into thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.10|<< Nehemiah 4:10]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.12|Nehemiah 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | opponents our  |**<big>&#8207;[[H6862C\|צָרֵ֗י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| tza.Rei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

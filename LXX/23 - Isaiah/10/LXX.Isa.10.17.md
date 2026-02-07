@@ -1,10 +1,7 @@
 **LXX Isaiah 10:17** 
 <small><sub>**LXX:**</sub></small>
 And the light of Israel shall be for a fire; and he shall sanctify her in fire being burned; and it shall devour the woods as grass \[in\] that day. 
-<small><sub>**KJV:**</sub></small>
-And the light of Israel shall be for a fire, and his Holy One for a flame: and it shall burn and devour his thorns and his briers in one day;
-<small><sub>**BSB:**</sub></small>
-And the Light of Israel will become a fire, and its Holy One a flame. In a single day it will burn and devour Assyria’s thorns and thistles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.16|<< Isaiah 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.18|Isaiah 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 35:11** 
+**Exodus 35:11**<big><big>[[Exod.35.10 The Skilled Craftsmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the tabernacle with its tent and covering, its clasps and frames, its crossbars,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.10|<< Exodus 35:10]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.12|Exodus 35:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the tabernacle  |**<big>&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H4908\|מִּשְׁכָּ֔ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

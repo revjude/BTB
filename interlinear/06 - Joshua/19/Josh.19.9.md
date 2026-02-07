@@ -1,4 +1,4 @@
-**Joshua 19:9** 
+**Joshua 19:9**<big><big>[[Josh.19.1 Simeon’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of the portion of the children of Judah [was] the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The inheritance of the Simeonites was taken from the territory of Judah, because
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.8|<< Joshua 19:8]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.10|Joshua 19:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] from [the] portion of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2256M\|חֶ֙בֶל֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Che.vel<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

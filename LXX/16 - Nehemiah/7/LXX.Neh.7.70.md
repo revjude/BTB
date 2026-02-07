@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:70** 
 <small><sub>**LXX:**</sub></small>
 And from a portion \[of the\] heads of the families gave for the work, to the Arthasastha for a treasure -- a thousand drachmas of gold, fifty bowls, five hundred thirty robes for the priests. 
-<small><sub>**KJV:**</sub></small>
-And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests’ garments.
-<small><sub>**BSB:**</sub></small>
-Some of the heads of the families contributed to the project. The governor gave to the treasury 1,000 darics of gold, 50 bowls, and 530 priestly garments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.70|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.69|<< Nehemiah 7:69]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.71|Nehemiah 7:71 >>]]</td></tr></table>
 
 | Translation | Greek |

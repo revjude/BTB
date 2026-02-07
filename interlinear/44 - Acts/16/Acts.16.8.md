@@ -1,12 +1,12 @@
-**Acts 16:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:8**<big><big>[[Acts.16.6 Paul’s Vision of the Macedonian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they passing by Mysia came down to Troas.
 <small><sub>**BSB:**</sub></small>
 So they passed by Mysia and went down to Troas.
 <small><sub>**Literal:**</sub></small>
 having passed by then <the> Mysia they came down to Troas.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.7|<< Acts 16:7]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.9|Acts 16:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having passed by |**<big>[[G3928\|παρελθόντες]]</big>**  |parelthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

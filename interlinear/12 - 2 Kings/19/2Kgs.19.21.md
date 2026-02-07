@@ -1,4 +1,4 @@
-**2 Kings 19:21** 
+**2 Kings 19:21**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, [and] laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the word that the LORD has spoken against him: ‘The Virgin Daughter of
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.20|<< 2 Kings 19:20]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.22|2 Kings 19:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Judges 20:37** 
+**Judges 20:37**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the liers in wait hasted, and rushed upon Gibeah; and the liers in wait drew [themselves] along, and smote all the city with the edge of the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The men in ambush rushed suddenly against Gibeah; they advanced and put the whol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.36|<< Judges 20:36]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.38|Judges 20:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the ambusher  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0693\|אֹרֵ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'o.Rev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they made haste  |**<big>&#8207;[[H2363A\|הֵחִ֔ישׁוּ]]&#8207; </big>**| he.Chi.shu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

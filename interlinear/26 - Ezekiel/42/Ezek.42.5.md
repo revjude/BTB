@@ -1,4 +1,4 @@
-**Ezekiel 42:5** 
+**Ezekiel 42:5**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the upper chambers [were] shorter: for the galleries were higher than these, than the lower, and than the middlemost of the building.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the upper chambers were smaller because the galleries took more space from t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.4|<< Ezekiel 42:4]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.6|Ezekiel 42:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the rooms  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3957\|לְּשָׁכ֥וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> le.sha.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> upper  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5945A\|עֶלְיוֹנֹ֖ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'el.yo.Not<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 18:2** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Dan sent out from their peoples five men from their part, men of sons of power, from Zorah and Esthaol,  to survey the land, and to track it. And they said to them, Go, and search out the land! And they came unto mount Ephraim, unto \[the\] house of Micah, and they rested there. 
-<small><sub>**KJV:**</sub></small>
-And the children of Dan sent of their family five men from their coasts, men of valour, from Zorah, and from Eshtaol, to spy out the land, and to search it; and they said unto them, Go, search the land: who when they came to mount Ephraim, to the house of Micah, they lodged there.
-<small><sub>**BSB:**</sub></small>
-So the Danites sent out five men from their clans, men of valor from Zorah and Eshtaol, to spy out the land and explore it. “Go and explore the land,” they told them. The men entered the hill country of Ephraim and came to the house of Micah, where they spent the night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.1|<< Judges 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.3|Judges 18:3 >>]]</td></tr></table>
 
 | Translation | Greek |

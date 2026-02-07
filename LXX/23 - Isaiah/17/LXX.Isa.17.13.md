@@ -1,10 +1,7 @@
 **LXX Isaiah 17:13** 
 <small><sub>**LXX:**</sub></small>
 As much water many nations; as much water being brought by force; and he shall curse one to be far from them, and at a distance from them he shall pursue, as dust of mountains being winnowed before \[the\] wind, and as a cloud of dust being brought of a blast of \[the\] wheel. 
-<small><sub>**KJV:**</sub></small>
-The nations shall rush like the rushing of many waters: but [God] shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind.
-<small><sub>**BSB:**</sub></small>
-The nations rage like the rush of many waters. He rebukes them, and they flee far away, driven before the wind like chaff on the hills, like tumbleweeds before a gale.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.12|<< Isaiah 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.14|Isaiah 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

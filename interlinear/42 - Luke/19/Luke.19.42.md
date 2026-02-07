@@ -1,12 +1,12 @@
-**Luke 19:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:42**<big><big>[[Luke.19.41 Jesus Weeps over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, If thou hadst known, even thou, at least in this thy day, the things [which belong] unto thy peace! but now they are hid from thine eyes.
 <small><sub>**BSB:**</sub></small>
 and said, “If only you had known on this day what would bring you peace! But now it is hidden from your eyes.
 <small><sub>**Literal:**</sub></small>
 saying that If you had known and indeed in the day of you this even you yourself the [things] for peace of you; Now however they are hidden from eyes of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.41|<< Luke 19:41]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.43|Luke 19:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

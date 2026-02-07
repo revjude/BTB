@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Saul said to  his servants, Look indeed for me for a man rightly \[skilled for\] strumming, and bring him to me! 
-<small><sub>**KJV:**</sub></small>
-And Saul said unto his servants, Provide me now a man that can play well, and bring [him] to me.
-<small><sub>**BSB:**</sub></small>
-And Saul commanded his servants, “Find me someone who plays well, and bring him to me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.16|<< 1 Samuel 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.18|1 Samuel 16:18 >>]]</td></tr></table>
 
 | Translation | Greek |

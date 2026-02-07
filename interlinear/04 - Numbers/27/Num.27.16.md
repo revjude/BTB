@@ -1,4 +1,4 @@
-**Numbers 27:16** 
+**Numbers 27:16**<big><big>[[Num.27.12 Moses Requests a Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the LORD, the God of the spirits of all flesh, set a man over the congregation,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Let the LORD, the God of the spirits of all flesh, set a man over the congregati
 > $\quad$ referenced by: [[Heb.12.9|Heb 12:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let him appoint  |**<big>&#8207;[[H6485J\|יִפְקֹ֣ד]]&#8207; </big>**| yif.Kod<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

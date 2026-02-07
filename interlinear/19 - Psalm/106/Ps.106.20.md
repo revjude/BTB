@@ -1,4 +1,4 @@
-**Psalms 106:20** 
+**Psalms 106:20**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus they changed their glory into the similitude of an ox that eateth grass.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They exchanged their Glory for the image of a grass-eating ox.
 > $\quad$ referenced by: [[Rom.1.23|Rom 1:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they exchanged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4171\|יָּמִ֥ירוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Mi.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

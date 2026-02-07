@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:53** 
 <small><sub>**LXX:**</sub></small>
 And I will return  their rejection, the rejection of Sodom and  her daughters; and I will return the rejection of Samaria and  her daughters; and I will return  your rejection in \[the\] midst of them; 
-<small><sub>**KJV:**</sub></small>
-When I shall bring again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, then [will I bring again] the captivity of thy captives in the midst of them:
-<small><sub>**BSB:**</sub></small>
-But I will restore Sodom and her daughters from captivity, as well as Samaria and her daughters. And I will restore you along with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.52|<< Ezekiel 16:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.54|Ezekiel 16:54 >>]]</td></tr></table>
 
 | Translation | Greek |

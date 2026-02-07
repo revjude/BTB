@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:8** 
 <small><sub>**LXX:**</sub></small>
 on account of this, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against you, and I shall execute judgment in \[the\] midst of you before the nations. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Behold, I, even I, [am] against thee, and will execute judgments in the midst of thee in the sight of the nations.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: ‘Behold, I Myself am against you, Jerusalem, and I will execute judgments among you in the sight of the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.7|<< Ezekiel 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.9|Ezekiel 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

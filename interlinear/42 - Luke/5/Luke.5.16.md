@@ -1,12 +1,12 @@
-**Luke 5:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:16**<big><big>[[Luke.5.12 The Leper’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he withdrew himself into the wilderness, and prayed.
 <small><sub>**BSB:**</sub></small>
 Yet He frequently withdrew to the wilderness to pray.
 <small><sub>**Literal:**</sub></small>
 He Himself now was withdrawing into the wilderness and praying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.15|<< Luke 5:15]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.17|Luke 5:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He Himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Proverbs 20:4** 
 <small><sub>**LXX:**</sub></small>
 Berating a lazy one does not shame \[him\], likewise also the one borrowing grain in harvest. 
-<small><sub>**KJV:**</sub></small>
-The sluggard will not plow by reason of the cold; [therefore] shall he beg in harvest, and [have] nothing.
-<small><sub>**BSB:**</sub></small>
-The slacker does not plow in season; at harvest time he looks, but nothing is there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.3|<< Proverbs 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.5|Proverbs 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

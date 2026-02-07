@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:35** 
 <small><sub>**LXX:**</sub></small>
 And David took from her hand all which she brought to him. And he said to her, Ascend in peace to  your house. See, I hearkened to  your voice, and I took up  your person! 
-<small><sub>**KJV:**</sub></small>
-So David received of her hand [that] which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person.
-<small><sub>**BSB:**</sub></small>
-Then David accepted from her hand what she had brought him, and he said to her, “Go home in peace. See, I have heeded your voice and granted your request.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.34|<< 1 Samuel 25:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.36|1 Samuel 25:36 >>]]</td></tr></table>
 
 | Translation | Greek |

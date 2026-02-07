@@ -1,10 +1,7 @@
 **LXX Job 19:22** 
 <small><sub>**LXX:**</sub></small>
 And why do you pursue me as also the <span class="smallcaps">lord</span>, and you are not filled up with my flesh? 
-<small><sub>**KJV:**</sub></small>
-Why do ye persecute me as God, and are not satisfied with my flesh?
-<small><sub>**BSB:**</sub></small>
-Why do you persecute me as God does? Will you never get enough of my flesh?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.21|<< Job 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.23|Job 19:23 >>]]</td></tr></table>
 
 | Translation | Greek |

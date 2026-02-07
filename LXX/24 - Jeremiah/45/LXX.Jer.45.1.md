@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word which Jeremiah the prophet spoke to Baruch son of Neriah, when he wrote  these words in the scroll from \[the\] mouth of Jeremiah, in the fourth year of Jehoiakim son of Josiah king of Judah, saying, 
-<small><sub>**KJV:**</sub></small>
-The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,
-<small><sub>**BSB:**</sub></small>
-This is the word that Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words on a scroll at the dictation of Jeremiah in the fourth year of Jehoiakim son of Josiah, king of Judah:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.30|<< Jeremiah 44:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.45.2|Jeremiah 45:2 >>]]</td></tr></table>
 
 | Translation | Greek |

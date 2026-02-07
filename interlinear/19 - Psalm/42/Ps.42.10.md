@@ -1,4 +1,4 @@
-**Psalms 42:10** (42:11)
+**Psalms 42:10**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where [is] thy God?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like the crushing of my bones, my enemies taunt me, while they say to me all day
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.9|<< Psalms 42:9]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.11|Psalms 42:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with a shattering  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7524\|רֶ֤צַח]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Re.tzach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in bones my  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H6106G\|עַצְמוֹתַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'atz.mo.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

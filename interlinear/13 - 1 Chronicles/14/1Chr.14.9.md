@@ -1,4 +1,4 @@
-**1 Chronicles 14:9** 
+**1 Chronicles 14:9**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines came and spread themselves in the valley of Rephaim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the Philistines had come and raided the Valley of Rephaim.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.8|<< 1 Chronicles 14:8]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.10|1 Chronicles 14:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] Philistines  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6430G\|פְלִשְׁתִּ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they had come  |**<big>&#8207;[[H0935G\|בָּ֑אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

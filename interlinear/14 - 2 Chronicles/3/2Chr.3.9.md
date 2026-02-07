@@ -1,4 +1,4 @@
-**2 Chronicles 3:9** 
+**2 Chronicles 3:9**<big><big>[[2Chr.3.5 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the weight of the nails [was] fifty shekels of gold. And he overlaid the upper chambers with gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The weight of the nails was fifty shekels of gold. He also overlaid the upper ro
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.8|<< 2 Chronicles 3:8]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.10|2 Chronicles 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] weight  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4948\|מִשְׁקָ֛ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Kal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of nails  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4548\|מִסְמְר֥וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mis.me.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

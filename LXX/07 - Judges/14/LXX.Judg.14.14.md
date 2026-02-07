@@ -1,10 +1,7 @@
 **LXX Judges 14:14** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, From the one eating came forth food, and from \[the\] strong came forth sweetness. And they were not able to explain the riddle for three days. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Out of the eater came forth meat, and out of the strong came forth sweetness. And they could not in three days expound the riddle.
-<small><sub>**BSB:**</sub></small>
-So he said to them: “Out of the eater came something to eat, and out of the strong came something sweet.” For three days they were unable to explain the riddle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.13|<< Judges 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.15|Judges 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 8:13** 
 <small><sub>**LXX:**</sub></small>
 and Beriah and Shema, these \[are\] rulers of \[the\] families of the ones dwelling in Aijalon; these drove out the ones dwelling Gath. 
-<small><sub>**KJV:**</sub></small>
-Beriah also, and Shema, who [were] heads of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath:
-<small><sub>**BSB:**</sub></small>
-and Beriah and Shema (who were the heads of families living in Aijalon and who drove out the inhabitants of Gath).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.12|<< 1 Chronicles 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.14|1 Chronicles 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

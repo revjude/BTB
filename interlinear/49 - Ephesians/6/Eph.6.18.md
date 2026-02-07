@@ -1,12 +1,12 @@
-**Ephesians 6:18
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:18**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance and supplication for all saints;
 <small><sub>**BSB:**</sub></small>
 Pray in the Spirit at all times, with every kind of prayer and petition. To this end, stay alert with all perseverance in your prayers for all the saints.
 <small><sub>**Literal:**</sub></small>
 through all [times] prayer and supplication praying in every season in [the] Spirit and unto <the> this watching with all perseverance and with supplication for all <the> saints<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.17|<< Ephesians 6:17]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.19|Ephesians 6:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | through |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all [times] |**<big>[[G3956\|πάσης]]</big>**  |pasēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

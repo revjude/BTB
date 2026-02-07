@@ -1,4 +1,4 @@
-**Joshua 8:21** 
+**Joshua 8:21**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Joshua and all Israel saw that the men in ambush had captured the city and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.20|<< Joshua 8:20]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.22|Joshua 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Joshua  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3091G\|יהוֹשֻׁ֨עַ]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

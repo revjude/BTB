@@ -1,4 +1,4 @@
-**1 Chronicles 29:5** 
+**1 Chronicles 29:5**<big><big>[[1Chr.29.1 Offerings for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The gold for [things] of gold, and the silver for [things] of silver, and for all manner of work [to be made] by the hands of artificers. And who [then] is willing to consecrate his service this day unto the LORD?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for the gold work and the silver work, and for all the work to be done by the cr
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.4|<< 1 Chronicles 29:4]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.6|1 Chronicles 29:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> the gold  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2091\|זָּהָ֤ב]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the gold  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2091\|זָּהָב֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

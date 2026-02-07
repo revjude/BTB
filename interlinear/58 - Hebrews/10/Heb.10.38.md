@@ -1,5 +1,5 @@
-**Hebrews 10:38
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:38**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the just shall live by faith: but if [any man] draw back, my soul shall have no pleasure in him.
 <small><sub>**BSB:**</sub></small>
 But My righteous one will live by faith; and if he shrinks back, I will take no pleasure in him.”
@@ -10,7 +10,7 @@ The one however righteous of Mine by faith will live; and if he shall shrink bac
 > $\quad$ referencing: [[LXX.Hab.2.3|Hab 2:3-4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The one |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

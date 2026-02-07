@@ -1,4 +1,4 @@
-**1 Chronicles 25:8** 
+**1 Chronicles 25:8**<big><big>[[1Chr.25.1 Twenty-Four Divisions of Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they cast lots, ward against [ward], as well the small as the great, the teacher as the scholar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They cast lots for their duties, young and old alike, teacher as well as pupil.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.7|<< 1 Chronicles 25:7]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.9|1 Chronicles 25:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cast  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307I\|יַּפִּ֜ילוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Pi.lu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lots  |**<big>&#8207;[[H1486\|גּוֹרָל֣וֹת]]&#8207; </big>**| go.ra.Lot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

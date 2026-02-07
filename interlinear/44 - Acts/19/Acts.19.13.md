@@ -1,12 +1,12 @@
-**Acts 19:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:13**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.
 <small><sub>**BSB:**</sub></small>
 Now there were some itinerant Jewish exorcists who tried to invoke the name of the Lord Jesus over those with evil spirits. They would say, “I command you by Jesus, whom Paul proclaims.”
 <small><sub>**Literal:**</sub></small>
 Attempted now some of also of the itinerant Jewish exorcists to invoke over those having <the> spirits <the> evil the name of the Lord Jesus saying; I adjure you <the> [by] Jesus whom <the> Paul proclaims.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.12|<< Acts 19:12]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.14|Acts 19:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Attempted |**<big>[[G2021\|Ἐπεχείρησαν]]</big>**  |Epecheirēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

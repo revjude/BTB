@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:23** 
 <small><sub>**LXX:**</sub></small>
 And the saying was pleasing before me. And I took from you twelve men -- one man according to tribe. 
-<small><sub>**KJV:**</sub></small>
-And the saying pleased me well: and I took twelve men of you, one of a tribe:
-<small><sub>**BSB:**</sub></small>
-The plan seemed good to me, so I selected twelve men from among you, one from each tribe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.22|<< Deuteronomy 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.24|Deuteronomy 1:24 >>]]</td></tr></table>
 
 | Translation | Greek |

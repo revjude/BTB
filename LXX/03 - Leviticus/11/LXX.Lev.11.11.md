@@ -1,10 +1,7 @@
 **LXX Leviticus 11:11** 
 <small><sub>**LXX:**</sub></small>
 And they shall be abominations to you; you shall not eat of their meats. And  their decaying flesh you shall abhor. 
-<small><sub>**KJV:**</sub></small>
-They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.
-<small><sub>**BSB:**</sub></small>
-They shall be an abomination to you; you must not eat their meat, and you must detest their carcasses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.10|<< Leviticus 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.12|Leviticus 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

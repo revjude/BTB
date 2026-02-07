@@ -1,4 +1,4 @@
-**Job 30:23** 
+**Job 30:23**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I know [that] thou wilt bring me [to] death, and [to] the house appointed for all living.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yes, I know that You will bring me down to death, to the place appointed for all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.22|<< Job 30:22]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.24|Job 30:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I know  |**<big>&#8207;[[H3045\|יָ֭דַעְתִּי]]&#8207; </big>**| Ya.da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

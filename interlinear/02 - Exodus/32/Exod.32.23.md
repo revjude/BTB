@@ -1,4 +1,4 @@
-**Exodus 32:23** 
+**Exodus 32:23**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they said unto me, Make us gods, which shall go before us: for [as for] this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They told me, ‘Make us gods who will go before us. As for this Moses who broug
 > $\quad$ referenced by: [[Acts.7.40|Acts 7:40]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמְרוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 15:10** 
+**Job 15:10**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With us [are] both the grayheaded and very aged men, much elder than thy father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Both the gray-haired and the aged are on our side—men much older than your fat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.9|<< Job 15:9]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.11|Job 15:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] gray haired  |**<big>&#8207;[[H7867\|שָׂ֣ב]]&#8207; </big>**| sav<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

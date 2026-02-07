@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall do to them as he did to Sihon and Og, to the two kings of the Amorites, the ones who were on the other side of the Jordan, and \[to\] their land, in so far as he utterly destroyed them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall do unto them as he did to Sihon and to Og, kings of the Amorites, and unto the land of them, whom he destroyed.
-<small><sub>**BSB:**</sub></small>
-And the LORD will do to them as He did to Sihon and Og, the kings of the Amorites, when He destroyed them along with their land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.3|<< Deuteronomy 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.5|Deuteronomy 31:5 >>]]</td></tr></table>
 
 | Translation | Greek |

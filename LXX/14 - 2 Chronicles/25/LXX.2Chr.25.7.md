@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man  of God came to him, saying, O king, \[the\] force of Israel go with you! for \[the\] <span class="smallcaps">lord</span> is not with Israel -- of any of the sons of Ephraim. 
-<small><sub>**KJV:**</sub></small>
-But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for the LORD [is] not with Israel, [to wit, with] all the children of Ephraim.
-<small><sub>**BSB:**</sub></small>
-But a man of God came to him and said, “O king, do not let the army of Israel go with you, for the LORD is not with Israel—not with any of the Ephraimites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.6|<< 2 Chronicles 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.8|2 Chronicles 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 25:11** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the dying of Abraham, God blessed  Isaac his son. And Isaac dwelt by the Well of the Vision. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahairoi.
-<small><sub>**BSB:**</sub></small>
-After Abraham’s death, God blessed his son Isaac, who lived near Beer-lahai-roi.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.10|<< Genesis 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.12|Genesis 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

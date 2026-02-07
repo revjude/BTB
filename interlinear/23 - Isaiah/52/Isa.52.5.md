@@ -1,4 +1,4 @@
-**Isaiah 52:5** 
+**Isaiah 52:5**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, what have I here, saith the LORD, that my people is taken away for nought? they that rule over them make them to howl, saith the LORD; and my name continually every day [is] blasphemed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And now what have I here? declares the LORD. For My people have been taken witho
 > $\quad$ referenced by: [[Rom.2.24|Rom 2:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  [^1]|**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**[^2] | mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

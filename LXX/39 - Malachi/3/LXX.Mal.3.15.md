@@ -1,10 +1,7 @@
 **LXX Malachi 3:15** 
 <small><sub>**LXX:**</sub></small>
 And now we aliens blessed; and all the ones doing lawless deeds are built up; and they opposed God, and were preserved. 
-<small><sub>**KJV:**</sub></small>
-And now we call the proud happy; yea, they that work wickedness are set up; yea, [they that] tempt God are even delivered.
-<small><sub>**BSB:**</sub></small>
-So now we call the arrogant blessed. Not only do evildoers prosper, they even test God and escape.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.14|<< Malachi 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.16|Malachi 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

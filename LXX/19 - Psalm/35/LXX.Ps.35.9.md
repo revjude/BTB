@@ -1,10 +1,7 @@
 **LXX Psalm 35:9** 
 <small><sub>**LXX:**</sub></small>
  But my soul shall exult over the <span class="smallcaps">lord</span>; it shall be made happy over  his deliverance. 
-<small><sub>**KJV:**</sub></small>
-And my soul shall be joyful in the LORD: it shall rejoice in his salvation.
-<small><sub>**BSB:**</sub></small>
-Then my soul will rejoice in the LORD and exult in His salvation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.8|<< Psalm 35:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.10|Psalm 35:10 >>]]</td></tr></table>
 
 | Translation | Greek |

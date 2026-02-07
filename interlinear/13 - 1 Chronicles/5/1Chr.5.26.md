@@ -1,4 +1,4 @@
-**1 Chronicles 5:26** 
+**1 Chronicles 5:26**<big><big>[[1Chr.5.23 The Half-Tribe of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tigl
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.25|<< 1 Chronicles 5:25]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.1|1 Chronicles 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stirred up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5782\|יָּעַר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'Ar<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֨י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 16:17** 
 <small><sub>**LXX:**</sub></small>
 \[The\] paths of life turn aside from evils; and \[the\] ways of righteousness \[are\] length of existence. The one receiving instruction will be among good \[things\]; and the one keeping reproofs shall be made wise. The one who guards  his own ways gives heed to  his own soul; and \[the\] one loving his life shall spare his mouth. 
-<small><sub>**KJV:**</sub></small>
-The highway of the upright [is] to depart from evil: he that keepeth his way preserveth his soul.
-<small><sub>**BSB:**</sub></small>
-The highway of the upright leads away from evil; he who guards his way protects his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.16|<< Proverbs 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.18|Proverbs 16:18 >>]]</td></tr></table>
 
 | Translation | Greek |

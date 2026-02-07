@@ -1,10 +1,7 @@
 **LXX Genesis 1:28** 
 <small><sub>**LXX:**</sub></small>
 And God blessed them, saying, Grow and multiply, and fill the earth, and dominate it! And control the fishes of the sea, and the winged creatures of the heaven, and all the cattle, and all of the earth, and all of the reptiles of the \[ones\] crawling upon the earth! 
-<small><sub>**KJV:**</sub></small>
-And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.
-<small><sub>**BSB:**</sub></small>
-God blessed them and said to them, “Be fruitful and multiply, and fill the earth and subdue it; rule over the fish of the sea and the birds of the air and every creature that crawls upon the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.27|<< Genesis 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.29|Genesis 1:29 >>]]</td></tr></table>
 
 | Translation | Greek |

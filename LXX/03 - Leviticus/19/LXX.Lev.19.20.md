@@ -1,10 +1,7 @@
 **LXX Leviticus 19:20** 
 <small><sub>**LXX:**</sub></small>
 And if any \[man\] should go to bed with a woman in the marriage-bed of semen, and she is a domestic servant being guarded for a man, and to her ransoms have not been ransomed, or freedom was not given to her; an overseeing will be to them; they shall not die, for she was not set free. 
-<small><sub>**KJV:**</sub></small>
-And whosoever lieth carnally with a woman, that [is] a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.
-<small><sub>**BSB:**</sub></small>
-If a man lies carnally with a slave girl promised to another man but who has not been redeemed or given her freedom, there must be due punishment. But they are not to be put to death, because she had not been freed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.19|<< Leviticus 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.21|Leviticus 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

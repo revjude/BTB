@@ -1,4 +1,4 @@
-**Micah 3:12** 
+**Micah 3:12**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall Zion for your sake be plowed [as] a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, because of you, Zion will be plowed like a field, Jerusalem will beco
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.11|<< Micah 3:11]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.1|Micah 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵן֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on account of you  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1558\|גְלַלְ]]&#8207;&#8207;[[H9036\|כֶ֔ם]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> g.lal.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

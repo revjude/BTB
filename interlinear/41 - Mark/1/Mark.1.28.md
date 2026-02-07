@@ -1,12 +1,12 @@
-**Mark 1:28
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:28**<big><big>[[Mark.1.21 Jesus Expels an Unclean Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately his fame spread abroad throughout all the region round about Galilee.
 <small><sub>**BSB:**</sub></small>
 And the news about Jesus spread quickly through the whole region of Galilee.
 <small><sub>**Literal:**</sub></small>
 And went out now the news of Him immediately everywhere into all the surrounding region <the> of Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.27|<< Mark 1:27]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.29|Mark 1:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | went out |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

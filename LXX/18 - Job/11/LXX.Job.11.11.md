@@ -1,10 +1,7 @@
 **LXX Job 11:11** 
 <small><sub>**LXX:**</sub></small>
 For he knows \[the\] works of \[the\] lawless; and beholding he shall not overlook \[the things\] out of place. 
-<small><sub>**KJV:**</sub></small>
-For he knoweth vain men: he seeth wickedness also; will he not then consider [it]?
-<small><sub>**BSB:**</sub></small>
-Surely He knows the deceit of men. If He sees iniquity, does He not take note?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.10|<< Job 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.12|Job 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

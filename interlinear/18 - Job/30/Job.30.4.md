@@ -1,4 +1,4 @@
-**Job 30:4** 
+**Job 30:4**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who cut up mallows by the bushes, and juniper roots [for] their meat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They plucked mallow among the shrubs, and the roots of the broom tree were their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.3|<< Job 30:3]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.5|Job 30:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] pluck off  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6998\|קֹּטְפִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.te.Fim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mallow  |**<big>&#8207;[[H4408\|מַלּ֣וּחַ]]&#8207; </big>**| ma.Lu.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

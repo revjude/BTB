@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:49** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> shall bring upon you a nation far off from \[the\] end of the earth, as \[the\] impulse of an eagle, a nation of which you will not hear  its voice; 
-<small><sub>**KJV:**</sub></small>
-The LORD shall bring a nation against thee from far, from the end of the earth, [as swift] as the eagle flieth; a nation whose tongue thou shalt not understand;
-<small><sub>**BSB:**</sub></small>
-The LORD will bring a nation from afar, from the ends of the earth, to swoop down upon you like an eagle—a nation whose language you will not understand,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.48|<< Deuteronomy 28:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.50|Deuteronomy 28:50 >>]]</td></tr></table>
 
 | Translation | Greek |

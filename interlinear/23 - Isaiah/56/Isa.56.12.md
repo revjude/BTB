@@ -1,4 +1,4 @@
-**Isaiah 56:12** 
+**Isaiah 56:12**<big><big>[[Isa.56.9 Israel’s Sinful Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come ye, [say they], I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, [and] much more abundant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come ye, [say they], I will fetch wine, and we will fill ourselves with strong d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.11|<< Isaiah 56:11]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.1|Isaiah 57:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H0857\|אֵתָ֥יוּ]]&#8207; </big>**| 'e.Ta.yu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let me take  |**<big>&#8207;[[H3947G\|אֶקְחָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ek.chah-<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

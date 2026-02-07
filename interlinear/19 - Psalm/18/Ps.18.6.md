@@ -1,4 +1,4 @@
-**Psalms 18:6** (18:7)
+**Psalms 18:6**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In my distress I called upon the LORD, and cried unto my God: he heard my voice out of his temple, and my cry came before him, [even] into his ears.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In my distress I called upon the LORD; I cried to my God for help. From His temp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.5|<< Psalms 18:5]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.7|Psalms 18:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when \<the> it was distress  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6862B\|צַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> tzar-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ֤]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

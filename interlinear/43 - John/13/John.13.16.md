@@ -1,12 +1,12 @@
-**John 13:16
-**<small><sub>**KJV:**</sub></small>
+**John 13:16**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, no servant is greater than his master, nor is a messenger greater than the one who sent him.
 <small><sub>**Literal:**</sub></small>
 Amen Amen I say to you; not is a servant greater than the master of him nor [is] a messenger greater than the [one who] having sent him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.15|<< John 13:15]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.17|John 13:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

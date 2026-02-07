@@ -1,4 +1,4 @@
-**Joshua 24:31** 
+**Joshua 24:31**<big><big>[[Josh.24.29 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel served the LORD all the days of Joshua, and all the days of the elders that overlived Joshua, and which had known all the works of the LORD, that he had done for Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel had served the LORD throughout the days of Joshua and of the elders who o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.30|<< Joshua 24:30]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.32|Joshua 24:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it served  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647H\|יַּעֲבֹ֤ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵל֙]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

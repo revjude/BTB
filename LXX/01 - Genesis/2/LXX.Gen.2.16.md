@@ -1,10 +1,7 @@
 **LXX Genesis 2:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God gave charge \[to\] Adam, saying, From all of a tree of the one in the paradise you shall eat food, 
-<small><sub>**KJV:**</sub></small>
-And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:
-<small><sub>**BSB:**</sub></small>
-And the LORD God commanded him, “You may eat freely from every tree of the garden,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.15|<< Genesis 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.17|Genesis 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

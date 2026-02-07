@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:22** 
 <small><sub>**LXX:**</sub></small>
 From his right became the oracle against Jerusalem,  to throw up a siege mound,  to open wide \[the\] mouth in yelling, to raise up high a voice with a cry,  to throw up a siege mound against  her gates, and to throw up an embankment, and to build a range of weapons. 
-<small><sub>**KJV:**</sub></small>
-At his right hand was the divination for Jerusalem, to appoint captains, to open the mouth in the slaughter, to lift up the voice with shouting, to appoint [battering] rams against the gates, to cast a mount, [and] to build a fort.
-<small><sub>**BSB:**</sub></small>
-In his right hand appears the portent for Jerusalem, where he is to set up battering rams, to call for the slaughter, to lift a battle cry, to direct the battering rams against the gates, to build a ramp, and to erect a siege wall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.21|<< Ezekiel 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.23|Ezekiel 21:23 >>]]</td></tr></table>
 
 | Translation | Greek |

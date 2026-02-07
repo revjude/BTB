@@ -1,10 +1,7 @@
 **LXX Isaiah 43:17** 
 <small><sub>**LXX:**</sub></small>
 the one leading chariots and horse, and a mighty multitude; but they were gone to sleep, and they shall not rise up; they were extinguished as a flax being extinguished. 
-<small><sub>**KJV:**</sub></small>
-Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are extinct, they are quenched as tow.
-<small><sub>**BSB:**</sub></small>
-who brings out the chariots and horses, the armies and warriors together, to lie down, never to rise again; to be extinguished, snuffed out like a wick:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.16|<< Isaiah 43:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.18|Isaiah 43:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 26:18** 
 <small><sub>**LXX:**</sub></small>
 As the ones \[needing\] healing propounds words unto men, and the first one meeting the word shall be tripped up. 
-<small><sub>**KJV:**</sub></small>
-As a mad [man] who casteth firebrands, arrows, and death,
-<small><sub>**BSB:**</sub></small>
-Like a madman shooting firebrands and deadly arrows,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.17|<< Proverbs 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.19|Proverbs 26:19 >>]]</td></tr></table>
 
 | Translation | Greek |

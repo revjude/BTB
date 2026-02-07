@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:22** 
 <small><sub>**LXX:**</sub></small>
 And if a man should be found going to bed with a wife living with a husband, you shall kill both, the man  going to bed with the wife, and the wife; and you shall lift away the wickedness from Israel. 
-<small><sub>**KJV:**</sub></small>
-If a man be found lying with a woman married to an husband, then they shall both of them die, [both] the man that lay with the woman, and the woman: so shalt thou put away evil from Israel.
-<small><sub>**BSB:**</sub></small>
-If a man is found lying with another man’s wife, both the man who slept with her and the woman must die. You must purge the evil from Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.21|<< Deuteronomy 22:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.23|Deuteronomy 22:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 22:27** 
+**Numbers 22:27**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam’s anger was kindled, and he smote the ass with a staff.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the donkey saw the angel of the LORD, she lay down under Balaam, and he bec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.26|<< Numbers 22:26]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.28|Numbers 22:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תֵּ֤רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.re'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the donkey  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0860\|אָתוֹן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.tOn<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

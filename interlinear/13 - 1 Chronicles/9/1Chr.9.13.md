@@ -1,4 +1,4 @@
-**1 Chronicles 9:13** 
+**1 Chronicles 9:13**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their brethren, heads of the house of their fathers, a thousand and seven hundred and threescore; very able men for the work of the service of the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and 1,760 of their relatives, the heads of their families, able men for the work
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.12|<< 1 Chronicles 9:12]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.14|1 Chronicles 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and relatives their  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0251H\|אֲחֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | chiefs  |**<big>&#8207;[[H7218H\|רָאשִׁים֙]]&#8207; </big>**| ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

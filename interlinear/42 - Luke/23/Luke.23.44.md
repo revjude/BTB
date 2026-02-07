@@ -1,12 +1,12 @@
-**Luke 23:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:44**<big><big>[[Luke.23.44 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour.
 <small><sub>**BSB:**</sub></small>
 It was now about the sixth hour, and darkness came over all the land until the ninth hour.
 <small><sub>**Literal:**</sub></small>
 And it was now already about [the] hour sixth, and darkness came over all the land until [the] hour ninth<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.43|<< Luke 23:43]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.45|Luke 23:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | it was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

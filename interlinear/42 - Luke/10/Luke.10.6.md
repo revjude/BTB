@@ -1,12 +1,12 @@
-**Luke 10:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:6**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if the son of peace be there, your peace shall rest upon it: if not, it shall turn to you again.
 <small><sub>**BSB:**</sub></small>
 If a man of peace is there, your peace will rest on him; if not, it will return to you.
 <small><sub>**Literal:**</sub></small>
 And if indeed there shall be a son of peace, will rest upon him the peace of you; lest however except yet to you it will return.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.5|<< Luke 10:5]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.7|Luke 10:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

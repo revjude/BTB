@@ -1,12 +1,12 @@
-**Mark 9:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:14**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he came to [his] disciples, he saw a great multitude about them, and the scribes questioning with them.
 <small><sub>**BSB:**</sub></small>
 When they returned to the other disciples, they saw a large crowd around them, and scribes arguing with them.
 <small><sub>**Literal:**</sub></small>
 And having come to the disciples they saw a crowd great around them and scribes arguing with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.13|<< Mark 9:13]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.15|Mark 9:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come [^1] |**<big>[[G2064\|ἐλθόντες]]</big>**  |elthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

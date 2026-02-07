@@ -1,12 +1,12 @@
-**2 Corinthians 4:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:11**<big><big>[[2Cor.4.7 Treasure in Jars of Clay|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we which live are alway delivered unto death for Jesus’ sake, that the life also of Jesus might be made manifest in our mortal flesh.
 <small><sub>**BSB:**</sub></small>
 For we who are alive are always consigned to death for Jesus’ sake, so that the life of Jesus may also be revealed in our mortal body.
 <small><sub>**Literal:**</sub></small>
 always for we ourselves the living to death are being delivered on account of Jesus, so that also the life <the> of Jesus may be manifested in the mortal flesh of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.10|<< 2 Corinthians 4:10]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.12|2 Corinthians 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | always |**<big>[[G0104\|ἀεὶ]]</big>**  |aei <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:11** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel answered and said, Let it be enough! Let not the humpback boast as the one standing straight! 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel answered and said, Tell [him], Let not him that girdeth on [his harness] boast himself as he that putteth it off.
-<small><sub>**BSB:**</sub></small>
-And the king of Israel replied, “Tell him: ‘The one putting on his armor should not boast like one taking it off.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.10|<< 1 Kings 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.12|1 Kings 20:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 7:84** 
+**Numbers 7:84**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [was] the dedication of the altar, in the day when it was anointed, by the princes of Israel: twelve chargers of silver, twelve silver bowls, twelve spoons of gold:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So these were the offerings from the leaders of Israel for the dedication of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.84|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.83|<< Numbers 7:83]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.85|Numbers 7:85 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֣את]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] [the] dedication of  |**<big>&#8207;[[H2598\|חֲנֻכַּ֣ת]]&#8207; </big>**| cha.nu.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

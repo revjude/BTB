@@ -1,4 +1,4 @@
-**Nahum 1:14** 
+**Nahum 1:14**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD hath given a commandment concerning thee, [that] no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has issued a command concerning you, O Nineveh: “There will be no des
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.13|<< Nahum 1:13]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.15|Nahum 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has commanded  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6680\|צִוָּ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tzi.Vah<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלֶ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| 'a.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Malachi 1:3** 
 <small><sub>**LXX:**</sub></small>
 And Esau I detested, and I ordered up  his borders for extinction, and  his inheritance for domiciles of \[the\] wilderness. 
-<small><sub>**KJV:**</sub></small>
-And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.
-<small><sub>**BSB:**</sub></small>
-but Esau I have hated, and I have made his mountains a wasteland and left his inheritance to the desert jackals.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.2|<< Malachi 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.4|Malachi 1:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Malachi 1:3** is...

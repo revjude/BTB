@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Lot came forth from out of Zoar, and settled in the mountain, and the two daughters of his with him; for he feared dwelling in Zoar. And he dwelt in the cave, he and the two daughters of his with him. 
-<small><sub>**KJV:**</sub></small>
-And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters.
-<small><sub>**BSB:**</sub></small>
-Lot and his two daughters left Zoar and settled in the mountains—for he was afraid to stay in Zoar—where they lived in a cave.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.29|<< Genesis 19:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.31|Genesis 19:31 >>]]</td></tr></table>
 
 | Translation | Greek |

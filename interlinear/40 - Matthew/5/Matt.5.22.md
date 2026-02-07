@@ -1,12 +1,12 @@
-**Matthew 5:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:22**<big><big>[[Matt.5.21 Anger and Reconciliation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
 <small><sub>**BSB:**</sub></small>
 But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, ‘Raca,’ will be subject to the Sanhedrin. But anyone who says, ‘You fool!’ will be subject to the fire of hell.
 <small><sub>**Literal:**</sub></small>
 I myself however say to you that everyone who is being angry with the brother of him in vain liable will be to the judgment; who[ever] now maybe may say to the brother of him; Raca,’ liable will be to the Sanhedrin; who[ever] now maybe may say; Fool, liable will be to the hell <the> of fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.21|<< Matthew 5:21]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.23|Matthew 5:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Judges 17:13** 
 <small><sub>**LXX:**</sub></small>
 And Micah said, Now I know that \[the\] <span class="smallcaps">lord</span> did good to me, for the Levite became to me for a priest. 
-<small><sub>**KJV:**</sub></small>
-Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to [my] priest.
-<small><sub>**BSB:**</sub></small>
-Then Micah said, “Now I know that the LORD will be good to me, because a Levite has become my priest.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.12|<< Judges 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.1|Judges 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

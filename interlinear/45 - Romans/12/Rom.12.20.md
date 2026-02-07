@@ -1,5 +1,5 @@
-**Romans 12:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:20**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.
 <small><sub>**BSB:**</sub></small>
 On the contrary, “If your enemy is hungry, feed him; if he is thirsty, give him a drink. For in so doing, you will heap burning coals on his head.”
@@ -10,7 +10,7 @@ On the contrary If shall hunger the enemy of you, do feed him; if he shall thirs
 > $\quad$ referencing: [[LXX.Prov.25.21|Prov 25:21-22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the contrary [^1] [^2] |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^3] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

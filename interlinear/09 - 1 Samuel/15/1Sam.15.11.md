@@ -1,4 +1,4 @@
-**1 Samuel 15:11** 
+**1 Samuel 15:11**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It repenteth me that I have set up Saul [to be] king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It repenteth me that I have set up Saul [to be] king: for he is turned back from
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.10|<< 1 Samuel 15:10]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.12|1 Samuel 15:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I regret  |**<big>&#8207;[[H5162H\|נִחַ֗מְתִּי]]&#8207; </big>**| ni.Cham.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

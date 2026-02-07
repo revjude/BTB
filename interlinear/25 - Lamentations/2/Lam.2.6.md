@@ -1,4 +1,4 @@
-**Lamentations 2:6** 
+**Lamentations 2:6**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath violently taken away his tabernacle, as [if it were of] a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has laid waste His tabernacle like a garden booth; He has destroyed His place
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.5|<< Lamentations 2:5]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.7|Lamentations 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has treated violently  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2554\|יַּחְמֹ֤ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.Mos<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> garden  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H1588M\|גַּן֙]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Gan<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

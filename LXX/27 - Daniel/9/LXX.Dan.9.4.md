@@ -1,10 +1,7 @@
 **LXX Daniel 9:4** 
 <small><sub>**LXX:**</sub></small>
 And I prayed to \[the\] <span class="smallcaps">lord</span>  my God, and I made acknowledgment, and I said, O <span class="smallcaps">lord</span>, the great and wonderful God,  keeping  your covenant, and the mercy to the ones loving you, and to the ones keeping  your commandments; 
-<small><sub>**KJV:**</sub></small>
-And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;
-<small><sub>**BSB:**</sub></small>
-And I prayed to the LORD my God and confessed, “O, Lord, the great and awesome God, who keeps His covenant of loving devotion to those who love Him and keep His commandments,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.3|<< Daniel 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.5|Daniel 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

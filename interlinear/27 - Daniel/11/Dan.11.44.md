@@ -1,4 +1,4 @@
-**Daniel 11:44** 
+**Daniel 11:44**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But news from the east and the north will alarm him, and he will go out with gre
 > $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and reports  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8052\|שְׁמֻע֣וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mu.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will dismay him  |**<big>&#8207;[[H0926\|יְבַהֲלֻ֔]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ye.va.ha.Lu.<small><sup>[[HVpi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

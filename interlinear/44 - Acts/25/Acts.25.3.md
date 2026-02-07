@@ -1,12 +1,12 @@
-**Acts 25:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:3**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.
 <small><sub>**BSB:**</sub></small>
 to grant them a concession against Paul by summoning him to Jerusalem, because they were preparing an ambush to kill him along the way.
 <small><sub>**Literal:**</sub></small>
 asking a favor against him, that he may summon him to Jerusalem, an ambush forming to execute him on the way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.2|<< Acts 25:2]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.4|Acts 25:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | asking |**<big>[[G0154\|αἰτούμενοι]]</big>**  |aitoumenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a favor |**<big>[[G5485\|χάριν]]</big>**  |charin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

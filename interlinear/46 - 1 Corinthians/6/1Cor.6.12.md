@@ -1,12 +1,12 @@
-**1 Corinthians 6:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:12**<big><big>[[1Cor.6.9 Members of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.
 <small><sub>**BSB:**</sub></small>
 “Everything is permissible for me,” but not everything is beneficial. “Everything is permissible for me,” but I will not be mastered by anything.
 <small><sub>**Literal:**</sub></small>
 All things to me are lawful but not all things do profit; All things to me are lawful but not I myself will be mastered by anything.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.11|<< 1 Corinthians 6:11]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.13|1 Corinthians 6:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All things |**<big>[[G3956\|Πάντα]]</big>**  |Panta <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to me |**<big>[[G3165\|μοι]]</big>**  |moi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

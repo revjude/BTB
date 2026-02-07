@@ -1,12 +1,12 @@
-**1 Corinthians 11:16
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:16**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if any man seem to be contentious, we have no such custom, neither the churches of God.
 <small><sub>**BSB:**</sub></small>
 If anyone is inclined to dispute this, we have no other practice, nor do the churches of God.
 <small><sub>**Literal:**</sub></small>
 If now anyone is inclined contentious to be, we ourselves such custom no [other] have nor the churches <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.15|<< 1 Corinthians 11:15]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.17|1 Corinthians 11:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

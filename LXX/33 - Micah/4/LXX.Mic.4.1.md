@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And at \[the\] last of the days the mountain \[of the\] <span class="smallcaps">lord</span> will be apparent, readied upon the tops of the mountains, and it shall rise up high above the hills; and peoples shall hasten to it. 
-<small><sub>**KJV:**</sub></small>
-But in the last days it shall come to pass, [that] the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.
-<small><sub>**BSB:**</sub></small>
-In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and the peoples will stream to it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.12|<< Micah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.2|Micah 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

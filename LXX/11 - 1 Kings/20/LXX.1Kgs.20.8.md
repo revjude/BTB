@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:8** 
 <small><sub>**LXX:**</sub></small>
 And the elders and all the people said to him, You should not hearken, and you should not want. 
-<small><sub>**KJV:**</sub></small>
-And all the elders and all the people said unto him, Hearken not [unto him], nor consent.
-<small><sub>**BSB:**</sub></small>
-And the elders and the people all said, “Do not listen to him or consent to his terms.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.7|<< 1 Kings 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.9|1 Kings 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

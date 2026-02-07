@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:28** 
 <small><sub>**LXX:**</sub></small>
 And the exiting of the horsemen of Solomon \[was\] from out of Egypt. And from out of Kue the merchants of the king took \[merchandise\] from out of Kue in barter. 
-<small><sub>**KJV:**</sub></small>
-And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price.
-<small><sub>**BSB:**</sub></small>
-Solomon’s horses were imported from Egypt and Kue; the royal merchants purchased them from Kue.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.27|<< 1 Kings 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.29|1 Kings 10:29 >>]]</td></tr></table>
 
 | Translation | Greek |

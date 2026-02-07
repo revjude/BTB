@@ -1,4 +1,4 @@
-**2 Samuel 19:39** (19:40)
+**2 Samuel 19:39**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people went over Jordan. And when the king was come over, the king kissed Barzillai, and blessed him; and he returned unto his own place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all the people crossed the Jordan, and then the king crossed over. The king k
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.38|<< 2 Samuel 19:38]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.40|2 Samuel 19:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it passed over  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבֹ֧ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

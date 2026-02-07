@@ -1,12 +1,12 @@
-**Matthew 14:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:25**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in the fourth watch of the night Jesus went unto them, walking on the sea.
 <small><sub>**BSB:**</sub></small>
 During the fourth watch of the night, Jesus went out to them, walking on the sea.
 <small><sub>**Literal:**</sub></small>
 In [the] fourth now watch of the night he came to them <the> Jesus walking on the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.24|<< Matthew 14:24]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.26|Matthew 14:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In [the] fourth |**<big>[[G5067\|τετάρτῃ]]</big>**  |tetartē <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 Corinthians 9:6
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:6**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or I only and Barnabas, have not we power to forbear working?
 <small><sub>**BSB:**</sub></small>
 Or are Barnabas and I the only apostles who must work for a living?
 <small><sub>**Literal:**</sub></small>
 Or only I myself and Barnabas not have permission <the> not to work?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.5|<< 1 Corinthians 9:5]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.7|1 Corinthians 9:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | only |**<big>[[G3441\|μόνος]]</big>**  |monos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

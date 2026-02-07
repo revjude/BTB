@@ -1,4 +1,4 @@
-**Nehemiah 13:2** 
+**Nehemiah 13:2**<big><big>[[Neh.13.1 Foreigners Excluded|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because they had not met the Israelites with food and water, but had hired Balaa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.1|<< Nehemiah 13:1]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.3|Nehemiah 13:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֧א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

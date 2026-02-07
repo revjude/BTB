@@ -1,4 +1,4 @@
-**Esther 3:4** 
+**Esther 3:4**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai’s matters would stand: for he had told them that he [was] a Jew.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Day after day they warned him, but he would not comply. So they reported it to H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.3|<< Esther 3:3]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.5|Esther 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as spoke they  [^3]|**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0559\|אָמְרָ֤]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**[^4] | ke.<small><sup>[[HR]]</sup></small> 'a.me.ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:8** 
 <small><sub>**LXX:**</sub></small>
 And these lepers came unto a part of the camp. And they entered into one tent, and ate, and drank, and lifted from there silver, and gold, and clothes, and they went and hid \[everything\]. And they returned and entered into another tent, and they took from there, and went and hid \[them\]. 
-<small><sub>**KJV:**</sub></small>
-And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid [it]; and came again, and entered into another tent, and carried thence [also], and went and hid [it].
-<small><sub>**BSB:**</sub></small>
-When the lepers reached the edge of the camp, they went into a tent to eat and drink. Then they carried off the silver, gold, and clothing, and went and hid them. On returning, they entered another tent, carried off some items from there, and hid them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.7|<< 2 Kings 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.9|2 Kings 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

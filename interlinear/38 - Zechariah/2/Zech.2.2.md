@@ -1,4 +1,4 @@
-**Zechariah 2:2** (2:6)
+**Zechariah 2:2**<big><big>[[Zech.2.1 The Vision of the Measuring Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what [is] the breadth thereof, and what [is] the length thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.1|<< Zechariah 2:1]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.3|Zechariah 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֕ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where?  |**<big>&#8207;[[H0575\|אָ֖נָה]]&#8207; </big>**| 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Malachi 4:4** (3:22)
+**Malachi 4:4**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, [with] the statutes and judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember ye the law of Moses my servant, which I commanded unto him in Horeb for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.3|<< Malachi 4:3]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.5|Malachi 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זִכְר֕וּ]]&#8207; </big>**| zikh.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] instruction of  |**<big>&#8207;[[H8451\|תּוֹרַ֖ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

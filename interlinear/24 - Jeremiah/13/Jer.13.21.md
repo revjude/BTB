@@ -1,4 +1,4 @@
-**Jeremiah 13:21** 
+**Jeremiah 13:21**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What wilt thou say when he shall punish thee? for thou hast taught them [to be] captains, [and] as chief over thee: shall not sorrows take thee, as a woman in travail?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What will you say when He sets over you close allies whom you yourself trained? 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.20|<< Jeremiah 13:20]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.22|Jeremiah 13:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you say  |**<big>&#8207;[[H0559\|תֹּֽאמְרִי֙]]&#8207; </big>**| to.me.Ri<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

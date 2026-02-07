@@ -1,12 +1,12 @@
-**Matthew 23:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:34**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, behold, I send unto you prophets, and wise men, and scribes: and [some] of them ye shall kill and crucify; and [some] of them shall ye scourge in your synagogues, and persecute [them] from city to city:
 <small><sub>**BSB:**</sub></small>
 Because of this, I am sending you prophets and wise men and teachers. Some of them you will kill and crucify, and others you will flog in your synagogues and persecute from town to town.
 <small><sub>**Literal:**</sub></small>
 Because of this behold I myself send to you prophets and wise [men] and scribes; and Some of them you will kill and will crucify and [some] of them you will flog in the synagogues of you and will persecute from town to town;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.33|<< Matthew 23:33]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.35|Matthew 23:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

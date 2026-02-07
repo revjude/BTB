@@ -1,12 +1,12 @@
-**Hebrews 12:25
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:25**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more [shall not] we [escape], if we turn away from him that [speaketh] from heaven:
 <small><sub>**BSB:**</sub></small>
 See to it that you do not refuse Him who speaks. For if the people did not escape when they refused Him who warned them on earth, how much less will we escape if we reject Him who warns us from heaven?
 <small><sub>**Literal:**</sub></small>
 do take heed lest you may refuse the [One] speaking; If for they not escaped on <the> earth having refused the [One] divinely instructing [them], much less we ourselves <the> the [One] from [the] heavens turning away from,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.24|<< Hebrews 12:24]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.26|Hebrews 12:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do take heed |**<big>[[G0991\|Βλέπετε]]</big>**  |Blepete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | lest |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

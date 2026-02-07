@@ -1,4 +1,4 @@
-**Ezra 4:17** 
+**Ezra 4:17**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] sent the king an answer unto Rehum the chancellor, and [to] Shimshai the scribe, and [to] the rest of their companions that dwell in Samaria, and [unto] the rest beyond the river, Peace, and at such a time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the king sent this reply: To Rehum the commander, Shimshai the scribe, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.16|<< Ezra 4:16]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.18|Ezra 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | word the  |**<big>&#8207;[[H6600\|פִּתְגָמָ֞]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| pit.ga.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sent  |**<big>&#8207;[[H7972\|שְׁלַ֣ח]]&#8207; </big>**| she.Lach<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

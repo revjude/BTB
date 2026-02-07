@@ -1,4 +1,4 @@
-**Jeremiah 20:18** 
+**Jeremiah 20:18**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore came I forth out of the womb to see labour and sorrow, that my days should be consumed with shame?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why did I come out of the womb to see only trouble and sorrow, and to end my day
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.17|<< Jeremiah 20:17]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.1|Jeremiah 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶּה֙]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

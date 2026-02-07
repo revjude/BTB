@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:5** 
 <small><sub>**LXX:**</sub></small>
 saying, Turn indeed each from  his wicked way, and from  your wicked practices! and you shall dwell upon the land which I gave to you and \[to\] your fathers from \[the\] eon and unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-They said, Turn ye again now every one from his evil way, and from the evil of your doings, and dwell in the land that the LORD hath given unto you and to your fathers for ever and ever:
-<small><sub>**BSB:**</sub></small>
-The prophets told you, ‘Turn now, each of you, from your evil ways and deeds, and you can dwell in the land that the LORD has given to you and your fathers forever and ever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.4|<< Jeremiah 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.6|Jeremiah 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

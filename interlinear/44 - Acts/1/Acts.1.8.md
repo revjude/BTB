@@ -1,12 +1,12 @@
-**Acts 1:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:8**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
 <small><sub>**BSB:**</sub></small>
 But you will receive power when the Holy Spirit comes upon you, and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”
 <small><sub>**Literal:**</sub></small>
 But you will receive power when was coming the Holy Spirit upon you and you will be My witnesses in both Jerusalem and in all <the> Judea and Samaria and until [the] uttermost part of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.7|<< Acts 1:7]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.9|Acts 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you will receive |**<big>[[G2983\|λήμψεσθε]]</big>**  [^1] |lēmpsesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

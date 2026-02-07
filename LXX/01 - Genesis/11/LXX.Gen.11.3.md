@@ -1,10 +1,7 @@
 **LXX Genesis 11:3** 
 <small><sub>**LXX:**</sub></small>
 And a man said  to his neighbor, Come let us make bricks, and let us bake them in fire. And the brick became to them as stone, and asphalt was their  mortar. 
-<small><sub>**KJV:**</sub></small>
-And they said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.
-<small><sub>**BSB:**</sub></small>
-And they said to one another, “Come, let us make bricks and bake them thoroughly.” So they used brick instead of stone, and tar instead of mortar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.2|<< Genesis 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.4|Genesis 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

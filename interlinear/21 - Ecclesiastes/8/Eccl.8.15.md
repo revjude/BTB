@@ -1,4 +1,4 @@
-**Ecclesiastes 8:15** 
+**Ecclesiastes 8:15**<big><big>[[Eccl.8.14 God’s Ways Are Mysterious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I commended the enjoyment of life, because there is nothing better for a man 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.14|<< Ecclesiastes 8:14]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.16|Ecclesiastes 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I commend  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7623B\|שִׁבַּ֤חְתִּֽי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.Bach.ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

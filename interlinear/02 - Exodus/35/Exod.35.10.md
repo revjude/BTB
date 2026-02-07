@@ -1,4 +1,4 @@
-**Exodus 35:10** 
+**Exodus 35:10**<big><big>[[Exod.35.10 The Skilled Craftsmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every wise hearted among you shall come, and make all that the LORD hath commanded;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let every skilled craftsman among you come and make everything that the LORD has
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.9|<< Exodus 35:9]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.11|Exodus 35:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [person] skillful of  |**<big>&#8207;[[H2450\|חֲכַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.kham-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

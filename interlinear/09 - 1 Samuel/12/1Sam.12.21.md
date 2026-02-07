@@ -1,4 +1,4 @@
-**1 Samuel 12:21** 
+**1 Samuel 12:21**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And turn ye not aside: for [then should ye go] after vain [things], which cannot profit nor deliver; for they [are] vain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not turn aside after worthless things that cannot profit you or deliver you, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.20|<< 1 Samuel 12:20]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.22|1 Samuel 12:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֖א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must turn aside  |**<big>&#8207;[[H5493I\|תָּס֑וּרוּ]]&#8207; </big>**| ta.Su.ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

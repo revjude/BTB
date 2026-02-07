@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:59** 
 <small><sub>**LXX:**</sub></small>
 The word which \[the\] <span class="smallcaps">lord</span> gave charge to Jeremiah the prophet to say \[to\] Seraiah son of Neriah, son of Maaseiah when he went with Zedekiah \[the\] king of Judah into Babylon in the fourth year  of his kingdom. And Seraiah \[was\] ruler of \[the\] gifts. 
-<small><sub>**KJV:**</sub></small>
-The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Maaseiah, when he went with Zedekiah the king of Judah into Babylon in the fourth year of his reign. And [this] Seraiah [was] a quiet prince.
-<small><sub>**BSB:**</sub></small>
-This is the message that Jeremiah the prophet gave to the quartermaster Seraiah son of Neriah, the son of Mahseiah, when he went to Babylon with King Zedekiah of Judah in the fourth year of Zedekiah’s reign.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.58|<< Jeremiah 51:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.60|Jeremiah 51:60 >>]]</td></tr></table>
 
 | Translation | Greek |

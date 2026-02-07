@@ -1,10 +1,7 @@
 **LXX Haggai 2:21** 
 <small><sub>**LXX:**</sub></small>
 Speak to Zerubbabel the \[son of\] Shealtiel, of \[the\] tribe of Judah, saying, I shall shake the heaven, and the earth, and the sea, and the dry \[land\]. 
-<small><sub>**KJV:**</sub></small>
-Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;
-<small><sub>**BSB:**</sub></small>
-“Tell Zerubbabel governor of Judah that I am about to shake the heavens and the earth:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.20|<< Haggai 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.22|Haggai 2:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Haggai 2:21** is...

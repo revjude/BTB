@@ -1,4 +1,4 @@
-**Daniel 5:28** 
+**Daniel 5:28**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 PERES; Thy kingdom is divided, and given to the Medes and Persians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ PERES means that your kingdom has been divided and given over to the Medes and P
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.27|<< Daniel 5:27]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.29|Daniel 5:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | peres  |**<big>&#8207;[[H6537B\|פְּרֵ֑ס]]&#8207; </big>**| pe.Res<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been broken in two  |**<big>&#8207;[[H6537A\|פְּרִיסַת֙]]&#8207; </big>**| pe.ri.Sat<small><sup>[[AVQp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

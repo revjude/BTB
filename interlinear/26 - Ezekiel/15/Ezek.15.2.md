@@ -1,4 +1,4 @@
-**Ezekiel 15:2** 
+**Ezekiel 15:2**<big><big>[[Ezek.15.1 Jerusalem the Useless Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, What is the vine tree more than any tree, [or than] a branch which is among the trees of the forest?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Son of man, What is the vine tree more than any tree, [or than] a branch which i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.15.1|<< Ezekiel 15:1]]</td><td align="center" style="border:none;">[[Ezek.15|Ezekiel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15.3|Ezekiel 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֕ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

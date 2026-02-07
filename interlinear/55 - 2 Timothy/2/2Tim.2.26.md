@@ -1,12 +1,12 @@
-**2 Timothy 2:26
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:26**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And [that] they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
 <small><sub>**BSB:**</sub></small>
 Then they will come to their senses and escape the snare of the devil, who has taken them captive to his will.
 <small><sub>**Literal:**</sub></small>
 and they may recover out of the of the devil snare captured by him for <the> his will.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.25|<< 2 Timothy 2:25]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.1|2 Timothy 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they may recover |**<big>[[G0366\|ἀνανήψωσιν]]</big>**  |ananēpsōsin <small><sup>[[V-AAS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

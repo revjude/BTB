@@ -1,12 +1,12 @@
-**James 3:14
-**<small><sub>**KJV:**</sub></small>
+**James 3:14**<big><big>[[Jas.3.13 The Wisdom from Above|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.
 <small><sub>**BSB:**</sub></small>
 But if you harbor bitter jealousy and selfish ambition in your hearts, do not boast in it or deny the truth.
 <small><sub>**Literal:**</sub></small>
 If however jealousy bitter you have and self-interest in the heart of you, not do boast [of it] and do lie against the truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.13|<< James 3:13]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.15|James 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

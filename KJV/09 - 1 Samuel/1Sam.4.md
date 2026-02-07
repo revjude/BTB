@@ -1,6 +1,6 @@
 (KJV) **1 Samuel 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3|<< 1 Samuel 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5|1 Samuel 5 >>]]</td></tr></table>
 
-***The Philistines Capture the Ark*** ^bsb665
+<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥃]]</big></big>***The Philistines Capture the Ark***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Sam.4.1|1]]**<span class="endversemarker">]</span> And the word of Samuel came<small><small>[^2]</small></small> to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Eben–ezer<small><small>[^3]</small></small>: and the Philistines pitched in Aphek<small><small>[^4]</small></small>.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[1Sam.4.2|2]]**<span class="endversemarker">]</span> And the Philistines put<small><small>[^6]</small></small> themselves in array against Israel: and when they joined battle<small><small>[^7]</small></small>, Israel<small><small>[^8]</small></small> was smitten before the Philistines: and they<small><small>[^9]</small></small> slew of the army<small><small>[^10]</small></small> in the field about four thousand men. 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Sam.4.3|3]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[1Sam.4.10|10]]**<span class="endversemarker">]</span> And the Philistines fought, and Israel<small><small>[^28]</small></small> was smitten, and they fled every man<small><small>[^29]</small></small> into his tent: and there was a very great<small><small>[^30]</small></small> slaughter; for there fell of Israel thirty thousand footmen. <span class="startversemarker">[</span>**[[1Sam.4.11|11]]**<span class="endversemarker">]</span> And the ark<small><small>[^31]</small></small> of God was taken; and the two sons<small><small>[^32]</small></small> of Eli, Hophni and Phinehas, were slain<small><small>[^33]</small></small>.
 
-***The Death of Eli*** ^bsb666
+<big><big>[[1Sam.4.12 The Death of Eli|⥃]]</big></big>***The Death of Eli***
 
  
 

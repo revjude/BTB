@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:20** 
 <small><sub>**LXX:**</sub></small>
 Dedan \[were\] your merchants with choice animals for chariots. 
-<small><sub>**KJV:**</sub></small>
-Dedan [was] thy merchant in precious clothes for chariots.
-<small><sub>**BSB:**</sub></small>
-Dedan was your merchant in saddlecloths for riding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.19|<< Ezekiel 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.21|Ezekiel 27:21 >>]]</td></tr></table>
 
 | Translation | Greek |

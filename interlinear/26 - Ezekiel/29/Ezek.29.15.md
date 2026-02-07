@@ -1,4 +1,4 @@
-**Ezekiel 29:15** 
+**Ezekiel 29:15**<big><big>[[Ezek.29.8 The Desolation of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Egypt will be the lowliest of kingdoms and will never again exalt itself above t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.14|<< Ezekiel 29:14]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.16|Ezekiel 29:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | more than  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the kingdoms  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4467\|מַּמְלָכוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mam.la.khOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

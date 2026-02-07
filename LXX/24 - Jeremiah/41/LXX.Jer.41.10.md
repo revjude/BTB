@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:10** 
 <small><sub>**LXX:**</sub></small>
 And Ishmael returned all the people  being left behind in Mizpah, and the daughters of the king who were deposited in the care of the chief guard  by Gedaliah son of Ahikam. And he set out unto the other side of \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-Then Ishmael carried away captive all the residue of the people that [were] in Mizpah, [even] the king’s daughters, and all the people that remained in Mizpah, whom Nebuzaradan the captain of the guard had committed to Gedaliah the son of Ahikam: and Ishmael the son of Nethaniah carried them away captive, and departed to go over to the Ammonites.
-<small><sub>**BSB:**</sub></small>
-Then Ishmael took captive all the remnant of the people of Mizpah—the daughters of the king along with all the others who remained in Mizpah—over whom Nebuzaradan captain of the guard had appointed Gedaliah son of Ahikam. Ishmael son of Nethaniah took them captive and set off to cross over to the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.9|<< Jeremiah 41:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.11|Jeremiah 41:11 >>]]</td></tr></table>
 
 | Translation | Greek |

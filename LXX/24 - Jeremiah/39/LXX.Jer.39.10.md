@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:10** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the people, and the ones being left behind Nabuzar-adan the chief guard removed unto Babylon. And of the poor of the people, the ones who were not anything, Nabuzar-adan the chief guard left behind in \[the\] land of Judah. And he gave to them vineyards and fields in  that day. 
-<small><sub>**KJV:**</sub></small>
-But Nebuzaradan the captain of the guard left of the poor of the people, which had nothing, in the land of Judah, and gave them vineyards and fields at the same time.
-<small><sub>**BSB:**</sub></small>
-But Nebuzaradan left behind in the land of Judah some of the poor people who had no property, and at that time he gave them vineyards and fields.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.9|<< Jeremiah 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.11|Jeremiah 39:11 >>]]</td></tr></table>
 
 | Translation | Greek |

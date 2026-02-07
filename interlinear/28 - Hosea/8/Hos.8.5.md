@@ -1,4 +1,4 @@
-**Hosea 8:5** 
+**Hosea 8:5**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy calf, O Samaria, hath cast [thee] off; mine anger is kindled against them: how long [will it be] ere they attain to innocency?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has rejected your calf, O Samaria. My anger burns against them. How long will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.4|<< Hosea 8:4]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.6|Hosea 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has rejected  |**<big>&#8207;[[H2186A\|זָנַח֙]]&#8207; </big>**| za.Nach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | calf your  |**<big>&#8207;[[H5695\|עֶגְלֵ֣]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'eg.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

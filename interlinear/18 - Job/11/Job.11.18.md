@@ -1,4 +1,4 @@
-**Job 11:18** 
+**Job 11:18**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt be secure, because there is hope; yea, thou shalt dig [about thee, and] thou shalt take thy rest in safety.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be secure, because there is hope, and you will look around and lie down
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.17|<< Job 11:17]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.19|Job 11:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will be secure  |**<big>&#8207;[[H9001\|וּֽ֭]]&#8207;&#8207;[[H0982\|בָטַחְתָּ]]&#8207; </big>**| U.<small><sup>[[Hc]]</sup></small> va.tach.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

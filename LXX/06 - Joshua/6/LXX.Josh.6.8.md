@@ -1,10 +1,7 @@
 **LXX Joshua 6:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Joshua spoke to the people, that \[the\] seven priests having seven consecrated trumpets also went by likewise before the <span class="smallcaps">lord</span>, \[and\] they passed and signified intensely. And the ark of the covenant of \[the\] <span class="smallcaps">lord</span> followed after them. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams’ horns passed on before the LORD, and blew with the trumpets: and the ark of the covenant of the LORD followed them.
-<small><sub>**BSB:**</sub></small>
-After Joshua had spoken to the people, seven priests carrying seven rams’ horns before the LORD advanced and blew the horns, and the ark of the covenant of the LORD followed them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.7|<< Joshua 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.9|Joshua 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

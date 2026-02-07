@@ -1,12 +1,12 @@
-**Ephesians 3:20
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:20**<big><big>[[Eph.3.14 Paul’s Prayer for the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,
 <small><sub>**BSB:**</sub></small>
 Now to Him who is able to do immeasurably more than all we ask or imagine, according to His power that is at work within us,
 <small><sub>**Literal:**</sub></small>
 To the [One] now being able above all things to do super overexcessively that we ask or we think according to the power which is working in us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.19|<< Ephesians 3:19]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.21|Ephesians 3:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the [One] |**<big>[[G3588\|Τῷ]]</big>**  |Tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

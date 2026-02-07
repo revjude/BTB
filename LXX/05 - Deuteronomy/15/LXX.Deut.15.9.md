@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:9** 
 <small><sub>**LXX:**</sub></small>
 Take heed to yourself! there be not a hidden thing in  your heart, a violation of the law, saying, The seventh year approaches, \[the\] year of the release; and your eye should be wicked \[towards\] your brother \[that\] is wanting, that you should not give to him; and he shall call to aid against you to \[the\] <span class="smallcaps">lord</span>, and there shall be in you a great sin. 
-<small><sub>**KJV:**</sub></small>
-Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the LORD against thee, and it be sin unto thee.
-<small><sub>**BSB:**</sub></small>
-Be careful not to harbor this wicked thought in your heart: “The seventh year, the year of release, is near,” so that you look upon your poor brother begrudgingly and give him nothing. He will cry out to the LORD against you, and you will be guilty of sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.8|<< Deuteronomy 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.10|Deuteronomy 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

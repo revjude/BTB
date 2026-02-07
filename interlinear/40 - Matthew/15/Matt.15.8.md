@@ -1,5 +1,5 @@
-**Matthew 15:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:8**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This people draweth nigh unto me with their mouth, and honoureth me with [their] lips; but their heart is far from me.
 <small><sub>**BSB:**</sub></small>
 ‘These people honor Me with their lips, but their hearts are far from Me.
@@ -10,7 +10,7 @@ draws near to me <the> people this with the mouth of them and with the lips Me i
 > $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | draws near |**<big>[[G1448\|Ἐγγίζει]]</big>**  |Engizei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | to me [^1] |**<big>[[G3165\|μοι]]</big>**  |moi <small><sup>[[P-1DS]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:2** 
 <small><sub>**LXX:**</sub></small>
 and you shall turn towards \[the\] <span class="smallcaps">lord</span>  your God, and you shall hearken to  his voice, according to all as much as I give charge to you today, from your entire heart, and from your entire soul; 
-<small><sub>**KJV:**</sub></small>
-And shalt return unto the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;
-<small><sub>**BSB:**</sub></small>
-and when you and your children return to the LORD your God and obey His voice with all your heart and all your soul according to everything I am giving you today,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.1|<< Deuteronomy 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.3|Deuteronomy 30:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 10:16
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:16**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
 <small><sub>**BSB:**</sub></small>
 Is not the cup of blessing that we bless a participation in the blood of Christ? And is not the bread that we break a participation in the body of Christ?
 <small><sub>**Literal:**</sub></small>
 The cup <the> of blessing that we bless, surely a participation it is in the blood <the> of Christ The bread that we break, surely a participation in the body <the> of Christ it is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.15|<< 1 Corinthians 10:15]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.17|1 Corinthians 10:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | cup |**<big>[[G4221\|ποτήριον]]</big>**  |potērion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

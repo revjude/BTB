@@ -1,4 +1,4 @@
-**Jeremiah 46:1** 
+**Jeremiah 46:1**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word of the LORD which came to Jeremiah the prophet against the Gentiles;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the word of the LORD about the nations—the word that came to Jeremiah 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.45.5|<< Jeremiah 45:5]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.2|Jeremiah 46:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it came  |**<big>&#8207;[[H1961\|הָיָ֧ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

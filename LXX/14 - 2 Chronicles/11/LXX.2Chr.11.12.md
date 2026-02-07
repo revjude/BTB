@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 11:12** 
 <small><sub>**LXX:**</sub></small>
 accordingly city by city \[with\] shields and spears. And he strengthened them in magnitude exceedingly, and Judah and Benjamin were his. 
-<small><sub>**KJV:**</sub></small>
-And in every several city [he put] shields and spears, and made them exceeding strong, having Judah and Benjamin on his side.
-<small><sub>**BSB:**</sub></small>
-He also put shields and spears in all the cities and strengthened them greatly. So Judah and Benjamin belonged to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.11|<< 2 Chronicles 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.13|2 Chronicles 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

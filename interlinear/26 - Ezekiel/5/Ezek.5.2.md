@@ -1,4 +1,4 @@
-**Ezekiel 5:2** 
+**Ezekiel 5:2**<big><big>[[Ezek.5.1 The Razor of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt burn with fire a third part in the midst of the city, when the days of the siege are fulfilled: and thou shalt take a third part, [and] smite about it with a knife: and a third part thou shalt scatter in the wind; and I will draw out a sword after them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the days of the siege have ended, you are to burn up a third of the hair in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.1|<< Ezekiel 5:1]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.3|Ezekiel 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a third [part]  |**<big>&#8207;[[H7992\|שְׁלִשִׁ֗ית]]&#8207; </big>**| she.li.Shit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the fire  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0217A\|א֤וּר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Ur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

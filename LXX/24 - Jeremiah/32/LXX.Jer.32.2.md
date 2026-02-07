@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] force of \[the\] king of Babylon built a palisade against Jerusalem. And Jeremiah was being guarded in \[the\] courtyard of the guard, which is in \[the\] house of the king of Judah. 
-<small><sub>**KJV:**</sub></small>
-For then the king of Babylon’s army besieged Jerusalem: and Jeremiah the prophet was shut up in the court of the prison, which [was] in the king of Judah’s house.
-<small><sub>**BSB:**</sub></small>
-At that time the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was imprisoned in the courtyard of the guard, which was in the palace of the king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.1|<< Jeremiah 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.3|Jeremiah 32:3 >>]]</td></tr></table>
 
 | Translation | Greek |

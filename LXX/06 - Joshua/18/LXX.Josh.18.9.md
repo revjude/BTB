@@ -1,10 +1,7 @@
 **LXX Joshua 18:9** 
 <small><sub>**LXX:**</sub></small>
 And the men went and spread in the land, and explored it. And they beheld it, and they wrote about it according to her cities, seven portions in a scroll, and they brought \[it\] to Joshua in \[the\] camp in Shiloh. 
-<small><sub>**KJV:**</sub></small>
-And the men went and passed through the land, and described it by cities into seven parts in a book, and came [again] to Joshua to the host at Shiloh.
-<small><sub>**BSB:**</sub></small>
-So the men departed and went throughout the land, mapping it city by city into seven portions. Then they returned with the document to Joshua at the camp in Shiloh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.8|<< Joshua 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.10|Joshua 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 A prophet from out of  your brethren, as me, \[the\] <span class="smallcaps">lord</span> your God shall raise up to you; him you shall hear. 
-<small><sub>**KJV:**</sub></small>
-The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;
-<small><sub>**BSB:**</sub></small>
-The LORD your God will raise up for you a prophet like me from among your brothers. You must listen to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.14|<< Deuteronomy 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.16|Deuteronomy 18:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 18:15** is...

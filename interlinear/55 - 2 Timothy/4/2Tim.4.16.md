@@ -1,12 +1,12 @@
-**2 Timothy 4:16
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:16**<big><big>[[2Tim.4.16 The Lord Remains Faithful|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 At my first answer no man stood with me, but all [men] forsook me: [I pray God] that it may not be laid to their charge.
 <small><sub>**BSB:**</sub></small>
 At my first defense, no one stood with me, but everyone deserted me. May it not be charged against them.
 <small><sub>**Literal:**</sub></small>
 In the first of my defense no [one] me attended but all me deserted; Not to them would it be charged!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.15|<< 2 Timothy 4:15]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.17|2 Timothy 4:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

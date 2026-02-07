@@ -1,4 +1,4 @@
-**Psalms 55:20** (55:21)
+**Psalms 55:20**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath put forth his hands against such as be at peace with him: he hath broken his covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My companion attacks his friends; he violates his covenant.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.19|<< Psalms 55:19]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.21|Psalms 55:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he stretched out  |**<big>&#8207;[[H7971K\|שָׁלַ֣ח]]&#8207; </big>**| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands his  |**<big>&#8207;[[H3027G\|יָ֭דָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Ya.da<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

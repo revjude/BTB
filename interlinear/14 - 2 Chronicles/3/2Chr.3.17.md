@@ -1,4 +1,4 @@
-**2 Chronicles 3:17** 
+**2 Chronicles 3:17**<big><big>[[2Chr.3.14 The Veil and Pillars|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he reared up the pillars before the temple, one on the right hand, and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he set up the pillars in front of the temple, one on the south and one on t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.16|<< 2 Chronicles 3:16]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.1|2 Chronicles 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|יָּ֤קֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

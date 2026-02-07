@@ -1,4 +1,4 @@
-**Jeremiah 13:6** 
+**Jeremiah 13:6**<big><big>[[Jer.13.1 The Linen Loincloth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after many days, that the LORD said unto me, Arise, go to Euphrates, and take the girdle from thence, which I commanded thee to hide there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many days later the LORD said to me, “Arise, go to Perath, and get the loinclo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.5|<< Jeremiah 13:5]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.7|Jeremiah 13:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֕י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] end of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7093\|קֵּ֖ץ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ketz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

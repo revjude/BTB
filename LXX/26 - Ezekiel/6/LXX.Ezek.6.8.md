@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:8** 
 <small><sub>**LXX:**</sub></small>
 And I shall leave behind \[some\] in the taking place of your ones escaping from \[the\] broadsword among the nations, and in  your being dispersed in the places. 
-<small><sub>**KJV:**</sub></small>
-Yet will I leave a remnant, that ye may have [some] that shall escape the sword among the nations, when ye shall be scattered through the countries.
-<small><sub>**BSB:**</sub></small>
-Yet I will leave a remnant, for some of you will escape the sword when you are scattered among the nations and throughout the lands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.7|<< Ezekiel 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.9|Ezekiel 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 28:13** 
 <small><sub>**LXX:**</sub></small>
 And the <span class="smallcaps">lord</span> stayed upon it. And he said, I \[am\] the God of Abraham  your father, and the God of Isaac. Do not fear! The land of which you sleep upon it, to you I will give it, and \[to\] your seed. 
-<small><sub>**KJV:**</sub></small>
-And, behold, the LORD stood above it, and said, I [am] the LORD God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;
-<small><sub>**BSB:**</sub></small>
-And there at the top the LORD was standing and saying, “I am the LORD, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you now lie.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.12|<< Genesis 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.14|Genesis 28:14 >>]]</td></tr></table>
 
 | Translation | Greek |

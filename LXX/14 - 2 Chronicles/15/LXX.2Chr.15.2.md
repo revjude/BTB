@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 15:2** 
 <small><sub>**LXX:**</sub></small>
 And he went forth for meeting \[with\] Asa. And he said to him, Hear me Asa, and all Judah and Benjamin! \[The\] <span class="smallcaps">lord</span> \[is\] with you in  your being with him. And if you seek after him, he shall be found by you. And if you should abandon him, he will abandon you. 
-<small><sub>**KJV:**</sub></small>
-And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD [is] with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you.
-<small><sub>**BSB:**</sub></small>
-So he went out to meet Asa and said to him, “Listen to me, Asa and all Judah and Benjamin. The LORD is with you when you are with Him. If you seek Him, He will be found by you, but if you forsake Him, He will forsake you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.1|<< 2 Chronicles 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.3|2 Chronicles 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

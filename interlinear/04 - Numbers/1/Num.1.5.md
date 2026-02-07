@@ -1,4 +1,4 @@
-**Numbers 1:5** 
+**Numbers 1:5**<big><big>[[Num.1.5 The Leaders of the Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the names of the men that shall stand with you: of [the tribe of] Reuben; Elizur the son of Shedeur.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the names of the men who are to assist you: From the tribe of Reuben, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.4|<< Numbers 1:4]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.6|Numbers 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֣וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

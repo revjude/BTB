@@ -1,10 +1,7 @@
 **LXX Isaiah 14:9** 
 <small><sub>**LXX:**</sub></small>
  Hades from below was embittered meeting with you; all the giants ruling the earth were risen up together against you, the ones rising from  their thrones, all \[the\] kings of \[the\] nations. 
-<small><sub>**KJV:**</sub></small>
-Hell from beneath is moved for thee to meet [thee] at thy coming: it stirreth up the dead for thee, [even] all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
-<small><sub>**BSB:**</sub></small>
-Sheol beneath is eager to meet you upon your arrival. It stirs the spirits of the dead to greet you—all the rulers of the earth. It makes all the kings of the nations rise from their thrones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.8|<< Isaiah 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.10|Isaiah 14:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 14:9** is...

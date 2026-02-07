@@ -1,10 +1,7 @@
 **LXX Numbers 16:10** 
 <small><sub>**LXX:**</sub></small>
 And he led you, and all  your brethren of \[the\] sons of Levi with you, and \[do\] you seek to officiate as priest \[also\]? 
-<small><sub>**KJV:**</sub></small>
-And he hath brought thee near [to him], and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?
-<small><sub>**BSB:**</sub></small>
-He has brought you near, you and all your fellow Levites, but you are seeking the priesthood as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.9|<< Numbers 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.11|Numbers 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

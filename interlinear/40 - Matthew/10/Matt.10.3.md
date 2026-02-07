@@ -1,12 +1,12 @@
-**Matthew 10:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:3**<big><big>[[Matt.10.1 The Twelve Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Philip, and Bartholomew; Thomas, and Matthew the publican; James [the son] of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;
 <small><sub>**BSB:**</sub></small>
 Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus;
 <small><sub>**Literal:**</sub></small>
 Philip and Bartholomew, Thomas and Matthew the tax collector, James the [son] <the> of Alphaeus and Lebbaeus which having been called Thaddaeus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.2|<< Matthew 10:2]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.4|Matthew 10:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Philip |**<big>[[G5376G\|Φίλιππος]]</big>**  |Philippos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

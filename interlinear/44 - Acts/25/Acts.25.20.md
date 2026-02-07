@@ -1,12 +1,12 @@
-**Acts 25:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:20**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And because I doubted of such manner of questions, I asked [him] whether he would go to Jerusalem, and there be judged of these matters.
 <small><sub>**BSB:**</sub></small>
 Since I was at a loss as to how to investigate these matters, I asked if he was willing to go to Jerusalem and be tried there on these charges.
 <small><sub>**Literal:**</sub></small>
 Being perplexed now I myself into <the> concerning these inquiry was asking if he would be willing to go to Jerusalem and there to be judged concerning these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.19|<< Acts 25:19]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.21|Acts 25:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Being perplexed |**<big>[[G0639\|ἀπορούμενος]]</big>**  |aporoumenos <small><sup>[[V-PMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

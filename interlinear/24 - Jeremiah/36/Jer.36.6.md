@@ -1,4 +1,4 @@
-**Jeremiah 36:6** 
+**Jeremiah 36:6**<big><big>[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the LORD in the ears of the people in the LORD’S house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so you are to go to the house of the LORD on a day of fasting, and in the hearin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.5|<< Jeremiah 36:5]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.7|Jeremiah 36:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will go  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָאתָ֣]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֡ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

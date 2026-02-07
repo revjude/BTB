@@ -1,4 +1,4 @@
-**Exodus 35:22** 
+**Exodus 35:22**<big><big>[[Exod.35.20 The People Offer Gifts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came, both men and women, as many as were willing hearted, [and] brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered [offered] an offering of gold unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all who had willing hearts, both men and women, came and brought brooches and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.21|<< Exodus 35:21]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.23|Exodus 35:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֥אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the men  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

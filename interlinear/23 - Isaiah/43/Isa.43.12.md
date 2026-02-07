@@ -1,4 +1,4 @@
-**Isaiah 43:12** 
+**Isaiah 43:12**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have declared, and have saved, and I have shewed, when [there was] no strange [god] among you: therefore ye [are] my witnesses, saith the LORD, that I [am] God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I alone decreed and saved and proclaimed—I, and not some foreign god among you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.11|<< Isaiah 43:11]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.13|Isaiah 43:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֞י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have declared  |**<big>&#8207;[[H5046\|הִגַּ֤דְתִּי]]&#8207; </big>**| hi.Gad.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

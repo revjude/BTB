@@ -1,4 +1,4 @@
-**Ezekiel 32:16** 
+**Ezekiel 32:16**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the lamentation wherewith they shall lament her: the daughters of the nations shall lament her: they shall lament for her, [even] for Egypt, and for all her multitude, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the lament they will chant for her; the daughters of the nations will ch
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.15|<< Ezekiel 32:15]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.17|Ezekiel 32:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a lamentation  |**<big>&#8207;[[H7015\|קִינָ֥ה]]&#8207; </big>**| ki.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it  |**<big>&#8207;[[H1931\|הִיא֙]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

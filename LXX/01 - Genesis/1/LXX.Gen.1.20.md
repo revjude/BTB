@@ -1,10 +1,7 @@
 **LXX Genesis 1:20** 
 <small><sub>**LXX:**</sub></small>
 And God said, the waters bring forth reptiles of living lives, and flying winged creatures upon the earth below the firmament of the heaven! And it was so. 
-<small><sub>**KJV:**</sub></small>
-And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl [that] may fly above the earth in the open firmament of heaven.
-<small><sub>**BSB:**</sub></small>
-And God said, “Let the waters teem with living creatures, and let birds fly above the earth in the open expanse of the sky.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.19|<< Genesis 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.21|Genesis 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

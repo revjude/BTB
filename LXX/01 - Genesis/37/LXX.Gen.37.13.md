@@ -1,10 +1,7 @@
 **LXX Genesis 37:13** 
 <small><sub>**LXX:**</sub></small>
 And Israel said to Joseph, Did not  your brothers tend in Shechem? Come, I will send you to them. And he said to him, Behold, I \[am ready\]. 
-<small><sub>**KJV:**</sub></small>
-And Israel said unto Joseph, Do not thy brethren feed [the flock] in Shechem? come, and I will send thee unto them. And he said to him, Here [am I].
-<small><sub>**BSB:**</sub></small>
-Israel said to him, “Are not your brothers pasturing the flocks at Shechem? Get ready; I am sending you to them.” “I am ready,” Joseph replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.12|<< Genesis 37:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.14|Genesis 37:14 >>]]</td></tr></table>
 
 | Translation | Greek |

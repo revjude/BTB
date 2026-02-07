@@ -1,10 +1,7 @@
 **LXX Proverbs 4:16** 
 <small><sub>**LXX:**</sub></small>
 For they shall not sleep, unless they should have done evil. Sleep is removed from them, and they do not go to bed. 
-<small><sub>**KJV:**</sub></small>
-For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause [some] to fall.
-<small><sub>**BSB:**</sub></small>
-For they cannot sleep unless they do evil; they are deprived of slumber until they make someone fall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.15|<< Proverbs 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.17|Proverbs 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

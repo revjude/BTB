@@ -1,10 +1,7 @@
 **LXX Isaiah 65:8** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, In which manner the grape-stone shall be found in the cluster of grapes, and they shall say, You should not lay it waste, for there is a blessing in it; so I will do because of the ones serving me -- because of this one in no way shall I destroy all. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, As the new wine is found in the cluster, and [one] saith, Destroy it not; for a blessing [is] in it: so will I do for my servants’ sakes, that I may not destroy them all.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “As the new wine is found in a cluster of grapes, and men say, ‘Do not destroy it, for it contains a blessing,’ so I will act on behalf of My servants; I will not destroy them all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.7|<< Isaiah 65:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.9|Isaiah 65:9 >>]]</td></tr></table>
 
 | Translation | Greek |

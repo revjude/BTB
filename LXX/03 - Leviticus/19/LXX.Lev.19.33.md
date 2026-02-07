@@ -1,10 +1,7 @@
 **LXX Leviticus 19:33** 
 <small><sub>**LXX:**</sub></small>
 And if any foreigner in your land should come forward to you, you shall not afflict him. 
-<small><sub>**KJV:**</sub></small>
-And if a stranger sojourn with thee in your land, ye shall not vex him.
-<small><sub>**BSB:**</sub></small>
-When a foreigner resides with you in your land, you must not oppress him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.32|<< Leviticus 19:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.34|Leviticus 19:34 >>]]</td></tr></table>
 
 | Translation | Greek |

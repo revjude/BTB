@@ -1,4 +1,4 @@
-**Psalms 116:19** 
+**Psalms 116:19**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the courts of the LORD’S house, in the midst of thee, O Jerusalem. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ in the courts of the LORD’s house, in your midst, O Jerusalem. Hallelujah!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.18|<< Psalms 116:18]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.117.1|Psalms 117:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] courts of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2691A\|חַצְר֤וֹת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chatz.Rot<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֤ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

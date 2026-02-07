@@ -1,10 +1,7 @@
 **LXX Genesis 24:35** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> blessed  my master exceedingly; and he was raised up high, and he gave to him sheep, and calves, and silver, and pieces of gold, and manservants, and maidservants, camels, and donkeys. 
-<small><sub>**KJV:**</sub></small>
-And the LORD hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses.
-<small><sub>**BSB:**</sub></small>
-“The LORD has greatly blessed my master, and he has become rich. He has given him sheep and cattle, silver and gold, menservants and maidservants, camels and donkeys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.34|<< Genesis 24:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.36|Genesis 24:36 >>]]</td></tr></table>
 
 | Translation | Greek |

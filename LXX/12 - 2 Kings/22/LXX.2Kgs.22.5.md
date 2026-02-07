@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:5** 
 <small><sub>**LXX:**</sub></small>
 And let them put \[it\] into \[the\] hand of the ones doing the works, of the ones being ordained for the house of \[the\] <span class="smallcaps">lord</span>! And he gave it to the ones doing the works in \[the\] house of \[the\] <span class="smallcaps">lord</span>,  to strengthen the breach of the house, 
-<small><sub>**KJV:**</sub></small>
-And let them deliver it into the hand of the doers of the work, that have the oversight of the house of the LORD: and let them give it to the doers of the work which [is] in the house of the LORD, to repair the breaches of the house,
-<small><sub>**BSB:**</sub></small>
-And let them deliver it into the hands of the supervisors of those doing the work on the house of the LORD, who in turn are to give it to the workmen repairing the damages to the house of the LORD—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.4|<< 2 Kings 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.6|2 Kings 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

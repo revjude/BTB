@@ -1,12 +1,12 @@
-**Mark 12:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:34**<big><big>[[Mark.12.28 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Jesus saw that he answered discreetly, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him [any question].
 <small><sub>**BSB:**</sub></small>
 When Jesus saw that the man had answered wisely, He said, “You are not far from the kingdom of God.” And no one dared to question Him any further.
 <small><sub>**Literal:**</sub></small>
 And <the> Jesus having seen him that wisely he answered He said to him; Not far are you from the kingdom <the> of God. And no [one] no longer was daring Him to question.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.33|<< Mark 12:33]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.35|Mark 12:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

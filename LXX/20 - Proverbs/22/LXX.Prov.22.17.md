@@ -1,10 +1,7 @@
 **LXX Proverbs 22:17** 
 <small><sub>**LXX:**</sub></small>
 Set aside your ear to \[the\] words of \[the\] wise, and hear my words!  and set your heart that you should know! 
-<small><sub>**KJV:**</sub></small>
-Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.
-<small><sub>**BSB:**</sub></small>
-Incline your ear and hear the words of the wise—apply your mind to my knowledge—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.16|<< Proverbs 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.18|Proverbs 22:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:17** 
 <small><sub>**LXX:**</sub></small>
 He was a son of thirty and two years \[old\] in  his taking reign. And eight years he reigned in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Thirty and two years old was he when he began to reign; and he reigned eight years in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.16|<< 2 Kings 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.18|2 Kings 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

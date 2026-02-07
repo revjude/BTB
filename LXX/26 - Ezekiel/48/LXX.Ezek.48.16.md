@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:16** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\]  its measurements from the \[borders\] towards \[the\] north, five hundred and four thousand, and from the \[borders\] towards \[the\] south, five hundred and four thousand, and from the \[borders\] towards \[the\] east, five hundred and four thousand, and from the \[borders\] towards \[the\] west, four thousand five hundred. 
-<small><sub>**KJV:**</sub></small>
-And these [shall be] the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.
-<small><sub>**BSB:**</sub></small>
-and will have these measurements: 4,500 cubits on the north side, 4,500 cubits on the south side, 4,500 cubits on the east side, and 4,500 cubits on the west side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.15|<< Ezekiel 48:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.17|Ezekiel 48:17 >>]]</td></tr></table>
 
 | Translation | Greek |

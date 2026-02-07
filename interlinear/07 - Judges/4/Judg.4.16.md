@@ -1,4 +1,4 @@
-**Judges 4:16** 
+**Judges 4:16**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; [and] there was not a man left.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Barak pursued the chariots and army as far as Harosheth-hagoyim, and the wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.15|<< Judges 4:15]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.17|Judges 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Barak  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1301\|בָרָ֗ק]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Rak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he pursued  |**<big>&#8207;[[H7291\|רָדַ֞ף]]&#8207; </big>**| ra.Daf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

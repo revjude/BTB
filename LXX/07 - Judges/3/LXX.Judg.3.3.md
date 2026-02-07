@@ -1,10 +1,7 @@
 **LXX Judges 3:3** 
 <small><sub>**LXX:**</sub></small>
 \[namely\] the five satrapies of the Philistines, and every  Canaanite, and the Sidonian, and the Hivite  dwelling  in Lebanon, from  mount  Baal-hermon unto Hamath. 
-<small><sub>**KJV:**</sub></small>
-[Namely], five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baalhermon unto the entering in of Hamath.
-<small><sub>**BSB:**</sub></small>
-the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived in the mountains of Lebanon from Mount Baal-hermon to Lebo-hamath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.2|<< Judges 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.4|Judges 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

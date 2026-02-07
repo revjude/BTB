@@ -1,4 +1,4 @@
-**2 Chronicles 23:4** 
+**2 Chronicles 23:4**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, [shall be] porters of the doors;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what you are to do: A third of you priests and Levites who come on duty 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.3|<< 2 Chronicles 23:3]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.5|2 Chronicles 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֥ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the thing  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דָּבָ֖ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 6:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:13**<big><big>[[1Cor.6.9 Members of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body [is] not for fornication, but for the Lord; and the Lord for the body.
 <small><sub>**BSB:**</sub></small>
 “Food for the stomach and the stomach for food,” but God will destroy them both. The body is not intended for sexual immorality, but for the Lord, and the Lord for the body.
 <small><sub>**Literal:**</sub></small>
 The foods for the belly and the belly the for foods; <the> but God both this and these will destroy. <the> and the body [is] not <the> for sexual immorality but for the Lord, and the Lord for the body;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.12|<< 1 Corinthians 6:12]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.14|1 Corinthians 6:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | foods |**<big>[[G1033\|βρώματα]]</big>**  |brōmata <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

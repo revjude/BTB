@@ -1,10 +1,7 @@
 **LXX Psalm 68:13** 
 <small><sub>**LXX:**</sub></small>
 If you should sleep in the midst of the lots, \[the\] wings of \[the\] dove being silver plated, and  her upper back in greenness of gold; 
-<small><sub>**KJV:**</sub></small>
-Though ye have lien among the pots, [yet shall ye be as] the wings of a dove covered with silver, and her feathers with yellow gold.
-<small><sub>**BSB:**</sub></small>
-Though you lie down among the sheepfolds, the wings of the dove are covered with silver, and her feathers with shimmering gold.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.12|<< Psalm 68:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.14|Psalm 68:14 >>]]</td></tr></table>
 
 | Translation | Greek |

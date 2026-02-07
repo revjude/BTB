@@ -1,10 +1,7 @@
 **LXX Jeremiah 21:10** 
 <small><sub>**LXX:**</sub></small>
 For I firmly fixed  my face against  this city for bad, and not for good, says \[the\] <span class="smallcaps">lord</span>. Into \[the\] hands of \[the\] king of Babylon it shall be delivered up, and he shall incinerate it by fire. 
-<small><sub>**KJV:**</sub></small>
-For I have set my face against this city for evil, and not for good, saith the LORD: it shall be given into the hand of the king of Babylon, and he shall burn it with fire.
-<small><sub>**BSB:**</sub></small>
-For I have set My face against this city to bring disaster and not good, declares the LORD. It will be delivered into the hand of the king of Babylon, who will destroy it with fire.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.9|<< Jeremiah 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.11|Jeremiah 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

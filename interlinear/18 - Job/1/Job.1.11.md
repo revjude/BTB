@@ -1,4 +1,4 @@
-**Job 1:11** 
+**Job 1:11**<big><big>[[Job.1.6 Satan’s First Attack|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But stretch out Your hand and strike all that he has, and he will surely curse Y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.10|<< Job 1:10]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.12|Job 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and but  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0199\|אוּלָם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'u.Lam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | stretch out  |**<big>&#8207;[[H7971K\|שְֽׁלַֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.lach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

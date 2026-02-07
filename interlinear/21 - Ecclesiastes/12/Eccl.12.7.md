@@ -1,4 +1,4 @@
-**Ecclesiastes 12:7** 
+**Ecclesiastes 12:7**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ before the dust returns to the ground from which it came and the spirit returns 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.6|<< Ecclesiastes 12:6]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.8|Ecclesiastes 12:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will return  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725G\|יָשֹׁ֧ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Sho<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the dust  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H6083\|עָפָ֛ר]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

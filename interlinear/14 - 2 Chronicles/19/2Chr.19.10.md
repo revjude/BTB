@@ -1,4 +1,4 @@
-**2 Chronicles 19:10** 
+**2 Chronicles 19:10**<big><big>[[2Chr.19.4 Jehoshaphat’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and [so] wrath come upon you, and upon your brethren: this do, and ye shall not trespass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For every dispute that comes before you from your brothers who dwell in their ci
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.9|<< 2 Chronicles 19:9]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.11|2 Chronicles 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | case at law  |**<big>&#8207;[[H7379\|רִיב֩]]&#8207; </big>**| riv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

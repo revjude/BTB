@@ -1,10 +1,7 @@
 **LXX Genesis 26:13** 
 <small><sub>**LXX:**</sub></small>
 And the man was exalted, and was advancing greatly, until of which \[time\] he became exceedingly great. 
-<small><sub>**KJV:**</sub></small>
-And the man waxed great, and went forward, and grew until he became very great:
-<small><sub>**BSB:**</sub></small>
-and he became richer and richer, until he was exceedingly wealthy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.12|<< Genesis 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.14|Genesis 26:14 >>]]</td></tr></table>
 
 | Translation | Greek |

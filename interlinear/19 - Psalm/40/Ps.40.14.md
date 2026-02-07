@@ -1,4 +1,4 @@
-**Psalms 40:14** (40:15)
+**Psalms 40:14**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May those who seek my life be ashamed and confounded; may those who wish me harm
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be ashamed  |**<big>&#8207;[[H0954\|יֵ֘בֹ֤שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may be abashed  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2659\|יַחְפְּר֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yach.pe.Ru<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

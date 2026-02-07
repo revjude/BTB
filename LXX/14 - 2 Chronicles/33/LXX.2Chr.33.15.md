@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:15** 
 <small><sub>**LXX:**</sub></small>
 And he removed the gods of the aliens, and the carved \[image\] from out of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and all the altars which he built on \[the\] mountain of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and in Jerusalem; and he cast \[them\] outside the city. 
-<small><sub>**KJV:**</sub></small>
-And he took away the strange gods, and the idol out of the house of the LORD, and all the altars that he had built in the mount of the house of the LORD, and in Jerusalem, and cast [them] out of the city.
-<small><sub>**BSB:**</sub></small>
-He removed the foreign gods and the idol from the house of the LORD, along with all the altars he had built on the temple mount and in Jerusalem, and he dumped them outside the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.14|<< 2 Chronicles 33:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.16|2 Chronicles 33:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 24:22** 
+**Ezekiel 24:22**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall do as I have done: ye shall not cover [your] lips, nor eat the bread of men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will do as I have done: You will not cover your lips or eat the bread o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.21|<< Ezekiel 24:21]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.23|Ezekiel 24:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will do  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|עֲשִׂיתֶ֖ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.si.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

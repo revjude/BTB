@@ -1,10 +1,7 @@
 **LXX Exodus 6:30** 
 <small><sub>**LXX:**</sub></small>
 And Moses said before \[the\] <span class="smallcaps">lord</span>, Behold, I am weak-voiced, and how Pharaoh listen to me? 
-<small><sub>**KJV:**</sub></small>
-And Moses said before the LORD, Behold, I [am] of uncircumcised lips, and how shall Pharaoh hearken unto me?
-<small><sub>**BSB:**</sub></small>
-But in the LORD’s presence Moses replied, “Since I am unskilled in speech, why would Pharaoh listen to me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.29|<< Exodus 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.1|Exodus 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

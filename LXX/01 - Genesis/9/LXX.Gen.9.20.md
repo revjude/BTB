@@ -1,10 +1,7 @@
 **LXX Genesis 9:20** 
 <small><sub>**LXX:**</sub></small>
 And Noah \[the\] man began \[to be a\] farmer of \[the\] land. And he planted a vineyard, 
-<small><sub>**KJV:**</sub></small>
-And Noah began [to be] an husbandman, and he planted a vineyard:
-<small><sub>**BSB:**</sub></small>
-Now Noah, a man of the soil, proceeded to plant a vineyard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.19|<< Genesis 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.21|Genesis 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

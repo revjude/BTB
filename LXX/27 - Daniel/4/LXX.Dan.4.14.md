@@ -1,10 +1,7 @@
 **LXX Daniel 4:14** 
 <small><sub>**LXX:**</sub></small>
 And he spoke out loud in strength, and thus he said, Cut down the tree, and pluck off  his branches, and shake off  his leaves, and scatter  his fruit! the wild beasts be shaken away from beneath him, and the birds from  his branches! 
-<small><sub>**KJV:**</sub></small>
-He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:
-<small><sub>**BSB:**</sub></small>
-He called out in a loud voice: ‘Cut down the tree and chop off its branches; strip off its leaves and scatter its fruit. Let the beasts flee from under it, and the birds from its branches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.13|<< Daniel 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.15|Daniel 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

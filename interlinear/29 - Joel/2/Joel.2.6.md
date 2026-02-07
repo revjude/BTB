@@ -1,4 +1,4 @@
-**Joel 2:6** 
+**Joel 2:6**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before their face the people shall be much pained: all faces shall gather blackness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nations writhe in horror before them; every face turns pale.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.5|<< Joel 2:5]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.7|Joel 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from before it  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פָּנָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are in anguish  |**<big>&#8207;[[H2342I\|יָחִ֣ילוּ]]&#8207; </big>**| ya.Chi.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 15:29** 
+**2 Kings 15:29**<big><big>[[2Kgs.15.27 Pekah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the days of Pekah king of Israel came Tiglathpileser king of Assyria, and took Ijon, and Abelbethmaachah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.28|<< 2 Kings 15:28]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.30|2 Kings 15:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] days of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3117G\|ימֵ֞י]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pekah  |**<big>&#8207;[[H6492\|פֶּ֣קַח]]&#8207; </big>**| Pe.kach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

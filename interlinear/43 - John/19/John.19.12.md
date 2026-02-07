@@ -1,12 +1,12 @@
-**John 19:12
-**<small><sub>**KJV:**</sub></small>
+**John 19:12**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If thou let this man go, thou art not Caesar’s friend: whosoever maketh himself a king speaketh against Caesar.
 <small><sub>**BSB:**</sub></small>
 From then on, Pilate tried to release Him, but the Jews kept shouting, “If you release this man, you are no friend of Caesar. Anyone who declares himself a king is defying Caesar.”
 <small><sub>**Literal:**</sub></small>
 Out of this <the> Pilate was seeking to release Him. <the> but the Jews cried out saying; If this [man] you shall release, not you are a friend <the> of Caesar. Everyone <the> a king himself making speaks against <the> Caesar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.11|<< John 19:11]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.13|John 19:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τούτου]]</big>**  |toutou <small><sup>[[D-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

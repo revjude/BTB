@@ -1,4 +1,4 @@
-**2 Chronicles 29:8** 
+**2 Chronicles 29:8**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the wrath of the LORD was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, the wrath of the LORD has fallen upon Judah and Jerusalem, and He has
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.7|<< 2 Chronicles 29:7]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.9|2 Chronicles 29:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wrath of  |**<big>&#8207;[[H7110A\|קֶ֣צֶף]]&#8207; </big>**| Ke.tzef<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

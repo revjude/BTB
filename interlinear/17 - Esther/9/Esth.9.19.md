@@ -1,4 +1,4 @@
-**Esther 9:19** 
+**Esther 9:19**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar [a day of] gladness and feasting, and a good day, and of sending portions one to another.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is why the rural Jews, who live in the villages, observe the fourteenth day
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.18|<< Esther 9:18]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.20|Esther 9:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּ֞ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

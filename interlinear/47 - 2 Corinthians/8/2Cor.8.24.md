@@ -1,12 +1,12 @@
-**2 Corinthians 8:24
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:24**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.
 <small><sub>**BSB:**</sub></small>
 In full view of the churches, then, show these men the proof of your love and the reason for our boasting about you.
 <small><sub>**Literal:**</sub></small>
 <the> Therefore the proof of the love of you and of our boasting about you to them is showing and in face of the churches.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.23|<< 2 Corinthians 8:23]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.1|2 Corinthians 9:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

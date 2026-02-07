@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:21** 
 <small><sub>**LXX:**</sub></small>
 And they shall take the calf, the one for a sin \[offering\], and they shall incinerate it in the place being separated of the house from outside of the holies. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt take the bullock also of the sin offering, and he shall burn it in the appointed place of the house, without the sanctuary.
-<small><sub>**BSB:**</sub></small>
-Then you are to take away the bull for the sin offering and burn it in the appointed part of the temple area outside the sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.20|<< Ezekiel 43:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.22|Ezekiel 43:22 >>]]</td></tr></table>
 
 | Translation | Greek |

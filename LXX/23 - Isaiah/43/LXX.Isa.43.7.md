@@ -1,10 +1,7 @@
 **LXX Isaiah 43:7** 
 <small><sub>**LXX:**</sub></small>
 \[even\] all, as many as have been called upon \[to\] my name. For in  my glory I carefully prepared him, and I shaped him, and I made him. 
-<small><sub>**KJV:**</sub></small>
-[Even] every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.
-<small><sub>**BSB:**</sub></small>
-everyone called by My name and created for My glory, whom I have indeed formed and made.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.6|<< Isaiah 43:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.8|Isaiah 43:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 13:12** 
+**2 Chronicles 13:12**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, God himself [is] with us for [our] captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the LORD God of your fathers; for ye shall not prosper.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now behold, God Himself is with us as our head, and His priests with their trump
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.11|<< 2 Chronicles 13:11]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.13|2 Chronicles 13:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and here!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] with us  |**<big>&#8207;[[H5973A\|עִמָּ֨]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| 'i.Ma.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

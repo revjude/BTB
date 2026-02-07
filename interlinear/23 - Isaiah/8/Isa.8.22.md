@@ -1,4 +1,4 @@
-**Isaiah 8:22** 
+**Isaiah 8:22**<big><big>[[Isa.8.19 Darkness and Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall look unto the earth; and behold trouble and darkness, dimness of anguish; and [they shall be] driven to darkness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they will look to the earth and see only distress and darkness and the gloo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.21|<< Isaiah 8:21]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.1|Isaiah 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] earth  |**<big>&#8207;[[H0776G\|אֶ֖רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

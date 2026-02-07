@@ -1,10 +1,7 @@
 **LXX Isaiah 33:6** 
 <small><sub>**LXX:**</sub></small>
 They shall be delivered up to \[the\] law. Our deliverance \[is\] in treasuries. \[Located\] there \[are\] wisdom and higher knowledge and piety to the <span class="smallcaps">lord</span>; these are treasuries of righteousness. 
-<small><sub>**KJV:**</sub></small>
-And wisdom and knowledge shall be the stability of thy times, [and] strength of salvation: the fear of the LORD [is] his treasure.
-<small><sub>**BSB:**</sub></small>
-He will be the sure foundation for your times, a storehouse of salvation, wisdom, and knowledge. The fear of the LORD is Zion’s treasure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.5|<< Isaiah 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.7|Isaiah 33:7 >>]]</td></tr></table>
 
 | Translation | Greek |

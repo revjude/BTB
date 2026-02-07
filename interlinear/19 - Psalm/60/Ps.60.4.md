@@ -1,4 +1,4 @@
-**Psalms 60:4** (60:6)
+**Psalms 60:4**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have raised a banner for those who fear You, that they may flee the bow. Sel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.3|<< Psalms 60:3]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.5|Psalms 60:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have set up  |**<big>&#8207;[[H5414H\|נָ֘תַ֤תָּה]]&#8207; </big>**| na.Ta.tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [those] fearing you  |**<big>&#8207;[[H9005\|לִּ]]&#8207;&#8207;[[H3373\|ירֵאֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> re.'Ei.<small><sup>[[HAampc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

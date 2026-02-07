@@ -1,10 +1,7 @@
 **LXX Psalm 71:3** 
 <small><sub>**LXX:**</sub></small>
 Be to me for a defending God! and for a fortified place  to deliver me. For you are my confirmation and my refuge. 
-<small><sub>**KJV:**</sub></small>
-Be thou my strong habitation, whereunto I may continually resort: thou hast given commandment to save me; for thou [art] my rock and my fortress.
-<small><sub>**BSB:**</sub></small>
-Be my rock of refuge, where I can always go. Give the command to save me, for You are my rock and my fortress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.2|<< Psalm 71:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.4|Psalm 71:4 >>]]</td></tr></table>
 
 | Translation | Greek |

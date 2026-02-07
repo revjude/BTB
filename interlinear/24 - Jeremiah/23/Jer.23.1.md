@@ -1,4 +1,4 @@
-**Jeremiah 23:1** 
+**Jeremiah 23:1**<big><big>[[Jer.23.1 David’s Righteous Branch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.30|<< Jeremiah 22:30]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.2|Jeremiah 23:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֣וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] shepherds  |**<big>&#8207;[[H7462B\|רֹעִ֗ים]]&#8207; </big>**| ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

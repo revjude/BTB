@@ -1,4 +1,4 @@
-**Isaiah 51:18** 
+**Isaiah 51:18**<big><big>[[Isa.51.17 God’s Fury Removed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] none to guide her among all the sons [whom] she hath brought forth; neither [is there any] that taketh her by the hand of all the sons [that] she hath brought up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Among all the sons she bore, there is no one to guide her; among all the sons sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.17|<< Isaiah 51:17]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.19|Isaiah 51:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is one who] leads  |**<big>&#8207;[[H5095\|מְנַהֵ֣ל]]&#8207; </big>**| me.na.Hel<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

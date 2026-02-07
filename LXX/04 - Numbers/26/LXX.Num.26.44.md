@@ -1,10 +1,7 @@
 **LXX Numbers 26:44** 
 <small><sub>**LXX:**</sub></small>
 Sons of Asher according to their peoples -- \[to\] Jimna, \[the\] people the Jimnites; \[to\] Jesui, \[the\] people the Jesuites; \[to\] Beriah, \[the\] people the Beriites; 
-<small><sub>**KJV:**</sub></small>
-[Of] the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites.
-<small><sub>**BSB:**</sub></small>
-These were the descendants of Asher by their clans: The Imnite clan from Imnah, the Ishvite clan from Ishvi, and the Beriite clan from Beriah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.43|<< Numbers 26:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.45|Numbers 26:45 >>]]</td></tr></table>
 
 | Translation | Greek |

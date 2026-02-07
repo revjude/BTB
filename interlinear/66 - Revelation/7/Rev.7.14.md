@@ -1,12 +1,12 @@
-**Revelation 7:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:14**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
 <small><sub>**BSB:**</sub></small>
 “Sir,” I answered, “you know.” So he replied, “These are the ones who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb.
 <small><sub>**Literal:**</sub></small>
 And I have said to him; lord of mine, you yourself know. And he said to me; These are the [ones] coming out of the tribulation <the> great and they have washed the robes of them and made white robes for them in the blood of the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.13|<< Revelation 7:13]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.15|Revelation 7:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have said [^1] |**<big>[[G2046\|εἴρηκα]]</big>**  |eirēka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |

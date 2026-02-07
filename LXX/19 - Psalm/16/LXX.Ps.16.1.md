@@ -6,10 +6,7 @@ An inscription on a monument; \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Guard me, O <span class="smallcaps">lord</span>, for upon you I hoped! 
-<small><sub>**KJV:**</sub></small>
-Michtam of David. Preserve me, O God: for in thee do I put my trust.
-<small><sub>**BSB:**</sub></small>
-A Miktam of David. Preserve me, O God, for in You I take refuge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.15.5|<< Psalm 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.2|Psalm 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

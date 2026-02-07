@@ -1,4 +1,4 @@
-**Micah 7:6** 
+**Micah 7:6**<big><big>[[Mic.7.1 Israel’s Great Misery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man’s enemies [are] the men of his own house.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For a son dishonors his father, a daughter rises against her mother, and a daugh
 > $\quad$ referenced by: [[Matt.10.35|Matt 10:35-36]] ☩ [[Mark.13.12|Mark 13:12]] ☩ [[Luke.12.53|Luke 12:53]] ☩ [[Luke.14.26|Luke 14:26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a son  |**<big>&#8207;[[H1121A\|בֵן֙]]&#8207; </big>**| ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

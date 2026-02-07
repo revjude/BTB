@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:7** 
 <small><sub>**LXX:**</sub></small>
 And now stand, and I will adjudicate for you before \[the\] <span class="smallcaps">lord</span>, and I will report to you all the righteousness of \[the\] <span class="smallcaps">lord</span>, which he did to you, and \[to\] your fathers, 
-<small><sub>**KJV:**</sub></small>
-Now therefore stand still, that I may reason with you before the LORD of all the righteous acts of the LORD, which he did to you and to your fathers.
-<small><sub>**BSB:**</sub></small>
-Now present yourselves, so that I may confront you before the LORD with all the righteous acts He has done for you and your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.6|<< 1 Samuel 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.8|1 Samuel 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

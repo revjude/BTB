@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:17** 
 <small><sub>**LXX:**</sub></small>
 And I shall deliver you in  that day, says \[the\] <span class="smallcaps">lord</span>, and I will not give you into \[the\] hands of the men whom you fear from their face. 
-<small><sub>**KJV:**</sub></small>
-But I will deliver thee in that day, saith the LORD: and thou shalt not be given into the hand of the men of whom thou [art] afraid.
-<small><sub>**BSB:**</sub></small>
-But I will deliver you on that day, declares the LORD, and you will not be delivered into the hands of the men whom you fear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.16|<< Jeremiah 39:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.18|Jeremiah 39:18 >>]]</td></tr></table>
 
 | Translation | Greek |

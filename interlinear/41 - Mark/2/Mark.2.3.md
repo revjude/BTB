@@ -1,12 +1,12 @@
-**Mark 2:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:3**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they come unto him, bringing one sick of the palsy, which was borne of four.
 <small><sub>**BSB:**</sub></small>
 Then a paralytic was brought to Him, carried by four men.
 <small><sub>**Literal:**</sub></small>
 And they come bringing to Him a paralytic being carried by four.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.2|<< Mark 2:2]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.4|Mark 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they come |**<big>[[G2064\|ἔρχονται]]</big>**  |erchontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

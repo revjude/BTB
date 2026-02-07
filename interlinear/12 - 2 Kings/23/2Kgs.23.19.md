@@ -1,4 +1,4 @@
-**2 Kings 23:19** 
+**2 Kings 23:19**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the houses also of the high places that [were] in the cities of Samaria, which the kings of Israel had made to provoke [the LORD] to anger, Josiah took away, and did to them according to all the acts that he had done in Bethel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just as Josiah had done at Bethel, so also in the cities of Samaria he removed a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.18|<< 2 Kings 23:18]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.20|2 Kings 23:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

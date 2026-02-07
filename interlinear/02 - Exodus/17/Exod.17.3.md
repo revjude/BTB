@@ -1,4 +1,4 @@
-**Exodus 17:3** 
+**Exodus 17:3**<big><big>[[Exod.17.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore [is] this [that] thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the people thirsted for water there, and they grumbled against Moses: “Why
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.2|<< Exodus 17:2]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.4|Exodus 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was thirsty  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6770\|יִּצְמָ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֤ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 18:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:23**<big><big>[[Acts.18.23 Paul’s Third Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after he had spent some time [there], he departed, and went over [all] the country of Galatia and Phrygia in order, strengthening all the disciples.
 <small><sub>**BSB:**</sub></small>
 After Paul had spent some time in Antioch, he traveled from place to place throughout the region of Galatia and Phrygia, strengthening all the disciples.
 <small><sub>**Literal:**</sub></small>
 And having stayed time some he went forth passing through successively the Galatian region and Phrygia, strengthening all the disciples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.22|<< Acts 18:22]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.24|Acts 18:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having stayed |**<big>[[G4160J\|ποιήσας]]</big>**  |poiēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

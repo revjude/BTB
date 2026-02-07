@@ -1,12 +1,12 @@
-**John 12:24
-**<small><sub>**KJV:**</sub></small>
+**John 12:24**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a seed. But if it dies, it bears much fruit.
 <small><sub>**Literal:**</sub></small>
 Amen Amen I say to you; only unless the grain <the> of wheat having fallen into the ground shall die, it alone abides; if however it shall die, much fruit it bears.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.23|<< John 12:23]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.25|John 12:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

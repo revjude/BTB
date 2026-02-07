@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:18** 
 <small><sub>**LXX:**</sub></small>
 Behold, I have made you in  today's day as a fortified city, and as a fortified wall of brass all together \[against\] the kings of Judah, and  its rulers, and to the people of the land. 
-<small><sub>**KJV:**</sub></small>
-For, behold, I have made thee this day a defenced city, and an iron pillar, and brasen walls against the whole land, against the kings of Judah, against the princes thereof, against the priests thereof, and against the people of the land.
-<small><sub>**BSB:**</sub></small>
-Now behold, this day I have made you like a fortified city, an iron pillar, and bronze walls against the whole land—against the kings of Judah, its officials, its priests, and the people of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.17|<< Jeremiah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.19|Jeremiah 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

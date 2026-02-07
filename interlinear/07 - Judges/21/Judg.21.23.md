@@ -1,4 +1,4 @@
-**Judges 21:23** 
+**Judges 21:23**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Benjamin did so, and took [them] wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Benjamites did as instructed and carried away the number of women they neede
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.22|<< Judges 21:22]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.24|Judges 21:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּֽעֲשׂוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.su-<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3651C\|כֵן֙]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

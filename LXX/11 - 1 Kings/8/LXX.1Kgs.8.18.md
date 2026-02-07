@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:18** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to David  my father, That it was upon  your heart to construct a house \[to\] my name you did well, for it was upon  your heart. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto David my father, Whereas it was in thine heart to build an house unto my name, thou didst well that it was in thine heart.
-<small><sub>**BSB:**</sub></small>
-But the LORD said to my father David, ‘Since it was in your heart to build a house for My Name, you have done well to have this in your heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.17|<< 1 Kings 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.19|1 Kings 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

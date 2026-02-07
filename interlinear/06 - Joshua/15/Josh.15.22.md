@@ -1,4 +1,4 @@
-**Joshua 15:22** 
+**Joshua 15:22**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Kinah, and Dimonah, and Adadah,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kinah, Dimonah, Adadah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.21|<< Joshua 15:21]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.23|Joshua 15:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Kinah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7016\|קִינָ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ki.Nah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Dimonah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1776\|דִֽימוֹנָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> di.mo.Nah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

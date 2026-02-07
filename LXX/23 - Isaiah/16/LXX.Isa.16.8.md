@@ -1,10 +1,7 @@
 **LXX Isaiah 16:8** 
 <small><sub>**LXX:**</sub></small>
 The plains of Heshbon shall mourn \[the\] grapevine of Sibmah. Swallowing down the nations, trampling  her grapevines, unto Jazer in no way shall you join together. Wander the wilderness! The ones being sent from her were abandoned, for they passed over the sea. 
-<small><sub>**KJV:**</sub></small>
-For the fields of Heshbon languish, [and] the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come [even] unto Jazer, they wandered [through] the wilderness: her branches are stretched out, they are gone over the sea.
-<small><sub>**BSB:**</sub></small>
-For the fields of Heshbon have withered, along with the grapevines of Sibmah. The rulers of the nations have trampled its choicest vines, which had reached as far as Jazer and spread toward the desert. Their shoots had spread out and passed over the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.7|<< Isaiah 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.9|Isaiah 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

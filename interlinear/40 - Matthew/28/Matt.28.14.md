@@ -1,12 +1,12 @@
-**Matthew 28:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:14**<big><big>[[Matt.28.11 The Report of the Guards|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if this come to the governor’s ears, we will persuade him, and secure you.
 <small><sub>**BSB:**</sub></small>
 If this report reaches the governor, we will satisfy him and keep you out of trouble.”
 <small><sub>**Literal:**</sub></small>
 And if shall be heard this by the governor, we ourselves will persuade him and you out of trouble will keep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.13|<< Matthew 28:13]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.15|Matthew 28:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

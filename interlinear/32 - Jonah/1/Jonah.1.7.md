@@ -1,4 +1,4 @@
-**Jonah 1:7** 
+**Jonah 1:7**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil [is] upon us. So they cast lots, and the lot fell upon Jonah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they said every one to his fellow, Come, and let us cast lots, that we may k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.6|<< Jonah 1:6]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.8|Jonah 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | each  |**<big>&#8207;[[H0376I\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

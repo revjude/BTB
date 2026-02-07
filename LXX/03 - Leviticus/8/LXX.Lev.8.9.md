@@ -1,10 +1,7 @@
 **LXX Leviticus 8:9** 
 <small><sub>**LXX:**</sub></small>
 And he placed the mitre upon  his head. And he placed the golden panel upon the mitre down in front of him, for the holy consecrating, in which manner \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And he put the mitre upon his head; also upon the mitre, [even] upon his forefront, did he put the golden plate, the holy crown; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-Moses also put the turban on Aaron’s head and set the gold plate, the holy diadem, on the front of the turban, as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.8|<< Leviticus 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.10|Leviticus 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

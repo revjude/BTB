@@ -1,4 +1,4 @@
-**Proverbs 19:22** 
+**Proverbs 19:22**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The desire of a man [is] his kindness: and a poor man [is] better than a liar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The desire of a man is loving devotion; better to be poor than a liar.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.21|<< Proverbs 19:21]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.23|Proverbs 19:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is the] desire of  |**<big>&#8207;[[H8378\|תַּאֲוַ֣ת]]&#8207; </big>**| ta.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0120G\|אָדָ֣ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

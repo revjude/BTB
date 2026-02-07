@@ -1,12 +1,12 @@
-**Luke 21:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:8**<big><big>[[Luke.21.5 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am [Christ]; and the time draweth near: go ye not therefore after them.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “See to it that you are not deceived. For many will come in My name, claiming, ‘I am He,’ and, ‘The time is near.’ Do not follow them.
 <small><sub>**Literal:**</sub></small>
 <the> And He said; do take heed lest you may be led astray; many for will come in the name of Me saying that: I myself am [He], and The time has drawn near. Not therefore may go after them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.7|<< Luke 21:7]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.9|Luke 21:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

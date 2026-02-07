@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:21** 
 <small><sub>**LXX:**</sub></small>
 What shall you say whenever they should visit you, and you taught them lessons for rule against yourself? Shall not pangs control you as a woman giving birth? 
-<small><sub>**KJV:**</sub></small>
-What wilt thou say when he shall punish thee? for thou hast taught them [to be] captains, [and] as chief over thee: shall not sorrows take thee, as a woman in travail?
-<small><sub>**BSB:**</sub></small>
-What will you say when He sets over you close allies whom you yourself trained? Will not pangs of anguish grip you, as they do a woman in labor?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.20|<< Jeremiah 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.22|Jeremiah 13:22 >>]]</td></tr></table>
 
 | Translation | Greek |

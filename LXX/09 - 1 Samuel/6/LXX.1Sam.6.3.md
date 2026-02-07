@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:3** 
 <small><sub>**LXX:**</sub></small>
 And they said, If you yourselves send the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span> God of Israel, do not send it out empty! but by delivering \[it up\], you give it back for the torment! and then you shall be healed, and it shall be atoned unto you, if should you not remove  his hand from you? 
-<small><sub>**KJV:**</sub></small>
-And they said, If ye send away the ark of the God of Israel, send it not empty; but in any wise return him a trespass offering: then ye shall be healed, and it shall be known to you why his hand is not removed from you.
-<small><sub>**BSB:**</sub></small>
-They replied, “If you return the ark of the God of Israel, do not send it away empty, but by all means return it to Him with a guilt offering. Then you will be healed, and you will understand why His hand has not been lifted from you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.2|<< 1 Samuel 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.4|1 Samuel 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

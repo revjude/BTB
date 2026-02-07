@@ -1,10 +1,7 @@
 **LXX Malachi 2:9** 
 <small><sub>**LXX:**</sub></small>
 And I have given you \[over\] as ones being treated with contempt, and ones being disregarded among all the nations, because you guarded not  my ways, but you took persons in \[the\] law. 
-<small><sub>**KJV:**</sub></small>
-Therefore have I also made you contemptible and base before all the people, according as ye have not kept my ways, but have been partial in the law.
-<small><sub>**BSB:**</sub></small>
-“So I in turn have made you despised and humiliated before all the people, because you have not kept My ways, but have shown partiality in matters of the law.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.8|<< Malachi 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.10|Malachi 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

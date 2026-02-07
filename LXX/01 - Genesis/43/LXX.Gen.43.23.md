@@ -1,10 +1,7 @@
 **LXX Genesis 43:23** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Kindness \[be\] to you, do not fear.  Your God, and the God  of your fathers gave to you treasures in  your bags, and  your silver in approving I receive. And he led out to them  Simeon. 
-<small><sub>**KJV:**</sub></small>
-And he said, Peace [be] to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.
-<small><sub>**BSB:**</sub></small>
-“It is fine,” said the steward. “Do not be afraid. Your God, the God of your father, gave you the treasure that was in your sacks. I received your silver.” Then he brought Simeon out to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.22|<< Genesis 43:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.24|Genesis 43:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 14:3** (14:2)
+**2 Chronicles 14:3**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he took away the altars of the strange [gods], and the high places, and brake down the images, and cut down the groves:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He removed the foreign altars and high places, shattered the sacred pillars, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.2|<< 2 Chronicles 14:2]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.4|2 Chronicles 14:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493G\|יָּ֛סַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sar<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

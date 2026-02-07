@@ -1,4 +1,4 @@
-**Numbers 20:24** 
+**Numbers 20:24**<big><big>[[Num.20.22 The Death of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Aaron shall be gathered unto his people: for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the water of Meribah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Aaron shall be gathered unto his people: for he shall not enter into the land wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.23|<< Numbers 20:23]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.25|Numbers 20:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will be gathered  |**<big>&#8207;[[H0622\|יֵאָסֵ֤ף]]&#8207; </big>**| ye.'a.Sef<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹן֙]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

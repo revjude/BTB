@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] waters of Egypt shall ascend as a river; and he said, I will ascend and cover up the earth; and I will destroy \[the\] city and the ones dwelling in it. 
-<small><sub>**KJV:**</sub></small>
-Egypt riseth up like a flood, and [his] waters are moved like the rivers; and he saith, I will go up, [and] will cover the earth; I will destroy the city and the inhabitants thereof.
-<small><sub>**BSB:**</sub></small>
-Egypt rises like the Nile, and its waters churn like rivers, boasting, ‘I will rise and cover the earth; I will destroy the cities and their people.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.7|<< Jeremiah 46:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.9|Jeremiah 46:9 >>]]</td></tr></table>
 
 | Translation | Greek |

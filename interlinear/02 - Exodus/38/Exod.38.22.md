@@ -1,4 +1,4 @@
-**Exodus 38:22** 
+**Exodus 38:22**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bezaleel the son of Uri, the son of Hur, of the tribe of Judah, made all that the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.21|<< Exodus 38:21]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.23|Exodus 38:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Bezalel  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1212G\|בְצַלְאֵ֛ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.tzal.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

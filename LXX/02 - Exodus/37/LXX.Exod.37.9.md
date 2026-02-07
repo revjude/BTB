@@ -1,10 +1,7 @@
 **LXX Exodus 37:9** 
 <small><sub>**LXX:**</sub></small>
 And the two cherubim were stretching out the wings above, overshadowing \[with\] their wings over the atonement-seat,   their faces to one another -- to the atonement-seat were the faces of the cherubim. 
-<small><sub>**KJV:**</sub></small>
-And the cherubims spread out [their] wings on high, [and] covered with their wings over the mercy seat, with their faces one to another; [even] to the mercy seatward were the faces of the cherubims.
-<small><sub>**BSB:**</sub></small>
-And the cherubim had wings that spread upward, overshadowing the mercy seat. The cherubim faced each other, looking toward the mercy seat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.8|<< Exodus 37:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.10|Exodus 37:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Samuel, Until when do you mourn for Saul, and I treat him with contempt  to not reign over Israel? Fill  your horn with oil, and come! I shall send you to Jesse, unto Beth-lehem. For I have seen \[one\] among  his sons to me for a king. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons.
-<small><sub>**BSB:**</sub></small>
-Now the LORD said to Samuel, “How long are you going to mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have selected from his sons a king for Myself.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.35|<< 1 Samuel 15:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.2|1 Samuel 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

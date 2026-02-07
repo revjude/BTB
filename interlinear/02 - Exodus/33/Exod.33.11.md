@@ -1,4 +1,4 @@
-**Exodus 33:11** 
+**Exodus 33:11**<big><big>[[Exod.33.7 The Tent of Meeting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the LORD would speak to Moses face to face, as a man speaks to his friend. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.10|<< Exodus 33:10]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.12|Exodus 33:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1696G\|דִבֶּ֨ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> di.Ber<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

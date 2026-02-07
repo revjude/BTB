@@ -1,10 +1,7 @@
 **LXX Leviticus 11:3** 
 <small><sub>**LXX:**</sub></small>
 Every animal being cloven hoof, and cloven-footed, clawing with two claws, and taken up chewing the cud among the animals, these you shall eat. 
-<small><sub>**KJV:**</sub></small>
-Whatsoever parteth the hoof, and is clovenfooted, [and] cheweth the cud, among the beasts, that shall ye eat.
-<small><sub>**BSB:**</sub></small>
-You may eat any animal that has a split hoof completely divided and that chews the cud.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.2|<< Leviticus 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.4|Leviticus 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

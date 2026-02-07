@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:13** 
 <small><sub>**LXX:**</sub></small>
 Behold, as a cloud he shall ascend, and his chariots as a blast. Lighter than eagles \[are\] his horses. Woe to us, for we are in misery. 
-<small><sub>**KJV:**</sub></small>
-Behold, he shall come up as clouds, and his chariots [shall be] as a whirlwind: his horses are swifter than eagles. Woe unto us! for we are spoiled.
-<small><sub>**BSB:**</sub></small>
-Behold, he advances like the clouds, his chariots like the whirlwind. His horses are swifter than eagles. Woe to us, for we are ruined!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.12|<< Jeremiah 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.14|Jeremiah 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

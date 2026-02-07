@@ -1,5 +1,5 @@
-**Matthew 22:44
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:44**<big><big>[[Matt.22.41 Whose Son Is the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?
 <small><sub>**BSB:**</sub></small>
 ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’
@@ -11,7 +11,7 @@ Said the Lord to the Lord of me; do sit on [the] right hand of Me until when I m
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

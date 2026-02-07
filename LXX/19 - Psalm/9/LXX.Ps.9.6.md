@@ -1,10 +1,7 @@
 **LXX Psalm 9:6** 
 <small><sub>**LXX:**</sub></small>
 The broadswords of the enemy failed unto \[the\] end; and you demolished cities; his memorial was destroyed with noise. 
-<small><sub>**KJV:**</sub></small>
-O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.
-<small><sub>**BSB:**</sub></small>
-The enemy has come to eternal ruin, and You have uprooted their cities; the very memory of them has vanished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.5|<< Psalm 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.7|Psalm 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 10:6** 
+**Jeremiah 10:6**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forasmuch as [there is] none like unto thee, O LORD; thou [art] great, and thy name [is] great in might.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ There is none like You, O LORD. You are great, and Your name is mighty in power.
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3-4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from there not  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like you  |**<big>&#8207;[[H3644G\|כָּמ֖וֹ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ka.Mo.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

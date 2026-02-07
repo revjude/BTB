@@ -1,4 +1,4 @@
-**Deuteronomy 28:56** 
+**Deuteronomy 28:56**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The most gentle and refined woman among you, so gentle and refined she would not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.55|<< Deuteronomy 28:55]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.57|Deuteronomy 28:57 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the gentle [woman]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7390\|רַכָּ֨ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Kah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among \<the> you  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H9031\|ךָ֜]]&#8207; </big>**| ve.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

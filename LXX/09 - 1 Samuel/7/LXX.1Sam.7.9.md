@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:9** 
 <small><sub>**LXX:**</sub></small>
 And Samuel took one suckling lamb, and he offered it a whole burnt-offering to the <span class="smallcaps">lord</span> with all the people. And Samuel yelled to \[the\] <span class="smallcaps">lord</span> over  Israel, and the <span class="smallcaps">lord</span> heeded him. 
-<small><sub>**KJV:**</sub></small>
-And Samuel took a sucking lamb, and offered [it for] a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him.
-<small><sub>**BSB:**</sub></small>
-Then Samuel took a suckling lamb and offered it as a whole burnt offering to the LORD. He cried out to the LORD on behalf of Israel, and the LORD answered him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.8|<< 1 Samuel 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.10|1 Samuel 7:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:9** is...

@@ -1,12 +1,12 @@
-**John 7:26
-**<small><sub>**KJV:**</sub></small>
+**John 7:26**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?
 <small><sub>**BSB:**</sub></small>
 Yet here He is, speaking publicly, and they are not saying anything to Him. Have the rulers truly recognized that this is the Christ?
 <small><sub>**Literal:**</sub></small>
 And behold publicly He speaks, and no [thing] to Him they say. otherwise Truly have recognized the rulers that this is truly the Christ?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.25|<< John 7:25]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.27|John 7:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2396\|ἴδε]]</big>**  |ide <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

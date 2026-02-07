@@ -1,4 +1,4 @@
-**Genesis 11:26** 
+**Genesis 11:26**<big><big>[[Gen.11.10 Genealogy from Shem to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Terah lived seventy years, and begat Abram, Nahor, and Haran.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Terah was 70 years old, he became the father of Abram, Nahor, and Haran.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.25|<< Genesis 11:25]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.27|Genesis 11:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2421\|יְחִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.chi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Terah  |**<big>&#8207;[[H8646G\|תֶ֖רַח]]&#8207; </big>**| Te.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

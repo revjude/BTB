@@ -1,10 +1,7 @@
 **LXX Proverbs 21:12** 
 <small><sub>**LXX:**</sub></small>
 A just man perceives \[the\] hearts of \[the\] impious; and \[the\] impious as worthless in \[their\] evils. 
-<small><sub>**KJV:**</sub></small>
-The righteous [man] wisely considereth the house of the wicked: [but God] overthroweth the wicked for [their] wickedness.
-<small><sub>**BSB:**</sub></small>
-The Righteous One considers the house of the wicked and brings the wicked to ruin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.11|<< Proverbs 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.13|Proverbs 21:13 >>]]</td></tr></table>
 
 | Translation | Greek |

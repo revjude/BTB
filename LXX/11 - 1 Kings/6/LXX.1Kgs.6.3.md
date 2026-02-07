@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:3** 
 <small><sub>**LXX:**</sub></small>
 And the columned porch in front of the temple -- twenty cubits \[was\] the length of it upon the width of the house. And ten in cubit  \[was\] its width according to \[the\] face of the house. 
-<small><sub>**KJV:**</sub></small>
-And the porch before the temple of the house, twenty cubits [was] the length thereof, according to the breadth of the house; [and] ten cubits [was] the breadth thereof before the house.
-<small><sub>**BSB:**</sub></small>
-The portico at the front of the main hall of the temple was twenty cubits long, extending across the width of the temple and projecting out ten cubits in front of the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.2|<< 1 Kings 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.4|1 Kings 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

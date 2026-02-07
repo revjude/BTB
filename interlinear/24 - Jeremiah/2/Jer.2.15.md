@@ -1,4 +1,4 @@
-**Jeremiah 2:15** 
+**Jeremiah 2:15**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The young lions roared upon him, [and] yelled, and they made his land waste: his cities are burned without inhabitant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The young lions have roared at him; they have sounded their voices. They have la
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.14|<< Jeremiah 2:14]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.16|Jeremiah 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on it  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have been roaring  |**<big>&#8207;[[H7580\|יִשְׁאֲג֣וּ]]&#8207; </big>**| yish.'a.Gu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 18:31** 
+**Ezekiel 18:31**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cast away from yourselves all the transgressions you have committed, and fashion
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.30|<< Ezekiel 18:30]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.32|Ezekiel 18:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | throw away  |**<big>&#8207;[[H7993\|הַשְׁלִ֣יכוּ]]&#8207; </big>**| hash.Li.khu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> you  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9036\|כֶ֗ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

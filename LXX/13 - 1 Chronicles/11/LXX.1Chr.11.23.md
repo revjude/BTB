@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:23** 
 <small><sub>**LXX:**</sub></small>
 And this one struck the Egyptian man, a man five cubits tall; and in the hand of the Egyptian was a spear as \[the\] beam of a loom of one weaving. And Benaiah went against him with a rod, and removed the spear from the hand of the Egyptian, and he killed him by  his spear. 
-<small><sub>**KJV:**</sub></small>
-And he slew an Egyptian, a man of [great] stature, five cubits high; and in the Egyptian’s hand [was] a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.
-<small><sub>**BSB:**</sub></small>
-He also struck down an Egyptian, a huge man five cubits tall. Although the Egyptian had a spear like a weaver’s beam in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.22|<< 1 Chronicles 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.24|1 Chronicles 11:24 >>]]</td></tr></table>
 
 | Translation | Greek |

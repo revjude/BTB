@@ -1,12 +1,12 @@
-**Luke 2:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:11**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For unto you is born this day in the city of David a Saviour, which is Christ the Lord.
 <small><sub>**BSB:**</sub></small>
 Today in the city of David a Savior has been born to you. He is Christ the Lord!
 <small><sub>**Literal:**</sub></small>
 For has been born to you today a Savior who is Christ [the] Lord in [the] City of David.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.10|<< Luke 2:10]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.12|Luke 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has been born |**<big>[[G5088\|ἐτέχθη]]</big>**  |etechthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

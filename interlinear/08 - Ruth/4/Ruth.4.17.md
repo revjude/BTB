@@ -1,4 +1,4 @@
-**Ruth 4:17** 
+**Ruth 4:17**<big><big>[[Ruth.4.13 Boaz Marries Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he [is] the father of Jesse, the father of David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The neighbor women said, “A son has been born to Naomi,” and they named him 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.16|<< Ruth 4:16]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.18|Ruth 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|תִּקְרֶאנָה֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.re.Nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> \<the> him  |**<big>&#8207;[[H9005\|ל֨]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

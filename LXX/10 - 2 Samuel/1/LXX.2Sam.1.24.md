@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:24** 
 <small><sub>**LXX:**</sub></small>
 Daughters of Israel, weep over Saul! the one dressing you with scarlet \[apparel\], with your ornament; the one bearing a golden ornament for  your clothes. 
-<small><sub>**KJV:**</sub></small>
-Ye daughters of Israel, weep over Saul, who clothed you in scarlet, with [other] delights, who put on ornaments of gold upon your apparel.
-<small><sub>**BSB:**</sub></small>
-O daughters of Israel, weep for Saul, who clothed you in scarlet and luxury, who decked your garments with ornaments of gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.23|<< 2 Samuel 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.25|2 Samuel 1:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 24:5** 
+**2 Chronicles 24:5**<big><big>[[2Chr.24.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he gathered together the priests and the Levites, and said to them, Go out unto the cities of Judah, and gather of all Israel money to repair the house of your God from year to year, and see that ye hasten the matter. Howbeit the Levites hastened [it] not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he gathered the priests and Levites and said, “Go out to the cities of Juda
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.4|<< 2 Chronicles 24:4]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.6|2 Chronicles 24:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקְבֹּץ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Botz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

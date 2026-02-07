@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:19** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Hebron -- Jeriah the ruler, Amariah the second, Jahaziel the third, Jekameam the fourth. 
-<small><sub>**KJV:**</sub></small>
-Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.
-<small><sub>**BSB:**</sub></small>
-The sons of Hebron: Jeriah was the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.18|<< 1 Chronicles 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.20|1 Chronicles 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

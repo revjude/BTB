@@ -1,4 +1,4 @@
-**Esther 9:24** 
+**Esther 9:24**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast Pur, that [is], the lot, to consume them, and to destroy them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Haman son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.23|<< Esther 9:23]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.25|Esther 9:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Haman  |**<big>&#8207;[[H2001\|הָמָ֨ן]]&#8207; </big>**| ha.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

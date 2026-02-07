@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:30** 
 <small><sub>**LXX:**</sub></small>
 then you shall listen from the heaven, from your prepared home, and you shall atone, and shall give to a man according to  his ways, as you should know  his heart; (for you most only know the heart of the sons of men.) 
-<small><sub>**KJV:**</sub></small>
-Then hear thou from heaven thy dwelling place, and forgive, and render unto every man according unto all his ways, whose heart thou knowest; (for thou only knowest the hearts of the children of men:)
-<small><sub>**BSB:**</sub></small>
-be heard by You from heaven, Your dwelling place. And may You forgive and repay each man according to all his ways, since You know his heart—for You alone know the hearts of men—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.29|<< 2 Chronicles 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.31|2 Chronicles 6:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 3:10** 
 <small><sub>**LXX:**</sub></small>
 And Aaron and  his sons you shall place over the tent of the testimony, and they shall guard  their priesthood. And the foreigner  touching shall die. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death.
-<small><sub>**BSB:**</sub></small>
-So you shall appoint Aaron and his sons to carry out the duties of the priesthood; but any outsider who approaches the tabernacle must be put to death.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.9|<< Numbers 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.11|Numbers 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Galatians 2:13
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:13**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.
 <small><sub>**BSB:**</sub></small>
 The other Jews joined him in his hypocrisy, so that by their hypocrisy even Barnabas was led astray.
 <small><sub>**Literal:**</sub></small>
 And acted hypocritically with him also the rest of [the] Jews so that even Barnabas was carried away of them by the hypocrisy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.12|<< Galatians 2:12]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.14|Galatians 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | acted hypocritically |**<big>[[G4942\|συνυπεκρίθησαν]]</big>**  |sunupekrithēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

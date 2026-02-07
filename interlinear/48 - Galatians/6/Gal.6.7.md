@@ -1,12 +1,12 @@
-**Galatians 6:7
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:7**<big><big>[[Gal.6.1 Carry One Another’s Burdens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.
 <small><sub>**BSB:**</sub></small>
 Do not be deceived: God is not to be mocked. Whatever a man sows, he will reap in return.
 <small><sub>**Literal:**</sub></small>
 Not do be misled, God not is mocked; Whatever for maybe shall sow a man, that also he will reap;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.6|<< Galatians 6:6]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.8|Galatians 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do be misled, |**<big>[[G4105\|πλανᾶσθε,]]</big>**  |planasthe <small><sup>[[V-PPM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 126:4** 
+**Psalms 126:4**<big><big>[[Ps.126.1 Zion’s Captives Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn again our captivity, O LORD, as the streams in the south.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Restore our captives, O LORD, like streams in the Negev.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.126.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.126.3|<< Psalms 126:3]]</td><td align="center" style="border:none;">[[Ps.126|Psalms 126]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126.5|Psalms 126:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn back !  |**<big>&#8207;[[H7725H\|שׁוּבָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| shu.Va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

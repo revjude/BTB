@@ -1,4 +1,4 @@
-**Joel 1:4** 
+**Joel 1:4**<big><big>[[Joel.1.1 The Invasion of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What the devouring locust has left, the swarming locust has eaten; what the swar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.3|<< Joel 1:3]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.5|Joel 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] remainder of  |**<big>&#8207;[[H3499A\|יֶ֤תֶר]]&#8207; </big>**| Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the locust[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1501\|גָּזָם֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ga.Zam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

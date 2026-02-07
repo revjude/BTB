@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:19** 
 <small><sub>**LXX:**</sub></small>
 And he said, Set up a stone monument, O Israel, for the ones having died upon  your heights -- being slain! How \[the\] mighty ones are fallen. 
-<small><sub>**KJV:**</sub></small>
-The beauty of Israel is slain upon thy high places: how are the mighty fallen!
-<small><sub>**BSB:**</sub></small>
-“Your glory, O Israel, lies slain on your heights. How the mighty have fallen!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.18|<< 2 Samuel 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.20|2 Samuel 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

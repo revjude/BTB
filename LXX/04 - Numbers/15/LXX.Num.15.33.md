@@ -1,10 +1,7 @@
 **LXX Numbers 15:33** 
 <small><sub>**LXX:**</sub></small>
 And the ones finding him collecting wood led him forward to Moses and Aaron, and to all \[the\] congregation of \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And they that found him gathering sticks brought him unto Moses and Aaron, and unto all the congregation.
-<small><sub>**BSB:**</sub></small>
-Those who found the man gathering wood brought him to Moses, Aaron, and the whole congregation,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.32|<< Numbers 15:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.34|Numbers 15:34 >>]]</td></tr></table>
 
 | Translation | Greek |

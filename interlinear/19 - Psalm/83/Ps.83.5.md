@@ -1,4 +1,4 @@
-**Psalms 83:5** (83:6)
+**Psalms 83:5**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they have consulted together with one consent: they are confederate against thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For with one mind they plot together; they form an alliance against You—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.4|<< Psalms 83:4]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.6|Psalms 83:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have consulted  |**<big>&#8207;[[H3289\|נוֹעֲצ֣וּ]]&#8207; </big>**| no.'a.Tzu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

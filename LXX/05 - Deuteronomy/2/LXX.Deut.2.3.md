@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:3** 
 <small><sub>**LXX:**</sub></small>
 Your encircling this mountain is enough; turn then towards \[the\] north! 
-<small><sub>**KJV:**</sub></small>
-Ye have compassed this mountain long enough: turn you northward.
-<small><sub>**BSB:**</sub></small>
-“You have been wandering around this hill country long enough; turn to the north<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.2|<< Deuteronomy 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.4|Deuteronomy 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

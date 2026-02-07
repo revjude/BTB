@@ -1,10 +1,7 @@
 **LXX Exodus 25:27** 
 <small><sub>**LXX:**</sub></small>
 And the rings shall be for holders for the bearing poles, so as to lift the table. 
-<small><sub>**KJV:**</sub></small>
-Over against the border shall the rings be for places of the staves to bear the table.
-<small><sub>**BSB:**</sub></small>
-The rings are to be close to the rim, to serve as holders for the poles used to carry the table.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.26|<< Exodus 25:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.28|Exodus 25:28 >>]]</td></tr></table>
 
 | Translation | Greek |

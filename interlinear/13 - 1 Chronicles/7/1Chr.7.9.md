@@ -1,4 +1,4 @@
-**1 Chronicles 7:9** 
+**1 Chronicles 7:9**<big><big>[[1Chr.7.6 The Descendants of Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the number of them, after their genealogy by their generations, heads of the house of their fathers, mighty men of valour, [was] twenty thousand and two hundred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their genealogies were recorded according to the heads of their families—20,20
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.8|<< 1 Chronicles 7:8]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.10|1 Chronicles 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and recording genealogy they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3187\|הִתְיַחְשָׂ֣]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hit.yach.Sa<small><sup>[[HVtcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to generations their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8435\|תֹלְדוֹתָ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> to.le.do.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

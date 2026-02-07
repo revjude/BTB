@@ -1,4 +1,4 @@
-**1 Kings 3:3** 
+**1 Kings 3:3**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon loved the LORD, walking in the statutes of David his father: only he sacrificed and burnt incense in high places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Solomon loved the LORD and walked in the statutes of his father David, excep
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.2|<< 1 Kings 3:2]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.4|1 Kings 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he loved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0157G\|יֶּאֱהַ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'e.Hav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹה֙]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

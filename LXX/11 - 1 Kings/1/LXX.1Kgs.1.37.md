@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:37** 
 <small><sub>**LXX:**</sub></small>
 As \[the\] <span class="smallcaps">lord</span> was with  my master the king, so may it be with Solomon, and to magnify  his throne above the throne  of my master  king David. 
-<small><sub>**KJV:**</sub></small>
-As the LORD hath been with my lord the king, even so be he with Solomon, and make his throne greater than the throne of my lord king David.
-<small><sub>**BSB:**</sub></small>
-Just as the LORD was with my lord the king, so may He be with Solomon and make his throne even greater than that of my lord King David.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.36|<< 1 Kings 1:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.38|1 Kings 1:38 >>]]</td></tr></table>
 
 | Translation | Greek |

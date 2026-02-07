@@ -1,12 +1,12 @@
-**Mark 2:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:8**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?
 <small><sub>**BSB:**</sub></small>
 At once Jesus knew in His spirit that they were thinking this way within themselves. “Why are you thinking these things in your hearts?” He asked.
 <small><sub>**Literal:**</sub></small>
 And immediately having known <the> Jesus in the spirit of Him that thus they themselves are reasoning within themselves He speaks to them; Why these things reason you in the hearts of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.7|<< Mark 2:7]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.9|Mark 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

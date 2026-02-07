@@ -1,12 +1,12 @@
-**Acts 13:48
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:48**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
 <small><sub>**BSB:**</sub></small>
 When the Gentiles heard this, they rejoiced and glorified the word of the Lord, and all who were appointed for eternal life believed.
 <small><sub>**Literal:**</sub></small>
 Hearing [it] then the Gentiles were rejoicing and they were glorifying the word of the Lord and they believed as many as were appointed to life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.47|<< Acts 13:47]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.49|Acts 13:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hearing [it] |**<big>[[G0191\|Ἀκούοντα]]</big>**  |Akouonta <small><sup>[[V-PAP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

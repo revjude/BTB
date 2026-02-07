@@ -1,4 +1,4 @@
-**Ezekiel 23:41** 
+**Ezekiel 23:41**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And satest upon a stately bed, and a table prepared before it, whereupon thou hast set mine incense and mine oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You sat on a couch of luxury with a table spread before it, on which you had set
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.40|<< Ezekiel 23:40]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.42|Ezekiel 23:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you sat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3427\|יָשַׁבְתְּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.shavT<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

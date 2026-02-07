@@ -1,5 +1,5 @@
-**Luke 1:73
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:73**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The oath which he sware to our father Abraham,
 <small><sub>**BSB:**</sub></small>
 the oath He swore to our father Abraham, to grant us
@@ -10,7 +10,7 @@ the oath He swore to our father Abraham, to grant us
 > $\quad$ alluding to: [[LXX.Gen.12.3|Gen 12:3]] ☩ [[LXX.Gen.22.16|Gen 22:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] oath |**<big>[[G3727\|ὅρκον]]</big>**  |horkon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

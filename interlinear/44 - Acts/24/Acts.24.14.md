@@ -1,12 +1,12 @@
-**Acts 24:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:14**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But this I confess unto thee, that after the way which they call heresy, so worship I the God of my fathers, believing all things which are written in the law and in the prophets:
 <small><sub>**BSB:**</sub></small>
 I do confess to you, however, that I worship the God of our fathers according to the Way, which they call a sect. I believe everything that is laid down by the Law and written in the Prophets,
 <small><sub>**Literal:**</sub></small>
 I confess however this to you that according to the Way which they name a sect so I serve the ancestral God believing in all [things] <the> throughout the law and that in the Prophets written,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.13|<< Acts 24:13]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.15|Acts 24:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I confess |**<big>[[G3670\|ὁμολογῶ]]</big>**  |homologō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

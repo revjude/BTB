@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:13** 
 <small><sub>**LXX:**</sub></small>
 And he announced to you  his covenant, which he gave charge to you to observe -- the ten discourses; and he wrote them upon two tablets of stone. 
-<small><sub>**KJV:**</sub></small>
-And he declared unto you his covenant, which he commanded you to perform, [even] ten commandments; and he wrote them upon two tables of stone.
-<small><sub>**BSB:**</sub></small>
-He declared to you His covenant, which He commanded you to follow—the Ten Commandments that He wrote on two tablets of stone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.12|<< Deuteronomy 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.14|Deuteronomy 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

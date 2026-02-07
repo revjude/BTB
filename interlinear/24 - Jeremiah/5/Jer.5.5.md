@@ -1,4 +1,4 @@
-**Jeremiah 5:5** 
+**Jeremiah 5:5**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will get me unto the great men, and will speak unto them; for they have known the way of the LORD, [and] the judgment of their God: but these have altogether broken the yoke, [and] burst the bonds.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will go to the powerful and speak to them. Surely they know the way of the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.4|<< Jeremiah 5:4]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.6|Jeremiah 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will go  |**<big>&#8207;[[H1980G\|אֵֽלֲכָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.la.khah-<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> myself  |**<big>&#8207;[[H9005\|לִּ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 30:11** 
 <small><sub>**LXX:**</sub></small>
 and her husband should hear, and remain silent concerning her, and should not shake his head in dissent concerning her, then shall stand all  her vows; and all  her sets of limits which she confirmed on  her life shall stand concerning her. 
-<small><sub>**KJV:**</sub></small>
-And her husband heard [it], and held his peace at her, [and] disallowed her not: then all her vows shall stand, and every bond wherewith she bound her soul shall stand.
-<small><sub>**BSB:**</sub></small>
-and her husband hears of it but says nothing to her and does not prohibit her, then all the vows or pledges by which she has bound herself shall stand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.10|<< Numbers 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.12|Numbers 30:12 >>]]</td></tr></table>
 
 | Translation | Greek |

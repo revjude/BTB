@@ -1,4 +1,4 @@
-**Deuteronomy 15:14** 
+**Deuteronomy 15:14**<big><big>[[Deut.15.12 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: [of that] wherewith the LORD thy God hath blessed thee thou shalt give unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to furnish him liberally from your flock, your threshing floor, and your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.13|<< Deuteronomy 15:13]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.15|Deuteronomy 15:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to provide>  |**<big>&#8207;[[H6059\|הַעֲנֵ֤יק]]&#8207; </big>**| ha.'a.Neik<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will provide  |**<big>&#8207;[[H6059\|תַּעֲנִיק֙]]&#8207; </big>**| ta.'a.Nik<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

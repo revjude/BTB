@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joshua rose early in the morning. And they departed from Shittin, and they came unto the Jordan, he and all the sons of Israel. And they rested up there before  passing over. 
-<small><sub>**KJV:**</sub></small>
-And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.
-<small><sub>**BSB:**</sub></small>
-Early the next morning Joshua got up and left Shittim with all the Israelites. They went as far as the Jordan, where they camped before crossing over.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.24|<< Joshua 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.2|Joshua 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 4:12** 
 <small><sub>**LXX:**</sub></small>
 And a cake baked in hot ashes of barley -- you shall eat them \[baked\] in dung, you shall hide them \[in the coals\] \[of the\] dung of a human before their eyes. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt eat it [as] barley cakes, and thou shalt bake it with dung that cometh out of man, in their sight.
-<small><sub>**BSB:**</sub></small>
-And you shall eat the food as you would a barley cake, after you bake it over dried human excrement in the sight of the people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.11|<< Ezekiel 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.13|Ezekiel 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

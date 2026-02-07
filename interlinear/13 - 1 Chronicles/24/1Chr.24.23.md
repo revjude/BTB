@@ -1,4 +1,4 @@
-**1 Chronicles 24:23** 
+**1 Chronicles 24:23**<big><big>[[1Chr.24.20 The Rest of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons [of Hebron]; Jeriah [the first], Amariah the second, Jahaziel the third, Jekameam the fourth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the sons of Hebron: Jeriah was the first, Amariah the second, Jahaziel the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.22|<< 1 Chronicles 24:22]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.24|1 Chronicles 24:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנָ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nai<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeriah  |**<big>&#8207;[[H3404G\|יְרִיָּ֑הוּ]]&#8207; </big>**| ye.ri.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

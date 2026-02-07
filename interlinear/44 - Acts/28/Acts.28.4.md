@@ -1,12 +1,12 @@
-**Acts 28:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:4**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the barbarians saw the [venomous] beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.
 <small><sub>**BSB:**</sub></small>
 When the islanders saw the creature hanging from his hand, they said to one another, “Surely this man is a murderer. Although he was saved from the sea, Justice has not allowed him to live.”
 <small><sub>**Literal:**</sub></small>
 When then saw the natives hanging the beast from the hand of him, to one another they were saying: By all means a murderer is <the> man this, whom having been saved from the sea <the> Justice to live not has permitted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.3|<< Acts 28:3]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.5|Acts 28:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

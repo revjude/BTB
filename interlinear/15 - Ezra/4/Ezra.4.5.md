@@ -1,4 +1,4 @@
-**Ezra 4:5** 
+**Ezra 4:5**<big><big>[[Ezra.4.1 Adversaries Hinder the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hired counsellers against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They hired counselors against them to frustrate their plans throughout the reign
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.4|<< Ezra 4:4]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.6|Ezra 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] hiring  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7936A\|סֹכְרִ֧ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> so.khe.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

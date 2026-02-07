@@ -1,12 +1,12 @@
-**2 Corinthians 4:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:1**<big><big>[[2Cor.4.1 The Light of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore seeing we have this ministry, as we have received mercy, we faint not;
 <small><sub>**BSB:**</sub></small>
 Therefore, since God in His mercy has given us this ministry, we do not lose heart.
 <small><sub>**Literal:**</sub></small>
 Because of this having <the> ministry this even as we received mercy, not we lose heart,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.18|<< 2 Corinthians 3:18]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.2|2 Corinthians 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|Διὰ]]</big>**  |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

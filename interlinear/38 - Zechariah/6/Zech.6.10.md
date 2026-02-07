@@ -1,4 +1,4 @@
-**Zechariah 6:10** 
+**Zechariah 6:10**<big><big>[[Zech.6.9 The Crown and the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take of [them of] the captivity, [even] of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come thou the same day, and go into the house of Josiah the son of Zephaniah;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take of [them of] the captivity, [even] of Heldai, of Tobijah, and of Jedaiah, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.9|<< Zechariah 6:9]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.11|Zechariah 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take  |**<big>&#8207;[[H3947G\|לָק֙וֹחַ֙]]&#8207; </big>**| la.Ko.ach<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֣ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 7:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:22**<big><big>[[Matt.7.15 A Tree and Its Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
 <small><sub>**BSB:**</sub></small>
 Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name drive out demons and perform many miracles?’
 <small><sub>**Literal:**</sub></small>
 Many will say to Me in that [very] <the> day; Lord Lord, surely <the> in Your name we did prophesy and <the> in Your name demons cast out and <the> in your name miracles many perform?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.21|<< Matthew 7:21]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.23|Matthew 7:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will say |**<big>[[G4483\|ἐροῦσίν]]</big>**  |erousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 3:13** 
 <small><sub>**LXX:**</sub></small>
 And the wings  of these cherubim being open and spread out \[was\] twenty cubits. And these stood upon  their feet, and  their faces \[were\] towards the house. 
-<small><sub>**KJV:**</sub></small>
-The wings of these cherubims spread themselves forth twenty cubits: and they stood on their feet, and their faces [were] inward.
-<small><sub>**BSB:**</sub></small>
-So the total wingspan of these cherubim was twenty cubits. They stood on their feet, facing the main room.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.12|<< 2 Chronicles 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.14|2 Chronicles 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

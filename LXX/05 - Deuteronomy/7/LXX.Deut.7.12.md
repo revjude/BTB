@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:12** 
 <small><sub>**LXX:**</sub></small>
 And it will be when ever you should hear  these ordinances, and should have guarded and should have done them, that \[the\] <span class="smallcaps">lord</span> your God will protect the covenant with you, and the mercy which he swore by an oath \[to\] your fathers. 
-<small><sub>**KJV:**</sub></small>
-Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:
-<small><sub>**BSB:**</sub></small>
-If you listen to these ordinances and keep them carefully, then the LORD your God will keep His covenant and the loving devotion that He swore to your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.11|<< Deuteronomy 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.13|Deuteronomy 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

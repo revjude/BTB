@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:17** 
 <small><sub>**LXX:**</sub></small>
 But the first-born son of the one being detested he shall recognize to give to him double from all which ever should be found by him, for this one is his beginning child, and to this one the rights of the first-born is fitting. 
-<small><sub>**KJV:**</sub></small>
-But he shall acknowledge the son of the hated [for] the firstborn, by giving him a double portion of all that he hath: for he [is] the beginning of his strength; the right of the firstborn [is] his.
-<small><sub>**BSB:**</sub></small>
-Instead, he must acknowledge the firstborn, the son of his unloved wife, by giving him a double portion of all that he has. For that son is the firstfruits of his father’s strength; the right of the firstborn belongs to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.16|<< Deuteronomy 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.18|Deuteronomy 21:18 >>]]</td></tr></table>
 
 | Translation | Greek |

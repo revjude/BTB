@@ -1,10 +1,7 @@
 **LXX Hosea 14:8** 
 <small><sub>**LXX:**</sub></small>
 \[To\] Ephraim, what \[is there\] to him yet and to idols? I humbled him, and I shall strengthen him. I am as a juniper being dense. From me  your fruit has been found. 
-<small><sub>**KJV:**</sub></small>
-Ephraim [shall say], What have I to do any more with idols? I have heard [him], and observed him: I [am] like a green fir tree. From me is thy fruit found.
-<small><sub>**BSB:**</sub></small>
-O Ephraim, what have I to do anymore with idols? It is I who answer and watch over him. I am like a flourishing cypress; your fruit comes from Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.14.7|<< Hosea 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.14.9|Hosea 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

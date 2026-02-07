@@ -1,10 +1,7 @@
 **LXX Exodus 10:16** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh hastened to call Moses and Aaron, saying, I have sinned before \[the\] <span class="smallcaps">lord</span>  your God, and against you. 
-<small><sub>**KJV:**</sub></small>
-Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the LORD your God, and against you.
-<small><sub>**BSB:**</sub></small>
-Pharaoh quickly summoned Moses and Aaron and said, “I have sinned against the LORD your God and against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.15|<< Exodus 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.17|Exodus 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

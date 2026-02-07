@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:5** 
 <small><sub>**LXX:**</sub></small>
 And they did not hearken to me, and they did not lean  their ear to turn from  their evils to  not burn incense to other gods. 
-<small><sub>**KJV:**</sub></small>
-But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods.
-<small><sub>**BSB:**</sub></small>
-But they did not listen or incline their ears; they did not turn from their wickedness or stop burning incense to other gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.4|<< Jeremiah 44:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.6|Jeremiah 44:6 >>]]</td></tr></table>
 
 | Translation | Greek |

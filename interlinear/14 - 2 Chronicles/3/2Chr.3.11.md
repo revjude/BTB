@@ -1,4 +1,4 @@
-**2 Chronicles 3:11** 
+**2 Chronicles 3:11**<big><big>[[2Chr.3.10 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the wings of the cherubims [were] twenty cubits long: one wing [of the one cherub was] five cubits, reaching to the wall of the house: and the other wing [was likewise] five cubits, reaching to the wing of the other cherub.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The total wingspan of the cherubim was twenty cubits. One wing of the first cher
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.10|<< 2 Chronicles 3:10]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.12|2 Chronicles 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] wings of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3671\|כַנְפֵי֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khan.Fei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cherubim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּרוּבִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Hebrews 4:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:10**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he that is entered into his rest, he also hath ceased from his own works, as God [did] from his.
 <small><sub>**BSB:**</sub></small>
 For whoever enters God’s rest also rests from his own work, just as God did from His.
@@ -10,7 +10,7 @@ The [one] for having entered into the rest of Him also he himself rested from th
 > $\quad$ alluding to: [[LXX.Gen.2.2|Gen 2:2]] ☩ [[LXX.Ps.95.11|Ps 95:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

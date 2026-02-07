@@ -1,4 +1,4 @@
-**Ezekiel 32:30** 
+**Ezekiel 32:30**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There [be] the princes of the north, all of them, and all the Zidonians, which are gone down with the slain; with their terror they are ashamed of their might; and they lie uncircumcised with [them that be] slain by the sword, and bear their shame with them that go down to the pit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the leaders of the north and all the Sidonians are there; they went down in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.29|<< Ezekiel 32:29]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.31|Ezekiel 32:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] there \<towards>  |**<big>&#8207;[[H8033G\|שָׁ֣מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | princes of  |**<big>&#8207;[[H5257B\|נְסִיכֵ֥י]]&#8207; </big>**| ne.si.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

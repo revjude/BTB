@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:3** 
 <small><sub>**LXX:**</sub></small>
 Behold, Assyria \[was\] a cypress in  Lebanon, and goodly in shoots, and dense in the protection, and high  in size; and his top came into \[the\] midst of \[the\] clouds. 
-<small><sub>**KJV:**</sub></small>
-Behold, the Assyrian [was] a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs.
-<small><sub>**BSB:**</sub></small>
-Look at Assyria, a cedar in Lebanon, with beautiful branches that shaded the forest. It towered on high; its top was among the clouds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.2|<< Ezekiel 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.4|Ezekiel 31:4 >>]]</td></tr></table>
 
 | Translation | Greek |

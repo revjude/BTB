@@ -1,10 +1,7 @@
 **LXX Judges 6:9** 
 <small><sub>**LXX:**</sub></small>
 and I rescued you from \[the\] hand of Egypt, and from \[the\] hand of all the ones afflicting you; and I cast them from your face, and I gave to you  their land. 
-<small><sub>**KJV:**</sub></small>
-And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land;
-<small><sub>**BSB:**</sub></small>
-I delivered you out of the hands of Egypt and all your oppressors. I drove them out before you and gave you their land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.8|<< Judges 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.10|Judges 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

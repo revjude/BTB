@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:14** 
 <small><sub>**LXX:**</sub></small>
 And was the weight of the gold that came  to Solomon in one year -- six hundred sixty and six talents of gold, 
-<small><sub>**KJV:**</sub></small>
-Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,
-<small><sub>**BSB:**</sub></small>
-The weight of gold that came to Solomon each year was 666 talents,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.13|<< 1 Kings 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.15|1 Kings 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

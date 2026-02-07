@@ -1,12 +1,12 @@
-**Mark 9:49
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:49**<big><big>[[Mark.9.49 Good Salt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For every one shall be salted with fire, and every sacrifice shall be salted with salt.
 <small><sub>**BSB:**</sub></small>
 For everyone will be salted with fire.
 <small><sub>**Literal:**</sub></small>
 Everyone for with fire will be salted and all sacrifice with salt will be salted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.48|<< Mark 9:48]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.50|Mark 9:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 52:2** (52:4)
+**Psalms 52:2**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy tongue deviseth mischiefs; like a sharp rasor, working deceitfully.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your tongue devises destruction like a sharpened razor, O worker of deceit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.1|<< Psalms 52:1]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.3|Psalms 52:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | destruction\<s>  |**<big>&#8207;[[H1942\|הַ֭וּוֹת]]&#8207; </big>**| Ha.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it plots  |**<big>&#8207;[[H2803I\|תַּחְשֹׁ֣ב]]&#8207; </big>**| tach.Sho<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 29:3** 
+**Isaiah 29:3**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will camp in a circle around you; I will besiege you with towers and set up si
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.2|<< Isaiah 29:2]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.4|Isaiah 29:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will encamp  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2583\|חָנִ֥יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Ni.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> circle  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H1754A\|דּ֖וּר]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> Dur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

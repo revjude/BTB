@@ -1,10 +1,7 @@
 **LXX Psalm 66:16** 
 <small><sub>**LXX:**</sub></small>
 Come listen! and I will describe to you (all ones fearing  God) as many \[things\] as he did \[for\] my soul. 
-<small><sub>**KJV:**</sub></small>
-Come [and] hear, all ye that fear God, and I will declare what he hath done for my soul.
-<small><sub>**BSB:**</sub></small>
-Come and listen, all you who fear God, and I will declare what He has done for me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.15|<< Psalm 66:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.17|Psalm 66:17 >>]]</td></tr></table>
 
 | Translation | Greek |

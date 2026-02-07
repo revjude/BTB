@@ -1,10 +1,7 @@
 **LXX Genesis 31:8** 
 <small><sub>**LXX:**</sub></small>
 If thus he should have said, The colored will be your wage, then all the flocks would bear colored. And if he should have said, The white will be your wage, then all the flocks would bear white. 
-<small><sub>**KJV:**</sub></small>
-If he said thus, The speckled shall be thy wages; then all the cattle bare speckled: and if he said thus, The ringstraked shall be thy hire; then bare all the cattle ringstraked.
-<small><sub>**BSB:**</sub></small>
-If he said, ‘The speckled will be your wages,’ then the whole flock bore speckled offspring. If he said, ‘The streaked will be your wages,’ then the whole flock bore streaked offspring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.7|<< Genesis 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.9|Genesis 31:9 >>]]</td></tr></table>
 
 | Translation | Greek |

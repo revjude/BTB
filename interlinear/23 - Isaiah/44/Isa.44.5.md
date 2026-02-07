@@ -1,4 +1,4 @@
-**Isaiah 44:5** 
+**Isaiah 44:5**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One shall say, I [am] the LORD’S; and another shall call [himself] by the name of Jacob; and another shall subscribe [with] his hand unto the LORD, and surname [himself] by the name of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One will say, ‘I belong to the LORD,’ another will call himself by the name 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.4|<< Isaiah 44:4]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.6|Isaiah 44:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this one  |**<big>&#8207;[[H2088\|זֶ֤ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will say  |**<big>&#8207;[[H0559\|יֹאמַר֙]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

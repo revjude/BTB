@@ -1,12 +1,12 @@
-**Mark 14:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:13**<big><big>[[Mark.14.12 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he sendeth forth two of his disciples, and saith unto them, Go ye into the city, and there shall meet you a man bearing a pitcher of water: follow him.
 <small><sub>**BSB:**</sub></small>
 So He sent two of His disciples and told them, “Go into the city, and a man carrying a jug of water will meet you. Follow him,
 <small><sub>**Literal:**</sub></small>
 And He sends forth two of the disciples of Him and says to them; do go into the city, and will meet you a man a pitcher of water carrying; do follow him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.12|<< Mark 14:12]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.14|Mark 14:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He sends forth |**<big>[[G0649\|ἀποστέλλει]]</big>**  |apostellei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

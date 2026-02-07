@@ -1,4 +1,4 @@
-**Proverbs 7:18** 
+**Proverbs 7:18**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, let us take our fill of love until the morning: let us solace ourselves with loves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, let us take our fill of love till morning. Let us delight in loving caress
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.17|<< Proverbs 7:17]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.19|Proverbs 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come !  |**<big>&#8207;[[H1980K\|לְכָ֤]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| le.Kha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us take our fill of  |**<big>&#8207;[[H7301\|נִרְוֶ֣ה]]&#8207; </big>**| nir.Veh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 27:3** 
+**2 Chronicles 27:3**<big><big>[[2Chr.27.1 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He built the high gate of the house of the LORD, and on the wall of Ophel he built much.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jotham rebuilt the Upper Gate of the house of the LORD, and he worked extensivel
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27.2|<< 2 Chronicles 27:2]]</td><td align="center" style="border:none;">[[2Chr.27|2 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.4|2 Chronicles 27:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he built  |**<big>&#8207;[[H1129\|בָּנָ֛ה]]&#8207; </big>**| ba.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

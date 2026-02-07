@@ -1,4 +1,4 @@
-**Exodus 37:27** 
+**Exodus 37:27**<big><big>[[Exod.37.25 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made two rings of gold for it under the crown thereof, by the two corners of it, upon the two sides thereof, to be places for the staves to bear it withal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made two gold rings below the molding on opposite sides to hold the poles use
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.26|<< Exodus 37:26]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.28|Exodus 37:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁתֵּי֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rings of  |**<big>&#8207;[[H2885\|טַבְּעֹ֨ת]]&#8207; </big>**| ta.be.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

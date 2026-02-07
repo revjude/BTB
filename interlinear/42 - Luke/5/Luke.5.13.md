@@ -1,12 +1,12 @@
-**Luke 5:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:13**<big><big>[[Luke.5.12 The Leper’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he put forth [his] hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him.
 <small><sub>**BSB:**</sub></small>
 Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately the leprosy left him.
 <small><sub>**Literal:**</sub></small>
 And having stretched out the hand He touched him saying; I am willing, do be cleansed. And immediately the leprosy departed from him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.12|<< Luke 5:12]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.14|Luke 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having stretched out |**<big>[[G1614\|ἐκτείνας]]</big>**  |ekteinas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

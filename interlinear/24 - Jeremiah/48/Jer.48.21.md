@@ -1,4 +1,4 @@
-**Jeremiah 48:21** 
+**Jeremiah 48:21**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And judgment is come upon the plain country; upon Holon, and upon Jahazah, and upon Mephaath,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Judgment has come upon the high plain—upon Holon, Jahzah, and Mephaath,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.20|<< Jeremiah 48:20]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.22|Jeremiah 48:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and judgment  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4941G\|מִשְׁפָּ֥ט]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will come  |**<big>&#8207;[[H0935G\|בָּ֖א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

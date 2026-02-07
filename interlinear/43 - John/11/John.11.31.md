@@ -1,12 +1,12 @@
-**John 11:31
-**<small><sub>**KJV:**</sub></small>
+**John 11:31**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Jews then which were with her in the house, and comforted her, when they saw Mary, that she rose up hastily and went out, followed her, saying, She goeth unto the grave to weep there.
 <small><sub>**BSB:**</sub></small>
 When the Jews who were in the house consoling Mary saw how quickly she got up and went out, they followed her, supposing she was going to the tomb to mourn there.
 <small><sub>**Literal:**</sub></small>
 The then Jews who are being with her in the house and consoling her, having seen <the> Mary that soon she rose up and went out, followed after her, having supposed that she is going to the tomb that she may weep there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.30|<< John 11:30]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.32|John 11:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

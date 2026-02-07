@@ -1,4 +1,4 @@
-**Isaiah 38:9** 
+**Isaiah 38:9**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is a writing by Hezekiah king of Judah after his illness and recovery:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.8|<< Isaiah 38:8]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.10|Isaiah 38:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a writing  |**<big>&#8207;[[H4385\|מִכְתָּ֖ב]]&#8207; </big>**| mikh.Tav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Hezekiah  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2396G\|חִזְקִיָּ֣הוּ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

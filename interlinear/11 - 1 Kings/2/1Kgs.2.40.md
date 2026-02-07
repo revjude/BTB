@@ -1,4 +1,4 @@
-**1 Kings 2:40** 
+**1 Kings 2:40**<big><big>[[1Kgs.2.36 The Execution of Shimei|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shimei arose, and saddled his ass, and went to Gath to Achish to seek his servants: and Shimei went, and brought his servants from Gath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Shimei saddled his donkey and set out to Achish at Gath in search of his slav
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.39|<< 1 Kings 2:39]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.41|1 Kings 2:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֣קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shimei  |**<big>&#8207;[[H8096H\|שִׁמְעִ֗י]]&#8207; </big>**| shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

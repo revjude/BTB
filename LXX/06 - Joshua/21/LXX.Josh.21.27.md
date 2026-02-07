@@ -1,10 +1,7 @@
 **LXX Joshua 21:27** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Gershon, the relatives to the Levites, the cities \[were\] from the half tribe of Manasseh, the \[parts\] being separated for the ones manslaying --  Golan in the Bashan \[area\] and the \[parts\] being separated  with it, and  Beeshterah and the \[parts\] being separated  with it -- two cities. 
-<small><sub>**KJV:**</sub></small>
-And unto the children of Gershon, of the families of the Levites, out of the [other] half tribe of Manasseh [they gave] Golan in Bashan with her suburbs, [to be] a city of refuge for the slayer; and Beeshterah with her suburbs; two cities.
-<small><sub>**BSB:**</sub></small>
-This is what the Levite clans of the Gershonites were given: From the half-tribe of Manasseh they were given Golan in Bashan, a city of refuge for the manslayer, and Beeshterah—two cities, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.26|<< Joshua 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.28|Joshua 21:28 >>]]</td></tr></table>
 
 | Translation | Greek |

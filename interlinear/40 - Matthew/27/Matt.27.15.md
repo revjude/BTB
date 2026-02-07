@@ -1,12 +1,12 @@
-**Matthew 27:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:15**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now at [that] feast the governor was wont to release unto the people a prisoner, whom they would.
 <small><sub>**BSB:**</sub></small>
 Now it was the governor’s custom at the feast to release to the crowd a prisoner of their choosing.
 <small><sub>**Literal:**</sub></small>
 At now [the] feast had been accustomed the governor to release one to the multitude prisoner whom they were wishing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.14|<< Matthew 27:14]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.16|Matthew 27:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At |**<big>[[G2596\|Κατὰ]]</big>**  |Kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

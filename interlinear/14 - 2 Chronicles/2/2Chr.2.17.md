@@ -1,4 +1,4 @@
-**2 Chronicles 2:17** (2:16)
+**2 Chronicles 2:17**<big><big>[[2Chr.2.11 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon numbered all the strangers that [were] in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found an hundred and fifty thousand and three thousand and six hundred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon numbered all the foreign men in the land of Israel following the census 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.16|<< 2 Chronicles 2:16]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.18|2 Chronicles 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he counted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5608A\|יִּסְפֹּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Por<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֗ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

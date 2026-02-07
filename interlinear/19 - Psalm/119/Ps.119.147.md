@@ -1,4 +1,4 @@
-**Psalms 119:147** 
+**Psalms 119:147**<big><big>[[Ps.119.145 Your Word Is a Lamp to My Feet - KOPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I prevented the dawning of the morning, and cried: I hoped in thy word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I rise before dawn and cry for help; in Your word I have put my hope.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.147|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.146|<< Psalms 119:146]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.148|Psalms 119:148 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I am early  |**<big>&#8207;[[H6923\|קִדַּ֣מְתִּי]]&#8207; </big>**| ki.Dam.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the twilight  |**<big>&#8207;[[H9003\|בַ֭]]&#8207;&#8207;[[H5399\|נֶּשֶׁף]]&#8207; </big>**| Va.<small><sup>[[HRd]]</sup></small> ne.shef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

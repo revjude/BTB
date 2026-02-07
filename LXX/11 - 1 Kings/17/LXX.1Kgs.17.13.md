@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:13** 
 <small><sub>**LXX:**</sub></small>
 And Elijah said to her, Be of courage! enter and do according to  your word! But make for me from there a small cake baked in hot ashes at first, and bring it forth to me! and to yourself you shall make and to your children at last. 
-<small><sub>**KJV:**</sub></small>
-And Elijah said unto her, Fear not; go [and] do as thou hast said: but make me thereof a little cake first, and bring [it] unto me, and after make for thee and for thy son.
-<small><sub>**BSB:**</sub></small>
-“Do not be afraid,” Elijah said to her. “Go and do as you have said. But first make me a small cake of bread from what you have, and bring it out to me. Afterward, make some for yourself and your son,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.12|<< 1 Kings 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.14|1 Kings 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 4:2** 
 <small><sub>**LXX:**</sub></small>
 And they approached to Zerubbabel, and to the rulers of the families, and said to them, We should build with you, for as you, we \[also\] inquire \[to\] your God; and to him we sacrifice from \[the\] days of Esar-haddon king of Assyria, the one bringing us here. 
-<small><sub>**KJV:**</sub></small>
-Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye [do]; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither.
-<small><sub>**BSB:**</sub></small>
-they approached Zerubbabel and the heads of the families, saying, “Let us build with you because, like you, we seek your God and have been sacrificing to Him since the time of King Esar-haddon of Assyria, who brought us here.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.1|<< Ezra 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.3|Ezra 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:45** 
 <small><sub>**LXX:**</sub></small>
 And it happened from here and here, and the heaven darkened with clouds and wind, and there became a great rain. And Ahab rode horseback, and went unto Jezreel. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the mean while, that the heaven was black with clouds and wind, and there was a great rain. And Ahab rode, and went to Jezreel.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, the sky grew dark with clouds and wind, and a heavy rain began to fall. So Ahab rode away and went to Jezreel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.44|<< 1 Kings 18:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.46|1 Kings 18:46 >>]]</td></tr></table>
 
 | Translation | Greek |

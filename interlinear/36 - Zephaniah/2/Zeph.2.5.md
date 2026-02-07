@@ -1,4 +1,4 @@
-**Zephaniah 2:5** 
+**Zephaniah 2:5**<big><big>[[Zeph.2.4 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD [is] against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to the dwellers of the seacoast, O nation of the Cherethites! The word of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.4|<< Zephaniah 2:4]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.6|Zephaniah 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֗וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹֽשְׁבֵ֛י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

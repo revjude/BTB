@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:16** 
 <small><sub>**LXX:**</sub></small>
 And hands upon her, and she entered by way of \[the\] entrance of the horses of \[the\] house of the king. And they put her to death there. 
-<small><sub>**KJV:**</sub></small>
-And they laid hands on her; and she went by the way by the which the horses came into the king’s house: and there was she slain.
-<small><sub>**BSB:**</sub></small>
-So they seized Athaliah as she reached the horses’ entrance to the palace grounds, and there she was put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.15|<< 2 Kings 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.17|2 Kings 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

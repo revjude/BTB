@@ -1,4 +1,4 @@
-**Isaiah 5:2** 
+**Isaiah 5:2**<big><big>[[Isa.5.1 The Song of the Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He dug it up and cleared the stones and planted the finest vines. He built a wat
 > $\quad$ referenced by: [[Matt.21.33|Matt 21:33]] ☩ [[Mark.12.1|Mark 12:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he dug it  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5823\|יְעַזְּקֵ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.'a.ze.Ke.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he cleared of stones it  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5619\|יְסַקְּלֵ֗]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.ke.Le.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

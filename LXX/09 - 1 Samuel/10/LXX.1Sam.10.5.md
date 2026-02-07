@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:5** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\] you shall enter unto the hill  of God, of which is there the height of the Philistines. And it will take place when ever you should enter there into the city, that you will meet a company of dancers of prophets coming down from out of  Bama, and in front of them a stringed instrument, and tambourine, and pipe, and lute; and they \[are\] prophesying. 
-<small><sub>**KJV:**</sub></small>
-After that thou shalt come to the hill of God, where [is] the garrison of the Philistines: and it shall come to pass, when thou art come thither to the city, that thou shalt meet a company of prophets coming down from the high place with a psaltery, and a tabret, and a pipe, and a harp, before them; and they shall prophesy:
-<small><sub>**BSB:**</sub></small>
-After that you will come to Gibeah of God, where the Philistines have an outpost. As you approach the city, you will meet a group of prophets coming down from the high place, preceded by harps, tambourines, flutes, and lyres, and they will be prophesying.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.4|<< 1 Samuel 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.6|1 Samuel 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

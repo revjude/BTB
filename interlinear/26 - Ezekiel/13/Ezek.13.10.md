@@ -1,4 +1,4 @@
-**Ezekiel 13:10** 
+**Ezekiel 13:10**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because, even because they have seduced my people, saying, Peace; and [there was] no peace; and one built up a wall, and, lo, others daubed it with untempered [morter]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because they have led My people astray, saying, ‘Peace,’ when there is no pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.9|<< Ezekiel 13:9]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.11|Ezekiel 13:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H3282\|יַ֣עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and by cause  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3282\|יַ֜עַן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

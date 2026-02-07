@@ -1,10 +1,7 @@
 **LXX Hosea 8:4** 
 <small><sub>**LXX:**</sub></small>
 For themselves they made \[one\] to reign, and not through me. They ruled, and they did not make it known to me.  \[With\] their silver and  their gold they made to themselves idols, so that they should be utterly destroyed. 
-<small><sub>**KJV:**</sub></small>
-They have set up kings, but not by me: they have made princes, and I knew [it] not: of their silver and their gold have they made them idols, that they may be cut off.
-<small><sub>**BSB:**</sub></small>
-They set up kings, but not by Me. They make princes, but without My approval. With their silver and gold they make themselves idols, to their own destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.3|<< Hosea 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.5|Hosea 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

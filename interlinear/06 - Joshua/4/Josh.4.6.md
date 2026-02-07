@@ -1,4 +1,4 @@
-**Joshua 4:6** 
+**Joshua 4:6**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That this may be a sign among you, [that] when your children ask [their fathers] in time to come, saying, What [mean] ye by these stones?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to serve as a sign among you. In the future, when your children ask, ‘What do 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.5|<< Joshua 4:5]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.7|Joshua 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֗עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it may be  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֛ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

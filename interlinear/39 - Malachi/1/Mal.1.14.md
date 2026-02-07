@@ -1,4 +1,4 @@
-**Malachi 1:14** 
+**Malachi 1:14**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But cursed [be] the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I [am] a great King, saith the LORD of hosts, and my name [is] dreadful among the heathen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But cursed [be] the deceiver, which hath in his flock a male, and voweth, and sa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.13|<< Malachi 1:13]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.1|Malachi 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [be] cursed  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0779\|אָר֣וּר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] deals deceptively  |**<big>&#8207;[[H5230\|נוֹכֵ֗ל]]&#8207; </big>**| no.Khel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

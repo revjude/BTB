@@ -1,10 +1,7 @@
 **LXX Numbers 23:7** 
 <small><sub>**LXX:**</sub></small>
 And taking up  his parable, he said, From out of Mesopotamia Balak king of Moab fetched me, out of \[the\] mountains of \[the\] east, saying, Come curse for me  Jacob! and, Come accurse to me  Israel! 
-<small><sub>**KJV:**</sub></small>
-And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, [saying], Come, curse me Jacob, and come, defy Israel.
-<small><sub>**BSB:**</sub></small>
-And Balaam lifted up an oracle, saying: “Balak brought me from Aram, the king of Moab from the mountains of the east. ‘Come,’ he said, ‘put a curse on Jacob for me; come and denounce Israel!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.6|<< Numbers 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.8|Numbers 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

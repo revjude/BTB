@@ -1,4 +1,4 @@
-**Psalms 119:48** 
+**Psalms 119:48**<big><big>[[Ps.119.41 Your Word Is a Lamp to My Feet - VAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I lift up my hands to Your commandments, which I love, and I meditate on Your st
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.47|<< Psalms 119:47]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.49|Psalms 119:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I may lift up  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5375P\|אֶשָּֽׂא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.sa'-<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands my  |**<big>&#8207;[[H3709G\|כַפַּ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| kha.Pa<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

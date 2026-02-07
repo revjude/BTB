@@ -1,12 +1,12 @@
-**1 Timothy 5:16
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:16**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed.
 <small><sub>**BSB:**</sub></small>
 If any believing woman has dependent widows, she must assist them and not allow the church to be burdened, so that it can help the widows who are truly in need.
 <small><sub>**Literal:**</sub></small>
 If any faithful or believing [woman] has [dependent] widows, she should help to them and not should be burdened the church, so that to those [who are] truly widows it may impart relief.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.15|<< 1 Timothy 5:15]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.17|1 Timothy 5:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | any |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

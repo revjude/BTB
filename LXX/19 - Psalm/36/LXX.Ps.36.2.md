@@ -1,10 +1,7 @@
 **LXX Psalm 36:2** 
 <small><sub>**LXX:**</sub></small>
 For he acted treacherously before him, so as to find out  his lawlessness and detest. 
-<small><sub>**KJV:**</sub></small>
-For he flattereth himself in his own eyes, until his iniquity be found to be hateful.
-<small><sub>**BSB:**</sub></small>
-For his eyes are too full of conceit to detect or hate his own sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.1|<< Psalm 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.36.3|Psalm 36:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:6** 
 <small><sub>**LXX:**</sub></small>
 At his feet the earth stood and shook; he looked and nations melted; the mountains were broke through by force; the eternal hills melted away --  his eternal ways. 
-<small><sub>**KJV:**</sub></small>
-He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways [are] everlasting.
-<small><sub>**BSB:**</sub></small>
-He stood and measured the earth; He looked and startled the nations; the ancient mountains crumbled; the perpetual hills collapsed. His ways are everlasting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.5|<< Habakkuk 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.7|Habakkuk 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

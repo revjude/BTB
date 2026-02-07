@@ -1,4 +1,4 @@
-**Ezekiel 35:9** 
+**Ezekiel 35:9**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make thee perpetual desolations, and thy cities shall not return: and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make you a perpetual desolation, and your cities will not be inhabited. T
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.8|<< Ezekiel 35:8]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.10|Ezekiel 35:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | desolations of  |**<big>&#8207;[[H8077A\|שִֽׁמְמ֤וֹת]]&#8207; </big>**| shi.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָם֙]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

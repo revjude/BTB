@@ -1,12 +1,12 @@
-**Luke 21:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:11**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
 <small><sub>**BSB:**</sub></small>
 There will be great earthquakes, famines, and pestilences in various places, along with fearful sights and great signs from heaven.
 <small><sub>**Literal:**</sub></small>
 Earthquakes both great and in different places famines and pestilences there will be, fearful sights also and from heaven signs great will there be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.10|<< Luke 21:10]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.12|Luke 21:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Earthquakes |**<big>[[G4578\|σεισμοί]]</big>**  |seismoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | both |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

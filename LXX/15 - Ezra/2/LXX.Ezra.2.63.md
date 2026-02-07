@@ -1,10 +1,7 @@
 **LXX Ezra 2:63** 
 <small><sub>**LXX:**</sub></small>
 And Tirshatha spoke to them  to not eat from the holy of the holies until a priest should rise up with the lights and the perfections. 
-<small><sub>**KJV:**</sub></small>
-And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim.
-<small><sub>**BSB:**</sub></small>
-The governor ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.62|<< Ezra 2:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.64|Ezra 2:64 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 36:11** 
 <small><sub>**LXX:**</sub></small>
 And Eliakim and Shebna and Joah said to him, to Rabshakeh, Speak indeed to  your servants in Syriac! for we hear ourselves; and do not speak to us in Jewish! For why do you speak unto the ears of the men  standing upon the wall? 
-<small><sub>**KJV:**</sub></small>
-Then said Eliakim and Shebna and Joah unto Rabshakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand [it]: and speak not to us in the Jews’ language, in the ears of the people that [are] on the wall.
-<small><sub>**BSB:**</sub></small>
-Then Eliakim, Shebna, and Joah said to the Rabshakeh, “Please speak to your servants in Aramaic, since we understand it. Do not speak to us in Hebrew in the hearing of the people on the wall.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.10|<< Isaiah 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.12|Isaiah 36:12 >>]]</td></tr></table>
 
 | Translation | Greek |

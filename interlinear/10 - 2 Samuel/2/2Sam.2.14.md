@@ -1,4 +1,4 @@
-**2 Samuel 2:14** 
+**2 Samuel 2:14**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abner said to Joab, Let the young men now arise, and play before us. And Joab said, Let them arise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Abner said to Joab, “Let us have the young men get up and compete before 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.13|<< 2 Samuel 2:13]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.15|2 Samuel 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abner  |**<big>&#8207;[[H0074\|אַבְנֵר֙]]&#8207; </big>**| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

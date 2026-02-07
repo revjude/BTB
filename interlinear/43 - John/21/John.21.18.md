@@ -1,12 +1,12 @@
-**John 21:18
-**<small><sub>**KJV:**</sub></small>
+**John 21:18**<big><big>[[John.21.15 Jesus and Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry [thee] whither thou wouldest not.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, when you were young, you dressed yourself and walked where you wanted; but when you are old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.”
 <small><sub>**Literal:**</sub></small>
 Amen Amen I say to you; When you were younger, you were dressing yourself and were walking where you were desiring. when however you may be old, you will stretch forth the hands of you, and another you will dress and will bring [you] where not you do desire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.17|<< John 21:17]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.19|John 21:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

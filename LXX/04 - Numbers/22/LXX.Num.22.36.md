@@ -1,10 +1,7 @@
 **LXX Numbers 22:36** 
 <small><sub>**LXX:**</sub></small>
 And Balak hearing that Balaam had came, came forth to meet him in a city of Moab, which is upon the borders of Arnon, which is of \[the\] parts of the borders. 
-<small><sub>**KJV:**</sub></small>
-And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which [is] in the border of Arnon, which [is] in the utmost coast.
-<small><sub>**BSB:**</sub></small>
-When Balak heard that Balaam was coming, he went out to meet him at the Moabite city on the Arnon border, at the edge of his territory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.35|<< Numbers 22:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.37|Numbers 22:37 >>]]</td></tr></table>
 
 | Translation | Greek |

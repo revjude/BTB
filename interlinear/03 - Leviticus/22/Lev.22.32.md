@@ -1,4 +1,4 @@
-**Leviticus 22:32** 
+**Leviticus 22:32**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I [am] the LORD which hallow you,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not profane My holy name. I must be acknowledged as holy among the Isra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.31|<< Leviticus 22:31]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.33|Leviticus 22:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will profane  |**<big>&#8207;[[H2490H\|תְחַלְּלוּ֙]]&#8207; </big>**| te.cha.le.Lu<small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

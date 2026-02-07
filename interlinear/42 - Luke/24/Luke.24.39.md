@@ -1,12 +1,12 @@
-**Luke 24:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:39**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.
 <small><sub>**BSB:**</sub></small>
 Look at My hands and My feet. It is I Myself. Touch Me and see—for a spirit does not have flesh and bones, as you see I have.”
 <small><sub>**Literal:**</sub></small>
 do see the hands of Me and the feet of Me that I myself am He himself; do touch Me and do see for a spirit flesh and bones not has even as Me myself you see having.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.38|<< Luke 24:38]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.40|Luke 24:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do see |**<big>[[G1492H\|ἴδετε]]</big>**  |idete <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

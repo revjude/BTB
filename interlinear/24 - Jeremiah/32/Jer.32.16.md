@@ -1,4 +1,4 @@
-**Jeremiah 32:16** 
+**Jeremiah 32:16**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when I had delivered the evidence of the purchase unto Baruch the son of Neriah, I prayed unto the LORD, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After I had given the deed of purchase to Baruch son of Neriah, I prayed to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.15|<< Jeremiah 32:15]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.17|Jeremiah 32:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I prayed  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6419\|אֶתְפַּלֵּ֖ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'et.pa.Lel<small><sup>[[HVtw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

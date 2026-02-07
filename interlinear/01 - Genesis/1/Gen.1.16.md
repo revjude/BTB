@@ -1,4 +1,4 @@
-**Genesis 1:16** 
+**Genesis 1:16**<big><big>[[Gen.1.14 The Fourth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: [he made] the stars also.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God made two great lights: the greater light to rule the day and the lesser ligh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.15|<< Genesis 1:15]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.17|Genesis 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

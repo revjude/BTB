@@ -1,10 +1,7 @@
 **LXX Leviticus 19:32** 
 <small><sub>**LXX:**</sub></small>
 At \[the\] face of a gray \[one\] you shall rise up, and you shall esteem \[the\] face of an older \[one\]; and you shall fear  your God. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-You are to rise in the presence of the elderly, honor the aged, and fear your God. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.31|<< Leviticus 19:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.33|Leviticus 19:33 >>]]</td></tr></table>
 
 | Translation | Greek |

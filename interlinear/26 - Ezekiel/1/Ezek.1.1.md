@@ -1,4 +1,4 @@
-**Ezekiel 1:1** 
+**Ezekiel 1:1**<big><big>[[Ezek.1.1 Ezekiel’s Vision by the River Kebar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass in the thirtieth year, in the fourth [month], in the fifth [day] of the month, as I [was] among the captives by the river of Chebar, [that] the heavens were opened, and I saw visions of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the thirtieth year, on the fifth day of the fourth month, while I was among t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.22|<< Lamentations 5:22]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.2|Ezekiel 1:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in thirty  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִׁ֣ים]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

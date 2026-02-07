@@ -1,10 +1,7 @@
 **LXX Numbers 32:32** 
 <small><sub>**LXX:**</sub></small>
 We will pass over being armed before \[the\] <span class="smallcaps">lord</span> into \[the\] land of Canaan. And you shall give  our possession on the other side of the Jordan. 
-<small><sub>**KJV:**</sub></small>
-We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan [may be] ours.
-<small><sub>**BSB:**</sub></small>
-We will cross over into the land of Canaan armed before the LORD, that we may have our inheritance on this side of the Jordan.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.31|<< Numbers 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.33|Numbers 32:33 >>]]</td></tr></table>
 
 | Translation | Greek |

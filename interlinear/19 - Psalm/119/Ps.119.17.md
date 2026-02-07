@@ -1,12 +1,12 @@
-**Psalms 119:17** 
+**Psalms 119:17**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-GIMEL. Deal bountifully with thy servant, [that] I may live, and keep thy word.
+Deal bountifully with thy servant, [that] I may live, and keep thy word.
 <small><sub>**BSB:**</sub></small>
 Deal bountifully with Your servant, that I may live and keep Your word.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.16|<< Psalms 119:16]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.18|Psalms 119:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deal bountifully  |**<big>&#8207;[[H1580\|גְּמֹ֖ל]]&#8207; </big>**| ge.Mol<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | towards  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

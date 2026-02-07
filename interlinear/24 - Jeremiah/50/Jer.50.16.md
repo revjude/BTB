@@ -1,4 +1,4 @@
-**Jeremiah 50:16** 
+**Jeremiah 50:16**<big><big>[[Jer.50.11 Babylon’s Fall Is Certain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cut off the sower from Babylon, and him that handleth the sickle in the time of harvest: for fear of the oppressing sword they shall turn every one to his people, and they shall flee every one to his own land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cut off the sower from Babylon, and the one who wields the sickle at harvest tim
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.15|<< Jeremiah 50:15]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.17|Jeremiah 50:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cut off  |**<big>&#8207;[[H3772I\|כִּרְת֤וּ]]&#8207; </big>**| kir.Tu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sower  |**<big>&#8207;[[H2232\|זוֹרֵ֙עַ֙]]&#8207; </big>**| zo.Re.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

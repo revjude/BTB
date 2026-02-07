@@ -1,10 +1,7 @@
 **LXX Isaiah 10:10** 
 <small><sub>**LXX:**</sub></small>
 In which manner I took these, I shall take all the sovereignties. Shriek,  O carvings in Jerusalem, and in Samaria! 
-<small><sub>**KJV:**</sub></small>
-As my hand hath found the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria;
-<small><sub>**BSB:**</sub></small>
-As my hand seized the idolatrous kingdoms whose images surpassed those of Jerusalem and Samaria,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.9|<< Isaiah 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.11|Isaiah 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

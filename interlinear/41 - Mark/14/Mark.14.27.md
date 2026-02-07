@@ -1,5 +1,5 @@
-**Mark 14:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:27**<big><big>[[Mark.14.27 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus saith unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to them, “You will all fall away, for it is written: ‘I will strike the Shepherd, and the sheep will be scattered.’
@@ -10,7 +10,7 @@ And says to them <the> Jesus that All you will fall away in to me myself in <the
 > $\quad$ referencing: [[LXX.Zech.13.7|Zech 13:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

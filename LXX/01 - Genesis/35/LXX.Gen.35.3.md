@@ -1,10 +1,7 @@
 **LXX Genesis 35:3** 
 <small><sub>**LXX:**</sub></small>
 And rising up, let us ascend unto Beth-el, and let us make there an altar  to God! to the \[one\] taking heed of me in \[the\] day of affliction, who was with me, and preserved me in the way which I went. 
-<small><sub>**KJV:**</sub></small>
-And let us arise, and go up to Bethel; and I will make there an altar unto God, who answered me in the day of my distress, and was with me in the way which I went.
-<small><sub>**BSB:**</sub></small>
-Then let us arise and go to Bethel. I will build an altar there to God, who answered me in my day of distress. He has been with me wherever I have gone.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.2|<< Genesis 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.4|Genesis 35:4 >>]]</td></tr></table>
 
 | Translation | Greek |

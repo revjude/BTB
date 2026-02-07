@@ -1,10 +1,7 @@
 **LXX Isaiah 65:12** 
 <small><sub>**LXX:**</sub></small>
 I will deliver you unto \[the\] sword. fall all by slaughter, for I called you and you hearkened not; I spoke, and you disregarded, and you did the wicked \[thing\] before me, and what I did not want you chose. 
-<small><sub>**KJV:**</sub></small>
-Therefore will I number you to the sword, and ye shall all bow down to the slaughter: because when I called, ye did not answer; when I spake, ye did not hear; but did evil before mine eyes, and did choose [that] wherein I delighted not.
-<small><sub>**BSB:**</sub></small>
-I will destine you for the sword, and you will all kneel down to be slaughtered, because I called and you did not answer, I spoke and you did not listen; you did evil in My sight and chose that in which I did not delight.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.11|<< Isaiah 65:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.13|Isaiah 65:13 >>]]</td></tr></table>
 
 | Translation | Greek |

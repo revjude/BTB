@@ -1,10 +1,7 @@
 **LXX Psalm 34:16** 
 <small><sub>**LXX:**</sub></small>
 But \[the\] face of \[the\] <span class="smallcaps">lord</span> \[is\] against \[the\] ones committing evils,  to utterly destroy their memorial from \[the\] earth. 
-<small><sub>**KJV:**</sub></small>
-The face of the LORD [is] against them that do evil, to cut off the remembrance of them from the earth.
-<small><sub>**BSB:**</sub></small>
-But the face of the LORD is against those who do evil, to wipe out all memory of them from the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.15|<< Psalm 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.17|Psalm 34:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 34:16** is...

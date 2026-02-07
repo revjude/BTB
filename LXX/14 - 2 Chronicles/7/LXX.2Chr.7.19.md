@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But if you should turn, and should abandon  my orders, and  my commandments, which I put before you, and you should go and should serve other gods, and should do obeisance to them, 
-<small><sub>**KJV:**</sub></small>
-But if ye turn away, and forsake my statutes and my commandments, which I have set before you, and shall go and serve other gods, and worship them;
-<small><sub>**BSB:**</sub></small>
-But if you turn away and forsake the statutes and commandments I have set before you, and if you go off to serve and worship other gods,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.18|<< 2 Chronicles 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.20|2 Chronicles 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

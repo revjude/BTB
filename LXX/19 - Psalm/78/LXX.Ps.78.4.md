@@ -1,10 +1,7 @@
 **LXX Psalm 78:4** 
 <small><sub>**LXX:**</sub></small>
 They were not hidden from  their children for another generation; \[but are\] reporting the praises of the <span class="smallcaps">lord</span>, and  his dominations, and  his wonders which he did. 
-<small><sub>**KJV:**</sub></small>
-We will not hide [them] from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.
-<small><sub>**BSB:**</sub></small>
-We will not hide them from their children but will declare to the next generation the praises of the LORD and His might and the wonders He has performed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.3|<< Psalm 78:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.5|Psalm 78:5 >>]]</td></tr></table>
 
 | Translation | Greek |

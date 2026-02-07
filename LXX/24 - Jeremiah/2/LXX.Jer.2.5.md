@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:5** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, What trespass did your fathers find in me that they left far from me, and went after the vain \[things\], and acted in folly? 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, What iniquity have your fathers found in me, that they are gone far from me, and have walked after vanity, and are become vain?
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “What fault did your fathers find in Me that they strayed so far from Me? They followed worthless idols, and became worthless themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.4|<< Jeremiah 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.6|Jeremiah 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

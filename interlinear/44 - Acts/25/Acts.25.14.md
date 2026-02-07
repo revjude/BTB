@@ -1,12 +1,12 @@
-**Acts 25:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:14**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had been there many days, Festus declared Paul’s cause unto the king, saying, There is a certain man left in bonds by Felix:
 <small><sub>**BSB:**</sub></small>
 Since they were staying several days, Festus laid out Paul’s case before the king: “There is a certain man whom Felix left in prison.
 <small><sub>**Literal:**</sub></small>
 As now many days they were staying there, <the> Festus to the king laid before the [things] relating to <the> Paul saying; A man certain there is left by Felix [as] a prisoner,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.13|<< Acts 25:13]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.15|Acts 25:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

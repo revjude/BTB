@@ -1,10 +1,7 @@
 **LXX Genesis 37:14** 
 <small><sub>**LXX:**</sub></small>
 And Israel said to him, \[In\] going see if your brothers are in health and the sheep, and announce \[it\] to me! And he sent him from the valley  of Hebron. And he came into Shechem. 
-<small><sub>**KJV:**</sub></small>
-And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem.
-<small><sub>**BSB:**</sub></small>
-Then Israel told him, “Go now and see how your brothers and the flocks are faring, and bring word back to me.” So he sent him off from the Valley of Hebron. And when Joseph arrived in Shechem,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.13|<< Genesis 37:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.15|Genesis 37:15 >>]]</td></tr></table>
 
 | Translation | Greek |

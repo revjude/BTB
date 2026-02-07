@@ -1,5 +1,5 @@
-**Matthew 14:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:29**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus.
 <small><sub>**BSB:**</sub></small>
 “Come,” said Jesus. Then Peter got down out of the boat, walked on the water, and came toward Jesus.
@@ -10,7 +10,7 @@ And he said, Come. And when Peter was come down out of the ship, he walked on th
 > $\quad$ referencing: [[LXX.Job.9.8|Job 9:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

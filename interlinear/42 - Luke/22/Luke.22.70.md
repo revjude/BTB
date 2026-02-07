@@ -1,12 +1,12 @@
-**Luke 22:70
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:70**<big><big>[[Luke.22.66 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am.
 <small><sub>**BSB:**</sub></small>
 So they all asked, “Are You then the Son of God?” He replied, “You say that I am.”
 <small><sub>**Literal:**</sub></small>
 They said then all; You yourself then are the Son <the> of God? <the> And to them He was saying; You yourselves say that I myself am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.69|<< Luke 22:69]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.71|Luke 22:71 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They said |**<big>[[G2036\|εἶπαν]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

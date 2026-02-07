@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:7** 
 <small><sub>**LXX:**</sub></small>
 In the third month the heaps began to be founded; and in the seventh month they were completed. 
-<small><sub>**KJV:**</sub></small>
-In the third month they began to lay the foundation of the heaps, and finished [them] in the seventh month.
-<small><sub>**BSB:**</sub></small>
-In the third month they began building up the heaps, and they finished in the seventh month.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.6|<< 2 Chronicles 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.8|2 Chronicles 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

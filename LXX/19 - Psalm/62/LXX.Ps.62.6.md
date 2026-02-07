@@ -1,10 +1,7 @@
 **LXX Psalm 62:6** 
 <small><sub>**LXX:**</sub></small>
 For he \[is\] my God, and my deliverer, my shielder; for in no way should I migrate. 
-<small><sub>**KJV:**</sub></small>
-He only [is] my rock and my salvation: [he is] my defence; I shall not be moved.
-<small><sub>**BSB:**</sub></small>
-He alone is my rock and my salvation; He is my fortress; I will not be shaken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.5|<< Psalm 62:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.7|Psalm 62:7 >>]]</td></tr></table>
 
 | Translation | Greek |

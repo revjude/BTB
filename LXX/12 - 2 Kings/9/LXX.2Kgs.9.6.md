@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:6** 
 <small><sub>**LXX:**</sub></small>
 And he rose up, and entered into the house. And he poured the oil upon  his head. And he said to him, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, I have anointed you for king over the people of \[the\] <span class="smallcaps">lord</span>, over  Israel. 
-<small><sub>**KJV:**</sub></small>
-And he arose, and went into the house; and he poured the oil on his head, and said unto him, Thus saith the LORD God of Israel, I have anointed thee king over the people of the LORD, [even] over Israel.
-<small><sub>**BSB:**</sub></small>
-So Jehu got up and went into the house, where the young prophet poured the oil on his head and declared, “This is what the LORD, the God of Israel, says: ‘I anoint you king over the LORD’s people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.5|<< 2 Kings 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.7|2 Kings 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

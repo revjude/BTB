@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:9** 
 <small><sub>**LXX:**</sub></small>
 And I spoke, and they cleansed the treasuries. And I returned there \[the\] vessels of \[the\] house  of God for the sacrifice \[offering\] and the frankincense. 
-<small><sub>**KJV:**</sub></small>
-Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the meat offering and the frankincense.
-<small><sub>**BSB:**</sub></small>
-Then I ordered that the rooms be purified, and I had the articles of the house of God restored to them, along with the grain offerings and frankincense.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.8|<< Nehemiah 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.10|Nehemiah 13:10 >>]]</td></tr></table>
 
 | Translation | Greek |

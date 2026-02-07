@@ -1,12 +1,12 @@
-**Ephesians 6:13
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:13**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.
 <small><sub>**BSB:**</sub></small>
 Therefore take up the full armor of God, so that when the day of evil comes, you will be able to stand your ground, and having done everything, to stand.
 <small><sub>**Literal:**</sub></small>
 Because of this do take up the complete armor <the> of God, so that you may be able to withstand in the day <the> evil and all things having done to stand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.12|<< Ephesians 6:12]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.14|Ephesians 6:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

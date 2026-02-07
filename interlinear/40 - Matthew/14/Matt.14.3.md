@@ -1,12 +1,12 @@
-**Matthew 14:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:3**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Herod had laid hold on John, and bound him, and put [him] in prison for Herodias’ sake, his brother Philip’s wife.
 <small><sub>**BSB:**</sub></small>
 Now Herod had arrested John and bound him and put him in prison on account of Herodias, his brother Philip’s wife,
 <small><sub>**Literal:**</sub></small>
 <the> For Herod having seized <the> John he bound him and in <the> prison put [him] aside on account of Herodias the wife of Philip the brother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.2|<< Matthew 14:2]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.4|Matthew 14:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

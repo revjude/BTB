@@ -1,4 +1,4 @@
-**2 Kings 6:15** 
+**2 Kings 6:15**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the servant of the man of God was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the servant of the man of God got up and went out early in the morning, beh
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.14|<< 2 Kings 6:14]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.16|2 Kings 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rose early  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7925\|יַּשְׁכֵּם]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yash.kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servant of  |**<big>&#8207;[[H8334\|מְשָׁרֵ֨ת]]&#8207; </big>**| me.sha.Ret<small><sup>[[HVprmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

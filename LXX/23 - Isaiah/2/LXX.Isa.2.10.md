@@ -1,10 +1,7 @@
 **LXX Isaiah 2:10** 
 <small><sub>**LXX:**</sub></small>
 And now, enter to the rock, and hide in the earth from in front of the fear of \[the\] <span class="smallcaps">lord</span>, and from the glory  of his strength, whenever he should rise up to devastate the earth! 
-<small><sub>**KJV:**</sub></small>
-Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.
-<small><sub>**BSB:**</sub></small>
-Go into the rocks and hide in the dust from the terror of the LORD and the splendor of His majesty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.9|<< Isaiah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.11|Isaiah 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

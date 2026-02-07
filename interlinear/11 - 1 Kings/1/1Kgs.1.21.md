@@ -1,4 +1,4 @@
-**1 Kings 1:21** 
+**1 Kings 1:21**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted offenders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Otherwise, when my lord the king rests with his fathers, I and my son Solomon wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.20|<< 1 Kings 1:20]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.22|1 Kings 1:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֕ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when lies down  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7901H\|שְׁכַ֥ב]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> sh.Khav<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

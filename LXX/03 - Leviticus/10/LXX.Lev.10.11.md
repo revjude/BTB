@@ -1,10 +1,7 @@
 **LXX Leviticus 10:11** 
 <small><sub>**LXX:**</sub></small>
 and to instruct the sons of Israel all together the laws which \[the\] <span class="smallcaps">lord</span> spoke to them through \[the\] hand of Moses. 
-<small><sub>**KJV:**</sub></small>
-And that ye may teach the children of Israel all the statutes which the LORD hath spoken unto them by the hand of Moses.
-<small><sub>**BSB:**</sub></small>
-so that you may teach the Israelites all the statutes that the LORD has given them through Moses.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.10|<< Leviticus 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.12|Leviticus 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

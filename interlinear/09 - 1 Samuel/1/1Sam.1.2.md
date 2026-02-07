@@ -1,4 +1,4 @@
-**1 Samuel 1:2** 
+**1 Samuel 1:2**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had two wives; the name of the one [was] Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He had two wives, one named Hannah and the other Peninnah. And Peninnah had chil
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.1|<< 1 Samuel 1:1]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.3|1 Samuel 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belonged] to \<the> him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> L<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁתֵּ֣י]]&#8207; </big>**| she.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

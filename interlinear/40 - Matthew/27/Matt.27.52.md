@@ -1,12 +1,12 @@
-**Matthew 27:52
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:52**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the graves were opened; and many bodies of the saints which slept arose,
 <small><sub>**BSB:**</sub></small>
 The tombs broke open, and the bodies of many saints who had fallen asleep were raised.
 <small><sub>**Literal:**</sub></small>
 and the tombs were opened, and many bodies of the having fallen asleep saints were raised,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.51|<< Matthew 27:51]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.53|Matthew 27:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

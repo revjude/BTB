@@ -1,4 +1,4 @@
-**Joshua 18:20** 
+**Joshua 18:20**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jordan was the border of it on the east side. This [was] the inheritance of the children of Benjamin, by the coasts thereof round about, according to their families.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the east side the border was the Jordan. These were the borders around the in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.19|<< Joshua 18:19]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.21|Joshua 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Jordan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3383\|יַּרְדֵּ֥ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it borders  |**<big>&#8207;[[H1379\|יִגְבֹּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yig.bol-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

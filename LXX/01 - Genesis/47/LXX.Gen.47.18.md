@@ -1,10 +1,7 @@
 **LXX Genesis 47:18** 
 <small><sub>**LXX:**</sub></small>
 And that year went by, and they came to him in the second year, and said to him, Lest at some time we should be obliterated from  our master -- for since the silver has dissipated, and the possessions, and the cattle to you, the master, and there has not been left behind to us before  our master, but only  our own body and  our land, 
-<small><sub>**KJV:**</sub></small>
-When that year was ended, they came unto him the second year, and said unto him, We will not hide [it] from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:
-<small><sub>**BSB:**</sub></small>
-When that year was over, they came to him the second year and said, “We cannot hide from our lord that our money is gone and all our livestock belongs to you. There is nothing left for our lord except our bodies and our land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.17|<< Genesis 47:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.19|Genesis 47:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Galatians 3:17
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:17**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this I say, [that] the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.
 <small><sub>**BSB:**</sub></small>
 What I mean is this: The law that came 430 years later does not revoke the covenant previously established by God, so as to nullify the promise.
@@ -10,7 +10,7 @@ This now I say: [The] covenant confirmed beforehand by <the> God into Christ <th
 > $\quad$ alluding to: [[LXX.Gen.17.7|Gen 17:7-8]] ☩ [[LXX.Exod.12.40|Exod 12:40]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

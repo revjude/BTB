@@ -1,10 +1,7 @@
 **LXX Exodus 36:29** 
 <small><sub>**LXX:**</sub></small>
 And they were of equal below, and according to the same \[measurement\] they were equal from the heads unto one coupling. Thus he made to both the two corners. 
-<small><sub>**KJV:**</sub></small>
-And they were coupled beneath, and coupled together at the head thereof, to one ring: thus he did to both of them in both the corners.
-<small><sub>**BSB:**</sub></small>
-coupled together from bottom to top and fitted into a single ring. He made both corners in this way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.28|<< Exodus 36:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.30|Exodus 36:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 33:26** 
 <small><sub>**LXX:**</sub></small>
 And one vowing to \[the\] <span class="smallcaps">lord</span>, and it will be accepted for him; and he shall enter with a clean face, with an utterance \[of praise\]; and he will recompense righteousness to men. 
-<small><sub>**KJV:**</sub></small>
-He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.
-<small><sub>**BSB:**</sub></small>
-He prays to God and finds favor; he sees God’s face and shouts for joy, and God restores His righteousness to that man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.25|<< Job 33:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.27|Job 33:27 >>]]</td></tr></table>
 
 | Translation | Greek |

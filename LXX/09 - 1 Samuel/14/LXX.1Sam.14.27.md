@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:27** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan did not hear in the the people by an oath \[by\] his father. And he stretched out the tip  of his staff, of the one in  his hand, and he dipped it into the honeycomb of the honey, and he returned  his hand to  his mouth, and his eyes looked up. 
-<small><sub>**KJV:**</sub></small>
-But Jonathan heard not when his father charged the people with the oath: wherefore he put forth the end of the rod that [was] in his hand, and dipped it in an honeycomb, and put his hand to his mouth; and his eyes were enlightened.
-<small><sub>**BSB:**</sub></small>
-Jonathan, however, had not heard that his father had bound the people with the oath. So he reached out the end of the staff in his hand, dipped it into the honeycomb, and put his hand to his mouth, and his eyes brightened.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.26|<< 1 Samuel 14:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.28|1 Samuel 14:28 >>]]</td></tr></table>
 
 | Translation | Greek |

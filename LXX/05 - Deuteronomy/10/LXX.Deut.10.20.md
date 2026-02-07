@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:20** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  your God you shall fear, and to him you shall serve, and to him you shall cleave, and upon  his name you shall swear by an oath. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt fear the LORD thy God; him shalt thou serve, and to him shalt thou cleave, and swear by his name.
-<small><sub>**BSB:**</sub></small>
-You are to fear the LORD your God and serve Him. Hold fast to Him and take your oaths in His name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.19|<< Deuteronomy 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.21|Deuteronomy 10:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 10:20** is...

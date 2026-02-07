@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:10** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as they saw that \[there was\] much  money  in the chest, that the scribe of the king ascended, and the great priest, and they grasped and counted the money  being found in \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it was [so], when they saw that [there was] much money in the chest, that the king’s scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-Whenever they saw that there was a large amount of money in the chest, the royal scribe and the high priest would go up, count the money brought into the house of the LORD, and tie it up in bags.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.9|<< 2 Kings 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.11|2 Kings 12:11 >>]]</td></tr></table>
 
 | Translation | Greek |

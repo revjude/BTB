@@ -1,12 +1,12 @@
-**Revelation 19:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:10**<big><big>[[Rev.19.6 The Marriage of the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I fell at his feet to worship him. And he said unto me, See [thou do it] not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
 <small><sub>**BSB:**</sub></small>
 So I fell at his feet to worship him. But he told me, “Do not do that! I am a fellow servant with you and your brothers who rely on the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy.”
 <small><sub>**Literal:**</sub></small>
 And I fell before the feet of him to worship him, And he says to me; do see [that] you [do] not, A fellow servant with you I am and the brothers of you who are  holding the testimony <the> of Jesus; <the> God do worship. The for testimony <the> of Jesus is the spirit <the> of prophecy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.9|<< Revelation 19:9]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.11|Revelation 19:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I fell |**<big>[[G4098\|ἔπεσα]]</big>**  [^1] |epesa <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

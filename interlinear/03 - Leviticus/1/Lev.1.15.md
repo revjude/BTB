@@ -1,4 +1,4 @@
-**Leviticus 1:15** 
+**Leviticus 1:15**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall bring it unto the altar, and wring off his head, and burn [it] on the altar; and the blood thereof shall be wrung out at the side of the altar:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the priest shall bring it to the altar, twist off its head, and burn it on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.14|<< Leviticus 1:14]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.16|Leviticus 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will present it  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126H\|הִקְרִיב֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.ri.V<small><sup>[[HVhq3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in that day  king Artaxerxes presented  to Esther as much as existed to Haman the slanderer. And Mordecai was called on by the king, for Esther indicated how he was related to her. 
-<small><sub>**KJV:**</sub></small>
-On that day did the king Ahasuerus give the house of Haman the Jews’ enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he [was] unto her.
-<small><sub>**BSB:**</sub></small>
-That same day King Xerxes awarded Queen Esther the estate of Haman, the enemy of the Jews. And Mordecai entered the king’s presence because Esther had revealed his relation to her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.10|<< Esther 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.2|Esther 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

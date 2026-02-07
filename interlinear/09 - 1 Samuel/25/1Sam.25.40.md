@@ -1,4 +1,4 @@
-**1 Samuel 25:40** 
+**1 Samuel 25:40**<big><big>[[1Sam.25.39 David Marries Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When his servants came to Abigail at Carmel, they said, “David has sent us to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.39|<< 1 Samuel 25:39]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.41|1 Samuel 25:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֜אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servants of  |**<big>&#8207;[[H5650\|עַבְדֵ֥י]]&#8207; </big>**| 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

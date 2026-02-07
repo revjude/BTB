@@ -1,4 +1,4 @@
-**Exodus 23:20** 
+**Exodus 23:20**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold, I am sending an angel before you to protect you along the way and to bri
 > $\quad$ referenced by: [[Matt.11.10|Matt 11:10]] ☩ [[Mark.1.2|Mark 1:2]] ☩ [[Luke.7.27|Luke 7:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֜י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 40:7** 
 <small><sub>**LXX:**</sub></small>
 But no, tie up your loin as a man! and I will ask you, then you answer me! 
-<small><sub>**KJV:**</sub></small>
-Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.
-<small><sub>**BSB:**</sub></small>
-“Now brace yourself like a man; I will question you, and you shall inform Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.40.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.6|<< Job 40:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.8|Job 40:8 >>]]</td></tr></table>
 
 | Translation | Greek |

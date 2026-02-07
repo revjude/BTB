@@ -1,10 +1,7 @@
 **LXX Numbers 36:13** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the commandments, and the ordinances, and the judgments, which \[the\] <span class="smallcaps">lord</span> gave charge by \[the\] hand of Moses to the sons of Israel at \[the\] descent of Moab near the Jordan by Jericho. 
-<small><sub>**KJV:**</sub></small>
-These [are] the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan [near] Jericho.
-<small><sub>**BSB:**</sub></small>
-These are the commandments and ordinances that the LORD gave the Israelites through Moses on the plains of Moab by the Jordan across from Jericho.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.12|<< Numbers 36:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.1|Deuteronomy 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 28:30** 
+**Numbers 28:30**<big><big>[[Num.28.26 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] one kid of the goats, to make an atonement for you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Include one male goat to make atonement for you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.29|<< Numbers 28:29]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.31|Numbers 28:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a male goat of  |**<big>&#8207;[[H8163B\|שְׂעִ֥יר]]&#8207; </big>**| se.'Ir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | goats  |**<big>&#8207;[[H5795\|עִזִּ֖ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

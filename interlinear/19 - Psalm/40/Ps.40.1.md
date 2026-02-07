@@ -1,6 +1,6 @@
-**Psalms 40:1** (40:2)
+**Psalms 40:1**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. I waited patiently for the LORD; and he inclined unto me, and heard my cry.
+I waited patiently for the LORD; and he inclined unto me, and heard my cry.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. I waited patiently for the LORD; He inclined to me and heard my cry.
 <small><sub>**LXX:**</sub></small>
@@ -10,7 +10,7 @@ For the choirmaster. A Psalm of David. I waited patiently for the LORD; He incli
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to wait>  |**<big>&#8207;[[H6960A\|קַוֹּ֣ה]]&#8207; </big>**| ka.Voh<small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I waited for  |**<big>&#8207;[[H6960A\|קִוִּ֣יתִי]]&#8207; </big>**| ki.Vi.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

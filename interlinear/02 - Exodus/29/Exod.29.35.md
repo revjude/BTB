@@ -1,4 +1,4 @@
-**Exodus 29:35** 
+**Exodus 29:35**<big><big>[[Exod.29.31 Food for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thus shalt thou do unto Aaron, and to his sons, according to all [things] which I have commanded thee: seven days shalt thou consecrate them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what you are to do for Aaron and his sons based on all that I have comma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.34|<< Exodus 29:34]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.36|Exodus 29:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִׂ֜יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Aaron  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0175\|אַהֲרֹ֤ן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when the force of the Chaldeans ascended from Jerusalem from in front of the force of Pharaoh, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh’s army,
-<small><sub>**BSB:**</sub></small>
-When the Chaldean army withdrew from Jerusalem for fear of Pharaoh’s army,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.10|<< Jeremiah 37:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.12|Jeremiah 37:12 >>]]</td></tr></table>
 
 | Translation | Greek |

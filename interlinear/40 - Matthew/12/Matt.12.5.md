@@ -1,5 +1,5 @@
-**Matthew 12:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:5**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?
 <small><sub>**BSB:**</sub></small>
 Or haven’t you read in the Law that on the Sabbath the priests in the temple break the Sabbath and yet are innocent?
@@ -10,7 +10,7 @@ Or surely have you read in the law that on the Sabbath the priests in the temple
 > $\quad$ referencing: [[LXX.Num.28.9|Num 28:9-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|Ἢ]]</big>**  |Ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | surely |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

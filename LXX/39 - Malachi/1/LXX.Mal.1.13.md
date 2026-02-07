@@ -1,10 +1,7 @@
 **LXX Malachi 1:13** 
 <small><sub>**LXX:**</sub></small>
 And you said, Behold, it is troublesome. And you blew them away, says \[the\] <span class="smallcaps">lord</span> almighty; and you carried in the prey, and the lame, and the troubled. And \[thus\] you brought in the sacrifice. Shall I favorably receive them from  your hands, says \[the\] <span class="smallcaps">lord</span> almighty, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Ye said also, Behold, what a weariness [is it]! and ye have snuffed at it, saith the LORD of hosts; and ye brought [that which was] torn, and the lame, and the sick; thus ye brought an offering: should I accept this of your hand? saith the LORD.
-<small><sub>**BSB:**</sub></small>
-You also say: ‘Oh, what a nuisance!’ And you turn up your nose at it,” says the LORD of Hosts. “You bring offerings that are stolen, lame, or sick! Should I accept these from your hands?” asks the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.12|<< Malachi 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.14|Malachi 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

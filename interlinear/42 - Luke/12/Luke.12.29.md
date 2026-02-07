@@ -1,12 +1,12 @@
-**Luke 12:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:29**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And seek not ye what ye shall eat, or what ye shall drink, neither be ye of doubtful mind.
 <small><sub>**BSB:**</sub></small>
 And do not be concerned about what you will eat or drink. Do not worry about it.
 <small><sub>**Literal:**</sub></small>
 And you yourselves not do seek what you may eat and what you may drink, and not do worry yourself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.28|<< Luke 12:28]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.30|Luke 12:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Titus 1:2
-**<small><sub>**KJV:**</sub></small>
+**Titus 1:2**<big><big>[[Titus.1.1 Paul’s Greeting to Titus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In hope of eternal life, which God, that cannot lie, promised before the world began;
 <small><sub>**BSB:**</sub></small>
 in the hope of eternal life, which God, who cannot lie, promised before time began.
 <small><sub>**Literal:**</sub></small>
 in [the] hope of life eternal, which promised <the> who cannot lie God before time eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.1|<< Titus 1:1]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.3|Titus 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1909\|ἐπ᾽]]</big>**  |ep᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] hope |**<big>[[G1680\|ἐλπίδι]]</big>**  |elpidi <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

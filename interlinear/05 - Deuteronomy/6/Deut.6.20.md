@@ -1,4 +1,4 @@
-**Deuteronomy 6:20** 
+**Deuteronomy 6:20**<big><big>[[Deut.6.20 Teach Your Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] when thy son asketh thee in time to come, saying, What [mean] the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the future, when your son asks, “What is the meaning of the decrees and sta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.19|<< Deuteronomy 6:19]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.21|Deuteronomy 6:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will ask you  |**<big>&#8207;[[H7592\|יִשְׁאָלְ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| yish.'a.le.<small><sup>[[HVqi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

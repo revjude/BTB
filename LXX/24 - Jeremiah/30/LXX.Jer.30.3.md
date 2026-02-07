@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:3** 
 <small><sub>**LXX:**</sub></small>
 For behold, days come, says \[the\] <span class="smallcaps">lord</span>, and I will return the resettlement of my people Israel and Judah, said \[the\] <span class="smallcaps">lord</span>. And I will return them into the land which I gave \[to\] their fathers, and they will dominate it. 
-<small><sub>**KJV:**</sub></small>
-For, lo, the days come, saith the LORD, that I will bring again the captivity of my people Israel and Judah, saith the LORD: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.
-<small><sub>**BSB:**</sub></small>
-For behold, the days are coming, declares the LORD, when I will restore from captivity My people Israel and Judah, declares the LORD. I will restore them to the land that I gave to their fathers, and they will possess it.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.2|<< Jeremiah 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.4|Jeremiah 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

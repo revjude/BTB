@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:14** 
 <small><sub>**LXX:**</sub></small>
 And she saw. And behold, the king stood at the column according to  \[their\] practice. And the singers and the ones \[with\] trumpets \[were\] around the king. And all the people of the land \[were\] rejoicing, and trumpeting with trumpets. And Athaliah tore  her garments, and she yelled, Conspiracy, conspiracy. 
-<small><sub>**KJV:**</sub></small>
-And when she looked, behold, the king stood by a pillar, as the manner [was], and the princes and the trumpeters by the king, and all the people of the land rejoiced, and blew with trumpets: and Athaliah rent her clothes, and cried, Treason, Treason.
-<small><sub>**BSB:**</sub></small>
-And she looked out and saw the king standing by the pillar, according to the custom. The officers and trumpeters were beside the king, and all the people of the land were rejoicing and blowing trumpets. Then Athaliah tore her clothes and screamed, “Treason! Treason!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.13|<< 2 Kings 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.15|2 Kings 11:15 >>]]</td></tr></table>
 
 | Translation | Greek |

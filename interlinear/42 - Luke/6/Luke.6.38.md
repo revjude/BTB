@@ -1,12 +1,12 @@
-**Luke 6:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:38**<big><big>[[Luke.6.37 Judging Others|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.
 <small><sub>**BSB:**</sub></small>
 Give, and it will be given to you. A good measure, pressed down, shaken together, and running over will be poured into your lap. For with the measure you use, it will be measured back to you.”
 <small><sub>**Literal:**</sub></small>
 do give, and it will be given to you. Measure good pressed down and shaken together and running over will they put into the lap of you; with which <the> for it measure you measure, it will be re-measured to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.37|<< Luke 6:37]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.39|Luke 6:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do give, |**<big>[[G1325\|δίδοτε,]]</big>**  |didote <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

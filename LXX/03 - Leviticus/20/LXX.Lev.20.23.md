@@ -1,10 +1,7 @@
 **LXX Leviticus 20:23** 
 <small><sub>**LXX:**</sub></small>
 And do not go in the laws of the nations! which I eject from you; for all these \[things\] they did, and I abhor them. 
-<small><sub>**KJV:**</sub></small>
-And ye shall not walk in the manners of the nation, which I cast out before you: for they committed all these things, and therefore I abhorred them.
-<small><sub>**BSB:**</sub></small>
-You must not follow the statutes of the nations I am driving out before you. Because they did all these things, I abhorred them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.22|<< Leviticus 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.24|Leviticus 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

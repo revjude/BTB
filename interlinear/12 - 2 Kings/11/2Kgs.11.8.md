@@ -1,4 +1,4 @@
-**2 Kings 11:8** 
+**2 Kings 11:8**<big><big>[[2Kgs.11.4 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall compass the king round about, every man with his weapons in his hand: and he that cometh within the ranges, let him be slain: and be ye with the king as he goeth out and as he cometh in.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must surround the king with weapons in hand, and anyone who approaches the r
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.7|<< 2 Kings 11:7]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.9|2 Kings 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will surround  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5362B\|הִקַּפְתֶּ֨ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.kaf.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<on>  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

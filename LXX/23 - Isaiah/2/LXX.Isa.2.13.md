@@ -1,10 +1,7 @@
 **LXX Isaiah 2:13** 
 <small><sub>**LXX:**</sub></small>
 and upon every cedar  of Lebanon, of the ones high and elevated; and upon every acorn tree of Bashan; 
-<small><sub>**KJV:**</sub></small>
-And upon all the cedars of Lebanon, [that are] high and lifted up, and upon all the oaks of Bashan,
-<small><sub>**BSB:**</sub></small>
-against all the cedars of Lebanon, lofty and lifted up, against all the oaks of Bashan,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.12|<< Isaiah 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.14|Isaiah 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

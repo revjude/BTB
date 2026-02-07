@@ -1,4 +1,4 @@
-**Leviticus 13:24** 
+**Leviticus 13:24**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or if there be [any] flesh, in the skin whereof [there is] a hot burning, and the quick [flesh] that burneth have a white bright spot, somewhat reddish, or white;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When there is a burn on someone’s skin and the raw area of the burn becomes re
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.23|<< Leviticus 13:23]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.25|Leviticus 13:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֣וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flesh  |**<big>&#8207;[[H1320\|בָשָׂ֔ר]]&#8207; </big>**| va.Sar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

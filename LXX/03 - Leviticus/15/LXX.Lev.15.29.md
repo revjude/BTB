@@ -1,10 +1,7 @@
 **LXX Leviticus 15:29** 
 <small><sub>**LXX:**</sub></small>
 And the eighth day she shall take for herself two turtle-doves, or two young pigeons, and she shall bring them to the priest to the door of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And on the eighth day she shall take unto her two turtles, or two young pigeons, and bring them unto the priest, to the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-On the eighth day she is to take two turtledoves or two young pigeons and bring them to the priest at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.28|<< Leviticus 15:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.30|Leviticus 15:30 >>]]</td></tr></table>
 
 | Translation | Greek |

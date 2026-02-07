@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:67** 
 <small><sub>**LXX:**</sub></small>
 And they gave to them the cities of the place of refuge --  Shechem and  her outskirts in mount Ephraim, and  Gezer and  her outskirts, 
-<small><sub>**KJV:**</sub></small>
-And they gave unto them, [of] the cities of refuge, Shechem in mount Ephraim with her suburbs; [they gave] also Gezer with her suburbs,
-<small><sub>**BSB:**</sub></small>
-They were given Shechem (a city of refuge) with its pasturelands in the hill country of Ephraim, and Gezer,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.67|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.66|<< 1 Chronicles 6:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.68|1 Chronicles 6:68 >>]]</td></tr></table>
 
 | Translation | Greek |

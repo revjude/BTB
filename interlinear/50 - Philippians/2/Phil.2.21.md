@@ -1,12 +1,12 @@
-**Philippians 2:21
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:21**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For all seek their own, not the things which are Jesus Christ’s.
 <small><sub>**BSB:**</sub></small>
 For all the others look after their own interests, not those of Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 Those all for the [things] their own are seeking, not the [things] <the> Jesus of Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.20|<< Philippians 2:20]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.22|Philippians 2:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

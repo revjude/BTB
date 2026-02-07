@@ -1,10 +1,7 @@
 **LXX Proverbs 25:25** 
 <small><sub>**LXX:**</sub></small>
 As cold water is kind to a thirsting soul, so a good message from a land far off. 
-<small><sub>**KJV:**</sub></small>
-[As] cold waters to a thirsty soul, so [is] good news from a far country.
-<small><sub>**BSB:**</sub></small>
-Like cold water to a weary soul is good news from a distant land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.24|<< Proverbs 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.26|Proverbs 25:26 >>]]</td></tr></table>
 
 | Translation | Greek |

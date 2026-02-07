@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:13** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; After forty years I will gather \[the\] Egyptians from the nations of which they were dispersed there. 
-<small><sub>**KJV:**</sub></small>
-Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered:
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord GOD says: At the end of forty years I will gather the Egyptians from the nations to which they were scattered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.12|<< Ezekiel 29:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.14|Ezekiel 29:14 >>]]</td></tr></table>
 
 | Translation | Greek |

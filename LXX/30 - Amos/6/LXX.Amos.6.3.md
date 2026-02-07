@@ -1,10 +1,7 @@
 **LXX Amos 6:3** 
 <small><sub>**LXX:**</sub></small>
 The ones coming unto an evil day; the ones approaching and attaching to false Sabbaths; 
-<small><sub>**KJV:**</sub></small>
-Ye that put far away the evil day, and cause the seat of violence to come near;
-<small><sub>**BSB:**</sub></small>
-You dismiss the day of calamity and bring near a reign of violence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.2|<< Amos 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.4|Amos 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

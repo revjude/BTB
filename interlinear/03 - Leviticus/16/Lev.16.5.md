@@ -1,4 +1,4 @@
-**Leviticus 16:5** 
+**Leviticus 16:5**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he shall take from the congregation of Israel two male goats for a sin offer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.4|<< Leviticus 16:4]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.6|Leviticus 16:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from with \<the>  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֗ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HRd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] congregation of  |**<big>&#8207;[[H5712\|עֲדַת֙]]&#8207; </big>**| 'a.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

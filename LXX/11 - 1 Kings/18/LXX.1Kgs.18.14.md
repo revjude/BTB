@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:14** 
 <small><sub>**LXX:**</sub></small>
 And now you say, Go, tell  your master, Behold, Elijah! and he will kill me. 
-<small><sub>**KJV:**</sub></small>
-And now thou sayest, Go, tell thy lord, Behold, Elijah [is here]: and he shall slay me.
-<small><sub>**BSB:**</sub></small>
-And now you say, ‘Go tell your lord that Elijah is here!’ He will kill me!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.13|<< 1 Kings 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.15|1 Kings 18:15 >>]]</td></tr></table>
 
 | Translation | Greek |

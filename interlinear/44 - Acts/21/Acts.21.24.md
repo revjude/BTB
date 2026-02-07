@@ -1,12 +1,12 @@
-**Acts 21:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:24**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Them take, and purify thyself with them, and be at charges with them, that they may shave [their] heads: and all may know that those things, whereof they were informed concerning thee, are nothing; but [that] thou thyself also walkest orderly, and keepest the law.
 <small><sub>**BSB:**</sub></small>
 Take these men, purify yourself along with them, and pay their expenses so they can have their heads shaved. Then everyone will know that there is no truth to these rumors about you, but that you also live in obedience to the law.
 <small><sub>**Literal:**</sub></small>
 These [men] having taken do be purified with them and do bear expense for them so that they will shave the head, and will know all that of which they have been informed about you no [thing] is, but you walk orderly also yourself keeping the law.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.23|<< Acts 21:23]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.25|Acts 21:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These [men] |**<big>[[G3778\|τούτους]]</big>**  |toutous <small><sup>[[D-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken |**<big>[[G3880\|παραλαβὼν]]</big>**  |paralabōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

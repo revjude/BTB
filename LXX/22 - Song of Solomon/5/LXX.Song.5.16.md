@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:16** 
 <small><sub>**LXX:**</sub></small>
 His throat \[is\] sweetness, and \[he is\] entirely desirable. This \[is\] my beloved \[man\], and this \[is\] my dear one, O daughters of Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-His mouth [is] most sweet: yea, he [is] altogether lovely. This [is] my beloved, and this [is] my friend, O daughters of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-His mouth is most sweet; he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.15|<< Song of Solomon 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.1|Song of Solomon 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

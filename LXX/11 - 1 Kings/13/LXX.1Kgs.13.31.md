@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:31** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after  lamenting him, that he said \[to\] his sons, saying, If I die, entomb me in  this tomb in which the man  of God was entombed in it! Put me by his bones! that my bones should be preserved with  his bones. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, after he had buried him, that he spake to his sons, saying, When I am dead, then bury me in the sepulchre wherein the man of God [is] buried; lay my bones beside his bones:
-<small><sub>**BSB:**</sub></small>
-After he had buried him, the prophet said to his sons, “When I die, you must bury me in the tomb where the man of God is buried. Lay my bones beside his bones,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.30|<< 1 Kings 13:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.32|1 Kings 13:32 >>]]</td></tr></table>
 
 | Translation | Greek |

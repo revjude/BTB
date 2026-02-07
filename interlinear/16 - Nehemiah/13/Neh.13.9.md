@@ -1,4 +1,4 @@
-**Nehemiah 13:9** 
+**Nehemiah 13:9**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the meat offering and the frankincense.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I ordered that the rooms be purified, and I had the articles of the house o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.8|<< Nehemiah 13:8]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.10|Nehemiah 13:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹ֣מְרָ֔]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'O.me.Ra<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and people purified  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2891\|יְטַהֲר֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ta.ha.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

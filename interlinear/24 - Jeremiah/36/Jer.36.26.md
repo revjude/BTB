@@ -1,4 +1,4 @@
-**Jeremiah 36:26** 
+**Jeremiah 36:26**<big><big>[[Jer.36.20 Jehoiakim Burns the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the king commanded Jerahmeel the son of Hammelech, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet: but the LORD hid them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, the king commanded Jerahmeel, a son of the king, as well as Seraiah son
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.25|<< Jeremiah 36:25]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.27|Jeremiah 36:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he commanded  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6680\|יְצַוֶּ֣ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.tza.Veh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H4428H\|מֶּלֶךְ]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

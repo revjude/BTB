@@ -1,10 +1,7 @@
 **LXX Psalm 68:24** 
 <small><sub>**LXX:**</sub></small>
 Your goings were viewed, O God; the goings  of my God, the king,  in the holy place. 
-<small><sub>**KJV:**</sub></small>
-They have seen thy goings, O God; [even] the goings of my God, my King, in the sanctuary.
-<small><sub>**BSB:**</sub></small>
-They have seen Your procession, O God—the march of my God and King into the sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.23|<< Psalm 68:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.25|Psalm 68:25 >>]]</td></tr></table>
 
 | Translation | Greek |

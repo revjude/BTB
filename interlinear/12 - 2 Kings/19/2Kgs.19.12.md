@@ -1,4 +1,4 @@
-**2 Kings 19:12** 
+**2 Kings 19:12**<big><big>[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have the gods of the nations delivered them which my fathers have destroyed; [as] Gozan, and Haran, and Rezeph, and the children of Eden which [were] in Thelasar?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Did the gods of the nations destroyed by my fathers rescue those nations—the g
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.11|<< 2 Kings 19:11]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.13|2 Kings 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ did they deliver  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H5337\|הִצִּ֨ילוּ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> hi.Tzi.lu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֜]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

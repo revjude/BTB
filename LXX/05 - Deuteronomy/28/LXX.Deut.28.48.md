@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:48** 
 <small><sub>**LXX:**</sub></small>
 And you shall serve  your enemies whom \[the\] <span class="smallcaps">lord</span> shall send as a successor over you in hunger, and in thirst, and in nakedness, and in want of all \[things\]. And he shall put a collar of iron upon  your neck, until whenever he should utterly destroy you. 
-<small><sub>**KJV:**</sub></small>
-Therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all [things]: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.
-<small><sub>**BSB:**</sub></small>
-you will serve your enemies the LORD will send against you in famine, thirst, nakedness, and destitution. He will place an iron yoke on your neck until He has destroyed you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.47|<< Deuteronomy 28:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.49|Deuteronomy 28:49 >>]]</td></tr></table>
 
 | Translation | Greek |

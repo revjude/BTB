@@ -1,4 +1,4 @@
-**Malachi 3:11** 
+**Malachi 3:11**<big><big>[[Mal.3.6 Robbing God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will rebuke the devourer for you, so that it will not destroy the fruits of yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.10|<< Malachi 3:10]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.12|Malachi 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will rebuke  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1605\|גָעַרְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ga.'ar.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 17:1** 
+**1 Samuel 17:1**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which [belongeth] to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the Philistines gathered their forces for war at Socoh in Judah, and they ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.23|<< 1 Samuel 16:23]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.2|1 Samuel 17:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0622\|יַּאַסְפ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'as.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּ֤ים]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

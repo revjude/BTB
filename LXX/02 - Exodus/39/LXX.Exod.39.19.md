@@ -1,10 +1,7 @@
 **LXX Exodus 39:19** 
 <small><sub>**LXX:**</sub></small>
 And they made two rings of gold. And they placed \[them\] upon the two fins at \[the\] tip of the oracle upon the tip of the posterior of the shoulder-piece from inside. 
-<small><sub>**KJV:**</sub></small>
-And they made two rings of gold, and put [them] on the two ends of the breastplate, upon the border of it, which [was] on the side of the ephod inward.
-<small><sub>**BSB:**</sub></small>
-They made two more gold rings and attached them to the other two corners of the breastpiece, on the inside edge next to the ephod.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.18|<< Exodus 39:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.20|Exodus 39:20 >>]]</td></tr></table>
 
 | Translation | Greek |

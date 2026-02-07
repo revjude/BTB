@@ -1,10 +1,7 @@
 **LXX Genesis 2:20** 
 <small><sub>**LXX:**</sub></small>
 And Adam called names to all the cattle, and to all the winged creatures of the heaven, and to all the wild beasts of the field; but to Adam there was not found a helper likened to him. 
-<small><sub>**KJV:**</sub></small>
-And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
-<small><sub>**BSB:**</sub></small>
-The man gave names to all the livestock, to the birds of the air, and to every beast of the field. But for Adam no suitable helper was found.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.19|<< Genesis 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.21|Genesis 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

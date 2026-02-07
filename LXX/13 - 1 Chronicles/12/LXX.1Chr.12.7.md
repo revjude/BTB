@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:7** 
 <small><sub>**LXX:**</sub></small>
 and Joelah, and Zebadiah sons of Jeroham, sons  of Gedor. 
-<small><sub>**KJV:**</sub></small>
-And Joelah, and Zebadiah, the sons of Jeroham of Gedor.
-<small><sub>**BSB:**</sub></small>
-and Joelah and Zebadiah, the sons of Jeroham from Gedor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.6|<< 1 Chronicles 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.8|1 Chronicles 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

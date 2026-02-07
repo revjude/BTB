@@ -1,4 +1,4 @@
-**Numbers 3:8** 
+**Numbers 3:8**<big><big>[[Num.3.5 The Duties of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They shall take care of all the furnishings of the Tent of Meeting and fulfill o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.7|<< Numbers 3:7]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.9|Numbers 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will keep  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8104H\|שָׁמְר֗וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

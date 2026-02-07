@@ -1,12 +1,12 @@
-**Mark 5:40
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:40**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying.
 <small><sub>**BSB:**</sub></small>
 And they laughed at Him. After He had put them all outside, He took the child’s father and mother and His own companions, and went in to see the child.
 <small><sub>**Literal:**</sub></small>
 And they were laughing at Him. He himself then having put out all takes with [Him] the father of the child and the mother and those with Him and enters in where was the child reclining.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.39|<< Mark 5:39]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.41|Mark 5:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were laughing at |**<big>[[G2606\|κατεγέλων]]</big>**  |kategelōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

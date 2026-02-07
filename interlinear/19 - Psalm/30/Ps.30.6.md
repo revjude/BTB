@@ -1,4 +1,4 @@
-**Psalms 30:6** (30:7)
+**Psalms 30:6**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in my prosperity I said, I shall never be moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In prosperity I said, “I will never be shaken.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.5|<< Psalms 30:5]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.7|Psalms 30:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ֭]]&#8207;&#8207;[[H0589\|אֲנִי]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> 'a.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I said  |**<big>&#8207;[[H0559\|אָמַ֣רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

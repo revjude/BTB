@@ -1,4 +1,4 @@
-**1 Chronicles 9:34** 
+**1 Chronicles 9:34**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These chief fathers of the Levites [were] chief throughout their generations; these dwelt at Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All these were heads of Levite families, chiefs according to their genealogies, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.33|<< 1 Chronicles 9:33]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.35|1 Chronicles 9:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵלֶּה֩]]&#8207; </big>**| 'e.Leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] chiefs of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֨י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

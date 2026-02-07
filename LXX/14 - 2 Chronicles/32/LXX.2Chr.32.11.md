@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:11** 
 <small><sub>**LXX:**</sub></small>
 Has not Hezekiah deceived you  to deliver you into death, and into hunger, and into thirst, saying, \[The\] <span class="smallcaps">lord</span>  our God shall deliver us from \[the\] hand of \[the\] king of Assyria? 
-<small><sub>**KJV:**</sub></small>
-Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The LORD our God shall deliver us out of the hand of the king of Assyria?
-<small><sub>**BSB:**</sub></small>
-Is not Hezekiah misleading you to give you over to death by famine and thirst when he says, ‘The LORD our God will deliver us from the hand of the king of Assyria?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.10|<< 2 Chronicles 32:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.12|2 Chronicles 32:12 >>]]</td></tr></table>
 
 | Translation | Greek |

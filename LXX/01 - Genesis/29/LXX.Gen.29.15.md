@@ -1,10 +1,7 @@
 **LXX Genesis 29:15** 
 <small><sub>**LXX:**</sub></small>
 And Laban said  to Jacob that, For you are my brother, you shall not be a slave to me without charge, you tell to me what  your wage is? 
-<small><sub>**KJV:**</sub></small>
-And Laban said unto Jacob, Because thou [art] my brother, shouldest thou therefore serve me for nought? tell me, what [shall] thy wages [be]?
-<small><sub>**BSB:**</sub></small>
-Laban said to him, “Just because you are my relative, should you work for nothing? Tell me what your wages should be.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.14|<< Genesis 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.16|Genesis 29:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 17:13** 
+**Judges 17:13**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Micah, Now know I that the LORD will do me good, seeing I have a Levite to [my] priest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Micah said, “Now I know that the LORD will be good to me, because a Levit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.12|<< Judges 17:12]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.1|Judges 18:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Micah  |**<big>&#8207;[[H4318G\|מִיכָ֔ה]]&#8207; </big>**| mi.Khah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

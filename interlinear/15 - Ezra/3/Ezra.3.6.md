@@ -1,4 +1,4 @@
-**Ezra 3:6** 
+**Ezra 3:6**<big><big>[[Ezra.3.1 Sacrifices Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the first day of the seventh month began they to offer burnt offerings unto the LORD. But the foundation of the temple of the LORD was not [yet] laid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the first day of the seventh month, the Israelites began to offer burnt offer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.5|<< Ezra 3:5]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.7|Ezra 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from day  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|יּ֤וֹם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אֶחָד֙]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

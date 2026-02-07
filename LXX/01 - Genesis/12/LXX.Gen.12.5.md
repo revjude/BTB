@@ -1,10 +1,7 @@
 **LXX Genesis 12:5** 
 <small><sub>**LXX:**</sub></small>
 And Abram took Sarai  his wife, and  Lot \[the\] son  of his brother, and all  their possessions, as much as they acquired, and every soul which they acquired from out of Haran. And they went forth to go into \[the\] land of Canaan. And they entered into the land of Canaan. 
-<small><sub>**KJV:**</sub></small>
-And Abram took Sarai his wife, and Lot his brother’s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.
-<small><sub>**BSB:**</sub></small>
-And Abram took his wife Sarai, his nephew Lot, and all the possessions and people they had acquired in Haran, and set out for the land of Canaan. When they came to the land of Canaan,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.4|<< Genesis 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.6|Genesis 12:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 12:5** is...

@@ -1,10 +1,7 @@
 **LXX Psalm 135:10** 
 <small><sub>**LXX:**</sub></small>
 The one who struck many nations, and killed strong kings; 
-<small><sub>**KJV:**</sub></small>
-Who smote great nations, and slew mighty kings;
-<small><sub>**BSB:**</sub></small>
-He struck down many nations and slaughtered mighty kings:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.9|<< Psalm 135:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.11|Psalm 135:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 3:8** 
+**Zechariah 3:8**<big><big>[[Zech.3.1 The Vision of Joshua the High Priest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they [are] men wondered at: for, behold, I will bring forth my servant the BRANCH.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear now, O high priest Joshua, you and your companions seated before you, who a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3.7|<< Zechariah 3:7]]</td><td align="center" style="border:none;">[[Zech.3|Zechariah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3.9|Zechariah 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שְֽׁמַֽע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.ma'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֞א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 37:35** 
+**Psalms 37:35**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have seen the wicked in great power, and spreading himself like a green bay tree.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have seen a wicked, ruthless man flourishing like a well-rooted native tree,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.34|<< Psalms 37:34]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.36|Psalms 37:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have seen  |**<big>&#8207;[[H7200G\|רָ֭אִיתִי]]&#8207; </big>**| Ra.'i.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wicked [person]  |**<big>&#8207;[[H7563\|רָשָׁ֣ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 14:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:22**<big><big>[[Acts.14.21 Strengthening the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Confirming the souls of the disciples, [and] exhorting them to continue in the faith, and that we must through much tribulation enter into the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 strengthening the souls of the disciples and encouraging them to continue in the faith. “We must endure many hardships to enter the kingdom of God,” they said.
 <small><sub>**Literal:**</sub></small>
 strengthening the souls of the disciples, exhorting [them] to continue in the faith and that through many tribulations it behooves us to enter into the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.21|<< Acts 14:21]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.23|Acts 14:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | strengthening |**<big>[[G1991\|ἐπιστηρίζοντες]]</big>**  |epistērizontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

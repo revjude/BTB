@@ -1,10 +1,7 @@
 **LXX Genesis 47:5** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh said to Joseph, saying,  Your father and  your brothers have come to you. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh spake unto Joseph, saying, Thy father and thy brethren are come unto thee:
-<small><sub>**BSB:**</sub></small>
-Pharaoh said to Joseph, “Now that your father and brothers have come to you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.4|<< Genesis 47:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.6|Genesis 47:6 >>]]</td></tr></table>
 
 | Translation | Greek |

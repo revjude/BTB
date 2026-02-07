@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:4** 
 <small><sub>**LXX:**</sub></small>
 And the one guiding shall offer the whole burnt-offerings to the <span class="smallcaps">lord</span> on the day of the Sabbaths -- six unblemished lambs and an unblemished ram; 
-<small><sub>**KJV:**</sub></small>
-And the burnt offering that the prince shall offer unto the LORD in the sabbath day [shall be] six lambs without blemish, and a ram without blemish.
-<small><sub>**BSB:**</sub></small>
-The burnt offering that the prince presents to the LORD on the Sabbath day shall be six unblemished male lambs and an unblemished ram.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.3|<< Ezekiel 46:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.5|Ezekiel 46:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:11** 
 <small><sub>**LXX:**</sub></small>
 And  I filled my rage, and I waited, but not finished them off entirely. I will pour out upon \[the\] simple ones outside, and upon \[the\] gathering of young men together; for man and woman shall be seized; \[the\] elder with \[the one\] full of days. 
-<small><sub>**KJV:**</sub></small>
-Therefore I am full of the fury of the LORD; I am weary with holding in: I will pour it out upon the children abroad, and upon the assembly of young men together: for even the husband with the wife shall be taken, the aged with [him that is] full of days.
-<small><sub>**BSB:**</sub></small>
-But I am full of the LORD’s wrath; I am tired of holding it back. “Pour it out on the children in the street, and on the young men gathered together. For both husband and wife will be captured, the old and the very old alike.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.10|<< Jeremiah 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.12|Jeremiah 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 4:30** 
+**Exodus 4:30**<big><big>[[Exod.4.27 The People Believe Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Aaron relayed everything the LORD had said to Moses. And Moses performed the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.29|<< Exodus 4:29]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.31|Exodus 4:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֔ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

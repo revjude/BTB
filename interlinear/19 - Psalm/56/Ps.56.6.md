@@ -1,4 +1,4 @@
-**Psalms 56:6** (56:7)
+**Psalms 56:6**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They conspire, they lurk, they watch my steps while they wait to take my life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.5|<< Psalms 56:5]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.7|Psalms 56:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they stir up trouble  |**<big>&#8207;[[H1481B\|יָג֤וּרוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Gu.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they lie hidden  [^1]|**<big>&#8207;[[H6845\|יִצְפּ֗וֹנוּ]]&#8207; </big>**[^2] | yitz.Po.nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

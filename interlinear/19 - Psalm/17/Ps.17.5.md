@@ -1,4 +1,4 @@
-**Psalms 17:5** 
+**Psalms 17:5**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hold up my goings in thy paths, [that] my footsteps slip not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My steps have held to Your paths; my feet have not slipped.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.4|<< Psalms 17:4]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.6|Psalms 17:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have held firm  |**<big>&#8207;[[H8551\|תָּמֹ֣ךְ]]&#8207; </big>**| ta.Mokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | steps my  |**<big>&#8207;[[H0838A\|אֲ֭שֻׁרַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'A.shu.ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

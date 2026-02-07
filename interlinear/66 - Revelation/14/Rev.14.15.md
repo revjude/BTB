@@ -1,5 +1,5 @@
-**Revelation 14:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:15**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe.
 <small><sub>**BSB:**</sub></small>
 Then another angel came out of the temple, crying out in a loud voice to the One seated on the cloud, “Swing Your sickle and reap, because the time has come to harvest, for the crop of the earth is ripe.”
@@ -10,7 +10,7 @@ And another angel came out of the temple crying in a voice loud to the [One] sit
 > $\quad$ alluding to: [[LXX.Joel.3.13|Joel 3:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | another |**<big>[[G0243\|ἄλλος]]</big>**  |allos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

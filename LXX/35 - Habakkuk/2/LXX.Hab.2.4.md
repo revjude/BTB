@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:4** 
 <small><sub>**LXX:**</sub></small>
 If he keeps back, my soul favors not in him; but the just one shall live by my belief. 
-<small><sub>**KJV:**</sub></small>
-Behold, his soul [which] is lifted up is not upright in him: but the just shall live by his faith.
-<small><sub>**BSB:**</sub></small>
-Look at the proud one; his soul is not upright—but the righteous will live by faith—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.3|<< Habakkuk 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.5|Habakkuk 2:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Habakkuk 2:4** is...

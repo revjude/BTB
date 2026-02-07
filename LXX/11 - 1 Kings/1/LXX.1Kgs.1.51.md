@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:51** 
 <small><sub>**LXX:**</sub></small>
 And it was announced  to Solomon, saying, Behold, Adonijah fears  king Solomon, and he takes hold of the horns of the altar, saying, king Solomon swear by an oath to me today to not put to death  his servant by \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And it was told Solomon, saying, Behold, Adonijah feareth king Solomon: for, lo, he hath caught hold on the horns of the altar, saying, Let king Solomon swear unto me to day that he will not slay his servant with the sword.
-<small><sub>**BSB:**</sub></small>
-It was reported to Solomon: “Behold, Adonijah fears King Solomon, and he has taken hold of the horns of the altar, saying, ‘Let King Solomon first swear to me not to put his servant to the sword.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.50|<< 1 Kings 1:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.52|1 Kings 1:52 >>]]</td></tr></table>
 
 | Translation | Greek |

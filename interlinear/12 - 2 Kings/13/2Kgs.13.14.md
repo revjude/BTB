@@ -1,4 +1,4 @@
-**2 Kings 13:14** 
+**2 Kings 13:14**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Elisha was fallen sick of his sickness whereof he died. And Joash the king of Israel came down unto him, and wept over his face, and said, O my father, my father, the chariot of Israel, and the horsemen thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Elisha had fallen sick with the illness from which he would die, Jehoash ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.13|<< 2 Kings 13:13]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.15|2 Kings 13:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Elisha  |**<big>&#8207;[[H9002\|וֶֽ]]&#8207;&#8207;[[H0477\|אֱלִישָׁע֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he became sick  |**<big>&#8207;[[H2470H\|חָלָ֣ה]]&#8207; </big>**| cha.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

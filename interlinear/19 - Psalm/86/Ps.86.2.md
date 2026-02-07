@@ -1,4 +1,4 @@
-**Psalms 86:2** 
+**Psalms 86:2**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Preserve my soul; for I [am] holy: O thou my God, save thy servant that trusteth in thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Preserve my soul, for I am godly. You are my God; save Your servant who trusts i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.1|<< Psalms 86:1]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.3|Psalms 86:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | preserve !  |**<big>&#8207;[[H8104H\|שָֽׁמְרָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| sha.me.Ra<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | life my  |**<big>&#8207;[[H5315G\|נַפְשִׁ]]&#8207;&#8207;[[H9020\|י֮]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

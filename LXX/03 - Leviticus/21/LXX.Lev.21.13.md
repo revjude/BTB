@@ -1,10 +1,7 @@
 **LXX Leviticus 21:13** 
 <small><sub>**LXX:**</sub></small>
 This one shall take a virgin woman from his family. 
-<small><sub>**KJV:**</sub></small>
-And he shall take a wife in her virginity.
-<small><sub>**BSB:**</sub></small>
-The woman he marries must be a virgin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.12|<< Leviticus 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.14|Leviticus 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

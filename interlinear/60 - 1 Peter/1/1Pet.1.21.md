@@ -1,12 +1,12 @@
-**1 Peter 1:21
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:21**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.
 <small><sub>**BSB:**</sub></small>
 Through Him you believe in God, who raised Him from the dead and glorified Him; and so your faith and hope are in God.
 <small><sub>**Literal:**</sub></small>
 who through Him believing in God, the [one] having raised up Him out from [the] dead and glory Him having given, so as for the faith of you and hope to be in God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.20|<< 1 Peter 1:20]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.22|1 Peter 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | through |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:14** 
 <small><sub>**LXX:**</sub></small>
 saying, Far be it, for we shall enter into \[the\] land of Egypt, and in no way should we know war, and in no way should we hear \[the\] sound of a trumpet, and in no way should we hunger in bread loaves, and we shall live there. 
-<small><sub>**KJV:**</sub></small>
-Saying, No; but we will go into the land of Egypt, where we shall see no war, nor hear the sound of the trumpet, nor have hunger of bread; and there will we dwell:
-<small><sub>**BSB:**</sub></small>
-and if you say, ‘No, but we will go to the land of Egypt and live there, where we will not see war or hear the sound of the ram’s horn or hunger for bread,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.13|<< Jeremiah 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.15|Jeremiah 42:15 >>]]</td></tr></table>
 
 | Translation | Greek |

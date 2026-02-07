@@ -1,4 +1,4 @@
-**Job 1:1** 
+**Job 1:1**<big><big>[[Job.1.1 Job’s Character and Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There was a man in the land of Uz, whose name [was] Job; and that man was perfect and upright, and one that feared God, and eschewed evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There was a man in the land of Uz whose name was Job. And this man was blameless
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.10.3|<< Esther 10:3]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.2|Job 1:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a man  |**<big>&#8207;[[H0376G\|אִ֛ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was  |**<big>&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

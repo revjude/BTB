@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:4** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan took off the outer garment, the one upon him, and he gave it \[to\] David, and  his uniform,  unto  his broadsword, and the bow, and  his belt. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan stripped himself of the robe that [was] upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his girdle.
-<small><sub>**BSB:**</sub></small>
-And Jonathan removed the robe he was wearing and gave it to David, along with his tunic, his sword, his bow, and his belt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.3|<< 1 Samuel 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.5|1 Samuel 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

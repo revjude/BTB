@@ -1,4 +1,4 @@
-**2 Kings 9:11** 
+**2 Kings 9:11**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jehu came forth to the servants of his lord: and [one] said unto him, [Is] all well? wherefore came this mad [fellow] to thee? And he said unto them, Ye know the man, and his communication.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Jehu went out to the servants of his master, they asked, “Is everything a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.10|<< 2 Kings 9:10]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.12|2 Kings 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jehu  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3058H\|יֵה֗וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went out  |**<big>&#8207;[[H3318G\|יָצָא֙]]&#8207; </big>**| ya.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

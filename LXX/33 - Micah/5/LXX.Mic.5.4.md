@@ -1,10 +1,7 @@
 **LXX Micah 5:4** 
 <small><sub>**LXX:**</sub></small>
 And he shall stand and tend in strength of \[the\] <span class="smallcaps">lord</span>; and in the glory of \[the\] name of \[the\] <span class="smallcaps">lord</span>  their God they shall exist; for now he shall be magnified unto \[the\] uttermost parts of earth. 
-<small><sub>**KJV:**</sub></small>
-And he shall stand and feed in the strength of the LORD, in the majesty of the name of the LORD his God; and they shall abide: for now shall he be great unto the ends of the earth.
-<small><sub>**BSB:**</sub></small>
-He will stand and shepherd His flock in the strength of the LORD, in the majestic name of the LORD His God. And they will dwell securely, for then His greatness will extend to the ends of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.3|<< Micah 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.5|Micah 5:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Micah 5:4** is...

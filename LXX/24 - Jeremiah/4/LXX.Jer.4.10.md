@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:10** 
 <small><sub>**LXX:**</sub></small>
 And I said, O master, O <span class="smallcaps">lord</span>, Surely indeed in beguiling you beguiled  this people, and  Jerusalem, saying, Peace will be to you; whereas the sword shall touch unto  their soul. 
-<small><sub>**KJV:**</sub></small>
-Then said I, Ah, Lord GOD! surely thou hast greatly deceived this people and Jerusalem, saying, Ye shall have peace; whereas the sword reacheth unto the soul.
-<small><sub>**BSB:**</sub></small>
-Then I said, “Ah, Lord GOD, how completely You have deceived this people and Jerusalem by saying, ‘You will have peace,’ while a sword is at our throats.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.9|<< Jeremiah 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.11|Jeremiah 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

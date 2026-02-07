@@ -1,10 +1,7 @@
 **LXX Exodus 10:14** 
 <small><sub>**LXX:**</sub></small>
 and it led it upon all the land of Egypt. And it rested upon all the boundaries of Egypt -- many, exceedingly. Prior of them there were not such locust, and after this there will not be so. 
-<small><sub>**KJV:**</sub></small>
-And the locusts went up over all the land of Egypt, and rested in all the coasts of Egypt: very grievous [were they]; before them there were no such locusts as they, neither after them shall be such.
-<small><sub>**BSB:**</sub></small>
-The locusts swarmed across the land and settled over the entire territory of Egypt. Never before had there been so many locusts, and never again will there be.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.13|<< Exodus 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.15|Exodus 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

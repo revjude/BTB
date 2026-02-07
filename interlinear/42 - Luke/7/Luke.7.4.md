@@ -1,12 +1,12 @@
-**Luke 7:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:4**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:
 <small><sub>**BSB:**</sub></small>
 They came to Jesus and pleaded with Him earnestly, “This man is worthy to have You grant this,
 <small><sub>**Literal:**</sub></small>
 <the> And having come to <the> Jesus they were begging Him earnestly saying that Worthy he is to whom You will grant this;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.3|<< Luke 7:3]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.5|Luke 7:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:18** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, And I am a prophet as you, and an angel spoke to me by word of \[the\] <span class="smallcaps">lord</span>, saying, Return him with yourself to  your house, and let him eat bread, and drink water! But he lied to him. 
-<small><sub>**KJV:**</sub></small>
-He said unto him, I [am] a prophet also as thou [art]; and an angel spake unto me by the word of the LORD, saying, Bring him back with thee into thine house, that he may eat bread and drink water. [But] he lied unto him.
-<small><sub>**BSB:**</sub></small>
-Then the prophet replied, “I too am a prophet like you, and an angel spoke to me by the word of the LORD, saying, ‘Bring him back with you to your house, so that he may eat bread and drink water.’” The old prophet was lying to him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.17|<< 1 Kings 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.19|1 Kings 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:10** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines waged war against them; and \[every\] man of Israel failed before the Philistines, and each fled unto  his tent. And there came to pass an exceedingly great calamity; and there fell from Israel thirty thousand from \[the\] ranks. 
-<small><sub>**KJV:**</sub></small>
-And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.
-<small><sub>**BSB:**</sub></small>
-So the Philistines fought, and Israel was defeated, and each man fled to his tent. The slaughter was very great—thirty thousand foot soldiers of Israel fell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.9|<< 1 Samuel 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.11|1 Samuel 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

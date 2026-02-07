@@ -1,12 +1,12 @@
-**2 Corinthians 1:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:1**<big><big>[[2Cor.1.1 Paul Greets the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul, an apostle of Jesus Christ by the will of God, and Timothy [our] brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
 <small><sub>**BSB:**</sub></small>
 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, To the church of God in Corinth, together with all the saints throughout Achaia:
 <small><sub>**Literal:**</sub></small>
 Paul apostle of Christ Jesus through [the] will of God and Timothy the brother To the church <the> of God which is being in Corinth with the saints all who are being in all <the> Achaia;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.24|<< 1 Corinthians 16:24]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.2|2 Corinthians 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | apostle |**<big>[[G0652\|ἀπόστολος]]</big>**  |apostolos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

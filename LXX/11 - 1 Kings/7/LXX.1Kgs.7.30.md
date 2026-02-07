@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:30** 
 <small><sub>**LXX:**</sub></small>
 And four wheels of brass \[were to\] the one base and the fastenings of brass and its four parts, of their protrusion \[supports\] from beneath the bathing tubs, and protrusion \[supports\] pouring from the other side a man being situated before. And the mouth of it within the top and upward one cubit. 
-<small><sub>**KJV:**</sub></small>
-And every base had four brasen wheels, and plates of brass: and the four corners thereof had undersetters: under the laver [were] undersetters molten, at the side of every addition.
-<small><sub>**BSB:**</sub></small>
-Each stand had four bronze wheels with bronze axles and a basin resting on four supports, with wreaths at each side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.29|<< 1 Kings 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.31|1 Kings 7:31 >>]]</td></tr></table>
 
 | Translation | Greek |

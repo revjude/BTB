@@ -1,10 +1,7 @@
 **LXX Psalm 10:9** 
 <small><sub>**LXX:**</sub></small>
 He lies in wait in concealment as a lion in  his lair; he lies in wait  to snatch away \[the\] poor; to snatch away \[the\] poor when  he draws him. In  his snare he humbles him. 
-<small><sub>**KJV:**</sub></small>
-He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.
-<small><sub>**BSB:**</sub></small>
-He lies in wait like a lion in a thicket; he lurks to seize the oppressed; he catches the lowly in his net.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.8|<< Psalm 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.10|Psalm 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

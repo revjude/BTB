@@ -1,4 +1,4 @@
-**Psalms 68:4** (68:5)
+**Psalms 68:4**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sing to God! Sing praises to His name. Exalt Him who rides on the clouds—His n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.3|<< Psalms 68:3]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.5|Psalms 68:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sing  |**<big>&#8207;[[H7891\|שִׁ֤ירוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Shi.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to God  |**<big>&#8207;[[H9005\|לֵֽ]]&#8207;&#8207;[[H0430G\|אלֹהִים֮]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

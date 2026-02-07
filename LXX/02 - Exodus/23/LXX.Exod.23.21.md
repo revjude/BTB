@@ -1,10 +1,7 @@
 **LXX Exodus 23:21** 
 <small><sub>**LXX:**</sub></small>
 Take heed to yourself, and hearken to him, and do not resist his persuasion,  for he should not avoid you,  for my name is upon him! 
-<small><sub>**KJV:**</sub></small>
-Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name [is] in him.
-<small><sub>**BSB:**</sub></small>
-Pay attention to him and listen to his voice; do not defy him, for he will not forgive rebellion, since My Name is in him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.20|<< Exodus 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.22|Exodus 23:22 >>]]</td></tr></table>
 
 | Translation | Greek |

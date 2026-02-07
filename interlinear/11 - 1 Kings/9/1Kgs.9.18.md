@@ -1,4 +1,4 @@
-**1 Kings 9:18** 
+**1 Kings 9:18**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Baalath, and Tadmor in the wilderness, in the land,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Baalath, and Tamar in the Wilderness of Judah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.17|<< 1 Kings 9:17]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.19|1 Kings 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Baalath  |**<big>&#8207;[[H1191H\|בַּעֲלָ֛ת]]&#8207; </big>**| ba.'a.Lat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

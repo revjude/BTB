@@ -1,12 +1,12 @@
-**1 Timothy 3:14
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:14**<big><big>[[1Tim.3.14 The Mystery of Godliness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These things write I unto thee, hoping to come unto thee shortly:
 <small><sub>**BSB:**</sub></small>
 Although I hope to come to you soon, I am writing you these things
 <small><sub>**Literal:**</sub></small>
 These things to you I am writing hoping to come to you with speed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.13|<< 1 Timothy 3:13]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.15|1 Timothy 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτά]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you |**<big>[[G4771\|σοι]]</big>**  |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

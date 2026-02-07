@@ -1,10 +1,7 @@
 **LXX Psalm 119:15** 
 <small><sub>**LXX:**</sub></small>
 In  your commandments I shall meditate; and I shall contemplate  your ways. 
-<small><sub>**KJV:**</sub></small>
-I will meditate in thy precepts, and have respect unto thy ways.
-<small><sub>**BSB:**</sub></small>
-I will meditate on Your precepts and regard Your ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.14|<< Psalm 119:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.16|Psalm 119:16 >>]]</td></tr></table>
 
 | Translation | Greek |

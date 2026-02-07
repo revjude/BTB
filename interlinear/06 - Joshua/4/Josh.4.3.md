@@ -1,4 +1,4 @@
-**Joshua 4:3** 
+**Joshua 4:3**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And command ye them, saying, Take you hence out of the midst of Jordan, out of the place where the priests’ feet stood firm, twelve stones, and ye shall carry them over with you, and leave them in the lodging place, where ye shall lodge this night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and command them: ‘Take up for yourselves twelve stones from the middle of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.2|<< Joshua 4:2]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.4|Joshua 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and command  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6680\|צַוּ֣וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.Vu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ]]&#8207;&#8207;[[H9038\|ם֮]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

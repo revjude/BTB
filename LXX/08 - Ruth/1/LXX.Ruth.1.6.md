@@ -1,10 +1,7 @@
 **LXX Ruth 1:6** 
 <small><sub>**LXX:**</sub></small>
 And she rose up, and  her two daughter-in-laws, and they returned from out of \[the\] country of Moab; for they heard in \[the\] country of Moab that \[the\] <span class="smallcaps">lord</span> visited  his people  to give to them bread \[loaves\]. 
-<small><sub>**KJV:**</sub></small>
-Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread.
-<small><sub>**BSB:**</sub></small>
-When Naomi heard in Moab that the LORD had attended to His people by providing them with food, she and her daughters-in-law prepared to leave the land of Moab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.5|<< Ruth 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.7|Ruth 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

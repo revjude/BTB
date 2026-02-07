@@ -1,4 +1,4 @@
-**1 Samuel 7:2** 
+**1 Samuel 7:2**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, while the ark abode in Kirjathjearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And from that day a long time passed, twenty years in all, as the ark remained a
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] day  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|יּ֞וֹם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

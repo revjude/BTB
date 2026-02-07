@@ -1,10 +1,7 @@
 **LXX Leviticus 23:24** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel, saying! The seventh month, \[day\] one of the month will be to you a rest, a memorial of trumpets, a holy convocation to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, saying, In the seventh month, in the first [day] of the month, shall ye have a sabbath, a memorial of blowing of trumpets, an holy convocation.
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and say, ‘On the first day of the seventh month you are to have a day of rest, a sacred assembly announced by trumpet blasts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.23|<< Leviticus 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.25|Leviticus 23:25 >>]]</td></tr></table>
 
 | Translation | Greek |

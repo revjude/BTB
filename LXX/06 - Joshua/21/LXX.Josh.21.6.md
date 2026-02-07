@@ -1,10 +1,7 @@
 **LXX Joshua 21:6** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Gershon, from the kin of \[the\] tribe of Issachar, and from the tribe of Asher, and from the tribe of Naphtali, and from the half tribe of Manasseh in  Bashan -- thirteen cities by casting lots. 
-<small><sub>**KJV:**</sub></small>
-And the children of Gershon [had] by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities.
-<small><sub>**BSB:**</sub></small>
-The descendants of Gershon received thirteen cities by lot from the tribes of Issachar, Asher, Naphtali, and the half-tribe of Manasseh in Bashan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.5|<< Joshua 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.7|Joshua 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 14:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:20**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For meat destroy not the work of God. All things indeed [are] pure; but [it is] evil for that man who eateth with offence.
 <small><sub>**BSB:**</sub></small>
 Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a man to let his eating be a stumbling block.
 <small><sub>**Literal:**</sub></small>
 Not for the sake of food do destroy the work <the> of God. All things indeed [are] clean but [it is] evil to the man <the> through a stumbling block eating;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.19|<< Romans 14:19]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.21|Romans 14:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for the sake of |**<big>[[G1752\|ἕνεκεν]]</big>**  |heneken <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

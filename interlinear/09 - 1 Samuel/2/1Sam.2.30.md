@@ -1,4 +1,4 @@
-**1 Samuel 2:30** 
+**1 Samuel 2:30**<big><big>[[1Sam.2.27 A Prophecy against the House of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the LORD God of Israel saith, I said indeed [that] thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, the LORD, the God of Israel, declares: ‘I did indeed say that your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.29|<< 1 Samuel 2:29]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.31|1 Samuel 2:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

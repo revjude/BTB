@@ -1,10 +1,7 @@
 **LXX Obadiah 1:8** 
 <small><sub>**LXX:**</sub></small>
 In  that day, says \[the\] <span class="smallcaps">lord</span>, I will destroy \[the\] wise ones from out of  Edom, and understanding from \[the\] mount of Esau. 
-<small><sub>**KJV:**</sub></small>
-Shall I not in that day, saith the LORD, even destroy the wise [men] out of Edom, and understanding out of the mount of Esau?
-<small><sub>**BSB:**</sub></small>
-In that day, declares the LORD, will I not destroy the wise men of Edom and the men of understanding in the mountains of Esau?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.7|<< Obadiah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.9|Obadiah 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

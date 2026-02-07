@@ -1,10 +1,7 @@
 **LXX Psalm 119:156** 
 <small><sub>**LXX:**</sub></small>
  Your compassions \[are\] many, O <span class="smallcaps">lord</span>; according to  your judgment enliven me! 
-<small><sub>**KJV:**</sub></small>
-Great [are] thy tender mercies, O LORD: quicken me according to thy judgments.
-<small><sub>**BSB:**</sub></small>
-Great are Your mercies, O LORD; revive me according to Your ordinances.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.156|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.155|<< Psalm 119:155]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.157|Psalm 119:157 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 10:5** 
+**Deuteronomy 10:5**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I turned myself and came down from the mount, and put the tables in the ark which I had made; and there they be, as the LORD commanded me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and I went back down the mountain and placed the tablets in the ark I had made, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.4|<< Deuteronomy 10:4]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.6|Deuteronomy 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I turned  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6437G\|אֵ֗פֶן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'E.fen<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I came down  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H3381\|אֵרֵד֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Red<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

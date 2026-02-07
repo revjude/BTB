@@ -1,12 +1,12 @@
-**Luke 12:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:4**<big><big>[[Luke.12.4 Fear God Alone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.
 <small><sub>**BSB:**</sub></small>
 I tell you, My friends, do not be afraid of those who kill the body and after that can do no more.
 <small><sub>**Literal:**</sub></small>
 I say now to you those friends of Mine; not you may fear because of those killing the body and after these things not being able more excessive anything to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.3|<< Luke 12:3]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.5|Luke 12:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|Λέγω]]</big>**  |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

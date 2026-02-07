@@ -1,4 +1,4 @@
-**Jeremiah 5:1** 
+**Jeremiah 5:1**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be [any] that executeth judgment, that seeketh the truth; and I will pardon it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Run ye to and fro through the streets of Jerusalem, and see now, and know, and s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.31|<< Jeremiah 4:31]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.2|Jeremiah 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rove about  |**<big>&#8207;[[H7751A\|שׁוֹטְט֞וּ]]&#8207; </big>**| sho.Tu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] streets of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2351\|חוּצ֣וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chu.Tzot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

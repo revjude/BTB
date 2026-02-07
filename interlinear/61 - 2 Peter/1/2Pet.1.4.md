@@ -1,12 +1,12 @@
-**2 Peter 1:4
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:4**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.
 <small><sub>**BSB:**</sub></small>
 Through these He has given us His precious and magnificent promises, so that through them you may become partakers of the divine nature, now that you have escaped the corruption in the world caused by evil desires.
 <small><sub>**Literal:**</sub></small>
 through which the precious and magnificent to us promises He has himself given, so that through these you may become of [the] divine partakers nature having escaped the in the world in desire decay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.3|<< 2 Peter 1:3]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.5|2 Peter 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | through |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

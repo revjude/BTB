@@ -1,10 +1,7 @@
 **LXX Isaiah 6:11** 
 <small><sub>**LXX:**</sub></small>
 And I said, Until when, O <span class="smallcaps">lord</span>? And he said, Until whenever cities should be made desolate by  not being dwelt \[in\]; and houses by reason of  not being men; and the land shall be left desolate. 
-<small><sub>**KJV:**</sub></small>
-Then said I, Lord, how long? And he answered, Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate,
-<small><sub>**BSB:**</sub></small>
-Then I asked: “How long, O Lord?” And He replied: “Until the cities lie ruined and without inhabitant, until the houses are left unoccupied and the land is desolate and ravaged,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.10|<< Isaiah 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.12|Isaiah 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

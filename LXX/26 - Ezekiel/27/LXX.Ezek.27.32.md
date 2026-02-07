@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:32** 
 <small><sub>**LXX:**</sub></small>
 Their sons shall take a lamentation over you and a wailing, Sor, Who \[is\] as Tyre observing silence in \[the\] middle of the sea? 
-<small><sub>**KJV:**</sub></small>
-And in their wailing they shall take up a lamentation for thee, and lament over thee, [saying], What [city is] like Tyrus, like the destroyed in the midst of the sea?
-<small><sub>**BSB:**</sub></small>
-As they wail and mourn over you, they will take up a lament for you: ‘Who was ever like Tyre, silenced in the middle of the sea?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.31|<< Ezekiel 27:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.33|Ezekiel 27:33 >>]]</td></tr></table>
 
 | Translation | Greek |

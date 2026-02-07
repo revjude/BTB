@@ -1,4 +1,4 @@
-**Ezekiel 23:24** 
+**Ezekiel 23:24**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall come against thee with chariots, wagons, and wheels, and with an assembly of people, [which] shall set against thee buckler and shield and helmet round about: and I will set judgment before them, and they shall judge thee according to their judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will come against you with a host of peoples, with weapons, chariots, and w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.23|<< Ezekiel 23:23]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.25|Ezekiel 23:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֣אוּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va.'u<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלַ֡יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

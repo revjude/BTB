@@ -1,12 +1,12 @@
-**Matthew 12:45
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:45**<big><big>[[Matt.12.43 An Unclean Spirit Returns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last [state] of that man is worse than the first. Even so shall it be also unto this wicked generation.
 <small><sub>**BSB:**</sub></small>
 Then it goes and brings with it seven other spirits more wicked than itself, and they go in and dwell there. And the final plight of that man is worse than the first. So will it be with this wicked generation.”
 <small><sub>**Literal:**</sub></small>
 Then it goes and it takes with itself seven other spirits more evil than itself, and having entered in they dwell there; and becomes the last <the> man of that worse than the first. So it will be also <the> to generation this the evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.44|<< Matthew 12:44]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.46|Matthew 12:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it goes |**<big>[[G4198\|πορεύεται]]</big>**  |poreuetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

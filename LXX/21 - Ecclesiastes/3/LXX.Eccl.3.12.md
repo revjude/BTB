@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:12** 
 <small><sub>**LXX:**</sub></small>
 I knew that there is not good in them, except  to be glad and  to do good in his life. 
-<small><sub>**KJV:**</sub></small>
-I know that [there is] no good in them, but for [a man] to rejoice, and to do good in his life.
-<small><sub>**BSB:**</sub></small>
-I know that there is nothing better for them than to rejoice and do good while they live,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.11|<< Ecclesiastes 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.13|Ecclesiastes 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

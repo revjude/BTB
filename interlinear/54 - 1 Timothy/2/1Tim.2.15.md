@@ -1,12 +1,12 @@
-**1 Timothy 2:15
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:15**<big><big>[[1Tim.2.9 Instructions to Women|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.
 <small><sub>**BSB:**</sub></small>
 Women, however, will be saved through childbearing, if they continue in faith, love, and holiness, with self-control.
 <small><sub>**Literal:**</sub></small>
 She will be saved however through <the> childbearing if they shall abide in faith and in love and in holiness with self-restraint.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.14|<< 1 Timothy 2:14]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.1|1 Timothy 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | She will be saved |**<big>[[G4982\|σωθήσεται]]</big>**  |sōthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

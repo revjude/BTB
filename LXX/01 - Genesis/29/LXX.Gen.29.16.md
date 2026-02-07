@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Laban there were two daughters, \[the\] name of the older -- Leah, and \[the\] name of the younger -- Rachel. 
-<small><sub>**KJV:**</sub></small>
-And Laban had two daughters: the name of the elder [was] Leah, and the name of the younger [was] Rachel.
-<small><sub>**BSB:**</sub></small>
-Now Laban had two daughters; the older was named Leah, and the younger was named Rachel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.15|<< Genesis 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.17|Genesis 29:17 >>]]</td></tr></table>
 
 | Translation | Greek |

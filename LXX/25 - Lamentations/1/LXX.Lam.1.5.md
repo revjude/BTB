@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">Η</p>
 
 The ones afflicting her became  \[the\] head, and  her enemies are straightened; for \[the\] <span class="smallcaps">lord</span> humbled her over the multitude  of her impieties.  Her infants went into captivity in front \[of the\] one afflicting. 
-<small><sub>**KJV:**</sub></small>
-Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.
-<small><sub>**BSB:**</sub></small>
-Her foes have become her masters; her enemies are at ease. For the LORD has brought her grief because of her many transgressions. Her children have gone away as captives before the enemy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.4|<< Lamentations 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.6|Lamentations 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:67** 
 <small><sub>**LXX:**</sub></small>
 besides their menservants and their maidservants -- these \[were\] seven thousand three hundred thirty-seven; and male singers and female singers -- two hundred forty-five. 
-<small><sub>**KJV:**</sub></small>
-Beside their manservants and their maidservants, of whom [there were] seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.
-<small><sub>**BSB:**</sub></small>
-in addition to their 7,337 menservants and maidservants, as well as their 245 male and female singers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.67|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.66|<< Nehemiah 7:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.68|Nehemiah 7:68 >>]]</td></tr></table>
 
 | Translation | Greek |

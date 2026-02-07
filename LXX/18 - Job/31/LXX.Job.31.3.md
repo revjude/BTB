@@ -1,10 +1,7 @@
 **LXX Job 31:3** 
 <small><sub>**LXX:**</sub></small>
 Woe, destruction to the unjust, and alienation to the one committing lawlessness. 
-<small><sub>**KJV:**</sub></small>
-[Is] not destruction to the wicked? and a strange [punishment] to the workers of iniquity?
-<small><sub>**BSB:**</sub></small>
-Does not disaster come to the unjust and calamity to the workers of iniquity?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.2|<< Job 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.4|Job 31:4 >>]]</td></tr></table>
 
 | Translation | Greek |

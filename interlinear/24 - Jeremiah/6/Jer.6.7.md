@@ -1,4 +1,4 @@
-**Jeremiah 6:7** 
+**Jeremiah 6:7**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a fountain casteth out her waters, so she casteth out her wickedness: violence and spoil is heard in her; before me continually [is] grief and wounds.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As a well gushes its water, so she pours out her evil. Violence and destruction 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.6|<< Jeremiah 6:6]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.8|Jeremiah 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as keeps cool  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6979B\|הָקִ֥יר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ha.Kir<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a well  [^1]|**<big>&#8207;[[H0875\|בַּ֙יִר֙]]&#8207; </big>**[^2] | be.ver<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

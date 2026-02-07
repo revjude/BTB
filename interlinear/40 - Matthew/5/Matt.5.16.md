@@ -1,12 +1,12 @@
-**Matthew 5:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:16**<big><big>[[Matt.5.13 Salt and Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 In the same way, let your light shine before men, that they may see your good deeds and glorify your Father in heaven.
 <small><sub>**Literal:**</sub></small>
 Thus should shine the light of you before <the> men so that they may see your <the> good works and they may glorify the Father of you who [is] in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.15|<< Matthew 5:15]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.17|Matthew 5:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | should shine |**<big>[[G2989\|λαμψάτω]]</big>**  |lampsatō <small><sup>[[V-AAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

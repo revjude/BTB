@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:22** 
 <small><sub>**LXX:**</sub></small>
 And David said \[to\] Abiathar, For I knew in  that day, that Doeg the Edomite, that in reporting he would report  to Saul. I am the one at fault for the lives of all \[the\] house  of your father. 
-<small><sub>**KJV:**</sub></small>
-And David said unto Abiathar, I knew [it] that day, when Doeg the Edomite [was] there, that he would surely tell Saul: I have occasioned [the death] of all the persons of thy father’s house.
-<small><sub>**BSB:**</sub></small>
-Then David said to Abiathar, “I knew that Doeg the Edomite was there that day, and that he was sure to tell Saul. I myself am responsible for the lives of everyone in your father’s house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.21|<< 1 Samuel 22:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.23|1 Samuel 22:23 >>]]</td></tr></table>
 
 | Translation | Greek |

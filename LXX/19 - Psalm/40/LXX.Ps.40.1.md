@@ -6,10 +6,7 @@ To the director; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Enduring, I waited on the <span class="smallcaps">lord</span>, and he took heed to me, and he heard  my supplication. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. I waited patiently for the LORD; and he inclined unto me, and heard my cry.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of David. I waited patiently for the LORD; He inclined to me and heard my cry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.13|<< Psalm 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.2|Psalm 40:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 40:1** is...

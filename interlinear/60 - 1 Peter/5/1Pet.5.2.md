@@ -1,12 +1,12 @@
-**1 Peter 5:2
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:2**<big><big>[[1Pet.5.1 Instructions to Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Feed the flock of God which is among you, taking the oversight [thereof], not by constraint, but willingly; not for filthy lucre, but of a ready mind;
 <small><sub>**BSB:**</sub></small>
 Be shepherds of God’s flock that is among you, watching over them not out of compulsion, but willingly, as God would have you; not out of greed, but out of eagerness;
 <small><sub>**Literal:**</sub></small>
 do shepherd the among you flock <the> of God exercising oversight not under compulsion but willingly according to God, and not for base gain but eagerly;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.1|<< 1 Peter 5:1]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.3|1 Peter 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do shepherd |**<big>[[G4165\|ποιμάνατε]]</big>**  |poimanate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

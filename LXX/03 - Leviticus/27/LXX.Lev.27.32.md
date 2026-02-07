@@ -1,10 +1,7 @@
 **LXX Leviticus 27:32** 
 <small><sub>**LXX:**</sub></small>
 And every tenth of oxen, and sheep, and all which should go through in the number by the rod \[measure\], the tenth will be holy to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And concerning the tithe of the herd, or of the flock, [even] of whatsoever passeth under the rod, the tenth shall be holy unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Every tenth animal from the herd or flock that passes under the shepherd’s rod will be holy to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.31|<< Leviticus 27:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.33|Leviticus 27:33 >>]]</td></tr></table>
 
 | Translation | Greek |

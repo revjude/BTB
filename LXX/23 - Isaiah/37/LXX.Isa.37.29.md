@@ -1,10 +1,7 @@
 **LXX Isaiah 37:29** 
 <small><sub>**LXX:**</sub></small>
  and your rage which you were enraged. And  your bitterness ascended to me. And I will put a rein into  your nose, and a bit into  your lips, and I will return you in the way in which you came by it. 
-<small><sub>**KJV:**</sub></small>
-Because thy rage against me, and thy tumult, is come up into mine ears, therefore will I put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.
-<small><sub>**BSB:**</sub></small>
-Because your rage and arrogance against Me have reached My ears, I will put My hook in your nose and My bit in your mouth; I will send you back the way you came.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.28|<< Isaiah 37:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.30|Isaiah 37:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 8:18** 
+**1 Samuel 8:18**<big><big>[[1Sam.8.10 Samuel’s Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall cry out in that day because of your king which ye shall have chosen you; and the LORD will not hear you in that day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When that day comes, you will beg for relief from the king you have chosen, but 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.17|<< 1 Samuel 8:17]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.19|1 Samuel 8:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will cry out  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H2199\|זְעַקְתֶּם֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ze.'ak.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

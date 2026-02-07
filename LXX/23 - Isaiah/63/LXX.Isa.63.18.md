@@ -1,10 +1,7 @@
 **LXX Isaiah 63:18** 
 <small><sub>**LXX:**</sub></small>
 that we should inherit a little of your holy mountain.  Our adversaries trampled  your sanctuary. 
-<small><sub>**KJV:**</sub></small>
-The people of thy holiness have possessed [it] but a little while: our adversaries have trodden down thy sanctuary.
-<small><sub>**BSB:**</sub></small>
-For a short while Your people possessed Your holy place, but our enemies have trampled Your sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.17|<< Isaiah 63:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.63.19|Isaiah 63:19 >>]]</td></tr></table>
 
 | Translation | Greek |

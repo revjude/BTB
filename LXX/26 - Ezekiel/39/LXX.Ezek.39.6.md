@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I will send fire upon Magog, and the islands shall be inhabited in peace. And they shall know that I am \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will send a fire on Magog, and among them that dwell carelessly in the isles: and they shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-I will send fire on Magog and on those who dwell securely in the coastlands, and they will know that I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.5|<< Ezekiel 39:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.7|Ezekiel 39:7 >>]]</td></tr></table>
 
 | Translation | Greek |

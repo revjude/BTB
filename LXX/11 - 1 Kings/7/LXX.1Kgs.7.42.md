@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:42** 
 <small><sub>**LXX:**</sub></small>
 and the pomegranates -- four hundred to both the latticed \[works\]; two rows of pomegranates to the one latticed \[work\],  to cover all over both the twisted \[works\], the ones being upon both of the columns; 
-<small><sub>**KJV:**</sub></small>
-And four hundred pomegranates for the two networks, [even] two rows of pomegranates for one network, to cover the two bowls of the chapiters that [were] upon the pillars;
-<small><sub>**BSB:**</sub></small>
-the four hundred pomegranates for the two sets of network (two rows of pomegranates for each network covering both the bowl-shaped capitals atop the pillars);<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.41|<< 1 Kings 7:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.43|1 Kings 7:43 >>]]</td></tr></table>
 
 | Translation | Greek |

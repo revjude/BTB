@@ -1,4 +1,4 @@
-**Song of Solomon 2:17** 
+**Song of Solomon 2:17**<big><big>[[Song.2.16 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before the day breaks and shadows flee, turn, my beloved, and be like a gazelle 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.16|<< Song of Solomon 2:16]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.1|Song of Solomon 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַ֤ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that \<it> will breathe  |**<big>&#8207;[[H9007\|שֶׁ]]&#8207;&#8207;[[H6315\|יָּפ֙וּחַ֙]]&#8207; </big>**| shei.<small><sup>[[HTr]]</sup></small> ya.Fu.ach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

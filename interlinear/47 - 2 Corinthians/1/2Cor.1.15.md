@@ -1,12 +1,12 @@
-**2 Corinthians 1:15
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:15**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in this confidence I was minded to come unto you before, that ye might have a second benefit;
 <small><sub>**BSB:**</sub></small>
 Confident of this, I planned to visit you first, so that you might receive a double blessing.
 <small><sub>**Literal:**</sub></small>
 And with this <the> confidence I was planning <the> previously to you to come so that secondly grace you may have<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.14|<< 2 Corinthians 1:14]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.16|2 Corinthians 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with this |**<big>[[G3778\|ταύτῃ]]</big>**  |tautē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

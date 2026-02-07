@@ -1,4 +1,4 @@
-**Numbers 32:9** 
+**Numbers 32:9**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For when your fathers went up to the Valley of Eshcol and saw the land, they dis
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.8|<< Numbers 32:8]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.10|Numbers 32:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went up  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5927G\|יַּעֲל֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

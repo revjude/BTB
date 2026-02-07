@@ -1,5 +1,5 @@
-**Acts 2:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:30**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
 <small><sub>**BSB:**</sub></small>
 But he was a prophet and knew that God had promised him on oath that He would place one of his descendants on his throne.
@@ -11,7 +11,7 @@ A prophet therefore being and knowing that with an oath swore to him <the> God o
 > $\quad$ referencing: [[LXX.Ps.89.3|Ps 89:3-4]] ☩ [[LXX.Ps.132.11|Ps 132:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A prophet |**<big>[[G4396\|προφήτης]]</big>**  |prophētēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

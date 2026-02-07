@@ -1,10 +1,7 @@
 **LXX Numbers 7:89** 
 <small><sub>**LXX:**</sub></small>
 In  Moses' entering into the tent of the testimony to speak to him,  he heard the voice of \[the\] <span class="smallcaps">lord</span> speaking to him from above the atonement-seat, which is upon the ark of the testimony, between the two cherubim -- and he spoke to him. 
-<small><sub>**KJV:**</sub></small>
-And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that [was] upon the ark of testimony, from between the two cherubims: and he spake unto him.
-<small><sub>**BSB:**</sub></small>
-When Moses entered the Tent of Meeting to speak with the LORD, he heard the voice speaking to him from between the two cherubim above the mercy seat on the ark of the Testimony. Thus the LORD spoke to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.89|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.88|<< Numbers 7:88]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.1|Numbers 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

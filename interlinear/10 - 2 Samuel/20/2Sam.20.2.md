@@ -1,4 +1,4 @@
-**2 Samuel 20:2** 
+**2 Samuel 20:2**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So every man of Israel went up from after David, [and] followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all the men of Israel deserted David to follow Sheba son of Bichri. But the m
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.1|<< 2 Samuel 20:1]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.3|2 Samuel 20:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֜עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

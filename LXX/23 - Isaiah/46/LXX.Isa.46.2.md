@@ -1,10 +1,7 @@
 **LXX Isaiah 46:2** 
 <small><sub>**LXX:**</sub></small>
 and hungering, not being able together; the ones who are not able to be delivered from war; but they themselves are led away as captives. 
-<small><sub>**KJV:**</sub></small>
-They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.
-<small><sub>**BSB:**</sub></small>
-The gods cower; they crouch together, unable to relieve the burden; but they themselves go into captivity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.46.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.1|<< Isaiah 46:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.3|Isaiah 46:3 >>]]</td></tr></table>
 
 | Translation | Greek |

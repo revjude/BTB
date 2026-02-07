@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:12** 
 <small><sub>**LXX:**</sub></small>
 And one cubit assembling in front of the vestibules; and one cubit border on this side and on that side. And the vestibule -- six cubits on this side, and six cubits on that side. 
-<small><sub>**KJV:**</sub></small>
-The space also before the little chambers [was] one cubit [on this side], and the space [was] one cubit on that side: and the little chambers [were] six cubits on this side, and six cubits on that side.
-<small><sub>**BSB:**</sub></small>
-In front of each gate chamber was a wall one cubit high, and the gate chambers were six cubits square.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.11|<< Ezekiel 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.13|Ezekiel 40:13 >>]]</td></tr></table>
 
 | Translation | Greek |

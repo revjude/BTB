@@ -1,4 +1,4 @@
-**Exodus 33:16** 
+**Exodus 33:16**<big><big>[[Exod.33.12 The Promise of God’s Presence|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For wherein shall it be known here that I and thy people have found grace in thy sight? [is it] not in that thou goest with us? so shall we be separated, I and thy people, from all the people that [are] upon the face of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For how then can it be known that Your people and I have found favor in Your sig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.15|<< Exodus 33:15]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.17|Exodus 33:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<in> how?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H4100\|מֶּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HR]]</sup></small> Meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will it be known  |**<big>&#8207;[[H3045\|יִוָּדַ֣ע]]&#8207; </big>**| yi.va.Da'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

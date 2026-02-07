@@ -1,4 +1,4 @@
-**Job 18:12** 
+**Job 18:12**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His strength shall be hungerbitten, and destruction [shall be] ready at his side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His strength is depleted, and calamity is ready at his side.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.11|<< Job 18:11]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.13|Job 18:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it is  |**<big>&#8207;[[H1961\|יְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hungry  |**<big>&#8207;[[H7457\|רָעֵ֥ב]]&#8207; </big>**| ra.'Ev<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

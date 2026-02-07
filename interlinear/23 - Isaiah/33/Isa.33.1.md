@@ -1,4 +1,4 @@
-**Isaiah 33:1** 
+**Isaiah 33:1**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to thee that spoilest, and thou [wast] not spoiled; and dealest treacherously, and they dealt not treacherously with thee! when thou shalt cease to spoil, thou shalt be spoiled; [and] when thou shalt make an end to deal treacherously, they shall deal treacherously with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to you, O destroyer never destroyed, O traitor never betrayed! When you have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.20|<< Isaiah 32:20]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.2|Isaiah 33:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֣וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] destroyer  |**<big>&#8207;[[H7703\|שׁוֹדֵ֗ד]]&#8207; </big>**| sho.Ded<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

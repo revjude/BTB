@@ -1,4 +1,4 @@
-**2 Kings 25:16** 
+**2 Kings 25:16**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The two pillars, one sea, and the bases which Solomon had made for the house of the LORD; the brass of all these vessels was without weight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the two pillars, the Sea, and the movable stands that Solomon had made fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.15|<< 2 Kings 25:15]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.17|2 Kings 25:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the pillars  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5982G\|עַמּוּדִ֣ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.mu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנַ֗יִם]]&#8207; </big>**| she.Na.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

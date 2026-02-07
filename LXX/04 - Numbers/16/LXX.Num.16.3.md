@@ -1,10 +1,7 @@
 **LXX Numbers 16:3** 
 <small><sub>**LXX:**</sub></small>
 They stood together against Moses and Aaron. And said to them, Let this suffice to you, that all the congregation \[are\] all holy -- and \[the\] <span class="smallcaps">lord</span> is among them; and why do you stand against the congregation of \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And they gathered themselves together against Moses and against Aaron, and said unto them, [Ye take] too much upon you, seeing all the congregation [are] holy, every one of them, and the LORD [is] among them: wherefore then lift ye up yourselves above the congregation of the LORD?
-<small><sub>**BSB:**</sub></small>
-They came together against Moses and Aaron and told them, “You have taken too much upon yourselves! For everyone in the entire congregation is holy, and the LORD is in their midst. Why then do you exalt yourselves above the assembly of the LORD?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.2|<< Numbers 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.4|Numbers 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

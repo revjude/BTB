@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:22** 
 <small><sub>**LXX:**</sub></small>
 And Judah was put to flight before \[the\] face of Israel; and each fled unto  his tent. 
-<small><sub>**KJV:**</sub></small>
-And Judah was put to the worse before Israel, and they fled every man to his tent.
-<small><sub>**BSB:**</sub></small>
-And Judah was routed before Israel, and every man fled to his own home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.21|<< 2 Chronicles 25:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.23|2 Chronicles 25:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 88:14** 
 <small><sub>**LXX:**</sub></small>
 Why, O <span class="smallcaps">lord</span>, do you thrust away  my soul, \[and\] turn  your face from me? 
-<small><sub>**KJV:**</sub></small>
-LORD, why castest thou off my soul? [why] hidest thou thy face from me?
-<small><sub>**BSB:**</sub></small>
-Why, O LORD, do You reject me? Why do You hide Your face from me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.13|<< Psalm 88:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.15|Psalm 88:15 >>]]</td></tr></table>
 
 | Translation | Greek |

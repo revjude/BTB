@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:25** 
 <small><sub>**LXX:**</sub></small>
 And \[these\] were the sons of Jerahmeel, the first-born of Hezron --  first-born Ram, and Bunah, and Oren, and Ozem and Ahijah. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, [and] Ahijah.
-<small><sub>**BSB:**</sub></small>
-The sons of Jerahmeel the firstborn of Hezron: Ram his firstborn, Bunah, Oren, Ozem, and Ahijah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.24|<< 1 Chronicles 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.26|1 Chronicles 2:26 >>]]</td></tr></table>
 
 | Translation | Greek |

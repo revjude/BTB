@@ -1,4 +1,4 @@
-**1 Chronicles 4:39** 
+**1 Chronicles 4:39**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went to the entrance of Gedor, [even] unto the east side of the valley, to seek pasture for their flocks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and they journeyed to the entrance of Gedor, to the east side of the valley, in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.38|<< 1 Chronicles 4:38]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.40|1 Chronicles 4:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלְכוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] entrance of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3996\|מְב֣וֹא]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.Vo'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

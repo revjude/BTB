@@ -1,12 +1,12 @@
-**Luke 6:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:20**<big><big>[[Luke.6.20 The Beatitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he lifted up his eyes on his disciples, and said, Blessed [be ye] poor: for yours is the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Looking up at His disciples, Jesus said: “Blessed are you who are poor, for yours is the kingdom of God.
 <small><sub>**Literal:**</sub></small>
 And He himself having lifted up the gaze of Him upon the disciples of Him was saying: Blessed [are] the poor, for yours is the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.19|<< Luke 6:19]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.21|Luke 6:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

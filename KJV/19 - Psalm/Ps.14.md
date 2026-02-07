@@ -1,6 +1,6 @@
 (KJV) **Psalm 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13|<< Psalm 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.15|Psalm 15 >>]]</td></tr></table>
 
-***The Fool Says There Is No God***&emsp;<small><sup>\[ [[Ps.53|Psalms 53:1–6]] <big>†</big> [[Isa.59|Isaiah 59:1–17]] <big>†</big> [[Rom.3|Romans 3:9–20]] ]</sup></small> ^bsb1307
+<big><big>[[Ps.14.1 The Fool Says There Is No God|⥃]]</big></big>***The Fool Says There Is No God***&emsp;<small><sup>\[ [[Ps.53|Psalms 53:1–6]] <big>†</big> [[Isa.59|Isaiah 59:1–17]] <big>†</big> [[Rom.3|Romans 3:9–20]] ]</sup></small>
 
 
 

@@ -1,4 +1,4 @@
-**1 Samuel 23:18** 
+**1 Samuel 23:18**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they two made a covenant before the LORD: and David abode in the wood, and Jonathan went to his house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the two of them made a covenant before the LORD. And David remained in Horesh
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.17|<< 1 Samuel 23:17]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.19|1 Samuel 23:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772H\|יִּכְרְת֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.re.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two of them  |**<big>&#8207;[[H8147\|שְׁנֵי]]&#8207;&#8207;[[H9028\|הֶ֛ם]]&#8207; </big>**| she.nei.<small><sup>[[HNcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

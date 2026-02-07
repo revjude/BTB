@@ -1,10 +1,7 @@
 **LXX Exodus 39:24** 
 <small><sub>**LXX:**</sub></small>
 And they made upon the hem of the undergarment from below as it were of a blossoming pomegranate -- figures of pomegranates of blue, and purple, and scarlet being spun, and linen being twined. 
-<small><sub>**KJV:**</sub></small>
-And they made upon the hems of the robe pomegranates [of] blue, and purple, and scarlet, [and] twined [linen].
-<small><sub>**BSB:**</sub></small>
-They made pomegranates of blue, purple, and scarlet yarn and finely spun linen on the lower hem of the robe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.23|<< Exodus 39:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.25|Exodus 39:25 >>]]</td></tr></table>
 
 | Translation | Greek |

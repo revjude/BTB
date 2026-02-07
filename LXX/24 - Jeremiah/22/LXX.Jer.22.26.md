@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:26** 
 <small><sub>**LXX:**</sub></small>
 And I will throw you and  your mother, the one giving birth to you, into a land of which you were not birthed there; and there you shall die. 
-<small><sub>**KJV:**</sub></small>
-And I will cast thee out, and thy mother that bare thee, into another country, where ye were not born; and there shall ye die.
-<small><sub>**BSB:**</sub></small>
-I will hurl you and the mother who gave you birth into another land, where neither of you were born—and there you both will die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.25|<< Jeremiah 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.27|Jeremiah 22:27 >>]]</td></tr></table>
 
 | Translation | Greek |

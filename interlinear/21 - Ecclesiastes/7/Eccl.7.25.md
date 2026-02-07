@@ -1,4 +1,4 @@
-**Ecclesiastes 7:25** 
+**Ecclesiastes 7:25**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I applied mine heart to know, and to search, and to seek out wisdom, and the reason [of things], and to know the wickedness of folly, even of foolishness [and] madness:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I directed my mind to understand, to explore, to search out wisdom and explanati
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.24|<< Ecclesiastes 7:24]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.26|Ecclesiastes 7:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I turned  |**<big>&#8207;[[H5437G\|סַבּ֨וֹתִֽי]]&#8207; </big>**| sa.Bo.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

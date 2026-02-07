@@ -1,4 +1,4 @@
-**Jeremiah 7:10** 
+**Jeremiah 7:10**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and then come and stand before Me in this house, which bears My Name, and say, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.9|<< Jeremiah 7:9]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.11|Jeremiah 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָאתֶ֞ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will stand  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975G\|עֲמַדְתֶּ֣ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.mad.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

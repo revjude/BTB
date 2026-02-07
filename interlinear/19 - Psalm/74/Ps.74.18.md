@@ -1,4 +1,4 @@
-**Psalms 74:18** 
+**Psalms 74:18**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember this, [that] the enemy hath reproached, O LORD, and [that] the foolish people have blasphemed thy name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember how the enemy has mocked You, O LORD, how a foolish people has spurned 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.17|<< Psalms 74:17]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.19|Psalms 74:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זְכָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ze.khor-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֗את]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

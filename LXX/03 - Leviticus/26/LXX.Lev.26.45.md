@@ -1,10 +1,7 @@
 **LXX Leviticus 26:45** 
 <small><sub>**LXX:**</sub></small>
 And I will remember their covenant, the former one, when I led them out of \[the\] land of Egypt, from out of \[the\] house of slavery before the nations,  to be their God. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But I will for their sakes remember the covenant of their ancestors, whom I brought forth out of the land of Egypt in the sight of the heathen, that I might be their God: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-But for their sake I will remember the covenant with their fathers, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.44|<< Leviticus 26:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.46|Leviticus 26:46 >>]]</td></tr></table>
 
 | Translation | Greek |

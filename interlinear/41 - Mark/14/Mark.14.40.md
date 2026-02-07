@@ -1,12 +1,12 @@
-**Mark 14:40
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:40**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he returned, he found them asleep again, (for their eyes were heavy,) neither wist they what to answer him.
 <small><sub>**BSB:**</sub></small>
 And again Jesus returned and found them sleeping, for their eyes were heavy. And they did not know what to answer Him.
 <small><sub>**Literal:**</sub></small>
 And again having come he found them sleeping; Were for of them the eyes being wearied, and not they knew what they may answer to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.39|<< Mark 14:39]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.41|Mark 14:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR»3+Byz»3">NKO</abbr> | |

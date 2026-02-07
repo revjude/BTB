@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said  to Abram, Come forth from out of  your land, and from  your kin, and from the house  of your father, and come into the land which ever I shall show to you. 
-<small><sub>**KJV:**</sub></small>
-Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.32|<< Genesis 11:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.2|Genesis 12:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 12:1** is...

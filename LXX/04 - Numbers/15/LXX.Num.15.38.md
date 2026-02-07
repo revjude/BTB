@@ -1,10 +1,7 @@
 **LXX Numbers 15:38** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! And you shall say to them, and let them make for themselves decorative hems upon the borders  of their cloaks \[throughout\]  their generations. And you shall place upon the decorative hems of the borders yarn of blue. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and tell them that throughout the generations to come they are to make for themselves tassels for the corners of their garments, with a blue cord on each tassel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.37|<< Numbers 15:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.39|Numbers 15:39 >>]]</td></tr></table>
 
 | Translation | Greek |

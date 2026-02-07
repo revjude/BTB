@@ -1,5 +1,5 @@
-**Romans 8:22
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:22**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we know that the whole creation groaneth and travaileth in pain together until now.
 <small><sub>**BSB:**</sub></small>
 We know that the whole creation has been groaning together in the pains of childbirth until the present time.
@@ -10,7 +10,7 @@ We know for that all the creation groans together and it travails together until
 > $\quad$ alluding to: [[LXX.Isa.28.17|Isa 28:17-18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

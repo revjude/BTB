@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:19** 
 <small><sub>**LXX:**</sub></small>
 which \[the\] <span class="smallcaps">lord</span> spoke against you, the ones remaining of Judah. You should not enter into Egypt. And now, in knowing, you shall know that I witnessed to you today, 
-<small><sub>**KJV:**</sub></small>
-The LORD hath said concerning you, O ye remnant of Judah; Go ye not into Egypt: know certainly that I have admonished you this day.
-<small><sub>**BSB:**</sub></small>
-The LORD has told you, O remnant of Judah, ‘Do not go to Egypt.’ Know for sure that I have warned you today!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.18|<< Jeremiah 42:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.20|Jeremiah 42:20 >>]]</td></tr></table>
 
 | Translation | Greek |

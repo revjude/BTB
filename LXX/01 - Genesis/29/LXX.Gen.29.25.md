@@ -1,10 +1,7 @@
 **LXX Genesis 29:25** 
 <small><sub>**LXX:**</sub></small>
 And it happened in the morning, and behold, there was Leah. And Jacob said  to Laban, What \[is\] this you did to me, \[was it\] not on account of Rachel I served for you, and why did you mislead me? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that in the morning, behold, it [was] Leah: and he said to Laban, What [is] this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?
-<small><sub>**BSB:**</sub></small>
-When morning came, there was Leah! “What have you done to me?” Jacob said to Laban. “Wasn’t it for Rachel that I served you? Why have you deceived me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.24|<< Genesis 29:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.26|Genesis 29:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 28:22** 
 <small><sub>**LXX:**</sub></small>
 And you shall make upon the oracle a border, being a closely joined, a chain work of pure gold. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make upon the breastplate chains at the ends [of] wreathen work [of] pure gold.
-<small><sub>**BSB:**</sub></small>
-For the breastpiece, make braided chains like cords of pure gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.21|<< Exodus 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.23|Exodus 28:23 >>]]</td></tr></table>
 
 | Translation | Greek |

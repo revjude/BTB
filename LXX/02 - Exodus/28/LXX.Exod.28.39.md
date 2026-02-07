@@ -1,10 +1,7 @@
 **LXX Exodus 28:39** 
 <small><sub>**LXX:**</sub></small>
 And the fringes of the inner garments \[shall be\] of linen; and you shall make fine linen turban; and you shall make a belt, \[the\] work of an embroiderer. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt embroider the coat of fine linen, and thou shalt make the mitre [of] fine linen, and thou shalt make the girdle [of] needlework.
-<small><sub>**BSB:**</sub></small>
-You are to weave the tunic with fine linen, make the turban of fine linen, and fashion an embroidered sash.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.38|<< Exodus 28:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.40|Exodus 28:40 >>]]</td></tr></table>
 
 | Translation | Greek |

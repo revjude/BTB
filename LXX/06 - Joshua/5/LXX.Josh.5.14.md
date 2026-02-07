@@ -1,10 +1,7 @@
 **LXX Joshua 5:14** 
 <small><sub>**LXX:**</sub></small>
  And he said to him that, I am \[the\] commander-in-chief of the force of \[the\] <span class="smallcaps">lord</span>, now I have come. And Joshua fell upon his face upon the ground, and he did obeisance, and he said to him, My master what do you assign to your servant? 
-<small><sub>**KJV:**</sub></small>
-And he said, Nay; but [as] captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?
-<small><sub>**BSB:**</sub></small>
-“Neither,” He replied. “I have now come as Commander of the LORD’s army.” Then Joshua fell facedown in reverence and asked Him, “What does my Lord have to say to His servant?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.13|<< Joshua 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.15|Joshua 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

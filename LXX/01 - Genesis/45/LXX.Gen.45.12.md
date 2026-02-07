@@ -1,10 +1,7 @@
 **LXX Genesis 45:12** 
 <small><sub>**LXX:**</sub></small>
 Behold,  your eyes see, and the eyes of my brother Benjamin that  my mouth  \[is\] speaking to you. 
-<small><sub>**KJV:**</sub></small>
-And, behold, your eyes see, and the eyes of my brother Benjamin, that [it is] my mouth that speaketh unto you.
-<small><sub>**BSB:**</sub></small>
-Behold! You and my brother Benjamin can see that I, Joseph, am the one speaking with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.11|<< Genesis 45:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.13|Genesis 45:13 >>]]</td></tr></table>
 
 | Translation | Greek |

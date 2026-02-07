@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:6** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span> of the forces, Cut down  her trees! Discharge a force against Jerusalem, O lying city! Complete tyranny \[is\] in her. 
-<small><sub>**KJV:**</sub></small>
-For thus hath the LORD of hosts said, Hew ye down trees, and cast a mount against Jerusalem: this [is] the city to be visited; she [is] wholly oppression in the midst of her.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts says: “Cut down the trees and raise a siege ramp against Jerusalem. This city must be punished; there is nothing but oppression in her midst.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.5|<< Jeremiah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.7|Jeremiah 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

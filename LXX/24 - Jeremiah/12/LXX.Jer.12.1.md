@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 You are righteous, O <span class="smallcaps">lord</span>, that I may plead to you. I will speak to you only \[concerning\] judgments. Why \[is it\] that \[the\] way of \[the\] impious prospers? All the ones disrespecting in wickedness prospered. 
-<small><sub>**KJV:**</sub></small>
-Righteous [art] thou, O LORD, when I plead with thee: yet let me talk with thee of [thy] judgments: Wherefore doth the way of the wicked prosper? [wherefore] are all they happy that deal very treacherously?
-<small><sub>**BSB:**</sub></small>
-Righteous are You, O LORD, when I plead before You. Yet about Your judgments I wish to contend with You: Why does the way of the wicked prosper? Why do all the faithless live at ease?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.23|<< Jeremiah 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.2|Jeremiah 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 1:20** 
+**1 Kings 1:20**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, my lord, O king, the eyes of all Israel [are] upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as for you, my lord the king, the eyes of all Israel are upon you to tell th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.19|<< 1 Kings 1:19]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.21|1 Kings 1:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O lord my  |**<big>&#8207;[[H0113\|אֲדֹנִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

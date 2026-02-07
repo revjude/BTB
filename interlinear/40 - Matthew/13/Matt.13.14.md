@@ -1,5 +1,5 @@
-**Matthew 13:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:14**<big><big>[[Matt.13.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:
 <small><sub>**BSB:**</sub></small>
 In them the prophecy of Isaiah is fulfilled: ‘You will be ever hearing but never understanding; you will be ever seeing but never perceiving.
@@ -10,7 +10,7 @@ And is fulfilled concerning them the prophecy of Isaiah who is saying: In hearin
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is fulfilled |**<big>[[G0378\|ἀναπληροῦται]]</big>**  |anaplēroutai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

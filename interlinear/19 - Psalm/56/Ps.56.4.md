@@ -1,4 +1,4 @@
-**Psalms 56:4** (56:5)
+**Psalms 56:4**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In God, whose word I praise—in God I trust. I will not be afraid. What can man
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.3|<< Psalms 56:3]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.5|Psalms 56:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in God  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0430G\|אלֹהִים֮]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will praise  |**<big>&#8207;[[H1984B\|אֲהַלֵּ֪ל]]&#8207; </big>**| 'a.ha.Lel<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 15:34** 
 <small><sub>**LXX:**</sub></small>
 For death \[is the\] testimony of an impious \[man\], and fire shall burn \[the\] houses of the ones taking bribes. 
-<small><sub>**KJV:**</sub></small>
-For the congregation of hypocrites [shall be] desolate, and fire shall consume the tabernacles of bribery.
-<small><sub>**BSB:**</sub></small>
-For the company of the godless will be barren, and fire will consume the tents of bribery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.33|<< Job 15:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.35|Job 15:35 >>]]</td></tr></table>
 
 | Translation | Greek |

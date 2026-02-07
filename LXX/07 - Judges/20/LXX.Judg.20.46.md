@@ -1,10 +1,7 @@
 **LXX Judges 20:46** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass all the ones falling among  Benjamin \[was\] twenty-five thousand men unsheathing \[the\] broadsword in  that day;  all these \[were\] men of power. 
-<small><sub>**KJV:**</sub></small>
-So that all which fell that day of Benjamin were twenty and five thousand men that drew the sword; all these [were] men of valour.
-<small><sub>**BSB:**</sub></small>
-That day 25,000 Benjamite swordsmen fell, all men of valor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.45|<< Judges 20:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.47|Judges 20:47 >>]]</td></tr></table>
 
 | Translation | Greek |

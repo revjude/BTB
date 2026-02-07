@@ -1,4 +1,4 @@
-**1 Samuel 6:15** 
+**1 Samuel 6:15**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites took down the ark of the LORD, and the coffer that [was] with it, wherein the jewels of gold [were], and put [them] on the great stone: and the men of Bethshemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Levites took down the ark of the LORD and the chest containing the gold 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.14|<< 1 Samuel 6:14]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.16|1 Samuel 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Levites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֞ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they brought down  |**<big>&#8207;[[H3381\|הוֹרִ֣ידוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ho.Ri.du<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

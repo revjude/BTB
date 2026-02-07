@@ -1,4 +1,4 @@
-**1 Kings 19:10** 
+**1 Kings 19:10**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, I have been very jealous for the LORD God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, [even] I only, am left; and they seek my life, to take it away.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And he said, I have been very jealous for the LORD God of hosts: for the childre
 > $\quad$ referenced by: [[Rom.11.3|Rom 11:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to be zealous>  |**<big>&#8207;[[H7065\|קַנֹּ֨א]]&#8207; </big>**| ka.No'<small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

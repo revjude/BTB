@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:5** 
 <small><sub>**LXX:**</sub></small>
 And Zedekiah shall enter into Babylon, and there he shall stay until of which \[time\] I should look upon him, says \[the\] <span class="smallcaps">lord</span>. But if you should wage war against the Chaldeans you shall not be prosperous. 
-<small><sub>**KJV:**</sub></small>
-And he shall lead Zedekiah to Babylon, and there shall he be until I visit him, saith the LORD: though ye fight with the Chaldeans, ye shall not prosper?
-<small><sub>**BSB:**</sub></small>
-He will take Zedekiah to Babylon, where he will stay until I attend to him, declares the LORD. If you fight against the Chaldeans, you will not succeed.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.4|<< Jeremiah 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.6|Jeremiah 32:6 >>]]</td></tr></table>
 
 | Translation | Greek |

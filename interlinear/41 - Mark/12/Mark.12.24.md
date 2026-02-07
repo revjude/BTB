@@ -1,12 +1,12 @@
-**Mark 12:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:24**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “Aren’t you mistaken, because you do not know the Scriptures or the power of God?
 <small><sub>**Literal:**</sub></small>
 and Was saying to them <the> Jesus said: Surely because of this do you err not knowing the Scriptures nor [knowing] the power <the> of God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.23|<< Mark 12:23]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.25|Mark 12:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Was saying [^1] |**<big>[[G5346\|ἔφη]]</big>**  |ephē <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

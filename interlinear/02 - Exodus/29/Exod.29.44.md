@@ -1,4 +1,4 @@
-**Exodus 29:44** 
+**Exodus 29:44**<big><big>[[Exod.29.38 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will sanctify the tabernacle of the congregation, and the altar: I will sanctify also both Aaron and his sons, to minister to me in the priest’s office.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will consecrate the Tent of Meeting and the altar, and I will consecrate Aa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.43|<< Exodus 29:43]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.45|Exodus 29:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will consecrate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6942G\|קִדַּשְׁתִּ֛י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.dash.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

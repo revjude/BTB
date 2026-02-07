@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:10** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel said, O that \[the\] <span class="smallcaps">lord</span> called  these three kings to deliver them up into \[the\] hand of Moab. 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel said, Alas! that the LORD hath called these three kings together, to deliver them into the hand of Moab!
-<small><sub>**BSB:**</sub></small>
-“Alas,” said the king of Israel, “for the LORD has summoned these three kings to deliver them into the hand of Moab!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.9|<< 2 Kings 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.11|2 Kings 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

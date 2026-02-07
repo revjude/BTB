@@ -1,4 +1,4 @@
-**Psalms 111:5** 
+**Psalms 111:5**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath given meat unto them that fear him: he will ever be mindful of his covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He provides food for those who fear Him; He remembers His covenant forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.4|<< Psalms 111:4]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.6|Psalms 111:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | food  |**<big>&#8207;[[H2964\|טֶ֭רֶף]]&#8207; </big>**| Te.ref<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gives  |**<big>&#8207;[[H5414G\|נָתַ֣ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

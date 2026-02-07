@@ -1,12 +1,12 @@
-**Matthew 12:43
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:43**<big><big>[[Matt.12.43 An Unclean Spirit Returns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.
 <small><sub>**BSB:**</sub></small>
 When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it.
 <small><sub>**Literal:**</sub></small>
 When now the unclean spirit may go out from the man, it passes through waterless places seeking rest and none finds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.42|<< Matthew 12:42]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.44|Matthew 12:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

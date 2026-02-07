@@ -1,10 +1,7 @@
 **LXX Judges 5:31** 
 <small><sub>**LXX:**</sub></small>
 Thus all your enemies be destroyed, O <span class="smallcaps">lord</span>. And the ones loving him \[be\] as the rising of the sun in his power. And the land was quiet forty years. 
-<small><sub>**KJV:**</sub></small>
-So let all thine enemies perish, O LORD: but [let] them that love him [be] as the sun when he goeth forth in his might. And the land had rest forty years.
-<small><sub>**BSB:**</sub></small>
-So may all Your enemies perish, O LORD! But may those who love You shine like the sun at its brightest.” And the land had rest for forty years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.30|<< Judges 5:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.1|Judges 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

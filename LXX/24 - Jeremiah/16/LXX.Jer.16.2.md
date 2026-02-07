@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:2** 
 <small><sub>**LXX:**</sub></small>
 You should not take a wife, and there shall not be engendered to you a son nor daughter in  this place. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not take thee a wife, neither shalt thou have sons or daughters in this place.
-<small><sub>**BSB:**</sub></small>
-“You must not marry or have sons or daughters in this place.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.1|<< Jeremiah 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.3|Jeremiah 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

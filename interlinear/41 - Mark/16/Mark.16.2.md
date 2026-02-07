@@ -1,12 +1,12 @@
-**Mark 16:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:2**<big><big>[[Mark.16.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And very early in the morning the first [day] of the week, they came unto the sepulchre at the rising of the sun.
 <small><sub>**BSB:**</sub></small>
 Very early on the first day of the week, just after sunrise, they went to the tomb.
 <small><sub>**Literal:**</sub></small>
 And very early on the first [day] of the week they come to the tomb when was arising the sun.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.1|<< Mark 16:1]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.3|Mark 16:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | very |**<big>[[G3029\|λίαν]]</big>**  |lian <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

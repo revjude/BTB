@@ -1,4 +1,4 @@
-**Job 41:18** (41:10)
+**Job 41:18**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By his neesings a light doth shine, and his eyes [are] like the eyelids of the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His snorting flashes with light, and his eyes are like the rays of dawn.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.17|<< Job 41:17]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.19|Job 41:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sneezing\<s> its  |**<big>&#8207;[[H5846\|עֲֽ֭טִישֹׁתָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'aTi.sho.ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it flashes forth  |**<big>&#8207;[[H1984A\|תָּ֣הֶל]]&#8207; </big>**| Ta.hel<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

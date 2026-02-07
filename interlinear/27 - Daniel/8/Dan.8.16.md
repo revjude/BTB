@@ -1,4 +1,4 @@
-**Daniel 8:16** 
+**Daniel 8:16**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I heard a man’s voice between [the banks of] Ulai, which called, and said, Gabriel, make this [man] to understand the vision.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I heard the voice of a man calling from between the banks of the Ulai: “Ga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.15|<< Daniel 8:15]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.17|Daniel 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I heard  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H8085G\|אֶשְׁמַ֥ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Ma'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] voice of  |**<big>&#8207;[[H6963A\|קוֹל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

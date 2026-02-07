@@ -1,10 +1,7 @@
 **LXX Genesis 26:33** 
 <small><sub>**LXX:**</sub></small>
 And he called it, Oath. On account of this he called \[the\] name \[of\] that city, Well of Oath, unto  today's day. 
-<small><sub>**KJV:**</sub></small>
-And he called it Shebah: therefore the name of the city [is] Beersheba unto this day.
-<small><sub>**BSB:**</sub></small>
-So he called it Shibah, and to this day the name of the city is Beersheba.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.32|<< Genesis 26:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.34|Genesis 26:34 >>]]</td></tr></table>
 
 | Translation | Greek |

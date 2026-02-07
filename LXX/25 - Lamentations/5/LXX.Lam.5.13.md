@@ -1,10 +1,7 @@
 **LXX Lamentations 5:13** 
 <small><sub>**LXX:**</sub></small>
 chosen \[men\] took up weeping, and young men weakened in wood \[bearing\]. 
-<small><sub>**KJV:**</sub></small>
-They took the young men to grind, and the children fell under the wood.
-<small><sub>**BSB:**</sub></small>
-Young men toil at millstones; boys stagger under loads of wood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.12|<< Lamentations 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.14|Lamentations 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

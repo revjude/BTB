@@ -1,10 +1,7 @@
 **LXX Psalm 35:10** 
 <small><sub>**LXX:**</sub></small>
 All  my bones shall say, O <span class="smallcaps">lord</span>, O <span class="smallcaps">lord</span>, who \[is\] likened to you? rescuing \[the\] poor from \[the\] hand \[of the one\] more solid than he, and \[the\] poor and needy one from the ones tearing him in pieces. 
-<small><sub>**KJV:**</sub></small>
-All my bones shall say, LORD, who [is] like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?
-<small><sub>**BSB:**</sub></small>
-All my bones will exclaim, “Who is like You, O LORD, who delivers the afflicted from the aggressor, the poor and needy from the robber?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.9|<< Psalm 35:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.11|Psalm 35:11 >>]]</td></tr></table>
 
 | Translation | Greek |

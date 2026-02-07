@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:11** 
 <small><sub>**LXX:**</sub></small>
 And the woman said  to Saul, Whom should I lead up to you? And he said,  Lead up Samuel to me! 
-<small><sub>**KJV:**</sub></small>
-Then said the woman, Whom shall I bring up unto thee? And he said, Bring me up Samuel.
-<small><sub>**BSB:**</sub></small>
-“Whom shall I bring up for you?” the woman asked. “Bring up Samuel,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.10|<< 1 Samuel 28:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.12|1 Samuel 28:12 >>]]</td></tr></table>
 
 | Translation | Greek |

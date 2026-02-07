@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:3** 
 <small><sub>**LXX:**</sub></small>
 And from out of this  measurement you shall measure a length five and twenty thousand, and the breadth ten thousand; and in it will be the sanctuary, the holy of the holies. 
-<small><sub>**KJV:**</sub></small>
-And of this measure shalt thou measure the length of five and twenty thousand, and the breadth of ten thousand: and in it shall be the sanctuary [and] the most holy [place].
-<small><sub>**BSB:**</sub></small>
-From this holy portion, you are to measure off a length of 25,000 cubits and a width of 10,000 cubits, and in it will be the sanctuary, the Most Holy Place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.2|<< Ezekiel 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.4|Ezekiel 45:4 >>]]</td></tr></table>
 
 | Translation | Greek |

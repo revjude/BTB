@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:5** 
 <small><sub>**LXX:**</sub></small>
 And behold, \[there was\] an enclosure from outside the house round about, and in the hand of the man \[was\] a reed, the measure of six cubits by a cubit and a palm. And he measured the area around the wall; \[the\] width equal to the reed, and the height of it equal to the reed. 
-<small><sub>**KJV:**</sub></small>
-And behold a wall on the outside of the house round about, and in the man’s hand a measuring reed of six cubits [long] by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.
-<small><sub>**BSB:**</sub></small>
-And I saw a wall surrounding the temple area. Now the length of the measuring rod in the man’s hand was six long cubits (each measuring a cubit and a handbreadth), and he measured the wall to be one rod thick and one rod high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.4|<< Ezekiel 40:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.6|Ezekiel 40:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 1:15** 
+**Deuteronomy 1:15**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I took the leaders of your tribes, wise and respected men, and appointed them
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.14|<< Deuteronomy 1:14]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.16|Deuteronomy 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I took  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3947G\|אֶקַּ֞ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Kach<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

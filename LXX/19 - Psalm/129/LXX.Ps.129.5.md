@@ -1,10 +1,7 @@
 **LXX Psalm 129:5** 
 <small><sub>**LXX:**</sub></small>
 Let them be shamed, and be turned to the rear! all the ones detesting Zion. 
-<small><sub>**KJV:**</sub></small>
-Let them all be confounded and turned back that hate Zion.
-<small><sub>**BSB:**</sub></small>
-May all who hate Zion be turned back in shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.129.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.129.4|<< Psalm 129:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.129.6|Psalm 129:6 >>]]</td></tr></table>
 
 | Translation | Greek |

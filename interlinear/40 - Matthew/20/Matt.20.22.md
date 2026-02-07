@@ -1,12 +1,12 @@
-**Matthew 20:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:22**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus answered and said, Ye know not what ye ask. Are ye able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
 <small><sub>**BSB:**</sub></small>
 “You do not know what you are asking,” Jesus replied. “Can you drink the cup I am going to drink?” “We can,” the brothers answered.
 <small><sub>**Literal:**</sub></small>
 Answering now <the> Jesus said; Not you know what you ask for. Are you able to drink the cup which I myself am about to drink and <the> baptism what I myself am baptized to be baptized? They say to Him; We are able.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.21|<< Matthew 20:21]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.23|Matthew 20:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

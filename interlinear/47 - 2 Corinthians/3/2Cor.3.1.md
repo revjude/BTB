@@ -1,12 +1,12 @@
-**2 Corinthians 3:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:1**<big><big>[[2Cor.3.1 Ministers of a New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do we begin again to commend ourselves? or need we, as some [others], epistles of commendation to you, or [letters] of commendation from you?
 <small><sub>**BSB:**</sub></small>
 Are we beginning to commend ourselves again? Or do we need, like some people, letters of recommendation to you or from you?
 <small><sub>**Literal:**</sub></small>
 Are we beginning again ourselves to commend? Or surely not we need like some commendatory letters to you or from you commendatory [letters]?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.17|<< 2 Corinthians 2:17]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.2|2 Corinthians 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Are we beginning |**<big>[[G0757\|Ἀρχόμεθα]]</big>**  |Archometha <small><sup>[[V-PMI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 27:16** 
+**Proverbs 27:16**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whosoever hideth her hideth the wind, and the ointment of his right hand, [which] bewrayeth [itself].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ restraining her is like holding back the wind or grasping oil with one’s right
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.15|<< Proverbs 27:15]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.17|Proverbs 27:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those who] hide her  |**<big>&#8207;[[H6845\|צֹפְנֶ֥י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| tzo.fe.Nei.<small><sup>[[HVqrmsc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he hides  |**<big>&#8207;[[H6845\|צָֽפַן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tza.fan-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

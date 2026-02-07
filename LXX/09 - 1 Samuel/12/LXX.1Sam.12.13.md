@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:13** 
 <small><sub>**LXX:**</sub></small>
 And now behold, the king whom you chose and whom you acquire. And behold, \[the\] <span class="smallcaps">lord</span> puts over you a king! 
-<small><sub>**KJV:**</sub></small>
-Now therefore behold the king whom ye have chosen, [and] whom ye have desired! and, behold, the LORD hath set a king over you.
-<small><sub>**BSB:**</sub></small>
-Now here is the king you have chosen, the one you requested. Behold, the LORD has placed a king over you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.12|<< 1 Samuel 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.14|1 Samuel 12:14 >>]]</td></tr></table>
 
 | Translation | Greek |

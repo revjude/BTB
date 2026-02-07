@@ -1,4 +1,4 @@
-**2 Chronicles 29:27** 
+**2 Chronicles 29:27**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of the LORD began [also] with the trumpets, and with the instruments [ordained] by David king of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Hezekiah ordered that the burnt offering be sacrificed on the altar. When th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.26|<< 2 Chronicles 29:26]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.28|2 Chronicles 29:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|חִזְקִיָּ֔הוּ]]&#8207; </big>**| chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

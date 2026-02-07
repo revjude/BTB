@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:30** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, Behold, I give  Pharaoh Hophra king of Egypt into \[the\] hands of his enemy, and into \[the\] hands of ones seeking  his life; as I have given  Zedekiah king of Judah into \[the\] hands of Nebuchadnezzar king of Babylon, his enemy, and \[the\] one seeking  his life. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; Behold, I will give Pharaohhophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: Behold, I will deliver Pharaoh Hophra king of Egypt into the hands of his enemies who seek his life, just as I delivered Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, the enemy who was seeking his life.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.29|<< Jeremiah 44:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.45.1|Jeremiah 45:1 >>]]</td></tr></table>
 
 | Translation | Greek |

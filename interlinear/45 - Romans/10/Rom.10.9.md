@@ -1,12 +1,12 @@
-**Romans 10:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:9**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
 <small><sub>**BSB:**</sub></small>
 that if you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised Him from the dead, you will be saved.
 <small><sub>**Literal:**</sub></small>
 for if you shall confess the declaration with the mouth of you that Lord Jesus [is] and may believe in the heart of you that <the> God Him raised out from [the] dead, you will be saved;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.8|<< Romans 10:8]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.10|Romans 10:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:12** 
 <small><sub>**LXX:**</sub></small>
 With swords of giants even I shall throw down  your strength, pestilent ones from all nations. And they shall destroy the insolence of Egypt, and all her strength shall be broken. 
-<small><sub>**KJV:**</sub></small>
-By the swords of the mighty will I cause thy multitude to fall, the terrible of the nations, all of them: and they shall spoil the pomp of Egypt, and all the multitude thereof shall be destroyed.
-<small><sub>**BSB:**</sub></small>
-I will make your hordes fall by the swords of the mighty, the most ruthless of all nations. They will ravage the pride of Egypt and all her multitudes will be destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.11|<< Ezekiel 32:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.13|Ezekiel 32:13 >>]]</td></tr></table>
 
 | Translation | Greek |

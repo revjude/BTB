@@ -1,4 +1,4 @@
-**Psalms 48:5** (48:6)
+**Psalms 48:5**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They saw [it, and] so they marvelled; they were troubled, [and] hasted away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They saw and were astounded; they fled in terror.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.4|<< Psalms 48:4]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.6|Psalms 48:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֣מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they saw  |**<big>&#8207;[[H7200G\|רָ֭אוּ]]&#8207; </big>**| Ra.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

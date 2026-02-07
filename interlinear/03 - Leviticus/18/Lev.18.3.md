@@ -1,4 +1,4 @@
-**Leviticus 18:3** 
+**Leviticus 18:3**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not follow the practices of the land of Egypt, where you used to live, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.2|<< Leviticus 18:2]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.4|Leviticus 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to [the] deed[s] of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4639K\|מַעֲשֵׂ֧ה]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] land of  |**<big>&#8207;[[H0776G\|אֶֽרֶץ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.retz-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

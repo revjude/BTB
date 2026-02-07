@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall put  these words into  your heart, and into  your soul, and you shall affix them for a sign upon  your hand, and it shall be unshaken before your eyes. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall ye lay up these my words in your heart and in your soul, and bind them for a sign upon your hand, that they may be as frontlets between your eyes.
-<small><sub>**BSB:**</sub></small>
-Fix these words of mine in your hearts and minds; tie them as reminders on your hands and bind them on your foreheads.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.17|<< Deuteronomy 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.19|Deuteronomy 11:19 >>]]</td></tr></table>
 
 | Translation | Greek |

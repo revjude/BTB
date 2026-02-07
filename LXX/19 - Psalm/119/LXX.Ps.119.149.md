@@ -1,10 +1,7 @@
 **LXX Psalm 119:149** 
 <small><sub>**LXX:**</sub></small>
  Hear my voice, O <span class="smallcaps">lord</span>, according to  your mercy! Enliven me according to your judgment! 
-<small><sub>**KJV:**</sub></small>
-Hear my voice according unto thy lovingkindness: O LORD, quicken me according to thy judgment.
-<small><sub>**BSB:**</sub></small>
-Hear my voice, O LORD, according to Your loving devotion; give me life according to Your justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.149|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.148|<< Psalm 119:148]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.150|Psalm 119:150 >>]]</td></tr></table>
 
 | Translation | Greek |

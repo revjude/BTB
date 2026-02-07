@@ -1,4 +1,4 @@
-**Deuteronomy 17:6** 
+**Deuteronomy 17:6**<big><big>[[Deut.17.2 Purge the Idolater|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; [but] at the mouth of one witness he shall not be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ On the testimony of two or three witnesses a man shall be put to death, but he s
 > $\quad$ referenced by: [[Heb.10.28|Heb 10:28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mouth of  |**<big>&#8207;[[H6310I\|פִּ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

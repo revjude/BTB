@@ -1,4 +1,4 @@
-**Proverbs 16:26** 
+**Proverbs 16:26**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that laboureth laboureth for himself; for his mouth craveth it of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A worker’s appetite works for him because his hunger drives him onward.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.25|<< Proverbs 16:25]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.27|Proverbs 16:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] appetite of  |**<big>&#8207;[[H5315L\|נֶ֣פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a laborer  |**<big>&#8207;[[H6001A\|עָ֭מֵל]]&#8207; </big>**| 'A.mel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Matthew 2:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:15**<big><big>[[Matt.2.13 The Flight to Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
 <small><sub>**BSB:**</sub></small>
 where he stayed until the death of Herod. This fulfilled what the Lord had spoken through the prophet: “Out of Egypt I called My Son.”
@@ -10,7 +10,7 @@ and he was remaining there until the death of Herod, so that it may be fulfilled
 > $\quad$ referencing: [[LXX.Hos.11.1|Hos 11:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he was remaining |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

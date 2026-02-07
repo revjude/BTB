@@ -1,4 +1,4 @@
-**2 Chronicles 8:8** 
+**2 Chronicles 8:8**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] of their children, who were left after them in the land, whom the children of Israel consumed not, them did Solomon make to pay tribute until this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ their descendants who remained in the land, those whom the Israelites had not de
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.7|<< 2 Chronicles 8:7]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.9|2 Chronicles 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | some of  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | descendants their  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| be.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

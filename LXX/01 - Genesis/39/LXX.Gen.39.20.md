@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the master taking Joseph, put him into the fortress, in the place in which the prisoners of the king were held there in the fortress. 
-<small><sub>**KJV:**</sub></small>
-And Joseph’s master took him, and put him into the prison, a place where the king’s prisoners [were] bound: and he was there in the prison.
-<small><sub>**BSB:**</sub></small>
-So Joseph’s master took him and had him thrown into the prison where the king’s prisoners were confined. While Joseph was there in the prison,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.19|<< Genesis 39:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.21|Genesis 39:21 >>]]</td></tr></table>
 
 | Translation | Greek |

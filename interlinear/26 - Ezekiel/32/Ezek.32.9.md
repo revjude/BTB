@@ -1,4 +1,4 @@
-**Ezekiel 32:9** 
+**Ezekiel 32:9**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also vex the hearts of many people, when I shall bring thy destruction among the nations, into the countries which thou hast not known.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will also vex the hearts of many people, when I shall bring thy destruction am
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.8|<< Ezekiel 32:8]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.10|Ezekiel 32:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will disturb  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3707\|הִ֨כְעַסְתִּ֔י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Hikh.'as.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heart of  |**<big>&#8207;[[H3820A\|לֵ֖ב]]&#8207; </big>**| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

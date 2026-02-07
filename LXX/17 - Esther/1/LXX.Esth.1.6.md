@@ -1,10 +1,7 @@
 **LXX Esther 1:6** 
 <small><sub>**LXX:**</sub></small>
 being adorned in fine linen, and cotton being stretched upon lines of fine linen and of purple, upon cube \[studs\] of gold and silver, upon columns of Parian \[marble\], and stones, with beds of gold and silver upon a stone pavement of emerald stone, and mother of pearl, and Parian \[marble\] stone, and transparent strewn beds being decorated variously, 
-<small><sub>**KJV:**</sub></small>
-[Where were] white, green, and blue, [hangings], fastened with cords of fine linen and purple to silver rings and pillars of marble: the beds [were of] gold and silver, upon a pavement of red, and blue, and white, and black, marble.
-<small><sub>**BSB:**</sub></small>
-Hangings of white and blue linen were fastened with cords of fine white and purple material to silver rings on the marble pillars. Gold and silver couches were arranged on a mosaic pavement of porphyry, marble, mother-of-pearl, and other costly stones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.5|<< Esther 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.7|Esther 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

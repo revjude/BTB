@@ -1,4 +1,4 @@
-**Exodus 40:34** 
+**Exodus 40:34**<big><big>[[Exod.40.34 The Cloud and the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the cloud covered the Tent of Meeting, and the glory of the LORD filled the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.33|<< Exodus 40:33]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.35|Exodus 40:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it covered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3680\|יְכַ֥ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Khas<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cloud  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H6051\|עָנָ֖ן]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

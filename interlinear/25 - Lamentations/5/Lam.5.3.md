@@ -1,4 +1,4 @@
-**Lamentations 5:3** 
+**Lamentations 5:3**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We are orphans and fatherless, our mothers [are] as widows.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have become fatherless orphans; our mothers are widows.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.2|<< Lamentations 5:2]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.4|Lamentations 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fatherless ones  |**<big>&#8207;[[H3490\|יְתוֹמִ֤ים]]&#8207; </big>**| ye.to.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we have become  |**<big>&#8207;[[H1961\|הָיִ֙ינוּ֙]]&#8207; </big>**| ha.Yi.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

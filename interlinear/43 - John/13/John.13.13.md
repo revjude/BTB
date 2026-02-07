@@ -1,12 +1,12 @@
-**John 13:13
-**<small><sub>**KJV:**</sub></small>
+**John 13:13**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye call me Master and Lord: and ye say well; for [so] I am.
 <small><sub>**BSB:**</sub></small>
 You call Me Teacher and Lord, and rightly so, because I am.
 <small><sub>**Literal:**</sub></small>
 You yourselves call Me: <the> Teacher and <the> Lord, and rightly you say; I am for.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.12|<< John 13:12]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.14|John 13:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | call |**<big>[[G5455\|φωνεῖτέ]]</big>**  |phōneite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

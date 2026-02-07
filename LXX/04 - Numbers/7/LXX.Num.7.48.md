@@ -1,10 +1,7 @@
 **LXX Numbers 7:48** 
 <small><sub>**LXX:**</sub></small>
 The seventh day \[the\] ruler of the sons of Ephraim, Elishama son of Ammihud 
-<small><sub>**KJV:**</sub></small>
-On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, [offered]:
-<small><sub>**BSB:**</sub></small>
-On the seventh day Elishama son of Ammihud, the leader of the Ephraimites, drew near.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.47|<< Numbers 7:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.49|Numbers 7:49 >>]]</td></tr></table>
 
 | Translation | Greek |

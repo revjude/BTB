@@ -1,12 +1,12 @@
-**Luke 8:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:34**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When they that fed [them] saw what was done, they fled, and went and told [it] in the city and in the country.
 <small><sub>**BSB:**</sub></small>
 When those tending the pigs saw what had happened, they ran off and reported this in the town and countryside.
 <small><sub>**Literal:**</sub></small>
 Having seen then those feeding [them] what already happening they fled and having gone they reported [it] to the city and to the country.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.33|<< Luke 8:33]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.35|Luke 8:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδόντες]]</big>**  |Idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

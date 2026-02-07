@@ -1,4 +1,4 @@
-**Isaiah 33:14** 
+**Isaiah 33:14**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sinners in Zion are afraid; fearfulness hath surprised the hypocrites. Who among us shall dwell with the devouring fire? who among us shall dwell with everlasting burnings?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sinners in Zion are afraid; trembling grips the ungodly: “Who of us can dw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.13|<< Isaiah 33:13]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.15|Isaiah 33:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are in dread  |**<big>&#8207;[[H6342\|פָּחֲד֤וּ]]&#8207; </big>**| pa.cha.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Zion  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6726\|צִיּוֹן֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> tzi.yOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

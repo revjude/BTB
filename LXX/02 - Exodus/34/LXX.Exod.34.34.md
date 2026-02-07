@@ -1,10 +1,7 @@
 **LXX Exodus 34:34** 
 <small><sub>**LXX:**</sub></small>
 And when ever Moses entered before \[the\] <span class="smallcaps">lord</span> to speak to him, he removed the covering until  exiting. And going forth he spoke to all the sons of Israel, as much as \[the\] <span class="smallcaps">lord</span> gave charge to him. 
-<small><sub>**KJV:**</sub></small>
-But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel [that] which he was commanded.
-<small><sub>**BSB:**</sub></small>
-But whenever Moses went in before the LORD to speak with Him, he would remove the veil until he came out. And when he came out, he would tell the Israelites what he had been commanded,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.33|<< Exodus 34:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.35|Exodus 34:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 34:34** is...

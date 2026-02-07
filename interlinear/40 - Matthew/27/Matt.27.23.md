@@ -1,12 +1,12 @@
-**Matthew 27:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:23**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.
 <small><sub>**BSB:**</sub></small>
 “Why?” asked Pilate. “What evil has He done?” But they shouted all the louder, “Crucify Him!”
 <small><sub>**Literal:**</sub></small>
 <the> And governor was saying: What for evil did He commit? <the> And excessively they were crying out saying; he should be crucified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.22|<< Matthew 27:22]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.24|Matthew 27:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

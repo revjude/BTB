@@ -1,4 +1,4 @@
-**Deuteronomy 7:17** 
+**Deuteronomy 7:17**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou shalt say in thine heart, These nations [are] more than I; how can I dispossess them?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You may say in your heart, “These nations are greater than we are; how can we 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.16|<< Deuteronomy 7:16]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.18|Deuteronomy 7:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹאמַר֙]]&#8207; </big>**| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

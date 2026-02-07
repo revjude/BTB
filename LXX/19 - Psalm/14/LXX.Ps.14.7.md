@@ -1,10 +1,7 @@
 **LXX Psalm 14:7** 
 <small><sub>**LXX:**</sub></small>
 Who will grant from Zion the deliverance  of Israel? In the <span class="smallcaps">lord</span> turning the captivity  of his people, Jacob shall exult, and Israel shall be glad. 
-<small><sub>**KJV:**</sub></small>
-Oh that the salvation of Israel [were come] out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, [and] Israel shall be glad.
-<small><sub>**BSB:**</sub></small>
-Oh, that the salvation of Israel would come from Zion! When the LORD restores His captive people, let Jacob rejoice, let Israel be glad!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.6|<< Psalm 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.15.1|Psalm 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

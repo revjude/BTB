@@ -1,4 +1,4 @@
-**Psalms 47:3** (47:4)
+**Psalms 47:3**<big><big>[[Ps.47.1 Clap Your Hands, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall subdue the people under us, and the nations under our feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He subdues nations beneath us, and peoples under our feet.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.47.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.47.2|<< Psalms 47:2]]</td><td align="center" style="border:none;">[[Ps.47|Psalms 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.47.4|Psalms 47:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he subdues  |**<big>&#8207;[[H1696H\|יַדְבֵּ֣ר]]&#8207; </big>**| yad.Ber<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peoples  |**<big>&#8207;[[H5971A\|עַמִּ֣ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

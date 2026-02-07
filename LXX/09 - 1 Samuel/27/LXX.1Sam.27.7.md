@@ -1,10 +1,7 @@
 **LXX 1 Samuel 27:7** 
 <small><sub>**LXX:**</sub></small>
 And came to pass the number of the days which David stayed in \[the\] country of the Philistines -- four months. 
-<small><sub>**KJV:**</sub></small>
-And the time that David dwelt in the country of the Philistines was a full year and four months.
-<small><sub>**BSB:**</sub></small>
-And the time that David lived in Philistine territory amounted to a year and four months.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.6|<< 1 Samuel 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.8|1 Samuel 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

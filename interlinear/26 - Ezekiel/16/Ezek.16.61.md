@@ -1,4 +1,4 @@
-**Ezekiel 16:61** 
+**Ezekiel 16:61**<big><big>[[Ezek.16.59 The Covenant Remembered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou shalt remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder and thy younger: and I will give them unto thee for daughters, but not by thy covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will remember your ways and be ashamed when you receive your older and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.60|<< Ezekiel 16:60]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.62|Ezekiel 16:62 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will remember  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2142\|זָכַ֣רְתְּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.Khart<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

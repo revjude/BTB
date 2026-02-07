@@ -1,10 +1,7 @@
 **LXX Judges 10:18** 
 <small><sub>**LXX:**</sub></small>
 And the people said, \[and\] the rulers of Gilead, \[each\] man to  his neighbor, Who \[is\] the man who shall begin to wage war with the sons of Ammon, for he shall be head to all the ones dwelling in Gilead? 
-<small><sub>**KJV:**</sub></small>
-And the people [and] princes of Gilead said one to another, What man [is he] that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead.
-<small><sub>**BSB:**</sub></small>
-And the rulers of Gilead said to one another, “Whoever will launch the attack against the Ammonites will be the head of all who live in Gilead.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.17|<< Judges 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.1|Judges 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

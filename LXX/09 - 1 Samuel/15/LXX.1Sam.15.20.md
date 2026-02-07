@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:20** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to Samuel, Because  of my hearing the sound of the people, and I went in the way in which \[the\] <span class="smallcaps">lord</span> sent me. And I brought  Agag, king of Amalek, and  I utterly destroyed Amalek. 
-<small><sub>**KJV:**</sub></small>
-And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites.
-<small><sub>**BSB:**</sub></small>
-“But I did obey the LORD,” Saul replied. “I went on the mission that the LORD gave me. I brought back Agag king of Amalek and devoted the Amalekites to destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.19|<< 1 Samuel 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.21|1 Samuel 15:21 >>]]</td></tr></table>
 
 | Translation | Greek |

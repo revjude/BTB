@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:45** 
 <small><sub>**LXX:**</sub></small>
 And Zadok the priest anointed him, and Nathan the prophet as king at  Gihon. And they ascended from there making glad. And the city sounded this  sound which you heard. 
-<small><sub>**KJV:**</sub></small>
-And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from thence rejoicing, so that the city rang again. This [is] the noise that ye have heard.
-<small><sub>**BSB:**</sub></small>
-Zadok the priest and Nathan the prophet have anointed him king at Gihon, and they have gone up from there with rejoicing that rings out in the city. That is the noise you hear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.44|<< 1 Kings 1:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.46|1 Kings 1:46 >>]]</td></tr></table>
 
 | Translation | Greek |

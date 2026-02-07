@@ -1,10 +1,7 @@
 **LXX Psalm 43:2** 
 <small><sub>**LXX:**</sub></small>
 For you are the God of my fortification. Why did you thrust me away? And why do I go looking downcast during the squeezing by the enemy? 
-<small><sub>**KJV:**</sub></small>
-For thou [art] the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?
-<small><sub>**BSB:**</sub></small>
-For You are the God of my refuge. Why have You rejected me? Why must I walk in sorrow because of the enemy’s oppression?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.43.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.43.1|<< Psalm 43:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.43.3|Psalm 43:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Philippians 4:20
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:20**<big><big>[[Phil.4.10 The Generosity of the Philippians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now unto God and our Father [be] glory for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 To our God and Father be glory forever and ever. Amen.
 <small><sub>**Literal:**</sub></small>
 To the now God and Father of us [is] [be] the glory to the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.19|<< Philippians 4:19]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.21|Philippians 4:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

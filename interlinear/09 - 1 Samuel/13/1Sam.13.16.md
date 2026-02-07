@@ -1,4 +1,4 @@
-**1 Samuel 13:16** 
+**1 Samuel 13:16**<big><big>[[1Sam.13.16 Israel without Weapons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul, and Jonathan his son, and the people [that were] present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Saul and Jonathan his son and the troops with them were staying in Geba of B
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.15|<< 1 Samuel 13:15]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.17|1 Samuel 13:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Saul  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7586G\|שָׁא֞וּל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Jonathan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3129N\|יוֹנָתָ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:38** 
 <small><sub>**LXX:**</sub></small>
 And Jotham slept with  his fathers, and they entombed \[him\] with  his fathers in \[the\] city of David  his father. And Ahaz his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Jotham slept with his fathers, and was buried with his fathers in the city of David his father: and Ahaz his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Jotham rested with his fathers and was buried with them in the City of David his father. And his son Ahaz reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.37|<< 2 Kings 15:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.1|2 Kings 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

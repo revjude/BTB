@@ -1,10 +1,7 @@
 **LXX Job 17:13** 
 <small><sub>**LXX:**</sub></small>
 For if I remain, Hades \[is\] my  house; and in dimness I will make my  strewn bed. 
-<small><sub>**KJV:**</sub></small>
-If I wait, the grave [is] mine house: I have made my bed in the darkness.
-<small><sub>**BSB:**</sub></small>
-If I look for Sheol as my home, if I spread out my bed in darkness,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.12|<< Job 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.14|Job 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

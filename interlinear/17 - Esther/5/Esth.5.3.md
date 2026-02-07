@@ -1,4 +1,4 @@
-**Esther 5:3** 
+**Esther 5:3**<big><big>[[Esth.5.1 Esther Approaches the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the king unto her, What wilt thou, queen Esther? and what [is] thy request? it shall be even given thee to the half of the kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then said the king unto her, What wilt thou, queen Esther? and what [is] thy req
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.2|<< Esther 5:2]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.4|Esther 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to her  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

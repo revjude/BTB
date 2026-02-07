@@ -1,4 +1,4 @@
-**Isaiah 24:18** 
+**Isaiah 24:18**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Whoever flees the sound of panic will fall into the pit, and whoever climbs from
 > $\quad$ referenced by: [[Rev.6.12|Rev 6:12-13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְֽ֠]]&#8207;&#8207;[[H1961\|הָיָה]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] flees  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5127\|נָּ֞ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Nas<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

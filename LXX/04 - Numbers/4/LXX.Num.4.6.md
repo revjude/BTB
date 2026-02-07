@@ -1,10 +1,7 @@
 **LXX Numbers 4:6** 
 <small><sub>**LXX:**</sub></small>
 And they shall place upon it a skin overcovering of blue. And they shall put upon it a garment entirely of blue from above. And they shall insert the bearing poles. 
-<small><sub>**KJV:**</sub></small>
-And shall put thereon the covering of badgers’ skins, and shall spread over [it] a cloth wholly of blue, and shall put in the staves thereof.
-<small><sub>**BSB:**</sub></small>
-They are to place over this a covering of fine leather, spread a solid blue cloth over it, and insert its poles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.5|<< Numbers 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.7|Numbers 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

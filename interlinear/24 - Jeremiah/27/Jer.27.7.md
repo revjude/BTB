@@ -1,4 +1,4 @@
-**Jeremiah 27:7** 
+**Jeremiah 27:7**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all nations shall serve him, and his son, and his son’s son, until the very time of his land come: and then many nations and great kings shall serve themselves of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All nations will serve him and his son and grandson, until the time of his own l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.6|<< Jeremiah 27:6]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.8|Jeremiah 27:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will serve  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5647G\|עָבְד֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.ve.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

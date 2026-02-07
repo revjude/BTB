@@ -1,4 +1,4 @@
-**Genesis 41:23** 
+**Genesis 41:23**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, seven ears, withered, thin, [and] blasted with the east wind, sprung up after them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After them, seven other heads of grain sprouted—withered, thin, and scorched b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.22|<< Genesis 41:22]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.24|Genesis 41:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שֶׁ֣בַע]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

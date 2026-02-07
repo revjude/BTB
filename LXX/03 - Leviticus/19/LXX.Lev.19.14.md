@@ -1,10 +1,7 @@
 **LXX Leviticus 19:14** 
 <small><sub>**LXX:**</sub></small>
 You shall not wickedly speak to a mute, and before \[the\] blind you shall not put an obstacle. And you shall fear \[the\] <span class="smallcaps">lord</span>  your God. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-You must not curse the deaf or place a stumbling block before the blind, but you shall fear your God. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.13|<< Leviticus 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.15|Leviticus 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

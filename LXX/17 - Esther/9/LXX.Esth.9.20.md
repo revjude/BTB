@@ -1,10 +1,7 @@
 **LXX Esther 9:20** 
 <small><sub>**LXX:**</sub></small>
 And Mordecai wrote  these words in a scroll and sent \[them\] to the Jews, as many as were in the kingdom of Artaxerxes, to the ones near and to the ones far; 
-<small><sub>**KJV:**</sub></small>
-And Mordecai wrote these things, and sent letters unto all the Jews that [were] in all the provinces of the king Ahasuerus, [both] nigh and far,
-<small><sub>**BSB:**</sub></small>
-Mordecai recorded these events and sent letters to all the Jews in all the provinces of King Xerxes, both near and far,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.19|<< Esther 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.21|Esther 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

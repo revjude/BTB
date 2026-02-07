@@ -1,12 +1,12 @@
-**Psalms 30:1** (30:2)
+**Psalms 30:1**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm [and] Song [at] the dedication of the house of David. I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.
+I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.
 <small><sub>**BSB:**</sub></small>
 A Psalm. A song for the dedication of the temple. Of David. I will exalt You, O LORD, for You have lifted me up and have not allowed my foes to rejoice over me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.0|<< Psalms 30:0]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.2|Psalms 30:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will exalt you  |**<big>&#8207;[[H7311A\|אֲרוֹמִמְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| 'a.ro.mi.<small><sup>[[HVpi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

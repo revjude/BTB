@@ -1,4 +1,4 @@
-**Exodus 38:4** 
+**Exodus 38:4**<big><big>[[Exod.38.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made for the altar a brasen grate of network under the compass thereof beneath unto the midst of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made a grate of bronze mesh for the altar under its ledge, halfway up from th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.3|<< Exodus 38:3]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.5|Exodus 38:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֤עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the altar  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֙חַ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Esther 5:3** 
 <small><sub>**LXX:**</sub></small>
 And the king said, What do you want, Esther, and what is your \[request\]? The worth unto half  of my kingdom will be to you. 
-<small><sub>**KJV:**</sub></small>
-Then said the king unto her, What wilt thou, queen Esther? and what [is] thy request? it shall be even given thee to the half of the kingdom.
-<small><sub>**BSB:**</sub></small>
-“What is it, Queen Esther?” the king inquired. “What is your request? Even up to half the kingdom, it will be given to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.2|<< Esther 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.4|Esther 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

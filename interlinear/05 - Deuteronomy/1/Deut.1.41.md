@@ -1,4 +1,4 @@
-**Deuteronomy 1:41** 
+**Deuteronomy 1:41**<big><big>[[Deut.1.41 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then ye answered and said unto me, We have sinned against the LORD, we will go u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.40|<< Deuteronomy 1:40]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.42|Deuteronomy 1:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you answered  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6030B\|תַּעֲנ֣וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Nu<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּאמְר֣וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> to.me.Ru<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

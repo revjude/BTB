@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:21** 
 <small><sub>**LXX:**</sub></small>
 And the king ordered, and they put him in \[the\] house of the guard, and they gave to him one bread \[loaf\]  a day from outside of which they baked, until the bread loaves failed from the city. And Jeremiah stayed in the courtyard of the guard. 
-<small><sub>**KJV:**</sub></small>
-Then Zedekiah the king commanded that they should commit Jeremiah into the court of the prison, and that they should give him daily a piece of bread out of the bakers’ street, until all the bread in the city were spent. Thus Jeremiah remained in the court of the prison.
-<small><sub>**BSB:**</sub></small>
-So King Zedekiah gave orders for Jeremiah to be placed in the courtyard of the guard and given a loaf of bread daily from the street of the bakers, until all the bread in the city was gone. So Jeremiah remained in the courtyard of the guard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.20|<< Jeremiah 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.1|Jeremiah 38:1 >>]]</td></tr></table>
 
 | Translation | Greek |

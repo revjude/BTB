@@ -1,4 +1,4 @@
-**1 Chronicles 17:18** 
+**1 Chronicles 17:18**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What can David [speak] more to thee for the honour of thy servant? for thou knowest thy servant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What more can David say to You for honoring Your servant? For You know Your serv
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.17|<< 1 Chronicles 17:17]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.19|1 Chronicles 17:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he add  |**<big>&#8207;[[H3254H\|יּוֹסִ֨יף]]&#8207; </big>**| yo.Sif<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

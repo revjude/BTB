@@ -1,10 +1,7 @@
 **LXX Zechariah 11:2** 
 <small><sub>**LXX:**</sub></small>
 \[the\] pine shriek! because \[the\] cedar has fallen, for great ones were in misery. Shriek, O oaks  of Bashan! for the planted groves were torn down. 
-<small><sub>**KJV:**</sub></small>
-Howl, fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O ye oaks of Bashan; for the forest of the vintage is come down.
-<small><sub>**BSB:**</sub></small>
-Wail, O cypress, for the cedar has fallen; the majestic trees are ruined! Wail, O oaks of Bashan, for the dense forest has been cut down!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.1|<< Zechariah 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.3|Zechariah 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

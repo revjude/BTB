@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:15** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Shallum, and  of his confederacy which he confederated, behold, these \[are\] written upon \[the\] scroll of \[the\] words of \[the\] days of the kings of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the rest of the acts of Shallum, and his conspiracy which he made, behold, they [are] written in the book of the chronicles of the kings of Israel.
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Shallum, along with the conspiracy he led, they are indeed written in the Book of the Chronicles of the Kings of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.14|<< 2 Kings 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.16|2 Kings 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

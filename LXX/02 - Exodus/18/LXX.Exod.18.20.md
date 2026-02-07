@@ -1,10 +1,7 @@
 **LXX Exodus 18:20** 
 <small><sub>**LXX:**</sub></small>
 And you shall testify to them the orders  of God, and  his law, and you shall signify to them the ways in which they shall go by them, and the works which they shall do. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt teach them ordinances and laws, and shalt shew them the way wherein they must walk, and the work that they must do.
-<small><sub>**BSB:**</sub></small>
-Teach them the statutes and laws, and show them the way to live and the work they must do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.19|<< Exodus 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.21|Exodus 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 4:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:2**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had fasted forty days and forty nights, he was afterward an hungred.
 <small><sub>**BSB:**</sub></small>
 After fasting forty days and forty nights, He was hungry.
 <small><sub>**Literal:**</sub></small>
 And having fasted days forty and nights forty afterward He was hungry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.1|<< Matthew 4:1]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.3|Matthew 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having fasted |**<big>[[G3522\|νηστεύσας]]</big>**  |nēsteusas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

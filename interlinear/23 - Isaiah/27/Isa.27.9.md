@@ -1,4 +1,4 @@
-**Isaiah 27:9** 
+**Isaiah 27:9**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By this therefore shall the iniquity of Jacob be purged; and this [is] all the fruit to take away his sin; when he maketh all the stones of the altar as chalkstones that are beaten in sunder, the groves and images shall not stand up.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore Jacob’s guilt will be atoned for, and the full fruit of the removal 
 > $\quad$ referenced by: [[Rom.11.27|Rom 11:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by this  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2063\|זֹאת֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

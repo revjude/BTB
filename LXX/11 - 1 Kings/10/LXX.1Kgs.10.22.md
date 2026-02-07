@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For a ship of Tarshish \[belonged to\] king Solomon upon the sea with the ships of Hiram. One ship came to the king every three years out of Tarshish \[with\] gold and silver, and turned and hewn stones. 
-<small><sub>**KJV:**</sub></small>
-For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.
-<small><sub>**BSB:**</sub></small>
-For the king had the ships of Tarshish at sea with Hiram’s fleet, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes, and peacocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.21|<< 1 Kings 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.23|1 Kings 10:23 >>]]</td></tr></table>
 
 | Translation | Greek |

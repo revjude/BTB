@@ -1,4 +1,4 @@
-**Job 19:2** 
+**Job 19:2**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long will ye vex my soul, and break me in pieces with words?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How long will ye vex my soul, and break me in pieces with words?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.1|<< Job 19:1]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.3|Job 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when?  |**<big>&#8207;[[H0575\|אָ֭נָה]]&#8207; </big>**| 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

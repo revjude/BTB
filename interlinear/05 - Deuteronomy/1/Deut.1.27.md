@@ -1,4 +1,4 @@
-**Deuteronomy 1:27** 
+**Deuteronomy 1:27**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You grumbled in your tents and said, “Because the LORD hates us, He has brough
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.26|<< Deuteronomy 1:26]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.28|Deuteronomy 1:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you murmured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7279\|תֵּרָגְנ֤וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ra.ge.Nu<small><sup>[[HVNw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in tents your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0168G\|אָהֳלֵי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'o.ho.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

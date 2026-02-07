@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:4** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the second day of his striking  Gedaliah, that no man knew \[of it\]; 
-<small><sub>**KJV:**</sub></small>
-And it came to pass the second day after he had slain Gedaliah, and no man knew [it],
-<small><sub>**BSB:**</sub></small>
-On the second day after the murder of Gedaliah, when no one yet knew about it,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.3|<< Jeremiah 41:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.5|Jeremiah 41:5 >>]]</td></tr></table>
 
 | Translation | Greek |

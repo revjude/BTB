@@ -1,12 +1,12 @@
-**Ephesians 4:7
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:7**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But unto every one of us is given grace according to the measure of the gift of Christ.
 <small><sub>**BSB:**</sub></small>
 Now to each one of us grace has been given according to the measure of the gift of Christ.
 <small><sub>**Literal:**</sub></small>
 One now to each of us has been given <the> grace according to the measure of the gift <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.6|<< Ephesians 4:6]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.8|Ephesians 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | One |**<big>[[G1520\|ἑνὶ]]</big>**  |heni <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

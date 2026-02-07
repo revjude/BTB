@@ -1,12 +1,12 @@
-**Hebrews 10:32
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:32**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;
 <small><sub>**BSB:**</sub></small>
 Remember the early days that you were in the light. In those days, you endured a great conflict in the face of suffering.
 <small><sub>**Literal:**</sub></small>
 do remember however the former days in which having been enlightened a great conflict you endured of sufferings,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.31|<< Hebrews 10:31]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.33|Hebrews 10:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do remember |**<big>[[G0363\|Ἀναμιμνῄσκεσθε]]</big>**  |Anamimnēskesthe <small><sup>[[V-PPM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

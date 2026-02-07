@@ -1,12 +1,12 @@
-**Acts 3:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:3**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who seeing Peter and John about to go into the temple asked an alms.
 <small><sub>**BSB:**</sub></small>
 When he saw Peter and John about to enter, he asked them for money.
 <small><sub>**Literal:**</sub></small>
 who having seen Peter and John being about to enter into the temple was asking alms to receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.2|<< Acts 3:2]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.4|Acts 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

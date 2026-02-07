@@ -1,4 +1,4 @@
-**Joshua 5:8** 
+**Joshua 5:8**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when they had done circumcising all the people, that they abode in their places in the camp, till they were whole.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And after all the nation had been circumcised, they stayed there in the camp unt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.7|<< Joshua 5:7]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.9|Joshua 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֛י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just when  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

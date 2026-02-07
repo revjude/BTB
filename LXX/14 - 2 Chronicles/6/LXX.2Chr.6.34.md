@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:34** 
 <small><sub>**LXX:**</sub></small>
 And if your people should go forth for war against  its enemies, in \[the\] way which you shall send them, and they should pray to you towards the way  of this city which you chose, towards it and the house which I built \[to\] your name; 
-<small><sub>**KJV:**</sub></small>
-If thy people go out to war against their enemies by the way that thou shalt send them, and they pray unto thee toward this city which thou hast chosen, and the house which I have built for thy name;
-<small><sub>**BSB:**</sub></small>
-When Your people go to war against their enemies, wherever You send them, and when they pray to You in the direction of this city You have chosen and the house I have built for Your Name,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.33|<< 2 Chronicles 6:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.35|2 Chronicles 6:35 >>]]</td></tr></table>
 
 | Translation | Greek |

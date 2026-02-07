@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:3** 
 <small><sub>**LXX:**</sub></small>
 And take in  your hand ten bread loaves, and small cakes, and a jar of honey, and you shall go to him. He will announce to you what will be to the child. 
-<small><sub>**KJV:**</sub></small>
-And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child.
-<small><sub>**BSB:**</sub></small>
-Take with you ten loaves of bread, some cakes, and a jar of honey, and go to him. He will tell you what will become of the boy.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.2|<< 1 Kings 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.4|1 Kings 14:4 >>]]</td></tr></table>
 
 | Translation | Greek |

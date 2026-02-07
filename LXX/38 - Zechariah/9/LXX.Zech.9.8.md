@@ -1,10 +1,7 @@
 **LXX Zechariah 9:8** 
 <small><sub>**LXX:**</sub></small>
 And I will stand  my house on a height, \[so as to\] not travel through nor return. And in no way should there come upon them any longer ones launching an expedition, because now I have seen with  my eyes. 
-<small><sub>**KJV:**</sub></small>
-And I will encamp about mine house because of the army, because of him that passeth by, and because of him that returneth: and no oppressor shall pass through them any more: for now have I seen with mine eyes.
-<small><sub>**BSB:**</sub></small>
-But I will camp around My house because of an army, because of those who march to and fro, and never again will an oppressor overrun My people, for now I keep watch with My own eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.7|<< Zechariah 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.9|Zechariah 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

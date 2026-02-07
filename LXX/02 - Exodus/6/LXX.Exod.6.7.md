@@ -1,10 +1,7 @@
 **LXX Exodus 6:7** 
 <small><sub>**LXX:**</sub></small>
 And I will take you to myself as a people to me. And I will be your God. And you will know that I \[am\] \[the\] <span class="smallcaps">lord</span>  your God, the one leading you from out of the tyranny of the Egyptians. 
-<small><sub>**KJV:**</sub></small>
-And I will take you to me for a people, and I will be to you a God: and ye shall know that I [am] the LORD your God, which bringeth you out from under the burdens of the Egyptians.
-<small><sub>**BSB:**</sub></small>
-I will take you as My own people, and I will be your God. Then you will know that I am the LORD your God, who brought you out from under the yoke of the Egyptians.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.6|<< Exodus 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.8|Exodus 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

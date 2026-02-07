@@ -1,10 +1,7 @@
 **LXX Micah 2:7** 
 <small><sub>**LXX:**</sub></small>
 The one saying, \[The\] house of Jacob provoked to anger the spirit of \[the\] <span class="smallcaps">lord</span>;  \[are\] these his practices? Are not  his words good with him, and straight going? 
-<small><sub>**KJV:**</sub></small>
-O [thou that art] named the house of Jacob, is the spirit of the LORD straitened? [are] these his doings? do not my words do good to him that walketh uprightly?
-<small><sub>**BSB:**</sub></small>
-Should it be said, O house of Jacob, “Is the Spirit of the LORD impatient? Are these the things He does?” Do not My words bring good to him who walks uprightly?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.6|<< Micah 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.8|Micah 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

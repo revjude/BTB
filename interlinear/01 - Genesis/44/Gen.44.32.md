@@ -1,4 +1,4 @@
-**Genesis 44:32** 
+**Genesis 44:32**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy servant became surety for the lad unto my father, saying, If I bring him not unto thee, then I shall bear the blame to my father for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, your servant guaranteed the boy’s safety to my father, saying, ‘If I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.31|<< Genesis 44:31]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.33|Genesis 44:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servant your  |**<big>&#8207;[[H5650\|עַבְדְּ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

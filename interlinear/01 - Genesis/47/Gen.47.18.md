@@ -1,4 +1,4 @@
-**Genesis 47:18** 
+**Genesis 47:18**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When that year was ended, they came unto him the second year, and said unto him, We will not hide [it] from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When that year was over, they came to him the second year and said, “We cannot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.17|<< Genesis 47:17]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.19|Genesis 47:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was finished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8552\|תִּתֹּם֮]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Tom<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the year  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8141\|שָּׁנָ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Matthew 23:38
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:38**<big><big>[[Matt.23.37 Lament over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, your house is left unto you desolate.
 <small><sub>**BSB:**</sub></small>
 Look, your house is left to you desolate.
@@ -10,7 +10,7 @@ Behold is left to you the house of you desolate!<br><table width="100%" border="
 > $\quad$ alluding to: [[LXX.Ps.69.25|Ps 69:25]] ☩ [[LXX.Jer.12.7|Jer 12:7]] ☩ [[LXX.Jer.22.5|Jer 22:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is left |**<big>[[G0863G\|ἀφίεται]]</big>**  |aphietai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

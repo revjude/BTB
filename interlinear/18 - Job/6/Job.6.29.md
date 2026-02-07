@@ -1,4 +1,4 @@
-**Job 6:29** 
+**Job 6:29**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Return, I pray you, let it not be iniquity; yea, return again, my righteousness [is] in it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Reconsider; do not be unjust. Reconsider, for my righteousness is at stake.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.28|<< Job 6:28]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.30|Job 6:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn back  |**<big>&#8207;[[H7725O\|שֻֽׁבוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shu.vu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֭א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

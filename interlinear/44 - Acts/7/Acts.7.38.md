@@ -1,5 +1,5 @@
-**Acts 7:38
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:38**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and [with] our fathers: who received the lively oracles to give unto us:
 <small><sub>**BSB:**</sub></small>
 He was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers. And he received living words to pass on to us.
@@ -10,7 +10,7 @@ This is the [one] having been in the congregation in the wilderness with the ang
 > $\quad$ alluding to: [[LXX.Exod.19.3|Exod 19:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|οὗτός]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

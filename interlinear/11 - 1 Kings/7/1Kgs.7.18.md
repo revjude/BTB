@@ -1,4 +1,4 @@
-**1 Kings 7:18** 
+**1 Kings 7:18**<big><big>[[1Kgs.7.13 The Pillars and Capitals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the pillars, and two rows round about upon the one network, to cover the chapiters that [were] upon the top, with pomegranates: and so did he for the other chapiter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Likewise, he made the pillars with two rows of pomegranates around each grating 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.17|<< 1 Kings 7:17]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.19|1 Kings 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֖עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

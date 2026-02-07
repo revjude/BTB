@@ -1,4 +1,4 @@
-**Exodus 23:10** 
+**Exodus 23:10**<big><big>[[Exod.23.10 Sabbath Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And six years thou shalt sow thy land, and shalt gather in the fruits thereof:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For six years you are to sow your land and gather its produce,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.9|<< Exodus 23:9]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.11|Exodus 23:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שֵׁ֥שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years  |**<big>&#8207;[[H8141\|שָׁנִ֖ים]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

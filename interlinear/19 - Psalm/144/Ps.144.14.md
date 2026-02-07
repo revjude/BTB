@@ -1,4 +1,4 @@
-**Psalms 144:14** 
+**Psalms 144:14**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] our oxen [may be] strong to labour; [that there be] no breaking in, nor going out; that [there be] no complaining in our streets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our oxen will bear great loads. There will be no breach in the walls, no going i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.13|<< Psalms 144:13]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.15|Psalms 144:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cattle[s] our  |**<big>&#8207;[[H0441A\|אַלּוּפֵ֗י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'a.lu.Fei.<small><sup>[[HAampc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] loaded  |**<big>&#8207;[[H5445\|מְֽסֻבָּ֫לִ֥ים]]&#8207; </big>**| me.su.Ba.Lim<small><sup>[[HVPsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

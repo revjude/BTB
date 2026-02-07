@@ -1,10 +1,7 @@
 **LXX Leviticus 22:21** 
 <small><sub>**LXX:**</sub></small>
 And a man who ever should offer a sacrifice of deliverance to the <span class="smallcaps">lord</span>, while setting apart a vow, or according to a choice \[offering\], or in  your holiday \[feasts\], out of the herds or of the sheep, it shall be unblemished for acceptance. There shall not be any blemish upon it. 
-<small><sub>**KJV:**</sub></small>
-And whosoever offereth a sacrifice of peace offerings unto the LORD to accomplish [his] vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.
-<small><sub>**BSB:**</sub></small>
-When a man presents a peace offering to the LORD from the herd or flock to fulfill a vow or as a freewill offering, it must be without blemish or defect to be acceptable.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.20|<< Leviticus 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.22|Leviticus 22:22 >>]]</td></tr></table>
 
 | Translation | Greek |

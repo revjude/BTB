@@ -1,4 +1,4 @@
-**1 Samuel 2:31** 
+**1 Samuel 2:31**<big><big>[[1Sam.2.27 A Prophecy against the House of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, that I will cut off thine arm, and the arm of thy father’s house, that there shall not be an old man in thine house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, the days are coming when I will cut off your strength and the strength o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.30|<< 1 Samuel 2:30]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.32|1 Samuel 2:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּה֙]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִ֣ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

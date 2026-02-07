@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:25** 
 <small><sub>**LXX:**</sub></small>
 And unto a \[dead\] soul of a man they shall not enter  to defile \[themselves\]; but only unto a father, and unto a mother, and unto a son, and unto a daughter, and unto a brother, and unto his sister who has not become a man's \[wife\] shall he be defiled. 
-<small><sub>**KJV:**</sub></small>
-And they shall come at no dead person to defile themselves: but for father, or for mother, or for son, or for daughter, for brother, or for sister that hath had no husband, they may defile themselves.
-<small><sub>**BSB:**</sub></small>
-A priest must not defile himself by going near a dead person. However, for a father, a mother, a son, a daughter, a brother, or an unmarried sister, he may do so,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.24|<< Ezekiel 44:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.26|Ezekiel 44:26 >>]]</td></tr></table>
 
 | Translation | Greek |

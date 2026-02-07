@@ -1,10 +1,7 @@
 **LXX Exodus 13:10** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard  this law according to \[the\] times of hours, from days to days. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt therefore keep this ordinance in his season from year to year.
-<small><sub>**BSB:**</sub></small>
-Therefore you shall keep this statute at the appointed time year after year.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.9|<< Exodus 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.11|Exodus 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

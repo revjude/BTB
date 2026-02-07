@@ -1,5 +1,5 @@
-**Acts 4:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:24**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou [art] God, which hast made heaven, and earth, and the sea, and all that in them is:
 <small><sub>**BSB:**</sub></small>
 When the believers heard this, they lifted up their voices to God with one accord. “Sovereign Lord,” they said, “You made the heaven and the earth and the sea and everything in them.
@@ -10,7 +10,7 @@ When the believers heard this, they lifted up their voices to God with one accor
 > $\quad$ referencing: [[LXX.Exod.20.11|Exod 20:11]] ☩ [[LXX.2Chr.2.12|2Chr 2:12]] ☩ [[LXX.Ps.146.6|Ps 146:6]] ☩ [[LXX.2Kgs.19.15|2Kgs 19:15]] ☩ [[LXX.Isa.37.16|Isa 37:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

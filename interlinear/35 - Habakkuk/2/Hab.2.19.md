@@ -1,4 +1,4 @@
-**Habakkuk 2:19** 
+**Habakkuk 2:19**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it [is] laid over with gold and silver, and [there is] no breath at all in the midst of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to him who says to wood, ‘Awake!’ or to silent stone, ‘Arise!’ Can i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.18|<< Habakkuk 2:18]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.20|Habakkuk 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֣וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] says  |**<big>&#8207;[[H0559\|אֹמֵ֤ר]]&#8207; </big>**| 'o.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

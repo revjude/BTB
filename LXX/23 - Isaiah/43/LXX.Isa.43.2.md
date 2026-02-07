@@ -1,10 +1,7 @@
 **LXX Isaiah 43:2** 
 <small><sub>**LXX:**</sub></small>
 And if you should pass over through water, I am with you; and rivers shall not engulf you. And if you go through fire, in no way should you be incinerated; a flame shall not incinerate you. 
-<small><sub>**KJV:**</sub></small>
-When thou passest through the waters, I [will be] with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.
-<small><sub>**BSB:**</sub></small>
-When you pass through the waters, I will be with you; and when you go through the rivers, they will not overwhelm you. When you walk through the fire, you will not be scorched; the flames will not set you ablaze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.1|<< Isaiah 43:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.3|Isaiah 43:3 >>]]</td></tr></table>
 
 | Translation | Greek |

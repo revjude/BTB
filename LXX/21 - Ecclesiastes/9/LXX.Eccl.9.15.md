@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:15** 
 <small><sub>**LXX:**</sub></small>
 and there should be found in it a needy wise man; and he himself shall deliver the city in  his wisdom; but man remembered not with  that needy man. 
-<small><sub>**KJV:**</sub></small>
-Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man.
-<small><sub>**BSB:**</sub></small>
-Now a poor wise man was found in the city, and he saved the city by his wisdom. Yet no one remembered that poor man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.14|<< Ecclesiastes 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.16|Ecclesiastes 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

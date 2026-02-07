@@ -1,10 +1,7 @@
 **LXX Joshua 2:18** 
 <small><sub>**LXX:**</sub></small>
 Behold, \[as\] we enter into a part of the city, then you shall place  a sign --  you shall suspend this scarlet string in the window through which you let us down through it. And  your father, and  your mother, and  your brothers, and all the house  of your father, you shall bring together to yourself into  your house. 
-<small><sub>**KJV:**</sub></small>
-Behold, [when] we come into the land, thou shalt bind this line of scarlet thread in the window which thou didst let us down by: and thou shalt bring thy father, and thy mother, and thy brethren, and all thy father’s household, home unto thee.
-<small><sub>**BSB:**</sub></small>
-unless, when we enter the land, you have tied this scarlet cord in the window through which you let us down, and unless you have brought your father and mother and brothers and all your family into your house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.17|<< Joshua 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.19|Joshua 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

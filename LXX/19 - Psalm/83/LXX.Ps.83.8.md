@@ -1,10 +1,7 @@
 **LXX Psalm 83:8** 
 <small><sub>**LXX:**</sub></small>
 For even also Assyria came together with them; they became an assistance to the sons of Lot. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-Assur also is joined with them: they have holpen the children of Lot. Selah.
-<small><sub>**BSB:**</sub></small>
-Even Assyria has joined them, lending strength to the sons of Lot. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.83.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.7|<< Psalm 83:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.9|Psalm 83:9 >>]]</td></tr></table>
 
 | Translation | Greek |

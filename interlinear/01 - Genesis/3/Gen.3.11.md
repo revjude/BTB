@@ -1,4 +1,4 @@
-**Genesis 3:11** 
+**Genesis 3:11**<big><big>[[Gen.3.8 God Arraigns Adam and Eve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Who told thee that thou [wast] naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said, Who told thee that thou [wast] naked? Hast thou eaten of the tree, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.10|<< Genesis 3:10]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.12|Genesis 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֕אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who?  |**<big>&#8207;[[H4310\|מִ֚י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

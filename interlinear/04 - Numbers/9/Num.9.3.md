@@ -1,4 +1,4 @@
-**Numbers 9:3** 
+**Numbers 9:3**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to observe it at the appointed time, at twilight on the fourteenth day o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.2|<< Numbers 9:2]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.4|Numbers 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] four-  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0702\|אַרְבָּעָ֣ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | teen  |**<big>&#8207;[[H6240\|עָשָֽׂר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.sar-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 1:41** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Anah -- Dishon. And \[the\] sons of Dishon. And \[the\] sons of Dishon -- Amram, and Eshban, and Ithran, and Cheran. 
-<small><sub>**KJV:**</sub></small>
-The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran.
-<small><sub>**BSB:**</sub></small>
-The son of Anah: Dishon. The sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.1.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.40|<< 1 Chronicles 1:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.42|1 Chronicles 1:42 >>]]</td></tr></table>
 
 | Translation | Greek |

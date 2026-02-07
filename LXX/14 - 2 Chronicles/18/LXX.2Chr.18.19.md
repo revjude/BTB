@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said, Who shall deceive  Ahab king of Israel, that he shall ascend, and shall fall in Ramoth Gilead? And this one spoke thus, and this \[other\] one spoke thus. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said, Who shall entice Ahab king of Israel, that he may go up and fall at Ramothgilead? And one spake saying after this manner, and another saying after that manner.
-<small><sub>**BSB:**</sub></small>
-And the LORD said, ‘Who will entice Ahab king of Israel to march up and fall at Ramoth-gilead?’ And one suggested this, and another that.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.18|<< 2 Chronicles 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.20|2 Chronicles 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

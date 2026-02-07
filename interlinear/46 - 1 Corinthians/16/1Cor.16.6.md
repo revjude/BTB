@@ -1,12 +1,12 @@
-**1 Corinthians 16:6
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:6**<big><big>[[1Cor.16.5 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it may be that I will abide, yea, and winter with you, that ye may bring me on my journey whithersoever I go.
 <small><sub>**BSB:**</sub></small>
 Perhaps I will stay with you awhile, or even spend the winter, so that you can help me on my journey, wherever I go.
 <small><sub>**Literal:**</sub></small>
 With you then possibly I will continue or even I will winter, so that you yourselves me may equip wherever if I shall go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.5|<< 1 Corinthians 16:5]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.7|1 Corinthians 16:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | With |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 23:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:14**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they came to the chief priests and elders, and said, We have bound ourselves under a great curse, that we will eat nothing until we have slain Paul.
 <small><sub>**BSB:**</sub></small>
 They went to the chief priests and elders and said, “We have bound ourselves with a solemn oath not to eat anything until we have killed Paul.
 <small><sub>**Literal:**</sub></small>
 who having come to the chief priests and to the elders said; With an oath we have bound ourselves nothing to eat until that we may kill <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.13|<< Acts 23:13]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.15|Acts 23:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G4334\|προσελθόντες]]</big>**  |proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

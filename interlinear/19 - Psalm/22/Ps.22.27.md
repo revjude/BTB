@@ -1,4 +1,4 @@
-**Psalms 22:27** (22:28)
+**Psalms 22:27**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All the ends of the earth will remember and turn to the LORD. All the families o
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will remember  |**<big>&#8207;[[H2142\|יִזְכְּר֤וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yiz.ke.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may turn  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725O\|יָשֻׁ֣בוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Shu.vu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 10:9** 
 <small><sub>**LXX:**</sub></small>
 Remember that you shaped me of clay, and unto \[the\] earth again you return me. 
-<small><sub>**KJV:**</sub></small>
-Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?
-<small><sub>**BSB:**</sub></small>
-Please remember that You molded me like clay. Would You now return me to dust?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.8|<< Job 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.10|Job 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

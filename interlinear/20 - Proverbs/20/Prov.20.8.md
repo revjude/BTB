@@ -1,4 +1,4 @@
-**Proverbs 20:8** 
+**Proverbs 20:8**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A king that sitteth in the throne of judgment scattereth away all evil with his eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A king who sits on a throne to judge sifts out all evil with his eyes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.7|<< Proverbs 20:7]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.9|Proverbs 20:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a king  |**<big>&#8207;[[H4428G\|מֶ֗לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] sits  |**<big>&#8207;[[H3427\|יוֹשֵׁ֥ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 12:4** 
+**Exodus 12:4**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the household be too little for the lamb, let him and his neighbour next unto his house take [it] according to the number of the souls; every man according to his eating shall make your count for the lamb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If the household is too small for a whole lamb, they are to share with the neare
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.3|<< Exodus 12:3]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.5|Exodus 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be [too] small  |**<big>&#8207;[[H4591\|יִמְעַ֣ט]]&#8207; </big>**| yim.'At<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

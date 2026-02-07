@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:17** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Call the wailing women and let them come! And to the wise women send, and let them utter \[their voice\]! 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, Consider ye, and call for the mourning women, that they may come; and send for cunning [women], that they may come:
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: “Take note, and summon the wailing women; send for the most skillful among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.16|<< Jeremiah 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.18|Jeremiah 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

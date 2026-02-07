@@ -1,10 +1,7 @@
 **LXX Numbers 35:27** 
 <small><sub>**LXX:**</sub></small>
 and the one acting as next of kin for blood should find him outside the borders of the city of his refuge, and the one acting as next of kin for blood should slaughter the one man-slaying, is he not liable? 
-<small><sub>**KJV:**</sub></small>
-And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:
-<small><sub>**BSB:**</sub></small>
-and the avenger of blood finds him outside of his city of refuge and kills him, then the avenger will not be guilty of bloodshed,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.26|<< Numbers 35:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.28|Numbers 35:28 >>]]</td></tr></table>
 
 | Translation | Greek |

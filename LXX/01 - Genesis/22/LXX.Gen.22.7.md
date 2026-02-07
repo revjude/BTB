@@ -1,10 +1,7 @@
 **LXX Genesis 22:7** 
 <small><sub>**LXX:**</sub></small>
 And Isaac said to Abraham  his father, Father.  And he said, What is it child? And he said, Behold, the fire and the wood, where is the sheep -- the one for a whole offering? 
-<small><sub>**KJV:**</sub></small>
-And Isaac spake unto Abraham his father, and said, My father: and he said, Here [am] I, my son. And he said, Behold the fire and the wood: but where [is] the lamb for a burnt offering?
-<small><sub>**BSB:**</sub></small>
-Then Isaac said to his father Abraham, “My father!” “Here I am, my son,” he replied. “The fire and the wood are here,” said Isaac, “but where is the lamb for the burnt offering?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.6|<< Genesis 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.8|Genesis 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

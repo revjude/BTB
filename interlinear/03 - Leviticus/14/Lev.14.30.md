@@ -1,4 +1,4 @@
-**Leviticus 14:30** 
+**Leviticus 14:30**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall offer the one of the turtledoves, or of the young pigeons, such as he can get;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he must sacrifice the turtledoves or young pigeons, whichever he can afford
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.29|<< Leviticus 14:29]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.31|Leviticus 14:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will offer  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213I\|עָשָׂ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

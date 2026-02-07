@@ -1,4 +1,4 @@
-**Deuteronomy 28:24** 
+**Deuteronomy 28:24**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will turn the rain of your land into dust and powder; it will descend o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.23|<< Deuteronomy 28:23]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.25|Deuteronomy 28:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will make  |**<big>&#8207;[[H5414I\|יִתֵּ֧ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

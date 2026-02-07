@@ -1,4 +1,4 @@
-**2 Kings 5:7** 
+**2 Kings 5:7**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, [Am] I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the king of Israel read the letter, he tore his clothes and asked, “Am I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.6|<< 2 Kings 5:6]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.8|2 Kings 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֡י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when read aloud  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7121J\|קְרֹא֩]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> k.Ro'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

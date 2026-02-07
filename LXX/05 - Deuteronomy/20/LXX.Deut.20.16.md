@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:16** 
 <small><sub>**LXX:**</sub></small>
 But behold, from the cities  of these nations which the <span class="smallcaps">lord</span>  your God gives to you to inherit  their land, you shall not take alive any one breathing. 
-<small><sub>**KJV:**</sub></small>
-But of the cities of these people, which the LORD thy God doth give thee [for] an inheritance, thou shalt save alive nothing that breatheth:
-<small><sub>**BSB:**</sub></small>
-However, in the cities of the nations that the LORD your God is giving you as an inheritance, you must not leave alive anything that breathes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.15|<< Deuteronomy 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.17|Deuteronomy 20:17 >>]]</td></tr></table>
 
 | Translation | Greek |

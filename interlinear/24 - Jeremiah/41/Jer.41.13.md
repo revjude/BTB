@@ -1,4 +1,4 @@
-**Jeremiah 41:13** 
+**Jeremiah 41:13**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, [that] when all the people which [were] with Ishmael saw Johanan the son of Kareah, and all the captains of the forces that [were] with him, then they were glad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all the people with Ishmael saw Johanan son of Kareah and all the commander
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.12|<< Jeremiah 41:12]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.14|Jeremiah 41:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when saw  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7200G\|רְא֤וֹת]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 56:5** (56:6)
+**Psalms 56:5**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every day they wrest my words: all their thoughts [are] against me for evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All day long they twist my words; all their thoughts are on my demise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.4|<< Psalms 56:4]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.6|Psalms 56:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the day  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H3117G\|יּוֹם]]&#8207; </big>**| Hai.<small><sup>[[HTd]]</sup></small> yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

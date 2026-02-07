@@ -1,4 +1,4 @@
-**Isaiah 14:8** 
+**Isaiah 14:8**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, the fir trees rejoice at thee, [and] the cedars of Lebanon, [saying], Since thou art laid down, no feller is come up against us.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Even the cypresses and cedars of Lebanon exult over you: “Since you have been 
 > $\quad$ related to: [[Ezek.31.16|Ezek 31:16-17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fir trees  |**<big>&#8207;[[H1265\|בְּרוֹשִׁ֛ים]]&#8207; </big>**| be.ro.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

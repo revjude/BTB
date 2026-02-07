@@ -1,4 +1,4 @@
-**Deuteronomy 13:17** (13:18)
+**Deuteronomy 13:17**<big><big>[[Deut.13.12 Idolatrous Cities to Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall cleave nought of the cursed thing to thine hand: that the LORD may turn from the fierceness of his anger, and shew thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nothing devoted to destruction shall cling to your hands, so that the LORD will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.16|<< Deuteronomy 13:16]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.18|Deuteronomy 13:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will cling  |**<big>&#8207;[[H1692\|יִדְבַּ֧ק]]&#8207; </big>**| yid.Bak<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

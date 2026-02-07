@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:21** 
 <small><sub>**LXX:**</sub></small>
 And there is no nation as your people Israel yet upon the earth, as God guided him \[for\] the ransoming a people to himself,  to establish to himself a great and apparent name,  to cast out nations from in front of your people of whom you ransomed out of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And what one nation in the earth [is] like thy people Israel, whom God went to redeem [to be] his own people, to make thee a name of greatness and terribleness, by driving out nations from before thy people, whom thou hast redeemed out of Egypt?
-<small><sub>**BSB:**</sub></small>
-And who is like Your people Israel—the one nation on earth whom God went out to redeem as a people for Himself? You made a name for Yourself through great and awesome wonders by driving out nations from before Your people, whom You redeemed from Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.20|<< 1 Chronicles 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.22|1 Chronicles 17:22 >>]]</td></tr></table>
 
 | Translation | Greek |

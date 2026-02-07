@@ -1,4 +1,4 @@
-**Deuteronomy 32:37** 
+**Deuteronomy 32:37**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall say, Where [are] their gods, [their] rock in whom they trusted,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will say: “Where are their gods, the rock in which they took refuge,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.36|<< Deuteronomy 32:36]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.38|Deuteronomy 32:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַ֖ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where?  |**<big>&#8207;[[H0335\|אֵ֣י]]&#8207; </big>**| 'ei<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

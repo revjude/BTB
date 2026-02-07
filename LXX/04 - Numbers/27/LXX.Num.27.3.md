@@ -1,10 +1,7 @@
 **LXX Numbers 27:3** 
 <small><sub>**LXX:**</sub></small>
  Our father died in the wilderness, and he was not in \[the\] midst of the congregation of the ones rising up together against \[the\] <span class="smallcaps">lord</span> in the congregation of Korah; for because of his sin he died. And there were no sons born to him. the name of our father not be wiped away from \[the\] midst  of his people! for there is not a son to him. Give to us a possession in \[the\] midst of \[the\] brothers of our father! 
-<small><sub>**KJV:**</sub></small>
-Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons.
-<small><sub>**BSB:**</sub></small>
-“Our father died in the wilderness, but he was not among the followers of Korah who gathered together against the LORD. Instead, he died because of his own sin, and he had no sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.2|<< Numbers 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.4|Numbers 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

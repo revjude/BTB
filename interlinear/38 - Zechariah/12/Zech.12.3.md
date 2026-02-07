@@ -1,4 +1,4 @@
-**Zechariah 12:3** 
+**Zechariah 12:3**<big><big>[[Zech.12.1 The Coming Deliverance of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ On that day, when all the nations of the earth gather against her, I will make J
 > $\quad$ referenced by: [[Matt.21.44|Matt 21:44]] ☩ [[Luke.20.18|Luke 20:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.yom-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

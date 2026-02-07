@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 25:6** 
 <small><sub>**LXX:**</sub></small>
 All these with  their father singing hymns in \[the\] house of \[the\] <span class="smallcaps">lord</span>, with cymbals, and with stringed instruments, and with lutes, for the service of \[the\] house  of God, being next to the king, even Asaph and Jeduthun and Heman. 
-<small><sub>**KJV:**</sub></small>
-All these [were] under the hands of their father for song [in] the house of the LORD, with cymbals, psalteries, and harps, for the service of the house of God, according to the king’s order to Asaph, Jeduthun, and Heman.
-<small><sub>**BSB:**</sub></small>
-All these were under the direction of their fathers for the music of the house of the LORD with cymbals, harps, and lyres, for the service of the house of God. Asaph, Jeduthun, and Heman were under the direction of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.5|<< 1 Chronicles 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.7|1 Chronicles 25:7 >>]]</td></tr></table>
 
 | Translation | Greek |

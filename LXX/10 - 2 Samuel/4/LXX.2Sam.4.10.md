@@ -1,10 +1,7 @@
 **LXX 2 Samuel 4:10** 
 <small><sub>**LXX:**</sub></small>
 that the one reporting to me that Saul has died, and he was as one announcing good news before me, but I constrained him, and killed him in Ziklag, in which he must \[have thought\] to be giving me good news. 
-<small><sub>**KJV:**</sub></small>
-When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who [thought] that I would have given him a reward for his tidings:
-<small><sub>**BSB:**</sub></small>
-when someone told me, ‘Look, Saul is dead,’ and thought he was a bearer of good news, I seized him and put him to death at Ziklag. That was his reward for his news!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.9|<< 2 Samuel 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.11|2 Samuel 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ecclesiastes 9:1** 
+**Ecclesiastes 9:1**<big><big>[[Eccl.9.1 Death Comes to Good and Bad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, [are] in the hand of God: no man knoweth either love or hatred [by] all [that is] before them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I took all this to heart and concluded that the righteous and the wise, as we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.17|<< Ecclesiastes 8:17]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.2|Ecclesiastes 9:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

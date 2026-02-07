@@ -1,10 +1,7 @@
 **LXX Numbers 1:47** 
 <small><sub>**LXX:**</sub></small>
 But the Levites from the tribes of their patrimony were not considered together among the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-But the Levites after the tribe of their fathers were not numbered among them.
-<small><sub>**BSB:**</sub></small>
-The Levites, however, were not numbered along with them by the tribe of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.46|<< Numbers 1:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.48|Numbers 1:48 >>]]</td></tr></table>
 
 | Translation | Greek |

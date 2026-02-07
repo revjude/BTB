@@ -1,4 +1,4 @@
-**Joshua 19:15** 
+**Joshua 19:15**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It also included Kattath, Nahalal, Shimron, Idalah, and Bethlehem. There were tw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.14|<< Joshua 19:14]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.16|Joshua 19:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Kattah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7005\|קַטָּ֤ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ka.Tat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Nahalal  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5096\|נַֽהֲלָל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.ha.Lal<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 8:14** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span> almighty, In which manner I consider  to inflict evil on you in  your fathers provoking me to anger, says \[the\] <span class="smallcaps">lord</span> almighty, and I did not change my mind. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the LORD of hosts, and I repented not:
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts says: “Just as I resolved to bring disaster upon you when your fathers provoked Me to anger, and I did not relent,” says the LORD of Hosts,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.13|<< Zechariah 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.15|Zechariah 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

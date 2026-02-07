@@ -1,4 +1,4 @@
-**Isaiah 5:6** 
+**Isaiah 5:6**<big><big>[[Isa.5.1 The Song of the Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will lay it waste: it shall not be pruned, nor digged; but there shall come up briers and thorns: I will also command the clouds that they rain no rain upon it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make it a wasteland, neither pruned nor cultivated, and thorns and briers
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.5|<< Isaiah 5:5]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.7|Isaiah 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make it  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H7896G\|אֲשִׁיתֵ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.shi.Te.<small><sup>[[HVqu1cs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a desolation  |**<big>&#8207;[[H1326\|בָתָ֗ה]]&#8207; </big>**| va.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

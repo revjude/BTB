@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:10** 
 <small><sub>**LXX:**</sub></small>
 Behold now! for \[the\] <span class="smallcaps">lord</span> has taken you to build for him a house for a sanctuary. Be strong and act! 
-<small><sub>**KJV:**</sub></small>
-Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do [it].
-<small><sub>**BSB:**</sub></small>
-Consider now that the LORD has chosen you to build a house for the sanctuary. Be strong and do it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.9|<< 1 Chronicles 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.11|1 Chronicles 28:11 >>]]</td></tr></table>
 
 | Translation | Greek |

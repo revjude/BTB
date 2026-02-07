@@ -1,4 +1,4 @@
-**Isaiah 9:7** (9:6)
+**Isaiah 9:7**<big><big>[[Isa.9.1 Unto Us a Child Is Born|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the increase of [his] government and peace [there shall be] no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Of the increase of His government and peace there will be no end. He will reign 
 > $\quad$ referenced by: [[John.12.34|John 12:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [the] increase of  [^2]|**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4766\|מַרְבֵּ֨ה]]&#8207; </big>**[^3] | le.<small><sup>[[HR]]</sup></small> mar.beh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | the dominion  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4951\|מִּשְׂרָ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mis.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

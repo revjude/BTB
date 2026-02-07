@@ -1,12 +1,12 @@
-**Acts 28:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:9**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So when this was done, others also, which had diseases in the island, came, and were healed:
 <small><sub>**BSB:**</sub></small>
 After this had happened, the rest of the sick on the island came and were cured as well.
 <small><sub>**Literal:**</sub></small>
 Of this then having taken place also the rest <the> in the island having infirmities were coming and were healed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.8|<< Acts 28:8]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.10|Acts 28:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of this |**<big>[[G3778\|Τούτου]]</big>**  |Toutou <small><sup>[[D-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

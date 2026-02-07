@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:24** 
 <small><sub>**LXX:**</sub></small>
 And the Ziphites rose up, and went before Saul. And David and  his men \[were\] in the wilderness  of Maon, to \[the\] west at \[the\] right  of Jeshimon. 
-<small><sub>**KJV:**</sub></small>
-And they arose, and went to Ziph before Saul: but David and his men [were] in the wilderness of Maon, in the plain on the south of Jeshimon.
-<small><sub>**BSB:**</sub></small>
-So they set out and went to Ziph ahead of Saul. Now David and his men were in the Wilderness of Maon in the Arabah south of Jeshimon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.23|<< 1 Samuel 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.25|1 Samuel 23:25 >>]]</td></tr></table>
 
 | Translation | Greek |

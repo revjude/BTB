@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:32** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the ones in charge of the chariots saw  Jehoshaphat king of Judah, that they said, It appears \[that\] this \[one\] \[is the\] king of Israel. And they encircled him  to do battle. And Jehoshaphat shouted aloud. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it [is] the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out.
-<small><sub>**BSB:**</sub></small>
-When the chariot commanders saw Jehoshaphat, they said, “Surely this is the king of Israel!” So they turned to fight against him, but Jehoshaphat cried out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.31|<< 1 Kings 22:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.33|1 Kings 22:33 >>]]</td></tr></table>
 
 | Translation | Greek |

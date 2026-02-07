@@ -1,4 +1,4 @@
-**1 Kings 11:3** 
+**1 Kings 11:3**<big><big>[[1Kgs.11.1 Solomon’s Foreign Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He had seven hundred wives of royal birth and three hundred concubines—and his
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.2|<< 1 Kings 11:2]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.4|1 Kings 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.hi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H9005\|ל֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

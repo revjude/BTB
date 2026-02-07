@@ -1,5 +1,5 @@
-**Matthew 18:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:16**<big><big>[[Matt.18.15 A Brother Who Sins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if he will not hear [thee, then] take with thee one or two more, that in the mouth of two or three witnesses every word may be established.
 <small><sub>**BSB:**</sub></small>
 But if he will not listen, take one or two others along, so that ‘every matter may be established by the testimony of two or three witnesses.’
@@ -10,7 +10,7 @@ only however unless he shall hear, do take with you more one or two that upon [t
 > $\quad$ alluding to: [[LXX.Lev.19.15|Lev 19:15]] ☩ [[LXX.Deut.19.15|Deut 19:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

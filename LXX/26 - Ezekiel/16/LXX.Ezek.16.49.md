@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:49** 
 <small><sub>**LXX:**</sub></small>
 Besides this, the violation of Sodom  your sister -- pride; in fullness of bread and in prosperity they lived extravagantly, she and  her daughters; this existed in her and  her daughters, and they did not assist \[the\] hand of \[the\] poor and needy. 
-<small><sub>**KJV:**</sub></small>
-Behold, this was the iniquity of thy sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.
-<small><sub>**BSB:**</sub></small>
-Now this was the iniquity of your sister Sodom: She and her daughters were arrogant, overfed, and complacent; they did not help the poor and needy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.48|<< Ezekiel 16:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.50|Ezekiel 16:50 >>]]</td></tr></table>
 
 | Translation | Greek |

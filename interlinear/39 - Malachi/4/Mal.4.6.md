@@ -1,4 +1,4 @@
-**Malachi 4:6** (3:24)
+**Malachi 4:6**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And he will turn the hearts of the fathers to their children, and the hearts of 
 > $\quad$ referenced by: [[Luke.1.17|Luke 1:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will turn back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725I\|הֵשִׁ֤יב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Shiv<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heart of  |**<big>&#8207;[[H3820A\|לֵב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lev-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 27:4** 
+**Genesis 27:4**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And make me savoury meat, such as I love, and bring [it] to me, that I may eat; that my soul may bless thee before I die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then prepare a tasty dish that I love and bring it to me to eat, so that I may b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.3|<< Genesis 27:3]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.5|Genesis 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and prepare  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6213H\|עֲשֵׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.seh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> me  |**<big>&#8207;[[H9005\|לִ֨]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

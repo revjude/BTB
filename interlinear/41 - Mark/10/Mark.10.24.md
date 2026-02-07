@@ -1,12 +1,12 @@
-**Mark 10:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:24**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the disciples were astonished at his words. But Jesus answereth again, and saith unto them, Children, how hard is it for them that trust in riches to enter into the kingdom of God!
 <small><sub>**BSB:**</sub></small>
 And the disciples were amazed at His words. But Jesus said to them again, “Children, how hard it is to enter the kingdom of God!
 <small><sub>**Literal:**</sub></small>
 <the> And the disciples were astonished at the words of Him. <the> But Jesus again answering He says to them; Children, how difficult it is <the> having trusted upon <the> riches into the kingdom <the> of God to enter!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.23|<< Mark 10:23]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.25|Mark 10:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

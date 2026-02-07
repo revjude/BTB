@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he said to him, your name be called not any longer Jacob, but Israel will be  your name; for you grew in strength against God, and against mighty men. 
-<small><sub>**KJV:**</sub></small>
-And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed.
-<small><sub>**BSB:**</sub></small>
-Then the man said, “Your name will no longer be Jacob, but Israel, because you have struggled with God and with men, and you have prevailed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.27|<< Genesis 32:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.29|Genesis 32:29 >>]]</td></tr></table>
 
 | Translation | Greek |

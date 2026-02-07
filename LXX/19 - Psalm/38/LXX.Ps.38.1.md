@@ -6,10 +6,7 @@ A psalm \[to\] David; for remembrance concerning the Sabbath.
 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, let not  your rage reprove me, nor  your anger correct me! 
-<small><sub>**KJV:**</sub></small>
-A Psalm of David, to bring to remembrance. O LORD, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.
-<small><sub>**BSB:**</sub></small>
-A Psalm of David, for remembrance. O LORD, do not rebuke me in Your anger or discipline me in Your wrath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.40|<< Psalm 37:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.2|Psalm 38:2 >>]]</td></tr></table>
 
 | Translation | Greek |

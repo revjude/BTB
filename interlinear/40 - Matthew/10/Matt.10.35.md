@@ -1,5 +1,5 @@
-**Matthew 10:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:35**<big><big>[[Matt.10.34 Not Peace but a Sword|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
 <small><sub>**BSB:**</sub></small>
 For I have come to turn ‘a man against his father, a daughter against her mother, a daughter-in-law against her mother-in-law.
@@ -10,7 +10,7 @@ I came for to set at variance A man against the father of him and a daughter aga
 > $\quad$ referencing: [[LXX.Mic.7.6|Mic 7:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I came |**<big>[[G2064\|ἦλθον]]</big>**  |ēlthon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

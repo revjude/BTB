@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:61** 
 <small><sub>**LXX:**</sub></small>
 And you shall remember  your way, and you shall be despised in  your taking up  your sisters,  your older \[ones\] with  your younger \[ones\]; and I will give them to you for edifying, but not out of your covenant. 
-<small><sub>**KJV:**</sub></small>
-Then thou shalt remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder and thy younger: and I will give them unto thee for daughters, but not by thy covenant.
-<small><sub>**BSB:**</sub></small>
-Then you will remember your ways and be ashamed when you receive your older and younger sisters. I will give them to you as daughters, but not because of My covenant with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.60|<< Ezekiel 16:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.62|Ezekiel 16:62 >>]]</td></tr></table>
 
 | Translation | Greek |

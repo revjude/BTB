@@ -1,4 +1,4 @@
-**Genesis 19:16** 
+**Genesis 19:16**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the LORD being merciful unto him: and they brought him forth, and set him without the city.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But when Lot hesitated, the men grabbed his hand and the hands of his wife and h
 > $\quad$ referenced by: [[Luke.17.29|Luke 17:29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he delayed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H4102\|יִּתְמַהְמָ֓הּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.mah.Mah<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they took hold  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388H\|יַּחֲזִ֨קוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Zi.ku<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

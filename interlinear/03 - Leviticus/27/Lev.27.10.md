@@ -1,4 +1,4 @@
-**Leviticus 27:10** 
+**Leviticus 27:10**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He must not replace it or exchange it, either good for bad or bad for good. But 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.9|<< Leviticus 27:9]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.11|Leviticus 27:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will substitute it  |**<big>&#8207;[[H2498\|יַחֲלִיפֶ֗]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| ya.cha.li.Fe.<small><sup>[[HVhi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

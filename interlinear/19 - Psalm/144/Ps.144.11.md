@@ -1,4 +1,4 @@
-**Psalms 144:11** 
+**Psalms 144:11**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand [is] a right hand of falsehood:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Set me free and rescue me from the grasp of foreigners, whose mouths speak false
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.10|<< Psalms 144:10]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.12|Psalms 144:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | set free me  |**<big>&#8207;[[H6475\|פְּצֵ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| pe.Tze.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and deliver me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5337\|הַצִּילֵ]]&#8207;&#8207;[[H9030\|נִי֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.tzi.le.<small><sup>[[HVhv2ms]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

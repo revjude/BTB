@@ -1,10 +1,7 @@
 **LXX Job 21:26** 
 <small><sub>**LXX:**</sub></small>
 But in one accord upon \[the\] earth they sleep, and rottenness covers them. 
-<small><sub>**KJV:**</sub></small>
-They shall lie down alike in the dust, and the worms shall cover them.
-<small><sub>**BSB:**</sub></small>
-But together they lie down in the dust, and worms cover them both.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.25|<< Job 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.27|Job 21:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 37:5** 
 <small><sub>**LXX:**</sub></small>
 And he inserted the bearing poles into the rings, the ones on the sides of the ark, to lift the ark by them. 
-<small><sub>**KJV:**</sub></small>
-And he put the staves into the rings by the sides of the ark, to bear the ark.
-<small><sub>**BSB:**</sub></small>
-He inserted the poles into the rings on the sides of the ark in order to carry it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.4|<< Exodus 37:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.6|Exodus 37:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ruth 4:14** 
 <small><sub>**LXX:**</sub></small>
 And the women said to Naomi, Blessed \[be\] \[the\] <span class="smallcaps">lord</span> who rested not \[to provide\] to you today  a relative; and may he call out  your name in Israel. 
-<small><sub>**KJV:**</sub></small>
-And the women said unto Naomi, Blessed [be] the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel.
-<small><sub>**BSB:**</sub></small>
-Then the women said to Naomi, “Blessed be the LORD, who has not left you this day without a kinsman-redeemer. May his name become famous in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.13|<< Ruth 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.15|Ruth 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

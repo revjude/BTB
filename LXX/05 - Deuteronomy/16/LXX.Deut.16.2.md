@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall sacrifice the passover \[to the\] <span class="smallcaps">lord</span>  your God -- sheep and oxen in the place in which ever \[the\] <span class="smallcaps">lord</span> your God should choose his name to be called upon there. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt therefore sacrifice the passover unto the LORD thy God, of the flock and the herd, in the place which the LORD shall choose to place his name there.
-<small><sub>**BSB:**</sub></small>
-You are to offer to the LORD your God the Passover sacrifice from the herd or flock in the place the LORD will choose as a dwelling for His Name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.1|<< Deuteronomy 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.3|Deuteronomy 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 76:4** 
 <small><sub>**LXX:**</sub></small>
 You wonderfully give light from \[the\] eternal mountains. 
-<small><sub>**KJV:**</sub></small>
-Thou [art] more glorious [and] excellent than the mountains of prey.
-<small><sub>**BSB:**</sub></small>
-You are resplendent with light, more majestic than mountains filled with game.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.76.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.3|<< Psalm 76:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.5|Psalm 76:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:4** 
 <small><sub>**LXX:**</sub></small>
 And in Jerusalem were settled some from \[the\] sons of Judah, and from \[the\] sons of Benjamin. From \[the\] sons of Judah; Athaiah son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalaleel, and of the sons of Perez; 
-<small><sub>**KJV:**</sub></small>
-And at Jerusalem dwelt [certain] of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;
-<small><sub>**BSB:**</sub></small>
-while some of the descendants of Judah and Benjamin settled in Jerusalem.) From the descendants of Judah: Athaiah son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalalel, a descendant of Perez;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.3|<< Nehemiah 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.5|Nehemiah 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

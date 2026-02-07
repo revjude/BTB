@@ -1,12 +1,12 @@
-**Acts 8:39
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:39**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing.
 <small><sub>**BSB:**</sub></small>
 When they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, but went on his way rejoicing.
 <small><sub>**Literal:**</sub></small>
 When now they came up out of the water, [the] Spirit of [the] Lord carried away <the> Philip, and not saw him no longer the eunuch; he was going for the way of him rejoicing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.38|<< Acts 8:38]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.40|Acts 8:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

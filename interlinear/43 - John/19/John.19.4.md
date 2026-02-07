@@ -1,12 +1,12 @@
-**John 19:4
-**<small><sub>**KJV:**</sub></small>
+**John 19:4**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Pilate therefore went forth again, and saith unto them, Behold, I bring him forth to you, that ye may know that I find no fault in him.
 <small><sub>**BSB:**</sub></small>
 Once again Pilate came out and said to the Jews, “Look, I am bringing Him out to you to let you know that I find no basis for a charge against Him.”
 <small><sub>**Literal:**</sub></small>
 And went forth therefore again outside <the> Pilate and he says to them; Behold I bring to you Him out, so that you may know that no [thing] guilt I find in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.3|<< John 19:3]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.5|John 19:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | went forth |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

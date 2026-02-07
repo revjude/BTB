@@ -1,4 +1,4 @@
-**Exodus 9:16** 
+**Exodus 9:16**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in very deed for this [cause] have I raised thee up, for to shew [in] thee my power; and that my name may be declared throughout all the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But I have raised you up for this very purpose, that I might display My power to
 > $\quad$ referenced by: [[Rom.9.17|Rom 9:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and but  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0199\|אוּלָ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'u.Lam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for sake of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5668\|עֲב֥וּר]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Vur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

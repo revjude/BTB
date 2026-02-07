@@ -1,12 +1,12 @@
-**John 6:50
-**<small><sub>**KJV:**</sub></small>
+**John 6:50**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This is the bread which cometh down from heaven, that a man may eat thereof, and not die.
 <small><sub>**BSB:**</sub></small>
 This is the bread that comes down from heaven, so that anyone may eat of it and not die.
 <small><sub>**Literal:**</sub></small>
 This is the bread <the> from <the> heaven coming down, that anyone of it may eat and not may die.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.49|<< John 6:49]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.51|John 6:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|οὗτός]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

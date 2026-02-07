@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:8** 
 <small><sub>**LXX:**</sub></small>
 Because you despoiled many nations, all the peoples being left shall despoil you, because of \[the\] blood of men, and \[the\] impious deeds \[of the\] land and city, and all of the ones dwelling in it. 
-<small><sub>**KJV:**</sub></small>
-Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and [for] the violence of the land, of the city, and of all that dwell therein.
-<small><sub>**BSB:**</sub></small>
-Because you have plundered many nations, the remnant of the people will plunder you—because of your bloodshed against man and your violence against the land, the city, and all their dwellers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.7|<< Habakkuk 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.9|Habakkuk 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

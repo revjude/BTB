@@ -1,12 +1,12 @@
-**Romans 13:10
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:10**<big><big>[[Rom.13.8 Love Fulfills the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Love worketh no ill to his neighbour: therefore love [is] the fulfilling of the law.
 <small><sub>**BSB:**</sub></small>
 Love does no wrong to its neighbor. Therefore love is the fulfillment of the law.
 <small><sub>**Literal:**</sub></small>
 <the> Love to the neighbour evil not does do; [the] fulfillment therefore of [the] law <the> love [is].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.9|<< Romans 13:9]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.11|Romans 13:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Love |**<big>[[G0026\|ἀγάπη]]</big>**  |agapē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

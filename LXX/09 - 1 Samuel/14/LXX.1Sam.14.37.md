@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:37** 
 <small><sub>**LXX:**</sub></small>
 And Saul asked  God, Shall I go down after the Philistines? Shall you deliver them into \[the\] hands of Israel? And he did not answer him in  that day. 
-<small><sub>**KJV:**</sub></small>
-And Saul asked counsel of God, Shall I go down after the Philistines? wilt thou deliver them into the hand of Israel? But he answered him not that day.
-<small><sub>**BSB:**</sub></small>
-So Saul inquired of God, “Shall I go down after the Philistines? Will You give them into the hand of Israel?” But God did not answer him that day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.36|<< 1 Samuel 14:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.38|1 Samuel 14:38 >>]]</td></tr></table>
 
 | Translation | Greek |

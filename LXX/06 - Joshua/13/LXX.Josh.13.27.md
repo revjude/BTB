@@ -1,10 +1,7 @@
 **LXX Joshua 13:27** 
 <small><sub>**LXX:**</sub></small>
 and Enemek, Beth-aram, and Beth-nimrah, and Succoth, and Zaphon, and the remaining kingdom of Sihon king of Heshbon. The Jordan shall define the bounds, unto part of the sea of Chinnereth, on the other side of the Jordan from \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-And in the valley, Betharam, and Bethnimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and [his] border, [even] unto the edge of the sea of Chinnereth on the other side Jordan eastward.
-<small><sub>**BSB:**</sub></small>
-and in the valley, Beth-haram, Beth-nimrah, Succoth, and Zaphon, with the rest of the kingdom of Sihon king of Heshbon (the territory on the east side of the Jordan up to the edge of the Sea of Chinnereth).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.26|<< Joshua 13:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.28|Joshua 13:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 12:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:40**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.
 <small><sub>**BSB:**</sub></small>
 You also must be ready, because the Son of Man will come at an hour you do not expect.”
 <small><sub>**Literal:**</sub></small>
 Also you yourselves therefore do be ready, for in the hour not you expect the Son <the> of Man comes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.39|<< Luke 12:39]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.41|Luke 12:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

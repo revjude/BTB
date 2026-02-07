@@ -1,4 +1,4 @@
-**Jeremiah 41:10** 
+**Jeremiah 41:10**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Ishmael carried away captive all the residue of the people that [were] in Mizpah, [even] the king’s daughters, and all the people that remained in Mizpah, whom Nebuzaradan the captain of the guard had committed to Gedaliah the son of Ahikam: and Ishmael the son of Nethaniah carried them away captive, and departed to go over to the Ammonites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Ishmael took captive all the remnant of the people of Mizpah—the daughter
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.9|<< Jeremiah 41:9]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.11|Jeremiah 41:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took captive  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7617\|יִּ֣שְׁבְּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yishb<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ishmael  |**<big>&#8207;[[H3458H\|יִ֠שְׁמָעֵאל]]&#8207; </big>**| Yish.ma.'el<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

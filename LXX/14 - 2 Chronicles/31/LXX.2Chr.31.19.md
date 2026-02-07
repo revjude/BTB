@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:19** 
 <small><sub>**LXX:**</sub></small>
 and to the sons of Aaron, to the ones officiating as priests in the country \[areas\], and in  their cities, in every city, and a city \[where\] men who were named by name to give a portion to every male among the priests, and to every one being counted among the Levites. 
-<small><sub>**KJV:**</sub></small>
-Also of the sons of Aaron the priests, [which were] in the fields of the suburbs of their cities, in every several city, the men that were expressed by name, to give portions to all the males among the priests, and to all that were reckoned by genealogies among the Levites.
-<small><sub>**BSB:**</sub></small>
-As for the priests, the descendants of Aaron, who lived on the farmlands around each of their cities or in any other city, men were designated by name to distribute a portion to every male among the priests and to every Levite listed by the genealogies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.18|<< 2 Chronicles 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.20|2 Chronicles 31:20 >>]]</td></tr></table>
 
 | Translation | Greek |

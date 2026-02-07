@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:16** 
 <small><sub>**LXX:**</sub></small>
 Drink \[to the\] fullness of \[the\] dishonor of \[your\] glory, and be excited! \[The\] cup of \[the\] right \[hand\] \[of the\] <span class="smallcaps">lord</span> encircled you, and dishonor was brought upon  your glory. 
-<small><sub>**KJV:**</sub></small>
-Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD’S right hand shall be turned unto thee, and shameful spewing [shall be] on thy glory.
-<small><sub>**BSB:**</sub></small>
-You will be filled with shame instead of glory. You too must drink and expose your uncircumcision! The cup in the LORD’s right hand will come around to you, and utter disgrace will cover your glory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.15|<< Habakkuk 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.17|Habakkuk 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

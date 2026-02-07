@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Shemaiah -- Othni, and Raphael, and Obed, and Elzabad, and his brothers \[were\] mighty sons, Elihu, and Semachiah. 
-<small><sub>**KJV:**</sub></small>
-The sons of Shemaiah; Othni, and Rephael, and Obed, Elzabad, whose brethren [were] strong men, Elihu, and Semachiah.
-<small><sub>**BSB:**</sub></small>
-Shemaiah’s sons were Othni, Rephael, Obed, and Elzabad; his brothers were Elihu and Semachiah, also capable men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.6|<< 1 Chronicles 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.8|1 Chronicles 26:8 >>]]</td></tr></table>
 
 | Translation | Greek |

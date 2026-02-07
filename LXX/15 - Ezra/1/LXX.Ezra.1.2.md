@@ -1,10 +1,7 @@
 **LXX Ezra 1:2** 
 <small><sub>**LXX:**</sub></small>
 Thus said Cyrus the king of \[the\] Persians, All the kingdoms of the earth \[the\] <span class="smallcaps">lord</span> God of heaven gave to me. And he looked upon me  to build to him a house in Jerusalem, the one in  Judea. 
-<small><sub>**KJV:**</sub></small>
-Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which [is] in Judah.
-<small><sub>**BSB:**</sub></small>
-“This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, who has given me all the kingdoms of the earth, has appointed me to build a house for Him at Jerusalem in Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.1|<< Ezra 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.3|Ezra 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

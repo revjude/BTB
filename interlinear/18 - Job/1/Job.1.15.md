@@ -1,4 +1,4 @@
-**Job 1:15** 
+**Job 1:15**<big><big>[[Job.1.13 Job Loses His Children and Possessions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Sabeans fell [upon them], and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the Sabeans swooped down and took them away. They put the servants to the sword,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.14|<< Job 1:14]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.16|Job 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307G\|תִּפֹּ֤ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Pol<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sabean[s]  |**<big>&#8207;[[H7614G\|שְׁבָא֙]]&#8207; </big>**| she.Va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

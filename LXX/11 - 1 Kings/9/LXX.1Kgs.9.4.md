@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:4** 
 <small><sub>**LXX:**</sub></small>
 And you, if you should go before me as your father David went, in sacredness of heart, and in straightness,  to do according to all which I gave charge to him, and  you should keep my orders and my commandments, 
-<small><sub>**KJV:**</sub></small>
-And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, [and] wilt keep my statutes and my judgments:
-<small><sub>**BSB:**</sub></small>
-And as for you, if you walk before Me as your father David walked, with a heart of integrity and uprightness, doing all I have commanded you, and if you keep My statutes and ordinances,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.3|<< 1 Kings 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.5|1 Kings 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

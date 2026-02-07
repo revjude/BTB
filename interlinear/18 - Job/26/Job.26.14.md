@@ -1,4 +1,4 @@
-**Job 26:14** 
+**Job 26:14**<big><big>[[Job.26.1 Job：Who Can Understand God’s Majesty？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, these [are] parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, these are but the fringes of His ways; how faint is the whisper we hear 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.26.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.13|<< Job 26:13]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.1|Job 27:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hen-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵ֤לֶּה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -23,8 +23,8 @@ Indeed, these are but the fringes of His ways; how faint is the whisper we hear 
 | will he understand  |**<big>&#8207;[[H0995\|יִתְבּוֹנָֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yit.bo.Nan<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.13|<< Job 26:13]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.1|Job 27:1 >>]]</td></tr></table>
 
-[^1]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^2]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
+[^1]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
+[^2]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>דְּרָכָ֗ו</big></span>**
 [^4]: ==K==: might his  | **<big>[[H9023|וֹ]]</big><big>[[H1369|גְּבוּרָת]]</big> ** | ge.vu.ra.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 
 [^5]: ==K==: might his  | **<big>[[H9023|וֹ]]</big><big>[[H1369|גְּבוּרָת]]</big> ** | ge.vu.ra.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> 

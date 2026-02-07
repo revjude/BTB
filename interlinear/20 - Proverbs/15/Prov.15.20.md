@@ -1,4 +1,4 @@
-**Proverbs 15:20** 
+**Proverbs 15:20**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wise son maketh a glad father: but a foolish man despiseth his mother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wise son brings joy to his father, but a foolish man despises his mother.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.19|<< Proverbs 15:19]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.21|Proverbs 15:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a son  |**<big>&#8207;[[H1121A\|בֵּ֣ן]]&#8207; </big>**| ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise  |**<big>&#8207;[[H2450\|חָ֭כָם]]&#8207; </big>**| Cha.khom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

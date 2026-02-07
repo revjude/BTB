@@ -1,10 +1,7 @@
 **LXX Isaiah 5:20** 
 <small><sub>**LXX:**</sub></small>
 Woe to the ones calling  evil good, and  good evil; the ones making the darkness light, and the light darkness; the ones making the bitter sweet, and the sweet bitter. 
-<small><sub>**KJV:**</sub></small>
-Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
-<small><sub>**BSB:**</sub></small>
-Woe to those who call evil good and good evil, who turn darkness to light and light to darkness, who replace bitter with sweet and sweet with bitter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.19|<< Isaiah 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.21|Isaiah 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

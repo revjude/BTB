@@ -1,10 +1,7 @@
 **LXX Leviticus 16:16** 
 <small><sub>**LXX:**</sub></small>
 And he shall atone the holy \[place\] of the uncleannesses of the sons of Israel, and of  their offences for all  their sins. And thus he shall do to the tent of the testimony, to the one created among them in \[the\] midst  of their uncleanness. 
-<small><sub>**KJV:**</sub></small>
-And he shall make an atonement for the holy [place], because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.
-<small><sub>**BSB:**</sub></small>
-So he shall make atonement for the Most Holy Place because of the impurities and rebellious acts of the Israelites in regard to all their sins. He is to do the same for the Tent of Meeting which abides among them in the midst of their impurities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.15|<< Leviticus 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.17|Leviticus 16:17 >>]]</td></tr></table>
 
 | Translation | Greek |

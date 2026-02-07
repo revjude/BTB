@@ -1,4 +1,4 @@
-**1 Samuel 10:25** 
+**1 Samuel 10:25**<big><big>[[1Sam.10.17 Saul Proclaimed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Samuel told the people the manner of the kingdom, and wrote [it] in a book, and laid [it] up before the LORD. And Samuel sent all the people away, every man to his house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Samuel explained to the people the rights of kingship. He wrote them on a s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.24|<< 1 Samuel 10:24]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.26|1 Samuel 10:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֜ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 16:4** 
+**Isaiah 16:4**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler: for the extortioner is at an end, the spoiler ceaseth, the oppressors are consumed out of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let my fugitives stay with you; be a refuge for Moab from the destroyer.” When
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.3|<< Isaiah 16:3]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.5|Isaiah 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them sojourn  |**<big>&#8207;[[H1481A\|יָג֤וּרוּ]]&#8207; </big>**| ya.Gu.ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among you  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| vo<small><sup>[[HR]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

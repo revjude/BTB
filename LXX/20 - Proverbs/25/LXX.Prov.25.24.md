@@ -1,10 +1,7 @@
 **LXX Proverbs 25:24** 
 <small><sub>**LXX:**</sub></small>
 Better to live upon \[the\] corner of a roof, than with a reviling wife in a common house. 
-<small><sub>**KJV:**</sub></small>
-[It is] better to dwell in the corner of the housetop, than with a brawling woman and in a wide house.
-<small><sub>**BSB:**</sub></small>
-Better to live on a corner of the roof than to share a house with a quarrelsome wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.23|<< Proverbs 25:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.25|Proverbs 25:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 14:42** 
+**Numbers 14:42**<big><big>[[Num.14.40 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go not up, for the LORD [is] not among you; that ye be not smitten before your enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not go up, lest you be struck down by your enemies, because the LORD is not a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.41|<< Numbers 14:41]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.43|Numbers 14:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you go up  |**<big>&#8207;[[H5927G\|תַּעֲל֔וּ]]&#8207; </big>**| ta.'a.Lu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

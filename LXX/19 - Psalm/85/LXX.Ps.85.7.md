@@ -1,10 +1,7 @@
 **LXX Psalm 85:7** 
 <small><sub>**LXX:**</sub></small>
 Show to us, O <span class="smallcaps">lord</span>,  your mercy! and  may you give your deliverance to us. 
-<small><sub>**KJV:**</sub></small>
-Shew us thy mercy, O LORD, and grant us thy salvation.
-<small><sub>**BSB:**</sub></small>
-Show us Your loving devotion, O LORD, and grant us Your salvation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.85.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.6|<< Psalm 85:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.8|Psalm 85:8 >>]]</td></tr></table>
 
 | Translation | Greek |

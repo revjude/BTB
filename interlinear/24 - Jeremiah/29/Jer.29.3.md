@@ -1,4 +1,4 @@
-**Jeremiah 29:3** 
+**Jeremiah 29:3**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon) saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The letter was entrusted to Elasah son of Shaphan and Gemariah son of Hilkiah, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.2|<< Jeremiah 29:2]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.4|Jeremiah 29:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יַד֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eleasah  |**<big>&#8207;[[H0501J\|אֶלְעָשָׂ֣ה]]&#8207; </big>**| 'el.'a.Sah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

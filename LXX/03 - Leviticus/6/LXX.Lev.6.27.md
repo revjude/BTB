@@ -1,10 +1,7 @@
 **LXX Leviticus 6:27** 
 <small><sub>**LXX:**</sub></small>
 Every one  touching  of its meats shall be sanctified. And to whom ever should be sprinkled upon of  its blood, upon the cloak -- the one who should be sprinkled upon by it shall be washed in a holy place. 
-<small><sub>**KJV:**</sub></small>
-Whatsoever shall touch the flesh thereof shall be holy: and when there is sprinkled of the blood thereof upon any garment, thou shalt wash that whereon it was sprinkled in the holy place.
-<small><sub>**BSB:**</sub></small>
-Anything that touches its flesh will become holy, and if any of the blood is spattered on a garment, you must wash it in a holy place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.26|<< Leviticus 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.28|Leviticus 6:28 >>]]</td></tr></table>
 
 | Translation | Greek |

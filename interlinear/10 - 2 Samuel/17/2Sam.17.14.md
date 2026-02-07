@@ -1,4 +1,4 @@
-**2 Samuel 17:14** 
+**2 Samuel 17:14**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom and all the men of Israel said, The counsel of Hushai the Archite [is] better than the counsel of Ahithophel. For the LORD had appointed to defeat the good counsel of Ahithophel, to the intent that the LORD might bring evil upon Absalom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Absalom and all the men of Israel said, “The advice of Hushai the Archite
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.13|<< 2 Samuel 17:13]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.15|2 Samuel 17:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Absalom  |**<big>&#8207;[[H0053\|אַבְשָׁלוֹם֙]]&#8207; </big>**| 'av.sha.lOm<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

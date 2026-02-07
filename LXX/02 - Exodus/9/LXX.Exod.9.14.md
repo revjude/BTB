@@ -1,10 +1,7 @@
 **LXX Exodus 9:14** 
 <small><sub>**LXX:**</sub></small>
 For in the present time I will send out all  my events into  your heart, and  your attendants, and  your people, that you might see that there is not another as I in all the earth. 
-<small><sub>**KJV:**</sub></small>
-For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that [there is] none like me in all the earth.
-<small><sub>**BSB:**</sub></small>
-Otherwise, I will send all My plagues against you and your officials and your people, so you may know that there is no one like Me in all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.13|<< Exodus 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.15|Exodus 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 7:17** 
 <small><sub>**LXX:**</sub></small>
 And every one going you arrange this readily by this scroll -- calves, rams, lambs, and their \[sacrifice\] offerings, and their libation \[offerings\]! And you shall offer them upon the altar of the house  of your God, of the one in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-That thou mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which [is] in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-With this money, therefore, you are to buy as many bulls, rams, and lambs as needed, together with their grain offerings and drink offerings, and offer them on the altar at the house of your God in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.16|<< Ezra 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.18|Ezra 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joel 1:14** 
+**Joel 1:14**<big><big>[[Joel.1.13 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sanctify ye a fast, call a solemn assembly, gather the elders [and] all the inhabitants of the land [into] the house of the LORD your God, and cry unto the LORD,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Consecrate a fast; proclaim a solemn assembly! Gather the elders and all the res
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.13|<< Joel 1:13]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.15|Joel 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | consecrate  |**<big>&#8207;[[H6942G\|קַדְּשׁוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ka.de.shu-<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fast  |**<big>&#8207;[[H6685\|צוֹם֙]]&#8207; </big>**| tzOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

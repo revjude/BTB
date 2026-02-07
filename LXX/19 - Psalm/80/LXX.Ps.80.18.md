@@ -1,10 +1,7 @@
 **LXX Psalm 80:18** 
 <small><sub>**LXX:**</sub></small>
 For in no way should we separate from you. You shall enliven us, and  we shall call upon your name. 
-<small><sub>**KJV:**</sub></small>
-So will not we go back from thee: quicken us, and we will call upon thy name.
-<small><sub>**BSB:**</sub></small>
-Then we will not turn away from You; revive us, and we will call on Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.17|<< Psalm 80:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.19|Psalm 80:19 >>]]</td></tr></table>
 
 | Translation | Greek |

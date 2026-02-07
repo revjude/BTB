@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:7** 
 <small><sub>**LXX:**</sub></small>
 And  to Solomon \[were\] twelve being placed over all Israel, to conduct \[matters\] for the king and \[to\] his house. A month in the year it happened for  one to conduct \[matters\]. 
-<small><sub>**KJV:**</sub></small>
-And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.
-<small><sub>**BSB:**</sub></small>
-Solomon had twelve governors over all Israel to provide food for the king and his household. Each one would arrange provisions for one month of the year,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.6|<< 1 Kings 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.8|1 Kings 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

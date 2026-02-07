@@ -1,4 +1,4 @@
-**Isaiah 65:14** 
+**Isaiah 65:14**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My servants will shout for joy with a glad heart, but you will cry out with a he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.13|<< Isaiah 65:13]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.15|Isaiah 65:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֧ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servants my  |**<big>&#8207;[[H5650\|עֲבָדַ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

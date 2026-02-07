@@ -1,10 +1,7 @@
 **LXX Psalm 74:7** 
 <small><sub>**LXX:**</sub></small>
 They set your sanctuary on fire to the ground. They profaned the tent  of your name. 
-<small><sub>**KJV:**</sub></small>
-They have cast fire into thy sanctuary, they have defiled [by casting down] the dwelling place of thy name to the ground.
-<small><sub>**BSB:**</sub></small>
-They have burned Your sanctuary to the ground; they have defiled the dwelling place of Your Name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.6|<< Psalm 74:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.8|Psalm 74:8 >>]]</td></tr></table>
 
 | Translation | Greek |

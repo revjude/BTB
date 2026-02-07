@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:4** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah the prophet said to them, I heard, behold, I will pray to \[the\] <span class="smallcaps">lord</span>  our God according to  your words. And it will be the word which \[the\] <span class="smallcaps">lord</span> shall answer, I will announce to you; in no way shall I hide from you a word. 
-<small><sub>**KJV:**</sub></small>
-Then Jeremiah the prophet said unto them, I have heard [you]; behold, I will pray unto the LORD your God according to your words; and it shall come to pass, [that] whatsoever thing the LORD shall answer you, I will declare [it] unto you; I will keep nothing back from you.
-<small><sub>**BSB:**</sub></small>
-“I have heard you,” replied Jeremiah the prophet. “I will surely pray to the LORD your God as you request, and I will tell you everything that the LORD answers. I will not withhold a word from you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.3|<< Jeremiah 42:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.5|Jeremiah 42:5 >>]]</td></tr></table>
 
 | Translation | Greek |

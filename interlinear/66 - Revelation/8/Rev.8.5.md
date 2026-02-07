@@ -1,5 +1,5 @@
-**Revelation 8:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:5**<big><big>[[Rev.8.1 The Seventh Seal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angel took the censer, and filled it with fire of the altar, and cast [it] into the earth: and there were voices, and thunderings, and lightnings, and an earthquake.
 <small><sub>**BSB:**</sub></small>
 Then the angel took the censer, filled it with fire from the altar, and hurled it to the earth; and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
@@ -10,7 +10,7 @@ And has taken the angel the censer and filled it from the fire of the altar and 
 > $\quad$ possibly alluding to: [[LXX.Ezek.10.2|Ezek 10:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has taken |**<big>[[G2983\|εἴληφεν]]</big>**  |eilēphen <small><sup>[[V-2RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

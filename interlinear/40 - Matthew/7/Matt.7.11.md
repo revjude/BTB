@@ -1,12 +1,12 @@
-**Matthew 7:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:11**<big><big>[[Matt.7.7 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
 <small><sub>**BSB:**</sub></small>
 So if you who are evil know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!
 <small><sub>**Literal:**</sub></small>
 If therefore you yourselves evil being you know gifts good to give to the children of you, how much more the Father of you who [is] in the heavens will give good things to those asking Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.10|<< Matthew 7:10]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.12|Matthew 7:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

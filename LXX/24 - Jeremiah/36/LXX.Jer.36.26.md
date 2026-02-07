@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:26** 
 <small><sub>**LXX:**</sub></small>
 And he did not hearken to them. And the king gave charge \[to\] Jerahmeel son of the king, and \[to\] Saraiah son of Azriel, and Shelemiah son of Abdeel, to seize  Baruch the scribe, and  Jeremiah the prophet -- and they were hidden. 
-<small><sub>**KJV:**</sub></small>
-But the king commanded Jerahmeel the son of Hammelech, and Seraiah the son of Azriel, and Shelemiah the son of Abdeel, to take Baruch the scribe and Jeremiah the prophet: but the LORD hid them.
-<small><sub>**BSB:**</sub></small>
-Instead, the king commanded Jerahmeel, a son of the king, as well as Seraiah son of Azriel and Shelemiah son of Abdeel, to seize Baruch the scribe and Jeremiah the prophet. But the LORD had hidden them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.25|<< Jeremiah 36:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.27|Jeremiah 36:27 >>]]</td></tr></table>
 
 | Translation | Greek |

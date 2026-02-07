@@ -1,4 +1,4 @@
-**Exodus 15:2** 
+**Exodus 15:2**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] my strength and song, and he is become my salvation: he [is] my God, and I will prepare him an habitation; my father’s God, and I will exalt him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD is my strength and my song, and He has become my salvation. He is my Go
 > $\quad$ referenced by: [[Ps.118.14|Ps 118:14]] ☩ [[Isa.12.2|Isa 12:2]] ☩ [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] might my  |**<big>&#8207;[[H5797\|עָזִּ֤]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.Z<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and strength  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2176\|זִמְרָת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zim.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

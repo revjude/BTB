@@ -1,10 +1,7 @@
 **LXX Exodus 36:26** 
 <small><sub>**LXX:**</sub></small>
 and forty bases for them made of silver. Two bases to the one post, for both  \[its\] parts. And two bases for the \[other\] one post, for both  \[its\] parts. 
-<small><sub>**KJV:**</sub></small>
-And their forty sockets of silver; two sockets under one board, and two sockets under another board.
-<small><sub>**BSB:**</sub></small>
-and forty silver bases—two bases under each frame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.25|<< Exodus 36:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.27|Exodus 36:27 >>]]</td></tr></table>
 
 | Translation | Greek |

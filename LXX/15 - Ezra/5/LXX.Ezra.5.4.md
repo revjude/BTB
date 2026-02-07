@@ -1,10 +1,7 @@
 **LXX Ezra 5:4** 
 <small><sub>**LXX:**</sub></small>
 Then they said to them, What are the names of the men  building  this city? 
-<small><sub>**KJV:**</sub></small>
-Then said we unto them after this manner, What are the names of the men that make this building?
-<small><sub>**BSB:**</sub></small>
-They also asked, “What are the names of the men who are constructing this building?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.3|<< Ezra 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.5|Ezra 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

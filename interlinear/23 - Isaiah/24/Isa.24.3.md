@@ -1,4 +1,4 @@
-**Isaiah 24:3** 
+**Isaiah 24:3**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The land shall be utterly emptied, and utterly spoiled: for the LORD hath spoken this word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The earth will be utterly laid waste and thoroughly plundered. For the LORD has 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.2|<< Isaiah 24:2]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.4|Isaiah 24:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to be laid waste>  |**<big>&#8207;[[H1238B\|הִבּ֧וֹק]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hi.Bok<small><sup>[[HVNaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be laid waste  |**<big>&#8207;[[H1238B\|תִּבּ֛וֹק]]&#8207; </big>**| ti.Bok<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

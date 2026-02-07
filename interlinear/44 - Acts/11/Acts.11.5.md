@@ -1,12 +1,12 @@
-**Acts 11:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:5**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:
 <small><sub>**BSB:**</sub></small>
 “I was in the city of Joppa praying, and in a trance I saw a vision of something like a large sheet being let down from heaven by its four corners, and it came right down to me.
 <small><sub>**Literal:**</sub></small>
 I myself was in [the] city of Joppa praying and I saw in a trance a vision descending a vessel certain like a sheet great by four corners being let down out of <the> heaven, and it came down as far as me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.4|<< Acts 11:4]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.6|Acts 11:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was |**<big>[[G1510\|ἤμην]]</big>**  |ēmēn <small><sup>[[V-IMI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

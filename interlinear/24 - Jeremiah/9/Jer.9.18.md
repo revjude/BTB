@@ -1,4 +1,4 @@
-**Jeremiah 9:18** (9:17)
+**Jeremiah 9:18**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids gush out with waters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let them come quickly and take up a lament over us, that our eyes may overflow w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.17|<< Jeremiah 9:17]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.19|Jeremiah 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they may hasten  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4116A\|תְמַהֵ֕רְנָה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.ma.He.re.nah<small><sup>[[HVpu3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may take up  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5375G\|תִשֶּׂ֥נָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ti.Se.nah<small><sup>[[HVqu3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

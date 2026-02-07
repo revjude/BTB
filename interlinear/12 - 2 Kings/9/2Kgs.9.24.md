@@ -1,4 +1,4 @@
-**2 Kings 9:24** 
+**2 Kings 9:24**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehu drew a bow with his full strength, and smote Jehoram between his arms, and the arrow went out at his heart, and he sunk down in his chariot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehu drew his bow and shot Joram between the shoulders. The arrow pierced h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.23|<< 2 Kings 9:23]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.25|2 Kings 9:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jehu  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3058H\|יֵה֞וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he filled  |**<big>&#8207;[[H4390\|מִלֵּ֧א]]&#8207; </big>**| mi.Le'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

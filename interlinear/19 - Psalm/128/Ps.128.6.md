@@ -1,4 +1,4 @@
-**Psalms 128:6** 
+**Psalms 128:6**<big><big>[[Ps.128.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, thou shalt see thy children’s children, [and] peace upon Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that you may see your children’s children. Peace be upon Israel!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.128.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.128.5|<< Psalms 128:5]]</td><td align="center" style="border:none;">[[Ps.128|Psalms 128]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.129.0|Psalms 129:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and see  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7200G\|רְאֵֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.'eh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children  |**<big>&#8207;[[H1121A\|בָנִ֥ים]]&#8207; </big>**| va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

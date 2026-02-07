@@ -1,10 +1,7 @@
 **LXX Joshua 8:11** 
 <small><sub>**LXX:**</sub></small>
 And all the people, the warrior, the one with him, ascended. And going, they came right opposite the city from \[the\] east. And the ambushes of the city \[were\] from \[the\] west. And they encamped from north  of Ai. And the valley \[was\] between it and  Ai 
-<small><sub>**KJV:**</sub></small>
-And all the people, [even the people] of war that [were] with him, went up, and drew nigh, and came before the city, and pitched on the north side of Ai: now [there was] a valley between them and Ai.
-<small><sub>**BSB:**</sub></small>
-Then all the troops who were with him marched up and approached the city. They arrived in front of Ai and camped to the north of it, with the valley between them and the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.10|<< Joshua 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.12|Joshua 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

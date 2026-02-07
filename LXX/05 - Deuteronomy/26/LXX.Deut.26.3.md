@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall come to the priest, who ever might be in  those days, and you shall say to him, I announce today \[to the\] <span class="smallcaps">lord</span>  your God, that I have entered into the land which \[the\] <span class="smallcaps">lord</span> swore by an oath \[to\] our fathers to give to us. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt go unto the priest that shall be in those days, and say unto him, I profess this day unto the LORD thy God, that I am come unto the country which the LORD sware unto our fathers for to give us.
-<small><sub>**BSB:**</sub></small>
-to the priest who is serving at that time, and say to him, “I declare today to the LORD your God that I have entered the land that the LORD swore to our fathers to give us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.2|<< Deuteronomy 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.4|Deuteronomy 26:4 >>]]</td></tr></table>
 
 | Translation | Greek |

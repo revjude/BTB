@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:8** 
 <small><sub>**LXX:**</sub></small>
 And I beheld (for on account of all of which she was overtaken by them the house of Israel committed adultery, and I sent her out and gave to her a scroll certificate of divorce into  her hands) that the covenant-breaker Judah feared not, and went and committed harlotry even herself. 
-<small><sub>**KJV:**</sub></small>
-And I saw, when for all the causes whereby backsliding Israel committed adultery I had put her away, and given her a bill of divorce; yet her treacherous sister Judah feared not, but went and played the harlot also.
-<small><sub>**BSB:**</sub></small>
-She saw that because faithless Israel had committed adultery, I gave her a certificate of divorce and sent her away. Yet that unfaithful sister Judah had no fear and prostituted herself as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.7|<< Jeremiah 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.9|Jeremiah 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

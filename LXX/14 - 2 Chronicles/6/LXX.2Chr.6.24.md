@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:24** 
 <small><sub>**LXX:**</sub></small>
 And if your people Israel should be devastated before an enemy, if they should sin against you, and should turn, and should acknowledge  your name, and should pray, and should beseech before you in  this house; 
-<small><sub>**KJV:**</sub></small>
-And if thy people Israel be put to the worse before the enemy, because they have sinned against thee; and shall return and confess thy name, and pray and make supplication before thee in this house;
-<small><sub>**BSB:**</sub></small>
-When Your people Israel are defeated before an enemy because they have sinned against You, and they return to You and confess Your name, praying and pleading before You in this temple,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.23|<< 2 Chronicles 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.25|2 Chronicles 6:25 >>]]</td></tr></table>
 
 | Translation | Greek |

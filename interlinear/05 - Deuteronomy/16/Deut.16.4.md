@@ -1,4 +1,4 @@
-**Deuteronomy 16:4** 
+**Deuteronomy 16:4**<big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there [any thing] of the flesh, which thou sacrificedst the first day at even, remain all night until the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No leaven is to be found in all your land for seven days, and none of the meat y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.3|<< Deuteronomy 16:3]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.5|Deuteronomy 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be seen  |**<big>&#8207;[[H7200G\|יֵרָאֶ֨ה]]&#8207; </big>**| ye.ra.'Eh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

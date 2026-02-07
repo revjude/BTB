@@ -1,12 +1,12 @@
-**1 Corinthians 12:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:15**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?
 <small><sub>**BSB:**</sub></small>
 If the foot should say, “Because I am not a hand, I do not belong to the body,” that would not make it any less a part of the body.
 <small><sub>**Literal:**</sub></small>
 If shall say the foot; Because not I am a hand, not I am of the body, not on account of this not is it of the body?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.14|<< 1 Corinthians 12:14]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.16|1 Corinthians 12:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | shall say |**<big>[[G2036\|εἴπῃ]]</big>**  |eipē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

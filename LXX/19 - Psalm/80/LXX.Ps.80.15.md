@@ -1,10 +1,7 @@
 **LXX Psalm 80:15** 
 <small><sub>**LXX:**</sub></small>
 And ready her whom your right \[hand\] planted! and upon \[the\] son of man whom you fortified to yourself. 
-<small><sub>**KJV:**</sub></small>
-And the vineyard which thy right hand hath planted, and the branch [that] thou madest strong for thyself.
-<small><sub>**BSB:**</sub></small>
-the root Your right hand has planted, the son You have raised up for Yourself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.14|<< Psalm 80:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.16|Psalm 80:16 >>]]</td></tr></table>
 
 | Translation | Greek |

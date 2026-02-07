@@ -1,10 +1,7 @@
 **LXX Esther 6:14** 
 <small><sub>**LXX:**</sub></small>
 While they were yet speaking, the eunuchs came to hurry  Haman unto the banquet which Esther prepared. 
-<small><sub>**KJV:**</sub></small>
-And while they [were] yet talking with him, came the king’s chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.
-<small><sub>**BSB:**</sub></small>
-While they were still speaking with Haman, the king’s eunuchs arrived and rushed him to the banquet that Esther had prepared.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.13|<< Esther 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.1|Esther 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

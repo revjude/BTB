@@ -1,4 +1,4 @@
-**Deuteronomy 24:15** 
+**Deuteronomy 24:15**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At his day thou shalt give [him] his hire, neither shall the sun go down upon it; for he [is] poor, and setteth his heart upon it: lest he cry against thee unto the LORD, and it be sin unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You are to pay his wages each day before sunset, because he is poor and depends 
 > $\quad$ referenced by: [[Jas.5.4|Jas 5:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on day its  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יוֹמ]]&#8207;&#8207;[[H9023\|וֹ֩]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yo.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will pay  |**<big>&#8207;[[H5414N\|תִתֵּ֨ן]]&#8207; </big>**| ti.Ten<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

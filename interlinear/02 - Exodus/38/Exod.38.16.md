@@ -1,4 +1,4 @@
-**Exodus 38:16** 
+**Exodus 38:16**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the hangings of the court round about [were] of fine twined linen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the curtains around the courtyard were made of finely spun linen.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.15|<< Exodus 38:15]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.17|Exodus 38:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] curtains of  |**<big>&#8207;[[H7050B\|קַלְעֵ֧י]]&#8207; </big>**| kal.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

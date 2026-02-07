@@ -1,4 +1,4 @@
-**2 Samuel 13:32** 
+**2 Samuel 13:32**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonadab, the son of Shimeah David’s brother, answered and said, Let not my lord suppose [that] they have slain all the young men the king’s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Jonadab, the son of David’s brother Shimeah, spoke up: “My lord must not
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.31|<< 2 Samuel 13:31]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.33|2 Samuel 13:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֡עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jonadab  |**<big>&#8207;[[H3122G\|יוֹנָדָ֣ב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yo.na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:12** 
 <small><sub>**LXX:**</sub></small>
 And behold, with us as head \[is the\] <span class="smallcaps">lord</span>, and  his priests, and the signal trumpets  to signify against you. Sons of Israel, you should not wage war against \[the\] <span class="smallcaps">lord</span>  God  of your fathers; for your ways shall not be prospered. 
-<small><sub>**KJV:**</sub></small>
-And, behold, God himself [is] with us for [our] captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the LORD God of your fathers; for ye shall not prosper.
-<small><sub>**BSB:**</sub></small>
-Now behold, God Himself is with us as our head, and His priests with their trumpets sound the battle call against you. O children of Israel, do not fight against the LORD, the God of your fathers, for you will not succeed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.11|<< 2 Chronicles 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.13|2 Chronicles 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

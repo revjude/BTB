@@ -1,4 +1,4 @@
-**Deuteronomy 1:39** 
+**Deuteronomy 1:39**<big><big>[[Deut.1.34 Israel’s Penalty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the little ones you said would become captives—your children who on that d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.38|<< Deuteronomy 1:38]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.40|Deuteronomy 1:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and little one[s] your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2945\|טַפְּ]]&#8207;&#8207;[[H9026\|כֶם֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.pe.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

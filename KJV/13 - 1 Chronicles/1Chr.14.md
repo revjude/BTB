@@ -1,12 +1,12 @@
 (KJV) **1 Chronicles 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13|<< 1 Chronicles 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15|1 Chronicles 15 >>]]</td></tr></table>
 
-***David’s Family Grows***&emsp;<small><sup>\[ [[2Sam.5|2 Samuel 5:12–16]] ]</sup></small> ^bsb1018
+<big><big>[[1Chr.14.1 David’s Family Grows|⥃]]</big></big>***David’s Family Grows***&emsp;<small><sup>\[ [[2Sam.5|2 Samuel 5:12–16]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[1Chr.14.1|1]]**<span class="endversemarker">]</span> Now Hiram<small><small>[^2]</small></small> king of Tyre sent messengers to David, and timber<small><small>[^3]</small></small> of cedars, with masons and carpenters, to build him<small><small>[^4]</small></small> an house.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[1Chr.14.2|2]]**<span class="endversemarker">]</span> And David perceived that the <span class="smallcaps">Lord<small><small>[^6]</small></small></span> had confirmed him king over Israel, for his kingdom<small><small>[^7]</small></small> was lifted up on high, because<small><small>[^8]</small></small> of his people Israel. 
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.14.3|3]]**<span class="endversemarker">]</span> [¶]And David took<small><small>[^9]</small></small> more<small><small>[^10]</small></small> wives at Jerusalem: and David begat more sons and daughters. <span class="startversemarker">[</span>**[[1Chr.14.4|4]]**<span class="endversemarker">]</span> Now these \[are\] the names of \[his\] children which he had in Jerusalem; Shammua<small><small>[^11]</small></small>, and Shobab, Nathan<small><small>[^12]</small></small>, and Solomon<small><small>[^13]</small></small>, <span class="startversemarker">[</span>**[[1Chr.14.5|5]]**<span class="endversemarker">]</span> And Ibhar, and Elishua<small><small>[^14]</small></small>, and Elpalet, <span class="startversemarker">[</span>**[[1Chr.14.6|6]]**<span class="endversemarker">]</span> And Nogah, and Nepheg, and Japhia, <span class="startversemarker">[</span>**[[1Chr.14.7|7]]**<span class="endversemarker">]</span> And Elishama, and Beeliada<small><small>[^15]</small></small>, and Eliphalet<small><small>[^16]</small></small>.
 
-***Two Victories over the Philistines***&emsp;<small><sup>\[ [[2Sam.5|2 Samuel 5:17–25]] ]</sup></small> ^bsb1019
+<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥃]]</big></big>***Two Victories over the Philistines***&emsp;<small><sup>\[ [[2Sam.5|2 Samuel 5:17–25]] ]</sup></small>
 
  
 

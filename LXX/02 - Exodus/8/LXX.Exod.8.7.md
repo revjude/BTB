@@ -1,10 +1,7 @@
 **LXX Exodus 8:7** 
 <small><sub>**LXX:**</sub></small>
 And the enchanters of the Egyptians did likewise also with their sorceries; and they led the frogs upon the land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-But the magicians did the same thing by their magic arts, and they also brought frogs up onto the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.6|<< Exodus 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.8|Exodus 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 79:3** 
 <small><sub>**LXX:**</sub></small>
 They poured out  their blood as water round about Jerusalem; and there was no one  burying \[them\]. 
-<small><sub>**KJV:**</sub></small>
-Their blood have they shed like water round about Jerusalem; and [there was] none to bury [them].
-<small><sub>**BSB:**</sub></small>
-They have poured out their blood like water all around Jerusalem, and there is no one to bury the dead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.79.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.2|<< Psalm 79:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.79.4|Psalm 79:4 >>]]</td></tr></table>
 
 | Translation | Greek |

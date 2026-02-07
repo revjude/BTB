@@ -1,4 +1,4 @@
-**Joshua 22:34** 
+**Joshua 22:34**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Reuben and the children of Gad called the altar [Ed]: for it [shall be] a witness between us that the LORD [is] God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Reubenites and Gadites named the altar Witness, for they said, “It is a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.33|<< Joshua 22:33]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.1|Joshua 23:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they called  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7121H\|יִּקְרְא֛וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

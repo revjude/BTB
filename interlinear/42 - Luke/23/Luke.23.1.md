@@ -1,12 +1,12 @@
-**Luke 23:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:1**<big><big>[[Luke.23.1 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the whole multitude of them arose, and led him unto Pilate.
 <small><sub>**BSB:**</sub></small>
 Then the whole council rose and led Jesus away to Pilate.
 <small><sub>**Literal:**</sub></small>
 And having risen up all the multitude of them they led Him to <the> Pilate.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.71|<< Luke 22:71]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.2|Luke 23:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having risen up |**<big>[[G0450\|ἀναστὰν]]</big>**  |anastan <small><sup>[[V-2AAP-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

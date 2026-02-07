@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:18** 
 <small><sub>**LXX:**</sub></small>
 And now act! for \[the\] <span class="smallcaps">lord</span> spoke concerning David, saying, By \[the\] hand  of my servant David I will deliver  my people Israel from \[the\] hand of the Philistines, and from \[the\] hand of all  his enemies. 
-<small><sub>**KJV:**</sub></small>
-Now then do [it]: for the LORD hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.
-<small><sub>**BSB:**</sub></small>
-Now take action, because the LORD has said to David, ‘Through My servant David I will save My people Israel from the hands of the Philistines and of all their enemies.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.17|<< 2 Samuel 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.19|2 Samuel 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

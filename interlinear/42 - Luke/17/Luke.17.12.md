@@ -1,12 +1,12 @@
-**Luke 17:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:12**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:
 <small><sub>**BSB:**</sub></small>
 As He entered one of the villages, He was met by ten lepers. They stood at a distance
 <small><sub>**Literal:**</sub></small>
 And when is entering He into a certain village met with Him ten leprous men, who stood afar off.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.11|<< Luke 17:11]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.13|Luke 17:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when is entering |**<big>[[G1525\|εἰσερχομένου]]</big>**  |eiserchomenou <small><sup>[[V-PNP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

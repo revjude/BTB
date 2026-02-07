@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:9** 
 <small><sub>**LXX:**</sub></small>
 And he constructed the house, and completed it. And he vaulted the house \[with\] cedars. 
-<small><sub>**KJV:**</sub></small>
-So he built the house, and finished it; and covered the house with beams and boards of cedar.
-<small><sub>**BSB:**</sub></small>
-So Solomon built the temple and finished it, roofing it with beams and planks of cedar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.8|<< 1 Kings 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.10|1 Kings 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

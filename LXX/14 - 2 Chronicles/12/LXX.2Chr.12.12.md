@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 12:12** 
 <small><sub>**LXX:**</sub></small>
 And in  his feeling ashamed, \[the\] anger \[of the\] <span class="smallcaps">lord</span> was turned from him, and not unto corruption unto \[the\] end,  for in Judah there were good matters. 
-<small><sub>**KJV:**</sub></small>
-And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy [him] altogether: and also in Judah things went well.
-<small><sub>**BSB:**</sub></small>
-Because Rehoboam humbled himself, the anger of the LORD turned away from him, and He did not destroy him completely. Indeed, conditions were good in Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.11|<< 2 Chronicles 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.13|2 Chronicles 12:13 >>]]</td></tr></table>
 
 | Translation | Greek |

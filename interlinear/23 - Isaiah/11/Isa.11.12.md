@@ -1,4 +1,4 @@
-**Isaiah 11:12** 
+**Isaiah 11:12**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will raise a banner for the nations and gather the exiles of Israel; He will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.11|<< Isaiah 11:11]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.13|Isaiah 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will lift up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375G\|נָשָׂ֥א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sa'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a standard  |**<big>&#8207;[[H5251H\|נֵס֙]]&#8207; </big>**| nes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 16:13** 
 <small><sub>**LXX:**</sub></small>
 Just lips \[are\] acceptable to \[the\] king; and the <span class="smallcaps">lord</span> loves straight words. 
-<small><sub>**KJV:**</sub></small>
-Righteous lips [are] the delight of kings; and they love him that speaketh right.
-<small><sub>**BSB:**</sub></small>
-Righteous lips are a king’s delight, and he who speaks honestly is beloved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.12|<< Proverbs 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.14|Proverbs 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**2 Peter 2:22
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:22**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But it is happened unto them according to the true proverb, The dog [is] turned to his own vomit again; and the sow that was washed to her wallowing in the mire.
 <small><sub>**BSB:**</sub></small>
 Of them the proverbs are true: “A dog returns to its vomit,” and, “A sow that is washed goes back to her wallowing in the mud.”
@@ -10,7 +10,7 @@ Has happened now to them the [thing] of the true proverb: A dog having returned 
 > $\quad$ referencing: [[LXX.Prov.26.11|Prov 26:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Has happened |**<big>[[G4819\|συμβέβηκεν]]</big>**  |sumbebēken <small><sup>[[V-RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

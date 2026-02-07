@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I will take vengeance upon her for the days of the Baals, in which she sacrificed to them, and put on  her ear-rings, and  her hanging necklaces, and went after  her lovers; but me she forgot, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will punish her for the days of the Baals when she burned incense to them, when she adorned herself with rings and jewelry, and went after her lovers. But Me she forgot,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.12|<< Hosea 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.14|Hosea 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

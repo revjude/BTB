@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:11** 
 <small><sub>**LXX:**</sub></small>
 Say to the ones plastering it, that, It shall fall, and there shall be flooding rain, and I will appoint rock throwing stones against  their chambers, and they shall fall; and a removing wind, and it shall be broken asunder. 
-<small><sub>**KJV:**</sub></small>
-Say unto them which daub [it] with untempered [morter], that it shall fall: there shall be an overflowing shower; and ye, O great hailstones, shall fall; and a stormy wind shall rend [it].
-<small><sub>**BSB:**</sub></small>
-tell those whitewashing the wall that it will fall. Rain will come in torrents, I will send hailstones plunging down, and a windstorm will burst forth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.10|<< Ezekiel 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.12|Ezekiel 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

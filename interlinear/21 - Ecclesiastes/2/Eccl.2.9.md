@@ -1,4 +1,4 @@
-**Ecclesiastes 2:9** 
+**Ecclesiastes 2:9**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I became great and surpassed all in Jerusalem who had preceded me; and my wis
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.8|<< Ecclesiastes 2:8]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.10|Ecclesiastes 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I became great  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1431\|גָדַ֣לְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ga.Dal.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I increased  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3254H\|הוֹסַ֔פְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.Saf.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

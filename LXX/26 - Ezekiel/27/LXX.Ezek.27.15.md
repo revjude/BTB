@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:15** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of \[the\] Rhodians were your merchants; from \[the\] islands they multiplied  your trade, \[even\] teeth of ivory; and to the ones bringing you repaid  \[with\] your wages, 
-<small><sub>**KJV:**</sub></small>
-The men of Dedan [were] thy merchants; many isles [were] the merchandise of thine hand: they brought thee [for] a present horns of ivory and ebony.
-<small><sub>**BSB:**</sub></small>
-The men of Dedan were your clients; many coastlands were your market; they paid you with ivory tusks and ebony.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.14|<< Ezekiel 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.16|Ezekiel 27:16 >>]]</td></tr></table>
 
 | Translation | Greek |

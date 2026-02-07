@@ -1,12 +1,12 @@
-**Mark 16:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:9**<big><big>[[Mark.16.9 Jesus Appears to Mary Magdalene|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when [Jesus] was risen early the first [day] of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.
 <small><sub>**BSB:**</sub></small>
 Early on the first day of the week, after Jesus had risen, He appeared first to Mary Magdalene, from whom He had driven out seven demons.
 <small><sub>**Literal:**</sub></small>
 Having risen now early on [the] first [day] of the week He appeared first to Mary <the> Magdalene, from with whom He had cast out seven demons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.8|<< Mark 16:8]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.10|Mark 16:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having risen |**<big>[[G0450\|[[Ἀναστὰς]]</big>**  |Anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |

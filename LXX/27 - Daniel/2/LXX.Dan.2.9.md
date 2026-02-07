@@ -1,10 +1,7 @@
 **LXX Daniel 2:9** 
 <small><sub>**LXX:**</sub></small>
 If then the dream you should not announce to me, I know that a lying and corrupt word you agreed to speak before me until the time should go by.  Tell to me my dream! and I shall know that also  its interpretation you shall announce to me. 
-<small><sub>**KJV:**</sub></small>
-But if ye will not make known unto me the dream, [there is but] one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof.
-<small><sub>**BSB:**</sub></small>
-If you do not tell me the dream, there is only one decree for you. You have conspired to speak before me false and fraudulent words, hoping the situation will change. Therefore tell me the dream, and I will know that you can give me its interpretation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.8|<< Daniel 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.10|Daniel 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

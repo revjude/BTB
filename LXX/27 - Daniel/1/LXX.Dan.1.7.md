@@ -1,10 +1,7 @@
 **LXX Daniel 1:7** 
 <small><sub>**LXX:**</sub></small>
 And the chief eunuch added names to them; \[to\] Daniel -- Belteshazzar, and \[to\] Hananiah -- Shadrach, and \[to\] Mishael -- Meshach, and \[to\] Azariah -- Abed-nego. 
-<small><sub>**KJV:**</sub></small>
-Unto whom the prince of the eunuchs gave names: for he gave unto Daniel [the name] of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego.
-<small><sub>**BSB:**</sub></small>
-The chief official gave them new names: To Daniel he gave the name Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to Azariah, Abednego.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.6|<< Daniel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.8|Daniel 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

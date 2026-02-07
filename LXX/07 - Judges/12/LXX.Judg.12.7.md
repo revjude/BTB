@@ -1,10 +1,7 @@
 **LXX Judges 12:7** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah judged  Israel six years. Then Jephthah the Gileadite died, and he was entombed in his city Gilead. 
-<small><sub>**KJV:**</sub></small>
-And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in [one of] the cities of Gilead.
-<small><sub>**BSB:**</sub></small>
-Jephthah judged Israel six years, and when he died, he was buried in one of the cities of Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.6|<< Judges 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.8|Judges 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

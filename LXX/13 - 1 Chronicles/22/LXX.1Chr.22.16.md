@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:16** 
 <small><sub>**LXX:**</sub></small>
 in gold and silver, in brass and in iron in which \[there\] is no number. Rise up and act and \[the\] <span class="smallcaps">lord</span> \[be\] with you! 
-<small><sub>**KJV:**</sub></small>
-Of the gold, the silver, and the brass, and the iron, [there is] no number. Arise [therefore], and be doing, and the LORD be with thee.
-<small><sub>**BSB:**</sub></small>
-in gold and silver, bronze and iron—craftsmen beyond number. Now begin the work, and may the LORD be with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.15|<< 1 Chronicles 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.17|1 Chronicles 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

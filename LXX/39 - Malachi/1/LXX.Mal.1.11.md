@@ -1,10 +1,7 @@
 **LXX Malachi 1:11** 
 <small><sub>**LXX:**</sub></small>
 For from \[the\] rising of \[the\] sun, and unto \[the\] descent,  my name was glorified among the nations; and in every place incense is brought  in my name -- even a pure sacrifice. For great  \[is\] my name among the nations, says \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-For from the rising of the sun even unto the going down of the same my name [shall be] great among the Gentiles; and in every place incense [shall be] offered unto my name, and a pure offering: for my name [shall be] great among the heathen, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-For My name will be great among the nations, from where the sun rises to where it sets. In every place, incense and pure offerings will be presented in My name, because My name will be great among the nations,” says the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.10|<< Malachi 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.12|Malachi 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

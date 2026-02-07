@@ -1,10 +1,7 @@
 **LXX Genesis 26:25** 
 <small><sub>**LXX:**</sub></small>
 And he built there an altar, and called upon the name of \[the\] <span class="smallcaps">lord</span>, and he pitched there  his tent. And the servants of Isaac dug a well there in the ravine Gerar. 
-<small><sub>**KJV:**</sub></small>
-And he builded an altar there, and called upon the name of the LORD, and pitched his tent there: and there Isaac’s servants digged a well.
-<small><sub>**BSB:**</sub></small>
-So Isaac built an altar there and called on the name of the LORD, and he pitched his tent there. His servants also dug a well there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.24|<< Genesis 26:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.26|Genesis 26:26 >>]]</td></tr></table>
 
 | Translation | Greek |

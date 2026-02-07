@@ -1,4 +1,4 @@
-**Leviticus 18:17** 
+**Leviticus 18:17**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; [for] they [are] her near kinswomen: it [is] wickedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not have sexual relations with both a woman and her daughter. You are n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.16|<< Leviticus 18:16]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.18|Leviticus 18:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] nakedness of  |**<big>&#8207;[[H6172\|עֶרְוַ֥ת]]&#8207; </big>**| 'er.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֛ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

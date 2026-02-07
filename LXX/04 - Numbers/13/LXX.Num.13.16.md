@@ -1,10 +1,7 @@
 **LXX Numbers 13:16** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the names of the men which Moses sent to survey the land. And Moses named  Oshea son of Nun -- Joshua. 
-<small><sub>**KJV:**</sub></small>
-These [are] the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua.
-<small><sub>**BSB:**</sub></small>
-These were the names of the men Moses sent to spy out the land; and Moses gave to Hoshea son of Nun the name Joshua.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.15|<< Numbers 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.17|Numbers 13:17 >>]]</td></tr></table>
 
 | Translation | Greek |

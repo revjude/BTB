@@ -1,4 +1,4 @@
-**Job 33:21** 
+**Job 33:21**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His flesh is consumed away, that it cannot be seen; and his bones [that] were not seen stick out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His flesh wastes away from sight, and his hidden bones protrude.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.20|<< Job 33:20]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.22|Job 33:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it wastes away  |**<big>&#8207;[[H3615H\|יִ֣כֶל]]&#8207; </big>**| Yi.khel<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flesh his  |**<big>&#8207;[[H1320\|בְּשָׂר֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.sa.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

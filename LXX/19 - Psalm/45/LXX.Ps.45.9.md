@@ -1,10 +1,7 @@
 **LXX Psalm 45:9** 
 <small><sub>**LXX:**</sub></small>
 from of which \[the\] daughters of kings gladdened you in  your honor. The queen stood at your right having put around in clothes being embroidered interwoven with gold. 
-<small><sub>**KJV:**</sub></small>
-Kings’ daughters [were] among thy honourable women: upon thy right hand did stand the queen in gold of Ophir.
-<small><sub>**BSB:**</sub></small>
-The daughters of kings are among your honored women; the queen stands at your right hand, adorned with the gold of Ophir.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.45.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.8|<< Psalm 45:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.10|Psalm 45:10 >>]]</td></tr></table>
 
 | Translation | Greek |

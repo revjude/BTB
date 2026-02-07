@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:35** 
 <small><sub>**LXX:**</sub></small>
 And you said, I am innocent, but turn  his rage from me! Behold, I judge against you, in  your saying, I sinned not. 
-<small><sub>**KJV:**</sub></small>
-Yet thou sayest, Because I am innocent, surely his anger shall turn from me. Behold, I will plead with thee, because thou sayest, I have not sinned.
-<small><sub>**BSB:**</sub></small>
-you say, ‘I am innocent. Surely His anger will turn from me.’ Behold, I will judge you, because you say, ‘I have not sinned.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.34|<< Jeremiah 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.36|Jeremiah 2:36 >>]]</td></tr></table>
 
 | Translation | Greek |

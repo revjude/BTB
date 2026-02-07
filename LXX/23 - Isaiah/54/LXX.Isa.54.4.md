@@ -1,10 +1,7 @@
 **LXX Isaiah 54:4** 
 <small><sub>**LXX:**</sub></small>
 You should not fear that you were disgraced, nor should you feel ashamed that you were berated. For you shall forget everlasting shame; and \[the\] scorn  of your widowhood in no way shall you remember any longer. 
-<small><sub>**KJV:**</sub></small>
-Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.
-<small><sub>**BSB:**</sub></small>
-Do not be afraid, for you will not be put to shame; do not be intimidated, for you will not be humiliated. For you will forget the shame of your youth and will remember no more the reproach of your widowhood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.3|<< Isaiah 54:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.5|Isaiah 54:5 >>]]</td></tr></table>
 
 | Translation | Greek |

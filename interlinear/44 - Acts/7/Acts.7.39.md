@@ -1,12 +1,12 @@
-**Acts 7:39
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:39**<big><big>[[Acts.7.39 The Rebellion of Israel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To whom our fathers would not obey, but thrust [him] from them, and in their hearts turned back again into Egypt,
 <small><sub>**BSB:**</sub></small>
 But our fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.
 <small><sub>**Literal:**</sub></small>
 to whom not wanted obedient to be the fathers of us, but they thrust away and they turned back in the hearts of them to Egypt,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.38|<< Acts 7:38]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.40|Acts 7:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to whom |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

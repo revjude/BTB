@@ -1,4 +1,4 @@
-**Jeremiah 32:18** 
+**Jeremiah 32:18**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shewest lovingkindness unto thousands, and recompensest the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the LORD of hosts, [is] his name,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You show loving devotion to thousands but lay the iniquity of the fathers into t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.17|<< Jeremiah 32:17]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.19|Jeremiah 32:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] does  |**<big>&#8207;[[H6213A\|עֹ֤שֶׂה]]&#8207; </big>**| 'O.seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant loyalty  |**<big>&#8207;[[H2617A\|חֶ֙סֶד֙]]&#8207; </big>**| che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

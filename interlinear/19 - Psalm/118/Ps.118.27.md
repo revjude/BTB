@@ -1,4 +1,4 @@
-**Psalms 118:27** 
+**Psalms 118:27**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God [is] the LORD, which hath shewed us light: bind the sacrifice with cords, [even] unto the horns of the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD is God; He has made His light to shine upon us. Bind the festal sacrifi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.26|<< Psalms 118:26]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.28|Psalms 118:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] God  |**<big>&#8207;[[H0410G\|אֵ֤ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'el<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 21:19** 
+**Deuteronomy 21:19**<big><big>[[Deut.21.18 A Rebellious Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall his father and his mother lay hold on him, and bring him out unto the elders of his city, and unto the gate of his place;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ his father and mother are to lay hold of him and bring him to the elders of his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.18|<< Deuteronomy 21:18]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.20|Deuteronomy 21:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will seize  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8610\|תָ֥פְשׂוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ta.fe.su<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> \<the> him  |**<big>&#8207;[[H9003\|ב֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

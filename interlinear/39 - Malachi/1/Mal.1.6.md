@@ -1,4 +1,4 @@
-**Malachi 1:6** 
+**Malachi 1:6**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A son honoureth [his] father, and a servant his master: if then I [be] a father, where [is] mine honour? and if I [be] a master, where [is] my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A son honoureth [his] father, and a servant his master: if then I [be] a father,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.5|<< Malachi 1:5]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.7|Malachi 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a son  |**<big>&#8207;[[H1121A\|בֵּ֛ן]]&#8207; </big>**| ben<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he honors  |**<big>&#8207;[[H3513G\|יְכַבֵּ֥ד]]&#8207; </big>**| ye.kha.Bed<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

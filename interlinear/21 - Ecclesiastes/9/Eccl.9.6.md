@@ -1,4 +1,4 @@
-**Ecclesiastes 9:6** 
+**Ecclesiastes 9:6**<big><big>[[Eccl.9.1 Death Comes to Good and Bad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any [thing] that is done under the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their love, their hate, and their envy have already vanished, and they will neve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.5|<< Ecclesiastes 9:5]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.7|Ecclesiastes 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | both  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | love their  |**<big>&#8207;[[H0160\|אַהֲבָתָ֧]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'a.ha.va.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

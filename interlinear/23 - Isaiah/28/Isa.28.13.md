@@ -1,4 +1,4 @@
-**Isaiah 28:13** 
+**Isaiah 28:13**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the word of the LORD was unto them precept upon precept, precept upon precept; line upon line, line upon line; here a little, [and] there a little; that they might go, and fall backward, and be broken, and snared, and taken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the word of the LORD to them will become: “Order on order, order on order
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.12|<< Isaiah 28:12]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.14|Isaiah 28:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

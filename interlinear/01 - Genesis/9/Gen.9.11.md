@@ -1,4 +1,4 @@
-**Genesis 9:11** 
+**Genesis 9:11**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I establish My covenant with you: Never again will all life be cut off by th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.10|<< Genesis 9:10]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.12|Genesis 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will establish  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|הֲקִמֹתִ֤י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ki.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

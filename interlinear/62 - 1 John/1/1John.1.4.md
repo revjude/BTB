@@ -1,12 +1,12 @@
-**1 John 1:4
-**<small><sub>**KJV:**</sub></small>
+**1 John 1:4**<big><big>[[1John.1.1 The Word of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And these things write we unto you, that your joy may be full.
 <small><sub>**BSB:**</sub></small>
 We write these things so that our joy may be complete.
 <small><sub>**Literal:**</sub></small>
 And these things write we ourselves so that the joy of us may be completed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.3|<< 1 John 1:3]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.5|1 John 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

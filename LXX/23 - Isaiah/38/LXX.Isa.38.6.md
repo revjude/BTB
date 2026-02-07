@@ -1,10 +1,7 @@
 **LXX Isaiah 38:6** 
 <small><sub>**LXX:**</sub></small>
 And from out of \[the\] hand of \[the\] king of \[the\] Assyrians I shall rescue you, and  this city; and I shall shield over  this city. 
-<small><sub>**KJV:**</sub></small>
-And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.
-<small><sub>**BSB:**</sub></small>
-And I will deliver you and this city from the hand of the king of Assyria. I will defend this city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.5|<< Isaiah 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.7|Isaiah 38:7 >>]]</td></tr></table>
 
 | Translation | Greek |

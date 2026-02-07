@@ -1,12 +1,12 @@
-**Luke 7:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:8**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth [it].
 <small><sub>**BSB:**</sub></small>
 For I myself am a man under authority, with soldiers under me. I tell one to go, and he goes, and another to come, and he comes. I tell my servant to do something, and he does it.”
 <small><sub>**Literal:**</sub></small>
 Also for I myself a man am under authority appointed, having under myself soldiers. and I say to this [one]; do go, and he goes, and to another; do come, and he comes, and to the servant of mine; do enact this, and he enacts [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.7|<< Luke 7:7]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.9|Luke 7:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Nehemiah 3:26** 
+**Nehemiah 3:26**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the Nethinims dwelt in Ophel, unto [the place] over against the water gate toward the east, and the tower that lieth out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the temple servants living on the hill of Ophel made repairs opposite the Wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.25|<< Nehemiah 3:25]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.27|Nehemiah 3:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the temple servants  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H5411\|נְּתִינִ֔ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> ne.ti.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] they were  |**<big>&#8207;[[H1961\|הָי֥וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

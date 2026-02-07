@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:6** 
 <small><sub>**LXX:**</sub></small>
 And he said to her, For I spoke to Naboth the Jezreelite, saying, Give to me  your vineyard for money! but if you do not want, I will give to you a vineyard in place of it. And he said, I will not give to you the inheritance  of my fathers. 
-<small><sub>**KJV:**</sub></small>
-And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee [another] vineyard for it: and he answered, I will not give thee my vineyard.
-<small><sub>**BSB:**</sub></small>
-Ahab answered, “Because I spoke to Naboth the Jezreelite and told him, ‘Give me your vineyard for silver, or if you wish, I will give you another vineyard in its place.’ And he replied, ‘I will not give you my vineyard!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.5|<< 1 Kings 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.7|1 Kings 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

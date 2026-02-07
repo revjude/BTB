@@ -1,4 +1,4 @@
-**Ezekiel 13:16** 
+**Ezekiel 13:16**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [To wit], the prophets of Israel which prophesy concerning Jerusalem, and which see visions of peace for her, and [there is] no peace, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ those prophets of Israel who prophesied to Jerusalem and saw a vision of peace f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.15|<< Ezekiel 13:15]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.17|Ezekiel 13:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] prophets of  |**<big>&#8207;[[H5030\|נְבִיאֵ֣י]]&#8207; </big>**| ne.vi.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֗ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

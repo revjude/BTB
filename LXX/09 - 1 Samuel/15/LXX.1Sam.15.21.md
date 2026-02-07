@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:21** 
 <small><sub>**LXX:**</sub></small>
 And the people took of the spoils of \[the\] flocks and \[the\] herds, the first-fruits of the offering for consumption,  to sacrifice before \[the\] <span class="smallcaps">lord</span>  our God in Gilgal. 
-<small><sub>**KJV:**</sub></small>
-But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal.
-<small><sub>**BSB:**</sub></small>
-The troops took sheep and cattle from the plunder, the best of the things devoted to destruction, in order to sacrifice them to the LORD your God at Gilgal.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.20|<< 1 Samuel 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.22|1 Samuel 15:22 >>]]</td></tr></table>
 
 | Translation | Greek |

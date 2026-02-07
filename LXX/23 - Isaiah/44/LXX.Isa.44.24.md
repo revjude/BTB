@@ -1,10 +1,7 @@
 **LXX Isaiah 44:24** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, the one ransoming you, and \[the\] one shaping you from \[the\] belly, I \[am\] \[the\] <span class="smallcaps">lord</span>, the one completing all \[things\]. I stretched out the heaven alone, and solidified the earth. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I [am] the LORD that maketh all [things]; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself;
-<small><sub>**BSB:**</sub></small>
-Thus says the LORD, your Redeemer who formed you from the womb: “I am the LORD, who has made all things, who alone stretched out the heavens, who by Myself spread out the earth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.23|<< Isaiah 44:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.25|Isaiah 44:25 >>]]</td></tr></table>
 
 | Translation | Greek |

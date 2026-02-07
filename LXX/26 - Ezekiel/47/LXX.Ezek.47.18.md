@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:18** 
 <small><sub>**LXX:**</sub></small>
 And the \[places\] towards \[the\] east between  Hauran, and between Damascus, and between  Gilead, and between the land  of Israel, the Jordan separates unto the sea the one towards \[the\] east of Palm-grove; these \[are\] the \[borders\] towards \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel [by] Jordan, from the border unto the east sea. And [this is] the east side.
-<small><sub>**BSB:**</sub></small>
-On the east side the border will run between Hauran and Damascus, along the Jordan between Gilead and the land of Israel, to the Eastern Sea and as far as Tamar. This will be the eastern boundary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.17|<< Ezekiel 47:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.19|Ezekiel 47:19 >>]]</td></tr></table>
 
 | Translation | Greek |

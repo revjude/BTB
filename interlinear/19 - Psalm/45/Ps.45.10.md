@@ -1,4 +1,4 @@
-**Psalms 45:10** (45:11)
+**Psalms 45:10**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken, O daughter, and consider, and incline thine ear; forget also thine own people, and thy father’s house;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen, O daughter! Consider and incline your ear: Forget your people and your f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.9|<< Psalms 45:9]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.11|Psalms 45:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שִׁמְעִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shim.'i-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O daughter  |**<big>&#8207;[[H1323G\|בַ֣ת]]&#8207; </big>**| vat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

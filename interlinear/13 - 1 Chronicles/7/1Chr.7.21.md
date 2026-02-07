@@ -1,4 +1,4 @@
-**1 Chronicles 7:21** 
+**1 Chronicles 7:21**<big><big>[[1Chr.7.20 The Descendants of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath [that were] born in [that] land slew, because they came down to take away their cattle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zabad his son, and Shuthelah his son. Ezer and Elead were killed by the natives 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.20|<< 1 Chronicles 7:20]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.22|1 Chronicles 7:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Zabad  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2066H\|זָבָ֥ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> za.Vad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְּנ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 102:4** 
 <small><sub>**LXX:**</sub></small>
 My heart \[is\] struck down as grass and is dried up, so that I forgot  to eat  my bread. 
-<small><sub>**KJV:**</sub></small>
-My heart is smitten, and withered like grass; so that I forget to eat my bread.
-<small><sub>**BSB:**</sub></small>
-My heart is afflicted, and withered like grass; I even forget to eat my bread.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.3|<< Psalm 102:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.5|Psalm 102:5 >>]]</td></tr></table>
 
 | Translation | Greek |

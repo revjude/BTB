@@ -1,4 +1,4 @@
-**Genesis 2:8** 
+**Genesis 2:8**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD God planted a garden in Eden, in the east, where He placed the man 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.7|<< Genesis 2:7]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.9|Genesis 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he planted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5193\|יִּטַּ֞ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ta'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֧ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

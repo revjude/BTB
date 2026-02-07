@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:13** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>  God; And I will destroy \[the\] abominations, and I will rest \[the\] great ones from Memphis, and \[the\] rulers from \[the\] land of Egypt, and they will not be any longer. And I will put fear in \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; I will also destroy the idols, and I will cause [their] images to cease out of Noph; and there shall be no more a prince of the land of Egypt: and I will put a fear in the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: I will destroy the idols and put an end to the images in Memphis. There will no longer be a prince in Egypt, and I will instill fear in that land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.12|<< Ezekiel 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.14|Ezekiel 30:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Luke 4:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:12**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said unto him, It is said, Thou shalt not tempt the Lord thy God.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered, “It also says, ‘Do not put the Lord your God to the test.’”
@@ -10,7 +10,7 @@ And answering He said to him <the> Jesus that It has been said; Not you will tes
 > $\quad$ referencing: [[LXX.Deut.6.16|Deut 6:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

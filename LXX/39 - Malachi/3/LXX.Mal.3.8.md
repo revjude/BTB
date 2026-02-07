@@ -1,10 +1,7 @@
 **LXX Malachi 3:8** 
 <small><sub>**LXX:**</sub></small>
 Shall a man stomp on God, \[no\]. For you stomp on me. And you said, We stomped on you in what? In that the tenth parts, and the first-fruits are with you. 
-<small><sub>**KJV:**</sub></small>
-Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.
-<small><sub>**BSB:**</sub></small>
-Will a man rob God? Yet you are robbing Me! But you ask, ‘How do we rob You?’ In tithes and offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.7|<< Malachi 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.9|Malachi 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

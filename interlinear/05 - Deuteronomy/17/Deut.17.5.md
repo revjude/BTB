@@ -1,4 +1,4 @@
-**Deuteronomy 17:5** 
+**Deuteronomy 17:5**<big><big>[[Deut.17.2 Purge the Idolater|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou bring forth that man or that woman, which have committed that wicked thing, unto thy gates, [even] that man or that woman, and shalt stone them with stones, till they die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you must bring out to your gates the man or woman who has done this evil thing, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.4|<< Deuteronomy 17:4]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.6|Deuteronomy 17:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will bring out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318H\|הֽוֹצֵאתָ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.tze.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

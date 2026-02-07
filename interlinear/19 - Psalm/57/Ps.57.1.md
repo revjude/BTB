@@ -1,12 +1,12 @@
-**Psalms 57:1** (57:2)
+**Psalms 57:1**<big><big>[[Ps.57.1 In You My Soul Takes Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, Altaschith, Michtam of David, when he fled from Saul in the cave. Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until [these] calamities be overpast.
+Be merciful unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until [these] calamities be overpast.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David, when he fled from Saul into the cave. Have mercy on me, O God, have mercy, for in You my soul takes refuge. In the shadow of Your wings I will take shelter until the danger has passed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.57.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.57.0|<< Psalms 57:0]]</td><td align="center" style="border:none;">[[Ps.57|Psalms 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.2|Psalms 57:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | show favor to me  |**<big>&#8207;[[H2603A\|חָנֵּ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| cho.ne.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

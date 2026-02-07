@@ -1,4 +1,4 @@
-**Nehemiah 7:59** 
+**Nehemiah 7:59**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the descendants of Shephatiah, the descendants of Hattil, the descendants of Poc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.58|<< Nehemiah 7:58]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.60|Nehemiah 7:60 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֧י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shephatiah  |**<big>&#8207;[[H8203M\|שְׁפַטְיָ֣ה]]&#8207; </big>**| she.fat.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:18** 
 <small><sub>**LXX:**</sub></small>
 And all  his servants passed by his hand. And every  Cherethite, and every  Pelethite, and all the Gittites -- six hundred men  having come from out of Gath by foot, were passing in front of the king. 
-<small><sub>**KJV:**</sub></small>
-And all his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men which came after him from Gath, passed on before the king.
-<small><sub>**BSB:**</sub></small>
-and all his servants marched past him—all the Cherethites and Pelethites, and six hundred Gittites who had followed him from Gath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.17|<< 2 Samuel 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.19|2 Samuel 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 7:20** 
+**Genesis 7:20**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fifteen cubits upward did the waters prevail; and the mountains were covered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The waters rose and covered the mountaintops to a depth of fifteen cubits.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.19|<< Genesis 7:19]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.21|Genesis 7:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fif-  |**<big>&#8207;[[H2568\|חֲמֵ֨שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֤ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

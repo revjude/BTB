@@ -1,10 +1,7 @@
 **LXX 1 Samuel 29:11** 
 <small><sub>**LXX:**</sub></small>
 And David rose early, he and  his men  to go forth in the morning, and to guard the land of the Philistines. And the Philistines ascended to wage war against Israel. 
-<small><sub>**KJV:**</sub></small>
-So David and his men rose up early to depart in the morning, to return into the land of the Philistines. And the Philistines went up to Jezreel.
-<small><sub>**BSB:**</sub></small>
-So David and his men got up early in the morning to return to the land of the Philistines. And the Philistines went up to Jezreel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.10|<< 1 Samuel 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.1|1 Samuel 30:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 16:19** 
+**Judges 16:19**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she made him sleep upon her knees; and she called for a man, and she caused him to shave off the seven locks of his head; and she began to afflict him, and his strength went from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And having lulled him to sleep on her lap, she called a man to shave off the sev
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.18|<< Judges 16:18]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.20|Judges 16:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she made sleep him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3462\|תְּיַשְּׁנֵ֙]]&#8207;&#8207;[[H9033\|הוּ֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ya.she.Ne.<small><sup>[[HVpw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

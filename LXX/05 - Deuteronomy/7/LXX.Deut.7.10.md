@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:10** 
 <small><sub>**LXX:**</sub></small>
 and repaying to the ones detesting \[his\] face, to utterly destroy them. And he shall not be slow to the ones detesting; by person he shall render what is due to them. 
-<small><sub>**KJV:**</sub></small>
-And repayeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face.
-<small><sub>**BSB:**</sub></small>
-But those who hate Him He repays to their faces with destruction; He will not hesitate to repay to his face the one who hates Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.9|<< Deuteronomy 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.11|Deuteronomy 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

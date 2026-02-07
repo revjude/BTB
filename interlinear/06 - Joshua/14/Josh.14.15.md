@@ -1,4 +1,4 @@
-**Joshua 14:15** 
+**Joshua 14:15**<big><big>[[Josh.14.6 Caleb Requests Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the name of Hebron before [was] Kirjatharba; [which Arba was] a great man among the Anakims. And the land had rest from war.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the name of Hebron before [was] Kirjatharba; [which Arba was] a great man am
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.14|<< Joshua 14:14]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.1|Joshua 15:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] name of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8034\|שֵׁ֨ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hebron  |**<big>&#8207;[[H2275A\|חֶבְר֤וֹן]]&#8207; </big>**| chev.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

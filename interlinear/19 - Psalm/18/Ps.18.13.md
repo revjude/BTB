@@ -1,4 +1,4 @@
-**Psalms 18:13** (18:14)
+**Psalms 18:13**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD also thundered in the heavens, and the Highest gave his voice; hail [stones] and coals of fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD thundered from heaven; the voice of the Most High resounded—hailstone
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.12|<< Psalms 18:12]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.14|Psalms 18:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he thundered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7481\|יַּרְעֵ֬ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yar.'Em<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the heavens  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8064\|שָּׁמַ֨יִם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

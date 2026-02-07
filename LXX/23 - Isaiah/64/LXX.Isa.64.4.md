@@ -1,10 +1,7 @@
 **LXX Isaiah 64:4** 
 <small><sub>**LXX:**</sub></small>
 From the eon we heard not, nor  our eyes beheld a God besides you, and  your works which you shall do to the ones waiting for mercy. 
-<small><sub>**KJV:**</sub></small>
-For since the beginning of the world [men] have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, [what] he hath prepared for him that waiteth for him.
-<small><sub>**BSB:**</sub></small>
-From ancient times no one has heard, no ear has perceived, no eye has seen any God besides You, who acts on behalf of those who wait for Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.64.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.3|<< Isaiah 64:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.5|Isaiah 64:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 64:4** is...

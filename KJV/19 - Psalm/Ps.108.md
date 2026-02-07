@@ -1,6 +1,6 @@
 (KJV) **Psalm 108**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107|<< Psalm 107]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109|Psalm 109 >>]]</td></tr></table>
 
-***Israel’s Kingdom Blessing*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[Ps.57|Psalms 57:1–11]] <big>†</big> [[Ps.60|Psalms 60:1–12]] ]</sup></small> ^bsb1401
+<big><big>[[Ps.108.1 Israel’s Kingdom Blessing|⥃]]</big></big>***Israel’s Kingdom Blessing*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[Ps.57|Psalms 57:1–11]] <big>†</big> [[Ps.60|Psalms 60:1–12]] ]</sup></small>
 
 
 

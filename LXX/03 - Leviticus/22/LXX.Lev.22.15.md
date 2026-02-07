@@ -1,10 +1,7 @@
 **LXX Leviticus 22:15** 
 <small><sub>**LXX:**</sub></small>
 And they shall not profane the holy \[things\] of the sons of Israel, which they offer to \[the\] <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-And they shall not profane the holy things of the children of Israel, which they offer unto the LORD;
-<small><sub>**BSB:**</sub></small>
-The priests must not profane the sacred offerings that the Israelites present to the LORD<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.14|<< Leviticus 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.16|Leviticus 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

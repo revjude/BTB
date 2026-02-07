@@ -1,12 +1,12 @@
-**Luke 13:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:18**<big><big>[[Luke.13.18 The Parable of the Mustard Seed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?
 <small><sub>**BSB:**</sub></small>
 Then Jesus asked, “What is the kingdom of God like? To what can I compare it?
 <small><sub>**Literal:**</sub></small>
 He was saying then: To what like is the kingdom <the> of God? And to what will I liken it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.17|<< Luke 13:17]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.19|Luke 13:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was saying |**<big>[[G3004G\|Ἔλεγεν]]</big>**  |Elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then: [^1] |**<big>[[G3767\|οὖν·]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

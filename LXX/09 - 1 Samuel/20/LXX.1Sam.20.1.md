@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David ran away from Naioth in Ramah, and he came before Jonathan. And he said, What have I done, and what \[is\]  my offence, and how have I sinned before  your father, that he seeks anxiously  my life? 
-<small><sub>**KJV:**</sub></small>
-And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what [is] mine iniquity? and what [is] my sin before thy father, that he seeketh my life?
-<small><sub>**BSB:**</sub></small>
-Then David fled from Naioth in Ramah. He came to Jonathan and asked, “What have I done? What is my iniquity? How have I sinned against your father, that he wants to take my life?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.24|<< 1 Samuel 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.2|1 Samuel 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

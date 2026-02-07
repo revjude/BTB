@@ -1,12 +1,12 @@
-**Luke 1:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:27**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name [was] Mary.
 <small><sub>**BSB:**</sub></small>
 to a virgin pledged in marriage to a man named Joseph, who was of the house of David. And the virgin’s name was Mary.
 <small><sub>**Literal:**</sub></small>
 to a virgin betrothed to a man whose name [was] Joseph of [the] house of David, and the name of the virgin [was] Mary.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.26|<< Luke 1:26]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.28|Luke 1:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a virgin |**<big>[[G3933\|παρθένον]]</big>**  |parthenon <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

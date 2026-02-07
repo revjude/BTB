@@ -1,4 +1,4 @@
-**Leviticus 25:43** 
+**Leviticus 25:43**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not rule over him with rigour; but shalt fear thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are not to rule over them harshly, but you shall fear your God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.42|<< Leviticus 25:42]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.44|Leviticus 25:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will rule  |**<big>&#8207;[[H7287A\|תִרְדֶּ֥ה]]&#8207; </big>**| tir.Deh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

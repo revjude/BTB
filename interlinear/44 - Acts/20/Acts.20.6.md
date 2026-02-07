@@ -1,12 +1,12 @@
-**Acts 20:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:6**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.
 <small><sub>**BSB:**</sub></small>
 And after the Feast of Unleavened Bread, we sailed from Philippi, and five days later we rejoined them in Troas, where we stayed seven days.
 <small><sub>**Literal:**</sub></small>
 We ourselves then sailed away after the days of the Unleavened Bread from Philippi and we came to them at <the> Troas within days five where we stayed days seven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.5|<< Acts 20:5]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.7|Acts 20:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

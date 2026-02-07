@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:12** 
 <small><sub>**LXX:**</sub></small>
 And Judah failed from in front of Israel, and \[each\] man fled to  his tent. 
-<small><sub>**KJV:**</sub></small>
-And Judah was put to the worse before Israel; and they fled every man to their tents.
-<small><sub>**BSB:**</sub></small>
-And Judah was routed before Israel, and every man fled to his home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.11|<< 2 Kings 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.13|2 Kings 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

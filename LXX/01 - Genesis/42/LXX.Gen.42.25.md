@@ -1,10 +1,7 @@
 **LXX Genesis 42:25** 
 <small><sub>**LXX:**</sub></small>
 And Joseph gave charge to fill up  their containers of grain, and to give back  their silver to each in  his sackcloth, and to give them provisions for the journey. And it became to them so. 
-<small><sub>**KJV:**</sub></small>
-Then Joseph commanded to fill their sacks with corn, and to restore every man’s money into his sack, and to give them provision for the way: and thus did he unto them.
-<small><sub>**BSB:**</sub></small>
-Then Joseph gave orders to fill their bags with grain, to return each man’s silver to his sack, and to give them provisions for their journey. This order was carried out,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.24|<< Genesis 42:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.26|Genesis 42:26 >>]]</td></tr></table>
 
 | Translation | Greek |

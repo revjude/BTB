@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:11** 
 <small><sub>**LXX:**</sub></small>
 And I will give  Jerusalem for displacement, and for a home of dragons. And the cities of Judah I will appoint for extinction, so as  to not be dwelt in. 
-<small><sub>**KJV:**</sub></small>
-And I will make Jerusalem heaps, [and] a den of dragons; and I will make the cities of Judah desolate, without an inhabitant.
-<small><sub>**BSB:**</sub></small>
-“And I will make Jerusalem a heap of rubble, a haunt for jackals; and I will make the cities of Judah a desolation, without inhabitant.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.10|<< Jeremiah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.12|Jeremiah 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Revelation 12:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:6**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred [and] threescore days.
 <small><sub>**BSB:**</sub></small>
 And the woman fled into the wilderness, where God had prepared a place for her to be nourished for 1,260 days.
@@ -10,7 +10,7 @@ And the woman fled into the wilderness, where she has there a place prepared by 
 > $\quad$ possibly alluding to: [[LXX.Dan.7.25|Dan 7:25]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

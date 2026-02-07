@@ -1,10 +1,7 @@
 **LXX Psalm 10:2** 
 <small><sub>**LXX:**</sub></small>
 In the being prideful by the impious one, the poor one is burnt; they are seized by \[the\] deliberations which they argue. 
-<small><sub>**KJV:**</sub></small>
-The wicked in [his] pride doth persecute the poor: let them be taken in the devices that they have imagined.
-<small><sub>**BSB:**</sub></small>
-In pride the wicked pursue the needy; let them be caught in the schemes they devise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.1|<< Psalm 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.3|Psalm 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

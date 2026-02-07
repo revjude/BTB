@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:11** 
 <small><sub>**LXX:**</sub></small>
 The insolence has risen up, and it will break \[the\] reliance of \[the\] lawless one, and not with a tumult nor with anxiety. 
-<small><sub>**KJV:**</sub></small>
-Violence is risen up into a rod of wickedness: none of them [shall remain], nor of their multitude, nor of any of theirs: neither [shall there be] wailing for them.
-<small><sub>**BSB:**</sub></small>
-Their violence has grown into a rod to punish their wickedness. None of them will remain: none of their multitude, none of their wealth, and nothing of value.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.10|<< Ezekiel 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.12|Ezekiel 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

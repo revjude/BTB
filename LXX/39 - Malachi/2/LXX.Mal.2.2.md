@@ -1,10 +1,7 @@
 **LXX Malachi 2:2** 
 <small><sub>**LXX:**</sub></small>
 If you should not hearken, and if you should not put it into  your heart,  to give glory \[to\] my name, says \[the\] <span class="smallcaps">lord</span> almighty, then I will send upon you the curse, and I will accurse  your blessing -- even I will curse it, and it will not be among you, for you put \[it\] not to  your heart. 
-<small><sub>**KJV:**</sub></small>
-If ye will not hear, and if ye will not lay [it] to heart, to give glory unto my name, saith the LORD of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay [it] to heart.
-<small><sub>**BSB:**</sub></small>
-If you do not listen, and if you do not take it to heart to honor My name,” says the LORD of Hosts, “I will send a curse among you, and I will curse your blessings. Yes, I have already begun to curse them, because you are not taking it to heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.1|<< Malachi 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.3|Malachi 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

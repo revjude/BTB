@@ -1,4 +1,4 @@
-**Job 3:12** 
+**Job 3:12**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why did the knees prevent me? or why the breasts that I should suck?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why were there knees to receive me, and breasts that I should be nursed?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.11|<< Job 3:11]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.13|Job 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַ֭דּוּעַ]]&#8207; </big>**| Ma.du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did they receive me  |**<big>&#8207;[[H6923\|קִדְּמ֣וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ki.de.Mu.<small><sup>[[HVpp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

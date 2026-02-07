@@ -1,4 +1,4 @@
-**2 Kings 17:17** 
+**2 Kings 17:17**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do evil in the sight of the LORD, to provoke him to anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They sacrificed their sons and daughters in the fire and practiced divination an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.16|<< 2 Kings 17:16]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.18|2 Kings 17:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made pass  |**<big>&#8207;[[H9001\|וַֽ֠]]&#8207;&#8207;[[H5674A\|יַּעֲבִירוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'a.vi.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

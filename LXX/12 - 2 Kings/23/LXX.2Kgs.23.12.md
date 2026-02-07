@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:12** 
 <small><sub>**LXX:**</sub></small>
 And the altars, the ones upon the roof of the upper room of Ahaz, which \[the\] kings of Judah made, and the altars which Manasseh made in the two courtyards of \[the\] house of \[the\] <span class="smallcaps">lord</span>, the king demolished, and tore down from there, and tossed  their dust into the rushing stream Kidron. 
-<small><sub>**KJV:**</sub></small>
-And the altars that [were] on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake [them] down from thence, and cast the dust of them into the brook Kidron.
-<small><sub>**BSB:**</sub></small>
-He pulled down the altars that the kings of Judah had set up on the roof near the upper chamber of Ahaz, and the altars that Manasseh had set up in the two courtyards of the house of the LORD. The king pulverized them there and threw their dust into the Kidron Valley.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.11|<< 2 Kings 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.13|2 Kings 23:13 >>]]</td></tr></table>
 
 | Translation | Greek |

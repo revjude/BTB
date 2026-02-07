@@ -1,12 +1,12 @@
-**Matthew 28:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:3**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 His countenance was like lightning, and his raiment white as snow:
 <small><sub>**BSB:**</sub></small>
 His appearance was like lightning, and his clothes were white as snow.
 <small><sub>**Literal:**</sub></small>
 Was now the appearance of him like lightning and the clothing of him white as snow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.2|<< Matthew 28:2]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.4|Matthew 28:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

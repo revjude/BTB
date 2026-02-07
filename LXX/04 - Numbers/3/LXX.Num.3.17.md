@@ -1,10 +1,7 @@
 **LXX Numbers 3:17** 
 <small><sub>**LXX:**</sub></small>
 And these were the sons of Levi by their names -- Gershon, Kohath, and Merari. 
-<small><sub>**KJV:**</sub></small>
-And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.
-<small><sub>**BSB:**</sub></small>
-These were the sons of Levi by name: Gershon, Kohath, and Merari.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.16|<< Numbers 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.18|Numbers 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 49:2** 
+**Isaiah 49:2**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He made My mouth like a sharp sword; He hid Me in the shadow of His hand. He mad
 > $\quad$ referenced by: [[Eph.6.17|Eph 6:17]] ☩ [[Rev.1.16|Rev 1:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760A\|יָּ֤שֶׂם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mouth my  |**<big>&#8207;[[H6310G\|פִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| p<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 1:32** 
 <small><sub>**LXX:**</sub></small>
 And Asher dwelt in \[the\] midst of the Canaanite  dwelling in \[the\] land; for he was not able to remove him. 
-<small><sub>**KJV:**</sub></small>
-But the Asherites dwelt among the Canaanites, the inhabitants of the land: for they did not drive them out.
-<small><sub>**BSB:**</sub></small>
-So the Asherites lived among the Canaanite inhabitants of the land, because they did not drive them out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.31|<< Judges 1:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.33|Judges 1:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 4:3** (4:4)
+**Psalms 4:3**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Know that the LORD has set apart the godly for Himself; the LORD hears when I ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.2|<< Psalms 4:2]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.4|Psalms 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and know  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3045\|דְע֗וּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

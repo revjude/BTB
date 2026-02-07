@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:32** 
 <small><sub>**LXX:**</sub></small>
 on account of this, thus said \[the\] <span class="smallcaps">lord</span>, Behold, I shall visit against Shemaiah, and against  his kind; and there will not be to him a man in \[the\] midst of you  to behold the good \[things\] which I shall do to you, says \[the\] <span class="smallcaps">lord</span>; for he spoke defection against the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD; Behold, I will punish Shemaiah the Nehelamite, and his seed: he shall not have a man to dwell among this people; neither shall he behold the good that I will do for my people, saith the LORD; because he hath taught rebellion against the LORD.
-<small><sub>**BSB:**</sub></small>
-this is what the LORD says: ‘I will surely punish Shemaiah the Nehelamite and his descendants. He will have no one left among this people, nor will he see the good that I will bring to My people, declares the LORD, for he has preached rebellion against the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.31|<< Jeremiah 29:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.1|Jeremiah 30:1 >>]]</td></tr></table>
 
 | Translation | Greek |

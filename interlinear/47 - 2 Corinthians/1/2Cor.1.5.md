@@ -1,12 +1,12 @@
-**2 Corinthians 1:5
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:5**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.
 <small><sub>**BSB:**</sub></small>
 For just as the sufferings of Christ overflow to us, so also through Christ our comfort overflows.
 <small><sub>**Literal:**</sub></small>
 because even as abound the sufferings of the Christ toward us, thus so through <the> Christ abounds also the comfort of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.4|<< 2 Corinthians 1:4]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.6|2 Corinthians 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 65:15** 
 <small><sub>**LXX:**</sub></small>
 For you shall leave behind  your name for a glut \[to\] my chosen, and \[the\] <span class="smallcaps">lord</span> shall do away with you. But to the ones that serve to me, they shall be called by a new name, 
-<small><sub>**KJV:**</sub></small>
-And ye shall leave your name for a curse unto my chosen: for the Lord GOD shall slay thee, and call his servants by another name:
-<small><sub>**BSB:**</sub></small>
-You will leave behind your name as a curse for My chosen ones, and the Lord GOD will slay you; but to His servants He will give another name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.14|<< Isaiah 65:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.16|Isaiah 65:16 >>]]</td></tr></table>
 
 | Translation | Greek |

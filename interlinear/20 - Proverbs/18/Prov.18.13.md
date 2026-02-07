@@ -1,4 +1,4 @@
-**Proverbs 18:13** 
+**Proverbs 18:13**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that answereth a matter before he heareth [it], it [is] folly and shame unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who answers a matter before he hears it—this is folly and disgrace to him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.12|<< Proverbs 18:12]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.14|Proverbs 18:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] brings back  |**<big>&#8207;[[H7725M\|מֵשִׁ֣יב]]&#8207; </big>**| me.Shiv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a word  |**<big>&#8207;[[H1697H\|דָּ֭בָר]]&#8207; </big>**| Da.vor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

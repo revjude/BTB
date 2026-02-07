@@ -1,4 +1,4 @@
-**Jeremiah 36:12** 
+**Jeremiah 36:12**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he went down into the king’s house, into the scribe’s chamber: and, lo, all the princes sat there, [even] Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he went down to the scribe’s chamber in the king’s palace, where all the off
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.11|<< Jeremiah 36:11]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.13|Jeremiah 36:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּ֤רֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.red<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004P\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

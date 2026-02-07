@@ -1,12 +1,12 @@
-**Matthew 13:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:31**<big><big>[[Matt.13.31 The Parable of the Mustard Seed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
 <small><sub>**BSB:**</sub></small>
 He put before them another parable: “The kingdom of heaven is like a mustard seed that a man took and planted in his field.
 <small><sub>**Literal:**</sub></small>
 Another parable put He before them saying; Like is the kingdom of the heavens to a grain of mustard, which having taken a man sowed in the field of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.30|<< Matthew 13:30]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.32|Matthew 13:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Another |**<big>[[G0243\|Ἄλλην]]</big>**  |Allēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | parable |**<big>[[G3850\|παραβολὴν]]</big>**  |parabolēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

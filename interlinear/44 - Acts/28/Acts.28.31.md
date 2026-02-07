@@ -1,12 +1,12 @@
-**Acts 28:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:31**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Preaching the kingdom of God, and teaching those things which concern the Lord Jesus Christ, with all confidence, no man forbidding him.
 <small><sub>**BSB:**</sub></small>
 Boldly and freely he proclaimed the kingdom of God and taught about the Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 proclaiming the kingdom <the> of God and teaching the [things] concerning the Lord Jesus Christ with all boldness unhinderedly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.30|<< Acts 28:30]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.1|Romans 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | proclaiming |**<big>[[G2784\|κηρύσσων]]</big>**  |kērussōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

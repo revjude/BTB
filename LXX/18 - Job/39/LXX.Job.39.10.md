@@ -1,10 +1,7 @@
 **LXX Job 39:10** 
 <small><sub>**LXX:**</sub></small>
 And will you tie his yoke with straps, or will he draw furrows in \[the\] plain? 
-<small><sub>**KJV:**</sub></small>
-Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?
-<small><sub>**BSB:**</sub></small>
-Can you hold him to the furrow with a harness? Will he plow the valleys behind you?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.9|<< Job 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.11|Job 39:11 >>]]</td></tr></table>
 
 | Translation | Greek |

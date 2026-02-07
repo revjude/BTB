@@ -1,4 +1,4 @@
-**Genesis 47:28** 
+**Genesis 47:28**<big><big>[[Gen.47.27 The Israelites Prosper in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jacob lived in the land of Egypt seventeen years, and the length of his life
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.27|<< Genesis 47:27]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.29|Genesis 47:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2421\|יְחִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹב֙]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

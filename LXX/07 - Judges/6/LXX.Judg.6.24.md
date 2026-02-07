@@ -1,10 +1,7 @@
 **LXX Judges 6:24** 
 <small><sub>**LXX:**</sub></small>
 And Gideon built there an altar to the <span class="smallcaps">lord</span>. And he called it, Peace of \[the\] <span class="smallcaps">lord</span>, until  this day. It \[is\] still being with Ephratah father  of Ezri. 
-<small><sub>**KJV:**</sub></small>
-Then Gideon built an altar there unto the LORD, and called it Jehovahshalom: unto this day it [is] yet in Ophrah of the Abiezrites.
-<small><sub>**BSB:**</sub></small>
-So Gideon built an altar to the LORD there and called it The LORD Is Peace. To this day it stands in Ophrah of the Abiezrites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.23|<< Judges 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.25|Judges 6:25 >>]]</td></tr></table>
 
 | Translation | Greek |

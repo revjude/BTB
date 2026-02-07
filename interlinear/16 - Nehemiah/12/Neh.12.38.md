@@ -1,4 +1,4 @@
-**Nehemiah 12:38** 
+**Nehemiah 12:38**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the other [company of them that gave] thanks went over against [them], and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The second thanksgiving choir proceeded to the left, and I followed it with half
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.37|<< Nehemiah 12:37]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.39|Nehemiah 12:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the thanksgiving choir  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8426\|תּוֹדָ֧ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> to.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> second  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8145\|שֵּׁנִ֛ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

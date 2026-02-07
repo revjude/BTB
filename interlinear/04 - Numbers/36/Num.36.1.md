@@ -1,4 +1,4 @@
-**Numbers 36:1** 
+**Numbers 36:1**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the family heads of the clan of Gilead son of Machir son of Manasseh, one of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.34|<< Numbers 35:34]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.2|Numbers 36:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they drew near  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7126G\|יִּקְרְב֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.re.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] leaders of  |**<big>&#8207;[[H7218H\|רָאשֵׁ֣י]]&#8207; </big>**| ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

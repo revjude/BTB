@@ -1,12 +1,12 @@
-**2 Timothy 4:1
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:1**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I charge [thee] therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;
 <small><sub>**BSB:**</sub></small>
 I charge you in the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of His appearing and His kingdom:
 <small><sub>**Literal:**</sub></small>
 I earnestly declare therefore I myself before <the> God and <the> Lord Christ Jesus who is being about to judge [the] living and [the] dead, and by the appearing of Him and the kingdom of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.17|<< 2 Timothy 3:17]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.2|2 Timothy 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I earnestly declare |**<big>[[G1263\|Διαμαρτύρομαι]]</big>**  |Diamarturomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

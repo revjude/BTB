@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:5** 
 <small><sub>**LXX:**</sub></small>
 And Joab entered to the king into the house, and said, You disgraced today the faces of all  your servants, of the ones delivering  your life today, and the life  of your sons, and  of your daughters, and the life  of your wives, and the life  of your concubines, 
-<small><sub>**KJV:**</sub></small>
-And Joab came into the house to the king, and said, Thou hast shamed this day the faces of all thy servants, which this day have saved thy life, and the lives of thy sons and of thy daughters, and the lives of thy wives, and the lives of thy concubines;
-<small><sub>**BSB:**</sub></small>
-Then Joab went into the house and said to the king, “Today you have disgraced all your servants who have saved your life and the lives of your sons and daughters, of your wives, and of your concubines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.4|<< 2 Samuel 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.6|2 Samuel 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

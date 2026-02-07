@@ -1,10 +1,7 @@
 **LXX Numbers 26:10** 
 <small><sub>**LXX:**</sub></small>
 And the earth opening  its mouth swallowed them and Korah in the death  of his congregation, when the fire devoured the fifty and two hundred. And they were made as a sign. 
-<small><sub>**KJV:**</sub></small>
-And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign.
-<small><sub>**BSB:**</sub></small>
-And the earth opened its mouth and swallowed them along with Korah, whose followers died when the fire consumed 250 men. They serve as a warning sign.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.9|<< Numbers 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.11|Numbers 26:11 >>]]</td></tr></table>
 
 | Translation | Greek |

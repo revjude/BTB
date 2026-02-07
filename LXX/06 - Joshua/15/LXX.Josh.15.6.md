@@ -1,10 +1,7 @@
 **LXX Joshua 15:6** 
 <small><sub>**LXX:**</sub></small>
 The borders mount upon Beth-hoglah, and go near from \[the\] north unto Beth-arabah. And it ascends unto the borders at \[the\] stone of Bohan of \[the\] son of Reuben. 
-<small><sub>**KJV:**</sub></small>
-And the border went up to Bethhogla, and passed along by the north of Betharabah; and the border went up to the stone of Bohan the son of Reuben:
-<small><sub>**BSB:**</sub></small>
-went up to Beth-hoglah, proceeded north of Beth-arabah, and went up to the Stone of Bohan son of Reuben.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.5|<< Joshua 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.7|Joshua 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

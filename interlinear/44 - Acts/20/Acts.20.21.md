@@ -1,12 +1,12 @@
-**Acts 20:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:21**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 testifying to Jews and Greeks alike about repentance to God and faith in our Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 earnestly testifying to Jews both and to Greeks <the> in <the> God repentance and faith <the> in the Lord of us Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.20|<< Acts 20:20]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.22|Acts 20:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | earnestly testifying |**<big>[[G1263\|διαμαρτυρόμενος]]</big>**  |diamarturomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Jews |**<big>[[G2453\|Ἰουδαίοις]]</big>**  |Ioudaiois <small><sup>[[N-DPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

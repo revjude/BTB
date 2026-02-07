@@ -1,12 +1,12 @@
-**Mark 7:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:14**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had called all the people [unto him], he said unto them, Hearken unto me every one [of you], and understand:
 <small><sub>**BSB:**</sub></small>
 Once again Jesus called the crowd to Him and said, “All of you, listen to Me and understand:
 <small><sub>**Literal:**</sub></small>
 And having called to [Him] again the crowd He was saying to them; do listen to Me all and do understand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.13|<< Mark 7:13]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.15|Mark 7:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called to [Him] |**<big>[[G4341\|προσκαλεσάμενος]]</big>**  |proskalesamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

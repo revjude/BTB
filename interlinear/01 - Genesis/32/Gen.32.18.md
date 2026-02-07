@@ -1,4 +1,4 @@
-**Genesis 32:18** (32:19)
+**Genesis 32:18**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou shalt say, [They be] thy servant Jacob’s; it [is] a present sent unto my lord Esau: and, behold, also he [is] behind us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then you are to say, ‘They belong to your servant Jacob. They are a gift, sent
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.17|<< Genesis 32:17]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.19|Genesis 32:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָֽמַרְתָּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to servant your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5650\|עַבְדְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

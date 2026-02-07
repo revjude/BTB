@@ -1,4 +1,4 @@
-**Isaiah 42:15** 
+**Isaiah 42:15**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and I will dry up the pools.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will lay waste the mountains and hills and dry up all their vegetation. I will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.14|<< Isaiah 42:14]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.16|Isaiah 42:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will lay waste  |**<big>&#8207;[[H2717B\|אַחֲרִ֤יב]]&#8207; </big>**| 'a.cha.Riv<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mountains  |**<big>&#8207;[[H2022G\|הָרִים֙]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

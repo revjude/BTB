@@ -1,4 +1,4 @@
-**Jonah 4:8** 
+**Jonah 4:8**<big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, [It is] better for me to die than to live.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As the sun was rising, God appointed a scorching east wind, and the sun beat dow
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when arose  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H2224\|זְרֹ֣חַ]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> z.Ro.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

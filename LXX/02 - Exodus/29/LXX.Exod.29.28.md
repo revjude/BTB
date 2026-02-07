@@ -1,10 +1,7 @@
 **LXX Exodus 29:28** 
 <small><sub>**LXX:**</sub></small>
 And it will be \[to\] Aaron, and \[to\] his sons an eternal law for the sons of Israel, for this is a choice portion; and it will be a choice portion by the sons of Israel from the \[things\] offered in sacrifices of the deliverance \[offerings\] -- a choice portion to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it shall be Aaron’s and his sons’ by a statute for ever from the children of Israel: for it [is] an heave offering: and it shall be an heave offering from the children of Israel of the sacrifice of their peace offerings, [even] their heave offering unto the LORD.
-<small><sub>**BSB:**</sub></small>
-This will belong to Aaron and his sons as a regular portion from the Israelites, for it is the heave offering the Israelites will make to the LORD from their peace offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.27|<< Exodus 29:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.29|Exodus 29:29 >>]]</td></tr></table>
 
 | Translation | Greek |

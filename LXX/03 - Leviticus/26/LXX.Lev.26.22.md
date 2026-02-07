@@ -1,10 +1,7 @@
 **LXX Leviticus 26:22** 
 <small><sub>**LXX:**</sub></small>
 And I will send upon you the wild beasts of the land; and they shall eat you, and shall completely consume  your cattle; and I will make you very few; and your ways shall be made desolate. 
-<small><sub>**KJV:**</sub></small>
-I will also send wild beasts among you, which shall rob you of your children, and destroy your cattle, and make you few in number; and your [high] ways shall be desolate.
-<small><sub>**BSB:**</sub></small>
-I will send wild animals against you to rob you of your children, destroy your livestock, and reduce your numbers, until your roads lie desolate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.21|<< Leviticus 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.23|Leviticus 26:23 >>]]</td></tr></table>
 
 | Translation | Greek |

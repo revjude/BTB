@@ -1,4 +1,4 @@
-**Genesis 25:10** 
+**Genesis 25:10**<big><big>[[Gen.25.7 The Death of Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This was the field that Abraham had bought from the Hittites. Abraham was buried
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.9|<< Genesis 25:9]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.11|Genesis 25:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:5** 
 <small><sub>**LXX:**</sub></small>
 \[The\] items of a man shall not be upon a woman, nor \[should\] a man put on feminine apparel, for every one doing these \[things\] is an abomination \[to the\] <span class="smallcaps">lord</span> your God. 
-<small><sub>**KJV:**</sub></small>
-The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so [are] abomination unto the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-A woman must not wear men’s clothing, and a man must not wear women’s clothing, for whoever does these things is detestable to the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.4|<< Deuteronomy 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.6|Deuteronomy 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 55:9** (55:10)
+**Psalms 55:9**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Destroy, O Lord, [and] divide their tongues: for I have seen violence and strife in the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Lord, confuse and confound their speech, for I see violence and strife in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.8|<< Psalms 55:8]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.10|Psalms 55:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | confuse  |**<big>&#8207;[[H1104\|בַּלַּ֣ע]]&#8207; </big>**| ba.La'<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lord  |**<big>&#8207;[[H0136\|אֲ֭דֹנָי]]&#8207; </big>**| 'A.do.nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

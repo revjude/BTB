@@ -1,12 +1,12 @@
-**Mark 10:28
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:28**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Peter began to say unto him, Lo, we have left all, and have followed thee.
 <small><sub>**BSB:**</sub></small>
 Peter began to say to Him, “Look, we have left everything and followed You.”
 <small><sub>**Literal:**</sub></small>
 and Began to say <the> Peter to Him; Behold we ourselves left all and have followed You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.27|<< Mark 10:27]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.29|Mark 10:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
 | Began |**<big>[[G0757\|ἤρξατο]]</big>**  |ērxato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

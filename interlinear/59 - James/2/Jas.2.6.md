@@ -1,12 +1,12 @@
-**James 2:6
-**<small><sub>**KJV:**</sub></small>
+**James 2:6**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?
 <small><sub>**BSB:**</sub></small>
 But you have dishonored the poor. Is it not the rich who oppress you and drag you into court?
 <small><sub>**Literal:**</sub></small>
 You yourselves however dishonored the poor. Surely the rich are oppressing you and they themselves dragging you into court?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.5|<< James 2:5]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.7|James 2:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

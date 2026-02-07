@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:2** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan said to him, Far be it to you. In no way shall you die. Behold, in no way my father do a thing, great or small, and shall not reveal it in  my ear. And why  my father hide from me  this thing? This is not \[so\]. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will shew it me: and why should my father hide this thing from me? it [is] not [so].
-<small><sub>**BSB:**</sub></small>
-“Far from it!” Jonathan replied. “You will not die. Indeed, my father does nothing, great or small, without telling me. So why would he hide this matter from me? This cannot be true!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.1|<< 1 Samuel 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.3|1 Samuel 20:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Daniel 5:18** 
 <small><sub>**LXX:**</sub></small>
 O king,  God the highest gave and the glory the kingdom and the greatness and the honor to Nebuchadnezzar  your father. 
-<small><sub>**KJV:**</sub></small>
-O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:
-<small><sub>**BSB:**</sub></small>
-As for you, O king, the Most High God gave your father Nebuchadnezzar sovereignty and greatness, glory and honor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.17|<< Daniel 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.19|Daniel 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

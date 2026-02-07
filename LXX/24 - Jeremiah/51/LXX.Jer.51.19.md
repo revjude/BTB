@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:19** 
 <small><sub>**LXX:**</sub></small>
 Not such \[is the\] portion  to Jacob; for the \[one\] shaping  all \[things\], he is his inheritance; \[the\] <span class="smallcaps">lord</span> of the forces \[is\] his name. 
-<small><sub>**KJV:**</sub></small>
-The portion of Jacob [is] not like them; for he [is] the former of all things: and [Israel is] the rod of his inheritance: the LORD of hosts [is] his name.
-<small><sub>**BSB:**</sub></small>
-The Portion of Jacob is not like these, for He is the Maker of all things, and of the tribe of His inheritance—the LORD of Hosts is His name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.18|<< Jeremiah 51:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.20|Jeremiah 51:20 >>]]</td></tr></table>
 
 | Translation | Greek |

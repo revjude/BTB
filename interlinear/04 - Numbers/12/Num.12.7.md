@@ -1,4 +1,4 @@
-**Numbers 12:7** 
+**Numbers 12:7**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My servant Moses [is] not so, who [is] faithful in all mine house.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But this is not so with My servant Moses; he is faithful in all My house.
 > $\quad$ referenced by: [[Heb.3.2|Heb 3:2]] ☩ [[Heb.3.5|Heb 3:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3651C\|כֵ֖ן]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:37** 
 <small><sub>**LXX:**</sub></small>
 And the woman entered, and fell at  his feet, and did obeisance upon the ground, and took  her son, and went forth. 
-<small><sub>**KJV:**</sub></small>
-Then she went in, and fell at his feet, and bowed herself to the ground, and took up her son, and went out.
-<small><sub>**BSB:**</sub></small>
-She came in, fell at his feet, and bowed to the ground. Then she picked up her son and went out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.36|<< 2 Kings 4:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.38|2 Kings 4:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:11** 
 <small><sub>**LXX:**</sub></small>
 and Azariah son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, \[the\] ruler of \[the\] house  of God. 
-<small><sub>**KJV:**</sub></small>
-And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;
-<small><sub>**BSB:**</sub></small>
-Azariah son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the chief official of God’s temple;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.10|<< 1 Chronicles 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.12|1 Chronicles 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

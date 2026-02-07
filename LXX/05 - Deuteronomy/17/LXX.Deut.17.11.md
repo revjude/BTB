@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:11** 
 <small><sub>**LXX:**</sub></small>
 According to the law, and according to the judgment, which ever they should tell to you, thus you shall do it. You shall not turn aside from the matter of which ever they should announce to you, right nor left. 
-<small><sub>**KJV:**</sub></small>
-According to the sentence of the law which they shall teach thee, and according to the judgment which they shall tell thee, thou shalt do: thou shalt not decline from the sentence which they shall shew thee, [to] the right hand, nor [to] the left.
-<small><sub>**BSB:**</sub></small>
-according to the terms of law they give and the verdict they proclaim. Do not turn aside to the right or to the left from the decision they declare to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.10|<< Deuteronomy 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.12|Deuteronomy 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

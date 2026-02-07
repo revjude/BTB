@@ -1,4 +1,4 @@
-**Genesis 50:25** 
+**Genesis 50:25**<big><big>[[Gen.50.22 The Death of Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Joseph made the sons of Israel take an oath and said, “God will surely att
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.24|<< Genesis 50:24]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.26|Genesis 50:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made to swear an oath  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7650\|יַּשְׁבַּ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Ba'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֔ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

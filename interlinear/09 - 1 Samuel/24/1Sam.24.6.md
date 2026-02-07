@@ -1,4 +1,4 @@
-**1 Samuel 24:6** (24:7)
+**1 Samuel 24:6**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his men, The LORD forbid that I should do this thing unto my master, the LORD’S anointed, to stretch forth mine hand against him, seeing he [is] the anointed of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he said to his men, “The LORD forbid that I should do such a thing to my ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.5|<< 1 Samuel 24:5]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.7|1 Samuel 24:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to men his  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0582\|אֲנָשָׁ֜י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.na.Sha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

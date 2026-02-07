@@ -1,5 +1,5 @@
-**Luke 14:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:8**<big><big>[[Luke.14.7 The Parable of the Guests|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When thou art bidden of any [man] to a wedding, sit not down in the highest room; lest a more honourable man than thou be bidden of him;
 <small><sub>**BSB:**</sub></small>
 “When you are invited to a wedding banquet, do not sit in the place of honor, in case someone more distinguished than you has been invited.
@@ -10,7 +10,7 @@ When you may be invited by anyone to wedding feasts, not may recline in the firs
 > $\quad$ alluding to: [[LXX.Prov.25.6|Prov 25:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you may be invited |**<big>[[G2564G\|κληθῇς]]</big>**  |klēthēas <small><sup>[[V-APS-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 7:3
-**<small><sub>**KJV:**</sub></small>
+**John 7:3**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 His brethren therefore said unto him, Depart hence, and go into Judaea, that thy disciples also may see the works that thou doest.
 <small><sub>**BSB:**</sub></small>
 So Jesus’ brothers said to Him, “Leave here and go to Judea, so that Your disciples there may see the works You are doing.
 <small><sub>**Literal:**</sub></small>
 Said therefore to Him the brothers of Him; do depart from here and do go into <the> Judea so that also the disciples of You will see of You the works that You are doing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.2|<< John 7:2]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.4|John 7:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπον]]</big>**  |eipon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

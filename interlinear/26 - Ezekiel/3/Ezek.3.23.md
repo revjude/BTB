@@ -1,4 +1,4 @@
-**Ezekiel 3:23** 
+**Ezekiel 3:23**<big><big>[[Ezek.3.16 A Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river of Chebar: and I fell on my face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I got up and went out to the plain, and behold, the glory of the LORD was pre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.22|<< Ezekiel 3:22]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.24|Ezekiel 3:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I arose  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6965B\|אָקוּם֮]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Kum<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I went out  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3318G\|אֵצֵ֣א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Tze'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

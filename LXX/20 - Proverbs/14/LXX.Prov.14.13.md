@@ -1,10 +1,7 @@
 **LXX Proverbs 14:13** 
 <small><sub>**LXX:**</sub></small>
 Distress does not mingle with gladness; and \[the\] finality of joy comes into mourning. 
-<small><sub>**KJV:**</sub></small>
-Even in laughter the heart is sorrowful; and the end of that mirth [is] heaviness.
-<small><sub>**BSB:**</sub></small>
-Even in laughter the heart may ache, and joy may end in sorrow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.12|<< Proverbs 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.14|Proverbs 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

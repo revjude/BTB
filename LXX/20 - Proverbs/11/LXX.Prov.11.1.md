@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Deceitful yoke \[balance scales\] \[are\] an abomination before \[the\] <span class="smallcaps">lord</span>; but a just weight \[is\] acceptable to him. 
-<small><sub>**KJV:**</sub></small>
-A false balance [is] abomination to the LORD: but a just weight [is] his delight.
-<small><sub>**BSB:**</sub></small>
-Dishonest scales are an abomination to the LORD, but an accurate weight is His delight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.32|<< Proverbs 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.2|Proverbs 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

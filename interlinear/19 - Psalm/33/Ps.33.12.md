@@ -1,4 +1,4 @@
-**Psalms 33:12** 
+**Psalms 33:12**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the nation whose God [is] the LORD; [and] the people [whom] he hath chosen for his own inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed is the nation whose God is the LORD, the people He has chosen as His inh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.11|<< Psalms 33:11]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.13|Psalms 33:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֣י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the nation  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H1471A\|גּוֹי]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

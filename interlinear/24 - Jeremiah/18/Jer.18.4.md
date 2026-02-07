@@ -1,4 +1,4 @@
-**Jeremiah 18:4** 
+**Jeremiah 18:4**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the vessel that he was shaping from the clay became flawed in his hand; so h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.3|<< Jeremiah 18:3]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.5|Jeremiah 18:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was spoiled  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7843\|נִשְׁחַ֣ת]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nish.Chat<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the vessel  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3627\|כְּלִ֗י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

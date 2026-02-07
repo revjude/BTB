@@ -1,4 +1,4 @@
-**Joshua 18:10** 
+**Joshua 18:10**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Joshua cast lots for them in the presence of the LORD at Shiloh, where he di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.9|<< Joshua 18:9]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.11|Joshua 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he threw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7993\|יַּשְׁלֵךְ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.leKh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֨ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

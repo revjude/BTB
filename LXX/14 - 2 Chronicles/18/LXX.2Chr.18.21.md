@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:21** 
 <small><sub>**LXX:**</sub></small>
 And he said, I shall go forth, and I will be a lying spirit in \[the\] mouth of all  his prophets. And he said, You shall deceive, and shall prevail. Go forth, and do so! 
-<small><sub>**KJV:**</sub></small>
-And he said, I will go out, and be a lying spirit in the mouth of all his prophets. And [the LORD] said, Thou shalt entice [him], and thou shalt also prevail: go out, and do [even] so.
-<small><sub>**BSB:**</sub></small>
-And he replied, ‘I will go out and be a lying spirit in the mouths of all his prophets.’ ‘You will surely entice him and prevail,’ said the LORD. ‘Go and do it.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.20|<< 2 Chronicles 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.22|2 Chronicles 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

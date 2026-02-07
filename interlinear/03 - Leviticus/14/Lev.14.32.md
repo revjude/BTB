@@ -1,4 +1,4 @@
-**Leviticus 14:32** 
+**Leviticus 14:32**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the law [of him] in whom [is] the plague of leprosy, whose hand is not able to get [that which pertaineth] to his cleansing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the law for someone who has a skin disease and cannot afford the cost of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.31|<< Leviticus 14:31]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.33|Leviticus 14:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] legal [procedure] of  |**<big>&#8207;[[H8451\|תּוֹרַ֔ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 1:60
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:60**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his mother answered and said, Not [so]; but he shall be called John.
 <small><sub>**BSB:**</sub></small>
 But his mother replied, “No! He shall be called John.”
 <small><sub>**Literal:**</sub></small>
 And answering the mother of him said; No, but he will be called John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.59|<< Luke 1:59]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.61|Luke 1:61 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεῖσα]]</big>**  |apokritheisa <small><sup>[[V-AOP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

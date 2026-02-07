@@ -1,4 +1,4 @@
-**Ezekiel 16:17** 
+**Ezekiel 16:17**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You also took the fine jewelry of gold and silver I had given you, and you made 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.16|<< Ezekiel 16:16]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.18|Ezekiel 16:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקְחִ֞י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Chi<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] articles of  |**<big>&#8207;[[H3627\|כְּלֵ֣י]]&#8207; </big>**| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 15:19** 
 <small><sub>**LXX:**</sub></small>
 And God opened the gash, the one in  Jaw, and there came forth from out of it waters, and he drank, and his spirit was restored, and he lived. Because of this its name is called, Spring of the Calling Upon, which is in Jaw until  this day. 
-<small><sub>**KJV:**</sub></small>
-But God clave an hollow place that [was] in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore he called the name thereof Enhakkore, which [is] in Lehi unto this day.
-<small><sub>**BSB:**</sub></small>
-So God opened up the hollow place in Lehi, and water came out of it. When Samson drank, his strength returned, and he was revived. That is why he named it En-hakkore, and it remains in Lehi to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.18|<< Judges 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.20|Judges 15:20 >>]]</td></tr></table>
 
 | Translation | Greek |

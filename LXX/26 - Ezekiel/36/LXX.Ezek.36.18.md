@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:18** 
 <small><sub>**LXX:**</sub></small>
 And I poured out  my rage upon them for the blood of which they poured out upon the land; and in  their abominations they tainted it. 
-<small><sub>**KJV:**</sub></small>
-Wherefore I poured my fury upon them for the blood that they had shed upon the land, and for their idols [wherewith] they had polluted it:
-<small><sub>**BSB:**</sub></small>
-So I poured out My wrath upon them because of the blood they had shed on the land, and because they had defiled it with their idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.17|<< Ezekiel 36:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.19|Ezekiel 36:19 >>]]</td></tr></table>
 
 | Translation | Greek |

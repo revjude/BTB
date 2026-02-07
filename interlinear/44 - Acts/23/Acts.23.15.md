@@ -1,12 +1,12 @@
-**Acts 23:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:15**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would inquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him.
 <small><sub>**BSB:**</sub></small>
 Now then, you and the Sanhedrin petition the commander to bring him down to you on the pretext of examining his case more carefully. We are ready to kill him on the way.”
 <small><sub>**Literal:**</sub></small>
 Now therefore you yourselves do make a report to the commander along with the Council, so that tomorrow he may bring down him to you as being about to examine more earnestly the [things] about him; we ourselves then before <the> drawing near of him ready we are <the> to execute him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.14|<< Acts 23:14]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.16|Acts 23:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

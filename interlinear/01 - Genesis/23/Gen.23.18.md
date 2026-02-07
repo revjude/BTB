@@ -1,4 +1,4 @@
-**Genesis 23:18** 
+**Genesis 23:18**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to Abraham’s possession in the presence of all the Hittites who had come to th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.17|<< Genesis 23:17]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.19|Genesis 23:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to Abraham  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0085\|אַבְרָהָ֥ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to a possession  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4736\|מִקְנָ֖ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mik.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

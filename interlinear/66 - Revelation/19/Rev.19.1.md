@@ -1,12 +1,12 @@
-**Revelation 19:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:1**<big><big>[[Rev.19.1 Rejoicing in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
 <small><sub>**BSB:**</sub></small>
 After this I heard a sound like the roar of a great multitude in heaven, shouting: “Hallelujah! Salvation and glory and power belong to our God!
 <small><sub>**Literal:**</sub></small>
 and After these things I heard [something] like a voice loud of a multitude great in <the> heaven crying out: Hallelujah! The salvation and the glory and the honor and the power to Lord <the> God of us!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.24|<< Revelation 18:24]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.2|Revelation 19:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
 | After |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

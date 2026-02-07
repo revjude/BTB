@@ -1,5 +1,5 @@
-**1 Corinthians 10:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:5**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But with many of them God was not well pleased: for they were overthrown in the wilderness.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, God was not pleased with most of them, for they were struck down in the wilderness.
@@ -10,7 +10,7 @@ Nevertheless not with the most of them was well pleased <the> God; they were str
 > $\quad$ referencing: [[LXX.Num.14.16|Num 14:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nevertheless |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

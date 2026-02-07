@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:6** 
 <small><sub>**LXX:**</sub></small>
 And Jehu wrote to them a second scroll, saying, If you \[are\] with me, and  you listen to my voice, take \[the\] heads of \[the\] men of the sons  of your master, and bring them to me at  this hour tomorrow in Jezreel! And the sons of the king were seventy men, whom the stout \[men\] of the city nourished them. 
-<small><sub>**KJV:**</sub></small>
-Then he wrote a letter the second time to them, saying, If ye [be] mine, and [if] ye will hearken unto my voice, take ye the heads of the men your master’s sons, and come to me to Jezreel by to morrow this time. Now the king’s sons, [being] seventy persons, [were] with the great men of the city, which brought them up.
-<small><sub>**BSB:**</sub></small>
-Then Jehu wrote them a second letter and said: “If you are on my side, and if you will obey me, then bring the heads of your master’s sons to me at Jezreel by this time tomorrow.” Now the sons of the king, seventy in all, were being brought up by the leading men of the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.5|<< 2 Kings 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.7|2 Kings 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

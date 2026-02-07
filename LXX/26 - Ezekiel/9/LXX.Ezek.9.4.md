@@ -1,10 +1,7 @@
 **LXX Ezekiel 9:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to him, Go through \[the\] midst of the city, and \[the\] midst  of Jerusalem, and put the sign upon the foreheads of the men! of the ones groaning, and of the ones being grievously afflicted over all the lawless deeds, the ones taking place in \[the\] midst of them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, Go through the midst of the city, through the midst of Jerusalem, and set a mark upon the foreheads of the men that sigh and that cry for all the abominations that be done in the midst thereof.
-<small><sub>**BSB:**</sub></small>
-“Go throughout the city of Jerusalem,” said the LORD, “and put a mark on the foreheads of the men sighing and groaning over all the abominations committed there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.3|<< Ezekiel 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.5|Ezekiel 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

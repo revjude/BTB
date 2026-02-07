@@ -1,4 +1,4 @@
-**Job 29:23** 
+**Job 29:23**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they waited for me as for the rain; and they opened their mouth wide [as] for the latter rain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They waited for me as for rain and drank in my words like spring showers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.22|<< Job 29:22]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.24|Job 29:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they waited  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3176G\|יִֽחֲל֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> yi.cha.Lu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like the rain  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H4306\|מָּטָ֣ר]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> ma.Tar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

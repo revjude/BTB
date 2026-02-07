@@ -1,4 +1,4 @@
-**Leviticus 9:5** 
+**Leviticus 9:5**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought [that] which Moses commanded before the tabernacle of the congregation: and all the congregation drew near and stood before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they took what Moses had commanded to the front of the Tent of Meeting, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.4|<< Leviticus 9:4]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.6|Leviticus 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947J\|יִּקְח֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֚ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

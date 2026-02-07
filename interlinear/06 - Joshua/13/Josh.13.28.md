@@ -1,4 +1,4 @@
-**Joshua 13:28** 
+**Joshua 13:28**<big><big>[[Josh.13.24 Gad’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the inheritance of the children of Gad after their families, the cities, and their villages.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This was the inheritance of the clans of the Gadites, including the cities and v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.27|<< Joshua 13:27]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.29|Joshua 13:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֛את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] [the] inheritance of  |**<big>&#8207;[[H5159\|נַחֲלַ֥ת]]&#8207; </big>**| na.cha.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Esther 4:7** 
 <small><sub>**LXX:**</sub></small>
  And Mordecai indicated to him the \[thing\] taking place, and the promise which Haman promised to the king, for ten thousand talents \[to be paid\] to the treasury, that he should destroy the Jews. 
-<small><sub>**KJV:**</sub></small>
-And Mordecai told him of all that had happened unto him, and of the sum of the money that Haman had promised to pay to the king’s treasuries for the Jews, to destroy them.
-<small><sub>**BSB:**</sub></small>
-and Mordecai told him all that had happened to him, including the exact amount of money that Haman had promised to pay into the royal treasury in order to destroy the Jews.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.5|<< Esther 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.8|Esther 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

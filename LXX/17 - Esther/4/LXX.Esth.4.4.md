@@ -1,10 +1,7 @@
 **LXX Esther 4:4** 
 <small><sub>**LXX:**</sub></small>
 And the handmaidens and the eunuchs of the queen entered, and they announced to her. And she was disturbed hearing the \[thing\] taking place. And she sent to robe  Mordecai, and to remove from him the sackcloth;  but he did not yield. 
-<small><sub>**KJV:**</sub></small>
-So Esther’s maids and her chamberlains came and told [it] her. Then was the queen exceedingly grieved; and she sent raiment to clothe Mordecai, and to take away his sackcloth from him: but he received [it] not.
-<small><sub>**BSB:**</sub></small>
-When Esther’s maidens and eunuchs came and told her about Mordecai, the queen was overcome with distress. She sent clothes for Mordecai to wear instead of his sackcloth, but he would not accept them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.3|<< Esther 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.5|Esther 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

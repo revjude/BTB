@@ -1,4 +1,4 @@
-**Deuteronomy 8:11** 
+**Deuteronomy 8:11**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beware that thou forget not the LORD thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be careful not to forget the LORD your God by failing to keep His commandments a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.10|<< Deuteronomy 8:10]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.12|Deuteronomy 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take heed  |**<big>&#8207;[[H8104J\|הִשָּׁ֣מֶר]]&#8207; </big>**| hi.Sha.mer<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> yourself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

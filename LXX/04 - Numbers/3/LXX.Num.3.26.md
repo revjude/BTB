@@ -1,10 +1,7 @@
 **LXX Numbers 3:26** 
 <small><sub>**LXX:**</sub></small>
 and the shrouds of the courtyard, and the veil of the gate of the courtyard, of the one being at the tent, and the remainder of all  its works. 
-<small><sub>**KJV:**</sub></small>
-And the hangings of the court, and the curtain for the door of the court, which [is] by the tabernacle, and by the altar round about, and the cords of it for all the service thereof.
-<small><sub>**BSB:**</sub></small>
-the curtains of the courtyard, the curtain for the entrance to the courtyard that surrounds the tabernacle and altar, and the cords—all the service for these items.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.25|<< Numbers 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.27|Numbers 3:27 >>]]</td></tr></table>
 
 | Translation | Greek |

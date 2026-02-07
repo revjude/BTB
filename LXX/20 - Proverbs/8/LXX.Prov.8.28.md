@@ -1,10 +1,7 @@
 **LXX Proverbs 8:28** 
 <small><sub>**LXX:**</sub></small>
 when he made the upward clouds strong; and as he made \[the\] springs under heaven safe; 
-<small><sub>**KJV:**</sub></small>
-When he established the clouds above: when he strengthened the fountains of the deep:
-<small><sub>**BSB:**</sub></small>
-when He established the clouds above, when the fountains of the deep gushed forth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.27|<< Proverbs 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.29|Proverbs 8:29 >>]]</td></tr></table>
 
 | Translation | Greek |

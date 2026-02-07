@@ -1,10 +1,7 @@
 **LXX Psalm 85:13** 
 <small><sub>**LXX:**</sub></small>
 Righteousness shall go forth before him, and he shall place his footsteps in \[the\] way. 
-<small><sub>**KJV:**</sub></small>
-Righteousness shall go before him; and shall set [us] in the way of his steps.
-<small><sub>**BSB:**</sub></small>
-Righteousness will go before Him to prepare the way for His steps.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.85.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.12|<< Psalm 85:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.1|Psalm 86:1 >>]]</td></tr></table>
 
 | Translation | Greek |

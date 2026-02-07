@@ -1,4 +1,4 @@
-**Numbers 4:9** 
+**Numbers 4:9**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are to take a blue cloth and cover the lampstand used for light, together w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.8|<< Numbers 4:8]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.10|Numbers 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקְח֣וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.ke.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a covering of  |**<big>&#8207;[[H0899B\|בֶּ֣גֶד]]&#8207; </big>**| Be.ged<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Samuel 8:10** 
+**2 Samuel 8:10**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Toi sent Joram his son unto king David, to salute him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And [Joram] brought with him vessels of silver, and vessels of gold, and vessels of brass:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he sent his son Joram to greet King David and bless him for fighting and defeati
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.9|<< 2 Samuel 8:9]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.11|2 Samuel 8:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Toi  |**<big>&#8207;[[H8583\|תֹּ֣עִי]]&#8207; </big>**| To.'i<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

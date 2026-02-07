@@ -1,10 +1,7 @@
 **LXX Numbers 31:24** 
 <small><sub>**LXX:**</sub></small>
 And you shall wash the garments on the seventh day, and you shall be clean. And after this you shall enter into the camp. 
-<small><sub>**KJV:**</sub></small>
-And ye shall wash your clothes on the seventh day, and ye shall be clean, and afterward ye shall come into the camp.
-<small><sub>**BSB:**</sub></small>
-On the seventh day you are to wash your clothes, and you will be clean. After that you may enter the camp.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.23|<< Numbers 31:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.25|Numbers 31:25 >>]]</td></tr></table>
 
 | Translation | Greek |

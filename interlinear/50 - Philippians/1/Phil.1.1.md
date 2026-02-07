@@ -1,12 +1,12 @@
-**Philippians 1:1
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:1**<big><big>[[Phil.1.1 Greetings from Paul and Timothy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 <small><sub>**BSB:**</sub></small>
 Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus at Philippi, together with the overseers and deacons:
 <small><sub>**Literal:**</sub></small>
 Paul and Timothy servants of Christ Jesus To all the saints in Christ Jesus who are being in Philippi with [the] overseers and deacons:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.24|<< Ephesians 6:24]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.2|Philippians 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

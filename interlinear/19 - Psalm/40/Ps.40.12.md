@@ -1,4 +1,4 @@
-**Psalms 40:12** (40:13)
+**Psalms 40:12**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For evils without number surround me; my sins have overtaken me, so that I canno
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have surrounded  |**<big>&#8207;[[H0661\|אָפְפ֥וּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.fe.Fu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

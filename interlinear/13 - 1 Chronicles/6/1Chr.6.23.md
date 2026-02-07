@@ -1,4 +1,4 @@
-**1 Chronicles 6:23** (6:8)
+**1 Chronicles 6:23**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Elkanah his son, and Ebiasaph his son, and Assir his son,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Elkanah his son, Ebiasaph his son, Assir his son,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.22|<< 1 Chronicles 6:22]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.24|1 Chronicles 6:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Elkanah  |**<big>&#8207;[[H0511G\|אֶלְקָנָ֥ה]]&#8207; </big>**| 'el.ka.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְנ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

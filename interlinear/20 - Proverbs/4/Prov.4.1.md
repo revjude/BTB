@@ -1,4 +1,4 @@
-**Proverbs 4:1** 
+**Proverbs 4:1**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, ye children, the instruction of a father, and attend to know understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen, my sons, to a father’s instruction; pay attention and gain understandi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.35|<< Proverbs 3:35]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.2|Proverbs 4:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen to  |**<big>&#8207;[[H8085G\|שִׁמְע֣וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O children  |**<big>&#8207;[[H1121G\|בָ֭נִים]]&#8207; </big>**| Va.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

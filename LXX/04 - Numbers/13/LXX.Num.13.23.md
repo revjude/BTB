@@ -1,10 +1,7 @@
 **LXX Numbers 13:23** 
 <small><sub>**LXX:**</sub></small>
 And they came unto \[the\] Ravine of \[the\] Cluster. And they beat from there a vine branch and one cluster of \[the\] grape from it; and they lifted it upon bearing poles, and \[some\] from the pomegranates, and  the fig-trees. 
-<small><sub>**KJV:**</sub></small>
-And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and [they brought] of the pomegranates, and of the figs.
-<small><sub>**BSB:**</sub></small>
-When they came to the Valley of Eshcol, they cut down a branch with a single cluster of grapes, which they carried on a pole between two men. They also took some pomegranates and figs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.22|<< Numbers 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.24|Numbers 13:24 >>]]</td></tr></table>
 
 | Translation | Greek |

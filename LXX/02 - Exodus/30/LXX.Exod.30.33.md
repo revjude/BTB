@@ -1,10 +1,7 @@
 **LXX Exodus 30:33** 
 <small><sub>**LXX:**</sub></small>
 Who ever should make likewise, and who ever should give of it to a foreigner, he shall be utterly destroyed from  his people. 
-<small><sub>**KJV:**</sub></small>
-Whosoever compoundeth [any] like it, or whosoever putteth [any] of it upon a stranger, shall even be cut off from his people.
-<small><sub>**BSB:**</sub></small>
-Anyone who mixes perfume like it or puts it on an outsider shall be cut off from his people.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.32|<< Exodus 30:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.34|Exodus 30:34 >>]]</td></tr></table>
 
 | Translation | Greek |

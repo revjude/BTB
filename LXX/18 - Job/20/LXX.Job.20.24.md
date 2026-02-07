@@ -1,10 +1,7 @@
 **LXX Job 20:24** 
 <small><sub>**LXX:**</sub></small>
 And in no way shall he be delivered from \[the\] hand of iron; \[the\] bow of brass pierce him; 
-<small><sub>**KJV:**</sub></small>
-He shall flee from the iron weapon, [and] the bow of steel shall strike him through.
-<small><sub>**BSB:**</sub></small>
-Though he flees from an iron weapon, a bronze-tipped arrow will pierce him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.23|<< Job 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.25|Job 20:25 >>]]</td></tr></table>
 
 | Translation | Greek |

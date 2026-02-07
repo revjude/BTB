@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:26** 
 <small><sub>**LXX:**</sub></small>
 For in trust \[of office\] are the four mighty ones of the gatekeepers -- they the Levites. And they were over the cubicles, and over the treasures of \[the\] house  of God. 
-<small><sub>**KJV:**</sub></small>
-For these Levites, the four chief porters, were in [their] set office, and were over the chambers and treasuries of the house of God.
-<small><sub>**BSB:**</sub></small>
-But the four chief gatekeepers, who were Levites, were entrusted with the rooms and the treasuries of the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.25|<< 1 Chronicles 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.27|1 Chronicles 9:27 >>]]</td></tr></table>
 
 | Translation | Greek |

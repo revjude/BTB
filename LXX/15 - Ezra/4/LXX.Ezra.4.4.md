@@ -1,10 +1,7 @@
 **LXX Ezra 4:4** 
 <small><sub>**LXX:**</sub></small>
 And the people of the land \[were\] enfeebling the hands of the people of Judah, and they impeded them  to build. 
-<small><sub>**KJV:**</sub></small>
-Then the people of the land weakened the hands of the people of Judah, and troubled them in building,
-<small><sub>**BSB:**</sub></small>
-Then the people of the land set out to discourage the people of Judah and make them afraid to build.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.3|<< Ezra 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.5|Ezra 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

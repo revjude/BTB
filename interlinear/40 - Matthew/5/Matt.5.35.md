@@ -1,5 +1,5 @@
-**Matthew 5:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:35**<big><big>[[Matt.5.33 Oaths and Vows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.
 <small><sub>**BSB:**</sub></small>
 or by the earth, for it is His footstool; or by Jerusalem, for it is the city of the great King.
@@ -11,7 +11,7 @@ nor [swear] by the earth because [the] footstool it is of the feet of Him, nor [
 > $\quad$ alluding to: [[LXX.Isa.66.1|Isa 66:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nor [swear] |**<big>[[G3383\|μήτε]]</big>**  |mēte <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | by |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

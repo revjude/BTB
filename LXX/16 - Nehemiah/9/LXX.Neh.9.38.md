@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:38** 
 <small><sub>**LXX:**</sub></small>
 And in all these \[things\] we are ordained a trust, and we write \[it\]; and our rulers put a seal upon it -- our Levites, our priests. 
-<small><sub>**KJV:**</sub></small>
-And because of all this we make a sure [covenant], and write [it]; and our princes, Levites, [and] priests, seal [unto it].
-<small><sub>**BSB:**</sub></small>
-In view of all this, we make a binding agreement, putting it in writing and sealing it with the names of our leaders, Levites, and priests.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.37|<< Nehemiah 9:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.1|Nehemiah 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

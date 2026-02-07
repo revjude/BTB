@@ -1,4 +1,4 @@
-**Leviticus 15:18** 
+**Leviticus 15:18**<big><big>[[Lev.15.13 The Cleansing of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The woman also with whom man shall lie [with] seed of copulation, they shall [both] bathe [themselves] in water, and be unclean until the even.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man lies with a woman and there is an emission of semen, both must bathe wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.17|<< Leviticus 15:17]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.19|Leviticus 15:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

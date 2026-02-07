@@ -1,10 +1,7 @@
 **LXX Zechariah 3:3** 
 <small><sub>**LXX:**</sub></small>
 And Joshua was being clothed with filthy garments, and he stood in front of the angel. 
-<small><sub>**KJV:**</sub></small>
-Now Joshua was clothed with filthy garments, and stood before the angel.
-<small><sub>**BSB:**</sub></small>
-Now Joshua was dressed in filthy garments as he stood before the angel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.2|<< Zechariah 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.4|Zechariah 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

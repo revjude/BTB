@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:19** 
 <small><sub>**LXX:**</sub></small>
 And she said \[to\] her servants, You go forth in front of me! and behold, I come after you. But to her husband Nabal she did not report. 
-<small><sub>**KJV:**</sub></small>
-And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal.
-<small><sub>**BSB:**</sub></small>
-and said to her young men, “Go ahead of me. I will be right behind you.” But she did not tell her husband Nabal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.18|<< 1 Samuel 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.20|1 Samuel 25:20 >>]]</td></tr></table>
 
 | Translation | Greek |

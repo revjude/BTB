@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:22** 
 <small><sub>**LXX:**</sub></small>
 And the rest of \[the\] words of Uzziah, the first and the last, \[are\] written by Isaiah son of Amoz the prophet. 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write.
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Uzziah, from beginning to end, they are recorded by the prophet Isaiah son of Amoz.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.21|<< 2 Chronicles 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.23|2 Chronicles 26:23 >>]]</td></tr></table>
 
 | Translation | Greek |

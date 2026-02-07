@@ -1,10 +1,7 @@
 **LXX Isaiah 30:33** 
 <small><sub>**LXX:**</sub></small>
 For you shall be exacted before \[some\] days; not also for you was it prepared to reign? a deep ravine, wood being situated near a fire, and much wood; the rage of \[the\] <span class="smallcaps">lord</span> as a ravine burning under sulphur. 
-<small><sub>**KJV:**</sub></small>
-For Tophet [is] ordained of old; yea, for the king it is prepared; he hath made [it] deep [and] large: the pile thereof [is] fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it.
-<small><sub>**BSB:**</sub></small>
-For Topheth has long been prepared; it has been made ready for the king. Its funeral pyre is deep and wide, with plenty of fire and wood. The breath of the LORD, like a torrent of burning sulfur, sets it ablaze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.32|<< Isaiah 30:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.1|Isaiah 31:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 30:33** is...

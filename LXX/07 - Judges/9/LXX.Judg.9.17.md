@@ -1,10 +1,7 @@
 **LXX Judges 9:17** 
 <small><sub>**LXX:**</sub></small>
 as my father waged war for you, and tossed his life right opposite, and rescued you from out of \[the\] hand of Midian; 
-<small><sub>**KJV:**</sub></small>
-(For my father fought for you, and adventured his life far, and delivered you out of the hand of Midian:
-<small><sub>**BSB:**</sub></small>
-for my father fought for you and risked his life to deliver you from the hand of Midian,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.16|<< Judges 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.18|Judges 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

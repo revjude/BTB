@@ -1,10 +1,7 @@
 **LXX Joshua 3:4** 
 <small><sub>**LXX:**</sub></small>
 But let there be a far \[space\] between you and that \[ark\], as much as two thousand cubits! You shall stand -- you should not draw near it, that you should know the way which you go by it. For you have not gone the way either yesterday \[or the\] third day \[before\]. 
-<small><sub>**KJV:**</sub></small>
-Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed [this] way heretofore.
-<small><sub>**BSB:**</sub></small>
-But keep a distance of about two thousand cubits between yourselves and the ark. Do not go near it, so that you can see the way to go, since you have never traveled this way before.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.3|<< Joshua 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.5|Joshua 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

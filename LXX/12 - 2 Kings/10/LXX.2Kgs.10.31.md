@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:31** 
 <small><sub>**LXX:**</sub></small>
 And Jehu did not guard to go in \[the\] law of \[the\] <span class="smallcaps">lord</span> God of Israel with his entire heart. He did not abstain from the sins of Jeroboam son of Nebat, who led Israel into sin. 
-<small><sub>**KJV:**</sub></small>
-But Jehu took no heed to walk in the law of the LORD God of Israel with all his heart: for he departed not from the sins of Jeroboam, which made Israel to sin.
-<small><sub>**BSB:**</sub></small>
-Yet Jehu was not careful to follow the instruction of the LORD, the God of Israel, with all his heart. He did not turn away from the sins that Jeroboam had caused Israel to commit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.30|<< 2 Kings 10:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.32|2 Kings 10:32 >>]]</td></tr></table>
 
 | Translation | Greek |

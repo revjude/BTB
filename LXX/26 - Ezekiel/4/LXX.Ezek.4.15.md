@@ -1,10 +1,7 @@
 **LXX Ezekiel 4:15** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, Behold, I give to you dung of oxen instead of the dung  of humans, and you shall make  bread loaves upon them. 
-<small><sub>**KJV:**</sub></small>
-Then he said unto me, Lo, I have given thee cow’s dung for man’s dung, and thou shalt prepare thy bread therewith.
-<small><sub>**BSB:**</sub></small>
-“Look,” He replied, “I will let you use cow dung instead of human excrement, and you may bake your bread over that.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.14|<< Ezekiel 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.16|Ezekiel 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

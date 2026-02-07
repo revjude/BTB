@@ -1,12 +1,12 @@
-**Revelation 11:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:16**<big><big>[[Rev.11.15 The Seventh Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,
 <small><sub>**BSB:**</sub></small>
 And the twenty-four elders who sit on their thrones before God fell on their faces and worshiped God,
 <small><sub>**Literal:**</sub></small>
 And the twenty and four elders <the> before the throne [of] <the> God who sitting on the thrones of them fell upon the faces of them and worshiped <the> God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.15|<< Revelation 11:15]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.17|Revelation 11:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

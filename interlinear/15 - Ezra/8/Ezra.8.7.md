@@ -1,4 +1,4 @@
-**Ezra 8:7** 
+**Ezra 8:7**<big><big>[[Ezra.8.1 The Exiles Who Returned with Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the sons of Elam; Jeshaiah the son of Athaliah, and with him seventy males.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from the descendants of Elam, Jeshaiah son of Athaliah, and with him 70 men;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.6|<< Ezra 8:6]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.8|Ezra 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and of [the] descendants of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elam  |**<big>&#8207;[[H5867B\|עֵילָ֔ם]]&#8207; </big>**| 'ei.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

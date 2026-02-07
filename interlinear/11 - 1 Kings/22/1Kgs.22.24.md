@@ -1,4 +1,4 @@
-**1 Kings 22:24** 
+**1 Kings 22:24**<big><big>[[1Kgs.22.13 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Zedekiah son of Chenaanah went up, struck Micaiah in the face, and demanded
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.23|<< 1 Kings 22:23]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.25|1 Kings 22:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he drew near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066G\|יִּגַּשׁ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Gash<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zedekiah  |**<big>&#8207;[[H6667G\|צִדְקִיָּ֣הוּ]]&#8207; </big>**| tzid.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

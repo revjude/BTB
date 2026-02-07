@@ -1,12 +1,12 @@
-**Acts 27:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:21**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But after long abstinence Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened unto me, and not have loosed from Crete, and to have gained this harm and loss.
 <small><sub>**BSB:**</sub></small>
 After the men had gone a long time without food, Paul stood up among them and said, “Men, you should have followed my advice not to sail from Crete. Then you would have averted this disaster and loss.
 <small><sub>**Literal:**</sub></small>
 Much also time without food there being at that time having stood up <the> Paul in midst of them he said; It was necessary [for you] indeed, O men, having been obedient to me not to have set sail from <the> Crete, to have incurred then <the> disaster this and <the> loss.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.20|<< Acts 27:20]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.22|Acts 27:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Much |**<big>[[G4183\|πολλῆς]]</big>**  |pollēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

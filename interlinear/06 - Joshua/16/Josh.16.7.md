@@ -1,4 +1,4 @@
-**Joshua 16:7** 
+**Joshua 16:7**<big><big>[[Josh.16.1 Ephraim’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Janoah it went down to Ataroth and Naarah, and then reached Jericho and cam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.6|<< Joshua 16:6]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.8|Joshua 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it goes down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָרַ֥ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Rad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Janoah  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3239B\|יָּנ֖וֹחָה]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ya.No.chah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

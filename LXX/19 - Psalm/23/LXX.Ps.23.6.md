@@ -1,10 +1,7 @@
 **LXX Psalm 23:6** 
 <small><sub>**LXX:**</sub></small>
 And  your mercy pursues me all the days  of my life; and  my dwelling \[is\] in \[the\] house of \[the\] <span class="smallcaps">lord</span> for duration of days. 
-<small><sub>**KJV:**</sub></small>
-Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.
-<small><sub>**BSB:**</sub></small>
-Surely goodness and mercy will follow me all the days of my life, and I will dwell in the house of the LORD forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.23.5|<< Psalm 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.1|Psalm 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

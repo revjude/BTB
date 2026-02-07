@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:23** 
 <small><sub>**LXX:**</sub></small>
 And I will sanctify  my great name  being profaned among the nations, which you profaned in \[the\] midst of them. And the nations shall know that I am \[the\] <span class="smallcaps">lord</span>, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>, in  my being sanctified among you before their eyes. 
-<small><sub>**KJV:**</sub></small>
-And I will sanctify my great name, which was profaned among the heathen, which ye have profaned in the midst of them; and the heathen shall know that I [am] the LORD, saith the Lord GOD, when I shall be sanctified in you before their eyes.
-<small><sub>**BSB:**</sub></small>
-I will show the holiness of My great name, which has been profaned among the nations—the name you have profaned among them. Then the nations will know that I am the LORD, declares the Lord GOD, when I show My holiness in you before their eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.22|<< Ezekiel 36:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.24|Ezekiel 36:24 >>]]</td></tr></table>
 
 | Translation | Greek |

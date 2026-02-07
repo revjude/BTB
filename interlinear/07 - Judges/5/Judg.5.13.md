@@ -1,4 +1,4 @@
-**Judges 5:13** 
+**Judges 5:13**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he made him that remaineth have dominion over the nobles among the people: the LORD made me have dominion over the mighty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the survivors came down to the nobles; the people of the LORD came down to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.12|<< Judges 5:12]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.14|Judges 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֚ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went down  |**<big>&#8207;[[H3381\|יְרַ֣ד]]&#8207; </big>**| ye.Rad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

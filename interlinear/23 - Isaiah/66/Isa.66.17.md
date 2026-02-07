@@ -1,4 +1,4 @@
-**Isaiah 66:17** 
+**Isaiah 66:17**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that sanctify themselves, and purify themselves in the gardens behind one [tree] in the midst, eating swine’s flesh, and the abomination, and the mouse, shall be consumed together, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They that sanctify themselves, and purify themselves in the gardens behind one [
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.16|<< Isaiah 66:16]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.18|Isaiah 66:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who consecrate themselves  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6942G\|מִּתְקַדְּשִׁ֨ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mit.ka.de.Shim<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and who purify themselves  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2891\|מִּֽטַּהֲרִ֜ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> mi.ta.ha.Rim<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

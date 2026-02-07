@@ -1,4 +1,4 @@
-**Exodus 23:16** 
+**Exodus 23:16**<big><big>[[Exod.23.14 The Three Feasts of Pilgrimage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the feast of harvest, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering, [which is] in the end of the year, when thou hast gathered in thy labours out of the field.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are also to keep the Feast of Harvest with the firstfruits of the produce fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.15|<< Exodus 23:15]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.17|Exodus 23:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] festival of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2282\|חַ֤ג]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Chag<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the harvest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7105A\|קָּצִיר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

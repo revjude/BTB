@@ -1,4 +1,4 @@
-**Leviticus 26:26** 
+**Leviticus 26:26**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver [you] your bread again by weight: and ye shall eat, and not be satisfied.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I cut off your supply of bread, ten women will bake your bread in a single 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.25|<< Leviticus 26:25]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.27|Leviticus 26:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when break I  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7665\|שִׁבְרִ֣]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shiv.R<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶם֮]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

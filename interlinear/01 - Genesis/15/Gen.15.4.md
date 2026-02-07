@@ -1,4 +1,4 @@
-**Genesis 15:4** 
+**Genesis 15:4**<big><big>[[Gen.15.1 God’s Covenant with Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the word of the LORD [came] unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the word of the LORD came to Abram, saying, “This one will not be your he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.3|<< Genesis 15:3]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.5|Genesis 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] word of  |**<big>&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

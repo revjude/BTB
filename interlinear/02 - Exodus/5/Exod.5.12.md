@@ -1,4 +1,4 @@
-**Exodus 5:12** 
+**Exodus 5:12**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the people scattered all over the land of Egypt to gather stubble for straw.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.11|<< Exodus 5:11]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.13|Exodus 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it scattered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6327A\|יָּ֥פֶץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.fetz<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

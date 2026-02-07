@@ -1,10 +1,7 @@
 **LXX Job 22:5** 
 <small><sub>**LXX:**</sub></small>
 Is it not \[that\] your evil is much, and your sins are innumerable? 
-<small><sub>**KJV:**</sub></small>
-[Is] not thy wickedness great? and thine iniquities infinite?
-<small><sub>**BSB:**</sub></small>
-Is not your wickedness great? Are not your iniquities endless?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.4|<< Job 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.6|Job 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

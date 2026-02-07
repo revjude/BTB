@@ -1,5 +1,5 @@
-**Revelation 18:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:7**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 How much she hath glorified herself, and lived deliciously, so much torment and sorrow give her: for she saith in her heart, I sit a queen, and am no widow, and shall see no sorrow.
 <small><sub>**BSB:**</sub></small>
 As much as she has glorified herself and lived in luxury, give her the same measure of torment and grief. In her heart she says, ‘I sit as queen; I am not a widow and will never see grief.’
@@ -10,7 +10,7 @@ So much as she has glorified herself and lived in luxury, so much do give to her
 > $\quad$ alluding to: [[LXX.Isa.47.7|Isa 47:7]] ☩ [[LXX.Jer.50.31|Jer 50:31]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So much as |**<big>[[G3745\|ὅσα]]</big>**  |hosa <small><sup>[[K-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | she has glorified |**<big>[[G1392\|ἐδόξασεν]]</big>**  |edoxasen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

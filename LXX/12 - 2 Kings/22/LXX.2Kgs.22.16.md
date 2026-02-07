@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:16** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Behold, I bring bad \[things\] against  this place, and against the ones dwelling in it -- all the words of the scroll of which \[the\] king of Judah read, 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, [even] all the words of the book which the king of Judah hath read:
-<small><sub>**BSB:**</sub></small>
-that this is what the LORD says: I am about to bring calamity on this place and on its people, according to all the words of the book that the king of Judah has read,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.15|<< 2 Kings 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.17|2 Kings 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

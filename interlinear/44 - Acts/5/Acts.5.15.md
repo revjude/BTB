@@ -1,12 +1,12 @@
-**Acts 5:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:15**<big><big>[[Acts.5.12 The Apostles Heal Many|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Insomuch that they brought forth the sick into the streets, and laid [them] on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them.
 <small><sub>**BSB:**</sub></small>
 As a result, people brought the sick into the streets and laid them on cots and mats, so that at least Peter’s shadow might fall on some of them as he passed by.
 <small><sub>**Literal:**</sub></small>
 so as even into the streets to bring out the sick and to put [them] on cots and mats, that when is coming Peter at least the shadow shall envelop some of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.14|<< Acts 5:14]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.16|Acts 5:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

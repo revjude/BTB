@@ -1,5 +1,5 @@
-**Luke 21:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:26**<big><big>[[Luke.21.25 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.
 <small><sub>**BSB:**</sub></small>
 Men will faint from fear and anxiety over what is coming upon the earth, for the powers of the heavens will be shaken.
@@ -10,7 +10,7 @@ when are fainting men from fear and expectation of that which is coming on the e
 > $\quad$ referencing: [[LXX.Isa.34.4|Isa 34:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when are fainting |**<big>[[G0674\|ἀποψυχόντων]]</big>**  |apopsuchontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | men |**<big>[[G0444\|ἀνθρώπων]]</big>**  |anthrōpōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

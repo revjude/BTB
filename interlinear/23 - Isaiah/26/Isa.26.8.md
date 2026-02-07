@@ -1,4 +1,4 @@
-**Isaiah 26:8** 
+**Isaiah 26:8**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, in the way of thy judgments, O LORD, have we waited for thee; the desire of [our] soul [is] to thy name, and to the remembrance of thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yes, we wait for You, O LORD; we walk in the path of Your judgments. Your name a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.7|<< Isaiah 26:7]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.9|Isaiah 26:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H0637\|אַ֣ף]]&#8207; </big>**| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] way of  |**<big>&#8207;[[H0734\|אֹ֧רַח]]&#8207; </big>**| 'O.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 144:12** 
+**Psalms 144:12**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That our sons [may be] as plants grown up in their youth; [that] our daughters [may be] as corner stones, polished [after] the similitude of a palace:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then our sons will be like plants nurtured in their youth, our daughters like co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.11|<< Psalms 144:11]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.13|Psalms 144:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sons our  |**<big>&#8207;[[H1121G\|בָּנֵ֨י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

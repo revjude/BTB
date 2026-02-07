@@ -1,4 +1,4 @@
-**2 Chronicles 9:16** 
+**2 Chronicles 9:16**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And three hundred shields [made he of] beaten gold: three hundred [shekels] of gold went to one shield. And the king put them in the house of the forest of Lebanon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also made three hundred small shields of hammered gold; three hundred shekels
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.15|<< 2 Chronicles 9:15]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.17|2 Chronicles 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and three  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7969\|שְׁלֹשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.losh-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֤וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

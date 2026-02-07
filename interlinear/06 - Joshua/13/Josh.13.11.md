@@ -1,4 +1,4 @@
-**Joshua 13:11** 
+**Joshua 13:11**<big><big>[[Josh.13.8 The Inheritance East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gilead, and the border of the Geshurites and Maachathites, and all mount Hermon, and all Bashan unto Salcah;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ also Gilead and the territory of the Geshurites and Maacathites, all of Mount He
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.10|<< Joshua 13:10]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.12|Joshua 13:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<the> Gilead  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1568G\|גִּלְעָ֞ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] territory of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1366H\|גְב֧וּל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

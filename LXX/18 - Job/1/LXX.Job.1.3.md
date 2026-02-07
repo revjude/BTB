@@ -1,10 +1,7 @@
 **LXX Job 1:3** 
 <small><sub>**LXX:**</sub></small>
 And his animals \[were\] -- seven thousand sheep, three thousand camels, five hundred teams of oxen, and five hundred grazing female donkeys, and for service exceedingly many, and there \[were\] great works of his upon the land. And that man was great of the ones from \[the\] east sun. 
-<small><sub>**KJV:**</sub></small>
-His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east.
-<small><sub>**BSB:**</sub></small>
-and he owned 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys, and a very large number of servants. Job was the greatest man of all the people of the East.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.2|<< Job 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.4|Job 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

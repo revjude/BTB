@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:10** 
 <small><sub>**LXX:**</sub></small>
 If you should hearken to the voice of \[the\] <span class="smallcaps">lord</span>  your God, to guard  his commandments, and  his ordinances -- the ones written in the scroll  of this law, if you turn to \[the\] <span class="smallcaps">lord</span>  your God with your entire heart, and with your entire soul. 
-<small><sub>**KJV:**</sub></small>
-If thou shalt hearken unto the voice of the LORD thy God, to keep his commandments and his statutes which are written in this book of the law, [and] if thou turn unto the LORD thy God with all thine heart, and with all thy soul.
-<small><sub>**BSB:**</sub></small>
-if you obey the LORD your God by keeping His commandments and statutes that are written in this Book of the Law, and if you turn to Him with all your heart and with all your soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.9|<< Deuteronomy 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.11|Deuteronomy 30:11 >>]]</td></tr></table>
 
 | Translation | Greek |

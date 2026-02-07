@@ -1,4 +1,4 @@
-**Job 36:30** 
+**Job 36:30**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he spreadeth his light upon it, and covereth the bottom of the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See how He scatters His lightning around Him and covers the depths of the sea.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.29|<< Job 36:29]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.31|Job 36:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hen-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he spreads out  |**<big>&#8207;[[H6566\|פָּרַ֣שׂ]]&#8207; </big>**| pa.Ras<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

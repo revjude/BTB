@@ -1,4 +1,4 @@
-**Psalms 22:5** (22:6)
+**Psalms 22:5**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They cried unto thee, and were delivered: they trusted in thee, and were not confounded.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They cried out to You and were set free; they trusted in You and were not disapp
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to you  |**<big>&#8207;[[H0413\|אֵלֶ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they cried out  |**<big>&#8207;[[H2199\|זָעֲק֣וּ]]&#8207; </big>**| za.'a.Ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

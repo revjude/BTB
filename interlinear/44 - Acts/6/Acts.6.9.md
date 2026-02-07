@@ -1,12 +1,12 @@
-**Acts 6:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:9**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then there arose certain of the synagogue, which is called [the synagogue] of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen.
 <small><sub>**BSB:**</sub></small>
 But resistance arose from what was called the Synagogue of the Freedmen, including Cyrenians, Alexandrians, and men from the provinces of Cilicia and Asia. They disputed with Stephen,
 <small><sub>**Literal:**</sub></small>
 Arose however certain of those from the synagogue which is being named Freedmen including Cyrenians and Alexandrians and of those from Cilicia and Asia, disputing <the> with Stephen;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.8|<< Acts 6:8]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.10|Acts 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Arose |**<big>[[G0450\|ἀνέστησαν]]</big>**  |anestēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

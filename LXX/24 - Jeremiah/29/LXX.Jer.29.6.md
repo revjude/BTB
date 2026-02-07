@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:6** 
 <small><sub>**LXX:**</sub></small>
 And take wives, and produce children, sons and daughters! And take \[for\] your sons wives, and \[for\] your daughters give husbands! and they shall bear sons and daughters, and they shall be multiplied, and shall not be diminished. 
-<small><sub>**KJV:**</sub></small>
-Take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished.
-<small><sub>**BSB:**</sub></small>
-Take wives and have sons and daughters. Take wives for your sons and give your daughters in marriage, so that they too may have sons and daughters. Multiply there; do not decrease.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.5|<< Jeremiah 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.7|Jeremiah 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

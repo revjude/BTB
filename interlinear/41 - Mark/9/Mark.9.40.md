@@ -1,12 +1,12 @@
-**Mark 9:40
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:40**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he that is not against us is on our part.
 <small><sub>**BSB:**</sub></small>
 For whoever is not against us is for us.
 <small><sub>**Literal:**</sub></small>
 Who[ever] for not is against us for us is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.39|<< Mark 9:39]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.41|Mark 9:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

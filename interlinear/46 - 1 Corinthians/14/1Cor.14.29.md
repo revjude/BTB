@@ -1,12 +1,12 @@
-**1 Corinthians 14:29
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:29**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let the prophets speak two or three, and let the other judge.
 <small><sub>**BSB:**</sub></small>
 Two or three prophets should speak, and the others should weigh carefully what is said.
 <small><sub>**Literal:**</sub></small>
 Prophets then two or three should speak, and the others should discern;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.28|<< 1 Corinthians 14:28]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.30|1 Corinthians 14:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Prophets |**<big>[[G4396\|προφῆται]]</big>**  |prophētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

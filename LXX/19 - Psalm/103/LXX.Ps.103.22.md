@@ -1,10 +1,7 @@
 **LXX Psalm 103:22** 
 <small><sub>**LXX:**</sub></small>
 Bless the <span class="smallcaps">lord</span>, all \[you\] his works, in every place  of his dominion! Bless  the <span class="smallcaps">lord</span> O my soul! 
-<small><sub>**KJV:**</sub></small>
-Bless the LORD, all his works in all places of his dominion: bless the LORD, O my soul.
-<small><sub>**BSB:**</sub></small>
-Bless the LORD, all His works in all places of His dominion. Bless the LORD, O my soul!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.103.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.21|<< Psalm 103:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.1|Psalm 104:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 7:25
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:25**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now concerning virgins I have no commandment of the Lord: yet I give my judgment, as one that hath obtained mercy of the Lord to be faithful.
 <small><sub>**BSB:**</sub></small>
 Now about virgins, I have no command from the Lord, but I give a judgment as one who by the Lord’s mercy is trustworthy.
 <small><sub>**Literal:**</sub></small>
 Concerning now the virgins a commandment of [the] Lord not I have, judgment however I give as received mercy from [the] Lord trustworthy to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.24|<< 1 Corinthians 7:24]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.26|1 Corinthians 7:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

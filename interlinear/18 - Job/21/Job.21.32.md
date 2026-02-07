@@ -1,4 +1,4 @@
-**Job 21:32** 
+**Job 21:32**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet shall he be brought to the grave, and shall remain in the tomb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is carried to the grave, and watch is kept over his tomb.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.31|<< Job 21:31]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.33|Job 21:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H1931\|הוּא]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] grave\<s>  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6913\|קְבָר֣וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.va.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

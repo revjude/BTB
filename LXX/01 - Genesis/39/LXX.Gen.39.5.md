@@ -1,10 +1,7 @@
 **LXX Genesis 39:5** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after  placing him over  his house, and over all as much as was his, that \[the\] <span class="smallcaps">lord</span> blessed the house of the Egyptian on account of Joseph; and he became a blessing for his master in all  his possessions in the house, and in  his fields. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass from the time [that] he had made him overseer in his house, and over all that he had, that the LORD blessed the Egyptian’s house for Joseph’s sake; and the blessing of the LORD was upon all that he had in the house, and in the field.
-<small><sub>**BSB:**</sub></small>
-From the time that he put Joseph in charge of his household and all he owned, the LORD blessed the Egyptian’s household on account of him. The LORD’s blessing was on everything he owned, both in his house and in his field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.4|<< Genesis 39:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.6|Genesis 39:6 >>]]</td></tr></table>
 
 | Translation | Greek |

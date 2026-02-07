@@ -1,10 +1,7 @@
 **LXX Psalm 128:2** 
 <small><sub>**LXX:**</sub></small>
 The toils  of your wrist you shall eat; blessed are you, and well it will be to you. 
-<small><sub>**KJV:**</sub></small>
-For thou shalt eat the labour of thine hands: happy [shalt] thou [be], and [it shall be] well with thee.
-<small><sub>**BSB:**</sub></small>
-For when you eat the fruit of your labor, blessings and prosperity will be yours.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.128.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.128.1|<< Psalm 128:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.128.3|Psalm 128:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Lamentations 5:9** 
 <small><sub>**LXX:**</sub></small>
 With  our lives we will carry in our bread from in front \[of the\] broadsword of the wilderness. 
-<small><sub>**KJV:**</sub></small>
-We gat our bread with [the peril of] our lives because of the sword of the wilderness.
-<small><sub>**BSB:**</sub></small>
-We get our bread at the risk of our lives because of the sword in the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.8|<< Lamentations 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.10|Lamentations 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

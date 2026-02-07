@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:20** 
 <small><sub>**LXX:**</sub></small>
 All \[things\] go to one place; all \[things\] came from the dust, and all \[things\] return to the dust. 
-<small><sub>**KJV:**</sub></small>
-All go unto one place; all are of the dust, and all turn to dust again.
-<small><sub>**BSB:**</sub></small>
-All go to one place; all come from dust, and all return to dust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.19|<< Ecclesiastes 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.21|Ecclesiastes 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

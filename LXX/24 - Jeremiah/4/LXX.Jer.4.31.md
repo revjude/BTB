@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:31** 
 <small><sub>**LXX:**</sub></small>
 For I heard a sound as women travailing;  your moaning as one giving birth for the first time. \[The\] voice of \[the\] daughter of Zion shall faint, and her hands shall weaken; \[saying\], Woe \[am\] I, for my soul fails over the ones being done away with. 
-<small><sub>**KJV:**</sub></small>
-For I have heard a voice as of a woman in travail, [and] the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, [that] bewaileth herself, [that] spreadeth her hands, [saying], Woe [is] me now! for my soul is wearied because of murderers.
-<small><sub>**BSB:**</sub></small>
-For I hear a cry like a woman in labor, a cry of anguish like one bearing her first child—the cry of the Daughter of Zion gasping for breath, stretching out her hands to say, “Woe is me, for my soul faints before the murderers!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.30|<< Jeremiah 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.1|Jeremiah 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 18:2** 
 <small><sub>**LXX:**</sub></small>
 And Jethro the father-in-law of Moses took Zipporah the wife of Moses after  her release, 
-<small><sub>**KJV:**</sub></small>
-Then Jethro, Moses’ father in law, took Zipporah, Moses’ wife, after he had sent her back,
-<small><sub>**BSB:**</sub></small>
-After Moses had sent back his wife Zipporah, his father-in-law Jethro had received her,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.1|<< Exodus 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.3|Exodus 18:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 51:18** 
 <small><sub>**LXX:**</sub></small>
 And there was no \[one\]  comforting you from all  your children whom you gave birth. And there was none  taking hold of  your hand, nor of all  your sons whom you raised. 
-<small><sub>**KJV:**</sub></small>
-[There is] none to guide her among all the sons [whom] she hath brought forth; neither [is there any] that taketh her by the hand of all the sons [that] she hath brought up.
-<small><sub>**BSB:**</sub></small>
-Among all the sons she bore, there is no one to guide her; among all the sons she brought up, there is no one to take her hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.17|<< Isaiah 51:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.19|Isaiah 51:19 >>]]</td></tr></table>
 
 | Translation | Greek |

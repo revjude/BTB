@@ -1,10 +1,7 @@
 **LXX Proverbs 22:21** 
 <small><sub>**LXX:**</sub></small>
 I teach you then a true word, and knowledge good to hearken to;  for you to answer words of truth to the ones propounding \[things\] to you. 
-<small><sub>**KJV:**</sub></small>
-That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?
-<small><sub>**BSB:**</sub></small>
-to show you true and reliable words, that you may soundly answer those who sent you?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.20|<< Proverbs 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.22|Proverbs 22:22 >>]]</td></tr></table>
 
 | Translation | Greek |

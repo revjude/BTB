@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Jeremiah, after the king incinerating the papyrus paper \[with\] all the words which Baruch wrote from \[the\] mouth of Jeremiah, saying, 
-<small><sub>**KJV:**</sub></small>
-Then the word of the LORD came to Jeremiah, after that the king had burned the roll, and the words which Baruch wrote at the mouth of Jeremiah, saying,
-<small><sub>**BSB:**</sub></small>
-After the king had burned the scroll containing the words that Baruch had written at Jeremiah’s dictation, the word of the LORD came to Jeremiah:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.26|<< Jeremiah 36:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.28|Jeremiah 36:28 >>]]</td></tr></table>
 
 | Translation | Greek |

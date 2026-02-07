@@ -1,4 +1,4 @@
-**Joshua 10:40** 
+**Joshua 10:40**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joshua smote all the country of the hills, and of the south, and of the vale, and of the springs, and all their kings: he left none remaining, but utterly destroyed all that breathed, as the LORD God of Israel commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Joshua conquered the whole region—the hill country, the Negev, the foothill
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.39|<< Joshua 10:39]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.41|Joshua 10:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he defeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּכֶּ֣ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Keh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֣עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

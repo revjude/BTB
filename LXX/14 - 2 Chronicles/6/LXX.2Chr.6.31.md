@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:31** 
 <small><sub>**LXX:**</sub></small>
 So that they should fear you,  to go in all  your ways, all the days which they should live upon \[the\] face of the land, of which you gave to our fathers. 
-<small><sub>**KJV:**</sub></small>
-That they may fear thee, to walk in thy ways, so long as they live in the land which thou gavest unto our fathers.
-<small><sub>**BSB:**</sub></small>
-so that they may fear You and walk in Your ways all the days they live in the land that You gave to our fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.30|<< 2 Chronicles 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.32|2 Chronicles 6:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 83:11** 
 <small><sub>**LXX:**</sub></small>
 Make  their rulers as  Oreb and Zeeb, and Zebah and Zalmunna -- all  their rulers! 
-<small><sub>**KJV:**</sub></small>
-Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:
-<small><sub>**BSB:**</sub></small>
-Make their nobles like Oreb and Zeeb, and all their princes like Zebah and Zalmunna,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.83.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.10|<< Psalm 83:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.12|Psalm 83:12 >>]]</td></tr></table>
 
 | Translation | Greek |

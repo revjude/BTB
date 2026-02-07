@@ -1,12 +1,12 @@
-**1 Peter 2:13
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:13**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Submit yourselves to every ordinance of man for the Lord’s sake: whether it be to the king, as supreme;
 <small><sub>**BSB:**</sub></small>
 Submit yourselves for the Lord’s sake to every human institution, whether to the king as the supreme authority,
 <small><sub>**Literal:**</sub></small>
 do be subjected therefore to every human institution for the sake of the Lord; whether to [the] king as being supreme;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.12|<< 1 Peter 2:12]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.14|1 Peter 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be subjected |**<big>[[G5293\|Ὑποτάγητε]]</big>**  |Hupotagēte <small><sup>[[V-2APM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

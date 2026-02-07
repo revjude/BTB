@@ -1,4 +1,4 @@
-**Joshua 7:21** 
+**Joshua 7:21**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they [are] hid in the earth in the midst of my tent, and the silver under it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I saw among the spoils a beautiful cloak from Shinar, two hundred shekels o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.20|<< Joshua 7:20]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.22|Joshua 7:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֵ֣רֶא]]&#8207; </big>**[^1] [^2] | va.<small><sup>[[Hc]]</sup></small> 'er.'eh'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | among the booty  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H7998\|שָּׁלָ֡ל]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> sha.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

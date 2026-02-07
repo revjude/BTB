@@ -1,10 +1,7 @@
 **LXX Leviticus 27:21** 
 <small><sub>**LXX:**</sub></small>
 But the field coming forth from the release will be holy to the <span class="smallcaps">lord</span>, as the land  being separated; to the priest it will be his possession. 
-<small><sub>**KJV:**</sub></small>
-But the field, when it goeth out in the jubile, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest’s.
-<small><sub>**BSB:**</sub></small>
-When the field is released in the Jubilee, it will become holy, like a field devoted to the LORD; it becomes the property of the priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.20|<< Leviticus 27:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.22|Leviticus 27:22 >>]]</td></tr></table>
 
 | Translation | Greek |

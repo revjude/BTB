@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:18** 
 <small><sub>**LXX:**</sub></small>
 And the three tore up the camp of the Philistines, and they drew water from the well \[of\] Beth-lehem, which was at the gate, and they took it, and came to David. And David did not want  to drink it. And he gave it as a libation to the <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-And the three brake through the host of the Philistines, and drew water out of the well of Bethlehem, that [was] by the gate, and took [it], and brought [it] to David: but David would not drink [of] it, but poured it out to the LORD,
-<small><sub>**BSB:**</sub></small>
-So the Three broke through the Philistine camp, drew water from the well at the gate of Bethlehem, and brought it back to David. But he refused to drink it; instead, he poured it out to the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.17|<< 1 Chronicles 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.19|1 Chronicles 11:19 >>]]</td></tr></table>
 
 | Translation | Greek |

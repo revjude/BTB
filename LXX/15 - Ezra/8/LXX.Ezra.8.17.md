@@ -1,10 +1,7 @@
 **LXX Ezra 8:17** 
 <small><sub>**LXX:**</sub></small>
 And I gave charge to them to Iddo the ruler of Casiphia of the place. And I put in their mouths words to speak to Iddo, and to  their brethren of the Nethinim, of the ones with \[the\] money of the place Casiphia,  to bring to us ministers and singers into \[the\] house of our God. 
-<small><sub>**KJV:**</sub></small>
-And I sent them with commandment unto Iddo the chief at the place Casiphia, and I told them what they should say unto Iddo, [and] to his brethren the Nethinims, at the place Casiphia, that they should bring unto us ministers for the house of our God.
-<small><sub>**BSB:**</sub></small>
-And I sent them to Iddo, the leader at Casiphia, with a message for him and his kinsmen, the temple servants at Casiphia, that they should bring to us ministers for the house of our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.16|<< Ezra 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.18|Ezra 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:12** 
 <small><sub>**LXX:**</sub></small>
 Sleep \[is\] sweet for the servant, if he shall eat little or if much. And to the one being filled  to be rich there is none allowing him  to sleep. 
-<small><sub>**KJV:**</sub></small>
-The sleep of a labouring man [is] sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.
-<small><sub>**BSB:**</sub></small>
-The sleep of the worker is sweet, whether he eats little or much, but the abundance of the rich man permits him no sleep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.11|<< Ecclesiastes 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.13|Ecclesiastes 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

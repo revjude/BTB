@@ -1,4 +1,4 @@
-**1 Samuel 26:19** 
+**1 Samuel 26:19**<big><big>[[1Sam.26.13 David Reproves Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, I pray thee, let my lord the king hear the words of his servant. If the LORD have stirred thee up against me, let him accept an offering: but if [they be] the children of men, cursed [be] they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now please, may my lord the king hear the words of his servant: If the LORD has 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.18|<< 1 Samuel 26:18]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.20|1 Samuel 26:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let him hear  |**<big>&#8207;[[H8085G\|יִֽשְׁמַֽע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yish.ma'-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

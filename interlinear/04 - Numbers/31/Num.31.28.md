@@ -1,4 +1,4 @@
-**Numbers 31:28** 
+**Numbers 31:28**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And levy a tribute unto the LORD of the men of war which went out to battle: one soul of five hundred, [both] of the persons, and of the beeves, and of the asses, and of the sheep:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Set aside a tribute for the LORD from what belongs to the soldiers who went into
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.27|<< Numbers 31:27]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.29|Numbers 31:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will raise  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7311A\|הֲרֵמֹתָ֨]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.re.mo.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a tax  |**<big>&#8207;[[H4371\|מֶ֜כֶס]]&#8207; </big>**| Me.khes<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

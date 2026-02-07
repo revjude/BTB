@@ -1,4 +1,4 @@
-**2 Samuel 17:29** 
+**2 Samuel 17:29**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And honey, and butter, and sheep, and cheese of kine, for David, and for the people that [were] with him, to eat: for they said, The people [is] hungry, and weary, and thirsty, in the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ honey, curds, sheep, and cheese from the herd for David and his people to eat. F
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.28|<< 2 Samuel 17:28]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.1|2 Samuel 18:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and honey  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1706\|דְבַ֣שׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and curd\<s>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2529A\|חֶמְאָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chem.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 12:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:10**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him.
 <small><sub>**BSB:**</sub></small>
 They passed the first and second guards and came to the iron gate leading to the city, which opened for them by itself. When they had gone outside and walked the length of one block, the angel suddenly left him.
 <small><sub>**Literal:**</sub></small>
 Having passed through then a first guard and a second they came to the gate <the> iron which is leading into the city, which by itself opened to them, And having gone out they went on through street one and immediately departed the angel from him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.9|<< Acts 12:9]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.11|Acts 12:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having passed through |**<big>[[G1330\|διελθόντες]]</big>**  |dielthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

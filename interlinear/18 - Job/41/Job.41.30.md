@@ -1,4 +1,4 @@
-**Job 41:30** (41:22)
+**Job 41:30**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sharp stones [are] under him: he spreadeth sharp pointed things upon the mire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His undersides are jagged potsherds, spreading out the mud like a threshing sled
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.29|<< Job 41:29]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.31|Job 41:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | under it  |**<big>&#8207;[[H8478G\|תַּ֭חְתָּי]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| Tach.ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] sharp points of  |**<big>&#8207;[[H2303\|חַדּ֣וּדֵי]]&#8207; </big>**| cha.Du.dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

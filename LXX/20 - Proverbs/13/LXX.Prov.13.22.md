@@ -1,10 +1,7 @@
 **LXX Proverbs 13:22** 
 <small><sub>**LXX:**</sub></small>
 A good man shall inherit sons of sons; and \[the\] riches of \[the\] impious \[are\] treasured up \[for the\] just. 
-<small><sub>**KJV:**</sub></small>
-A good [man] leaveth an inheritance to his children’s children: and the wealth of the sinner [is] laid up for the just.
-<small><sub>**BSB:**</sub></small>
-A good man leaves an inheritance to his children’s children, but the sinner’s wealth is passed to the righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.21|<< Proverbs 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.23|Proverbs 13:23 >>]]</td></tr></table>
 
 | Translation | Greek |

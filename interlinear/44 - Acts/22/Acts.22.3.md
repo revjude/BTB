@@ -1,12 +1,12 @@
-**Acts 22:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:3**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am verily a man [which am] a Jew, born in Tarsus, [a city] in Cilicia, yet brought up in this city at the feet of Gamaliel, [and] taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.
 <small><sub>**BSB:**</sub></small>
 “I am a Jew, born in Tarsus of Cilicia, but raised in this city. I was educated at the feet of Gamaliel in strict conformity to the law of our fathers. I was just as zealous for God as any of you are today.
 <small><sub>**Literal:**</sub></small>
 I myself indeed am a man Jewish born in Tarsus <the> of Cilicia, brought up however in <the> city this at the feet of Gamaliel instructed according to [the] exactness of the of our Fathers law, a zealous one being <the> for God even as all you yourselves are this day,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.2|<< Acts 22:2]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.4|Acts 22:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγώ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μέν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

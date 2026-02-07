@@ -1,10 +1,7 @@
 **LXX Exodus 14:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Why do you yell to me? Speak to the sons of Israel, and break camp! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Wherefore criest thou unto me? speak unto the children of Israel, that they go forward:
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Why are you crying out to Me? Tell the Israelites to go forward.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.14|<< Exodus 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.16|Exodus 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

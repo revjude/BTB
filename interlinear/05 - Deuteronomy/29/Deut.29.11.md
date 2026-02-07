@@ -1,4 +1,4 @@
-**Deuteronomy 29:11** (29:10)
+**Deuteronomy 29:11**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your little ones, your wives, and thy stranger that [is] in thy camp, from the hewer of thy wood unto the drawer of thy water:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ your children and wives, and the foreigners in your camps who cut your wood and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.10|<< Deuteronomy 29:10]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.12|Deuteronomy 29:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | little one[s] your  |**<big>&#8207;[[H2945\|טַפְּ]]&#8207;&#8207;[[H9026\|כֶ֣ם]]&#8207; </big>**| ta.pe.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wives your  |**<big>&#8207;[[H0802H\|נְשֵׁי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| ne.shei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

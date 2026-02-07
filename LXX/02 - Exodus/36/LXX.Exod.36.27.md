@@ -1,10 +1,7 @@
 **LXX Exodus 36:27** 
 <small><sub>**LXX:**</sub></small>
 And by the rear of the tent by the part  towards \[the\] west, he made six posts. 
-<small><sub>**KJV:**</sub></small>
-And for the sides of the tabernacle westward he made six boards.
-<small><sub>**BSB:**</sub></small>
-He made six frames for the rear of the tabernacle, the west side,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.26|<< Exodus 36:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.28|Exodus 36:28 >>]]</td></tr></table>
 
 | Translation | Greek |

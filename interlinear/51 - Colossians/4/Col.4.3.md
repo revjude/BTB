@@ -1,12 +1,12 @@
-**Colossians 4:3
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:3**<big><big>[[Col.4.1 Prayerful Speech and Actions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
 <small><sub>**BSB:**</sub></small>
 as you pray also for us, that God may open to us a door for the word, so that we may proclaim the mystery of Christ, for which I am in chains.
 <small><sub>**Literal:**</sub></small>
 praying at the same time also for us that <the> God may open to us a door for the word to declare the mystery <the> of Christ, on account of which also I have been bound,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.2|<< Colossians 4:2]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.4|Colossians 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | praying |**<big>[[G4336\|προσευχόμενοι]]</big>**  |proseuchomenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | at the same time |**<big>[[G0260\|ἅμα]]</big>**  |hama <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Zechariah 4:7** 
+**Zechariah 4:7**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [art] thou, O great mountain? before Zerubbabel [thou shalt become] a plain: and he shall bring forth the headstone [thereof with] shoutings, [crying], Grace, grace unto it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What are you, O great mountain? Before Zerubbabel you will become a plain. Then 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.6|<< Zechariah 4:6]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.8|Zechariah 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] you  |**<big>&#8207;[[H0859A\|אַתָּ֧ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

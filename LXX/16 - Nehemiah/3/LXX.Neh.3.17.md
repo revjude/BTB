@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:17** 
 <small><sub>**LXX:**</sub></small>
 After him the repaired -- Rehum son of Bani; near his hand Hashabiah repaired, ruler of half \[the\] place round about Keilah, to the place round about him. 
-<small><sub>**KJV:**</sub></small>
-After him repaired the Levites, Rehum the son of Bani. Next unto him repaired Hashabiah, the ruler of the half part of Keilah, in his part.
-<small><sub>**BSB:**</sub></small>
-Next to him, the Levites made repairs under Rehum son of Bani, and next to him, Hashabiah, ruler of a half-district of Keilah, made repairs for his district.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.16|<< Nehemiah 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.18|Nehemiah 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

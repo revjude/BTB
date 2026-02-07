@@ -1,10 +1,7 @@
 **LXX Exodus 39:5** 
 <small><sub>**LXX:**</sub></small>
 From it they made according to the same making, of gold, and blue, and purple, and scarlet being spun, and linen being twined, as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And the curious girdle of his ephod, that [was] upon it, [was] of the same, according to the work thereof; [of] gold, blue, and purple, and scarlet, and fine twined linen; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-And the skillfully woven waistband of the ephod was of one piece with the ephod, of the same workmanship—with gold, with blue, purple, and scarlet yarn, and with finely spun linen, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.4|<< Exodus 39:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.6|Exodus 39:6 >>]]</td></tr></table>
 
 | Translation | Greek |

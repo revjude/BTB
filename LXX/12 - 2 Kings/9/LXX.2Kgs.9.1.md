@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Elisha the prophet called one of the sons of the prophets, and he said to him, Tie up  your loin, and take the flask  of this oil in  your hand, and be gone unto Ramoth Gilead! 
-<small><sub>**KJV:**</sub></small>
-And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up thy loins, and take this box of oil in thine hand, and go to Ramothgilead:
-<small><sub>**BSB:**</sub></small>
-Now Elisha the prophet summoned one of the sons of the prophets and said to him, “Tuck your cloak under your belt, take this flask of oil, and go to Ramoth-gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.29|<< 2 Kings 8:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.2|2 Kings 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

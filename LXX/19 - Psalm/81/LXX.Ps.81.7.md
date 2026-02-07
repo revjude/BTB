@@ -1,10 +1,7 @@
 **LXX Psalm 81:7** 
 <small><sub>**LXX:**</sub></small>
 In affliction you called upon me, and I rescued you. I heeded you in \[the\] concealed \[place\] of \[the\] gale; PAUSE. I tried you at Water of Dispute. 
-<small><sub>**KJV:**</sub></small>
-Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.
-<small><sub>**BSB:**</sub></small>
-You called out in distress, and I rescued you; I answered you from the cloud of thunder; I tested you at the waters of Meribah. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.81.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.6|<< Psalm 81:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.8|Psalm 81:8 >>]]</td></tr></table>
 
 | Translation | Greek |

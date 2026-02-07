@@ -1,4 +1,4 @@
-**Nahum 3:8** 
+**Nahum 3:8**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Art thou better than populous No, that was situate among the rivers, [that had] the waters round about it, whose rampart [was] the sea, [and] her wall [was] from the sea?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Are you better than Thebes, stationed by the Nile with water around her, whose r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.7|<< Nahum 3:7]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.9|Nahum 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ have you been made good  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3190\|תֵֽיטְבִי֙]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> tei.te.Vi<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than No  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4996\|נֹּ֣א]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> No'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Song of Solomon 4:9** 
 <small><sub>**LXX:**</sub></small>
 You took my heart, my sister, O bride; you took my heart with one of your eyes, with one garland of your neck. 
-<small><sub>**KJV:**</sub></small>
-Thou hast ravished my heart, my sister, [my] spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.
-<small><sub>**BSB:**</sub></small>
-You have captured my heart, my sister, my bride; you have stolen my heart with one glance of your eyes, with one jewel of your neck.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.8|<< Song of Solomon 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.10|Song of Solomon 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

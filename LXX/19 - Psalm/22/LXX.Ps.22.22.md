@@ -1,10 +1,7 @@
 **LXX Psalm 22:22** 
 <small><sub>**LXX:**</sub></small>
 I shall describe  your name \[to\] my brethren; in \[the\] midst of \[the\] assembly I will praise you. 
-<small><sub>**KJV:**</sub></small>
-I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.
-<small><sub>**BSB:**</sub></small>
-I will proclaim Your name to my brothers; I will praise You in the assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.21|<< Psalm 22:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.23|Psalm 22:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:22** is...

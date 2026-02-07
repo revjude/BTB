@@ -1,4 +1,4 @@
-**Joshua 4:18** 
+**Joshua 4:18**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the priests that bare the ark of the covenant of the LORD were come up out of the midst of Jordan, [and] the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as [they did] before.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the priests carrying the ark of the covenant of the LORD came up out of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.17|<< Joshua 4:17]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.19|Joshua 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> y.hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as came up  [^2]|**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H5927G\|עֲל֨וֹת]]&#8207; </big>**[^3] | ka.<small><sup>[[HR]]</sup></small> 'a.lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

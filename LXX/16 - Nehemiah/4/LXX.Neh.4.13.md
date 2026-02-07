@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:13** 
 <small><sub>**LXX:**</sub></small>
 And I stood \[men\] in the lowermost  place from behind the wall, in the protected \[places\]. And I stood the people according to peoples, with their broadswords, and  their wooden spears, and their bows. 
-<small><sub>**KJV:**</sub></small>
-Therefore set I in the lower places behind the wall, [and] on the higher places, I even set the people after their families with their swords, their spears, and their bows.
-<small><sub>**BSB:**</sub></small>
-So I stationed men behind the lowest sections of the wall, at the vulnerable areas. I stationed them by families with their swords, spears, and bows.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.12|<< Nehemiah 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.14|Nehemiah 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

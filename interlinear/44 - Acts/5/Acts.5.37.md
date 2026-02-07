@@ -1,12 +1,12 @@
-**Acts 5:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:37**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, [even] as many as obeyed him, were dispersed.
 <small><sub>**BSB:**</sub></small>
 After him, Judas the Galilean appeared in the days of the census and drew away people after him. He too perished, and all his followers were scattered.
 <small><sub>**Literal:**</sub></small>
 After this man rose up Judas the Galilean in the days of the registration and drew away people significant number of after him; And he perished, and all as many as were persuaded by him were scattered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.36|<< Acts 5:36]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.38|Acts 5:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this man |**<big>[[G3778\|τοῦτον]]</big>**  |touton <small><sup>[[D-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

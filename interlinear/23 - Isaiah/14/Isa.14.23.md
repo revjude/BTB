@@ -1,4 +1,4 @@
-**Isaiah 14:23** 
+**Isaiah 14:23**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will also make it a possession for the bittern, and pools of water: and I will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.22|<< Isaiah 14:22]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.24|Isaiah 14:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make it  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760A\|שַׂמְתִּ֛י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti.<small><sup>[[HVqq1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> a possession of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4180\|מוֹרַ֥שׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mo.Rash<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

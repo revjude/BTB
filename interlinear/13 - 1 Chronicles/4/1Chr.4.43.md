@@ -1,4 +1,4 @@
-**1 Chronicles 4:43** 
+**1 Chronicles 4:43**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and struck down the remnant of the Amalekites who had escaped. And they have liv
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.42|<< 1 Chronicles 4:42]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.1|1 Chronicles 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they struck down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּכּ֕וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 61:4** 
+**Isaiah 61:4**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will rebuild the ancient ruins; they will restore the places long devastate
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.3|<< Isaiah 61:3]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.5|Isaiah 61:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will rebuild  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1129\|בָנוּ֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ruins of  |**<big>&#8207;[[H2723\|חָרְב֣וֹת]]&#8207; </big>**| cha.re.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

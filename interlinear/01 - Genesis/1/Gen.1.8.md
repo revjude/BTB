@@ -1,4 +1,4 @@
-**Genesis 1:8** 
+**Genesis 1:8**<big><big>[[Gen.1.6 The Second Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God called the firmament Heaven. And the evening and the morning were the second day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God called the expanse “sky.” And there was evening, and there was morning�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.7|<< Genesis 1:7]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.9|Genesis 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|יִּקְרָ֧א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

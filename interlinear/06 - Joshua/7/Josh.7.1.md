@@ -1,4 +1,4 @@
-**Joshua 7:1** 
+**Joshua 7:1**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Israelites, however, acted unfaithfully regarding the things devoted to dest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.27|<< Joshua 6:27]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.2|Joshua 7:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they acted unfaithfully  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4603\|יִּמְעֲל֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

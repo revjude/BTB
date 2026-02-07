@@ -1,4 +1,4 @@
-**Psalms 37:23** 
+**Psalms 37:23**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The steps of a [good] man are ordered by the LORD: and he delighteth in his way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The steps of a man are ordered by the LORD who takes delight in his journey.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.22|<< Psalms 37:22]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.24|Psalms 37:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from Yahweh  |**<big>&#8207;[[H9006\|מֵ֭]]&#8207;&#8207;[[H3068G\|יְהוָה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] steps of  |**<big>&#8207;[[H4703\|מִֽצְעֲדֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mitz.'a.dei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

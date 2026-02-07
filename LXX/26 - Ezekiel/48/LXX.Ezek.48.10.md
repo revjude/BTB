@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:10** 
 <small><sub>**LXX:**</sub></small>
 Of these will be the first-fruit of the holy \[things\] for the priests towards \[the\] north, five and twenty thousand, and towards \[the\] west, ten thousand, and towards \[the\] east, ten thousand; and towards \[the\] south, twenty and five thousand; and the mountain of the holy \[places\] will be in the middle of it. 
-<small><sub>**KJV:**</sub></small>
-And for them, [even] for the priests, shall be [this] holy oblation; toward the north five and twenty thousand [in length], and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the LORD shall be in the midst thereof.
-<small><sub>**BSB:**</sub></small>
-This will be the holy portion for the priests. It will be 25,000 cubits long on the north side, 10,000 cubits wide on the west side, 10,000 cubits wide on the east side, and 25,000 cubits long on the south side. In the center will be the sanctuary of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.9|<< Ezekiel 48:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.11|Ezekiel 48:11 >>]]</td></tr></table>
 
 | Translation | Greek |

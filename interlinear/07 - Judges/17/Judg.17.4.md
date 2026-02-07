@@ -1,4 +1,4 @@
-**Judges 17:4** 
+**Judges 17:4**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet he restored the money unto his mother; and his mother took two hundred [shekels] of silver, and gave them to the founder, who made thereof a graven image and a molten image: and they were in the house of Micah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he returned the silver to his mother, and she took two hundred shekels of sil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.3|<< Judges 17:3]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.5|Judges 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725H\|יָּ֥שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

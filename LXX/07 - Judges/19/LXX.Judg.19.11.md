@@ -1,10 +1,7 @@
 **LXX Judges 19:11** 
 <small><sub>**LXX:**</sub></small>
 \[And\] they \[were\] near Jebus, and the day declined exceedingly. And the servant said to  his master, Come please, even we should turn aside into  this city of the Jebusites, and lodge in it. 
-<small><sub>**KJV:**</sub></small>
-[And] when they [were] by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it.
-<small><sub>**BSB:**</sub></small>
-When they were near Jebus and the day was almost gone, the servant said to his master, “Please, let us stop at this Jebusite city and spend the night here.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.10|<< Judges 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.12|Judges 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

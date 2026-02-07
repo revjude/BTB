@@ -1,4 +1,4 @@
-**Daniel 7:21** 
+**Daniel 7:21**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld, and the same horn made war with the saints, and prevailed against them;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As I watched, this horn was waging war against the saints and prevailing against
 > $\quad$ referenced by: [[Rev.11.7|Rev 11:7]] ☩ [[Rev.13.7|Rev 13:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seeing  |**<big>&#8207;[[H2370\|חָזֵ֣ה]]&#8207; </big>**| cha.Zeh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was  |**<big>&#8207;[[H1934\|הֲוֵ֔ית]]&#8207; </big>**| ha.Veit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

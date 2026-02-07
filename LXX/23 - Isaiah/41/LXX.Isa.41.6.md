@@ -1,10 +1,7 @@
 **LXX Isaiah 41:6** 
 <small><sub>**LXX:**</sub></small>
 judging each for the neighbor, and helping for the brother; and shall say, 
-<small><sub>**KJV:**</sub></small>
-They helped every one his neighbour; and [every one] said to his brother, Be of good courage.
-<small><sub>**BSB:**</sub></small>
-Each one helps the other and says to his brother, “Be strong!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.5|<< Isaiah 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.7|Isaiah 41:7 >>]]</td></tr></table>
 
 | Translation | Greek |

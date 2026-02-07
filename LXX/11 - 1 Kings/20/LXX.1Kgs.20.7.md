@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:7** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel called all the elders of the land, and he said, Know indeed and behold! that this one seeks evil, for he has sent to me for  my wives, and for  my children. And  my silver and  my gold I have not kept back from him. 
-<small><sub>**KJV:**</sub></small>
-Then the king of Israel called all the elders of the land, and said, Mark, I pray you, and see how this [man] seeketh mischief: for he sent unto me for my wives, and for my children, and for my silver, and for my gold; and I denied him not.
-<small><sub>**BSB:**</sub></small>
-Then the king of Israel summoned all the elders of the land and said, “Please take note and see that this man is looking for trouble, for when he demanded my wives, my children, my silver, and my gold, I did not deny him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.6|<< 1 Kings 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.8|1 Kings 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

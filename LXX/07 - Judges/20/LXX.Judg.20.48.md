@@ -1,10 +1,7 @@
 **LXX Judges 20:48** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man of Israel turned against the sons of Benjamin, and they struck them by \[the\] mouth of \[the\] broadsword, from \[the\] next city, unto beast, and unto all  being found in the cities; and the cities  being found they burned by fire. 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel turned again upon the children of Benjamin, and smote them with the edge of the sword, as well the men of [every] city, as the beast, and all that came to hand: also they set on fire all the cities that they came to.
-<small><sub>**BSB:**</sub></small>
-And the men of Israel turned back against the other Benjamites and put to the sword all the cities, including the animals and everything else they found. And they burned down all the cities in their path.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.47|<< Judges 20:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.1|Judges 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

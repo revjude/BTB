@@ -1,4 +1,4 @@
-**Proverbs 29:27** 
+**Proverbs 29:27**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An unjust man [is] an abomination to the just: and [he that is] upright in the way [is] abomination to the wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ An unjust man is detestable to the righteous, and one whose way is upright is de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.26|<< Proverbs 29:26]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.1|Proverbs 30:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] an abomination of  |**<big>&#8207;[[H8441\|תּוֹעֲבַ֣ת]]&#8207; </big>**| to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteous [people]  |**<big>&#8207;[[H6662\|צַ֭דִּיקִים]]&#8207; </big>**| Tza.di.kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

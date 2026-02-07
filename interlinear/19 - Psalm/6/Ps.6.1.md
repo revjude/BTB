@@ -1,12 +1,12 @@
-**Psalms 6:1** (6:2)
+**Psalms 6:1**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician on Neginoth upon Sheminith, A Psalm of David. O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
+O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. With stringed instruments, according to Sheminith. A Psalm of David. O LORD, do not rebuke me in Your anger or discipline me in Your wrath.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.6.0|<< Psalms 6:0]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.2|Psalms 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

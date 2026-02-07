@@ -1,4 +1,4 @@
-**Proverbs 19:23** 
+**Proverbs 19:23**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the LORD [tendeth] to life: and [he that hath it] shall abide satisfied; he shall not be visited with evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fear of the LORD leads to life, that one may rest content, without visitatio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.22|<< Proverbs 19:22]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.24|Proverbs 19:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] fear of  |**<big>&#8207;[[H3374\|יִרְאַ֣ת]]&#8207; </big>**| yir.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

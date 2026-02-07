@@ -1,4 +1,4 @@
-**2 Chronicles 34:4** 
+**2 Chronicles 34:4**<big><big>[[2Chr.34.3 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brake down the altars of Baalim in his presence; and the images, that [were] on high above them, he cut down; and the groves, and the carved images, and the molten images, he brake in pieces, and made dust [of them], and strowed [it] upon the graves of them that had sacrificed unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then in his presence the altars of the Baals were torn down, and he cut to piece
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.3|<< 2 Chronicles 34:3]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.5|2 Chronicles 34:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people pulled down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5422\|יְנַתְּצ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.na.te.Tzu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440H\|פָנָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

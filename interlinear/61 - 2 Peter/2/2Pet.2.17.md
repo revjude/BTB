@@ -1,12 +1,12 @@
-**2 Peter 2:17
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:17**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These are wells without water, clouds that are carried with a tempest; to whom the mist of darkness is reserved for ever.
 <small><sub>**BSB:**</sub></small>
 These men are springs without water and mists driven by a storm. Blackest darkness is reserved for them.
 <small><sub>**Literal:**</sub></small>
 These are springs without water and mists by storm being driven, for whom <the> gloom <the> of darkness into age has been reserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.16|<< 2 Peter 2:16]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.18|2 Peter 2:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοί]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|εἰσιν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

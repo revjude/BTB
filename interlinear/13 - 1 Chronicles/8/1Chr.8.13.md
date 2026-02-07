@@ -1,4 +1,4 @@
-**1 Chronicles 8:13** 
+**1 Chronicles 8:13**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beriah also, and Shema, who [were] heads of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Beriah and Shema (who were the heads of families living in Aijalon and who d
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.12|<< 1 Chronicles 8:12]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.14|1 Chronicles 8:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Beriah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1283I\|בְרִעָ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.ri.'Ah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Shema  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H8087I\|שֶׁ֔מַע]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> She.ma'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

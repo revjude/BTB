@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David came from the upper breaches, and he smote them there. And David said, \[The\] <span class="smallcaps">lord</span> cut through  my enemies before me, as he cuts through waters. On account of this the name of that place is called Upper Breaches. 
-<small><sub>**KJV:**</sub></small>
-And David came to Baalperazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim.
-<small><sub>**BSB:**</sub></small>
-So David went to Baal-perazim, where he defeated the Philistines and said, “Like a bursting flood, the LORD has burst out against my enemies before me.” So he called that place Baal-perazim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.19|<< 2 Samuel 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.21|2 Samuel 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

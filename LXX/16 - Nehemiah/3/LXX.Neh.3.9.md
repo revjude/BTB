@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:9** 
 <small><sub>**LXX:**</sub></small>
 And near their hand Rephaiah repaired, son of Hur, ruler of half of \[the\] place round about Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And next unto them repaired Rephaiah the son of Hur, the ruler of the half part of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Next to them, Rephaiah son of Hur, ruler of a half-district of Jerusalem, made repairs;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.8|<< Nehemiah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.10|Nehemiah 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

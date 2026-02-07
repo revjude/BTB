@@ -1,12 +1,12 @@
-**2 Corinthians 1:22
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:22**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who hath also sealed us, and given the earnest of the Spirit in our hearts.
 <small><sub>**BSB:**</sub></small>
 placed His seal on us, and put His Spirit in our hearts as a pledge of what is to come.
 <small><sub>**Literal:**</sub></small>
 the [One] also having sealed us and having given the pledge of the Spirit in the hearts of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.21|<< 2 Corinthians 1:21]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.23|2 Corinthians 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

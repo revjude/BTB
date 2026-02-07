@@ -1,4 +1,4 @@
-**Joshua 17:4** 
+**Joshua 17:4**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The LORD commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the LORD he gave them an inheritance among the brethren of their father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They approached Eleazar the priest, Joshua son of Nun, and the leaders, and said
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.3|<< Joshua 17:3]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.5|Joshua 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they drew near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126G\|תִּקְרַ֡בְנָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Rav.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי֩]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

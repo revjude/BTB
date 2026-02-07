@@ -1,10 +1,7 @@
 **LXX Numbers 34:8** 
 <small><sub>**LXX:**</sub></small>
 And from  mount  Hor you shall measure for yourselves entering into Hamath. And the outer reaches of it will be the borders of Zedad. 
-<small><sub>**KJV:**</sub></small>
-From mount Hor ye shall point out [your border] unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:
-<small><sub>**BSB:**</sub></small>
-and from Mount Hor to Lebo-hamath, then extend to Zedad,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.7|<< Numbers 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.9|Numbers 34:9 >>]]</td></tr></table>
 
 | Translation | Greek |

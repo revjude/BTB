@@ -1,10 +1,7 @@
 **LXX Psalm 89:29** 
 <small><sub>**LXX:**</sub></small>
 And I shall establish his seed into the eon of the eon, and  his throne as the days  of heaven. 
-<small><sub>**KJV:**</sub></small>
-His seed also will I make [to endure] for ever, and his throne as the days of heaven.
-<small><sub>**BSB:**</sub></small>
-I will establish his line forever, his throne as long as the heavens endure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.28|<< Psalm 89:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.30|Psalm 89:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 3:8** 
+**Isaiah 3:8**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings [are] against the LORD, to provoke the eyes of his glory.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Jerusalem has stumbled and Judah has fallen because they spoke and acted aga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.7|<< Isaiah 3:7]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.9|Isaiah 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has stumbled  |**<big>&#8207;[[H3782\|כָשְׁלָה֙]]&#8207; </big>**| kha.she.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

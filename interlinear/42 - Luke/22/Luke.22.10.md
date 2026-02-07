@@ -1,12 +1,12 @@
-**Luke 22:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:10**<big><big>[[Luke.22.7 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.
 <small><sub>**BSB:**</sub></small>
 He answered, “When you enter the city, a man carrying a jug of water will meet you. Follow him to the house he enters,
 <small><sub>**Literal:**</sub></small>
 <the> And He said to them; Behold when are entering you into the city will meet you a man a pitcher of water carrying. do follow him into the house into which he enters;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.9|<< Luke 22:9]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.11|Luke 22:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

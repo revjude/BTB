@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:9** 
 <small><sub>**LXX:**</sub></small>
 I will establish you an eternal desolation, and  your cities no way shall be inhabited any longer. And you shall know that I am \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I will make thee perpetual desolations, and thy cities shall not return: and ye shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-I will make you a perpetual desolation, and your cities will not be inhabited. Then you will know that I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.8|<< Ezekiel 35:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.10|Ezekiel 35:10 >>]]</td></tr></table>
 
 | Translation | Greek |

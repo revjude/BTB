@@ -1,4 +1,4 @@
-**Numbers 28:14** 
+**Numbers 28:14**<big><big>[[Num.28.11 The Monthly Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their drink offerings shall be half an hin of wine unto a bullock, and the third [part] of an hin unto a ram, and a fourth [part] of an hin unto a lamb: this [is] the burnt offering of every month throughout the months of the year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their drink offerings shall be half a hin of wine with each bull, a third of a h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.13|<< Numbers 28:13]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.15|Numbers 28:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and drink offerings their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5262\|נִסְכֵּי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nis.kei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> half of  |**<big>&#8207;[[H2677\|חֲצִ֣י]]&#8207; </big>**| cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

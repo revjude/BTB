@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:25** 
 <small><sub>**LXX:**</sub></small>
 For I \[the\] <span class="smallcaps">lord</span> will speak  my words, and I will act; and I will not lengthen \[the time\] still. For in  your days, O rebelling house, I shall speak \[the\] word, and I will act, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For I [am] the LORD: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-because I, the LORD, will speak whatever word I speak, and it will be fulfilled without delay. For in your days, O rebellious house, I will speak a message and bring it to pass, declares the Lord GOD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.24|<< Ezekiel 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.26|Ezekiel 12:26 >>]]</td></tr></table>
 
 | Translation | Greek |

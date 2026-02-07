@@ -1,12 +1,12 @@
-**1 John 5:1
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:1**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.
 <small><sub>**BSB:**</sub></small>
 Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves those born of Him.
 <small><sub>**Literal:**</sub></small>
 Everyone who is believing that Jesus is the Christ of <the> God has been born, and everyone who is loving the [One] having begotten [Him] loves also the [one] begotten from Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.21|<< 1 John 4:21]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.2|1 John 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|Πᾶς]]</big>**  |Pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 21:5** 
+**Exodus 21:5**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if the servant declares, ‘I love my master and my wife and children; I do 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.4|<< Exodus 21:4]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.6|Exodus 21:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | carefully \<to say>  |**<big>&#8207;[[H0559\|אָמֹ֤ר]]&#8207; </big>**| 'a.Mor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

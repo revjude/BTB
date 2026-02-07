@@ -1,4 +1,4 @@
-**Zephaniah 1:4** 
+**Zephaniah 1:4**<big><big>[[Zeph.1.1 Zephaniah Prophesies Judgment on Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, [and] the name of the Chemarims with the priests;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will also stretch out mine hand upon Judah, and upon all the inhabitants of Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.3|<< Zephaniah 1:3]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.5|Zephaniah 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will stretch out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5186\|נָטִ֤יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Ti.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand my  |**<big>&#8207;[[H3027G\|יָדִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

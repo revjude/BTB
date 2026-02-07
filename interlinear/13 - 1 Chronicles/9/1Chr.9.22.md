@@ -1,4 +1,4 @@
-**1 Chronicles 9:22** 
+**1 Chronicles 9:22**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these [which were] chosen to be porters in the gates [were] two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The number of those chosen to be gatekeepers at the thresholds was 212. They wer
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.21|<< 1 Chronicles 9:21]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.23|1 Chronicles 9:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of them  |**<big>&#8207;[[H3605\|כֻּלָּ֤]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who had been chosen  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1305\|בְּרוּרִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.ru.Rim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

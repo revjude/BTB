@@ -1,10 +1,7 @@
 **LXX Exodus 16:23** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to them, This  word is what \[the\] <span class="smallcaps">lord</span> spoke. A Sabbath rest, holy to the <span class="smallcaps">lord</span> \[is\] tomorrow. Whatever as much as you should bake -- bake. And whatever as much as you should boil -- boil! And all that being superabundant leave it for reposit for the morning! 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, This [is that] which the LORD hath said, To morrow [is] the rest of the holy sabbath unto the LORD: bake [that] which ye will bake [to day], and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning.
-<small><sub>**BSB:**</sub></small>
-He told them, “This is what the LORD has said: ‘Tomorrow is to be a day of complete rest, a holy Sabbath to the LORD. So bake what you want to bake, and boil what you want to boil. Then set aside whatever remains and keep it until morning.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.22|<< Exodus 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.24|Exodus 16:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 30:20** 
 <small><sub>**LXX:**</sub></small>
 Whenever they should enter into the tent of the testimony they shall wash in water, and no way shall they die. Or whenever they should go to the altar to officiate and to offer the whole burnt-offerings \[to the\] <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the LORD:
-<small><sub>**BSB:**</sub></small>
-Whenever they enter the Tent of Meeting or approach the altar to minister by presenting a food offering to the LORD, they must wash with water so that they will not die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.19|<< Exodus 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.21|Exodus 30:21 >>]]</td></tr></table>
 
 | Translation | Greek |

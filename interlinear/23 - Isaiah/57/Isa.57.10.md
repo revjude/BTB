@@ -1,4 +1,4 @@
-**Isaiah 57:10** 
+**Isaiah 57:10**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art wearied in the greatness of thy way; [yet] saidst thou not, There is no hope: thou hast found the life of thine hand; therefore thou wast not grieved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are wearied by your many journeys, but you did not say, “There is no hope!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.9|<< Isaiah 57:9]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.11|Isaiah 57:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with [the] greatness of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רֹ֤ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | journey your  |**<big>&#8207;[[H1870L\|דַּרְכֵּ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| dar.ke<small><sup>[[HNcbsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 14:4** 
+**Joshua 14:4**<big><big>[[Josh.14.1 Land Division West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell [in], with their suburbs for their cattle and for their substance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The descendants of Joseph became two tribes, Manasseh and Ephraim. And no portio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.3|<< Joshua 14:3]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.5|Joshua 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were  |**<big>&#8207;[[H1961\|הָי֧וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

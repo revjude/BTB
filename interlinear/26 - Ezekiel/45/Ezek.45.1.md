@@ -1,4 +1,4 @@
-**Ezekiel 45:1** 
+**Ezekiel 45:1**<big><big>[[Ezek.45.1 Consecration of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length [shall be] the length of five and twenty thousand [reeds], and the breadth [shall be] ten thousand. This [shall be] holy in all the borders thereof round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, when ye shall divide by lot the land for inheritance, ye shall offer a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.31|<< Ezekiel 44:31]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.2|Ezekiel 45:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when make fall you  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5307I\|הַפִּֽילְ]]&#8207;&#8207;[[H9046\|כֶ֨ם]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> v.<small><sup>[[HR]]</sup></small> ha.pi.le.<small><sup>[[HVhcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

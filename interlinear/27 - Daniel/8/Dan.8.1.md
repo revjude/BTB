@@ -1,4 +1,4 @@
-**Daniel 8:1** 
+**Daniel 8:1**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third year of the reign of king Belshazzar a vision appeared unto me, [even unto] me Daniel, after that which appeared unto me at the first.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the third year of the reign of King Belshazzar, a vision appeared to me, Dani
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.28|<< Daniel 7:28]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.2|Daniel 8:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֣ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שָׁל֔וֹשׁ]]&#8207; </big>**| sha.Lo.osh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 28:19** 
+**2 Chronicles 28:19**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD humbled Judah because Ahaz king of Israel had thrown off restraint 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.18|<< 2 Chronicles 28:18]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.20|2 Chronicles 28:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had humbled  |**<big>&#8207;[[H3665\|הִכְנִ֤יעַ]]&#8207; </big>**| hikh.Ni.a'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

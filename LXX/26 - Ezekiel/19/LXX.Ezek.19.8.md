@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:8** 
 <small><sub>**LXX:**</sub></small>
 And nations assailed against him round about of the places; and they spread forth upon him their nets; and in  their corruption he was seized. 
-<small><sub>**KJV:**</sub></small>
-Then the nations set against him on every side from the provinces, and spread their net over him: he was taken in their pit.
-<small><sub>**BSB:**</sub></small>
-Then the nations set out against him from the provinces on every side. They spread their net over him; he was trapped in their pit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.7|<< Ezekiel 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.9|Ezekiel 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

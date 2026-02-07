@@ -1,4 +1,4 @@
-**Jeremiah 39:7** 
+**Jeremiah 39:7**<big><big>[[Jer.39.1 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he put out Zedekiah’s eyes, and bound him with chains, to carry him to Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he put out Zedekiah’s eyes and bound him with bronze chains to take him t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.6|<< Jeremiah 39:6]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.8|Jeremiah 39:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] eyes of  |**<big>&#8207;[[H5869A\|עֵינֵ֥י]]&#8207; </big>**| 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

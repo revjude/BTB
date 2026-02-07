@@ -1,10 +1,7 @@
 **LXX Exodus 7:11** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh called together the wise men of Egypt, and the sorcerers. And the enchanters of the Egyptians also did  their sorceries likewise. 
-<small><sub>**KJV:**</sub></small>
-Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments.
-<small><sub>**BSB:**</sub></small>
-But Pharaoh called the wise men and sorcerers and magicians of Egypt, and they also did the same things by their magic arts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.10|<< Exodus 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.12|Exodus 7:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 7:11** is...

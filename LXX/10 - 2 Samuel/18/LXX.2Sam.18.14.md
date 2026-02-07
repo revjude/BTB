@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joab said, This I begin; not thus shall I abide before you. And Joab took three arrows in  his hand, and he stuck them in the heart of Absalom \[while\] yet he was living, in the heart of the oak. 
-<small><sub>**KJV:**</sub></small>
-Then said Joab, I may not tarry thus with thee. And he took three darts in his hand, and thrust them through the heart of Absalom, while he [was] yet alive in the midst of the oak.
-<small><sub>**BSB:**</sub></small>
-But Joab declared, “I am not going to wait like this with you!” And he took three spears in his hand and thrust them through the heart of Absalom while he was still alive in the oak tree.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.13|<< 2 Samuel 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.15|2 Samuel 18:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 5:5** 
+**Daniel 5:5**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that moment the fingers of a human hand appeared and wrote on the plaster of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.4|<< Daniel 5:4]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.6|Daniel 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at it  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba<small><sup>[[AR]]</sup></small> h-<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | moment the  |**<big>&#8207;[[H8160\|שַׁעֲתָ֗]]&#8207;&#8207;[[H9010\|ה]]&#8207; </big>**| sha.'a.Tah<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

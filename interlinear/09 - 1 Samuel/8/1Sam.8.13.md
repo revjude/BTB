@@ -1,4 +1,4 @@
-**1 Samuel 8:13** 
+**1 Samuel 8:13**<big><big>[[1Sam.8.10 Samuel’s Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will take your daughters [to be] confectionaries, and [to be] cooks, and [to be] bakers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he will take your daughters to be perfumers, cooks, and bakers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.12|<< 1 Samuel 8:12]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.14|1 Samuel 8:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | daughters your  |**<big>&#8207;[[H1323G\|בְּנוֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| be.no.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

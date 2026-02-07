@@ -1,10 +1,7 @@
 **LXX Judges 6:33** 
 <small><sub>**LXX:**</sub></small>
 And all Midian and Amalek and the sons of \[the\] east came together at the same \[place\], and they passed over and camped in the valley of Jezreel. 
-<small><sub>**KJV:**</sub></small>
-Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.
-<small><sub>**BSB:**</sub></small>
-Then all the Midianites, Amalekites, and other people of the east gathered together, crossed over the Jordan, and camped in the Valley of Jezreel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.32|<< Judges 6:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.34|Judges 6:34 >>]]</td></tr></table>
 
 | Translation | Greek |

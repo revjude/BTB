@@ -1,10 +1,7 @@
 **LXX Psalm 131:2** 
 <small><sub>**LXX:**</sub></small>
 Unless I was humble-minded, but I exalted  my soul. As the one being weaned upon  his mother, so will you recompense unto  my soul. 
-<small><sub>**KJV:**</sub></small>
-Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul [is] even as a weaned child.
-<small><sub>**BSB:**</sub></small>
-Surely I have stilled and quieted my soul; like a weaned child with his mother, like a weaned child is my soul within me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.131.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.131.1|<< Psalm 131:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.131.3|Psalm 131:3 >>]]</td></tr></table>
 
 | Translation | Greek |

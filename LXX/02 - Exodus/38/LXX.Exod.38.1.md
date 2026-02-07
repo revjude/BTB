@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he made an altar for whole burnt-offering out of incorruptible wood; of five cubits \[was\] the length, and five cubits the breadth; the altar was four-cornered, and \[its\] height three cubits. 
-<small><sub>**KJV:**</sub></small>
-And he made the altar of burnt offering [of] shittim wood: five cubits [was] the length thereof, and five cubits the breadth thereof; [it was] foursquare; and three cubits the height thereof.
-<small><sub>**BSB:**</sub></small>
-Bezalel constructed the altar of burnt offering from acacia wood. It was square, five cubits long, five cubits wide, and three cubits high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.29|<< Exodus 37:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.2|Exodus 38:2 >>]]</td></tr></table>
 
 | Translation | Greek |

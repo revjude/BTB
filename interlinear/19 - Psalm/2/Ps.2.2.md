@@ -1,4 +1,4 @@
-**Psalms 2:2** 
+**Psalms 2:2**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, [saying],
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The kings of the earth take their stand and the rulers gather together, against 
 > $\quad$ referenced by: [[Acts.4.25|Acts 4:25-26]] ☩ [[Rev.11.18|Rev 11:18]] ☩ [[Rev.19.19|Rev 19:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they take their stand  |**<big>&#8207;[[H3320\|יִ֥תְיַצְּב֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yit.ya.tze.Vu<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] kings of  |**<big>&#8207;[[H4428G\|מַלְכֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mal.khei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

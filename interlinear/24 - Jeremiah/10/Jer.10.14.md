@@ -1,4 +1,4 @@
-**Jeremiah 10:14** 
+**Jeremiah 10:14**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every man is brutish in [his] knowledge: every founder is confounded by the graven image: for his molten image [is] falsehood, and [there is] no breath in them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Every man is senseless and devoid of knowledge; every goldsmith is put to shame 
 > $\quad$ referenced by: [[Rom.1.22|Rom 1:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he is stupid  |**<big>&#8207;[[H1197B\|נִבְעַ֤ר]]&#8207; </big>**| niv.'Ar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 3:12** 
 <small><sub>**LXX:**</sub></small>
 For whom \[the\] <span class="smallcaps">lord</span> loves he corrects; and he whips every son whom he welcomes. 
-<small><sub>**KJV:**</sub></small>
-For whom the LORD loveth he correcteth; even as a father the son [in whom] he delighteth.
-<small><sub>**BSB:**</sub></small>
-for the LORD disciplines the one He loves, as does a father the son in whom he delights.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.11|<< Proverbs 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.13|Proverbs 3:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Proverbs 3:12** is...

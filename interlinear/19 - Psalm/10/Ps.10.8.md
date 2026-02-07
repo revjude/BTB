@@ -1,4 +1,4 @@
-**Psalms 10:8** 
+**Psalms 10:8**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He lies in wait near the villages; in ambush he slays the innocent; his eyes wat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.7|<< Psalms 10:7]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.9|Psalms 10:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he sits  |**<big>&#8207;[[H3427\|יֵשֵׁ֤ב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.Shev<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in an ambush of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3993\|מַאְרַ֬ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ma'.Rav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

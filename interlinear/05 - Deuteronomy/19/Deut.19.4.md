@@ -1,4 +1,4 @@
-**Deuteronomy 19:4** 
+**Deuteronomy 19:4**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now this is the situation regarding the manslayer who flees to one of these citi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.3|<< Deuteronomy 19:3]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.5|Deuteronomy 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] [the] case of  |**<big>&#8207;[[H1697L\|דְּבַ֣ר]]&#8207; </big>**| de.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

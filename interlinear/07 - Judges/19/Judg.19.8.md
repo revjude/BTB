@@ -1,4 +1,4 @@
-**Judges 19:8** 
+**Judges 19:8**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he arose early in the morning on the fifth day to depart: and the damsel’s father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the fifth day, he got up early in the morning to depart, but the girl’s fat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.7|<< Judges 19:7]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.9|Judges 19:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rose early  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7925\|יַּשְׁכֵּ֨ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the morning  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1242\|בֹּ֜קֶר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

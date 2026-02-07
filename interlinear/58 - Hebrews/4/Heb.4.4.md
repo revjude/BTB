@@ -1,5 +1,5 @@
-**Hebrews 4:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:4**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he spake in a certain place of the seventh [day] on this wise, And God did rest the seventh day from all his works.
 <small><sub>**BSB:**</sub></small>
 For somewhere He has spoken about the seventh day in this manner: “And on the seventh day God rested from all His works.”
@@ -10,7 +10,7 @@ He has spoken for somewhere concerning the seventh [day] in this way; And rested
 > $\quad$ referencing: [[LXX.Gen.2.2|Gen 2:2-3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He has spoken |**<big>[[G2046\|εἴρηκεν]]</big>**  |eirēken <small><sup>[[V-RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

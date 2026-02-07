@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:3** 
 <small><sub>**LXX:**</sub></small>
 And they said to me, The ones remaining behind  surviving from the captivity there in the place \[are\] among great wickedness, and in scorning; and the walls of Jerusalem are being demolished, and its gates were burnt by fire. 
-<small><sub>**KJV:**</sub></small>
-And they said unto me, The remnant that are left of the captivity there in the province [are] in great affliction and reproach: the wall of Jerusalem also [is] broken down, and the gates thereof are burned with fire.
-<small><sub>**BSB:**</sub></small>
-And they told me, “The remnant who survived the exile are there in the province, in great trouble and disgrace. The wall of Jerusalem is broken down, and its gates have been burned with fire.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.2|<< Nehemiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.4|Nehemiah 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

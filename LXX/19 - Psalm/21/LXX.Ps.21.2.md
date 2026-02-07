@@ -1,10 +1,7 @@
 **LXX Psalm 21:2** 
 <small><sub>**LXX:**</sub></small>
 The desire  of his heart you gave to him; and the supplication  of his lips you did not deprive him. 
-<small><sub>**KJV:**</sub></small>
-Thou hast given him his heart’s desire, and hast not withholden the request of his lips. Selah.
-<small><sub>**BSB:**</sub></small>
-You have granted his heart’s desire and have not withheld the request of his lips. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.1|<< Psalm 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.3|Psalm 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

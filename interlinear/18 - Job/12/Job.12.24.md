@@ -1,4 +1,4 @@
-**Job 12:24** 
+**Job 12:24**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness [where there is] no way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He deprives the earth’s leaders of reason and makes them wander in a trackless
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.23|<< Job 12:23]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.25|Job 12:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] removing  |**<big>&#8207;[[H5493G\|מֵסִ֗יר]]&#8207; </big>**| me.Sir<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heart of  |**<big>&#8207;[[H3820A\|לֵ֭ב]]&#8207; </big>**| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

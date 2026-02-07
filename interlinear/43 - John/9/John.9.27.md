@@ -1,12 +1,12 @@
-**John 9:27
-**<small><sub>**KJV:**</sub></small>
+**John 9:27**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He answered them, I have told you already, and ye did not hear: wherefore would ye hear [it] again? will ye also be his disciples?
 <small><sub>**BSB:**</sub></small>
 He replied, “I already told you, and you did not listen. Why do you want to hear it again? Do you also want to become His disciples?”
 <small><sub>**Literal:**</sub></small>
 He answered them; I told you already, and not you did listen. Why again do you wish to hear? Surely not also you yourselves do wish His disciples to become?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.26|<< John 9:26]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.28|John 9:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them; |**<big>[[G0846\|αὐτοῖς·]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

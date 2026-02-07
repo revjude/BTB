@@ -1,4 +1,4 @@
-**1 Samuel 7:16** 
+**1 Samuel 7:16**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and judged Israel in all those places.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Every year he would go on a circuit from Bethel to Gilgal to Mizpah, judging Isr
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980G\|הָלַ֗ךְ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Lakh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as often as  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1767\|דֵּ֤י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Dei<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

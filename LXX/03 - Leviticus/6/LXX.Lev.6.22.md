@@ -1,10 +1,7 @@
 **LXX Leviticus 6:22** 
 <small><sub>**LXX:**</sub></small>
 And the anointed priest  in place of him from  his sons will prepare it. an eternal law to the <span class="smallcaps">lord</span> -- all shall be completed. 
-<small><sub>**KJV:**</sub></small>
-And the priest of his sons that is anointed in his stead shall offer it: [it is] a statute for ever unto the LORD; it shall be wholly burnt.
-<small><sub>**BSB:**</sub></small>
-The priest, who is one of Aaron’s sons and will be anointed to take his place, is to prepare it. As a permanent portion for the LORD, it must be burned completely.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.21|<< Leviticus 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.23|Leviticus 6:23 >>]]</td></tr></table>
 
 | Translation | Greek |

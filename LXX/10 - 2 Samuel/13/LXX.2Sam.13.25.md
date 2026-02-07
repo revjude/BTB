@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:25** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Absalom, No indeed, O my son, in no way should we all go ourselves, and in no way should we be burdensome upon you. And \[Absalom\] constrained him, and \[the king\] did not want  to go, but he blessed him. 
-<small><sub>**KJV:**</sub></small>
-And the king said to Absalom, Nay, my son, let us not all now go, lest we be chargeable unto thee. And he pressed him: howbeit he would not go, but blessed him.
-<small><sub>**BSB:**</sub></small>
-“No, my son,” the king replied, “we should not all go, or we would be a burden to you.” Although Absalom urged him, he was not willing to go, but gave him his blessing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.24|<< 2 Samuel 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.26|2 Samuel 13:26 >>]]</td></tr></table>
 
 | Translation | Greek |

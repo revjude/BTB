@@ -1,12 +1,12 @@
-**Acts 4:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:33**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all.
 <small><sub>**BSB:**</sub></small>
 With great power the apostles continued to give their testimony about the resurrection of the Lord Jesus. And abundant grace was upon them all.
 <small><sub>**Literal:**</sub></small>
 And [with] power great were giving <the> testimony the apostles of the resurrection of the Lord Jesus grace then abundant was upon all them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.32|<< Acts 4:32]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.34|Acts 4:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [with] power |**<big>[[G1411\|δυνάμει]]</big>**  |dunamei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

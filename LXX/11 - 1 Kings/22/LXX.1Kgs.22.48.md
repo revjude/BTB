@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:48** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat prepared ships of Tarshish  to go unto Ophir because of  gold. And they did not go; for the ships were destroyed in Ezion Geber. 
-<small><sub>**KJV:**</sub></small>
-Jehoshaphat made ships of Tharshish to go to Ophir for gold: but they went not; for the ships were broken at Eziongeber.
-<small><sub>**BSB:**</sub></small>
-Jehoshaphat built ships of Tarshish to go to Ophir for gold, but they never set sail, because they were wrecked at Ezion-geber.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.47|<< 1 Kings 22:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.49|1 Kings 22:49 >>]]</td></tr></table>
 
 | Translation | Greek |

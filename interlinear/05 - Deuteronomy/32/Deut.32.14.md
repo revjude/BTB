@@ -1,4 +1,4 @@
-**Deuteronomy 32:14** 
+**Deuteronomy 32:14**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ with curds from the herd and milk from the flock, with the fat of lambs, with ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.13|<< Deuteronomy 32:13]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.15|Deuteronomy 32:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | curd\<s> of  |**<big>&#8207;[[H2529A\|חֶמְאַ֨ת]]&#8207; </big>**| chem.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] herd  |**<big>&#8207;[[H1241\|בָּקָ֜ר]]&#8207; </big>**| ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Haggai 2:22** 
+**Haggai 2:22**<big><big>[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will overturn royal thrones and destroy the power of the kingdoms of the natio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.21|<< Haggai 2:21]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.23|Haggai 2:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will overthrow  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2015\|הָֽפַכְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.fakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] throne of  |**<big>&#8207;[[H3678G\|כִּסֵּ֣א]]&#8207; </big>**| ki.Se'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

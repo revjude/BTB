@@ -1,4 +1,4 @@
-**2 Chronicles 29:22** 
+**2 Chronicles 29:22**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they killed the bullocks, and the priests received the blood, and sprinkled [it] on the altar: likewise, when they had killed the rams, they sprinkled the blood upon the altar: they killed also the lambs, and they sprinkled the blood upon the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they slaughtered the bulls, and the priests took the blood and splattered it 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.21|<< 2 Chronicles 29:21]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.23|2 Chronicles 29:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they slaughtered  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7819A\|יִּשְׁחֲטוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.cha.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cattle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1241\|בָּקָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

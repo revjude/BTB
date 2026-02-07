@@ -1,4 +1,4 @@
-**Genesis 37:27** 
+**Genesis 37:27**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he [is] our brother [and] our flesh. And his brethren were content.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, let us sell him to the Ishmaelites and not lay a hand on him; for he is ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.26|<< Genesis 37:26]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.28|Genesis 37:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H1980K\|לְכ֞וּ]]&#8207; </big>**| le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and let us sell him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H4376\|נִמְכְּרֶ֣]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nim.ke.Re.<small><sup>[[HVqu1cp]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

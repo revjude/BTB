@@ -1,5 +1,5 @@
-**Romans 11:25
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:25**<big><big>[[Rom.11.25 All Israel Will Be Saved|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I would not, brethren, that ye should be ignorant of this mystery, lest ye should be wise in your own conceits; that blindness in part is happened to Israel, until the fulness of the Gentiles be come in.
 <small><sub>**BSB:**</sub></small>
 I do not want you to be ignorant of this mystery, brothers, so that you will not be conceited: A hardening in part has come to Israel, until the full number of the Gentiles has come in.
@@ -10,7 +10,7 @@ Not for I want you to be ignorant, brothers, of the mystery this, that not you m
 > $\quad$ referencing: [[LXX.Gen.17.4|Gen 17:4-5]] ☩ [[LXX.Gen.48.19|Gen 48:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

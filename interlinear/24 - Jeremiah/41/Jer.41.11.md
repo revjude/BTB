@@ -1,4 +1,4 @@
-**Jeremiah 41:11** 
+**Jeremiah 41:11**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when Johanan the son of Kareah, and all the captains of the forces that [were] with him, heard of all the evil that Ishmael the son of Nethaniah had done,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Johanan son of Kareah and all the commanders of the armies with him heard o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.10|<< Jeremiah 41:10]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.12|Jeremiah 41:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַע֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Johanan  |**<big>&#8207;[[H3110G\|יוֹחָנָ֣ן]]&#8207; </big>**| yo.cha.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

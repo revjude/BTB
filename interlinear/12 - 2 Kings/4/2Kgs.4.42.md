@@ -1,4 +1,4 @@
-**2 Kings 4:42** 
+**2 Kings 4:42**<big><big>[[2Kgs.4.42 Feeding a Hundred Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came a man from Baalshalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof. And he said, Give unto the people, that they may eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now a man from Baal-shalishah came to the man of God with a sack of twenty loave
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.41|<< 2 Kings 4:41]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.43|2 Kings 4:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a man  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֨ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he came  |**<big>&#8207;[[H0935G\|בָּ֜א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

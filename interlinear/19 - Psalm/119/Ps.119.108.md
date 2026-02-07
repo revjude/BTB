@@ -1,4 +1,4 @@
-**Psalms 119:108** 
+**Psalms 119:108**<big><big>[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Accept, I beseech thee, the freewill offerings of my mouth, O LORD, and teach me thy judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Accept the freewill offerings of my mouth, O LORD, and teach me Your judgments.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.108|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.107|<< Psalms 119:107]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.109|Psalms 119:109 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] freewill offerings of  |**<big>&#8207;[[H5071\|נִדְב֣וֹת]]&#8207; </big>**| nid.Vot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mouth my  |**<big>&#8207;[[H6310G\|פִּ֭]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| p<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

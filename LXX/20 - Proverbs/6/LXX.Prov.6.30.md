@@ -1,10 +1,7 @@
 **LXX Proverbs 6:30** 
 <small><sub>**LXX:**</sub></small>
 \[It is\] not a wonder if any be captured stealing; for he steals that he should fill up \[his\] soul \[when\] hungering; 
-<small><sub>**KJV:**</sub></small>
-[Men] do not despise a thief, if he steal to satisfy his soul when he is hungry;
-<small><sub>**BSB:**</sub></small>
-Men do not despise the thief if he steals to satisfy his hunger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.29|<< Proverbs 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.31|Proverbs 6:31 >>]]</td></tr></table>
 
 | Translation | Greek |

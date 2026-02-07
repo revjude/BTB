@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:17** 
 <small><sub>**LXX:**</sub></small>
 You shall moan being silent; it is a moaning of bloodshed of a loin; you shall not make a mourning for mankind. The hair on your head shall not be braided upon you, and  your sandals \[shall be\] on  your feet; and in no way shall you be comforted by their lips, and \[the\] bread of men in no way shall you eat. 
-<small><sub>**KJV:**</sub></small>
-Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not [thy] lips, and eat not the bread of men.
-<small><sub>**BSB:**</sub></small>
-Groan quietly; do not mourn for the dead. Put on your turban and strap your sandals on your feet; do not cover your lips or eat the bread of mourners.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.16|<< Ezekiel 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.18|Ezekiel 24:18 >>]]</td></tr></table>
 
 | Translation | Greek |

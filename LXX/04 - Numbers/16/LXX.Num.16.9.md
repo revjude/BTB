@@ -1,10 +1,7 @@
 **LXX Numbers 16:9** 
 <small><sub>**LXX:**</sub></small>
  Is this a small \[thing\] for you, that God separated you from \[the\] congregation of Israel, and led you to himself to officiate the ministrations of the tent of \[the\] <span class="smallcaps">lord</span>, and to stand before the congregation to serve to them? 
-<small><sub>**KJV:**</sub></small>
-[Seemeth it but] a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the LORD, and to stand before the congregation to minister unto them?
-<small><sub>**BSB:**</sub></small>
-Is it not enough for you that the God of Israel has separated you from the congregation of Israel and brought you near to Himself to perform the work at the LORD’s tabernacle, and to stand before the congregation to minister to them?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.8|<< Numbers 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.10|Numbers 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

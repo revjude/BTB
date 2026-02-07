@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:6** 
 <small><sub>**LXX:**</sub></small>
 And the king answered, and said to the man  of God, Beseech the face of \[the\] <span class="smallcaps">lord</span>  your God, and return  my hand to me! And the man of God beseeched the face of \[the\] <span class="smallcaps">lord</span>, and the hand of the king returned to him, and it became as  formerly. 
-<small><sub>**KJV:**</sub></small>
-And the king answered and said unto the man of God, Intreat now the face of the LORD thy God, and pray for me, that my hand may be restored me again. And the man of God besought the LORD, and the king’s hand was restored him again, and became as [it was] before.
-<small><sub>**BSB:**</sub></small>
-Then the king responded to the man of God, “Intercede with the LORD your God and pray for me that my hand may be restored.” So the man of God interceded with the LORD, and the king’s hand was restored to him as it was before.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.5|<< 1 Kings 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.7|1 Kings 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

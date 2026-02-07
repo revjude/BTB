@@ -1,10 +1,7 @@
 **LXX Genesis 38:16** 
 <small><sub>**LXX:**</sub></small>
 And he turned aside to her in the way. And he said to her, Allow me to enter to you. For he did not know that she is his daughter-in-law. And she said, What will you give to me, if you should enter to me? 
-<small><sub>**KJV:**</sub></small>
-And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she [was] his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me?
-<small><sub>**BSB:**</sub></small>
-Not realizing that she was his daughter-in-law, he went over to her and said, “Come now, let me sleep with you.” “What will you give me for sleeping with you?” she inquired.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.15|<< Genesis 38:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.17|Genesis 38:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Micah 7:18** 
 <small><sub>**LXX:**</sub></small>
 What God \[is\] as you, removing iniquities and passing over impiety to the remnants  of his inheritance? His anger is not constrained for a testimony, for he is a wisher of mercy. 
-<small><sub>**KJV:**</sub></small>
-Who [is] a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth [in] mercy.
-<small><sub>**BSB:**</sub></small>
-Who is a God like You, who pardons iniquity and passes over the transgression of the remnant of His inheritance—who does not retain His anger forever, because He delights in loving devotion?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.17|<< Micah 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.19|Micah 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

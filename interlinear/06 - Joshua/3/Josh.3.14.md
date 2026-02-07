@@ -1,4 +1,4 @@
-**Joshua 3:14** 
+**Joshua 3:14**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So when the people broke camp to cross the Jordan, the priests carried the ark o
 > $\quad$ referenced by: [[Acts.7.45|Acts 7:45]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when set out  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H5265\|נְסֹ֤עַ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> n.So.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

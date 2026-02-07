@@ -1,4 +1,4 @@
-**2 Samuel 15:1** 
+**2 Samuel 15:1**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some time later, Absalom provided for himself a chariot with horses and fifty me
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.33|<< 2 Samuel 14:33]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.2|2 Samuel 15:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from after  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0310A\|אַ֣חֲרֵי]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'A.cha.rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

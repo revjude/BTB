@@ -1,12 +1,12 @@
-**Philippians 4:23
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:23**<big><big>[[Phil.4.21 Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The grace of our Lord Jesus Christ [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 The grace of the Lord Jesus Christ be with your spirit.
 <small><sub>**Literal:**</sub></small>
 The grace of the Lord of us Jesus Christ [be] with the spirit of you. Amen. to Philippi it was written from Rome through Epaphroditus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.22|<< Philippians 4:22]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.1|Colossians 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | grace |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

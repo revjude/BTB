@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:24** 
 <small><sub>**LXX:**</sub></small>
 But the shame consumed the efforts  of our fathers from our youth;  their sheep and  their calves,  their sons and  their daughters. 
-<small><sub>**KJV:**</sub></small>
-For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters.
-<small><sub>**BSB:**</sub></small>
-From our youth, that shameful god has consumed what our fathers have worked for—their flocks and herds, their sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.23|<< Jeremiah 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.25|Jeremiah 3:25 >>]]</td></tr></table>
 
 | Translation | Greek |

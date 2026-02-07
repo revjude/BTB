@@ -1,12 +1,12 @@
-**John 15:24
-**<small><sub>**KJV:**</sub></small>
+**John 15:24**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father.
 <small><sub>**BSB:**</sub></small>
 If I had not done among them the works that no one else did, they would not be guilty of sin; but now they have seen and hated both Me and My Father.
 <small><sub>**Literal:**</sub></small>
 If the works not I had done among them that no other did, sin not they had; now however both they have seen and have hated both Me myself and the Father of Mine;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.23|<< John 15:23]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.25|John 15:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487H\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 15:3** 
+**Isaiah 15:3**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In its streets they wear sackcloth; on the rooftops and in the public squares th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.2|<< Isaiah 15:2]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.4|Isaiah 15:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in streets its  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2351\|חוּצֹתָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chu.tzo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have girded on  |**<big>&#8207;[[H2296\|חָ֣גְרוּ]]&#8207; </big>**| Cha.ge.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

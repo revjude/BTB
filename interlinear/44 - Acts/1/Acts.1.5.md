@@ -1,12 +1,12 @@
-**Acts 1:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:5**<big><big>[[Acts.1.1 Prologue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.
 <small><sub>**BSB:**</sub></small>
 For John baptized with water, but in a few days you will be baptized with the Holy Spirit.”
 <small><sub>**Literal:**</sub></small>
 for John indeed baptized with water, you yourselves however with [the] Spirit will be baptized Holy not after many these days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.4|<< Acts 1:4]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.6|Acts 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | John |**<big>[[G2491G\|Ἰωάννης]]</big>**  [^1] |Iōannēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

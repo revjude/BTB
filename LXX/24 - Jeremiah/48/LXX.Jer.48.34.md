@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:34** 
 <small><sub>**LXX:**</sub></small>
 From a cry of Heshbon unto Elealeh, even unto Jahaz, they gave out their voice; from Zoar unto Horonaim, even \[as\] a heifer of three years. For also the water of Nimrim will be for burning. 
-<small><sub>**KJV:**</sub></small>
-From the cry of Heshbon [even] unto Elealeh, [and even] unto Jahaz, have they uttered their voice, from Zoar [even] unto Horonaim, [as] an heifer of three years old: for the waters also of Nimrim shall be desolate.
-<small><sub>**BSB:**</sub></small>
-There is a cry from Heshbon to Elealeh; they raise their voices to Jahaz, from Zoar to Horonaim and Eglath-shelishiyah; for even the waters of Nimrim have dried up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.33|<< Jeremiah 48:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.35|Jeremiah 48:35 >>]]</td></tr></table>
 
 | Translation | Greek |

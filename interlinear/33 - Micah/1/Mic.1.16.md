@@ -1,4 +1,4 @@
-**Micah 1:16** 
+**Micah 1:16**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shave yourselves bald and cut off your hair in mourning for your precious childr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.15|<< Micah 1:15]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.1|Micah 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make bald  |**<big>&#8207;[[H7139\|קָרְחִ֣י]]&#8207; </big>**| ka.re.Chi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and shear  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1494\|גֹ֔זִּי]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Go.zi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

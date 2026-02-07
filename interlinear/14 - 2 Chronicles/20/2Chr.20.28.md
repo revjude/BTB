@@ -1,4 +1,4 @@
-**2 Chronicles 20:28** 
+**2 Chronicles 20:28**<big><big>[[2Chr.20.26 The Joyful Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came to Jerusalem with psalteries and harps and trumpets unto the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they entered Jerusalem and went into the house of the LORD with harps, lyres,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.27|<< 2 Chronicles 20:27]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.29|2 Chronicles 20:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֙אוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְר֣וּשָׁלִַ֔ם]]&#8207; </big>**| ye.Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

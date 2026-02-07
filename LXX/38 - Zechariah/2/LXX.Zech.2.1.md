@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I lifted  my eyes, and I beheld, and behold, a man, and in  his hand \[was\] a measuring line of a surveyor. 
-<small><sub>**KJV:**</sub></small>
-I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.
-<small><sub>**BSB:**</sub></small>
-Then I lifted up my eyes and saw a man with a measuring line in his hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.21|<< Zechariah 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.2|Zechariah 2:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 2:1** is...

@@ -1,5 +1,5 @@
-**Matthew 2:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:6**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thou Bethlehem, [in] the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
 <small><sub>**BSB:**</sub></small>
 ‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah, for out of you will come a ruler who will be the shepherd of My people Israel.’”
@@ -10,7 +10,7 @@ And you yourself Bethlehem land of Judah, by no means least are among the rulers
 > $\quad$ referencing: [[LXX.2Sam.5.2|2Sam 5:2]] ☩ [[LXX.Mic.5.2|Mic 5:2]][[LXX.Mic.5.4|, 4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

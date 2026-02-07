@@ -1,10 +1,7 @@
 **LXX Proverbs 30:18** 
 <small><sub>**LXX:**</sub></small>
 And there are three \[things\] impossible for me to comprehend, and the fourth I do not know -- 
-<small><sub>**KJV:**</sub></small>
-There be three [things which] are too wonderful for me, yea, four which I know not:
-<small><sub>**BSB:**</sub></small>
-There are three things too wonderful for me, four that I cannot understand:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.17|<< Proverbs 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.19|Proverbs 30:19 >>]]</td></tr></table>
 
 | Translation | Greek |

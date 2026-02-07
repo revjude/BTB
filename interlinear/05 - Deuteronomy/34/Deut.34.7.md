@@ -1,4 +1,4 @@
-**Deuteronomy 34:7** 
+**Deuteronomy 34:7**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses [was] an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses was a hundred and twenty years old when he died, yet his eyes were not wea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.6|<< Deuteronomy 34:6]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.8|Deuteronomy 34:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Moses  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4872\|מֹשֶׁ֗ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

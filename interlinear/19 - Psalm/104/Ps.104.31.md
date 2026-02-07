@@ -1,4 +1,4 @@
-**Psalms 104:31** 
+**Psalms 104:31**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The glory of the LORD shall endure for ever: the LORD shall rejoice in his works.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the glory of the LORD endure forever; may the LORD rejoice in His works.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.30|<< Psalms 104:30]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.32|Psalms 104:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be  |**<big>&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] glory of  |**<big>&#8207;[[H3519\|כְב֣וֹד]]&#8207; </big>**| khe.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

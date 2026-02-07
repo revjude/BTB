@@ -1,12 +1,12 @@
-**1 Corinthians 10:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:19**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing?
 <small><sub>**BSB:**</sub></small>
 Am I suggesting, then, that food sacrificed to an idol is anything, or that an idol is anything?
 <small><sub>**Literal:**</sub></small>
 What then do I mean? That an idol-sacrifice anything is or that an idol anything is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.18|<< 1 Corinthians 10:18]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.20|1 Corinthians 10:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

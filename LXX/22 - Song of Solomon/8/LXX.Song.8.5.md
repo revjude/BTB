@@ -1,10 +1,7 @@
 **LXX Song of Solomon 8:5** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] this  ascending from \[the\] wilderness, staying upon  her beloved \[man\]? Under \[the\] apple \[tree\] I awakened you. There your mother travailed with you. There she travailed with you,  giving birth to you. 
-<small><sub>**KJV:**</sub></small>
-Who [is] this that cometh up from the wilderness, leaning upon her beloved? I raised thee up under the apple tree: there thy mother brought thee forth: there she brought thee forth [that] bare thee.
-<small><sub>**BSB:**</sub></small>
-Who is this coming up from the wilderness, leaning on her beloved? I roused you under the apple tree; there your mother conceived you; there she travailed and brought you forth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.4|<< Song of Solomon 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.6|Song of Solomon 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

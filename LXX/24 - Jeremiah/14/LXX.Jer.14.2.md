@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:2** 
 <small><sub>**LXX:**</sub></small>
 Judea mourned, and  her gates are emptied, and are enveloped in darkness upon the earth; and the cry  of Jerusalem ascended. 
-<small><sub>**KJV:**</sub></small>
-Judah mourneth, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up.
-<small><sub>**BSB:**</sub></small>
-“Judah mourns and her gates languish. Her people wail for the land, and a cry goes up from Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.1|<< Jeremiah 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.3|Jeremiah 14:3 >>]]</td></tr></table>
 
 | Translation | Greek |

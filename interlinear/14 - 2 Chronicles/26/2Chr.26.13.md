@@ -1,4 +1,4 @@
-**2 Chronicles 26:13** 
+**2 Chronicles 26:13**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And under their hand [was] an army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Under their authority was an army of 307,500 trained for war, a powerful force t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.12|<< 2 Chronicles 26:12]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.14|2 Chronicles 26:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand their  |**<big>&#8207;[[H3027H\|יָדָ]]&#8207;&#8207;[[H9028\|ם֩]]&#8207; </big>**| ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

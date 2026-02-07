@@ -1,10 +1,7 @@
 **LXX Psalm 48:10** 
 <small><sub>**LXX:**</sub></small>
 According to  your name, O God, so also \[is\] the praise of you unto the ends of the earth. Your right \[hand\] is full of righteousness. 
-<small><sub>**KJV:**</sub></small>
-According to thy name, O God, so [is] thy praise unto the ends of the earth: thy right hand is full of righteousness.
-<small><sub>**BSB:**</sub></small>
-Your name, O God, like Your praise, reaches to the ends of the earth; Your right hand is full of righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.48.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.9|<< Psalm 48:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.11|Psalm 48:11 >>]]</td></tr></table>
 
 | Translation | Greek |

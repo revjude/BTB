@@ -1,10 +1,7 @@
 **LXX Lamentations 3:56** 
 <small><sub>**LXX:**</sub></small>
 My voice you heard; you should not hide  your ears to  my supplication. 
-<small><sub>**KJV:**</sub></small>
-Thou hast heard my voice: hide not thine ear at my breathing, at my cry.
-<small><sub>**BSB:**</sub></small>
-You heard my plea: “Do not ignore my cry for relief.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.55|<< Lamentations 3:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.57|Lamentations 3:57 >>]]</td></tr></table>
 
 | Translation | Greek |

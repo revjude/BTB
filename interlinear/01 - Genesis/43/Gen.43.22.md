@@ -1,4 +1,4 @@
-**Genesis 43:22** 
+**Genesis 43:22**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have brought additional silver with us to buy food. We do not know who put ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.21|<< Genesis 43:21]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.23|Genesis 43:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and silver  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3701G\|כֶ֧סֶף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אַחֵ֛ר]]&#8207; </big>**| 'a.Cher<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

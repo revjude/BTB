@@ -1,5 +1,5 @@
-**Matthew 5:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:33**<big><big>[[Matt.5.33 Oaths and Vows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:
 <small><sub>**BSB:**</sub></small>
 Again, you have heard that it was said to the ancients, ‘Do not break your oath, but fulfill your vows to the Lord.’
@@ -10,7 +10,7 @@ Again you have heard that it was said to the ancients; Not will you swear falsel
 > $\quad$ referencing: [[LXX.Exod.20.7|Exod 20:7]] ☩ [[LXX.Lev.19.12|Lev 19:12]] ☩ [[LXX.Num.30.2|Num 30:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Again |**<big>[[G3825\|Πάλιν]]</big>**  |Palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you have heard |**<big>[[G0191\|ἠκούσατε]]</big>**  |ēkousate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

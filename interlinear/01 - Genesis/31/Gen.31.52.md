@@ -1,4 +1,4 @@
-**Genesis 31:52** 
+**Genesis 31:52**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This heap [be] witness, and [this] pillar [be] witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This mound is a witness, and this pillar is a witness, that I will not go past t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.51|<< Genesis 31:51]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.53|Genesis 31:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a witness  |**<big>&#8207;[[H5707\|עֵ֚ד]]&#8207; </big>**| 'ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heap  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1530G\|גַּ֣ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Gal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

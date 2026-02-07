@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:2** 
 <small><sub>**LXX:**</sub></small>
 For you are a holy people \[to the\] <span class="smallcaps">lord</span>  your God, and \[the\] <span class="smallcaps">lord</span> your God chose you to become  his prized people of all the nations of the \[ones\] upon \[the\] face of the earth. 
-<small><sub>**KJV:**</sub></small>
-For thou [art] an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that [are] upon the earth.
-<small><sub>**BSB:**</sub></small>
-for you are a people holy to the LORD your God. The LORD has chosen you to be a people for His prized possession out of all the peoples on the face of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.1|<< Deuteronomy 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.3|Deuteronomy 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 14:2** is...

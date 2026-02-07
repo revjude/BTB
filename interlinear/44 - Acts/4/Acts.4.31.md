@@ -1,12 +1,12 @@
-**Acts 4:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:31**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.
 <small><sub>**BSB:**</sub></small>
 After they had prayed, their meeting place was shaken, and they were all filled with the Holy Spirit and spoke the word of God boldly.
 <small><sub>**Literal:**</sub></small>
 And when were praying they was shaken the place in which they were assembled, and they were filled all with the Holy Spirit and were speaking the word <the> of God with boldness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.30|<< Acts 4:30]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.32|Acts 4:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when were praying |**<big>[[G1189\|δεηθέντων]]</big>**  |deēthentōn <small><sup>[[V-AOP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

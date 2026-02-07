@@ -1,10 +1,7 @@
 **LXX Numbers 4:42** 
 <small><sub>**LXX:**</sub></small>
 And were numbered also \[the\] people of \[the\] sons of Merari according to their peoples, according to \[the\] houses of their patrimony, 
-<small><sub>**KJV:**</sub></small>
-And those that were numbered of the families of the sons of Merari, throughout their families, by the house of their fathers,
-<small><sub>**BSB:**</sub></small>
-And the Merarites were numbered by their clans and families,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.41|<< Numbers 4:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.43|Numbers 4:43 >>]]</td></tr></table>
 
 | Translation | Greek |

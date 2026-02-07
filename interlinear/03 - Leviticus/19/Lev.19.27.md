@@ -1,4 +1,4 @@
-**Leviticus 19:27** 
+**Leviticus 19:27**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not cut off the hair at the sides of your head or clip off the edges of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.26|<< Leviticus 19:26]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.28|Leviticus 19:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will round off  |**<big>&#8207;[[H5362B\|תַקִּ֔פוּ]]&#8207; </big>**| ta.Ki.fu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

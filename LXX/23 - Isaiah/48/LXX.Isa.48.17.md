@@ -1,10 +1,7 @@
 **LXX Isaiah 48:17** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, the one rescuing you, the holy one of Israel, I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. I have shown to you  how to find the way in which you shall go by it. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, thy Redeemer, the Holy One of Israel; I [am] the LORD thy God which teacheth thee to profit, which leadeth thee by the way [that] thou shouldest go.
-<small><sub>**BSB:**</sub></small>
-Thus says the LORD your Redeemer, the Holy One of Israel: “I am the LORD your God, who teaches you for your benefit, who directs you in the way you should go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.16|<< Isaiah 48:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.18|Isaiah 48:18 >>]]</td></tr></table>
 
 | Translation | Greek |

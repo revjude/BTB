@@ -1,10 +1,7 @@
 **LXX Isaiah 56:7** 
 <small><sub>**LXX:**</sub></small>
 I will bring them unto  my holy mountain, and I will gladden them in  my house of prayer.  Their whole-burnt offerings and  their sacrifices will be accepted upon  my altar.  For my house shall be called a house of prayer for all the nations, 
-<small><sub>**KJV:**</sub></small>
-Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices [shall be] accepted upon mine altar; for mine house shall be called an house of prayer for all people.
-<small><sub>**BSB:**</sub></small>
-I will bring them to My holy mountain and make them joyful in My house of prayer. Their burnt offerings and sacrifices will be accepted on My altar, for My house will be called a house of prayer for all the nations.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.56.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.6|<< Isaiah 56:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.8|Isaiah 56:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 56:7** is...

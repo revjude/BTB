@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David slept with  his fathers, and he was entombed in the city of David. 
-<small><sub>**KJV:**</sub></small>
-So David slept with his fathers, and was buried in the city of David.
-<small><sub>**BSB:**</sub></small>
-Then David rested with his fathers and was buried in the City of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.9|<< 1 Kings 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.11|1 Kings 2:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Kings 2:10** is...

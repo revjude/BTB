@@ -1,4 +1,4 @@
-**Isaiah 17:2** 
+**Isaiah 17:2**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The cities of Aroer [are] forsaken: they shall be for flocks, which shall lie down, and none shall make [them] afraid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The cities of Aroer are forsaken; they will be left to the flocks, which will li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.1|<< Isaiah 17:1]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.3|Isaiah 17:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [will be] abandoned  |**<big>&#8207;[[H5800A\|עֲזֻב֖וֹת]]&#8207; </big>**| a.zu.Vot<small><sup>[[HVqsfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] cities of  |**<big>&#8207;[[H5892B\|עָרֵ֣י]]&#8207; </big>**| 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

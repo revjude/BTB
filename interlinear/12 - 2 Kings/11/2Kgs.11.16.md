@@ -1,4 +1,4 @@
-**2 Kings 11:16** 
+**2 Kings 11:16**<big><big>[[2Kgs.11.13 The Death of Athaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they laid hands on her; and she went by the way by the which the horses came into the king’s house: and there was she slain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they seized Athaliah as she reached the horses’ entrance to the palace grou
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.15|<< 2 Kings 11:15]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.17|2 Kings 11:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760H\|יָּשִׂ֤מוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to her  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

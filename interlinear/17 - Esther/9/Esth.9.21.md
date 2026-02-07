@@ -1,4 +1,4 @@
-**Esther 9:21** 
+**Esther 9:21**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To stablish [this] among them, that they should keep the fourteenth day of the month Adar, and the fifteenth day of the same, yearly,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to establish among them an annual celebration on the fourteenth and fifteenth da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.20|<< Esther 9:20]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.22|Esther 9:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to impose  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6965I\|קַיֵּם֮]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kai.Yem<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶם֒]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

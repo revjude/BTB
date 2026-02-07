@@ -1,10 +1,7 @@
 **LXX Obadiah 1:7** 
 <small><sub>**LXX:**</sub></small>
 Unto the borders they sent you; all the men  of your covenant opposed you; they prevailed against you; peaceable men with you put an ambush underneath you. There is no understanding in them. 
-<small><sub>**KJV:**</sub></small>
-All the men of thy confederacy have brought thee [even] to the border: the men that were at peace with thee have deceived thee, [and] prevailed against thee; [they that eat] thy bread have laid a wound under thee: [there is] none understanding in him.
-<small><sub>**BSB:**</sub></small>
-All the men allied with you will drive you to the border; the men at peace with you will deceive and overpower you. Those who eat your bread will set a trap for you without your awareness of it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.6|<< Obadiah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.8|Obadiah 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

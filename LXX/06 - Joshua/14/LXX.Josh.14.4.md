@@ -1,10 +1,7 @@
 **LXX Joshua 14:4** 
 <small><sub>**LXX:**</sub></small>
 For the sons of Joseph were two tribes -- Manasseh and Ephraim. And a portion was not given to the Levites in the land, but only cities to dwell in, and  their outskirts  for their cattle and  their herds. 
-<small><sub>**KJV:**</sub></small>
-For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell [in], with their suburbs for their cattle and for their substance.
-<small><sub>**BSB:**</sub></small>
-The descendants of Joseph became two tribes, Manasseh and Ephraim. And no portion of the land was given to the Levites, except for cities in which to live, along with pasturelands for their flocks and herds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.3|<< Joshua 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.5|Joshua 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

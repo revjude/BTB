@@ -1,10 +1,7 @@
 **LXX Psalm 143:9** 
 <small><sub>**LXX:**</sub></small>
 Rescue me from  my enemies, O <span class="smallcaps">lord</span>! to you I take refuge. 
-<small><sub>**KJV:**</sub></small>
-Deliver me, O LORD, from mine enemies: I flee unto thee to hide me.
-<small><sub>**BSB:**</sub></small>
-Deliver me from my enemies, O LORD; I flee to You for refuge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.8|<< Psalm 143:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.10|Psalm 143:10 >>]]</td></tr></table>
 
 | Translation | Greek |

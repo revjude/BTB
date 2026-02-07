@@ -1,4 +1,4 @@
-**Daniel 9:23** 
+**Daniel 9:23**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the beginning of thy supplications the commandment came forth, and I am come to shew [thee]; for thou [art] greatly beloved: therefore understand the matter, and consider the vision.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the beginning of your petitions, an answer went out, and I have come to tell 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.22|<< Daniel 9:22]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.24|Daniel 9:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at [the] beginning of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8462\|תְחִלַּ֨ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> t.chi.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | supplications your  |**<big>&#8207;[[H8469\|תַּחֲנוּנֶ֜י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ta.cha.nu.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

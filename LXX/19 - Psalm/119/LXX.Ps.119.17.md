@@ -1,10 +1,7 @@
 **LXX Psalm 119:17** 
 <small><sub>**LXX:**</sub></small>
 Recompense to your servant! Enliven me! and I will keep  your words 
-<small><sub>**KJV:**</sub></small>
-GIMEL. Deal bountifully with thy servant, [that] I may live, and keep thy word.
-<small><sub>**BSB:**</sub></small>
-Deal bountifully with Your servant, that I may live and keep Your word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.16|<< Psalm 119:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.18|Psalm 119:18 >>]]</td></tr></table>
 
 | Translation | Greek |

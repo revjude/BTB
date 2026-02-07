@@ -1,10 +1,7 @@
 **LXX Proverbs 12:5** 
 <small><sub>**LXX:**</sub></small>
 \[The\] devices of \[the\] just \[are true\] judgments; but \[the\] impious devise treachery. 
-<small><sub>**KJV:**</sub></small>
-The thoughts of the righteous [are] right: [but] the counsels of the wicked [are] deceit.
-<small><sub>**BSB:**</sub></small>
-The plans of the righteous are just, but the counsel of the wicked leads to deceit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.4|<< Proverbs 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.6|Proverbs 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**3 John 1:4
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:4**<big><big>[[3John.1.1 A Greeting from the Elder|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I have no greater joy than to hear that my children walk in truth.
 <small><sub>**BSB:**</sub></small>
 I have no greater joy than to hear that my children are walking in the truth.
 <small><sub>**Literal:**</sub></small>
 Greater than these things not I have joy that I may hear of <the> my children in the truth walking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.3|<< 3 John 1:3]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.5|3 John 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Greater |**<big>[[G3173\|μειζοτέραν]]</big>**  |meizoteran <small><sup>[[A-ASF-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | than these things |**<big>[[G3778\|τούτων]]</big>**  |toutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

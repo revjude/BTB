@@ -1,4 +1,4 @@
-**Isaiah 40:13** 
+**Isaiah 40:13**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath directed the Spirit of the LORD, or [being] his counseller hath taught him?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who has directed the Spirit of the LORD, or informed Him as His counselor?
 > $\quad$ referenced by: [[Rom.11.34|Rom 11:34]] ☩ [[1Cor.2.16|1Cor 2:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he directed  |**<big>&#8207;[[H8505\|תִכֵּ֥ן]]&#8207; </big>**| ti.Ken<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

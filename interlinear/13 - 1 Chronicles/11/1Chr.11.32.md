@@ -1,4 +1,4 @@
-**1 Chronicles 11:32** 
+**1 Chronicles 11:32**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hurai of the brooks of Gaash, Abiel the Arbathite,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hurai from the brooks of Gaash, Abiel the Arbathite,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.31|<< 1 Chronicles 11:31]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.33|1 Chronicles 11:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hurai  |**<big>&#8207;[[H2360\|חוּרַי֙]]&#8207; </big>**| chu.Rai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] wadis of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5158A\|נַּ֣חֲלֵי]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Na.cha.lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

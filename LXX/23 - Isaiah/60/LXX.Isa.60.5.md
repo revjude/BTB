@@ -1,10 +1,7 @@
 **LXX Isaiah 60:5** 
 <small><sub>**LXX:**</sub></small>
 Then you shall see, and shall be fearful, and shall be startled in the heart; for \[the\] riches of \[the\] sea shall turn unto you, and of nations, and of peoples; and they shall come to you. 
-<small><sub>**KJV:**</sub></small>
-Then thou shalt see, and flow together, and thine heart shall fear, and be enlarged; because the abundance of the sea shall be converted unto thee, the forces of the Gentiles shall come unto thee.
-<small><sub>**BSB:**</sub></small>
-Then you will look and be radiant, and your heart will tremble and swell with joy, because the riches of the sea will be brought to you, and the wealth of the nations will come to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.4|<< Isaiah 60:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.6|Isaiah 60:6 >>]]</td></tr></table>
 
 | Translation | Greek |

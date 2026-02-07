@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:30** 
 <small><sub>**LXX:**</sub></small>
 And the rest fled unto Aphek, into the city. And the wall fell upon twenty and seven thousand men of the ones remaining. And \[the\] son of Hadad fled, and he entered into the house of the bedroom, into the inner chamber. 
-<small><sub>**KJV:**</sub></small>
-But the rest fled to Aphek, into the city; and [there] a wall fell upon twenty and seven thousand of the men [that were] left. And Benhadad fled, and came into the city, into an inner chamber.
-<small><sub>**BSB:**</sub></small>
-The rest of them fled into the city of Aphek, where the wall fell on twenty-seven thousand of the remaining men. Ben-hadad also fled to the city and hid in an inner room.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.29|<< 1 Kings 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.31|1 Kings 20:31 >>]]</td></tr></table>
 
 | Translation | Greek |

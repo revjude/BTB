@@ -1,4 +1,4 @@
-**Joshua 9:17** 
+**Joshua 9:17**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel journeyed, and came unto their cities on the third day. Now their cities [were] Gibeon, and Chephirah, and Beeroth, and Kirjathjearim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Israelites set out and on the third day arrived at their cities—Gibeon,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.16|<< Joshua 9:16]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.18|Joshua 9:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסְע֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 24:10** 
+**Jeremiah 24:10**<big><big>[[Jer.24.1 The Good and Bad Figs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land that I gave unto them and to their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will send against them sword and famine and plague, until they have perish
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.9|<< Jeremiah 24:9]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.1|Jeremiah 25:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will send  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971G\|שִׁלַּ֣חְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.Lach.ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on \<the> them  |**<big>&#8207;[[H9003\|בָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

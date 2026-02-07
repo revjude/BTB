@@ -1,10 +1,7 @@
 **LXX Leviticus 20:5** 
 <small><sub>**LXX:**</sub></small>
 then I shall set  my face against  that man, and  his kin, and I will destroy him, and all the ones consenting with him, so as for them to fornicate with the ruling \[gods\] of  their people. 
-<small><sub>**KJV:**</sub></small>
-Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people.
-<small><sub>**BSB:**</sub></small>
-then I will set My face against that man and his family and cut off from among their people both him and all who follow him in prostituting themselves with Molech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.4|<< Leviticus 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.6|Leviticus 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

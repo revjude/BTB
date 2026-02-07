@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:4** 
 <small><sub>**LXX:**</sub></small>
 Because I will utterly destroy \[the\] unjust one and \[the\] lawless one from out of you, so my knife come forth from out of  its sheath against all flesh, from \[the\] east unto \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-Seeing then that I will cut off from thee the righteous and the wicked, therefore shall my sword go forth out of his sheath against all flesh from the south to the north:
-<small><sub>**BSB:**</sub></small>
-Because I will cut off both the righteous and the wicked, My sword will be unsheathed against everyone from south to north.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.3|<< Ezekiel 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.5|Ezekiel 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

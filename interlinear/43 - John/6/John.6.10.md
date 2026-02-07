@@ -1,12 +1,12 @@
-**John 6:10
-**<small><sub>**KJV:**</sub></small>
+**John 6:10**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand.
 <small><sub>**BSB:**</sub></small>
 “Have the people sit down,” Jesus said. Now there was plenty of grass in that place, so the men sat down, about five thousand of them.
 <small><sub>**Literal:**</sub></small>
 Said now <the> Jesus; do make the men to recline. There was now grass much in the place. Reclined therefore the men the number about five thousand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.9|<< John 6:9]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.11|John 6:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

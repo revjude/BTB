@@ -1,4 +1,4 @@
-**Jeremiah 50:1** 
+**Jeremiah 50:1**<big><big>[[Jer.50.1 A Prophecy against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word that the LORD spake against Babylon [and] against the land of the Chaldeans by Jeremiah the prophet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the word that the LORD spoke through Jeremiah the prophet concerning Bab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.39|<< Jeremiah 49:39]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.2|Jeremiah 50:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֗ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

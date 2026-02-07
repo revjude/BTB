@@ -1,4 +1,4 @@
-**2 Chronicles 3:4** 
+**2 Chronicles 3:4**<big><big>[[2Chr.3.1 Temple Construction Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the porch that [was] in the front [of the house], the length [of it was] according to the breadth of the house, twenty cubits, and the height [was] an hundred and twenty: and he overlaid it within with pure gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The portico at the front, extending across the width of the temple, was twenty c
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.3|<< 2 Chronicles 3:3]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.5|2 Chronicles 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the porch  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0197J\|אוּלָ֡ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'u.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

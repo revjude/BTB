@@ -1,10 +1,7 @@
 **LXX Psalm 109:3** 
 <small><sub>**LXX:**</sub></small>
 and \[with\] words of hatred they encircled me; and they waged war against me without charge. 
-<small><sub>**KJV:**</sub></small>
-They compassed me about also with words of hatred; and fought against me without a cause.
-<small><sub>**BSB:**</sub></small>
-They surround me with hateful words and attack me without cause.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.2|<< Psalm 109:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.4|Psalm 109:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 109:3** is...

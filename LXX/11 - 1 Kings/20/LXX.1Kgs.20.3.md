@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:3** 
 <small><sub>**LXX:**</sub></small>
  Your silver and  your gold is mine; and  your wives and  your children, the best is mine. 
-<small><sub>**KJV:**</sub></small>
-Thy silver and thy gold [is] mine; thy wives also and thy children, [even] the goodliest, [are] mine.
-<small><sub>**BSB:**</sub></small>
-saying, “This is what Ben-hadad says: ‘Your silver and gold are mine, and your best wives and children are mine!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.2|<< 1 Kings 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.4|1 Kings 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

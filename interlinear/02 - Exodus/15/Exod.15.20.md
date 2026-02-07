@@ -1,4 +1,4 @@
-**Exodus 15:20** 
+**Exodus 15:20**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Miriam the prophetess, Aaron’s sister, took a tambourine in her hand, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.19|<< Exodus 15:19]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.21|Exodus 15:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּח֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Miriam  |**<big>&#8207;[[H4813G\|מִרְיָ֨ם]]&#8207; </big>**| mir.Yam<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

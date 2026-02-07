@@ -1,10 +1,7 @@
 **LXX Genesis 35:27** 
 <small><sub>**LXX:**</sub></small>
 And Jacob came to Isaac  his father in Mamre, in a city of the plain -- this is Hebron, in \[the\] land of Canaan, where Abraham and Isaac sojourned. 
-<small><sub>**KJV:**</sub></small>
-And Jacob came unto Isaac his father unto Mamre, unto the city of Arbah, which [is] Hebron, where Abraham and Isaac sojourned.
-<small><sub>**BSB:**</sub></small>
-Jacob returned to his father Isaac at Mamre, near Kiriath-arba (that is, Hebron), where Abraham and Isaac had stayed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.26|<< Genesis 35:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.28|Genesis 35:28 >>]]</td></tr></table>
 
 | Translation | Greek |

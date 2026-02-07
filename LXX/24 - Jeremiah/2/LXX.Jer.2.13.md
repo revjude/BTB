@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:13** 
 <small><sub>**LXX:**</sub></small>
 For two and wicked \[things\] my people did to me; they abandoned \[the\] spring of water of life, and they dug for themselves cisterns having been broken, the ones which \[are\] not able to hold water. 
-<small><sub>**KJV:**</sub></small>
-For my people have committed two evils; they have forsaken me the fountain of living waters, [and] hewed them out cisterns, broken cisterns, that can hold no water.
-<small><sub>**BSB:**</sub></small>
-“For My people have committed two evils: They have forsaken Me, the fountain of living water, and they have dug their own cisterns—broken cisterns that cannot hold water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.12|<< Jeremiah 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.14|Jeremiah 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

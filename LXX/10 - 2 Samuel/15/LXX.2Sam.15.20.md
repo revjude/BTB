@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:20** 
 <small><sub>**LXX:**</sub></small>
 Since you came yesterday, then today shall I move you  to go with us? And I shall go where ever I shall go. Go, and return  your brothers with you! and \[the\] <span class="smallcaps">lord</span> shall execute with you an act of kindness and truth. 
-<small><sub>**KJV:**</sub></small>
-Whereas thou camest [but] yesterday, should I this day make thee go up and down with us? seeing I go whither I may, return thou, and take back thy brethren: mercy and truth [be] with thee.
-<small><sub>**BSB:**</sub></small>
-In fact, you arrived only yesterday; should I make you wander around with us today while I do not know where I am going? Go back and take your brothers with you. May the LORD show you loving devotion and faithfulness.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.19|<< 2 Samuel 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.21|2 Samuel 15:21 >>]]</td></tr></table>
 
 | Translation | Greek |

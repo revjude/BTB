@@ -1,4 +1,4 @@
-**Proverbs 21:13** 
+**Proverbs 21:13**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever shuts his ears to the cry of the poor, he too shall cry out and receive 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.12|<< Proverbs 21:12]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.14|Proverbs 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] shuts  |**<big>&#8207;[[H0331\|אֹטֵ֣ם]]&#8207; </big>**| 'o.Tem<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ear his  |**<big>&#8207;[[H0241G\|אָ֭זְנ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'a.ze.n<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

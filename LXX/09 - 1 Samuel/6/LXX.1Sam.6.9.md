@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall see if into \[the\] way of their border it shall go -- according to Beth-shemesh, \[if\] he did to us  this great evil. And if not, then we will know that \[it\] was not his hand that touched us, but \[that\] this was a coincidence to us. 
-<small><sub>**KJV:**</sub></small>
-And see, if it goeth up by the way of his own coast to Bethshemesh, [then] he hath done us this great evil: but if not, then we shall know that [it is] not his hand [that] smote us; it [was] a chance [that] happened to us.
-<small><sub>**BSB:**</sub></small>
-but keep watching it. If it goes up the road to its homeland, toward Beth-shemesh, it is the LORD who has brought on us this great disaster. But if it does not, then we will know that it was not His hand that punished us and that it happened by chance.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.8|<< 1 Samuel 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.10|1 Samuel 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

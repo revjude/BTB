@@ -1,4 +1,4 @@
-**Joshua 20:6** 
+**Joshua 20:6**<big><big>[[Josh.20.1 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall dwell in that city, until he stand before the congregation for judgment, [and] until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to stay in that city until he stands trial before the assembly and until t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.5|<< Joshua 20:5]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.7|Joshua 20:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3427\|יָשַׁ֣ב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Shav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the city  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

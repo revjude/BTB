@@ -1,4 +1,4 @@
-**2 Kings 2:1** 
+**2 Kings 2:1**<big><big>[[2Kgs.2.1 Elijah Taken Up to Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shortly before the LORD took Elijah up to heaven in a whirlwind, Elijah and Elis
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.18|<< 2 Kings 1:18]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.2|2 Kings 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when took up  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5927H\|הַעֲל֤וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ha.'a.Lot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

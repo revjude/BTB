@@ -1,10 +1,7 @@
 **LXX Psalm 87:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> loves the gates of Zion above all the tents of Jacob. 
-<small><sub>**KJV:**</sub></small>
-The LORD loveth the gates of Zion more than all the dwellings of Jacob.
-<small><sub>**BSB:**</sub></small>
-The LORD loves the gates of Zion more than all the dwellings of Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.87.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.87.1|<< Psalm 87:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.87.3|Psalm 87:3 >>]]</td></tr></table>
 
 | Translation | Greek |

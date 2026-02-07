@@ -1,5 +1,5 @@
-**Revelation 1:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:17**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:
 <small><sub>**BSB:**</sub></small>
 When I saw Him, I fell at His feet like a dead man. But He placed His right hand on me and said, “Do not be afraid. I am the First and the Last,
@@ -10,7 +10,7 @@ And when I saw Him, I fell at the feet of Him as though dead, And He placed the 
 > $\quad$ possibly alluding to: [[LXX.Dan.8.17|Dan 8:17]] ☩ [[LXX.Dan.10.8|Dan 10:8]] ☩ [[LXX.Isa.44.6|Isa 44:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

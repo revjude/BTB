@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:6** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  his giving charge to the man, to the one being clothed in the holy robe, saying, Take fire from out of \[the\] midst of the wheels, from the \[place\] between the cherubim! And he entered and stood next to the wheels. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, [that] when he had commanded the man clothed with linen, saying, Take fire from between the wheels, from between the cherubims; then he went in, and stood beside the wheels.
-<small><sub>**BSB:**</sub></small>
-When the LORD commanded the man clothed in linen, saying, “Take fire from within the wheelwork, from among the cherubim,” the man went in and stood beside a wheel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.5|<< Ezekiel 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.7|Ezekiel 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

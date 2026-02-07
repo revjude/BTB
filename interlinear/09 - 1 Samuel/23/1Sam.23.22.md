@@ -1,4 +1,4 @@
-**1 Samuel 23:22** 
+**1 Samuel 23:22**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go, I pray you, prepare yet, and know and see his place where his haunt is, [and] who hath seen him there: for it is told me [that] he dealeth very subtilly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please go and prepare further. Investigate and watch carefully where he goes and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.21|<< 1 Samuel 23:21]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.23|1 Samuel 23:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לְכוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.khu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֞א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

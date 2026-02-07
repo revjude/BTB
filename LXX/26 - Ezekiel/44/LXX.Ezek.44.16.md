@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:16** 
 <small><sub>**LXX:**</sub></small>
 These shall enter into  my holy places, and these shall come forward to  my table  to minister to me, and to guard  my watches. 
-<small><sub>**KJV:**</sub></small>
-They shall enter into my sanctuary, and they shall come near to my table, to minister unto me, and they shall keep my charge.
-<small><sub>**BSB:**</sub></small>
-They alone shall enter My sanctuary and draw near to My table to minister before Me. They will keep My charge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.15|<< Ezekiel 44:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.17|Ezekiel 44:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:20** 
 <small><sub>**LXX:**</sub></small>
 And they were called to aid over them, and the were delivered up into their hand, and all the ones with them; for \[to\] God they yelled in the battle, and he heeded them, for they relied upon him. 
-<small><sub>**KJV:**</sub></small>
-And they were helped against them, and the Hagarites were delivered into their hand, and all that [were] with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him.
-<small><sub>**BSB:**</sub></small>
-And because they cried out to God in battle, they were helped against their enemies, and the Hagrites and all their allies were delivered into their hands. Because they put their trust in God, He answered their prayers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.19|<< 1 Chronicles 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.21|1 Chronicles 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

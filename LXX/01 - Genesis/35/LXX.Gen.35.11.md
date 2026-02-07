@@ -1,10 +1,7 @@
 **LXX Genesis 35:11** 
 <small><sub>**LXX:**</sub></small>
 And God said to him, I \[am\]  your God. Grow and multiply! Nations and gatherings of nations will be from you, and kings shall come forth from your loin. 
-<small><sub>**KJV:**</sub></small>
-And God said unto him, I [am] God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins;
-<small><sub>**BSB:**</sub></small>
-And God told him, “I am God Almighty. Be fruitful and multiply. A nation—even a company of nations—shall come from you, and kings shall descend from you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.10|<< Genesis 35:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.12|Genesis 35:12 >>]]</td></tr></table>
 
 | Translation | Greek |

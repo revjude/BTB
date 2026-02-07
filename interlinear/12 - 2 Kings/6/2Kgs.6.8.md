@@ -1,4 +1,4 @@
-**2 Kings 6:8** 
+**2 Kings 6:8**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place [shall be] my camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the king of Aram was at war against Israel. After consulting with his servan
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.7|<< 2 Kings 6:7]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.9|2 Kings 6:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] king of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָ֔ם]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

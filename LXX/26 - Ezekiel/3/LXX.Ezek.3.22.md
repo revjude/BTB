@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] hand \[of the\] <span class="smallcaps">lord</span> came to pass there upon me. And he said to me, Rise up, and go forth into the plain! and there it shall be spoken to you. 
-<small><sub>**KJV:**</sub></small>
-And the hand of the LORD was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with thee.
-<small><sub>**BSB:**</sub></small>
-And there the hand of the LORD was upon me, and He said to me, “Get up, go out to the plain, and there I will speak with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.21|<< Ezekiel 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.23|Ezekiel 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

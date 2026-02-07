@@ -1,10 +1,7 @@
 **LXX Job 33:8** 
 <small><sub>**LXX:**</sub></small>
 Except you said in my ears, I have heard \[the\] voice of your words, for you say, 
-<small><sub>**KJV:**</sub></small>
-Surely thou hast spoken in mine hearing, and I have heard the voice of [thy] words, [saying],
-<small><sub>**BSB:**</sub></small>
-Surely you have spoken in my hearing, and I have heard these very words:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.7|<< Job 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.9|Job 33:9 >>]]</td></tr></table>
 
 | Translation | Greek |

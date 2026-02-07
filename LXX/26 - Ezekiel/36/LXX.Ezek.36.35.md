@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:35** 
 <small><sub>**LXX:**</sub></small>
 And they shall say,  That land, the one being obliterated was become as a garden of luxury; and the cities -- the desolate and ones having been obliterated, and having been razed, they sat fortified. 
-<small><sub>**KJV:**</sub></small>
-And they shall say, This land that was desolate is become like the garden of Eden; and the waste and desolate and ruined cities [are become] fenced, [and] are inhabited.
-<small><sub>**BSB:**</sub></small>
-Then they will say, ‘This land that was desolate has become like the garden of Eden. The cities that were once ruined, desolate, and destroyed are now fortified and inhabited.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.34|<< Ezekiel 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.36|Ezekiel 36:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 36:35** is...

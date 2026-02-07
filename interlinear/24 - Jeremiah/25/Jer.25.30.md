@@ -1,4 +1,4 @@
-**Jeremiah 25:30** 
+**Jeremiah 25:30**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore prophesy thou against them all these words, and say unto them, The LORD shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread [the grapes], against all the inhabitants of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So you are to prophesy all these words against them and say to them: ‘The LORD
 > $\quad$ referenced by: [[Rev.10.3|Rev 10:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will prophesy  |**<big>&#8207;[[H5012\|תִּנָּבֵ֣א]]&#8207; </big>**| ti.na.Ve'<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 17:1** 
+**Deuteronomy 17:1**<big><big>[[Deut.17.1 Detestable Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not sacrifice unto the LORD thy God [any] bullock, or sheep, wherein is blemish, [or] any evilfavouredness: for that [is] an abomination unto the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall not sacrifice to the LORD your God an ox or a sheep with any defect or
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.22|<< Deuteronomy 16:22]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.2|Deuteronomy 17:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will sacrifice  |**<big>&#8207;[[H2076\|תִזְבַּח֩]]&#8207; </big>**| tiz.Bach<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

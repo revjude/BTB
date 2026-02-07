@@ -1,4 +1,4 @@
-**Jeremiah 49:1** 
+**Jeremiah 49:1**<big><big>[[Jer.49.1 Judgment on the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning the Ammonites, thus saith the LORD; Hath Israel no sons? hath he no heir? why [then] doth their king inherit Gad, and his people dwell in his cities?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Concerning the Ammonites, this is what the LORD says: “Has Israel no sons? Is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.47|<< Jeremiah 48:47]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.2|Jeremiah 49:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of [the] people of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ammon  |**<big>&#8207;[[H5983\|עַמּ֗וֹן]]&#8207; </big>**| a.Mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

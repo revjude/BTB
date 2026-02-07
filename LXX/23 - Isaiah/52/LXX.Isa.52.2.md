@@ -1,10 +1,7 @@
 **LXX Isaiah 52:2** 
 <small><sub>**LXX:**</sub></small>
 Shake off the dust and rise up! Sit, O Jerusalem! Take off the bond  from your neck, O captive daughter of Zion! 
-<small><sub>**KJV:**</sub></small>
-Shake thyself from the dust; arise, [and] sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.
-<small><sub>**BSB:**</sub></small>
-Shake off your dust! Rise up and sit on your throne, O Jerusalem. Remove the chains from your neck, O captive Daughter of Zion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.1|<< Isaiah 52:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.3|Isaiah 52:3 >>]]</td></tr></table>
 
 | Translation | Greek |

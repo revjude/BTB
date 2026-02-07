@@ -1,10 +1,7 @@
 **LXX Deuteronomy 18:22** 
 <small><sub>**LXX:**</sub></small>
 As many \[things\] as the prophet should speak in the name of \[the\] <span class="smallcaps">lord</span>, and the thing should not take place, and this thing should not come to pass which \[the\] <span class="smallcaps">lord</span> spoke not; through impiety the prophet spoke; you shall not receive from him. 
-<small><sub>**KJV:**</sub></small>
-When a prophet speaketh in the name of the LORD, if the thing follow not, nor come to pass, that [is] the thing which the LORD hath not spoken, [but] the prophet hath spoken it presumptuously: thou shalt not be afraid of him.
-<small><sub>**BSB:**</sub></small>
-When a prophet speaks in the name of the LORD and the message does not come to pass or come true, that is a message the LORD has not spoken. The prophet has spoken presumptuously. Do not be afraid of him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.21|<< Deuteronomy 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.1|Deuteronomy 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

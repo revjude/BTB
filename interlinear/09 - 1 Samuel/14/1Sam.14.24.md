@@ -1,4 +1,4 @@
-**1 Samuel 14:24** 
+**1 Samuel 14:24**<big><big>[[1Sam.14.24 Jonathan Eats the Honey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel were distressed that day: for Saul had adjured the people, saying, Cursed [be] the man that eateth [any] food until evening, that I may be avenged on mine enemies. So none of the people tasted [any] food.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the men of Israel were in distress that day, for Saul had placed the troops 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.23|<< 1 Samuel 14:23]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.25|1 Samuel 14:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] man of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ish-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֥ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

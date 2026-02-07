@@ -1,4 +1,4 @@
-**Exodus 6:27** 
+**Exodus 6:27**<big><big>[[Exod.6.14 Genealogies of Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these [are] that Moses and Aaron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses and Aaron were the ones who spoke to Pharaoh king of Egypt in order to bri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.26|<< Exodus 6:26]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.28|Exodus 6:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֗ם]]&#8207; </big>**| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] the [ones who] were speaking  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H1696G\|מְדַבְּרִים֙]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.da.be.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

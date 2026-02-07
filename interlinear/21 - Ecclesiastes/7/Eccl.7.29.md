@@ -1,4 +1,4 @@
-**Ecclesiastes 7:29** 
+**Ecclesiastes 7:29**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Only this have I found: I have discovered that God made mankind upright, but the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.28|<< Ecclesiastes 7:28]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.1|Ecclesiastes 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> only  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905H\|בַד֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | consider  |**<big>&#8207;[[H7200I\|רְאֵה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| re.'eh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

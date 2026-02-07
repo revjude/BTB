@@ -1,4 +1,4 @@
-**Jeremiah 51:30** 
+**Jeremiah 51:30**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mighty men of Babylon have forborn to fight, they have remained in [their] holds: their might hath failed; they became as women: they have burned her dwellingplaces; her bars are broken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The warriors of Babylon have stopped fighting; they sit in their strongholds. Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.29|<< Jeremiah 51:29]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.31|Jeremiah 51:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will cease  |**<big>&#8207;[[H2308\|חָדְלוּ֩]]&#8207; </big>**| cha.de.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] warriors of  |**<big>&#8207;[[H1368\|גִבּוֹרֵ֨י]]&#8207; </big>**| gi.bo.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 8:33** 
 <small><sub>**LXX:**</sub></small>
 And from the door of the tent of the testimony you shall not come forth \[for\] seven days, until \[the\] days of fullness, \[the\] days of your consecration; for seven days he will perfect  your hands, 
-<small><sub>**KJV:**</sub></small>
-And ye shall not go out of the door of the tabernacle of the congregation [in] seven days, until the days of your consecration be at an end: for seven days shall he consecrate you.
-<small><sub>**BSB:**</sub></small>
-You must not go outside the entrance to the Tent of Meeting for seven days, until the days of your ordination are complete; for it will take seven days to ordain you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.32|<< Leviticus 8:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.34|Leviticus 8:34 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Malachi 4:2** 
 <small><sub>**LXX:**</sub></small>
 And to you, O ones fearing  my name, shall arise sun of righteousness, and healing \[is\] in  his wings; and you shall come forth and shall leap as young calves being spared from out of bonds. 
-<small><sub>**KJV:**</sub></small>
-But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.
-<small><sub>**BSB:**</sub></small>
-“But for you who fear My name, the sun of righteousness will rise with healing in its wings, and you will go out and leap like calves from the stall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.4.1|<< Malachi 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.4.3|Malachi 4:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Malachi 4:2** is...

@@ -1,10 +1,7 @@
 **LXX Genesis 47:21** 
 <small><sub>**LXX:**</sub></small>
 And the people were reduced to slavery to him as servants from \[the\] uttermost parts of \[the\] boundaries of Egypt, unto the uttermost parts, 
-<small><sub>**KJV:**</sub></small>
-And as for the people, he removed them to cities from [one] end of the borders of Egypt even to the [other] end thereof.
-<small><sub>**BSB:**</sub></small>
-and Joseph reduced the people to servitude from one end of Egypt to the other.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.20|<< Genesis 47:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.22|Genesis 47:22 >>]]</td></tr></table>
 
 | Translation | Greek |

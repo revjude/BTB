@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:28** 
 <small><sub>**LXX:**</sub></small>
 And I chose the house  of your father from out of all the tribes of Israel to officiate as priest to me,  to ascend unto my altar, and to burn incense, and to carry an ephod before me. And I gave to the house  of your father all the \[things\] of the sacrifices of the fire of the sons of Israel for food. 
-<small><sub>**KJV:**</sub></small>
-And did I choose him out of all the tribes of Israel [to be] my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?
-<small><sub>**BSB:**</sub></small>
-And out of all the tribes of Israel I selected your father to be My priest, to offer sacrifices on My altar, to burn incense, and to wear an ephod in My presence. I also gave to the house of your father all the food offerings of the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.27|<< 1 Samuel 2:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.29|1 Samuel 2:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 7:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:20**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now if I do that I would not, it is no more I that do it, but sin that dwelleth in me.
 <small><sub>**BSB:**</sub></small>
 And if I do what I do not want, it is no longer I who do it, but it is sin living in me that does it.
 <small><sub>**Literal:**</sub></small>
 If now what not I do want I myself this do, no longer I myself who do it but that which is dwelling in me myself sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.19|<< Romans 7:19]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.21|Romans 7:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

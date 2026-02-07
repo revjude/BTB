@@ -1,4 +1,4 @@
-**Job 29:15** 
+**Job 29:15**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I was eyes to the blind, and feet [was] I to the lame.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I served as eyes to the blind and as feet to the lame.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.14|<< Job 29:14]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.16|Job 29:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | eyes  |**<big>&#8207;[[H5869A\|עֵינַ֣יִם]]&#8207; </big>**| 'ei.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was  |**<big>&#8207;[[H1961\|הָ֭יִיתִי]]&#8207; </big>**| Ha.yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

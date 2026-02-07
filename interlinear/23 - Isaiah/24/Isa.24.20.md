@@ -1,4 +1,4 @@
-**Isaiah 24:20** 
+**Isaiah 24:20**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The earth staggers like a drunkard and sways like a shack. Earth’s rebellion w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.19|<< Isaiah 24:19]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.21|Isaiah 24:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wildly \<stagger>  |**<big>&#8207;[[H5128\|נ֣וֹעַ]]&#8207; </big>**| No.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will stagger  |**<big>&#8207;[[H5128\|תָּנ֤וּעַ]]&#8207; </big>**| ta.Nu.a'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 35:4** 
+**2 Chronicles 35:4**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And prepare [yourselves] by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Prepare yourselves by families in your divisions, according to the instructions 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.3|<< 2 Chronicles 35:3]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.5|2 Chronicles 35:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and prepare  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3559A\|הָכִ֥ינוּ]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> hi.ko.nu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | to [the] house of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004M\|בֵית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> veit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

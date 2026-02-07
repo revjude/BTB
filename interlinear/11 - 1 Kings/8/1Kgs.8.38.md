@@ -1,4 +1,4 @@
-**1 Kings 8:38** 
+**1 Kings 8:38**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What prayer and supplication soever be [made] by any man, [or] by all thy people Israel, which shall know every man the plague of his own heart, and spread forth his hands toward this house:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then may whatever prayer or petition Your people Israel make—each knowing his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.37|<< 1 Kings 8:37]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.39|1 Kings 8:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prayer  |**<big>&#8207;[[H8605\|תְּפִלָּ֣ה]]&#8207; </big>**| te.fi.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

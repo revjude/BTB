@@ -1,10 +1,7 @@
 **LXX Leviticus 14:21** 
 <small><sub>**LXX:**</sub></small>
 And if he should be in need, and  his hand should not find \[what is needed\], he shall take one lamb for what he trespassed for a cut-away portion, so as to atone for him, and a tenth of fine flour being mixed in olive oil for a sacrifice, and one small cup of olive oil, 
-<small><sub>**KJV:**</sub></small>
-And if he [be] poor, and cannot get so much; then he shall take one lamb [for] a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;
-<small><sub>**BSB:**</sub></small>
-If, however, the person is poor and cannot afford these offerings, he is to take one male lamb as a guilt offering to be waved to make atonement for him, along with a tenth of an ephah of fine flour mixed with olive oil for a grain offering, a log of olive oil,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.20|<< Leviticus 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.22|Leviticus 14:22 >>]]</td></tr></table>
 
 | Translation | Greek |

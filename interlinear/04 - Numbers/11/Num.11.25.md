@@ -1,4 +1,4 @@
-**Numbers 11:25** 
+**Numbers 11:25**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD came down in a cloud, and spake unto him, and took of the spirit that [was] upon him, and gave [it] unto the seventy elders: and it came to pass, [that], when the spirit rested upon them, they prophesied, and did not cease.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD came down in the cloud and spoke to him, and He took some of the S
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.24|<< Numbers 11:24]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.26|Numbers 11:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּ֨רֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.red<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

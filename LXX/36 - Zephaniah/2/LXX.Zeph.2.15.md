@@ -1,10 +1,7 @@
 **LXX Zephaniah 2:15** 
 <small><sub>**LXX:**</sub></small>
 This is the heedless city, the one dwelling upon hope, who says in  her heart, I am, and there is none after me any longer. O how it was for extinction, a pasture of wild beasts. Every one  traveling through her shall whistle and shall shake  his hands. 
-<small><sub>**KJV:**</sub></small>
-This [is] the rejoicing city that dwelt carelessly, that said in her heart, I [am], and [there is] none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, [and] wag his hand.
-<small><sub>**BSB:**</sub></small>
-This carefree city that dwells securely, that thinks to herself: “I am it, and there is none besides me,” what a ruin she has become, a resting place for beasts. Everyone who passes by her hisses and shakes his fist.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.14|<< Zephaniah 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.1|Zephaniah 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 61:7** (61:8)
+**Psalms 61:7**<big><big>[[Ps.61.1 You Have Heard My Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall abide before God for ever: O prepare mercy and truth, [which] may preserve him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May he sit enthroned in God’s presence forever; appoint Your loving devotion a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.61.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.6|<< Psalms 61:6]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.8|Psalms 61:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he sit  |**<big>&#8207;[[H3427\|יֵשֵׁ֣ב]]&#8207; </big>**| ye.Shev<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forever  |**<big>&#8207;[[H5769G\|ע֭וֹלָם]]&#8207; </big>**| o.lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

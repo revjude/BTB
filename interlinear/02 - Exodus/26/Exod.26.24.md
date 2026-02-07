@@ -1,4 +1,4 @@
-**Exodus 26:24** 
+**Exodus 26:24**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be coupled together beneath, and they shall be coupled together above the head of it unto one ring: thus shall it be for them both; they shall be for the two corners.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ coupled together from bottom to top and fitted into a single ring. These will se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.23|<< Exodus 26:23]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.25|Exodus 26:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may be  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1961\|יִֽהְי֣וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yih.Yu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twins  |**<big>&#8207;[[H8380\|תֹֽאֲמִים֮]]&#8207; </big>**| to.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

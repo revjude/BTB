@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:19** 
 <small><sub>**LXX:**</sub></small>
 and shall penalize him a hundred shekels, and shall give them to the father of the young woman, because he brought a bad name upon an Israelite virgin, and she shall be his wife; he shall not be able to send her away  at any time. 
-<small><sub>**KJV:**</sub></small>
-And they shall amerce him in an hundred [shekels] of silver, and give [them] unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.
-<small><sub>**BSB:**</sub></small>
-They are also to fine him a hundred shekels of silver and give them to the young woman’s father, because this man has given a virgin of Israel a bad name. And she shall remain his wife; he must not divorce her as long as he lives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.18|<< Deuteronomy 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.20|Deuteronomy 22:20 >>]]</td></tr></table>
 
 | Translation | Greek |

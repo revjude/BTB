@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:8** 
 <small><sub>**LXX:**</sub></small>
 And the pig, for this \[one\] \[is\] cloven of hoof, and claws cloven-footed of hoof, but this one \[as far as\] chewing the cud does not chew the cud -- this \[one is\] unclean to you; from  their meats you shall not eat, and  of their decaying flesh you shall not touch. 
-<small><sub>**KJV:**</sub></small>
-And the swine, because it divideth the hoof, yet cheweth not the cud, it [is] unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase.
-<small><sub>**BSB:**</sub></small>
-as well as the pig; though it has a divided hoof, it does not chew the cud. It is unclean for you. You must not eat its meat or touch its carcass.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.7|<< Deuteronomy 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.9|Deuteronomy 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

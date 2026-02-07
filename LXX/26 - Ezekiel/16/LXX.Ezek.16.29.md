@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:29** 
 <small><sub>**LXX:**</sub></small>
 And you multiplied  your harlotries with \[the\] land of Canaan, and to the Chaldeans; and not even in these were you satisfied. 
-<small><sub>**KJV:**</sub></small>
-Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea; and yet thou wast not satisfied herewith.
-<small><sub>**BSB:**</sub></small>
-So you extended your promiscuity to Chaldea, the land of merchants—but even with this you were not satisfied!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.28|<< Ezekiel 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.30|Ezekiel 16:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:6** 
 <small><sub>**LXX:**</sub></small>
 And whether if good \[or\] if bad \[be\] the voice of \[the\] <span class="smallcaps">lord</span>  our God, of whom we send you to him, we shall hearken; that it should be better to us -- for we shall hearken to the voice of \[the\] <span class="smallcaps">lord</span>  our God. 
-<small><sub>**KJV:**</sub></small>
-Whether [it be] good, or whether [it be] evil, we will obey the voice of the LORD our God, to whom we send thee; that it may be well with us, when we obey the voice of the LORD our God.
-<small><sub>**BSB:**</sub></small>
-Whether it is pleasant or unpleasant, we will obey the voice of the LORD our God to whom we are sending you, so that it may go well with us when we obey the voice of the LORD our God!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.5|<< Jeremiah 42:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.7|Jeremiah 42:7 >>]]</td></tr></table>
 
 | Translation | Greek |

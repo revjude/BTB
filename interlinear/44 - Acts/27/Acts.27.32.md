@@ -1,12 +1,12 @@
-**Acts 27:32
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:32**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the soldiers cut off the ropes of the boat, and let her fall off.
 <small><sub>**BSB:**</sub></small>
 So the soldiers cut the ropes to the lifeboat and set it adrift.
 <small><sub>**Literal:**</sub></small>
 Then cut away the soldiers the ropes of the lifeboat and allowed her to fall away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.31|<< Acts 27:31]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.33|Acts 27:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | cut away |**<big>[[G0609\|ἀπέκοψαν]]</big>**  |apekopsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»2+Byz»2">NKO</abbr> | |

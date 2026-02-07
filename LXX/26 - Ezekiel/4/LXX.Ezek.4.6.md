@@ -1,10 +1,7 @@
 **LXX Ezekiel 4:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall complete these, and \[then\] go to sleep upon  your right side, and you shall take the iniquities of the house of Judah -- forty days; a day for a year is established to you. 
-<small><sub>**KJV:**</sub></small>
-And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.
-<small><sub>**BSB:**</sub></small>
-When you have completed these days, lie down again, but on your right side, and bear the iniquity of the house of Judah. I have assigned to you 40 days, a day for each year.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.5|<< Ezekiel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.7|Ezekiel 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

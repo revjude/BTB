@@ -1,4 +1,4 @@
-**Numbers 18:16** 
+**Numbers 18:16**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those that are to be redeemed from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary, which [is] twenty gerahs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to pay the redemption price for a month-old male according to your valua
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.15|<< Numbers 18:15]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.17|Numbers 18:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and redemption price its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6299\|פְדוּיָ]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.du.Ya<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a son of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

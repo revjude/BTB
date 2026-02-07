@@ -1,4 +1,4 @@
-**Deuteronomy 23:3** (23:4)
+**Deuteronomy 23:3**<big><big>[[Deut.23.1 Exclusion from the Congregation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An Ammonite or Moabite shall not enter into the congregation of the LORD; even to their tenth generation shall they not enter into the congregation of the LORD for ever:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No Ammonite or Moabite or any of their descendants may enter the assembly of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.2|<< Deuteronomy 23:2]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.4|Deuteronomy 23:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will go  |**<big>&#8207;[[H0935G\|יָבֹ֧א]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

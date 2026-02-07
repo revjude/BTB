@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:9** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel clothed words of wrongdoings against \[the\] <span class="smallcaps">lord</span> their God. And they built to themselves high \[places\] in all  their cities, from guard tower unto fortified city. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did secretly [those] things that [were] not right against the LORD their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city.
-<small><sub>**BSB:**</sub></small>
-The Israelites secretly did things against the LORD their God that were not right. From watchtower to fortified city, they built high places in all their cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.8|<< 2 Kings 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.10|2 Kings 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

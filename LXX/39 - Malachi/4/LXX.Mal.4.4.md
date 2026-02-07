@@ -1,10 +1,7 @@
 **LXX Malachi 4:4** 
 <small><sub>**LXX:**</sub></small>
 Remember the law of Moses  my manservant, in so far as I gave charge to him in Horeb for all  Israel -- orders and judgments! 
-<small><sub>**KJV:**</sub></small>
-Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, [with] the statutes and judgments.
-<small><sub>**BSB:**</sub></small>
-“Remember the law of My servant Moses, the statutes and ordinances I commanded him for all Israel at Horeb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.4.3|<< Malachi 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.4.5|Malachi 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

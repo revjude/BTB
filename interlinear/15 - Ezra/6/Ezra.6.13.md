@@ -1,4 +1,4 @@
-**Ezra 6:13** 
+**Ezra 6:13**<big><big>[[Ezra.6.13 The Temple Completed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Tatnai, governor on this side the river, Shetharboznai, and their companions, according to that which Darius the king had sent, so they did speedily.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In response, Tattenai the governor of the region west of the Euphrates, Shethar-
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.12|<< Ezra 6:12]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.14|Ezra 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱ֠דַיִן]]&#8207; </big>**| 'E.da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Tattenai  |**<big>&#8207;[[H8674\|תַּתְּנַ֞י]]&#8207; </big>**| ta.te.Nai<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

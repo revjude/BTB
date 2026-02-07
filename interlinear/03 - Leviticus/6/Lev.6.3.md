@@ -1,4 +1,4 @@
-**Leviticus 6:3** (5:22)
+**Leviticus 6:3**<big><big>[[Lev.6.1 Sins Requiring a Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ or finds lost property and lies about it and swears falsely, or if he commits an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.2|<< Leviticus 6:2]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.4|Leviticus 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|אֽוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ov-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has found  |**<big>&#8207;[[H4672\|מָצָ֧א]]&#8207; </big>**| ma.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

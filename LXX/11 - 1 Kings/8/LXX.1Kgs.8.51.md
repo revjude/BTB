@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:51** 
 <small><sub>**LXX:**</sub></small>
 For \[they are\] your people, and your inheritance, whom you led out of \[the\] land of Egypt, from out of \[the\] midst of \[the\] foundry furnace of iron. 
-<small><sub>**KJV:**</sub></small>
-For they [be] thy people, and thine inheritance, which thou broughtest forth out of Egypt, from the midst of the furnace of iron:
-<small><sub>**BSB:**</sub></small>
-For they are Your people and Your inheritance; You brought them out of Egypt, out of the furnace for iron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.50|<< 1 Kings 8:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.52|1 Kings 8:52 >>]]</td></tr></table>
 
 | Translation | Greek |

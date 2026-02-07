@@ -1,4 +1,4 @@
-**Lamentations 3:38** 
+**Lamentations 3:38**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of the mouth of the most High proceedeth not evil and good?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not both adversity and good come from the mouth of the Most High?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.37|<< Lamentations 3:37]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.39|Lamentations 3:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] mouth of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6310G\|פִּ֤י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Most High  |**<big>&#8207;[[H5945B\|עֶלְיוֹן֙]]&#8207; </big>**| 'el.yOn<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

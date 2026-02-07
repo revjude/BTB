@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 1:10** 
 <small><sub>**LXX:**</sub></small>
 Who shall speak and shall say? Behold this is new! Already it has happened in the eons to the ones having taken place from before us. 
-<small><sub>**KJV:**</sub></small>
-Is there [any] thing whereof it may be said, See, this [is] new? it hath been already of old time, which was before us.
-<small><sub>**BSB:**</sub></small>
-Is there a case where one can say, “Look, this is new”? It has already existed in the ages before us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.9|<< Ecclesiastes 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.11|Ecclesiastes 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

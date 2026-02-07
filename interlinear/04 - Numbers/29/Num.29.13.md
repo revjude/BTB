@@ -1,4 +1,4 @@
-**Numbers 29:13** 
+**Numbers 29:13**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD; thirteen young bullocks, two rams, [and] fourteen lambs of the first year; they shall be without blemish:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As a pleasing aroma to the LORD, you are to present a food offering, a burnt off
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.12|<< Numbers 29:12]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.14|Numbers 29:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will bring near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126H\|הִקְרַבְתֶּ֨ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.rav.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a burnt offering  |**<big>&#8207;[[H5930A\|עֹלָ֜ה]]&#8207; </big>**| 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

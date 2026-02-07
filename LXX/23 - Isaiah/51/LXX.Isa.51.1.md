@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hearken to me! O ones pursuing the just \[thing\], and seeking the <span class="smallcaps">lord</span>. Look unto the solid rock! which you quarried, and into the pit of the well which you dug. 
-<small><sub>**KJV:**</sub></small>
-Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock [whence] ye are hewn, and to the hole of the pit [whence] ye are digged.
-<small><sub>**BSB:**</sub></small>
-“Listen to Me, you who pursue righteousness, you who seek the LORD: Look to the rock from which you were cut, and to the quarry from which you were hewn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.11|<< Isaiah 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.2|Isaiah 51:2 >>]]</td></tr></table>
 
 | Translation | Greek |

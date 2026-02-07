@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moab annulled \[allegiance\] with Israel after the dying of Ahab. 
-<small><sub>**KJV:**</sub></small>
-Then Moab rebelled against Israel after the death of Ahab.
-<small><sub>**BSB:**</sub></small>
-After the death of Ahab, Moab rebelled against Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.53|<< 1 Kings 22:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.2|2 Kings 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

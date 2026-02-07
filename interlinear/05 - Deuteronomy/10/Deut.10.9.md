@@ -1,4 +1,4 @@
-**Deuteronomy 10:9** 
+**Deuteronomy 10:9**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore Levi hath no part nor inheritance with his brethren; the LORD [is] his inheritance, according as the LORD thy God promised him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That is why Levi has no portion or inheritance among his brothers; the LORD is h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.8|<< Deuteronomy 10:8]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.10|Deuteronomy 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּ֞ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 11:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:21**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Peter calling to remembrance saith unto him, Master, behold, the fig tree which thou cursedst is withered away.
 <small><sub>**BSB:**</sub></small>
 Peter remembered it and said, “Look, Rabbi! The fig tree You cursed has withered.”
 <small><sub>**Literal:**</sub></small>
 And having remembered <the> Peter says to Him; Rabbi, look the fig tree that You cursed has been dried up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.20|<< Mark 11:20]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.22|Mark 11:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having remembered |**<big>[[G0363\|ἀναμνησθεὶς]]</big>**  |anamnēstheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

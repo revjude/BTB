@@ -1,4 +1,4 @@
-**Exodus 13:12** 
+**Exodus 13:12**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males [shall be] the LORD’S.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ you are to present to the LORD the firstborn male of every womb. All the firstbo
 > $\quad$ referenced by: [[Luke.2.23|Luke 2:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will dedicate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674C\|הַעֲבַרְתָּ֥]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.'a.var.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

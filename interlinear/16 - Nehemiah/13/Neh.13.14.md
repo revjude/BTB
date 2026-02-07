@@ -1,4 +1,4 @@
-**Nehemiah 13:14** 
+**Nehemiah 13:14**<big><big>[[Neh.13.10 Tithes Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember me for this, O my God, and do not blot out my deeds of loving devotion 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.13|<< Nehemiah 13:13]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.15|Nehemiah 13:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember !  |**<big>&#8207;[[H2142\|זָכְרָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| za.khe.ra<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִּ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

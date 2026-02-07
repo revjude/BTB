@@ -1,4 +1,4 @@
-**Daniel 11:21** 
+**Daniel 11:21**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In his place a despicable person will arise; royal honors will not be given to h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.20|<< Daniel 11:20]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.22|Daniel 11:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will arise  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975I\|עָמַ֤ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

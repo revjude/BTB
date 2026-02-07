@@ -1,12 +1,12 @@
-**1 John 4:11
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:11**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beloved, if God so loved us, we ought also to love one another.
 <small><sub>**BSB:**</sub></small>
 Beloved, if God so loved us, we also ought to love one another.
 <small><sub>**Literal:**</sub></small>
 Beloved, if so <the> God loved us, also we ourselves ought one another to love;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.10|<< 1 John 4:10]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.12|1 John 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Beloved, |**<big>[[G0027\|Ἀγαπητοί,]]</big>**  |Agapētoi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

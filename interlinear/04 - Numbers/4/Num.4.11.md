@@ -1,4 +1,4 @@
-**Numbers 4:11** 
+**Numbers 4:11**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers’ skins, and shall put to the staves thereof:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Over the gold altar they are to spread a blue cloth, cover it with fine leather,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.10|<< Numbers 4:10]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.12|Numbers 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and over  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] altar of  |**<big>&#8207;[[H4196\|מִזְבַּ֣ח]]&#8207; </big>**| miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

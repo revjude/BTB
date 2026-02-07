@@ -1,12 +1,12 @@
-**Acts 15:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:21**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day.
 <small><sub>**BSB:**</sub></small>
 For Moses has been proclaimed in every city from ancient times and is read in the synagogues on every Sabbath.”
 <small><sub>**Literal:**</sub></small>
 Moses for from generations of old in every city those proclaiming him he is in the synagogues on every Sabbath being read.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.20|<< Acts 15:20]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.22|Acts 15:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

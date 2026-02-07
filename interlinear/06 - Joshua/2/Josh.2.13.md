@@ -1,4 +1,4 @@
-**Joshua 2:13** 
+**Joshua 2:13**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [that] ye will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that you will spare the lives of my father and mother, my brothers and sisters, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.12|<< Joshua 2:12]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.14|Joshua 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will let live  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2421\|הַחֲיִתֶ֞ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.cha.yi.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

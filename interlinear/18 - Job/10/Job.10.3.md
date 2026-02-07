@@ -1,4 +1,4 @@
-**Job 10:3** 
+**Job 10:3**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it] good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Does it please You to oppress me, to reject the work of Your hands and favor the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.2|<< Job 10:2]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.4|Job 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [is it] good  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H2896A\|ט֤וֹב]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 18:11** 
 <small><sub>**LXX:**</sub></small>
 And this will be to you \[of the\] first-fruits of their gifts, from all the increase \[offerings\] of the sons of Israel. To you I have given them, and \[to\] your sons, and \[to\] your daughters after you -- an eternal law. Every clean \[person\] in  your house shall eat them. 
-<small><sub>**KJV:**</sub></small>
-And this [is] thine; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, by a statute for ever: every one that is clean in thy house shall eat of it.
-<small><sub>**BSB:**</sub></small>
-And this is yours as well: the offering of their gifts, along with all the wave offerings of the Israelites. I have given this to you and your sons and daughters as a permanent statute. Every ceremonially clean person in your household may eat it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.10|<< Numbers 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.12|Numbers 18:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:4** 
 <small><sub>**LXX:**</sub></small>
 Rely not upon yourselves with lying words, for  thoroughly they will not benefit you in \[your\] saying, \[The\] temple of \[the\] <span class="smallcaps">lord</span>, it is \[the\] temple \[of the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Trust ye not in lying words, saying, The temple of the LORD, The temple of the LORD, The temple of the LORD, [are] these.
-<small><sub>**BSB:**</sub></small>
-Do not trust in deceptive words, saying: ‘This is the temple of the LORD, the temple of the LORD, the temple of the LORD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.3|<< Jeremiah 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.5|Jeremiah 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

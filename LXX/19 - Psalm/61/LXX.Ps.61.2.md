@@ -1,10 +1,7 @@
 **LXX Psalm 61:2** 
 <small><sub>**LXX:**</sub></small>
 From the ends of the earth I cry out to you. In the discouraging  of my heart, you lifted me high in \[the\] rock; you guided me. 
-<small><sub>**KJV:**</sub></small>
-From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock [that] is higher than I.
-<small><sub>**BSB:**</sub></small>
-From the ends of the earth I call out to You whenever my heart is faint. Lead me to the rock that is higher than I.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.61.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.61.1|<< Psalm 61:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.61.3|Psalm 61:3 >>]]</td></tr></table>
 
 | Translation | Greek |

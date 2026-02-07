@@ -1,12 +1,12 @@
-**Acts 5:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:18**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And laid their hands on the apostles, and put them in the common prison.
 <small><sub>**BSB:**</sub></small>
 and arrested the apostles and put them in the public jail.
 <small><sub>**Literal:**</sub></small>
 and they laid the hands of them on the apostles and put them in [the] jail public.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.17|<< Acts 5:17]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.19|Acts 5:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they laid |**<big>[[G1911\|ἐπέβαλον]]</big>**  |epebalon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

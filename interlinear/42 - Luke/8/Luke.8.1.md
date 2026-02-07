@@ -1,12 +1,12 @@
-**Luke 8:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:1**<big><big>[[Luke.8.1 Women Minister to Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve [were] with him,
 <small><sub>**BSB:**</sub></small>
 Soon afterward, Jesus traveled from one town and village to another, preaching and proclaiming the good news of the kingdom of God. The Twelve were with Him,
 <small><sub>**Literal:**</sub></small>
 And it came to pass afterward <the> soon that He himself was traveling throughout city and village preaching and evangelising of the kingdom <the> of God And the Twelve [were] with Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.50|<< Luke 7:50]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.2|Luke 8:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

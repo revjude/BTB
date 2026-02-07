@@ -1,4 +1,4 @@
-**Job 30:29** 
+**Job 30:29**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am a brother to dragons, and a companion to owls.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have become a brother of jackals, a companion of ostriches.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.28|<< Job 30:28]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.30|Job 30:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a brother  |**<big>&#8207;[[H0251G\|אָ֭ח]]&#8207; </big>**| 'ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have become  |**<big>&#8207;[[H1961\|הָיִ֣יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 10:28** 
 <small><sub>**LXX:**</sub></small>
 For he shall come into the city of Angai, and shall go by to Maggedo, and in Michmash he shall place  his weapons. 
-<small><sub>**KJV:**</sub></small>
-He is come to Aiath, he is passed to Migron; at Michmash he hath laid up his carriages:
-<small><sub>**BSB:**</sub></small>
-Assyria has entered Aiath and passed through Migron, storing their supplies at Michmash.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.27|<< Isaiah 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.29|Isaiah 10:29 >>]]</td></tr></table>
 
 | Translation | Greek |

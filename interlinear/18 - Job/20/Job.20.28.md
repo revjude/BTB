@@ -1,4 +1,4 @@
-**Job 20:28** 
+**Job 20:28**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The increase of his house shall depart, [and his goods] shall flow away in the day of his wrath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The possessions of his house will be removed, flowing away on the day of God’s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.27|<< Job 20:27]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.29|Job 20:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will depart  |**<big>&#8207;[[H1540K\|יִ֭גֶל]]&#8207; </big>**| Yi.gel<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] produce of  |**<big>&#8207;[[H2981\|יְב֣וּל]]&#8207; </big>**| ye.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

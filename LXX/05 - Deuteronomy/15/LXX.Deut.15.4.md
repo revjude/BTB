@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:4** 
 <small><sub>**LXX:**</sub></small>
 For there shall not be among you one lacking; for by a blessing \[the\] <span class="smallcaps">lord</span> your God shall bless you in the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot to inherit it. 
-<small><sub>**KJV:**</sub></small>
-Save when there shall be no poor among you; for the LORD shall greatly bless thee in the land which the LORD thy God giveth thee [for] an inheritance to possess it:
-<small><sub>**BSB:**</sub></small>
-There will be no poor among you, however, because the LORD will surely bless you in the land that the LORD your God is giving you to possess as an inheritance,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.3|<< Deuteronomy 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.5|Deuteronomy 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:13** 
 <small><sub>**LXX:**</sub></small>
 And if any should take a wife, and should live with her, and should detest her, 
-<small><sub>**KJV:**</sub></small>
-If any man take a wife, and go in unto her, and hate her,
-<small><sub>**BSB:**</sub></small>
-Suppose a man marries a woman, has relations with her, and comes to hate her,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.12|<< Deuteronomy 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.14|Deuteronomy 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

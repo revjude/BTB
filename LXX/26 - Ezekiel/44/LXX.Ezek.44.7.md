@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:7** 
 <small><sub>**LXX:**</sub></small>
  for you to bring in sons of foreigners, uncircumcised in heart, and uncircumcised in flesh,  to be in  my holy places, and to profane them in  your offering my bread loaves, and fat, and blood; and you violated  my covenant in all  your lawless deeds. 
-<small><sub>**KJV:**</sub></small>
-In that ye have brought [into my sanctuary] strangers, uncircumcised in heart, and uncircumcised in flesh, to be in my sanctuary, to pollute it, [even] my house, when ye offer my bread, the fat and the blood, and they have broken my covenant because of all your abominations.
-<small><sub>**BSB:**</sub></small>
-In addition to all your other abominations, you brought in foreigners uncircumcised in both heart and flesh to occupy My sanctuary; you defiled My temple when you offered My food—the fat and the blood; you broke My covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.6|<< Ezekiel 44:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.8|Ezekiel 44:8 >>]]</td></tr></table>
 
 | Translation | Greek |

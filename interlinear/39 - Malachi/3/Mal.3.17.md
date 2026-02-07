@@ -1,4 +1,4 @@
-**Malachi 3:17** 
+**Malachi 3:17**<big><big>[[Mal.3.13 The Book of Remembrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And they shall be mine, saith the LORD of hosts, in that day when I make up my j
 > $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will belong  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָ֣יוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ha.yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

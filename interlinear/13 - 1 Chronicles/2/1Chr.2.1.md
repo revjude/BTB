@@ -1,4 +1,4 @@
-**1 Chronicles 2:1** 
+**1 Chronicles 2:1**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.54|<< 1 Chronicles 1:54]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.2|1 Chronicles 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

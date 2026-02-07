@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:21** 
 <small><sub>**LXX:**</sub></small>
 and Zabad his son, and Shuthelah his son, and Ezer, and Elead. And the men of Gath born in the land killed them, because they went down to take  their cattle. 
-<small><sub>**KJV:**</sub></small>
-And Zabad his son, and Shuthelah his son, and Ezer, and Elead, whom the men of Gath [that were] born in [that] land slew, because they came down to take away their cattle.
-<small><sub>**BSB:**</sub></small>
-Zabad his son, and Shuthelah his son. Ezer and Elead were killed by the natives of Gath, because they went down to steal their livestock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.20|<< 1 Chronicles 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.22|1 Chronicles 7:22 >>]]</td></tr></table>
 
 | Translation | Greek |

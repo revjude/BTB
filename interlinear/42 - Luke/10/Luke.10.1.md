@@ -1,12 +1,12 @@
-**Luke 10:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:1**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.
 <small><sub>**BSB:**</sub></small>
 After this, the Lord appointed seventy-two others and sent them two by two ahead of Him to every town and place He was about to visit.
 <small><sub>**Literal:**</sub></small>
 After now these things appointed the Lord also others seventy two and sent them in two [by] two before [the] face of Himself into every city and place where was soon He Himself to go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.62|<< Luke 9:62]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.2|Luke 10:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

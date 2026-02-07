@@ -1,10 +1,7 @@
 **LXX Psalm 68:4** 
 <small><sub>**LXX:**</sub></small>
 Sing  to God! Strum \[to\] his name! Open the way \[to\] the one being mounted unto \[the\] west -- \[the\] <span class="smallcaps">lord</span> \[is\] his name, and exult before him! They shall be disturbed before his face. 
-<small><sub>**KJV:**</sub></small>
-Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name JAH, and rejoice before him.
-<small><sub>**BSB:**</sub></small>
-Sing to God! Sing praises to His name. Exalt Him who rides on the clouds—His name is the LORD—and rejoice before Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.3|<< Psalm 68:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.5|Psalm 68:5 >>]]</td></tr></table>
 
 | Translation | Greek |

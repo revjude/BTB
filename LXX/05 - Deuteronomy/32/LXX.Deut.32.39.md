@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:39** 
 <small><sub>**LXX:**</sub></small>
 Behold! behold that I am! and there is no God besides me. I shall kill, and I shall make to live. I shall strike, and I will heal. And there is not one who shall rescue from out of  my hands. 
-<small><sub>**KJV:**</sub></small>
-See now that I, [even] I, [am] he, and [there is] no god with me: I kill, and I make alive; I wound, and I heal: neither [is there any] that can deliver out of my hand.
-<small><sub>**BSB:**</sub></small>
-See now that I am He; there is no God besides Me. I bring death and I give life; I wound and I heal, and there is no one who can deliver from My hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.38|<< Deuteronomy 32:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.40|Deuteronomy 32:40 >>]]</td></tr></table>
 
 | Translation | Greek |

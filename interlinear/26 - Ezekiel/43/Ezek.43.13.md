@@ -1,4 +1,4 @@
-**Ezekiel 43:13** 
+**Ezekiel 43:13**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the measures of the altar after the cubits: The cubit [is] a cubit and an hand breadth; even the bottom [shall be] a cubit, and the breadth a cubit, and the border thereof by the edge thereof round about [shall be] a span: and this [shall be] the higher place of the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the measurements of the altar in long cubits (a cubit and a handbreadt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.12|<< Ezekiel 43:12]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.14|Ezekiel 43:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֨לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] measurements of  |**<big>&#8207;[[H4060A\|מִדּ֤וֹת]]&#8207; </big>**| mi.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

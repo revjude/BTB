@@ -1,12 +1,12 @@
-**Ephesians 4:22
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:22**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
 <small><sub>**BSB:**</sub></small>
 to put off your former way of life, your old self, which is being corrupted by its deceitful desires;
 <small><sub>**Literal:**</sub></small>
 Are to have put off you concerning the former way of life the old man which is being corrupted according to [its] desires <the> of deceit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.21|<< Ephesians 4:21]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.23|Ephesians 4:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Are to have put off |**<big>[[G0659\|ἀποθέσθαι]]</big>**  |apothesthai <small><sup>[[V-2AMN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

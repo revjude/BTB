@@ -1,4 +1,4 @@
-**Isaiah 49:10** 
+**Isaiah 49:10**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They will not hunger or thirst, nor will scorching heat or sun beat down on them
 > $\quad$ referenced by: [[Rev.7.16|Rev 7:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be hungry  |**<big>&#8207;[[H7456\|יִרְעָ֙בוּ֙]]&#8207; </big>**| yir.'A.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

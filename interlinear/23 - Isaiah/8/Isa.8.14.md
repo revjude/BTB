@@ -1,4 +1,4 @@
-**Isaiah 8:14** 
+**Isaiah 8:14**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall be for a sanctuary; but for a stone of stumbling and for a rock of offence to both the houses of Israel, for a gin and for a snare to the inhabitants of Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And He will be a sanctuary—but to both houses of Israel a stone of stumbling a
 > $\quad$ referenced by: [[Matt.21.44|Matt 21:44]] ☩ [[Luke.20.18|Luke 20:18]] ☩ [[1Pet.2.8|1Pet 2:8]] ☩ [[Luke.2.34|Luke 2:34]] ☩ [[Rom.9.33|Rom 9:33]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֖ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> a sanctuary  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4720\|מִקְדָּ֑שׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mik.Dash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

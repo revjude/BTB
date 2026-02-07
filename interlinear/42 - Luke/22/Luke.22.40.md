@@ -1,12 +1,12 @@
-**Luke 22:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:40**<big><big>[[Luke.22.39 Jesus Prays on the Mount of Olives|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was at the place, he said unto them, Pray that ye enter not into temptation.
 <small><sub>**BSB:**</sub></small>
 When He came to the place, He told them, “Pray that you will not enter into temptation.”
 <small><sub>**Literal:**</sub></small>
 Having come then to the place He said to them; do pray not to enter into temptation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.39|<< Luke 22:39]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.41|Luke 22:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come |**<big>[[G1096\|γενόμενος]]</big>**  |genomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

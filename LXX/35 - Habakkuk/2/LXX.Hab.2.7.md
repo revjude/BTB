@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:7** 
 <small><sub>**LXX:**</sub></small>
 For suddenly ones biting him shall raise up, and the plotters against you shall sober up, and you will be for ravaging to them. 
-<small><sub>**KJV:**</sub></small>
-Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?
-<small><sub>**BSB:**</sub></small>
-Will not your creditors suddenly arise and those who disturb you awaken? Then you will become their prey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.6|<< Habakkuk 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.8|Habakkuk 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

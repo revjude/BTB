@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joseph brought in Jacob  his father, and stood him before Pharaoh. And Jacob blessed  Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.
-<small><sub>**BSB:**</sub></small>
-Then Joseph brought in his father Jacob and presented him before Pharaoh, and Jacob blessed Pharaoh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.6|<< Genesis 47:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.8|Genesis 47:8 >>]]</td></tr></table>
 
 | Translation | Greek |

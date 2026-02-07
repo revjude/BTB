@@ -1,10 +1,7 @@
 **LXX Psalm 147:2** 
 <small><sub>**LXX:**</sub></small>
 The <span class="smallcaps">lord</span> \[is\] building Jerusalem; the dispersions  of Israel he shall assemble; 
-<small><sub>**KJV:**</sub></small>
-The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel.
-<small><sub>**BSB:**</sub></small>
-The LORD builds up Jerusalem; He gathers the exiles of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.147.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.1|<< Psalm 147:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.3|Psalm 147:3 >>]]</td></tr></table>
 
 | Translation | Greek |

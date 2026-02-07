@@ -1,10 +1,7 @@
 **LXX Genesis 25:17** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the years of the life of Ishmael, a hundred thirty-seven years; and failing, he died. And he was added to  his family. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.
-<small><sub>**BSB:**</sub></small>
-Ishmael lived a total of 137 years. Then he breathed his last and died, and was gathered to his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.16|<< Genesis 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.18|Genesis 25:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Nehemiah 2:18** 
+**Nehemiah 2:18**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I told them of the hand of my God which was good upon me; as also the king’s words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for [this] good [work].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I also told them about the gracious hand of my God upon me, and what the king ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.17|<< Nehemiah 2:17]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.19|Nehemiah 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I told  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5046\|אַגִּ֨יד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Gid<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

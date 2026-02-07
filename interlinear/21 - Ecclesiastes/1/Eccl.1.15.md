@@ -1,4 +1,4 @@
-**Ecclesiastes 1:15** 
+**Ecclesiastes 1:15**<big><big>[[Eccl.1.12 With Wisdom Comes Sorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That which is] crooked cannot be made straight: and that which is wanting cannot be numbered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What is crooked cannot be straightened, and what is lacking cannot be counted.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.14|<< Ecclesiastes 1:14]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.16|Ecclesiastes 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [something] bent  |**<big>&#8207;[[H5791\|מְעֻוָּ֖ת]]&#8207; </big>**| me.'u.Vat<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

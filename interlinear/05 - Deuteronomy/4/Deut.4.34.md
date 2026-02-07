@@ -1,4 +1,4 @@
-**Deuteronomy 4:34** 
+**Deuteronomy 4:34**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or hath God assayed to go [and] take him a nation from the midst of [another] nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or has any god tried to take as his own a nation out of another nation—by tria
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.33|<< Deuteronomy 4:33]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.35|Deuteronomy 4:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֣וֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ has it attempted  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H5254H\|נִסָּ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ni.Sah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

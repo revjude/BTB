@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:27** 
 <small><sub>**LXX:**</sub></small>
 And \[there\] you shall offer  your whole burnt-offerings; the meats you shall offer upon the altar of \[the\] <span class="smallcaps">lord</span>  your God; but the blood  of your sacrifices you shall pour towards the base of the altar of \[the\] <span class="smallcaps">lord</span>  your God, but the meats you may eat. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt offer thy burnt offerings, the flesh and the blood, upon the altar of the LORD thy God: and the blood of thy sacrifices shall be poured out upon the altar of the LORD thy God, and thou shalt eat the flesh.
-<small><sub>**BSB:**</sub></small>
-Present the meat and blood of your burnt offerings on the altar of the LORD your God. The blood of your other sacrifices must be poured out beside the altar of the LORD your God, but you may eat the meat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.26|<< Deuteronomy 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.28|Deuteronomy 12:28 >>]]</td></tr></table>
 
 | Translation | Greek |

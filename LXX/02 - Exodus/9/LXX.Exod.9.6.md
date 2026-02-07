@@ -1,10 +1,7 @@
 **LXX Exodus 9:6** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> did  this thing in the next day. And there came to an end all the cattle of the Egyptians. But of the cattle of the sons of Israel they did not come to an end -- not one. 
-<small><sub>**KJV:**</sub></small>
-And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.
-<small><sub>**BSB:**</sub></small>
-And the next day the LORD did just that. All the livestock of the Egyptians died, but not one animal belonging to the Israelites died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.5|<< Exodus 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.7|Exodus 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

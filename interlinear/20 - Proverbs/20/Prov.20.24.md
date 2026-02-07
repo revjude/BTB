@@ -1,4 +1,4 @@
-**Proverbs 20:24** 
+**Proverbs 20:24**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Man’s goings [are] of the LORD; how can a man then understand his own way?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man’s steps are from the LORD, so how can anyone understand his own way?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.23|<< Proverbs 20:23]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.25|Proverbs 20:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] from Yahweh  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H3068G\|יהוָ֥ה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] steps of  |**<big>&#8207;[[H4703\|מִצְעֲדֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mitz.'a.dei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

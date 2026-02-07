@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:32** 
 <small><sub>**LXX:**</sub></small>
 And the number of the whole burnt-offerings which the assembly offered was -- seventy calves, a hundred rams, two hundred lambs; all these for a whole burnt-offering \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, [and] two hundred lambs: all these [were] for a burnt offering to the LORD.
-<small><sub>**BSB:**</sub></small>
-The number of burnt offerings the assembly brought was seventy bulls, a hundred rams, and two hundred lambs; all these were for a burnt offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.31|<< 2 Chronicles 29:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.33|2 Chronicles 29:33 >>]]</td></tr></table>
 
 | Translation | Greek |

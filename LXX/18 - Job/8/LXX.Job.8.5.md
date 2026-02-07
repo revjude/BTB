@@ -1,10 +1,7 @@
 **LXX Job 8:5** 
 <small><sub>**LXX:**</sub></small>
 But you, rise early to \[the\] <span class="smallcaps">lord</span> almighty beseeching \[him\]! 
-<small><sub>**KJV:**</sub></small>
-If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;
-<small><sub>**BSB:**</sub></small>
-But if you would earnestly seek God and ask the Almighty for mercy,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.4|<< Job 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.6|Job 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 18:23** 
 <small><sub>**LXX:**</sub></small>
 And the Levite himself shall officiate the ministration of the tent of the testimony; and they shall take  their sins. \[It is\] an eternal law into  their generations. And in \[the\] midst of \[the\] sons of Israel they shall not be an heir of an inheritance, 
-<small><sub>**KJV:**</sub></small>
-But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: [it shall be] a statute for ever throughout your generations, that among the children of Israel they have no inheritance.
-<small><sub>**BSB:**</sub></small>
-The Levites are to perform the work of the Tent of Meeting, and they must bear their iniquity. This is a permanent statute for the generations to come. The Levites will not receive an inheritance among the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.22|<< Numbers 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.24|Numbers 18:24 >>]]</td></tr></table>
 
 | Translation | Greek |

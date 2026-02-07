@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David returned  to bless  his house. And Michal the daughter of Saul came forth to meet David, and she said, How was the king of Israel glorified today, who was uncovered today in \[the\] eyes of \[the\] girls  of his servants, as one uncovers by uncovering of the ones dancing. 
-<small><sub>**KJV:**</sub></small>
-Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!
-<small><sub>**BSB:**</sub></small>
-When David returned home to bless his own household, Saul’s daughter Michal came out to meet him. “How the king of Israel has distinguished himself today!” she said. “He has uncovered himself today in the sight of the maidservants of his subjects, like a vulgar person would do.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.19|<< 2 Samuel 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.21|2 Samuel 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

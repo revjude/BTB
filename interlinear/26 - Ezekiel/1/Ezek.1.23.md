@@ -1,4 +1,4 @@
-**Ezekiel 1:23** 
+**Ezekiel 1:23**<big><big>[[Ezek.1.22 The Divine Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And under the firmament [were] their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And under the expanse, their wings stretched out toward one another. Each one al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.22|<< Ezekiel 1:22]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.24|Ezekiel 1:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and under  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8478G\|תַ֙חַת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the expanse  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7549\|רָקִ֔יעַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Ki.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

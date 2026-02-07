@@ -1,4 +1,4 @@
-**Proverbs 26:11** 
+**Proverbs 26:11**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a dog returneth to his vomit, [so] a fool returneth to his folly.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As a dog returns to its vomit, so a fool repeats his folly.
 > $\quad$ referenced by: [[2Pet.2.22|2Pet 2:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a dog  |**<big>&#8207;[[H9004\|כְּ֭]]&#8207;&#8207;[[H3611\|כֶלֶב]]&#8207; </big>**| Ke.<small><sup>[[HR]]</sup></small> khe.lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] returns  |**<big>&#8207;[[H7725G\|שָׁ֣ב]]&#8207; </big>**| shav<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

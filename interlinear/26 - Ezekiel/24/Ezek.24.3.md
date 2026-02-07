@@ -1,4 +1,4 @@
-**Ezekiel 24:3** 
+**Ezekiel 24:3**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord GOD; Set on a pot, set [it] on, and also pour water into it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now speak a parable to this rebellious house and tell them that this is what the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.2|<< Ezekiel 24:2]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.4|Ezekiel 24:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and speak a parable  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4911B\|מְשֹׁ֤ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.Shol<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

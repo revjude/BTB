@@ -1,4 +1,4 @@
-**Psalms 68:8** (68:9)
+**Psalms 68:8**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth shook, the heavens also dropped at the presence of God: [even] Sinai itself [was moved] at the presence of God, the God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the earth shook and the heavens poured down rain before God, the One on Sinai, b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.7|<< Psalms 68:7]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.9|Psalms 68:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] earth  |**<big>&#8207;[[H0776G\|אֶ֤רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it quaked  |**<big>&#8207;[[H7493\|רָעָ֨שָׁה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ra.'A.shah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

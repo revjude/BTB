@@ -1,12 +1,12 @@
-**Luke 1:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:25**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thus hath the Lord dealt with me in the days wherein he looked on [me], to take away my reproach among men.
 <small><sub>**BSB:**</sub></small>
 “The Lord has done this for me. In these days He has shown me favor and taken away my disgrace among the people.”
 <small><sub>**Literal:**</sub></small>
 that Thus to me has done the Lord in [the] days in which He looked upon [me] to take away the disgrace of mine among men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.24|<< Luke 1:24]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.26|Luke 1:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

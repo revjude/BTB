@@ -1,4 +1,4 @@
-**Leviticus 11:44** 
+**Leviticus 11:44**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [am] the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I [am] holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For I am the LORD your God; consecrate yourselves, therefore, and be holy, becau
 > $\quad$ referenced by: [[1Pet.1.16|1Pet 1:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

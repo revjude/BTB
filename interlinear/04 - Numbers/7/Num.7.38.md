@@ -1,4 +1,4 @@
-**Numbers 7:38** 
+**Numbers 7:38**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One golden spoon of ten [shekels], full of incense:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ one gold dish weighing ten shekels, filled with incense;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.37|<< Numbers 7:37]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.39|Numbers 7:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a pan  |**<big>&#8207;[[H3709I\|כַּ֥ף]]&#8207; </big>**| kaf<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אַחַ֛ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

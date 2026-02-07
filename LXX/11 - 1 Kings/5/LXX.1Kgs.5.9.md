@@ -1,10 +1,7 @@
 **LXX 1 Kings 5:9** 
 <small><sub>**LXX:**</sub></small>
  My servants shall lead them from out of  Lebanon into the sea; and I will put them on barges unto the place of which ever you should send for me. And I shall shake them off there, and you shall lift them. And you shall produce  for my want,  to give bread loaves \[to\] my house. 
-<small><sub>**KJV:**</sub></small>
-My servants shall bring [them] down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive [them]: and thou shalt accomplish my desire, in giving food for my household.
-<small><sub>**BSB:**</sub></small>
-My servants will haul the logs from Lebanon to the Sea, and I will float them as rafts by sea to the place you specify. There I will separate the logs, and you can take them away. And in exchange, you can meet my needs by providing my household with food.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.8|<< 1 Kings 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.10|1 Kings 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

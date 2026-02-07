@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:17** 
 <small><sub>**LXX:**</sub></small>
 And the battle was hard so as to an exceeding \[degree\] in  that day. And Abner and the men of Israel failed before the servants of David. 
-<small><sub>**KJV:**</sub></small>
-And there was a very sore battle that day; and Abner was beaten, and the men of Israel, before the servants of David.
-<small><sub>**BSB:**</sub></small>
-The battle that day was intense, and Abner and the men of Israel were defeated by the servants of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.16|<< 2 Samuel 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.18|2 Samuel 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

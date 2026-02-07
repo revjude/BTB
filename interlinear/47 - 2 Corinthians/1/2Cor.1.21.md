@@ -1,12 +1,12 @@
-**2 Corinthians 1:21
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:21**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now he which stablisheth us with you in Christ, and hath anointed us, [is] God;
 <small><sub>**BSB:**</sub></small>
 Now it is God who establishes both us and you in Christ. He anointed us,
 <small><sub>**Literal:**</sub></small>
 The [One] now establishing us with you unto Christ and having anointed us [is] God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.20|<< 2 Corinthians 1:20]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.22|2 Corinthians 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

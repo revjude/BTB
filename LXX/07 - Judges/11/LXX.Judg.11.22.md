@@ -1,10 +1,7 @@
 **LXX Judges 11:22** 
 <small><sub>**LXX:**</sub></small>
 And \[Israel\] inherited all the border of the Amorites, from Arnon and unto the Jabok, and from the wilderness unto the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan.
-<small><sub>**BSB:**</sub></small>
-seizing all the land from the Arnon to the Jabbok and from the wilderness to the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.21|<< Judges 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.23|Judges 11:23 >>]]</td></tr></table>
 
 | Translation | Greek |

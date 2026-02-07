@@ -6,10 +6,7 @@ To the director; for Jeduthun; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Shall not my soul be submitted to God, for my deliverance \[is\] by him? 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, to Jeduthun, A Psalm of David. Truly my soul waiteth upon God: from him [cometh] my salvation.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. According to Jeduthun. A Psalm of David. In God alone my soul finds rest; my salvation comes from Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.61.8|<< Psalm 61:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.2|Psalm 62:2 >>]]</td></tr></table>
 
 | Translation | Greek |

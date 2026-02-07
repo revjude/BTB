@@ -1,12 +1,12 @@
-**Acts 26:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:16**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;
 <small><sub>**BSB:**</sub></small>
 ‘But get up and stand on your feet. For I have appeared to you to appoint you as a servant and as a witness of what you have seen from Me and what I will show you.
 <small><sub>**Literal:**</sub></small>
 But do rise up and do stand on the feet of you; to this [purpose] for I have appeared to you to appoint you a servant and a witness of that which both you have seen of Me of the things in which then I will appear to you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.15|<< Acts 26:15]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.17|Acts 26:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do rise up |**<big>[[G0450\|ἀνάστηθι]]</big>**  |anastēthi <small><sup>[[V-2AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

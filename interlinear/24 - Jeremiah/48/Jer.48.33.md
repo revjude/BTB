@@ -1,4 +1,4 @@
-**Jeremiah 48:33** 
+**Jeremiah 48:33**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And joy and gladness is taken from the plentiful field, and from the land of Moab; and I have caused wine to fail from the winepresses: none shall tread with shouting; [their] shouting [shall be] no shouting.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joy and gladness are removed from the orchard and from the fields of Moab. I hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.32|<< Jeremiah 48:32]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.34|Jeremiah 48:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has been removed  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0622\|נֶאֶסְפָ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ne.'es.Fah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | joy  |**<big>&#8207;[[H8057\|שִׂמְחָ֥ה]]&#8207; </big>**| sim.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

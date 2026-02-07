@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:2** 
 <small><sub>**LXX:**</sub></small>
 And he constructed the house of \[the\] forest  of Lebanon. A hundred cubits  \[was\] its length, and fifty cubits  its width, and thirty cubits  its height upon four rows of columns of cedars, and protrusions of cedars for the columns. 
-<small><sub>**KJV:**</sub></small>
-He built also the house of the forest of Lebanon; the length thereof [was] an hundred cubits, and the breadth thereof fifty cubits, and the height thereof thirty cubits, upon four rows of cedar pillars, with cedar beams upon the pillars.
-<small><sub>**BSB:**</sub></small>
-He built the House of the Forest of Lebanon a hundred cubits long, fifty cubits wide, and thirty cubits high, with four rows of cedar pillars supporting the cedar beams.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.1|<< 1 Kings 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.3|1 Kings 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

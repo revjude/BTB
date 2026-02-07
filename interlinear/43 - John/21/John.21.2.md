@@ -1,12 +1,12 @@
-**John 21:2
-**<small><sub>**KJV:**</sub></small>
+**John 21:2**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the [sons] of Zebedee, and two other of his disciples.
 <small><sub>**BSB:**</sub></small>
 Simon Peter, Thomas called Didymus, Nathanael from Cana in Galilee, the sons of Zebedee, and two other disciples were together.
 <small><sub>**Literal:**</sub></small>
 They were together Simon Peter, and Thomas who is being named Didymus, and Nathanael <the> from Cana <the> of Galilee, and the [sons] <the> of Zebedee, and others of the disciples of Him two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.1|<< John 21:1]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.3|John 21:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were |**<big>[[G1510\|ἦσαν]]</big>**  |ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | together |**<big>[[G3674\|ὁμοῦ]]</big>**  |homou <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

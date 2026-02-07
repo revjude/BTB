@@ -1,12 +1,12 @@
-**Romans 2:29
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:29**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he [is] a Jew, which is one inwardly; and circumcision [is that] of the heart, in the spirit, [and] not in the letter; whose praise [is] not of men, but of God.
 <small><sub>**BSB:**</sub></small>
 No, a man is a Jew because he is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the written code. Such a man’s praise does not come from men, but from God.
 <small><sub>**Literal:**</sub></small>
 but he who [is] on the inward a Jew [is one], and circumcision [is] of heart in spirit not in letter, of whom the praise [is] not of men but of <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.28|<< Romans 2:28]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.1|Romans 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he who [is] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

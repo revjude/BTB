@@ -1,12 +1,10 @@
-**Psalms 14:0** (14:1)
+**Psalms 14:0**<big><big>[[Ps.14.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, [A Psalm] of David. The fool hath said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] none that doeth good.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. Of David. The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good.
+To the chief Musician, [A Psalm] of David.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.6|<< Psalms 13:6]]</td><td align="center" style="border:none;">[[Ps.14|Psalms 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14.1|Psalms 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the choirmaster  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5329\|מְנַצֵּ֗חַ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָ֫וִ֥ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

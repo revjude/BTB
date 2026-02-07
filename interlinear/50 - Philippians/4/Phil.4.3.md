@@ -1,12 +1,12 @@
-**Philippians 4:3
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:3**<big><big>[[Phil.4.1 Rejoice in the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and [with] other my fellowlabourers, whose names [are] in the book of life.
 <small><sub>**BSB:**</sub></small>
 Yes, and I ask you, my true yokefellow, to help these women who have contended at my side for the gospel, along with Clement and the rest of my fellow workers, whose names are in the Book of Life.
 <small><sub>**Literal:**</sub></small>
 Yes I ask also you, true yokefellow do yourself help these [women], who in the gospel labored together with me with also Clement and the rest of [the] fellow workers of mine whose <the> names [are] in [the] book of life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.2|<< Philippians 4:2]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.4|Philippians 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yes [^1] [^2] |**<big>[[G3483\|ναὶ]]</big>**  |nai <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(K)O</abbr> | |
 | I ask |**<big>[[G2065\|ἐρωτῶ]]</big>**  |erōtō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

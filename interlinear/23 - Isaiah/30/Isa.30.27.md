@@ -1,4 +1,4 @@
-**Isaiah 30:27** 
+**Isaiah 30:27**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the name of the LORD cometh from far, burning [with] his anger, and the burden [thereof is] heavy: his lips are full of indignation, and his tongue as a devouring fire:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, the Name of the LORD comes from afar, with burning anger and dense smoke
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.26|<< Isaiah 30:26]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.28|Isaiah 30:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] name of  |**<big>&#8207;[[H8034\|שֵׁם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

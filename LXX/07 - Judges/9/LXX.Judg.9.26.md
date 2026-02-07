@@ -1,10 +1,7 @@
 **LXX Judges 9:26** 
 <small><sub>**LXX:**</sub></small>
 And Gaal \[the\] son of Ebed came and  his brothers, and they went unto Shechem; and the men of Shechem relied in him. 
-<small><sub>**KJV:**</sub></small>
-And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, Gaal son of Ebed came with his brothers and crossed into Shechem, and the leaders of Shechem put their confidence in him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.25|<< Judges 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.27|Judges 9:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:6** 
 <small><sub>**LXX:**</sub></small>
 I am \[the\] <span class="smallcaps">lord</span>  your God, the one leading you from out of \[the\] land of Egypt, from \[the\] house of slavery. 
-<small><sub>**KJV:**</sub></small>
-I [am] the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage.
-<small><sub>**BSB:**</sub></small>
-“I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.5|<< Deuteronomy 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.7|Deuteronomy 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

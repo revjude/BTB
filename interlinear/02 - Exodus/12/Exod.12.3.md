@@ -1,4 +1,4 @@
-**Exodus 12:3** 
+**Exodus 12:3**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak ye unto all the congregation of Israel, saying, In the tenth [day] of this month they shall take to them every man a lamb, according to the house of [their] fathers, a lamb for an house:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tell the whole congregation of Israel that on the tenth day of this month each m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.2|<< Exodus 12:2]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.4|Exodus 12:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H1696G\|דַּבְּר֗וּ]]&#8207; </big>**| da.be.Ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

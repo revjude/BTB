@@ -1,4 +1,4 @@
-**2 Kings 22:7** 
+**2 Kings 22:7**<big><big>[[2Kgs.22.3 Funding the Temple Repairs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they need not account for the money put into their hands, since they work wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.6|<< 2 Kings 22:6]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.8|2 Kings 22:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַ֚ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

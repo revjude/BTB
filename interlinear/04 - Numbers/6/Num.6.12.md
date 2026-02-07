@@ -1,4 +1,4 @@
-**Numbers 6:12** 
+**Numbers 6:12**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall consecrate unto the LORD the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He must rededicate his time of separation to the LORD and bring a year-old male 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.11|<< Numbers 6:11]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.13|Numbers 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will be a Nazirite  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5144B\|הִזִּ֤יר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Zir<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָה֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

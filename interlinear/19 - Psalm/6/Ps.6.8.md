@@ -1,4 +1,4 @@
-**Psalms 6:8** (6:9)
+**Psalms 6:8**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Depart from me, all you workers of iniquity, for the LORD has heard my weeping.
 > $\quad$ referenced by: [[Matt.7.23|Matt 7:23]] ☩ [[Matt.25.41|Matt 25:41]] ☩ [[Luke.13.27|Luke 13:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn away  |**<big>&#8207;[[H5493H\|ס֣וּרוּ]]&#8207; </big>**| Su.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from me  |**<big>&#8207;[[H4480A\|מִ֭מֶּ]]&#8207;&#8207;[[H9030\|נִּי]]&#8207; </big>**| Mi.me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

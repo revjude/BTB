@@ -1,4 +1,4 @@
-**Numbers 24:6** 
+**Numbers 24:6**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the valleys are they spread forth, as gardens by the river’s side, as the trees of lign aloes which the LORD hath planted, [and] as cedar trees beside the waters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They spread out like palm groves, like gardens beside a stream, like aloes the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.5|<< Numbers 24:5]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.7|Numbers 24:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like wadis  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H5158B\|נְחָלִ֣ים]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> n.cha.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] they are stretched out  |**<big>&#8207;[[H5186\|נִטָּ֔יוּ]]&#8207; </big>**| ni.Ta.yu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

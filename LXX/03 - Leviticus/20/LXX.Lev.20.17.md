@@ -1,10 +1,7 @@
 **LXX Leviticus 20:17** 
 <small><sub>**LXX:**</sub></small>
 Who ever should take  his sister of his father, or of his mother, and should look at  her indecency, and she should look at  his indecency, it is scornful, they shall be utterly destroyed before \[the\] sons of their race, \[for the\] indecency of his sister he uncovered -- his sin he shall receive. 
-<small><sub>**KJV:**</sub></small>
-And if a man shall take his sister, his father’s daughter, or his mother’s daughter, and see her nakedness, and she see his nakedness; it [is] a wicked thing; and they shall be cut off in the sight of their people: he hath uncovered his sister’s nakedness; he shall bear his iniquity.
-<small><sub>**BSB:**</sub></small>
-If a man marries his sister, whether the daughter of his father or of his mother, and they have sexual relations, it is a disgrace. They must be cut off in the sight of their people. He has uncovered the nakedness of his sister; he shall bear his iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.16|<< Leviticus 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.18|Leviticus 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

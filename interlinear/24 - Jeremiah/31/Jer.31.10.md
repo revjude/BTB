@@ -1,4 +1,4 @@
-**Jeremiah 31:10** 
+**Jeremiah 31:10**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear the word of the LORD, O ye nations, and declare [it] in the isles afar off, and say, He that scattered Israel will gather him, and keep him, as a shepherd [doth] his flock.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear, O nations, the word of the LORD, and proclaim it in distant coastlands: �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.9|<< Jeremiah 31:9]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.11|Jeremiah 31:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְע֤וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] word of  |**<big>&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 12:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:3**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they caught [him], and beat him, and sent [him] away empty.
 <small><sub>**BSB:**</sub></small>
 But they seized the servant, beat him, and sent him away empty-handed.
 <small><sub>**Literal:**</sub></small>
 <the> But having taken him they beat [him] and they sent [him] away empty-handed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.2|<< Mark 12:2]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.4|Mark 12:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | But [^1] |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,4 +1,4 @@
-**Leviticus 27:25** 
+**Leviticus 27:25**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every valuation will be according to the sanctuary shekel, twenty gerahs to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.24|<< Leviticus 27:24]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.26|Leviticus 27:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | valuation your  |**<big>&#8207;[[H6187\|עֶרְכְּ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| 'er.ke.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:4** 
 <small><sub>**LXX:**</sub></small>
 But the saying of the king prevailed over Joab. And Joab went forth, and went unto all Israel, and went up unto Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless the king’s word prevailed against Joab. Wherefore Joab departed, and went throughout all Israel, and came to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the king’s word prevailed against Joab. So Joab departed and traveled throughout Israel, and then he returned to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.3|<< 1 Chronicles 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.5|1 Chronicles 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

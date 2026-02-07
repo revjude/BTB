@@ -1,4 +1,4 @@
-**Habakkuk 1:8** 
+**Habakkuk 1:8**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle [that] hasteth to eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their horses are swifter than leopards, fiercer than wolves of the night. Their 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.7|<< Habakkuk 1:7]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.9|Habakkuk 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they are swift  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7043\|קַלּ֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than leopards  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5246\|נְּמֵרִ֜ים]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ne.me.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

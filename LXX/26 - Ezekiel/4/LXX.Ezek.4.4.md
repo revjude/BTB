@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall go to sleep upon  your left side, and you shall put the iniquities of the house of Israel upon it, according to \[the\] number of the days which you shall sleep upon it. And you shall take  their iniquities. 
-<small><sub>**KJV:**</sub></small>
-Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: [according] to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.
-<small><sub>**BSB:**</sub></small>
-Then lie down on your left side and place the iniquity of the house of Israel upon yourself. You are to bear their iniquity for the number of days you lie on your side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.3|<< Ezekiel 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.5|Ezekiel 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

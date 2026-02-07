@@ -1,10 +1,7 @@
 **LXX Proverbs 20:27** 
 <small><sub>**LXX:**</sub></small>
 \[The\] light of \[the\] <span class="smallcaps">lord</span> \[is the\] breath of men, which searches \[the\] storerooms of \[the\] bellies. 
-<small><sub>**KJV:**</sub></small>
-The spirit of man [is] the candle of the LORD, searching all the inward parts of the belly.
-<small><sub>**BSB:**</sub></small>
-The spirit of a man is the lamp of the LORD, searching out his inmost being.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.26|<< Proverbs 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.28|Proverbs 20:28 >>]]</td></tr></table>
 
 | Translation | Greek |

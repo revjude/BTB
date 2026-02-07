@@ -1,4 +1,4 @@
-**Numbers 28:9** 
+**Numbers 28:9**<big><big>[[Num.28.9 The Sabbath Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the sabbath day two lambs of the first year without spot, and two tenth deals of flour [for] a meat offering, mingled with oil, and the drink offering thereof:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ On the Sabbath day, present two unblemished year-old male lambs, accompanied by 
 > $\quad$ referenced by: [[Matt.12.5|Matt 12:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on [the] day of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sabbath  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7676\|שַּׁבָּ֔ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

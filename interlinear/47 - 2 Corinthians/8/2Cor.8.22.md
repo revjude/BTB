@@ -1,12 +1,12 @@
-**2 Corinthians 8:22
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:22**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which [I have] in you.
 <small><sub>**BSB:**</sub></small>
 And we are sending along with them our brother who has proven his earnestness to us many times and in many ways, and now even more so by his great confidence in you.
 <small><sub>**Literal:**</sub></small>
 We sent now to them the brother of us, whom we have proven in many things often earnest to be, now however much earnest by [his] confidence more which [is] in you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.21|<< 2 Corinthians 8:21]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.23|2 Corinthians 8:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We sent |**<big>[[G4842\|συνεπέμψαμεν]]</big>**  |sunepempsamen <small><sup>[[V-AAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

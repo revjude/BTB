@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samson went into Gaza, and saw there a woman harlot, and he entered to her. 
-<small><sub>**KJV:**</sub></small>
-Then went Samson to Gaza, and saw there an harlot, and went in unto her.
-<small><sub>**BSB:**</sub></small>
-One day Samson went to Gaza, where he saw a prostitute and went in to spend the night with her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.20|<< Judges 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.2|Judges 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

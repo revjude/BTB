@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, O mountains of Israel, hear the word \[of\] Adonai \[the\] <span class="smallcaps">lord</span>! Thus says Adonai \[the\] <span class="smallcaps">lord</span> to the mountains, and to the hills, and to the ravines, and to the groves; Behold, I bring upon you a broadsword, and your high \[places\] will be utterly destroyed. 
-<small><sub>**KJV:**</sub></small>
-And say, Ye mountains of Israel, hear the word of the Lord GOD; Thus saith the Lord GOD to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, [even] I, will bring a sword upon you, and I will destroy your high places.
-<small><sub>**BSB:**</sub></small>
-You are to say: ‘O mountains of Israel, hear the word of the Lord GOD! This is what the Lord GOD says to the mountains and hills, to the ravines and valleys: I am about to bring a sword against you, and I will destroy your high places.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.2|<< Ezekiel 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.4|Ezekiel 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

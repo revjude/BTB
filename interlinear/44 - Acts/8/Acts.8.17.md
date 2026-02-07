@@ -1,12 +1,12 @@
-**Acts 8:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:17**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then laid they [their] hands on them, and they received the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 Then Peter and John laid their hands on them, and they received the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 Then they were laying the hands upon them and they were receiving [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.16|<< Acts 8:16]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.18|Acts 8:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were laying |**<big>[[G2007\|ἐπετίθεσαν]]</big>**  [^1] |epetithesan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

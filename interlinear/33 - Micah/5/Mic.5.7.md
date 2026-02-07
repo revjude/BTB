@@ -1,4 +1,4 @@
-**Micah 5:7** (5:6)
+**Micah 5:7**<big><big>[[Mic.5.7 The Remnant of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the remnant of Jacob will be in the midst of many peoples like dew from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.6|<< Micah 5:6]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.8|Micah 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] remnant of  |**<big>&#8207;[[H7611\|שְׁאֵרִ֣ית]]&#8207; </big>**| she.'e.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:3** 
 <small><sub>**LXX:**</sub></small>
 For the one leading, this one shall sit down in it  to eat bread before the <span class="smallcaps">lord</span>. He shall enter by the way of \[the\] columned porch of the gate, and according to  its way he shall go forth. 
-<small><sub>**KJV:**</sub></small>
-[It is] for the prince; the prince, he shall sit in it to eat bread before the LORD; he shall enter by the way of the porch of [that] gate, and shall go out by the way of the same.
-<small><sub>**BSB:**</sub></small>
-Only the prince himself may sit inside the gateway to eat in the presence of the LORD. He must enter by way of the portico of the gateway and go out the same way.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.2|<< Ezekiel 44:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.4|Ezekiel 44:4 >>]]</td></tr></table>
 
 | Translation | Greek |

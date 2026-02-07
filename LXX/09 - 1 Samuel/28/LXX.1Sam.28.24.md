@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:24** 
 <small><sub>**LXX:**</sub></small>
 And to the woman was a suckling calf by the house; and she hastened and sacrificed it, and took flour and mixed it, and baked unleavened \[breads\]. 
-<small><sub>**KJV:**</sub></small>
-And the woman had a fat calf in the house; and she hasted, and killed it, and took flour, and kneaded [it], and did bake unleavened bread thereof:
-<small><sub>**BSB:**</sub></small>
-The woman had a fattened calf at her house, and she quickly slaughtered it. She also took flour, kneaded it, and baked unleavened bread.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.23|<< 1 Samuel 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.25|1 Samuel 28:25 >>]]</td></tr></table>
 
 | Translation | Greek |

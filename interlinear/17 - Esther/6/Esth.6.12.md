@@ -1,4 +1,4 @@
-**Esther 6:12** 
+**Esther 6:12**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mordecai came again to the king’s gate. But Haman hasted to his house mourning, and having his head covered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Mordecai returned to the king’s gate. But Haman rushed home, with his hea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.11|<< Esther 6:11]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.13|Esther 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֥שָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mordecai  |**<big>&#8207;[[H4782H\|מָרְדֳּכַ֖י]]&#8207; </big>**| ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 14:42** 
+**Leviticus 14:42**<big><big>[[Lev.14.33 Signs of Home Contamination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall take other stones, and put [them] in the place of those stones; and he shall take other morter, and shall plaister the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So different stones must be obtained to replace the contaminated ones, as well a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.41|<< Leviticus 14:41]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.43|Leviticus 14:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקְחוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.ke.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | stones  |**<big>&#8207;[[H0068G\|אֲבָנִ֣ים]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

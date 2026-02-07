@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For priest and prophet were tainted; and in  my house I saw their wickedness, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“For both prophet and priest are ungodly; even in My house I have found their wickedness,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.10|<< Jeremiah 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.12|Jeremiah 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

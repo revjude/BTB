@@ -1,4 +1,4 @@
-**Isaiah 37:23** 
+**Isaiah 37:23**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whom hast thou reproached and blasphemed? and against whom hast thou exalted [thy] voice, and lifted up thine eyes on high? [even] against the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whom have you taunted and blasphemed? Against whom have you raised your voice an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.22|<< Isaiah 37:22]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.24|Isaiah 37:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

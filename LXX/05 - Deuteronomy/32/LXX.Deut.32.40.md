@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:40** 
 <small><sub>**LXX:**</sub></small>
 For I shall lift into the heaven  my hand, and I shall swear by an oath  by my right \[hand\]. And I will say, I live into the eon. 
-<small><sub>**KJV:**</sub></small>
-For I lift up my hand to heaven, and say, I live for ever.
-<small><sub>**BSB:**</sub></small>
-For I lift up My hand to heaven and declare: As surely as I live forever,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.39|<< Deuteronomy 32:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.41|Deuteronomy 32:41 >>]]</td></tr></table>
 
 | Translation | Greek |

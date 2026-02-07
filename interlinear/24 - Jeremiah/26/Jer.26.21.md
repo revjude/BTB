@@ -1,4 +1,4 @@
-**Jeremiah 26:21** 
+**Jeremiah 26:21**<big><big>[[Jer.26.20 The Prophet Uriah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Jehoiakim the king, with all his mighty men, and all the princes, heard his words, the king sought to put him to death: but when Urijah heard it, he was afraid, and fled, and went into Egypt;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ King Jehoiakim and all his mighty men and officials heard his words, and the kin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.20|<< Jeremiah 26:20]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.22|Jeremiah 26:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

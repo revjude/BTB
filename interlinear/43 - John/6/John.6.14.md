@@ -1,12 +1,12 @@
-**John 6:14
-**<small><sub>**KJV:**</sub></small>
+**John 6:14**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world.
 <small><sub>**BSB:**</sub></small>
 When the people saw the sign that Jesus had performed, they began to say, “Truly this is the Prophet who is to come into the world.”
 <small><sub>**Literal:**</sub></small>
 The therefore people having seen what He had done sign <the> Jesus were saying that This is truly the prophet who is coming into the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.13|<< John 6:13]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.15|John 6:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

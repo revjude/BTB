@@ -1,10 +1,7 @@
 **LXX Genesis 42:14** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to them, This is it that I have said to you, saying that, You are spies. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto them, That [is it] that I spake unto you, saying, Ye [are] spies:
-<small><sub>**BSB:**</sub></small>
-Then Joseph declared, “Just as I said, you are spies!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.13|<< Genesis 42:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.15|Genesis 42:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:17** 
 <small><sub>**LXX:**</sub></small>
 And Samuel beheld  Saul, and \[the\] <span class="smallcaps">lord</span> answered him, Behold, the man whom I said to you, This one shall rule over  my people. 
-<small><sub>**KJV:**</sub></small>
-And when Samuel saw Saul, the LORD said unto him, Behold the man whom I spake to thee of! this same shall reign over my people.
-<small><sub>**BSB:**</sub></small>
-When Samuel saw Saul, the LORD told him, “Here is the man of whom I spoke; he shall rule over My people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.16|<< 1 Samuel 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.18|1 Samuel 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

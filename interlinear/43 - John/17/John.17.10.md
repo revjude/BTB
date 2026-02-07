@@ -1,12 +1,12 @@
-**John 17:10
-**<small><sub>**KJV:**</sub></small>
+**John 17:10**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all mine are thine, and thine are mine; and I am glorified in them.
 <small><sub>**BSB:**</sub></small>
 All I have is Yours, and all You have is Mine; and in them I have been glorified.
 <small><sub>**Literal:**</sub></small>
 And the [things] of mine all Yours are and <the> Yours Mine; and I have been glorified in them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.9|<< John 17:9]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.11|John 17:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [things] |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

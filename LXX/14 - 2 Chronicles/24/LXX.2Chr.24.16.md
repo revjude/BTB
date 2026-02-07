@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:16** 
 <small><sub>**LXX:**</sub></small>
 And they entombed him in \[the\] city of David with the kings, for he did goodness with Israel, and with  God, and  his house. 
-<small><sub>**KJV:**</sub></small>
-And they buried him in the city of David among the kings, because he had done good in Israel, both toward God, and toward his house.
-<small><sub>**BSB:**</sub></small>
-And Jehoiada was buried with the kings in the City of David, because he had done what was good in Israel for God and His temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.15|<< 2 Chronicles 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.17|2 Chronicles 24:17 >>]]</td></tr></table>
 
 | Translation | Greek |

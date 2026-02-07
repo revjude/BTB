@@ -1,12 +1,12 @@
-**Revelation 17:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:7**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.
 <small><sub>**BSB:**</sub></small>
 “Why are you so amazed?” said the angel. “I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and ten horns.
 <small><sub>**Literal:**</sub></small>
 And said to me the angel; Because of why did you marvel? I myself will tell you the mystery of the woman and of the beast who is carrying her who is having the seven heads and the ten horns.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.6|<< Revelation 17:6]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.8|Revelation 17:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπέν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

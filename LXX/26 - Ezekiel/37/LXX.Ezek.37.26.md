@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:26** 
 <small><sub>**LXX:**</sub></small>
 And I will ordain with them a covenant of peace; it will be an eternal covenant with them. And I will put them and multiply them; and I will put  my holy \[things\] in their midst into the eon. 
-<small><sub>**KJV:**</sub></small>
-Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore.
-<small><sub>**BSB:**</sub></small>
-And I will make a covenant of peace with them; it will be an everlasting covenant. I will establish them and multiply them, and I will set My sanctuary among them forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.25|<< Ezekiel 37:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.27|Ezekiel 37:27 >>]]</td></tr></table>
 
 | Translation | Greek |

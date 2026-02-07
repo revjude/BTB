@@ -1,12 +1,12 @@
-**Ephesians 5:17
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:17**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore be ye not unwise, but understanding what the will of the Lord [is].
 <small><sub>**BSB:**</sub></small>
 Therefore do not be foolish, but understand what the Lord’s will is.
 <small><sub>**Literal:**</sub></small>
 Because of this not do be foolish, but do understand what the will of the Lord [is].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.16|<< Ephesians 5:16]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.18|Ephesians 5:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

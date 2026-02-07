@@ -1,12 +1,12 @@
-**Jude 1:21
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:21**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
 <small><sub>**BSB:**</sub></small>
 keep yourselves in the love of God as you await the mercy of our Lord Jesus Christ to bring you eternal life.
 <small><sub>**Literal:**</sub></small>
 yourselves in [the] love of God do keep, awaiting the mercy of the Lord of us Jesus Christ unto life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.20|<< Jude 1:20]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.22|Jude 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | yourselves |**<big>[[G1438\|ἑαυτοὺς]]</big>**  |he'autous <small><sup>[[F-2APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

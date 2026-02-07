@@ -1,12 +1,12 @@
-**John 6:21
-**<small><sub>**KJV:**</sub></small>
+**John 6:21**<big><big>[[John.6.16 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then they willingly received him into the ship: and immediately the ship was at the land whither they went.
 <small><sub>**BSB:**</sub></small>
 Then they were willing to take Him into the boat, and at once the boat reached the shore where they were heading.
 <small><sub>**Literal:**</sub></small>
 They were willing then to receive Him into the boat, and immediately was the boat at the land to which they were going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.20|<< John 6:20]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.22|John 6:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were willing |**<big>[[G2309\|ἤθελον]]</big>**  |ēthelon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

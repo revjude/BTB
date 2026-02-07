@@ -1,5 +1,5 @@
-**Revelation 21:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:4**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
 <small><sub>**BSB:**</sub></small>
 ‘He will wipe away every tear from their eyes,’ and there will be no more death or mourning or crying or pain, for the former things have passed away.”
@@ -10,7 +10,7 @@ And He will wipe away the God every tear from the eyes of them, and <the> death 
 > $\quad$ alluding to: [[LXX.Isa.25.8|Isa 25:8]] ☩ [[LXX.Isa.65.19|Isa 65:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He will wipe away |**<big>[[G1813\|ἐξαλείψει]]</big>**  |exaleipsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

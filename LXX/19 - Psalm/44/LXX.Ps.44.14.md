@@ -1,10 +1,7 @@
 **LXX Psalm 44:14** 
 <small><sub>**LXX:**</sub></small>
 You put us as a parable among the nations; a shaking of \[the\] head among the peoples. 
-<small><sub>**KJV:**</sub></small>
-Thou makest us a byword among the heathen, a shaking of the head among the people.
-<small><sub>**BSB:**</sub></small>
-You have made us a byword among the nations, a laughingstock among the peoples.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.13|<< Psalm 44:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.15|Psalm 44:15 >>]]</td></tr></table>
 
 | Translation | Greek |

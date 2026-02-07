@@ -1,4 +1,4 @@
-**Isaiah 38:10** 
+**Isaiah 38:10**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I said, “In the prime of my life I must go through the gates of Sheol and be d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.9|<< Isaiah 38:9]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.11|Isaiah 38:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I said  |**<big>&#8207;[[H0559\|אָמַ֗רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

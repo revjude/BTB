@@ -1,12 +1,12 @@
-**Luke 7:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:11**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people.
 <small><sub>**BSB:**</sub></small>
 Soon afterward, Jesus went to a town called Nain. His disciples went with Him, accompanied by a large crowd.
 <small><sub>**Literal:**</sub></small>
 And it came to pass on the next [day] He went into a town being called Nain, and were going with Him the disciples of Him many and a crowd great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.10|<< Luke 7:10]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.12|Luke 7:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Samuel 16:1** 
+**2 Samuel 16:1**<big><big>[[2Sam.16.1 David and Ziba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when David was a little past the top [of the hill], behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred [loaves] of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When David had gone a little beyond the summit, Ziba the servant of Mephibosheth
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.37|<< 2 Samuel 15:37]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.2|2 Samuel 16:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and David  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1732\|דָוִ֗ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he passed on  |**<big>&#8207;[[H5674A\|עָבַ֤ר]]&#8207; </big>**| 'a.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

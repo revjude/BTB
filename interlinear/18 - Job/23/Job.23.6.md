@@ -1,4 +1,4 @@
-**Job 23:6** 
+**Job 23:6**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will he plead against me with [his] great power? No; but he would put [strength] in me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Would He contend with me in His great power? No, He would certainly take note of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.5|<< Job 23:5]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.7|Job 23:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ with greatness of  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רָב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> be.<small><sup>[[HR]]</sup></small> rov-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | power  |**<big>&#8207;[[H3581B\|כֹּ֭חַ]]&#8207; </big>**| Ko.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

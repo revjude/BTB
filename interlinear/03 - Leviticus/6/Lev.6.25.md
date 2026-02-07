@@ -1,4 +1,4 @@
-**Leviticus 6:25** (6:18)
+**Leviticus 6:25**<big><big>[[Lev.6.24 The Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Aaron and to his sons, saying, This [is] the law of the sin offering: In the place where the burnt offering is killed shall the sin offering be killed before the LORD: it [is] most holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak unto Aaron and to his sons, saying, This [is] the law of the sin offering:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.24|<< Leviticus 6:24]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.26|Leviticus 6:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֤ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

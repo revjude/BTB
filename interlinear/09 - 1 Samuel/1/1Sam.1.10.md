@@ -1,4 +1,4 @@
-**1 Samuel 1:10** 
+**1 Samuel 1:10**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she [was] in bitterness of soul, and prayed unto the LORD, and wept sore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In her bitter distress, Hannah prayed to the LORD and wept with many tears.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.9|<< 1 Samuel 1:9]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.11|1 Samuel 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|הִ֖יא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] bitter of  |**<big>&#8207;[[H4751\|מָ֣רַת]]&#8207; </big>**| Ma.rat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

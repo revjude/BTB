@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:22** 
 <small><sub>**LXX:**</sub></small>
 And you shall do in which manner I have done. From their mouth you shall not be comforted, and \[the\] bread of men you shall not eat. 
-<small><sub>**KJV:**</sub></small>
-And ye shall do as I have done: ye shall not cover [your] lips, nor eat the bread of men.
-<small><sub>**BSB:**</sub></small>
-Then you will do as I have done: You will not cover your lips or eat the bread of mourners.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.21|<< Ezekiel 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.23|Ezekiel 24:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 36:6** 
+**2 Chronicles 36:6**<big><big>[[2Chr.36.5 Jehoiakim Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Nebuchadnezzar king of Babylon came up against Jehoiakim and bound him with
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.5|<< 2 Chronicles 36:5]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.7|2 Chronicles 36:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he came up  |**<big>&#8207;[[H5927G\|עָלָ֔ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

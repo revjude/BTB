@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:16** 
 <small><sub>**LXX:**</sub></small>
 And he built  twenty cubits from \[the\] top of the house of the sides of the ones of cedars from floor unto the beams. And he made it inside of the dabir in the holy  of holies. 
-<small><sub>**KJV:**</sub></small>
-And he built twenty cubits on the sides of the house, both the floor and the walls with boards of cedar: he even built [them] for it within, [even] for the oracle, [even] for the most holy [place].
-<small><sub>**BSB:**</sub></small>
-He partitioned off the twenty cubits at the rear of the temple with cedar boards from floor to ceiling to form within the temple an inner sanctuary, the Most Holy Place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.15|<< 1 Kings 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.17|1 Kings 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

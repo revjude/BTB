@@ -1,4 +1,4 @@
-**1 Samuel 7:11** 
+**1 Samuel 7:11**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until [they came] under Bethcar.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the men of Israel charged out of Mizpah and pursued the Philistines, striki
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּ֨צְא֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֤י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

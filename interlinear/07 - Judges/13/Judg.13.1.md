@@ -1,4 +1,4 @@
-**Judges 13:1** 
+**Judges 13:1**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel did evil again in the sight of the LORD; and the LORD delivered them into the hand of the Philistines forty years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again the Israelites did evil in the sight of the LORD, so He delivered them int
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.15|<< Judges 12:15]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.2|Judges 13:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יֹּסִ֙פוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Si.fu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

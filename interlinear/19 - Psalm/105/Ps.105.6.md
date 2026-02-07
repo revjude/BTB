@@ -1,4 +1,4 @@
-**Psalms 105:6** 
+**Psalms 105:6**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O ye seed of Abraham his servant, ye children of Jacob his chosen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O offspring of His servant Abraham, O sons of Jacob, His chosen ones.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.5|<< Psalms 105:5]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.7|Psalms 105:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O offspring of  |**<big>&#8207;[[H2233H\|זֶ֭רַע]]&#8207; </big>**| Ze.ra'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֣ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

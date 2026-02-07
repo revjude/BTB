@@ -1,4 +1,4 @@
-**Hosea 5:15** 
+**Hosea 5:15**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will go [and] return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I will return to My place until they admit their guilt and seek My face; in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.14|<< Hosea 5:14]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.1|Hosea 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will go  |**<big>&#8207;[[H1980L\|אֵלֵ֤ךְ]]&#8207; </big>**| 'e.Lekh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will return  |**<big>&#8207;[[H7725G\|אָשׁ֙וּבָה֙]]&#8207; </big>**| 'a.Shu.vah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

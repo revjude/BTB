@@ -1,4 +1,4 @@
-**Proverbs 30:24** 
+**Proverbs 30:24**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There be four [things which are] little upon the earth, but they [are] exceeding wise:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Four things on earth are small, yet they are exceedingly wise:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.23|<< Proverbs 30:23]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.25|Proverbs 30:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | four [things]  |**<big>&#8207;[[H0702\|אַרְבָּ֣עָה]]&#8207; </big>**| 'ar.Ba.'ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֭ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

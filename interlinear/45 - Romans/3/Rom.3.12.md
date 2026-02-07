@@ -1,5 +1,5 @@
-**Romans 3:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:12**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.
 <small><sub>**BSB:**</sub></small>
 All have turned away, they have together become worthless; there is no one who does good, not even one.”
@@ -10,7 +10,7 @@ All turned away, together they became worthless; none there is who is practicing
 > $\quad$ referencing: [[LXX.Ps.14.3|Ps 14:3]] ☩ [[LXX.Ps.53.1|Ps 53:1-3]] ☩ [[LXX.Eccl.7.20|Eccl 7:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | turned away, |**<big>[[G1578\|ἐξέκλιναν,]]</big>**  [^1] |exeklinan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

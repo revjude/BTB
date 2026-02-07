@@ -1,10 +1,7 @@
 **LXX Judges 20:39** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man of Israel turned in the battle. And Benjamin began  to strike slain against the man of Israel about thirty men. For they said, Surely being put to flight he was put to flight before us as the battle  before. 
-<small><sub>**KJV:**</sub></small>
-And when the men of Israel retired in the battle, Benjamin began to smite [and] kill of the men of Israel about thirty persons: for they said, Surely they are smitten down before us, as [in] the first battle.
-<small><sub>**BSB:**</sub></small>
-the men of Israel would turn in the battle. When the Benjamites had begun to strike them down, killing about thirty men of Israel, they said, “They are defeated before us as in the first battle.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.38|<< Judges 20:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.40|Judges 20:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:15** 
 <small><sub>**LXX:**</sub></small>
 so that the heart should be devastated, and the ones being weakened should be multiplied at every gate of theirs. They have been delivered up as victims for slaughter by \[the\] broadsword. Well done keen \[one\] being for slaughter. Well done one being for shining. As lightning go forth! 
-<small><sub>**KJV:**</sub></small>
-I have set the point of the sword against all their gates, that [their] heart may faint, and [their] ruins be multiplied: ah! [it is] made bright, [it is] wrapped up for the slaughter.
-<small><sub>**BSB:**</sub></small>
-So that their hearts may melt and many may stumble, I have appointed at all their gates a sword for slaughter. Yes, it is ready to flash like lightning; it is drawn for slaughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.14|<< Ezekiel 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.16|Ezekiel 21:16 >>]]</td></tr></table>
 
 | Translation | Greek |

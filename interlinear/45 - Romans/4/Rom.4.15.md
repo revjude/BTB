@@ -1,12 +1,12 @@
-**Romans 4:15
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:15**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because the law worketh wrath: for where no law is, [there is] no transgression.
 <small><sub>**BSB:**</sub></small>
 because the law brings wrath. And where there is no law, there is no transgression.
 <small><sub>**Literal:**</sub></small>
 <the> For law wrath brings; where now no there is law, neither [is] transgression.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.14|<< Romans 4:14]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.16|Romans 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

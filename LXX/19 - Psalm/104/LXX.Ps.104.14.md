@@ -1,10 +1,7 @@
 **LXX Psalm 104:14** 
 <small><sub>**LXX:**</sub></small>
 The one grass to rise up to the cattle, and tender shoots to the service of the men,  to bring bread from the earth; 
-<small><sub>**KJV:**</sub></small>
-He causeth the grass to grow for the cattle, and herb for the service of man: that he may bring forth food out of the earth;
-<small><sub>**BSB:**</sub></small>
-He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.13|<< Psalm 104:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.15|Psalm 104:15 >>]]</td></tr></table>
 
 | Translation | Greek |

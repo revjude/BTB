@@ -1,4 +1,4 @@
-**Genesis 1:12** 
+**Genesis 1:12**<big><big>[[Gen.1.9 The Third Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the earth brought forth grass, [and] herb yielding seed after his kind, and the tree yielding fruit, whose seed [was] in itself, after his kind: and God saw that [it was] good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The earth produced vegetation: seed-bearing plants according to their kinds and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.11|<< Genesis 1:11]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.13|Genesis 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<it> brought forth  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318M\|תּוֹצֵ֨א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> to.Tze'<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֜רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

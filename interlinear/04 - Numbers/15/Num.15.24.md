@@ -1,4 +1,4 @@
-**Numbers 15:24** 
+**Numbers 15:24**<big><big>[[Num.15.22 Offerings for Unintentional Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then it shall be, if [ought] be committed by ignorance without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt offering, for a sweet savour unto the LORD, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if it was done unintentionally without the knowledge of the congregation, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.23|<< Numbers 15:23]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.25|Numbers 15:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H0518A\|אִ֣ם]]&#8207; </big>**| 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

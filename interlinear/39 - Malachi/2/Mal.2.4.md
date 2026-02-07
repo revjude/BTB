@@ -1,4 +1,4 @@
-**Malachi 2:4** 
+**Malachi 2:4**<big><big>[[Mal.2.1 A Warning to the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will know that I have sent you this commandment so that My covenant wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.3|<< Malachi 2:3]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.5|Malachi 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וִֽ]]&#8207;&#8207;[[H3045\|ידַעְתֶּ֕ם]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> da'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Judges 2:23** 
+**Judges 2:23**<big><big>[[Judg.2.16 Judges Raised Up|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That is why the LORD had left those nations in place and had not driven them out
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.22|<< Judges 2:22]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.1|Judges 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he left  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5117\|יַּנַּ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Nach<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

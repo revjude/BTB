@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:9** 
 <small><sub>**LXX:**</sub></small>
 And he heard concerning Tirhakah king of \[the\] Ethiopians, saying, Behold, he comes forth  to wage war against you. And he returned, and sent messengers to Hezekiah, saying, 
-<small><sub>**KJV:**</sub></small>
-And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against thee: he sent messengers again unto Hezekiah, saying,
-<small><sub>**BSB:**</sub></small>
-Now Sennacherib had been warned about Tirhakah king of Cush: “Look, he has set out to fight against you.” So Sennacherib again sent messengers to Hezekiah, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.8|<< 2 Kings 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.10|2 Kings 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

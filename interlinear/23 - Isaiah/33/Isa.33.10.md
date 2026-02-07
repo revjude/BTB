@@ -1,4 +1,4 @@
-**Isaiah 33:10** 
+**Isaiah 33:10**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now will I rise, saith the LORD; now will I be exalted; now will I lift up myself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now will I rise, saith the LORD; now will I be exalted; now will I lift up mysel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.9|<< Isaiah 33:9]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.11|Isaiah 33:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֥ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will arise  |**<big>&#8207;[[H6965B\|אָק֖וּם]]&#8207; </big>**| 'a.Kum<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

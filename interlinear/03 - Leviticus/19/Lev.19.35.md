@@ -1,4 +1,4 @@
-**Leviticus 19:35** 
+**Leviticus 19:35**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not use dishonest measures of length, weight, or volume.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.34|<< Leviticus 19:34]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.36|Leviticus 19:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will do  |**<big>&#8207;[[H6213A\|תַעֲשׂ֥וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Ephesians 2:5
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:5**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)
 <small><sub>**BSB:**</sub></small>
 made us alive with Christ even when we were dead in our trespasses. It is by grace you have been saved!
 <small><sub>**Literal:**</sub></small>
 even being we dead <the> in trespasses made [us] alive with <the> Christ — by grace you are saved —.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.4|<< Ephesians 2:4]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.6|Ephesians 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being |**<big>[[G1510\|ὄντας]]</big>**  |ontas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

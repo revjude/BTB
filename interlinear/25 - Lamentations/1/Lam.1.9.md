@@ -1,4 +1,4 @@
-**Lamentations 1:9** 
+**Lamentations 1:9**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her filthiness [is] in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified [himself].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her uncleanness stains her skirts; she did not consider her end. Her downfall wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.8|<< Lamentations 1:8]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.10|Lamentations 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | uncleanness her  |**<big>&#8207;[[H2932\|טֻמְאָתָ֣]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| tum.'a.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] on skirts her  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7757\|שׁוּלֶ֗י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shu.Lei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

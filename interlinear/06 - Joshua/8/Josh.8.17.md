@@ -1,4 +1,4 @@
-**Joshua 8:17** 
+**Joshua 8:17**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was not a man left in Ai or Bethel, that went not out after Israel: and they left the city open, and pursued after Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Not a man was left in Ai or Bethel who did not go out after Israel, leaving the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.16|<< Joshua 8:16]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.18|Joshua 8:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he remained  |**<big>&#8207;[[H7604\|נִשְׁאַ֣ר]]&#8207; </big>**| nish.'Ar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

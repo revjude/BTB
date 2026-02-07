@@ -1,4 +1,4 @@
-**1 Samuel 23:24** 
+**1 Samuel 23:24**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they arose, and went to Ziph before Saul: but David and his men [were] in the wilderness of Maon, in the plain on the south of Jeshimon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they set out and went to Ziph ahead of Saul. Now David and his men were in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.23|<< 1 Samuel 23:23]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.25|1 Samuel 23:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּק֛וּמוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלְכ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

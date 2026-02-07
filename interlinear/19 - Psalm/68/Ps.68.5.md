@@ -1,4 +1,4 @@
-**Psalms 68:5** (68:6)
+**Psalms 68:5**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A father of the fatherless, and a judge of the widows, [is] God in his holy habitation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A father of the fatherless and a defender of widows is God in His holy habitatio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.4|<< Psalms 68:4]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.6|Psalms 68:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a father of  |**<big>&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fatherless ones  |**<big>&#8207;[[H3490\|יְ֭תוֹמִים]]&#8207; </big>**| Ye.to.mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

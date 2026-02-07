@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:26** 
 <small><sub>**LXX:**</sub></small>
 And concerning \[the\] king of Judah, the one sending you  to seek the <span class="smallcaps">lord</span>, Thus shall you say to him, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, Of the words which you heard, 
-<small><sub>**KJV:**</sub></small>
-And as for the king of Judah, who sent you to inquire of the LORD, so shall ye say unto him, Thus saith the LORD God of Israel [concerning] the words which thou hast heard;
-<small><sub>**BSB:**</sub></small>
-But as for the king of Judah, who sent you to inquire of the LORD, tell him that this is what the LORD, the God of Israel, says: ‘As for the words that you heard,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.25|<< 2 Chronicles 34:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.27|2 Chronicles 34:27 >>]]</td></tr></table>
 
 | Translation | Greek |

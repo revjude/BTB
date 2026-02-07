@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:29** 
 <small><sub>**LXX:**</sub></small>
 And you shall seek after there \[the\] <span class="smallcaps">lord</span>  your God, and you shall find him whenever you should seek after him with your entire heart, and with your entire soul in  your affliction. 
-<small><sub>**KJV:**</sub></small>
-But if from thence thou shalt seek the LORD thy God, thou shalt find [him], if thou seek him with all thy heart and with all thy soul.
-<small><sub>**BSB:**</sub></small>
-But if from there you will seek the LORD your God, you will find Him if you seek Him with all your heart and with all your soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.28|<< Deuteronomy 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.30|Deuteronomy 4:30 >>]]</td></tr></table>
 
 | Translation | Greek |

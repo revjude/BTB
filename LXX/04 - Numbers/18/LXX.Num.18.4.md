@@ -1,10 +1,7 @@
 **LXX Numbers 18:4** 
 <small><sub>**LXX:**</sub></small>
 And they shall be added to you, and shall guard the watches of the tent of the testimony, concerning all the ministrations of the tent. And the foreigner shall not draw near to you. 
-<small><sub>**KJV:**</sub></small>
-And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you.
-<small><sub>**BSB:**</sub></small>
-They are to join you and attend to the duties of the Tent of Meeting, doing all the work at the Tent; but no outsider may come near you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.3|<< Numbers 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.5|Numbers 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

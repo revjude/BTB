@@ -1,10 +1,7 @@
 **LXX Job 29:24** 
 <small><sub>**LXX:**</sub></small>
 If I should have laughed on them, in no way should they have trusted \[the thing\]; and \[the\] light  of my face was not fallen away. 
-<small><sub>**KJV:**</sub></small>
-[If] I laughed on them, they believed [it] not; and the light of my countenance they cast not down.
-<small><sub>**BSB:**</sub></small>
-If I smiled at them, they did not believe it; the light of my countenance was precious.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.23|<< Job 29:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.25|Job 29:25 >>]]</td></tr></table>
 
 | Translation | Greek |

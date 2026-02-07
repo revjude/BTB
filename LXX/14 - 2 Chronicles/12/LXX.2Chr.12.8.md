@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 12:8** 
 <small><sub>**LXX:**</sub></small>
 for they will be to him for servants, and they shall know  my servitude, and the servitude of the kingdom of the land. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless they shall be his servants; that they may know my service, and the service of the kingdoms of the countries.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, they will become his servants, so that they may learn the difference between serving Me and serving the kings of other lands.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.7|<< 2 Chronicles 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.9|2 Chronicles 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

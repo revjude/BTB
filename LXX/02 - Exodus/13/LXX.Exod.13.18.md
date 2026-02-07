@@ -1,10 +1,7 @@
 **LXX Exodus 13:18** 
 <small><sub>**LXX:**</sub></small>
 and God circled the people in \[the\] way -- the one into the wilderness, to the red sea. And in \[the\] fifth generation the sons of Israel ascended from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-But God led the people about, [through] the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-So God led the people around by the way of the wilderness toward the Red Sea. And the Israelites left the land of Egypt arrayed for battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.17|<< Exodus 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.19|Exodus 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

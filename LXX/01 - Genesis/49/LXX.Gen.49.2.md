@@ -1,10 +1,7 @@
 **LXX Genesis 49:2** 
 <small><sub>**LXX:**</sub></small>
 Gather and hear, O sons of Jacob, hear Israel  your father! 
-<small><sub>**KJV:**</sub></small>
-Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.
-<small><sub>**BSB:**</sub></small>
-Come together and listen, O sons of Jacob; listen to your father Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.1|<< Genesis 49:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.3|Genesis 49:3 >>]]</td></tr></table>
 
 | Translation | Greek |

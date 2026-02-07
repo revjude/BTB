@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:2** 
 <small><sub>**LXX:**</sub></small>
 And the priests were not able to enter into the house of \[the\] <span class="smallcaps">lord</span> at  that time, for \[the\] glory \[of the\] <span class="smallcaps">lord</span> filled the house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priests could not enter into the house of the LORD, because the glory of the LORD had filled the LORD’S house.
-<small><sub>**BSB:**</sub></small>
-The priests were unable to enter the house of the LORD, because the glory of the LORD had filled it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.1|<< 2 Chronicles 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.3|2 Chronicles 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 21:7** 
 <small><sub>**LXX:**</sub></small>
 What should we do to them, to the ones left behind for wives, for we swore by an oath to the <span class="smallcaps">lord</span>  to not give to them from  our daughters for wives? 
-<small><sub>**KJV:**</sub></small>
-How shall we do for wives for them that remain, seeing we have sworn by the LORD that we will not give them of our daughters to wives?
-<small><sub>**BSB:**</sub></small>
-What should we do about wives for the survivors, since we have sworn by the LORD not to give them our daughters in marriage?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.6|<< Judges 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.8|Judges 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

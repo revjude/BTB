@@ -1,4 +1,4 @@
-**Isaiah 56:11** 
+**Isaiah 56:11**<big><big>[[Isa.56.9 Israel’s Sinful Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, [they are] greedy dogs [which] can never have enough, and they [are] shepherds [that] cannot understand: they all look to their own way, every one for his gain, from his quarter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like ravenous dogs, they are never satisfied. They are shepherds with no discern
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.10|<< Isaiah 56:10]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.12|Isaiah 56:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the dogs  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3611\|כְּלָבִ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ke.la.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] mighty of  |**<big>&#8207;[[H5794\|עַזֵּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.zei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

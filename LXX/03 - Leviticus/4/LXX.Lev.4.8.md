@@ -1,10 +1,7 @@
 **LXX Leviticus 4:8** 
 <small><sub>**LXX:**</sub></small>
 And all the fat of the calf, of the one of the sin \[offering\], and he shall remove from it the fat  covering up the entrails, and all the fat  upon the entrails, 
-<small><sub>**KJV:**</sub></small>
-And he shall take off from it all the fat of the bullock for the sin offering; the fat that covereth the inwards, and all the fat that [is] upon the inwards,
-<small><sub>**BSB:**</sub></small>
-Then he shall remove all the fat from the bull of the sin offering—the fat that covers the entrails, all the fat that is on them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.7|<< Leviticus 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.9|Leviticus 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

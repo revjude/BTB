@@ -1,10 +1,7 @@
 **LXX Zechariah 5:11** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, They build for it a house in \[the\] land of Babylon, and to prepare. And they shall put it there upon  its preparation \[place\]. 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, To build it an house in the land of Shinar: and it shall be established, and set there upon her own base.
-<small><sub>**BSB:**</sub></small>
-“To build a house for it in the land of Shinar,” he told me. “And when it is ready, the basket will be set there on its pedestal.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.10|<< Zechariah 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.1|Zechariah 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

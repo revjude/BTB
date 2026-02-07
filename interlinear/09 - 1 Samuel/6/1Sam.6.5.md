@@ -1,4 +1,4 @@
-**1 Samuel 6:5** 
+**1 Samuel 6:5**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore ye shall make images of your emerods, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Make images of your tumors and of the rats that are ravaging the land. Give glor
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.4|<< 1 Samuel 6:4]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.6|1 Samuel 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|עֲשִׂיתֶם֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.si.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | images of  |**<big>&#8207;[[H6754\|צַלְמֵ֨י]]&#8207; </big>**| tzal.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

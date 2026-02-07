@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:21** 
 <small><sub>**LXX:**</sub></small>
 You shall not be pierced from their face, for \[the\] <span class="smallcaps">lord</span>  your God among you \[is\] a God great and fortified. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not be affrighted at them: for the LORD thy God [is] among you, a mighty God and terrible.
-<small><sub>**BSB:**</sub></small>
-Do not be terrified by them, for the LORD your God, who is among you, is a great and awesome God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.20|<< Deuteronomy 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.22|Deuteronomy 7:22 >>]]</td></tr></table>
 
 | Translation | Greek |

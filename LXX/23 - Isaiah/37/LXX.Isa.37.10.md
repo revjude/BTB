@@ -1,10 +1,7 @@
 **LXX Isaiah 37:10** 
 <small><sub>**LXX:**</sub></small>
 Thus you shall say to Hezekiah king  of Judea, Let not your God deceive you! upon whom you rely upon him, saying, In no way shall Jerusalem be delivered up into \[the\] hand of \[the\] king of \[the\] Assyrians. 
-<small><sub>**KJV:**</sub></small>
-Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God, in whom thou trustest, deceive thee, saying, Jerusalem shall not be given into the hand of the king of Assyria.
-<small><sub>**BSB:**</sub></small>
-“Give this message to Hezekiah king of Judah: ‘Do not let your God, in whom you trust, deceive you by saying that Jerusalem will not be delivered into the hand of the king of Assyria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.9|<< Isaiah 37:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.11|Isaiah 37:11 >>]]</td></tr></table>
 
 | Translation | Greek |

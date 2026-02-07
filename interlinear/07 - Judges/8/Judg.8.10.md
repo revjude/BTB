@@ -1,4 +1,4 @@
-**Judges 8:10** 
+**Judges 8:10**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Zebah and Zalmunna [were] in Karkor, and their hosts with them, about fifteen thousand [men], all that were left of all the hosts of the children of the east: for there fell an hundred and twenty thousand men that drew sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Zebah and Zalmunna were in Karkor with their army of about fifteen thousand 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.9|<< Judges 8:9]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.11|Judges 8:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Zebah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2078\|זֶ֨בַח]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ze.vach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Zalmunna  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6759\|צַלְמֻנָּ֜ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzal.mu.Na'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

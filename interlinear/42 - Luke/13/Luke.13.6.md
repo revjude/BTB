@@ -1,12 +1,12 @@
-**Luke 13:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:6**<big><big>[[Luke.13.6 The Parable of the Barren Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He spake also this parable; A certain [man] had a fig tree planted in his vineyard; and he came and sought fruit thereon, and found none.
 <small><sub>**BSB:**</sub></small>
 Then Jesus told this parable: “A man had a fig tree that was planted in his vineyard. He went to look for fruit on it but did not find any.
 <small><sub>**Literal:**</sub></small>
 He was speaking then this <the> parable: A fig tree had a certain [man] planted in the vineyard of him and he came seeking fruit on it and not did find [any].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.5|<< Luke 13:5]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.7|Luke 13:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was speaking |**<big>[[G3004G\|Ἔλεγεν]]</big>**  |Elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 32:20** 
 <small><sub>**LXX:**</sub></small>
 And having taken the calf which they made, he incinerated it \[in\] fire, and ground it fine, and sowed it upon the water, and the sons of Israel drink it. 
-<small><sub>**KJV:**</sub></small>
-And he took the calf which they had made, and burnt [it] in the fire, and ground [it] to powder, and strawed [it] upon the water, and made the children of Israel drink [of it].
-<small><sub>**BSB:**</sub></small>
-Then he took the calf they had made, burned it in the fire, ground it to powder, and scattered the powder over the face of the water. Then he forced the Israelites to drink it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.19|<< Exodus 32:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.21|Exodus 32:21 >>]]</td></tr></table>
 
 | Translation | Greek |

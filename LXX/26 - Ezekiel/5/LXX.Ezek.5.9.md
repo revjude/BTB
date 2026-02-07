@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:9** 
 <small><sub>**LXX:**</sub></small>
 And I shall do among you what I have not done, and I shall not do likened to them again against all  your abominations. 
-<small><sub>**KJV:**</sub></small>
-And I will do in thee that which I have not done, and whereunto I will not do any more the like, because of all thine abominations.
-<small><sub>**BSB:**</sub></small>
-Because of all your abominations, I will do to you what I have never done before and will never do again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.8|<< Ezekiel 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.10|Ezekiel 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

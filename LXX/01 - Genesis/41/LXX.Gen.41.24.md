@@ -1,10 +1,7 @@
 **LXX Genesis 41:24** 
 <small><sub>**LXX:**</sub></small>
 And the seven thin and destroyed by the wind ears of corn swallowed down the seven good and full ears of corn. I told \[it\] then to the expositors, and there was no one  reporting it to me. 
-<small><sub>**KJV:**</sub></small>
-And the thin ears devoured the seven good ears: and I told [this] unto the magicians; but [there was] none that could declare [it] to me.
-<small><sub>**BSB:**</sub></small>
-And the thin heads of grain swallowed the seven plump ones. I told this dream to the magicians, but no one could explain it to me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.23|<< Genesis 41:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.25|Genesis 41:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 28:21** 
+**Genesis 28:21**<big><big>[[Gen.28.18 The Stone of Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that I come again to my father’s house in peace; then shall the LORD be my God:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that I may return safely to my father’s house, then the LORD will be my God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.20|<< Genesis 28:20]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.22|Genesis 28:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will return  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|שַׁבְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shav.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in peace  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7965G\|שָׁל֖וֹם]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

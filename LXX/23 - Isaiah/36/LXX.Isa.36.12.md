@@ -1,10 +1,7 @@
 **LXX Isaiah 36:12** 
 <small><sub>**LXX:**</sub></small>
 And Rabshakeh said to them, Is it to  your master, or to you my master sent me to speak  these words? Is it not to the men, the ones sitting upon the wall, that they should eat  their dung and drink  their urine with you together? 
-<small><sub>**KJV:**</sub></small>
-But Rabshakeh said, Hath my master sent me to thy master and to thee to speak these words? [hath he] not [sent me] to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?
-<small><sub>**BSB:**</sub></small>
-But the Rabshakeh replied, “Has my master sent me to speak these words only to you and your master, and not to the men sitting on the wall, who are destined with you to eat their own dung and drink their own urine?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.11|<< Isaiah 36:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.13|Isaiah 36:13 >>]]</td></tr></table>
 
 | Translation | Greek |

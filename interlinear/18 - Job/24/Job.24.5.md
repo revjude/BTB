@@ -1,4 +1,4 @@
-**Job 24:5** 
+**Job 24:5**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [as] wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness [yieldeth] food for them [and] for [their] children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, like wild donkeys in the desert, the poor go to work foraging for food; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.4|<< Job 24:4]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.6|Job 24:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wild donkeys  |**<big>&#8207;[[H6501\|פְּרָאִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| pe.ra.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:9** 
 <small><sub>**LXX:**</sub></small>
 And Joab gave the number of the numbering of the people to the king. And there was to Israel eight hundred thousand men of \[the\] force unsheathing \[the\] broadsword. And men of Judah -- five hundred thousand men warriors. 
-<small><sub>**KJV:**</sub></small>
-And Joab gave up the sum of the number of the people unto the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah [were] five hundred thousand men.
-<small><sub>**BSB:**</sub></small>
-And Joab reported to the king the total number of the troops. In Israel there were 800,000 men of valor who drew the sword, and in Judah there were 500,000.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.8|<< 2 Samuel 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.10|2 Samuel 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

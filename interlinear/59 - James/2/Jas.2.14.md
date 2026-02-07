@@ -1,12 +1,12 @@
-**James 2:14
-**<small><sub>**KJV:**</sub></small>
+**James 2:14**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What [doth it] profit, my brethren, though a man say he hath faith, and have not works? can faith save him?
 <small><sub>**BSB:**</sub></small>
 What good is it, my brothers, if someone claims to have faith, but has no deeds? Can such faith save him?
 <small><sub>**Literal:**</sub></small>
 What [is] the profit, brothers of mine, if faith shall say anyone to have, works however not he may have? Surely not is able the faith to save him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.13|<< James 2:13]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.15|James 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What [is] |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+Treg+TR+Byz">NKO</abbr> | |

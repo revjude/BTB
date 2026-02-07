@@ -1,10 +1,7 @@
 **LXX Job 37:13** 
 <small><sub>**LXX:**</sub></small>
 These \[things\] were ordered by him upon the earth. Whether for instruction, whether for  his land, whether for \[an object of his\] mercy, he shall find it. 
-<small><sub>**KJV:**</sub></small>
-He causeth it to come, whether for correction, or for his land, or for mercy.
-<small><sub>**BSB:**</sub></small>
-Whether for punishment or for His land, He accomplishes this in His loving devotion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.12|<< Job 37:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.14|Job 37:14 >>]]</td></tr></table>
 
 | Translation | Greek |

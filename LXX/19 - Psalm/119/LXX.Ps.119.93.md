@@ -1,10 +1,7 @@
 **LXX Psalm 119:93** 
 <small><sub>**LXX:**</sub></small>
 In no way should I forget your ordinances into the eon; for by them you enlivened me. 
-<small><sub>**KJV:**</sub></small>
-I will never forget thy precepts: for with them thou hast quickened me.
-<small><sub>**BSB:**</sub></small>
-I will never forget Your precepts, for by them You have revived me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.93|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.92|<< Psalm 119:92]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.94|Psalm 119:94 >>]]</td></tr></table>
 
 | Translation | Greek |

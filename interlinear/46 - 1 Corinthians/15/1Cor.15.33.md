@@ -1,12 +1,12 @@
-**1 Corinthians 15:33
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:33**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be not deceived: evil communications corrupt good manners.
 <small><sub>**BSB:**</sub></small>
 Do not be deceived: “Bad company corrupts good character.”
 <small><sub>**Literal:**</sub></small>
 Not do be misled: Do corrupt morals good companionships bad.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.32|<< 1 Corinthians 15:32]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.34|1 Corinthians 15:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do be misled: |**<big>[[G4105\|πλανᾶσθε·]]</big>**  |planasthe <small><sup>[[V-PPM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

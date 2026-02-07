@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:6** 
 <small><sub>**LXX:**</sub></small>
 Let it be indeed  your ear heeds, and  your eyes open  to hear \[the\] prayer  of your servant! which I pray before you today's day and night, for \[the\] sons of Israel your servants. And I declare openly concerning \[the\] sins of \[the\] sons of Israel, in which we sinned against you; both I and the house  of my father sinned. 
-<small><sub>**KJV:**</sub></small>
-Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father’s house have sinned.
-<small><sub>**BSB:**</sub></small>
-let Your eyes be open and Your ears attentive to hear the prayer that I, Your servant, now pray before You day and night for Your servants, the Israelites. I confess the sins that we Israelites have committed against You. Both I and my father’s house have sinned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.5|<< Nehemiah 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.7|Nehemiah 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

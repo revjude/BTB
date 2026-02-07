@@ -1,10 +1,7 @@
 **LXX Isaiah 44:13** 
 <small><sub>**LXX:**</sub></small>
 \[The\] fabricator having chosen \[a piece of\] wood sets it with a measure, and forms it with a scraper. He made it with a carpenter's square, and with glue he composes it. And he made it as \[the\] appearance of a man, and as \[the\] beauty of man he sets it in a niche; 
-<small><sub>**KJV:**</sub></small>
-The carpenter stretcheth out [his] rule; he marketh it out with a line; he fitteth it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house.
-<small><sub>**BSB:**</sub></small>
-The woodworker extends a measuring line; he marks it out with a stylus; he shapes it with chisels and outlines it with a compass. He fashions it in the likeness of man, like man in all his glory, that it may dwell in a shrine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.12|<< Isaiah 44:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.14|Isaiah 44:14 >>]]</td></tr></table>
 
 | Translation | Greek |

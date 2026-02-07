@@ -1,12 +1,12 @@
-**Acts 12:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:18**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now as soon as it was day, there was no small stir among the soldiers, what was become of Peter.
 <small><sub>**BSB:**</sub></small>
 At daybreak there was no small commotion among the soldiers as to what had become of Peter.
 <small><sub>**Literal:**</sub></small>
 When was coming now day there was disturbance no small among the soldiers what then [of] <the> Peter has become.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.17|<< Acts 12:17]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.19|Acts 12:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was coming |**<big>[[G1096\|Γενομένης]]</big>**  |Genomenēs <small><sup>[[V-2ADP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

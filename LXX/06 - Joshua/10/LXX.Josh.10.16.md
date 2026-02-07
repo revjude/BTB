@@ -1,10 +1,7 @@
 **LXX Joshua 10:16** 
 <small><sub>**LXX:**</sub></small>
 And these five kings fled and hid in the cave -- the one in Makkedah. 
-<small><sub>**KJV:**</sub></small>
-But these five kings fled, and hid themselves in a cave at Makkedah.
-<small><sub>**BSB:**</sub></small>
-Now the five kings had fled and hidden in the cave at Makkedah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.15|<< Joshua 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.17|Joshua 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

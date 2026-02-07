@@ -1,4 +1,4 @@
-**Zephaniah 1:14** 
+**Zephaniah 1:14**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The great day of the LORD [is] near, [it is] near, and hasteth greatly, [even] the voice of the day of the LORD: the mighty man shall cry there bitterly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The great Day of the LORD is near—near and coming quickly. Listen, the Day of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.13|<< Zephaniah 1:13]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.15|Zephaniah 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] near  |**<big>&#8207;[[H7138\|קָר֤וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] day of  |**<big>&#8207;[[H3117G\|יוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yom-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

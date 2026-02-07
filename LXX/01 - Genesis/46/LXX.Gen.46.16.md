@@ -1,10 +1,7 @@
 **LXX Genesis 46:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Gad -- Ziphion, and Haggai, and Shuni, and Ezbon, and Eri, and Arodi, and Areli. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
-<small><sub>**BSB:**</sub></small>
-The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.15|<< Genesis 46:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.17|Genesis 46:17 >>]]</td></tr></table>
 
 | Translation | Greek |

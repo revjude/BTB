@@ -1,4 +1,4 @@
-**Genesis 7:4** 
+**Genesis 7:4**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For seven days from now I will send rain on the earth for forty days and forty n
 > $\quad$ referenced by: [[Matt.24.37|Matt 24:37]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to days  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3117G\|יָמִ֨ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

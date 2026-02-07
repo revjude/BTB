@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Trump \[the\] trumpet upon the hills! Sound out upon the high \[places\]! Proclaim in the house of On! Benjamin is startled. 
-<small><sub>**KJV:**</sub></small>
-Blow ye the cornet in Gibeah, [and] the trumpet in Ramah: cry aloud [at] Bethaven, after thee, O Benjamin.
-<small><sub>**BSB:**</sub></small>
-Blow the ram’s horn in Gibeah, the trumpet in Ramah; raise the battle cry in Beth-aven: Lead on, O Benjamin!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.7|<< Hosea 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.9|Hosea 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

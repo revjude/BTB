@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:23** 
 <small><sub>**LXX:**</sub></small>
 You cut down  her forest! says \[the\] <span class="smallcaps">lord</span>. For in no way should \[their number\] be imagined; for it is multiplied above \[the\] locust, and there is no number to them. 
-<small><sub>**KJV:**</sub></small>
-They shall cut down her forest, saith the LORD, though it cannot be searched; because they are more than the grasshoppers, and [are] innumerable.
-<small><sub>**BSB:**</sub></small>
-They will chop down her forest, declares the LORD, dense though it may be, for they are more numerous than locusts; they cannot be counted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.22|<< Jeremiah 46:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.24|Jeremiah 46:24 >>]]</td></tr></table>
 
 | Translation | Greek |

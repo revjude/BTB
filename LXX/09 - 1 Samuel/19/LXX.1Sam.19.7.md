@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:7** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan called  David, and reported to him all  these things. And Jonathan brought  David to Saul, and he was before him as \[he was\] yesterday and \[the\] third day \[before\]. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan called David, and Jonathan shewed him all those things. And Jonathan brought David to Saul, and he was in his presence, as in times past.
-<small><sub>**BSB:**</sub></small>
-So Jonathan summoned David and told him all these things. Then Jonathan brought David to Saul, and David was with Saul as before.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.6|<< 1 Samuel 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.8|1 Samuel 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

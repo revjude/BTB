@@ -1,12 +1,12 @@
-**Ephesians 2:11
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:11**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore remember, that ye [being] in time past Gentiles in the flesh, who are called Uncircumcision by that which is called the Circumcision in the flesh made by hands;
 <small><sub>**BSB:**</sub></small>
 Therefore remember that formerly you who are Gentiles in the flesh and called uncircumcised by the so-called circumcision (that done in the body by human hands)—
 <small><sub>**Literal:**</sub></small>
 Therefore do remember that formerly you yourselves the Gentiles in [the] flesh, the ones being named [the] uncircumcision by which is being named [the] circumcision in [the] flesh made by hands —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.10|<< Ephesians 2:10]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.12|Ephesians 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do remember |**<big>[[G3421\|μνημονεύετε]]</big>**  |mnēmoneuete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

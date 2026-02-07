@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:25** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall recompense to me according to  my righteousness, and according to the cleanliness  of my hands before  his eyes. 
-<small><sub>**KJV:**</sub></small>
-Therefore the LORD hath recompensed me according to my righteousness; according to my cleanness in his eye sight.
-<small><sub>**BSB:**</sub></small>
-So the LORD has repaid me according to my righteousness, according to my cleanness in His sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.24|<< 2 Samuel 22:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.26|2 Samuel 22:26 >>]]</td></tr></table>
 
 | Translation | Greek |

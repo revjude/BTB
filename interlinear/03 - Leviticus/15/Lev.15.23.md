@@ -1,4 +1,4 @@
-**Leviticus 15:23** 
+**Leviticus 15:23**<big><big>[[Lev.15.19 The Uncleanness of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it [be] on [her] bed, or on any thing whereon she sitteth, when he toucheth it, he shall be unclean until the even.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And whether it is a bed or furniture on which she was sitting, whoever touches i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.22|<< Leviticus 15:22]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.24|Leviticus 15:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִ֨ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

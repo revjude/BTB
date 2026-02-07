@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΡΗΣ</p>
 
 Behold, O <span class="smallcaps">lord</span>, for I am afflicted!  My belly was disturbed, and  my heart was turned within me; greatly embittering I was embittered. Outside \[the\] sword made me childless, as if a death in \[the\] house. 
-<small><sub>**KJV:**</sub></small>
-Behold, O LORD; for I [am] in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home [there is] as death.
-<small><sub>**BSB:**</sub></small>
-See, O LORD, how distressed I am! I am churning within; my heart is pounding within me, for I have been most rebellious. Outside, the sword bereaves; inside, there is death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.19|<< Lamentations 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.21|Lamentations 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

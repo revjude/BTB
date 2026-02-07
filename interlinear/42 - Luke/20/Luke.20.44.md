@@ -1,12 +1,12 @@
-**Luke 20:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:44**<big><big>[[Luke.20.41 Whose Son Is the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 David therefore calleth him Lord, how is he then his son?
 <small><sub>**BSB:**</sub></small>
 Thus David calls Him ‘Lord.’ So how can He be David’s son?”
 <small><sub>**Literal:**</sub></small>
 David therefore Lord Him calls, and how of him son is He?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.43|<< Luke 20:43]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.45|Luke 20:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | David |**<big>[[G1138\|Δαυὶδ]]</big>**  [^1] [^2] |Dauid <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

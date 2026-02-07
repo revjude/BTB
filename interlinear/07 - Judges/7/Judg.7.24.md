@@ -1,4 +1,4 @@
-**Judges 7:24** 
+**Judges 7:24**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gideon sent messengers throughout all mount Ephraim, saying, Come down against the Midianites, and take before them the waters unto Bethbarah and Jordan. Then all the men of Ephraim gathered themselves together, and took the waters unto Bethbarah and Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Gideon sent messengers throughout the hill country of Ephraim to say, “Come do
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.23|<< Judges 7:23]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.25|Judges 7:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and messengers  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4397G\|מַלְאָכִ֡ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.'a.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sent  |**<big>&#8207;[[H7971G\|שָׁלַ֣ח]]&#8207; </big>**| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

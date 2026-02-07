@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:5** 
 <small><sub>**LXX:**</sub></small>
 And the king of \[the\] Assyrians ascended unto all the land, and ascended unto Samaria, and assaulted it for three years. 
-<small><sub>**KJV:**</sub></small>
-Then the king of Assyria came up throughout all the land, and went up to Samaria, and besieged it three years.
-<small><sub>**BSB:**</sub></small>
-Then the king of Assyria invaded the whole land, marched up to Samaria, and besieged it for three years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.4|<< 2 Kings 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.6|2 Kings 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

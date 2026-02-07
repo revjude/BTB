@@ -1,4 +1,4 @@
-**Jonah 1:10** 
+**Jonah 1:10**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the men were even more afraid and said to him, “What have you done?” Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.9|<< Jonah 1:9]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.11|Jonah 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they feared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּֽירְא֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the men  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0582\|אֲנָשִׁים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

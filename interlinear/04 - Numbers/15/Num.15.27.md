@@ -1,4 +1,4 @@
-**Numbers 15:27** 
+**Numbers 15:27**<big><big>[[Num.15.22 Offerings for Unintentional Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if any soul sin through ignorance, then he shall bring a she goat of the first year for a sin offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Also, if one person sins unintentionally, he is to present a year-old female goa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.26|<< Numbers 15:26]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.28|Numbers 15:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H5315J\|נֶ֥פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

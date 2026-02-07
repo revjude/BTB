@@ -1,4 +1,4 @@
-**Psalms 137:9** 
+**Psalms 137:9**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Happy [shall he be], that taketh and dasheth thy little ones against the stones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed is he who seizes your infants and dashes them against the rocks.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.8|<< Psalms 137:8]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.0|Psalms 138:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is one] who he will seize  |**<big>&#8207;[[H9007\|שֶׁ]]&#8207;&#8207;[[H0270\|יֹּאחֵ֓ז]]&#8207; </big>**| she<small><sup>[[HTr]]</sup></small> i.yo.Chez<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

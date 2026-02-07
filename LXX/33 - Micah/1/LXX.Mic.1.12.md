@@ -1,10 +1,7 @@
 **LXX Micah 1:12** 
 <small><sub>**LXX:**</sub></small>
 Who began \[to act\] for good to her dwelling in griefs? for bad \[things\] came down from \[the\] <span class="smallcaps">lord</span> upon \[the\] gates of Jerusalem; 
-<small><sub>**KJV:**</sub></small>
-For the inhabitant of Maroth waited carefully for good: but evil came down from the LORD unto the gate of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-For the dwellers of Maroth pined for good, but calamity came down from the LORD, even to the gate of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.11|<< Micah 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.13|Micah 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 7:18** 
 <small><sub>**LXX:**</sub></small>
 Or will you make him a visit until the morning; and shall you judge him for rest? 
-<small><sub>**KJV:**</sub></small>
-And [that] thou shouldest visit him every morning, [and] try him every moment?
-<small><sub>**BSB:**</sub></small>
-that You attend to him every morning, and test him every moment?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.17|<< Job 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.19|Job 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

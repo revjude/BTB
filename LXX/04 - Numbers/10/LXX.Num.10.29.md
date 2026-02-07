@@ -1,10 +1,7 @@
 **LXX Numbers 10:29** 
 <small><sub>**LXX:**</sub></small>
 And Moses said  to Hobab son of Raguel the Midianite father-in-law of Moses, We are lifting away unto the place which \[the\] <span class="smallcaps">lord</span> said, This I will give to you. Come with us and we will do good for you, for \[the\] <span class="smallcaps">lord</span> spoke good concerning Israel. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the LORD said, I will give it you: come thou with us, and we will do thee good: for the LORD hath spoken good concerning Israel.
-<small><sub>**BSB:**</sub></small>
-Then Moses said to Hobab, the son of Moses’ father-in-law Reuel the Midianite, “We are setting out for the place of which the LORD said: ‘I will give it to you.’ Come with us, and we will treat you well, for the LORD has promised good things to Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.28|<< Numbers 10:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.30|Numbers 10:30 >>]]</td></tr></table>
 
 | Translation | Greek |

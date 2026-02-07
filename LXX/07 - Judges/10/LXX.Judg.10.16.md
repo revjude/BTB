@@ -1,10 +1,7 @@
 **LXX Judges 10:16** 
 <small><sub>**LXX:**</sub></small>
 And they removed  the alien gods from their midst, and they served to the <span class="smallcaps">lord</span>. And he was faint-hearted over the toil of Israel. 
-<small><sub>**KJV:**</sub></small>
-And they put away the strange gods from among them, and served the LORD: and his soul was grieved for the misery of Israel.
-<small><sub>**BSB:**</sub></small>
-So they put away the foreign gods from among them and served the LORD, and He could no longer bear the misery of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.15|<< Judges 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.17|Judges 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

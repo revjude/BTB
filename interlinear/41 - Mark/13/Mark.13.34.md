@@ -1,12 +1,12 @@
-**Mark 13:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:34**<big><big>[[Mark.13.32 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [For the Son of man is] as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.
 <small><sub>**BSB:**</sub></small>
 It is like a man going on a journey who left his house, put each servant in charge of his own task, and instructed the doorkeeper to keep watch.
 <small><sub>**Literal:**</sub></small>
 [It is] like a man going on a journey having left the house of him and having given to the servants of him <the> authority, and to each one the work of him, And the doorkeeper he commanded that he may keep watch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.33|<< Mark 13:33]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.35|Mark 13:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [It is] like |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a man |**<big>[[G0444\|ἄνθρωπος]]</big>**  |anthrōpos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

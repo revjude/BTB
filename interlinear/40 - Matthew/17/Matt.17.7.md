@@ -1,12 +1,12 @@
-**Matthew 17:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:7**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus came and touched them, and said, Arise, and be not afraid.
 <small><sub>**BSB:**</sub></small>
 Then Jesus came over and touched them. “Get up,” He said. “Do not be afraid.”
 <small><sub>**Literal:**</sub></small>
 And he came <the> Jesus, and having touched them He said; do rise up and not do be afraid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.6|<< Matthew 17:6]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.8|Matthew 17:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he came [^1] |**<big>[[G4334\|προσῆλθεν]]</big>**  |prosēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

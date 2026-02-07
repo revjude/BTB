@@ -1,4 +1,4 @@
-**Proverbs 5:3** 
+**Proverbs 5:3**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the lips of a strange woman drop [as] an honeycomb, and her mouth [is] smoother than oil:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though the lips of the forbidden woman drip honey and her speech is smoother tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.2|<< Proverbs 5:2]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.4|Proverbs 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | honey  |**<big>&#8207;[[H5317\|נֹ֣פֶת]]&#8207; </big>**| No.fet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

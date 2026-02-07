@@ -1,4 +1,4 @@
-**Jonah 1:2** 
+**Jonah 1:2**<big><big>[[Jonah.1.1 Jonah Flees from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arise, go to Nineveh, that great city, and cry against it; for their wickedness 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.1|<< Jonah 1:1]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.3|Jonah 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֠וּם]]&#8207; </big>**| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go  |**<big>&#8207;[[H1980G\|לֵ֧ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

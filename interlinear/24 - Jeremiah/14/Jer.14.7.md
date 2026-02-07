@@ -1,4 +1,4 @@
-**Jeremiah 14:7** 
+**Jeremiah 14:7**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, though our iniquities testify against us, do thou [it] for thy name’s sake: for our backslidings are many; we have sinned against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Although our iniquities testify against us, O LORD, act for the sake of Your nam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.6|<< Jeremiah 14:6]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.8|Jeremiah 14:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | though  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | iniquities our  |**<big>&#8207;[[H5771G\|עֲוֹנֵ֙י]]&#8207;&#8207;[[H9025\|נוּ֙]]&#8207; </big>**| 'a.vo.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

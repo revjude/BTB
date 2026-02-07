@@ -1,4 +1,4 @@
-**Jeremiah 6:24** 
+**Jeremiah 6:24**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have heard the fame thereof: our hands wax feeble: anguish hath taken hold of us, [and] pain, as of a woman in travail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have heard the report; our hands hang limp. Anguish has gripped us, pain like
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.23|<< Jeremiah 6:23]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.25|Jeremiah 6:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we heard  |**<big>&#8207;[[H8085G\|שָׁמַ֥עְנוּ]]&#8207; </big>**| sha.Ma'.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

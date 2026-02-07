@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:21** 
 <small><sub>**LXX:**</sub></small>
 In all  his exiles, in every battle array of his, they shall fall by \[the\] broadsword, and the remaining I shall scatter unto every wind. And you shall realize that I \[the\] <span class="smallcaps">lord</span> have spoken. 
-<small><sub>**KJV:**</sub></small>
-And all his fugitives with all his bands shall fall by the sword, and they that remain shall be scattered toward all winds: and ye shall know that I the LORD have spoken [it].
-<small><sub>**BSB:**</sub></small>
-All his choice troops will fall by the sword, and those who survive will be scattered to every wind. Then you will know that I, the LORD, have spoken.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.20|<< Ezekiel 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.22|Ezekiel 17:22 >>]]</td></tr></table>
 
 | Translation | Greek |

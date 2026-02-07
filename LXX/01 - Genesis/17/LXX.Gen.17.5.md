@@ -1,10 +1,7 @@
 **LXX Genesis 17:5** 
 <small><sub>**LXX:**</sub></small>
 And your name will not be called any longer, Abram; but your name will be Abraham, for I have appointed you father of many nations. 
-<small><sub>**KJV:**</sub></small>
-Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.
-<small><sub>**BSB:**</sub></small>
-No longer will you be called Abram, but your name will be Abraham, for I have made you a father of many nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.4|<< Genesis 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.6|Genesis 17:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 17:5** is...

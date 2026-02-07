@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:21** 
 <small><sub>**LXX:**</sub></small>
 On account of this, give  their sons to famine, and gather them into \[the\] hands of swords! their women become childless and widows, and  let their men become men being done away with in death, and  their young men falling by sword in war! 
-<small><sub>**KJV:**</sub></small>
-Therefore deliver up their children to the famine, and pour out their [blood] by the force of the sword; and let their wives be bereaved of their children, and [be] widows; and let their men be put to death; [let] their young men [be] slain by the sword in battle.
-<small><sub>**BSB:**</sub></small>
-Therefore, hand their children over to famine; pour out the power of the sword upon them. Let their wives become childless and widowed; let their husbands be slain by disease, their young men struck down by the sword in battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.20|<< Jeremiah 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.22|Jeremiah 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

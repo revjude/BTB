@@ -1,4 +1,4 @@
-**Psalms 119:63** 
+**Psalms 119:63**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] a companion of all [them] that fear thee, and of them that keep thy precepts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am a friend to all who fear You, and to those who keep Your precepts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.62|<< Psalms 119:62]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.64|Psalms 119:64 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [am] a companion  |**<big>&#8207;[[H2270\|חָבֵ֣ר]]&#8207; </big>**| cha.Ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אָ֭נִי]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

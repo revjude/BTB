@@ -1,12 +1,12 @@
-**Mark 5:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:34**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.
 <small><sub>**BSB:**</sub></small>
 “Daughter,” said Jesus, “your faith has healed you. Go in peace and be free of your affliction.”
 <small><sub>**Literal:**</sub></small>
 <the> And He said to her; Daughter, the faith of you has healed you. do go in peace and do be healthy from the affliction of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.33|<< Mark 5:33]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.35|Mark 5:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

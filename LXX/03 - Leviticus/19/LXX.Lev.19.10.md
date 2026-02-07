@@ -1,10 +1,7 @@
 **LXX Leviticus 19:10** 
 <small><sub>**LXX:**</sub></small>
 And  your vineyard; you shall not glean the vintage, nor the grape-stones  of your vineyard shall you collect together; to the poor and to the foreigner you shall leave behind for them. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt not glean thy vineyard, neither shalt thou gather [every] grape of thy vineyard; thou shalt leave them for the poor and stranger: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-You must not strip your vineyard bare or gather its fallen grapes. Leave them for the poor and the foreigner. I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.9|<< Leviticus 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.11|Leviticus 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

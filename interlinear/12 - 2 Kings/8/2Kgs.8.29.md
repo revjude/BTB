@@ -1,4 +1,4 @@
-**2 Kings 8:29** 
+**2 Kings 8:29**<big><big>[[2Kgs.8.25 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Joram went back to be healed in Jezreel of the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So King Joram returned to Jezreel to recover from the wounds that the Arameans h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.28|<< 2 Kings 8:28]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.1|2 Kings 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּשָׁב֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joram  |**<big>&#8207;[[H3141H\|יוֹרָ֨ם]]&#8207; </big>**| yo.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

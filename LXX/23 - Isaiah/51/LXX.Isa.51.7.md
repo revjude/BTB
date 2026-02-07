@@ -1,10 +1,7 @@
 **LXX Isaiah 51:7** 
 <small><sub>**LXX:**</sub></small>
 Hear me, O ones knowing equity! a people of whom  my law is in  their heart. Do not fear \[the\] scorning of men, and  let their disparagement not vanquish \[you\]! 
-<small><sub>**KJV:**</sub></small>
-Hearken unto me, ye that know righteousness, the people in whose heart [is] my law; fear ye not the reproach of men, neither be ye afraid of their revilings.
-<small><sub>**BSB:**</sub></small>
-Listen to Me, you who know what is right, you people with My law in your hearts: Do not fear the scorn of men; do not be broken by their insults.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.6|<< Isaiah 51:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.8|Isaiah 51:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 13:15** 
+**1 Samuel 13:15**<big><big>[[1Sam.13.8 Saul’s Unlawful Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people [that were] present with him, about six hundred men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Samuel set out from Gilgal and went up to Gibeah in Benjamin. And Saul numb
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.14|<< 1 Samuel 13:14]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.16|1 Samuel 13:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֣קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֗ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

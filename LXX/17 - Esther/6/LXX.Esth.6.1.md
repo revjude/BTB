@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But the <span class="smallcaps">lord</span> removed the sleep from the king  that night; and he told  his servant to carry in \[the\] memorandum letters of the days to read to him. 
-<small><sub>**KJV:**</sub></small>
-On that night could not the king sleep, and he commanded to bring the book of records of the chronicles; and they were read before the king.
-<small><sub>**BSB:**</sub></small>
-That night sleep escaped the king; so he ordered the Book of Records, the Chronicles, to be brought in and read to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.14|<< Esther 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.2|Esther 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

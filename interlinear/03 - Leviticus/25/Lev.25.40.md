@@ -1,4 +1,4 @@
-**Leviticus 25:40** 
+**Leviticus 25:40**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] as an hired servant, [and] as a sojourner, he shall be with thee, [and] shall serve thee unto the year of jubile:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let him stay with you as a hired worker or temporary resident; he is to work for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.39|<< Leviticus 25:39]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.41|Leviticus 25:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a hired laborer  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7916\|שָׂכִ֥יר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> sa.Khir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a resident alien  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8453A\|תוֹשָׁ֖ב]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> to.Shav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

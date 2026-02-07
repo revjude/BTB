@@ -1,4 +1,4 @@
-**Numbers 18:31** 
+**Numbers 18:31**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall eat it in every place, ye and your households: for it [is] your reward for your service in the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you and your households may eat the rest of it anywhere; it is the compensat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.30|<< Numbers 18:30]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.32|Numbers 18:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will eat  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|אֲכַלְתֶּ֤ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.khal.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

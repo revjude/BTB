@@ -1,4 +1,4 @@
-**Ezekiel 9:3** 
+**Ezekiel 9:3**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the glory of the God of Israel was gone up from the cherub, whereupon he was, to the threshold of the house. And he called to the man clothed with linen, which [had] the writer’s inkhorn by his side;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the glory of the God of Israel rose from above the cherubim, where it had b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.2|<< Ezekiel 9:2]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.4|Ezekiel 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] glory of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3519\|כְב֣וֹד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֣י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

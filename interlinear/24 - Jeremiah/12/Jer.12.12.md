@@ -1,4 +1,4 @@
-**Jeremiah 12:12** 
+**Jeremiah 12:12**<big><big>[[Jer.12.5 God’s Answer to Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The spoilers are come upon all high places through the wilderness: for the sword of the LORD shall devour from the [one] end of the land even to the [other] end of the land: no flesh shall have peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Over all the barren heights in the wilderness the destroyers have come, for the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.11|<< Jeremiah 12:11]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.13|Jeremiah 12:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | over  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

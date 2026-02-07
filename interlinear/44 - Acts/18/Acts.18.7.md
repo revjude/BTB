@@ -1,12 +1,12 @@
-**Acts 18:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:7**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he departed thence, and entered into a certain [man’s] house, named Justus, [one] that worshipped God, whose house joined hard to the synagogue.
 <small><sub>**BSB:**</sub></small>
 So Paul left the synagogue and went next door to the house of Titus Justus, a worshiper of God.
 <small><sub>**Literal:**</sub></small>
 And having departed from there he entered to [the] house of a certain one named Titius Justus worshiping the God, of whom the house was adjoining to the synagogue.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.6|<< Acts 18:6]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.8|Acts 18:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having departed |**<big>[[G3327\|μεταβὰς]]</big>**  |metabas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

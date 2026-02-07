@@ -1,4 +1,4 @@
-**Ezekiel 10:12** 
+**Ezekiel 10:12**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their whole body, and their backs, and their hands, and their wings, and the wheels, [were] full of eyes round about, [even] the wheels that they four had.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Their entire bodies, including their backs, hands, and wings, were full of eyes 
 > $\quad$ referenced by: [[Rev.4.6|Rev 4:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | body their  |**<big>&#8207;[[H1320\|בְּשָׂרָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| be.sa.Ra<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

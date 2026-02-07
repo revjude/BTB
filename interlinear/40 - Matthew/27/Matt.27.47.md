@@ -1,12 +1,12 @@
-**Matthew 27:47
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:47**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Some of them that stood there, when they heard [that], said, This [man] calleth for Elias.
 <small><sub>**BSB:**</sub></small>
 When some of those standing there heard this, they said, “He is calling Elijah.”
 <small><sub>**Literal:**</sub></small>
 Some then of those who there having stood listening were saying that Elijah calls this [man].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.46|<< Matthew 27:46]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.48|Matthew 27:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Some |**<big>[[G5100\|Τινὲς]]</big>**  |Tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

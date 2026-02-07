@@ -1,4 +1,4 @@
-**Ecclesiastes 10:17** 
+**Ecclesiastes 10:17**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [art] thou, O land, when thy king [is] the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed are you, O land whose king is a son of nobles, and whose princes feast a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.16|<< Ecclesiastes 10:16]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.18|Ecclesiastes 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed [are] you  |**<big>&#8207;[[H0835\|אַשְׁרֵ֣י]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O land  |**<big>&#8207;[[H0776G\|אֶ֔רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

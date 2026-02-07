@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:5** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to the people, \[The\] <span class="smallcaps">lord</span> \[is\] witness among you, and his anointed one \[is\] witness in this  day, that you have not found in  my hand anything. And they said, \[He is\] witness. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, The LORD [is] witness against you, and his anointed [is] witness this day, that ye have not found ought in my hand. And they answered, [He is] witness.
-<small><sub>**BSB:**</sub></small>
-Samuel said to them, “The LORD is a witness against you, and His anointed is a witness today, that you have not found anything in my hand.” “He is a witness,” they replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.4|<< 1 Samuel 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.6|1 Samuel 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

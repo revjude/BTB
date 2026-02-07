@@ -1,12 +1,12 @@
-**Acts 21:38
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:38**<big><big>[[Acts.21.37 Paul Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Art not thou that Egyptian, which before these days madest an uproar, and leddest out into the wilderness four thousand men that were murderers?
 <small><sub>**BSB:**</sub></small>
 “Aren’t you the Egyptian who incited a rebellion some time ago and led four thousand members of the Assassins into the wilderness?”
 <small><sub>**Literal:**</sub></small>
 Surely then you yourself are the Egyptian <the> before these the days having led a revolt and having led out into the wilderness the four thousand men of the Assassins?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.37|<< Acts 21:37]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.39|Acts 21:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G0686\|ἄρα]]</big>**  |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

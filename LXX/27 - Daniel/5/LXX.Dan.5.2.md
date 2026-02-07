@@ -1,10 +1,7 @@
 **LXX Daniel 5:2** 
 <small><sub>**LXX:**</sub></small>
 And drinking Belshazzar spoke in the tasting of the wine  to bring the items, the ones of gold and the ones of silver which Nebuchadnezzar his father brought forth from out of the temple  in Jerusalem. And they drank with them -- the king, and  his great men, and  his concubines, and  his mistresses. 
-<small><sub>**KJV:**</sub></small>
-Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which [was] in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.
-<small><sub>**BSB:**</sub></small>
-Under the influence of the wine, Belshazzar gave orders to bring in the gold and silver vessels that Nebuchadnezzar his father had taken from the temple in Jerusalem, so that the king could drink from them, along with his nobles, his wives, and his concubines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.1|<< Daniel 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.3|Daniel 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

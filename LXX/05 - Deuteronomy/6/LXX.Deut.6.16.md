@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:16** 
 <small><sub>**LXX:**</sub></small>
 You shall not put to test \[the\] <span class="smallcaps">lord</span>  your God in which manner you put to test in  Test. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not tempt the LORD your God, as ye tempted [him] in Massah.
-<small><sub>**BSB:**</sub></small>
-Do not test the LORD your God as you tested Him at Massah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.15|<< Deuteronomy 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.17|Deuteronomy 6:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 6:16** is...

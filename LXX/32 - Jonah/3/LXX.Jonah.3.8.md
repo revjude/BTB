@@ -1,10 +1,7 @@
 **LXX Jonah 3:8** 
 <small><sub>**LXX:**</sub></small>
 And the men and the cattle put around sackcloths. And they yelled out to  God fervently. And each turned from  their wicked way, and from the iniquity  in their hands, saying, 
-<small><sub>**KJV:**</sub></small>
-But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that [is] in their hands.
-<small><sub>**BSB:**</sub></small>
-Furthermore, let both man and beast be covered with sackcloth, and have everyone call out earnestly to God. Let each one turn from his evil ways and from the violence in his hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.7|<< Jonah 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.9|Jonah 3:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 3:8** is...

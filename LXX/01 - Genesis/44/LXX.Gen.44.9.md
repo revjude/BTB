@@ -1,10 +1,7 @@
 **LXX Genesis 44:9** 
 <small><sub>**LXX:**</sub></small>
 By whom ever the drinking cup should be found  of your servants, let him die. And we also will be servants to your master! 
-<small><sub>**KJV:**</sub></small>
-With whomsoever of thy servants it be found, both let him die, and we also will be my lord’s bondmen.
-<small><sub>**BSB:**</sub></small>
-If any of your servants is found to have it, he must die, and the rest will become slaves of my lord.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.8|<< Genesis 44:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.10|Genesis 44:10 >>]]</td></tr></table>
 
 | Translation | Greek |

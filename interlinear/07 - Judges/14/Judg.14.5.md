@@ -1,4 +1,4 @@
-**Judges 14:5** 
+**Judges 14:5**<big><big>[[Judg.14.1 Samson’s Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went Samson down, and his father and his mother, to Timnath, and came to the vineyards of Timnath: and, behold, a young lion roared against him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Samson went down to Timnah with his father and mother and came to the viney
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.4|<< Judges 14:4]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.6|Judges 14:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּ֧רֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.red<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samson  |**<big>&#8207;[[H8123\|שִׁמְשׁ֛וֹן]]&#8207; </big>**| shim.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

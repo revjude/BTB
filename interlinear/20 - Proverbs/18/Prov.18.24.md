@@ -1,4 +1,4 @@
-**Proverbs 18:24** 
+**Proverbs 18:24**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man [that hath] friends must shew himself friendly: and there is a friend [that] sticketh closer than a brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man of many companions may come to ruin, but there is a friend who stays close
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.23|<< Proverbs 18:23]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.1|Proverbs 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | companions  |**<big>&#8207;[[H7453\|רֵ֭עִים]]&#8207; </big>**| Re.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

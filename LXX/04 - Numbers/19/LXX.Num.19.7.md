@@ -1,10 +1,7 @@
 **LXX Numbers 19:7** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall wash his garments, and bathe  his body in water; and after these \[things\] he shall enter into the camp, and the priest shall be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-Then the priest must wash his clothes and bathe his body in water; after that he may enter the camp, but he will be ceremonially unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.6|<< Numbers 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.8|Numbers 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

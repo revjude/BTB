@@ -1,4 +1,4 @@
-**Song of Solomon 2:13** 
+**Song of Solomon 2:13**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fig tree putteth forth her green figs, and the vines [with] the tender grape give a [good] smell. Arise, my love, my fair one, and come away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fig tree ripens its figs; the blossoming vines spread their fragrance. Arise
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.12|<< Song of Solomon 2:12]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.14|Song of Solomon 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the fig tree  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8384\|תְּאֵנָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.'e.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has ripened  |**<big>&#8207;[[H2590A\|חָֽנְטָ֣ה]]&#8207; </big>**| cha.ne.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

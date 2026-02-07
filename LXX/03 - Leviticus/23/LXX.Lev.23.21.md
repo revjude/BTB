@@ -1,10 +1,7 @@
 **LXX Leviticus 23:21** 
 <small><sub>**LXX:**</sub></small>
 And you shall call this  day a convocation, it shall be holy to you. You shall not do any servile work on it. \[It is\] an eternal law unto  your generations in all your house. 
-<small><sub>**KJV:**</sub></small>
-And ye shall proclaim on the selfsame day, [that] it may be an holy convocation unto you: ye shall do no servile work [therein: it shall be] a statute for ever in all your dwellings throughout your generations.
-<small><sub>**BSB:**</sub></small>
-On that same day you are to proclaim a sacred assembly, and you must not do any regular work. This is to be a permanent statute wherever you live for the generations to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.20|<< Leviticus 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.22|Leviticus 23:22 >>]]</td></tr></table>
 
 | Translation | Greek |

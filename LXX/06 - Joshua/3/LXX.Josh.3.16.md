@@ -1,10 +1,7 @@
 **LXX Joshua 3:16** 
 <small><sub>**LXX:**</sub></small>
 and the waters stood  going down from above, it stood \[as\] a bank of water in abstaining far off, very vehemently unto Adam the city, unto \[the\] part of Kirjath Jearim. And the \[part\] going down went down into the sea of Araba, \[the\] sea  of salts, unto  the end were it ceased. And the people stood before Jericho. 
-<small><sub>**KJV:**</sub></small>
-That the waters which came down from above stood [and] rose up upon an heap very far from the city Adam, that [is] beside Zaretan: and those that came down toward the sea of the plain, [even] the salt sea, failed, [and] were cut off: and the people passed over right against Jericho.
-<small><sub>**BSB:**</sub></small>
-the flowing water stood still. It backed up as far upstream as Adam, a city in the area of Zarethan, while the water flowing toward the Sea of the Arabah (the Salt Sea) was completely cut off. So the people crossed over opposite Jericho.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.15|<< Joshua 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.17|Joshua 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

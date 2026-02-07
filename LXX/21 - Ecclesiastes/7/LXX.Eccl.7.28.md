@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:28** 
 <small><sub>**LXX:**</sub></small>
 which my soul anxiously sought, and I did not find. Even one man from out of a thousand did I find. And a woman among all these I did not find. 
-<small><sub>**KJV:**</sub></small>
-Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.
-<small><sub>**BSB:**</sub></small>
-While my soul was still searching but not finding, among a thousand I have found one upright man, but among all these I have not found one such woman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.27|<< Ecclesiastes 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.29|Ecclesiastes 7:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Corinthians 9:5
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:5**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as [a matter of] bounty, and not as [of] covetousness.
 <small><sub>**BSB:**</sub></small>
 So I thought it necessary to urge the brothers to visit you beforehand and make arrangements for the generous gift you had promised. This way, your gift will be prepared generously and not begrudgingly.
 <small><sub>**Literal:**</sub></small>
 Necessary therefore I esteemed [it] to exhort the brothers that they may go before into you and may complete beforehand the having pre-promised blessing of you this ready to be thus as a blessing and not as covetousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.4|<< 2 Corinthians 9:4]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.6|2 Corinthians 9:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Necessary |**<big>[[G0316\|ἀναγκαῖον]]</big>**  |anagkaion <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

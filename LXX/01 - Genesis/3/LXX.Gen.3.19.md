@@ -1,10 +1,7 @@
 **LXX Genesis 3:19** 
 <small><sub>**LXX:**</sub></small>
 By sweat  of your face you will eat  your bread, until the returning you into the earth from out of which you were taken. For earth you are and unto earth you will go. 
-<small><sub>**KJV:**</sub></small>
-In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou [art], and unto dust shalt thou return.
-<small><sub>**BSB:**</sub></small>
-By the sweat of your brow you will eat your bread, until you return to the ground—because out of it were you taken. For dust you are, and to dust you shall return.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.18|<< Genesis 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.20|Genesis 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

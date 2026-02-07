@@ -1,4 +1,4 @@
-**Zephaniah 3:15** 
+**Zephaniah 3:15**<big><big>[[Zeph.3.14 Israel’s Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, [even] the LORD, [is] in the midst of thee: thou shalt not see evil any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has taken away your punishment; He has turned back your enemy. Israel�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.14|<< Zephaniah 3:14]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.16|Zephaniah 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has removed  |**<big>&#8207;[[H5493G\|הֵסִ֤יר]]&#8207; </big>**| he.Sir<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

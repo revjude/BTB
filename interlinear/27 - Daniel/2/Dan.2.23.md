@@ -1,4 +1,4 @@
-**Daniel 2:23** 
+**Daniel 2:23**<big><big>[[Dan.2.14 The Dream Revealed to Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee: for thou hast [now] made known unto us the king’s matter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To You, O God of my fathers, I give thanks and praise, because You have given me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.22|<< Daniel 2:22]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.24|Daniel 2:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.> you  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la<small><sup>[[AR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God of  |**<big>&#8207;[[H0426\|אֱלָ֣הּ]]&#8207; </big>**| 'e.Lah<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

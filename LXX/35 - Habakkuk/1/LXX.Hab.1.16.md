@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:16** 
 <small><sub>**LXX:**</sub></small>
 Because of this he will sacrifice \[to\] his dragnet, and burn incense \[to\] his casting-net; for by them he fattened his portion, even  his choice foods. 
-<small><sub>**KJV:**</sub></small>
-Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion [is] fat, and their meat plenteous.
-<small><sub>**BSB:**</sub></small>
-Therefore he sacrifices to his dragnet and burns incense to his fishing net, for by these things his portion is sumptuous and his food is rich.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.15|<< Habakkuk 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.17|Habakkuk 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

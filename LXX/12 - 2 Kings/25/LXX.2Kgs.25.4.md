@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:4** 
 <small><sub>**LXX:**</sub></small>
 And the city was torn \[through\], and all the men  of war went forth \[by\] night in \[the\] way of \[the\] gate  between the walls, which is of the garden of the king. (And the Chaldeans \[were\] upon the city round about;) and they went \[the\] way, the one unto \[the\] descent. 
-<small><sub>**KJV:**</sub></small>
-And the city was broken up, and all the men of war [fled] by night by the way of the gate between two walls, which [is] by the king’s garden: (now the Chaldees [were] against the city round about:) and [the king] went the way toward the plain.
-<small><sub>**BSB:**</sub></small>
-Then the city was breached; and though the Chaldeans had surrounded the city, all the men of war fled by night by way of the gate between the two walls near the king’s garden. They headed toward the Arabah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.3|<< 2 Kings 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.5|2 Kings 25:5 >>]]</td></tr></table>
 
 | Translation | Greek |

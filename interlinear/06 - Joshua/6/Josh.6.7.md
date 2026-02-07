@@ -1,4 +1,4 @@
-**Joshua 6:7** 
+**Joshua 6:7**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto the people, Pass on, and compass the city, and let him that is armed pass on before the ark of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he told the people, “Advance and march around the city, with the armed tro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.6|<< Joshua 6:6]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.8|Joshua 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

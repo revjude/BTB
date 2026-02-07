@@ -1,12 +1,12 @@
-**2 Timothy 1:17
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:17**<big><big>[[2Tim.1.13 Holding to Sound Teaching|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But, when he was in Rome, he sought me out very diligently, and found [me].
 <small><sub>**BSB:**</sub></small>
 Indeed, when he arrived in Rome, he searched diligently until he found me.
 <small><sub>**Literal:**</sub></small>
 But having arrived in Rome earnestly he sought out me and found [me];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.16|<< 2 Timothy 1:16]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.18|2 Timothy 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having arrived |**<big>[[G1096\|γενόμενος]]</big>**  |genomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

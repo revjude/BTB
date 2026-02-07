@@ -1,10 +1,7 @@
 **LXX Judges 5:16** 
 <small><sub>**LXX:**</sub></small>
 Why with me did you settle between the sheepfolds  to listen to whistlings arousing  to go through for the ones  of Reuben -- in great trackings out of heart? 
-<small><sub>**KJV:**</sub></small>
-Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben [there were] great searchings of heart.
-<small><sub>**BSB:**</sub></small>
-Why did you sit among the sheepfolds to hear the whistling for the flocks? In the clans of Reuben there was great indecision.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.15|<< Judges 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.17|Judges 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

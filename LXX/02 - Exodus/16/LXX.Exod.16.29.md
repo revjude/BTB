@@ -1,10 +1,7 @@
 **LXX Exodus 16:29** 
 <small><sub>**LXX:**</sub></small>
 See! for the <span class="smallcaps">lord</span> gave to you this Sabbath day. On account of this he gave to you on the sixth day bread loaves \[for\] two days. each sit down in  your houses by himself! Not one of you go forth from out of  his place during the seventh day! 
-<small><sub>**KJV:**</sub></small>
-See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day.
-<small><sub>**BSB:**</sub></small>
-Understand that the LORD has given you the Sabbath; that is why on the sixth day He will give you bread for two days. On the seventh day, everyone must stay where he is; no one may leave his place.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.28|<< Exodus 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.30|Exodus 16:30 >>]]</td></tr></table>
 
 | Translation | Greek |

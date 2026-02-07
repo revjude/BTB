@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:29** 
 <small><sub>**LXX:**</sub></small>
 Sibbecai the Hushathite, Ilai the Ahohite, 
-<small><sub>**KJV:**</sub></small>
-Sibbecai the Hushathite, Ilai the Ahohite,
-<small><sub>**BSB:**</sub></small>
-Sibbecai the Hushathite, Ilai the Ahohite,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.28|<< 1 Chronicles 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.30|1 Chronicles 11:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 22:3** 
+**2 Kings 22:3**<big><big>[[2Kgs.22.3 Funding the Temple Repairs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the eighteenth year of king Josiah, [that] the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now in the eighteenth year of his reign, King Josiah sent the scribe, Shaphan so
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.2|<< 2 Kings 22:2]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.4|2 Kings 22:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in eight-  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8083\|שְׁמֹנֶ֤ה]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.mo.Neh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

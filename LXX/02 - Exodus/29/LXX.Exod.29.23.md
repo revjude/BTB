@@ -1,10 +1,7 @@
 **LXX Exodus 29:23** 
 <small><sub>**LXX:**</sub></small>
 And one bread \[loaf\] made with olive oil, and one pancake from the bin of the unleavened \[breads\], of the ones being set before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And one loaf of bread, and one cake of oiled bread, and one wafer out of the basket of the unleavened bread that [is] before the LORD:
-<small><sub>**BSB:**</sub></small>
-along with one loaf of bread, one cake of bread made with oil, and one wafer from the basket of unleavened bread that is before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.22|<< Exodus 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.24|Exodus 29:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:16** 
 <small><sub>**LXX:**</sub></small>
 From the sound  of his downfall the nations shook when I brought him down unto Hades with the ones going down into \[the\] pit. And all earth the trees of the delicacy comforted him in lowermost, and the chosen ones and the best ones  of Lebanon, all the ones drinking water. 
-<small><sub>**KJV:**</sub></small>
-I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, shall be comforted in the nether parts of the earth.
-<small><sub>**BSB:**</sub></small>
-I made the nations quake at the sound of its downfall, when I cast it down to Sheol with those who descend to the Pit. Then all the trees of Eden, the choicest and best of Lebanon, all the well-watered trees, were consoled in the earth below.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.15|<< Ezekiel 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.17|Ezekiel 31:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 31:16** is...

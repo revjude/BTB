@@ -1,10 +1,7 @@
 **LXX Isaiah 37:27** 
 <small><sub>**LXX:**</sub></small>
 I weakened the hands, and they were dried up; and they became as dry grass upon \[the\] roofs, and as wild grass. 
-<small><sub>**KJV:**</sub></small>
-Therefore their inhabitants [were] of small power, they were dismayed and confounded: they were [as] the grass of the field, and [as] the green herb, [as] the grass on the housetops, and [as corn] blasted before it be grown up.
-<small><sub>**BSB:**</sub></small>
-Therefore their inhabitants, devoid of power, are dismayed and ashamed. They are like plants in the field, tender green shoots, grass on the rooftops, scorched before it is grown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.26|<< Isaiah 37:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.28|Isaiah 37:28 >>]]</td></tr></table>
 
 | Translation | Greek |

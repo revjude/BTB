@@ -1,4 +1,4 @@
-**Genesis 18:18** 
+**Genesis 18:18**<big><big>[[Gen.18.16 Abraham Intercedes for Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Abraham will surely become a great and powerful nation, and through him all the 
 > $\quad$ referenced by: [[Gal.3.8|Gal 3:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abraham  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0085\|אַ֨בְרָהָ֔ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to become>  |**<big>&#8207;[[H1961\|הָי֧וֹ]]&#8207; </big>**| ha.Yo<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

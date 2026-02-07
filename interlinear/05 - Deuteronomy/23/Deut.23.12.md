@@ -1,4 +1,4 @@
-**Deuteronomy 23:12** (23:13)
+**Deuteronomy 23:12**<big><big>[[Deut.23.9 Uncleanness in the Camp|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt have a place also without the camp, whither thou shalt go forth abroad:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must have a place outside the camp to go and relieve yourself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.11|<< Deuteronomy 23:11]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.13|Deuteronomy 23:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a hand  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3027M\|יָד֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|תִּהְיֶ֣ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

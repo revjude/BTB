@@ -1,10 +1,7 @@
 **LXX Joshua 12:6** 
 <small><sub>**LXX:**</sub></small>
 Moses the servant of \[the\] <span class="smallcaps">lord</span> and the sons of Israel struck them. And Moses the servant \[of the\] <span class="smallcaps">lord</span> gave it by inheritance to Reuben, and Gad, and to the half tribe of Manasseh. 
-<small><sub>**KJV:**</sub></small>
-Them did Moses the servant of the LORD and the children of Israel smite: and Moses the servant of the LORD gave it [for] a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.
-<small><sub>**BSB:**</sub></small>
-Moses, the servant of the LORD, and the Israelites had struck them down and given their land as an inheritance to the Reubenites, the Gadites, and the half-tribe of Manasseh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.5|<< Joshua 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.7|Joshua 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:19** 
 <small><sub>**LXX:**</sub></small>
 And Sanaballat the Horonite heard, and Tobiah the servant, the Ammonite, and Geshem the Arab. And they laughed out loud at us, and they disdained us, and they said, What \[is\]  this thing which you are doing? or \[is it\] \[that\] you \[are\] defecting against the king? 
-<small><sub>**KJV:**</sub></small>
-But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard [it], they laughed us to scorn, and despised us, and said, What [is] this thing that ye do? will ye rebel against the king?
-<small><sub>**BSB:**</sub></small>
-But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard about this, they mocked us and ridiculed us, saying, “What is this you are doing? Are you rebelling against the king?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.18|<< Nehemiah 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.20|Nehemiah 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

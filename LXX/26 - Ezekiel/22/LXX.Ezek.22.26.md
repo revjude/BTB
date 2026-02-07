@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:26** 
 <small><sub>**LXX:**</sub></small>
 And  her priests annulled  my law, and they profaned  my holy \[things\]. Between holy and profane they distinguished not, and between unclean and the clean they distinguished not; and from  my Sabbaths they covered up  their eyes, and I was profaned in their midst. 
-<small><sub>**KJV:**</sub></small>
-Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed [difference] between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
-<small><sub>**BSB:**</sub></small>
-Her priests do violence to My law and profane My holy things. They make no distinction between the holy and the common, and they fail to distinguish between the clean and the unclean. They disregard My Sabbaths, so that I am profaned among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.25|<< Ezekiel 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.27|Ezekiel 22:27 >>]]</td></tr></table>
 
 | Translation | Greek |

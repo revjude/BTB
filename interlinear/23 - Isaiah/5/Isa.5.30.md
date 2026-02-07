@@ -1,4 +1,4 @@
-**Isaiah 5:30** 
+**Isaiah 5:30**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day they shall roar against them like the roaring of the sea: and if [one] look unto the land, behold darkness [and] sorrow, and the light is darkened in the heavens thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In that day they will roar over it, like the roaring of the sea. If one looks ov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.29|<< Isaiah 5:29]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.1|Isaiah 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it may growl  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5098\|יִנְהֹ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yin.Hom<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over it  |**<big>&#8207;[[H5921A\|עָלָ֛י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

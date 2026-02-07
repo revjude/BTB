@@ -1,5 +1,5 @@
-**Revelation 18:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:11**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the merchants of the earth shall weep and mourn over her; for no man buyeth their merchandise any more:
 <small><sub>**BSB:**</sub></small>
 And the merchants of the earth will weep and mourn over her, because there is no one left to buy their cargo—
@@ -10,7 +10,7 @@ And the merchants of the earth weep and they mourn for her, because the cargo of
 > $\quad$ alluding to: [[LXX.Isa.23.8|Isa 23:8]] ☩ [[LXX.Ezek.27.3|Ezek 27:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

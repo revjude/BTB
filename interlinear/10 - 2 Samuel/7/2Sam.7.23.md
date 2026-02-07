@@ -1,4 +1,4 @@
-**2 Samuel 7:23** 
+**2 Samuel 7:23**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what one nation in the earth [is] like thy people, [even] like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt, [from] the nations and their gods?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And who is like Your people Israel—the one nation on earth whom God went out t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.22|<< 2 Samuel 7:22]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.24|2 Samuel 7:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like people your  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

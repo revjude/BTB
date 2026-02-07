@@ -1,10 +1,7 @@
 **LXX Leviticus 24:20** 
 <small><sub>**LXX:**</sub></small>
 A break for a break, eye for eye, tooth for tooth; in so far as he should give a blemish to a man, so it shall be given to him. 
-<small><sub>**KJV:**</sub></small>
-Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him [again].
-<small><sub>**BSB:**</sub></small>
-fracture for fracture, eye for eye, tooth for tooth. Just as he injured the other person, the same must be inflicted on him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.19|<< Leviticus 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.21|Leviticus 24:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 24:20** is...

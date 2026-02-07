@@ -1,4 +1,4 @@
-**Deuteronomy 11:16** 
+**Deuteronomy 11:16**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed to yourselves, that your heart be not deceived, and ye turn aside, and serve other gods, and worship them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But be careful that you are not enticed to turn aside to worship and bow down to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.15|<< Deuteronomy 11:15]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.17|Deuteronomy 11:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take heed  |**<big>&#8207;[[H8104J\|הִשָּֽׁמְר֣וּ]]&#8207; </big>**| hi.sha.me.Ru<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֔ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

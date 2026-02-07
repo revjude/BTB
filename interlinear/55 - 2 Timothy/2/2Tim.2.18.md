@@ -1,12 +1,12 @@
-**2 Timothy 2:18
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:18**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
 <small><sub>**BSB:**</sub></small>
 who have deviated from the truth. They say that the resurrection has already occurred, and they undermine the faith of some.
 <small><sub>**Literal:**</sub></small>
 who concerning the truth went astray asserting the resurrection already to have taken place, and they are overthrowing the of some faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.17|<< 2 Timothy 2:17]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.19|2 Timothy 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

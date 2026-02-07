@@ -1,10 +1,7 @@
 **LXX Judges 20:3** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Benjamin heard that the sons of Israel ascended unto Mizpeh. And the sons of Israel said, Tell where this evil took place? 
-<small><sub>**KJV:**</sub></small>
-(Now the children of Benjamin heard that the children of Israel were gone up to Mizpeh.) Then said the children of Israel, Tell [us], how was this wickedness?
-<small><sub>**BSB:**</sub></small>
-(Meanwhile the Benjamites heard that the Israelites had gone up to Mizpah.) And the Israelites asked, “Tell us, how did this wicked thing happen?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.2|<< Judges 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.4|Judges 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

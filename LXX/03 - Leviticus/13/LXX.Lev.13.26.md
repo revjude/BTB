@@ -1,10 +1,7 @@
 **LXX Leviticus 13:26** 
 <small><sub>**LXX:**</sub></small>
 But if the priest should look at him, and behold, there is not in the shining forth a white hair, and it should not be deep under the skin, but it \[is\] faint, then the priest shall separate him seven days. 
-<small><sub>**KJV:**</sub></small>
-But if the priest look on it, and, behold, [there be] no white hair in the bright spot, and it [be] no lower than the [other] skin, but [be] somewhat dark; then the priest shall shut him up seven days:
-<small><sub>**BSB:**</sub></small>
-But if the priest examines it and there is no white hair in the spot, and it is not beneath the skin but has faded, the priest shall isolate him for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.25|<< Leviticus 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.27|Leviticus 13:27 >>]]</td></tr></table>
 
 | Translation | Greek |

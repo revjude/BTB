@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:25** 
 <small><sub>**LXX:**</sub></small>
 And now, O my Lord, O <span class="smallcaps">lord</span>, the word which you spoke for  your servant, and for  his house, confirm \[it\] as trustworthy unto the eon! And as you spoke, do! 
-<small><sub>**KJV:**</sub></small>
-And now, O LORD God, the word that thou hast spoken concerning thy servant, and concerning his house, establish [it] for ever, and do as thou hast said.
-<small><sub>**BSB:**</sub></small>
-And now, O LORD God, confirm forever the word You have spoken concerning Your servant and his house. Do as You have promised,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.24|<< 2 Samuel 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.26|2 Samuel 7:26 >>]]</td></tr></table>
 
 | Translation | Greek |

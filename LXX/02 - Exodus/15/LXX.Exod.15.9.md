@@ -1,10 +1,7 @@
 **LXX Exodus 15:9** 
 <small><sub>**LXX:**</sub></small>
 The enemy said, In pursuing I shall overtake; I shall portion \[the\] spoils; I shall fill up my soul; I will take up  my sword; my hand will dominate. 
-<small><sub>**KJV:**</sub></small>
-The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.
-<small><sub>**BSB:**</sub></small>
-The enemy declared, ‘I will pursue, I will overtake. I will divide the spoils; I will gorge myself on them. I will draw my sword; my hand will destroy them.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.8|<< Exodus 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.10|Exodus 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

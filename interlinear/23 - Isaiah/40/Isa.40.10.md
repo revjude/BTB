@@ -1,4 +1,4 @@
-**Isaiah 40:10** 
+**Isaiah 40:10**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the Lord GOD will come with strong [hand], and his arm shall rule for him: behold, his reward [is] with him, and his work before him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold, the Lord GOD comes with might, and His arm establishes His rule. His rew
 > $\quad$ referenced by: [[Rev.22.12|Rev 22:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֤י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

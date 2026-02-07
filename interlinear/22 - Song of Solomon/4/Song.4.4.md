@@ -1,4 +1,4 @@
-**Song of Solomon 4:4** 
+**Song of Solomon 4:4**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy neck [is] like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your neck is like the tower of David, built with rows of stones; on it hang a th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.3|<< Song of Solomon 4:3]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.5|Song of Solomon 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] like [the] tower of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4026M\|מִגְדַּ֤ל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mig.Dal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִיד֙]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

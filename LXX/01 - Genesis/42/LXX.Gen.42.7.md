@@ -1,10 +1,7 @@
 **LXX Genesis 42:7** 
 <small><sub>**LXX:**</sub></small>
 And Joseph seeing  his brothers recognized and alienated himself from them, and he spoke to them hard. And he said to them, From what place have you come? And they said, From out of \[the\] land of Canaan, to buy foods. 
-<small><sub>**KJV:**</sub></small>
-And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come ye? And they said, From the land of Canaan to buy food.
-<small><sub>**BSB:**</sub></small>
-And when Joseph saw his brothers, he recognized them, but he treated them as strangers and spoke harshly to them. “Where have you come from?” he asked. “From the land of Canaan,” they replied. “We are here to buy food.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.6|<< Genesis 42:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.8|Genesis 42:8 >>]]</td></tr></table>
 
 | Translation | Greek |

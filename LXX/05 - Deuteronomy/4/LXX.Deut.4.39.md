@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:39** 
 <small><sub>**LXX:**</sub></small>
 And you shall know today, and shall turn  \[your\] mind, that \[the\] <span class="smallcaps">lord</span>  your God -- he \[is\] God, in the heaven upward, and upon the earth below; and \[there\] is not any besides him. 
-<small><sub>**KJV:**</sub></small>
-Know therefore this day, and consider [it] in thine heart, that the LORD he [is] God in heaven above, and upon the earth beneath: [there is] none else.
-<small><sub>**BSB:**</sub></small>
-Know therefore this day and take to heart that the LORD is God in heaven above and on the earth below; there is no other.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.38|<< Deuteronomy 4:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.40|Deuteronomy 4:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 4:6** 
 <small><sub>**LXX:**</sub></small>
 And Deborah sent and called  Barak son of Abinoam from out of Kedesh Naphtali. And she said to him, Did not \[the\] <span class="smallcaps">lord</span> God of Israel give charge to you, that, You shall go forth unto mount Tabor, and you shall take with yourself ten thousand men of the sons of Naphtali, and of the sons of Zebulun? 
-<small><sub>**KJV:**</sub></small>
-And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the LORD God of Israel commanded, [saying], Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?
-<small><sub>**BSB:**</sub></small>
-She summoned Barak son of Abinoam from Kedesh in Naphtali and said to him, “Surely the LORD, the God of Israel, is commanding you: ‘Go and march to Mount Tabor, taking with you ten thousand men of Naphtali and Zebulun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.5|<< Judges 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.7|Judges 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

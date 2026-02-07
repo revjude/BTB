@@ -1,10 +1,7 @@
 **LXX Psalm 20:9** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, preserve the king, and heed us in what ever day we should call upon you! 
-<small><sub>**KJV:**</sub></small>
-Save, LORD: let the king hear us when we call.
-<small><sub>**BSB:**</sub></small>
-O LORD, save the king. Answer us on the day we call.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.20.8|<< Psalm 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.1|Psalm 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

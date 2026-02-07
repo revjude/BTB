@@ -1,4 +1,4 @@
-**Ruth 3:14** 
+**Ruth 3:14**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she lay at his feet until the morning: and she rose up before one could know another. And he said, Let it not be known that a woman came into the floor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So she lay down at his feet until morning, but she got up before anyone else cou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.13|<< Ruth 3:13]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.15|Ruth 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901G\|תִּשְׁכַּ֤ב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Kav<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | feet his  [^2]|**<big>&#8207;[[H4772\|מַרְגְּלוֹתָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**[^3] | mar.ge.la.ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

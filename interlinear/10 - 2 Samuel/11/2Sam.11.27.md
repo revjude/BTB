@@ -1,4 +1,4 @@
-**2 Samuel 11:27** 
+**2 Samuel 11:27**<big><big>[[2Sam.11.26 David Marries Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when the time of mourning was over, David had her brought to his house, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.26|<< 2 Samuel 11:26]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.1|2 Samuel 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it passed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבֹ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the mourning  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0060\|אֵ֗בֶל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

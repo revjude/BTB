@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:44** 
 <small><sub>**LXX:**</sub></small>
 And they shall acquire fields with silver; and you shall write in a scroll, and shall set a seal upon \[it\], and shall take testimony of witnesses in \[the\] land of Benjamin, and round about  Jerusalem, and in \[the\] cities of Judah, and in \[the\] cities of the mountain, and in \[the\] cities of the Sephela, and in \[the\] cities of the Negev. For I shall return  their resettlement, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Men shall buy fields for money, and subscribe evidences, and seal [them], and take witnesses in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, and in the cities of the mountains, and in the cities of the valley, and in the cities of the south: for I will cause their captivity to return, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Fields will be purchased with silver, and deeds will be signed, sealed, and witnessed in the land of Benjamin, in the areas surrounding Jerusalem, and in the cities of Judah—the cities of the hill country, the foothills, and the Negev—because I will restore them from captivity, declares the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.43|<< Jeremiah 32:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.1|Jeremiah 33:1 >>]]</td></tr></table>
 
 | Translation | Greek |

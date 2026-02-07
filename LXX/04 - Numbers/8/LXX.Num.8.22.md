@@ -1,10 +1,7 @@
 **LXX Numbers 8:22** 
 <small><sub>**LXX:**</sub></small>
 And after this the Levites entered to officiate  their ministration in the tent of the testimony before Aaron, and before  his sons. As \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses for the Levite, so they did to them. 
-<small><sub>**KJV:**</sub></small>
-And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the LORD had commanded Moses concerning the Levites, so did they unto them.
-<small><sub>**BSB:**</sub></small>
-After that, the Levites came to perform their service at the Tent of Meeting in the presence of Aaron and his sons. Thus they did with the Levites just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.21|<< Numbers 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.23|Numbers 8:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 5:3** 
 <small><sub>**LXX:**</sub></small>
 At that same  time \[there\] came upon them Tatnai chief ruler on the other side of the river, and Shethar-boznai, and  their fellow-servants, and of such he said to them, Who ordained to you a decree  to build  this house, and  to ready this expense? 
-<small><sub>**KJV:**</sub></small>
-At the same time came to them Tatnai, governor on this side the river, and Shetharboznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall?
-<small><sub>**BSB:**</sub></small>
-At that time Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates went to the Jews and asked, “Who authorized you to rebuild this temple and restore this structure?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.2|<< Ezra 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.4|Ezra 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

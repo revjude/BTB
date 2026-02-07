@@ -1,4 +1,4 @@
-**Exodus 22:23** (22:22)
+**Exodus 22:23**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you do mistreat them, and they cry out to Me in distress, I will surely hear 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.22|<< Exodus 22:22]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.24|Exodus 22:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<if>  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly [if] \<to afflict>  |**<big>&#8207;[[H6031B\|עַנֵּ֥ה]]&#8207; </big>**| 'a.Neh<small><sup>[[HVpaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

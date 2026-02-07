@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:4** 
 <small><sub>**LXX:**</sub></small>
 He removed the high \[places\], and he broke the monuments, and he cut down the sacred groves, and he cut up the serpent  of brass which Moses made; for unto  those days the sons of Israel were burning incense to it. And he called it Nehushtan. 
-<small><sub>**KJV:**</sub></small>
-He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan.
-<small><sub>**BSB:**</sub></small>
-He removed the high places, shattered the sacred pillars, and cut down the Asherah poles. He also demolished the bronze snake called Nehushtan that Moses had made, for up to that time the Israelites had burned incense to it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.3|<< 2 Kings 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.5|2 Kings 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

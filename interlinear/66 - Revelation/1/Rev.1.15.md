@@ -1,5 +1,5 @@
-**Revelation 1:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:15**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
 <small><sub>**BSB:**</sub></small>
 His feet were like polished bronze refined in a furnace, and His voice was like the roar of many waters.
@@ -10,7 +10,7 @@ and the feet of Him [are] like as fine bronze as in a furnace refined and the vo
 > $\quad$ possibly alluding to: [[LXX.Dan.7.9|Dan 7:9]] ☩ [[LXX.Dan.10.5|Dan 10:5-6]] ☩ [[LXX.Ezek.1.27|Ezek 1:27]] ☩ [[LXX.Ezek.8.2|Ezek 8:2]] ☩ [[LXX.Ezek.43.2|Ezek 43:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

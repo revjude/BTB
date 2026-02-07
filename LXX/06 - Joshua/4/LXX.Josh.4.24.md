@@ -1,10 +1,7 @@
 **LXX Joshua 4:24** 
 <small><sub>**LXX:**</sub></small>
 So that all the nations of the earth might know that the power of the <span class="smallcaps">lord</span> is strong, and that you should worship \[the\] <span class="smallcaps">lord</span>  our God at all time. 
-<small><sub>**KJV:**</sub></small>
-That all the people of the earth might know the hand of the LORD, that it [is] mighty: that ye might fear the LORD your God for ever.
-<small><sub>**BSB:**</sub></small>
-He did this so that all the peoples of the earth may know that the hand of the LORD is mighty, and so that you may always fear the LORD your God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.23|<< Joshua 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.1|Joshua 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

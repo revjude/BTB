@@ -1,10 +1,7 @@
 **LXX Isaiah 59:10** 
 <small><sub>**LXX:**</sub></small>
 They shall grope as blind \[men\] for a wall, and they shall grope as ones not possessing eyes. They shall fall in midday as at midnight; they shall moan as ones dying. 
-<small><sub>**KJV:**</sub></small>
-We grope for the wall like the blind, and we grope as if [we had] no eyes: we stumble at noonday as in the night; [we are] in desolate places as dead [men].
-<small><sub>**BSB:**</sub></small>
-Like the blind, we feel our way along the wall, groping like those without eyes. We stumble at midday as in the twilight; among the vigorous we are like the dead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.9|<< Isaiah 59:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.11|Isaiah 59:11 >>]]</td></tr></table>
 
 | Translation | Greek |

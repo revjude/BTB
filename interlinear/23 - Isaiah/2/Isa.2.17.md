@@ -1,4 +1,4 @@
-**Isaiah 2:17** 
+**Isaiah 2:17**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the pride of man will be brought low, and the loftiness of men will be humble
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.16|<< Isaiah 2:16]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.18|Isaiah 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be humbled  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7817\|שַׁח֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Shach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] haughtiness of  |**<big>&#8207;[[H1365\|גַּבְה֣וּת]]&#8207; </big>**| gav.Hut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

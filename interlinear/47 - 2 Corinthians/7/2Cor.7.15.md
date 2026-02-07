@@ -1,12 +1,12 @@
-**2 Corinthians 7:15
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 7:15**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his inward affection is more abundant toward you, whilst he remembereth the obedience of you all, how with fear and trembling ye received him.
 <small><sub>**BSB:**</sub></small>
 And his affection for you is even greater when he remembers that you were all obedient as you welcomed him with fear and trembling.
 <small><sub>**Literal:**</sub></small>
 And the affections of him more abundantly toward you are remembering the of all of you obedience, how with fear and trembling you received him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.14|<< 2 Corinthians 7:14]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.16|2 Corinthians 7:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

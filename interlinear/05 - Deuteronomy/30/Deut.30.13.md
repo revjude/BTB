@@ -1,4 +1,4 @@
-**Deuteronomy 30:13** 
+**Deuteronomy 30:13**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither [is] it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And it is not beyond the sea, that you should need to ask, ‘Who will cross the
 > $\quad$ referenced by: [[Rom.10.7|Rom 10:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] from [the] other side  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5676H\|עֵ֥בֶר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

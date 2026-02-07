@@ -1,4 +1,4 @@
-**Jeremiah 31:21** 
+**Jeremiah 31:21**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Set thee up waymarks, make thee high heaps: set thine heart toward the highway, [even] the way [which] thou wentest: turn again, O virgin of Israel, turn again to these thy cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Set thee up waymarks, make thee high heaps: set thine heart toward the highway, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.20|<< Jeremiah 31:20]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.22|Jeremiah 31:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | set up  |**<big>&#8207;[[H5324\|הַצִּ֧יבִי]]&#8207; </big>**| ha.Tzi.vi<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> yourself  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

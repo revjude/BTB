@@ -1,10 +1,7 @@
 **LXX Numbers 9:10** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! saying, A man, a man who ever becomes unclean by reason of a \[dead\] soul of a man, or on a journey far from you, \[even\] among  your generations, he shall observe the passover to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or [be] in a journey afar off, yet he shall keep the passover unto the LORD.
-<small><sub>**BSB:**</sub></small>
-“Tell the Israelites: ‘When any one of you or your descendants is unclean because of a dead body, or is away on a journey, he may still observe the Passover to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.9|<< Numbers 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.11|Numbers 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:21** 
 <small><sub>**LXX:**</sub></small>
 a great and populous nation, and mightier than you, as also the Anakim; and \[the\] <span class="smallcaps">lord</span> destroyed them before their face, and they inherited them; and they were settled there in place of them until  this day, 
-<small><sub>**KJV:**</sub></small>
-A people great, and many, and tall, as the Anakims; but the LORD destroyed them before them; and they succeeded them, and dwelt in their stead:
-<small><sub>**BSB:**</sub></small>
-They were a people great and many, as tall as the Anakites. But the LORD destroyed them from before the Ammonites, who drove them out and settled in their place,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.20|<< Deuteronomy 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.22|Deuteronomy 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

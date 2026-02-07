@@ -1,10 +1,7 @@
 **LXX Exodus 23:15** 
 <small><sub>**LXX:**</sub></small>
 The holiday of the unleavened \[breads\] keep to do! Seven days you shall eat unleavened \[breads\], just as I gave charge to you, according to the time of the month of the new \[produce\]; for in it you came forth from out of Egypt. You shall not appear before me empty. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt keep the feast of unleavened bread: (thou shalt eat unleavened bread seven days, as I commanded thee, in the time appointed of the month Abib; for in it thou camest out from Egypt: and none shall appear before me empty:)
-<small><sub>**BSB:**</sub></small>
-You are to keep the Feast of Unleavened Bread as I commanded you: At the appointed time in the month of Abib you are to eat unleavened bread for seven days, because that was the month you came out of Egypt. No one may appear before Me empty-handed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.14|<< Exodus 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.16|Exodus 23:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:10** 
 <small><sub>**LXX:**</sub></small>
 Thus shall you say to Hezekiah king of Judah, Let not your God deceive you in whom you rely upon him, saying, In no way should Jerusalem be delivered up into \[the\] hands of \[the\] king of \[the\] Assyrians. 
-<small><sub>**KJV:**</sub></small>
-Thus shall ye speak to Hezekiah king of Judah, saying, Let not thy God in whom thou trustest deceive thee, saying, Jerusalem shall not be delivered into the hand of the king of Assyria.
-<small><sub>**BSB:**</sub></small>
-“Give this message to Hezekiah king of Judah: ‘Do not let your God, in whom you trust, deceive you by saying that Jerusalem will not be delivered into the hand of the king of Assyria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.9|<< 2 Kings 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.11|2 Kings 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 24:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall place them two places; six bread loaves to the one place upon the pure table before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt set them in two rows, six on a row, upon the pure table before the LORD.
-<small><sub>**BSB:**</sub></small>
-and set them in two rows—six per row—on the table of pure gold before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.5|<< Leviticus 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.7|Leviticus 24:7 >>]]</td></tr></table>
 
 | Translation | Greek |

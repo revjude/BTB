@@ -1,12 +1,12 @@
-**Luke 8:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:16**<big><big>[[Luke.8.16 The Lesson of the Lamp|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man, when he hath lighted a candle, covereth it with a vessel, or putteth [it] under a bed; but setteth [it] on a candlestick, that they which enter in may see the light.
 <small><sub>**BSB:**</sub></small>
 No one lights a lamp and covers it with a jar or puts it under a bed. Instead, he sets it on a stand, so those who enter can see the light.
 <small><sub>**Literal:**</sub></small>
 No [one] now a lamp having lighted covers it with a vessel or under a bed puts [it], but on a lampstand puts [it] so that those entering in may see the light.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.15|<< Luke 8:15]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.17|Luke 8:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No [one] |**<big>[[G3762\|Οὐδεὶς]]</big>**  |Oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

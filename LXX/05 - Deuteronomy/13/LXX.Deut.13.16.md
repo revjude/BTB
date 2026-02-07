@@ -1,10 +1,7 @@
 **LXX Deuteronomy 13:16** 
 <small><sub>**LXX:**</sub></small>
 And all  its spoils you shall bring together into  its corridors, and you shall burn the city by fire, and all  its spoils in full assembly before \[the\] <span class="smallcaps">lord</span>  your God; and it shall be uninhabited into the eon; it shall not be rebuilt again. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt gather all the spoil of it into the midst of the street thereof, and shalt burn with fire the city, and all the spoil thereof every whit, for the LORD thy God: and it shall be an heap for ever; it shall not be built again.
-<small><sub>**BSB:**</sub></small>
-And you are to gather all its plunder in the middle of the public square, and completely burn the city and all its plunder as a whole burnt offering to the LORD your God. The city must remain a mound of ruins forever, never to be rebuilt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.15|<< Deuteronomy 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.17|Deuteronomy 13:17 >>]]</td></tr></table>
 
 | Translation | Greek |

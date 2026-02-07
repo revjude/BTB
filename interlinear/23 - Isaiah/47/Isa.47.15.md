@@ -1,4 +1,4 @@
-**Isaiah 47:15** 
+**Isaiah 47:15**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall they be unto thee with whom thou hast laboured, [even] thy merchants, from thy youth: they shall wander every one to his quarter; none shall save thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what they are to you—those with whom you have labored and traded from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.14|<< Isaiah 47:14]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.1|Isaiah 48:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3651C\|כֵּ֥ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have become  |**<big>&#8207;[[H1961\|הָיוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.yu-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

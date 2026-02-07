@@ -1,30 +1,30 @@
 (KJV) **Song of Solomon 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5|<< Song of Solomon 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7|Song of Solomon 7 >>]]</td></tr></table>
 
-*The Friends* ^bsb1560
+<big><big>[[Song.6.1 The Friends|⥃]]</big></big>*The Friends*
 
  $\quad$ <span class="startversemarker">[</span>**[[Song.6.1|1]]**<span class="endversemarker">]</span> Whither is thy beloved gone, O thou<small><small>[^2]</small></small> fairest among women? whither is thy beloved turned aside? that<small><small>[^3]</small></small> we may seek him with thee.
 
-*The Bride* ^bsb1561
+<big><big>[[Song.6.2 The Bride|⥃]]</big></big>*The Bride*
 
  <span class="startversemarker">[</span>**[[Song.6.2|2]]**<span class="endversemarker">]</span> My beloved is gone<small><small>[^4]</small></small> down into his garden, to the beds<small><small>[^5]</small></small> of spices, to feed<small><small>[^6]</small></small> in the gardens, and to<small><small>[^7]</small></small> gather lilies. <span class="startversemarker">[</span>**[[Song.6.3|3]]**<span class="endversemarker">]</span> I \[am\] my beloved’s<small><small>[^8]</small></small>, and my beloved \[is\] mine: he<small><small>[^9]</small></small> feedeth among the lilies.
 
-*The Bridegroom* ^bsb1562
+<big><big>[[Song.6.4 The Bridegroom|⥃]]</big></big>*The Bridegroom*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Song.6.4|4]]**<span class="endversemarker">]</span> Thou \[art\] beautiful<small><small>[^10]</small></small>, O my love, as Tirzah<small><small>[^11]</small></small>, comely<small><small>[^12]</small></small> as Jerusalem, terrible<small><small>[^13]</small></small> as \[an army\] with banners. <span class="startversemarker">[</span>**[[Song.6.5|5]]**<span class="endversemarker">]</span> Turn away<small><small>[^14]</small></small> thine eyes from me, for they have overcome me<small><small>[^15]</small></small>: thy hair \[is\] as a flock of goats that appear from Gilead. <span class="startversemarker">[</span>**[[Song.6.6|6]]**<span class="endversemarker">]</span> Thy teeth \[are\] as a flock of sheep which go up from the washing, whereof every one beareth twins, and \[there is\] not one barren among them.<small><small>[^16]</small></small> <span class="startversemarker">[</span>**[[Song.6.7|7]]**<span class="endversemarker">]</span> As a piece of a pomegranate \[are\] thy temples within thy locks.<small><small>[^17]</small></small> <span class="startversemarker">[</span>**[[Song.6.8|8]]**<span class="endversemarker">]</span> There are threescore queens, and fourscore concubines, and virgins without number.<small><small>[^18]</small></small> <span class="startversemarker">[</span>**[[Song.6.9|9]]**<span class="endversemarker">]</span> My dove<small><small>[^19]</small></small>, my undefiled is \[but\] one; she<small><small>[^20]</small></small> \[is\] the \[only\] one of her mother, she \[is\] the choice \[one\] of her that bare her. The daughters<small><small>[^21]</small></small> saw her, and blessed her; \[yea\], the queens and the concubines, and they praised her.
 
-*The Friends* ^bsb1563
+<big><big>[[Song.6.10 The Friends|⥃]]</big></big>*The Friends*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Song.6.10|10]]**<span class="endversemarker">]</span> [¶]Who<small><small>[^22]</small></small> \[is\] she \[that\] looketh<small><small>[^23]</small></small> forth as the morning, fair<small><small>[^24]</small></small> as the moon, clear<small><small>[^25]</small></small> as the sun, \[and\] terrible<small><small>[^26]</small></small> as \[an army\] with banners?
 
-*The Bridegroom* ^bsb1564
+<big><big>[[Song.6.11 The Bridegroom|⥃]]</big></big>*The Bridegroom*
 
  <span class="startversemarker">[</span>**[[Song.6.11|11]]**<span class="endversemarker">]</span> I went down into the garden<small><small>[^27]</small></small> of nuts to see the<small><small>[^28]</small></small> fruits of the valley, \[and\] to see whether the vine flourished, \[and\] the pomegranates budded. <span class="startversemarker">[</span>**[[Song.6.12|12]]**<span class="endversemarker">]</span> Or ever I was aware<small><small>[^29]</small></small>, my soul<small><small>[^30]</small></small> made me \[like\] the chariots of Amminadib<small><small>[^31]</small></small>.
 
-*The Friends* ^bsb1565
+<big><big>[[Song.6.13 The Friends|⥃]]</big></big>*The Friends*
 
  <span class="startversemarker">[</span>**[[Song.6.13|13]]**<span class="endversemarker">]</span> Return<small><small>[^32]</small></small>, return, O Shulamite; return, return, that we may look upon thee. What<small><small>[^33]</small></small> will ye see in the Shulamite<small><small>[^34]</small></small>? As<small><small>[^35]</small></small> it were the company of two armies<small><small>[^36]</small></small>. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5|<< Song of Solomon 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7|Song of Solomon 7 >>]]</td></tr></table>
 

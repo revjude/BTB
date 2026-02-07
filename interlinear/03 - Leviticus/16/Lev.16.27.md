@@ -1,4 +1,4 @@
-**Leviticus 16:27** 
+**Leviticus 16:27**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the bullock [for] the sin offering, and the goat [for] the sin offering, whose blood was brought in to make atonement in the holy [place], shall [one] carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The bull for the sin offering and the goat for the sin offering, whose blood was
 > $\quad$ referenced by: [[Heb.13.11|Heb 13:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵת֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] bull of  |**<big>&#8207;[[H6499\|פַּ֨ר]]&#8207; </big>**| par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

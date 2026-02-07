@@ -1,12 +1,12 @@
-**Luke 5:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:30**<big><big>[[Luke.5.27 Jesus Calls Levi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?
 <small><sub>**BSB:**</sub></small>
 But the Pharisees and their scribes complained to Jesus’ disciples, “Why do you eat and drink with tax collectors and sinners?”
 <small><sub>**Literal:**</sub></small>
 And were grumbling the Pharisees and the scribes of them at the disciples of Him saying; Because of why with the tax collectors and sinners do you eat and drink?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.29|<< Luke 5:29]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.31|Luke 5:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were grumbling |**<big>[[G1111\|ἐγόγγυζον]]</big>**  |egonguzon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

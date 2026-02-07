@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:3** 
 <small><sub>**LXX:**</sub></small>
 And the people stole away in  that day  to enter into the city, as people steal away  being shamed in  their fleeing in the battle. 
-<small><sub>**KJV:**</sub></small>
-And the people gat them by stealth that day into the city, as people being ashamed steal away when they flee in battle.
-<small><sub>**BSB:**</sub></small>
-So they returned to the city quietly that day, as people steal away in humiliation after fleeing a battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.2|<< 2 Samuel 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.4|2 Samuel 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

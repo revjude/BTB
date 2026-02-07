@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:18** 
 <small><sub>**LXX:**</sub></small>
 And the islands shall fear from \[the\] day of your downfall; and the islands shall be disturbed in the sea from  your expedition. 
-<small><sub>**KJV:**</sub></small>
-Now shall the isles tremble in the day of thy fall; yea, the isles that [are] in the sea shall be troubled at thy departure.
-<small><sub>**BSB:**</sub></small>
-Now the coastlands tremble on the day of your downfall; the islands in the sea are dismayed by your demise.”’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.17|<< Ezekiel 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.19|Ezekiel 26:19 >>]]</td></tr></table>
 
 | Translation | Greek |

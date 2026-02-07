@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:25** 
 <small><sub>**LXX:**</sub></small>
 And upon every corner of \[the\] way you built  your places of harlotry, and laid waste  your beauty. And every one passing by led through your legs, and you multiplied  your harlotry. 
-<small><sub>**KJV:**</sub></small>
-Thou hast built thy high place at every head of the way, and hast made thy beauty to be abhorred, and hast opened thy feet to every one that passed by, and multiplied thy whoredoms.
-<small><sub>**BSB:**</sub></small>
-At the head of every street you built your lofty shrines and degraded your beauty. With increasing promiscuity, you spread your legs to all who passed by.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.24|<< Ezekiel 16:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.26|Ezekiel 16:26 >>]]</td></tr></table>
 
 | Translation | Greek |

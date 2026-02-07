@@ -1,4 +1,4 @@
-**Psalms 147:11** 
+**Psalms 147:11**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD taketh pleasure in them that fear him, in those that hope in his mercy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD is pleased with those who fear Him, who hope in His loving devotion.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.10|<< Psalms 147:10]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.12|Psalms 147:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] taking pleasure in  |**<big>&#8207;[[H7521\|רוֹצֶ֣ה]]&#8207; </big>**| ro.Tzeh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:5** 
 <small><sub>**LXX:**</sub></small>
 And spirit took me up, and brought me into the inner courtyard; and behold, the house \[was\] full of glory \[of the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-So the spirit took me up, and brought me into the inner court; and, behold, the glory of the LORD filled the house.
-<small><sub>**BSB:**</sub></small>
-Then the Spirit lifted me up and brought me into the inner court, and the glory of the LORD filled the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.4|<< Ezekiel 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.6|Ezekiel 43:6 >>]]</td></tr></table>
 
 | Translation | Greek |

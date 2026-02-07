@@ -1,4 +1,4 @@
-**Genesis 45:9** 
+**Genesis 45:9**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now return quickly to my father and tell him, ‘This is what your son Joseph sa
 > $\quad$ referenced by: [[Acts.7.13|Acts 7:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hurry  |**<big>&#8207;[[H4116A\|מַהֲרוּ֮]]&#8207; </big>**| ma.ha.Ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and go up  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5927G\|עֲל֣וּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

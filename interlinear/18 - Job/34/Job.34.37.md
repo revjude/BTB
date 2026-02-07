@@ -1,4 +1,4 @@
-**Job 34:37** 
+**Job 34:37**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he addeth rebellion unto his sin, he clappeth [his hands] among us, and multiplieth his words against God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For he adds rebellion to his sin; he claps his hands among us and multiplies his
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.36|<< Job 34:36]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.1|Job 35:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he adds  |**<big>&#8207;[[H3254H\|יֹ֘סִ֤יף]]&#8207; </big>**| yo.Sif<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

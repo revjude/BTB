@@ -1,4 +1,4 @@
-**Genesis 34:21** 
+**Genesis 34:21**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These men [are] peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, [it is] large enough for them; let us take their daughters to us for wives, and let us give them our daughters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These men [are] peaceable with us; therefore let them dwell in the land, and tra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.20|<< Genesis 34:20]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.22|Genesis 34:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the men  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֨ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵ֜לֶּה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

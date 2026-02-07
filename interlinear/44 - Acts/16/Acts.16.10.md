@@ -1,12 +1,12 @@
-**Acts 16:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:10**<big><big>[[Acts.16.6 Paul’s Vision of the Macedonian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them.
 <small><sub>**BSB:**</sub></small>
 As soon as Paul had seen the vision, we got ready to leave for Macedonia, concluding that God had called us to preach the gospel to them.
 <small><sub>**Literal:**</sub></small>
 When now the vision he had seen, immediately we sought to go forth to <the> Macedonia concluding that he has called us <the> God to evangelise to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.9|<< Acts 16:9]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.11|Acts 16:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

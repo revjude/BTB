@@ -1,10 +1,7 @@
 **LXX Psalm 27:11** 
 <small><sub>**LXX:**</sub></small>
 Establish the law for me, O <span class="smallcaps">lord</span>, in  your way! And guide me in \[the\] straight road, because of  my enemies! 
-<small><sub>**KJV:**</sub></small>
-Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies.
-<small><sub>**BSB:**</sub></small>
-Teach me Your way, O LORD, and lead me on a level path, because of my oppressors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.10|<< Psalm 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.12|Psalm 27:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 109:28** 
 <small><sub>**LXX:**</sub></small>
 They shall curse themselves, but you shall bless. The ones rising up against me, let them be ashamed!  but your servant shall be glad. 
-<small><sub>**KJV:**</sub></small>
-Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.
-<small><sub>**BSB:**</sub></small>
-Though they curse, You will bless. When they rise up, they will be put to shame, but Your servant will rejoice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.27|<< Psalm 109:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.29|Psalm 109:29 >>]]</td></tr></table>
 
 | Translation | Greek |

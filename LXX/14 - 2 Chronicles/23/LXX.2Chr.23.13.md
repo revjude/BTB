@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:13** 
 <small><sub>**LXX:**</sub></small>
 And she beheld, and behold, the king stood at  his station, and at the entrance were the rulers and the trumpets. And the rulers were around the king. And all the people of the land were being glad and trumpeting with the trumpets, and the ones singing with the instruments of the odes, the singers and ones singing praise. And Athaliah tore  her robe, and yelled and said, Conspiracy, conspiracy. 
-<small><sub>**KJV:**</sub></small>
-And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.
-<small><sub>**BSB:**</sub></small>
-And she looked and saw the king standing by his pillar at the entrance. The officers and trumpeters were beside the king, and all the people of the land were rejoicing and blowing trumpets, while the singers with musical instruments were leading the praises. Then Athaliah tore her clothes and screamed, “Treason, treason!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.12|<< 2 Chronicles 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.14|2 Chronicles 23:14 >>]]</td></tr></table>
 
 | Translation | Greek |

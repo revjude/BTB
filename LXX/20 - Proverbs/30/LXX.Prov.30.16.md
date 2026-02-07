@@ -1,10 +1,7 @@
 **LXX Proverbs 30:16** 
 <small><sub>**LXX:**</sub></small>
 Hades, and passion of a woman, and earth not filled with water; and water and fire in no way shall say, It sufficies. 
-<small><sub>**KJV:**</sub></small>
-The grave; and the barren womb; the earth [that] is not filled with water; and the fire [that] saith not, [It is] enough.
-<small><sub>**BSB:**</sub></small>
-Sheol, the barren womb, land never satisfied with water, and fire that never says, ‘Enough!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.15|<< Proverbs 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.17|Proverbs 30:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 18:3** 
+**Ezekiel 18:3**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] I live, saith the Lord GOD, ye shall not have [occasion] any more to use this proverb in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As surely as I live, declares the Lord GOD, you will no longer quote this prover
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.2|<< Ezekiel 18:2]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.4|Ezekiel 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [by] [the] life  |**<big>&#8207;[[H2416A\|חַי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chai-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of me  |**<big>&#8207;[[H0589\|אָ֕נִי]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

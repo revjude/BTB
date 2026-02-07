@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:6** 
 <small><sub>**LXX:**</sub></small>
 And he looked. And behold, by his head \[was\] a cake baked in hot ashes of oaten bread, and a jar of water. And Elijah rose up and ate and drank. And he returned and went to bed. 
-<small><sub>**KJV:**</sub></small>
-And he looked, and, behold, [there was] a cake baken on the coals, and a cruse of water at his head. And he did eat and drink, and laid him down again.
-<small><sub>**BSB:**</sub></small>
-And he looked around, and there by his head was a cake of bread baked over hot coals, and a jar of water. So he ate and drank and lay down again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.5|<< 1 Kings 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.7|1 Kings 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

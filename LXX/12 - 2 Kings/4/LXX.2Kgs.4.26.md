@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:26** 
 <small><sub>**LXX:**</sub></small>
 Now run to meet her! and you shall say to her, \[Is\] peace to you? \[Is\] peace \[to\] your husband? \[Is\] peace to the boy? And she said, Peace. 
-<small><sub>**KJV:**</sub></small>
-Run now, I pray thee, to meet her, and say unto her, [Is it] well with thee? [is it] well with thy husband? [is it] well with the child? And she answered, [It is] well.
-<small><sub>**BSB:**</sub></small>
-Please run out now to meet her and ask, ‘Are you all right? Is your husband all right? Is your child all right?’” And she answered, “Everything is all right.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.25|<< 2 Kings 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.27|2 Kings 4:27 >>]]</td></tr></table>
 
 | Translation | Greek |

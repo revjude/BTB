@@ -1,10 +1,7 @@
 **LXX Psalm 104:35** 
 <small><sub>**LXX:**</sub></small>
 Sinners failed from the earth, and lawless ones so as for them to not exist. Bless  the <span class="smallcaps">lord</span> O my soul! 
-<small><sub>**KJV:**</sub></small>
-Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD.
-<small><sub>**BSB:**</sub></small>
-May sinners vanish from the earth and the wicked be no more. Bless the LORD, O my soul. Hallelujah!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.34|<< Psalm 104:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.1|Psalm 105:1 >>]]</td></tr></table>
 
 | Translation | Greek |

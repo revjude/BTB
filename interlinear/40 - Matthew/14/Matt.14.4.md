@@ -1,12 +1,12 @@
-**Matthew 14:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:4**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For John said unto him, It is not lawful for thee to have her.
 <small><sub>**BSB:**</sub></small>
 because John had been telling him, “It is not lawful for you to have her.”
 <small><sub>**Literal:**</sub></small>
 Were saying for <the> John to him; Not it is lawful for you to have her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.3|<< Matthew 14:3]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.5|Matthew 14:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were saying |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

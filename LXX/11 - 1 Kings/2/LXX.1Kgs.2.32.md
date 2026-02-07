@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:32** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> returned the blood  of his iniquity onto his head, inasmuch as he met the two just and good men above him, and killed them by \[the\] broadsword. And  my father David did not know \[about\]  Abner son of Ner, commander-in-chief of Israel, and  Amasa son of Jether, commander-in-chief of Judah. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall return his blood upon his own head, who fell upon two men more righteous and better than he, and slew them with the sword, my father David not knowing [thereof, to wit], Abner the son of Ner, captain of the host of Israel, and Amasa the son of Jether, captain of the host of Judah.
-<small><sub>**BSB:**</sub></small>
-The LORD will bring his bloodshed back upon his own head, for without the knowledge of my father David he struck down two men more righteous and better than he when he put to the sword Abner son of Ner, commander of Israel’s army, and Amasa son of Jether, commander of Judah’s army.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.31|<< 1 Kings 2:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.33|1 Kings 2:33 >>]]</td></tr></table>
 
 | Translation | Greek |

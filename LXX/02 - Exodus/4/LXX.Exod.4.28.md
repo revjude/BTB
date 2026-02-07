@@ -1,10 +1,7 @@
 **LXX Exodus 4:28** 
 <small><sub>**LXX:**</sub></small>
 And Moses announced  to Aaron all the words of \[the\] <span class="smallcaps">lord</span> which he sent to him, and all the signs which he gave charge to him. 
-<small><sub>**KJV:**</sub></small>
-And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him.
-<small><sub>**BSB:**</sub></small>
-And Moses told Aaron everything the LORD had sent him to say, and all the signs He had commanded him to perform.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.27|<< Exodus 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.29|Exodus 4:29 >>]]</td></tr></table>
 
 | Translation | Greek |

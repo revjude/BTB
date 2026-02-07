@@ -1,10 +1,7 @@
 **LXX Job 15:9** 
 <small><sub>**LXX:**</sub></small>
 For what do you know, which we do not know? or what do you perceive, which we do not also? 
-<small><sub>**KJV:**</sub></small>
-What knowest thou, that we know not? [what] understandest thou, which [is] not in us?
-<small><sub>**BSB:**</sub></small>
-What do you know that we do not? What do you understand that is not clear to us?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.8|<< Job 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.10|Job 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

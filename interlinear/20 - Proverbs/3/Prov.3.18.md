@@ -1,4 +1,4 @@
-**Proverbs 3:18** 
+**Proverbs 3:18**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She [is] a tree of life to them that lay hold upon her: and happy [is every one] that retaineth her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She is a tree of life to those who embrace her, and those who lay hold of her ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.17|<< Proverbs 3:17]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.19|Proverbs 3:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a tree of  |**<big>&#8207;[[H6086H\|עֵץ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'etz-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | life  |**<big>&#8207;[[H2416E\|חַיִּ֣ים]]&#8207; </big>**| chai.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

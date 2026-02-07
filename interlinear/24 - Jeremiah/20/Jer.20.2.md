@@ -1,4 +1,4 @@
-**Jeremiah 20:2** 
+**Jeremiah 20:2**<big><big>[[Jer.20.1 Pashhur Persecutes Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Pashur smote Jeremiah the prophet, and put him in the stocks that [were] in the high gate of Benjamin, which [was] by the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he had Jeremiah the prophet beaten and put in the stocks at the Upper Gate of Be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.1|<< Jeremiah 20:1]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.3|Jeremiah 20:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he struck  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּכֶּ֣ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Keh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pashhur  |**<big>&#8207;[[H6583I\|פַשְׁח֔וּר]]&#8207; </big>**| fash.Chur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

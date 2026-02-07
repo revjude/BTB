@@ -1,4 +1,4 @@
-**Ezekiel 42:6** 
+**Ezekiel 42:6**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [were] in three [stories], but had not pillars as the pillars of the courts: therefore [the building] was straitened more than the lowest and the middlemost from the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they were arranged in three stories, and unlike the courts, they had no pill
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.5|<< Ezekiel 42:5]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.7|Ezekiel 42:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] divided into three parts  |**<big>&#8207;[[H8027\|מְשֻׁלָּשׁוֹת֙]]&#8207; </big>**| me.shu.la.shOt<small><sup>[[HVPsfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

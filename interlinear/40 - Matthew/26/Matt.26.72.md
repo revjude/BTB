@@ -1,12 +1,12 @@
-**Matthew 26:72
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:72**<big><big>[[Matt.26.69 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again he denied with an oath, I do not know the man.
 <small><sub>**BSB:**</sub></small>
 And again he denied it with an oath: “I do not know the man!”
 <small><sub>**Literal:**</sub></small>
 And again he denied with an oath that Not I know the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.71|<< Matthew 26:71]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.73|Matthew 26:73 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

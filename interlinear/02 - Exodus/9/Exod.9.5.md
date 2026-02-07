@@ -1,4 +1,4 @@
-**Exodus 9:5** 
+**Exodus 9:5**<big><big>[[Exod.9.1 The Fifth Plague：Livestock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD set a time, saying, “Tomorrow the LORD will do this in the land.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.4|<< Exodus 9:4]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.6|Exodus 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760A\|יָּ֥שֶׂם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

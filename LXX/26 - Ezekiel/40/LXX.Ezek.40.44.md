@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:44** 
 <small><sub>**LXX:**</sub></small>
 And he brought me into the inner courtyard; and behold, \[there were\] two inner chambers in the inner courtyard; one according to \[the\] back of the gate of the one to \[the\] north bearing according to \[the\] south. And one according to \[the\] back of the gate of the one towards \[the\] south of the one looking towards \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And without the inner gate [were] the chambers of the singers in the inner court, which [was] at the side of the north gate; and their prospect [was] toward the south: one at the side of the east gate [having] the prospect toward the north.
-<small><sub>**BSB:**</sub></small>
-Outside the inner gate, within the inner court, were two chambers, one beside the north gate and facing south, and another beside the south gate and facing north.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.43|<< Ezekiel 40:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.45|Ezekiel 40:45 >>]]</td></tr></table>
 
 | Translation | Greek |

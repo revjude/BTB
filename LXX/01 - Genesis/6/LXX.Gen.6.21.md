@@ -1,10 +1,7 @@
 **LXX Genesis 6:21** 
 <small><sub>**LXX:**</sub></small>
 But you shall take to yourself from all of the foods which you shall eat, and you shall bring \[them\] together to yourself, and it shall be to you and to them to eat. 
-<small><sub>**KJV:**</sub></small>
-And take thou unto thee of all food that is eaten, and thou shalt gather [it] to thee; and it shall be for food for thee, and for them.
-<small><sub>**BSB:**</sub></small>
-You are also to take for yourself every kind of food that is eaten and gather it as food for yourselves and for the animals.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.20|<< Genesis 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.22|Genesis 6:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 17:3
-**<small><sub>**KJV:**</sub></small>
+**John 17:3**<big><big>[[John.17.1 Prayer for the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent.
 <small><sub>**BSB:**</sub></small>
 Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.
 <small><sub>**Literal:**</sub></small>
 This now is <the> eternal life that they may know You the only true God and whom You have sent Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.2|<< John 17:2]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.4|John 17:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

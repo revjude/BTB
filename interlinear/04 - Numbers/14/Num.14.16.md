@@ -1,4 +1,4 @@
-**Numbers 14:16** 
+**Numbers 14:16**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because the LORD was not able to bring this people into the land which he sware unto them, therefore he hath slain them in the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Because the LORD was not able to bring this people into the land which he sware 
 > $\quad$ referenced by: [[1Cor.10.5|1Cor 10:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<from> because not  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1115\|בִּלְתִּ֞י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> bil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | was able  |**<big>&#8207;[[H3201\|יְכֹ֣לֶת]]&#8207; </big>**| ye.Kho.let<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

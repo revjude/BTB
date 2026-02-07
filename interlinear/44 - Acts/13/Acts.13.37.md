@@ -1,12 +1,12 @@
-**Acts 13:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:37**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he, whom God raised again, saw no corruption.
 <small><sub>**BSB:**</sub></small>
 But the One whom God raised from the dead did not see decay.
 <small><sub>**Literal:**</sub></small>
 The [One] however <the> God raised up not did see decay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.36|<< Acts 13:36]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.38|Acts 13:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

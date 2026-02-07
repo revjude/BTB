@@ -1,12 +1,12 @@
-**Luke 8:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:27**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in [any] house, but in the tombs.
 <small><sub>**BSB:**</sub></small>
 When Jesus stepped ashore, He was met by a demon-possessed man from the town. For a long time this man had not worn clothing or lived in a house, but he stayed in the tombs.
 <small><sub>**Literal:**</sub></small>
 Having gone forth then to Him upon the land met with him a man certain out of the city who is having demons. and from time a long not was wearing clothing and in a house not was abiding but in the tombs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.26|<< Luke 8:26]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.28|Luke 8:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having gone forth |**<big>[[G1831\|Ἐξελθόντι]]</big>**  |Exelthonti <small><sup>[[V-2AAP-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 49:30** 
+**Jeremiah 49:30**<big><big>[[Jer.49.28 Judgment on Kedar and Hazor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Flee, get you far off, dwell deep, O ye inhabitants of Hazor, saith the LORD; for Nebuchadrezzar king of Babylon hath taken counsel against you, and hath conceived a purpose against you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Run! Escape quickly! Lie low, O residents of Hazor,” declares the LORD, “for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.29|<< Jeremiah 49:29]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.31|Jeremiah 49:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | flee  |**<big>&#8207;[[H5127\|נֻסוּ֩]]&#8207; </big>**| nu.Su<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take flight  |**<big>&#8207;[[H5110\|נֻּ֨דוּ]]&#8207; </big>**| Nu.du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 18:5** 
+**Deuteronomy 18:5**<big><big>[[Deut.18.1 Provision for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD thy God hath chosen him out of all thy tribes, to stand to minister in the name of the LORD, him and his sons for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD your God has chosen Levi and his sons out of all your tribes to sta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.4|<< Deuteronomy 18:4]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.6|Deuteronomy 18:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> \<the> him  |**<big>&#8207;[[H9003\|ב֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

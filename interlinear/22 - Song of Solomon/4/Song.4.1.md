@@ -1,4 +1,4 @@
-**Song of Solomon 4:1** 
+**Song of Solomon 4:1**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou [art] fair, my love; behold, thou [art] fair; thou [hast] doves’ eyes within thy locks: thy hair [is] as a flock of goats, that appear from mount Gilead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How beautiful you are, my darling—how very beautiful! Your eyes are like doves
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.11|<< Song of Solomon 3:11]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.2|Song of Solomon 4:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here you  |**<big>&#8207;[[H2005\|הִנָּ֨]]&#8207;&#8207;[[H9042\|ךְ]]&#8207; </big>**| hi.Na<small><sup>[[HTj]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] beautiful  |**<big>&#8207;[[H3303\|יָפָ֤ה]]&#8207; </big>**| ya.Fah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

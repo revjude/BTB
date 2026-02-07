@@ -1,4 +1,4 @@
-**Ruth 4:21** 
+**Ruth 4:21**<big><big>[[Ruth.4.18 The Line of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Salmon begat Boaz, and Boaz begat Obed,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Salmon was the father of Boaz, Boaz was the father of Obed,
 > $\quad$ referenced by: [[Matt.1.3|Matt 1:3-6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Salmon  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8012\|שַׂלְמוֹן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sal.mOn<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

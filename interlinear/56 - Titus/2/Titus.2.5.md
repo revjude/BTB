@@ -1,12 +1,12 @@
-**Titus 2:5
-**<small><sub>**KJV:**</sub></small>
+**Titus 2:5**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [To be] discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.
 <small><sub>**BSB:**</sub></small>
 to be self-controlled, pure, managers of their households, kind, and submissive to their own husbands, so that the word of God will not be discredited.
 <small><sub>**Literal:**</sub></small>
 self-controlled, pure busy at home kind, being subject <the> to [their] own husbands, so that not the word <the> of God may be denigrated.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.4|<< Titus 2:4]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.6|Titus 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | self-controlled, |**<big>[[G4998\|σώφρονας,]]</big>**  |sōphronas <small><sup>[[A-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | pure |**<big>[[G0053\|ἁγνάς,]]</big>**  |hagnas <small><sup>[[A-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

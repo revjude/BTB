@@ -1,12 +1,12 @@
-**Philippians 2:27
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:27**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.
 <small><sub>**BSB:**</sub></small>
 He was sick indeed, nearly unto death. But God had mercy on him, and not only on him but also on me, to spare me sorrow upon sorrow.
 <small><sub>**Literal:**</sub></small>
 And indeed he was sick nearly unto death; but <the> God had mercy on him not on him now alone but also on me myself, that not sorrow upon sorrow I may have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.26|<< Philippians 2:26]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.28|Philippians 2:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

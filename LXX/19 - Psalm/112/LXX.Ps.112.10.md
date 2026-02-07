@@ -1,10 +1,7 @@
 **LXX Psalm 112:10** 
 <small><sub>**LXX:**</sub></small>
 A sinner shall see and shall be provoked to anger;  he shall gnash his teeth and melt away; \[the\] desire of \[the\] sinner shall perish. 
-<small><sub>**KJV:**</sub></small>
-The wicked shall see [it], and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.
-<small><sub>**BSB:**</sub></small>
-The wicked man will see and be grieved; he will gnash his teeth and waste away; the desires of the wicked will perish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.112.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.112.9|<< Psalm 112:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.1|Psalm 113:1 >>]]</td></tr></table>
 
 | Translation | Greek |

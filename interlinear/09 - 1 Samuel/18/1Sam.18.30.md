@@ -1,4 +1,4 @@
-**1 Samuel 18:30** 
+**1 Samuel 18:30**<big><big>[[1Sam.18.17 David Marries Michal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the princes of the Philistines went forth: and it came to pass, after they went forth, [that] David behaved himself more wisely than all the servants of Saul; so that his name was much set by.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every time the Philistine commanders came out for battle, David was more success
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.29|<< 1 Samuel 18:29]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.1|1 Samuel 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצְא֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] commanders of  |**<big>&#8207;[[H8269\|שָׂרֵ֣י]]&#8207; </big>**| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to him, I heard  your prayer and  your supplication, which you beseeched before me. I sanctified  this house which you built,  to establish  my name there into the eon. And my eyes and my heart will be there all the days. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to him: “I have heard your prayer and petition before Me. I have consecrated this temple, which you have built, by putting My Name there forever; My eyes and My heart will be there for all time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.2|<< 1 Kings 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.4|1 Kings 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

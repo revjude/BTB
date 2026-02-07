@@ -1,4 +1,4 @@
-**Isaiah 5:1** 
+**Isaiah 5:1**<big><big>[[Isa.5.1 The Song of the Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will sing for my beloved a song of his vineyard: My beloved had a vineyard on 
 > $\quad$ referenced by: [[Matt.21.33|Matt 21:33]] ☩ [[Mark.12.1|Mark 12:1]] ☩ [[Luke.20.9|Luke 20:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let me sing  |**<big>&#8207;[[H7891\|אָשִׁ֤ירָה]]&#8207; </big>**| 'a.Shi.rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָּא֙]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

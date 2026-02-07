@@ -1,10 +1,7 @@
 **LXX Job 1:22** 
 <small><sub>**LXX:**</sub></small>
 In all these \[things\]  coming to pass against him, in nothing Job sinned before the <span class="smallcaps">lord</span>, and he imputed not folly \[to\] God. 
-<small><sub>**KJV:**</sub></small>
-In all this Job sinned not, nor charged God foolishly.
-<small><sub>**BSB:**</sub></small>
-In all this, Job did not sin or charge God with wrongdoing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.21|<< Job 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.1|Job 2:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Job 1:22** is...

@@ -6,10 +6,7 @@ A psalm \[to\] Asaph.
 
 <small><sub>**LXX:**</sub></small>
 The God of gods, \[the\] <span class="smallcaps">lord</span> spoke, and called the earth from \[the\] east sun unto \[its\] descent. 
-<small><sub>**KJV:**</sub></small>
-A Psalm of Asaph. The mighty God, [even] the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
-<small><sub>**BSB:**</sub></small>
-A Psalm of Asaph. The Mighty One, God the LORD, speaks and summons the earth from where the sun rises to where it sets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.20|<< Psalm 49:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.2|Psalm 50:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 44:19** 
+**Ezekiel 44:19**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they go forth into the utter court, [even] into the utter court to the people, they shall put off their garments wherein they ministered, and lay them in the holy chambers, and they shall put on other garments; and they shall not sanctify the people with their garments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they go out to the outer court, to the people, they are to take off the gar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.18|<< Ezekiel 44:18]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.20|Ezekiel 44:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when go out they  |**<big>&#8207;[[H9002\|וּ֠]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3318G\|צֵאתָ]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tze.to<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

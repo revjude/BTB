@@ -1,12 +1,12 @@
-**John 20:12
-**<small><sub>**KJV:**</sub></small>
+**John 20:12**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain.
 <small><sub>**BSB:**</sub></small>
 and she saw two angels in white sitting where the body of Jesus had lain, one at the head and the other at the feet.
 <small><sub>**Literal:**</sub></small>
 and she sees two angels in white sitting one at the head and one at the feet, where was laying the body <the> of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.11|<< John 20:11]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.13|John 20:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | she sees |**<big>[[G2334\|θεωρεῖ]]</big>**  |theōrei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

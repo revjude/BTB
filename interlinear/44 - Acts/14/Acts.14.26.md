@@ -1,12 +1,12 @@
-**Acts 14:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:26**<big><big>[[Acts.14.21 Strengthening the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thence sailed to Antioch, from whence they had been recommended to the grace of God for the work which they fulfilled.
 <small><sub>**BSB:**</sub></small>
 From Attalia they sailed to Antioch, where they had been commended to the grace of God for the work they had just completed.
 <small><sub>**Literal:**</sub></small>
 And from there they sailed to Antioch, from where they had committed to the grace <the> of God for the work that they had fulfilled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.25|<< Acts 14:25]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.27|Acts 14:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And from there |**<big>[[G2532\|κἀκεῖθεν]]</big>**  |kakeithen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they sailed |**<big>[[G0636\|ἀπέπλευσαν]]</big>**  |apepleusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

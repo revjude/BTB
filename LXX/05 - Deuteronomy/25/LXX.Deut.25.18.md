@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:18** 
 <small><sub>**LXX:**</sub></small>
 How he opposed you in the way, and beat your  rear guard, the ones tiring in your rear, and you hungered and were tired. And he feared not  God. 
-<small><sub>**KJV:**</sub></small>
-How he met thee by the way, and smote the hindmost of thee, [even] all [that were] feeble behind thee, when thou [wast] faint and weary; and he feared not God.
-<small><sub>**BSB:**</sub></small>
-how they met you on your journey when you were tired and weary, and they attacked all your stragglers; they had no fear of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.17|<< Deuteronomy 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.19|Deuteronomy 25:19 >>]]</td></tr></table>
 
 | Translation | Greek |

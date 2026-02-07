@@ -1,4 +1,4 @@
-**Jeremiah 25:2** 
+**Jeremiah 25:2**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The which Jeremiah the prophet spake unto all the people of Judah, and to all the inhabitants of Jerusalem, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the prophet Jeremiah spoke to all the people of Judah and all the residents o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.1|<< Jeremiah 25:1]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.3|Jeremiah 25:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he spoke  |**<big>&#8207;[[H1696G\|דִּבֶּ֜ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

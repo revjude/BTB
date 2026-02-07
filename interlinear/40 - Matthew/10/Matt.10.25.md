@@ -1,12 +1,12 @@
-**Matthew 10:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:25**<big><big>[[Matt.10.16 Sheep among Wolves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more [shall they call] them of his household?
 <small><sub>**BSB:**</sub></small>
 It is enough for a disciple to be like his teacher, and a servant like his master. If the head of the house has been called Beelzebul, how much more the members of his household!
 <small><sub>**Literal:**</sub></small>
 [It is] sufficient for the disciple that he may become as the teacher of him and the servant as the master of him. If the master of the house Beelzebul they called on, how much more those house members of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.24|<< Matthew 10:24]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.26|Matthew 10:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [It is] sufficient |**<big>[[G0713\|ἀρκετὸν]]</big>**  |arketon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

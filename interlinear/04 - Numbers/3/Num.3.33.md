@@ -1,4 +1,4 @@
-**Numbers 3:33** 
+**Numbers 3:33**<big><big>[[Num.3.33 The Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of Merari [was] the family of the Mahlites, and the family of the Mushites: these [are] the families of Merari.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Merari came the clans of the Mahlites and Mushites; these were the Merarite
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.32|<< Numbers 3:32]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.34|Numbers 3:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belonged] to Merari  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4848\|מְרָרִ֕י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.ra.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] clan of  |**<big>&#8207;[[H4940\|מִשְׁפַּ֙חַת֙]]&#8207; </big>**| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

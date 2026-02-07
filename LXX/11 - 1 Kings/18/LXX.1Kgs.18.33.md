@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:33** 
 <small><sub>**LXX:**</sub></small>
 And he put the kindling upon the altar which he made. And he dismembered the whole burnt-offering, and he put it upon the kindling, and he piled upon the altar. And Elijah said, Bring to me four water pitchers, and pour upon the whole burnt-offering, and upon the kindling! 
-<small><sub>**KJV:**</sub></small>
-And he put the wood in order, and cut the bullock in pieces, and laid [him] on the wood, and said, Fill four barrels with water, and pour [it] on the burnt sacrifice, and on the wood.
-<small><sub>**BSB:**</sub></small>
-Next, he arranged the wood, cut up the bull, placed it on the wood,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.32|<< 1 Kings 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.34|1 Kings 18:34 >>]]</td></tr></table>
 
 | Translation | Greek |

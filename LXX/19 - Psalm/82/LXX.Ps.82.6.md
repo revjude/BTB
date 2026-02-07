@@ -1,10 +1,7 @@
 **LXX Psalm 82:6** 
 <small><sub>**LXX:**</sub></small>
 I said, You are gods, and all sons of \[the\] highest. 
-<small><sub>**KJV:**</sub></small>
-I have said, Ye [are] gods; and all of you [are] children of the most High.
-<small><sub>**BSB:**</sub></small>
-I have said, ‘You are gods; you are all sons of the Most High.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.82.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.82.5|<< Psalm 82:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.82.7|Psalm 82:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 82:6** is...

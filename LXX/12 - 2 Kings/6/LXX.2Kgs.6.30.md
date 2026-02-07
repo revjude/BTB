@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:30** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the king heard the words of the woman, he tore  his garments, and he traveled over upon the wall. And the people saw the sackcloth upon  his flesh inside. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold, [he had] sackcloth within upon his flesh.
-<small><sub>**BSB:**</sub></small>
-When the king heard the words of the woman, he tore his clothes. And as he passed by on the wall, the people saw the sackcloth under his clothes next to his skin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.29|<< 2 Kings 6:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.31|2 Kings 6:31 >>]]</td></tr></table>
 
 | Translation | Greek |

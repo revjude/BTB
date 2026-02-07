@@ -1,4 +1,4 @@
-**Isaiah 48:18** 
+**Isaiah 48:18**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If only you had paid attention to My commandments, your peace would have been li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.17|<< Isaiah 48:17]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.19|Isaiah 48:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3863\|ל֥וּא]]&#8207; </big>**| lu'<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you had paid attention  |**<big>&#8207;[[H7181\|הִקְשַׁ֖בְתָּ]]&#8207; </big>**| hik.Shav.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

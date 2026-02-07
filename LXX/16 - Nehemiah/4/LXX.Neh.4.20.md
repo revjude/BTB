@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:20** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] place where ever you should hear the sound of the horn, gather together there to us, and  our God shall wage war for us. 
-<small><sub>**KJV:**</sub></small>
-In what place [therefore] ye hear the sound of the trumpet, resort ye thither unto us: our God shall fight for us.
-<small><sub>**BSB:**</sub></small>
-Wherever you hear the sound of the horn, rally to us there. Our God will fight for us!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.19|<< Nehemiah 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.21|Nehemiah 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 119:116** 
 <small><sub>**LXX:**</sub></small>
 Take hold of me according to  your oracle; and enliven me! for you should not put me to shame of  my expectation. 
-<small><sub>**KJV:**</sub></small>
-Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.
-<small><sub>**BSB:**</sub></small>
-Sustain me as You promised, that I may live; let me not be ashamed of my hope.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.116|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.115|<< Psalm 119:115]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.117|Psalm 119:117 >>]]</td></tr></table>
 
 | Translation | Greek |

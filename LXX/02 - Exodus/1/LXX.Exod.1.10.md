@@ -1,10 +1,7 @@
 **LXX Exodus 1:10** 
 <small><sub>**LXX:**</sub></small>
 Come then we should deal subtly with them, lest at any time they should multiply, and whenever a war may come to pass to us, these also will add to the opponents, and waging war against us they shall go forth from the land. 
-<small><sub>**KJV:**</sub></small>
-Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and [so] get them up out of the land.
-<small><sub>**BSB:**</sub></small>
-Come, let us deal shrewdly with them, or they will increase even more; and if a war breaks out, they may join our enemies, fight against us, and leave the country.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.9|<< Exodus 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.11|Exodus 1:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 1:10** is...

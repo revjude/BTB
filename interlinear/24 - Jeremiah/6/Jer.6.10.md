@@ -1,4 +1,4 @@
-**Jeremiah 6:10** 
+**Jeremiah 6:10**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom shall I speak, and give warning, that they may hear? behold, their ear [is] uncircumcised, and they cannot hearken: behold, the word of the LORD is unto them a reproach; they have no delight in it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To whom can I give this warning? Who will listen to me? Look, their ears are clo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.9|<< Jeremiah 6:9]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.11|Jeremiah 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom?  |**<big>&#8207;[[H4310\|מִ֨י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

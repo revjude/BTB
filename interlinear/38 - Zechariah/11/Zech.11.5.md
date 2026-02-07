@@ -1,4 +1,4 @@
-**Zechariah 11:5** 
+**Zechariah 11:5**<big><big>[[Zech.11.1 The Doomed Flock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed [be] the LORD; for I am rich: and their own shepherds pity them not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ whose buyers slaughter them without remorse. Those who sell them say, ‘Blessed
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.4|<< Zechariah 11:4]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.6|Zechariah 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] buy them  |**<big>&#8207;[[H7069\|קֹנֵי]]&#8207;&#8207;[[H9039\|הֶ֤ן]]&#8207; </big>**| ko.nei.<small><sup>[[HVqrmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

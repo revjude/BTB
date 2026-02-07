@@ -1,10 +1,7 @@
 **LXX Isaiah 22:17** 
 <small><sub>**LXX:**</sub></small>
 Behold, indeed, \[the\] <span class="smallcaps">lord</span> of Hosts shall cast out and shall obliterate \[such\] a man, and shall remove  your apparel, and  your honorable crown, 
-<small><sub>**KJV:**</sub></small>
-Behold, the LORD will carry thee away with a mighty captivity, and will surely cover thee.
-<small><sub>**BSB:**</sub></small>
-Look, O mighty man! The LORD is about to shake you violently. He will take hold of you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.16|<< Isaiah 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.18|Isaiah 22:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 14:21** 
+**Zechariah 14:21**<big><big>[[Zech.14.16 All Nations Will Worship the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, every pot in Jerusalem and in Judah shall be holiness unto the LORD of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, every pot in Jerusalem and Judah will be holy to the LORD of Hosts, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.20|<< Zechariah 14:20]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.1|Malachi 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H1961\|הָיָה]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 30:14** 
+**Deuteronomy 30:14**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the word [is] very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But the word is very near you; it is in your mouth and in your heart, so that yo
 > $\quad$ referenced by: [[Rom.10.8|Rom 10:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] near  |**<big>&#8207;[[H7138\|קָר֥וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

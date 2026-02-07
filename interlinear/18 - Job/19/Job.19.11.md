@@ -1,4 +1,4 @@
-**Job 19:11** 
+**Job 19:11**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath also kindled his wrath against me, and he counteth me unto him as [one of] his enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His anger burns against me, and He counts me among His enemies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.10|<< Job 19:10]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.12|Job 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has kindled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2734\|יַּ֣חַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.char<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | towards me  |**<big>&#8207;[[H5921A\|עָלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 23:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:28**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.
 <small><sub>**BSB:**</sub></small>
 But Jesus turned to them and said, “Daughters of Jerusalem, do not weep for Me, but weep for yourselves and for your children.
 <small><sub>**Literal:**</sub></small>
 Having turned then to them <the> Jesus said; Daughters of Jerusalem, not do weep for Me myself, but for yourselves do weep and for the children of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.27|<< Luke 23:27]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.29|Luke 23:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having turned |**<big>[[G4762\|στραφεὶς]]</big>**  |strapheis <small><sup>[[V-2APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

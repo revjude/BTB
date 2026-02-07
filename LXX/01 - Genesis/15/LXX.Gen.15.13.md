@@ -1,10 +1,7 @@
 **LXX Genesis 15:13** 
 <small><sub>**LXX:**</sub></small>
 And it was said to Abram, \[In\] knowing you will know that your seed will be a sojourner in a land not \[their\] own, and they will enslave them, and will afflict them, and humble them four hundred years. 
-<small><sub>**KJV:**</sub></small>
-And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land [that is] not theirs, and shall serve them; and they shall afflict them four hundred years;
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Abram, “Know for certain that your descendants will be strangers in a land that is not their own, and they will be enslaved and mistreated four hundred years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.12|<< Genesis 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.14|Genesis 15:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 15:13** is...

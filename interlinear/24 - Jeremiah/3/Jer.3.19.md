@@ -1,4 +1,4 @@
-**Jeremiah 3:19** 
+**Jeremiah 3:19**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I said, How shall I put thee among the children, and give thee a pleasant land, a goodly heritage of the hosts of nations? and I said, Thou shalt call me, My father; and shalt not turn away from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I said, ‘How I long to make you My sons and give you a desirable land, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.18|<< Jeremiah 3:18]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.20|Jeremiah 3:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָנֹכִ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I thought  |**<big>&#8207;[[H0559\|אָמַ֗רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

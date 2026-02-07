@@ -1,12 +1,12 @@
-**Matthew 27:63
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:63**<big><big>[[Matt.27.62 The Guards at the Tomb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Sir, we remember that that deceiver said, while he was yet alive, After three days I will rise again.
 <small><sub>**BSB:**</sub></small>
 “Sir,” they said, “we remember that while He was alive that deceiver said, ‘After three days I will rise again.’
 <small><sub>**Literal:**</sub></small>
 saying; Sir, we have remembered how that [on,e] the deceiver said while living; After three days I arise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.62|<< Matthew 27:62]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.64|Matthew 27:64 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Sir, |**<big>[[G2962H\|κύριε,]]</big>**  |kurie <small><sup>[[N-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

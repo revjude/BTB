@@ -1,10 +1,7 @@
 **LXX Numbers 32:29** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to them, If the sons of Reuben and the sons of Gad should pass over the Jordan with you, every one being armed for war before \[the\] <span class="smallcaps">lord</span>, and you should dominate the land before you, then you shall give to them the land of Gilead for a possession. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:
-<small><sub>**BSB:**</sub></small>
-And Moses said to them, “If the Gadites and Reubenites cross the Jordan with you, with every man armed for battle before the LORD, and the land is subdued before you, then you are to give them the land of Gilead as a possession.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.28|<< Numbers 32:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.30|Numbers 32:30 >>]]</td></tr></table>
 
 | Translation | Greek |

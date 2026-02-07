@@ -1,12 +1,12 @@
-**Philemon 1:14
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:14**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.
 <small><sub>**BSB:**</sub></small>
 But I did not want to do anything without your consent, so that your goodness will not be out of compulsion, but by your own free will.
 <small><sub>**Literal:**</sub></small>
 Apart from however <the> your consent no [thing] I wished to do, so that not as according to necessity the good of you may be but according to willingness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.13|<< Philemon 1:13]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.15|Philemon 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Apart from |**<big>[[G5565\|χωρὶς]]</big>**  |chōris <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 14:12** 
 <small><sub>**LXX:**</sub></small>
 Was this not the saying which we spoke in Egypt to you? saying, Disregard us! so that we may slave to the Egyptians. For \[it is\] better for us to slave to the Egyptians, than to die in  this wilderness. 
-<small><sub>**KJV:**</sub></small>
-[Is] not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? For [it had been] better for us to serve the Egyptians, than that we should die in the wilderness.
-<small><sub>**BSB:**</sub></small>
-Did we not say to you in Egypt, ‘Leave us alone so that we may serve the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.11|<< Exodus 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.13|Exodus 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

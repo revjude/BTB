@@ -1,4 +1,4 @@
-**Numbers 7:88** 
+**Numbers 7:88**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the oxen for the sacrifice of the peace offerings [were] twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This [was] the dedication of the altar, after that it was anointed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the livestock sacrificed for the peace offering totaled twenty-four bulls, s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.88|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.87|<< Numbers 7:87]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.89|Numbers 7:89 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹ֞ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] cattle of  |**<big>&#8207;[[H1241\|בְּקַ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.Kar<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

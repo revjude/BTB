@@ -1,12 +1,12 @@
-**Mark 6:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:17**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Herod himself had sent forth and laid hold upon John, and bound him in prison for Herodias’ sake, his brother Philip’s wife: for he had married her.
 <small><sub>**BSB:**</sub></small>
 For Herod himself had ordered that John be arrested and bound and imprisoned, on account of his brother Philip’s wife Herodias, whom Herod had married.
 <small><sub>**Literal:**</sub></small>
 Himself for <the> Herod having sent he seized <the> John and bound him in <the> prison on account of Herodias the wife of Philip the brother of him because her he had married;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.16|<< Mark 6:16]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.18|Mark 6:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

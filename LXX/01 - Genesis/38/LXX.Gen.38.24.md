@@ -1,10 +1,7 @@
 **LXX Genesis 38:24** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after three months, it was announced  to Judah, saying, Tamar your daughter-in-law fornicated. And behold, she has \[one\] in \[the\] womb out of harlotry. And Judah said, Lead her out, and let her be incinerated! 
-<small><sub>**KJV:**</sub></small>
-And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she [is] with child by whoredom. And Judah said, Bring her forth, and let her be burnt.
-<small><sub>**BSB:**</sub></small>
-About three months later, Judah was told, “Your daughter-in-law Tamar has prostituted herself, and now she is pregnant.” “Bring her out!” Judah replied. “Let her be burned to death!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.23|<< Genesis 38:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.25|Genesis 38:25 >>]]</td></tr></table>
 
 | Translation | Greek |

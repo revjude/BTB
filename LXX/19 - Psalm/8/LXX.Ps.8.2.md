@@ -1,10 +1,7 @@
 **LXX Psalm 8:2** 
 <small><sub>**LXX:**</sub></small>
 From out of \[the\] mouths of infants and ones nursing you ready praise because of  your enemies,  to depose \[the\] enemy and \[the\] avenger. 
-<small><sub>**KJV:**</sub></small>
-Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
-<small><sub>**BSB:**</sub></small>
-From the mouths of children and infants You have ordained praise on account of Your adversaries, to silence the enemy and avenger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.8.1|<< Psalm 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.8.3|Psalm 8:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 8:2** is...

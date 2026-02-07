@@ -1,4 +1,4 @@
-**Song of Solomon 8:9** 
+**Song of Solomon 8:9**<big><big>[[Song.8.8 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If she [be] a wall, we will build upon her a palace of silver: and if she [be] a door, we will inclose her with boards of cedar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If she is a wall, we will build a tower of silver upon her. If she is a door, we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.8|<< Song of Solomon 8:8]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.10|Song of Solomon 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a wall  |**<big>&#8207;[[H2346G\|חוֹמָ֣ה]]&#8207; </big>**| cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

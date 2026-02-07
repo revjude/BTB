@@ -1,4 +1,4 @@
-**2 Chronicles 24:6** 
+**2 Chronicles 24:6**<big><big>[[2Chr.24.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king called for Jehoiada the chief, and said unto him, Why hast thou not required of the Levites to bring in out of Judah and out of Jerusalem the collection, [according to the commandment] of Moses the servant of the LORD, and of the congregation of Israel, for the tabernacle of witness?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the king called Jehoiada the high priest and said, “Why have you not requir
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.5|<< 2 Chronicles 24:5]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.7|2 Chronicles 24:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּלֶךְ֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.leKh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

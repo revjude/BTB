@@ -1,12 +1,12 @@
-**Matthew 13:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:33**<big><big>[[Matt.13.33 The Parable of the Leaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
 <small><sub>**BSB:**</sub></small>
 He told them still another parable: “The kingdom of heaven is like leaven that a woman took and mixed into three measures of flour, until all of it was leavened.”
 <small><sub>**Literal:**</sub></small>
 Another parable spoke He to them: Like is the kingdom of the heavens to leaven, which having taken a woman hid in of flour measures three until of it was leavened all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.32|<< Matthew 13:32]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.34|Matthew 13:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Another |**<big>[[G0243\|Ἄλλην]]</big>**  |Allēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | parable |**<big>[[G3850\|παραβολὴν]]</big>**  |parabolēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

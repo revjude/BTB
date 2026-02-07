@@ -1,10 +1,7 @@
 **LXX Joshua 12:7** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the kings of the Amorites which Joshua did away with, and the sons of Israel on the other side of the Jordan by west of Baal-gad in the plain  of Lebanon, and unto  mount  Halak ascending unto Seir. And Joshua gave it to the tribes of Israel as an inheritance according to their lot; 
-<small><sub>**KJV:**</sub></small>
-And these [are] the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel [for] a possession according to their divisions;
-<small><sub>**BSB:**</sub></small>
-And these are the kings of the land that Joshua and the Israelites conquered beyond the Jordan to the west, from Baal-gad in the Valley of Lebanon to Mount Halak, which rises toward Seir (according to the allotments to the tribes of Israel, Joshua gave them as an inheritance<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.6|<< Joshua 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.8|Joshua 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

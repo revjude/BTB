@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:15** 
 <small><sub>**LXX:**</sub></small>
 And it happened in  David utterly destroying  Edom, in the going of Joab \[the\] ruler of the military to bury the slain, that they smote every male in  Edom; 
-<small><sub>**KJV:**</sub></small>
-For it came to pass, when David was in Edom, and Joab the captain of the host was gone up to bury the slain, after he had smitten every male in Edom;
-<small><sub>**BSB:**</sub></small>
-Earlier, when David was in Edom, Joab the commander of the army had gone to bury the dead and had struck down every male in Edom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.14|<< 1 Kings 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.16|1 Kings 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

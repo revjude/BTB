@@ -1,4 +1,4 @@
-**Ezekiel 43:22** 
+**Ezekiel 43:22**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the second day thou shalt offer a kid of the goats without blemish for a sin offering; and they shall cleanse the altar, as they did cleanse [it] with the bullock.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the second day you are to present an unblemished male goat as a sin offering,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.21|<< Ezekiel 43:21]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.23|Ezekiel 43:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on the day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּוֹם֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vai.<small><sup>[[HRd]]</sup></small> yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> second  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8145\|שֵּׁנִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

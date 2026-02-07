@@ -1,12 +1,12 @@
-**Revelation 2:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:17**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth [it].
 <small><sub>**BSB:**</sub></small>
 He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will give the hidden manna. I will also give him a white stone inscribed with a new name, known only to the one who receives it.
 <small><sub>**Literal:**</sub></small>
 The [one] having an ear he should hear what the Spirit says to the churches; To the [one] overcoming I will give to him to eat from the manna which hidden and I will give to him stone white, and on the stone a name new written which no [one] knows only except the [one] receiving [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.16|<< Revelation 2:16]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.18|Revelation 2:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχων]]</big>**  |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

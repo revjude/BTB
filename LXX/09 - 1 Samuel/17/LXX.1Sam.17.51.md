@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:51** 
 <small><sub>**LXX:**</sub></small>
 And David ran and stood over him, and he took  his broadsword, and pulled it out of  its sheath, and he put him to death, and he removed  his head. And the Philistines beheld that their mighty one has died, and they fled. 
-<small><sub>**KJV:**</sub></small>
-Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled.
-<small><sub>**BSB:**</sub></small>
-David ran and stood over him. He grabbed the Philistine’s sword and pulled it from its sheath and killed him, and he cut off his head with the sword. When the Philistines saw that their hero was dead, they turned and ran.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.50|<< 1 Samuel 17:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.52|1 Samuel 17:52 >>]]</td></tr></table>
 
 | Translation | Greek |

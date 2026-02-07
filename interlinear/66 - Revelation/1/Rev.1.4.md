@@ -1,12 +1,12 @@
-**Revelation 1:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:4**<big><big>[[Rev.1.4 John Greets the Seven Churches|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 John to the seven churches which are in Asia: Grace [be] unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
 <small><sub>**BSB:**</sub></small>
 John, To the seven churches in the province of Asia: Grace and peace to you from Him who is and was and is to come, and from the seven spirits before His throne,
 <small><sub>**Literal:**</sub></small>
 John To the seven churches <the> in <the> Asia: Grace to you and peace from Him who is and who was and who is coming and from the seven Spirits who is before the throne of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.3|<< Revelation 1:3]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.5|Revelation 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | John |**<big>[[G2491H\|Ἰωάννης]]</big>**  [^1] |Iōannēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | To the |**<big>[[G3588\|ταῖς]]</big>**  |tais <small><sup>[[T-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

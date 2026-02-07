@@ -1,10 +1,7 @@
 **LXX Psalm 5:3** 
 <small><sub>**LXX:**</sub></small>
 In the morning you shall hear  my voice. In the morning I shall stand beside you, and he shall watch me. 
-<small><sub>**KJV:**</sub></small>
-My voice shalt thou hear in the morning, O LORD; in the morning will I direct [my prayer] unto thee, and will look up.
-<small><sub>**BSB:**</sub></small>
-In the morning, O LORD, You hear my voice; at daybreak I lay my plea before You and wait in expectation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.2|<< Psalm 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.4|Psalm 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

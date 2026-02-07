@@ -1,10 +1,7 @@
 **LXX Job 7:13** 
 <small><sub>**LXX:**</sub></small>
 I said that my bed shall comfort me, and I shall offer to myself my own word  in my bed. 
-<small><sub>**KJV:**</sub></small>
-When I say, My bed shall comfort me, my couch shall ease my complaint;
-<small><sub>**BSB:**</sub></small>
-When I think my bed will comfort me and my couch will ease my complaint,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.12|<< Job 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.14|Job 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

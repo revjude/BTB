@@ -1,5 +1,5 @@
-**Ephesians 6:3
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:3**<big><big>[[Eph.6.1 Children and Parents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That it may be well with thee, and thou mayest live long on the earth.
 <small><sub>**BSB:**</sub></small>
 “that it may go well with you and that you may have a long life on the earth.”
@@ -11,7 +11,7 @@ that well with you it may be and you will be long-lived upon the earth.<br><tabl
 > $\quad$ alluding to: [[LXX.Deut.5.16|Deut 5:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | well |**<big>[[G2095\|εὖ]]</big>**  |eu <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

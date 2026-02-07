@@ -1,10 +1,7 @@
 **LXX Judges 8:32** 
 <small><sub>**LXX:**</sub></small>
 And Gideon \[the\] son of Joash died with good grayness of hair. And he was entombed in the burying-place of Joash  his father, in Ophrah \[of the\] Abi-ezrites. 
-<small><sub>**KJV:**</sub></small>
-And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abiezrites.
-<small><sub>**BSB:**</sub></small>
-Later, Gideon son of Joash died at a ripe old age and was buried in the tomb of his father Joash in Ophrah of the Abiezrites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.31|<< Judges 8:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.33|Judges 8:33 >>]]</td></tr></table>
 
 | Translation | Greek |

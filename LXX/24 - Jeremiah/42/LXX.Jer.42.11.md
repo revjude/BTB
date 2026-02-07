@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:11** 
 <small><sub>**LXX:**</sub></small>
 You should not be fearful from \[the\] face of the king of Babylon, of whom you fear from his face. You should not be fearful, says \[the\] <span class="smallcaps">lord</span>. For I \[am\] with you,  to rescue you, and to deliver you from out of his hand. 
-<small><sub>**KJV:**</sub></small>
-Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the LORD: for I [am] with you to save you, and to deliver you from his hand.
-<small><sub>**BSB:**</sub></small>
-Do not be afraid of the king of Babylon, whom you now fear; do not be afraid of him, declares the LORD, for I am with you to save you and deliver you from him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.10|<< Jeremiah 42:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.12|Jeremiah 42:12 >>]]</td></tr></table>
 
 | Translation | Greek |

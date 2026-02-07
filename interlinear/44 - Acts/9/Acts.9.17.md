@@ -1,12 +1,12 @@
-**Acts 9:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:17**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, [even] Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 So Ananias went to the house, and when he arrived, he placed his hands on Saul. “Brother Saul,” he said, “the Lord Jesus, who appeared to you on the road as you were coming here, has sent me so that you may see again and be filled with the Holy Spirit.”
 <small><sub>**Literal:**</sub></small>
 Went away then Ananias and entered into the house, and having laid upon him the hands he said; Saul Brother, the Lord has sent me, Jesus the [One] having appeared to you on the road by which you were coming, that you may see again and you may be filled [of the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.16|<< Acts 9:16]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.18|Acts 9:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Went away |**<big>[[G0565\|Ἀπῆλθεν]]</big>**  |Apēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

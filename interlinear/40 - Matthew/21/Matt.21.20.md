@@ -1,12 +1,12 @@
-**Matthew 21:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:20**<big><big>[[Matt.21.18 The Barren Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the disciples saw [it], they marvelled, saying, How soon is the fig tree withered away!
 <small><sub>**BSB:**</sub></small>
 When the disciples saw this, they marveled and asked, “How did the fig tree wither so quickly?”
 <small><sub>**Literal:**</sub></small>
 And having seen [it] the disciples marveled saying; How so quickly withered the fig tree?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.19|<< Matthew 21:19]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.21|Matthew 21:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen [it] |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

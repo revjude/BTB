@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΛΑΜΕΔ</p>
 
  to humble under  his feet all \[the\] prisoners of \[the\] earth, 
-<small><sub>**KJV:**</sub></small>
-To crush under his feet all the prisoners of the earth,
-<small><sub>**BSB:**</sub></small>
-To crush underfoot all the prisoners of the land,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.33|<< Lamentations 3:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.35|Lamentations 3:35 >>]]</td></tr></table>
 
 | Translation | Greek |

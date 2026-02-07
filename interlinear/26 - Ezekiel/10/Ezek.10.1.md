@@ -1,4 +1,4 @@
-**Ezekiel 10:1** 
+**Ezekiel 10:1**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I looked and saw above the expanse, above the heads of the cherubim, the lik
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.11|<< Ezekiel 9:11]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.2|Ezekiel 10:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֶרְאֶ֗ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'er.'Eh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

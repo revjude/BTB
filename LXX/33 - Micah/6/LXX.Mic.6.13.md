@@ -1,10 +1,7 @@
 **LXX Micah 6:13** 
 <small><sub>**LXX:**</sub></small>
 And I tormented you for extinction on account of  your sins. 
-<small><sub>**KJV:**</sub></small>
-Therefore also will I make [thee] sick in smiting thee, in making [thee] desolate because of thy sins.
-<small><sub>**BSB:**</sub></small>
-Therefore I am striking you severely, to ruin you because of your sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.12|<< Micah 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.14|Micah 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

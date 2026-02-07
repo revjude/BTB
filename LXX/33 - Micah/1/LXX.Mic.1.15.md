@@ -1,10 +1,7 @@
 **LXX Micah 1:15** 
 <small><sub>**LXX:**</sub></small>
 until they should bring the heirs to you, O inhabitant of Lachish, your inheritance. Unto Adullam glory of the daughter of Israel shall come. 
-<small><sub>**KJV:**</sub></small>
-Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel.
-<small><sub>**BSB:**</sub></small>
-I will again bring a conqueror against you, O dweller of Mareshah. The glory of Israel will come to Adullam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.14|<< Micah 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.16|Micah 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

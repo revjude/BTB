@@ -1,4 +1,4 @@
-**Psalms 22:18** (22:19)
+**Psalms 22:18**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They part my garments among them, and cast lots upon my vesture.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They divide my garments among them and cast lots for my clothing.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.35|Matt 27:35]] ☩ [[Mark.15.24|Mark 15:24]] ☩ [[Luke.23.34|Luke 23:34]] ☩ [[John.19.24|John 19:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they distribute  |**<big>&#8207;[[H2505A\|יְחַלְּק֣וּ]]&#8207; </big>**| ye.cha.le.Ku<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | clothes my  |**<big>&#8207;[[H0899B\|בְגָדַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.ga.Da<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

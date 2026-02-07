@@ -1,12 +1,12 @@
-**Luke 8:48
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:48**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.
 <small><sub>**BSB:**</sub></small>
 “Daughter,” said Jesus, “your faith has healed you. Go in peace.”
 <small><sub>**Literal:**</sub></small>
 <the> And He said to her; Take courage daughter, the faith of you has healed you; do go in peace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.47|<< Luke 8:47]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.49|Luke 8:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

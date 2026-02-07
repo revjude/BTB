@@ -1,12 +1,12 @@
-**2 Thessalonians 2:2
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:2**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
 <small><sub>**BSB:**</sub></small>
 not to be easily disconcerted or alarmed by any spirit or message or letter seeming to be from us, alleging that the Day of the Lord has already come.
 <small><sub>**Literal:**</sub></small>
 for <the> not soon to be shaken you in <the> mind nor to be troubled, neither through spirit nor through word nor through letter as if through us, as that has been present the day of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.1|<< 2 Thessalonians 2:1]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.3|2 Thessalonians 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

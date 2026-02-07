@@ -1,12 +1,12 @@
-**Psalms 42:1** (42:2)
+**Psalms 42:1**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, Maschil, for the sons of Korah. As the hart panteth after the water brooks, so panteth my soul after thee, O God.
+As the hart panteth after the water brooks, so panteth my soul after thee, O God.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Maskil of the sons of Korah. As the deer pants for streams of water, so my soul longs after You, O God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.0|<< Psalms 42:0]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.2|Psalms 42:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a deer  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0354\|אַיָּ֗ל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'ai.Yal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] it pants  |**<big>&#8207;[[H6165\|תַּעֲרֹ֥ג]]&#8207; </big>**| ta.'a.Rog<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

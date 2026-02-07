@@ -1,4 +1,4 @@
-**1 Samuel 19:21** 
+**1 Samuel 19:21**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when it was told Saul, he sent other messengers, and they prophesied likewise. And Saul sent messengers again the third time, and they prophesied also.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When this was reported to Saul, he sent more messengers, but they began to proph
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.20|<< 1 Samuel 19:20]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.22|1 Samuel 19:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגִּ֣דוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Saul  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7586G\|שָׁא֗וּל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 25:52** 
 <small><sub>**LXX:**</sub></small>
 And if few should be left behind of the years to the year of the release, then he shall reckon to him according to  his years, and shall render  his ransoms. 
-<small><sub>**KJV:**</sub></small>
-And if there remain but few years unto the year of jubile, then he shall count with him, [and] according unto his years shall he give him again the price of his redemption.
-<small><sub>**BSB:**</sub></small>
-If only a few years remain until the Year of Jubilee, he is to calculate and pay his redemption according to his remaining years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.51|<< Leviticus 25:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.53|Leviticus 25:53 >>]]</td></tr></table>
 
 | Translation | Greek |

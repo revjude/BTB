@@ -1,4 +1,4 @@
-**Numbers 18:22** 
+**Numbers 18:22**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No longer may the Israelites come near to the Tent of Meeting, or they will incu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.21|<< Numbers 18:21]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.23|Numbers 18:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will draw near  |**<big>&#8207;[[H7126G\|יִקְרְב֥וּ]]&#8207; </big>**| yik.re.Vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

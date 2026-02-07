@@ -1,5 +1,5 @@
-**Acts 7:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:18**<big><big>[[Acts.7.15 Israel Oppressed in Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Till another king arose, which knew not Joseph.
 <small><sub>**BSB:**</sub></small>
 Then another king, who knew nothing of Joseph, arose over Egypt.
@@ -10,7 +10,7 @@ until that there arose king another over Egypt who not knew <the> Joseph.<br><ta
 > $\quad$ referencing: [[LXX.Exod.1.8|Exod 1:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until |**<big>[[G0891\|ἄχρι]]</big>**  [^1] |achri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

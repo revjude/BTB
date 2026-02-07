@@ -1,10 +1,7 @@
 **LXX Genesis 30:2** 
 <small><sub>**LXX:**</sub></small>
 And Jacob being enraged  with Rachel, said to her, I am not in place of God who deprived you \[of the\] fruit of \[the\] belly? 
-<small><sub>**KJV:**</sub></small>
-And Jacob’s anger was kindled against Rachel: and he said, [Am] I in God’s stead, who hath withheld from thee the fruit of the womb?
-<small><sub>**BSB:**</sub></small>
-Jacob became angry with Rachel and said, “Am I in the place of God, who has withheld children from you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.1|<< Genesis 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.3|Genesis 30:3 >>]]</td></tr></table>
 
 | Translation | Greek |

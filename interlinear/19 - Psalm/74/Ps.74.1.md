@@ -1,12 +1,12 @@
-**Psalms 74:1** 
+**Psalms 74:1**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-Maschil of Asaph. O God, why hast thou cast [us] off for ever? [why] doth thine anger smoke against the sheep of thy pasture?
+O God, why hast thou cast [us] off for ever? [why] doth thine anger smoke against the sheep of thy pasture?
 <small><sub>**BSB:**</sub></small>
 A Maskil of Asaph. Why have You rejected us forever, O God? Why does Your anger smolder against the sheep of Your pasture?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.0|<< Psalms 74:0]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.2|Psalms 74:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

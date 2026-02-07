@@ -1,12 +1,12 @@
 (KJV) **2 Samuel 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4|<< 2 Samuel 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6|2 Samuel 6 >>]]</td></tr></table>
 
-***David Anointed King of All Israel***&emsp;<small><sup>\[ [[1Chr.11|1 Chronicles 11:1–3]] ]</sup></small> ^bsb738
+<big><big>[[2Sam.5.1 David Anointed King of All Israel|⥃]]</big></big>***David Anointed King of All Israel***&emsp;<small><sup>\[ [[1Chr.11|1 Chronicles 11:1–3]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[2Sam.5.1|1]]**<span class="endversemarker">]</span> Then came<small><small>[^2]</small></small> all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we<small><small>[^3]</small></small> \[are\] thy bone and thy flesh. <span class="startversemarker">[</span>**[[2Sam.5.2|2]]**<span class="endversemarker">]</span> Also in time past, when Saul was king over us, thou wast he that leddest out<small><small>[^4]</small></small> and broughtest in Israel: and the <span class="smallcaps">Lord</span> said to thee, Thou shalt feed<small><small>[^5]</small></small> my people Israel, and thou shalt be a captain<small><small>[^6]</small></small> over Israel. <span class="startversemarker">[</span>**[[2Sam.5.3|3]]**<span class="endversemarker">]</span> So all<small><small>[^7]</small></small> the elders of Israel came to the king to Hebron; and king David made<small><small>[^8]</small></small> a league with them in Hebron before<small><small>[^9]</small></small> the <span class="smallcaps">Lord</span>: and they anointed<small><small>[^10]</small></small> David king over Israel. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.5.4|4]]**<span class="endversemarker">]</span> [¶]David \[was\] thirty<small><small>[^11]</small></small> years old when he began to reign, \[and\] he reigned forty<small><small>[^12]</small></small> years. <span class="startversemarker">[</span>**[[2Sam.5.5|5]]**<span class="endversemarker">]</span> In Hebron he reigned over Judah seven years<small><small>[^13]</small></small> and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.
 
-***David Conquers Jerusalem***&emsp;<small><sup>\[ [[1Chr.11|1 Chronicles 11:4–9]] ]</sup></small> ^bsb739
+<big><big>[[2Sam.5.6 David Conquers Jerusalem|⥃]]</big></big>***David Conquers Jerusalem***&emsp;<small><sup>\[ [[1Chr.11|1 Chronicles 11:4–9]] ]</sup></small>
 
  
 
@@ -14,13 +14,13 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.5.6|6]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.5.11|11]]**<span class="endversemarker">]</span> And Hiram<small><small>[^28]</small></small> king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons<small><small>[^29]</small></small>: and they built<small><small>[^30]</small></small> David an house.
 
-***David’s Family Grows***&emsp;<small><sup>\[ [[1Chr.14|1 Chronicles 14:1–7]] ]</sup></small> ^bsb740
+<big><big>[[2Sam.5.12 David’s Family Grows|⥃]]</big></big>***David’s Family Grows***&emsp;<small><sup>\[ [[1Chr.14|1 Chronicles 14:1–7]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[2Sam.5.12|12]]**<span class="endversemarker">]</span> And David<small><small>[^31]</small></small> perceived that the <span class="smallcaps">Lord</span> had established him king over Israel, and that he had exalted his kingdom for his people<small><small>[^32]</small></small> Israel’s sake. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.5.13|13]]**<span class="endversemarker">]</span> [¶]And David took \[him\] more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David.<small><small>[^33]</small></small> <span class="startversemarker">[</span>**[[2Sam.5.14|14]]**<span class="endversemarker">]</span> And these \[be\] the names<small><small>[^34]</small></small> of those that were born unto him in Jerusalem; Shammua<small><small>[^35]</small></small>, and Shobab, and Nathan<small><small>[^36]</small></small>, and Solomon<small><small>[^37]</small></small>, <span class="startversemarker">[</span>**[[2Sam.5.15|15]]**<span class="endversemarker">]</span> Ibhar also, and Elishua<small><small>[^38]</small></small>, and Nepheg, and Japhia, <span class="startversemarker">[</span>**[[2Sam.5.16|16]]**<span class="endversemarker">]</span> And Elishama, and Eliada<small><small>[^39]</small></small>, and Eliphalet<small><small>[^40]</small></small>.
 
-***Two Victories over the Philistines***&emsp;<small><sup>\[ [[1Chr.14|1 Chronicles 14:8–17]] ]</sup></small> ^bsb741
+<big><big>[[2Sam.5.17 Two Victories over the Philistines|⥃]]</big></big>***Two Victories over the Philistines***&emsp;<small><sup>\[ [[1Chr.14|1 Chronicles 14:8–17]] ]</sup></small>
 
  
 

@@ -1,4 +1,4 @@
-**Exodus 5:16** 
+**Exodus 5:16**<big><big>[[Exod.5.15 The Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants [are] beaten; but the fault [is] in thine own people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No straw has been given to your servants, yet we are told, ‘Make bricks!’ Lo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.15|<< Exodus 5:15]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.17|Exodus 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | straw  |**<big>&#8207;[[H8401\|תֶּ֗בֶן]]&#8207; </big>**| Te.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H0369\|אֵ֤ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

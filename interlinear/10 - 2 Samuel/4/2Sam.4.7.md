@@ -1,4 +1,4 @@
-**2 Samuel 4:7** 
+**2 Samuel 4:7**<big><big>[[2Sam.4.1 The Murder of Ish-bosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They had entered the house while Ish-bosheth was lying on his bed, and having st
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.6|<< 2 Samuel 4:6]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.8|2 Samuel 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בַּ֗יִת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

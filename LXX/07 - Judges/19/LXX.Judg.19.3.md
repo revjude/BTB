@@ -1,10 +1,7 @@
 **LXX Judges 19:3** 
 <small><sub>**LXX:**</sub></small>
 And her husband rose up and went after her,  to speak unto  her heart,  to reconcile her; and  his servant \[was\] with him, and a pair of beasts of burden. And he went unto \[the\] house of her father. And the father of the young woman beheld him, and \[was\] at hand for meeting him. 
-<small><sub>**KJV:**</sub></small>
-And her husband arose, and went after her, to speak friendly unto her, [and] to bring her again, having his servant with him, and a couple of asses: and she brought him into her father’s house: and when the father of the damsel saw him, he rejoiced to meet him.
-<small><sub>**BSB:**</sub></small>
-her husband got up and went after her to speak kindly to her and bring her back, taking his servant and a pair of donkeys. So the girl brought him into her father’s house, and when her father saw him, he gladly welcomed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.2|<< Judges 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.4|Judges 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

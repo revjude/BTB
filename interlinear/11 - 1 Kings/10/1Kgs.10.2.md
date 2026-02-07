@@ -1,4 +1,4 @@
-**1 Kings 10:2** 
+**1 Kings 10:2**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She arrived in Jerusalem with a very large caravan—with camels bearing spices,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.1|<< 1 Kings 10:1]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.3|1 Kings 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּבֹ֣א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerusalem towards  |**<big>&#8207;[[H3389\|יְרוּשָׁלְַ֗מָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ye.ru.sha.Le.ma<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

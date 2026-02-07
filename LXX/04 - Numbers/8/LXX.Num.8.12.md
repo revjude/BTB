@@ -1,10 +1,7 @@
 **LXX Numbers 8:12** 
 <small><sub>**LXX:**</sub></small>
 And the Levites shall place the hands upon the heads of the calves. And you shall offer the one for a sin \[offering\], and the one for a whole burnt-offering \[to the\] <span class="smallcaps">lord</span> to atone for them. 
-<small><sub>**KJV:**</sub></small>
-And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one [for] a sin offering, and the other [for] a burnt offering, unto the LORD, to make an atonement for the Levites.
-<small><sub>**BSB:**</sub></small>
-And the Levites are to lay their hands on the heads of the bulls, and offer to the LORD one as a sin offering and the other as a burnt offering, to make atonement for the Levites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.11|<< Numbers 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.13|Numbers 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

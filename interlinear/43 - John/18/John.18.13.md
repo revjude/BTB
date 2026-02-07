@@ -1,12 +1,12 @@
-**John 18:13
-**<small><sub>**KJV:**</sub></small>
+**John 18:13**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.
 <small><sub>**BSB:**</sub></small>
 They brought Him first to Annas, who was the father-in-law of Caiaphas, the high priest that year.
 <small><sub>**Literal:**</sub></small>
 and they brought away him to Annas first; he was for father-in-law <the> of Caiaphas who was high priest on the year same.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.12|<< John 18:12]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.14|John 18:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they brought away [^1] |**<big>[[G0071\|ἤγαγον]]</big>**  |ēgagon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

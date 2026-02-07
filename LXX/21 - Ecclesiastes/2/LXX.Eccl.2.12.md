@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:12** 
 <small><sub>**LXX:**</sub></small>
 And I looked around  to behold wisdom and deviation and folly; for who \[is the\] man who will come after  counsel, with  as much as they did it? 
-<small><sub>**KJV:**</sub></small>
-And I turned myself to behold wisdom, and madness, and folly: for what [can] the man [do] that cometh after the king? [even] that which hath been already done.
-<small><sub>**BSB:**</sub></small>
-Then I turned to consider wisdom and madness and folly; for what more can the king’s successor do than what has already been accomplished?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.11|<< Ecclesiastes 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.13|Ecclesiastes 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

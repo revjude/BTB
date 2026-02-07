@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:25** 
 <small><sub>**LXX:**</sub></small>
 And Amaziah the \[son of\] Joash king of Judah lived after the dying of Joash the \[son of\] Jehoahaz king of Israel for fifteen years. 
-<small><sub>**KJV:**</sub></small>
-And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years.
-<small><sub>**BSB:**</sub></small>
-Amaziah son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.24|<< 2 Chronicles 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.26|2 Chronicles 25:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 49:9** 
+**Genesis 49:9**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judah [is] a lion’s whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Judah is a young lion—my son, you return from the prey. Like a lion he crouche
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.8|<< Genesis 49:8]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.10|Genesis 49:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a cub of  |**<big>&#8207;[[H1482\|גּ֤וּר]]&#8207; </big>**| gur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a lion  |**<big>&#8207;[[H0738B\|אַרְיֵה֙]]&#8207; </big>**| 'ar.Yeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

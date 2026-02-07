@@ -1,4 +1,4 @@
-**Ezekiel 34:23** 
+**Ezekiel 34:23**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set up one shepherd over them, and he shall feed them, [even] my servant David; he shall feed them, and he shall be their shepherd.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will appoint over them one shepherd, My servant David, and he will feed them. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.22|<< Ezekiel 34:22]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.24|Ezekiel 34:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will raise up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|הֲקִמֹתִ֨י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ki.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

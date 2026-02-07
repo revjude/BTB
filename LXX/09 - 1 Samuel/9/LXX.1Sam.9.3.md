@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:3** 
 <small><sub>**LXX:**</sub></small>
 And the donkeys of Kish the father were lost of Saul. And Kish said to Saul  his son, Take with yourself one of the servant-lads, and rise up and go and seek the donkeys! 
-<small><sub>**KJV:**</sub></small>
-And the asses of Kish Saul’s father were lost. And Kish said to Saul his son, Take now one of the servants with thee, and arise, go seek the asses.
-<small><sub>**BSB:**</sub></small>
-One day the donkeys of Saul’s father Kish wandered off, and Kish said to his son Saul, “Take one of the servants and go look for the donkeys.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.2|<< 1 Samuel 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.4|1 Samuel 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

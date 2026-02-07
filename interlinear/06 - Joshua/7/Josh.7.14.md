@@ -1,4 +1,4 @@
-**Joshua 7:14** 
+**Joshua 7:14**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the morning therefore ye shall be brought according to your tribes: and it shall be, [that] the tribe which the LORD taketh shall come according to the families [thereof]; and the family which the LORD shall take shall come by households; and the household which the LORD shall take shall come man by man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the morning you must present yourselves tribe by tribe. The tribe that the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.13|<< Joshua 7:13]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.15|Joshua 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will bring yourselves near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126H\|נִקְרַבְתֶּ֥ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nik.rav.Tem<small><sup>[[HVNq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the morning  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1242\|בֹּ֖קֶר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

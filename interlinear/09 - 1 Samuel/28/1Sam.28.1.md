@@ -1,4 +1,4 @@
-**1 Samuel 28:1** 
+**1 Samuel 28:1**<big><big>[[1Sam.28.1 The Philistines Gather against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now in those days the Philistines gathered their forces for warfare against Isra
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.12|<< 1 Samuel 27:12]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.2|1 Samuel 28:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the days  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יָּמִ֣ים]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

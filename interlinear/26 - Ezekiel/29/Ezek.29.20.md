@@ -1,4 +1,4 @@
-**Ezekiel 29:20** 
+**Ezekiel 29:20**<big><big>[[Ezek.29.17 Egypt the Reward of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have given him the land of Egypt [for] his labour wherewith he served against it, because they wrought for me, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have given him the land of Egypt as the reward for his labor, because it was d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.19|<< Ezekiel 29:19]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.21|Ezekiel 29:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | recompense his  |**<big>&#8207;[[H6468\|פְּעֻלָּת]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| pe.'u.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

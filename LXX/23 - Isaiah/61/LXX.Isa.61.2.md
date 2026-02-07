@@ -1,10 +1,7 @@
 **LXX Isaiah 61:2** 
 <small><sub>**LXX:**</sub></small>
 to call \[the\] acceptable year \[of the\] <span class="smallcaps">lord</span>, and day of recompense; to comfort all the ones mourning; 
-<small><sub>**KJV:**</sub></small>
-To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn;
-<small><sub>**BSB:**</sub></small>
-to proclaim the year of the LORD’s favor and the day of our God’s vengeance, to comfort all who mourn,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.61.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.1|<< Isaiah 61:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.3|Isaiah 61:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 61:2** is...

@@ -1,4 +1,4 @@
-**Ezekiel 16:8** 
+**Ezekiel 16:8**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when I passed by thee, and looked upon thee, behold, thy time [was] the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord GOD, and thou becamest mine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I passed by and saw you, and you were indeed old enough for love. So I spre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.7|<< Ezekiel 16:7]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.9|Ezekiel 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I passed by  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5674A\|אֶעֱבֹ֨ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.'e.Vor<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at you  |**<big>&#8207;[[H5921A\|עָלַ֜יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

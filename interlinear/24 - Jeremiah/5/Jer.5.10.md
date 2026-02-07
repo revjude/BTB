@@ -1,4 +1,4 @@
-**Jeremiah 5:10** 
+**Jeremiah 5:10**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go ye up upon her walls, and destroy; but make not a full end: take away her battlements; for they [are] not the LORD’S.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go up through her vineyards and ravage them, but do not finish them off. Strip o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.9|<< Jeremiah 5:9]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.11|Jeremiah 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go up  |**<big>&#8207;[[H5927G\|עֲל֤וּ]]&#8207; </big>**| 'a.Lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among vine rows its  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H8284\|שָׁרוֹתֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> sha.ro.Tei.<small><sup>[[HNcfpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

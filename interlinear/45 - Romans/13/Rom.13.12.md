@@ -1,12 +1,12 @@
-**Romans 13:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:12**<big><big>[[Rom.13.11 The Day Is Near|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.
 <small><sub>**BSB:**</sub></small>
 The night is nearly over; the day has drawn near. So let us lay aside the deeds of darkness and put on the armor of light.
 <small><sub>**Literal:**</sub></small>
 The night is nearly over <the> and the day has drawn near. We may cast off therefore the works <the> of darkness, and we may put on now the armor <the> of light.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.11|<< Romans 13:11]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.13|Romans 13:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | night |**<big>[[G3571\|νὺξ]]</big>**  |nux <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

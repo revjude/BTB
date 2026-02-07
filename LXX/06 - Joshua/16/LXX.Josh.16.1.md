@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the borders of \[the\] sons of Joseph were from the Jordan by Jericho from \[the\] east  wilderness; and it shall ascend from Jericho unto the mountainous area into Beth-el. 
-<small><sub>**KJV:**</sub></small>
-And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel,
-<small><sub>**BSB:**</sub></small>
-The allotment for the descendants of Joseph extended from the Jordan at Jericho to the waters of Jericho on the east, through the wilderness that goes up from Jericho into the hill country of Bethel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.63|<< Joshua 15:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.2|Joshua 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

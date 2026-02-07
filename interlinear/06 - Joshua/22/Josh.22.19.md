@@ -1,4 +1,4 @@
-**Joshua 22:19** 
+**Joshua 22:19**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding, if the land of your possession [be] unclean, [then] pass ye over unto the land of the possession of the LORD, wherein the LORD’S tabernacle dwelleth, and take possession among us: but rebel not against the LORD, nor rebel against us, in building you an altar beside the altar of the LORD our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If indeed the land of your inheritance is unclean, then cross over to the land o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.18|<< Joshua 22:18]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.20|Joshua 22:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and surely  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0389\|אַ֨ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

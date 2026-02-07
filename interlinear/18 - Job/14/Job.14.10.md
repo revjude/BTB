@@ -1,4 +1,4 @@
-**Job 14:10** 
+**Job 14:10**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But man dieth, and wasteth away: yea, man giveth up the ghost, and where [is] he?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But a man dies and is laid low; he breathes his last, and where is he?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.9|<< Job 14:9]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.11|Job 14:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a man  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1397\|גֶ֣בֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he dies  |**<big>&#8207;[[H4191\|יָ֭מוּת]]&#8207; </big>**| Ya.mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

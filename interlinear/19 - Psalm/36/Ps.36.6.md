@@ -1,4 +1,4 @@
-**Psalms 36:6** (36:7)
+**Psalms 36:6**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy righteousness [is] like the great mountains; thy judgments [are] a great deep: O LORD, thou preservest man and beast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your righteousness is like the highest mountains; Your judgments are like the de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.5|<< Psalms 36:5]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.7|Psalms 36:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | righteousness your  |**<big>&#8207;[[H6666\|צִדְקָֽתְ]]&#8207;&#8207;[[H9021\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| tzid.ka.te.<small><sup>[[HNcfsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like [the] mountains of  |**<big>&#8207;[[H9004\|כְּֽ]]&#8207;&#8207;[[H2042\|הַרְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ha.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

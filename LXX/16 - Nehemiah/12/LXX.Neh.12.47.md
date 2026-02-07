@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:47** 
 <small><sub>**LXX:**</sub></small>
 And all Israel in \[the\] days of Zerubbabel, and in the days of Nehemiah, \[were\] giving portions of the singers and of the gatekeepers -- an account of it day by day. And they sanctified \[them\] to the Levites; and the Levites sanctified \[them\] to the sons of Aaron. 
-<small><sub>**KJV:**</sub></small>
-And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified [holy things] unto the Levites; and the Levites sanctified [them] unto the children of Aaron.
-<small><sub>**BSB:**</sub></small>
-So in the days of Zerubbabel and Nehemiah, all Israel contributed the daily portions for the singers and gatekeepers. They also set aside daily portions for the Levites, and the Levites set aside daily portions for the descendants of Aaron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.46|<< Nehemiah 12:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.1|Nehemiah 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

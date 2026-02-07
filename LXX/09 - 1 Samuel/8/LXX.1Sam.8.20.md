@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:20** 
 <small><sub>**LXX:**</sub></small>
 And we also will be as all the nations. And our king shall adjudicate for us, and he shall go forth in front of us, and he will wage  our war. 
-<small><sub>**KJV:**</sub></small>
-That we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles.
-<small><sub>**BSB:**</sub></small>
-Then we will be like all the other nations, with a king to judge us, to go out before us, and to fight our battles.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.19|<< 1 Samuel 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.21|1 Samuel 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

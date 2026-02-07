@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:9** 
 <small><sub>**LXX:**</sub></small>
 And David stayed in the citadel, and this was called the city of David. And David built the city round about from the Akra, and  his house. 
-<small><sub>**KJV:**</sub></small>
-So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward.
-<small><sub>**BSB:**</sub></small>
-So David took up residence in the fortress and called it the City of David. He built it up all the way around, from the supporting terraces inward.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.8|<< 2 Samuel 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.10|2 Samuel 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

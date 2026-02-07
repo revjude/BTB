@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:27** 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam the king made shields of brass instead of them, and the leaders of the bodyguards were set in place by him, the ones guarding the vestibule of \[the\] house of the king. 
-<small><sub>**KJV:**</sub></small>
-And king Rehoboam made in their stead brasen shields, and committed [them] unto the hands of the chief of the guard, which kept the door of the king’s house.
-<small><sub>**BSB:**</sub></small>
-Then King Rehoboam made bronze shields in their place and committed them to the care of the captains of the guard on duty at the entrance to the royal palace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.26|<< 1 Kings 14:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.28|1 Kings 14:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:18** 
 <small><sub>**LXX:**</sub></small>
 And Syria fled from \[the\] face of Israel. And David killed of the one from Syria -- seven hundred chariots, and forty thousand horsemen. And  Shobach his commander-in-chief he struck, and he died there. 
-<small><sub>**KJV:**</sub></small>
-And the Syrians fled before Israel; and David slew [the men of] seven hundred chariots of the Syrians, and forty thousand horsemen, and smote Shobach the captain of their host, who died there.
-<small><sub>**BSB:**</sub></small>
-But the Arameans fled before Israel, and David killed seven hundred charioteers and forty thousand foot soldiers. He also struck down Shobach the commander of their army, who died there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.17|<< 2 Samuel 10:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.19|2 Samuel 10:19 >>]]</td></tr></table>
 
 | Translation | Greek |

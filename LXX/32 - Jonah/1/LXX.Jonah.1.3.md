@@ -1,10 +1,7 @@
 **LXX Jonah 1:3** 
 <small><sub>**LXX:**</sub></small>
 And Jonah rose up  to flee into Tarshish from \[the\] face of \[the\] <span class="smallcaps">lord</span>. And he went down into Joppa. And he found a boat proceeding to Tarshish, and he gave  his fare, and ascended into it  to sail with them unto Tarshish from \[the\] face of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.
-<small><sub>**BSB:**</sub></small>
-Jonah, however, got up to flee to Tarshish, away from the presence of the LORD. He went down to Joppa and found a ship bound for Tarshish. So he paid the fare and went aboard to sail for Tarshish, away from the presence of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.2|<< Jonah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.4|Jonah 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

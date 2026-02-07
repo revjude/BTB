@@ -1,4 +1,4 @@
-**Lamentations 5:16** 
+**Lamentations 5:16**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The crown is fallen [from] our head: woe unto us, that we have sinned!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The crown has fallen from our head. Woe to us, for we have sinned!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.15|<< Lamentations 5:15]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.17|Lamentations 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has fallen  |**<big>&#8207;[[H5307G\|נָֽפְלָה֙]]&#8207; </big>**| na.fe.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] crown of  |**<big>&#8207;[[H5850\|עֲטֶ֣רֶת]]&#8207; </big>**| 'a.Te.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

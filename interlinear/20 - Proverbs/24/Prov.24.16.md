@@ -1,4 +1,4 @@
-**Proverbs 24:16** 
+**Proverbs 24:16**<big><big>[[Prov.24.15 Saying 27|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a just [man] falleth seven times, and riseth up again: but the wicked shall fall into mischief.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For though a righteous man may fall seven times, he still gets up; but the wicke
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.15|<< Proverbs 24:15]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.17|Proverbs 24:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven [times]  |**<big>&#8207;[[H7651\|שֶׁ֨בַע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

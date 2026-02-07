@@ -1,12 +1,12 @@
-**Matthew 7:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:9**<big><big>[[Matt.7.7 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or what man is there of you, whom if his son ask bread, will he give him a stone?
 <small><sub>**BSB:**</sub></small>
 Which of you, if his son asks for bread, will give him a stone?
 <small><sub>**Literal:**</sub></small>
 Or which is of you a man whom if he will ask for the son of him bread, surely not a stone will he give to him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.8|<< Matthew 7:8]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.10|Matthew 7:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|Ἢ]]</big>**  |Ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Luke 4:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:27**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many lepers were in Israel in the time of Eliseus the prophet; and none of them was cleansed, saving Naaman the Syrian.
 <small><sub>**BSB:**</sub></small>
 And there were many lepers in Israel in the time of Elisha the prophet. Yet not one of them was cleansed—only Naaman the Syrian.”
@@ -10,7 +10,7 @@ And many lepers were in <the> Israel in the time of Elisha the prophet; and none
 > $\quad$ alluding to: [[LXX.2Kgs.5.14|2Kgs 5:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

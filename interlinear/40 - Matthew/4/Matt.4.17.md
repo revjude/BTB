@@ -1,12 +1,12 @@
-**Matthew 4:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:17**<big><big>[[Matt.4.12 Jesus Begins His Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
 <small><sub>**BSB:**</sub></small>
 From that time on Jesus began to preach, “Repent, for the kingdom of heaven is near.”
 <small><sub>**Literal:**</sub></small>
 From that time began <the> Jesus to proclaim and to say; do repent; has drawn near for the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.16|<< Matthew 4:16]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.18|Matthew 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|Ἀπὸ]]</big>**  |Apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that time |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Samuel 15:8** 
+**2 Samuel 15:8**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy servant vowed a vow while I abode at Geshur in Syria, saying, If the LORD shall bring me again indeed to Jerusalem, then I will serve the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For your servant made a vow while dwelling in Geshur of Aram, saying: ‘If inde
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.7|<< 2 Samuel 15:7]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.9|2 Samuel 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a vow  |**<big>&#8207;[[H5088\|נֵ֙דֶר֙]]&#8207; </big>**| ne.der<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

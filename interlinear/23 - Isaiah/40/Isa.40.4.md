@@ -1,4 +1,4 @@
-**Isaiah 40:4** 
+**Isaiah 40:4**<big><big>[[Isa.40.1 Prepare the Way for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Every valley shall be lifted up, and every mountain and hill made low; the uneve
 > $\quad$ referenced by: [[Luke.3.4|Luke 3:4-6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | valley  |**<big>&#8207;[[H1516R\|גֶּיא֙]]&#8207; </big>**| gei'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

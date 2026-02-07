@@ -1,4 +1,4 @@
-**Job 28:23** 
+**Job 28:23**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God understandeth the way thereof, and he knoweth the place thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But God understands its way, and He knows its place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.22|<< Job 28:22]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.24|Job 28:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he understands  |**<big>&#8207;[[H0995\|הֵבִ֣ין]]&#8207; </big>**| he.Vin<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

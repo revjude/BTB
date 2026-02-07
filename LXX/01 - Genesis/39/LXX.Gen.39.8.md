@@ -1,10 +1,7 @@
 **LXX Genesis 39:8** 
 <small><sub>**LXX:**</sub></small>
 But he \[was\] not willing. And he said to the wife  of his master, If  my master \[does\] not know on account of me one thing in  his house, and all as much as is his he gave into  my hands, 
-<small><sub>**KJV:**</sub></small>
-But he refused, and said unto his master’s wife, Behold, my master wotteth not what [is] with me in the house, and he hath committed all that he hath to my hand;
-<small><sub>**BSB:**</sub></small>
-But he refused. “Look,” he said to his master’s wife, “with me here, my master does not concern himself with anything in his house, and he has entrusted everything he owns to my care.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.7|<< Genesis 39:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.9|Genesis 39:9 >>]]</td></tr></table>
 
 | Translation | Greek |

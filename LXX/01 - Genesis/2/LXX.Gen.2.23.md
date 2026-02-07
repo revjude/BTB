@@ -1,10 +1,7 @@
 **LXX Genesis 2:23** 
 <small><sub>**LXX:**</sub></small>
 And Adam said, This now \[is\] bone from  my bones, and flesh from  my flesh; she shall be called woman, for from the man she was taken. 
-<small><sub>**KJV:**</sub></small>
-And Adam said, This [is] now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
-<small><sub>**BSB:**</sub></small>
-And the man said: “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for out of man she was taken.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.22|<< Genesis 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.24|Genesis 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

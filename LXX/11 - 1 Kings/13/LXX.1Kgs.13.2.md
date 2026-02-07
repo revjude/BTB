@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:2** 
 <small><sub>**LXX:**</sub></small>
 And he called upon the altar with \[the\] word of \[the\] <span class="smallcaps">lord</span>, and said, O altar, O altar, thus says \[the\] <span class="smallcaps">lord</span>, Behold, a son is born to the house of David, Josiah \[is\] his name, and he shall sacrifice upon you the priests of the high \[places\], the ones sacrificing upon you, and bones of men he shall burn upon you. 
-<small><sub>**KJV:**</sub></small>
-And he cried against the altar in the word of the LORD, and said, O altar, altar, thus saith the LORD; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men’s bones shall be burnt upon thee.
-<small><sub>**BSB:**</sub></small>
-And he cried out against the altar by the word of the LORD, “O altar, O altar, this is what the LORD says: ‘A son named Josiah will be born to the house of David, and upon you he will sacrifice the priests of the high places who burn incense upon you, and human bones will be burned upon you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.1|<< 1 Kings 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.3|1 Kings 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

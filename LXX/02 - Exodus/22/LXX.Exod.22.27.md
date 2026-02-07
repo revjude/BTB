@@ -1,10 +1,7 @@
 **LXX Exodus 22:27** 
 <small><sub>**LXX:**</sub></small>
 for this is his wrap-around garment, this alone \[is\]  his cloak for indecency; in what manner shall he go to bed? If then he should yell out to me, I will listen to him, for I am merciful. 
-<small><sub>**KJV:**</sub></small>
-For that [is] his covering only, it [is] his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I [am] gracious.
-<small><sub>**BSB:**</sub></small>
-because his cloak is the only covering he has for his body. What else will he sleep in? And if he cries out to Me, I will hear, for I am compassionate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.26|<< Exodus 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.28|Exodus 22:28 >>]]</td></tr></table>
 
 | Translation | Greek |

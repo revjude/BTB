@@ -1,4 +1,4 @@
-**Ezekiel 23:3** 
+**Ezekiel 23:3**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they committed whoredoms in Egypt; they committed whoredoms in their youth: there were their breasts pressed, and there they bruised the teats of their virginity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and they played in Egypt, prostituting themselves from their youth. Their breast
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.2|<< Ezekiel 23:2]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.4|Ezekiel 23:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they acted as prostitutes  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2181\|תִּזְנֶ֣ינָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiz.Nei.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Egypt  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4714G\|מִצְרַ֔יִם]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

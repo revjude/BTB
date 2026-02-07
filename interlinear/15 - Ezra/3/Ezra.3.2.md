@@ -1,4 +1,4 @@
-**Ezra 3:2** 
+**Ezra 3:2**<big><big>[[Ezra.3.1 Sacrifices Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as [it is] written in the law of Moses the man of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jeshua son of Jozadak and his fellow priests, along with Zerubbabel son of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.1|<< Ezra 3:1]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.3|Ezra 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקָם֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Kam<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeshua  |**<big>&#8207;[[H3442P\|יֵשׁ֨וּעַ]]&#8207; </big>**| ye.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

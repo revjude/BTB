@@ -1,12 +1,12 @@
-**Luke 11:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:7**<big><big>[[Luke.11.5 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he from within shall answer and say, Trouble me not: the door is now shut, and my children are with me in bed; I cannot rise and give thee.
 <small><sub>**BSB:**</sub></small>
 And suppose the one inside answers, ‘Do not bother me. My door is already shut, and my children and I are in bed. I cannot get up to give you anything.’
 <small><sub>**Literal:**</sub></small>
 And he from within answering may say; Not me trouble do cause. already the door has been shut, and the children of mine with me in the bed are; not I am able having risen up to give to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.6|<< Luke 11:6]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.8|Luke 11:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And he |**<big>[[G2532\|κἀκεῖνος]]</big>**  |kakeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from within |**<big>[[G2081\|ἔσωθεν]]</big>**  |esōthen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

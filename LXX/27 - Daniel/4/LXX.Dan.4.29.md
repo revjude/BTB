@@ -1,10 +1,7 @@
 **LXX Daniel 4:29** 
 <small><sub>**LXX:**</sub></small>
 After twelve months, upon the temple  of his kingdom in Babylon \[while\] walking, 
-<small><sub>**KJV:**</sub></small>
-At the end of twelve months he walked in the palace of the kingdom of Babylon.
-<small><sub>**BSB:**</sub></small>
-Twelve months later, as he was walking on the roof of the royal palace of Babylon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.28|<< Daniel 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.30|Daniel 4:30 >>]]</td></tr></table>
 
 | Translation | Greek |

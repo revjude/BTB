@@ -1,12 +1,12 @@
-**Matthew 21:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:30**<big><big>[[Matt.21.28 The Parable of the Two Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he came to the second, and said likewise. And he answered and said, I [go], sir: and went not.
 <small><sub>**BSB:**</sub></small>
 Then the man went to the second son and told him the same thing. ‘I will, sir,’ he said. But he did not go.
 <small><sub>**Literal:**</sub></small>
 and Having come then to the other he said likewise. <the> And answering he said; I myself [will] sir; and not did he go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.29|<< Matthew 21:29]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.31|Matthew 21:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Having come |**<big>[[G4334\|προσελθὼν]]</big>**  |proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΘΑΥ</p>
 
 Your lawlessness is vanished, O daughter of Zion. He shall not proceed unto the resettling you. He visited your lawlessness, O daughter of Edom; he revealed concerning  your acts of impiety. 
-<small><sub>**KJV:**</sub></small>
-The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.
-<small><sub>**BSB:**</sub></small>
-O Daughter of Zion, your punishment is complete; He will not prolong your exile. But He will punish your iniquity, O Daughter of Edom; He will expose your sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.21|<< Lamentations 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.1|Lamentations 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

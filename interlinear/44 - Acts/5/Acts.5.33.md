@@ -1,12 +1,12 @@
-**Acts 5:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:33**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When they heard [that], they were cut [to the heart], and took counsel to slay them.
 <small><sub>**BSB:**</sub></small>
 When the Council members heard this, they were enraged, and they resolved to put the apostles to death.
 <small><sub>**Literal:**</sub></small>
 <the> And having heard they felt cut up and they were desiring to execute them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.32|<< Acts 5:32]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.34|Acts 5:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

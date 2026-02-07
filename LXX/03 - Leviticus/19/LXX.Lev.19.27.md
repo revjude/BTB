@@ -1,10 +1,7 @@
 **LXX Leviticus 19:27** 
 <small><sub>**LXX:**</sub></small>
 You shall not make a lock of hair consecrated to an idol from out of the hair  of your head, nor shall you corrupt the appearance  of your beards. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.
-<small><sub>**BSB:**</sub></small>
-You must not cut off the hair at the sides of your head or clip off the edges of your beard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.26|<< Leviticus 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.28|Leviticus 19:28 >>]]</td></tr></table>
 
 | Translation | Greek |

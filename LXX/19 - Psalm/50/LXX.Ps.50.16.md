@@ -1,10 +1,7 @@
 **LXX Psalm 50:16** 
 <small><sub>**LXX:**</sub></small>
 But to the sinner God said, Why do you describe  my ordinances, and take up  my covenant through your mouth? 
-<small><sub>**KJV:**</sub></small>
-But unto the wicked God saith, What hast thou to do to declare my statutes, or [that] thou shouldest take my covenant in thy mouth?
-<small><sub>**BSB:**</sub></small>
-To the wicked, however, God says, “What right have you to recite My statutes and to bear My covenant on your lips?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.15|<< Psalm 50:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.17|Psalm 50:17 >>]]</td></tr></table>
 
 | Translation | Greek |

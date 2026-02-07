@@ -1,4 +1,4 @@
-**1 Kings 6:33** 
+**1 Kings 6:33**<big><big>[[1Kgs.6.31 The Doors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So also made he for the door of the temple posts [of] olive tree, a fourth part [of the wall].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the same way he made four-sided doorposts of olive wood for the sanctuary ent
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.32|<< 1 Kings 6:32]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.34|1 Kings 6:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thus  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3651C\|כֵ֥ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made  |**<big>&#8207;[[H6213H\|עָשָׂ֛ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

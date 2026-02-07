@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:9** 
 <small><sub>**LXX:**</sub></small>
 And Hazael went to meet him, and he took a gift in  his hand of all the good \[things\] of Damascus, a tribute of forty camels. And he came and stood before him, and said,  Your son, \[the\] son of Hadad king of Syria sent me to you, saying, Shall I live from out of  this my illness? 
-<small><sub>**KJV:**</sub></small>
-So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels’ burden, and came and stood before him, and said, Thy son Benhadad king of Syria hath sent me to thee, saying, Shall I recover of this disease?
-<small><sub>**BSB:**</sub></small>
-So Hazael went to meet Elisha, taking with him a gift of forty camel loads of every good thing from Damascus. And he went in and stood before him and said, “Your son Ben-hadad king of Aram has sent me to ask, ‘Will I recover from this illness?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.8|<< 2 Kings 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.10|2 Kings 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

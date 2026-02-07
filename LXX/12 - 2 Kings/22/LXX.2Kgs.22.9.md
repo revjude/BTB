@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:9** 
 <small><sub>**LXX:**</sub></small>
 And Shapan entered \[to\] king Josiah. And he turned to the king for a word, and said, Your servants cast the silver being found in \[the\] house of \[the\] <span class="smallcaps">lord</span>, and they put it in \[the\] hand of the ones doing the works  being ordained in \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Shaphan the scribe came to the king, and brought the king word again, and said, Thy servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-And Shaphan the scribe went to the king and reported, “Your servants have paid out the money that was found in the temple and have put it into the hands of the workers and supervisors of the house of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.8|<< 2 Kings 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.10|2 Kings 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

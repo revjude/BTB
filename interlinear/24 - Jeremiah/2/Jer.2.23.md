@@ -1,4 +1,4 @@
-**Jeremiah 2:23** 
+**Jeremiah 2:23**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: [thou art] a swift dromedary traversing her ways;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How canst thou say, I am not polluted, I have not gone after Baalim? see thy way
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.22|<< Jeremiah 2:22]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.24|Jeremiah 2:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how?  |**<big>&#8207;[[H0349A\|אֵ֣יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you say  |**<big>&#8207;[[H0559\|תֹּאמְרִ֞י]]&#8207; </big>**| tom.Ri<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

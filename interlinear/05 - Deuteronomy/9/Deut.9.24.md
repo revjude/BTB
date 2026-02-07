@@ -1,4 +1,4 @@
-**Deuteronomy 9:24** 
+**Deuteronomy 9:24**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have been rebellious against the LORD from the day that I knew you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have been rebelling against the LORD since the day I came to know you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.23|<< Deuteronomy 9:23]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.25|Deuteronomy 9:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rebelling  |**<big>&#8207;[[H4784\|מַמְרִ֥ים]]&#8207; </big>**| mam.Rim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have been  |**<big>&#8207;[[H1961\|הֱיִיתֶ֖ם]]&#8207; </big>**| he.yi.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

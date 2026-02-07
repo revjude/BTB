@@ -1,12 +1,12 @@
-**Luke 20:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:27**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came to [him] certain of the Sadducees, which deny that there is any resurrection; and they asked him,
 <small><sub>**BSB:**</sub></small>
 Then some of the Sadducees, who say there is no resurrection, came to question Him.
 <small><sub>**Literal:**</sub></small>
 Having approached then some of the Sadducees, the ones denying a resurrection not being, they questioned Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.26|<< Luke 20:26]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.28|Luke 20:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having approached |**<big>[[G4334\|Προσελθόντες]]</big>**  |Proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

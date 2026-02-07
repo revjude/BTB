@@ -1,10 +1,7 @@
 **LXX Genesis 32:12** 
 <small><sub>**LXX:**</sub></small>
 But you, you said, I will do you good, and I will establish  your seed as the sand of the sea, which shall not be counted by the multitude. 
-<small><sub>**KJV:**</sub></small>
-And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.
-<small><sub>**BSB:**</sub></small>
-But You have said, ‘I will surely make you prosper, and I will make your offspring like the sand of the sea, too numerous to count.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.11|<< Genesis 32:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.13|Genesis 32:13 >>]]</td></tr></table>
 
 | Translation | Greek |

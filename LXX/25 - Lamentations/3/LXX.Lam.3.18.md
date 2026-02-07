@@ -1,10 +1,7 @@
 **LXX Lamentations 3:18** 
 <small><sub>**LXX:**</sub></small>
 And I said, My victory perished, and  my hope from \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I said, My strength and my hope is perished from the LORD:
-<small><sub>**BSB:**</sub></small>
-So I say, “My strength has perished, along with my hope from the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.17|<< Lamentations 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.19|Lamentations 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

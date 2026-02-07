@@ -1,10 +1,7 @@
 **LXX Exodus 16:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Behold, I rain upon you bread loaves from out of the heaven; and the people shall come forth, and they shall collect together the \[bread\]  day to day, that I should test them if they shall go \[by\]  my law or not. 
-<small><sub>**KJV:**</sub></small>
-Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Behold, I will rain down bread from heaven for you. Each day the people are to go out and gather enough for that day. In this way I will test whether or not they will follow My instructions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.3|<< Exodus 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.5|Exodus 16:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 16:4** is...

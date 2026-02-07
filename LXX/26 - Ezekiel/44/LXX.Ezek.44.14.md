@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:14** 
 <small><sub>**LXX:**</sub></small>
 And I will order them to keep \[the\] watches of the house for all  its works, and for all as much as they should do. 
-<small><sub>**KJV:**</sub></small>
-But I will make them keepers of the charge of the house, for all the service thereof, and for all that shall be done therein.
-<small><sub>**BSB:**</sub></small>
-Yet I will appoint them to keep charge of all the work for the temple and everything to be done in it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.13|<< Ezekiel 44:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.15|Ezekiel 44:15 >>]]</td></tr></table>
 
 | Translation | Greek |

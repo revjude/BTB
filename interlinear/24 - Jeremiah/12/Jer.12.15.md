@@ -1,4 +1,4 @@
-**Jeremiah 12:15** 
+**Jeremiah 12:15**<big><big>[[Jer.12.14 A Message for Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But after I have uprooted them, I will once again have compassion on them and re
 > $\quad$ referenced by: [[Acts.15.16|Acts 15:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַֽחֲרֵי֙]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

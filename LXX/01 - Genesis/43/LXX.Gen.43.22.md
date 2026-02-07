@@ -1,10 +1,7 @@
 **LXX Genesis 43:22** 
 <small><sub>**LXX:**</sub></small>
 and we brought other silver with ourselves to buy foods, we do not know who put the silver in  our bags. 
-<small><sub>**KJV:**</sub></small>
-And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.
-<small><sub>**BSB:**</sub></small>
-We have brought additional silver with us to buy food. We do not know who put our silver in our sacks.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.21|<< Genesis 43:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.23|Genesis 43:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 12:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:28**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you.
 <small><sub>**BSB:**</sub></small>
 But if I drive out demons by the Spirit of God, then the kingdom of God has come upon you.
 <small><sub>**Literal:**</sub></small>
 If however by [the] Spirit of God I myself cast out <the> demons, then has come upon you the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.27|<< Matthew 12:27]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.29|Matthew 12:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

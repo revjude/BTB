@@ -1,10 +1,7 @@
 **LXX Job 42:9** 
 <small><sub>**LXX:**</sub></small>
 And they went -- Eliphaz the Temanite, and Baldad the Shuhite, and Sophar the Minean. And they went as the <span class="smallcaps">lord</span> ordered them, and he dismissed  their sin because of Job. 
-<small><sub>**KJV:**</sub></small>
-So Eliphaz the Temanite and Bildad the Shuhite [and] Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job.
-<small><sub>**BSB:**</sub></small>
-So Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite went and did as the LORD had told them; and the LORD accepted Job’s prayer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.8|<< Job 42:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.10|Job 42:10 >>]]</td></tr></table>
 
 | Translation | Greek |

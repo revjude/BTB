@@ -1,4 +1,4 @@
-**Psalms 17:4** 
+**Psalms 17:4**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning the works of men, by the word of thy lips I have kept [me from] the paths of the destroyer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the deeds of men—by the word of Your lips I have avoided the ways of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.3|<< Psalms 17:3]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.5|Psalms 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [the] deeds of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6468\|פְעֻלּ֣וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.'u.Lot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

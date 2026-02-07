@@ -1,4 +1,4 @@
-**2 Kings 12:10** (12:11)
+**2 Kings 12:10**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], when they saw that [there was] much money in the chest, that the king’s scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whenever they saw that there was a large amount of money in the chest, the royal
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.9|<< 2 Kings 12:9]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.11|2 Kings 12:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when saw they  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7200G\|רְאוֹתָ֔]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> r.'o.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

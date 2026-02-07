@@ -1,12 +1,12 @@
-**John 17:7
-**<small><sub>**KJV:**</sub></small>
+**John 17:7**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now they have known that all things whatsoever thou hast given me are of thee.
 <small><sub>**BSB:**</sub></small>
 Now they know that everything You have given Me comes from You.
 <small><sub>**Literal:**</sub></small>
 Now they have known that all things as much as You have given Me of You are;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.6|<< John 17:6]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.8|John 17:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they have known |**<big>[[G1097\|ἔγνωκαν]]</big>**  |egnōkan <small><sup>[[V-RAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Chronicles 26:5** 
+**2 Chronicles 26:5**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sought God throughout the days of Zechariah, who instructed him in the fear o
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.4|<< 2 Chronicles 26:4]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.6|2 Chronicles 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to seek  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1875\|דְרֹ֣שׁ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> d.Rosh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 16:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:15**<big><big>[[1Cor.16.13 Concluding Exhortations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and [that] they have addicted themselves to the ministry of the saints,)
 <small><sub>**BSB:**</sub></small>
 You know that Stephanas and his household were the first converts in Achaia, and they have devoted themselves to the service of the saints. Now I urge you, brothers,
 <small><sub>**Literal:**</sub></small>
 I exhort now you, brothers; you know the house of Stephanas that it is firstfruit <the> of Achaia and to service to the saints they have devoted themselves;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.14|<< 1 Corinthians 16:14]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.16|1 Corinthians 16:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I exhort |**<big>[[G3870\|Παρακαλῶ]]</big>**  |Parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

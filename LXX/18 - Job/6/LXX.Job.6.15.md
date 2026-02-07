@@ -1,10 +1,7 @@
 **LXX Job 6:15** 
 <small><sub>**LXX:**</sub></small>
 My brothers looked not at me; they went by me as if a rushing stream dissipating or as if a wave. 
-<small><sub>**KJV:**</sub></small>
-My brethren have dealt deceitfully as a brook, [and] as the stream of brooks they pass away;
-<small><sub>**BSB:**</sub></small>
-But my brothers are as faithless as wadis, as seasonal streams that overflow,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.14|<< Job 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.16|Job 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 1:15** 
+**Zechariah 1:15**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I am very sore displeased with the heathen [that are] at ease: for I was but a little displeased, and they helped forward the affliction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but I am fiercely angry with the nations that are at ease. For I was a little an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.14|<< Zechariah 1:14]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.16|Zechariah 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and anger  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7110A\|קֶ֤צֶף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ke.tzef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | great  |**<big>&#8207;[[H1419A\|גָּדוֹל֙]]&#8207; </big>**| ga.dOl<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

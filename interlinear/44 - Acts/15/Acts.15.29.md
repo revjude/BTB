@@ -1,12 +1,12 @@
-**Acts 15:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:29**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well.
 <small><sub>**BSB:**</sub></small>
 You must abstain from food sacrificed to idols, from blood, from the meat of strangled animals, and from sexual immorality. You will do well to avoid these things. Farewell.
 <small><sub>**Literal:**</sub></small>
 to abstain from idol-sacrifices and from blood and from a strangled [one] and from sexual immorality; From these keeping yourselves well you will do. Farewell!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.28|<< Acts 15:28]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.30|Acts 15:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to abstain |**<big>[[G0568\|ἀπέχεσθαι]]</big>**  |apechesthai <small><sup>[[V-PMN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from idol-sacrifices |**<big>[[G1494\|εἰδωλοθύτων]]</big>**  |eidōlothutōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

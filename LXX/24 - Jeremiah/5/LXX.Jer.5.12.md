@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:12** 
 <small><sub>**LXX:**</sub></small>
 They have lied \[to\] their <span class="smallcaps">lord</span>, and they said, These \[things\] are not \[so\]; there shall not come upon us bad \[things\], and \[the\] sword and hunger we will not see. 
-<small><sub>**KJV:**</sub></small>
-They have belied the LORD, and said, [It is] not he; neither shall evil come upon us; neither shall we see sword nor famine:
-<small><sub>**BSB:**</sub></small>
-They have lied about the LORD and said: “He will not do anything; harm will not come to us; we will not see sword or famine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.11|<< Jeremiah 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.13|Jeremiah 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

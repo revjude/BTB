@@ -1,4 +1,4 @@
-**Joshua 24:18** 
+**Joshua 24:18**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD drave out from before us all the people, even the Amorites which dwelt in the land: [therefore] will we also serve the LORD; for he [is] our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD drove out before us all the nations, including the Amorites who liv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.17|<< Joshua 24:17]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.19|Joshua 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he drove out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1644G\|יְגָ֨רֶשׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Ga.resh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

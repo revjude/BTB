@@ -1,4 +1,4 @@
-**Psalms 119:136** 
+**Psalms 119:136**<big><big>[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rivers of waters run down mine eyes, because they keep not thy law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My eyes shed streams of tears because Your law is not obeyed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.136|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.135|<< Psalms 119:135]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.137|Psalms 119:137 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | streams of  |**<big>&#8207;[[H6388\|פַּלְגֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pal.gei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | water  |**<big>&#8207;[[H4325G\|מַ֭יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

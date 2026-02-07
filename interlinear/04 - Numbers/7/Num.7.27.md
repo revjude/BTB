@@ -1,4 +1,4 @@
-**Numbers 7:27** 
+**Numbers 7:27**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One young bullock, one ram, one lamb of the first year, for a burnt offering:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.26|<< Numbers 7:26]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.28|Numbers 7:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a young bull  |**<big>&#8207;[[H6499\|פַּ֣ר]]&#8207; </big>**| par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אֶחָ֞ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

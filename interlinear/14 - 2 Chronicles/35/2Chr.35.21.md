@@ -1,4 +1,4 @@
-**2 Chronicles 35:21** 
+**2 Chronicles 35:21**<big><big>[[2Chr.35.20 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? [I come] not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from [meddling with] God, who [is] with me, that he destroy thee not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Neco sent messengers to him, saying, “What is the issue between you and me
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.20|<< 2 Chronicles 35:20]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.22|2 Chronicles 35:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

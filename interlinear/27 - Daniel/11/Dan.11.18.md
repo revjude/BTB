@@ -1,4 +1,4 @@
-**Daniel 11:18** 
+**Daniel 11:18**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this shall he turn his face unto the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause [it] to turn upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he will turn his face to the coastlands and capture many of them. But a com
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.17|<< Daniel 11:17]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.19|Daniel 11:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will set  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7760H\|יָשֵׂ֧ם]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> ya.sev<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | face his  |**<big>&#8207;[[H6440H\|פָּנָ֛י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

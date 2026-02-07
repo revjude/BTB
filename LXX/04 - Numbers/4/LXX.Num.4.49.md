@@ -1,10 +1,7 @@
 **LXX Numbers 4:49** 
 <small><sub>**LXX:**</sub></small>
 By \[the\] voice of \[the\] <span class="smallcaps">lord</span> he numbered them, by \[the\] hand of Moses; man for man, over  their works, and over what they lifted themselves. And they were numbered in which manner \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-At the LORD’s command through Moses they were numbered, and each one was assigned his work and burden, as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.48|<< Numbers 4:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.1|Numbers 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

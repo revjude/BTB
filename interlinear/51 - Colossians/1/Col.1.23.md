@@ -1,12 +1,12 @@
-**Colossians 1:23
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:23**<big><big>[[Col.1.15 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye continue in the faith grounded and settled, and [be] not moved away from the hope of the gospel, which ye have heard, [and] which was preached to every creature which is under heaven; whereof I Paul am made a minister;
 <small><sub>**BSB:**</sub></small>
 if indeed you continue in your faith, established and firm, not moved from the hope of the gospel you heard, which has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant.
 <small><sub>**Literal:**</sub></small>
 if indeed you continue <the> in the faith established and firm and not being moved away from the hope of the gospel that you have heard, which having been proclaimed in all <the> creation <the> under <the> heaven, of which have become I myself Paul a minister.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.22|<< Colossians 1:22]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.24|Colossians 1:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|Εἴ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL+WH+Treg+TR»1+Byz">NKO</abbr> | |
 | indeed |**<big>[[G1065\|γε]]</big>**  |ge <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

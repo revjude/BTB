@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:20** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said, Who shall deceive  Ahab king of Israel, that he shall ascend in Ramoth Gilead and shall fall there? And this one said thus, and this \[other one\] thus. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner.
-<small><sub>**BSB:**</sub></small>
-And the LORD said, ‘Who will entice Ahab to march up and fall at Ramoth-gilead?’ And one suggested this, and another that.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.19|<< 1 Kings 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.21|1 Kings 22:21 >>]]</td></tr></table>
 
 | Translation | Greek |

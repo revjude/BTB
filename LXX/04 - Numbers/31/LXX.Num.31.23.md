@@ -1,10 +1,7 @@
 **LXX Numbers 31:23** 
 <small><sub>**LXX:**</sub></small>
 every thing which shall go through in fire shall be led through in fire, and shall be clean, but only with the water  of purification shall it be purified. And all as many as should not travel through fire, shall go through water. 
-<small><sub>**KJV:**</sub></small>
-Every thing that may abide the fire, ye shall make [it] go through the fire, and it shall be clean: nevertheless it shall be purified with the water of separation: and all that abideth not the fire ye shall make go through the water.
-<small><sub>**BSB:**</sub></small>
-everything that can withstand the fire—must be put through the fire, and it will be clean. But it must still be purified with the water of purification. And everything that cannot withstand the fire must pass through the water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.22|<< Numbers 31:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.24|Numbers 31:24 >>]]</td></tr></table>
 
 | Translation | Greek |

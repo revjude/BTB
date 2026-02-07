@@ -1,12 +1,12 @@
-**Romans 3:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:2**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Much every way: chiefly, because that unto them were committed the oracles of God.
 <small><sub>**BSB:**</sub></small>
 Much in every way. First of all, they have been entrusted with the very words of God.
 <small><sub>**Literal:**</sub></small>
 Much in every way; Chiefly indeed for for they were entrusted with the oracles <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.1|<< Romans 3:1]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.3|Romans 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Much |**<big>[[G4183\|πολὺ]]</big>**  |polu <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

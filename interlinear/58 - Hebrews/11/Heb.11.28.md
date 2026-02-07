@@ -1,5 +1,5 @@
-**Hebrews 11:28
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:28**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.
 <small><sub>**BSB:**</sub></small>
 By faith he kept the Passover and the sprinkling of blood, so that the destroyer of the firstborn would not touch Israel’s own firstborn.
@@ -10,7 +10,7 @@ By faith he has kept the Passover and the sprinkling of the blood, so that not t
 > $\quad$ alluding to: [[LXX.Exod.12.11|Exod 12:11]] ☩ [[LXX.Exod.12.18|Exod 12:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he has kept |**<big>[[G4160G\|πεποίηκεν]]</big>**  |pepoiēken <small><sup>[[V-RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:4** 
 <small><sub>**LXX:**</sub></small>
 And they shall throw down the walls of Sor; and they shall throw down  your towers; and I will winnow  her dust from her, and I will make her into a smooth rock. 
-<small><sub>**KJV:**</sub></small>
-And they shall destroy the walls of Tyrus, and break down her towers: I will also scrape her dust from her, and make her like the top of a rock.
-<small><sub>**BSB:**</sub></small>
-They will destroy the walls of Tyre and demolish her towers. I will scrape the soil from her and make her a bare rock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.3|<< Ezekiel 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.5|Ezekiel 26:5 >>]]</td></tr></table>
 
 | Translation | Greek |

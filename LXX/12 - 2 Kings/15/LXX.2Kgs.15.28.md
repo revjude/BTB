@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:28** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>. He did not abstain from all \[the\] sins of Jeroboam son of Nebat, who led Israel into sin. 
-<small><sub>**KJV:**</sub></small>
-And he did [that which was] evil in the sight of the LORD: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.
-<small><sub>**BSB:**</sub></small>
-And he did evil in the sight of the LORD and did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.27|<< 2 Kings 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.29|2 Kings 15:29 >>]]</td></tr></table>
 
 | Translation | Greek |

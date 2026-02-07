@@ -1,10 +1,7 @@
 **LXX Leviticus 9:22** 
 <small><sub>**LXX:**</sub></small>
 And Aaron lifting  hands upon the people, he blessed them. And he came down \[after\] offering the \[thing\] for the sin \[offering\], and the \[things\] of whole burnt-offerings, and the \[things\] of the deliverance \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And Aaron lifted up his hand toward the people, and blessed them, and came down from offering of the sin offering, and the burnt offering, and peace offerings.
-<small><sub>**BSB:**</sub></small>
-Aaron lifted up his hands toward the people and blessed them. And having made the sin offering, the burnt offering, and the peace offering, he stepped down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.21|<< Leviticus 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.23|Leviticus 9:23 >>]]</td></tr></table>
 
 | Translation | Greek |

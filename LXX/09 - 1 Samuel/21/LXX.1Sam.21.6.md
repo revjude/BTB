@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:6** 
 <small><sub>**LXX:**</sub></small>
 And Ahimelech the priest gave to him bread \[loaves\] of the place setting, for there was no bread \[loaf\] there, but only bread \[loaves\] of the presence, the \[loaves\] being removed before \[the\] presence of \[the\] <span class="smallcaps">lord</span>, \[so as\] to place near \[the\] hot bread \[loaves\] in which day he took them. 
-<small><sub>**KJV:**</sub></small>
-So the priest gave him hallowed [bread]: for there was no bread there but the shewbread, that was taken from before the LORD, to put hot bread in the day when it was taken away.
-<small><sub>**BSB:**</sub></small>
-So the priest gave him the consecrated bread, since there was no bread there but the Bread of the Presence, which had been removed from before the LORD and replaced with hot bread on the day it was taken away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.5|<< 1 Samuel 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.7|1 Samuel 21:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 21:6** is...

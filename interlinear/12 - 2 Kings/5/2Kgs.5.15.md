@@ -1,4 +1,4 @@
-**2 Kings 5:15** 
+**2 Kings 5:15**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that [there is] no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Naaman and all his attendants went back to the man of God, stood before him
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.14|<< 2 Kings 5:14]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.16|2 Kings 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּשָׁב֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

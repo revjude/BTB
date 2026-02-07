@@ -1,4 +1,4 @@
-**Leviticus 19:13** 
+**Leviticus 19:13**<big><big>[[Lev.19.9 Love Your Neighbor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not defraud thy neighbour, neither rob [him]: the wages of him that is hired shall not abide with thee all night until the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not defraud your neighbor or rob him. You must not withhold until morni
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.12|<< Leviticus 19:12]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.14|Leviticus 19:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will oppress  |**<big>&#8207;[[H6231\|תַעֲשֹׁ֥ק]]&#8207; </big>**| ta.'a.Shok<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

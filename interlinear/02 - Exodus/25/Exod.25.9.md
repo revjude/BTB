@@ -1,4 +1,4 @@
-**Exodus 25:9** 
+**Exodus 25:9**<big><big>[[Exod.25.1 Offerings for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to all that I shew thee, [after] the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must make the tabernacle and design all its furnishings according to the pat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.8|<< Exodus 25:8]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.10|Exodus 25:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to all  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3605\|כֹ֗ל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

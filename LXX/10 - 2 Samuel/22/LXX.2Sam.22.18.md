@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:18** 
 <small><sub>**LXX:**</sub></small>
 He delivered me from \[the\] strength of my enemies, from the ones detesting me; for they were strong above me. 
-<small><sub>**KJV:**</sub></small>
-He delivered me from my strong enemy, [and] from them that hated me: for they were too strong for me.
-<small><sub>**BSB:**</sub></small>
-He rescued me from my powerful enemy, from foes too mighty for me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.17|<< 2 Samuel 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.19|2 Samuel 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

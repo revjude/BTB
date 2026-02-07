@@ -1,4 +1,4 @@
-**Jeremiah 8:9** 
+**Jeremiah 8:9**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wise [men] are ashamed, they are dismayed and taken: lo, they have rejected the word of the LORD; and what wisdom [is] in them?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wise will be put to shame; they will be dismayed and trapped. Since they hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.8|<< Jeremiah 8:8]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.10|Jeremiah 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will be put to shame  |**<big>&#8207;[[H0954\|הֹבִ֣ישׁוּ]]&#8207; </big>**| ho.Vi.shu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִ֔ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

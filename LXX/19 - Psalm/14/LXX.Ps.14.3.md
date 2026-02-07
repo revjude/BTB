@@ -1,10 +1,7 @@
 **LXX Psalm 14:3** 
 <small><sub>**LXX:**</sub></small>
 All turned aside together; they were made useless; there is not one doing that which is good; there is not even one. 
-<small><sub>**KJV:**</sub></small>
-They are all gone aside, they are [all] together become filthy: [there is] none that doeth good, no, not one.
-<small><sub>**BSB:**</sub></small>
-All have turned away, they have together become corrupt; there is no one who does good, not even one.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.2|<< Psalm 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.14.4|Psalm 14:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 14:3** is...

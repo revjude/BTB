@@ -1,12 +1,12 @@
-**Mark 8:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:27**<big><big>[[Mark.8.27 Peter’s Confession of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying unto them, Whom do men say that I am?
 <small><sub>**BSB:**</sub></small>
 Then Jesus and His disciples went on to the villages around Caesarea Philippi. On the way, He questioned His disciples: “Who do people say I am?”
 <small><sub>**Literal:**</sub></small>
 And went forth <the> Jesus and the disciples of Him into the villages of Caesarea <the> Philippi. And on the way He was questioning the disciples of Him saying to them; Whom Me do pronounce <the> men to be?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.26|<< Mark 8:26]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.28|Mark 8:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | went forth |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

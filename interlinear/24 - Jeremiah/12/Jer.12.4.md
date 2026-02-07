@@ -1,4 +1,4 @@
-**Jeremiah 12:4** 
+**Jeremiah 12:4**<big><big>[[Jer.12.1 The Prosperity of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long shall the land mourn, and the herbs of every field wither, for the wickedness of them that dwell therein? the beasts are consumed, and the birds; because they said, He shall not see our last end.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How long will the land mourn and the grass of every field be withered? Because o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.3|<< Jeremiah 12:3]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.5|Jeremiah 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when?  |**<big>&#8207;[[H4970\|מָתַי֙]]&#8207; </big>**| ma.Tai<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

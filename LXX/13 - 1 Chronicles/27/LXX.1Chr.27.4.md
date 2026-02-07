@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:4** 
 <small><sub>**LXX:**</sub></small>
 And over the division of the second month \[was\] Dodai the Ahohite, and  of his division, and Mikloth \[was\] the ruler; and in  his division \[were\] twenty and four thousand. 
-<small><sub>**KJV:**</sub></small>
-And over the course of the second month [was] Dodai an Ahohite, and of his course [was] Mikloth also the ruler: in his course likewise [were] twenty and four thousand.
-<small><sub>**BSB:**</sub></small>
-Dodai the Ahohite was in charge of the division for the second month, and Mikloth was the leader. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.3|<< 1 Chronicles 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.5|1 Chronicles 27:5 >>]]</td></tr></table>
 
 | Translation | Greek |

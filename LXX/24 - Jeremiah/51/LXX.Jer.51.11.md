@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:11** 
 <small><sub>**LXX:**</sub></small>
 Prepare the bows! fill the quivers! \[The\] <span class="smallcaps">lord</span> aroused the spirit of \[the\] king of \[the\] Medes. For his anger \[is\] against Babylon, to utterly destroy her. For it is vengeance from \[the\] <span class="smallcaps">lord</span>; vengeance of his people. 
-<small><sub>**KJV:**</sub></small>
-Make bright the arrows; gather the shields: the LORD hath raised up the spirit of the kings of the Medes: for his device [is] against Babylon, to destroy it; because it [is] the vengeance of the LORD, the vengeance of his temple.
-<small><sub>**BSB:**</sub></small>
-Sharpen the arrows! Fill the quivers! The LORD has aroused the spirit of the kings of the Medes, because His plan is aimed at Babylon to destroy her, for it is the vengeance of the LORD—vengeance for His temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.10|<< Jeremiah 51:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.12|Jeremiah 51:12 >>]]</td></tr></table>
 
 | Translation | Greek |

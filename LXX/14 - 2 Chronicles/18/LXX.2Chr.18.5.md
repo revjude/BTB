@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:5** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel gathered the prophets -- four hundred men. And he said to them, Shall I go to Ramoth Gilead for war, or should I wait? And they said, Ascend! and God shall give \[them\] into the hands of the king. 
-<small><sub>**KJV:**</sub></small>
-Therefore the king of Israel gathered together of prophets four hundred men, and said unto them, Shall we go to Ramothgilead to battle, or shall I forbear? And they said, Go up; for God will deliver [it] into the king’s hand.
-<small><sub>**BSB:**</sub></small>
-So the king of Israel assembled the prophets, four hundred men, and asked them, “Should we go to war against Ramoth-gilead, or should we refrain?” “Go up,” they replied, “and God will deliver it into the hand of the king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.4|<< 2 Chronicles 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.6|2 Chronicles 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

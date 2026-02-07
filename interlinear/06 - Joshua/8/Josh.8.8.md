@@ -1,4 +1,4 @@
-**Joshua 8:8** 
+**Joshua 8:8**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when ye have taken the city, [that] ye shall set the city on fire: according to the commandment of the LORD shall ye do. See, I have commanded you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when you have taken the city, set it on fire. Do as the LORD has commanded! 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.7|<< Joshua 8:7]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.9|Joshua 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֞ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when have captured you  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8610\|תָפְשְׂ]]&#8207;&#8207;[[H9046\|כֶ֣ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ta.fe.se.<small><sup>[[HVqcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

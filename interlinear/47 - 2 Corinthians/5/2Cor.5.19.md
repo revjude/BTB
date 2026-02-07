@@ -1,12 +1,12 @@
-**2 Corinthians 5:19
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:19**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.
 <small><sub>**BSB:**</sub></small>
 that God was reconciling the world to Himself in Christ, not counting men’s trespasses against them. And He has committed to us the message of reconciliation.
 <small><sub>**Literal:**</sub></small>
 how for God was in Christ [the] world reconciling to Himself, not reckoning to them the trespasses of them, and having put into us the word <the> of reconciliation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.18|<< 2 Corinthians 5:18]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.20|2 Corinthians 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 104:26** 
 <small><sub>**LXX:**</sub></small>
 there boats travel over; this dragon whom you shaped to sport \[in\] it. 
-<small><sub>**KJV:**</sub></small>
-There go the ships: [there is] that leviathan, [whom] thou hast made to play therein.
-<small><sub>**BSB:**</sub></small>
-There the ships pass, and Leviathan, which You formed to frolic there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.25|<< Psalm 104:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.27|Psalm 104:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 3:16** 
 <small><sub>**LXX:**</sub></small>
 Or as if a miscarriage going forth from out of a mother's womb, or as infants who beheld not light. 
-<small><sub>**KJV:**</sub></small>
-Or as an hidden untimely birth I had not been; as infants [which] never saw light.
-<small><sub>**BSB:**</sub></small>
-Or why was I not hidden like a stillborn child, like an infant who never sees daylight?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.15|<< Job 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.17|Job 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

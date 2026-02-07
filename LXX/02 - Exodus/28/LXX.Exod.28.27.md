@@ -1,10 +1,7 @@
 **LXX Exodus 28:27** 
 <small><sub>**LXX:**</sub></small>
 And you shall make two rings of gold, and you shall place \[them\] upon both of the shoulders of the shoulder-piece from below it, according to \[the\] front, according to the coupling from above of the woven part of the shoulder-piece. 
-<small><sub>**KJV:**</sub></small>
-And two [other] rings of gold thou shalt make, and shalt put them on the two sides of the ephod underneath, toward the forepart thereof, over against the [other] coupling thereof, above the curious girdle of the ephod.
-<small><sub>**BSB:**</sub></small>
-Make two additional gold rings and attach them to the bottom of the two shoulder pieces of the ephod, on its front, near its seam just above its woven waistband.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.26|<< Exodus 28:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.28|Exodus 28:28 >>]]</td></tr></table>
 
 | Translation | Greek |

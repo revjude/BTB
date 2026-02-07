@@ -1,10 +1,7 @@
 **LXX Psalm 22:5** 
 <small><sub>**LXX:**</sub></small>
 To you they cried out, and they were delivered; upon you they hoped, and they were not disgraced. 
-<small><sub>**KJV:**</sub></small>
-They cried unto thee, and were delivered: they trusted in thee, and were not confounded.
-<small><sub>**BSB:**</sub></small>
-They cried out to You and were set free; they trusted in You and were not disappointed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.4|<< Psalm 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.6|Psalm 22:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:5** is...

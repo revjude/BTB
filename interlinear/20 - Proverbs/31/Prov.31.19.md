@@ -1,4 +1,4 @@
-**Proverbs 31:19** 
+**Proverbs 31:19**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She layeth her hands to the spindle, and her hands hold the distaff.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She stretches out her hands to the distaff and grasps the spindle with her finge
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.18|<< Proverbs 31:18]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.20|Proverbs 31:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hands her  |**<big>&#8207;[[H3027G\|יָ֭דֶי]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| Ya.dei.<small><sup>[[HNcbdc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she stretches out  |**<big>&#8207;[[H7971K\|שִׁלְּחָ֣ה]]&#8207; </big>**| shi.le.Chah<small><sup>[[HVpp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

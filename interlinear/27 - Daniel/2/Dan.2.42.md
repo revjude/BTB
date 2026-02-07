@@ -1,4 +1,4 @@
-**Daniel 2:42** 
+**Daniel 2:42**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as] the toes of the feet [were] part of iron, and part of clay, [so] the kingdom shall be partly strong, and partly broken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as the toes of the feet were partly iron and partly clay, so this kingdom wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.41|<< Daniel 2:41]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.43|Daniel 2:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] toes of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0677\|אֶצְבְּעָת֙]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'etz.be.'At<small><sup>[[ANcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | feet the  |**<big>&#8207;[[H7271\|רַגְלַיָּ֔]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| rag.lai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 22:15** 
+**Ezekiel 22:15**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will scatter thee among the heathen, and disperse thee in the countries, and will consume thy filthiness out of thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will disperse you among the nations and scatter you throughout the lands; I wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.14|<< Ezekiel 22:14]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.16|Ezekiel 22:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will scatter  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6327A\|הֲפִיצוֹתִ֤י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.fi.tzo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אוֹתָ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| 'o.to<small><sup>[[HTo]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

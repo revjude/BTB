@@ -1,12 +1,12 @@
-**1 Thessalonians 4:9
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:9**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.
 <small><sub>**BSB:**</sub></small>
 Now about brotherly love, you do not need anyone to write to you, because you yourselves have been taught by God to love one another.
 <small><sub>**Literal:**</sub></small>
 Concerning now <the> brotherly love no need you have [for me] to write to you; yourselves for you yourselves taught by God are in order <the> to love one another;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.8|<< 1 Thessalonians 4:8]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.10|1 Thessalonians 4:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

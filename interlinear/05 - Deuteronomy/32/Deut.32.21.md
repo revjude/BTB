@@ -1,4 +1,4 @@
-**Deuteronomy 32:21** 
+**Deuteronomy 32:21**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have moved me to jealousy with [that which is] not God; they have provoked me to anger with their vanities: and I will move them to jealousy with [those which are] not a people; I will provoke them to anger with a foolish nation.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They have provoked My jealousy by that which is not God; they have enraged Me wi
 > $\quad$ referenced by: [[Rom.10.19|Rom 10:19]] ☩ [[1Cor.10.22|1Cor 10:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֚ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have made jealous me  |**<big>&#8207;[[H7065\|קִנְא֣וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| kin.'U.<small><sup>[[HVpp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

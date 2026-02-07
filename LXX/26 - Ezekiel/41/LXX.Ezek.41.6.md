@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:6** 
 <small><sub>**LXX:**</sub></small>
 And the sides, side by side -- thirty and of threes; and a space in the wall of the house at the sides round about,  to be for the ones taking hold to see, so as to thoroughly not touch the walls of the house. 
-<small><sub>**KJV:**</sub></small>
-And the side chambers [were] three, one over another, and thirty in order; and they entered into the wall which [was] of the house for the side chambers round about, that they might have hold, but they had not hold in the wall of the house.
-<small><sub>**BSB:**</sub></small>
-The side rooms were arranged one above another in three levels of thirty rooms each. There were ledges all around the wall of the temple to serve as supports for the side rooms, so that the supports would not be fastened into the wall of the temple itself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.5|<< Ezekiel 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.7|Ezekiel 41:7 >>]]</td></tr></table>
 
 | Translation | Greek |

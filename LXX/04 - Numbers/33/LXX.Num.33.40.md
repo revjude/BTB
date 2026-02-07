@@ -1,10 +1,7 @@
 **LXX Numbers 33:40** 
 <small><sub>**LXX:**</sub></small>
 And the Canaanite king Arad heard \[of it\]; and this one dwelt in \[the\] land of Canaan, when the sons of Israel entered. 
-<small><sub>**KJV:**</sub></small>
-And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Now the Canaanite king of Arad, who lived in the Negev in the land of Canaan, heard that the Israelites were coming.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.39|<< Numbers 33:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.41|Numbers 33:41 >>]]</td></tr></table>
 
 | Translation | Greek |

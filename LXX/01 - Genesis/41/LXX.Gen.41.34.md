@@ -1,10 +1,7 @@
 **LXX Genesis 41:34** 
 <small><sub>**LXX:**</sub></small>
 And let Pharaoh make and place toparchs over the land. And let them take a fifth of all the produce of the land of Egypt of the seven years  of prosperity! 
-<small><sub>**KJV:**</sub></small>
-Let Pharaoh do [this], and let him appoint officers over the land, and take up the fifth part of the land of Egypt in the seven plenteous years.
-<small><sub>**BSB:**</sub></small>
-Let Pharaoh take action and appoint commissioners over the land to take a fifth of the harvest of Egypt during the seven years of abundance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.33|<< Genesis 41:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.35|Genesis 41:35 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 17:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses brought forth all the rods from in front of \[the\] <span class="smallcaps">lord</span> to all \[the\] sons of Israel. And they saw, and each took  his rod. 
-<small><sub>**KJV:**</sub></small>
-And Moses brought out all the rods from before the LORD unto all the children of Israel: and they looked, and took every man his rod.
-<small><sub>**BSB:**</sub></small>
-Then Moses brought out all the staffs from the LORD’s presence to all the Israelites. They saw them, and each man took his own staff.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.8|<< Numbers 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.10|Numbers 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

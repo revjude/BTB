@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And spirit took me up, and led me unto the gate of the house of \[the\] <span class="smallcaps">lord</span>, the one over against the one looking according to \[the\] east. And behold, upon the threshold of the gate \[were\] about twenty and five men. And I saw in \[the\] midst of them  Jaazaniah the \[son of\] Azur, and Pelatiah the son of Benaiah, the ones guiding the people. 
-<small><sub>**KJV:**</sub></small>
-Moreover the spirit lifted me up, and brought me unto the east gate of the LORD’S house, which looketh eastward: and behold at the door of the gate five and twenty men; among whom I saw Jaazaniah the son of Azur, and Pelatiah the son of Benaiah, princes of the people.
-<small><sub>**BSB:**</sub></small>
-Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. And there at the entrance of the gate were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, who were leaders of the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.22|<< Ezekiel 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.2|Ezekiel 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

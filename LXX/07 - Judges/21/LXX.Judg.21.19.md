@@ -1,10 +1,7 @@
 **LXX Judges 21:19** 
 <small><sub>**LXX:**</sub></small>
 And they said, Behold, \[there is\] a holiday to the <span class="smallcaps">lord</span> in Shiloh from days to days, which is from \[the\] north  of Beth-el, according to \[the\] rising of \[the\] sun, upon the corridor  ascending from Beth-el unto Shechem, and from south of Lebonah. 
-<small><sub>**KJV:**</sub></small>
-Then they said, Behold, [there is] a feast of the LORD in Shiloh yearly [in a place] which [is] on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem, and on the south of Lebonah.
-<small><sub>**BSB:**</sub></small>
-“But look,” they said, “there is a yearly feast to the LORD in Shiloh, which is north of Bethel east of the road that goes up from Bethel to Shechem, and south of Lebonah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.18|<< Judges 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.20|Judges 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

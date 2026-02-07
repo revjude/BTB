@@ -1,4 +1,4 @@
-**Proverbs 2:8** 
+**Proverbs 2:8**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He keepeth the paths of judgment, and preserveth the way of his saints.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to guard the paths of justice and protect the way of His saints.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.7|<< Proverbs 2:7]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.9|Proverbs 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to guard  |**<big>&#8207;[[H9005\|לִ֭]]&#8207;&#8207;[[H5341\|נְצֹר]]&#8207; </big>**| Li<small><sup>[[HR]]</sup></small> n.tzor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] paths of  |**<big>&#8207;[[H0734\|אָרְח֣וֹת]]&#8207; </big>**| 'a.re.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

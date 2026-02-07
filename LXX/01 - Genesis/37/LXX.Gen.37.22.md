@@ -1,10 +1,7 @@
 **LXX Genesis 37:22** 
 <small><sub>**LXX:**</sub></small>
 And Reuben said to them, You should not shed blood, put him into one  of these wells of the ones in the wilderness, and bear not a hand against him, that he might rescue him from out of  their hands, and that he might give him \[to\] his father. 
-<small><sub>**KJV:**</sub></small>
-And Reuben said unto them, Shed no blood, [but] cast him into this pit that [is] in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again.
-<small><sub>**BSB:**</sub></small>
-“Do not shed his blood. Throw him into this pit in the wilderness, but do not lay a hand on him.” Reuben said this so that he could rescue Joseph from their hands and return him to his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.21|<< Genesis 37:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.23|Genesis 37:23 >>]]</td></tr></table>
 
 | Translation | Greek |

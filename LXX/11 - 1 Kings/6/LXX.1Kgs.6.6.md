@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:6** 
 <small><sub>**LXX:**</sub></small>
 The side  underneath -- five cubits \[was\] the width of it. And \[for\] the middle -- six cubits \[was\] the width. And the third -- seven cubits \[was\] the width of it. For he made a space to the house round about from outside the house, so as to not take hold of the walls of the house. 
-<small><sub>**KJV:**</sub></small>
-The nethermost chamber [was] five cubits broad, and the middle [was] six cubits broad, and the third [was] seven cubits broad: for without [in the wall] of the house he made narrowed rests round about, that [the beams] should not be fastened in the walls of the house.
-<small><sub>**BSB:**</sub></small>
-The bottom floor was five cubits wide, the middle floor six cubits, and the third floor seven cubits. He also placed offset ledges around the outside of the temple, so that nothing would be inserted into its walls.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.5|<< 1 Kings 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.7|1 Kings 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

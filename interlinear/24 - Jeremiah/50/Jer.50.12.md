@@ -1,4 +1,4 @@
-**Jeremiah 50:12** 
+**Jeremiah 50:12**<big><big>[[Jer.50.11 Babylon’s Fall Is Certain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your mother shall be sore confounded; she that bare you shall be ashamed: behold, the hindermost of the nations [shall be] a wilderness, a dry land, and a desert.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ your mother will be greatly ashamed; she who bore you will be disgraced. Behold,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.11|<< Jeremiah 50:11]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.13|Jeremiah 50:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she will be ashamed  |**<big>&#8207;[[H0954\|בּ֤וֹשָׁה]]&#8207; </big>**| Bo.o.shah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mother your  |**<big>&#8207;[[H0517\|אִמְּ]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| 'i.me.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

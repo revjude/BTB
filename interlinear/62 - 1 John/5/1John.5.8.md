@@ -1,12 +1,12 @@
-**1 John 5:8
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:8**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there are three that bear witness in earth, the spirit, and the water, and the blood: and these three agree in one.
 <small><sub>**BSB:**</sub></small>
 the Spirit, the water, and the blood—and these three are in agreement.
 <small><sub>**Literal:**</sub></small>
 and three are those bearing testimony in the earth:  the Spirit and the water and the blood — and these three in <the> one are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.7|<< 1 John 5:7]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.9|1 John 5:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |
 | three |**<big>[[G5140\|τρεῖς]]</big>**  |treis <small><sup>[[A-NPM]]</sup></small> | <abbr title="TR">K</abbr> | |

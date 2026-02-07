@@ -1,5 +1,5 @@
-**Philippians 2:11
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:11**<big><big>[[Phil.2.5 The Mind of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And [that] every tongue should confess that Jesus Christ [is] Lord, to the glory of God the Father.
 <small><sub>**BSB:**</sub></small>
 and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
@@ -10,7 +10,7 @@ and every tongue may confess that [is] Lord Jesus Christ to [the] glory of God [
 > $\quad$ alluding to: [[LXX.Isa.45.23|Isa 45:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | every |**<big>[[G3956\|πᾶσα]]</big>**  |pasa <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

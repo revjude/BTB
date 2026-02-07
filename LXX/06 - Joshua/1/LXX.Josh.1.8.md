@@ -1,10 +1,7 @@
 **LXX Joshua 1:8** 
 <small><sub>**LXX:**</sub></small>
 And this book of the law shall not leave from  your mouth, and you shall meditate in it day and night, that you should perceive to do all the \[things\] written in it. Then you shall prosper  your ways, and then you shall perceive. 
-<small><sub>**KJV:**</sub></small>
-This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.
-<small><sub>**BSB:**</sub></small>
-This Book of the Law must not depart from your mouth; meditate on it day and night, so that you may be careful to do everything written in it. For then you will prosper and succeed in all you do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.7|<< Joshua 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.9|Joshua 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

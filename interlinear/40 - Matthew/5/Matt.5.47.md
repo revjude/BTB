@@ -1,12 +1,12 @@
-**Matthew 5:47
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:47**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if ye salute your brethren only, what do ye more [than others]? do not even the publicans so?
 <small><sub>**BSB:**</sub></small>
 And if you greet only your brothers, what are you doing more than others? Do not even Gentiles do the same?
 <small><sub>**Literal:**</sub></small>
 And if you shall greet the brothers of you only, what excessive do you? Surely also the Gentiles the same do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.46|<< Matthew 5:46]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.48|Matthew 5:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

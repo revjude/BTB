@@ -1,12 +1,12 @@
-**Luke 20:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:22**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Is it lawful for us to give tribute unto Caesar, or no?
 <small><sub>**BSB:**</sub></small>
 Is it lawful for us to pay taxes to Caesar or not?”
 <small><sub>**Literal:**</sub></small>
 Is it lawful for us to Caesar tribute to give or not?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.21|<< Luke 20:21]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.23|Luke 20:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Is it lawful |**<big>[[G1832\|ἔξεστιν]]</big>**  |exestin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for us [^1] |**<big>[[G3165\|ἡμᾶς]]</big>**  |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

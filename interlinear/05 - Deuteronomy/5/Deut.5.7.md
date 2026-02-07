@@ -1,4 +1,4 @@
-**Deuteronomy 5:7** 
+**Deuteronomy 5:7**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt have none other gods before me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall have no other gods before Me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.6|<< Deuteronomy 5:6]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.8|Deuteronomy 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**[^1] | lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|יִהְיֶ֥ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**[^2] | yih.Yeh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

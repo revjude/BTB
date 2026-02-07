@@ -1,4 +1,4 @@
-**Joshua 21:43** 
+**Joshua 21:43**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the LORD gave Israel all the land He had sworn to give their fathers, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.42|<< Joshua 21:42]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.44|Joshua 21:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתֵּ֤ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 10:4** 
+**Psalms 10:4**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked, through the pride of his countenance, will not seek [after God]: God [is] not in all his thoughts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In his pride the wicked man does not seek Him; in all his schemes there is no Go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.3|<< Psalms 10:3]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.5|Psalms 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wicked [person]  |**<big>&#8207;[[H7563\|רָשָׁ֗ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to [the] haughtiness of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1363\|גֹ֣בַהּ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Goah<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Nehemiah 11:8** 
+**Nehemiah 11:8**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after him Gabbai, Sallai, nine hundred twenty and eight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and his followers Gabbai and Sallai—928 men.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.7|<< Nehemiah 11:7]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.9|Nehemiah 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gabbai  |**<big>&#8207;[[H1373\|גַּבַּ֣י]]&#8207; </big>**| ga.Bai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

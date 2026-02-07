@@ -1,4 +1,4 @@
-**Deuteronomy 33:17** 
+**Deuteronomy 33:17**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His glory [is like] the firstling of his bullock, and his horns [are like] the horns of unicorns: with them he shall push the people together to the ends of the earth: and they [are] the ten thousands of Ephraim, and they [are] the thousands of Manasseh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His majesty is like a firstborn bull, and his horns are like those of a wild ox.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.16|<< Deuteronomy 33:16]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.18|Deuteronomy 33:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] firstborn of  |**<big>&#8207;[[H1060\|בְּכ֨וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ox his  |**<big>&#8207;[[H7794\|שׁוֹר֜]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| sho.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

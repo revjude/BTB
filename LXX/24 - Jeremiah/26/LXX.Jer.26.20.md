@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:20** 
 <small><sub>**LXX:**</sub></small>
 And there was another man prophesying in the name of \[the\] <span class="smallcaps">lord</span>, Urijah son of Shemaiah from Kirjath-jearim; and he prophesied concerning  this city, and concerning  this land according to all the words of Jeremiah. 
-<small><sub>**KJV:**</sub></small>
-And there was also a man that prophesied in the name of the LORD, Urijah the son of Shemaiah of Kirjathjearim, who prophesied against this city and against this land according to all the words of Jeremiah:
-<small><sub>**BSB:**</sub></small>
-Now there was another man prophesying in the name of the LORD, Uriah son of Shemaiah from Kiriath-jearim. He prophesied against this city and against this land the same things that Jeremiah did.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.19|<< Jeremiah 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.21|Jeremiah 26:21 >>]]</td></tr></table>
 
 | Translation | Greek |

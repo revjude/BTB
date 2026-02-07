@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:36** 
 <small><sub>**LXX:**</sub></small>
 And as it was time of the offering the sacrifice, and Elijah the prophet came and said, O <span class="smallcaps">lord</span>  God of Abraham, and Isaac, and Israel, today let it be known to all  this people! that you are \[the\] <span class="smallcaps">lord</span>  God of Israel, and I \[am\] your servant, and through you I have done all \[these\] things. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at [the time of] the offering of the [evening] sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou [art] God in Israel, and [that] I [am] thy servant, and [that] I have done all these things at thy word.
-<small><sub>**BSB:**</sub></small>
-At the time of the evening sacrifice, Elijah the prophet approached the altar and said, “O LORD, God of Abraham, Isaac, and Israel, let it be known this day that You are God in Israel and that I am Your servant and have done all these things at Your command.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.35|<< 1 Kings 18:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.37|1 Kings 18:37 >>]]</td></tr></table>
 
 | Translation | Greek |

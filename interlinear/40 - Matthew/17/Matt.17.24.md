@@ -1,12 +1,12 @@
-**Matthew 17:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:24**<big><big>[[Matt.17.24 The Temple Tax|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were come to Capernaum, they that received tribute [money] came to Peter, and said, Doth not your master pay tribute?
 <small><sub>**BSB:**</sub></small>
 After they had arrived in Capernaum, the collectors of the two-drachma tax came to Peter and asked, “Does your Teacher pay the two drachmas?”
 <small><sub>**Literal:**</sub></small>
 When are coming now they to Capernaum came those the didrachmas collecting to <the> Peter and said; The Teacher of you surely he pays the didrachmas?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.23|<< Matthew 17:23]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.25|Matthew 17:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When are coming |**<big>[[G2064\|Ἐλθόντων]]</big>**  |Elthontōn <small><sup>[[V-2AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

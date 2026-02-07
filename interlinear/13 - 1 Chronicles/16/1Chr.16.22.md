@@ -1,4 +1,4 @@
-**1 Chronicles 16:22** 
+**1 Chronicles 16:22**<big><big>[[1Chr.16.7 David’s Psalms of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Saying], Touch not mine anointed, and do my prophets no harm.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.21|<< 1 Chronicles 16:21]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.23|1 Chronicles 16:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you touch  |**<big>&#8207;[[H5060\|תִּגְּעוּ֙]]&#8207; </big>**| ti.ge.'U<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

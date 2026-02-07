@@ -1,4 +1,4 @@
-**Psalms 69:2** (69:3)
+**Psalms 69:2**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I sink in deep mire, where [there is] no standing: I am come into deep waters, where the floods overflow me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have sunk into the miry depths, where there is no footing; I have drifted into
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.1|<< Psalms 69:1]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.3|Psalms 69:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have sunk  |**<big>&#8207;[[H2883\|טָבַ֤עְתִּי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ta.Va'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in mire of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3121\|יוֵ֣ן]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Ven<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

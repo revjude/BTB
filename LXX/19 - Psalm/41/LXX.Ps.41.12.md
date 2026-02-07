@@ -1,10 +1,7 @@
 **LXX Psalm 41:12** 
 <small><sub>**LXX:**</sub></small>
 But because of my  innocence you assisted and firmed me up before you into the eon. 
-<small><sub>**KJV:**</sub></small>
-And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.
-<small><sub>**BSB:**</sub></small>
-In my integrity You uphold me and set me in Your presence forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.41.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.11|<< Psalm 41:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.13|Psalm 41:13 >>]]</td></tr></table>
 
 | Translation | Greek |

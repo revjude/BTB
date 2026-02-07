@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:9** 
 <small><sub>**LXX:**</sub></small>
 And Jehoiada the priest took one chest, and he made in it one opening, and he put it by the altar, at \[the\] right side of \[the ones\] entering of men into \[the\] house of \[the\] <span class="smallcaps">lord</span>. And the priests guarding at the thresholds gave there all the money  being carried into the house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of the LORD: and the priests that kept the door put therein all the money [that was] brought into the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-Then Jehoiada the priest took a chest, bored a hole in its lid, and set it beside the altar on the right side as one enters the house of the LORD. There the priests who guarded the threshold put all the money brought into the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.8|<< 2 Kings 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.10|2 Kings 12:10 >>]]</td></tr></table>
 
 | Translation | Greek |

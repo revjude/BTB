@@ -1,10 +1,7 @@
 **LXX Zechariah 7:12** 
 <small><sub>**LXX:**</sub></small>
 and  their heart was ordered for resisting persuasion,  to not listen to  my law, and the words which \[the\] <span class="smallcaps">lord</span> almighty sent out by his spirit, by \[the\] hands of the prophets, of the ones before. And there was great anger by \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-Yea, they made their hearts [as] an adamant stone, lest they should hear the law, and the words which the LORD of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-They made their hearts like flint and would not listen to the law or to the words that the LORD of Hosts had sent by His Spirit through the earlier prophets. Therefore great anger came from the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.11|<< Zechariah 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.13|Zechariah 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

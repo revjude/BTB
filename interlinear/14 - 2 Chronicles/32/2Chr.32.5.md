@@ -1,4 +1,4 @@
-**2 Chronicles 32:5** 
+**2 Chronicles 32:5**<big><big>[[2Chr.32.1 Sennacherib Invades Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he strengthened himself, and built up all the wall that was broken, and raised [it] up to the towers, and another wall without, and repaired Millo [in] the city of David, and made darts and shields in abundance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Hezekiah worked resolutely to rebuild all the broken sections of the wall a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.4|<< 2 Chronicles 32:4]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.6|2 Chronicles 32:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he strengthened himself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388K\|יִּתְחַזַּ֡ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.cha.Zak<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he rebuilt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּבֶן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

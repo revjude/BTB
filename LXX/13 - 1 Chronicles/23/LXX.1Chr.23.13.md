@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:13** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Amram -- Aaron and Moses. And Aaron was separated  to sanctify \[the\] holy of holies, he and his sons unto \[the\] eon,  to burn incense before the <span class="smallcaps">lord</span>,  to officiate to him, and to invoke upon  his name unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the LORD, to minister unto him, and to bless in his name for ever.
-<small><sub>**BSB:**</sub></small>
-The sons of Amram: Aaron and Moses. Aaron and his descendants were set apart forever to consecrate the most holy things, to burn incense before the LORD, to minister before Him, and to pronounce blessings in His name forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.12|<< 1 Chronicles 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.14|1 Chronicles 23:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Chronicles 23:13** is...

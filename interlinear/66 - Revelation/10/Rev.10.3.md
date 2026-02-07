@@ -1,5 +1,5 @@
-**Revelation 10:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:3**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And cried with a loud voice, as [when] a lion roareth: and when he had cried, seven thunders uttered their voices.
 <small><sub>**BSB:**</sub></small>
 Then he cried out in a loud voice like the roar of a lion. And when he cried out, the seven thunders sounded their voices.
@@ -10,7 +10,7 @@ And he cried out in a voice loud as a lion roars. And when he cried out, sounded
 > $\quad$ alluding to: [[LXX.Jer.25.30|Jer 25:30]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he cried out |**<big>[[G2896\|ἔκραξεν]]</big>**  |ekraxen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

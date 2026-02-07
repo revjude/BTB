@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:21** 
 <small><sub>**LXX:**</sub></small>
 And he led up seven calves, and seven rams, and seven lambs, and seven winter yearlings of goats for a sin \[offering\], for the kingdom, and for the holy \[things\], and for Judah. And he told the sons of Aaron the priests,  to offer unto the altar of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer [them] on the altar of the LORD.
-<small><sub>**BSB:**</sub></small>
-They brought seven bulls, seven rams, seven lambs, and seven male goats as a sin offering for the kingdom, for the sanctuary, and for Judah. And the king commanded the priests, the descendants of Aaron, to offer them on the altar of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.20|<< 2 Chronicles 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.22|2 Chronicles 29:22 >>]]</td></tr></table>
 
 | Translation | Greek |

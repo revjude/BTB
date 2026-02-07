@@ -1,12 +1,12 @@
-**Romans 13:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:6**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For for this cause pay ye tribute also: for they are God’s ministers, attending continually upon this very thing.
 <small><sub>**BSB:**</sub></small>
 This is also why you pay taxes. For the authorities are God’s servants, who devote themselves to their work.
 <small><sub>**Literal:**</sub></small>
 Because of this for also taxes pay you; servants for of God they are upon this very thing attending continually.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.5|<< Romans 13:5]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.7|Romans 13:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

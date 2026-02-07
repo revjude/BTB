@@ -1,4 +1,4 @@
-**Job 19:29** 
+**Job 19:29**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be ye afraid of the sword: for wrath [bringeth] the punishments of the sword, that ye may know [there is] a judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then you should fear the sword yourselves, because wrath brings punishment by th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.28|<< Job 19:28]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.1|Job 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be afraid  |**<big>&#8207;[[H1481C\|גּ֤וּרוּ]]&#8207; </big>**| Gu.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<for> yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֨ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

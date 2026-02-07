@@ -1,4 +1,4 @@
-**Genesis 26:5** 
+**Genesis 26:5**<big><big>[[Gen.26.1 God’s Promise to Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because Abraham listened to My voice and kept My charge, My commandments, My sta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.4|<< Genesis 26:4]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.6|Genesis 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | consequence  |**<big>&#8207;[[H6118\|עֵ֕קֶב]]&#8207; </big>**| 'E.kev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 20:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:30**<big><big>[[Matt.20.29 The Blind Men by the Road|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, two blind men sitting by the way side, when they heard that Jesus passed by, cried out, saying, Have mercy on us, O Lord, [thou] Son of David.
 <small><sub>**BSB:**</sub></small>
 And there were two blind men sitting beside the road. When they heard that Jesus was passing by, they cried out, “Lord, Son of David, have mercy on us!”
 <small><sub>**Literal:**</sub></small>
 And behold two blind [men] sitting beside the road, having heard that Jesus is passing by, cried out saying; do have mercy on us Lord Jesus Son of David.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.29|<< Matthew 20:29]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.31|Matthew 20:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

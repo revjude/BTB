@@ -1,4 +1,4 @@
-**Leviticus 27:7** 
+**Leviticus 27:7**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if [it be] from sixty years old and above; if [it be] a male, then thy estimation shall be fifteen shekels, and for the female ten shekels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if the person is sixty years of age or older, then your valuation shall be f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.6|<< Leviticus 27:6]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.8|Leviticus 27:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0518A\|אִם]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a son of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

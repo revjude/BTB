@@ -1,4 +1,4 @@
-**Zechariah 2:6** (2:10)
+**Zechariah 2:6**<big><big>[[Zech.2.6 The Redemption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ho, ho, [come forth], and flee from the land of the north, saith the LORD: for I have spread you abroad as the four winds of the heaven, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ho, ho, [come forth], and flee from the land of the north, saith the LORD: for I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.5|<< Zechariah 2:5]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.7|Zechariah 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | alas!  |**<big>&#8207;[[H1945\|ה֣וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | alas!  |**<big>&#8207;[[H1945\|ה֗וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

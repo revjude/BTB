@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:19** 
 <small><sub>**LXX:**</sub></small>
 And the Levites rose up from the sons of Kohath, and from the sons of the of Korahites,  to give praise \[to the\] <span class="smallcaps">lord</span>, to the God of Israel with a great voice unto \[the\] height. 
-<small><sub>**KJV:**</sub></small>
-And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the LORD God of Israel with a loud voice on high.
-<small><sub>**BSB:**</sub></small>
-And the Levites from the Kohathites and Korahites stood up to praise the LORD, the God of Israel, shouting in a very loud voice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.18|<< 2 Chronicles 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.20|2 Chronicles 20:20 >>]]</td></tr></table>
 
 | Translation | Greek |

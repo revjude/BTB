@@ -1,10 +1,7 @@
 **LXX Psalm 77:16** 
 <small><sub>**LXX:**</sub></small>
 \[The\] waters beheld you, O God, \[the\] waters beheld you and feared; \[the\] abysses were disturbed. 
-<small><sub>**KJV:**</sub></small>
-The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled.
-<small><sub>**BSB:**</sub></small>
-The waters saw You, O God; the waters saw You and swirled; even the depths were shaken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.15|<< Psalm 77:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.17|Psalm 77:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 4:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:7**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For who maketh thee to differ [from another]? and what hast thou that thou didst not receive? now if thou didst receive [it], why dost thou glory, as if thou hadst not received [it]?
 <small><sub>**BSB:**</sub></small>
 For who makes you so superior? What do you have that you did not receive? And if you did receive it, why do you boast as though you did not?
 <small><sub>**Literal:**</sub></small>
 Who for you makes different? What now have you which not you did receive? If now even you did receive [it], why boast you as not having received [it]?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.6|<< 1 Corinthians 4:6]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.8|1 Corinthians 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

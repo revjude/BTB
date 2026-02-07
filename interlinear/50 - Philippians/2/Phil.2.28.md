@@ -1,12 +1,12 @@
-**Philippians 2:28
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:28**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.
 <small><sub>**BSB:**</sub></small>
 Therefore I am all the more eager to send him, so that when you see him again you may rejoice, and I may be less anxious.
 <small><sub>**Literal:**</sub></small>
 All the more speedily therefore I have sent him, that having seen him again you may rejoice, and I myself less anxious may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.27|<< Philippians 2:27]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.29|Philippians 2:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All the more speedily |**<big>[[G4708\|σπουδαιοτέρως]]</big>**  |spoudaioterōs <small><sup>[[ADV-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

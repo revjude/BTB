@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:9** 
 <small><sub>**LXX:**</sub></small>
 And Absalom met before the servants of David. And Absalom was mounted upon the mule, and the mule was entering under the thicket of the great oak. And his head was twisted in the oak, and he hung between the heaven and between the earth, and the mule underneath him went on. 
-<small><sub>**KJV:**</sub></small>
-And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that [was] under him went away.
-<small><sub>**BSB:**</sub></small>
-Now Absalom was riding on his mule when he met the servants of David, and as the mule went under the thick branches of a large oak, Absalom’s head was caught fast in the tree. The mule under him kept going, so that he was suspended in midair.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.8|<< 2 Samuel 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.10|2 Samuel 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

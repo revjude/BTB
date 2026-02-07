@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:15** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Again read for  our ears! And Baruch read in  their ears. 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, Sit down now, and read it in our ears. So Baruch read [it] in their ears.
-<small><sub>**BSB:**</sub></small>
-“Please sit down,” they said, “and read it in our hearing.” So Baruch read it in their hearing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.14|<< Jeremiah 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.16|Jeremiah 36:16 >>]]</td></tr></table>
 
 | Translation | Greek |

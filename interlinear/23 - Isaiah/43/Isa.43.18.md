@@ -1,4 +1,4 @@
-**Isaiah 43:18** 
+**Isaiah 43:18**<big><big>[[Isa.43.14 A Way in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember ye not the former things, neither consider the things of old.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Remember ye not the former things, neither consider the things of old.
 > $\quad$ referenced by: [[2Cor.5.17|2Cor 5:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you remember  |**<big>&#8207;[[H2142\|תִּזְכְּר֖וּ]]&#8207; </big>**| tiz.ke.Ru<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

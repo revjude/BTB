@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:5** 
 <small><sub>**LXX:**</sub></small>
 She will be for a refreshing of dragnets in \[the\] midst of the sea; for I have spoken, says Adonai \[the\] <span class="smallcaps">lord</span>, and she will be for plunder to the nations. 
-<small><sub>**KJV:**</sub></small>
-It shall be [a place for] the spreading of nets in the midst of the sea: for I have spoken [it], saith the Lord GOD: and it shall become a spoil to the nations.
-<small><sub>**BSB:**</sub></small>
-She will become a place to spread nets in the sea, for I have spoken, declares the Lord GOD. She will become plunder for the nations,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.4|<< Ezekiel 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.6|Ezekiel 26:6 >>]]</td></tr></table>
 
 | Translation | Greek |

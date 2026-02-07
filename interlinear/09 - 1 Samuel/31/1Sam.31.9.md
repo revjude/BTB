@@ -1,4 +1,4 @@
-**1 Samuel 31:9** 
+**1 Samuel 31:9**<big><big>[[1Sam.31.7 The Philistines Possess the Towns|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish [it in] the house of their idols, and among the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They cut off Saul’s head, stripped off his armor, and sent messengers througho
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.8|<< 1 Samuel 31:8]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.10|1 Samuel 31:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cut off  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H3772I\|יִּכְרְתוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.re.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 34:20** 
+**Job 34:20**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They die in an instant, in the middle of the night. The people convulse and pass
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.19|<< Job 34:19]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.21|Job 34:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a moment  |**<big>&#8207;[[H7281\|רֶ֤גַע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Re.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they die  |**<big>&#8207;[[H4191\|יָמֻתוּ֮]]&#8207; </big>**| ya.mu.Tu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

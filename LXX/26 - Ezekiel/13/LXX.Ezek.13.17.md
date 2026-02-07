@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, firmly fix  your face against the daughters  of your people! the ones prophesying from their \[own\] heart. And you prophesy against them! 
-<small><sub>**KJV:**</sub></small>
-Likewise, thou son of man, set thy face against the daughters of thy people, which prophesy out of their own heart; and prophesy thou against them,
-<small><sub>**BSB:**</sub></small>
-Now, O son of man, set your face against the daughters of your people who prophesy out of their own imagination. Prophesy against them<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.16|<< Ezekiel 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.18|Ezekiel 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

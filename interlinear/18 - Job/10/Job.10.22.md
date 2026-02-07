@@ -1,4 +1,4 @@
-**Job 10:22** 
+**Job 10:22**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A land of darkness, as darkness [itself; and] of the shadow of death, without any order, and [where] the light [is] as darkness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to a land of utter darkness, of deep shadow and disorder, where even the light i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.21|<< Job 10:21]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.1|Job 11:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] land of  |**<big>&#8207;[[H0776G\|אֶ֤רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | darkness  |**<big>&#8207;[[H5890\|עֵיפָ֨תָה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'ei.Fa.tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

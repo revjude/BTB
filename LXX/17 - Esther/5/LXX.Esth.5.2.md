@@ -1,10 +1,7 @@
 **LXX Esther 5:2** 
 <small><sub>**LXX:**</sub></small>
 And as the king saw Esther the queen standing in the courtyard, that she found favor in his eyes; and the king stretching out \[to\] Esther the golden rod, the one in  his hand, that Esther approached and touched the tip of the rod. 
-<small><sub>**KJV:**</sub></small>
-And it was so, when the king saw Esther the queen standing in the court, [that] she obtained favour in his sight: and the king held out to Esther the golden sceptre that [was] in his hand. So Esther drew near, and touched the top of the sceptre.
-<small><sub>**BSB:**</sub></small>
-As soon as the king saw Queen Esther standing in the court, she found favor in his sight. The king extended the gold scepter in his hand toward Esther, and she approached and touched the tip of the scepter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.1|<< Esther 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.3|Esther 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

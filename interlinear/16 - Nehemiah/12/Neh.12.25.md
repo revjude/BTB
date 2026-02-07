@@ -1,4 +1,4 @@
-**Nehemiah 12:25** 
+**Nehemiah 12:25**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, [were] porters keeping the ward at the thresholds of the gates.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.24|<< Nehemiah 12:24]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.26|Nehemiah 12:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Mattaniah  |**<big>&#8207;[[H4983G\|מַתַּנְיָ֧ה]]&#8207; </big>**| ma.tan.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Bakbukiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1229\|בַקְבֻּֽקְיָ֛ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vak.buk.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

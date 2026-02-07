@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:20** 
 <small><sub>**LXX:**</sub></small>
 And she rose up in the middle of the night, and she took  my son from  my embrace, and  your maidservant rested, and she rested it in  her bosom, and the son having died she rested in  my bosom. 
-<small><sub>**KJV:**</sub></small>
-And she arose at midnight, and took my son from beside me, while thine handmaid slept, and laid it in her bosom, and laid her dead child in my bosom.
-<small><sub>**BSB:**</sub></small>
-So she got up in the middle of the night and took my son from my side while I was asleep. She laid him in her bosom and put her dead son at my bosom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.19|<< 1 Kings 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.21|1 Kings 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

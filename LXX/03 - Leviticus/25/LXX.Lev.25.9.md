@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall declare by trumpet sound in all  your land, in the seventh month, the tenth of the month. In the day  of making an atonement -- you shall declare by trumpet in all  your land. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou cause the trumpet of the jubile to sound on the tenth [day] of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.
-<small><sub>**BSB:**</sub></small>
-Then you are to sound the horn far and wide on the tenth day of the seventh month, the Day of Atonement. You shall sound it throughout your land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.8|<< Leviticus 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.10|Leviticus 25:10 >>]]</td></tr></table>
 
 | Translation | Greek |

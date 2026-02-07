@@ -1,4 +1,4 @@
-**Hosea 9:14** 
+**Hosea 9:14**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give them, O LORD—what will You give? Give them wombs that miscarry and breast
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.13|<< Hosea 9:13]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.15|Hosea 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give  |**<big>&#8207;[[H5414G\|תֵּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ten-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֥ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

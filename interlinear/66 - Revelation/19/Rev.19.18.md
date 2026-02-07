@@ -1,5 +1,5 @@
-**Revelation 19:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:18**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all [men, both] free and bond, both small and great.
 <small><sub>**BSB:**</sub></small>
 so that you may eat the flesh of kings and commanders and mighty men, of horses and riders, of everyone slave and free, small and great.”
@@ -11,7 +11,7 @@ so that you may eat [the] flesh of kings and [the] flesh of commanders and [the]
 > $\quad$ alluding to: [[LXX.Ezek.39.17|Ezek 39:17-20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you may eat |**<big>[[G5315\|φάγητε]]</big>**  |phagēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

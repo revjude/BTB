@@ -1,12 +1,12 @@
-**Titus 1:9
-**<small><sub>**KJV:**</sub></small>
+**Titus 1:9**<big><big>[[Titus.1.5 Appointing Elders on Crete|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.
 <small><sub>**BSB:**</sub></small>
 He must hold firmly to the faithful word as it was taught, so that he can encourage others by sound teaching and refute those who contradict it.
 <small><sub>**Literal:**</sub></small>
 holding <the> according to the teaching of [the] faithful word, that able he may be both to encourage with <the> teaching <the> sound and those contradicting [it] to convict.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.8|<< Titus 1:8]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.10|Titus 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | holding |**<big>[[G0472\|ἀντεχόμενον]]</big>**  |antechomenon <small><sup>[[V-PNP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

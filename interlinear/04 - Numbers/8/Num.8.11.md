@@ -1,4 +1,4 @@
-**Numbers 8:11** 
+**Numbers 8:11**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall offer the Levites before the LORD [for] an offering of the children of Israel, that they may execute the service of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Aaron is to present the Levites before the LORD as a wave offering from the sons
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.10|<< Numbers 8:10]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.12|Numbers 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will wave  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5130B\|הֵנִיף֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Nif<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֨ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

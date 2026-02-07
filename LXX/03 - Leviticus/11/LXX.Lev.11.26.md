@@ -1,10 +1,7 @@
 **LXX Leviticus 11:26** 
 <small><sub>**LXX:**</sub></small>
 And among all the animals which are cloven hoof, and \[with\] cloven-footed claws, and of chewing the cud does not chew the cud -- they shall be unclean to you; every one touching  their decaying flesh will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-[The carcases] of every beast which divideth the hoof, and [is] not clovenfooted, nor cheweth the cud, [are] unclean unto you: every one that toucheth them shall be unclean.
-<small><sub>**BSB:**</sub></small>
-Every animal with hooves not completely divided or that does not chew the cud is unclean for you. Whoever touches any of them will be unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.25|<< Leviticus 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.27|Leviticus 11:27 >>]]</td></tr></table>
 
 | Translation | Greek |

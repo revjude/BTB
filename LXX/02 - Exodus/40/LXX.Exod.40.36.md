@@ -1,10 +1,7 @@
 **LXX Exodus 40:36** 
 <small><sub>**LXX:**</sub></small>
 And when ever the cloud ascended from the tent, the sons of Israel broke camp with  their chattel. 
-<small><sub>**KJV:**</sub></small>
-And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:
-<small><sub>**BSB:**</sub></small>
-Whenever the cloud was lifted from above the tabernacle, the Israelites would set out through all the stages of their journey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.35|<< Exodus 40:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.37|Exodus 40:37 >>]]</td></tr></table>
 
 | Translation | Greek |

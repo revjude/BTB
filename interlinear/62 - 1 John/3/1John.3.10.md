@@ -1,12 +1,12 @@
-**1 John 3:10
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:10**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
 <small><sub>**BSB:**</sub></small>
 By this the children of God are distinguished from the children of the devil: Anyone who does not practice righteousness is not of God, nor is anyone who does not love his brother.
 <small><sub>**Literal:**</sub></small>
 Through this manifest are the children <the> of God and the children of the devil. Anyone <the> not practicing righteousness not is of <the> God, and also the [one] not loving the brother of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.9|<< 1 John 3:9]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.11|1 John 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Through |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τούτῳ]]</big>**  |toutō <small><sup>[[D-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

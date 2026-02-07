@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:4** 
 <small><sub>**LXX:**</sub></small>
 And Abijah rose up from  mount Zemaraim, which is in  mount Ephraim, and said, Hear me, Jeroboam and all Israel! 
-<small><sub>**KJV:**</sub></small>
-And Abijah stood up upon mount Zemaraim, which [is] in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;
-<small><sub>**BSB:**</sub></small>
-Then Abijah stood on Mount Zemaraim in the hill country of Ephraim and said, “Hear me, O Jeroboam and all Israel!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.3|<< 2 Chronicles 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.5|2 Chronicles 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

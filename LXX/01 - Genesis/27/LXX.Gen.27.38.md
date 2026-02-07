@@ -1,10 +1,7 @@
 **LXX Genesis 27:38** 
 <small><sub>**LXX:**</sub></small>
 And Esau said to  his father, Is there not one blessing in you, O father? Indeed bless me also father! And Isaac being vexed, Esau yelled out a sound, and he wept. 
-<small><sub>**KJV:**</sub></small>
-And Esau said unto his father, Hast thou but one blessing, my father? bless me, [even] me also, O my father. And Esau lifted up his voice, and wept.
-<small><sub>**BSB:**</sub></small>
-Esau said to his father, “Do you have only one blessing, my father? Bless me too, O my father!” Then Esau wept aloud.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.37|<< Genesis 27:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.39|Genesis 27:39 >>]]</td></tr></table>
 
 | Translation | Greek |

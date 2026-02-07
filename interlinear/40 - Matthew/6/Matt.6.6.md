@@ -1,12 +1,12 @@
-**Matthew 6:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:6**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.
 <small><sub>**BSB:**</sub></small>
 But when you pray, go into your inner room, shut your door, and pray to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you.
 <small><sub>**Literal:**</sub></small>
 You yourself however, when you may pray, do enter into the room of you, and having shut the door of you do pray to the Father of you <the> in <the> secret. And the Father of you the [One] seeing in <the> secret will reward you in <the> public.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.5|<< Matthew 6:5]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.7|Matthew 6:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however, |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

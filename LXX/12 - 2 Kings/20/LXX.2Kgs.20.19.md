@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:19** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah said to Isaiah, The word \[of the\] <span class="smallcaps">lord</span> \[is\] good which he spoke, let there be peace and justice in  my days! 
-<small><sub>**KJV:**</sub></small>
-Then said Hezekiah unto Isaiah, Good [is] the word of the LORD which thou hast spoken. And he said, [Is it] not [good], if peace and truth be in my days?
-<small><sub>**BSB:**</sub></small>
-But Hezekiah said to Isaiah, “The word of the LORD that you have spoken is good.” For he thought, “Will there not at least be peace and security in my lifetime?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.18|<< 2 Kings 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.20|2 Kings 20:20 >>]]</td></tr></table>
 
 | Translation | Greek |

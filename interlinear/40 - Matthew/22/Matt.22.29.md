@@ -1,12 +1,12 @@
-**Matthew 22:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:29**<big><big>[[Matt.22.23 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “You are mistaken because you do not know the Scriptures or the power of God.
 <small><sub>**Literal:**</sub></small>
 Answering now <the> Jesus said to them; You err not knowing the Scriptures nor the power <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.28|<< Matthew 22:28]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.30|Matthew 22:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

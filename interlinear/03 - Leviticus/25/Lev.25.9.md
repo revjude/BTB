@@ -1,4 +1,4 @@
-**Leviticus 25:9** 
+**Leviticus 25:9**<big><big>[[Lev.25.8 The Year of Jubilee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou cause the trumpet of the jubile to sound on the tenth [day] of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you are to sound the horn far and wide on the tenth day of the seventh mont
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.8|<< Leviticus 25:8]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.10|Leviticus 25:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will cause to pass through  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|הַֽעֲבַרְתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.'a.var.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a ram's horn of  |**<big>&#8207;[[H7782\|שׁוֹפַ֤ר]]&#8207; </big>**| sho.Far<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

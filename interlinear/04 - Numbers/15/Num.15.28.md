@@ -1,4 +1,4 @@
-**Numbers 15:28** 
+**Numbers 15:28**<big><big>[[Num.15.22 Offerings for Unintentional Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall make an atonement for the soul that sinneth ignorantly, when he sinneth by ignorance before the LORD, to make an atonement for him; and it shall be forgiven him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the priest shall make atonement before the LORD on behalf of the person who 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.27|<< Numbers 15:27]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.29|Numbers 15:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make atonement  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3722A\|כִפֶּ֣ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.Per<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֗ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

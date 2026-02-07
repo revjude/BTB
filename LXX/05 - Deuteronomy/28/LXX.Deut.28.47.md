@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:47** 
 <small><sub>**LXX:**</sub></small>
 Because you did not serve \[the\] <span class="smallcaps">lord</span>  your God with gladness, and with a good heart, because of the multitude of all \[these\]. 
-<small><sub>**KJV:**</sub></small>
-Because thou servedst not the LORD thy God with joyfulness, and with gladness of heart, for the abundance of all [things];
-<small><sub>**BSB:**</sub></small>
-Because you did not serve the LORD your God with joy and gladness of heart in all your abundance,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.46|<< Deuteronomy 28:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.48|Deuteronomy 28:48 >>]]</td></tr></table>
 
 | Translation | Greek |

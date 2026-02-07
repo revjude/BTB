@@ -1,12 +1,12 @@
-**Luke 12:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:18**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, This will I do: I will pull down my barns, and build greater; and there will I bestow all my fruits and my goods.
 <small><sub>**BSB:**</sub></small>
 Then he said, ‘This is what I will do: I will tear down my barns and will build bigger ones, and there I will store up all my grain and my goods.
 <small><sub>**Literal:**</sub></small>
 And he said; This will I do: I will tear down my <the> barns and greater will build and will store up there all the grain of mine and the goods of mine<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.17|<< Luke 12:17]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.19|Luke 12:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he said; |**<big>[[G2036\|εἶπεν·]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

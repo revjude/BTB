@@ -1,4 +1,4 @@
-**Numbers 29:21** 
+**Numbers 29:21**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, [shall be] according to their number, after the manner:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ along with the grain and drink offerings for the bulls, rams, and lambs, accordi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.20|<< Numbers 29:20]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.22|Numbers 29:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and grain offering their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4503G\|מִנְחָתָ֣]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min.cha.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and drink offerings their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5262\|נִסְכֵּי]]&#8207;&#8207;[[H9028\|הֶ֡ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nis.kei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

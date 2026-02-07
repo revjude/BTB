@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:39** 
 <small><sub>**LXX:**</sub></small>
 For \[as\] \[the\] <span class="smallcaps">lord</span> lives, the one delivering  Israel, that if \[the\] answer \[be\] against Jonathan  my son, to death he shall die. And there was no one  answering of all the people. 
-<small><sub>**KJV:**</sub></small>
-For, [as] the LORD liveth, which saveth Israel, though it be in Jonathan my son, he shall surely die. But [there was] not a man among all the people [that] answered him.
-<small><sub>**BSB:**</sub></small>
-As surely as the LORD who saves Israel lives, even if it is my son Jonathan, he must die!” But not one of the troops said a word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.38|<< 1 Samuel 14:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.40|1 Samuel 14:40 >>]]</td></tr></table>
 
 | Translation | Greek |

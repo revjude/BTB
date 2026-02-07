@@ -1,4 +1,4 @@
-**2 Kings 10:31** 
+**2 Kings 10:31**<big><big>[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jehu took no heed to walk in the law of the LORD God of Israel with all his heart: for he departed not from the sins of Jeroboam, which made Israel to sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet Jehu was not careful to follow the instruction of the LORD, the God of Israe
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.30|<< 2 Kings 10:30]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.32|2 Kings 10:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jehu  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3058H\|יֵה֗וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

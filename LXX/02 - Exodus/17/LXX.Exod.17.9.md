@@ -1,10 +1,7 @@
 **LXX Exodus 17:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses said  to Joshua, Choose for yourself mighty men, and going forth deploy against  Amalek tomorrow! And behold, I \[shall\] stand upon the top of the hill, and the rod  of God in  my hand. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.
-<small><sub>**BSB:**</sub></small>
-So Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I will stand on the hilltop with the staff of God in my hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.8|<< Exodus 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.10|Exodus 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

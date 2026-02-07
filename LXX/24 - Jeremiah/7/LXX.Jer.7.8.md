@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:8** 
 <small><sub>**LXX:**</sub></small>
 But since you rely upon lying words, from where you will not be benefitted; 
-<small><sub>**KJV:**</sub></small>
-Behold, ye trust in lying words, that cannot profit.
-<small><sub>**BSB:**</sub></small>
-But look, you keep trusting in deceptive words to no avail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.7|<< Jeremiah 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.9|Jeremiah 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

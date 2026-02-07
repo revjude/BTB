@@ -1,4 +1,4 @@
-**Numbers 19:10** 
+**Numbers 19:10**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The man who has gathered up the ashes of the heifer must also wash his clothes, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.9|<< Numbers 19:9]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.11|Numbers 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will wash  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H3526H\|כִבֶּס]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> khi.bes<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] gathers  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0622\|אֹסֵ֨ף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Sef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

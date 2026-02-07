@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:13** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] anger of \[the\] <span class="smallcaps">lord</span> it shall not be dwelt in, and all will be for extinction. And all  traveling through Babylon shall look downcast, and shall whistle at all  her calamity. 
-<small><sub>**KJV:**</sub></small>
-Because of the wrath of the LORD it shall not be inhabited, but it shall be wholly desolate: every one that goeth by Babylon shall be astonished, and hiss at all her plagues.
-<small><sub>**BSB:**</sub></small>
-Because of the wrath of the LORD, she will not be inhabited; she will become completely desolate. All who pass through Babylon will be horrified and will hiss at all her wounds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.12|<< Jeremiah 50:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.14|Jeremiah 50:14 >>]]</td></tr></table>
 
 | Translation | Greek |

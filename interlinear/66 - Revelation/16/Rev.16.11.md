@@ -1,12 +1,12 @@
-**Revelation 16:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:11**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.
 <small><sub>**BSB:**</sub></small>
 and curse the God of heaven for their pains and sores. Yet they did not repent of their deeds.
 <small><sub>**Literal:**</sub></small>
 and they blasphemed the God <the> of heaven on account of the distresses of them and on account of the sores of them and not they did repent of the works of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.10|<< Revelation 16:10]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.12|Revelation 16:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they blasphemed |**<big>[[G0987\|ἐβλασφήμησαν]]</big>**  |eblasphēmēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

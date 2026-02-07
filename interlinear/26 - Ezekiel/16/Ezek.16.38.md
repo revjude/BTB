@@ -1,4 +1,4 @@
-**Ezekiel 16:38** 
+**Ezekiel 16:38**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will judge thee, as women that break wedlock and shed blood are judged; and I will give thee blood in fury and jealousy.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And I will sentence you to the punishment of women who commit adultery and those
 > $\quad$ referenced by: [[Rev.16.6|Rev 16:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will judge you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8199\|שְׁפַטְתִּי]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.fa.ti<small><sup>[[HVqq1cs]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judgments of  |**<big>&#8207;[[H4941G\|מִשְׁפְּטֵ֣י]]&#8207; </big>**| mish.pe.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

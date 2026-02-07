@@ -1,10 +1,7 @@
 **LXX Proverbs 22:20** 
 <small><sub>**LXX:**</sub></small>
 but also you register them to yourself, \[even\] thrice for counsel and knowledge! 
-<small><sub>**KJV:**</sub></small>
-Have not I written to thee excellent things in counsels and knowledge,
-<small><sub>**BSB:**</sub></small>
-Have I not written for you thirty sayings about counsel and knowledge,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.19|<< Proverbs 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.21|Proverbs 22:21 >>]]</td></tr></table>
 
 | Translation | Greek |

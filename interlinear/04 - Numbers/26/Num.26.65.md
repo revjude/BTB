@@ -1,4 +1,4 @@
-**Numbers 26:65** 
+**Numbers 26:65**<big><big>[[Num.26.63 Only Caleb and Joshua Remain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the LORD had told them that they would surely die in the wilderness. Not one
 > $\quad$ referenced by: [[1Cor.10.3|1Cor 10:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had said  |**<big>&#8207;[[H0559\|אָמַ֤ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

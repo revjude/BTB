@@ -1,10 +1,7 @@
 **LXX Leviticus 23:19** 
 <small><sub>**LXX:**</sub></small>
 And they shall offer a young he-goat from out of \[the\] goats -- one for a sin \[offering\], and two lambs of a year \[old\] for a sacrifice of deliverance \[offering\] with the bread loaves of the first produce. 
-<small><sub>**KJV:**</sub></small>
-Then ye shall sacrifice one kid of the goats for a sin offering, and two lambs of the first year for a sacrifice of peace offerings.
-<small><sub>**BSB:**</sub></small>
-You shall also prepare one male goat as a sin offering and two male lambs a year old as a peace offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.18|<< Leviticus 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.20|Leviticus 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

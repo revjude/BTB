@@ -1,12 +1,12 @@
-**Matthew 26:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:37**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy.
 <small><sub>**BSB:**</sub></small>
 He took with Him Peter and the two sons of Zebedee and began to be sorrowful and deeply distressed.
 <small><sub>**Literal:**</sub></small>
 And having taken with [Him] <the> Peter and the two sons of Zebedee He began to be sorrowful and to be deeply distressed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.36|<< Matthew 26:36]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.38|Matthew 26:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken with [Him] |**<big>[[G3880\|παραλαβὼν]]</big>**  |paralabōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

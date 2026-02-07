@@ -1,4 +1,4 @@
-**Genesis 32:1** (32:2)
+**Genesis 32:1**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob went on his way, and the angels of God met him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jacob also went on his way, and the angels of God met him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.55|<< Genesis 31:55]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.2|Genesis 32:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jacob  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3290\|יַעֲקֹ֖ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went  |**<big>&#8207;[[H1980G\|הָלַ֣ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

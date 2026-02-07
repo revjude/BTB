@@ -1,10 +1,7 @@
 **LXX Genesis 46:18** 
 <small><sub>**LXX:**</sub></small>
 These \[are the\] sons of Zilpah, whom Laban gave to Leah  his daughter, who bore these  to Jacob -- sixteen souls. 
-<small><sub>**KJV:**</sub></small>
-These [are] the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, [even] sixteen souls.
-<small><sub>**BSB:**</sub></small>
-These are the sons of Jacob born to Zilpah—whom Laban gave to his daughter Leah—sixteen in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.17|<< Genesis 46:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.19|Genesis 46:19 >>]]</td></tr></table>
 
 | Translation | Greek |

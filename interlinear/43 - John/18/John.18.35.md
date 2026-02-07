@@ -1,12 +1,12 @@
-**John 18:35
-**<small><sub>**KJV:**</sub></small>
+**John 18:35**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?
 <small><sub>**BSB:**</sub></small>
 “Am I a Jew?” Pilate replied. “Your own people and chief priests handed You over to me. What have You done?”
 <small><sub>**Literal:**</sub></small>
 Answered <the> Pilate; surely not ever I myself a Jew am? The nation <the> of You and the chief priests delivered You to me myself; What did You do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.34|<< John 18:34]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.36|John 18:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 10:24** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says \[the\] <span class="smallcaps">lord</span> of Hosts, Do not fear, my people, O ones dwelling in Zion from \[the\] Assyrians! For with a rod he shall strike you, For he brings a calamity upon you  beholding \[the\] way of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD of hosts, O my people that dwellest in Zion, be not afraid of the Assyrian: he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD of Hosts says: “O My people who dwell in Zion, do not fear Assyria, who strikes you with a rod and lifts his staff against you as the Egyptians did.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.23|<< Isaiah 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.25|Isaiah 10:25 >>]]</td></tr></table>
 
 | Translation | Greek |

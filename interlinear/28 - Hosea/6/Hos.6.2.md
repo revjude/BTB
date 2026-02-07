@@ -1,4 +1,4 @@
-**Hosea 6:2** 
+**Hosea 6:2**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ After two days He will revive us; on the third day He will raise us up, that we 
 > $\quad$ referenced by: [[Luke.24.46|Luke 24:46]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will restore to life us  |**<big>&#8207;[[H2421\|יְחַיֵּ֖]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ye.chai.Ye.<small><sup>[[HVpi3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from two days  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|יֹּמָ֑יִם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> yo.Ma.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

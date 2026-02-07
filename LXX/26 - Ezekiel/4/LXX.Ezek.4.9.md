@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you, take to yourself wheat, and barley, and beans, and lentils, and millet, and wild oats! And put them into one earthenware container, and make them into bread loaves for yourself! And according to \[the\] number of the days which you slept upon  your side -- ninety and three hundred days -- you shall eat them. 
-<small><sub>**KJV:**</sub></small>
-Take thou also unto thee wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make thee bread thereof, [according] to the number of the days that thou shalt lie upon thy side, three hundred and ninety days shalt thou eat thereof.
-<small><sub>**BSB:**</sub></small>
-But take wheat, barley, beans, lentils, millet, and spelt; put them in a single container and make them into bread for yourself. This is what you are to eat during the 390 days you lie on your side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.8|<< Ezekiel 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.10|Ezekiel 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

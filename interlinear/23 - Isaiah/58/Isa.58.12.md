@@ -1,4 +1,4 @@
-**Isaiah 58:12** 
+**Isaiah 58:12**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [they that shall be] of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your people will rebuild the ancient ruins; you will restore the age-old foundat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.11|<< Isaiah 58:11]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.13|Isaiah 58:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will rebuild  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1129\|בָנ֤וּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of you  |**<big>&#8207;[[H4480A\|מִמְּ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| mi.me.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

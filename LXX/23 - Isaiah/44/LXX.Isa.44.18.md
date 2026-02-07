@@ -1,10 +1,7 @@
 **LXX Isaiah 44:18** 
 <small><sub>**LXX:**</sub></small>
 They do not know to think, for they were blurred  to see  with their eyes, and  to comprehend \[with\] their heart. 
-<small><sub>**KJV:**</sub></small>
-They have not known nor understood: for he hath shut their eyes, that they cannot see; [and] their hearts, that they cannot understand.
-<small><sub>**BSB:**</sub></small>
-They do not comprehend or discern, for He has shut their eyes so they cannot see and closed their minds so they cannot understand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.17|<< Isaiah 44:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.19|Isaiah 44:19 >>]]</td></tr></table>
 
 | Translation | Greek |

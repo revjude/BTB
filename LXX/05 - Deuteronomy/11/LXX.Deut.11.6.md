@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:6** 
 <small><sub>**LXX:**</sub></small>
 and as many \[things\] as he did  to Dathan and Abiram, sons of Eliab, son of Reuben; which the earth opening  her mouth swallowed them, and  their houses, and  their tents, and all their  \[means of\] support  with them in \[the\] midst of all Israel; 
-<small><sub>**KJV:**</sub></small>
-And what he did unto Dathan and Abiram, the sons of Eliab, the son of Reuben: how the earth opened her mouth, and swallowed them up, and their households, and their tents, and all the substance that [was] in their possession, in the midst of all Israel:
-<small><sub>**BSB:**</sub></small>
-and what He did in the midst of all the Israelites to Dathan and Abiram, the sons of Eliab the Reubenite, when the earth opened its mouth and swallowed them, their households, their tents, and every living thing that belonged to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.5|<< Deuteronomy 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.7|Deuteronomy 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 15:22** 
 <small><sub>**LXX:**</sub></small>
 \[The\] ones not honoring \[the\] sanhedrins procrastinate by devices; but in \[the\] hearts of ones counseling abides counsel; 
-<small><sub>**KJV:**</sub></small>
-Without counsel purposes are disappointed: but in the multitude of counsellers they are established.
-<small><sub>**BSB:**</sub></small>
-Plans fail for lack of counsel, but with many advisers they succeed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.21|<< Proverbs 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.23|Proverbs 15:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 9:2** 
+**Job 9:2**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know [it is] so of a truth: but how should man be just with God?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I know [it is] so of a truth: but how should man be just with God?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.1|<< Job 9:1]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.3|Job 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | truly  |**<big>&#8207;[[H0551\|אָ֭מְנָם]]&#8207; </big>**| 'A.me.nom<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I know  |**<big>&#8207;[[H3045\|יָדַ֣עְתִּי]]&#8207; </big>**| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

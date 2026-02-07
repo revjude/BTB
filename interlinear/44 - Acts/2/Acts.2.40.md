@@ -1,12 +1,12 @@
-**Acts 2:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:40**<big><big>[[Acts.2.37 Three Thousand Believe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And with many other words did he testify and exhort, saying, Save yourselves from this untoward generation.
 <small><sub>**BSB:**</sub></small>
 With many other words he testified, and he urged them, “Be saved from this corrupt generation.”
 <small><sub>**Literal:**</sub></small>
 in other And words many he earnestly testified and was exhorting them saying; do be saved from the generation <the> perverse this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.39|<< Acts 2:39]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.41|Acts 2:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in other |**<big>[[G2087\|ἑτέροις]]</big>**  |heterois <small><sup>[[A-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

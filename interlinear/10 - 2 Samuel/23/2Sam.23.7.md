@@ -1,4 +1,4 @@
-**2 Samuel 23:7** 
+**2 Samuel 23:7**<big><big>[[2Sam.23.1 David’s Last Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the man [that] shall touch them must be fenced with iron and the staff of a spear; and they shall be utterly burned with fire in the [same] place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The man who touches them must be armed with iron or with the shaft of a spear. T
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.6|<< 2 Samuel 23:6]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.8|2 Samuel 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and anyone  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376I\|אִישׁ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] he will touch  |**<big>&#8207;[[H5060\|יִגַּ֣ע]]&#8207; </big>**| yi.Ga'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

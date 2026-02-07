@@ -1,4 +1,4 @@
-**Psalms 106:47** 
+**Psalms 106:47**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, [and] to triumph in thy praise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Save us, O LORD our God, and gather us from the nations, that we may give thanks
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.46|<< Psalms 106:46]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.48|Psalms 106:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | save us  |**<big>&#8207;[[H3467\|הוֹשִׁיעֵ֨]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ho.shi.'E.<small><sup>[[HVhv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְה֘וָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

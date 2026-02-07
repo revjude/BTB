@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:14** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Do you with knowledge know that Baalis king of \[the\] sons of Ammon sent against you  Ishmael son of Nethaniah, to strike your life? and Gedaliah son of Ahikam did not trust them. 
-<small><sub>**KJV:**</sub></small>
-And said unto him, Dost thou certainly know that Baalis the king of the Ammonites hath sent Ishmael the son of Nethaniah to slay thee? But Gedaliah the son of Ahikam believed them not.
-<small><sub>**BSB:**</sub></small>
-and said to him, “Are you aware that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?” But Gedaliah son of Ahikam did not believe them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.13|<< Jeremiah 40:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.15|Jeremiah 40:15 >>]]</td></tr></table>
 
 | Translation | Greek |

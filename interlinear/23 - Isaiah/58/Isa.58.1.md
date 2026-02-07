@@ -1,4 +1,4 @@
-**Isaiah 58:1** 
+**Isaiah 58:1**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their transgression, and the house of Jacob their sins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cry aloud, spare not, lift up thy voice like a trumpet, and shew my people their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.21|<< Isaiah 57:21]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.2|Isaiah 58:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | call out  |**<big>&#8207;[[H7121I\|קְרָ֤א]]&#8207; </big>**| ke.Ra'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with a throat  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H1627\|גָרוֹן֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ga.rOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

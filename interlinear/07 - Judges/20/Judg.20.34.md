@@ -1,4 +1,4 @@
-**Judges 20:34** 
+**Judges 20:34**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came against Gibeah ten thousand chosen men out of all Israel, and the battle was sore: but they knew not that evil [was] near them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then 10,000 select men from all Israel made a frontal assault against Gibeah, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.33|<< Judges 20:33]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.35|Judges 20:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹאוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.vo.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5048\|נֶּ֨גֶד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ne.ged<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

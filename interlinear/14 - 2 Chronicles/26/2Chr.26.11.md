@@ -1,4 +1,4 @@
-**2 Chronicles 26:11** 
+**2 Chronicles 26:11**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Uzziah had an host of fighting men, that went out to war by bands, according to the number of their account by the hand of Jeiel the scribe and Maaseiah the ruler, under the hand of Hananiah, [one] of the king’s captains.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Uzziah had an army ready for battle that went out to war by assigned divisions, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.10|<< 2 Chronicles 26:10]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.12|2 Chronicles 26:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Uzziah  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5818G\|עֻזִּיָּ֡הוּ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'u.zi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

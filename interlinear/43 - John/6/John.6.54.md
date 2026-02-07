@@ -1,12 +1,12 @@
-**John 6:54
-**<small><sub>**KJV:**</sub></small>
+**John 6:54**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day.
 <small><sub>**BSB:**</sub></small>
 Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day.
 <small><sub>**Literal:**</sub></small>
 The [one] eating of My <the> flesh and drinking of My <the> blood has life eternal, and I myself will raise up him in the last day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.53|<< John 6:53]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.55|John 6:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | eating |**<big>[[G5176\|τρώγων]]</big>**  |trōgōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

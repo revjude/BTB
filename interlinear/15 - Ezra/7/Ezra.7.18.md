@@ -1,4 +1,4 @@
-**Ezra 7:18** 
+**Ezra 7:18**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You and your brothers may do whatever seems best with the rest of the silver and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.17|<< Ezra 7:17]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.19|Ezra 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and whatever  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4101\|מָ֣ה]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> Mah<small><sup>[[APi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H1768\|דִי֩]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

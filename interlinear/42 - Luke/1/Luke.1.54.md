@@ -1,12 +1,12 @@
-**Luke 1:54
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:54**<big><big>[[Luke.1.46 Mary’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He hath holpen his servant Israel, in remembrance of [his] mercy;
 <small><sub>**BSB:**</sub></small>
 He has helped His servant Israel, remembering to be merciful,
 <small><sub>**Literal:**</sub></small>
 He has helped Israel [the] servant of Him remembering mercy,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.53|<< Luke 1:53]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.55|Luke 1:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He has helped |**<big>[[G0482\|ἀντελάβετο]]</big>**  |antelabeto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Israel |**<big>[[G2474\|Ἰσραὴλ]]</big>**  |Israēl <small><sup>[[N-GSM-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

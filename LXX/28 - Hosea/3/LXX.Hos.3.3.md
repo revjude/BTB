@@ -1,10 +1,7 @@
 **LXX Hosea 3:3** 
 <small><sub>**LXX:**</sub></small>
 And I said to her, Many days you shall sit down by me, and in no way should you commit harlotry, nor should you be to a man, and I \[will be\] unto you. 
-<small><sub>**KJV:**</sub></small>
-And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for [another] man: so [will] I also [be] for thee.
-<small><sub>**BSB:**</sub></small>
-Then I said to her, “You must live with me for many days; you must not be promiscuous or belong to another, and I will do the same for you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.3.2|<< Hosea 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.4|Hosea 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

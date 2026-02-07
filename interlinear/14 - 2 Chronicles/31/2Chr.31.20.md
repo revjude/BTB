@@ -1,4 +1,4 @@
-**2 Chronicles 31:20** 
+**2 Chronicles 31:20**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thus did Hezekiah throughout all Judah, and wrought [that which was] good and right and truth before the LORD his God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So this is what Hezekiah did throughout Judah. He did what was good and upright 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.19|<< 2 Chronicles 31:19]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.21|2 Chronicles 31:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֧עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like this  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H2063\|זֹ֛את]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

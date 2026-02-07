@@ -1,4 +1,4 @@
-**Psalms 117:1** 
+**Psalms 117:1**<big><big>[[Ps.117.1 Extol Him, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O praise the LORD, all ye nations: praise him, all ye people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Praise the LORD, all you nations! Extol Him, all you peoples!
 > $\quad$ referenced by: [[Rom.15.11|Rom 15:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | praise  |**<big>&#8207;[[H1984B\|הַֽלְל֣וּ]]&#8207; </big>**| ha.Lu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

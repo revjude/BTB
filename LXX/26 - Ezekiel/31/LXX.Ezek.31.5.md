@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:5** 
 <small><sub>**LXX:**</sub></small>
 Because of this, his greatness was raised up high over all the trees of the field, and his tender branches were multiplied, and his shoots were raised up high over much water, in  his stretching out. 
-<small><sub>**KJV:**</sub></small>
-Therefore his height was exalted above all the trees of the field, and his boughs were multiplied, and his branches became long because of the multitude of waters, when he shot forth.
-<small><sub>**BSB:**</sub></small>
-Therefore it towered higher than all the trees of the field. Its branches multiplied, and its boughs grew long as it spread them out because of the abundant waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.4|<< Ezekiel 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.6|Ezekiel 31:6 >>]]</td></tr></table>
 
 | Translation | Greek |

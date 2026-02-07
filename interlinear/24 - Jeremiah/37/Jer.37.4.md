@@ -1,4 +1,4 @@
-**Jeremiah 37:4** 
+**Jeremiah 37:4**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Jeremiah came in and went out among the people: for they had not put him into prison.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Jeremiah was free to come and go among the people, for they had not yet put 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.3|<< Jeremiah 37:3]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.5|Jeremiah 37:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jeremiah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3414L\|יִרְמְיָ֕הוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] coming  |**<big>&#8207;[[H0935G\|בָּ֥א]]&#8207; </big>**| ba'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

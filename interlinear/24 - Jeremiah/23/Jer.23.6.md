@@ -1,4 +1,4 @@
-**Jeremiah 23:6** 
+**Jeremiah 23:6**<big><big>[[Jer.23.1 David’s Righteous Branch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his days Judah shall be saved, and Israel shall dwell safely: and this [is] his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In His days Judah will be saved, and Israel will dwell securely. And this is His
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.5|<< Jeremiah 23:5]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.7|Jeremiah 23:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in days his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יָמָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be saved  |**<big>&#8207;[[H3467\|תִּוָּשַׁ֣ע]]&#8207; </big>**| ti.va.Sha'<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

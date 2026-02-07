@@ -1,4 +1,4 @@
-**Deuteronomy 8:2** 
+**Deuteronomy 8:2**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, [and] to prove thee, to know what [was] in thine heart, whether thou wouldest keep his commandments, or no.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember that these forty years the LORD your God led you all the way in the wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.1|<< Deuteronomy 8:1]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.3|Deuteronomy 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will remember  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2142\|זָכַרְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.khar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

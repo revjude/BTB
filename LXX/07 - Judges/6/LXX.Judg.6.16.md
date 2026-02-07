@@ -1,10 +1,7 @@
 **LXX Judges 6:16** 
 <small><sub>**LXX:**</sub></small>
 And \[The\] <span class="smallcaps">lord</span> said to him that, I will be with you, and you shall strike  Midian as one man. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, Surely I will be with thee, and thou shalt smite the Midianites as one man.
-<small><sub>**BSB:**</sub></small>
-“Surely I will be with you,” the LORD replied, “and you will strike down all the Midianites as one man.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.15|<< Judges 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.17|Judges 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

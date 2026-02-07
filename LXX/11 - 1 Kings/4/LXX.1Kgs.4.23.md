@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:23** 
 <small><sub>**LXX:**</sub></small>
 Ten choice calves, and twenty grazing oxen, and a hundred sheep, outside of stags and does, and chosen and feeding hens. 
-<small><sub>**KJV:**</sub></small>
-Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
-<small><sub>**BSB:**</sub></small>
-ten fat oxen, twenty range oxen, and a hundred sheep, as well as deer, gazelles, roebucks, and fattened poultry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.22|<< 1 Kings 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.24|1 Kings 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

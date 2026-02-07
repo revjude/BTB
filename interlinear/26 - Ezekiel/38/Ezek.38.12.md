@@ -1,4 +1,4 @@
-**Ezekiel 38:12** 
+**Ezekiel 38:12**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To take a spoil, and to take a prey; to turn thine hand upon the desolate places [that are now] inhabited, and upon the people [that are] gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ in order to seize the spoil and carry off the plunder, to turn a hand against th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.11|<< Ezekiel 38:11]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.13|Ezekiel 38:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to plunder  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7997B\|שְׁלֹ֥ל]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Lol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | plunder  |**<big>&#8207;[[H7998\|שָׁלָ֖ל]]&#8207; </big>**| sha.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

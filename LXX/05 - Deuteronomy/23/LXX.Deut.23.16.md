@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:16** 
 <small><sub>**LXX:**</sub></small>
 he shall dwell with you, among you, in every place of which ever it should please him. You shall not afflict him. 
-<small><sub>**KJV:**</sub></small>
-He shall dwell with thee, [even] among you, in that place which he shall choose in one of thy gates, where it liketh him best: thou shalt not oppress him.
-<small><sub>**BSB:**</sub></small>
-Let him live among you wherever he chooses, in the town of his pleasing. Do not oppress him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.15|<< Deuteronomy 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.17|Deuteronomy 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

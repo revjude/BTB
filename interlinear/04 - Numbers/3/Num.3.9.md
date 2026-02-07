@@ -1,4 +1,4 @@
-**Numbers 3:9** 
+**Numbers 3:9**<big><big>[[Num.3.5 The Duties of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt give the Levites unto Aaron and to his sons: they [are] wholly given unto him out of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Assign the Levites to Aaron and his sons; they have been given exclusively to hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.8|<< Numbers 3:8]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.10|Numbers 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

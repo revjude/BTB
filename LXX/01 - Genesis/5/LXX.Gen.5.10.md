@@ -1,10 +1,7 @@
 **LXX Genesis 5:10** 
 <small><sub>**LXX:**</sub></small>
 And Enos lived after  his procreating  Cainan, fifteen years and seven hundred, and he procreated sons and daughters. 
-<small><sub>**KJV:**</sub></small>
-And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.9|<< Genesis 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.11|Genesis 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

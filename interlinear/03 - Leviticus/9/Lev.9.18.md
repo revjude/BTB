@@ -1,4 +1,4 @@
-**Leviticus 9:18** 
+**Leviticus 9:18**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He slew also the bullock and the ram [for] a sacrifice of peace offerings, which [was] for the people: and Aaron’s sons presented unto him the blood, which he sprinkled upon the altar round about,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he slaughtered the ox and the ram as the people’s peace offering. His son
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.17|<< Leviticus 9:17]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.19|Leviticus 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he cut [the] throat of  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7819A\|יִּשְׁחַ֤ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Chat<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

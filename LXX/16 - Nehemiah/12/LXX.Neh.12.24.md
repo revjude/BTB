@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:24** 
 <small><sub>**LXX:**</sub></small>
 And the rulers of the Levites -- Hashabiah, and Sherebiah, and Jeshua. And the sons of Kadmiel, and their brethren over against them, for  praising and making acknowledgment, by \[the\] command of David \[the\] man  of God, in daily rotation by daily rotation. 
-<small><sub>**KJV:**</sub></small>
-And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise [and] to give thanks, according to the commandment of David the man of God, ward over against ward.
-<small><sub>**BSB:**</sub></small>
-The leaders of the Levites were Hashabiah, Sherebiah, and Jeshua son of Kadmiel, along with their associates, who stood across from them to give praise and thanksgiving as one section alternated with the other, as prescribed by David the man of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.23|<< Nehemiah 12:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.25|Nehemiah 12:25 >>]]</td></tr></table>
 
 | Translation | Greek |

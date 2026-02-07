@@ -1,4 +1,4 @@
-**Numbers 21:17** 
+**Numbers 21:17**<big><big>[[Num.21.10 The Journey to Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Israel sang this song, Spring up, O well; sing ye unto it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Israel sang this song: “Spring up, O well, all of you sing to it!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.16|<< Numbers 21:16]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.18|Numbers 21:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֚ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it sang  |**<big>&#8207;[[H7891\|יָשִׁ֣יר]]&#8207; </big>**| ya.Shir<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

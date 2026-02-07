@@ -1,10 +1,7 @@
 **LXX Psalm 86:2** 
 <small><sub>**LXX:**</sub></small>
 Guard  my soul, for I am sacred! Deliver  your servant, O my God! the one hoping upon you. 
-<small><sub>**KJV:**</sub></small>
-Preserve my soul; for I [am] holy: O thou my God, save thy servant that trusteth in thee.
-<small><sub>**BSB:**</sub></small>
-Preserve my soul, for I am godly. You are my God; save Your servant who trusts in You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.1|<< Psalm 86:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.3|Psalm 86:3 >>]]</td></tr></table>
 
 | Translation | Greek |

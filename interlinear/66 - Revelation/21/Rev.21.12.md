@@ -1,5 +1,5 @@
-**Revelation 21:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:12**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And had a wall great and high, [and] had twelve gates, and at the gates twelve angels, and names written thereon, which are [the names] of the twelve tribes of the children of Israel:
 <small><sub>**BSB:**</sub></small>
 The city had a great and high wall with twelve gates inscribed with the names of the twelve tribes of Israel, and twelve angels at the gates.
@@ -10,7 +10,7 @@ having then a wall great and high, having gates twelve and at the gates angels t
 > $\quad$ alluding to: [[LXX.Ezek.48.31|Ezek 48:31]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having |**<big>[[G2192\|ἔχουσα]]</big>**  |echousa <small><sup>[[V-PAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |

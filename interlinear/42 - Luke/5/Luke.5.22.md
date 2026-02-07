@@ -1,12 +1,12 @@
-**Luke 5:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:22**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?
 <small><sub>**BSB:**</sub></small>
 Knowing what they were thinking, Jesus replied, “Why are you thinking these things in your hearts?
 <small><sub>**Literal:**</sub></small>
 Having known now <the> Jesus the reasonings of them answering He said to them; Why reason you in the hearts of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.21|<< Luke 5:21]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.23|Luke 5:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having known |**<big>[[G1921\|Ἐπιγνοὺς]]</big>**  |Epignous <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

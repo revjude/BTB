@@ -1,10 +1,7 @@
 **LXX Joshua 14:3** 
 <small><sub>**LXX:**</sub></small>
 for Moses gave a lot to the two tribes and to the half tribe of the other side of the Jordan. And to the Levites a lot was not given among them. 
-<small><sub>**KJV:**</sub></small>
-For Moses had given the inheritance of two tribes and an half tribe on the other side Jordan: but unto the Levites he gave none inheritance among them.
-<small><sub>**BSB:**</sub></small>
-For Moses had given the inheritance east of the Jordan to the other two and a half tribes. But he granted no inheritance among them to the Levites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.2|<< Joshua 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.4|Joshua 14:4 >>]]</td></tr></table>
 
 | Translation | Greek |

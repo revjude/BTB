@@ -1,4 +1,4 @@
-**2 Chronicles 14:6** (14:5)
+**2 Chronicles 14:6**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the LORD had given him rest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because the land was at peace, Asa built fortified cities in Judah. In those day
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.5|<< 2 Chronicles 14:5]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.7|2 Chronicles 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּ֛בֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities of  |**<big>&#8207;[[H5892B\|עָרֵ֥י]]&#8207; </big>**| 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

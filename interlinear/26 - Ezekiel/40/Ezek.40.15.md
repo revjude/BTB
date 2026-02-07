@@ -1,4 +1,4 @@
-**Ezekiel 40:15** 
+**Ezekiel 40:15**<big><big>[[Ezek.40.5 The East Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from the face of the gate of the entrance unto the face of the porch of the inner gate [were] fifty cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the distance from the entrance of the gateway to the far end of its inner po
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.14|<< Ezekiel 40:14]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.16|Ezekiel 40:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֗ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] face of  |**<big>&#8207;[[H6440G\|פְּנֵי֙]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 13:19** 
+**Jeremiah 13:19**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The cities of the south shall be shut up, and none shall open [them]: Judah shall be carried away captive all of it, it shall be wholly carried away captive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The cities of the Negev have been shut tight, and no one can open them. All Juda
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.18|<< Jeremiah 13:18]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.20|Jeremiah 13:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] cities of  |**<big>&#8207;[[H5892B\|עָרֵ֥י]]&#8207; </big>**| 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Negev  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5045G\|נֶּ֛גֶב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ne.gev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

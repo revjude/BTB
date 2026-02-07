@@ -1,4 +1,4 @@
-**Exodus 39:3** 
+**Exodus 39:3**<big><big>[[Exod.39.1 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they did beat the gold into thin plates, and cut [it into] wires, to work [it] in the blue, and in the purple, and in the scarlet, and in the fine linen, [with] cunning work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They hammered out thin sheets of gold and cut threads from them to interweave wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.2|<< Exodus 39:2]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.4|Exodus 39:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they hammered out  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7554\|יְרַקְּע֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ra.ke.'U<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

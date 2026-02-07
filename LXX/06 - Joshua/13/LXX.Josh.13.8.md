@@ -1,10 +1,7 @@
 **LXX Joshua 13:8** 
 <small><sub>**LXX:**</sub></small>
 To the ones with him, \[to\] Reuben and \[to\] Gad, they received their inheritance which Moses gave to them on the other side of the Jordan; according to \[the\] rising of \[the\] sun Moses the servant \[of the\] <span class="smallcaps">lord</span> granted to them, 
-<small><sub>**KJV:**</sub></small>
-With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, [even] as Moses the servant of the LORD gave them;
-<small><sub>**BSB:**</sub></small>
-The other half of Manasseh, along with the Reubenites and Gadites, had received the inheritance Moses had given them beyond the Jordan to the east, just as Moses the servant of the LORD had assigned to them:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.7|<< Joshua 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.9|Joshua 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

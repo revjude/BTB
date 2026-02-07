@@ -1,4 +1,4 @@
-**Numbers 28:7** 
+**Numbers 28:7**<big><big>[[Num.28.1 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the drink offering thereof [shall be] the fourth [part] of an hin for the one lamb: in the holy [place] shalt thou cause the strong wine to be poured unto the LORD [for] a drink offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The drink offering accompanying each lamb shall be a quarter hin. Pour out the o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.6|<< Numbers 28:6]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.8|Numbers 28:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and drink offering its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5262\|נִסְכּ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nis.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] [the] fourth of  |**<big>&#8207;[[H7243\|רְבִיעִ֣ת]]&#8207; </big>**| re.vi.'It<small><sup>[[HAofsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

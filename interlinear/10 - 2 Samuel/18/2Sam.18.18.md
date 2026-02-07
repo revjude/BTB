@@ -1,4 +1,4 @@
-**2 Samuel 18:18** 
+**2 Samuel 18:18**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Absalom in his lifetime had taken and reared up for himself a pillar, which [is] in the king’s dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom’s place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During his lifetime, Absalom had set up for himself a pillar in the King’s Val
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.17|<< 2 Samuel 18:17]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.19|2 Samuel 18:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Absalom  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0053\|אַבְשָׁלֹ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had taken  |**<big>&#8207;[[H3947G\|לָקַ֗ח]]&#8207; </big>**| la.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

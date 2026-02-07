@@ -1,5 +1,5 @@
-**Matthew 13:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:35**<big><big>[[Matt.13.34 I Will Open My Mouth in Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.
 <small><sub>**BSB:**</sub></small>
 So was fulfilled what was spoken through the prophet: “I will open My mouth in parables; I will utter things hidden since the foundation of the world.”
@@ -10,7 +10,7 @@ so that may be fulfilled that having been spoken through the prophet saying; I w
 > $\quad$ referencing: [[LXX.Ps.78.2|Ps 78:2-3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may be fulfilled |**<big>[[G4137\|πληρωθῇ]]</big>**  |plērōthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall say to the people  this word, Thus says \[the\] <span class="smallcaps">lord</span>, the God of Israel. Every leather bag shall be filled of wine. And it will be if they should say to you, Is it in not knowing that we shall not know that every leather bag shall be filled with wine? 
-<small><sub>**KJV:**</sub></small>
-Therefore thou shalt speak unto them this word; Thus saith the LORD God of Israel, Every bottle shall be filled with wine: and they shall say unto thee, Do we not certainly know that every bottle shall be filled with wine?
-<small><sub>**BSB:**</sub></small>
-Therefore you are to tell them that this is what the LORD, the God of Israel, says: ‘Every wineskin shall be filled with wine.’ And when they reply, ‘Don’t we surely know that every wineskin should be filled with wine?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.11|<< Jeremiah 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.13|Jeremiah 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

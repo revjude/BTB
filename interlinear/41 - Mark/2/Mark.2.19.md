@@ -1,12 +1,12 @@
-**Mark 2:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:19**<big><big>[[Mark.2.18 Questions about Fasting|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “How can the guests of the bridegroom fast while He is with them? As long as He is with them, they cannot fast.
 <small><sub>**Literal:**</sub></small>
 And said to them <the> Jesus; Not are able the sons of the bridechamber in which the bridegroom with them is to fast? As long as time they have the bridegroom with them not they are able to fast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.18|<< Mark 2:18]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.20|Mark 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

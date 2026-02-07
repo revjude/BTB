@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:9** 
 <small><sub>**LXX:**</sub></small>
 If evils should come against us -- \[the\] broadsword, judgment, plague, famine, we will stand before  this house, and before you, (for  your name is called upon in  this house,) and we will yell to you from  our affliction, and you shall hear and shall deliver. 
-<small><sub>**KJV:**</sub></small>
-If, [when] evil cometh upon us, [as] the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name [is] in this house,) and cry unto thee in our affliction, then thou wilt hear and help.
-<small><sub>**BSB:**</sub></small>
-‘If disaster comes upon us—whether sword or judgment, plague or famine—we will stand before this temple and before You, for Your Name is in this temple. We will cry out to You in our distress, and You will hear us and save us.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.8|<< 2 Chronicles 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.10|2 Chronicles 20:10 >>]]</td></tr></table>
 
 | Translation | Greek |

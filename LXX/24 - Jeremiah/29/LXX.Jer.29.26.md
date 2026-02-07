@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:26** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> appointed you priest instead of Jehoiada the priest, to become supervisor in the house of \[the\] <span class="smallcaps">lord</span> to every man prophesying, and to every man being maniacal, and you shall put him in the prison, and in the dungeon. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath made thee priest in the stead of Jehoiada the priest, that ye should be officers in the house of the LORD, for every man [that is] mad, and maketh himself a prophet, that thou shouldest put him in prison, and in the stocks.
-<small><sub>**BSB:**</sub></small>
-‘The LORD has appointed you priest in place of Jehoiada, to be the chief officer in the house of the LORD, responsible for any madman who acts like a prophet—you must put him in stocks and neck irons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.25|<< Jeremiah 29:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.27|Jeremiah 29:27 >>]]</td></tr></table>
 
 | Translation | Greek |

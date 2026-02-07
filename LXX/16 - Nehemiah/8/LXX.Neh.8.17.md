@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:17** 
 <small><sub>**LXX:**</sub></small>
 And all the assembly of the ones returning from the captivity made tents, and they stayed in tents; for the son of Nun sons of Israel did not do thus from \[the\] days of Joshua until  that day. And there became a great gladness -- exceedingly much. 
-<small><sub>**KJV:**</sub></small>
-And all the congregation of them that were come again out of the captivity made booths, and sat under the booths: for since the days of Jeshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness.
-<small><sub>**BSB:**</sub></small>
-The whole assembly that had returned from exile made booths and lived in them. From the days of Joshua son of Nun until that day, the Israelites had not celebrated like this. And there was great rejoicing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.16|<< Nehemiah 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.18|Nehemiah 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

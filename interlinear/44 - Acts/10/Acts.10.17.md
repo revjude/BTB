@@ -1,12 +1,12 @@
-**Acts 10:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:17**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made inquiry for Simon’s house, and stood before the gate,
 <small><sub>**BSB:**</sub></small>
 While Peter was puzzling over the meaning of the vision, the men sent by Cornelius found Simon’s house and approached the gate.
 <small><sub>**Literal:**</sub></small>
 While then in himself was perplexed <the> Peter what maybe would be the vision that he had seen, and behold the men who sent from <the> Cornelius having inquired for the house <the> of Simon, stood at the gate;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.16|<< Acts 10:16]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.18|Acts 10:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

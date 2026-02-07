@@ -1,4 +1,4 @@
-**Judges 15:5** 
+**Judges 15:5**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he had set the brands on fire, he let [them] go into the standing corn of the Philistines, and burnt up both the shocks, and also the standing corn, with the vineyards [and] olives.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he lit the torches and released the foxes into the standing grain of the Ph
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.4|<< Judges 15:4]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.6|Judges 15:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he kindled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1197A\|יַּבְעֶר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yav.'er-<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire  |**<big>&#8207;[[H0784\|אֵשׁ֙]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

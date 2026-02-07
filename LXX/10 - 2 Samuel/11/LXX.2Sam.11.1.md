@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in \[the\] turning of the year into the time of the departure of the kings \[for battle\], that David sent  Joab and  his servants with him and all  Israel; and they utterly destroyed the sons of Ammon, and they besieged against Rabbah. And David stayed in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, after the year was expired, at the time when kings go forth [to battle], that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.
-<small><sub>**BSB:**</sub></small>
-In the spring, at the time when kings march out to war, David sent out Joab and his servants with the whole army of Israel. They destroyed the Ammonites and besieged Rabbah, but David remained in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.19|<< 2 Samuel 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.2|2 Samuel 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

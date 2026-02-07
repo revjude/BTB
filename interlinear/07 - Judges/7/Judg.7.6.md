@@ -1,4 +1,4 @@
-**Judges 7:6** 
+**Judges 7:6**<big><big>[[Judg.7.1 Gideon’s Army of Three Hundred|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the number of them that lapped, [putting] their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the number of those who lapped the water with their hands to their mouths wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.5|<< Judges 7:5]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.7|Judges 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] number of  |**<big>&#8207;[[H4557\|מִסְפַּ֞ר]]&#8207; </big>**| mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:22** 
 <small><sub>**LXX:**</sub></small>
 And say! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against you Sidon; and I shall be glorified in you. And you shall know that I am \[the\] <span class="smallcaps">lord</span>, in  my executing judgments among you; and I shall be sanctified among you. 
-<small><sub>**KJV:**</sub></small>
-And say, Thus saith the Lord GOD; Behold, I [am] against thee, O Zidon; and I will be glorified in the midst of thee: and they shall know that I [am] the LORD, when I shall have executed judgments in her, and shall be sanctified in her.
-<small><sub>**BSB:**</sub></small>
-And you are to declare that this is what the Lord GOD says: ‘Behold, I am against you, O Sidon, and I will be glorified within you. They will know that I am the LORD when I execute judgments against her and demonstrate My holiness through her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.21|<< Ezekiel 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.23|Ezekiel 28:23 >>]]</td></tr></table>
 
 | Translation | Greek |

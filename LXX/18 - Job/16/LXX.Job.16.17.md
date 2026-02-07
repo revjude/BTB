@@ -1,10 +1,7 @@
 **LXX Job 16:17** 
 <small><sub>**LXX:**</sub></small>
 And there was not one unjust \[thing\] in my hands, and my vow \[is\] pure. 
-<small><sub>**KJV:**</sub></small>
-Not for [any] injustice in mine hands: also my prayer [is] pure.
-<small><sub>**BSB:**</sub></small>
-yet my hands are free of violence and my prayer is pure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.16|<< Job 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.18|Job 16:18 >>]]</td></tr></table>
 
 | Translation | Greek |

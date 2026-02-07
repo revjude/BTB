@@ -1,4 +1,4 @@
-**Daniel 11:15** 
+**Daniel 11:15**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither [shall there be any] strength to withstand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the king of the North will come, build up a siege ramp, and capture a forti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.14|<< Daniel 11:14]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.16|Daniel 11:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he may come  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0935G\|יָבֹא֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Vo'<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

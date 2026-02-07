@@ -1,4 +1,4 @@
-**1 Kings 22:53** (22:54)
+**1 Kings 22:53**<big><big>[[1Kgs.22.51 Ahaziah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ahaziah served and worshiped Baal, provoking the LORD, the God of Israel, to ang
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.52|<< 1 Kings 22:52]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.1|2 Kings 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he served  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5647H\|יַּעֲבֹד֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

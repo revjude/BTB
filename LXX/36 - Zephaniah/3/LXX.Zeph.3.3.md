@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:3** 
 <small><sub>**LXX:**</sub></small>
  Her rulers among her \[are\] as lions roaring.  Her judges \[are\] as wolves  of Arabia; they did not remain behind into the morning. 
-<small><sub>**KJV:**</sub></small>
-Her princes within her [are] roaring lions; her judges [are] evening wolves; they gnaw not the bones till the morrow.
-<small><sub>**BSB:**</sub></small>
-Her princes are roaring lions; her judges are evening wolves, leaving nothing for the morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.2|<< Zephaniah 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.4|Zephaniah 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

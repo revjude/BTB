@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:4** 
 <small><sub>**LXX:**</sub></small>
 And Absalom said, Why shall he \[not\] place me for judge in the land, and every man shall come to me to whom ever there might be a dispute, and a case, and I will do justice for him. 
-<small><sub>**KJV:**</sub></small>
-Absalom said moreover, Oh that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice!
-<small><sub>**BSB:**</sub></small>
-And he would add, “If only someone would appoint me judge in the land, then everyone with a grievance or dispute could come to me, and I would give him justice.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.3|<< 2 Samuel 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.5|2 Samuel 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

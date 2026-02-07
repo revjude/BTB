@@ -1,10 +1,7 @@
 **LXX Leviticus 16:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Speak to Aaron  your brother! that he enters not at any hour into the holy \[place\]  inside the veil, at the front of the atonement-seat which is upon the ark of the testimony, that he shall not die. For in a cloud I will appear upon the atonement-seat. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy [place] within the vail before the mercy seat, which [is] upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Moses: “Tell your brother Aaron not to enter freely into the Most Holy Place behind the veil in front of the mercy seat on the ark, or else he will die, because I appear in the cloud above the mercy seat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.1|<< Leviticus 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.3|Leviticus 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

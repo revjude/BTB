@@ -1,12 +1,12 @@
-**Mark 1:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:5**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
 <small><sub>**BSB:**</sub></small>
 People went out to him from all of Jerusalem and the countryside of Judea. Confessing their sins, they were baptized by him in the Jordan River.
 <small><sub>**Literal:**</sub></small>
 And were going out to him all the of Judea region and <the> of Jerusalem all and were being baptized by him in the Jordan river confessing the sins of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.4|<< Mark 1:4]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.6|Mark 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were going out |**<big>[[G1607\|ἐξεπορεύετο]]</big>**  |exeporeueto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 8:2
-**<small><sub>**KJV:**</sub></small>
+**John 8:2**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.
 <small><sub>**BSB:**</sub></small>
 Early in the morning He went back into the temple courts. All the people came to Him, and He sat down to teach them.
 <small><sub>**Literal:**</sub></small>
 Early in the morning then again He came into the temple, and all the people were coming to Him, And having sat down He was teaching them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.1|<< John 8:1]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.3|John 8:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Early in the morning |**<big>[[G3722\|ὄρθρου]]</big>**  |orthrou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |

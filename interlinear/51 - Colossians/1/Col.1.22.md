@@ -1,12 +1,12 @@
-**Colossians 1:22
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:22**<big><big>[[Col.1.15 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
 <small><sub>**BSB:**</sub></small>
 But now He has reconciled you by Christ’s physical body through death to present you holy, unblemished, and blameless in His presence—
 <small><sub>**Literal:**</sub></small>
 now however He has reconciled [You] [22] in the body of the flesh of Him through <the> death to present you holy and unblemished and blameless before Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.21|<< Colossians 1:21]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.23|Colossians 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now |**<big>[[G3570\|νυνὶ]]</big>**  |nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

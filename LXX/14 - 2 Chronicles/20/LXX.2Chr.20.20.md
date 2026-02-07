@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:20** 
 <small><sub>**LXX:**</sub></small>
 And they rose early in the morning, and they went forth into the wilderness of Tekoa. But in  their going forth, Jehoshaphat stood and yelled, and said, Hear me, O Judah, and O ones dwelling in Jerusalem! Entrust in \[the\] <span class="smallcaps">lord</span>  your God! and you will be entrusted. Entrust in his prophet! and your way will be prosperous. 
-<small><sub>**KJV:**</sub></small>
-And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper.
-<small><sub>**BSB:**</sub></small>
-Early in the morning they got up and left for the Wilderness of Tekoa. As they set out, Jehoshaphat stood up and said, “Hear me, O people of Judah and Jerusalem. Believe in the LORD your God, and you will be upheld; believe in His prophets, and you will succeed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.19|<< 2 Chronicles 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.21|2 Chronicles 20:21 >>]]</td></tr></table>
 
 | Translation | Greek |

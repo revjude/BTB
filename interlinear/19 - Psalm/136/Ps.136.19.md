@@ -1,4 +1,4 @@
-**Psalms 136:19** 
+**Psalms 136:19**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sihon king of the Amorites: for his mercy [endureth] for ever:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sihon king of the Amorites His loving devotion endures forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.18|<< Psalms 136:18]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.20|Psalms 136:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to Sihon  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H5511\|סִיחוֹן]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> si.chon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

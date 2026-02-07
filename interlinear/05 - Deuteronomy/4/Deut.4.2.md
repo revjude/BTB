@@ -1,4 +1,4 @@
-**Deuteronomy 4:2** 
+**Deuteronomy 4:2**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not add unto the word which I command you, neither shall ye diminish [ought] from it, that ye may keep the commandments of the LORD your God which I command you.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You must not add to or subtract from what I command you, so that you may keep th
 > $\quad$ referenced by: [[Rev.22.18|Rev 22:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must add  |**<big>&#8207;[[H3254H\|תֹסִ֗פוּ]]&#8207; </big>**| to.Si.fu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

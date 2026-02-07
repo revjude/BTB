@@ -1,4 +1,4 @@
-**Psalms 88:5** (88:6)
+**Psalms 88:5**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Free among the dead, like the slain that lie in the grave, whom thou rememberest no more: and they are cut off from thy hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am forsaken among the dead, like the slain who lie in the grave, whom You reme
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.4|<< Psalms 88:4]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.6|Psalms 88:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | among the dead  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4191\|מֵּתִ֗ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> me.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a [person] set free  |**<big>&#8207;[[H2670\|חָ֫פְשִׁ֥י]]&#8207; </big>**| cha.fe.Shi<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

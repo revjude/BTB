@@ -1,12 +1,12 @@
-**Revelation 1:20
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:20**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
 <small><sub>**BSB:**</sub></small>
 This is the mystery of the seven stars you saw in My right hand and of the seven golden lampstands: The seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.
 <small><sub>**Literal:**</sub></small>
 the mystery of the seven stars which you saw on the right hand of Me and the seven lampstands <the> golden: The seven stars [the] angels of the seven churches are and the lampstands that you saw seven [the] seven churches are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.19|<< Revelation 1:19]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.1|Revelation 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | mystery |**<big>[[G3466\|μυστήριον]]</big>**  |mustērion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

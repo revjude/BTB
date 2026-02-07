@@ -1,4 +1,4 @@
-**2 Kings 8:1** 
+**2 Kings 8:1**<big><big>[[2Kgs.8.1 The Shunammite’s Land Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Elisha had said to the woman whose son he had restored to life, “Arise, yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.20|<< 2 Kings 7:20]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.2|2 Kings 8:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Elisha  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0477\|אֱלִישָׁ֡ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he spoke  |**<big>&#8207;[[H1696G\|דִּבֶּ֣ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joel 3:2** 
 <small><sub>**LXX:**</sub></small>
 I will gather all the nations, and I will lead them into the valley of Jehoshaphat. And I will litigate with them there for  my people, and  my inheritance Israel, whom I dispersed among the nations, even the one \[who\] divided my land. 
-<small><sub>**KJV:**</sub></small>
-I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and [for] my heritage Israel, whom they have scattered among the nations, and parted my land.
-<small><sub>**BSB:**</sub></small>
-I will gather all the nations and bring them down to the Valley of Jehoshaphat. There I will enter into judgment against them concerning My people, My inheritance, Israel, whom they have scattered among the nations as they divided up My land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.1|<< Joel 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.3|Joel 3:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 3:2** is...

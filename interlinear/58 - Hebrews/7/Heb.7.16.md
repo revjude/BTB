@@ -1,12 +1,12 @@
-**Hebrews 7:16
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:16**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who is made, not after the law of a carnal commandment, but after the power of an endless life.
 <small><sub>**BSB:**</sub></small>
 one who has become a priest not by a law of succession, but by the power of an indestructible life.
 <small><sub>**Literal:**</sub></small>
 who not according to a law of a commandment fleshly has been constituted but according to [the] power of a life indestructible;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.15|<< Hebrews 7:15]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.17|Hebrews 7:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Numbers 32:7** 
+**Numbers 32:7**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And wherefore discourage ye the heart of the children of Israel from going over into the land which the LORD hath given them?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why are you discouraging the Israelites from crossing into the land that the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.6|<< Numbers 32:6]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.8|Numbers 32:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> why?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you discourage !  [^2]|**<big>&#8207;[[H5106\|תְנִיא֔וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**[^3] | te.nu.'u<small><sup>[[HVhi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

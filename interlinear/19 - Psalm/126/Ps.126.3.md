@@ -1,4 +1,4 @@
-**Psalms 126:3** 
+**Psalms 126:3**<big><big>[[Ps.126.1 Zion’s Captives Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath done great things for us; [whereof] we are glad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has done great things for us; we are filled with joy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.126.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.126.2|<< Psalms 126:2]]</td><td align="center" style="border:none;">[[Ps.126|Psalms 126]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126.4|Psalms 126:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has made great  |**<big>&#8207;[[H1431\|הִגְדִּ֣יל]]&#8207; </big>**| hig.Dil<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

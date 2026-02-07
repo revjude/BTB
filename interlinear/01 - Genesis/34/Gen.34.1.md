@@ -1,4 +1,4 @@
-**Genesis 34:1** 
+**Genesis 34:1**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.20|<< Genesis 33:20]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.2|Genesis 34:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|תֵּצֵ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Tze'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Dinah  |**<big>&#8207;[[H1783\|דִינָה֙]]&#8207; </big>**| di.Nah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

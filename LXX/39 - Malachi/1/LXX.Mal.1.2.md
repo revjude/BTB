@@ -1,10 +1,7 @@
 **LXX Malachi 1:2** 
 <small><sub>**LXX:**</sub></small>
 I loved you, says \[the\] <span class="smallcaps">lord</span>. And you said, You loved us in what? Was not Esau Jacob's brother? says \[the\] <span class="smallcaps">lord</span>; and I loved  Jacob. 
-<small><sub>**KJV:**</sub></small>
-I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? [Was] not Esau Jacob’s brother? saith the LORD: yet I loved Jacob,
-<small><sub>**BSB:**</sub></small>
-“I have loved you,” says the LORD. But you ask, “How have You loved us?” “Was not Esau Jacob’s brother?” declares the LORD. “Yet Jacob I have loved,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.1|<< Malachi 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.3|Malachi 1:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Malachi 1:2** is...

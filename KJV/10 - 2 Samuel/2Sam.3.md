@@ -1,12 +1,12 @@
 (KJV) **2 Samuel 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2|<< 2 Samuel 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4|2 Samuel 4 >>]]</td></tr></table>
 
-***The House of David Strengthened***&emsp;<small><sup>\[ [[1Chr.3|1 Chronicles 3:1–9]] ]</sup></small> ^bsb732
+<big><big>[[2Sam.3.1 The House of David Strengthened|⥃]]</big></big>***The House of David Strengthened***&emsp;<small><sup>\[ [[1Chr.3|1 Chronicles 3:1–9]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[2Sam.3.1|1]]**<span class="endversemarker">]</span> Now there was long war<small><small>[^2]</small></small> between<small><small>[^3]</small></small> the house of Saul and the house of David: but David waxed<small><small>[^4]</small></small> stronger and stronger, and the house of Saul waxed weaker and weaker. 
 
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.3.2|2]]**<span class="endversemarker">]</span> [¶]And unto David were sons born<small><small>[^5]</small></small> in Hebron: and his firstborn was Amnon<small><small>[^6]</small></small>, of Ahinoam<small><small>[^7]</small></small> the Jezreelitess; <span class="startversemarker">[</span>**[[2Sam.3.3|3]]**<span class="endversemarker">]</span> And his second, Chileab<small><small>[^8]</small></small>, of Abigail<small><small>[^9]</small></small> the wife of Nabal the Carmelite; and the third, Absalom<small><small>[^10]</small></small> the son of Maacah the daughter of Talmai<small><small>[^11]</small></small> king of Geshur<small><small>[^12]</small></small>; <span class="startversemarker">[</span>**[[2Sam.3.4|4]]**<span class="endversemarker">]</span> And the fourth, Adonijah<small><small>[^13]</small></small> the son of Haggith; and the fifth, Shephatiah the son of Abital; <span class="startversemarker">[</span>**[[2Sam.3.5|5]]**<span class="endversemarker">]</span> And the sixth, Ithream, by Eglah David’s wife. These were born to David in Hebron.
 
-***Abner Joins David*** ^bsb733
+<big><big>[[2Sam.3.6 Abner Joins David|⥃]]</big></big>***Abner Joins David***
 
  
 
@@ -18,7 +18,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.3.13|13]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.3.17|17]]**<span class="endversemarker">]</span> [¶]And Abner had communication with the elders of Israel, saying, Ye sought for David in times past<small><small>[^37]</small></small> \[to be\] king over you: <span class="startversemarker">[</span>**[[2Sam.3.18|18]]**<span class="endversemarker">]</span> Now then do \[it\]: for the <span class="smallcaps">Lord<small><small>[^38]</small></small></span> hath spoken of David, saying, By the hand<small><small>[^39]</small></small> of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies. <span class="startversemarker">[</span>**[[2Sam.3.19|19]]**<span class="endversemarker">]</span> And Abner also spake in the ears of Benjamin<small><small>[^40]</small></small>: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin. <span class="startversemarker">[</span>**[[2Sam.3.20|20]]**<span class="endversemarker">]</span> So Abner came to David<small><small>[^41]</small></small> to Hebron, and twenty men with him. And David made Abner and the men that \[were\] with him a feast. <span class="startversemarker">[</span>**[[2Sam.3.21|21]]**<span class="endversemarker">]</span> And Abner said unto David, I will arise and go, and will gather<small><small>[^42]</small></small> all Israel unto my lord the king, that they may make a league with thee, and that thou mayest reign over<small><small>[^43]</small></small> all that thine heart desireth. And David sent Abner away; and he went in peace.
 
-***Joab Murders Abner*** ^bsb734
+<big><big>[[2Sam.3.22 Joab Murders Abner|⥃]]</big></big>***Joab Murders Abner***
 
  
 
@@ -26,7 +26,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.3.22|22]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.3.28|28]]**<span class="endversemarker">]</span> [¶]And afterward when David heard \[it\], he said, I and my kingdom \[are\] guiltless<small><small>[^52]</small></small> before the <span class="smallcaps">Lord</span> for ever from the blood<small><small>[^53]</small></small> of Abner the son of Ner: <span class="startversemarker">[</span>**[[2Sam.3.29|29]]**<span class="endversemarker">]</span> Let it rest<small><small>[^54]</small></small> on the head of Joab, and on all his father’s house; and let there<small><small>[^55]</small></small> not fail<small><small>[^56]</small></small> from the house of Joab one that hath an issue<small><small>[^57]</small></small>, or that is a leper, or that leaneth on a staff, or that falleth on the sword, or that lacketh bread. <span class="startversemarker">[</span>**[[2Sam.3.30|30]]**<span class="endversemarker">]</span> So Joab and Abishai his brother slew Abner<small><small>[^58]</small></small>, because<small><small>[^59]</small></small> he had slain their brother Asahel at Gibeon in the battle.
 
-***David Mourns for Abner*** ^bsb735
+<big><big>[[2Sam.3.31 David Mourns for Abner|⥃]]</big></big>***David Mourns for Abner***
 
  
 

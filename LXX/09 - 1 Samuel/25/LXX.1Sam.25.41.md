@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:41** 
 <small><sub>**LXX:**</sub></small>
 And rising, she did obeisance upon \[her\] face upon the ground. And she said, Behold,  your maidservant \[is\] for a girl to wash the feet of the servants  of my master. 
-<small><sub>**KJV:**</sub></small>
-And she arose, and bowed herself on [her] face to the earth, and said, Behold, [let] thine handmaid [be] a servant to wash the feet of the servants of my lord.
-<small><sub>**BSB:**</sub></small>
-She arose, bowed facedown, and said, “Here is your servant, ready to serve and to wash the feet of my lord’s servants.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.40|<< 1 Samuel 25:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.42|1 Samuel 25:42 >>]]</td></tr></table>
 
 | Translation | Greek |

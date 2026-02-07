@@ -1,12 +1,12 @@
-**2 Timothy 2:7
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:7**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Consider what I say; and the Lord give thee understanding in all things.
 <small><sub>**BSB:**</sub></small>
 Consider what I am saying, for the Lord will give you insight into all things.
 <small><sub>**Literal:**</sub></small>
 do consider [the] thing I am saying; will grant for you the Lord understanding in all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.6|<< 2 Timothy 2:6]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.8|2 Timothy 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do consider |**<big>[[G3539\|νόει]]</big>**  |noei <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] thing [^1] |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

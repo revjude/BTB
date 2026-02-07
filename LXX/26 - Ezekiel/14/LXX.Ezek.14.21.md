@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:21** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; But if also  my four punishments -- the ferocious broadsword, and famine, and ferocious wild beasts, and plague, I should send out upon Jerusalem  to utterly destroy from out of it man and beast; 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD; How much more when I send my four sore judgments upon Jerusalem, the sword, and the famine, and the noisome beast, and the pestilence, to cut off from it man and beast?
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord GOD says: ‘How much worse will it be when I send against Jerusalem My four dire judgments—sword, famine, wild beasts, and plague—in order to cut off from it both man and beast?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.20|<< Ezekiel 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.22|Ezekiel 14:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 14:21** is...

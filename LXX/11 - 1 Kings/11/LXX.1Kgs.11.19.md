@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:19** 
 <small><sub>**LXX:**</sub></small>
 And Hadad found favor before Pharaoh, exceedingly. And he gave to him a wife, \[the\] sister  of his wife -- the \[the\] older sister of Tahpenes. 
-<small><sub>**KJV:**</sub></small>
-And Hadad found great favour in the sight of Pharaoh, so that he gave him to wife the sister of his own wife, the sister of Tahpenes the queen.
-<small><sub>**BSB:**</sub></small>
-There Hadad found such great favor in the sight of Pharaoh that he gave to him in marriage the sister of Queen Tahpenes, his own wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.18|<< 1 Kings 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.20|1 Kings 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

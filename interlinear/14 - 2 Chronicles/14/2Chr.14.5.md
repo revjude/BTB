@@ -1,4 +1,4 @@
-**2 Chronicles 14:5** (14:4)
+**2 Chronicles 14:5**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he took away out of all the cities of Judah the high places and the images: and the kingdom was quiet before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also removed the high places and incense altars from all the cities of Judah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.4|<< 2 Chronicles 14:4]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.6|2 Chronicles 14:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493G\|יָּ֙סַר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sar<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

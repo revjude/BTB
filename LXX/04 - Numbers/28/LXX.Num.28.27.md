@@ -1,10 +1,7 @@
 **LXX Numbers 28:27** 
 <small><sub>**LXX:**</sub></small>
 And you shall bring whole burnt-offerings for a scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span> -- two calves of \[the\] oxen, one ram, seven lambs of a year \[old\] unblemished. 
-<small><sub>**KJV:**</sub></small>
-But ye shall offer the burnt offering for a sweet savour unto the LORD; two young bullocks, one ram, seven lambs of the first year;
-<small><sub>**BSB:**</sub></small>
-Present a burnt offering of two young bulls, one ram, and seven male lambs a year old as a pleasing aroma to the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.26|<< Numbers 28:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.28|Numbers 28:28 >>]]</td></tr></table>
 
 | Translation | Greek |

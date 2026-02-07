@@ -1,12 +1,12 @@
-**Acts 9:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:2**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And desired of him letters to Damascus to the synagogues, that if he found any of this way, whether they were men or women, he might bring them bound unto Jerusalem.
 <small><sub>**BSB:**</sub></small>
 and requested letters to the synagogues in Damascus, so that if he found any men or women belonging to the Way, he could bring them as prisoners to Jerusalem.
 <small><sub>**Literal:**</sub></small>
 requested from him letters in Damascus to the synagogues, so that if any he shall find of the way being men both and women, bound he may bring [them] to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.1|<< Acts 9:1]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.3|Acts 9:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | requested |**<big>[[G0154\|ᾐτήσατο]]</big>**  |ētēsato <small><sup>[[V-AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G3844\|παρ᾽]]</big>**  |par᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

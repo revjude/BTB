@@ -1,4 +1,4 @@
-**Isaiah 33:3** 
+**Isaiah 33:3**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the noise of the tumult the people fled; at the lifting up of thyself the nations were scattered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The peoples flee the thunder of Your voice; the nations scatter when You rise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.2|<< Isaiah 33:2]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.4|Isaiah 33:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] sound of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6963H\|קּ֣וֹל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tumult  |**<big>&#8207;[[H1995A\|הָמ֔וֹן]]&#8207; </big>**| ha.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

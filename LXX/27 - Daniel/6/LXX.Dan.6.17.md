@@ -1,10 +1,7 @@
 **LXX Daniel 6:17** 
 <small><sub>**LXX:**</sub></small>
 And they brought one stone, and they placed \[it\] upon the mouth of the pit, and the king set seal on it with  his ring, and with the ring  of his great men; so that \[the\] thing should not be changed with \[regard\]  to Daniel. 
-<small><sub>**KJV:**</sub></small>
-And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.
-<small><sub>**BSB:**</sub></small>
-A stone was brought and placed over the mouth of the den, and the king sealed it with his own signet ring and with the rings of his nobles, so that nothing concerning Daniel could be changed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.16|<< Daniel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.18|Daniel 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

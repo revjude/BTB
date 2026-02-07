@@ -1,4 +1,4 @@
-**1 Kings 11:16** 
+**1 Kings 11:16**<big><big>[[1Kgs.11.14 Hadad’s Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joab and all Israel had stayed there six months, until he had killed every male 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.15|<< 1 Kings 11:15]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.17|1 Kings 11:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | six  |**<big>&#8207;[[H8337\|שֵׁ֧שֶׁת]]&#8207; </big>**| She.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

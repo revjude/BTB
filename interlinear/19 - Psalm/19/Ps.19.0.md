@@ -1,12 +1,10 @@
-**Psalms 19:0** (19:1)
+**Psalms 19:0**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. The heavens declare the glory of God; and the firmament sheweth his handywork.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands.
+To the chief Musician, A Psalm of David.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.50|<< Psalms 18:50]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.1|Psalms 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the choirmaster  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5329\|מְנַצֵּ֗חַ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a psalm  |**<big>&#8207;[[H4210\|מִזְמ֥וֹר]]&#8207; </big>**| miz.Mor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

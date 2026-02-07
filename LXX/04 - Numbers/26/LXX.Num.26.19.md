@@ -1,10 +1,7 @@
 **LXX Numbers 26:19** 
 <small><sub>**LXX:**</sub></small>
 Sons of Judah -- Er and Onan, Shelah, and Pharez and Zara; and Er and Onan died in \[the\] land of Canaan. 
-<small><sub>**KJV:**</sub></small>
-The sons of Judah [were] Er and Onan: and Er and Onan died in the land of Canaan.
-<small><sub>**BSB:**</sub></small>
-The sons of Judah were Er and Onan, but they died in the land of Canaan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.18|<< Numbers 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.20|Numbers 26:20 >>]]</td></tr></table>
 
 | Translation | Greek |

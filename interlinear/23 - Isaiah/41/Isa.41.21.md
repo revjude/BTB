@@ -1,4 +1,4 @@
-**Isaiah 41:21** 
+**Isaiah 41:21**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Produce your cause, saith the LORD; bring forth your strong [reasons], saith the King of Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Produce your cause, saith the LORD; bring forth your strong [reasons], saith the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.20|<< Isaiah 41:20]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.22|Isaiah 41:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bring near  |**<big>&#8207;[[H7126G\|קָרְב֥וּ]]&#8207; </big>**| ka.re.Vu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | case your  |**<big>&#8207;[[H7379\|רִֽיבְ]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| riv.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

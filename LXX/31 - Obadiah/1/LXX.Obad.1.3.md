@@ -1,10 +1,7 @@
 **LXX Obadiah 1:3** 
 <small><sub>**LXX:**</sub></small>
 Pride  of your heart lifted you up, encamping in the openings of the rocks, exalting his dwelling, saying in his heart, Who shall lead me down unto the ground? 
-<small><sub>**KJV:**</sub></small>
-The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation [is] high; that saith in his heart, Who shall bring me down to the ground?
-<small><sub>**BSB:**</sub></small>
-The pride of your heart has deceived you, O dwellers in the clefts of the rocks whose habitation is the heights, who say in your heart, ‘Who can bring me down to the ground?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.2|<< Obadiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.4|Obadiah 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 31:10** 
 <small><sub>**LXX:**</sub></small>
 for my life failed in grief, and  my years in moanings. My strength weakened in poorness, and  my bones are disturbed. 
-<small><sub>**KJV:**</sub></small>
-For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed.
-<small><sub>**BSB:**</sub></small>
-For my life is consumed with grief and my years with groaning; my iniquity has drained my strength, and my bones are wasting away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.9|<< Psalm 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.11|Psalm 31:11 >>]]</td></tr></table>
 
 | Translation | Greek |

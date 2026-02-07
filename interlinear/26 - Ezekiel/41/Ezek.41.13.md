@@ -1,4 +1,4 @@
-**Ezekiel 41:13** 
+**Ezekiel 41:13**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he measured the house, an hundred cubits long; and the separate place, and the building, with the walls thereof, an hundred cubits long;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then he measured the temple to be a hundred cubits long, and the temple courtyar
 > $\quad$ referenced by: [[Rev.11.1|Rev 11:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he measured  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4058\|מָדַ֣ד]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.Dad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

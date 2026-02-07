@@ -1,4 +1,4 @@
-**2 Samuel 16:23** 
+**2 Samuel 16:23**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the counsel of Ahithophel, which he counselled in those days, [was] as if a man had inquired at the oracle of God: so [was] all the counsel of Ahithophel both with David and with Absalom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now in those days the advice of Ahithophel was like the consultation of the word
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.22|<< 2 Samuel 16:22]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.1|2 Samuel 17:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] counsel of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6098\|עֲצַ֣ת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Tzat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahithophel  |**<big>&#8207;[[H0302\|אֲחִיתֹ֗פֶל]]&#8207; </big>**| 'a.chi.To.fel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

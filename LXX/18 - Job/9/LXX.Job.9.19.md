@@ -1,10 +1,7 @@
 **LXX Job 9:19** 
 <small><sub>**LXX:**</sub></small>
 For indeed by strength he prevails; who then shall oppose his judgment? 
-<small><sub>**KJV:**</sub></small>
-If [I speak] of strength, lo, [he is] strong: and if of judgment, who shall set me a time [to plead]?
-<small><sub>**BSB:**</sub></small>
-If it is a matter of strength, He is indeed mighty! If it is a matter of justice, who can summon Him?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.18|<< Job 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.20|Job 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

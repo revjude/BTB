@@ -1,12 +1,12 @@
-**Philemon 1:24
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:24**<big><big>[[Phlm.1.23 Additional Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.
 <small><sub>**BSB:**</sub></small>
 as do Mark, Aristarchus, Demas, and Luke, my fellow workers.
 <small><sub>**Literal:**</sub></small>
 [as do] Mark, Aristarchus, Demas, [and] Luke, the fellow workers of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.23|<< Philemon 1:23]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.25|Philemon 1:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [as do] Mark, |**<big>[[G3138\|Μᾶρκος,]]</big>**  |Markos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Aristarchus, |**<big>[[G0708\|Ἀρίσταρχος,]]</big>**  |Aristarchos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

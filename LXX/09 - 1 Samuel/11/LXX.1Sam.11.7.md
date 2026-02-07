@@ -1,10 +1,7 @@
 **LXX 1 Samuel 11:7** 
 <small><sub>**LXX:**</sub></small>
 And he took two oxen, and dismembered them, and sent \[them\] unto every border of Israel by \[the\] hand of messengers, saying, Whosoever is not going forth after Saul and after Samuel, according to thus they shall do \[to\] his oxen. And there fell a change of state of \[the\] <span class="smallcaps">lord</span> upon the people, and they yelled as one man. 
-<small><sub>**KJV:**</sub></small>
-And he took a yoke of oxen, and hewed them in pieces, and sent [them] throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the LORD fell on the people, and they came out with one consent.
-<small><sub>**BSB:**</sub></small>
-He took a pair of oxen, cut them into pieces, and sent them by messengers throughout the land of Israel, proclaiming, “This is what will be done to the oxen of anyone who does not march behind Saul and Samuel.” Then the terror of the LORD fell upon the people, and they came out together as one man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.6|<< 1 Samuel 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.8|1 Samuel 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

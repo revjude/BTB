@@ -1,4 +1,4 @@
-**Deuteronomy 24:1** 
+**Deuteronomy 24:1**<big><big>[[Deut.24.1 Marriage and Divorce Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give [it] in her hand, and send her out of his house.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If a man marries a woman, but she becomes displeasing to him because he finds so
 > $\quad$ referenced by: [[Matt.5.31|Matt 5:31]] ☩ [[Matt.19.7|Matt 19:7]] ☩ [[Mark.10.4|Mark 10:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will take  |**<big>&#8207;[[H3947G\|יִקַּ֥ח]]&#8207; </big>**| yi.Kach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

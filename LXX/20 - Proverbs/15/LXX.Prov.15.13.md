@@ -1,10 +1,7 @@
 **LXX Proverbs 15:13** 
 <small><sub>**LXX:**</sub></small>
 \[With the\] heart being glad \[the\] face flourishes; but being in distresses it looks downcast. 
-<small><sub>**KJV:**</sub></small>
-A merry heart maketh a cheerful countenance: but by sorrow of the heart the spirit is broken.
-<small><sub>**BSB:**</sub></small>
-A joyful heart makes a cheerful countenance, but sorrow of the heart crushes the spirit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.12|<< Proverbs 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.14|Proverbs 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

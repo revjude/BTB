@@ -1,10 +1,7 @@
 **LXX Genesis 43:15** 
 <small><sub>**LXX:**</sub></small>
 And the men receiving  these gifts, and the double silver they took in  their hands, and  Benjamin, and rising up they went down into Egypt, and stood before Joseph. 
-<small><sub>**KJV:**</sub></small>
-And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.
-<small><sub>**BSB:**</sub></small>
-So the men took these gifts, along with double the amount of silver, and Benjamin as well. Then they hurried down to Egypt and stood before Joseph.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.14|<< Genesis 43:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.16|Genesis 43:16 >>]]</td></tr></table>
 
 | Translation | Greek |

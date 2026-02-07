@@ -1,12 +1,12 @@
-**Acts 8:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:9**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:
 <small><sub>**BSB:**</sub></small>
 Prior to that time, a man named Simon had practiced sorcery in the city and astounded the people of Samaria. He claimed to be someone great,
 <small><sub>**Literal:**</sub></small>
 A man now certain named Simon was formerly in the city practicing sorcery and amazing the people <the> of Samaria declaring to be someone himself great;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.8|<< Acts 8:8]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.10|Acts 8:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A man |**<big>[[G0435G\|Ἀνὴρ]]</big>**  |Anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

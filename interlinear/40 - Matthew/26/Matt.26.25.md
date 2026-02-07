@@ -1,12 +1,12 @@
-**Matthew 26:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:25**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, Thou hast said.
 <small><sub>**BSB:**</sub></small>
 Then Judas, who would betray Him, said, “Surely not I, Rabbi?” Jesus answered, “You have said it yourself.”
 <small><sub>**Literal:**</sub></small>
 Answering now Judas who is betraying Him said; surely not ever I myself is it, Rabbi? He says to him; You yourself have said.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.24|<< Matthew 26:24]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.26|Matthew 26:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 43:27** 
 <small><sub>**LXX:**</sub></small>
 And he asked them, How have you \[been\]? And he said to them, Is your father in health, the old man whom you spoke of? Still he lives? 
-<small><sub>**KJV:**</sub></small>
-And he asked them of [their] welfare, and said, [Is] your father well, the old man of whom ye spake? [Is] he yet alive?
-<small><sub>**BSB:**</sub></small>
-He asked if they were well, and then he asked, “How is your elderly father you told me about? Is he still alive?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.26|<< Genesis 43:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.28|Genesis 43:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 10:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:33**<big><big>[[Mark.10.32 The Third Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Saying], Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:
 <small><sub>**BSB:**</sub></small>
 “Look, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and scribes. They will condemn Him to death and will deliver Him over to the Gentiles,
 <small><sub>**Literal:**</sub></small>
 that Behold we go up to Jerusalem, and the Son <the> of Man will be betrayed to the chief priests and to the scribes, and they will condemn Him to death and will betray Him to the Gentiles<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.32|<< Mark 10:32]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.34|Mark 10:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 19:20** 
+**Proverbs 19:20**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen to counsel and accept discipline, that you may be wise the rest of your d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.19|<< Proverbs 19:19]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.21|Proverbs 19:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen to  |**<big>&#8207;[[H8085G\|שְׁמַ֣ע]]&#8207; </big>**| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | counsel  |**<big>&#8207;[[H6098\|עֵ֭צָה]]&#8207; </big>**| 'E.tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

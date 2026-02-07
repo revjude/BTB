@@ -1,12 +1,12 @@
-**Mark 5:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:19**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit Jesus suffered him not, but saith unto him, Go home to thy friends, and tell them how great things the Lord hath done for thee, and hath had compassion on thee.
 <small><sub>**BSB:**</sub></small>
 But Jesus would not allow him. “Go home to your own people,” He said, “and tell them how much the Lord has done for you, and what mercy He has shown you.”
 <small><sub>**Literal:**</sub></small>
 And <the> now Jesus not He did permit him, but He says to him; do go to the home of you to <the> your own and do declare to them as much as the Lord for you has done and He had mercy on you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.18|<< Mark 5:18]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.20|Mark 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

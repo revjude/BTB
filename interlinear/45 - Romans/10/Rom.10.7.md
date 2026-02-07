@@ -1,5 +1,5 @@
-**Romans 10:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:7**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)
 <small><sub>**BSB:**</sub></small>
 or, ‘Who will descend into the Abyss?’ (that is, to bring Christ up from the dead).”
@@ -10,7 +10,7 @@ or Who will descend into the abyss?’ That is Christ out from [the] dead to bri
 > $\quad$ referencing: [[LXX.Deut.30.13|Deut 30:13]] ☩ [[LXX.Ps.107.26|Ps 107:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Who |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

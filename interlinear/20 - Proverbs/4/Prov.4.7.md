@@ -1,4 +1,4 @@
-**Proverbs 4:7** 
+**Proverbs 4:7**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wisdom [is] the principal thing; [therefore] get wisdom: and with all thy getting get understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wisdom is supreme; so acquire wisdom. And whatever you may acquire, gain underst
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.6|<< Proverbs 4:6]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.8|Proverbs 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] first  |**<big>&#8207;[[H7225G\|רֵאשִׁ֣ית]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wisdom  |**<big>&#8207;[[H2451\|חָ֭כְמָה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 19:23** 
+**2 Kings 19:23**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By thy messengers thou hast reproached the Lord, and hast said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, [and] the choice fir trees thereof: and I will enter into the lodgings of his borders, [and into] the forest of his Carmel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Through your servants you have taunted the Lord, and you have said: “With my m
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.22|<< 2 Kings 19:22]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.24|2 Kings 19:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027J\|יַ֣ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | messengers your  |**<big>&#8207;[[H4397G\|מַלְאָכֶי]]&#8207;&#8207;[[H9021\|ךָ֮]]&#8207; </big>**| mal.'a.khei.<small><sup>[[HNcmpc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

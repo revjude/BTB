@@ -1,4 +1,4 @@
-**Zechariah 11:14** 
+**Zechariah 11:14**<big><big>[[Zech.11.10 Thirty Pieces of Silver|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I cut asunder mine other staff, [even] Bands, that I might break the brotherhood between Judah and Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I cut in two my second staff called Union, breaking the brotherhood between
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.13|<< Zechariah 11:13]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.15|Zechariah 11:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I cut up  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H1438\|אֶגְדַּע֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'eg.Da'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 22:2** 
 <small><sub>**LXX:**</sub></small>
 And Balak son of Zippor \[was\] seeing all as many \[things\] as Israel did to the Amorites. 
-<small><sub>**KJV:**</sub></small>
-And Balak the son of Zippor saw all that Israel had done to the Amorites.
-<small><sub>**BSB:**</sub></small>
-Now Balak son of Zippor saw all that Israel had done to the Amorites,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.1|<< Numbers 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.3|Numbers 22:3 >>]]</td></tr></table>
 
 | Translation | Greek |

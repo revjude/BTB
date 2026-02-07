@@ -1,4 +1,4 @@
-**1 Chronicles 24:24** 
+**1 Chronicles 24:24**<big><big>[[1Chr.24.20 The Rest of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Of] the sons of Uzziel; Michah: of the sons of Michah; Shamir.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the sons of Uzziel: Micah; from the sons of Micah: Shamir.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.23|<< 1 Chronicles 24:23]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.25|1 Chronicles 24:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Uzziel  |**<big>&#8207;[[H5816G\|עֻזִּיאֵל֙]]&#8207; </big>**| 'u.zi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

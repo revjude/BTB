@@ -1,4 +1,4 @@
-**2 Samuel 9:13** 
+**2 Samuel 9:13**<big><big>[[2Sam.9.1 David and Mephibosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king’s table; and was lame on both his feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Mephibosheth lived in Jerusalem, because he always ate at the king’s table,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.12|<< 2 Samuel 9:12]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.1|2 Samuel 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Mephibosheth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4648G\|מְפִיבֹ֗שֶׁת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.fi.Vo.shet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] dwelling  |**<big>&#8207;[[H3427\|יֹשֵׁב֙]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

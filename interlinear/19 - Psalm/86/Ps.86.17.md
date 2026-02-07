@@ -1,4 +1,4 @@
-**Psalms 86:17** 
+**Psalms 86:17**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shew me a token for good; that they which hate me may see [it], and be ashamed: because thou, LORD, hast holpen me, and comforted me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Show me a sign of Your goodness, that my enemies may see and be ashamed; for You
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.16|<< Psalms 86:16]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.87.0|Psalms 87:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do  |**<big>&#8207;[[H6213A\|עֲשֵֽׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.seh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with me  |**<big>&#8207;[[H5973A\|עִמִּ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'i.M<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

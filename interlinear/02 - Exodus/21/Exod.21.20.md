@@ -1,4 +1,4 @@
-**Exodus 21:20** 
+**Exodus 21:20**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man strikes his manservant or maidservant with a rod, and the servant dies 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.19|<< Exodus 21:19]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.21|Exodus 21:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will strike  |**<big>&#8207;[[H5221\|יַכֶּה֩]]&#8207; </big>**| ya.Keh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

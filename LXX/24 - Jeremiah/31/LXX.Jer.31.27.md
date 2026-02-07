@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:27** 
 <small><sub>**LXX:**</sub></small>
 Behold, days come, says \[the\] <span class="smallcaps">lord</span>, and I shall sow  Israel and  Judah \[with the\] seed of man, and \[the\] seed of beast. 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, saith the LORD, that I will sow the house of Israel and the house of Judah with the seed of man, and with the seed of beast.
-<small><sub>**BSB:**</sub></small>
-“The days are coming,” declares the LORD, “when I will sow the house of Israel and the house of Judah with the seed of man and of beast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.26|<< Jeremiah 31:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.28|Jeremiah 31:28 >>]]</td></tr></table>
 
 | Translation | Greek |

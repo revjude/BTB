@@ -1,4 +1,4 @@
-**Psalms 99:6** 
+**Psalms 99:6**<big><big>[[Ps.99.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses and Aaron were among His priests; Samuel was among those who called on His
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.99.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99.5|<< Psalms 99:5]]</td><td align="center" style="border:none;">[[Ps.99|Psalms 99]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.7|Psalms 99:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Moses  |**<big>&#8207;[[H4872\|מֹ֘שֶׁ֤ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Aaron  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0175\|אַהֲרֹ֨ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 7:38** 
 <small><sub>**LXX:**</sub></small>
 one incense pan of ten \[weights\] of gold, full of incense; 
-<small><sub>**KJV:**</sub></small>
-One golden spoon of ten [shekels], full of incense:
-<small><sub>**BSB:**</sub></small>
-one gold dish weighing ten shekels, filled with incense;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.37|<< Numbers 7:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.39|Numbers 7:39 >>]]</td></tr></table>
 
 | Translation | Greek |

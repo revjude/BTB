@@ -1,4 +1,4 @@
-**Daniel 8:18** 
+**Daniel 8:18**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While he was speaking with me, I fell into a deep sleep, with my face to the gro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.17|<< Daniel 8:17]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.19|Daniel 8:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when spoke he  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H1696G\|דַבְּר֣]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> da.be.R<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with me  |**<big>&#8207;[[H5973A\|עִמִּ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'i.M<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

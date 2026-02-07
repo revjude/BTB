@@ -1,4 +1,4 @@
-**Job 41:31** (41:23)
+**Job 41:31**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He makes the depths seethe like a cauldron; he makes the sea like a jar of ointm
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.30|<< Job 41:30]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.32|Job 41:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it makes boil  |**<big>&#8207;[[H7570\|יַרְתִּ֣יחַ]]&#8207; </big>**| yar.Ti.ach<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> pot  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H5518A\|סִּ֣יר]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Sir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

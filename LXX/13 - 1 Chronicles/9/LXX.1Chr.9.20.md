@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:20** 
 <small><sub>**LXX:**</sub></small>
 And Phinehas son of Eleazar being \[the\] leader was over them before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Phinehas the son of Eleazar was the ruler over them in time past, [and] the LORD [was] with him.
-<small><sub>**BSB:**</sub></small>
-In earlier times Phinehas son of Eleazar had been in charge of the gatekeepers, and the LORD was with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.19|<< 1 Chronicles 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.21|1 Chronicles 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 John 5:6
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:6**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This is he that came by water and blood, [even] Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth.
 <small><sub>**BSB:**</sub></small>
 This is the One who came by water and blood, Jesus Christ—not by water alone, but by water and blood. And it is the Spirit who testifies to this, because the Spirit is the truth.
 <small><sub>**Literal:**</sub></small>
 This is the [One] having come through water and blood, Jesus <the> Christ; not by <the> water only, but by <the> water and by <the> blood; And the Spirit is the [One] testifying, because the Spirit is the truth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.5|<< 1 John 5:5]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.7|1 John 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|οὗτός]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

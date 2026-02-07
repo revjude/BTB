@@ -1,4 +1,4 @@
-**Ezekiel 12:22** 
+**Ezekiel 12:22**<big><big>[[Ezek.12.21 The Presumptuous Proverb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, what [is] that proverb [that] ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Son of man, what [is] that proverb [that] ye have in the land of Israel, saying,
 > $\quad$ referenced by: [[2Pet.3.4|2Pet 3:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

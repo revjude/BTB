@@ -1,4 +1,4 @@
-**Ecclesiastes 6:9** 
+**Ecclesiastes 6:9**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] the sight of the eyes than the wandering of the desire: this [is] also vanity and vexation of spirit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better what the eye can see than the wandering of desire. This too is futile and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.8|<< Ecclesiastes 6:8]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.10|Ecclesiastes 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֛וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sight of  |**<big>&#8207;[[H4758\|מַרְאֵ֥ה]]&#8207; </big>**| mar.'Eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

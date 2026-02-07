@@ -1,12 +1,12 @@
-**Philippians 1:13
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:13**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So that my bonds in Christ are manifest in all the palace, and in all other [places];
 <small><sub>**BSB:**</sub></small>
 As a result, it has become clear throughout the whole palace guard and to everyone else that I am in chains for Christ.
 <small><sub>**Literal:**</sub></small>
 so as for the chains of mine clearly known in Christ to have become in all the palace guard and to the rest all<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.12|<< Philippians 1:12]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.14|Philippians 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as for |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

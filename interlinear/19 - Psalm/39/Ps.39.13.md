@@ -1,4 +1,4 @@
-**Psalms 39:13** (39:14)
+**Psalms 39:13**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O spare me, that I may recover strength, before I go hence, and be no more.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Turn Your gaze away from me, that I may again be cheered before I depart and am 
 > $\quad$ referenced by: [[Heb.11.13|Heb 11:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | smear  |**<big>&#8207;[[H8159\|הָשַׁ֣ע]]&#8207; </big>**| ha.Sha'<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from me  |**<big>&#8207;[[H4480A\|מִמֶּ֣]]&#8207;&#8207;[[H9030\|נִּי]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

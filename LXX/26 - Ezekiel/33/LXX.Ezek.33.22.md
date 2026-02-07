@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] hand of \[the\] <span class="smallcaps">lord</span> came upon me at evening before he came; and he opened my  mouth as he came to me in the morning; and in opening  my mouth it was not held together any longer. 
-<small><sub>**KJV:**</sub></small>
-Now the hand of the LORD was upon me in the evening, afore he that was escaped came; and had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more dumb.
-<small><sub>**BSB:**</sub></small>
-Now the evening before the fugitive arrived, the hand of the LORD was upon me, and He opened my mouth before the man came to me in the morning. So my mouth was opened and I was no longer mute.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.21|<< Ezekiel 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.23|Ezekiel 33:23 >>]]</td></tr></table>
 
 | Translation | Greek |

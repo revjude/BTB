@@ -1,12 +1,12 @@
-**2 Corinthians 9:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:1**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as touching the ministering to the saints, it is superfluous for me to write to you:
 <small><sub>**BSB:**</sub></small>
 Now about the service to the saints, there is no need for me to write to you.
 <small><sub>**Literal:**</sub></small>
 Concerning now for the service <the> for the saints excessive for me it is <the> to write to you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.24|<< 2 Corinthians 8:24]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.2|2 Corinthians 9:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

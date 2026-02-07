@@ -1,12 +1,12 @@
-**Philippians 2:3
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:3**<big><big>[[Phil.2.1 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Let] nothing [be done] through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.
 <small><sub>**BSB:**</sub></small>
 Do nothing out of selfish ambition or empty pride, but in humility consider others more important than yourselves.
 <small><sub>**Literal:**</sub></small>
 nothing according to self-interest nor according to vain conceit but <the> in humility one another be esteeming surpassing themselves;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.2|<< Philippians 2:2]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.4|Philippians 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nothing |**<big>[[G3367\|μηδὲν]]</big>**  |mēden <small><sup>[[A-ASN-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | according to |**<big>[[G2596\|κατ᾽]]</big>**  |kat᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

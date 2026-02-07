@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:11** 
 <small><sub>**LXX:**</sub></small>
 All which he made \[is\] good in his season; and indeed with the eon he gave in their heart, so that man should not find the action which God did from beginning till end. 
-<small><sub>**KJV:**</sub></small>
-He hath made every [thing] beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.
-<small><sub>**BSB:**</sub></small>
-He has made everything beautiful in its time. He has also set eternity in the hearts of men, yet they cannot fathom the work that God has done from beginning to end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.10|<< Ecclesiastes 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.12|Ecclesiastes 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

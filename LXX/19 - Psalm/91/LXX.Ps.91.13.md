@@ -1,10 +1,7 @@
 **LXX Psalm 91:13** 
 <small><sub>**LXX:**</sub></small>
 You shall set foot upon \[the\] asp and cobra; and you shall trample on \[the\] lion and dragon. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.
-<small><sub>**BSB:**</sub></small>
-You will tread on the lion and cobra; you will trample the young lion and serpent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.12|<< Psalm 91:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.14|Psalm 91:14 >>]]</td></tr></table>
 
 | Translation | Greek |

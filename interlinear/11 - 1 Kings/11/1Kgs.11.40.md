@@ -1,4 +1,4 @@
-**1 Kings 11:40** 
+**1 Kings 11:40**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon therefore sought to kill Jeroboam. But Jeroboam arose and fled to Egypt,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.39|<< 1 Kings 11:39]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.41|1 Kings 11:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1245\|יְבַקֵּ֥שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.Kesh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֖ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

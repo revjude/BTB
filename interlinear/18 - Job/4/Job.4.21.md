@@ -1,4 +1,4 @@
-**Job 4:21** 
+**Job 4:21**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Doth not their excellency [which is] in them go away? they die, even without wisdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Are not their tent cords pulled up, so that they die without wisdom?’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.20|<< Job 4:20]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.1|Job 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has it been pulled up  |**<big>&#8207;[[H5265\|נִסַּ֣ע]]&#8207; </big>**| ni.Sa'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

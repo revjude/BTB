@@ -1,4 +1,4 @@
-**Deuteronomy 34:12** 
+**Deuteronomy 34:12**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and no prophet who performed all the mighty acts of power and awesome deeds that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.11|<< Deuteronomy 34:11]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.1|Joshua 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to all  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the hand  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3027H\|יָּ֣ד]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:5** 
 <small><sub>**LXX:**</sub></small>
 And he put  his life in  his hand, and struck the Philistine. And \[the\] <span class="smallcaps">lord</span> executed a great deliverance. And all Israel beheld and rejoiced. And why do you sin against innocent blood to put to death  David without charge? 
-<small><sub>**KJV:**</sub></small>
-For he did put his life in his hand, and slew the Philistine, and the LORD wrought a great salvation for all Israel: thou sawest [it], and didst rejoice: wherefore then wilt thou sin against innocent blood, to slay David without a cause?
-<small><sub>**BSB:**</sub></small>
-He took his life in his hands when he struck down the Philistine, and the LORD worked a great salvation for all Israel. You saw it and rejoiced, so why would you sin against innocent blood by killing David for no reason?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.4|<< 1 Samuel 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.6|1 Samuel 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 11:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:9**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the voice answered me again from heaven, What God hath cleansed, [that] call not thou common.
 <small><sub>**BSB:**</sub></small>
 But the voice spoke from heaven a second time, ‘Do not call anything impure that God has made clean.’
 <small><sub>**Literal:**</sub></small>
 Answered however to me [the] voice for a second [time] out of <the> heaven; What <the> God has cleansed, you yourself not do call unholy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.8|<< Acts 11:8]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.10|Acts 11:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

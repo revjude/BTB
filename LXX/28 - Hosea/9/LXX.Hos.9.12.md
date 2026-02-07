@@ -1,10 +1,7 @@
 **LXX Hosea 9:12** 
 <small><sub>**LXX:**</sub></small>
 For if even they should nourish  their children, they shall be made childless of men; for there is even a woe to them;  my flesh from them. 
-<small><sub>**KJV:**</sub></small>
-Though they bring up their children, yet will I bereave them, [that there shall] not [be] a man [left]: yea, woe also to them when I depart from them!
-<small><sub>**BSB:**</sub></small>
-Even if they raise their children, I will bereave them of each one. Yes, woe be to them when I turn away from them!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.11|<< Hosea 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.13|Hosea 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

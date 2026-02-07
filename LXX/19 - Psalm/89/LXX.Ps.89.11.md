@@ -1,10 +1,7 @@
 **LXX Psalm 89:11** 
 <small><sub>**LXX:**</sub></small>
 The heavens are yours, and the earth is yours. The inhabitable world and  its fullness you founded. 
-<small><sub>**KJV:**</sub></small>
-The heavens [are] thine, the earth also [is] thine: [as for] the world and the fulness thereof, thou hast founded them.
-<small><sub>**BSB:**</sub></small>
-The heavens are Yours, and also the earth. The earth and its fullness You founded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.10|<< Psalm 89:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.12|Psalm 89:12 >>]]</td></tr></table>
 
 | Translation | Greek |

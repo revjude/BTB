@@ -1,10 +1,7 @@
 **LXX Psalm 68:2** 
 <small><sub>**LXX:**</sub></small>
 As smoke dissipates, let them dissipate! As beeswax melts away from \[the\] face \[of the\] fire, thus the sinners be destroyed from \[the\] face  of God. 
-<small><sub>**KJV:**</sub></small>
-As smoke is driven away, [so] drive [them] away: as wax melteth before the fire, [so] let the wicked perish at the presence of God.
-<small><sub>**BSB:**</sub></small>
-As smoke is blown away, You will drive them out; as wax melts before the fire, the wicked will perish in the presence of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.1|<< Psalm 68:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.3|Psalm 68:3 >>]]</td></tr></table>
 
 | Translation | Greek |

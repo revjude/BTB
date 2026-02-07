@@ -1,5 +1,5 @@
-**Romans 10:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:13**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whosoever shall call upon the name of the Lord shall be saved.
 <small><sub>**BSB:**</sub></small>
 for, “Everyone who calls on the name of the Lord will be saved.”
@@ -10,7 +10,7 @@ Whoever for that maybe may call upon the name of [the] Lord will be saved.<br><t
 > $\quad$ referencing: [[LXX.Joel.2.31|Joel 2:31-32]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whoever |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

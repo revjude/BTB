@@ -1,4 +1,4 @@
-**Deuteronomy 19:10** 
+**Deuteronomy 19:10**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That innocent blood be not shed in thy land, which the LORD thy God giveth thee [for] an inheritance, and [so] blood be upon thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus innocent blood will not be shed in the land that the LORD your God is givin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.9|<< Deuteronomy 19:9]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.11|Deuteronomy 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be shed  |**<big>&#8207;[[H8210H\|יִשָּׁפֵךְ֙]]&#8207; </big>**| yi.sha.feKh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

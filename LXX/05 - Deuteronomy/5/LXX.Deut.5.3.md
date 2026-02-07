@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:3** 
 <small><sub>**LXX:**</sub></small>
 Not \[with\] your fathers \[the\] <span class="smallcaps">lord</span> ordained  this covenant, but only with you; even you here all living today. 
-<small><sub>**KJV:**</sub></small>
-The LORD made not this covenant with our fathers, but with us, [even] us, who [are] all of us here alive this day.
-<small><sub>**BSB:**</sub></small>
-He did not make this covenant with our fathers, but with all of us who are alive here today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.2|<< Deuteronomy 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.4|Deuteronomy 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

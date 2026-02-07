@@ -1,4 +1,4 @@
-**Leviticus 21:7** 
+**Leviticus 21:7**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not take a wife [that is] a whore, or profane; neither shall they take a woman put away from her husband: for he [is] holy unto his God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A priest must not marry a woman defiled by prostitution or divorced by her husba
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.6|<< Leviticus 21:6]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.8|Leviticus 21:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֨ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a prostitute  |**<big>&#8207;[[H2181\|זֹנָ֤ה]]&#8207; </big>**| zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

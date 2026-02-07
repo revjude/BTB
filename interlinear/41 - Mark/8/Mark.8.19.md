@@ -1,12 +1,12 @@
-**Mark 8:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:19**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When I brake the five loaves among five thousand, how many baskets full of fragments took ye up? They say unto him, Twelve.
 <small><sub>**BSB:**</sub></small>
 When I broke the five loaves for the five thousand, how many basketfuls of broken pieces did you collect?” “Twelve,” they answered.
 <small><sub>**Literal:**</sub></small>
 When the five loaves I broke for the five thousand how many hand-baskets of fragments full took you up? They say to Him; Twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.18|<< Mark 8:18]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.20|Mark 8:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

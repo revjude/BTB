@@ -1,10 +1,7 @@
 **LXX Judges 3:12** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel proceeded to do  wickedly before \[the\] <span class="smallcaps">lord</span>. And \[the\] <span class="smallcaps">lord</span> strengthened  Eglon king of Moab against  Israel, because  of their acting  wickedly before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did evil again in the sight of the LORD: and the LORD strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the LORD.
-<small><sub>**BSB:**</sub></small>
-Once again the Israelites did evil in the sight of the LORD. So He gave Eglon king of Moab power over Israel, because they had done evil in the sight of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.11|<< Judges 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.13|Judges 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

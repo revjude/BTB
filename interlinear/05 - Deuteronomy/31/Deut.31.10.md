@@ -1,4 +1,4 @@
-**Deuteronomy 31:10** 
+**Deuteronomy 31:10**<big><big>[[Deut.31.9 The Reading of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses commanded them, saying, At the end of [every] seven years, in the solemnity of the year of release, in the feast of tabernacles,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses commanded them, “At the end of every seven years, at the appointed 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.9|<< Deuteronomy 31:9]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.11|Deuteronomy 31:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he commanded  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6680\|יְצַ֥ו]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Tzav<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֖ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

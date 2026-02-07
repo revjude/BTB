@@ -1,10 +1,7 @@
 **LXX Numbers 13:32** 
 <small><sub>**LXX:**</sub></small>
 And they brought an astonishment of the land of which they surveyed it to the sons of Israel, saying, The land which we went in it to survey -- it is a land devouring the ones dwelling upon it; and all the people whom we see in it \[are\] exceedingly tall men. 
-<small><sub>**KJV:**</sub></small>
-And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, [is] a land that eateth up the inhabitants thereof; and all the people that we saw in it [are] men of a great stature.
-<small><sub>**BSB:**</sub></small>
-So they gave the Israelites a bad report about the land that they had spied out: “The land we explored devours its inhabitants, and all the people we saw there are great in stature.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.31|<< Numbers 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.33|Numbers 13:33 >>]]</td></tr></table>
 
 | Translation | Greek |

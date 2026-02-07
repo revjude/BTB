@@ -1,12 +1,12 @@
-**Acts 28:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:6**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit they looked when he should have swollen, or fallen down dead suddenly: but after they had looked a great while, and saw no harm come to him, they changed their minds, and said that he was a god.
 <small><sub>**BSB:**</sub></small>
 The islanders were expecting him to swell up or suddenly drop dead. But after waiting a long time and seeing nothing unusual happen to him, they changed their minds and said he was a god.
 <small><sub>**Literal:**</sub></small>
 <the> But they were expecting him to be about to become inflamed or to fall down suddenly dead; A while great however when they are waiting and seeing nothing amiss to him happening having changed their opinion they were declaringing him to be a god.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.5|<< Acts 28:5]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.7|Acts 28:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 26:59
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:59**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the chief priests, and elders, and all the council, sought false witness against Jesus, to put him to death;
 <small><sub>**BSB:**</sub></small>
 Now the chief priests and the whole Sanhedrin were seeking false testimony against Jesus in order to put Him to death.
 <small><sub>**Literal:**</sub></small>
 <the> And the chief priests and <the> elders and the Council whole were seeking false testimony against <the> Jesus so that him they may put to death<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.58|<< Matthew 26:58]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.60|Matthew 26:60 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

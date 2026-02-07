@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:17** 
 <small><sub>**LXX:**</sub></small>
 You shall not discriminate \[for\] a person in a judgment; concerning the small and according to the great you shall judge \[equally\]. In no way shall you avoid \[justice\] \[by accepting the\] person of a man, for the judgment  is of God. And the matter which ever might be hard for you, you shall bear it to me, and I shall hear it. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not respect persons in judgment; [but] ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment [is] God’s: and the cause that is too hard for you, bring [it] unto me, and I will hear it.
-<small><sub>**BSB:**</sub></small>
-Show no partiality in judging; hear both small and great alike. Do not be intimidated by anyone, for judgment belongs to God. And bring to me any case too difficult for you, and I will hear it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.16|<< Deuteronomy 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.18|Deuteronomy 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

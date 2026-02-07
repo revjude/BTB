@@ -1,4 +1,4 @@
-**1 Samuel 19:16** 
+**1 Samuel 19:16**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the messengers were come in, behold, [there was] an image in the bed, with a pillow of goats’ [hair] for his bolster.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when the messengers entered, there was the idol in the bed with the goat hai
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.15|<< 1 Samuel 19:15]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.17|1 Samuel 19:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֙אוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the messengers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4397G\|מַּלְאָכִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mal.'a.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

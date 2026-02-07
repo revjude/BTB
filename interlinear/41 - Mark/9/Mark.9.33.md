@@ -1,12 +1,12 @@
-**Mark 9:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:33**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?
 <small><sub>**BSB:**</sub></small>
 Then they came to Capernaum. While Jesus was in the house, He asked them, “What were you discussing on the way?”
 <small><sub>**Literal:**</sub></small>
 And they came to Capernaum; And in the house having been He was asking them; What on the way to yourselves were you discussing?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.32|<< Mark 9:32]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.34|Mark 9:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they came [^1] [^2] |**<big>[[G2064\|ἦλθον]]</big>**  |ēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |

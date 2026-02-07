@@ -1,12 +1,12 @@
-**John 13:34
-**<small><sub>**KJV:**</sub></small>
+**John 13:34**<big><big>[[John.13.31 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.
 <small><sub>**BSB:**</sub></small>
 A new commandment I give you: Love one another. As I have loved you, so you also must love one another.
 <small><sub>**Literal:**</sub></small>
 A commandment new I give to you that you may love one another, even as I have loved you so also you yourselves may love one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.33|<< John 13:33]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.35|John 13:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A commandment |**<big>[[G1785\|Ἐντολὴν]]</big>**  |Entolēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | new |**<big>[[G2537\|καινὴν]]</big>**  |kainēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

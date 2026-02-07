@@ -1,10 +1,7 @@
 **LXX Isaiah 17:12** 
 <small><sub>**LXX:**</sub></small>
 Woe \[to the\] multitude of many nations; as a sea swelling up, so you shall be disturbed; and \[the\] sound of many nations shall sound as water. 
-<small><sub>**KJV:**</sub></small>
-Woe to the multitude of many people, [which] make a noise like the noise of the seas; and to the rushing of nations, [that] make a rushing like the rushing of mighty waters!
-<small><sub>**BSB:**</sub></small>
-Alas, the tumult of many peoples; they rage like the roaring seas and clamoring nations; they rumble like the crashing of mighty waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.11|<< Isaiah 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.13|Isaiah 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 15:41
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:41**<big><big>[[Mark.15.33 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem.
 <small><sub>**BSB:**</sub></small>
 These women had followed Jesus and ministered to Him while He was in Galilee, and there were many other women who had come up to Jerusalem with Him.
 <small><sub>**Literal:**</sub></small>
 who and when He was in <the> Galilee were following Him and they were ministering to Him, and other many those having come up with Him to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.40|<< Mark 15:40]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.42|Mark 15:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|αἳ]]</big>**  |hai <small><sup>[[R-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καί]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

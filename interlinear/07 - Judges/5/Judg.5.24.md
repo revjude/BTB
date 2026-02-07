@@ -1,4 +1,4 @@
-**Judges 5:24** 
+**Judges 5:24**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed above women shall Jael the wife of Heber the Kenite be, blessed shall she be above women in the tent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Most blessed among women is Jael, the wife of Heber the Kenite, most blessed of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.23|<< Judges 5:23]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.25|Judges 5:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she will be blessed  |**<big>&#8207;[[H1288\|תְּבֹרַךְ֙]]&#8207; </big>**| te.vo.raKh<small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than women  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0802G\|נָּשִׁ֔ים]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

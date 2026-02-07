@@ -1,4 +1,4 @@
-**Psalms 64:9** (64:10)
+**Psalms 64:9**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all mankind will fear and proclaim the work of God; so they will ponder wha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.8|<< Psalms 64:8]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.10|Psalms 64:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372H\|יִּֽירְא֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

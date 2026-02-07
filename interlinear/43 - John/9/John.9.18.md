@@ -1,12 +1,12 @@
-**John 9:18
-**<small><sub>**KJV:**</sub></small>
+**John 9:18**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.
 <small><sub>**BSB:**</sub></small>
 The Jews still did not believe that the man had been blind and had received his sight until they summoned his parents
 <small><sub>**Literal:**</sub></small>
 Not did believe then the Jews concerning him that he was being blind and received sight until when they called the parents of him who having received sight,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.17|<< John 9:17]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.19|John 9:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | did believe |**<big>[[G4100\|ἐπίστευσαν]]</big>**  |episteusan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

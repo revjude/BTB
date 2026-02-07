@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:14** 
 <small><sub>**LXX:**</sub></small>
 a son of a woman from \[the\] daughters of Dan, and  his father \[is\] a Tyrian man, knowing \[how\] to prepare in gold, and in silver, and in brass, and in iron, and in stones, and woods, and to weave in  purple, and in  blue, and in  linen, and in  scarlet, and to carve carvings, and to consider every device in which ever you should give to him with  your wise men, and the wise ones  of my master David  your father. 
-<small><sub>**KJV:**</sub></small>
-The son of a woman of the daughters of Dan, and his father [was] a man of Tyre, skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen, and in crimson; also to grave any manner of graving, and to find out every device which shall be put to him, with thy cunning men, and with the cunning men of my lord David thy father.
-<small><sub>**BSB:**</sub></small>
-He is the son of a woman from the daughters of Dan, and his father is a man of Tyre. He is skilled in work with gold and silver, bronze and iron, stone and wood, purple, blue, and crimson yarn, and fine linen. He is experienced in every kind of engraving and can execute any design that is given him. He will work with your craftsmen and with those of my lord, your father David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.13|<< 2 Chronicles 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.15|2 Chronicles 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 9:9** 
+**2 Chronicles 9:9**<big><big>[[2Chr.9.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she gave the king an hundred and twenty talents of gold, and of spices great abundance, and precious stones: neither was there any such spice as the queen of Sheba gave king Solomon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then she gave the king 120 talents of gold, a great quantity of spices, and prec
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.8|<< 2 Chronicles 9:8]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.10|2 Chronicles 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|תִּתֵּ֨ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Ten<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the king  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4428G\|מֶּ֜לֶךְ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

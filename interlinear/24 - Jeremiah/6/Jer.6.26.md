@@ -1,4 +1,4 @@
-**Jeremiah 6:26** 
+**Jeremiah 6:26**<big><big>[[Jer.6.22 An Invasion from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O daughter of my people, gird [thee] with sackcloth, and wallow thyself in ashes: make thee mourning, [as for] an only son, most bitter lamentation: for the spoiler shall suddenly come upon us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O daughter of my people, dress yourselves in sackcloth and roll in ashes. Mourn 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.25|<< Jeremiah 6:25]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.27|Jeremiah 6:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people my  |**<big>&#8207;[[H5971A\|עַמִּ֤]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

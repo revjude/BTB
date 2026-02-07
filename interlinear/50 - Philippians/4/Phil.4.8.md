@@ -1,12 +1,12 @@
-**Philippians 4:8
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:8**<big><big>[[Phil.4.1 Rejoice in the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Finally, brethren, whatsoever things are true, whatsoever things [are] honest, whatsoever things [are] just, whatsoever things [are] pure, whatsoever things [are] lovely, whatsoever things [are] of good report; if [there be] any virtue, and if [there be] any praise, think on these things.
 <small><sub>**BSB:**</sub></small>
 Finally, brothers, whatever is true, whatever is honorable, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think on these things.
 <small><sub>**Literal:**</sub></small>
 <the> Finally, brothers, whatever is true, whatever venerable, whatever right, whatever pure, whatever lovely, whatever admirable — if any excellence and if any praise — these things do think on;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.7|<< Philippians 4:7]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.9|Philippians 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τὸ]]</big>**  |To <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Finally, |**<big>[[G3063\|λοιπόν,]]</big>**  |loipon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

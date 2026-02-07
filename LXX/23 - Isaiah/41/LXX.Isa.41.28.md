@@ -1,10 +1,7 @@
 **LXX Isaiah 41:28** 
 <small><sub>**LXX:**</sub></small>
 For from the nations, behold, \[there was\] no one; and from  their idols there was not  one announcing. And if I should ask them, From what place are you? in no way should they answer me. 
-<small><sub>**KJV:**</sub></small>
-For I beheld, and [there was] no man; even among them, and [there was] no counseller, that, when I asked of them, could answer a word.
-<small><sub>**BSB:**</sub></small>
-When I look, there is no one; there is no counselor among them; when I ask them, they have nothing to say.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.27|<< Isaiah 41:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.29|Isaiah 41:29 >>]]</td></tr></table>
 
 | Translation | Greek |

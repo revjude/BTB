@@ -1,10 +1,7 @@
 **LXX Proverbs 13:15** 
 <small><sub>**LXX:**</sub></small>
 Good understanding gives favor;  but to know \[the\] law is of good consideration; but \[the\] ways of the disdaining \[end\] in destruction. 
-<small><sub>**KJV:**</sub></small>
-Good understanding giveth favour: but the way of transgressors [is] hard.
-<small><sub>**BSB:**</sub></small>
-Good understanding wins favor, but the way of the faithless is difficult.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.14|<< Proverbs 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.16|Proverbs 13:16 >>]]</td></tr></table>
 
 | Translation | Greek |

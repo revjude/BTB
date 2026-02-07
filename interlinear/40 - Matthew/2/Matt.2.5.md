@@ -1,12 +1,12 @@
-**Matthew 2:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:5**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said unto him, In Bethlehem of Judaea: for thus it is written by the prophet,
 <small><sub>**BSB:**</sub></small>
 “In Bethlehem in Judea,” they replied, “for this is what the prophet has written:
 <small><sub>**Literal:**</sub></small>
 <the> And they said to him; In Bethlehem <the> of Judea. thus for it has been written through the prophet:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.4|<< Matthew 2:4]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.6|Matthew 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:11** 
 <small><sub>**LXX:**</sub></small>
 And Joab said to the man  announcing to him, And behold, you saw it? And why is it that you did not strike him there to the ground, and I would have given to you ten shekels of silver, and one sash? 
-<small><sub>**KJV:**</sub></small>
-And Joab said unto the man that told him, And, behold, thou sawest [him], and why didst thou not smite him there to the ground? and I would have given thee ten [shekels] of silver, and a girdle.
-<small><sub>**BSB:**</sub></small>
-“You just saw him!” Joab exclaimed. “Why did you not strike him to the ground right there? I would have given you ten shekels of silver and a warrior’s belt!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.10|<< 2 Samuel 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.12|2 Samuel 18:12 >>]]</td></tr></table>
 
 | Translation | Greek |

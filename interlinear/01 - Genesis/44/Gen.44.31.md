@@ -1,4 +1,4 @@
-**Genesis 44:31** 
+**Genesis 44:31**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall come to pass, when he seeth that the lad [is] not [with us], that he will die: and thy servants shall bring down the gray hairs of thy servant our father with sorrow to the grave.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ sees that the boy is not with us, he will die. Then your servants will have brou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.30|<< Genesis 44:30]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.32|Genesis 44:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when sees he  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7200G\|רְאוֹת֛]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> r.'o.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

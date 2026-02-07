@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:22** 
 <small><sub>**LXX:**</sub></small>
 And Samuel asked again to \[the\] <span class="smallcaps">lord</span>, Shall the man still come here? And \[the\] <span class="smallcaps">lord</span> said, Behold, he hides among the equipment. 
-<small><sub>**KJV:**</sub></small>
-Therefore they inquired of the LORD further, if the man should yet come thither. And the LORD answered, Behold, he hath hid himself among the stuff.
-<small><sub>**BSB:**</sub></small>
-So again they inquired of the LORD, “Has the man come here yet?” And the LORD replied, “Behold, he has hidden himself among the baggage.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.21|<< 1 Samuel 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.23|1 Samuel 10:23 >>]]</td></tr></table>
 
 | Translation | Greek |

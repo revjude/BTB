@@ -1,12 +1,12 @@
-**1 Peter 5:3
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:3**<big><big>[[1Pet.5.1 Instructions to Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither as being lords over [God’s] heritage, but being ensamples to the flock.
 <small><sub>**BSB:**</sub></small>
 not lording it over those entrusted to you, but being examples to the flock.
 <small><sub>**Literal:**</sub></small>
 not as exercising lordship over <the> those in your charge but examples being to the flock;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.2|<< 1 Peter 5:2]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.4|1 Peter 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3366\|μηδ᾽]]</big>**  |mēd᾽ <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

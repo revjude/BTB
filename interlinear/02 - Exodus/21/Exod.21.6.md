@@ -1,4 +1,4 @@
-**Exodus 21:6** 
+**Exodus 21:6**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an aul; and he shall serve him for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then his master is to bring him before the judges. And he shall take him to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.5|<< Exodus 21:5]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.7|Exodus 21:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bring near him  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5066H\|הִגִּישׁ֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.gi.Sh<small><sup>[[HVhq3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | master\<s> his  |**<big>&#8207;[[H0113\|אֲדֹנָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| 'a.do.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

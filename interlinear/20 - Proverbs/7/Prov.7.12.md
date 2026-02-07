@@ -1,4 +1,4 @@
-**Proverbs 7:12** 
+**Proverbs 7:12**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [is she] without, now in the streets, and lieth in wait at every corner.)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now in the street, now in the squares, she lurks at every corner.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.11|<< Proverbs 7:11]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.13|Proverbs 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a time  |**<big>&#8207;[[H6471\|פַּ֤עַם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Pa.'am<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the street  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2351\|ח֗וּץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Chutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

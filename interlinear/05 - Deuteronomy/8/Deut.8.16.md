@@ -1,4 +1,4 @@
-**Deuteronomy 8:16** 
+**Deuteronomy 8:16**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He fed you in the wilderness with manna that your fathers had not known, in orde
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.15|<< Deuteronomy 8:15]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.17|Deuteronomy 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who caused to eat you  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0398\|מַּֽאֲכִ֨לְ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.'a.Khil.<small><sup>[[HVhrmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | manna  |**<big>&#8207;[[H4478A\|מָן֙]]&#8207; </big>**| man<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

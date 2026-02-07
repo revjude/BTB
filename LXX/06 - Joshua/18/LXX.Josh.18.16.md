@@ -1,10 +1,7 @@
 **LXX Joshua 18:16** 
 <small><sub>**LXX:**</sub></small>
 And the borders shall go down unto \[the\] part of the mountain which is at the face of \[the\] grove \[of the\] son Hinnom, which is of \[the\] part of Emek-rephaim from \[the\] north, and it shall go down unto Gehenna at \[the\] back of Jebus from \[the\] south. And it shall go down upon \[the\] spring of Rogel. 
-<small><sub>**KJV:**</sub></small>
-And the border came down to the end of the mountain that [lieth] before the valley of the son of Hinnom, [and] which [is] in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to Enrogel,
-<small><sub>**BSB:**</sub></small>
-Then it went down to the foot of the hill that faces the Valley of Ben-hinnom at the northern end of the Valley of Rephaim and ran down the Valley of Hinnom toward the southern slope of the Jebusites and downward to En-rogel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.15|<< Joshua 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.17|Joshua 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

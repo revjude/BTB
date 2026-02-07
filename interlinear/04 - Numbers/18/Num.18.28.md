@@ -1,4 +1,4 @@
-**Numbers 18:28** 
+**Numbers 18:28**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus ye also shall offer an heave offering unto the LORD of all your tithes, which ye receive of the children of Israel; and ye shall give thereof the LORD’S heave offering to Aaron the priest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you are to present an offering to the LORD from all the tithes you receive fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.27|<< Numbers 18:27]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.29|Numbers 18:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3651C\|כֵּ֣ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will offer up  |**<big>&#8207;[[H7311A\|תָּרִ֤ימוּ]]&#8207; </big>**| ta.Ri.mu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

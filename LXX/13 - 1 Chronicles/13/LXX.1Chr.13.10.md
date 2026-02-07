@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 13:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was enraged in anger against Uzza, and he struck him there, on account of the stretching out  of his hand upon the ark. And he died there before  God. 
-<small><sub>**KJV:**</sub></small>
-And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God.
-<small><sub>**BSB:**</sub></small>
-And the anger of the LORD burned against Uzzah, and He struck him down because he had put his hand on the ark. So he died there before God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.9|<< 1 Chronicles 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.13.11|1 Chronicles 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

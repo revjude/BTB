@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:9** 
 <small><sub>**LXX:**</sub></small>
 And I was with you in all wheresoever you went, and I utterly destroyed all  your enemies from your face, and I made to you a great name, according to the name of the great ones of the ones upon the earth. 
-<small><sub>**KJV:**</sub></small>
-And I was with thee whithersoever thou wentest, and have cut off all thine enemies out of thy sight, and have made thee a great name, like unto the name of the great [men] that [are] in the earth.
-<small><sub>**BSB:**</sub></small>
-I have been with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make for you a name like that of the greatest in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.8|<< 2 Samuel 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.10|2 Samuel 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 37:28** 
 <small><sub>**LXX:**</sub></small>
 And he made the bars out of incorruptible wood; and he gilded them with gold. 
-<small><sub>**KJV:**</sub></small>
-And he made the staves [of] shittim wood, and overlaid them with gold.
-<small><sub>**BSB:**</sub></small>
-And he made the poles of acacia wood and overlaid them with gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.27|<< Exodus 37:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.29|Exodus 37:29 >>]]</td></tr></table>
 
 | Translation | Greek |

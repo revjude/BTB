@@ -1,4 +1,4 @@
-**Leviticus 26:34** 
+**Leviticus 26:34**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye [be] in your enemies’ land; [even] then shall the land rest, and enjoy her sabbaths.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the land shall enjoy its Sabbaths all the days it lies desolate, while you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.33|<< Leviticus 26:33]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.35|Leviticus 26:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָז֩]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will accept  |**<big>&#8207;[[H7521\|תִּרְצֶ֨ה]]&#8207; </big>**| tir.Tzeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

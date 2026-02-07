@@ -1,4 +1,4 @@
-**Psalms 35:3** 
+**Psalms 35:3**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Draw out also the spear, and stop [the way] against them that persecute me: say unto my soul, I [am] thy salvation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Draw the spear and javelin against my pursuers; say to my soul: “I am your sal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.2|<< Psalms 35:2]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.4|Psalms 35:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and draw out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7324\|הָ֘רֵ֤ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.Rek<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a spear  |**<big>&#8207;[[H2595\|חֲנִ֣ית]]&#8207; </big>**| cha.Nit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

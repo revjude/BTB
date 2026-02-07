@@ -1,12 +1,12 @@
-**Romans 1:14
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:14**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.
 <small><sub>**BSB:**</sub></small>
 I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.
 <small><sub>**Literal:**</sub></small>
 To Greeks both and to barbarians, to [the] wise both and to [the] foolish a debtor I am;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.13|<< Romans 1:13]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.15|Romans 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To Greeks |**<big>[[G1672\|Ἕλλησίν]]</big>**  |Hellēsin <small><sup>[[N-DPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | both |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

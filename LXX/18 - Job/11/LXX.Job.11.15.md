@@ -1,10 +1,7 @@
 **LXX Job 11:15** 
 <small><sub>**LXX:**</sub></small>
 For thus your face shall illuminate as if pure water; and you shall strip off filth, and in no way shall you be fearful. 
-<small><sub>**KJV:**</sub></small>
-For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:
-<small><sub>**BSB:**</sub></small>
-then indeed you will lift up your face without blemish; you will stand firm and unafraid.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.14|<< Job 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.16|Job 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

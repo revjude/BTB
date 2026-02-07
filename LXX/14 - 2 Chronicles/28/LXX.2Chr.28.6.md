@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:6** 
 <small><sub>**LXX:**</sub></small>
 And Pekah son of Remaliah king of Israel killed in Judah in one day a hundred and twenty thousand mighty men of strength, because  they left \[the\] <span class="smallcaps">lord</span> the God  of their fathers. 
-<small><sub>**KJV:**</sub></small>
-For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, [which were] all valiant men; because they had forsaken the LORD God of their fathers.
-<small><sub>**BSB:**</sub></small>
-For in one day Pekah son of Remaliah killed 120,000 valiant men in Judah. This happened because they had forsaken the LORD, the God of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.5|<< 2 Chronicles 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.7|2 Chronicles 28:7 >>]]</td></tr></table>
 
 | Translation | Greek |

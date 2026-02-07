@@ -1,10 +1,7 @@
 **LXX Psalm 17:6** 
 <small><sub>**LXX:**</sub></small>
 I cried, for you heeded me, O God; lean  your ear to me, and hear  my words! 
-<small><sub>**KJV:**</sub></small>
-I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, [and hear] my speech.
-<small><sub>**BSB:**</sub></small>
-I call on You, O God, for You will answer me. Incline Your ear to me; hear my words.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.5|<< Psalm 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.7|Psalm 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

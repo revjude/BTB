@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:25** 
 <small><sub>**LXX:**</sub></small>
 And each brought his gifts to him, items of silver, and items of gold, and clothes, balsam and spices, and horses, and mules  according to year by year. 
-<small><sub>**KJV:**</sub></small>
-And they brought every man his present, vessels of silver, and vessels of gold, and garments, and armour, and spices, horses, and mules, a rate year by year.
-<small><sub>**BSB:**</sub></small>
-Year after year, each visitor would bring his tribute: articles of silver and gold, clothing, weapons, spices, horses, and mules.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.24|<< 1 Kings 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.26|1 Kings 10:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:30** 
 <small><sub>**LXX:**</sub></small>
 How one pursue thousands, and two rout ten thousands, unless  God rendered them \[up\], and the <span class="smallcaps">lord</span> delivered them \[up\]? 
-<small><sub>**KJV:**</sub></small>
-How should one chase a thousand, and two put ten thousand to flight, except their Rock had sold them, and the LORD had shut them up?
-<small><sub>**BSB:**</sub></small>
-How could one man pursue a thousand, or two put ten thousand to flight, unless their Rock had sold them, unless the LORD had given them up?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.29|<< Deuteronomy 32:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.31|Deuteronomy 32:31 >>]]</td></tr></table>
 
 | Translation | Greek |

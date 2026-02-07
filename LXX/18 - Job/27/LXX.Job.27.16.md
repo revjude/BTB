@@ -1,10 +1,7 @@
 **LXX Job 27:16** 
 <small><sub>**LXX:**</sub></small>
 If he should have gathered together silver as earth, and equally shall prepare gold as mortar, 
-<small><sub>**KJV:**</sub></small>
-Though he heap up silver as the dust, and prepare raiment as the clay;
-<small><sub>**BSB:**</sub></small>
-Though he heaps up silver like dust and piles up a wardrobe like clay,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.15|<< Job 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.17|Job 27:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 6:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:9**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
 <small><sub>**BSB:**</sub></small>
 So then, this is how you should pray: ‘Our Father in heaven, hallowed be Your name.
 <small><sub>**Literal:**</sub></small>
 Thus therefore do pray you yourselves: Father of us you who [are] in the heavens, should be hallowed the name of You;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.8|<< Matthew 6:8]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.10|Matthew 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|Οὕτως]]</big>**  |Houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

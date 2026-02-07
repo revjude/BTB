@@ -1,10 +1,7 @@
 **LXX Leviticus 26:28** 
 <small><sub>**LXX:**</sub></small>
 then I myself shall go with you in rage sideways, and I will correct you, \[even\] I, seven times according to  your sins. 
-<small><sub>**KJV:**</sub></small>
-Then I will walk contrary unto you also in fury; and I, even I, will chastise you seven times for your sins.
-<small><sub>**BSB:**</sub></small>
-then I will walk in fury against you, and I, even I, will punish you sevenfold for your sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.27|<< Leviticus 26:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.29|Leviticus 26:29 >>]]</td></tr></table>
 
 | Translation | Greek |

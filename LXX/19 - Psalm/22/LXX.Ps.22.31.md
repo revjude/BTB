@@ -1,10 +1,7 @@
 **LXX Psalm 22:31** 
 <small><sub>**LXX:**</sub></small>
 And they shall announce  his righteousness to a people, to the one being born, whom the <span class="smallcaps">lord</span> made. 
-<small><sub>**KJV:**</sub></small>
-They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done [this].
-<small><sub>**BSB:**</sub></small>
-They will come and proclaim His righteousness to a people yet unborn—all that He has done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.30|<< Psalm 22:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.23.1|Psalm 23:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:31** is...

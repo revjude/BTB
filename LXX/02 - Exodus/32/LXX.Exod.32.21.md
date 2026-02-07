@@ -1,10 +1,7 @@
 **LXX Exodus 32:21** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to Aaron, What this people do to you that you brought upon them a great sin? 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto Aaron, What did this people unto thee, that thou hast brought so great a sin upon them?
-<small><sub>**BSB:**</sub></small>
-“What did this people do to you,” Moses asked Aaron, “that you have led them into so great a sin?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.20|<< Exodus 32:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.22|Exodus 32:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -16,7 +16,8 @@ Restoration of text is necessary at [[Josh.21.36]]-[[Josh.21.37|37]] & [[Neh.7.6
 
 Additional words or phrases preserved in the LXX are converted back to Hebrew as in the apparatus of BHS & BHK. These are marked as "X". They occur at [[Gen.4.8]]; [[Num.26.40]]; [[Deut.30.16]]; [[Judg.16.13]],[[Judg.16.14|14]]; [[1Sam.10.1]]; [[1Sam.13.1|13.1]]; [[1Sam.13.15|13.15]]; [[1Sam.14.41]]; [[2Sam.12.16]]; [[2Sam.13.34|13.34]]; [[2Sam.15.8]]; [[2Sam.23.33|23.33]]; [[2Sam.24.17]]; [[2Kgs.25.3]]; [[1Chr.4.13]]; [[1Chr.6.27|6.27]]; [[1Chr.6.28]],[[1Chr.6.59|59]]; [[1Chr.6.60]],[[1Chr.6.77]]; [[1Chr.7.25]]; [[1Chr.8.29|8.29]]; [[1Chr.8.30]]; [[1Chr.9.41|9.41]]; [[1Chr.21.17]]; [[1Chr.25.9|25.9]]; [[2Chr.15.8]]; [[Ezra.8.5]],[[Ezra.8.10|10]]; [[Esth.3.7]]; [[Ps.25.21]]; [[Ps.56.7|56.7]]; [[Ps.145.13]]; [[Eccl.9.2]];
 
-###### Word Type Abbreviations and Editions 																
+#### Word Type Abbreviations and Editions 										
+**Word Type Abbreviations and Editions**
 - **L** = Leningrad manuscript
 - **R** = Restored text based on Leningrad parallels - i.e. [[Josh.21.36]]-[[Josh.21.37|37]] from [[1Chr.6.63]]-[[1Chr.6.64|64]] and [[Neh.7.67|Neh.7.67b]] from [[Ezra.2.66]]
 - **X** = "based on *Greek* sources" - i.e. extra words based on LXX, expressed in Hebrew as in the apparatus of BHS or BHK - e.g. [[1Sam.13.1]] Saul was <span class="ashebrew">שְׁלֹשִׁים שָׁנָ֖ה </span>('a thirty year-old') not<span class="ashebrew"> שָׁנָ֖ה </span>('a year-old')

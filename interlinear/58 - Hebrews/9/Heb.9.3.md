@@ -1,12 +1,12 @@
-**Hebrews 9:3
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:3**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after the second veil, the tabernacle which is called the Holiest of all;
 <small><sub>**BSB:**</sub></small>
 Behind the second curtain was a room called the Most Holy Place,
 <small><sub>**Literal:**</sub></small>
 Behind now the second veil [was] a tabernacle which is being named the Holies <the> of Holies<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.2|<< Hebrews 9:2]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.4|Hebrews 9:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behind |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

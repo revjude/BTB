@@ -1,4 +1,4 @@
-**Exodus 30:38** 
+**Exodus 30:38**<big><big>[[Exod.30.34 The Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Anyone who makes something like it to enjoy its fragrance shall be cut off from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.37|<< Exodus 30:37]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.1|Exodus 31:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | anyone  |**<big>&#8207;[[H0376I\|אִ֛ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

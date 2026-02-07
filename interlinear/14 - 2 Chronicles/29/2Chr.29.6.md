@@ -1,4 +1,4 @@
-**2 Chronicles 29:6** 
+**2 Chronicles 29:6**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For our fathers have trespassed, and done [that which was] evil in the eyes of the LORD our God, and have forsaken him, and have turned away their faces from the habitation of the LORD, and turned [their] backs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For our fathers were unfaithful and did evil in the sight of the LORD our God. T
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.5|<< 2 Chronicles 29:5]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.7|2 Chronicles 29:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they acted unfaithfully  |**<big>&#8207;[[H4603\|מָעֲל֣וּ]]&#8207; </big>**| ma.'a.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

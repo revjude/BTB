@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:10** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; And I will destroy the multitude of \[the\] Egyptians by \[the\] hand of Nebuchadnezzar king of Babylon; 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; I will also make the multitude of Egypt to cease by the hand of Nebuchadrezzar king of Babylon.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: I will put an end to the hordes of Egypt by the hand of Nebuchadnezzar king of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.9|<< Ezekiel 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.11|Ezekiel 30:11 >>]]</td></tr></table>
 
 | Translation | Greek |

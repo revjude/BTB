@@ -1,4 +1,4 @@
-**Micah 4:7** 
+**Micah 4:7**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And I will make the lame into a remnant, the outcast into a strong nation. Then 
 > $\quad$ referenced by: [[Luke.1.33|Luke 1:33]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760A\|שַׂמְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

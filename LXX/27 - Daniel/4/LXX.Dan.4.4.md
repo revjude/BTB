@@ -1,10 +1,7 @@
 **LXX Daniel 4:4** 
 <small><sub>**LXX:**</sub></small>
 I Nebuchadnezzar was prospering in  my house, and thriving upon  my throne. 
-<small><sub>**KJV:**</sub></small>
-I Nebuchadnezzar was at rest in mine house, and flourishing in my palace:
-<small><sub>**BSB:**</sub></small>
-I, Nebuchadnezzar, was at ease in my house and flourishing in my palace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.3|<< Daniel 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.5|Daniel 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

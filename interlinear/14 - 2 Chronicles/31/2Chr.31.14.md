@@ -1,4 +1,4 @@
-**2 Chronicles 31:14** 
+**2 Chronicles 31:14**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Kore the son of Imnah the Levite, the porter toward the east, [was] over the freewill offerings of God, to distribute the oblations of the LORD, and the most holy things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kore son of Imnah the Levite, the keeper of the East Gate, was in charge of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.13|<< 2 Chronicles 31:13]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.15|2 Chronicles 31:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Kore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6981H\|קוֹרֵ֨א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ko.Re'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

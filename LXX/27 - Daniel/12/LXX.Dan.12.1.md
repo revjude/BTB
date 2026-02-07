@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in  that time shall rise up Michael the great ruler, the one standing for the sons  of your people. And it will be a time of affliction such as has not taken place from of which \[time\] there became a nation on the earth, until  that time. And in  that time your people shall be delivered, every one  found being written in the book. 
-<small><sub>**KJV:**</sub></small>
-And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation [even] to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
-<small><sub>**BSB:**</sub></small>
-“At that time Michael, the great prince who stands watch over your people, will rise up. There will be a time of distress, the likes of which will not have occurred from the beginning of nations until that time. But at that time your people—everyone whose name is found written in the book—will be delivered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.45|<< Daniel 11:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.2|Daniel 12:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 12:1** is...

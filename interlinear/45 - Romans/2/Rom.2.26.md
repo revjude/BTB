@@ -1,12 +1,12 @@
-**Romans 2:26
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:26**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore if the uncircumcision keep the righteousness of the law, shall not his uncircumcision be counted for circumcision?
 <small><sub>**BSB:**</sub></small>
 If a man who is not circumcised keeps the requirements of the law, will not his uncircumcision be regarded as circumcision?
 <small><sub>**Literal:**</sub></small>
 If therefore the uncircumcision the requirements of the law shall keep, surely the uncircumcision of him for circumcision will be reckoned?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.25|<< Romans 2:25]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.27|Romans 2:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

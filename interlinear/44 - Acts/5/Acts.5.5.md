@@ -1,12 +1,12 @@
-**Acts 5:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:5**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.
 <small><sub>**BSB:**</sub></small>
 On hearing these words, Ananias fell down and died. And great fear came over all who heard what had happened.
 <small><sub>**Literal:**</sub></small>
 Hearing now <the> Ananias <the> words these having fallen down he breathed his last. And came fear great upon all those hearing these things;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.4|<< Acts 5:4]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.6|Acts 5:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hearing |**<big>[[G0191\|ἀκούων]]</big>**  |akouōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

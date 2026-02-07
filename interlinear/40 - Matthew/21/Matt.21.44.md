@@ -1,5 +1,5 @@
-**Matthew 21:44
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:44**<big><big>[[Matt.21.33 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder.
 <small><sub>**BSB:**</sub></small>
 He who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.”
@@ -10,7 +10,7 @@ And the [one] having fallen on <the> stone this will be broken; on whomever but 
 > $\quad$ alluding to: [[LXX.Isa.8.14|Isa 8:14]] ☩ [[LXX.Zech.12.3|Zech 12:3]] ☩ [[LXX.Dan.2.34|Dan 2:34-35]] ☩ [[LXX.Dan.2.44|Dan 2:44]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

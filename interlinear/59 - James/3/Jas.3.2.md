@@ -1,12 +1,12 @@
-**James 3:2
-**<small><sub>**KJV:**</sub></small>
+**James 3:2**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For in many things we offend all. If any man offend not in word, the same [is] a perfect man, [and] able also to bridle the whole body.
 <small><sub>**BSB:**</sub></small>
 We all stumble in many ways. If anyone is never at fault in what he says, he is a perfect man, able to control his whole body.
 <small><sub>**Literal:**</sub></small>
 In many ways for we stumble all; If anyone in what he says not does stumble, this one [is] a perfect man, able to bridle indeed all the body.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.1|<< James 3:1]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.3|James 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In many ways |**<big>[[G4183\|πολλὰ]]</big>**  |polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

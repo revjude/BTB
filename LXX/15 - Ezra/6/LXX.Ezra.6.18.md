@@ -1,10 +1,7 @@
 **LXX Ezra 6:18** 
 <small><sub>**LXX:**</sub></small>
 And they established the priests in their divisions, and the Levites in their distributions, for service of \[the\] house  of God, of the one in Jerusalem, according to the writing of \[the\] book of Moses. 
-<small><sub>**KJV:**</sub></small>
-And they set the priests in their divisions, and the Levites in their courses, for the service of God, which [is] at Jerusalem; as it is written in the book of Moses.
-<small><sub>**BSB:**</sub></small>
-They also appointed the priests by their divisions and the Levites by their groups to the service of God in Jerusalem, according to what is written in the Book of Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.17|<< Ezra 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.19|Ezra 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

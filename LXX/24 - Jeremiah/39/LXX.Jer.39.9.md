@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:9** 
 <small><sub>**LXX:**</sub></small>
 And the extra of the people, and the ones being left behind in the city, and the ones falling in -- \[these\], they fell to the king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-Then Nebuzaradan the captain of the guard carried away captive into Babylon the remnant of the people that remained in the city, and those that fell away, that fell to him, with the rest of the people that remained.
-<small><sub>**BSB:**</sub></small>
-Then Nebuzaradan captain of the guard carried away to Babylon the remnant of the people who had remained in the city, along with the deserters who had defected to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.8|<< Jeremiah 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.10|Jeremiah 39:10 >>]]</td></tr></table>
 
 | Translation | Greek |

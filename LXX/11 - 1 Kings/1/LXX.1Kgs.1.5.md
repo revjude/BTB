@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:5** 
 <small><sub>**LXX:**</sub></small>
 And Adonijah son of Haggith lifted up, saying, I shall reign. And he appointed to himself chariots, and horsemen, and fifty men running in front of him. 
-<small><sub>**KJV:**</sub></small>
-Then Adonijah the son of Haggith exalted himself, saying, I will be king: and he prepared him chariots and horsemen, and fifty men to run before him.
-<small><sub>**BSB:**</sub></small>
-At that time Adonijah, David’s son by Haggith, began to exalt himself, saying, “I will be king!” And he acquired chariots and horsemen and fifty men to run ahead of him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.4|<< 1 Kings 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.6|1 Kings 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

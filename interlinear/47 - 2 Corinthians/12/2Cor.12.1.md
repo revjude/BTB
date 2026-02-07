@@ -1,12 +1,12 @@
-**2 Corinthians 12:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:1**<big><big>[[2Cor.12.1 Paul’s Revelation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.
 <small><sub>**BSB:**</sub></small>
 I must go on boasting. Although there is nothing to gain, I will go on to visions and revelations from the Lord.
 <small><sub>**Literal:**</sub></small>
 To boast it behooves [me], not is it profitable indeed, I will go on however to visions and revelations of [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.33|<< 2 Corinthians 11:33]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.2|2 Corinthians 12:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To boast |**<big>[[G2744\|Καυχᾶσθαι]]</big>**  |Kauchasthai <small><sup>[[V-PNN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it behooves [me], [^1] [^2] |**<big>[[G1163\|δεῖ,]]</big>**  |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |

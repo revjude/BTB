@@ -1,10 +1,7 @@
 **LXX Psalm 148:6** 
 <small><sub>**LXX:**</sub></small>
 He established them into the eon, and into the eon of the eon. He made an order, and it shall not pass away. 
-<small><sub>**KJV:**</sub></small>
-He hath also stablished them for ever and ever: he hath made a decree which shall not pass.
-<small><sub>**BSB:**</sub></small>
-He established them forever and ever; He issued a decree that will never pass away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.148.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.5|<< Psalm 148:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.7|Psalm 148:7 >>]]</td></tr></table>
 
 | Translation | Greek |

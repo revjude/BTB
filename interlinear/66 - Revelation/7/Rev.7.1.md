@@ -1,12 +1,12 @@
-**Revelation 7:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:1**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.
 <small><sub>**BSB:**</sub></small>
 After this I saw four angels standing at the four corners of the earth, holding back its four winds so that no wind would blow on land or sea or on any tree.
 <small><sub>**Literal:**</sub></small>
 and After this thing I saw four angels standing upon the four corners of the earth holding the four winds of the earth so that no may blow wind on the earth nor on the sea nor on all tree.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.17|<< Revelation 6:17]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.2|Revelation 7:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
 | After |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

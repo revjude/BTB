@@ -1,4 +1,4 @@
-**Ezekiel 21:22** (21:27)
+**Ezekiel 21:22**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At his right hand was the divination for Jerusalem, to appoint captains, to open the mouth in the slaughter, to lift up the voice with shouting, to appoint [battering] rams against the gates, to cast a mount, [and] to build a fort.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In his right hand appears the portent for Jerusalem, where he is to set up batte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.21|<< Ezekiel 21:21]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.23|Ezekiel 21:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in right [hand] his  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3225G\|ימִינ֞]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> mi.N<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was  |**<big>&#8207;[[H1961\|הָיָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

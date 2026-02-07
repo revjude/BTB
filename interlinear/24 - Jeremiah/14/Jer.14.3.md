@@ -1,4 +1,4 @@
-**Jeremiah 14:3** 
+**Jeremiah 14:3**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their nobles have sent their little ones to the waters: they came to the pits, [and] found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The nobles send their servants for water; they go to the cisterns, but find no w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.2|<< Jeremiah 14:2]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.4|Jeremiah 14:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and noble [ones] their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0117\|אַדִּ֣רֵי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Di.rei.<small><sup>[[HAampc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have sent  |**<big>&#8207;[[H7971G\|שָׁלְח֥וּ]]&#8207; </big>**| sha.le.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

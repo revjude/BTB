@@ -1,10 +1,7 @@
 **LXX Daniel 11:3** 
 <small><sub>**LXX:**</sub></small>
 And a mighty king shall rise up, and he shall lord over a great dominion, and he shall do according to  his will. 
-<small><sub>**KJV:**</sub></small>
-And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.
-<small><sub>**BSB:**</sub></small>
-Then a mighty king will arise, who will rule with great authority and do as he pleases.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.2|<< Daniel 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.4|Daniel 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

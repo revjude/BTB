@@ -1,4 +1,4 @@
-**Psalms 68:25** (68:26)
+**Psalms 68:25**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The singers went before, the players on instruments [followed] after; among [them were] the damsels playing with timbrels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The singers lead the way, the musicians follow after, among the maidens playing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.24|<< Psalms 68:24]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.26|Psalms 68:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they went in front  |**<big>&#8207;[[H6923\|קִדְּמ֣וּ]]&#8207; </big>**| ki.de.Mu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | singers  |**<big>&#8207;[[H7891\|שָׁ֭רִים]]&#8207; </big>**| Sha.rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

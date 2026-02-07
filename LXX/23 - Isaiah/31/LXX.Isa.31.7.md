@@ -1,10 +1,7 @@
 **LXX Isaiah 31:7** 
 <small><sub>**LXX:**</sub></small>
 For  in that day men shall totally reject the \[idols\] made by their hands -- the \[things\] made of silver, and the \[things\] of gold, which their hands made. 
-<small><sub>**KJV:**</sub></small>
-For in that day every man shall cast away his idols of silver, and his idols of gold, which your own hands have made unto you [for] a sin.
-<small><sub>**BSB:**</sub></small>
-For on that day, every one of you will reject the idols of silver and gold that your own hands have sinfully made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.6|<< Isaiah 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.8|Isaiah 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 23:9** 
+**Ezekiel 23:9**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I have delivered her into the hand of her lovers, into the hand of the Assyrians, upon whom she doted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore I delivered her into the hands of her lovers, the Assyrians for whom s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.8|<< Ezekiel 23:8]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.10|Ezekiel 23:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֥ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I gave her  |**<big>&#8207;[[H5414G\|נְתַתִּ֖י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| ne.ta.Ti.<small><sup>[[HVqp1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

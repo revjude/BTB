@@ -1,12 +1,12 @@
-**John 10:4
-**<small><sub>**KJV:**</sub></small>
+**John 10:4**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he putteth forth his own sheep, he goeth before them, and the sheep follow him: for they know his voice.
 <small><sub>**BSB:**</sub></small>
 When he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice.
 <small><sub>**Literal:**</sub></small>
 and When <the> [his] own all he may bring out, before them he goes, and the sheep after him follow, because they know the voice of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.3|<< John 10:3]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.5|John 10:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

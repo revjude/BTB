@@ -1,10 +1,7 @@
 **LXX Judges 20:43** 
 <small><sub>**LXX:**</sub></small>
 And they cut up  Benjamin, and pursued him according to his feet, and trampled him unto before Gibeah towards \[the\] rising of \[the\] sun. 
-<small><sub>**KJV:**</sub></small>
-[Thus] they inclosed the Benjamites round about, [and] chased them, [and] trode them down with ease over against Gibeah toward the sunrising.
-<small><sub>**BSB:**</sub></small>
-They surrounded the Benjamites, pursued them, and easily overtook them in the vicinity of Gibeah on the east.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.42|<< Judges 20:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.44|Judges 20:44 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 6:22** 
+**Proverbs 6:22**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou goest, it shall lead thee; when thou sleepest, it shall keep thee; and [when] thou awakest, it shall talk with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you walk, they will guide you; when you lie down, they will watch over you;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.21|<< Proverbs 6:21]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.23|Proverbs 6:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when walking about you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1980I\|הִתְהַלֶּכְ]]&#8207;&#8207;[[H9041\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> hit.hal.lekh.<small><sup>[[HVtcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will guide  |**<big>&#8207;[[H5148\|תַּנְחֶ֬ה]]&#8207; </big>**| tan.Cheh<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

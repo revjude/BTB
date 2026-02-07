@@ -1,4 +1,4 @@
-**Leviticus 14:8** 
+**Leviticus 14:8**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The one being cleansed must wash his clothes, shave off all his hair, and bathe 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.7|<< Leviticus 14:7]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.9|Leviticus 14:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will wash  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3526H\|כִבֶּס֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.Bes<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one] purifying himself  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2891\|מִּטַּהֵ֨ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mi.ta.Her<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

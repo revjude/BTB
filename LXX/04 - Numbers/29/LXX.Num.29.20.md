@@ -1,10 +1,7 @@
 **LXX Numbers 29:20** 
 <small><sub>**LXX:**</sub></small>
 The third day -- eleven calves, two rams, four and ten unblemished lambs of a year \[old\], 
-<small><sub>**KJV:**</sub></small>
-And on the third day eleven bullocks, two rams, fourteen lambs of the first year without blemish;
-<small><sub>**BSB:**</sub></small>
-On the third day you are to present eleven bulls, two rams, and fourteen male lambs a year old, all unblemished,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.19|<< Numbers 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.21|Numbers 29:21 >>]]</td></tr></table>
 
 | Translation | Greek |

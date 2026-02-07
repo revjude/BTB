@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:25** 
 <small><sub>**LXX:**</sub></small>
 And there were  to Solomon four thousand female horses for chariots, and twelve thousand horsemen. And he stationed them in \[the\] cities of the chariots, and with the king in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen; whom he bestowed in the chariot cities, and with the king at Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Solomon had 4,000 stalls for horses and chariots, and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.24|<< 2 Chronicles 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.26|2 Chronicles 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

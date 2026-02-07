@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:41** 
 <small><sub>**LXX:**</sub></small>
 Behold, a people come from \[the\] north, and a great nation, and many kings shall be awakened from \[the\] end of the earth. 
-<small><sub>**KJV:**</sub></small>
-Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth.
-<small><sub>**BSB:**</sub></small>
-Behold, an army is coming from the north; a great nation and many kings are stirred up from the ends of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.40|<< Jeremiah 50:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.42|Jeremiah 50:42 >>]]</td></tr></table>
 
 | Translation | Greek |

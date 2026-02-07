@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, You go again and love a woman loving evil and an adulteress! \[even\] as \[the\] <span class="smallcaps">lord</span> loves the sons of Israel, and they look away unto  strange gods, and \[are\] fond of cakes with dried grapes. 
-<small><sub>**KJV:**</sub></small>
-Then said the LORD unto me, Go yet, love a woman beloved of [her] friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to me, “Go show love to your wife again, though she is loved by another and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.23|<< Hosea 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.2|Hosea 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

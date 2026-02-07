@@ -1,4 +1,4 @@
-**1 Chronicles 4:42** 
+**1 Chronicles 4:42**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [some] of them, [even] of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And five hundred of these Simeonites led by Pelatiah, Neariah, Rephaiah, and Uzz
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.41|<< 1 Chronicles 4:41]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.43|1 Chronicles 4:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of \<the> them  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

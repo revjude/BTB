@@ -1,4 +1,4 @@
-**Exodus 12:50** 
+**Exodus 12:50**<big><big>[[Exod.12.43 Instructions for the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so did they.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the Israelites did this—they did just as the LORD had commanded Moses
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.49|<< Exodus 12:49]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.51|Exodus 12:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּֽעֲשׂ֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

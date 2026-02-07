@@ -1,10 +1,7 @@
 **LXX Leviticus 14:45** 
 <small><sub>**LXX:**</sub></small>
 And they shall demolish the house, and  its wood, and  its stones; and all the \[plaster\] dust of the house they shall bring forth outside the city unto an unclean place. 
-<small><sub>**KJV:**</sub></small>
-And he shall break down the house, the stones of it, and the timber thereof, and all the morter of the house; and he shall carry [them] forth out of the city into an unclean place.
-<small><sub>**BSB:**</sub></small>
-It must be torn down with its stones, its timbers, and all its plaster, and taken outside the city to an unclean place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.44|<< Leviticus 14:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.46|Leviticus 14:46 >>]]</td></tr></table>
 
 | Translation | Greek |

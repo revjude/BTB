@@ -1,12 +1,12 @@
-**1 John 2:9
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:9**<big><big>[[1John.2.7 A New Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that saith he is in the light, and hateth his brother, is in darkness even until now.
 <small><sub>**BSB:**</sub></small>
 If anyone claims to be in the light but hates his brother, he is still in the darkness.
 <small><sub>**Literal:**</sub></small>
 The [one] claiming in the light to be and the brother of him hating in the darkness is until now.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.8|<< 1 John 2:8]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.10|1 John 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | claiming |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

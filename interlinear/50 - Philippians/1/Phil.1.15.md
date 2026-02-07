@@ -1,12 +1,12 @@
-**Philippians 1:15
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:15**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Some indeed preach Christ even of envy and strife; and some also of good will:
 <small><sub>**BSB:**</sub></small>
 It is true that some preach Christ out of envy and rivalry, but others out of goodwill.
 <small><sub>**Literal:**</sub></small>
 Some indeed even from envy and strife, some however also from goodwill <the> Christ are proclaiming —.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.14|<< Philippians 1:14]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.16|Philippians 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Some |**<big>[[G5100\|τινὲς]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

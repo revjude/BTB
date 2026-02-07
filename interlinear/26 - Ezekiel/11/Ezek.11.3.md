@@ -1,4 +1,4 @@
-**Ezekiel 11:3** 
+**Ezekiel 11:3**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which say, [It is] not near; let us build houses: this [city is] the caldron, and we [be] the flesh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are saying, ‘Is not the time near to build houses? The city is the cookin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.2|<< Ezekiel 11:2]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.4|Ezekiel 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who say  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0559\|אֹ֣מְרִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'O.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

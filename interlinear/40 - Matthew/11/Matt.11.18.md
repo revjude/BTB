@@ -1,12 +1,12 @@
-**Matthew 11:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:18**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For John came neither eating nor drinking, and they say, He hath a devil.
 <small><sub>**BSB:**</sub></small>
 For John came neither eating nor drinking, and they say, ‘He has a demon!’
 <small><sub>**Literal:**</sub></small>
 Came for John neither eating nor drinking, and they say; A demon he has!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.17|<< Matthew 11:17]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.19|Matthew 11:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

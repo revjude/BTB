@@ -1,4 +1,4 @@
-**Exodus 18:16** 
+**Exodus 18:16**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they have a matter, they come unto me; and I judge between one and another, and I do make [them] know the statutes of God, and his laws.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they have a matter, they come unto me; and I judge between one and another,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.15|<< Exodus 18:15]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.17|Exodus 18:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be[long]  |**<big>&#8207;[[H1961\|יִהְיֶ֨ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

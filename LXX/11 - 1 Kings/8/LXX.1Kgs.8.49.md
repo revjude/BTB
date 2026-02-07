@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:49** 
 <small><sub>**LXX:**</sub></small>
 then you shall listen from the heaven, from your prepared home,  of their prayer and  their supplication, and you shall do the just thing for them, 
-<small><sub>**KJV:**</sub></small>
-Then hear thou their prayer and their supplication in heaven thy dwelling place, and maintain their cause,
-<small><sub>**BSB:**</sub></small>
-then may You hear from heaven, Your dwelling place, their prayer and petition, and may You uphold their cause.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.48|<< 1 Kings 8:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.50|1 Kings 8:50 >>]]</td></tr></table>
 
 | Translation | Greek |

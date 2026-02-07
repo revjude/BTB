@@ -1,10 +1,7 @@
 **LXX Ezekiel 2:10** 
 <small><sub>**LXX:**</sub></small>
 And he unrolled it in my presence, and was in it \[things\] being written on the front and the rear; and it had written on it a lamentation, and a strain, and a woe. 
-<small><sub>**KJV:**</sub></small>
-And he spread it before me; and it [was] written within and without: and [there was] written therein lamentations, and mourning, and woe.
-<small><sub>**BSB:**</sub></small>
-which He unrolled before me. And written on the front and back of it were words of lamentation, mourning, and woe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.9|<< Ezekiel 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.1|Ezekiel 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

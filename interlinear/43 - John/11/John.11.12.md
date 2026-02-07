@@ -1,12 +1,12 @@
-**John 11:12
-**<small><sub>**KJV:**</sub></small>
+**John 11:12**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said his disciples, Lord, if he sleep, he shall do well.
 <small><sub>**BSB:**</sub></small>
 His disciples replied, “Lord, if he is sleeping, he will get better.”
 <small><sub>**Literal:**</sub></small>
 Said therefore the disciples to Him; Lord, if he has fallen asleep, he will get well.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.11|<< John 11:11]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.13|John 11:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπαν]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

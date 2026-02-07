@@ -1,12 +1,12 @@
-**Matthew 25:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:22**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.
 <small><sub>**BSB:**</sub></small>
 The servant who had received the two talents also came and said, ‘Master, you entrusted me with two talents. See, I have gained two more.’
 <small><sub>**Literal:**</sub></small>
 Having come then also the [one] with the two talents having taken he said; Master, two talents to me you did deliver; Behold more two talents I gained upon them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.21|<< Matthew 25:21]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.23|Matthew 25:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come |**<big>[[G4334\|Προσελθὼν]]</big>**  |Proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |

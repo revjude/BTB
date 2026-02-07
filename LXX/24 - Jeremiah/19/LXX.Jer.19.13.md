@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:13** 
 <small><sub>**LXX:**</sub></small>
 And the houses of Jerusalem, and the houses of \[the\] kings of Judah will be as  a place  having fallen into ruin because of the uncleannesses in all the houses in which they burned incense upon the roofs to all the military of the heaven, and offered libations to strange gods. 
-<small><sub>**KJV:**</sub></small>
-And the houses of Jerusalem, and the houses of the kings of Judah, shall be defiled as the place of Tophet, because of all the houses upon whose roofs they have burned incense unto all the host of heaven, and have poured out drink offerings unto other gods.
-<small><sub>**BSB:**</sub></small>
-The houses of Jerusalem and the houses of the kings of Judah will be defiled like that place, Topheth—all the houses on whose rooftops they burned incense to all the host of heaven and poured out drink offerings to other gods.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.12|<< Jeremiah 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.14|Jeremiah 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

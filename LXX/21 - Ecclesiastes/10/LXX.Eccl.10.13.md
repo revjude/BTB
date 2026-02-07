@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:13** 
 <small><sub>**LXX:**</sub></small>
 \[the\] beginning of \[the\] words of his mouth \[are\] folly, and \[the\] end of his mouth \[is\] wicked madness. 
-<small><sub>**KJV:**</sub></small>
-The beginning of the words of his mouth [is] foolishness: and the end of his talk [is] mischievous madness.
-<small><sub>**BSB:**</sub></small>
-The beginning of his talk is folly, and the end of his speech is evil madness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.12|<< Ecclesiastes 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.14|Ecclesiastes 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

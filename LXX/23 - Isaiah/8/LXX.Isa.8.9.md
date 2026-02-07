@@ -1,10 +1,7 @@
 **LXX Isaiah 8:9** 
 <small><sub>**LXX:**</sub></small>
 Know, O nations, and be vanquished! Take heed until \[the\] latter end of the earth! Being strong be vanquished! For if again you should be strong, again you shall be vanquished. 
-<small><sub>**KJV:**</sub></small>
-Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
-<small><sub>**BSB:**</sub></small>
-Huddle together, O peoples, and be shattered; pay attention, all you distant lands; prepare for battle, and be shattered; prepare for battle, and be shattered!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.8|<< Isaiah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.10|Isaiah 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

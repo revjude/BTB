@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:22** 
 <small><sub>**LXX:**</sub></small>
 If a man should sin \[against\] his neighbor, and he takes upon him an oath  to cause him to make an oath, and he should come and make an oath against the altar in  this house; 
-<small><sub>**KJV:**</sub></small>
-If a man sin against his neighbour, and an oath be laid upon him to make him swear, and the oath come before thine altar in this house;
-<small><sub>**BSB:**</sub></small>
-When a man sins against his neighbor and is required to take an oath, and he comes to take an oath before Your altar in this temple,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.21|<< 2 Chronicles 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.23|2 Chronicles 6:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 147:18** 
 <small><sub>**LXX:**</sub></small>
 He shall send out  his word, and melt them. He shall breathe  his breath and waters shall flow. 
-<small><sub>**KJV:**</sub></small>
-He sendeth out his word, and melteth them: he causeth his wind to blow, [and] the waters flow.
-<small><sub>**BSB:**</sub></small>
-He sends forth His word and melts them; He unleashes His winds, and the waters flow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.147.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.17|<< Psalm 147:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.19|Psalm 147:19 >>]]</td></tr></table>
 
 | Translation | Greek |

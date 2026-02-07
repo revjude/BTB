@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:8** 
 <small><sub>**LXX:**</sub></small>
 According to all the works which they did to me, from which day I led them from Egypt, and until  this day; even as they abandoned me, and served other gods, so they do also to you. 
-<small><sub>**KJV:**</sub></small>
-According to all the works which they have done since the day that I brought them up out of Egypt even unto this day, wherewith they have forsaken me, and served other gods, so do they also unto thee.
-<small><sub>**BSB:**</sub></small>
-Just as they have done from the day I brought them up out of Egypt until this day, forsaking Me and serving other gods, so they are doing to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.7|<< 1 Samuel 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.9|1 Samuel 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

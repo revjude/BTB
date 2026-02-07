@@ -1,4 +1,4 @@
-**2 Chronicles 22:5** 
+**2 Chronicles 22:5**<big><big>[[2Chr.22.1 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramothgilead: and the Syrians smote Joram.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ahaziah also followed their counsel and went with Joram son of Ahab king of Isra
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.4|<< 2 Chronicles 22:4]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.6|2 Chronicles 22:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in counsel their  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6098\|עֲצָתָ]]&#8207;&#8207;[[H9028\|ם֮]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.tza.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

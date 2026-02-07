@@ -1,12 +1,12 @@
-**Mark 13:32
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:32**<big><big>[[Mark.13.32 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But of that day and [that] hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.
 <small><sub>**BSB:**</sub></small>
 No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father.
 <small><sub>**Literal:**</sub></small>
 Concerning now the day that or the hour no [one] knows not even the angels <the> in heaven nor the Son only except the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.31|<< Mark 13:31]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.33|Mark 13:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

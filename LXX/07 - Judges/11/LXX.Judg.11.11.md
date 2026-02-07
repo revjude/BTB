@@ -1,10 +1,7 @@
 **LXX Judges 11:11** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah went with the elders of Gilead, and the people established him over them as head, and for leader. And Jephthah spoke all  his words before \[the\] <span class="smallcaps">lord</span> in Mizpeh. 
-<small><sub>**KJV:**</sub></small>
-Then Jephthah went with the elders of Gilead, and the people made him head and captain over them: and Jephthah uttered all his words before the LORD in Mizpeh.
-<small><sub>**BSB:**</sub></small>
-So Jephthah went with the elders of Gilead, and the people made him their leader and commander. And Jephthah repeated all his terms in the presence of the LORD at Mizpah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.10|<< Judges 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.12|Judges 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

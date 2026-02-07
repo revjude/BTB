@@ -1,10 +1,7 @@
 **LXX Numbers 22:38** 
 <small><sub>**LXX:**</sub></small>
 And Balaam said to Balak, Behold, I come to you now. Am I able to speak anything? The word which ever God should put into  my mouth, this I will speak. 
-<small><sub>**KJV:**</sub></small>
-And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak.
-<small><sub>**BSB:**</sub></small>
-“See, I have come to you,” Balaam replied, “but can I say just anything? I must speak only the word that God puts in my mouth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.37|<< Numbers 22:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.39|Numbers 22:39 >>]]</td></tr></table>
 
 | Translation | Greek |

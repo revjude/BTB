@@ -1,10 +1,7 @@
 **LXX Jonah 3:4** 
 <small><sub>**LXX:**</sub></small>
 And Jonah began  to go into the city, as \[the\] going of one day. And he proclaimed and said, Yet three days, and Nineveh shall be eradicated. 
-<small><sub>**KJV:**</sub></small>
-And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.
-<small><sub>**BSB:**</sub></small>
-On the first day of his journey, Jonah set out into the city and proclaimed, “Forty more days and Nineveh will be overturned!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.3|<< Jonah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.5|Jonah 3:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 3:4** is...

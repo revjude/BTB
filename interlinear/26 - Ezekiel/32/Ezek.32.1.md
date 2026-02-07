@@ -1,4 +1,4 @@
-**Ezekiel 32:1** 
+**Ezekiel 32:1**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the twelfth year, in the twelfth month, in the first [day] of the month, [that] the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the twelfth year, on the first day of the twelfth month, the word of the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.18|<< Ezekiel 31:18]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.2|Ezekiel 32:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in two [plus]  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8147\|שְׁתֵּ֣י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Hebrews 8:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:12**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.
 <small><sub>**BSB:**</sub></small>
 For I will forgive their iniquities and will remember their sins no more.”
@@ -10,7 +10,7 @@ because merciful I will be toward the iniquities of them and the sins of them an
 > $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | merciful |**<big>[[G2436\|ἵλεως]]</big>**  [^1] |ileōs <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

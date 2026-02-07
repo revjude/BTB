@@ -1,12 +1,12 @@
-**2 Timothy 2:13
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:13**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If we believe not, [yet] he abideth faithful: he cannot deny himself.
 <small><sub>**BSB:**</sub></small>
 if we are faithless, He remains faithful, for He cannot deny Himself.
 <small><sub>**Literal:**</sub></small>
 if we are faithless, He faithful remains; to deny for Himself not He is able.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.12|<< 2 Timothy 2:12]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.14|2 Timothy 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we are faithless, |**<big>[[G0569\|ἀπιστοῦμεν,]]</big>**  |apistoumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

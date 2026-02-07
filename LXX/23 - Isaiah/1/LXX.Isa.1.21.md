@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 O how \[the\] trustworthy city Zion became a harlot, full of judgment; in which righteousness slept in it, but now murderers. 
-<small><sub>**KJV:**</sub></small>
-How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers.
-<small><sub>**BSB:**</sub></small>
-See how the faithful city has become a harlot! She once was full of justice; righteousness resided within her, but now only murderers!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.20|<< Isaiah 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.22|Isaiah 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

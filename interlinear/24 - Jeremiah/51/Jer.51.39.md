@@ -1,4 +1,4 @@
-**Jeremiah 51:39** 
+**Jeremiah 51:39**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a perpetual sleep, and not wake, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While they are flushed with heat, I will serve them a feast, and I will make the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.38|<< Jeremiah 51:38]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.40|Jeremiah 51:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when getting heated they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2552\|חֻמָּ֞]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chu.Ma<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will make  |**<big>&#8207;[[H7896G\|אָשִׁ֣ית]]&#8207; </big>**| 'a.Shit<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

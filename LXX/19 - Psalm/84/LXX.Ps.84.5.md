@@ -1,10 +1,7 @@
 **LXX Psalm 84:5** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[is\] \[the\] man in whom is the assistance to him from you; in his heart he ordained ascending; 
-<small><sub>**KJV:**</sub></small>
-Blessed [is] the man whose strength [is] in thee; in whose heart [are] the ways [of them].
-<small><sub>**BSB:**</sub></small>
-Blessed are those whose strength is in You, whose hearts are set on pilgrimage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.4|<< Psalm 84:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.6|Psalm 84:6 >>]]</td></tr></table>
 
 | Translation | Greek |

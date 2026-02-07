@@ -1,10 +1,7 @@
 **LXX Leviticus 24:8** 
 <small><sub>**LXX:**</sub></small>
 On the day of the Sabbaths you shall put \[them\] before \[the\] <span class="smallcaps">lord</span> always before the sons of Israel -- an eternal covenant. 
-<small><sub>**KJV:**</sub></small>
-Every sabbath he shall set it in order before the LORD continually, [being taken] from the children of Israel by an everlasting covenant.
-<small><sub>**BSB:**</sub></small>
-Every Sabbath day the bread is to be set out before the LORD on behalf of the Israelites as a permanent covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.7|<< Leviticus 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.9|Leviticus 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

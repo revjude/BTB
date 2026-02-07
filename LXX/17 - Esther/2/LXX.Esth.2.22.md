@@ -1,10 +1,7 @@
 **LXX Esther 2:22** 
 <small><sub>**LXX:**</sub></small>
 And the matter was made manifest to Mordecai, and he signaled it \[to\] Esther, and she revealed to the king the \[things\] of the plot. 
-<small><sub>**KJV:**</sub></small>
-And the thing was known to Mordecai, who told [it] unto Esther the queen; and Esther certified the king [thereof] in Mordecai’s name.
-<small><sub>**BSB:**</sub></small>
-When Mordecai learned of the plot, he reported it to Queen Esther, and she informed the king on Mordecai’s behalf.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.21|<< Esther 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.23|Esther 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

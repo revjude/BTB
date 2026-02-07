@@ -1,10 +1,7 @@
 **LXX Psalm 89:48** 
 <small><sub>**LXX:**</sub></small>
 Who is \[the\] man who shall live and not see death? Shall he rescue  his \[own\] soul from out of \[the\] hand of Hades? PAUSE. 
-<small><sub>**KJV:**</sub></small>
-What man [is he that] liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.
-<small><sub>**BSB:**</sub></small>
-What man can live and never see death? Can he deliver his soul from the power of Sheol? Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.47|<< Psalm 89:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.49|Psalm 89:49 >>]]</td></tr></table>
 
 | Translation | Greek |

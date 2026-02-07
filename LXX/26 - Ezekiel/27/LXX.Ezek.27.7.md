@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:7** 
 <small><sub>**LXX:**</sub></small>
 Linen with embroidery from out of Egypt was to you for a strewn bed,  glory upon you, and to clothe you in blue and purple from the islands of Elishah; and they became your wraps. 
-<small><sub>**KJV:**</sub></small>
-Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee.
-<small><sub>**BSB:**</sub></small>
-Of embroidered fine linen from Egypt they made your sail, which served as your banner. Of blue and purple from the coasts of Elishah they made your awning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.6|<< Ezekiel 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.8|Ezekiel 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 8:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:15**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he charged them, saying, Take heed, beware of the leaven of the Pharisees, and [of] the leaven of Herod.
 <small><sub>**BSB:**</sub></small>
 “Watch out!” He cautioned them. “Beware of the leaven of the Pharisees and of Herod.”
 <small><sub>**Literal:**</sub></small>
 And He was instructing to them saying; do watch out, do take heed of the leaven of the Pharisees and of the leaven of Herod.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.14|<< Mark 8:14]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.16|Mark 8:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was instructing |**<big>[[G1291\|διεστέλλετο]]</big>**  |diestelleto <small><sup>[[V-IMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

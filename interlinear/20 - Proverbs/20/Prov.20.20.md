@@ -1,4 +1,4 @@
-**Proverbs 20:20** 
+**Proverbs 20:20**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Whoever curses his father or mother, his lamp will be extinguished in deepest da
 > $\quad$ referenced by: [[Matt.15.4|Matt 15:4]] ☩ [[Mark.7.10|Mark 7:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] curses  |**<big>&#8207;[[H7043\|מְ֭קַלֵּל]]&#8207; </big>**| Me.ka.lel<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father his  |**<big>&#8207;[[H0001G\|אָבִ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

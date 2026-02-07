@@ -1,10 +1,7 @@
 **LXX Joshua 2:4** 
 <small><sub>**LXX:**</sub></small>
 And the woman taking the two men hid them. And she said to them, saying, The men entered to me, and I know not from where they were. 
-<small><sub>**KJV:**</sub></small>
-And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they [were]:
-<small><sub>**BSB:**</sub></small>
-But the woman had taken the two men and hidden them. So she said, “Yes, the men did come to me, but I did not know where they had come from.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.3|<< Joshua 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.5|Joshua 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

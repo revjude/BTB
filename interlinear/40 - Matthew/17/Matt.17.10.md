@@ -1,5 +1,5 @@
-**Matthew 17:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:10**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his disciples asked him, saying, Why then say the scribes that Elias must first come?
 <small><sub>**BSB:**</sub></small>
 The disciples asked Him, “Why then do the scribes say that Elijah must come first?”
@@ -10,7 +10,7 @@ And asked Him the disciples of him saying; Why then the scribes say that Elijah 
 > $\quad$ alluding to: [[LXX.Mal.4.5|Mal 4:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | asked |**<big>[[G1905\|ἐπηρώτησαν]]</big>**  |epērōtēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 36:19** 
+**Isaiah 36:19**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [are] the gods of Hamath and Arphad? where [are] the gods of Sepharvaim? and have they delivered Samaria out of my hand?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.18|<< Isaiah 36:18]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.20|Isaiah 36:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0346\|אַיֵּ֞ה]]&#8207; </big>**| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֤י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

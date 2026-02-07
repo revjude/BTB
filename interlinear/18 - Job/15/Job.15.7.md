@@ -1,4 +1,4 @@
-**Job 15:7** 
+**Job 15:7**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Art] thou the first man [that] was born? or wast thou made before the hills?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Were you the first man ever born? Were you brought forth before the hills?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.6|<< Job 15:6]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.8|Job 15:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ first  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7223G\|רִאישׁ֣וֹן]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ri.yo.Shon<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | human being  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

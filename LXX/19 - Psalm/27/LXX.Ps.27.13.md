@@ -1,10 +1,7 @@
 **LXX Psalm 27:13** 
 <small><sub>**LXX:**</sub></small>
 I trust  to behold the good \[things\] of \[the\] <span class="smallcaps">lord</span> in \[the\] land of \[the\] living. 
-<small><sub>**KJV:**</sub></small>
-[I had fainted], unless I had believed to see the goodness of the LORD in the land of the living.
-<small><sub>**BSB:**</sub></small>
-Still I am certain to see the goodness of the LORD in the land of the living.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.12|<< Psalm 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.14|Psalm 27:14 >>]]</td></tr></table>
 
 | Translation | Greek |

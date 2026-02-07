@@ -1,10 +1,7 @@
 **LXX Exodus 26:29** 
 <small><sub>**LXX:**</sub></small>
 And the posts you shall gild in gold. And the rings you shall make of gold, into which you shall insert the bars. And you shall gild the bars in gold. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt overlay the boards with gold, and make their rings [of] gold [for] places for the bars: and thou shalt overlay the bars with gold.
-<small><sub>**BSB:**</sub></small>
-Overlay the frames with gold and make gold rings to hold the crossbars. Also overlay the crossbars with gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.28|<< Exodus 26:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.30|Exodus 26:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 25:14** 
+**Deuteronomy 25:14**<big><big>[[Deut.25.13 Standard Weights and Measures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not have in thine house divers measures, a great and a small.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall not have two differing measures in your house, one large and one small
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.13|<< Deuteronomy 25:13]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.15|Deuteronomy 25:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|יִהְיֶ֥ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 16:7** 
+**Jeremiah 16:7**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall [men] tear [themselves] for them in mourning, to comfort them for the dead; neither shall [men] give them the cup of consolation to drink for their father or for their mother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No food will be offered to comfort those who mourn the dead; not even a cup of c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.6|<< Jeremiah 16:6]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.8|Jeremiah 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people will break  |**<big>&#8207;[[H6536\|יִפְרְס֥וּ]]&#8207; </big>**| yif.re.Su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

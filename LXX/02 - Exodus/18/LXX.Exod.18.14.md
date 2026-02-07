@@ -1,10 +1,7 @@
 **LXX Exodus 18:14** 
 <small><sub>**LXX:**</sub></small>
 And Jethro seeing all as much as he did to the people, says, What is this which you do to the people? Why do you sit down alone, and all the people stand by you from morning until afternoon? 
-<small><sub>**KJV:**</sub></small>
-And when Moses’ father in law saw all that he did to the people, he said, What [is] this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even?
-<small><sub>**BSB:**</sub></small>
-When his father-in-law saw all that Moses was doing for the people, he asked, “What is this that you are doing for the people? Why do you sit alone as judge, with all the people standing around you from morning till evening?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.13|<< Exodus 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.15|Exodus 18:15 >>]]</td></tr></table>
 
 | Translation | Greek |

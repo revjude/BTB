@@ -1,10 +1,7 @@
 **LXX Isaiah 57:17** 
 <small><sub>**LXX:**</sub></small>
 On account of sin a little in anything I grieved him, and I struck him, and I turned  my face from him; and I was grieved, and he went gloomy in  his ways. 
-<small><sub>**KJV:**</sub></small>
-For the iniquity of his covetousness was I wroth, and smote him: I hid me, and was wroth, and he went on frowardly in the way of his heart.
-<small><sub>**BSB:**</sub></small>
-I was enraged by his sinful greed, so I struck him and hid My face in anger; yet he kept turning back to the desires of his heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.16|<< Isaiah 57:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.18|Isaiah 57:18 >>]]</td></tr></table>
 
 | Translation | Greek |

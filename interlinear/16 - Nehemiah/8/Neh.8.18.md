@@ -1,4 +1,4 @@
-**Nehemiah 8:18** 
+**Nehemiah 8:18**<big><big>[[Neh.8.13 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day [was] a solemn assembly, according unto the manner.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Day after day, from the first day to the last, Ezra read from the Book of the La
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.17|<< Nehemiah 8:17]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.1|Nehemiah 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he read aloud  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7121J\|יִּקְרָא]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yik.ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] scroll of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5612H\|סֵ֨פֶר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Se.fer<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

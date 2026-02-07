@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:27** 
 <small><sub>**LXX:**</sub></small>
 For behold, I have been vigilant against them,  to inflict hurt on them, and to not do good. And all Judah dwelling in \[the\] land of Egypt shall fail by broadsword, and by famine, until whenever they shall cease. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will watch over them for evil, and not for good: and all the men of Judah that [are] in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them.
-<small><sub>**BSB:**</sub></small>
-I am watching over them for harm and not for good, and every man of Judah who is in the land of Egypt will meet his end by sword or famine, until they are finished off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.26|<< Jeremiah 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.28|Jeremiah 44:28 >>]]</td></tr></table>
 
 | Translation | Greek |

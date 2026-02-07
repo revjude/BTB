@@ -1,10 +1,7 @@
 **LXX Job 27:2** 
 <small><sub>**LXX:**</sub></small>
 God lives who thus has judged me, even the almighty, the one embittering my  soul; 
-<small><sub>**KJV:**</sub></small>
-[As] God liveth, [who] hath taken away my judgment; and the Almighty, [who] hath vexed my soul;
-<small><sub>**BSB:**</sub></small>
-“As surely as God lives, who has deprived me of justice—the Almighty, who has embittered my soul—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.1|<< Job 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.3|Job 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

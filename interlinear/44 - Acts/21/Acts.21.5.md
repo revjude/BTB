@@ -1,12 +1,12 @@
-**Acts 21:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:5**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when we had accomplished those days, we departed and went our way; and they all brought us on our way, with wives and children, till [we were] out of the city: and we kneeled down on the shore, and prayed.
 <small><sub>**BSB:**</sub></small>
 But when our time there had ended, we set out on our journey. All the disciples, with their wives and children, accompanied us out of the city and knelt down on the beach to pray with us.
 <small><sub>**Literal:**</sub></small>
 When then it happened that we [were] completing the days, having set out we were journeying while are accompanying us everyone with wives and children as far as outside the city, And having bowed the knees on the shore having prayed<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.4|<< Acts 21:4]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.6|Acts 21:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 24:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:5**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they were afraid, and bowed down [their] faces to the earth, they said unto them, Why seek ye the living among the dead?
 <small><sub>**BSB:**</sub></small>
 As the women bowed their faces to the ground in terror, the two men asked them, “Why do you look for the living among the dead?
 <small><sub>**Literal:**</sub></small>
 Terrified then were becoming they and bowing their faces to the ground they said to them; Why seek you the living among the dead?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.4|<< Luke 24:4]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.6|Luke 24:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Terrified |**<big>[[G1719\|ἐμφόβων]]</big>**  |emphobōn <small><sup>[[A-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

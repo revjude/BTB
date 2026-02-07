@@ -1,4 +1,4 @@
-**Psalms 32:4** 
+**Psalms 32:4**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For day and night thy hand was heavy upon me: my moisture is turned into the drought of summer. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For day and night Your hand was heavy upon me; my strength was drained as in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.3|<< Psalms 32:3]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.5|Psalms 32:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by day  |**<big>&#8207;[[H3119\|יוֹמָ֣ם]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

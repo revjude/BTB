@@ -1,12 +1,12 @@
-**John 11:4
-**<small><sub>**KJV:**</sub></small>
+**John 11:4**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus heard [that], he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.
 <small><sub>**BSB:**</sub></small>
 When Jesus heard this, He said, “This sickness will not end in death. No, it is for the glory of God, so that the Son of God may be glorified through it.”
 <small><sub>**Literal:**</sub></small>
 Having heard then <the> Jesus said; This <the> sickness not is unto death but for the glory <the> of God that may be glorified the Son <the> of God through it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.3|<< John 11:3]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.5|John 11:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσας]]</big>**  |Akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

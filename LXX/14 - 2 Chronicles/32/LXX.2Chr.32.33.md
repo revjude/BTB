@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:33** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah slept with  his fathers. And they entombed him in the ascent of the burying-places of \[the\] sons of David. And glory and honor they gave to him in  his death, \[even\] all Judah, and the ones dwelling in Jerusalem. And Manasseh his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Hezekiah rested with his fathers and was buried in the upper tombs of David’s descendants. All Judah and the people of Jerusalem paid him honor at his death. And his son Manasseh reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.32|<< 2 Chronicles 32:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.1|2 Chronicles 33:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Thessalonians 5:9
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:9**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,
 <small><sub>**BSB:**</sub></small>
 For God has not appointed us to suffer wrath, but to obtain salvation through our Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 because not has destined us <the> God for wrath but for obtaining salvation through the Lord of us Jesus Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.8|<< 1 Thessalonians 5:8]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.10|1 Thessalonians 5:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

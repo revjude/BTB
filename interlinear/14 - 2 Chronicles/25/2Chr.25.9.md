@@ -1,4 +1,4 @@
-**2 Chronicles 25:9** 
+**2 Chronicles 25:9**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The LORD is able to give thee much more than this.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Amaziah asked the man of God, “What should I do about the hundred talents I ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.8|<< 2 Chronicles 25:8]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.10|2 Chronicles 25:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amaziah  |**<big>&#8207;[[H0558G\|אֲמַצְיָ֙הוּ֙]]&#8207; </big>**| 'a.matz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

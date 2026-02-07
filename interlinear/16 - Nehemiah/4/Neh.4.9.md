@@ -1,4 +1,4 @@
-**Nehemiah 4:9** (4:3)
+**Nehemiah 4:9**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So we prayed to our God and posted a guard against them day and night.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.8|<< Nehemiah 4:8]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.10|Nehemiah 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we prayed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6419\|נִּתְפַּלֵּ֖ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> nit.pa.Lel<small><sup>[[HVtw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

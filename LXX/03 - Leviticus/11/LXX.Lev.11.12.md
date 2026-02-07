@@ -1,10 +1,7 @@
 **LXX Leviticus 11:12** 
 <small><sub>**LXX:**</sub></small>
 And all as many as there are not fins to them, nor scales of the ones in the waters -- this is an abomination to you. 
-<small><sub>**KJV:**</sub></small>
-Whatsoever hath no fins nor scales in the waters, that [shall be] an abomination unto you.
-<small><sub>**BSB:**</sub></small>
-Everything in the water that does not have fins and scales shall be detestable to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.11|<< Leviticus 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.13|Leviticus 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

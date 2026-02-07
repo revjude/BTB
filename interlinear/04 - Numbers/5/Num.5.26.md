@@ -1,4 +1,4 @@
-**Numbers 5:26** 
+**Numbers 5:26**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall take an handful of the offering, [even] the memorial thereof, and burn [it] upon the altar, and afterward shall cause the woman to drink the water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the priest is to take a handful of the grain offering as a memorial portion
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.25|<< Numbers 5:25]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.27|Numbers 5:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will take a handful  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7061\|קָמַ֨ץ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.Matz<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֤ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

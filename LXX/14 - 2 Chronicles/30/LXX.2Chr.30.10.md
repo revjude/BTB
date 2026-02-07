@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:10** 
 <small><sub>**LXX:**</sub></small>
 And the runners were traveling city by city in  mount Ephraim and Manasseh, and unto Zebulun. And they became as \[victims\] of ones ridiculing them and deriding them. 
-<small><sub>**KJV:**</sub></small>
-So the posts passed from city to city through the country of Ephraim and Manasseh even unto Zebulun: but they laughed them to scorn, and mocked them.
-<small><sub>**BSB:**</sub></small>
-And the couriers traveled from city to city through the land of Ephraim and Manasseh as far as Zebulun, but the people scorned and mocked them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.9|<< 2 Chronicles 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.11|2 Chronicles 30:11 >>]]</td></tr></table>
 
 | Translation | Greek |

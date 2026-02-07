@@ -1,10 +1,7 @@
 **LXX Exodus 28:41** 
 <small><sub>**LXX:**</sub></small>
 And you shall put them \[on\] Aaron  your brother, and  his sons with him. And you shall anoint them, and you shall fill their  hands. And you shall sanctify them that they should officiate as priests to me. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office.
-<small><sub>**BSB:**</sub></small>
-After you put these garments on your brother Aaron and his sons, anoint them, ordain them, and consecrate them so that they may serve Me as priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.40|<< Exodus 28:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.42|Exodus 28:42 >>]]</td></tr></table>
 
 | Translation | Greek |

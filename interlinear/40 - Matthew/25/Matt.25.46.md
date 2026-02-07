@@ -1,12 +1,12 @@
-**Matthew 25:46
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:46**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And these shall go away into everlasting punishment: but the righteous into life eternal.
 <small><sub>**BSB:**</sub></small>
 And they will go away into eternal punishment, but the righteous into eternal life.”
 <small><sub>**Literal:**</sub></small>
 And will go away these into punishment eternal, <the> but the righteous into life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.45|<< Matthew 25:45]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.1|Matthew 26:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will go away |**<big>[[G0565\|ἀπελεύσονται]]</big>**  |apeleusontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Lamentations 5:14** 
+**Lamentations 5:14**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The elders have ceased from the gate, the young men from their musick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The elders have left the city gate; the young men have stopped their music.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.13|<< Lamentations 5:13]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.15|Lamentations 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | old [men]  |**<big>&#8207;[[H2205H\|זְקֵנִים֙]]&#8207; </big>**| ze.ke.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] gate  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8179G\|שַּׁ֣עַר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

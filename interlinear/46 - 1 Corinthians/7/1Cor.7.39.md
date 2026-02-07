@@ -1,12 +1,12 @@
-**1 Corinthians 7:39
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:39**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The wife is bound by the law as long as her husband liveth; but if her husband be dead, she is at liberty to be married to whom she will; only in the Lord.
 <small><sub>**BSB:**</sub></small>
 A wife is bound to her husband as long as he lives. But if her husband dies, she is free to marry anyone she wishes, as long as he belongs to the Lord.
 <small><sub>**Literal:**</sub></small>
 A wife has been bound to [the] law for as long as time may live the husband of her; if however and shall have died the husband of her free she is to whom she wills to be married, only in [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.38|<< 1 Corinthians 7:38]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.40|1 Corinthians 7:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A wife |**<big>[[G1135H\|Γυνὴ]]</big>**  |Gunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has been bound |**<big>[[G1210\|δέδεται]]</big>**  |dedetai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Titus 3:6
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:6**<big><big>[[Titus.3.1 Heirs of Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which he shed on us abundantly through Jesus Christ our Saviour;
 <small><sub>**BSB:**</sub></small>
 This is the Spirit He poured out on us abundantly through Jesus Christ our Savior,
 <small><sub>**Literal:**</sub></small>
 whom He poured out on us richly through Jesus Christ the Savior of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.5|<< Titus 3:5]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.7|Titus 3:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He poured out |**<big>[[G1632\|ἐξέχεεν]]</big>**  |execheen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

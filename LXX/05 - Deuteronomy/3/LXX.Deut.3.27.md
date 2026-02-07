@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:27** 
 <small><sub>**LXX:**</sub></small>
 Ascend upon the top the dressed stone, and lift up  your eyes towards \[the\] west and \[the\] north and \[the\] south and \[the\] east! And behold \[with\] your eyes! for you shall not pass over  this Jordan. 
-<small><sub>**KJV:**</sub></small>
-Get thee up into the top of Pisgah, and lift up thine eyes westward, and northward, and southward, and eastward, and behold [it] with thine eyes: for thou shalt not go over this Jordan.
-<small><sub>**BSB:**</sub></small>
-Go to the top of Pisgah and look to the west and north and south and east. See the land with your own eyes, for you will not cross this Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.26|<< Deuteronomy 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.28|Deuteronomy 3:28 >>]]</td></tr></table>
 
 | Translation | Greek |

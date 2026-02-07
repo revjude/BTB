@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:6** 
 <small><sub>**LXX:**</sub></small>
 And they said, In no way should we drink wine, for Jonadab son of Rechab  our father gave charge to us, saying, In no way shall you drink wine, you and  your sons unto the eon. 
-<small><sub>**KJV:**</sub></small>
-But they said, We will drink no wine: for Jonadab the son of Rechab our father commanded us, saying, Ye shall drink no wine, [neither] ye, nor your sons for ever:
-<small><sub>**BSB:**</sub></small>
-“We do not drink wine,” they replied, “for our forefather Jonadab son of Rechab commanded us, ‘Neither you nor your descendants are ever to drink wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.5|<< Jeremiah 35:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.7|Jeremiah 35:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 16:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:24**<big><big>[[Matt.16.24 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus unto his disciples, If any [man] will come after me, let him deny himself, and take up his cross, and follow me.
 <small><sub>**BSB:**</sub></small>
 Then Jesus told His disciples, “If anyone wants to come after Me, he must deny himself and take up his cross and follow Me.
 <small><sub>**Literal:**</sub></small>
 Then <the> Jesus said to the disciples of Him; If anyone desires after Me to come, he should deny himself and he should take up the cross of him and he should follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.23|<< Matthew 16:23]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.25|Matthew 16:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

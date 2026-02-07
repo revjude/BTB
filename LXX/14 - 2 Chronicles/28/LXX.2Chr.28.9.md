@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:9** 
 <small><sub>**LXX:**</sub></small>
 And the prophet of the <span class="smallcaps">lord</span> was there -- Oded \[was the\] name to him. And he came forth to meet the force of the ones coming to Samaria. And he said to them, Behold, \[the\] anger of \[the\] <span class="smallcaps">lord</span> the God  of your fathers \[is\] upon Judah, and he delivered them into  your hands. But you killed among them in anger, and it came unto the heavens. 
-<small><sub>**KJV:**</sub></small>
-But a prophet of the LORD was there, whose name [was] Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the LORD God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage [that] reacheth up unto heaven.
-<small><sub>**BSB:**</sub></small>
-But a prophet of the LORD named Oded was there, and he went out to meet the army that returned to Samaria. “Look,” he said to them, “because of His wrath against Judah, the LORD, the God of your fathers, has delivered them into your hand. But you have slaughtered them in a rage that reaches up to heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.8|<< 2 Chronicles 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.10|2 Chronicles 28:10 >>]]</td></tr></table>
 
 | Translation | Greek |

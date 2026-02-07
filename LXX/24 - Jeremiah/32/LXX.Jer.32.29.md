@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:29** 
 <small><sub>**LXX:**</sub></small>
 And the Chaldeans shall come waging war against  this city; and they shall burn  this city by fire, and shall incinerate the houses in which they burned incense upon  their roofs  to Baal, and offered libations to other gods, to  greatly embitter me. 
-<small><sub>**KJV:**</sub></small>
-And the Chaldeans, that fight against this city, shall come and set fire on this city, and burn it with the houses, upon whose roofs they have offered incense unto Baal, and poured out drink offerings unto other gods, to provoke me to anger.
-<small><sub>**BSB:**</sub></small>
-And the Chaldeans who are fighting against this city will come in, set it on fire, and burn it, along with the houses of those who provoked Me to anger by burning incense to Baal on their rooftops and by pouring out drink offerings to other gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.28|<< Jeremiah 32:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.30|Jeremiah 32:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 1:15** 
+**Proverbs 1:15**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, walk not thou in the way with them; refrain thy foot from their path:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ my son, do not walk the road with them or set foot upon their path.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.14|<< Proverbs 1:14]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.16|Proverbs 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son my  |**<big>&#8207;[[H1121A\|בְּנִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

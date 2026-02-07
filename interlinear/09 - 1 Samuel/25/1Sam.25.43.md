@@ -1,4 +1,4 @@
-**1 Samuel 25:43** 
+**1 Samuel 25:43**<big><big>[[1Sam.25.39 David Marries Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 David also took Ahinoam of Jezreel; and they were also both of them his wives.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David had also married Ahinoam of Jezreel. So she and Abigail were both his wive
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.42|<< 1 Samuel 25:42]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.44|1 Samuel 25:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahinoam  |**<big>&#8207;[[H0293H\|אֲחִינֹ֛עַם]]&#8207; </big>**| 'a.chi.No.'am<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

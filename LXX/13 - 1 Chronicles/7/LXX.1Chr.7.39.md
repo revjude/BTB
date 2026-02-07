@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:39** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Ulla -- Arah, Haniel, and Rizia. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Ulla; Arah, and Haniel, and Rezia.
-<small><sub>**BSB:**</sub></small>
-The sons of Ulla: Arah, Hanniel, and Rizia.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.38|<< 1 Chronicles 7:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.40|1 Chronicles 7:40 >>]]</td></tr></table>
 
 | Translation | Greek |

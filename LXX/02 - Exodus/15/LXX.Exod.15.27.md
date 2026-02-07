@@ -1,10 +1,7 @@
 **LXX Exodus 15:27** 
 <small><sub>**LXX:**</sub></small>
 And they came into Elim. And there were there twelve springs of waters, and seventy trunks of palm trees; and they camped there by the waters. 
-<small><sub>**KJV:**</sub></small>
-And they came to Elim, where [were] twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.
-<small><sub>**BSB:**</sub></small>
-Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they camped there by the waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.26|<< Exodus 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.1|Exodus 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

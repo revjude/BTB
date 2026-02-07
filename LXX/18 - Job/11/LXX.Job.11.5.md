@@ -1,10 +1,7 @@
 **LXX Job 11:5** 
 <small><sub>**LXX:**</sub></small>
 But how ever \[is\] the <span class="smallcaps">lord</span> to speak to you, and open his lips with you; 
-<small><sub>**KJV:**</sub></small>
-But oh that God would speak, and open his lips against thee;
-<small><sub>**BSB:**</sub></small>
-But if only God would speak and open His lips against you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.4|<< Job 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.6|Job 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 107:10** 
+**Psalms 107:10**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Such as sit in darkness and in the shadow of death, [being] bound in affliction and iron;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some sat in darkness and in the shadow of death, prisoners in affliction and cha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.9|<< Psalms 107:9]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.11|Psalms 107:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those who] sat of  |**<big>&#8207;[[H3427\|יֹ֭שְׁבֵי]]&#8207; </big>**| Yo.she.vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | darkness  |**<big>&#8207;[[H2822\|חֹ֣שֶׁךְ]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

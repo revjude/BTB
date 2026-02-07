@@ -1,10 +1,7 @@
 **LXX Exodus 40:23** 
 <small><sub>**LXX:**</sub></small>
 And he set upon it the bread loaves of the place setting before \[the\] <span class="smallcaps">lord</span>, in which manner \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And he set the bread in order upon it before the LORD; as the LORD had commanded Moses.
-<small><sub>**BSB:**</sub></small>
-He arranged the bread on it before the LORD, just as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.22|<< Exodus 40:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.24|Exodus 40:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 1:21** 
+**2 Samuel 1:21**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye mountains of Gilboa, [let there be] no dew, neither [let there be] rain, upon you, nor fields of offerings: for there the shield of the mighty is vilely cast away, the shield of Saul, [as though he had] not [been] anointed with oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O mountains of Gilboa, may you have no dew or rain, no fields yielding offerings
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.20|<< 2 Samuel 1:20]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.22|2 Samuel 1:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O mountains  |**<big>&#8207;[[H2022G\|הָרֵ֣י]]&#8207; </big>**| ha.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> Gilboa  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1533G\|גִּלְבֹּ֗עַ]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> gil.Bo.a'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

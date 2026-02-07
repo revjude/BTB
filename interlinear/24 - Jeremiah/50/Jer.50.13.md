@@ -1,4 +1,4 @@
-**Jeremiah 50:13** 
+**Jeremiah 50:13**<big><big>[[Jer.50.11 Babylon’s Fall Is Certain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the wrath of the LORD it shall not be inhabited, but it shall be wholly desolate: every one that goeth by Babylon shall be astonished, and hiss at all her plagues.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because of the wrath of the LORD, she will not be inhabited; she will become com
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.12|<< Jeremiah 50:12]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.14|Jeremiah 50:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] wrath of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7110A\|קֶּ֤צֶף]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ke.tzef<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

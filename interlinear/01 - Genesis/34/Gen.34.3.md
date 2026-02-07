@@ -1,4 +1,4 @@
-**Genesis 34:3** 
+**Genesis 34:3**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his soul clave unto Dinah the daughter of Jacob, and he loved the damsel, and spake kindly unto the damsel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And his soul was drawn to Dinah, the daughter of Jacob. He loved the young girl 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.2|<< Genesis 34:2]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.4|Genesis 34:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it cleaved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1692\|תִּדְבַּ֣ק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tid.Bak<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | self his  |**<big>&#8207;[[H5315G\|נַפְשׁ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

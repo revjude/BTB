@@ -1,4 +1,4 @@
-**Job 11:2** 
+**Job 11:2**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Should not the multitude of words be answered? and should a man full of talk be justified?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Should not the multitude of words be answered? and should a man full of talk be 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.1|<< Job 11:1]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.3|Job 11:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ a multitude of  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7230\|רֹ֣ב]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | words  |**<big>&#8207;[[H1697G\|דְּ֭בָרִים]]&#8207; </big>**| De.va.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

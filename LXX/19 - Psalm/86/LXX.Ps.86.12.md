@@ -1,10 +1,7 @@
 **LXX Psalm 86:12** 
 <small><sub>**LXX:**</sub></small>
 I shall make acknowledgment to you, O <span class="smallcaps">lord</span>  my God, with my entire heart; and I will glorify  your name into the eon. 
-<small><sub>**KJV:**</sub></small>
-I will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore.
-<small><sub>**BSB:**</sub></small>
-I will praise You, O Lord my God, with all my heart; I will glorify Your name forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.11|<< Psalm 86:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.13|Psalm 86:13 >>]]</td></tr></table>
 
 | Translation | Greek |

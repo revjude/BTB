@@ -1,4 +1,4 @@
-**Exodus 37:8** 
+**Exodus 37:8**<big><big>[[Exod.37.6 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One cherub on the end on this side, and another cherub on the [other] end on that side: out of the mercy seat made he the cherubims on the two ends thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ one cherub on one end and one on the other, all made from one piece of gold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.7|<< Exodus 37:7]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.9|Exodus 37:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a cherub  |**<big>&#8207;[[H3742\|כְּרוּב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.ruv-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אֶחָ֤ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

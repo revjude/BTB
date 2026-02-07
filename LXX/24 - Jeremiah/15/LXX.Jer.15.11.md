@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:11** 
 <small><sub>**LXX:**</sub></small>
 May it be, O <span class="smallcaps">lord</span> master, of their prospering in a time of their affliction for good against the enemy. 
-<small><sub>**KJV:**</sub></small>
-The LORD said, Verily it shall be well with thy remnant; verily I will cause the enemy to entreat thee [well] in the time of evil and in the time of affliction.
-<small><sub>**BSB:**</sub></small>
-The LORD said: “Surely I will deliver you for a good purpose; surely I will intercede with your enemy in your time of trouble, in your time of distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.10|<< Jeremiah 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.12|Jeremiah 15:12 >>]]</td></tr></table>
 
 | Translation | Greek |

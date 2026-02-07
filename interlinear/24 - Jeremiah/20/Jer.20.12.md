@@ -1,4 +1,4 @@
-**Jeremiah 20:12** 
+**Jeremiah 20:12**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But, O LORD of hosts, that triest the righteous, [and] seest the reins and the heart, let me see thy vengeance on them: for unto thee have I opened my cause.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD of Hosts, who examines the righteous, who sees the heart and mind, let me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.11|<< Jeremiah 20:11]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.13|Jeremiah 20:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and O Yahweh  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H3068G\|יהוָ֤ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָאוֹת֙]]&#8207; </big>**| tze.va.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

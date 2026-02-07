@@ -1,4 +1,4 @@
-**Psalms 103:15** 
+**Psalms 103:15**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] man, his days [are] as grass: as a flower of the field, so he flourisheth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for man, his days are like grass—he blooms like a flower of the field;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.14|<< Psalms 103:14]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.16|Psalms 103:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | humankind  |**<big>&#8207;[[H0582\|אֱ֭נוֹשׁ]]&#8207; </big>**| 'E.no.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] like \<the> grass  |**<big>&#8207;[[H9004\|כֶּ]]&#8207;&#8207;[[H2682A\|חָצִ֣יר]]&#8207; </big>**| ke.<small><sup>[[HRd]]</sup></small> cha.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

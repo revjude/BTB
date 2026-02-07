@@ -1,4 +1,4 @@
-**Job 18:13** 
+**Job 18:13**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall devour the strength of his skin: [even] the firstborn of death shall devour his strength.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It devours patches of his skin; the firstborn of death devours his limbs.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.12|<< Job 18:12]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.14|Job 18:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it consumes  |**<big>&#8207;[[H0398\|יֹ֭אכַל]]&#8207; </big>**| Yo.khal<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] parts of  |**<big>&#8207;[[H0905G\|בַּדֵּ֣י]]&#8207; </big>**| ba.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

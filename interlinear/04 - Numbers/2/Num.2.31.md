@@ -1,4 +1,4 @@
-**Numbers 2:31** 
+**Numbers 2:31**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All they that were numbered in the camp of Dan [were] an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The total number of men in the camp of Dan is 157,600; they shall set out last, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.30|<< Numbers 2:30]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.32|Numbers 2:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those enrolled  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6485A\|פְּקֻדִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.ku.Dim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

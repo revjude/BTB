@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:4** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan spoke concerning David good \[things\] to Saul  his father, and said to him, sin the king not against  his servant  David! for he sinned not against you, and  his works \[are\] exceedingly proper. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against thee, and because his works [have been] to theeward very good:
-<small><sub>**BSB:**</sub></small>
-Then Jonathan spoke well of David to his father Saul and said to him, “The king should not sin against his servant David; he has not sinned against you. In fact, his actions have been highly beneficial to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.3|<< 1 Samuel 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.5|1 Samuel 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

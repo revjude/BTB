@@ -1,10 +1,7 @@
 **LXX Genesis 14:15** 
 <small><sub>**LXX:**</sub></small>
 And he fell upon them  at night, he and  his manservants. And he struck them, and pursued them unto Hobah, which is at \[the\] left of Damascus. 
-<small><sub>**KJV:**</sub></small>
-And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which [is] on the left hand of Damascus.
-<small><sub>**BSB:**</sub></small>
-During the night, Abram divided his forces and routed Chedorlaomer’s army, pursuing them as far as Hobah, north of Damascus.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.14|<< Genesis 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.16|Genesis 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

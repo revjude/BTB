@@ -1,10 +1,7 @@
 **LXX Psalm 29:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] voice of \[the\] <span class="smallcaps">lord</span> \[is\] upon the waters. The God  of glory thunders. \[The\] <span class="smallcaps">lord</span> \[is\] upon many waters. 
-<small><sub>**KJV:**</sub></small>
-The voice of the LORD [is] upon the waters: the God of glory thundereth: the LORD [is] upon many waters.
-<small><sub>**BSB:**</sub></small>
-The voice of the LORD is over the waters; the God of glory thunders; the LORD is heard over many waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.2|<< Psalm 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.4|Psalm 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

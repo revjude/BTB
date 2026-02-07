@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:21** 
 <small><sub>**LXX:**</sub></small>
 And Araunah said, For what \[reason\] comes  my master the king to  his servant? And David said, To acquire from you the threshing-floor,  to build an altar \[to the\] <span class="smallcaps">lord</span>, so that \[the\] devastation upon the people should be constrained. 
-<small><sub>**KJV:**</sub></small>
-And Araunah said, Wherefore is my lord the king come to his servant? And David said, To buy the threshingfloor of thee, to build an altar unto the LORD, that the plague may be stayed from the people.
-<small><sub>**BSB:**</sub></small>
-“Why has my lord the king come to his servant?” Araunah said. “To buy your threshing floor,” David replied, “that I may build an altar to the LORD, so that the plague upon the people may be halted.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.20|<< 2 Samuel 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.22|2 Samuel 24:22 >>]]</td></tr></table>
 
 | Translation | Greek |

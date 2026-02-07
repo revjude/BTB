@@ -1,12 +1,12 @@
-**Romans 13:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:2**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
 <small><sub>**BSB:**</sub></small>
 Consequently, whoever resists authority is opposing what God has set in place, and those who do so will bring judgment on themselves.
 <small><sub>**Literal:**</sub></small>
 Therefore the [one] resisting the authority the <the> of God ordinance has resisted; those now having resisted upon themselves judgment will bring.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.1|<< Romans 13:1]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.3|Romans 13:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

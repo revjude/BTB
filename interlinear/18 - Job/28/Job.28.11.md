@@ -1,4 +1,4 @@
-**Job 28:11** 
+**Job 28:11**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He bindeth the floods from overflowing; and [the thing that is] hid bringeth he forth to light.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He stops up the sources of the streams to bring what is hidden to light.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.10|<< Job 28:10]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.12|Job 28:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from weeping  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H1065\|בְּכִי]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> be.khi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rivers  |**<big>&#8207;[[H5104H\|נְהָר֣וֹת]]&#8207; </big>**| ne.ha.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 9:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> their God shall deliver them in  that day as \[the\] sheep  of his people. For holy stones shall roll upon his land. 
-<small><sub>**KJV:**</sub></small>
-And the LORD their God shall save them in that day as the flock of his people: for [they shall be as] the stones of a crown, lifted up as an ensign upon his land.
-<small><sub>**BSB:**</sub></small>
-On that day the LORD their God will save them as the flock of His people; for like jewels in a crown they will sparkle over His land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.15|<< Zechariah 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.17|Zechariah 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

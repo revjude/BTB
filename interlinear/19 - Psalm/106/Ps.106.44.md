@@ -1,4 +1,4 @@
-**Psalms 106:44** 
+**Psalms 106:44**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless he regarded their affliction, when he heard their cry:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless He heard their cry; He took note of their distress.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.43|<< Psalms 106:43]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.45|Psalms 106:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ֭]]&#8207;&#8207;[[H7200G\|יַּרְא]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when \<the> it was distress  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6862B\|צַּ֣ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Tzar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

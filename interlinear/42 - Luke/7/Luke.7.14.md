@@ -1,12 +1,12 @@
-**Luke 7:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:14**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he came and touched the bier: and they that bare [him] stood still. And he said, Young man, I say unto thee, Arise.
 <small><sub>**BSB:**</sub></small>
 Then He went up and touched the coffin, and those carrying it stood still. “Young man,” He said, “I tell you, get up!”
 <small><sub>**Literal:**</sub></small>
 And having come up He touched the bier; those then bearing [it] stopped; And He said; Young man, to you I say, do be arised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.13|<< Luke 7:13]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.15|Luke 7:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come up |**<big>[[G4334\|προσελθὼν]]</big>**  |proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

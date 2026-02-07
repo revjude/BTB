@@ -1,10 +1,7 @@
 **LXX Psalm 17:3** 
 <small><sub>**LXX:**</sub></small>
 You tried  my heart; you visited at night; you set me on fire, and injustice was not found in me, so that my mouth should not speak. 
-<small><sub>**KJV:**</sub></small>
-Thou hast proved mine heart; thou hast visited [me] in the night; thou hast tried me, [and] shalt find nothing; I am purposed [that] my mouth shall not transgress.
-<small><sub>**BSB:**</sub></small>
-You have tried my heart; You have visited me in the night. You have tested me and found no evil; I have resolved not to sin with my mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.2|<< Psalm 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.4|Psalm 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 15:30
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:30**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Save thyself, and come down from the cross.
 <small><sub>**BSB:**</sub></small>
 come down from the cross and save Yourself!”
 <small><sub>**Literal:**</sub></small>
 do save Yourself and descending from the cross!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.29|<< Mark 15:29]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.31|Mark 15:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do save |**<big>[[G4982\|σῶσον]]</big>**  |sōson <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Yourself |**<big>[[G4771\|σεαυτὸν]]</big>**  |seauton <small><sup>[[F-2ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

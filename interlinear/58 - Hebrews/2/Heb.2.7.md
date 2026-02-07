@@ -1,5 +1,5 @@
-**Hebrews 2:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:7**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:
 <small><sub>**BSB:**</sub></small>
 You made him a little lower than the angels; You crowned him with glory and honor
@@ -10,7 +10,7 @@ You made lower him a little some than [the] angels; with glory and with honor Yo
 > $\quad$ referencing: [[LXX.Ps.8.4|Ps 8:4-6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You made lower |**<big>[[G1642\|ἠλάττωσας]]</big>**  |ēlattōsas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | him |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

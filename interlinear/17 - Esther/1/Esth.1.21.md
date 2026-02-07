@@ -1,4 +1,4 @@
-**Esther 1:21** 
+**Esther 1:21**<big><big>[[Esth.1.13 Queen Vashti Deposed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the saying pleased the king and the princes; and the king did according to the word of Memucan:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king and his princes were pleased with this counsel; so the king did as Memu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.20|<< Esther 1:20]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.22|Esther 1:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was good  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3190\|יִּיטַב֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

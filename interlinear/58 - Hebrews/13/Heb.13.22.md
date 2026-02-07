@@ -1,12 +1,12 @@
-**Hebrews 13:22
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:22**<big><big>[[Heb.13.20 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words.
 <small><sub>**BSB:**</sub></small>
 I urge you, brothers, to bear with my word of exhortation, for I have only written to you briefly.
 <small><sub>**Literal:**</sub></small>
 I exhort now you, brothers, do bear with the word <the> of exhortation; only for in few words I have written to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.21|<< Hebrews 13:21]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.23|Hebrews 13:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I exhort |**<big>[[G3870\|Παρακαλῶ]]</big>**  |Parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 30:27** 
+**Exodus 30:27**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the table and all his vessels, and the candlestick and his vessels, and the altar of incense,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the table and all its utensils, the lampstand and its utensils, the altar of inc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.26|<< Exodus 30:26]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.28|Exodus 30:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the table  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7979\|שֻּׁלְחָן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> shul.Chan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

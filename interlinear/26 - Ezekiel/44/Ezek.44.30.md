@@ -1,4 +1,4 @@
-**Ezekiel 44:30** 
+**Ezekiel 44:30**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the first of all the firstfruits of all [things], and every oblation of all, of every [sort] of your oblations, shall be the priest’s: ye shall also give unto the priest the first of your dough, that he may cause the blessing to rest in thine house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The best of all the firstfruits and of every contribution from all your offering
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.29|<< Ezekiel 44:29]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.31|Ezekiel 44:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] best of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7225G\|רֵאשִׁית֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

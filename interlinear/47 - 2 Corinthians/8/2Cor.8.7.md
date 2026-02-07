@@ -1,12 +1,12 @@
-**2 Corinthians 8:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:7**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore, as ye abound in every [thing, in] faith, and utterance, and knowledge, and [in] all diligence, and [in] your love to us, [see] that ye abound in this grace also.
 <small><sub>**BSB:**</sub></small>
 But just as you excel in everything—in faith, in speech, in knowledge, in complete earnestness, and in the love we inspired in you—see that you also excel in this grace of giving.
 <small><sub>**Literal:**</sub></small>
 But even as in every [way] you abound, in faith and in speech and in knowledge and in all earnestness and in the from of us in you love, that also in this <the> grace you may abound.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.6|<< 2 Corinthians 8:6]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.8|2 Corinthians 8:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

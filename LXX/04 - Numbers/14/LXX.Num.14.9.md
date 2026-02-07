@@ -1,10 +1,7 @@
 **LXX Numbers 14:9** 
 <small><sub>**LXX:**</sub></small>
 But from  \[the\] <span class="smallcaps">lord</span> do not become defectors; And you, do not fear the people of the land! for \[they are\] a \[thing\] devoured for us. for the time has left from them, and the <span class="smallcaps">lord</span> \[is\] among us; do not fear them! 
-<small><sub>**KJV:**</sub></small>
-Only rebel not ye against the LORD, neither fear ye the people of the land; for they [are] bread for us: their defence is departed from them, and the LORD [is] with us: fear them not.
-<small><sub>**BSB:**</sub></small>
-Only do not rebel against the LORD, and do not be afraid of the people of the land, for they will be like bread for us. Their protection has been removed, and the LORD is with us. Do not be afraid of them!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.8|<< Numbers 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.10|Numbers 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

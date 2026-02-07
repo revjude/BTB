@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:44** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the seventh \[time\], and behold, a small cloud as \[the\] sole of a man's \[foot\] came \[with\] water from \[the\] sea. And he said, Ascend and say  to Ahab! Team up  your chariot, and go down, lest the rain should overtake you! 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the seventh time, that he said, Behold, there ariseth a little cloud out of the sea, like a man’s hand. And he said, Go up, say unto Ahab, Prepare [thy chariot], and get thee down, that the rain stop thee not.
-<small><sub>**BSB:**</sub></small>
-On the seventh time the servant reported, “There is a cloud as small as a man’s hand rising from the sea.” And Elijah replied, “Go and tell Ahab, ‘Prepare your chariot and go down before the rain stops you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.43|<< 1 Kings 18:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.45|1 Kings 18:45 >>]]</td></tr></table>
 
 | Translation | Greek |

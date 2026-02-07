@@ -1,6 +1,6 @@
 (KJV) **Psalm 56**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55|<< Psalm 55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57|Psalm 57 >>]]</td></tr></table>
 
-***Be Merciful to Me, O God***&emsp;<small><sup>\[ [[1Sam.21|1 Samuel 21:8–15]] ]</sup></small> ^bsb1349
+<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥃]]</big></big>***Be Merciful to Me, O God***&emsp;<small><sup>\[ [[1Sam.21|1 Samuel 21:8–15]] ]</sup></small>
 
 
 

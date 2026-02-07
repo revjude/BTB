@@ -1,12 +1,12 @@
-**Mark 6:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:26**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the king was exceeding sorry; [yet] for his oath’s sake, and for their sakes which sat with him, he would not reject her.
 <small><sub>**BSB:**</sub></small>
 The king was consumed with sorrow, but because of his oaths and his guests, he did not want to refuse her.
 <small><sub>**Literal:**</sub></small>
 And encompassingly sorrowful having been made the king on account of the oaths and those reclining with [him] not was he willing to refuse her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.25|<< Mark 6:25]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.27|Mark 6:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | encompassingly sorrowful |**<big>[[G4036\|περίλυπος]]</big>**  |perilupos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:4** 
 <small><sub>**LXX:**</sub></small>
 And the wife of Jeroboam did thus. And she rose up, and went to Shiloh, and she entered into the house of Ahijah. And the man \[was\] old  for seeing, and his eyes were blunted from  his old age. 
-<small><sub>**KJV:**</sub></small>
-And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age.
-<small><sub>**BSB:**</sub></small>
-Jeroboam’s wife did as instructed; she arose and went to Shiloh and arrived at Ahijah’s house. Now Ahijah could not see, for his eyes were dim because of his age.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.3|<< 1 Kings 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.5|1 Kings 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

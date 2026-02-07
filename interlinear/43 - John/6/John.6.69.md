@@ -1,12 +1,12 @@
-**John 6:69
-**<small><sub>**KJV:**</sub></small>
+**John 6:69**<big><big>[[John.6.67 Peter’s Confession of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we believe and are sure that thou art that Christ, the Son of the living God.
 <small><sub>**BSB:**</sub></small>
 We believe and know that You are the Holy One of God.”
 <small><sub>**Literal:**</sub></small>
 and we ourselves have believed and have known that You yourself are <the> Christ the Holy One <the> of God who is living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.68|<< John 6:68]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.70|John 6:70 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

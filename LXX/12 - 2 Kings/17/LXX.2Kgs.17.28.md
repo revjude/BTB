@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:28** 
 <small><sub>**LXX:**</sub></small>
 And they brought one of the priests which they resettled from Samaria, and he settled in Bethel. And he was enlightening them how they should fear the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then one of the priests whom they had carried away from Samaria came and dwelt in Bethel, and taught them how they should fear the LORD.
-<small><sub>**BSB:**</sub></small>
-Thus one of the priests they had carried away came and lived in Bethel, and he began to teach them how they should worship the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.27|<< 2 Kings 17:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.29|2 Kings 17:29 >>]]</td></tr></table>
 
 | Translation | Greek |

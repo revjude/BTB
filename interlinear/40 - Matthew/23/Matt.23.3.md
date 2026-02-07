@@ -1,12 +1,12 @@
-**Matthew 23:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:3**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All therefore whatsoever they bid you observe, [that] observe and do; but do not ye after their works: for they say, and do not.
 <small><sub>**BSB:**</sub></small>
 So practice and observe everything they tell you. But do not do what they do, for they do not practice what they preach.
 <small><sub>**Literal:**</sub></small>
 All things therefore as much as if they shall tell you to keep do perform and do observe. After however the works of them not do perform; They speak for and not act.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.2|<< Matthew 23:2]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.4|Matthew 23:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All things |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 7:16** 
 <small><sub>**LXX:**</sub></small>
 His misery shall return unto his \[own\] head; and his injustice shall come down upon his head. 
-<small><sub>**KJV:**</sub></small>
-His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.
-<small><sub>**BSB:**</sub></small>
-His trouble recoils on himself, and his violence falls on his own head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.15|<< Psalm 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.17|Psalm 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

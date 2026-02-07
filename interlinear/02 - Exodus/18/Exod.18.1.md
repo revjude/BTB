@@ -1,4 +1,4 @@
-**Exodus 18:1** 
+**Exodus 18:1**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Jethro, the priest of Midian, Moses’ father in law, heard of all that God had done for Moses, and for Israel his people, [and] that the LORD had brought Israel out of Egypt;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Moses’ father-in-law Jethro, the priest of Midian, heard about all that Go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.16|<< Exodus 17:16]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.2|Exodus 18:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֞ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jethro  |**<big>&#8207;[[H3503\|יִתְר֨וֹ]]&#8207; </big>**| yit.Ro<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

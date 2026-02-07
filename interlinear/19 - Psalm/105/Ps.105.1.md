@@ -1,4 +1,4 @@
-**Psalms 105:1** 
+**Psalms 105:1**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O give thanks unto the LORD; call upon his name: make known his deeds among the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give thanks to the LORD, call upon His name; make known His deeds among the nati
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.35|<< Psalms 104:35]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.2|Psalms 105:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give thanks  |**<big>&#8207;[[H3034\|הוֹד֣וּ]]&#8207; </big>**| ho.Du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ֭]]&#8207;&#8207;[[H3068G\|יהוָה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

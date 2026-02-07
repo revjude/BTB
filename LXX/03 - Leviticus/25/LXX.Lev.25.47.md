@@ -1,10 +1,7 @@
 **LXX Leviticus 25:47** 
 <small><sub>**LXX:**</sub></small>
 And if \[wealth\] should find in the hand of the foreigner or the sojourner  \[living\] by you, and your brother being in distress should be sold to the foreigner or to the sojourner  \[living\] by you, or to a foreigner by birth; 
-<small><sub>**KJV:**</sub></small>
-And if a sojourner or stranger wax rich by thee, and thy brother [that dwelleth] by him wax poor, and sell himself unto the stranger [or] sojourner by thee, or to the stock of the stranger’s family:
-<small><sub>**BSB:**</sub></small>
-If a foreigner residing among you prospers, but your countryman dwelling near him becomes destitute and sells himself to the foreigner or to a member of his clan,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.46|<< Leviticus 25:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.48|Leviticus 25:48 >>]]</td></tr></table>
 
 | Translation | Greek |

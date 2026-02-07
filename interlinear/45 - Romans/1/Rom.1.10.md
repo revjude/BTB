@@ -1,12 +1,12 @@
-**Romans 1:10
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:10**<big><big>[[Rom.1.8 Unashamed of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you.
 <small><sub>**BSB:**</sub></small>
 in my prayers at all times, asking that now at last by God’s will I may succeed in coming to you.
 <small><sub>**Literal:**</sub></small>
 always upon the prayers of mine [10] imploring, if somehow now at last I will succeed by the will <the> of God to come to you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.9|<< Romans 1:9]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.11|Romans 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | always |**<big>[[G3842\|πάντοτε]]</big>**  |pantote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | upon |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

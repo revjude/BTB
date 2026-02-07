@@ -1,10 +1,7 @@
 **LXX Exodus 9:30** 
 <small><sub>**LXX:**</sub></small>
 And you and  your attendants -- I know that you do not yet fear the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But as for thee and thy servants, I know that ye will not yet fear the LORD God.
-<small><sub>**BSB:**</sub></small>
-But as for you and your officials, I know that you still do not fear the LORD our God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.29|<< Exodus 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.31|Exodus 9:31 >>]]</td></tr></table>
 
 | Translation | Greek |

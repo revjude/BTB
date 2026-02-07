@@ -1,4 +1,4 @@
-**Leviticus 7:30** 
+**Leviticus 7:30**<big><big>[[Lev.7.28 The Priests’ Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His own hands shall bring the offerings of the LORD made by fire, the fat with the breast, it shall he bring, that the breast may be waved [for] a wave offering before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With his own hands he is to bring the food offerings to the LORD; he shall bring
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.29|<< Leviticus 7:29]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.31|Leviticus 7:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | own hands his  |**<big>&#8207;[[H3027G\|יָדָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ya.Da<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will bring  |**<big>&#8207;[[H0935P\|תְּבִיאֶ֔ינָה]]&#8207; </big>**| te.vi.'Ei.nah<small><sup>[[HVhi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

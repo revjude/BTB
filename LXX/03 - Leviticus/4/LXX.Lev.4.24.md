@@ -1,10 +1,7 @@
 **LXX Leviticus 4:24** 
 <small><sub>**LXX:**</sub></small>
 And he shall place  his hand upon the head of the young he-goat, and they shall slay it in \[the\] place of which they slay the whole burnt-offerings before \[the\] <span class="smallcaps">lord</span> -- it is a sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the LORD: it [is] a sin offering.
-<small><sub>**BSB:**</sub></small>
-He is to lay his hand on the head of the goat and slaughter it at the place where the burnt offering is slaughtered before the LORD. It is a sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.23|<< Leviticus 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.25|Leviticus 4:25 >>]]</td></tr></table>
 
 | Translation | Greek |

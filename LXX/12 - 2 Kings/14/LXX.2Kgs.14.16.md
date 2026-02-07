@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joash slept with  his fathers, and they entombed \[him\] in Samaria with the kings of Israel. And Jeroboam his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Jehoash slept with his fathers, and was buried in Samaria with the kings of Israel; and Jeroboam his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Jehoash rested with his fathers and was buried in Samaria with the kings of Israel. And his son Jeroboam reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.15|<< 2 Kings 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.17|2 Kings 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

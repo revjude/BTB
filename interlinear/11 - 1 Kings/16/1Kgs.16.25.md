@@ -1,4 +1,4 @@
-**1 Kings 16:25** 
+**1 Kings 16:25**<big><big>[[1Kgs.16.21 Omri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Omri wrought evil in the eyes of the LORD, and did worse than all that [were] before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Omri did evil in the sight of the LORD and acted more wickedly than all who 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.24|<< 1 Kings 16:24]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.26|1 Kings 16:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּעֲשֶׂ֥ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Seh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Omri  |**<big>&#8207;[[H6018G\|עָמְרִ֛י]]&#8207; </big>**| 'a.me.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 4:16** 
+**Deuteronomy 4:16**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest ye corrupt [yourselves], and make you a graven image, the similitude of any figure, the likeness of male or female,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that you do not act corruptly and make an idol for yourselves of any form or sha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.15|<< Deuteronomy 4:15]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.17|Deuteronomy 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּ֨ן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you should act corruptly !  |**<big>&#8207;[[H7843\|תַּשְׁחִת֔וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| tash.chi.Tu<small><sup>[[HVhi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

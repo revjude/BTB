@@ -1,12 +1,12 @@
-**John 18:14
-**<small><sub>**KJV:**</sub></small>
+**John 18:14**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.
 <small><sub>**BSB:**</sub></small>
 Caiaphas was the one who had advised the Jews that it would be better if one man died for the people.
 <small><sub>**Literal:**</sub></small>
 Was now Caiaphas the [one] having given counsel to the Jews that it is profitable for one man to die for the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.13|<< John 18:13]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.15|John 18:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

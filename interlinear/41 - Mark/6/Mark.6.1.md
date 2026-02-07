@@ -1,12 +1,12 @@
-**Mark 6:1
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:1**<big><big>[[Mark.6.1 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went out from thence, and came into his own country; and his disciples follow him.
 <small><sub>**BSB:**</sub></small>
 Jesus went on from there and came to His hometown, accompanied by His disciples.
 <small><sub>**Literal:**</sub></small>
 And He went out from there and came into the hometown of Him, and follow Him the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.43|<< Mark 5:43]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.2|Mark 6:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He went out |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

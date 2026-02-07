@@ -1,10 +1,7 @@
 **LXX Numbers 6:23** 
 <small><sub>**LXX:**</sub></small>
 Speak to Aaron and  his sons! saying, Thus you shall bless the sons of Israel, saying to them, 
-<small><sub>**KJV:**</sub></small>
-Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them,
-<small><sub>**BSB:**</sub></small>
-“Tell Aaron and his sons: This is how you are to bless the Israelites. Say to them:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.22|<< Numbers 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.24|Numbers 6:24 >>]]</td></tr></table>
 
 | Translation | Greek |

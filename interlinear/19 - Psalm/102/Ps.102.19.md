@@ -1,4 +1,4 @@
-**Psalms 102:19** (102:20)
+**Psalms 102:19**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For He looked down from the heights of His sanctuary; the LORD gazed out from he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.18|<< Psalms 102:18]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.20|Psalms 102:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has looked down  |**<big>&#8207;[[H8259\|הִ֭שְׁקִיף]]&#8207; </big>**| Hish.kif<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

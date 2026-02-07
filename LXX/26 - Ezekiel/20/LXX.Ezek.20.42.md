@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:42** 
 <small><sub>**LXX:**</sub></small>
 And you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>, in  my bringing you into the land  of Israel, into which I lifted  my hand  to give it \[to\] your fathers. 
-<small><sub>**KJV:**</sub></small>
-And ye shall know that I [am] the LORD, when I shall bring you into the land of Israel, into the country [for] the which I lifted up mine hand to give it to your fathers.
-<small><sub>**BSB:**</sub></small>
-Then you will know that I am the LORD, when I bring you into the land of Israel, the land that I swore to give your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.41|<< Ezekiel 20:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.43|Ezekiel 20:43 >>]]</td></tr></table>
 
 | Translation | Greek |

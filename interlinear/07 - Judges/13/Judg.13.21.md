@@ -1,4 +1,4 @@
-**Judges 13:21** 
+**Judges 13:21**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the angel of the LORD did no more appear to Manoah and to his wife. Then Manoah knew that he [was] an angel of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when the angel of the LORD did not appear again to Manoah and his wife, Mano
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.20|<< Judges 13:20]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.22|Judges 13:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he repeated  |**<big>&#8207;[[H3254G\|יָ֤סַף]]&#8207; </big>**| Ya.saf<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

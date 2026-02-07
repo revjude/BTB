@@ -1,12 +1,12 @@
-**John 14:22
-**<small><sub>**KJV:**</sub></small>
+**John 14:22**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Judas saith unto him, not Iscariot, Lord, how is it that thou wilt manifest thyself unto us, and not unto the world?
 <small><sub>**BSB:**</sub></small>
 Judas (not Iscariot) asked Him, “Lord, why are You going to reveal Yourself to us and not to the world?”
 <small><sub>**Literal:**</sub></small>
 Says to Him Judas not <the> Iscariot; Lord, and what has occurred that to us You are about to manifest Yourself and not to the world?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.21|<< John 14:21]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.23|John 14:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

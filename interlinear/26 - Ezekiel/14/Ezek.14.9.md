@@ -1,4 +1,4 @@
-**Ezekiel 14:9** 
+**Ezekiel 14:9**<big><big>[[Ezek.14.1 Idolatrous Elders Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the prophet be deceived when he hath spoken a thing, I the LORD have deceived that prophet, and I will stretch out my hand upon him, and will destroy him from the midst of my people Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if the prophet is enticed to speak a message, then it was I the LORD who ent
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.8|<< Ezekiel 14:8]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.10|Ezekiel 14:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the prophet  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5030\|נָּבִ֤יא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  that time Hezekiah was infirm unto death. And there came to him Isaiah son of Amoz the prophet; and he said to him, Thus says \[the\] <span class="smallcaps">lord</span>, Give orders concerning  your house! for you die, and shall not live. 
-<small><sub>**KJV:**</sub></small>
-In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.
-<small><sub>**BSB:**</sub></small>
-In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.38|<< Isaiah 37:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.2|Isaiah 38:2 >>]]</td></tr></table>
 
 | Translation | Greek |

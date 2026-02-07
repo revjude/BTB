@@ -1,10 +1,7 @@
 **LXX Deuteronomy 34:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, This \[is\] the land which I swore by an oath  to Abraham, and Isaac, and Jacob, saying, \[To\] your seed I shall give it. And I showed it \[to\] your eyes, but there you shall not enter. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, This [is] the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see [it] with thine eyes, but thou shalt not go over thither.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to him, “This is the land that I swore to give Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it with your own eyes, but you will not cross into it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.3|<< Deuteronomy 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.5|Deuteronomy 34:5 >>]]</td></tr></table>
 
 | Translation | Greek |

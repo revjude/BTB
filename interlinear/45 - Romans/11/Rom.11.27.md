@@ -1,5 +1,5 @@
-**Romans 11:27
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:27**<big><big>[[Rom.11.25 All Israel Will Be Saved|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this [is] my covenant unto them, when I shall take away their sins.
 <small><sub>**BSB:**</sub></small>
 And this is My covenant with them when I take away their sins.”
@@ -10,7 +10,7 @@ And this [is] to them the from Me covenant, when I may take away the sins of the
 > $\quad$ referencing: [[LXX.Isa.27.9|Isa 27:9]] ☩ [[LXX.Jer.31.33|Jer 31:33-34]] ☩ [[LXX.Isa.59.20|Isa 59:20-21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this [is] |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:16** 
 <small><sub>**LXX:**</sub></small>
 Because  they thrusted away my ordinances, and in  my orders they went not by them; and  they profaned my Sabbaths, and they went after the thoughts of their hearts. 
-<small><sub>**KJV:**</sub></small>
-Because they despised my judgments, and walked not in my statutes, but polluted my sabbaths: for their heart went after their idols.
-<small><sub>**BSB:**</sub></small>
-because they kept rejecting My ordinances, refusing to walk in My statutes, and profaning My Sabbaths; for their hearts continually went after their idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.15|<< Ezekiel 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.17|Ezekiel 20:17 >>]]</td></tr></table>
 
 | Translation | Greek |

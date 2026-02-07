@@ -1,12 +1,12 @@
-**Acts 1:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:22**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.
 <small><sub>**BSB:**</sub></small>
 beginning from John’s baptism until the day Jesus was taken up from us. For one of these must become a witness with us of His resurrection.”
 <small><sub>**Literal:**</sub></small>
 having begun from the baptism of John until the day in which He was taken up from us, a witness of the resurrection of Him with us to become one of these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.21|<< Acts 1:21]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.23|Acts 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having begun |**<big>[[G0757\|ἀρξάμενος]]</big>**  |arxamenos <small><sup>[[V-AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

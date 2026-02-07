@@ -1,10 +1,7 @@
 **LXX Isaiah 37:4** 
 <small><sub>**LXX:**</sub></small>
 If by any means \[the\] <span class="smallcaps">lord</span> your God may listen to the words of Rabshakeh, whom his master \[the\] king of \[the\] Assyrians sent to berate \[the\] living God, and to berate \[by the\] words which \[the\] <span class="smallcaps">lord</span> your God heard, therefore you shall make beseechment to \[the\] <span class="smallcaps">lord</span>  your God concerning  these being left. 
-<small><sub>**KJV:**</sub></small>
-It may be the LORD thy God will hear the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God, and will reprove the words which the LORD thy God hath heard: wherefore lift up [thy] prayer for the remnant that is left.
-<small><sub>**BSB:**</sub></small>
-Perhaps the LORD your God will hear the words of the Rabshakeh, whom his master the king of Assyria has sent to defy the living God, and He will rebuke him for the words that the LORD your God has heard. Therefore lift up a prayer for the remnant that still survives.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.3|<< Isaiah 37:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.5|Isaiah 37:5 >>]]</td></tr></table>
 
 | Translation | Greek |

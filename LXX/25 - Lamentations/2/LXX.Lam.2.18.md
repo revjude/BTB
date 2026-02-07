@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΑΔΗ</p>
 
 Their heart yelled out to \[the\] <span class="smallcaps">lord</span>, \[saying\], O walls of Zion, lead down tears as a rushing stream day and night! And give soberness to yourself; neither \[the\] pupil of your eye keep quiet! 
-<small><sub>**KJV:**</sub></small>
-Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease.
-<small><sub>**BSB:**</sub></small>
-The hearts of the people cry out to the Lord. O wall of the Daughter of Zion, let your tears run down like a river day and night. Give yourself no relief, and your eyes no rest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.17|<< Lamentations 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.19|Lamentations 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 16:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:1**<big><big>[[Matt.16.1 The Demand for a Sign|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
 <small><sub>**BSB:**</sub></small>
 Then the Pharisees and Sadducees came and tested Jesus by asking Him to show them a sign from heaven.
 <small><sub>**Literal:**</sub></small>
 And having approached the Pharisees and Sadducees, testing  they asked Him a sign out of <the> heaven to show them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.39|<< Matthew 15:39]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.2|Matthew 16:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having approached |**<big>[[G4334\|προσελθόντες]]</big>**  |proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

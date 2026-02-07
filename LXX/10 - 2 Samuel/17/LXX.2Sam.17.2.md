@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:2** 
 <small><sub>**LXX:**</sub></small>
 And I shall come upon him, and he \[will be\] tiring and loosening \[his\] hand, and I shall startle him, and all the people with him shall flee, and I shall strike the king alone. 
-<small><sub>**KJV:**</sub></small>
-And I will come upon him while he [is] weary and weak handed, and will make him afraid: and all the people that [are] with him shall flee; and I will smite the king only:
-<small><sub>**BSB:**</sub></small>
-I will attack him while he is weak and weary; I will throw him into a panic, and all the people with him will flee; I will strike down only the king<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.1|<< 2 Samuel 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.3|2 Samuel 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

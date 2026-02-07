@@ -1,4 +1,4 @@
-**2 Chronicles 33:23** 
+**2 Chronicles 33:23**<big><big>[[2Chr.33.21 Amon Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And humbled not himself before the LORD, as Manasseh his father had humbled himself; but Amon trespassed more and more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but he did not humble himself before the LORD as his father Manasseh had done; i
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.22|<< 2 Chronicles 33:22]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.24|2 Chronicles 33:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he humbled himself  |**<big>&#8207;[[H3665\|נִכְנַע֙]]&#8207; </big>**| nikh.Na'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

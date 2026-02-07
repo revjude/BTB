@@ -1,10 +1,7 @@
 **LXX Exodus 33:22** 
 <small><sub>**LXX:**</sub></small>
 and when ever my glory should go by, even I will put you into an opening in the rock, and I will shelter with my hand upon you until whenever I should go by. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by:
-<small><sub>**BSB:**</sub></small>
-and when My glory passes by, I will put you in a cleft of the rock and cover you with My hand until I have passed by.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.21|<< Exodus 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.23|Exodus 33:23 >>]]</td></tr></table>
 
 | Translation | Greek |

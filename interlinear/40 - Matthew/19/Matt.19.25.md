@@ -1,12 +1,12 @@
-**Matthew 19:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:25**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When his disciples heard [it], they were exceedingly amazed, saying, Who then can be saved?
 <small><sub>**BSB:**</sub></small>
 When the disciples heard this, they were greatly astonished and asked, “Who then can be saved?”
 <small><sub>**Literal:**</sub></small>
 Having heard now the disciples of him were astonished exceedingly saying; Who then is able to be saved?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.24|<< Matthew 19:24]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.26|Matthew 19:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσαντες]]</big>**  |Akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 A man, a fool and a lawbreaker, shall go by ways not good. 
-<small><sub>**KJV:**</sub></small>
-A naughty person, a wicked man, walketh with a froward mouth.
-<small><sub>**BSB:**</sub></small>
-A worthless person, a wicked man, walks with a perverse mouth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.11|<< Proverbs 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.13|Proverbs 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

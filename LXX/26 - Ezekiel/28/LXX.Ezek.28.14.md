@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:14** 
 <small><sub>**LXX:**</sub></small>
 From which day you were created and were carefully prepared with the cherub being anointed by God, and  encamping in \[the\] tent, even I put you on \[the\] holy mount of God; you existed among \[the\] midst \[of the\] stones of fire. 
-<small><sub>**KJV:**</sub></small>
-Thou [art] the anointed cherub that covereth; and I have set thee [so]: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
-<small><sub>**BSB:**</sub></small>
-You were anointed as a guardian cherub, for I had ordained you. You were on the holy mountain of God; you walked among the fiery stones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.13|<< Ezekiel 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.15|Ezekiel 28:15 >>]]</td></tr></table>
 
 | Translation | Greek |

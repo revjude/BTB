@@ -1,10 +1,7 @@
 **LXX Genesis 41:30** 
 <small><sub>**LXX:**</sub></small>
 But seven years of famine shall come after these, and they shall forget the fullness  being in all \[the\] land Egypt, and the famine will consume the land. 
-<small><sub>**KJV:**</sub></small>
-And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;
-<small><sub>**BSB:**</sub></small>
-but seven years of famine will follow them. Then all the abundance in the land of Egypt will be forgotten, and the famine will devastate the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.29|<< Genesis 41:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.31|Genesis 41:31 >>]]</td></tr></table>
 
 | Translation | Greek |

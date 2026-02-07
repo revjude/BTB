@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:20** 
 <small><sub>**LXX:**</sub></small>
 And you doted upon the Chaldeans, which  their flesh \[is\] as flesh of donkeys, and their genitals \[as\] genitals of horses. 
-<small><sub>**KJV:**</sub></small>
-For she doted upon their paramours, whose flesh [is as] the flesh of asses, and whose issue [is like] the issue of horses.
-<small><sub>**BSB:**</sub></small>
-and lusted after their lovers, whose genitals were like those of donkeys and whose emission was like that of stallions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.19|<< Ezekiel 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.21|Ezekiel 23:21 >>]]</td></tr></table>
 
 | Translation | Greek |

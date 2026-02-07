@@ -1,10 +1,7 @@
 **LXX Esther 3:12** 
 <small><sub>**LXX:**</sub></small>
 And the scribes were called by the king \[in the\] first month, the thirteenth \[day\], and they wrote as Haman gave orders to the commandants, and to the rulers in every place from India unto  Ethiopia,  to a hundred twenty-seven places, to the  rulers of the nations according to  their form of speech, through Artaxerxes the king. 
-<small><sub>**KJV:**</sub></small>
-Then were the king’s scribes called on the thirteenth day of the first month, and there was written according to all that Haman had commanded unto the king’s lieutenants, and to the governors that [were] over every province, and to the rulers of every people of every province according to the writing thereof, and [to] every people after their language; in the name of king Ahasuerus was it written, and sealed with the king’s ring.
-<small><sub>**BSB:**</sub></small>
-On the thirteenth day of the first month, the royal scribes were summoned and the order was written exactly as Haman commanded the royal satraps, the governors of each province, and the officials of each people, in the script of each province and the language of every people. It was written in the name of King Xerxes and sealed with the royal signet ring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.11|<< Esther 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.13|Esther 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

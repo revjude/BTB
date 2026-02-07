@@ -1,10 +1,7 @@
 **LXX Psalm 64:2** 
 <small><sub>**LXX:**</sub></small>
 Shelter me from \[the\] conspiracy of \[the\] ones acting wickedly! from \[the\] multitude of \[the\] ones working iniquity. 
-<small><sub>**KJV:**</sub></small>
-Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
-<small><sub>**BSB:**</sub></small>
-Hide me from the scheming of the wicked, from the mob of workers of iniquity,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.64.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.1|<< Psalm 64:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.3|Psalm 64:3 >>]]</td></tr></table>
 
 | Translation | Greek |

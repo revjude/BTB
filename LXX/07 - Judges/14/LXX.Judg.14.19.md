@@ -1,10 +1,7 @@
 **LXX Judges 14:19** 
 <small><sub>**LXX:**</sub></small>
 And spirit \[of the\] <span class="smallcaps">lord</span> straightened upon him, and he went down unto Ashkelon, and smote from there thirty men, and took  their robes, and gave \[them\] to the ones explaining the riddle. And Samson was enraged in anger, and he ascended into the house  of his father. 
-<small><sub>**KJV:**</sub></small>
-And the Spirit of the LORD came upon him, and he went down to Ashkelon, and slew thirty men of them, and took their spoil, and gave change of garments unto them which expounded the riddle. And his anger was kindled, and he went up to his father’s house.
-<small><sub>**BSB:**</sub></small>
-Then the Spirit of the LORD came mightily upon him, and he went down to Ashkelon, killed thirty of their men, took their apparel, and gave their clothes to those who had solved the riddle. And burning with anger, Samson returned to his father’s house,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.18|<< Judges 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.20|Judges 14:20 >>]]</td></tr></table>
 
 | Translation | Greek |

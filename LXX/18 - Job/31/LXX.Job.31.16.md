@@ -1,10 +1,7 @@
 **LXX Job 31:16** 
 <small><sub>**LXX:**</sub></small>
 But \[the\] disabled missed not whatever need they had at some time or other; and I wasted not the eye of \[the\] widow. 
-<small><sub>**KJV:**</sub></small>
-If I have withheld the poor from [their] desire, or have caused the eyes of the widow to fail;
-<small><sub>**BSB:**</sub></small>
-If I have denied the desires of the poor or allowed the widow’s eyes to fail,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.15|<< Job 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.17|Job 31:17 >>]]</td></tr></table>
 
 | Translation | Greek |

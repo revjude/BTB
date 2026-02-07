@@ -1,4 +1,4 @@
-**Deuteronomy 15:10** 
+**Deuteronomy 15:10**<big><big>[[Deut.15.7 Generosity in Lending and Giving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the LORD thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give generously to him, and do not let your heart be grieved when you do so. And
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.9|<< Deuteronomy 15:9]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.11|Deuteronomy 15:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to give>  |**<big>&#8207;[[H5414G\|נָת֤וֹן]]&#8207; </big>**| na.Ton<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will give  |**<big>&#8207;[[H5414G\|תִּתֵּן֙]]&#8207; </big>**| ti.Ten<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

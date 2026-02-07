@@ -1,4 +1,4 @@
-**Deuteronomy 4:19** 
+**Deuteronomy 4:19**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, [even] all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you look to the heavens and see the sun and moon and stars—all the host o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.18|<< Deuteronomy 4:18]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.20|Deuteronomy 4:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and lest  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6435\|פֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you should lift up  |**<big>&#8207;[[H5375G\|תִּשָּׂ֨א]]&#8207; </big>**| ti.Sa'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

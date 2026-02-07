@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:11** 
 <small><sub>**LXX:**</sub></small>
 even I delivered him up into \[the\] hands of \[the\] ruler of \[the\] nations; and he caused  his destruction. 
-<small><sub>**KJV:**</sub></small>
-I have therefore delivered him into the hand of the mighty one of the heathen; he shall surely deal with him: I have driven him out for his wickedness.
-<small><sub>**BSB:**</sub></small>
-I delivered it into the hand of the ruler of the nations, for him to deal with it according to its wickedness. I have banished it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.10|<< Ezekiel 31:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.12|Ezekiel 31:12 >>]]</td></tr></table>
 
 | Translation | Greek |

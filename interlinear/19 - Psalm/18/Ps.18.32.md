@@ -1,4 +1,4 @@
-**Psalms 18:32** (18:33)
+**Psalms 18:32**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] God that girdeth me with strength, and maketh my way perfect.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is God who arms me with strength and makes my way clear.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.31|<< Psalms 18:31]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.33|Psalms 18:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> God  |**<big>&#8207;[[H9009\|הָ֭]]&#8207;&#8207;[[H0410G\|אֵל]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the [one who] has girded me  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0247\|מְאַזְּרֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.'a.ze.Re.<small><sup>[[HVprmsc]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

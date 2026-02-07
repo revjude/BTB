@@ -1,4 +1,4 @@
-**Jeremiah 42:16** 
+**Jeremiah 42:16**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then it shall come to pass, [that] the sword, which ye feared, shall overtake you there in the land of Egypt, and the famine, whereof ye were afraid, shall follow close after you there in Egypt; and there ye shall die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then the sword you fear will overtake you there, and the famine you dread will f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.15|<< Jeremiah 42:15]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.17|Jeremiah 42:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיְתָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sword  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2719\|חֶ֗רֶב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

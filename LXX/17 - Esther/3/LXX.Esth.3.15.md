@@ -1,10 +1,7 @@
 **LXX Esther 3:15** 
 <small><sub>**LXX:**</sub></small>
 And the thing was hastened, even in Shushan. And the king and Haman toasted, but the city was disturbed. 
-<small><sub>**KJV:**</sub></small>
-The posts went out, being hastened by the king’s commandment, and the decree was given in Shushan the palace. And the king and Haman sat down to drink; but the city Shushan was perplexed.
-<small><sub>**BSB:**</sub></small>
-The couriers left, spurred on by the king’s command, and the edict was issued in the citadel of Susa. Then the king and Haman sat down to drink, but the city of Susa was in confusion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.14|<< Esther 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.1|Esther 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

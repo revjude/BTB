@@ -1,10 +1,7 @@
 **LXX Proverbs 4:23** 
 <small><sub>**LXX:**</sub></small>
 With all guard, give heed to your heart! for from out of these \[things\] \[are the\] issues of life. 
-<small><sub>**KJV:**</sub></small>
-Keep thy heart with all diligence; for out of it [are] the issues of life.
-<small><sub>**BSB:**</sub></small>
-Guard your heart with all diligence, for from it flow springs of life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.22|<< Proverbs 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.24|Proverbs 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 6:25** 
 <small><sub>**LXX:**</sub></small>
 May \[the\] <span class="smallcaps">lord</span> shine  his face upon you, and show mercy on you. 
-<small><sub>**KJV:**</sub></small>
-The LORD make his face shine upon thee, and be gracious unto thee:
-<small><sub>**BSB:**</sub></small>
-may the LORD cause His face to shine upon you and be gracious to you;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.24|<< Numbers 6:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.26|Numbers 6:26 >>]]</td></tr></table>
 
 | Translation | Greek |

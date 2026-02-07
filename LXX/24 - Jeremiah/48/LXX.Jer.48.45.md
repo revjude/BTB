@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:45** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] shadow of Heshbon they stopped -- of \[the\] force fleeing. For fire came forth from Heshbon, and a flame from \[the\] midst of Sihon, and it devoured the side of Moab, and the top of \[the\] sons of Saon. 
-<small><sub>**KJV:**</sub></small>
-They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the midst of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones.
-<small><sub>**BSB:**</sub></small>
-“Those who flee will stand helpless in Heshbon’s shadow, because fire has gone forth from Heshbon and a flame from within Sihon. It devours the foreheads of Moab and the skulls of the sons of tumult.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.44|<< Jeremiah 48:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.46|Jeremiah 48:46 >>]]</td></tr></table>
 
 | Translation | Greek |

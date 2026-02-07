@@ -1,12 +1,12 @@
-**Hebrews 4:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:14**<big><big>[[Heb.4.12 The Living Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast [our] profession.
 <small><sub>**BSB:**</sub></small>
 Therefore, since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold firmly to what we profess.
 <small><sub>**Literal:**</sub></small>
 Having therefore a high priest great having passed through the heavens, Jesus the Son <the> of God, we may hold firmly <the> to [our] confession.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.13|<< Hebrews 4:13]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.15|Hebrews 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having |**<big>[[G2192\|Ἔχοντες]]</big>**  |Echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

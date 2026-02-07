@@ -1,4 +1,4 @@
-**Psalms 2:1** 
+**Psalms 2:1**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why do the heathen rage, and the people imagine a vain thing?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Why do the nations rage and the peoples plot in vain?
 > $\quad$ referenced by: [[Acts.4.25|Acts 4:25-26]] ☩ [[Rev.11.18|Rev 11:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do they plot  |**<big>&#8207;[[H7283\|רָגְשׁ֣וּ]]&#8207; </big>**| ra.ge.Shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Hebrews 7:8
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:8**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And here men that die receive tithes; but there he [receiveth them], of whom it is witnessed that he liveth.
 <small><sub>**BSB:**</sub></small>
 In the case of the Levites, mortal men collect the tenth; but in the case of Melchizedek, it is affirmed that he lives on.
 <small><sub>**Literal:**</sub></small>
 And here indeed tithes dying men receive in that place however it is testified that he lives on.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.7|<< Hebrews 7:7]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.9|Hebrews 7:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | here |**<big>[[G5602\|ὧδε]]</big>**  |hōde <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

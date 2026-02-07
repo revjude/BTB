@@ -1,10 +1,7 @@
 **LXX Joshua 11:3** 
 <small><sub>**LXX:**</sub></small>
 and to the ones on the coast -- \[the\] Canaanites from \[the\] east, and to the ones on the coast -- \[the\] Amorites, and the Hittites, and Perizzites, and Jebusites, the ones in the mountain, and the Hivites under Hermon unto \[the\] land of Mizpeh. 
-<small><sub>**KJV:**</sub></small>
-[And to] the Canaanite on the east and on the west, and [to] the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and [to] the Hivite under Hermon in the land of Mizpeh.
-<small><sub>**BSB:**</sub></small>
-to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites, and Jebusites in the hill country; and to the Hivites at the foot of Hermon in the land of Mizpah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.2|<< Joshua 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.4|Joshua 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

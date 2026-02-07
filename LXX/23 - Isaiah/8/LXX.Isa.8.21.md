@@ -1,10 +1,7 @@
 **LXX Isaiah 8:21** 
 <small><sub>**LXX:**</sub></small>
 And shall come upon us harshly a famine; and it will be as whenever you should hunger, you shall be fretting, and you shall speak wickedly of the ruler and the fathers; and they shall look up into the heaven upward, 
-<small><sub>**KJV:**</sub></small>
-And they shall pass through it, hardly bestead and hungry: and it shall come to pass, that when they shall be hungry, they shall fret themselves, and curse their king and their God, and look upward.
-<small><sub>**BSB:**</sub></small>
-They will roam the land, dejected and hungry. When they are famished, they will become enraged; and looking upward, they will curse their king and their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.20|<< Isaiah 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.22|Isaiah 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

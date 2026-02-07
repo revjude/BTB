@@ -1,4 +1,4 @@
-**Ezra 10:14** 
+**Ezra 10:14**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let our leaders represent the whole assembly. Then let everyone in our towns who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.13|<< Ezra 10:13]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.15|Ezra 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them stand  |**<big>&#8207;[[H5975G\|יַֽעֲמְדוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'am.du-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

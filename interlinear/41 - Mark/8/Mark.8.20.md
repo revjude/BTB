@@ -1,12 +1,12 @@
-**Mark 8:20
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:20**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the seven among four thousand, how many baskets full of fragments took ye up? And they said, Seven.
 <small><sub>**BSB:**</sub></small>
 “And when I broke the seven loaves for the four thousand, how many basketfuls of broken pieces did you collect?” “Seven,” they said.
 <small><sub>**Literal:**</sub></small>
 When now the seven to the four thousand of how many baskets [the] fillings of fragments took you up? <the> And they speak to him; Seven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.19|<< Mark 8:19]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.21|Mark 8:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">k(o)</abbr> | |

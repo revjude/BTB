@@ -1,4 +1,4 @@
-**1 Kings 2:33** 
+**1 Kings 2:33**<big><big>[[1Kgs.2.28 The Execution of Joab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their blood shall therefore return upon the head of Joab, and upon the head of his seed for ever: but upon David, and upon his seed, and upon his house, and upon his throne, shall there be peace for ever from the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their blood will come back upon the heads of Joab and his descendants forever; b
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.32|<< 1 Kings 2:32]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.34|1 Kings 2:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will return  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|שָׁ֤בוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sha.vu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blood\<s> their  |**<big>&#8207;[[H1818\|דְמֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| de.mei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 18:10** 
+**1 Kings 18:10**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] the LORD thy God liveth, there is no nation or kingdom, whither my lord hath not sent to seek thee: and when they said, [He is] not [there]; he took an oath of the kingdom and nation, that they found thee not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As surely as the LORD your God lives, there is no nation or kingdom where my lor
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.9|<< 1 Kings 18:9]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.11|1 Kings 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [by] [the] life  |**<big>&#8207;[[H2416A\|חַ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| chai<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

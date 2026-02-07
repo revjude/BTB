@@ -1,4 +1,4 @@
-**Esther 4:9** 
+**Esther 4:9**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hatach came and told Esther the words of Mordecai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Hathach went back and relayed Mordecai’s response to Esther.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.8|<< Esther 4:8]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.10|Esther 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּב֖וֹא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hathach  |**<big>&#8207;[[H2047\|הֲתָ֑ךְ]]&#8207; </big>**| ha.Takh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

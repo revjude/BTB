@@ -1,10 +1,7 @@
 **LXX Daniel 8:7** 
 <small><sub>**LXX:**</sub></small>
 And I beheld him anticipating unto the ram, and he was furiously enraged against him, and he hit the ram, and he broke both  of his horns; and there was no strength to the ram  to stand before him; and he tossed him upon the ground, and trampled upon him, and there was not  one rescuing the ram from out of his hand. 
-<small><sub>**KJV:**</sub></small>
-And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.
-<small><sub>**BSB:**</sub></small>
-I saw him approach the ram in a rage against him, and he struck the ram and shattered his two horns. The ram was powerless to stand against him, and the goat threw him to the ground and trampled him, and no one could deliver the ram from his power.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.6|<< Daniel 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.8|Daniel 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

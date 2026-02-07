@@ -1,12 +1,12 @@
-**John 9:24
-**<small><sub>**KJV:**</sub></small>
+**John 9:24**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner.
 <small><sub>**BSB:**</sub></small>
 So a second time they called for the man who had been blind and said, “Give glory to God! We know that this man is a sinner.”
 <small><sub>**Literal:**</sub></small>
 They called therefore the man out a second time who were blind and they said to him; do give glory <the> to God! We ourselves know that this <the> man a sinner is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.23|<< John 9:23]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.25|John 9:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They called |**<big>[[G5455\|Ἐφώνησαν]]</big>**  |Ephōnēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:24** 
 <small><sub>**LXX:**</sub></small>
 O Lord, O <span class="smallcaps">lord</span>, you began to show \[to\] your attendant  your strength, and  your power, and the fortified hand, and the high arm. For what God is in the heaven or upon the earth, who shall do as you did yourself, according to  your works, and according to  your strength? 
-<small><sub>**KJV:**</sub></small>
-O Lord GOD, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God [is there] in heaven or in earth, that can do according to thy works, and according to thy might?
-<small><sub>**BSB:**</sub></small>
-“O Lord GOD, You have begun to show Your greatness and power to Your servant. For what god in heaven or on earth can perform such works and mighty acts as Yours?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.23|<< Deuteronomy 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.25|Deuteronomy 3:25 >>]]</td></tr></table>
 
 | Translation | Greek |

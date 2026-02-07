@@ -1,12 +1,12 @@
-**Galatians 5:22
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:22**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,
 <small><sub>**BSB:**</sub></small>
 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
 <small><sub>**Literal:**</sub></small>
 <the> But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.21|<< Galatians 5:21]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.23|Galatians 5:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

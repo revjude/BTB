@@ -1,12 +1,12 @@
-**John 14:9
-**<small><sub>**KJV:**</sub></small>
+**John 14:9**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou [then], Shew us the Father?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Philip, I have been with you all this time, and still you do not know Me? Anyone who has seen Me has seen the Father. How can you say, ‘Show us the Father’?
 <small><sub>**Literal:**</sub></small>
 Says to him <the> Jesus; So long a time with you am I, and not you have known Me, Philip? The [one] having seen Me myself he has seen the Father; and how you yourself say; do show us the Father?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.8|<< John 14:8]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.10|John 14:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

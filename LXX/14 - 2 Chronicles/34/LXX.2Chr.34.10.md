@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:10** 
 <small><sub>**LXX:**</sub></small>
 And they put it into \[the\] hand of the ones doing the works, of the ones placed in \[the\] house of \[the\] <span class="smallcaps">lord</span>. And they gave it to the ones doing the works in \[the\] house of \[the\] <span class="smallcaps">lord</span>  to repair and to strengthen the house. 
-<small><sub>**KJV:**</sub></small>
-And they put [it] in the hand of the workmen that had the oversight of the house of the LORD, and they gave it to the workmen that wrought in the house of the LORD, to repair and amend the house:
-<small><sub>**BSB:**</sub></small>
-They put it into the hands of those supervising the work in the house of the LORD, who in turn gave it to the workmen restoring and repairing the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.9|<< 2 Chronicles 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.11|2 Chronicles 34:11 >>]]</td></tr></table>
 
 | Translation | Greek |

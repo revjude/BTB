@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:42** 
 <small><sub>**LXX:**</sub></small>
 And Ahab ascended  to eat and to drink. And Elijah ascended unto  Carmel, and bowed upon the ground, and put  his face between  his knees. 
-<small><sub>**KJV:**</sub></small>
-So Ahab went up to eat and to drink. And Elijah went up to the top of Carmel; and he cast himself down upon the earth, and put his face between his knees,
-<small><sub>**BSB:**</sub></small>
-So Ahab went up to eat and drink. But Elijah climbed to the summit of Carmel, bent down on the ground, and put his face between his knees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.41|<< 1 Kings 18:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.43|1 Kings 18:43 >>]]</td></tr></table>
 
 | Translation | Greek |

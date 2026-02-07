@@ -1,4 +1,4 @@
-**Deuteronomy 9:27** 
+**Deuteronomy 9:27**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness of this people, nor to their wickedness, nor to their sin:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember Your servants Abraham, Isaac, and Jacob. Overlook the stubbornness of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.26|<< Deuteronomy 9:26]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.28|Deuteronomy 9:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זְכֹר֙]]&#8207; </big>**| ze.Khor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> servants your  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5650\|עֲבָדֶ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.va.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

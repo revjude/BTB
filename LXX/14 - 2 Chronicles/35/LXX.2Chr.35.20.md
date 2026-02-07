@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:20** 
 <small><sub>**LXX:**</sub></small>
 And after all these things which Josiah prepared for the house, Pharaoh Necho king of Egypt ascended up against the king of \[the\] Assyrians at the river Euphrates,  to wage war against him at Carchemish. And king Josiah went to meet against him. 
-<small><sub>**KJV:**</sub></small>
-After all this, when Josiah had prepared the temple, Necho king of Egypt came up to fight against Carchemish by Euphrates: and Josiah went out against him.
-<small><sub>**BSB:**</sub></small>
-After all this, when Josiah had set the temple in order, Neco king of Egypt marched up to fight at Carchemish by the Euphrates, and Josiah went out to confront him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.19|<< 2 Chronicles 35:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.21|2 Chronicles 35:21 >>]]</td></tr></table>
 
 | Translation | Greek |

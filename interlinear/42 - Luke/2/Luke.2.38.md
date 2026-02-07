@@ -1,12 +1,12 @@
-**Luke 2:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:38**<big><big>[[Luke.2.36 The Prophecy of Anna|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Coming forward at that moment, she gave thanks to God and spoke about the Child to all who were waiting for the redemption of Jerusalem.
 <small><sub>**Literal:**</sub></small>
 And this she at that hour having come up she was giving praise <the> to God and was speaking concerning Him to all those waiting for [the] redemption in of Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.37|<< Luke 2:37]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.39|Luke 2:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

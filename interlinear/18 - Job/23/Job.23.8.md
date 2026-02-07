@@ -1,4 +1,4 @@
-**Job 23:8** 
+**Job 23:8**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I go forward, but he [is] not [there]; and backward, but I cannot perceive him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I go east, He is not there, and if I go west, I cannot find Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.7|<< Job 23:7]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.9|Job 23:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forward  |**<big>&#8207;[[H6924I\|קֶ֣דֶם]]&#8207; </big>**| Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

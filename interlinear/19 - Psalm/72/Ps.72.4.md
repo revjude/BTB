@@ -1,4 +1,4 @@
-**Psalms 72:4** 
+**Psalms 72:4**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May he vindicate the afflicted among the people; may he save the children of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.3|<< Psalms 72:3]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.5|Psalms 72:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will judge  |**<big>&#8207;[[H8199\|יִשְׁפֹּ֤ט]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yish.Pot<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] poor [people] of  |**<big>&#8207;[[H6041\|עֲֽנִיֵּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ani.yei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

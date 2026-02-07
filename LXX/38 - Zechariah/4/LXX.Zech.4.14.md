@@ -1,10 +1,7 @@
 **LXX Zechariah 4:14** 
 <small><sub>**LXX:**</sub></small>
 And he said, These are the two sons of fatness, they stand beside the <span class="smallcaps">lord</span> of all the earth. 
-<small><sub>**KJV:**</sub></small>
-Then said he, These [are] the two anointed ones, that stand by the Lord of the whole earth.
-<small><sub>**BSB:**</sub></small>
-So he said, “These are the two anointed ones who are standing beside the Lord of all the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.13|<< Zechariah 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.1|Zechariah 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

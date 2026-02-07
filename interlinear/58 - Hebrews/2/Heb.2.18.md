@@ -1,12 +1,12 @@
-**Hebrews 2:18
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:18**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For in that he himself hath suffered being tempted, he is able to succour them that are tempted.
 <small><sub>**BSB:**</sub></small>
 Because He Himself suffered when He was tempted, He is able to help those who are being tempted.
 <small><sub>**Literal:**</sub></small>
 In that for has suffered He Himself having been tempted, He is able those being tempted to help.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.17|<< Hebrews 2:17]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.1|Hebrews 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

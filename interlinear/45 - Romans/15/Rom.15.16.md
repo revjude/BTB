@@ -1,12 +1,12 @@
-**Romans 15:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:16**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 to be a minister of Christ Jesus to the Gentiles in the priestly service of the gospel of God, so that the Gentiles might become an offering acceptable to God, sanctified by the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 for <the> to be me a minister of Christ Jesus to the Gentiles administering the sacred service of the gospel <the> of God, so that may become the offering of the Gentiles acceptable sanctified in [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.15|<< Romans 15:15]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.17|Romans 15:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Galatians 6:9
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:9**<big><big>[[Gal.6.1 Carry One Another’s Burdens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And let us not be weary in well doing: for in due season we shall reap, if we faint not.
 <small><sub>**BSB:**</sub></small>
 Let us not grow weary in well-doing, for in due time we will reap a harvest if we do not give up.
 <small><sub>**Literal:**</sub></small>
 <the> And [in] well doing not we may grow weary; in time for due we will reap a harvest not giving up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.8|<< Galatians 6:8]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.10|Galatians 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

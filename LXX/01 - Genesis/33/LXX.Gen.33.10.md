@@ -1,10 +1,7 @@
 **LXX Genesis 33:10** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said, If I found favor before you, take the gifts by  my hands! Because of this I saw  your face, as if one may have seen \[the\] face of God, and you shall think well of me. 
-<small><sub>**KJV:**</sub></small>
-And Jacob said, Nay, I pray thee, if now I have found grace in thy sight, then receive my present at my hand: for therefore I have seen thy face, as though I had seen the face of God, and thou wast pleased with me.
-<small><sub>**BSB:**</sub></small>
-But Jacob insisted, “No, please! If I have found favor in your sight, then receive this gift from my hand. For indeed, I have seen your face, and it is like seeing the face of God, since you have received me favorably.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.33.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.9|<< Genesis 33:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.11|Genesis 33:11 >>]]</td></tr></table>
 
 | Translation | Greek |

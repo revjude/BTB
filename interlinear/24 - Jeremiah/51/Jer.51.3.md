@@ -1,4 +1,4 @@
-**Jeremiah 51:3** 
+**Jeremiah 51:3**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Against [him that] bendeth let the archer bend his bow, and against [him that] lifteth himself up in his brigandine: and spare ye not her young men; destroy ye utterly all her host.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not let the archer bend his bow or put on his armor. Do not spare her young m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.2|<< Jeremiah 51:2]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.4|Jeremiah 51:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he bend  |**<big>&#8207;[[H1869\|יִדְרֹ֤ךְ]]&#8207; </big>**| yid.Rokh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

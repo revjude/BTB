@@ -1,10 +1,7 @@
 **LXX Job 6:10** 
 <small><sub>**LXX:**</sub></small>
 But be \[the\] grave my city, upon \[the\] walls of which I leaped upon; upon it I shall not spare; for I lied not about \[the\] holy sayings of my God. 
-<small><sub>**KJV:**</sub></small>
-Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.
-<small><sub>**BSB:**</sub></small>
-It still brings me comfort, and joy through unrelenting pain, that I have not denied the words of the Holy One.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.9|<< Job 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.11|Job 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

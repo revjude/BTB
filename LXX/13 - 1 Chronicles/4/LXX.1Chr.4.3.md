@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:3** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] \[the\] sons of Etam -- Jezreel, and Ishma, and Idbash; and \[the\] name of their sister -- Hazelelponi. 
-<small><sub>**KJV:**</sub></small>
-And these [were of] the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister [was] Hazelelponi:
-<small><sub>**BSB:**</sub></small>
-These were the sons of Etam: Jezreel, Ishma, and Idbash. And their sister was named Hazzelelponi.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.2|<< 1 Chronicles 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.4|1 Chronicles 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

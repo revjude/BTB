@@ -1,4 +1,4 @@
-**Genesis 27:22** 
+**Genesis 27:22**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob went near unto Isaac his father; and he felt him, and said, The voice [is] Jacob’s voice, but the hands [are] the hands of Esau.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jacob came close to his father Isaac, who touched him and said, “The voice 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.21|<< Genesis 27:21]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.23|Genesis 27:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he drew near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066G\|יִּגַּ֧שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Gash<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֛ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Nehemiah 8:9** 
+**Nehemiah 8:9**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nehemiah, which [is] the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day [is] holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nehemiah the governor, Ezra the priest and scribe, and the Levites who were inst
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.8|<< Nehemiah 8:8]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.10|Nehemiah 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nehemiah  |**<big>&#8207;[[H5166H\|נְחֶמְיָ֣ה]]&#8207; </big>**| ne.chem.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

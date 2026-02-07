@@ -1,12 +1,12 @@
-**Romans 6:23
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:23**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the wages of sin [is] death; but the gift of God [is] eternal life through Jesus Christ our Lord.
 <small><sub>**BSB:**</sub></small>
 For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 <small><sub>**Literal:**</sub></small>
 The for wages <the> of sin [is] death, <the> but the gift <the> of God life eternal in Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.22|<< Romans 6:22]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.1|Romans 7:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

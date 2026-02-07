@@ -1,12 +1,12 @@
-**Philippians 3:9
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:9**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:
 <small><sub>**BSB:**</sub></small>
 and be found in Him, not having my own righteousness from the law, but that which is through faith in Christ, the righteousness from God on the basis of faith.
 <small><sub>**Literal:**</sub></small>
 and may be found in Him not having my own righteousness which [is] of [the] Law but that through faith from Christ, the of God righteousness on the basis of <the> faith,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.8|<< Philippians 3:8]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.10|Philippians 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may be found |**<big>[[G2147\|εὑρεθῶ]]</big>**  |heurethō <small><sup>[[V-APS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

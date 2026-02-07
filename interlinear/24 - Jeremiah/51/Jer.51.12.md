@@ -1,4 +1,4 @@
-**Jeremiah 51:12** 
+**Jeremiah 51:12**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the LORD hath both devised and done that which he spake against the inhabitants of Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Raise a banner against the walls of Babylon; post the guard; station the watchme
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.11|<< Jeremiah 51:11]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.13|Jeremiah 51:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] walls of  |**<big>&#8207;[[H2346G\|חוֹמֹ֨ת]]&#8207; </big>**| cho.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

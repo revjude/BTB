@@ -1,10 +1,7 @@
 **LXX Ruth 2:18** 
 <small><sub>**LXX:**</sub></small>
 And she carried \[it\], and entered into the city. And her mother-in-law saw what she collected, and Ruth brought forth to give to her what was left of what she was filled up with. 
-<small><sub>**KJV:**</sub></small>
-And she took [it] up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.
-<small><sub>**BSB:**</sub></small>
-She picked up the grain and went into the town, where her mother-in-law saw what she had gleaned. And she brought out what she had saved from her meal and gave it to Naomi.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.17|<< Ruth 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.19|Ruth 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

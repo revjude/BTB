@@ -1,4 +1,4 @@
-**Zechariah 6:6** 
+**Zechariah 6:6**<big><big>[[Zech.6.1 The Vision of the Four Chariots|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The black horses which [are] therein go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The one with the black horses is going toward the land of the north, the one wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.5|<< Zechariah 6:5]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.7|Zechariah 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with it  |**<big>&#8207;[[H9003\|בָּ֞]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

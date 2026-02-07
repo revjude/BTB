@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:27** 
 <small><sub>**LXX:**</sub></small>
 And he said to her, Unless \[the\] <span class="smallcaps">lord</span> delivers you, from what place shall I deliver you -- from \[the\] threshing-floor or from \[the\] wine vat? 
-<small><sub>**KJV:**</sub></small>
-And he said, If the LORD do not help thee, whence shall I help thee? out of the barnfloor, or out of the winepress?
-<small><sub>**BSB:**</sub></small>
-He answered, “If the LORD does not help you, where can I find help for you? From the threshing floor or the winepress?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.26|<< 2 Kings 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.28|2 Kings 6:28 >>]]</td></tr></table>
 
 | Translation | Greek |

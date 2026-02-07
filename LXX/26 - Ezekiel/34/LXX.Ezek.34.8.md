@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:8** 
 <small><sub>**LXX:**</sub></small>
 As I live, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>, Assuredly instead  my sheep became for plunder, and my sheep became for a thing \[to be\] devoured by all the wild beasts of the plain, because \[of there\] not being \[any\] shepherds; and the shepherds sought not after  my sheep; and the shepherds grazed themselves,  but my sheep they grazed not. 
-<small><sub>**KJV:**</sub></small>
-[As] I live, saith the Lord GOD, surely because my flock became a prey, and my flock became meat to every beast of the field, because [there was] no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;
-<small><sub>**BSB:**</sub></small>
-‘As surely as I live, declares the Lord GOD, because My flock lacks a shepherd and has become prey and food for every wild beast, and because My shepherds did not search for My flock but fed themselves instead,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.7|<< Ezekiel 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.9|Ezekiel 34:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 34:8** is...

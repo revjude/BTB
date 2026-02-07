@@ -1,4 +1,4 @@
-**Ezra 6:16** 
+**Ezra 6:16**<big><big>[[Ezra.6.16 Dedication of the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the people of Israel—the priests, the Levites, and the rest of the exiles
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.15|<< Ezra 6:15]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.17|Ezra 6:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5648\|עֲבַ֣דוּ]]&#8207; </big>**| va.<small><sup>[[AC]]</sup></small> 'a.Va.du<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1247G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

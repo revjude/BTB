@@ -1,4 +1,4 @@
-**Job 6:13** 
+**Job 6:13**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] not my help in me? and is wisdom driven quite from me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is there any help within me now that success is driven from me?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.12|<< Job 6:12]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.14|Job 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ if  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0518H\|אִ֬ם]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

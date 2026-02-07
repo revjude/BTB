@@ -1,4 +1,4 @@
-**2 Samuel 5:23** 
+**2 Samuel 5:23**<big><big>[[2Sam.5.17 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when David inquired of the LORD, he said, Thou shalt not go up; [but] fetch a compass behind them, and come upon them over against the mulberry trees.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David inquired of the LORD, who answered, “Do not march straight up, but ci
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.22|<< 2 Samuel 5:22]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.24|2 Samuel 5:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he enquired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7592\|יִּשְׁאַ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.'Al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִד֙]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

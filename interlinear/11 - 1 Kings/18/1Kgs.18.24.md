@@ -1,4 +1,4 @@
-**1 Kings 18:24** 
+**1 Kings 18:24**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And call ye on the name of your gods, and I will call on the name of the LORD: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you may call on the name of your god, and I will call on the name of the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.23|<< 1 Kings 18:23]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.25|1 Kings 18:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will call  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7121G\|קְרָאתֶ֞ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ke.ra.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] name of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8034\|שֵׁ֣ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

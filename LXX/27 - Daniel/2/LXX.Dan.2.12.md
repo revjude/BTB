@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then the king in rage and much anger, said to destroy all the wise \[men\] of Babylon. 
-<small><sub>**KJV:**</sub></small>
-For this cause the king was angry and very furious, and commanded to destroy all the wise [men] of Babylon.
-<small><sub>**BSB:**</sub></small>
-This response made the king so angry and furious that he gave orders to destroy all the wise men of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.11|<< Daniel 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.13|Daniel 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

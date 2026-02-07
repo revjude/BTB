@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to king David, saying, \[The\] <span class="smallcaps">lord</span> blessed the house of Obed Edom, and all of his, because of the ark  of God. And David went and led the ark  of \[the\] <span class="smallcaps">lord</span> from out of the house of Obed Edom into the city of David with gladness. 
-<small><sub>**KJV:**</sub></small>
-And it was told king David, saying, The LORD hath blessed the house of Obededom, and all that [pertaineth] unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obededom into the city of David with gladness.
-<small><sub>**BSB:**</sub></small>
-Now it was reported to King David, “The LORD has blessed the house of Obed-edom and all that belongs to him, because of the ark of God.” So David went and had the ark of God brought up from the house of Obed-edom into the City of David with rejoicing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.11|<< 2 Samuel 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.13|2 Samuel 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

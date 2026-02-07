@@ -1,10 +1,7 @@
 **LXX Proverbs 3:10** 
 <small><sub>**LXX:**</sub></small>
 that your storerooms should be filled with fullness of grain, and wine  should gush out of your wine vats. 
-<small><sub>**KJV:**</sub></small>
-So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.
-<small><sub>**BSB:**</sub></small>
-then your barns will be filled with plenty, and your vats will overflow with new wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.9|<< Proverbs 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.11|Proverbs 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

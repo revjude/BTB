@@ -1,4 +1,4 @@
-**Leviticus 1:9** 
+**Leviticus 1:9**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar, [to be] a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The entrails and legs must be washed with water, and the priest shall burn all o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.8|<< Leviticus 1:8]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.10|Leviticus 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and entrails its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7130H\|קִרְבּ֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kir.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and legs its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3767\|כְרָעָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.ra.'A<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

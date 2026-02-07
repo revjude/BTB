@@ -1,12 +1,12 @@
-**Matthew 12:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:6**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, That in this place is [one] greater than the temple.
 <small><sub>**BSB:**</sub></small>
 But I tell you that One greater than the temple is here.
 <small><sub>**Literal:**</sub></small>
 I say however to you that than the temple a greater is here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.5|<< Matthew 12:5]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.7|Matthew 12:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

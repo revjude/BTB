@@ -1,4 +1,4 @@
-**Micah 5:1** (4:14)
+**Micah 5:1**<big><big>[[Mic.5.1 A Ruler from Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now, O daughter of troops, mobilize your troops; for a siege is laid against us!
 > $\quad$ referenced by: [[John.7.42|John 7:42]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will cut yourself  |**<big>&#8207;[[H1413\|תִּתְגֹּדְדִ֣י]]&#8207; </big>**| tit.go.de.Di<small><sup>[[HVti2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

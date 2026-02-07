@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after many days, after  \[the\] <span class="smallcaps">lord</span> God rested Israel from all  their enemies round about, and Joshua \[was\] older being advanced  in days, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old [and] stricken in age.
-<small><sub>**BSB:**</sub></small>
-A long time after the LORD had given Israel rest from all the enemies around them, when Joshua was old and well along in years,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.34|<< Joshua 22:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.2|Joshua 23:2 >>]]</td></tr></table>
 
 | Translation | Greek |

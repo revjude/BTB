@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:11** 
 <small><sub>**LXX:**</sub></small>
 Indeed, O <span class="smallcaps">lord</span>, let be  your ear heeding to the prayer  of your servant, and to the prayer of your children! of the ones wanting to fear  your name. And prosper the way indeed  of your servant today, and give him for compassions before  this man! And I was a wine server to the king. 
-<small><sub>**KJV:**</sub></small>
-O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king’s cupbearer.
-<small><sub>**BSB:**</sub></small>
-O Lord, may Your ear be attentive to my prayer and to the prayers of Your servants who delight to revere Your name. Give Your servant success this day, I pray, and grant him mercy in the sight of this man.” (At that time I was the cupbearer to the king.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.10|<< Nehemiah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.1|Nehemiah 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

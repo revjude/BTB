@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:13** 
 <small><sub>**LXX:**</sub></small>
 And indeed what you have not asked, I have given to you, even riches and glory, as there is not a man likened to you among the kings. 
-<small><sub>**KJV:**</sub></small>
-And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.
-<small><sub>**BSB:**</sub></small>
-Moreover, I will give you what you did not request—both riches and honor—so that during all your days no man in any kingdom will be your equal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.12|<< 1 Kings 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.14|1 Kings 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

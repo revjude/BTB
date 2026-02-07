@@ -1,4 +1,4 @@
-**Deuteronomy 17:3** 
+**Deuteronomy 17:3**<big><big>[[Deut.17.2 Purge the Idolater|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hath gone and served other gods, and worshipped them, either the sun, or moon, or any of the host of heaven, which I have not commanded;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and going to worship other gods, bowing down to them or to the sun or moon or an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.2|<< Deuteronomy 17:2]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.4|Deuteronomy 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has gone  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֗לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he has served  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5647H\|יַּעֲבֹד֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

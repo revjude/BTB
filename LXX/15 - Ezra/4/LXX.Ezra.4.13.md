@@ -1,10 +1,7 @@
 **LXX Ezra 4:13** 
 <small><sub>**LXX:**</sub></small>
 Now then let it be made known to the king, that if  that city should be rebuilt, and the walls of it should be readied, \[that\] tributes, tolls, and customs they shall not give, and this does evil to kings! 
-<small><sub>**KJV:**</sub></small>
-Be it known now unto the king, that, if this city be builded, and the walls set up [again, then] will they not pay toll, tribute, and custom, and [so] thou shalt endamage the revenue of the kings.
-<small><sub>**BSB:**</sub></small>
-Let it now be known to the king that if that city is rebuilt and its walls are restored, they will not pay tribute, duty, or toll, and the royal treasury will suffer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.12|<< Ezra 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.14|Ezra 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

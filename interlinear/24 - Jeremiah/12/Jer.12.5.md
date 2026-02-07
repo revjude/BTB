@@ -1,4 +1,4 @@
-**Jeremiah 12:5** 
+**Jeremiah 12:5**<big><big>[[Jer.12.5 God’s Answer to Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou hast run with the footmen, and they have wearied thee, then how canst thou contend with horses? and [if] in the land of peace, [wherein] thou trustedst, [they wearied thee], then how wilt thou do in the swelling of Jordan?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If thou hast run with the footmen, and they have wearied thee, then how canst th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.4|<< Jeremiah 12:4]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.6|Jeremiah 12:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

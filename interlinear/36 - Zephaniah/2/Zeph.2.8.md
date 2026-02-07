@@ -1,4 +1,4 @@
-**Zephaniah 2:8** 
+**Zephaniah 2:8**<big><big>[[Zeph.2.8 Judgment on Moab and Ammon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified [themselves] against their border.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have heard the reproach of Moab, and the revilings of the children of Ammon, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.7|<< Zephaniah 2:7]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.9|Zephaniah 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֙עְתִּי֙]]&#8207; </big>**| sha.Ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] reproach of  |**<big>&#8207;[[H2781\|חֶרְפַּ֣ת]]&#8207; </big>**| cher.Pat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

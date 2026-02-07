@@ -1,4 +1,4 @@
-**Exodus 34:20** 
+**Exodus 34:20**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem [him] not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must redeem the firstborn of a donkey with a lamb; but if you do not redeem 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.19|<< Exodus 34:19]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.21|Exodus 34:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] firstborn of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6363A\|פֶ֤טֶר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Fe.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a donkey  |**<big>&#8207;[[H2543\|חֲמוֹר֙]]&#8207; </big>**| cha.mOr<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

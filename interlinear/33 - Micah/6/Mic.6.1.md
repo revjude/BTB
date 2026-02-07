@@ -1,4 +1,4 @@
-**Micah 6:1** 
+**Micah 6:1**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear now what the LORD says: “Arise, plead your case before the mountains, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.15|<< Micah 5:15]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.2|Micah 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְעוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shim.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֕א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

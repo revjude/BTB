@@ -1,4 +1,4 @@
-**1 Chronicles 29:22** 
+**1 Chronicles 29:22**<big><big>[[1Chr.29.21 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And did eat and drink before the LORD on that day with great gladness. And they made Solomon the son of David king the second time, and anointed [him] unto the LORD [to be] the chief governor, and Zadok [to be] priest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That day they ate and drank with great joy in the presence of the LORD. Then, fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.21|<< 1 Chronicles 29:21]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.23|1 Chronicles 29:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they ate  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|יֹּאכְל֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.khe.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they drank  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8354\|יִּשְׁתּ֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

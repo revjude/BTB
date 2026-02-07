@@ -1,4 +1,4 @@
-**1 Kings 4:30** (5:10)
+**1 Kings 4:30**<big><big>[[1Kgs.4.29 Solomon’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon’s wisdom was greater than that of all the men of the East, greater tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.29|<< 1 Kings 4:29]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.31|1 Kings 4:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was great  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7235A\|תֵּ֙רֶב֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.rev<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wisdom of  |**<big>&#8207;[[H2451\|חָכְמַ֣ת]]&#8207; </big>**| cha.khe.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 24:9** 
+**Leviticus 24:9**<big><big>[[Lev.24.5 The Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be Aaron’s and his sons’; and they shall eat it in the holy place: for it [is] most holy unto him of the offerings of the LORD made by fire by a perpetual statute.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It belongs to Aaron and his sons, who are to eat it in a holy place; for it is t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.8|<< Leviticus 24:8]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.10|Leviticus 24:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will belong  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָֽיְתָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hay.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Aaron  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0175\|אַהֲרֹ֣ן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:13** 
 <small><sub>**LXX:**</sub></small>
 For Solomon made a brass platform, and he put it in \[the\] midst of the courtyard of the temple -- five cubits  \[was\] its length, and five cubits  \[was\] its breadth, and three cubits  \[was\] its height. And he stood upon it, and he bent upon  his knees before all \[the\] assembly of Israel, and he opened and spread out  his hands into the heaven. 
-<small><sub>**KJV:**</sub></small>
-For Solomon had made a brasen scaffold, of five cubits long, and five cubits broad, and three cubits high, and had set it in the midst of the court: and upon it he stood, and kneeled down upon his knees before all the congregation of Israel, and spread forth his hands toward heaven,
-<small><sub>**BSB:**</sub></small>
-Now Solomon had made a bronze platform five cubits long, five cubits wide, and three cubits high and had placed it in the middle of the courtyard. He stood on it, knelt down before the whole assembly of Israel, spread out his hands toward heaven,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.12|<< 2 Chronicles 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.14|2 Chronicles 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

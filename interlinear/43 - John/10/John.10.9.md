@@ -1,12 +1,12 @@
-**John 10:9
-**<small><sub>**KJV:**</sub></small>
+**John 10:9**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.
 <small><sub>**BSB:**</sub></small>
 I am the gate. If anyone enters through Me, he will be saved. He will come in and go out and find pasture.
 <small><sub>**Literal:**</sub></small>
 I myself am the door; through Me if anyone shall enter in, he will be saved and he will go in and will go out and pasture will find.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.8|<< John 10:8]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.10|John 10:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγώ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | am |**<big>[[G1510\|εἰμι]]</big>**  |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

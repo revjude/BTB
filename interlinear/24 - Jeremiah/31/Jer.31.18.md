@@ -1,4 +1,4 @@
-**Jeremiah 31:18** 
+**Jeremiah 31:18**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have surely heard Ephraim bemoaning himself [thus]; Thou hast chastised me, and I was chastised, as a bullock unaccustomed [to the yoke]: turn thou me, and I shall be turned; for thou [art] the LORD my God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have surely heard Ephraim’s moaning: ‘You disciplined me severely, like an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.17|<< Jeremiah 31:17]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.19|Jeremiah 31:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to hear>  |**<big>&#8207;[[H8085G\|שָׁמ֣וֹעַ]]&#8207; </big>**| sha.Mo.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֗עְתִּי]]&#8207; </big>**| sha.Ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

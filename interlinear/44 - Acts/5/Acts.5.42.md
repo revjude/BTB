@@ -1,12 +1,12 @@
-**Acts 5:42
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:42**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 Every day, in the temple courts and from house to house, they did not stop teaching and proclaiming the good news that Jesus is the Christ.
 <small><sub>**Literal:**</sub></small>
 Every then day in the temple and in house not they were ceasing teaching and evangelising [that] the Christ [is] Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.41|<< Acts 5:41]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.1|Acts 6:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|πᾶσάν]]</big>**  |pasan <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

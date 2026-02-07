@@ -1,10 +1,7 @@
 **LXX Exodus 12:42** 
 <small><sub>**LXX:**</sub></small>
 It is a night post to the <span class="smallcaps">lord</span>, so as to lead them from out of \[the\] land of Egypt. That  night itself \[is\] a post to \[the\] <span class="smallcaps">lord</span>, so as to be to all the sons of Israel into their generations. 
-<small><sub>**KJV:**</sub></small>
-It [is] a night to be much observed unto the LORD for bringing them out from the land of Egypt: this [is] that night of the LORD to be observed of all the children of Israel in their generations.
-<small><sub>**BSB:**</sub></small>
-Because the LORD kept a vigil that night to bring them out of the land of Egypt, this same night is to be a vigil to the LORD, to be observed by all the Israelites for the generations to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.41|<< Exodus 12:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.43|Exodus 12:43 >>]]</td></tr></table>
 
 | Translation | Greek |

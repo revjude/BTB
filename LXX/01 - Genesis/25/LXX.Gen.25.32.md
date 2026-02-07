@@ -1,10 +1,7 @@
 **LXX Genesis 25:32** 
 <small><sub>**LXX:**</sub></small>
 And Esau said, Behold, I am going to come to an end, and what to me \[are\] these, the rights of the first-born? 
-<small><sub>**KJV:**</sub></small>
-And Esau said, Behold, I [am] at the point to die: and what profit shall this birthright do to me?
-<small><sub>**BSB:**</sub></small>
-“Look,” said Esau, “I am about to die, so what good is a birthright to me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.31|<< Genesis 25:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.33|Genesis 25:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 1:25** 
+**Isaiah 1:25**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will turn My hand against you; I will thoroughly purge your dross; I will remo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.24|<< Isaiah 1:24]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.26|Isaiah 1:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will turn  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725G\|אָשִׁ֤יבָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Shi.vah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand my  |**<big>&#8207;[[H3027G\|יָדִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 12:15** 
 <small><sub>**LXX:**</sub></small>
 If he should restrain the water, he shall dry the earth; and if he should let it loose, he destroys it by eradication. 
-<small><sub>**KJV:**</sub></small>
-Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth.
-<small><sub>**BSB:**</sub></small>
-If He holds back the waters, they dry up, and if He releases them, they overwhelm the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.14|<< Job 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.16|Job 12:16 >>]]</td></tr></table>
 
 | Translation | Greek |

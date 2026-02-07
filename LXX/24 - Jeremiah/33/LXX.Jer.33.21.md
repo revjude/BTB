@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:21** 
 <small><sub>**LXX:**</sub></small>
 then  my covenant being annuled will be with  David  my servant, so as to not be of him a son reigning upon  his throne nor with the Levites and priests  of my ministration. 
-<small><sub>**KJV:**</sub></small>
-[Then] may also my covenant be broken with David my servant, that he should not have a son to reign upon his throne; and with the Levites the priests, my ministers.
-<small><sub>**BSB:**</sub></small>
-then My covenant may also be broken with David My servant and with My ministers the Levites who are priests, so that David will not have a son to reign on his throne.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.20|<< Jeremiah 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.22|Jeremiah 33:22 >>]]</td></tr></table>
 
 | Translation | Greek |

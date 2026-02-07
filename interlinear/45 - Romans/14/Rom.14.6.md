@@ -1,12 +1,12 @@
-**Romans 14:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:6**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that regardeth the day, regardeth [it] unto the Lord; and he that regardeth not the day, to the Lord he doth not regard [it]. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.
 <small><sub>**BSB:**</sub></small>
 He who observes a special day does so to the Lord; he who eats does so to the Lord, for he gives thanks to God; and he who abstains does so to the Lord and gives thanks to God.
 <small><sub>**Literal:**</sub></small>
 The [one] regarding the day to [the] Lord regards [it] and the [one] not regarding the day to [the] Lord not regards [it]; And the [one] eating to [the] Lord eats, he gives thanks for <the> to God; and the [one] not eating to [the] Lord not he eats, and he gives thanks <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.5|<< Romans 14:5]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.7|Romans 14:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | regarding |**<big>[[G5426\|φρονῶν]]</big>**  |phronōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

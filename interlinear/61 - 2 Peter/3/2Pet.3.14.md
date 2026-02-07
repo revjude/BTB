@@ -1,12 +1,12 @@
-**2 Peter 3:14
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:14**<big><big>[[2Pet.3.14 Final Exhortations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.
 <small><sub>**BSB:**</sub></small>
 Therefore, beloved, as you anticipate these things, make every effort to be found at peace—spotless and blameless in His sight.
 <small><sub>**Literal:**</sub></small>
 Therefore, beloved, these things expecting do be diligent without spot and without blemish by Him to be found in peace,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.13|<< 2 Peter 3:13]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.15|2 Peter 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore, |**<big>[[G1352\|Διό,]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | beloved, |**<big>[[G0027\|ἀγαπητοί,]]</big>**  |agapētoi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

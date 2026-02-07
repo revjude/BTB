@@ -1,12 +1,12 @@
-**Philippians 4:2
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:2**<big><big>[[Phil.4.1 Rejoice in the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.
 <small><sub>**BSB:**</sub></small>
 I urge Euodia and Syntyche to agree with each other in the Lord.
 <small><sub>**Literal:**</sub></small>
 Euodia I exhort and Syntyche I exhort the same to be of mind in [the] Lord;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.1|<< Philippians 4:1]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.3|Philippians 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Euodia |**<big>[[G2136\|Εὐοδίαν]]</big>**  [^1] |Euodian <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I exhort |**<big>[[G3870\|παρακαλῶ]]</big>**  |parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

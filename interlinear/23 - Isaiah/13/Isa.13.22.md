@@ -1,4 +1,4 @@
-**Isaiah 13:22** 
+**Isaiah 13:22**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the wild beasts of the islands shall cry in their desolate houses, and dragons in [their] pleasant palaces: and her time [is] near to come, and her days shall not be prolonged.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hyenas will howl in her fortresses and jackals in her luxurious palaces. Babylon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.21|<< Isaiah 13:21]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.1|Isaiah 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will sing  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6030A\|עָנָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Nah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hyenas  |**<big>&#8207;[[H0338\|אִיִּים֙]]&#8207; </big>**| 'i.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

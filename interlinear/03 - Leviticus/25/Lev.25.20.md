@@ -1,4 +1,4 @@
-**Leviticus 25:20** 
+**Leviticus 25:20**<big><big>[[Lev.25.18 The Blessing of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now you may wonder, ‘What will we eat in the seventh year if we do not sow or 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.19|<< Leviticus 25:19]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.21|Leviticus 25:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹאמְר֔וּ]]&#8207; </big>**| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

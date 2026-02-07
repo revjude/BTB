@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:3** 
 <small><sub>**LXX:**</sub></small>
 And all the elders of Israel come to the king in Hebron. And king David ordained with them a covenant in Hebron, in the presence of \[the\] <span class="smallcaps">lord</span>. And they anoint  David for king over all Israel. 
-<small><sub>**KJV:**</sub></small>
-So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the LORD: and they anointed David king over Israel.
-<small><sub>**BSB:**</sub></small>
-So all the elders of Israel came to the king at Hebron, where King David made with them a covenant before the LORD. And they anointed him king over Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.2|<< 2 Samuel 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.4|2 Samuel 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

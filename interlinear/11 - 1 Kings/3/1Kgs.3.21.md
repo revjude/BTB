@@ -1,4 +1,4 @@
-**1 Kings 3:21** 
+**1 Kings 3:21**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I rose in the morning to give my child suck, behold, it was dead: but when I had considered it in the morning, behold, it was not my son, which I did bear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The next morning, when I got up to nurse my son, I discovered he was dead. But w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.20|<< 1 Kings 3:20]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.22|1 Kings 3:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I rose  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6965B\|אָקֻ֥ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Kum<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the morning  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1242\|בֹּ֛קֶר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

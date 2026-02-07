@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:32** 
 <small><sub>**LXX:**</sub></small>
 And Elisha was sitting down in  his house, and the elders were sitting down with him. And \[the king\] sent a man before his face. But before \[the\] coming of the messenger to him, that \[Elisha\] himself said to the elders, Do you see that this son of a murderer sent to remove  my head? Know as when the messenger should come, you lock the door, and press against him on the door! Is not \[the\] sound of the feet  of his master right after him? 
-<small><sub>**KJV:**</sub></small>
-But Elisha sat in his house, and the elders sat with him; and [the king] sent a man from before him: but ere the messenger came to him, he said to the elders, See ye how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door: [is] not the sound of his master’s feet behind him?
-<small><sub>**BSB:**</sub></small>
-Now Elisha was sitting in his house, and the elders were sitting with him. The king sent a messenger ahead, but before he arrived, Elisha said to the elders, “Do you see how this murderer has sent someone to cut off my head? Look, when the messenger comes, shut the door to keep him out. Is not the sound of his master’s footsteps behind him?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.31|<< 2 Kings 6:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.33|2 Kings 6:33 >>]]</td></tr></table>
 
 | Translation | Greek |

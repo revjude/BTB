@@ -1,4 +1,4 @@
-**Psalms 119:111** 
+**Psalms 119:111**<big><big>[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy testimonies have I taken as an heritage for ever: for they [are] the rejoicing of my heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your testimonies are my heritage forever, for they are the joy of my heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.111|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.110|<< Psalms 119:110]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.112|Psalms 119:112 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have inherited  |**<big>&#8207;[[H5157\|נָחַ֣לְתִּי]]&#8207; </big>**| na.Chal.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | testimonies your  |**<big>&#8207;[[H5715\|עֵדְוֹתֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.de.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

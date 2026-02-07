@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:18** 
 <small><sub>**LXX:**</sub></small>
 For the vast \[part\] of the people from Ephraim, and Manasseh, and Issachar, and Zebulun, were not purified; but even they ate the passover not according to the scripture. And Hezekiah prayed for them, saying, \[The\] <span class="smallcaps">lord</span>, the good God atone for all! 
-<small><sub>**KJV:**</sub></small>
-For a multitude of the people, [even] many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, The good LORD pardon every one
-<small><sub>**BSB:**</sub></small>
-A large number of the people—many from Ephraim, Manasseh, Issachar, and Zebulun—had not purified themselves, yet they ate the Passover, contrary to what was written. But Hezekiah interceded for them, saying, “May the LORD, who is good, provide atonement for everyone<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.17|<< 2 Chronicles 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.19|2 Chronicles 30:19 >>]]</td></tr></table>
 
 | Translation | Greek |

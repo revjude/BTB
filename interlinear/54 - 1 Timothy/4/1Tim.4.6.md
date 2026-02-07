@@ -1,12 +1,12 @@
-**1 Timothy 4:6
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:6**<big><big>[[1Tim.4.6 A Good Servant of Jesus Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained.
 <small><sub>**BSB:**</sub></small>
 By pointing out these things to the brothers, you will be a good servant of Christ Jesus, nourished by the words of faith and sound instruction that you have followed.
 <small><sub>**Literal:**</sub></small>
 These things laying before the brothers good you will be a servant of Christ Jesus being nourished in the words of the faith and of the good teaching that you have closely followed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.5|<< 1 Timothy 4:5]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.7|1 Timothy 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | laying before |**<big>[[G5294\|ὑποτιθέμενος]]</big>**  |hupotithemenos <small><sup>[[V-PMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 25:28** 
 <small><sub>**LXX:**</sub></small>
 And you shall make the bearing poles from out of incorruptible woods. And you shall gild them with pure gold. And the table shall be lifted by them. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make the staves [of] shittim wood, and overlay them with gold, that the table may be borne with them.
-<small><sub>**BSB:**</sub></small>
-Make the poles of acacia wood and overlay them with gold, so that the table may be carried with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.27|<< Exodus 25:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.29|Exodus 25:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**2 Corinthians 3:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:7**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if the ministration of death, written [and] engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which [glory] was to be done away:
 <small><sub>**BSB:**</sub></small>
 Now if the ministry of death, which was engraved in letters on stone, came with such glory that the Israelites could not gaze at the face of Moses because of its fleeting glory,
@@ -10,7 +10,7 @@ If now the ministry <the> of death in letters engraved in stones was produced in
 > $\quad$ referencing: [[LXX.Exod.34.35|Exod 34:35]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

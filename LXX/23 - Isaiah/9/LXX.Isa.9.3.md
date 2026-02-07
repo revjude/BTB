@@ -1,10 +1,7 @@
 **LXX Isaiah 9:3** 
 <small><sub>**LXX:**</sub></small>
 The greatest part of the people you led down in gladness, and they shall be glad before you as the ones being glad in a harvest, and in which manner the ones dividing spoils. 
-<small><sub>**KJV:**</sub></small>
-Thou hast multiplied the nation, [and] not increased the joy: they joy before thee according to the joy in harvest, [and] as [men] rejoice when they divide the spoil.
-<small><sub>**BSB:**</sub></small>
-You have enlarged the nation and increased its joy. The people rejoice before You as they rejoice at harvest time, as men rejoice in dividing the plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.2|<< Isaiah 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.4|Isaiah 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

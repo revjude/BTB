@@ -1,10 +1,7 @@
 **LXX Numbers 6:27** 
 <small><sub>**LXX:**</sub></small>
 And they shall place  my name upon the sons of Israel, and I will bless them. 
-<small><sub>**KJV:**</sub></small>
-And they shall put my name upon the children of Israel; and I will bless them.
-<small><sub>**BSB:**</sub></small>
-So they shall put My name on the Israelites, and I will bless them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.26|<< Numbers 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.1|Numbers 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

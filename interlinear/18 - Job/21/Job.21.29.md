@@ -1,4 +1,4 @@
-**Job 21:29** 
+**Job 21:29**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have ye not asked them that go by the way? and do ye not know their tokens,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have you never asked those who travel the roads? Do you not accept their reports
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.28|<< Job 21:28]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.30|Job 21:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have you asked  |**<big>&#8207;[[H7592\|שְׁ֭אֶלְתֶּם]]&#8207; </big>**| She.'el.tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 19:24** 
 <small><sub>**LXX:**</sub></small>
 Behold, my daughter the virgin, and  his concubine; and I will bring them, and you humble them, and do to them the good \[thing\] in your eyes, but  to this man you should not do the thing  of this folly. 
-<small><sub>**KJV:**</sub></small>
-Behold, [here is] my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing.
-<small><sub>**BSB:**</sub></small>
-Look, let me bring out my virgin daughter and the man’s concubine, and you can use them and do with them as you wish. But do not do such a vile thing to this man.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.23|<< Judges 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.25|Judges 19:25 >>]]</td></tr></table>
 
 | Translation | Greek |

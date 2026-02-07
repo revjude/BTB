@@ -1,10 +1,7 @@
 **LXX Isaiah 2:20** 
 <small><sub>**LXX:**</sub></small>
  For that day a man will cast out  his abominations, the \[things\] made of silver and  gold which they made to do obeisance to the vain \[things\], and to the bats, 
-<small><sub>**KJV:**</sub></small>
-In that day a man shall cast his idols of silver, and his idols of gold, which they made [each one] for himself to worship, to the moles and to the bats;
-<small><sub>**BSB:**</sub></small>
-In that day men will cast away to the moles and bats their idols of silver and gold—the idols they made to worship.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.19|<< Isaiah 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.21|Isaiah 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

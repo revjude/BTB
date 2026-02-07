@@ -1,4 +1,4 @@
-**1 Kings 17:12** 
+**1 Kings 17:12**<big><big>[[1Kgs.17.8 The Widow of Zarephath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, [As] the LORD thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I [am] gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But she replied, “As surely as the LORD your God lives, I have no bread—only
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.11|<< 1 Kings 17:11]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.13|1 Kings 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֗אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [by] [the] life  |**<big>&#8207;[[H2416A\|חַי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chai-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

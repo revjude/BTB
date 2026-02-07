@@ -1,10 +1,7 @@
 **LXX Psalm 78:69** 
 <small><sub>**LXX:**</sub></small>
 And he built his sanctuary as \[the\] unicorn in the earth; he laid its foundation into the eon. 
-<small><sub>**KJV:**</sub></small>
-And he built his sanctuary like high [palaces], like the earth which he hath established for ever.
-<small><sub>**BSB:**</sub></small>
-He built His sanctuary like the heights, like the earth He has established forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.69|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.68|<< Psalm 78:68]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.70|Psalm 78:70 >>]]</td></tr></table>
 
 | Translation | Greek |

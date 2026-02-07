@@ -1,12 +1,12 @@
-**Matthew 1:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:10**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;
 <small><sub>**BSB:**</sub></small>
 Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,
 <small><sub>**Literal:**</sub></small>
 Hezekiah then begat <the> Manasseh; Manasseh then begat <the> Amos; Amos then begat <the> Josiah;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.9|<< Matthew 1:9]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.11|Matthew 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hezekiah |**<big>[[G1478\|Ἑζεκίας]]</big>**  |Hezekias <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

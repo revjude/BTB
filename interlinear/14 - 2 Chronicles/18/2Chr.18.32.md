@@ -1,4 +1,4 @@
-**2 Chronicles 18:32** 
+**2 Chronicles 18:32**<big><big>[[2Chr.18.28 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it came to pass, that, when the captains of the chariots perceived that it was not the king of Israel, they turned back again from pursuing him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when the chariot commanders saw that he was not the king of Israel, they tur
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.31|<< 2 Chronicles 18:31]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.33|2 Chronicles 18:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when saw  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7200G\|רְאוֹת֙]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> r.'Ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

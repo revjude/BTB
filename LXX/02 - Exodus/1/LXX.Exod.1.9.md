@@ -1,10 +1,7 @@
 **LXX Exodus 1:9** 
 <small><sub>**LXX:**</sub></small>
 And he said \[to\] his nation, Behold, the race of the sons of Israel \[are a\] great multitude, and they are strong above us. 
-<small><sub>**KJV:**</sub></small>
-And he said unto his people, Behold, the people of the children of Israel [are] more and mightier than we:
-<small><sub>**BSB:**</sub></small>
-“Look,” he said to his people, “the Israelites have become too numerous and too powerful for us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.8|<< Exodus 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.10|Exodus 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

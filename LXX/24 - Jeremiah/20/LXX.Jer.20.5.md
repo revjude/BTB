@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:5** 
 <small><sub>**LXX:**</sub></small>
 And I will put  all \[the\] strength  of this city, and all  its toils, and all the treasures of the king of Judah into \[the\] hands of his enemies, and they shall lead them into Babylon. 
-<small><sub>**KJV:**</sub></small>
-Moreover I will deliver all the strength of this city, and all the labours thereof, and all the precious things thereof, and all the treasures of the kings of Judah will I give into the hand of their enemies, which shall spoil them, and take them, and carry them to Babylon.
-<small><sub>**BSB:**</sub></small>
-I will give away all the wealth of this city—all its products and valuables, and all the treasures of the kings of Judah—to their enemies. They will plunder them, seize them, and carry them off to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.4|<< Jeremiah 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.6|Jeremiah 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

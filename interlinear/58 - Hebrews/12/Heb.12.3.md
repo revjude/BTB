@@ -1,12 +1,12 @@
-**Hebrews 12:3
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:3**<big><big>[[Heb.12.1 A Call to Endurance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds.
 <small><sub>**BSB:**</sub></small>
 Consider Him who endured such hostility from sinners, so that you will not grow weary and lose heart.
 <small><sub>**Literal:**</sub></small>
 do consider fully for the [One] such great having endured from <the> sinners against Himself hostility, so that not you may grow weary in the souls of you fainting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.2|<< Hebrews 12:2]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.4|Hebrews 12:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do consider fully |**<big>[[G0357\|ἀναλογίσασθε]]</big>**  |analogisasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

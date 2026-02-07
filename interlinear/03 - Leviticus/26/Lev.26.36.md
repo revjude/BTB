@@ -1,4 +1,4 @@
-**Leviticus 26:36** 
+**Leviticus 26:36**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon them that are left [alive] of you I will send a faintness into their hearts in the lands of their enemies; and the sound of a shaken leaf shall chase them; and they shall flee, as fleeing from a sword; and they shall fall when none pursueth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for those of you who survive, I will send a faintness into their hearts in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.35|<< Leviticus 26:35]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.37|Leviticus 26:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and those [who] remain  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7604\|נִּשְׁאָרִ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> nish.'a.Rim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among \<the> you  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9036\|כֶ֔ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

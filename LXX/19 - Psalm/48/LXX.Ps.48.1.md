@@ -6,10 +6,7 @@ A psalm; an ode to the sons of Korah; second Sabbath.
 
 <small><sub>**LXX:**</sub></small>
 Great \[is the\] <span class="smallcaps">lord</span>, and exceedingly praiseworthy in \[the\] city  of our God, in his holy mountain. 
-<small><sub>**KJV:**</sub></small>
-A Song [and] Psalm for the sons of Korah. Great [is] the LORD, and greatly to be praised in the city of our God, [in] the mountain of his holiness.
-<small><sub>**BSB:**</sub></small>
-A song. A Psalm of the sons of Korah. Great is the LORD, and greatly to be praised in the city of our God, His holy mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.48.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.47.9|<< Psalm 47:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.2|Psalm 48:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 48:1** is...

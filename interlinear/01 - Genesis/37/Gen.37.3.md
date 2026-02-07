@@ -1,4 +1,4 @@
-**Genesis 37:3** 
+**Genesis 37:3**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Israel loved Joseph more than all his children, because he [was] the son of his old age: and he made him a coat of [many] colours.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Israel loved Joseph more than his other sons, because Joseph had been born t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.2|<< Genesis 37:2]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.4|Genesis 37:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Israel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֗ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he loved  |**<big>&#8207;[[H0157G\|אָהַ֤ב]]&#8207; </big>**| 'a.Hav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

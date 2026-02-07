@@ -1,4 +1,4 @@
-**Jeremiah 32:9** 
+**Jeremiah 32:9**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I bought the field of Hanameel my uncle’s son, that [was] in Anathoth, and weighed him the money, [even] seventeen shekels of silver.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So I bought the field in Anathoth from my cousin Hanamel, and I weighed out seve
 > $\quad$ referenced by: [[Matt.27.9|Matt 27:9-10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I bought  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H7069\|אֶקְנֶה֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ek.Neh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

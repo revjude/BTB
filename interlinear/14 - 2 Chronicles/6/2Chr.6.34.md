@@ -1,4 +1,4 @@
-**2 Chronicles 6:34** 
+**2 Chronicles 6:34**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thy people go out to war against their enemies by the way that thou shalt send them, and they pray unto thee toward this city which thou hast chosen, and the house which I have built for thy name;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Your people go to war against their enemies, wherever You send them, and wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.33|<< 2 Chronicles 6:33]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.35|2 Chronicles 6:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will go forth  |**<big>&#8207;[[H3318G\|יֵצֵ֨א]]&#8207; </big>**| ye.Tze'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

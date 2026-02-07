@@ -1,4 +1,4 @@
-**Joshua 3:4** 
+**Joshua 3:4**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed [this] way heretofore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But keep a distance of about two thousand cubits between yourselves and the ark.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.3|<< Joshua 3:3]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.5|Joshua 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a distance  |**<big>&#8207;[[H7350\|רָח֣וֹק]]&#8207; </big>**| ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

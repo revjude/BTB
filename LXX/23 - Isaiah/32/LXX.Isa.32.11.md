@@ -1,10 +1,7 @@
 **LXX Isaiah 32:11** 
 <small><sub>**LXX:**</sub></small>
 Be amazed! the ones persuading fret! Strip! Become naked! Gird the loins! 
-<small><sub>**KJV:**</sub></small>
-Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird [sackcloth] upon [your] loins.
-<small><sub>**BSB:**</sub></small>
-Shudder, you ladies of leisure; tremble, you daughters of complacency. Strip yourselves bare and put sackcloth around your waists.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.10|<< Isaiah 32:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.12|Isaiah 32:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:24** 
 <small><sub>**LXX:**</sub></small>
 Only \[the\] hand of Ahikam son of Shaphan was with Jeremiah, \[so as\] to not deliver him into \[the\] hands of the people \[so as\] to not do away with him. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, Ahikam son of Shaphan supported Jeremiah, so he was not handed over to the people to be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.23|<< Jeremiah 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.1|Jeremiah 27:1 >>]]</td></tr></table>
 
 | Translation | Greek |

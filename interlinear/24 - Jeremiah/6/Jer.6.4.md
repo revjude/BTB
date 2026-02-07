@@ -1,4 +1,4 @@
-**Jeremiah 6:4** 
+**Jeremiah 6:4**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prepare ye war against her; arise, and let us go up at noon. Woe unto us! for the day goeth away, for the shadows of the evening are stretched out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Prepare ye war against her; arise, and let us go up at noon. Woe unto us! for th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.3|<< Jeremiah 6:3]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.5|Jeremiah 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | consecrate  |**<big>&#8207;[[H6942J\|קַדְּשׁ֤וּ]]&#8207; </big>**| ka.de.Shu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלֶ֙י]]&#8207;&#8207;[[H9034\|הָ֙]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

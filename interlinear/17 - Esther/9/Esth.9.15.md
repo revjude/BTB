@@ -1,4 +1,4 @@
-**Esther 9:15** 
+**Esther 9:15**<big><big>[[Esth.9.11 Haman’s Sons Hanged|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Jews that [were] in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the fourteenth day of the month of Adar, the Jews in Susa came together again
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.14|<< Esther 9:14]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.16|Esther 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6950\|יִּֽקָּהֲל֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.ha.Lu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Jews  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3064\|יְּהוּדִ֣ים]]&#8207; </big>**[^1] [^2] | hai.<small><sup>[[HTd]]</sup></small> ye.hu.di.yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

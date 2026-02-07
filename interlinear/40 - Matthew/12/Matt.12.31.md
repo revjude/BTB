@@ -1,12 +1,12 @@
-**Matthew 12:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:31**<big><big>[[Matt.12.31 The Unpardonable Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy [against] the [Holy] Ghost shall not be forgiven unto men.
 <small><sub>**BSB:**</sub></small>
 Therefore I tell you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven.
 <small><sub>**Literal:**</sub></small>
 Because of this I say to you; every sin and blasphemy will be forgiven <the> to men, <the> however against the Spirit blasphemy not will be forgiven to the men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.30|<< Matthew 12:30]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.32|Matthew 12:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

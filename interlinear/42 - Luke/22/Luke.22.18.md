@@ -1,12 +1,12 @@
-**Luke 22:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:18**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.
 <small><sub>**BSB:**</sub></small>
 For I tell you that I will not drink of the fruit of the vine from now on until the kingdom of God comes.”
 <small><sub>**Literal:**</sub></small>
 I say for to you; that certainly not shall I drink from <the> now of the fruit of the vine until that [time] the kingdom <the> of God may come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.17|<< Luke 22:17]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.19|Luke 22:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

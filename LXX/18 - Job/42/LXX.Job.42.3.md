@@ -1,10 +1,7 @@
 **LXX Job 42:3** 
 <small><sub>**LXX:**</sub></small>
 For who is the one hiding you counsel, and sparing words, and imagines to hide you? And who announces to me \[things\] which I knew not, great and wonderful, \[things\] which I had no knowledge? 
-<small><sub>**KJV:**</sub></small>
-Who [is] he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.
-<small><sub>**BSB:**</sub></small>
-You asked, ‘Who is this who conceals My counsel without knowledge?’ Surely I spoke of things I did not understand, things too wonderful for me to know.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.2|<< Job 42:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.4|Job 42:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 47:14** 
+**Ezekiel 47:14**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall inherit it, one as well as another: [concerning] the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to divide it equally among them. Because I swore with an uplifted hand t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.13|<< Ezekiel 47:13]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.15|Ezekiel 47:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will divide as possession  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5157\|נְחַלְתֶּ֤ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.chal.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אוֹתָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

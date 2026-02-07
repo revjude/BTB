@@ -1,12 +1,12 @@
-**Luke 10:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:30**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said, A certain [man] went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded [him], and departed, leaving [him] half dead.
 <small><sub>**BSB:**</sub></small>
 Jesus took up this question and said, “A man was going down from Jerusalem to Jericho when he fell into the hands of robbers. They stripped him, beat him, and went away, leaving him half dead.
 <small><sub>**Literal:**</sub></small>
 Having taken [it] up now <the> Jesus said; A man certain was going down from Jerusalem to Jericho and robbers fell among who both having stripped him and wounds having inflicted they went away having left [him] half dead state.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.29|<< Luke 10:29]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.31|Luke 10:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having taken [it] up |**<big>[[G5274\|ὑπολαβὼν]]</big>**  |hupolabōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="SBL+TR+Byz">ko</abbr> | |

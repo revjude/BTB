@@ -1,5 +1,5 @@
-**2 Peter 3:13
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:13**<big><big>[[2Pet.3.8 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.
 <small><sub>**BSB:**</sub></small>
 But in keeping with God’s promise, we are looking forward to a new heaven and a new earth, where righteousness dwells.
@@ -10,7 +10,7 @@ New however heavens and earth a new according to the promise of Him we are await
 > $\quad$ referencing: [[LXX.Isa.65.17|Isa 65:17]] ☩ [[LXX.Isa.66.22|Isa 66:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | New |**<big>[[G2537\|καινοὺς]]</big>**  |kainous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

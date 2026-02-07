@@ -1,4 +1,4 @@
-**Proverbs 25:20** 
+**Proverbs 25:20**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] he that taketh away a garment in cold weather, [and as] vinegar upon nitre, so [is] he that singeth songs to an heavy heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like one who removes a garment on a cold day or vinegar poured on a wound is one
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.19|<< Proverbs 25:19]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.21|Proverbs 25:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] removes  |**<big>&#8207;[[H5710A\|מַ֥עֲדֶה]]&#8207; </big>**| Ma.'a.deh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a garment  |**<big>&#8207;[[H0899B\|בֶּ֨גֶד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Be.ged<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

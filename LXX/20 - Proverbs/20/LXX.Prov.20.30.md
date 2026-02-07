@@ -1,10 +1,7 @@
 **LXX Proverbs 20:30** 
 <small><sub>**LXX:**</sub></small>
 Bruises and breaks meet with bad men; and calamities \[shall come\] to \[the\] storerooms of \[their\] bellies. 
-<small><sub>**KJV:**</sub></small>
-The blueness of a wound cleanseth away evil: so [do] stripes the inward parts of the belly.
-<small><sub>**BSB:**</sub></small>
-Lashes and wounds scour evil, and beatings cleanse the inmost parts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.29|<< Proverbs 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.1|Proverbs 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

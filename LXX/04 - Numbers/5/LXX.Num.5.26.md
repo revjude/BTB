@@ -1,10 +1,7 @@
 **LXX Numbers 5:26** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall grab from the sacrifice  as a memorial of it, and he shall offer it upon the altar; and after these \[things\] the woman to drink the water. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall take an handful of the offering, [even] the memorial thereof, and burn [it] upon the altar, and afterward shall cause the woman to drink the water.
-<small><sub>**BSB:**</sub></small>
-Then the priest is to take a handful of the grain offering as a memorial portion and burn it on the altar; after that he is to have the woman drink the water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.25|<< Numbers 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.27|Numbers 5:27 >>]]</td></tr></table>
 
 | Translation | Greek |

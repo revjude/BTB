@@ -1,10 +1,7 @@
 **LXX Psalm 105:39** 
 <small><sub>**LXX:**</sub></small>
 He opened and spread out a cloud for their protection, and fire  to give light to them  at night. 
-<small><sub>**KJV:**</sub></small>
-He spread a cloud for a covering; and fire to give light in the night.
-<small><sub>**BSB:**</sub></small>
-He spread a cloud as a covering and a fire to light up the night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.38|<< Psalm 105:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.40|Psalm 105:40 >>]]</td></tr></table>
 
 | Translation | Greek |

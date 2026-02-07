@@ -1,10 +1,7 @@
 **LXX Isaiah 29:10** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> has given you to drink a spirit of vexation. And he will close the eyelids  of their eyes, and  their prophets, and  their rulers, the ones seeing the hidden \[things\]. 
-<small><sub>**KJV:**</sub></small>
-For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
-<small><sub>**BSB:**</sub></small>
-For the LORD has poured out on you a spirit of deep sleep. He has shut your eyes, O prophets; He has covered your heads, O seers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.9|<< Isaiah 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.11|Isaiah 29:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 29:10** is...

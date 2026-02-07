@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:9** 
 <small><sub>**LXX:**</sub></small>
 For the eyes of \[the\] <span class="smallcaps">lord</span> look in all the earth to strengthen with every heart perfect towards him. You have known about this; from  now \[on\] war will be with you. 
-<small><sub>**KJV:**</sub></small>
-For the eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of [them] whose heart [is] perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.
-<small><sub>**BSB:**</sub></small>
-For the eyes of the LORD roam to and fro over all the earth, to show Himself strong on behalf of those whose hearts are fully devoted to Him. You have acted foolishly in this matter. From now on, therefore, you will be at war.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.8|<< 2 Chronicles 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.10|2 Chronicles 16:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Chronicles 16:9** is...

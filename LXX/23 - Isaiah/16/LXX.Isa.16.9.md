@@ -1,10 +1,7 @@
 **LXX Isaiah 16:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this I shall weep as the one weeping of Jazer \[for the\] grapevine of Sibmah;  Heshbon and Elealeh cast down your trees; for upon the harvest and upon the gathering of your crops I shall trample, and all shall fall. 
-<small><sub>**KJV:**</sub></small>
-Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen.
-<small><sub>**BSB:**</sub></small>
-So I weep with Jazer for the vines of Sibmah; I drench Heshbon and Elealeh with my tears. Triumphant shouts have fallen silent over your summer fruit and your harvest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.8|<< Isaiah 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.10|Isaiah 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

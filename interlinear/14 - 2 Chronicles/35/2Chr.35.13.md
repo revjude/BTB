@@ -1,4 +1,4 @@
-**2 Chronicles 35:13** 
+**2 Chronicles 35:13**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they roasted the passover with fire according to the ordinance: but the [other] holy [offerings] sod they in pots, and in caldrons, and in pans, and divided [them] speedily among all the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They roasted the Passover animals on the fire according to the regulation, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.12|<< 2 Chronicles 35:12]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.14|2 Chronicles 35:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cooked  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1310\|יְבַשְּׁל֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.she.Lu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the passover  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6453\|פֶּ֛סַח]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Pe.sach<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

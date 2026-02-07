@@ -1,10 +1,7 @@
 **LXX Numbers 21:30** 
 <small><sub>**LXX:**</sub></small>
 And  their seed shall perish -- Heshbon unto Dibon. And  their women still burn a fire over Moab. 
-<small><sub>**KJV:**</sub></small>
-We have shot at them; Heshbon is perished even unto Dibon, and we have laid them waste even unto Nophah, which [reacheth] unto Medeba.
-<small><sub>**BSB:**</sub></small>
-But we have overthrown them; Heshbon is destroyed as far as Dibon. We demolished them as far as Nophah, which reaches to Medeba.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.29|<< Numbers 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.31|Numbers 21:31 >>]]</td></tr></table>
 
 | Translation | Greek |

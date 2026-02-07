@@ -1,4 +1,4 @@
-**2 Chronicles 36:20** 
+**2 Chronicles 36:20**<big><big>[[2Chr.36.15 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who escaped the sword were carried by Nebuchadnezzar into exile in Babylon
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.19|<< 2 Chronicles 36:19]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.21|2 Chronicles 36:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took into exile  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1540K\|יֶּ֛גֶל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.gel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the remainder  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7611\|שְּׁאֵרִ֥ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.'e.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

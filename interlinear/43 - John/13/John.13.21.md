@@ -1,12 +1,12 @@
-**John 13:21
-**<small><sub>**KJV:**</sub></small>
+**John 13:21**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.
 <small><sub>**BSB:**</sub></small>
 After Jesus had said this, He became troubled in spirit and testified, “Truly, truly, I tell you, one of you will betray Me.”
 <small><sub>**Literal:**</sub></small>
 These things having said <the> Jesus was troubled <the> in spirit and He testified and said; Amen Amen I say to you that one of you will betray Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.20|<< John 13:20]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.22|John 13:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having said |**<big>[[G2036\|εἰπὼν]]</big>**  |eipōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

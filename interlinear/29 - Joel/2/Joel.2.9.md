@@ -1,4 +1,4 @@
-**Joel 2:9** 
+**Joel 2:9**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall run to and fro in the city; they shall run upon the wall, they shall climb up upon the houses; they shall enter in at the windows like a thief.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They storm the city; they run along the wall; they climb into houses, entering t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.8|<< Joel 2:8]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.10|Joel 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on the city  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they rush  |**<big>&#8207;[[H8264\|יָשֹׁ֗קּוּ]]&#8207; </big>**| ya.Sho.ku<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

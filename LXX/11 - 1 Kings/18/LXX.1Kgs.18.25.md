@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:25** 
 <small><sub>**LXX:**</sub></small>
 And Elijah said to the prophets of Baal, Choose for yourselves the one ox, and prepare it first! for you \[are\] many; and call in \[the\] name of your god, and do not put fire upon \[it\]! 
-<small><sub>**KJV:**</sub></small>
-And Elijah said unto the prophets of Baal, Choose you one bullock for yourselves, and dress [it] first; for ye [are] many; and call on the name of your gods, but put no fire [under].
-<small><sub>**BSB:**</sub></small>
-Then Elijah said to the prophets of Baal, “Since you are so numerous, choose for yourselves one bull and prepare it first. Then call on the name of your god, but do not light the fire.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.24|<< 1 Kings 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.26|1 Kings 18:26 >>]]</td></tr></table>
 
 | Translation | Greek |

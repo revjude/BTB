@@ -1,12 +1,12 @@
-**Matthew 22:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:16**<big><big>[[Matt.22.15 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any [man]: for thou regardest not the person of men.
 <small><sub>**BSB:**</sub></small>
 They sent their disciples to Him along with the Herodians. “Teacher,” they said, “we know that You are honest and that You teach the way of God in accordance with the truth. You seek favor from no one, because You pay no attention to external appearance.
 <small><sub>**Literal:**</sub></small>
 And they send to Him the disciples of them with the Herodians saying; Teacher, we know that true You are and the way <the> of God in [the] truth You teach, and not there is care to You about no [one], not for You look on [the] appearance of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.15|<< Matthew 22:15]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.17|Matthew 22:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they send |**<big>[[G0649\|ἀποστέλλουσιν]]</big>**  |apostellousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

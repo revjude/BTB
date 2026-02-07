@@ -1,4 +1,4 @@
-**1 Kings 8:50** 
+**1 Kings 8:50**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And forgive thy people that have sinned against thee, and all their transgressions wherein they have transgressed against thee, and give them compassion before them who carried them captive, that they may have compassion on them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May You forgive Your people who have sinned against You and all the transgressio
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.49|<< 1 Kings 8:49]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.51|1 Kings 8:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will forgive  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5545\|סָלַחְתָּ֤]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.lach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> people your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

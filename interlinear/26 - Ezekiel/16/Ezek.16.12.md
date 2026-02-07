@@ -1,4 +1,4 @@
-**Ezekiel 16:12** 
+**Ezekiel 16:12**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I put a jewel on thy forehead, and earrings in thine ears, and a beautiful crown upon thine head.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I put a ring in your nose, earrings on your ears, and a beautiful crown upon you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.11|<< Ezekiel 16:11]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.13|Ezekiel 16:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I put  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5414H\|אֶתֵּ֥ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Ten<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a ring  |**<big>&#8207;[[H5141\|נֶ֙זֶם֙]]&#8207; </big>**| ne.zem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

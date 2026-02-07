@@ -1,10 +1,7 @@
 **LXX Numbers 20:21** 
 <small><sub>**LXX:**</sub></small>
 And Edom did not want to give \[permission\]  to Israel to go through  his borders. And Israel turned aside from him. 
-<small><sub>**KJV:**</sub></small>
-Thus Edom refused to give Israel passage through his border: wherefore Israel turned away from him.
-<small><sub>**BSB:**</sub></small>
-So Edom refused to allow Israel to pass through their territory, and Israel turned away from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.20|<< Numbers 20:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.22|Numbers 20:22 >>]]</td></tr></table>
 
 | Translation | Greek |

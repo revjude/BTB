@@ -1,10 +1,7 @@
 **LXX Psalm 96:8** 
 <small><sub>**LXX:**</sub></small>
 Bring to the <span class="smallcaps">lord</span> glory for his name! Carry sacrifices, and enter into  his courtyards! 
-<small><sub>**KJV:**</sub></small>
-Give unto the LORD the glory [due unto] his name: bring an offering, and come into his courts.
-<small><sub>**BSB:**</sub></small>
-Ascribe to the LORD the glory due His name; bring an offering and enter His courts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.96.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.7|<< Psalm 96:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.9|Psalm 96:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ruth 1:7** 
 <small><sub>**LXX:**</sub></small>
 And she went forth from out of the place of which she was there, and  her two daughter-in-laws with her; and they went by  journey  to return to the land of Judah. 
-<small><sub>**KJV:**</sub></small>
-Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.
-<small><sub>**BSB:**</sub></small>
-Accompanied by her two daughters-in-law, she left the place where she had been living and set out on the road leading back to the land of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.6|<< Ruth 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.8|Ruth 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

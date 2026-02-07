@@ -1,4 +1,4 @@
-**Isaiah 40:6** 
+**Isaiah 40:6**<big><big>[[Isa.40.6 The Enduring Word|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice said, Cry. And he said, What shall I cry? All flesh [is] grass, and all the goodliness thereof [is] as the flower of the field:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ A voice says, “Cry out!” And I asked, “What should I cry out?” “All fl
 > $\quad$ referenced by: [[Jas.1.10|Jas 1:10-11]] ☩ [[1Pet.1.24|1Pet 1:24-25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a voice  |**<big>&#8207;[[H6963A\|ק֚וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] saying  |**<big>&#8207;[[H0559\|אֹמֵ֣ר]]&#8207; </big>**| 'o.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

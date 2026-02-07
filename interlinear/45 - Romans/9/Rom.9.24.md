@@ -1,12 +1,12 @@
-**Romans 9:24
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:24**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
 <small><sub>**BSB:**</sub></small>
 including us, whom He has called not only from the Jews, but also from the Gentiles?
 <small><sub>**Literal:**</sub></small>
 whom even He has called us not only out from [the] Jews but also out from [the] Gentiles,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.23|<< Romans 9:23]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.25|Romans 9:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|οὓς]]</big>**  |hous <small><sup>[[R-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

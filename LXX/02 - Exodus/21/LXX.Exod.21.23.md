@@ -1,10 +1,7 @@
 **LXX Exodus 21:23** 
 <small><sub>**LXX:**</sub></small>
 And if it should be completely formed, he shall give life for life, 
-<small><sub>**KJV:**</sub></small>
-And if [any] mischief follow, then thou shalt give life for life,
-<small><sub>**BSB:**</sub></small>
-But if a serious injury results, then you must require a life for a life—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.22|<< Exodus 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.24|Exodus 21:24 >>]]</td></tr></table>
 
 | Translation | Greek |

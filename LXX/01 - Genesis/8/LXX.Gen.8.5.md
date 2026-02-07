@@ -1,10 +1,7 @@
 **LXX Genesis 8:5** 
 <small><sub>**LXX:**</sub></small>
 And the water going forth lessened unto the tenth month. In the first of the month, the heads of the mountains appeared. 
-<small><sub>**KJV:**</sub></small>
-And the waters decreased continually until the tenth month: in the tenth [month], on the first [day] of the month, were the tops of the mountains seen.
-<small><sub>**BSB:**</sub></small>
-And the waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains became visible.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.4|<< Genesis 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.6|Genesis 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

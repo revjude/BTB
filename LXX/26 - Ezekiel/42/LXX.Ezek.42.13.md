@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:13** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, The inner chambers, the ones towards \[the\] north, and the inner chambers, the ones towards \[the\] south, being in front of the intervals, these are the inner chambers of the holy place, in which the priests approaching to \[the\] <span class="smallcaps">lord</span> eat there, the holy \[things\] of the holies; and there they shall put the holy \[things\] of the holies, and the sacrifice \[offering\], and the \[things\] for a sin \[offering\], and the \[things\] for an ignorance \[offering\]; because the place \[is\] holy. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, The north chambers [and] the south chambers, which [are] before the separate place, they [be] holy chambers, where the priests that approach unto the LORD shall eat the most holy things: there shall they lay the most holy things, and the meat offering, and the sin offering, and the trespass offering; for the place [is] holy.
-<small><sub>**BSB:**</sub></small>
-Then the man said to me, “The north and south chambers facing the temple courtyard are the holy chambers where the priests who approach the LORD will eat the most holy offerings. There they will place the most holy offerings—the grain offerings, the sin offerings, and the guilt offerings—for the place is holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.12|<< Ezekiel 42:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.14|Ezekiel 42:14 >>]]</td></tr></table>
 
 | Translation | Greek |

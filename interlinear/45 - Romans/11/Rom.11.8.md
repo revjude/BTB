@@ -1,5 +1,5 @@
-**Romans 11:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:8**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.
 <small><sub>**BSB:**</sub></small>
 as it is written: “God gave them a spirit of stupor, eyes that could not see, and ears that could not hear, to this very day.”
@@ -11,7 +11,7 @@ even as it has been written: Gave to them <the> God a spirit of stupor, eyes <th
 > $\quad$ alluding to: [[LXX.Isa.6.9|Isa 6:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as [^1] |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(o)</abbr> | |
 | it has been written: |**<big>[[G1125\|γέγραπται·]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

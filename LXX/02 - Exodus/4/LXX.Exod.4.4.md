@@ -1,10 +1,7 @@
 **LXX Exodus 4:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Stretch out the hand, and take hold of the tail! Stretching out then the hand, he took hold of the tail, and it became a rod in  his hand -- 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:
-<small><sub>**BSB:**</sub></small>
-“Stretch out your hand and grab it by the tail,” the LORD said to Moses, who reached out his hand and caught the snake, and it turned back into a staff in his hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.3|<< Exodus 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.5|Exodus 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

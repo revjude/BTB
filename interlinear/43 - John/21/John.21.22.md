@@ -1,12 +1,12 @@
-**John 21:22
-**<small><sub>**KJV:**</sub></small>
+**John 21:22**<big><big>[[John.21.20 Jesus and the Beloved Disciple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto him, If I will that he tarry till I come, what [is that] to thee? follow thou me.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “If I want him to remain until I return, what is that to you? You follow Me!”
 <small><sub>**Literal:**</sub></small>
 Says to him <the> Jesus; If him I shall desire to remain until I come, what [is it] to you? You yourself Me do follow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.21|<< John 21:21]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.23|John 21:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

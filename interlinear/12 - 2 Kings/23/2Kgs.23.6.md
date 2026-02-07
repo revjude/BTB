@@ -1,4 +1,4 @@
-**2 Kings 23:6** 
+**2 Kings 23:6**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought out the grove from the house of the LORD, without Jerusalem, unto the brook Kidron, and burned it at the brook Kidron, and stamped [it] small to powder, and cast the powder thereof upon the graves of the children of the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He brought the Asherah pole from the house of the LORD to the Kidron Valley outs
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.5|<< 2 Kings 23:5]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.7|2 Kings 23:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יֹּצֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tze'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

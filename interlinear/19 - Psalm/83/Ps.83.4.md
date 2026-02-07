@@ -1,4 +1,4 @@
-**Psalms 83:4** (83:5)
+**Psalms 83:4**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have said, Come, and let us cut them off from [being] a nation; that the name of Israel may be no more in remembrance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ saying, “Come, let us erase them as a nation; may the name of Israel be rememb
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.3|<< Psalms 83:3]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.5|Psalms 83:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have said  |**<big>&#8207;[[H0559\|אָמְר֗וּ]]&#8207; </big>**| 'a.me.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | come  |**<big>&#8207;[[H1980K\|לְ֭כוּ]]&#8207; </big>**| Le.khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

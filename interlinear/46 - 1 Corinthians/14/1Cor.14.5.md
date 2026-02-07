@@ -1,12 +1,12 @@
-**1 Corinthians 14:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:5**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I would that ye all spake with tongues, but rather that ye prophesied: for greater [is] he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.
 <small><sub>**BSB:**</sub></small>
 I wish that all of you could speak in tongues, but I would rather have you prophesy. He who prophesies is greater than one who speaks in tongues, unless he interprets so that the church may be edified.
 <small><sub>**Literal:**</sub></small>
 I desire now all you to speak in tongues, rather however that you may prophesy; greater [is] now the [one] prophesying than the [one] speaking in tongues except only unless he shall interpret, so that the church edification may receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.4|<< 1 Corinthians 14:4]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.6|1 Corinthians 14:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I desire |**<big>[[G2309\|Θέλω]]</big>**  |Thelō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

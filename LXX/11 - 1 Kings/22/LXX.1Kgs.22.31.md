@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:31** 
 <small><sub>**LXX:**</sub></small>
 And the king of Syria gave charge to the rulers  of his chariots -- thirty and two, saying, Do not do battle against \[the\] small or great, but the king of Israel alone. 
-<small><sub>**KJV:**</sub></small>
-But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel.
-<small><sub>**BSB:**</sub></small>
-Now the king of Aram had ordered his thirty-two chariot commanders, “Do not fight with anyone, small or great, except the king of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.30|<< 1 Kings 22:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.32|1 Kings 22:32 >>]]</td></tr></table>
 
 | Translation | Greek |

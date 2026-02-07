@@ -1,12 +1,12 @@
-**1 Corinthians 14:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:3**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that prophesieth speaketh unto men [to] edification, and exhortation, and comfort.
 <small><sub>**BSB:**</sub></small>
 But he who prophesies speaks to men for their edification, encouragement, and comfort.
 <small><sub>**Literal:**</sub></small>
 The [one] however prophesying to men speaks [for] edification and encouragement and consolation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.2|<< 1 Corinthians 14:2]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.4|1 Corinthians 14:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

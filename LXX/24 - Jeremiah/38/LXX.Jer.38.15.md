@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:15** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah said to the king, If I should announce to you, will you not to death put me to death? and if I shall advise you, in no way shall you hear me. 
-<small><sub>**KJV:**</sub></small>
-Then Jeremiah said unto Zedekiah, If I declare [it] unto thee, wilt thou not surely put me to death? and if I give thee counsel, wilt thou not hearken unto me?
-<small><sub>**BSB:**</sub></small>
-“If I tell you,” Jeremiah replied, “you will surely put me to death. And even if I give you advice, you will not listen to me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.14|<< Jeremiah 38:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.16|Jeremiah 38:16 >>]]</td></tr></table>
 
 | Translation | Greek |

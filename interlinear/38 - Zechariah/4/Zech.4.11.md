@@ -1,4 +1,4 @@
-**Zechariah 4:11** 
+**Zechariah 4:11**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered I, and said unto him, What [are] these two olive trees upon the right [side] of the candlestick and upon the left [side] thereof?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then I asked the angel, “What are the two olive trees on the right and left of
 > $\quad$ referenced by: [[Rev.11.4|Rev 11:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I answered  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6030B\|אַ֖עַן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'A.'an<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֣ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

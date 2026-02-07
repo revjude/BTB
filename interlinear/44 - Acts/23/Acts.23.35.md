@@ -1,12 +1,12 @@
-**Acts 23:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:35**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I will hear thee, said he, when thine accusers are also come. And he commanded him to be kept in Herod’s judgment hall.
 <small><sub>**BSB:**</sub></small>
 he said, “I will hear your case when your accusers arrive.” Then he ordered that Paul be kept under guard in Herod’s Praetorium.
 <small><sub>**Literal:**</sub></small>
 I will hear fully you, he was saying, when also the accusers of you may have arrived. having commanded then in the Praetorium <the> of Herod to be guarded him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.34|<< Acts 23:34]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.1|Acts 24:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will hear fully |**<big>[[G1251\|διακούσομαί]]</big>**  |diakousomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you, |**<big>[[G4771\|σου,]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

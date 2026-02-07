@@ -1,4 +1,4 @@
-**Hosea 5:11** 
+**Hosea 5:11**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim [is] oppressed [and] broken in judgment, because he willingly walked after the commandment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ephraim is oppressed, crushed in judgment, for he is determined to follow worthl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.10|<< Hosea 5:10]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.12|Hosea 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] oppressed  |**<big>&#8207;[[H6231\|עָשׁ֥וּק]]&#8207; </big>**| 'a.Shuk<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֖יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 14:5** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall assign, and they shall slay the one small bird into an earthenware receptacle over living water. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall command that one of the birds be killed in an earthen vessel over running water:
-<small><sub>**BSB:**</sub></small>
-Then the priest shall command that one of the birds be slaughtered over fresh water in a clay pot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.4|<< Leviticus 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.6|Leviticus 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

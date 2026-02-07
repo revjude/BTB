@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:28** 
 <small><sub>**LXX:**</sub></small>
 And Eliab his older brother heard in  his speaking to the men, and Eliab became angry with rage with  David, and said, Why \[is\] this you came down, and for why did you leave  those small sheep in the wilderness? I know  your pride, and the evil  of your heart; that because of  seeing the war you came down. 
-<small><sub>**KJV:**</sub></small>
-And Eliab his eldest brother heard when he spake unto the men; and Eliab’s anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle.
-<small><sub>**BSB:**</sub></small>
-Now when David’s oldest brother Eliab heard him speaking to the men, his anger burned against David. “Why have you come down here?” he asked. “And with whom did you leave those few sheep in the wilderness? I know your pride and wickedness of heart—you have come down to see the battle!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.27|<< 1 Samuel 17:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.29|1 Samuel 17:29 >>]]</td></tr></table>
 
 | Translation | Greek |

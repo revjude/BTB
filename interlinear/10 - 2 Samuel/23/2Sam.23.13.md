@@ -1,4 +1,4 @@
-**2 Samuel 23:13** 
+**2 Samuel 23:13**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At harvest time, three of the thirty chief men went down to David at the cave of
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.12|<< 2 Samuel 23:12]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.14|2 Samuel 23:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּרְד֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.re.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  [^1]|**<big>&#8207;[[H7969\|שְׁלֹשָׁ֜ה]]&#8207; </big>**[^2] | she.lo.shim<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

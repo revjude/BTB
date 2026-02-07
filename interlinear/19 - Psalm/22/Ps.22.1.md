@@ -1,6 +1,6 @@
-**Psalms 22:1** (22:2)
+**Psalms 22:1**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician upon Aijeleth Shahar, A Psalm of David. My God, my God, why hast thou forsaken me? [why art thou so] far from helping me, [and from] the words of my roaring?
+My God, my God, why hast thou forsaken me? [why art thou so] far from helping me, [and from] the words of my roaring?
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David. My God, my God, why have You forsaken me? Why are You so far from saving me, so far from my words of groaning?
 <small><sub>**LXX:**</sub></small>
@@ -10,7 +10,7 @@ For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.46|Matt 27:46]] ☩ [[Mark.15.34|Mark 15:34]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God my  |**<big>&#8207;[[H0410G\|אֵלִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God my  |**<big>&#8207;[[H0410G\|אֵ֭לִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'E.l<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

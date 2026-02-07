@@ -1,10 +1,7 @@
 **LXX Psalm 59:16** 
 <small><sub>**LXX:**</sub></small>
 But I shall sing \[to\] your power, and I shall exult in the morning  of your mercy; for you became my shielder and my refuge in \[the\] day of my affliction. 
-<small><sub>**KJV:**</sub></small>
-But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.
-<small><sub>**BSB:**</sub></small>
-But I will sing of Your strength and proclaim Your loving devotion in the morning. For You are my fortress, my refuge in times of trouble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.59.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.15|<< Psalm 59:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.17|Psalm 59:17 >>]]</td></tr></table>
 
 | Translation | Greek |

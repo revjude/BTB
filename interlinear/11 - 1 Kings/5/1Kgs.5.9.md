@@ -1,4 +1,4 @@
-**1 Kings 5:9** (5:23)
+**1 Kings 5:9**<big><big>[[1Kgs.5.7 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My servants shall bring [them] down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive [them]: and thou shalt accomplish my desire, in giving food for my household.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My servants will haul the logs from Lebanon to the Sea, and I will float them as
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.8|<< 1 Kings 5:8]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.10|1 Kings 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | servants my  |**<big>&#8207;[[H5650\|עֲ֠בָדַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'A.va.da<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will bring [them] down  |**<big>&#8207;[[H3381\|יֹרִ֨דוּ]]&#8207; </big>**| yo.Ri.du<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

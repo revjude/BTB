@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:7** 
 <small><sub>**LXX:**</sub></small>
 For Athaliah was lawless, and  her sons tore down the house  of God; and also all the holy \[things\] of \[the\] house of \[the\] <span class="smallcaps">lord</span> they appointed to the Baals. 
-<small><sub>**KJV:**</sub></small>
-For the sons of Athaliah, that wicked woman, had broken up the house of God; and also all the dedicated things of the house of the LORD did they bestow upon Baalim.
-<small><sub>**BSB:**</sub></small>
-For the sons of that wicked woman Athaliah had broken into the house of God and had even used the sacred objects of the house of the LORD for the Baals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.6|<< 2 Chronicles 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.8|2 Chronicles 24:8 >>]]</td></tr></table>
 
 | Translation | Greek |

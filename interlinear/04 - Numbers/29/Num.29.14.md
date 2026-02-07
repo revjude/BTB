@@ -1,4 +1,4 @@
-**Numbers 29:14** 
+**Numbers 29:14**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their meat offering [shall be of] flour mingled with oil, three tenth deals unto every bullock of the thirteen bullocks, two tenth deals to each ram of the two rams,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ along with the grain offering of three-tenths of an ephah of fine flour mixed wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.13|<< Numbers 29:13]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.15|Numbers 29:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and grain offering their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4503G\|מִנְחָתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min.cha.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fine flour  |**<big>&#8207;[[H5560\|סֹ֖לֶת]]&#8207; </big>**| So.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

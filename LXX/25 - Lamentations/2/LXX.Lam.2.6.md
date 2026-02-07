@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΟΥΑΥ</p>
 
 And he opened and spread out his tent as a grapevine. his holiday \[feast\] was corrupted. \[The\] <span class="smallcaps">lord</span> forgot what he appointed in Zion -- \[the\] holiday \[feast\] and \[the\] Sabbath; and \[the\] threatening of his anger provoked king and priest. 
-<small><sub>**KJV:**</sub></small>
-And he hath violently taken away his tabernacle, as [if it were of] a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest.
-<small><sub>**BSB:**</sub></small>
-He has laid waste His tabernacle like a garden booth; He has destroyed His place of meeting. The LORD has made Zion forget her appointed feasts and Sabbaths. In His fierce anger He has despised both king and priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.5|<< Lamentations 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.7|Lamentations 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

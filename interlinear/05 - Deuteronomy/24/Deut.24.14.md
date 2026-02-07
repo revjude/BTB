@@ -1,4 +1,4 @@
-**Deuteronomy 24:14** 
+**Deuteronomy 24:14**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not oppress an hired servant [that is] poor and needy, [whether he be] of thy brethren, or of thy strangers that [are] in thy land within thy gates:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not oppress a hired hand who is poor and needy, whether he is a brother or a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.13|<< Deuteronomy 24:13]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.15|Deuteronomy 24:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must oppress  |**<big>&#8207;[[H6231\|תַעֲשֹׁ֥ק]]&#8207; </big>**| ta.'a.Shok<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

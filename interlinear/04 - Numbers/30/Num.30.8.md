@@ -1,4 +1,4 @@
-**Numbers 30:8** (30:9)
+**Numbers 30:8**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if her husband disallowed her on the day that he heard [it]; then he shall make her vow which she vowed, and that which she uttered with her lips, wherewith she bound her soul, of none effect: and the LORD shall forgive her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if her husband prohibits her when he hears of it, he nullifies the vow that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.7|<< Numbers 30:7]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.9|Numbers 30:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0518A\|אִם]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|י֨וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 31:3** (31:4)
+**Psalms 31:3**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou [art] my rock and my fortress; therefore for thy name’s sake lead me, and guide me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You are my rock and my fortress; lead me and guide me for the sake of Your n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.2|<< Psalms 31:2]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.4|Psalms 31:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] rock my  |**<big>&#8207;[[H5553H\|סַלְעִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| sal.'<small><sup>[[HNcmsc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

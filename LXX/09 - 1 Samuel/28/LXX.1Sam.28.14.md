@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:14** 
 <small><sub>**LXX:**</sub></small>
 And he said to her, What did you perceive? And she said to him, An aged man ascending being cloaked in a double-garment. And Saul knew that this \[was\] Samuel. And he bowed upon \[the\] face upon the ground, and he did obeisance to him. 
-<small><sub>**KJV:**</sub></small>
-And he said unto her, What form [is] he of? And she said, An old man cometh up; and he [is] covered with a mantle. And Saul perceived that it [was] Samuel, and he stooped with [his] face to the ground, and bowed himself.
-<small><sub>**BSB:**</sub></small>
-“What does he look like?” asked Saul. “An old man is coming up,” she replied. “And he is wearing a robe.” So Saul knew that it was Samuel, and he bowed facedown in reverence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.13|<< 1 Samuel 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.15|1 Samuel 28:15 >>]]</td></tr></table>
 
 | Translation | Greek |

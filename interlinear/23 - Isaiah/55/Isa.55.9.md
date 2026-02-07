@@ -1,4 +1,4 @@
-**Isaiah 55:9** 
+**Isaiah 55:9**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [as] the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For [as] the heavens are higher than the earth, so are my ways higher than your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.8|<< Isaiah 55:8]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.10|Isaiah 55:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are high  |**<big>&#8207;[[H1361\|גָבְה֥וּ]]&#8207; </big>**| ga.ve.Hu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

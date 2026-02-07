@@ -1,4 +1,4 @@
-**Psalms 114:4** 
+**Psalms 114:4**<big><big>[[Ps.114.1 A Psalm of Exodus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mountains skipped like rams, [and] the little hills like lambs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the mountains skipped like rams, the hills like lambs.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.114.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.114.3|<< Psalms 114:3]]</td><td align="center" style="border:none;">[[Ps.114|Psalms 114]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.114.5|Psalms 114:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the mountains  |**<big>&#8207;[[H9009\|הֶֽ֭]]&#8207;&#8207;[[H2022G\|הָרִים]]&#8207; </big>**| He.<small><sup>[[HTd]]</sup></small> ha.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they skipped about  |**<big>&#8207;[[H7540\|רָקְד֣וּ]]&#8207; </big>**| ra.ke.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

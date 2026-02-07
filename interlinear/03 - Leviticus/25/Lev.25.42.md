@@ -1,4 +1,4 @@
-**Leviticus 25:42** 
+**Leviticus 25:42**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [are] my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because the Israelites are My servants, whom I brought out of the land of Egypt,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.41|<< Leviticus 25:41]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.43|Leviticus 25:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] servants my  |**<big>&#8207;[[H5650\|עֲבָדַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

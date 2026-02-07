@@ -1,4 +1,4 @@
-**1 Samuel 21:6** (21:7)
+**1 Samuel 21:6**<big><big>[[1Sam.21.1 David Takes the Consecrated Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the priest gave him hallowed [bread]: for there was no bread there but the shewbread, that was taken from before the LORD, to put hot bread in the day when it was taken away.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the priest gave him the consecrated bread, since there was no bread there but
 > $\quad$ referenced by: [[Matt.12.3|Matt 12:3]] ☩ [[Mark.2.25|Mark 2:25-26]] ☩ [[Luke.6.3|Luke 6:3-4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ten-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

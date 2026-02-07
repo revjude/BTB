@@ -1,4 +1,4 @@
-**1 Samuel 28:19** 
+**1 Samuel 28:19**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the LORD will also deliver Israel with thee into the hand of the Philistines: and to morrow [shalt] thou and thy sons [be] with me: the LORD also shall deliver the host of Israel into the hand of the Philistines.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, the LORD will deliver Israel with you into the hand of the Philistines
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.18|<< 1 Samuel 28:18]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.20|1 Samuel 28:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so he may give  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414G\|יִתֵּ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.Ten<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֠הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

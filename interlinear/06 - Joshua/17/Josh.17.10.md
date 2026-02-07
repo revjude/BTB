@@ -1,4 +1,4 @@
-**Joshua 17:10** 
+**Joshua 17:10**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Southward [it was] Ephraim’s, and northward [it was] Manasseh’s, and the sea is his border; and they met together in Asher on the north, and in Issachar on the east.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ephraim’s territory was to the south, and Manasseh’s was to the north, havin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.9|<< Joshua 17:9]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.11|Joshua 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | south -ward  |**<big>&#8207;[[H5045H\|נֶ֣גְבָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Neg.ba<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belonged] to Ephraim  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0669G\|אֶפְרַ֗יִם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

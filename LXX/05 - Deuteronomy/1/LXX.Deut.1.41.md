@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:41** 
 <small><sub>**LXX:**</sub></small>
 And you answered and said to me, We sinned before \[the\] <span class="smallcaps">lord</span>  our God; we, in ascending, shall wage war according to all as much as \[the\] <span class="smallcaps">lord</span> our God gave charge to us. And each taking up the items  for his warfare, and gathering together, ascended into the mountain. 
-<small><sub>**KJV:**</sub></small>
-Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.
-<small><sub>**BSB:**</sub></small>
-“We have sinned against the LORD,” you replied. “We will go up and fight, as the LORD our God has commanded us.” Then each of you put on his weapons of war, thinking it easy to go up into the hill country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.40|<< Deuteronomy 1:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.42|Deuteronomy 1:42 >>]]</td></tr></table>
 
 | Translation | Greek |

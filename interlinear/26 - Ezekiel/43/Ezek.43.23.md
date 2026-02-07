@@ -1,4 +1,4 @@
-**Ezekiel 43:23** 
+**Ezekiel 43:23**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou hast made an end of cleansing [it], thou shalt offer a young bullock without blemish, and a ram out of the flock without blemish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you have finished the purification, you are to present a young, unblemished
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.22|<< Ezekiel 43:22]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.24|Ezekiel 43:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when finishing you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3615G\|כַלּוֹתְ]]&#8207;&#8207;[[H9041\|ךָ֖]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kha.lot.<small><sup>[[HVpcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from cleansing [it] from sin  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H2398\|חַטֵּ֑א]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.Te'<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

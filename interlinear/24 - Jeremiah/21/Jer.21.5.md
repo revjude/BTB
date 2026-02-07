@@ -1,4 +1,4 @@
-**Jeremiah 21:5** 
+**Jeremiah 21:5**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I Myself will fight against you with an outstretched hand and a mighty arm, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.4|<< Jeremiah 21:4]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.6|Jeremiah 21:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will fight  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3898A\|נִלְחַמְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nil.cham.Ti<small><sup>[[HVNq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

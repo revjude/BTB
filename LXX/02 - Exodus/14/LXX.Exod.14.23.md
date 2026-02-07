@@ -1,10 +1,7 @@
 **LXX Exodus 14:23** 
 <small><sub>**LXX:**</sub></small>
 And the Egyptians pursued. And all the cavalry of Pharaoh entered after them, and the chariots, and the riders in \[the\] midst of the sea. 
-<small><sub>**KJV:**</sub></small>
-And the Egyptians pursued, and went in after them to the midst of the sea, [even] all Pharaoh’s horses, his chariots, and his horsemen.
-<small><sub>**BSB:**</sub></small>
-And the Egyptians chased after them—all Pharaoh’s horses, chariots, and horsemen—and followed them into the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.22|<< Exodus 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.24|Exodus 14:24 >>]]</td></tr></table>
 
 | Translation | Greek |

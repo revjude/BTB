@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:25** 
 <small><sub>**LXX:**</sub></small>
 And you said, The way \[of the\] <span class="smallcaps">lord</span> is not straight. Hear indeed house of Israel! Is  my way not straight? Is it  \[that\] your ways \[are\] straight? 
-<small><sub>**KJV:**</sub></small>
-Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?
-<small><sub>**BSB:**</sub></small>
-Yet you say, ‘The way of the Lord is not just.’ Hear now, O house of Israel: Is it My way that is unjust? Is it not your ways that are unjust?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.24|<< Ezekiel 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.26|Ezekiel 18:26 >>]]</td></tr></table>
 
 | Translation | Greek |

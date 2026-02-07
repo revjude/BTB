@@ -1,10 +1,7 @@
 **LXX Exodus 10:5** 
 <small><sub>**LXX:**</sub></small>
 And the appearance of the earth will be covered, and you will not be able to look down \[at\] the ground, and will be eaten up all the extra  being left behind which the hail left behind for you. And will be eaten up every  tree  germinating of yours upon the land. 
-<small><sub>**KJV:**</sub></small>
-And they shall cover the face of the earth, that one cannot be able to see the earth: and they shall eat the residue of that which is escaped, which remaineth unto you from the hail, and shall eat every tree which groweth for you out of the field:
-<small><sub>**BSB:**</sub></small>
-They will cover the face of the land so that no one can see it. They will devour whatever is left after the hail and eat every tree that grows in your fields.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.4|<< Exodus 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.6|Exodus 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

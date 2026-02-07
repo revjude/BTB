@@ -1,12 +1,12 @@
-**Romans 16:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:18**<big><big>[[Rom.16.17 Avoid Divisions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
 <small><sub>**BSB:**</sub></small>
 For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the hearts of the naive.
 <small><sub>**Literal:**</sub></small>
 <the> For such the Lord of us Jesus Christ not serve but the their own belly, and through <the> smooth talk and flattery they deceive the hearts of the naive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.17|<< Romans 16:17]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.19|Romans 16:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

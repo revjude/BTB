@@ -1,5 +1,5 @@
-**Titus 2:14
-**<small><sub>**KJV:**</sub></small>
+**Titus 2:14**<big><big>[[Titus.2.11 God’s Grace Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.
 <small><sub>**BSB:**</sub></small>
 He gave Himself for us to redeem us from all lawlessness and to purify for Himself a people for His own possession, zealous for good deeds.
@@ -10,7 +10,7 @@ who gave Himself for us that He may redeem us from all lawlessness and may purif
 > $\quad$ alluding to: [[LXX.Deut.14.2|Deut 14:2]] ☩ [[LXX.Ps.130.8|Ps 130:8]] ☩ [[LXX.Ezek.37.23|Ezek 37:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | gave |**<big>[[G1325\|ἔδωκεν]]</big>**  |edōken <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

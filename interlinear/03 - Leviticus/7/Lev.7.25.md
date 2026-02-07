@@ -1,4 +1,4 @@
-**Leviticus 7:25** 
+**Leviticus 7:25**<big><big>[[Lev.7.22 Fat and Blood Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For whosoever eateth the fat of the beast, of which men offer an offering made by fire unto the LORD, even the soul that eateth [it] shall be cut off from his people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If anyone eats the fat of an animal from which a food offering may be presented 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.24|<< Leviticus 7:24]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.26|Leviticus 7:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

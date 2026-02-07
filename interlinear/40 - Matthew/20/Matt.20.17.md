@@ -1,12 +1,12 @@
-**Matthew 20:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:17**<big><big>[[Matt.20.17 The Third Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,
 <small><sub>**BSB:**</sub></small>
 As Jesus was going up to Jerusalem, He took the twelve disciples aside and said,
 <small><sub>**Literal:**</sub></small>
 And soon to be now going up <the> Jesus to Jerusalem He took the twelve disciples aside [on their] own and on the way He said to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.16|<< Matthew 20:16]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.18|Matthew 20:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
 | soon to be [^1] |**<big>[[G3195\|μέλλων]]</big>**  |mellōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="WH">O</abbr> | |

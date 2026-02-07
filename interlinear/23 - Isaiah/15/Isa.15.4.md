@@ -1,4 +1,4 @@
-**Isaiah 15:4** 
+**Isaiah 15:4**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Heshbon shall cry, and Elealeh: their voice shall be heard [even] unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Heshbon and Elealeh cry out; their voices are heard as far as Jahaz. Therefore t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.3|<< Isaiah 15:3]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.5|Isaiah 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|תִּזְעַ֤ק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiz.'Ak<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Heshbon  |**<big>&#8207;[[H2809\|חֶשְׁבּוֹן֙]]&#8207; </big>**| chesh.bOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**John 4:37
-**<small><sub>**KJV:**</sub></small>
+**John 4:37**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And herein is that saying true, One soweth, and another reapeth.
 <small><sub>**BSB:**</sub></small>
 For in this case the saying ‘One sows and another reaps’ is true.
@@ -10,7 +10,7 @@ In for this the saying is <the> true that One is who is sowing and another [is] 
 > $\quad$ alluding to: [[LXX.Mic.6.15|Mic 6:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

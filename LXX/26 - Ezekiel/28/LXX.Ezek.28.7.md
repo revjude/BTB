@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:7** 
 <small><sub>**LXX:**</sub></small>
 for this, behold, I bring upon you strange pestilent ones from \[the\] nations. And they shall empty out  their swords against you; against the beauty  of your higher knowledge; and they shall spread  your beauty unto destruction. 
-<small><sub>**KJV:**</sub></small>
-Behold, therefore I will bring strangers upon thee, the terrible of the nations: and they shall draw their swords against the beauty of thy wisdom, and they shall defile thy brightness.
-<small><sub>**BSB:**</sub></small>
-behold, I will bring foreigners against you, the most ruthless of nations. They will draw their swords against the beauty of your wisdom and will defile your splendor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.6|<< Ezekiel 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.8|Ezekiel 28:8 >>]]</td></tr></table>
 
 | Translation | Greek |

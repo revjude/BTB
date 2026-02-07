@@ -1,4 +1,4 @@
-**Amos 6:2** 
+**Amos 6:2**<big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: [be they] better than these kingdoms? or their border greater than your border?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cross over to Calneh and see; go from there to the great Hamath; then go down to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.1|<< Amos 6:1]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.3|Amos 6:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pass over  |**<big>&#8207;[[H5674A\|עִבְר֤וּ]]&#8207; </big>**| 'iv.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Calneh  |**<big>&#8207;[[H3641B\|כַֽלְנֵה֙]]&#8207; </big>**| khal.Neh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

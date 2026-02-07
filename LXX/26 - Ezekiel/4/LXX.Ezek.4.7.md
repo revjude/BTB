@@ -1,10 +1,7 @@
 **LXX Ezekiel 4:7** 
 <small><sub>**LXX:**</sub></small>
 And for the siege of Jerusalem you shall prepare  your face, and  you shall stiffen your arm, and you shall prophesy against it. 
-<small><sub>**KJV:**</sub></small>
-Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm [shall be] uncovered, and thou shalt prophesy against it.
-<small><sub>**BSB:**</sub></small>
-You must turn your face toward the siege of Jerusalem with your arm bared, and prophesy against it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.4.6|<< Ezekiel 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.8|Ezekiel 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

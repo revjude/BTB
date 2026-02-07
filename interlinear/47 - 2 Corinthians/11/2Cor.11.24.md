@@ -1,12 +1,12 @@
-**2 Corinthians 11:24
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:24**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of the Jews five times received I forty [stripes] save one.
 <small><sub>**BSB:**</sub></small>
 Five times I received from the Jews the forty lashes minus one.
 <small><sub>**Literal:**</sub></small>
 From [the] Jews five times forty [lashes] minus one I received,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.23|<< 2 Corinthians 11:23]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.25|2 Corinthians 11:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G5259G\|ὑπὸ]]</big>**  |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] Jews |**<big>[[G2453\|Ἰουδαίων]]</big>**  |Ioudaiōn <small><sup>[[N-GPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

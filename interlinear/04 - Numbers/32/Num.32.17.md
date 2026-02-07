@@ -1,4 +1,4 @@
-**Numbers 32:17** 
+**Numbers 32:17**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But we will arm ourselves and be ready to go ahead of the Israelites until we ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.16|<< Numbers 32:16]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.18|Numbers 32:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0587\|אֲנַ֜חְנוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will equip ourselves  |**<big>&#8207;[[H2502B\|נֵחָלֵ֣ץ]]&#8207; </big>**| ne.cha.Letz<small><sup>[[HVNi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

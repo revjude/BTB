@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:32** 
 <small><sub>**LXX:**</sub></small>
 And came forth Sihon king of Heshbon to meet us, he and all  his people, for war at Jahaz. 
-<small><sub>**KJV:**</sub></small>
-Then Sihon came out against us, he and all his people, to fight at Jahaz.
-<small><sub>**BSB:**</sub></small>
-So Sihon and his whole army came out for battle against us at Jahaz.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.31|<< Deuteronomy 2:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.33|Deuteronomy 2:33 >>]]</td></tr></table>
 
 | Translation | Greek |

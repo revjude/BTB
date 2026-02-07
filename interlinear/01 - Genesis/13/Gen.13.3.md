@@ -1,4 +1,4 @@
-**Genesis 13:3** 
+**Genesis 13:3**<big><big>[[Gen.13.1 Abram and Lot Part Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went on his journeys from the south even to Bethel, unto the place where his tent had been at the beginning, between Bethel and Hai;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the Negev he journeyed from place to place toward Bethel, until he came to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.2|<< Genesis 13:2]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.4|Genesis 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֙לֶךְ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to journeyings his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4550\|מַסָּעָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.sa.'A<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

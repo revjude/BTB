@@ -1,10 +1,7 @@
 **LXX Psalm 9:18** 
 <small><sub>**LXX:**</sub></small>
 For the poor be forgotten not at \[the\] end; the patience of the needy ones shall not perish to \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-For the needy shall not alway be forgotten: the expectation of the poor shall [not] perish for ever.
-<small><sub>**BSB:**</sub></small>
-For the needy will not always be forgotten; nor the hope of the oppressed forever dashed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.9.17|<< Psalm 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.9.19|Psalm 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

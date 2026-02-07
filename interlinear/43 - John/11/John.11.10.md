@@ -1,12 +1,12 @@
-**John 11:10
-**<small><sub>**KJV:**</sub></small>
+**John 11:10**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if a man walk in the night, he stumbleth, because there is no light in him.
 <small><sub>**BSB:**</sub></small>
 But if anyone walks at night, he will stumble, because he has no light.”
 <small><sub>**Literal:**</sub></small>
 if however anyone shall walk in the night, he stumbles, because the light not is in him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.9|<< John 11:9]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.11|John 11:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

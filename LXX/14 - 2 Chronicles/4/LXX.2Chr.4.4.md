@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:4** 
 <small><sub>**LXX:**</sub></small>
 in which they made them. \[And\] standing upon twelve calves \[was\] the sea. The three \[were\] looking north, and  three \[were\] looking west, and  three \[were\] looking south, and  three \[were\] looking towards \[the\] east. And the sea \[was\] upon them upward. And their posteriors were \[towards the\] inside. 
-<small><sub>**KJV:**</sub></small>
-It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea [was set] above upon them, and all their hinder parts [were] inward.
-<small><sub>**BSB:**</sub></small>
-The Sea stood on twelve oxen, three facing north, three facing west, three facing south, and three facing east. The Sea rested on them, with all their hindquarters toward the center.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.3|<< 2 Chronicles 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.5|2 Chronicles 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 11:18
-**<small><sub>**KJV:**</sub></small>
+**John 11:18**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:
 <small><sub>**BSB:**</sub></small>
 Now Bethany was near Jerusalem, a little less than two miles away,
 <small><sub>**Literal:**</sub></small>
 Was now <the> Bethany near <the> Jerusalem about away stadia fifteen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.17|<< John 11:17]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.19|John 11:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

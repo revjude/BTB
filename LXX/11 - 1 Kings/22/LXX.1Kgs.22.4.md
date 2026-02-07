@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of Israel said to Jehoshaphat, Shall you not ascend with me unto Ramoth Gilead for war? 
-<small><sub>**KJV:**</sub></small>
-And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramothgilead? And Jehoshaphat said to the king of Israel, I [am] as thou [art], my people as thy people, my horses as thy horses.
-<small><sub>**BSB:**</sub></small>
-So he asked Jehoshaphat, “Will you go with me to fight against Ramoth-gilead?” Jehoshaphat answered the king of Israel, “I am as you are, my people are your people, and my horses are your horses.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.3|<< 1 Kings 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.5|1 Kings 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

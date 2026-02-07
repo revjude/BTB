@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Jacob responded  to Shechem and Hamor  his father with treachery. And they spoke to them, for they defiled Dinah  their sister. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:
-<small><sub>**BSB:**</sub></small>
-But because Shechem had defiled their sister Dinah, Jacob’s sons answered him and his father Hamor deceitfully.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.12|<< Genesis 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.14|Genesis 34:14 >>]]</td></tr></table>
 
 | Translation | Greek |

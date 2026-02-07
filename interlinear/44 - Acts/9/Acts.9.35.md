@@ -1,12 +1,12 @@
-**Acts 9:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:35**<big><big>[[Acts.9.31 The Healing of Aeneas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all that dwelt at Lydda and Saron saw him, and turned to the Lord.
 <small><sub>**BSB:**</sub></small>
 and all who lived in Lydda and Sharon saw him and turned to the Lord.
 <small><sub>**Literal:**</sub></small>
 And saw him all those inhabiting Lydda and <the> Sharon, who turned to the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.34|<< Acts 9:34]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.36|Acts 9:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | saw |**<big>[[G1492H\|εἶδαν]]</big>**  [^1] |eidan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

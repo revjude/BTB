@@ -1,4 +1,4 @@
-**Isaiah 14:31** 
+**Isaiah 14:31**<big><big>[[Isa.14.28 Philistia Will Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl, O gate; cry, O city; thou, whole Palestina, [art] dissolved: for there shall come from the north a smoke, and none [shall be] alone in his appointed times.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wail, O gate! Cry out, O city! Melt away, all you Philistines! For a cloud of sm
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.30|<< Isaiah 14:30]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.32|Isaiah 14:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wail  |**<big>&#8207;[[H3213\|הֵילִ֤ילִֽי]]&#8207; </big>**| hei.Li.li<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O gate  |**<big>&#8207;[[H8179G\|שַׁ֙עַר֙]]&#8207; </big>**| sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

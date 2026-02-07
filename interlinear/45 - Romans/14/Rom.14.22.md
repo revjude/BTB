@@ -1,12 +1,12 @@
-**Romans 14:22
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:22**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hast thou faith? have [it] to thyself before God. Happy [is] he that condemneth not himself in that thing which he alloweth.
 <small><sub>**BSB:**</sub></small>
 Keep your belief about such matters between yourself and God. Blessed is the one who does not condemn himself by what he approves.
 <small><sub>**Literal:**</sub></small>
 You yourself [the] faith that you have to yourself do keep before <the> God; Blessed [is] the [one] not judging himself in what he approves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.21|<< Romans 14:21]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.23|Romans 14:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] faith |**<big>[[G4102G\|πίστιν]]</big>**  |pistin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

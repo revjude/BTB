@@ -1,4 +1,4 @@
-**Psalms 105:41** 
+**Psalms 105:41**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He opened the rock, and the waters gushed out; they ran in the dry places [like] a river.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He opened a rock, and water gushed out; it flowed like a river in the desert.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.40|<< Psalms 105:40]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.42|Psalms 105:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he opened  |**<big>&#8207;[[H6605A\|פָּ֣תַח]]&#8207; </big>**| Pa.tach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a rock  |**<big>&#8207;[[H6697H\|צ֭וּר]]&#8207; </big>**| tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

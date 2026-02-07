@@ -1,10 +1,7 @@
 **LXX Psalm 105:33** 
 <small><sub>**LXX:**</sub></small>
 And he struck  their grapevines, and  their fig-trees; and he broke every tree of their border. 
-<small><sub>**KJV:**</sub></small>
-He smote their vines also and their fig trees; and brake the trees of their coasts.
-<small><sub>**BSB:**</sub></small>
-He struck their vines and fig trees and shattered the trees of their country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.32|<< Psalm 105:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.34|Psalm 105:34 >>]]</td></tr></table>
 
 | Translation | Greek |

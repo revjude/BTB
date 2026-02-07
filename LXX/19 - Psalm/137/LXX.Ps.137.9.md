@@ -1,10 +1,7 @@
 **LXX Psalm 137:9** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[is\] \[the one\] who shall hold and dash  your infants against the rock. 
-<small><sub>**KJV:**</sub></small>
-Happy [shall he be], that taketh and dasheth thy little ones against the stones.
-<small><sub>**BSB:**</sub></small>
-Blessed is he who seizes your infants and dashes them against the rocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.137.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.137.8|<< Psalm 137:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.138.1|Psalm 138:1 >>]]</td></tr></table>
 
 | Translation | Greek |

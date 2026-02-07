@@ -1,12 +1,12 @@
-**Luke 22:61
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:61**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice.
 <small><sub>**BSB:**</sub></small>
 And the Lord turned and looked at Peter. Then Peter remembered the word that the Lord had spoken to him: “Before the rooster crows today, you will deny Me three times.”
 <small><sub>**Literal:**</sub></small>
 And having turned the Lord looked at <the> Peter, and remembered <the> Peter the declaration of the Lord how He had said to him that Before [the] rooster crowing today you will deny Me three times.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.60|<< Luke 22:60]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.62|Luke 22:62 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having turned |**<big>[[G4762\|στραφεὶς]]</big>**  |strapheis <small><sup>[[V-2APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

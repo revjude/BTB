@@ -1,12 +1,12 @@
-**2 Corinthians 7:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 7:7**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 <small><sub>**BSB:**</sub></small>
 and not only by his arrival, but also by the comfort he had received from you. He told us about your longing, your mourning, and your zeal for me, so that I rejoiced all the more.
 <small><sub>**Literal:**</sub></small>
 not only now by the coming of him, but also by the comfort with which he was comforted as to you relating to us <the> your earnest desire, <the> your mourning, <the> your zeal for me, so as for me [the] more to rejoice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.6|<< 2 Corinthians 7:6]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.8|2 Corinthians 7:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | only |**<big>[[G3441\|μόνον]]</big>**  |monon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

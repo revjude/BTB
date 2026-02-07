@@ -1,10 +1,7 @@
 **LXX Daniel 12:11** 
 <small><sub>**LXX:**</sub></small>
 And from \[the\] time of \[the\] alteration of the perpetual \[sacrifice\], and the putting of the abomination of desolation -- a thousand two hundred ninety days. 
-<small><sub>**KJV:**</sub></small>
-And from the time [that] the daily [sacrifice] shall be taken away, and the abomination that maketh desolate set up, [there shall be] a thousand two hundred and ninety days.
-<small><sub>**BSB:**</sub></small>
-And from the time the daily sacrifice is abolished and the abomination of desolation set up, there will be 1,290 days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.10|<< Daniel 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.12|Daniel 12:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 12:11** is...

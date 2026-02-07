@@ -1,4 +1,4 @@
-**Daniel 4:35** (4:32)
+**Daniel 4:35**<big><big>[[Dan.4.34 Nebuchadnezzar Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the inhabitants of the earth [are] reputed as nothing: and he doeth according to his will in the army of heaven, and [among] the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the peoples of the earth are counted as nothing, and He does as He pleases w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.34|<< Daniel 4:34]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.36|Daniel 4:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3606\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> khol<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] inhabitants of  |**<big>&#8207;[[H1753\|דָּיְרֵ֤י]]&#8207; </big>**[^1] [^2] | da.'a.rei<small><sup>[[AVqrmpc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

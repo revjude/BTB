@@ -1,4 +1,4 @@
-**2 Kings 24:2** 
+**2 Kings 24:2**<big><big>[[2Kgs.24.1 Babylon Controls Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the LORD, which he spake by his servants the prophets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD sent Chaldean, Aramean, Moabite, and Ammonite raiders against Jehoi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.1|<< 2 Kings 24:1]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.3|2 Kings 24:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יְשַׁלַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.Lach<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

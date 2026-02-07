@@ -1,4 +1,4 @@
-**Psalms 68:31** (68:32)
+**Psalms 68:31**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Envoys will arrive from Egypt; Cush will stretch out her hands to God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.30|<< Psalms 68:30]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.32|Psalms 68:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will come  |**<big>&#8207;[[H0857\|יֶאֱתָ֣יוּ]]&#8207; </big>**| ye.'e.Ta.yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | envoys  |**<big>&#8207;[[H2831\|חַ֭שְׁמַנִּים]]&#8207; </big>**| Chash.ma.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

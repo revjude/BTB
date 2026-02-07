@@ -1,4 +1,4 @@
-**Job 41:11** (41:3)
+**Job 41:11**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath prevented me, that I should repay [him? whatsoever is] under the whole heaven is mine.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who has given to Me that I should repay him? Everything under heaven is Mine.
 > $\quad$ referenced by: [[Rom.11.35|Rom 11:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he confronted me  |**<big>&#8207;[[H6923\|הִ֭קְדִּימַ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Hik.di.ma.<small><sup>[[HVhp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

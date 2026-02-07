@@ -1,10 +1,7 @@
 **LXX Genesis 33:4** 
 <small><sub>**LXX:**</sub></small>
 And Esau ran up to meet him. And taking hold of him, he kissed \[him\]. And he fell upon  his neck. And he kissed him, and both wept. 
-<small><sub>**KJV:**</sub></small>
-And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.
-<small><sub>**BSB:**</sub></small>
-Esau, however, ran to him and embraced him, threw his arms around his neck, and kissed him. And they both wept.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.3|<< Genesis 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.5|Genesis 33:5 >>]]</td></tr></table>
 
 | Translation | Greek |

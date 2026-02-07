@@ -1,4 +1,4 @@
-**Numbers 21:35** 
+**Numbers 21:35**<big><big>[[Num.21.31 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they smote him, and his sons, and all his people, until there was none left him alive: and they possessed his land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they struck down Og, along with his sons and his whole army, until no remnant
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.34|<< Numbers 21:34]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.1|Numbers 22:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they struck down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּכּ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

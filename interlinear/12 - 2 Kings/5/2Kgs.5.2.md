@@ -1,4 +1,4 @@
-**2 Kings 5:2** 
+**2 Kings 5:2**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman’s wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At this time the Arameans had gone out in bands and had taken a young girl from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.1|<< 2 Kings 5:1]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.3|2 Kings 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Aram  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0758I\|אֲרָם֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they had gone out  |**<big>&#8207;[[H3318G\|יָצְא֣וּ]]&#8207; </big>**| ya.tze.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

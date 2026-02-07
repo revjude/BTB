@@ -1,12 +1,12 @@
-**1 Timothy 3:6
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:6**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
 <small><sub>**BSB:**</sub></small>
 He must not be a recent convert, or he may become conceited and fall under the same condemnation as the devil.
 <small><sub>**Literal:**</sub></small>
 not a novice, that not having been puffed up into [the] judgment he may fall of the devil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.5|<< 1 Timothy 3:5]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.7|1 Timothy 3:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a novice, |**<big>[[G3504\|νεόφυτον,]]</big>**  |neophuton <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

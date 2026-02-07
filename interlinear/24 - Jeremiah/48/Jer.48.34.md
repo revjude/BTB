@@ -1,4 +1,4 @@
-**Jeremiah 48:34** 
+**Jeremiah 48:34**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the cry of Heshbon [even] unto Elealeh, [and even] unto Jahaz, have they uttered their voice, from Zoar [even] unto Horonaim, [as] an heifer of three years old: for the waters also of Nimrim shall be desolate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is a cry from Heshbon to Elealeh; they raise their voices to Jahaz, from Z
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.33|<< Jeremiah 48:33]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.35|Jeremiah 48:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] cry of distress of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2201\|זַּעֲקַ֨ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> za.'a.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Heshbon  |**<big>&#8207;[[H2809\|חֶשְׁבּ֜וֹן]]&#8207; </big>**| chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

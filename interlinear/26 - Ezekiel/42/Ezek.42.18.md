@@ -1,4 +1,4 @@
-**Ezekiel 42:18** 
+**Ezekiel 42:18**<big><big>[[Ezek.42.15 The Outer Measurements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He measured the south side, five hundred reeds, with the measuring reed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He measured the south side to be five hundred cubits long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.17|<< Ezekiel 42:17]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.19|Ezekiel 42:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֛ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] side of  |**<big>&#8207;[[H7307I\|ר֥וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

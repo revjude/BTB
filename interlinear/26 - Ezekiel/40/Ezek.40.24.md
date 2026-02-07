@@ -1,4 +1,4 @@
-**Ezekiel 40:24** 
+**Ezekiel 40:24**<big><big>[[Ezek.40.24 The South Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he led me to the south side, and I saw a gateway facing south. He measured 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.23|<< Ezekiel 40:23]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.25|Ezekiel 40:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he led me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980J\|יּוֹלִכֵ֙]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.li.Khe.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] direction of  |**<big>&#8207;[[H1870J\|דֶּ֣רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

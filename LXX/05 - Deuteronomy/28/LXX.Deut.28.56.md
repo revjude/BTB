@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:56** 
 <small><sub>**LXX:**</sub></small>
 And the tender among you, and the exceedingly delicate one of whom \[has\] not taken an attempt  \[with\] her foot to go upon the land because of the delicacy, and because of the tenderness -- she shall charm  with her eye  her husband, the one near her bosom, and  her son and daughter; 
-<small><sub>**KJV:**</sub></small>
-The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
-<small><sub>**BSB:**</sub></small>
-The most gentle and refined woman among you, so gentle and refined she would not venture to set the sole of her foot on the ground, will begrudge the husband she embraces and her son and daughter<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.55|<< Deuteronomy 28:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.57|Deuteronomy 28:57 >>]]</td></tr></table>
 
 | Translation | Greek |

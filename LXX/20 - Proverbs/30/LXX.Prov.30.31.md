@@ -1,10 +1,7 @@
 **LXX Proverbs 30:31** 
 <small><sub>**LXX:**</sub></small>
 and a rooster walking about among females confidently, and a he-goat taking \[the\] lead of a flock of goats, and a king delivering a public address to a nation. 
-<small><sub>**KJV:**</sub></small>
-A greyhound; an he goat also; and a king, against whom [there is] no rising up.
-<small><sub>**BSB:**</sub></small>
-a strutting rooster; a he-goat; and a king with his army around him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.30|<< Proverbs 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.32|Proverbs 30:32 >>]]</td></tr></table>
 
 | Translation | Greek |

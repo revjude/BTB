@@ -1,4 +1,4 @@
-**Psalms 107:33** 
+**Psalms 107:33**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He turneth rivers into a wilderness, and the watersprings into dry ground;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He turns rivers into deserts, springs of water into thirsty ground,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.32|<< Psalms 107:32]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.34|Psalms 107:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he made  |**<big>&#8207;[[H7760A\|יָשֵׂ֣ם]]&#8207; </big>**| ya.Sem<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rivers  |**<big>&#8207;[[H5104H\|נְהָר֣וֹת]]&#8207; </big>**| ne.ha.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

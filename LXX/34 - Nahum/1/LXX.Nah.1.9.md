@@ -1,10 +1,7 @@
 **LXX Nahum 1:9** 
 <small><sub>**LXX:**</sub></small>
 What do you devise against the <span class="smallcaps">lord</span>? He himself will make a consummation. He will not punish twice for the same \[thing\] with affliction. 
-<small><sub>**KJV:**</sub></small>
-What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time.
-<small><sub>**BSB:**</sub></small>
-Whatever you plot against the LORD, He will bring to an end. Affliction will not rise up a second time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.8|<< Nahum 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.10|Nahum 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

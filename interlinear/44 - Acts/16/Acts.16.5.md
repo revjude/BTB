@@ -1,12 +1,12 @@
-**Acts 16:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:5**<big><big>[[Acts.16.1 Timothy Joins Paul and Silas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And so were the churches established in the faith, and increased in number daily.
 <small><sub>**BSB:**</sub></small>
 So the churches were strengthened in the faith and grew daily in numbers.
 <small><sub>**Literal:**</sub></small>
 The indeed therefore churches were strengthened in the faith and were increasing <the> in number every day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.4|<< Acts 16:4]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.6|Acts 16:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Αἱ]]</big>**  |Hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

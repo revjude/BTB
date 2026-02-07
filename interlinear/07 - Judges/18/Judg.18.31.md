@@ -1,4 +1,4 @@
-**Judges 18:31** 
+**Judges 18:31**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they set them up Micah’s graven image, which he made, all the time that the house of God was in Shiloh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they set up for themselves Micah’s graven image, and it was there the whole
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.30|<< Judges 18:30]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.1|Judges 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760A\|יָּשִׂ֣ימוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֔ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:18** 
 <small><sub>**LXX:**</sub></small>
 in classification, in all genealogy of their sons, and their daughters, in \[the\] entire multitude, (for in trust they sanctified the holy,) 
-<small><sub>**KJV:**</sub></small>
-And to the genealogy of all their little ones, their wives, and their sons, and their daughters, through all the congregation: for in their set office they sanctified themselves in holiness:
-<small><sub>**BSB:**</sub></small>
-The genealogy included all the little ones, wives, sons, and daughters of the whole assembly. For they had faithfully consecrated themselves as holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.17|<< 2 Chronicles 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.19|2 Chronicles 31:19 >>]]</td></tr></table>
 
 | Translation | Greek |

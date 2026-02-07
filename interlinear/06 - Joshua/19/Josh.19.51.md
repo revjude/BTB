@@ -1,4 +1,4 @@
-**Joshua 19:51** 
+**Joshua 19:51**<big><big>[[Josh.19.49 Joshua’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the LORD, at the door of the tabernacle of the congregation. So they made an end of dividing the country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the inheritances that Eleazar the priest, Joshua son of Nun, and the h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.50|<< Joshua 19:50]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.1|Joshua 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the inheritances  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5159\|נְּחָלֹ֡ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.cha.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

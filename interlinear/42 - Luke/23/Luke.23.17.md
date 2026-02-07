@@ -1,12 +1,12 @@
-**Luke 23:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:17**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For of necessity he must release one unto them at the feast.)
 <small><sub>**BSB:**</sub></small>
 
 <small><sub>**Literal:**</sub></small>
 necessity now had to release to them according to feast one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.16|<< Luke 23:16]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.18|Luke 23:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | necessity |**<big>[[G0318\|ἀνάγκην]]</big>**  |anagkēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

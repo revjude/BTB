@@ -1,4 +1,4 @@
-**1 Samuel 25:3** 
+**1 Samuel 25:3**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the name of the man [was] Nabal; and the name of his wife Abigail: and [she was] a woman of good understanding, and of a beautiful countenance: but the man [was] churlish and evil in his doings; and he [was] of the house of Caleb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His name was Nabal, and his wife’s name was Abigail. She was an intelligent an
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.2|<< 1 Samuel 25:2]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.4|1 Samuel 25:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] name of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8034\|שֵׁ֤ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִישׁ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

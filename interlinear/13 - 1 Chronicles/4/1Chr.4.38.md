@@ -1,4 +1,4 @@
-**1 Chronicles 4:38** 
+**1 Chronicles 4:38**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These mentioned by [their] names [were] princes in their families: and the house of their fathers increased greatly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These men listed by name were the leaders of their clans. Their families increas
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.37|<< 1 Chronicles 4:37]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.39|1 Chronicles 4:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֚לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who came  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0935G\|בָּאִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

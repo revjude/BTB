@@ -1,4 +1,4 @@
-**Exodus 36:11** 
+**Exodus 36:11**<big><big>[[Exod.36.8 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made loops of blue on the edge of one curtain from the selvedge in the coupling: likewise he made in the uttermost side of [another] curtain, in the coupling of the second.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made loops of blue material on the edge of the end curtain in the first set, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.10|<< Exodus 36:10]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.12|Exodus 36:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֜עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | loops of  |**<big>&#8207;[[H3924\|לֻֽלְאֹ֣ת]]&#8207; </big>**| lul.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

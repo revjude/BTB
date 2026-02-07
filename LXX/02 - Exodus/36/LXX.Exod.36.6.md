@@ -1,10 +1,7 @@
 **LXX Exodus 36:6** 
 <small><sub>**LXX:**</sub></small>
 And Moses assigned, and proclaimed in the camp, saying, \[Let\] a man and woman no longer work in the first-fruits of the holy \[place\]. And the people were restrained still to bring. 
-<small><sub>**KJV:**</sub></small>
-And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing.
-<small><sub>**BSB:**</sub></small>
-After Moses had given an order, they sent a proclamation throughout the camp: “No man or woman should make anything else as an offering for the sanctuary.” So the people were restrained from bringing more,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.5|<< Exodus 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.7|Exodus 36:7 >>]]</td></tr></table>
 
 | Translation | Greek |

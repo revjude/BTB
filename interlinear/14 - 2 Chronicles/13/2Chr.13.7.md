@@ -1,4 +1,4 @@
-**2 Chronicles 13:7** 
+**2 Chronicles 13:7**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then worthless and wicked men gathered around him to resist Rehoboam son of Solo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.6|<< 2 Chronicles 13:6]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.8|2 Chronicles 13:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקָּבְצ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.ve.Tzu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H5921A\|עָלָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

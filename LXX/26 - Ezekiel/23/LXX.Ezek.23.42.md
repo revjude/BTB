@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:42** 
 <small><sub>**LXX:**</sub></small>
 And a sound of harmony they played music to men from out of a multitude of men having come being drunk from out of the wilderness. And they put bracelets upon  their hands, and a crown of boasting upon  their heads. 
-<small><sub>**KJV:**</sub></small>
-And a voice of a multitude being at ease [was] with her: and with the men of the common sort [were] brought Sabeans from the wilderness, which put bracelets upon their hands, and beautiful crowns upon their heads.
-<small><sub>**BSB:**</sub></small>
-accompanied by the sound of a carefree crowd. Drunkards were brought in from the desert along with men from the rabble, who put bracelets on your wrists and beautiful crowns on your head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.41|<< Ezekiel 23:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.43|Ezekiel 23:43 >>]]</td></tr></table>
 
 | Translation | Greek |

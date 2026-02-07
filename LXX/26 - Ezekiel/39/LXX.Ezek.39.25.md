@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:25** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Now I will return \[the\] captivity in Jacob, and I will show mercy on the house of Israel, and I will be jealous on account of  my holy name. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Now will I bring again the captivity of Jacob, and have mercy upon the whole house of Israel, and will be jealous for my holy name;
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: Now I will restore Jacob from captivity and will have compassion on the whole house of Israel, and I will be jealous for My holy name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.24|<< Ezekiel 39:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.26|Ezekiel 39:26 >>]]</td></tr></table>
 
 | Translation | Greek |

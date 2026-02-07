@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:28** 
 <small><sub>**LXX:**</sub></small>
 Guard and hearken! and you shall do all the words which I give charge to you, that good should happen to you, and to your sons through \[the\] eon, if you should do the pleasing and the good \[thing\] before \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest [that which is] good and right in the sight of the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-Be careful to obey all these things I command you, so that it may always go well with you and your children after you, because you will be doing what is good and right in the eyes of the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.27|<< Deuteronomy 12:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.29|Deuteronomy 12:29 >>]]</td></tr></table>
 
 | Translation | Greek |

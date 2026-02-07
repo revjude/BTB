@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:22** 
 <small><sub>**LXX:**</sub></small>
 These are the discourses \[the\] <span class="smallcaps">lord</span> spoke to all your congregation in the mountain from \[the\] midst of the fire, darkness, dimness, storm -- a great voice; and he did not add \[any more\]. And he wrote them upon two tablets of stone, and he gave \[them\] to me. 
-<small><sub>**KJV:**</sub></small>
-These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me.
-<small><sub>**BSB:**</sub></small>
-The LORD spoke these commandments in a loud voice to your whole assembly out of the fire, the cloud, and the deep darkness on the mountain; He added nothing more. And He wrote them on two tablets of stone and gave them to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.21|<< Deuteronomy 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.23|Deuteronomy 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

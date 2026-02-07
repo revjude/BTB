@@ -1,4 +1,4 @@
-**Psalms 9:14** (9:15)
+**Psalms 9:14**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that I may declare all Your praises—that within the gates of Daughter Zion I m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.13|<< Psalms 9:13]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.15|Psalms 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֥עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I may recount  |**<big>&#8207;[[H5608A\|אֲסַפְּרָ֗ה]]&#8207; </big>**| 'a.sa.pe.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:21** 
 <small><sub>**LXX:**</sub></small>
 And he set up the columns of the columned porch of the temple. And he set up the right column, and he called the name of it -- Jachin. And he set up the left column, and called the name of it -- Boaz. 
-<small><sub>**KJV:**</sub></small>
-And he set up the pillars in the porch of the temple: and he set up the right pillar, and called the name thereof Jachin: and he set up the left pillar, and called the name thereof Boaz.
-<small><sub>**BSB:**</sub></small>
-Thus he set up the pillars at the portico of the temple. The pillar to the south he named Jachin, and the pillar to the north he named Boaz.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.20|<< 1 Kings 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.22|1 Kings 7:22 >>]]</td></tr></table>
 
 | Translation | Greek |

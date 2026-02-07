@@ -1,12 +1,12 @@
-**Ephesians 4:20
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:20**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye have not so learned Christ;
 <small><sub>**BSB:**</sub></small>
 But this is not the way you came to know Christ.
 <small><sub>**Literal:**</sub></small>
 you yourselves however not this way learned <the> Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.19|<< Ephesians 4:19]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.21|Ephesians 4:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

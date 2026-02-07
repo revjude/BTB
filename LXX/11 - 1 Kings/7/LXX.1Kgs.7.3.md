@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:3** 
 <small><sub>**LXX:**</sub></small>
 And he decorated with fretwork in cedar the house above upon the sides of the columns. And the number of the columns \[was\] forty and five --  ten and seven in one row. 
-<small><sub>**KJV:**</sub></small>
-And [it was] covered with cedar above upon the beams, that [lay] on forty five pillars, fifteen [in] a row.
-<small><sub>**BSB:**</sub></small>
-The house was roofed with cedar above the beams that rested on the pillars—forty-five beams, fifteen per row.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.2|<< 1 Kings 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.4|1 Kings 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

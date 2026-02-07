@@ -1,12 +1,12 @@
-**Acts 12:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:13**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.
 <small><sub>**BSB:**</sub></small>
 He knocked at the outer gate, and a servant girl named Rhoda came to answer it.
 <small><sub>**Literal:**</sub></small>
 When was knocking then <the> he [at] the door of the gate came a girl to answer named Rhoda;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.12|<< Acts 12:12]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.14|Acts 12:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was knocking |**<big>[[G2925\|κρούσαντος]]</big>**  |krousantos <small><sup>[[V-AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 35:15** 
 <small><sub>**LXX:**</sub></small>
 And now that he is not numbering his anger, and he knows not exceeding transgressions, 
-<small><sub>**KJV:**</sub></small>
-But now, because [it is] not [so], he hath visited in his anger; yet he knoweth [it] not in great extremity:
-<small><sub>**BSB:**</sub></small>
-and further, that in His anger He has not punished or taken much notice of folly!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.35.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.14|<< Job 35:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.16|Job 35:16 >>]]</td></tr></table>
 
 | Translation | Greek |

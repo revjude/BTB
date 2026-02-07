@@ -1,4 +1,4 @@
-**Psalms 142:6** (142:7)
+**Psalms 142:6**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen to my cry, for I am brought quite low. Rescue me from my pursuers, for th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.5|<< Psalms 142:5]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.7|Psalms 142:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pay attention !  |**<big>&#8207;[[H7181\|הַקְשִׁ֤יבָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hak.Shi.va<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

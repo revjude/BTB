@@ -1,10 +1,7 @@
 **LXX Joshua 20:9** 
 <small><sub>**LXX:**</sub></small>
 These \[were\] the cities  selected  to all sons of Israel, and to the foreigner, to the one lying near among them, to take refuge there, to any one unintentionally hitting a soul, that he should not die by \[the\] hand of the one acting as next of kin  \[for\] blood, until whenever he should be placed before the congregation for judgment. 
-<small><sub>**KJV:**</sub></small>
-These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth [any] person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.
-<small><sub>**BSB:**</sub></small>
-These are the cities appointed for all the Israelites and foreigners among them, so that anyone who kills a person unintentionally may flee there and not die by the hand of the avenger of blood prior to standing trial before the assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.20.8|<< Joshua 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.1|Joshua 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

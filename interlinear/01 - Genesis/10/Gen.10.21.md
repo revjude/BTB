@@ -1,4 +1,4 @@
-**Genesis 10:21** 
+**Genesis 10:21**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were [children] born.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And sons were also born to Shem, the older brother of Japheth; Shem was the fore
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.20|<< Genesis 10:20]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.22|Genesis 10:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Shem  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8035\|שֵׁ֥ם]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> l.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<it> was born  |**<big>&#8207;[[H3205\|יֻלַּ֖ד]]&#8207; </big>**| yu.Lad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

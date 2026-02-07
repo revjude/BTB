@@ -1,4 +1,4 @@
-**Psalms 3:6** (3:7)
+**Psalms 3:6**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not be afraid of ten thousands of people, that have set [themselves] against me round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will not fear the myriads set against me on every side.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.5|<< Psalms 3:5]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.7|Psalms 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will be afraid  |**<big>&#8207;[[H3372G\|אִ֭ירָא]]&#8207; </big>**| 'I.ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

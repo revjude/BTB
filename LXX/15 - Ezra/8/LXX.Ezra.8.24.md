@@ -1,10 +1,7 @@
 **LXX Ezra 8:24** 
 <small><sub>**LXX:**</sub></small>
 And I separated twelve of \[the\] rulers of the priests, \[to\] Sherebiah, \[to\] Hashabiah, and with them from their brethren -- ten. 
-<small><sub>**KJV:**</sub></small>
-Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,
-<small><sub>**BSB:**</sub></small>
-Then I set apart twelve of the leading priests, together with Sherebiah, Hashabiah, and ten of their brothers,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.23|<< Ezra 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.25|Ezra 8:25 >>]]</td></tr></table>
 
 | Translation | Greek |

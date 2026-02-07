@@ -1,10 +1,7 @@
 **LXX Numbers 35:4** 
 <small><sub>**LXX:**</sub></small>
 And the lands falling in with the cities, which you shall give to the Levites, \[shall be\] from \[the\] wall of the city and outside -- a thousand cubits round about. 
-<small><sub>**KJV:**</sub></small>
-And the suburbs of the cities, which ye shall give unto the Levites, [shall reach] from the wall of the city and outward a thousand cubits round about.
-<small><sub>**BSB:**</sub></small>
-The pasturelands around the cities you are to give the Levites will extend a thousand cubits from the wall on every side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.3|<< Numbers 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.5|Numbers 35:5 >>]]</td></tr></table>
 
 | Translation | Greek |

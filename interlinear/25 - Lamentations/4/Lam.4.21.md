@@ -1,4 +1,4 @@
-**Lamentations 4:21** 
+**Lamentations 4:21**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So rejoice and be glad, O Daughter of Edom, you who dwell in the land of Uz. Yet
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.20|<< Lamentations 4:20]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.22|Lamentations 4:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | exult  |**<big>&#8207;[[H7797\|שִׂ֤ישִׂי]]&#8207; </big>**| Si.si<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and rejoice  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8055\|שִׂמְחִי֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sim.Chi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

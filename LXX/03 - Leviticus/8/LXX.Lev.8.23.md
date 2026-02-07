@@ -1,10 +1,7 @@
 **LXX Leviticus 8:23** 
 <small><sub>**LXX:**</sub></small>
 And he slew it. And Moses took some of  its blood, and placed \[it\] upon the lobe of the right ear of Aaron, and upon the thumb  of his right hand, and upon the big toe  of his right foot. 
-<small><sub>**KJV:**</sub></small>
-And he slew [it]; and Moses took of the blood of it, and put [it] upon the tip of Aaron’s right ear, and upon the thumb of his right hand, and upon the great toe of his right foot.
-<small><sub>**BSB:**</sub></small>
-Moses slaughtered the ram and took some of its blood and put it on Aaron’s right earlobe, on the thumb of his right hand, and on the big toe of his right foot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.22|<< Leviticus 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.24|Leviticus 8:24 >>]]</td></tr></table>
 
 | Translation | Greek |

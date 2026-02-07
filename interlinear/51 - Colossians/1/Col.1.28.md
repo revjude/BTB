@@ -1,12 +1,12 @@
-**Colossians 1:28
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:28**<big><big>[[Col.1.24 Paul’s Suffering for the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 We proclaim Him, admonishing and teaching everyone with all wisdom, so that we may present everyone perfect in Christ.
 <small><sub>**Literal:**</sub></small>
 whom we ourselves preach admonishing every man and teaching every man in all wisdom, so that we may present every man perfect in Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.27|<< Colossians 1:27]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.29|Colossians 1:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

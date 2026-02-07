@@ -1,12 +1,12 @@
-**Acts 24:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:12**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they neither found me in the temple disputing with any man, neither raising up the people, neither in the synagogues, nor in the city:
 <small><sub>**BSB:**</sub></small>
 Yet my accusers did not find me debating with anyone in the temple or riling up a crowd in the synagogues or in the city.
 <small><sub>**Literal:**</sub></small>
 And neither in the temple did they find me with anyone reasoning or obstruction making of a crowd nor in the synagogues nor in the city;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.11|<< Acts 24:11]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.13|Acts 24:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | neither |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

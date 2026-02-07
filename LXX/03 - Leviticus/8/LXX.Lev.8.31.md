@@ -1,10 +1,7 @@
 **LXX Leviticus 8:31** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to Aaron and  his sons, Boil the meats by the gate of the tent of the testimony in \[the\] holy place! And there you shall eat them, and the bread loaves, of the \[ones\] in the bin of the consecration, in which manner it was ordered to me, saying, Aaron and  his sons shall eat them. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto Aaron and to his sons, Boil the flesh [at] the door of the tabernacle of the congregation: and there eat it with the bread that [is] in the basket of consecrations, as I commanded, saying, Aaron and his sons shall eat it.
-<small><sub>**BSB:**</sub></small>
-And Moses said to Aaron and his sons, “Boil the meat at the entrance to the Tent of Meeting and eat it there with the bread that is in the basket of ordination offerings, as I commanded, saying, ‘Aaron and his sons are to eat it.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.30|<< Leviticus 8:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.32|Leviticus 8:32 >>]]</td></tr></table>
 
 | Translation | Greek |

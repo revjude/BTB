@@ -1,12 +1,12 @@
-**Luke 7:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:42**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?
 <small><sub>**BSB:**</sub></small>
 When they were unable to repay him, he forgave both of them. Which one, then, will love him more?”
 <small><sub>**Literal:**</sub></small>
 Nothing were having now they to pay to both he forgave. Which therefore of them do tell more will love him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.41|<< Luke 7:41]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.43|Luke 7:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nothing |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were having |**<big>[[G2192\|ἐχόντων]]</big>**  |echontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

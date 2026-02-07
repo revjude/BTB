@@ -1,4 +1,4 @@
-**1 Kings 2:28** 
+**1 Kings 2:28**<big><big>[[1Kgs.2.28 The Execution of Joab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then tidings came to Joab: for Joab had turned after Adonijah, though he turned not after Absalom. And Joab fled unto the tabernacle of the LORD, and caught hold on the horns of the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the news reached Joab, who had conspired with Adonijah but not with Absalom
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.27|<< 1 Kings 2:27]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.29|1 Kings 2:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the report  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8052\|שְּׁמֻעָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> she.mu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it came  |**<big>&#8207;[[H0935G\|בָּ֣אָה]]&#8207; </big>**| Ba.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

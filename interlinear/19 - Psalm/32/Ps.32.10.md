@@ -1,4 +1,4 @@
-**Psalms 32:10** 
+**Psalms 32:10**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many sorrows [shall be] to the wicked: but he that trusteth in the LORD, mercy shall compass him about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many are the sorrows of the wicked, but loving devotion surrounds him who trusts
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.9|<< Psalms 32:9]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.11|Psalms 32:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | many  |**<big>&#8207;[[H7227A\|רַבִּ֥ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pains  |**<big>&#8207;[[H4341\|מַכְאוֹבִ֗ים]]&#8207; </big>**| makh.'o.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

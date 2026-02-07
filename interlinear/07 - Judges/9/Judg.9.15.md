@@ -1,4 +1,4 @@
-**Judges 9:15** 
+**Judges 9:15**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the bramble said unto the trees, If in truth ye anoint me king over you, [then] come [and] put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the thornbush replied, ‘If you really are anointing me as king over you, c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.14|<< Judges 9:14]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.16|Judges 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the thorn bush  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0329H\|אָטָד֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Tad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

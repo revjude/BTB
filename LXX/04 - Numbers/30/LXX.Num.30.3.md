@@ -1,10 +1,7 @@
 **LXX Numbers 30:3** 
 <small><sub>**LXX:**</sub></small>
 And if a woman should vow a vow \[to the\] <span class="smallcaps">lord</span>, or confirm a set of limits in the house  of her father in  her youth; 
-<small><sub>**KJV:**</sub></small>
-If a woman also vow a vow unto the LORD, and bind [herself] by a bond, [being] in her father’s house in her youth;
-<small><sub>**BSB:**</sub></small>
-And if a woman in her father’s house during her youth makes a vow to the LORD or obligates herself by a pledge,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.2|<< Numbers 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.4|Numbers 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

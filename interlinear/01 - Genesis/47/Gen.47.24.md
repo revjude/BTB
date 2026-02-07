@@ -1,4 +1,4 @@
-**Genesis 47:24** 
+**Genesis 47:24**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in the increase, that ye shall give the fifth [part] unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At harvest time, you are to give a fifth of it to Pharaoh, and four-fifths will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.23|<< Genesis 47:23]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.25|Genesis 47:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at the harvest\<s>  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8393\|תְּבוּאֹ֔ת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> te.vu.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 9:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:28**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.
 <small><sub>**BSB:**</sub></small>
 About eight days after Jesus had said these things, He took with Him Peter, John, and James, and went up on a mountain to pray.
 <small><sub>**Literal:**</sub></small>
 It came to pass now after <the> sayings these about days eight, and having taken <the> Peter and John and James He went up on the mountain to pray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.27|<< Luke 9:27]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.29|Luke 9:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

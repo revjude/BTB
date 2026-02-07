@@ -1,5 +1,5 @@
-**1 Corinthians 10:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:10**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.
 <small><sub>**BSB:**</sub></small>
 And do not complain, as some of them did, and were killed by the destroying angel.
@@ -10,7 +10,7 @@ Neither do grumble just as and some of them grumbled, and perished by the Destro
 > $\quad$ alluding to: [[LXX.Num.14.2|Num 14:2]] ☩ [[LXX.Num.14.36|Num 14:36]] ☩ [[LXX.Num.21.5|Num 21:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither |**<big>[[G3366\|μηδὲ]]</big>**  |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do grumble |**<big>[[G1111\|γογγύζετε]]</big>**  |gonguzete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

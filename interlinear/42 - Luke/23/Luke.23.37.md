@@ -1,12 +1,12 @@
-**Luke 23:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:37**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saying, If thou be the king of the Jews, save thyself.
 <small><sub>**BSB:**</sub></small>
 “If You are the King of the Jews,” they said, “save Yourself!”
 <small><sub>**Literal:**</sub></small>
 and saying; If You yourself are the King of the Jews, do save Yourself!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.36|<< Luke 23:36]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.38|Luke 23:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | saying; |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

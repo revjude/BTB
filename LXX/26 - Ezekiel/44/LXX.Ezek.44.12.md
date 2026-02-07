@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:12** 
 <small><sub>**LXX:**</sub></small>
 Because they ministered to them before \[the\] face  of their idols, and it became to the house of Israel for a punishment of iniquity. Because of this I lifted  my hand against them, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Because they ministered unto them before their idols, and caused the house of Israel to fall into iniquity; therefore have I lifted up mine hand against them, saith the Lord GOD, and they shall bear their iniquity.
-<small><sub>**BSB:**</sub></small>
-Because they ministered before their idols and became a stumbling block of iniquity to the house of Israel, therefore I swore with an uplifted hand concerning them that they would bear the consequences of their iniquity, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.11|<< Ezekiel 44:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.13|Ezekiel 44:13 >>]]</td></tr></table>
 
 | Translation | Greek |

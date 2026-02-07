@@ -1,4 +1,4 @@
-**Leviticus 11:47** 
+**Leviticus 11:47**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must distinguish between the unclean and the clean, between animals that may
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.46|<< Leviticus 11:46]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.1|Leviticus 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to separate  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0914\|הַבְדִּ֕יל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hav.Dil<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | between  |**<big>&#8207;[[H0996G\|בֵּ֥ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

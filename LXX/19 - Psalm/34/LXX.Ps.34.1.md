@@ -6,10 +6,7 @@ A psalm \[to\] David, when he changed  his countenance before Abimelech, and he 
 
 <small><sub>**LXX:**</sub></small>
 I will bless the <span class="smallcaps">lord</span> at all time; always  his praise \[is\] in  my mouth. 
-<small><sub>**KJV:**</sub></small>
-[A Psalm] of David, when he changed his behaviour before Abimelech; who drove him away, and he departed. I will bless the LORD at all times: his praise [shall] continually [be] in my mouth.
-<small><sub>**BSB:**</sub></small>
-Of David, when he pretended to be insane before Abimelech, so that the king drove him away. I will bless the LORD at all times; His praise will always be on my lips.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.22|<< Psalm 33:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.2|Psalm 34:2 >>]]</td></tr></table>
 
 | Translation | Greek |

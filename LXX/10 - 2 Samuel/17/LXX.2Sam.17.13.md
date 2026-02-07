@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:13** 
 <small><sub>**LXX:**</sub></small>
 And if he should gather into the city, then all Israel shall take lines against that city, and drag it \[apart\] unto  the rushing stream, unto not leaving behind there neither a stone. 
-<small><sub>**KJV:**</sub></small>
-Moreover, if he be gotten into a city, then shall all Israel bring ropes to that city, and we will draw it into the river, until there be not one small stone found there.
-<small><sub>**BSB:**</sub></small>
-If he retreats to a city, all Israel will bring ropes to that city, and we will drag it down to the valley until not even a pebble can be found there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.12|<< 2 Samuel 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.14|2 Samuel 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

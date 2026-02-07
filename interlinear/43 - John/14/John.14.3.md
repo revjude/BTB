@@ -1,12 +1,12 @@
-**John 14:3
-**<small><sub>**KJV:**</sub></small>
+**John 14:3**<big><big>[[John.14.1 In My Father’s House Are Many Rooms|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, [there] ye may be also.
 <small><sub>**BSB:**</sub></small>
 And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am.
 <small><sub>**Literal:**</sub></small>
 And if I shall go and shall prepare a place for you again I am coming and I will receive you to Myself, that where am I myself also you yourselves may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.2|<< John 14:2]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.4|John 14:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

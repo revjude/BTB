@@ -1,12 +1,12 @@
-**Luke 22:48
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:48**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?
 <small><sub>**BSB:**</sub></small>
 But Jesus asked him, “Judas, are you betraying the Son of Man with a kiss?”
 <small><sub>**Literal:**</sub></small>
 <the> Jesus then said to him; Judas, with a kiss the Son <the> of Man are you betraying?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.47|<< Luke 22:47]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.49|Luke 22:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

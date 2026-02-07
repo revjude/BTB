@@ -1,10 +1,7 @@
 **LXX Exodus 36:9** 
 <small><sub>**LXX:**</sub></small>
 The length of the one curtain -- eight and twenty cubits, and the breadth of four cubits was to the one curtain. The same measure was to all the curtains. 
-<small><sub>**KJV:**</sub></small>
-The length of one curtain [was] twenty and eight cubits, and the breadth of one curtain four cubits: the curtains [were] all of one size.
-<small><sub>**BSB:**</sub></small>
-Each curtain was twenty-eight cubits long and four cubits wide; all the curtains were the same size.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.8|<< Exodus 36:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.10|Exodus 36:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 28:17** 
 <small><sub>**LXX:**</sub></small>
 The one guaranteeing a loan of a man under accusation of murder will be an exile, and not in safety. 
-<small><sub>**KJV:**</sub></small>
-A man that doeth violence to the blood of [any] person shall flee to the pit; let no man stay him.
-<small><sub>**BSB:**</sub></small>
-A man burdened by bloodguilt will flee into the Pit; let no one support him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.16|<< Proverbs 28:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.18|Proverbs 28:18 >>]]</td></tr></table>
 
 | Translation | Greek |

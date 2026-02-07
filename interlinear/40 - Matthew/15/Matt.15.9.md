@@ -1,5 +1,5 @@
-**Matthew 15:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:9**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But in vain they do worship me, teaching [for] doctrines the commandments of men.
 <small><sub>**BSB:**</sub></small>
 They worship Me in vain; they teach as doctrine the precepts of men.’”
@@ -10,7 +10,7 @@ in vain then they worship Me teaching [as] doctrines [the] precepts of men.’<b
 > $\quad$ referencing: [[LXX.Isa.29.13|Isa 29:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in vain |**<big>[[G3155\|μάτην]]</big>**  |matēn <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

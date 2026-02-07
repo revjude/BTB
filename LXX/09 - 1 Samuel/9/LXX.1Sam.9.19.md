@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:19** 
 <small><sub>**LXX:**</sub></small>
 And Samuel answered  Saul, and said, I am \[he\]. Ascend before me unto Bama, and eat with me today! and I will send you \[in the\] morning, and all the \[things\] in  your heart I will report to you. 
-<small><sub>**KJV:**</sub></small>
-And Samuel answered Saul, and said, I [am] the seer: go up before me unto the high place; for ye shall eat with me to day, and to morrow I will let thee go, and will tell thee all that [is] in thine heart.
-<small><sub>**BSB:**</sub></small>
-“I am the seer,” Samuel replied. “Go up before me to the high place, for you shall eat with me today. And when I send you off in the morning, I will tell you all that is in your heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.18|<< 1 Samuel 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.20|1 Samuel 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

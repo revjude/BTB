@@ -1,4 +1,4 @@
-**Judges 8:20** 
+**Judges 8:20**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto Jether his firstborn, Up, [and] slay them. But the youth drew not his sword: for he feared, because he [was] yet a youth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he said to Jether, his firstborn, “Get up and kill them.” But the young m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.19|<< Judges 8:19]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.21|Judges 8:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Jether  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3500G\|יֶ֣תֶר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ye.ter<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

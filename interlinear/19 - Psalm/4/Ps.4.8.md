@@ -1,4 +1,4 @@
-**Psalms 4:8** (4:9)
+**Psalms 4:8**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will lie down and sleep in peace, for You alone, O LORD, make me dwell in safe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.7|<< Psalms 4:7]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.0|Psalms 5:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in peace  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7965G\|שָׁל֣וֹם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | together  |**<big>&#8207;[[H3162B\|יַחְדָּו֮]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

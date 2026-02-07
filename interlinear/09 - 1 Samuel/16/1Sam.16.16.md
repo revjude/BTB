@@ -1,4 +1,4 @@
-**1 Samuel 16:16** 
+**1 Samuel 16:16**<big><big>[[1Sam.16.14 David Serves Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let our lord now command thy servants, [which are] before thee, to seek out a man, [who is] a cunning player on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let our lord command your servants here to seek out someone who can skillfully p
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.15|<< 1 Samuel 16:15]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.17|1 Samuel 16:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let him say  |**<big>&#8207;[[H0559\|יֹאמַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yo.mar-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֤א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

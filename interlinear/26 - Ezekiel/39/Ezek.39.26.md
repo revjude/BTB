@@ -1,4 +1,4 @@
-**Ezekiel 39:26** 
+**Ezekiel 39:26**<big><big>[[Ezek.39.21 Israel to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After that they have borne their shame, and all their trespasses whereby they have trespassed against me, when they dwelt safely in their land, and none made [them] afraid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will forget their disgrace and all the treachery they committed against Me,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.25|<< Ezekiel 39:25]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.27|Ezekiel 39:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will bear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375I\|נָשׂוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Su<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

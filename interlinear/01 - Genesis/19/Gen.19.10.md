@@ -1,4 +1,4 @@
-**Genesis 19:10** 
+**Genesis 19:10**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the men inside reached out, pulled Lot into the house with them, and shut th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.9|<< Genesis 19:9]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.11|Genesis 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they stretched out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971K\|יִּשְׁלְח֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.le.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the men  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0582\|אֲנָשִׁים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

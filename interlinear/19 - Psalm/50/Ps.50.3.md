@@ -1,4 +1,4 @@
-**Psalms 50:3** 
+**Psalms 50:3**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our God approaches and will not be silent! Consuming fire precedes Him, and a te
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.2|<< Psalms 50:2]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.4|Psalms 50:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he comes  |**<big>&#8207;[[H0935G\|יָ֤בֹ֥א]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֗י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

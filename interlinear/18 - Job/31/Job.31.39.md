@@ -1,4 +1,4 @@
-**Job 31:39** 
+**Job 31:39**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I have eaten the fruits thereof without money, or have caused the owners thereof to lose their life:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if I have devoured its produce without payment or broken the spirit of its tenan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.38|<< Job 31:38]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.40|Job 31:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | produce its  |**<big>&#8207;[[H3581B\|כֹּ֭חָ]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| Ko.cha<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

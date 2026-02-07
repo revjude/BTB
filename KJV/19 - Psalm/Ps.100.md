@@ -1,6 +1,6 @@
 (KJV) **Psalm 100**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99|<< Psalm 99]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101|Psalm 101 >>]]</td></tr></table>
 
-***Make a Joyful Noise***&emsp;<small><sup>\[ [[Ps.66|Psalms 66:1–20]] ]</sup></small> ^bsb1393
+<big><big>[[Ps.100.1 Make a Joyful Noise|⥃]]</big></big>***Make a Joyful Noise***&emsp;<small><sup>\[ [[Ps.66|Psalms 66:1–20]] ]</sup></small>
 
 
 

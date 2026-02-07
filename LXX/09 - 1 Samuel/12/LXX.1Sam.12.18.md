@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:18** 
 <small><sub>**LXX:**</sub></small>
 And Samuel called upon the <span class="smallcaps">lord</span>; and \[the\] <span class="smallcaps">lord</span> gave sounds and rain in  that day. And all the people feared the <span class="smallcaps">lord</span> exceedingly, and  Samuel. 
-<small><sub>**KJV:**</sub></small>
-So Samuel called unto the LORD; and the LORD sent thunder and rain that day: and all the people greatly feared the LORD and Samuel.
-<small><sub>**BSB:**</sub></small>
-So Samuel called to the LORD, and on that day the LORD sent thunder and rain. As a result, all the people greatly feared the LORD and Samuel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.17|<< 1 Samuel 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.19|1 Samuel 12:19 >>]]</td></tr></table>
 
 | Translation | Greek |

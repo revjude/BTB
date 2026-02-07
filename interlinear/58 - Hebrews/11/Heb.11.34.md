@@ -1,12 +1,12 @@
-**Hebrews 11:34
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:34**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens.
 <small><sub>**BSB:**</sub></small>
 quenched the raging fire, and escaped the edge of the sword; who gained strength from weakness, became mighty in battle, and put foreign armies to flight.
 <small><sub>**Literal:**</sub></small>
 quenched [the] power of fire, escaped [the] blades of [the] sword, be empowered out of weakness, became mighty in war, [the] armies put to flight of foreigners.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.33|<< Hebrews 11:33]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.35|Hebrews 11:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | quenched |**<big>[[G4570\|ἔσβεσαν]]</big>**  |esbesan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] power |**<big>[[G1411\|δύναμιν]]</big>**  |dunamin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

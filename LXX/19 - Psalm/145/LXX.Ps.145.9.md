@@ -1,10 +1,7 @@
 **LXX Psalm 145:9** 
 <small><sub>**LXX:**</sub></small>
 Gracious \[is the\] <span class="smallcaps">lord</span>  in all things, and  his compassions \[are\] upon all  his works. 
-<small><sub>**KJV:**</sub></small>
-The LORD [is] good to all: and his tender mercies [are] over all his works.
-<small><sub>**BSB:**</sub></small>
-The LORD is good to all; His compassion rests on all He has made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.145.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.8|<< Psalm 145:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.10|Psalm 145:10 >>]]</td></tr></table>
 
 | Translation | Greek |

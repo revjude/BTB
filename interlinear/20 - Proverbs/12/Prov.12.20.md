@@ -1,4 +1,4 @@
-**Proverbs 12:20** 
+**Proverbs 12:20**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deceit [is] in the heart of them that imagine evil: but to the counsellers of peace [is] joy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Deceit is in the hearts of those who devise evil, but the counselors of peace ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.19|<< Proverbs 12:19]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.21|Proverbs 12:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deceit  |**<big>&#8207;[[H4820\|מִ֭רְמָה]]&#8207; </big>**| Mir.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] in [the] heart of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3820A\|לֶב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lev-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

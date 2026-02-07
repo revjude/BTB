@@ -1,5 +1,5 @@
-**Revelation 16:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:6**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.
 <small><sub>**BSB:**</sub></small>
 For they have spilled the blood of saints and prophets, and You have given them blood to drink, as they deserve.”
@@ -10,7 +10,7 @@ because [the] blood of saints and of prophets they have poured out, and blood to
 > $\quad$ possibly alluding to: [[LXX.Exod.7.21|Exod 7:21]] ☩ [[LXX.Ezek.16.38|Ezek 16:38]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] blood |**<big>[[G0129G\|αἷμα]]</big>**  |haima <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

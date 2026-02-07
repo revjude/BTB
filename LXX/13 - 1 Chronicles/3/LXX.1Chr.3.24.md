@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 3:24** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Elioenai -- Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani -- seven. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Elioenai [were], Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven.
-<small><sub>**BSB:**</sub></small>
-The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.23|<< 1 Chronicles 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.1|1 Chronicles 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

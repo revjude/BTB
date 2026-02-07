@@ -1,4 +1,4 @@
-**1 Samuel 14:52** 
+**1 Samuel 14:52**<big><big>[[1Sam.14.47 Saul’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was sore war against the Philistines all the days of Saul: and when Saul saw any strong man, or any valiant man, he took him unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the war with the Philistines was fierce for all the days of Saul. So wheneve
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.51|<< 1 Samuel 14:51]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.1|1 Samuel 15:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִ֤י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the war  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4421\|מִּלְחָמָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 4:15** 
 <small><sub>**LXX:**</sub></small>
 And a spirit came upon my face, and my hair and flesh shuddered. 
-<small><sub>**KJV:**</sub></small>
-Then a spirit passed before my face; the hair of my flesh stood up:
-<small><sub>**BSB:**</sub></small>
-Then a spirit glided past my face, and the hair on my body bristled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.14|<< Job 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.16|Job 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

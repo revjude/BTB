@@ -1,10 +1,7 @@
 **LXX Exodus 14:28** 
 <small><sub>**LXX:**</sub></small>
 And in turning back, the water covered the chariots, and the riders, and all the force of Pharaoh, of the ones entering after them into the sea. And there was not left of them not even one. 
-<small><sub>**KJV:**</sub></small>
-And the waters returned, and covered the chariots, and the horsemen, [and] all the host of Pharaoh that came into the sea after them; there remained not so much as one of them.
-<small><sub>**BSB:**</sub></small>
-The waters flowed back and covered the chariots and horsemen—the entire army of Pharaoh that had chased the Israelites into the sea. Not one of them survived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.27|<< Exodus 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.29|Exodus 14:29 >>]]</td></tr></table>
 
 | Translation | Greek |

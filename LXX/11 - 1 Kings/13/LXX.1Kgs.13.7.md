@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:7** 
 <small><sub>**LXX:**</sub></small>
 And the king spoke to the man  of God, Enter with me to  my house and dine, and I will give to you a gift! 
-<small><sub>**KJV:**</sub></small>
-And the king said unto the man of God, Come home with me, and refresh thyself, and I will give thee a reward.
-<small><sub>**BSB:**</sub></small>
-Then the king said to the man of God, “Come home with me and refresh yourself, and I will give you a reward.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.6|<< 1 Kings 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.8|1 Kings 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

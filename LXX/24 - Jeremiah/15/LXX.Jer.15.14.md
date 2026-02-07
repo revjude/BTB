@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:14** 
 <small><sub>**LXX:**</sub></small>
 I will reduce you to slavery round about  your enemies, in the land which you knew not. For a fire has been kindled because of  my rage; it shall be kindled against you. 
-<small><sub>**KJV:**</sub></small>
-And I will make [thee] to pass with thine enemies into a land [which] thou knowest not: for a fire is kindled in mine anger, [which] shall burn upon you.
-<small><sub>**BSB:**</sub></small>
-Then I will enslave you to your enemies in a land you do not know, for My anger will kindle a fire that will burn against you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.13|<< Jeremiah 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.15|Jeremiah 15:15 >>]]</td></tr></table>
 
 | Translation | Greek |

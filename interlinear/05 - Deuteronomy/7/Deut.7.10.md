@@ -1,4 +1,4 @@
-**Deuteronomy 7:10** 
+**Deuteronomy 7:10**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And repayeth them that hate him to their face, to destroy them: he will not be slack to him that hateth him, he will repay him to his face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But those who hate Him He repays to their faces with destruction; He will not he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.9|<< Deuteronomy 7:9]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.11|Deuteronomy 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [who] repays  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7999A\|מְשַׁלֵּ֧ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.sha.Lem<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [those who] hate him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8130\|שֹׂנְאָ֛י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> so.ne.'A<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

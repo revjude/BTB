@@ -1,10 +1,7 @@
 **LXX Judges 16:25** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when their heart was \[feeling\] good, that they said, Call  Samson from out of \[the\] house of \[the\] prison, and let him play before us! And they called  Samson from out of \[the\] house of \[the\] jail, and they sported with him. And they stood him in between the two posts. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when their hearts were merry, that they said, Call for Samson, that he may make us sport. And they called for Samson out of the prison house; and he made them sport: and they set him between the pillars.
-<small><sub>**BSB:**</sub></small>
-And while their hearts were merry, they said, “Call for Samson to entertain us.” So they called Samson out of the prison to entertain them. And they stationed him between the pillars.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.24|<< Judges 16:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.26|Judges 16:26 >>]]</td></tr></table>
 
 | Translation | Greek |

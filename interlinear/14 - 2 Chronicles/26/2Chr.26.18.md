@@ -1,4 +1,4 @@
-**2 Chronicles 26:18** 
+**2 Chronicles 26:18**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they withstood Uzziah the king, and said unto him, [It appertaineth] not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither [shall it be] for thine honour from the LORD God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They took their stand against King Uzziah and said, “Uzziah, you have no right
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.17|<< 2 Chronicles 26:17]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.19|2 Chronicles 26:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took their stand  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975G\|יַּעַמְד֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'am.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Samuel 12:4** 
+**2 Samuel 12:4**<big><big>[[2Sam.12.1 Nathan Rebukes David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came a traveller unto the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him; but took the poor man’s lamb, and dressed it for the man that was come to him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now a traveler came to the rich man, who refrained from taking one of his own sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.3|<< 2 Samuel 12:3]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.5|2 Samuel 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּ֣בֹא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a traveler  |**<big>&#8207;[[H1982\|הֵלֶךְ֮]]&#8207; </big>**| he.leKh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

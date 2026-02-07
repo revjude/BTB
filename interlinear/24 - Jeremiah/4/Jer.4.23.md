@@ -1,4 +1,4 @@
-**Jeremiah 4:23** 
+**Jeremiah 4:23**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld the earth, and, lo, [it was] without form, and void; and the heavens, and they [had] no light.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I looked at the earth, and it was formless and void; I looked to the heavens, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.22|<< Jeremiah 4:22]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.24|Jeremiah 4:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I looked at  |**<big>&#8207;[[H7200G\|רָאִ֙יתִי֙]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

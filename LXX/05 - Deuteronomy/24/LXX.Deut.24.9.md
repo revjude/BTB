@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:9** 
 <small><sub>**LXX:**</sub></small>
 Remember as much as \[the\] <span class="smallcaps">lord</span> your God did  to Miriam! in the way of your going forth from Egypt. 
-<small><sub>**KJV:**</sub></small>
-Remember what the LORD thy God did unto Miriam by the way, after that ye were come forth out of Egypt.
-<small><sub>**BSB:**</sub></small>
-Remember what the LORD your God did to Miriam on the journey after you came out of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.8|<< Deuteronomy 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.10|Deuteronomy 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 9:18** 
+**2 Chronicles 9:18**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] six steps to the throne, with a footstool of gold, [which were] fastened to the throne, and stays on each side of the sitting place, and two lions standing by the stays:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The throne had six steps, and a footstool of gold was attached to it. There were
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.17|<< 2 Chronicles 9:17]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.19|2 Chronicles 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and six  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8337\|שֵׁ֣שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shesh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | steps  |**<big>&#8207;[[H4609B\|מַעֲל֣וֹת]]&#8207; </big>**| ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

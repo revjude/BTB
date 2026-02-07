@@ -1,10 +1,7 @@
 **LXX Exodus 5:11** 
 <small><sub>**LXX:**</sub></small>
 You yourselves in going, collect together for yourselves straw! from where ever you should find. For nothing is removed from  your rate, not one \[thing\]. 
-<small><sub>**KJV:**</sub></small>
-Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished.
-<small><sub>**BSB:**</sub></small>
-Go and get your own straw wherever you can find it; but your workload will in no way be reduced.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.10|<< Exodus 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.12|Exodus 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

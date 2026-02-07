@@ -1,10 +1,7 @@
 **LXX Proverbs 5:4** 
 <small><sub>**LXX:**</sub></small>
 Afterwards however you shall find \[it\] more bitter than bile, and being more sharpened rather than a double-edged sword. 
-<small><sub>**KJV:**</sub></small>
-But her end is bitter as wormwood, sharp as a twoedged sword.
-<small><sub>**BSB:**</sub></small>
-in the end she is bitter as wormwood, sharp as a double-edged sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.3|<< Proverbs 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.5|Proverbs 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

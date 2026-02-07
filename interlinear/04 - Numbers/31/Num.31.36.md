@@ -1,4 +1,4 @@
-**Numbers 31:36** 
+**Numbers 31:36**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the half, [which was] the portion of them that went out to war, was in number three hundred thousand and seven and thirty thousand and five hundred sheep:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This was the half portion for those who had gone to war: 337,500 sheep,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.35|<< Numbers 31:35]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.37|Numbers 31:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִי֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the half  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H4275\|מֶּחֱצָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.che.Tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

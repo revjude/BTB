@@ -1,4 +1,4 @@
-**2 Kings 2:17** 
+**2 Kings 2:17**<big><big>[[2Kgs.2.15 Elisha Succeeds Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when they pressed him to the point of embarrassment, he said, “Send them.�
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.16|<< 2 Kings 2:16]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.18|2 Kings 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they urged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6484\|יִּפְצְרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.tze.ru-<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> him  |**<big>&#8207;[[H9003\|ב֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

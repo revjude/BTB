@@ -1,12 +1,12 @@
-**Matthew 12:46
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:46**<big><big>[[Matt.12.46 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While he yet talked to the people, behold, [his] mother and his brethren stood without, desiring to speak with him.
 <small><sub>**BSB:**</sub></small>
 While Jesus was still speaking to the crowds, His mother and brothers stood outside, wanting to speak to Him.
 <small><sub>**Literal:**</sub></small>
 While now when He is speaking to the crowds behold the mother and the brothers of Him had been standing outside seeking to Him to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.45|<< Matthew 12:45]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.47|Matthew 12:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While |**<big>[[G2089\|Ἔτι]]</big>**  |Eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="SBL+TR+Byz">ko</abbr> | |

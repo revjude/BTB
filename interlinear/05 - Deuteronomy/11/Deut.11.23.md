@@ -1,4 +1,4 @@
-**Deuteronomy 11:23** 
+**Deuteronomy 11:23**<big><big>[[Deut.11.18 Remember God’s Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will the LORD drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then the LORD will drive out all these nations before you, and you will disposse
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.22|<< Deuteronomy 11:22]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.24|Deuteronomy 11:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will dispossess  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3423H\|הוֹרִ֧ישׁ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.Rish<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

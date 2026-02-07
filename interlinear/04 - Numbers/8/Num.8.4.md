@@ -1,4 +1,4 @@
-**Numbers 8:4** 
+**Numbers 8:4**<big><big>[[Num.8.1 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this work of the candlestick [was of] beaten gold, unto the shaft thereof, unto the flowers thereof, [was] beaten work: according unto the pattern which the LORD had shewed Moses, so he made the candlestick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is how the lampstand was constructed: it was made of hammered gold from its
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.3|<< Numbers 8:3]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.5|Numbers 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] [the] work of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֤ה]]&#8207; </big>**| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

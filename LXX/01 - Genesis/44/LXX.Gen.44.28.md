@@ -1,10 +1,7 @@
 **LXX Genesis 44:28** 
 <small><sub>**LXX:**</sub></small>
 and the one went forth from me, and you said that, He was devoured by wild beasts. And I did not see him as far as now. 
-<small><sub>**KJV:**</sub></small>
-And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:
-<small><sub>**BSB:**</sub></small>
-When one of them was gone, I said: “Surely he has been torn to pieces.” And I have not seen him since.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.27|<< Genesis 44:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.29|Genesis 44:29 >>]]</td></tr></table>
 
 | Translation | Greek |

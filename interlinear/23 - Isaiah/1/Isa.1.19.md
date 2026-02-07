@@ -1,4 +1,4 @@
-**Isaiah 1:19** 
+**Isaiah 1:19**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye be willing and obedient, ye shall eat the good of the land:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you are willing and obedient, you will eat the best of the land.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.18|<< Isaiah 1:18]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.20|Isaiah 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be willing  |**<big>&#8207;[[H0014\|תֹּאב֖וּ]]&#8207; </big>**| to.Vu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

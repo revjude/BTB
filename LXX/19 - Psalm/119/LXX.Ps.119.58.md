@@ -1,10 +1,7 @@
 **LXX Psalm 119:58** 
 <small><sub>**LXX:**</sub></small>
 I beseeched  your face with my entire heart. Show mercy on me according to  your oracle! 
-<small><sub>**KJV:**</sub></small>
-I intreated thy favour with [my] whole heart: be merciful unto me according to thy word.
-<small><sub>**BSB:**</sub></small>
-I have sought Your face with all my heart; be gracious to me according to Your promise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.57|<< Psalm 119:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.59|Psalm 119:59 >>]]</td></tr></table>
 
 | Translation | Greek |

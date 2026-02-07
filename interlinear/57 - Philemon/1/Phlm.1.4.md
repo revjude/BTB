@@ -1,12 +1,12 @@
-**Philemon 1:4
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:4**<big><big>[[Phlm.1.4 Philemon’s Faith and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I thank my God, making mention of thee always in my prayers,
 <small><sub>**BSB:**</sub></small>
 I always thank my God, remembering you in my prayers,
 <small><sub>**Literal:**</sub></small>
 I thank the God of mine always mention of you making upon the prayers of mine,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.3|<< Philemon 1:3]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.5|Philemon 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I thank |**<big>[[G2168\|Εὐχαριστῶ]]</big>**  |Eucharistō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

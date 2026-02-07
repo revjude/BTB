@@ -1,4 +1,4 @@
-**Judges 19:22** 
+**Judges 19:22**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Now] as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, [and] beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While they were enjoying themselves, suddenly the wicked men of the city surroun
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.21|<< Judges 19:21]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.23|Judges 19:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵמָּה֮]]&#8207; </big>**| he.Mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] making good  |**<big>&#8207;[[H3190\|מֵיטִיבִ֣ים]]&#8207; </big>**| mei.ti.Vim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

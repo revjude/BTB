@@ -1,10 +1,7 @@
 **LXX Isaiah 43:6** 
 <small><sub>**LXX:**</sub></small>
 I will say to the north, Bring! and to the south, Do not restrain! Bring  my sons from a land at a distance, and  my daughters from uttermost parts of the earth, 
-<small><sub>**KJV:**</sub></small>
-I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;
-<small><sub>**BSB:**</sub></small>
-I will say to the north, ‘Give them up!’ and to the south, ‘Do not hold them back!’ Bring My sons from afar, and My daughters from the ends of the earth—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.5|<< Isaiah 43:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.7|Isaiah 43:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 43:6** is...

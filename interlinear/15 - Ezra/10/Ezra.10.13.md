@@ -1,4 +1,4 @@
-**Ezra 10:13** 
+**Ezra 10:13**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the people [are] many, and [it is] a time of much rain, and we are not able to stand without, neither [is this] a work of one day or two: for we are many that have transgressed in this thing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But there are many people here, and it is the rainy season. We are not able to s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.12|<< Ezra 10:12]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.14|Ezra 10:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but  |**<big>&#8207;[[H0061\|אֲבָ֞ל]]&#8207; </big>**| 'a.Val<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֥ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

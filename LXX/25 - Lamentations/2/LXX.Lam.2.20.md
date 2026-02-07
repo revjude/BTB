@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΡΗΣ</p>
 
 Behold, O <span class="smallcaps">lord</span>, and look upon what you gleaned thus! Shall \[the\] women eat \[the\] fruit of their belly? infants nursing breasts be murdered? Shall you kill in \[the\] sanctuary of \[the\] <span class="smallcaps">lord</span> \[the\] priest and prophet? 
-<small><sub>**KJV:**</sub></small>
-Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, [and] children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?
-<small><sub>**BSB:**</sub></small>
-Look, O LORD, and consider: Whom have You ever treated like this? Should women eat their offspring, the infants they have nurtured? Should priests and prophets be killed in the sanctuary of the Lord?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.19|<< Lamentations 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.21|Lamentations 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

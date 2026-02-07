@@ -1,4 +1,4 @@
-**Joshua 11:10** 
+**Joshua 11:10**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Joshua turned back and captured Hazor and put its king to the sword
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.9|<< Joshua 11:9]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.11|Joshua 11:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֨שָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֜עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 33:35** 
 <small><sub>**LXX:**</sub></small>
 And departing from Ebronah, and they camped in Ezion Gaber. 
-<small><sub>**KJV:**</sub></small>
-And they departed from Ebronah, and encamped at Eziongaber.
-<small><sub>**BSB:**</sub></small>
-They set out from Abronah and camped at Ezion-geber.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.34|<< Numbers 33:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.36|Numbers 33:36 >>]]</td></tr></table>
 
 | Translation | Greek |

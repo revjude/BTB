@@ -1,10 +1,7 @@
 **LXX Judges 13:18** 
 <small><sub>**LXX:**</sub></small>
 And the angel \[of the\] <span class="smallcaps">lord</span> said to him, Why \[is\] this you ask  of my name, for it is Wonderful? 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD said unto him, Why askest thou thus after my name, seeing it [is] secret?
-<small><sub>**BSB:**</sub></small>
-“Why do you ask my name,” said the angel of the LORD, “since it is beyond comprehension?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.17|<< Judges 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.19|Judges 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

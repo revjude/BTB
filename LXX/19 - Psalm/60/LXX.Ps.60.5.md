@@ -1,10 +1,7 @@
 **LXX Psalm 60:5** 
 <small><sub>**LXX:**</sub></small>
 So that your beloved should be rescued. Deliver \[with\] your \[hand\], and heed me! 
-<small><sub>**KJV:**</sub></small>
-That thy beloved may be delivered; save [with] thy right hand, and hear me.
-<small><sub>**BSB:**</sub></small>
-Respond and save us with Your right hand, that Your beloved may be delivered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.60.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.4|<< Psalm 60:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.6|Psalm 60:6 >>]]</td></tr></table>
 
 | Translation | Greek |

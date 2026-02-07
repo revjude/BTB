@@ -1,10 +1,7 @@
 **LXX Psalm 109:13** 
 <small><sub>**LXX:**</sub></small>
 his children be \[given\] for devastation! In one generation his name be wiped away! 
-<small><sub>**KJV:**</sub></small>
-Let his posterity be cut off; [and] in the generation following let their name be blotted out.
-<small><sub>**BSB:**</sub></small>
-May his descendants be cut off; may their name be blotted out from the next generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.12|<< Psalm 109:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.14|Psalm 109:14 >>]]</td></tr></table>
 
 | Translation | Greek |

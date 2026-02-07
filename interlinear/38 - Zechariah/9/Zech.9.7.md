@@ -1,4 +1,4 @@
-**Zechariah 9:7** 
+**Zechariah 9:7**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, [shall be] for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will remove the blood from their mouths and the abominations from between thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.6|<< Zechariah 9:6]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.8|Zechariah 9:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will remove  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493G\|הֲסִרֹתִ֨י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.si.ro.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blood\<s> its  |**<big>&#8207;[[H1818\|דָמָ֜י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| da.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

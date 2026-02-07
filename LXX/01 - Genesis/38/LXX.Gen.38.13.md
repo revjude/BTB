@@ -1,10 +1,7 @@
 **LXX Genesis 38:13** 
 <small><sub>**LXX:**</sub></small>
 And it was reported to Tamar  his daughter-in-law, saying, Behold,  your father-in-law ascends to Timnath, to shear  his sheep. 
-<small><sub>**KJV:**</sub></small>
-And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.
-<small><sub>**BSB:**</sub></small>
-When Tamar was told, “Your father-in-law is going up to Timnah to shear his sheep,”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.12|<< Genesis 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.14|Genesis 38:14 >>]]</td></tr></table>
 
 | Translation | Greek |

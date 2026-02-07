@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you took from  your garments, and you made for yourself idols strung together. And you fornicated upon them. And in no way should you enter nor should it be. 
-<small><sub>**KJV:**</sub></small>
-And of thy garments thou didst take, and deckedst thy high places with divers colours, and playedst the harlot thereupon: [the like things] shall not come, neither shall it be [so].
-<small><sub>**BSB:**</sub></small>
-You took some of your garments and made colorful high places for yourself, and on them you prostituted yourself. Such things should not have happened; never should they have occurred!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.15|<< Ezekiel 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.17|Ezekiel 16:17 >>]]</td></tr></table>
 
 | Translation | Greek |

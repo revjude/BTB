@@ -1,4 +1,4 @@
-**Psalms 72:3** 
+**Psalms 72:3**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mountains shall bring peace to the people, and the little hills, by righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the mountains bring peace to the people, and the hills bring righteousness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.2|<< Psalms 72:2]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.4|Psalms 72:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will carry  |**<big>&#8207;[[H5375H\|יִשְׂא֤וּ]]&#8207; </big>**| yis.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mountains  |**<big>&#8207;[[H2022G\|הָרִ֓ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

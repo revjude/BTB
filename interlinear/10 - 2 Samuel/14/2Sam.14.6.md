@@ -1,4 +1,4 @@
-**2 Samuel 14:6** 
+**2 Samuel 14:6**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy handmaid had two sons, and they two strove together in the field, and [there was] none to part them, but the one smote the other, and slew him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And your maidservant had two sons who were fighting in the field with no one to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.5|<< 2 Samuel 14:5]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.7|2 Samuel 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belonged] to maidservant your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8198\|שִׁפְחָֽתְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> shif.cha.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנֵ֣י]]&#8207; </big>**| she.Nei<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

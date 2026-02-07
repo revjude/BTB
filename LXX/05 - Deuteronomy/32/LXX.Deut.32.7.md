@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:7** 
 <small><sub>**LXX:**</sub></small>
 Remember \[the\] days of \[the\] eon! Perceive indeed \[the\] years \[of the\] generations of generations! Ask  your father, and he will announce to you;  your elders, and they shall speak to you. 
-<small><sub>**KJV:**</sub></small>
-Remember the days of old, consider the years of many generations: ask thy father, and he will shew thee; thy elders, and they will tell thee.
-<small><sub>**BSB:**</sub></small>
-Remember the days of old; consider the years long past. Ask your father, and he will tell you, your elders, and they will inform you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.6|<< Deuteronomy 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.8|Deuteronomy 32:8 >>]]</td></tr></table>
 
 | Translation | Greek |

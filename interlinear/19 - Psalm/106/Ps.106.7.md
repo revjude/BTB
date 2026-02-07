@@ -1,4 +1,4 @@
-**Psalms 106:7** 
+**Psalms 106:7**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked [him] at the sea, [even] at the Red sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our fathers in Egypt did not grasp Your wonders or remember Your abundant kindne
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.6|<< Psalms 106:6]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.8|Psalms 106:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ancestors our  |**<big>&#8207;[[H0001G\|אֲב֘וֹתֵ֤י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'a.Vo.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Egypt  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4714G\|מִצְרַ֨יִם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

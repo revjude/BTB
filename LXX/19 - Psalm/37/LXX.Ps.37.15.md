@@ -1,10 +1,7 @@
 **LXX Psalm 37:15** 
 <small><sub>**LXX:**</sub></small>
  May their broadsword enter into  their \[own\] hearts; and  may their bows be broken. 
-<small><sub>**KJV:**</sub></small>
-Their sword shall enter into their own heart, and their bows shall be broken.
-<small><sub>**BSB:**</sub></small>
-But their swords will pierce their own hearts, and their bows will be broken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.14|<< Psalm 37:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.16|Psalm 37:16 >>]]</td></tr></table>
 
 | Translation | Greek |

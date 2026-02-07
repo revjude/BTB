@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:6** 
 <small><sub>**LXX:**</sub></small>
 And the ones running went with the letters from the king and from the rulers, into all Israel and Judah, according to the order of the king, saying,  Sons of Israel, return to \[the\] <span class="smallcaps">lord</span> God of Abraham, and Isaac, and Jacob! and he will return to the ones having escaped,  surviving from \[the\] hand of \[the\] king of Assyria. 
-<small><sub>**KJV:**</sub></small>
-So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the LORD God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria.
-<small><sub>**BSB:**</sub></small>
-At the command of the king, the couriers went throughout Israel and Judah with letters from the king and his officials, which read: “Children of Israel, return to the LORD, the God of Abraham, Isaac, and Israel, so that He may return to those of you who remain, who have escaped the grasp of the kings of Assyria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.5|<< 2 Chronicles 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.7|2 Chronicles 30:7 >>]]</td></tr></table>
 
 | Translation | Greek |

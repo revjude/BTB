@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:19** 
 <small><sub>**LXX:**</sub></small>
 And lest at any time looking up into the heaven, and beholding the sun, and the moon, and the stars, and all the cosmos of the heaven wandering, you should do obeisance to them, and you should serve them, which \[the\] <span class="smallcaps">lord</span> your God bestowed them to all the nations  underneath the heaven. 
-<small><sub>**KJV:**</sub></small>
-And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, [even] all the host of heaven, shouldest be driven to worship them, and serve them, which the LORD thy God hath divided unto all nations under the whole heaven.
-<small><sub>**BSB:**</sub></small>
-When you look to the heavens and see the sun and moon and stars—all the host of heaven—do not be enticed to bow down and worship what the LORD your God has apportioned to all the nations under heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.18|<< Deuteronomy 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.20|Deuteronomy 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

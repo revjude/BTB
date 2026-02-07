@@ -1,4 +1,4 @@
-**Leviticus 11:9** 
+**Leviticus 11:9**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These shall ye eat of all that [are] in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Of all the creatures that live in the water, whether in the seas or in the strea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.8|<< Leviticus 11:8]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.10|Leviticus 11:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶה֙]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

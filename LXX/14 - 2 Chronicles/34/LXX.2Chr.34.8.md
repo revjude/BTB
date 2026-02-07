@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:8** 
 <small><sub>**LXX:**</sub></small>
 And in the eighteenth year  of his kingdom, when he urged  the land and the house to be cleansed, he sent  Shaphan son of Azaliah, and  Maaseiah ruler of the city, and  Joah son of Joahaz the recorder,  to fortify the house of \[the\] <span class="smallcaps">lord</span>  his God. 
-<small><sub>**KJV:**</sub></small>
-Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the LORD his God.
-<small><sub>**BSB:**</sub></small>
-Now in the eighteenth year of his reign, in order to cleanse the land and the temple, Josiah sent Shaphan son of Azaliah, Maaseiah the governor of the city, and Joah son of Joahaz, the recorder, to repair the house of the LORD his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.7|<< 2 Chronicles 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.9|2 Chronicles 34:9 >>]]</td></tr></table>
 
 | Translation | Greek |

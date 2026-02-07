@@ -1,10 +1,7 @@
 **LXX Genesis 31:35** 
 <small><sub>**LXX:**</sub></small>
 And she said  to her father, Do not bear heavily, O master, I shall not be able to rise up before you, for the  custom  of women is to me. And Laban searched in \[the\] entire  house, and he did not find the idols. 
-<small><sub>**KJV:**</sub></small>
-And she said to her father, Let it not displease my lord that I cannot rise up before thee; for the custom of women [is] upon me. And he searched, but found not the images.
-<small><sub>**BSB:**</sub></small>
-Rachel said to her father, “Sir, do not be angry that I cannot stand up before you; for I am having my period.” So Laban searched but could not find the household idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.34|<< Genesis 31:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.36|Genesis 31:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 78:29** 
+**Psalms 78:29**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they did eat, and were well filled: for he gave them their own desire;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they ate and were well filled, for He gave them what they craved.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.28|<< Psalms 78:28]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.30|Psalms 78:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they ate  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|יֹּאכְל֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.khe.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they were satisfied  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7646\|יִּשְׂבְּע֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.be.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

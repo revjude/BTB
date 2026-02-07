@@ -1,12 +1,12 @@
-**Romans 6:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:11**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
 <small><sub>**BSB:**</sub></small>
 So you too must count yourselves dead to sin, but alive to God in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 So also <you yourselves> do consider yourselves to be dead indeed <the> to sin living however <the> to God in Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.10|<< Romans 6:10]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.12|Romans 6:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

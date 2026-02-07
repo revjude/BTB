@@ -1,10 +1,7 @@
 **LXX Proverbs 10:8** 
 <small><sub>**LXX:**</sub></small>
 A wise heart shall receive commandments; but the open-mouthed shall be tripped up by crooked lips. 
-<small><sub>**KJV:**</sub></small>
-The wise in heart will receive commandments: but a prating fool shall fall.
-<small><sub>**BSB:**</sub></small>
-A wise heart will receive commandments, but foolish lips will come to ruin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.7|<< Proverbs 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.9|Proverbs 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

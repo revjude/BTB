@@ -1,10 +1,7 @@
 **LXX Psalm 18:11** 
 <small><sub>**LXX:**</sub></small>
 And he established darkness for his concealment. Round about him  \[was\] his tent; dark water in clouds of air. 
-<small><sub>**KJV:**</sub></small>
-He made darkness his secret place; his pavilion round about him [were] dark waters [and] thick clouds of the skies.
-<small><sub>**BSB:**</sub></small>
-He made darkness His hiding place, and storm clouds a canopy around Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.10|<< Psalm 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.12|Psalm 18:12 >>]]</td></tr></table>
 
 | Translation | Greek |

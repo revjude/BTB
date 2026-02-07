@@ -1,5 +1,5 @@
-**Galatians 4:27
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:27**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is written, Rejoice, [thou] barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.
 <small><sub>**BSB:**</sub></small>
 For it is written: “Rejoice, O barren woman, who bears no children; break forth and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband.”
@@ -10,7 +10,7 @@ It has been written for: do rejoice O barren woman you who [are] not bearing, do
 > $\quad$ referencing: [[LXX.Isa.54.1|Isa 54:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It has been written |**<big>[[G1125\|γέγραπται]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for: |**<big>[[G1063\|γάρ·]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

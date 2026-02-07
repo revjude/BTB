@@ -1,4 +1,4 @@
-**Jeremiah 21:13** 
+**Jeremiah 21:13**<big><big>[[Jer.21.11 A Message to the House of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I [am] against thee, O inhabitant of the valley, [and] rock of the plain, saith the LORD; which say, Who shall come down against us? or who shall enter into our habitations?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I am against you who dwell above the valley, atop the rocky plateau—de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.12|<< Jeremiah 21:12]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.14|Jeremiah 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] against you  |**<big>&#8207;[[H0413\|אֵלַ֜יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'e.La.yi<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

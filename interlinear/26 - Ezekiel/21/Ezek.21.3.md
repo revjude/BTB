@@ -1,4 +1,4 @@
-**Ezekiel 21:3** (21:8)
+**Ezekiel 21:3**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say to the land of Israel, Thus saith the LORD; Behold, I [am] against thee, and will draw forth my sword out of his sheath, and will cut off from thee the righteous and the wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and tell her that this is what the LORD says: ‘I am against you, and I will dr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.2|<< Ezekiel 21:2]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.4|Ezekiel 21:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] land of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0127G\|אַדְמַ֣ת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ad.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 16:9** 
+**Numbers 16:9**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Seemeth it but] a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the LORD, and to stand before the congregation to minister unto them?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is it not enough for you that the God of Israel has separated you from the congr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.8|<< Numbers 16:8]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.10|Numbers 16:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [is it too] small  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H4592\|מְעַ֣ט]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> m.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9036\|כֶּ֗ם]]&#8207; </big>**| mi.<small><sup>[[HRd]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

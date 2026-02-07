@@ -1,10 +1,7 @@
 **LXX Judges 18:25** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Dan said to him, Your voice should not be heard with us, lest at any time men in severe pain of soul should confront you, and you shall add  your life, and the life  of your household. 
-<small><sub>**KJV:**</sub></small>
-And the children of Dan said unto him, Let not thy voice be heard among us, lest angry fellows run upon thee, and thou lose thy life, with the lives of thy household.
-<small><sub>**BSB:**</sub></small>
-The Danites said to him, “Do not raise your voice against us, or angry men will attack you, and you and your family will lose your lives.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.24|<< Judges 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.26|Judges 18:26 >>]]</td></tr></table>
 
 | Translation | Greek |

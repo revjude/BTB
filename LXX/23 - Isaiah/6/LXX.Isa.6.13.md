@@ -1,10 +1,7 @@
 **LXX Isaiah 6:13** 
 <small><sub>**LXX:**</sub></small>
 But still upon it is the tenth part, and again it will be for plunder. As a terebinth tree, and as an acorn whenever it should fall from out of  its casing -- \[the\] holy seed  \[is\] its pillar. 
-<small><sub>**KJV:**</sub></small>
-But yet in it [shall be] a tenth, and [it] shall return, and shall be eaten: as a teil tree, and as an oak, whose substance [is] in them, when they cast [their leaves: so] the holy seed [shall be] the substance thereof.
-<small><sub>**BSB:**</sub></small>
-And though a tenth remains in the land, it will be burned again. As the terebinth and oak leave stumps when felled, so the holy seed will be a stump in the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.12|<< Isaiah 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.1|Isaiah 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

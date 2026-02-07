@@ -1,12 +1,12 @@
-**Matthew 8:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:31**<big><big>[[Matt.8.28 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
 <small><sub>**BSB:**</sub></small>
 So the demons begged Jesus, “If You drive us out, send us into the herd of pigs.”
 <small><sub>**Literal:**</sub></small>
 <the> And the demons were begging Him saying; If You cast out us, do allow do send away us into the herd <the> of pigs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.30|<< Matthew 8:30]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.32|Matthew 8:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

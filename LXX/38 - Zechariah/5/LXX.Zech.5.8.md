@@ -1,10 +1,7 @@
 **LXX Zechariah 5:8** 
 <small><sub>**LXX:**</sub></small>
 And he said, This is  lawlessness. And he tossed it into \[the\] midst of the measure \[basket\], and he tossed the stone  of lead into  her mouth. 
-<small><sub>**KJV:**</sub></small>
-And he said, This [is] wickedness. And he cast it into the midst of the ephah; and he cast the weight of lead upon the mouth thereof.
-<small><sub>**BSB:**</sub></small>
-“This is Wickedness,” he said. And he shoved her down into the basket, pushing down the lead cover over its opening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.7|<< Zechariah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.9|Zechariah 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

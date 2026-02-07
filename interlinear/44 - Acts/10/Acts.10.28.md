@@ -1,12 +1,12 @@
-**Acts 10:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:28**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.
 <small><sub>**BSB:**</sub></small>
 He said to them, “You know how unlawful it is for a Jew to associate with a foreigner or visit him. But God has shown me that I should not call any man impure or unclean.
 <small><sub>**Literal:**</sub></small>
 He was saying then to them; You yourselves know how unlawful it is for a man Jewish to unite himself or to come near to [someone] foreign; And to me <the> God has shown nothing common or unclean to call man,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.27|<< Acts 10:27]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.29|Acts 10:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was saying |**<big>[[G5346\|ἔφη]]</big>**  |ephē <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

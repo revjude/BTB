@@ -1,4 +1,4 @@
-**Numbers 28:5** 
+**Numbers 28:5**<big><big>[[Num.28.1 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a tenth [part] of an ephah of flour for a meat offering, mingled with the fourth [part] of an hin of beaten oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ along with a tenth of an ephah of fine flour as a grain offering, mixed with a q
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.4|<< Numbers 28:4]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.6|Numbers 28:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] tenth of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6224\|עֲשִׂירִ֧ית]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.si.Rit<small><sup>[[HAofsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> ephah  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0374\|אֵיפָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'ei.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

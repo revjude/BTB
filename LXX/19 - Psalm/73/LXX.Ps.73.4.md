@@ -1,10 +1,7 @@
 **LXX Psalm 73:4** 
 <small><sub>**LXX:**</sub></small>
 For there is no sign of reluctance in  their death, nor confirmation in  their whip. 
-<small><sub>**KJV:**</sub></small>
-For [there are] no bands in their death: but their strength [is] firm.
-<small><sub>**BSB:**</sub></small>
-They have no struggle in their death; their bodies are well-fed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.3|<< Psalm 73:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.5|Psalm 73:5 >>]]</td></tr></table>
 
 | Translation | Greek |

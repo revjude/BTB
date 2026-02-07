@@ -1,4 +1,4 @@
-**Deuteronomy 11:7** 
+**Deuteronomy 11:7**<big><big>[[Deut.11.1 Obedience and Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But your eyes have seen all the great acts of the LORD which he did.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For it is your own eyes that have seen every great work that the LORD has done.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.6|<< Deuteronomy 11:6]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.8|Deuteronomy 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes your  |**<big>&#8207;[[H5869A\|עֵֽינֵי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

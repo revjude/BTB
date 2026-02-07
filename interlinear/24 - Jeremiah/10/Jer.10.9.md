@@ -1,4 +1,4 @@
-**Jeremiah 10:9** 
+**Jeremiah 10:9**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple [is] their clothing: they [are] all the work of cunning [men].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hammered silver is brought from Tarshish, and gold from Uphaz—the work of a cr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.8|<< Jeremiah 10:8]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.10|Jeremiah 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | silver  |**<big>&#8207;[[H3701G\|כֶּ֣סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | beaten  |**<big>&#8207;[[H7554\|מְרֻקָּ֞ע]]&#8207; </big>**| me.ru.Ka'<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

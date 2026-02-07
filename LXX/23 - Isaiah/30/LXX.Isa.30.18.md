@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And again God will wait  \[so as\] to pity you. And on account of this he shall be raised up high  to show mercy on you, because \[the\] <span class="smallcaps">lord</span> your God is judge. Blessed \[are\] all the ones adhering in him. 
-<small><sub>**KJV:**</sub></small>
-And therefore will the LORD wait, that he may be gracious unto you, and therefore will he be exalted, that he may have mercy upon you: for the LORD [is] a God of judgment: blessed [are] all they that wait for him.
-<small><sub>**BSB:**</sub></small>
-Therefore the LORD longs to be gracious to you; therefore He rises to show you compassion, for the LORD is a just God. Blessed are all who wait for Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.17|<< Isaiah 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.19|Isaiah 30:19 >>]]</td></tr></table>
 
 | Translation | Greek |

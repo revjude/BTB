@@ -1,12 +1,12 @@
-**Ephesians 6:11
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:11**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
 <small><sub>**BSB:**</sub></small>
 Put on the full armor of God, so that you can make your stand against the devil’s schemes.
 <small><sub>**Literal:**</sub></small>
 do put on the complete armor <the> of God for <the> to be able you to stand against the schemes of the devil;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.10|<< Ephesians 6:10]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.12|Ephesians 6:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do put on |**<big>[[G1746\|ἐνδύσασθε]]</big>**  |endusasthe <small><sup>[[V-AMM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 13:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:19**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [in] those days shall be affliction, such as was not from the beginning of the creation which God created unto this time, neither shall be.
 <small><sub>**BSB:**</sub></small>
 For those will be days of tribulation unseen from the beginning of God’s creation until now, and never to be seen again.
 <small><sub>**Literal:**</sub></small>
 will be [in] for the days those tribulation such as never has been [the] like from [the] beginning of creation which created <the> God until <the> now — and certainly not may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.18|<< Mark 13:18]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.20|Mark 13:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | will be [in] |**<big>[[G1510\|ἔσονται]]</big>**  |esontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

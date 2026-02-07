@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Return, O Israel, to \[the\] <span class="smallcaps">lord</span>  your God! for you are weakened by  your iniquities. 
-<small><sub>**KJV:**</sub></small>
-O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.
-<small><sub>**BSB:**</sub></small>
-Return, O Israel, to the LORD your God, for you have stumbled by your iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.16|<< Hosea 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.14.2|Hosea 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

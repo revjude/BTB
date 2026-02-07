@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:13** 
 <small><sub>**LXX:**</sub></small>
 And I gave charge unto \[the\] hand of Shelemiah the priest, and Zadok the scribe, and Pedaiah of the Levites; and near their hand \[was\] Hanan son of Zaccur, son of Mattaniah. For they were considered trustworthy, \[as it was\] upon them to portion \[out\] \[to\] their brethren. 
-<small><sub>**KJV:**</sub></small>
-And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them [was] Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office [was] to distribute unto their brethren.
-<small><sub>**BSB:**</sub></small>
-I appointed as treasurers over the storerooms Shelemiah the priest, Zadok the scribe, and Pedaiah of the Levites, with Hanan son of Zaccur, the son of Mattaniah, to assist them, because they were considered trustworthy. They were responsible for distributing the supplies to their fellow Levites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.12|<< Nehemiah 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.14|Nehemiah 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

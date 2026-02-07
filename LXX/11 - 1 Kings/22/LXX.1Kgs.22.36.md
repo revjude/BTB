@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:36** 
 <small><sub>**LXX:**</sub></small>
 And the herald of the army stood in the camp \[until the\] going down of the sun, saying, Each to  his own city, and each to  his own land, 
-<small><sub>**KJV:**</sub></small>
-And there went a proclamation throughout the host about the going down of the sun, saying, Every man to his city, and every man to his own country.
-<small><sub>**BSB:**</sub></small>
-As the sun was setting, the cry rang out in the army: “Every man to his own city, and every man to his own land!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.35|<< 1 Kings 22:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.37|1 Kings 22:37 >>]]</td></tr></table>
 
 | Translation | Greek |

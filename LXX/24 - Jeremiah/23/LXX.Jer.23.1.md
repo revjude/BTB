@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 O the shepherds, the ones scattering and destroying the sheep  of my pasture. 
-<small><sub>**KJV:**</sub></small>
-Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“Woe to the shepherds who destroy and scatter the sheep of My pasture!” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.30|<< Jeremiah 22:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.2|Jeremiah 23:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 10:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:15**<big><big>[[Mark.10.13 Jesus Blesses the Children|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.”
 <small><sub>**Literal:**</sub></small>
 Amen I say to you, who[ever] only unless shall receive the kingdom <the> of God as a child, certainly not shall enter into it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.14|<< Mark 10:14]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.16|Mark 10:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|Ἀμὴν]]</big>**  |Amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 44:7** 
+**Jeremiah 44:7**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore now thus saith the LORD, the God of hosts, the God of Israel; Wherefore commit ye [this] great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, this is what the LORD God of Hosts, the God of Israel, says: Why are you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.6|<< Jeremiah 44:6]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.8|Jeremiah 44:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

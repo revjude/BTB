@@ -1,12 +1,12 @@
-**Acts 5:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:23**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within.
 <small><sub>**BSB:**</sub></small>
 “We found the jail securely locked, with the guards posted at the doors; but when we opened them, we found no one inside.”
 <small><sub>**Literal:**</sub></small>
 saying that The indeed prison house we found shut with all security and the guards outside already standing before the doors, having opened [them] however inside no [one] we found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.22|<< Acts 5:22]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.24|Acts 5:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγοντες]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Kings 18:2** 
+**1 Kings 18:2**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah went to shew himself unto Ahab. And [there was] a sore famine in Samaria.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Elijah went to present himself to Ahab. The famine was severe in Samaria,
 > $\quad$ referenced by: [[Luke.4.25|Luke 4:25-26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֙לֶךְ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elijah  |**<big>&#8207;[[H0452G\|אֵֽלִיָּ֔הוּ]]&#8207; </big>**| 'e.li.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

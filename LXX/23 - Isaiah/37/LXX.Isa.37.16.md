@@ -1,10 +1,7 @@
 **LXX Isaiah 37:16** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span> of Hosts,  God of Israel, the one sitting upon the cherubim. You are  God alone of every kingdom of the world. You made the heaven and the earth. 
-<small><sub>**KJV:**</sub></small>
-O LORD of hosts, God of Israel, that dwellest [between] the cherubims, thou [art] the God, [even] thou alone, of all the kingdoms of the earth: thou hast made heaven and earth.
-<small><sub>**BSB:**</sub></small>
-“O LORD of Hosts, God of Israel, enthroned above the cherubim, You alone are God over all the kingdoms of the earth. You made the heavens and the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.15|<< Isaiah 37:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.17|Isaiah 37:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 37:16** is...

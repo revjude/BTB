@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the angel of \[the\] <span class="smallcaps">lord</span> said to her, Behold, you have \[a child\] in \[the\] womb, and you shall bear a son, and you shall call  his name, Ishmael, for \[the\] <span class="smallcaps">lord</span> heeded  your humiliation. 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD said unto her, Behold, thou [art] with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction.
-<small><sub>**BSB:**</sub></small>
-The angel of the LORD proceeded: “Behold, you have conceived and will bear a son. And you shall name him Ishmael, for the LORD has heard your cry of affliction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.10|<< Genesis 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.12|Genesis 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

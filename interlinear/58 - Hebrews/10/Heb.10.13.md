@@ -1,5 +1,5 @@
-**Hebrews 10:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:13**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 From henceforth expecting till his enemies be made his footstool.
 <small><sub>**BSB:**</sub></small>
 Since that time, He waits for His enemies to be made a footstool for His feet,
@@ -10,7 +10,7 @@ the henceforth awaiting until may be placed the enemies of Him [as] a footstool 
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | henceforth |**<big>[[G3063\|λοιπὸν]]</big>**  |loipon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

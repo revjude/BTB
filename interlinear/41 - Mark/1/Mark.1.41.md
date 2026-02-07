@@ -1,12 +1,12 @@
-**Mark 1:41
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:41**<big><big>[[Mark.1.40 The Leper’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus, moved with compassion, put forth [his] hand, and touched him, and saith unto him, I will; be thou clean.
 <small><sub>**BSB:**</sub></small>
 Moved with compassion, Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!”
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus having compassion having stretched out the hand of Him He touched him and says to him; I am willing, do be cleansed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.40|<< Mark 1:40]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.42|Mark 1:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | And [^1] |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

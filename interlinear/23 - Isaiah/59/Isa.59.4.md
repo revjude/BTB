@@ -1,4 +1,4 @@
-**Isaiah 59:4** 
+**Isaiah 59:4**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 None calleth for justice, nor [any] pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No one calls for justice; no one pleads his case honestly. They rely on empty pl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.3|<< Isaiah 59:3]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.5|Isaiah 59:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is one who] calls  |**<big>&#8207;[[H7121G\|קֹרֵ֣א]]&#8207; </big>**| ko.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

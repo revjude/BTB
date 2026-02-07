@@ -1,4 +1,4 @@
-**Daniel 1:4** 
+**Daniel 1:4**<big><big>[[Dan.1.1 Daniel Removed to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Children in whom [was] no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as [had] ability in them to stand in the king’s palace, and whom they might teach the learning and the tongue of the Chaldeans.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ young men without blemish, handsome, gifted in all wisdom, knowledgeable, quick 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.3|<< Daniel 1:3]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.5|Daniel 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | youths  |**<big>&#8207;[[H3206\|יְלָדִ֣ים]]&#8207; </big>**| ye.la.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

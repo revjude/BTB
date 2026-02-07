@@ -1,4 +1,4 @@
-**Daniel 12:11** 
+**Daniel 12:11**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from the time [that] the daily [sacrifice] shall be taken away, and the abomination that maketh desolate set up, [there shall be] a thousand two hundred and ninety days.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And from the time the daily sacrifice is abolished and the abomination of desola
 > $\quad$ referenced by: [[Matt.24.15|Matt 24:15]] ☩ [[Mark.13.14|Mark 13:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] time  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6256\|עֵת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [when] it was abolished  |**<big>&#8207;[[H5493G\|הוּסַ֣ר]]&#8207; </big>**| hu.Sar<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

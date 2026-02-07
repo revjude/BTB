@@ -1,4 +1,4 @@
-**Numbers 23:16** 
+**Numbers 23:16**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD met with Balaam and put a message in his mouth, saying, “Return t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.15|<< Numbers 23:15]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.17|Numbers 23:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he met  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7136A\|יִּקָּ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kar<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

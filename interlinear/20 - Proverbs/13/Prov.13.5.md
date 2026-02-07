@@ -1,4 +1,4 @@
-**Proverbs 13:5** 
+**Proverbs 13:5**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A righteous [man] hateth lying: but a wicked [man] is loathsome, and cometh to shame.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteous hate falsehood, but the wicked bring shame and disgrace.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.4|<< Proverbs 13:4]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.6|Proverbs 13:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a word of  |**<big>&#8207;[[H1697M\|דְּבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.va.ro.She-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | falsehood  |**<big>&#8207;[[H8267\|שֶׁ֭קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

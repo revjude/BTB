@@ -1,4 +1,4 @@
-**Exodus 19:19** 
+**Exodus 19:19**<big><big>[[Exod.19.16 The LORD Visits Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the voice of the trumpet sounded long, and waxed louder and louder, Moses spake, and God answered him by a voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as the sound of the ram’s horn grew louder and louder, Moses spoke and God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.18|<< Exodus 19:18]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.20|Exodus 19:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sound of  |**<big>&#8207;[[H6963H\|ק֣וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

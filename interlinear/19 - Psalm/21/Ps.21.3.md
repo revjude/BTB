@@ -1,4 +1,4 @@
-**Psalms 21:3** (21:4)
+**Psalms 21:3**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You welcomed him with rich blessings; You placed on his head a crown of pure
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.2|<< Psalms 21:2]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.4|Psalms 21:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you meet him  |**<big>&#8207;[[H6923\|תְ֭קַדְּמֶ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| Te.kad.de.me.<small><sup>[[HVpi2ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

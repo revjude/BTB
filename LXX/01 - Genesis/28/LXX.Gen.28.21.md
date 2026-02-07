@@ -1,10 +1,7 @@
 **LXX Genesis 28:21** 
 <small><sub>**LXX:**</sub></small>
 and will return me with safety unto the house  of my father, and \[the\] <span class="smallcaps">lord</span> will be to me for God, 
-<small><sub>**KJV:**</sub></small>
-So that I come again to my father’s house in peace; then shall the LORD be my God:
-<small><sub>**BSB:**</sub></small>
-so that I may return safely to my father’s house, then the LORD will be my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.20|<< Genesis 28:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.22|Genesis 28:22 >>]]</td></tr></table>
 
 | Translation | Greek |

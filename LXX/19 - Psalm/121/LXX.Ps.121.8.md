@@ -1,10 +1,7 @@
 **LXX Psalm 121:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> shall guard  your entrance and  your exit, from the present and unto the eon. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.
-<small><sub>**BSB:**</sub></small>
-The LORD will watch over your coming and going, both now and forevermore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.121.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.121.7|<< Psalm 121:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.122.1|Psalm 122:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 11:13** 
+**Isaiah 11:13**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the jealousy of Ephraim will depart, and the adversaries of Judah will be c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.12|<< Isaiah 11:12]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.14|Isaiah 11:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will come to an end  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5493H\|סָ֙רָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sa.rah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] jealousy of  |**<big>&#8207;[[H7068\|קִנְאַ֣ת]]&#8207; </big>**| kin.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

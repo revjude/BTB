@@ -1,4 +1,4 @@
-**Psalms 79:7** 
+**Psalms 79:7**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they have devoured Jacob, and laid waste his dwelling place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for they have devoured Jacob and devastated his homeland.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.6|<< Psalms 79:6]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.8|Psalms 79:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֭י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has consumed  |**<big>&#8207;[[H0398\|אָכַ֣ל]]&#8207; </big>**| 'a.Khal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

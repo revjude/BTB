@@ -1,4 +1,4 @@
-**Ezekiel 37:18** 
+**Ezekiel 37:18**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou [meanest] by these?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When your people ask you, ‘Won’t you explain to us what you mean by these?�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.17|<< Ezekiel 37:17]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.19|Ezekiel 37:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just when  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כַֽ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will say  |**<big>&#8207;[[H0559\|יֹאמְר֣וּ]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

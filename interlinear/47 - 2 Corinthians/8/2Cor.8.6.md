@@ -1,12 +1,12 @@
-**2 Corinthians 8:6
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:6**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.
 <small><sub>**BSB:**</sub></small>
 So we urged Titus to help complete your act of grace, just as he had started it.
 <small><sub>**Literal:**</sub></small>
 Accordingly <the> exhorting we Titus, that even as he had begun so also he may complete with you as well <the> grace this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.5|<< 2 Corinthians 8:5]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.7|2 Corinthians 8:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Accordingly |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

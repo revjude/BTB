@@ -1,10 +1,7 @@
 **LXX Hosea 5:14** 
 <small><sub>**LXX:**</sub></small>
 For I am as a panther  to Ephraim, and as a lion to the house of Judah. And I will seize by force, and I will go, and I will take, and there shall not be  one rescuing. 
-<small><sub>**KJV:**</sub></small>
-For I [will be] unto Ephraim as a lion, and as a young lion to the house of Judah: I, [even] I, will tear and go away; I will take away, and none shall rescue [him].
-<small><sub>**BSB:**</sub></small>
-For I am like a lion to Ephraim and like a young lion to the house of Judah. I, even I, will tear them to pieces and then go away. I will carry them off where no one can rescue them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.13|<< Hosea 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.15|Hosea 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

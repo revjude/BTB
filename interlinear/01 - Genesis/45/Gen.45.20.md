@@ -1,4 +1,4 @@
-**Genesis 45:20** 
+**Genesis 45:20**<big><big>[[Gen.45.16 Pharaoh Invites Jacob to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also regard not your stuff; for the good of all the land of Egypt [is] yours.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But pay no regard to your belongings, for the best of all the land of Egypt is y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.19|<< Genesis 45:19]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.21|Genesis 45:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and eye your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5869A\|עֵ֣ינְ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ei.ne.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

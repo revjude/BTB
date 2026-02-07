@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:24** 
 <small><sub>**LXX:**</sub></small>
 And the woman said to Elijah, Behold, I know that you are a man of God, and \[the\] word of \[the\] <span class="smallcaps">lord</span> in  your mouth \[is\] true. 
-<small><sub>**KJV:**</sub></small>
-And the woman said to Elijah, Now by this I know that thou [art] a man of God, [and] that the word of the LORD in thy mouth [is] truth.
-<small><sub>**BSB:**</sub></small>
-Then the woman said to Elijah, “Now I know that you are a man of God and that the word of the LORD from your mouth is truth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.23|<< 1 Kings 17:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.1|1 Kings 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

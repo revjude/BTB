@@ -1,4 +1,4 @@
-**2 Chronicles 18:26** 
+**2 Chronicles 18:26**<big><big>[[2Chr.18.12 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say, Thus saith the king, Put this [fellow] in the prison, and feed him with bread of affliction and with water of affliction, until I return in peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and tell them that this is what the king says: ‘Put this man in prison and fee
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.25|<< 2 Chronicles 18:25]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.27|2 Chronicles 18:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|אֲמַרְתֶּ֗ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֚ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 32:17** 
 <small><sub>**LXX:**</sub></small>
 And the works of righteousness shall be peace; and righteousness shall reach rest, and \[the\] ones relying shall be unto the eon. 
-<small><sub>**KJV:**</sub></small>
-And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever.
-<small><sub>**BSB:**</sub></small>
-The work of righteousness will be peace; the service of righteousness will be quiet confidence forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.16|<< Isaiah 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.18|Isaiah 32:18 >>]]</td></tr></table>
 
 | Translation | Greek |

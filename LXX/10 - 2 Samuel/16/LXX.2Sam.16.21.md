@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:21** 
 <small><sub>**LXX:**</sub></small>
 And Ahithophel said to Absalom, Enter to the concubines  of your father! which he left behind to guard  his house. And all Israel shall hear that you disgraced  your father, and the hands of all the ones with you shall grow in strength. 
-<small><sub>**KJV:**</sub></small>
-And Ahithophel said unto Absalom, Go in unto thy father’s concubines, which he hath left to keep the house; and all Israel shall hear that thou art abhorred of thy father: then shall the hands of all that [are] with thee be strong.
-<small><sub>**BSB:**</sub></small>
-Ahithophel replied, “Sleep with your father’s concubines, whom he has left to take care of the palace. When all Israel hears that you have become a stench to your father, then the hands of all who are with you will be strengthened.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.20|<< 2 Samuel 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.22|2 Samuel 16:22 >>]]</td></tr></table>
 
 | Translation | Greek |

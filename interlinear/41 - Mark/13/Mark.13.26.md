@@ -1,5 +1,5 @@
-**Mark 13:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:26**<big><big>[[Mark.13.24 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And then shall they see the Son of man coming in the clouds with great power and glory.
 <small><sub>**BSB:**</sub></small>
 At that time they will see the Son of Man coming in the clouds with great power and glory.
@@ -10,7 +10,7 @@ And then will they behold the Son <the> of Man coming in [the] clouds with power
 > $\quad$ referencing: [[LXX.Dan.7.13|Dan 7:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

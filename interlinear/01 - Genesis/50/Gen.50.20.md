@@ -1,4 +1,4 @@
-**Genesis 50:20** 
+**Genesis 50:20**<big><big>[[Gen.50.15 Joseph Comforts His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for you, ye thought evil against me; [but] God meant it unto good, to bring to pass, as [it is] this day, to save much people alive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for you, what you intended against me for evil, God intended for good, in ord
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.19|<< Genesis 50:19]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.21|Genesis 50:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֕ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you planned  |**<big>&#8207;[[H2803I\|חֲשַׁבְתֶּ֥ם]]&#8207; </big>**| cha.shav.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

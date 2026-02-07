@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:15** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, remember me, and visit me, and acquit me from the ones pursuing me -- not for leniency! Know how I took scorning on account of you! 
-<small><sub>**KJV:**</sub></small>
-O LORD, thou knowest: remember me, and visit me, and revenge me of my persecutors; take me not away in thy longsuffering: know that for thy sake I have suffered rebuke.
-<small><sub>**BSB:**</sub></small>
-You understand, O LORD; remember me and attend to me. Avenge me against my persecutors. In Your patience, do not take me away. Know that I endure reproach for Your honor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.14|<< Jeremiah 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.16|Jeremiah 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

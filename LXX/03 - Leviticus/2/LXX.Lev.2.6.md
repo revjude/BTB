@@ -1,10 +1,7 @@
 **LXX Leviticus 2:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall break them \[into\] pieces, and you shall pour upon them olive oil -- it is a sacrifice to \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt part it in pieces, and pour oil thereon: it [is] a meat offering.
-<small><sub>**BSB:**</sub></small>
-Crumble it and pour oil on it; it is a grain offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.5|<< Leviticus 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.7|Leviticus 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

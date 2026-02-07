@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:9** 
 <small><sub>**LXX:**</sub></small>
 and he shall go by my orders, and  shall guard my ordinances  to do them -- this one is just; to life he shall live, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Hath walked in my statutes, and hath kept my judgments, to deal truly; he [is] just, he shall surely live, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-He follows My statutes and faithfully keeps My ordinances. That man is righteous; surely he will live, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.8|<< Ezekiel 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.10|Ezekiel 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

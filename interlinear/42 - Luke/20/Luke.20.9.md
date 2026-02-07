@@ -1,5 +1,5 @@
-**Luke 20:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:9**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.
 <small><sub>**BSB:**</sub></small>
 Then He proceeded to tell the people this parable: “A man planted a vineyard, rented it out to some tenants, and went away for a long time.
@@ -10,7 +10,7 @@ He began then to the people to speak <the> parable this: A man certain planted a
 > $\quad$ alluding to: [[LXX.Isa.5.1|Isa 5:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He began |**<big>[[G0757\|Ἤρξατο]]</big>**  |Ērxato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

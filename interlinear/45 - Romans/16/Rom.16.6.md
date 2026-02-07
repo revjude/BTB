@@ -1,12 +1,12 @@
-**Romans 16:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:6**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Greet Mary, who bestowed much labour on us.
 <small><sub>**BSB:**</sub></small>
 Greet Mary, who has worked very hard for you.
 <small><sub>**Literal:**</sub></small>
 do greet Mary, who much toiled for you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.5|<< Romans 16:5]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.7|Romans 16:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|ἀσπάσασθε]]</big>**  |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Mary, |**<big>[[G3137M\|Μαρίαν,]]</big>**  [^1] |Marian <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

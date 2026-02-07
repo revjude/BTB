@@ -1,4 +1,4 @@
-**Exodus 19:3** 
+**Exodus 19:3**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then Moses went up to God, and the LORD called to him from the mountain, “This
 > $\quad$ referenced by: [[Acts.7.38|Acts 7:38]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Moses  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4872\|מֹשֶׁ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went up  |**<big>&#8207;[[H5927G\|עָלָ֖ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

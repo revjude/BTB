@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:4** 
 <small><sub>**LXX:**</sub></small>
 God, his works \[are\] true, and all  his ways are equity. God \[is\] trustworthy, and there is no injustice in him; just and sacred \[is\] the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-[He is] the Rock, his work [is] perfect: for all his ways [are] judgment: a God of truth and without iniquity, just and right [is] he.
-<small><sub>**BSB:**</sub></small>
-He is the Rock, His work is perfect; all His ways are just. A God of faithfulness without injustice, righteous and upright is He.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.3|<< Deuteronomy 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.5|Deuteronomy 32:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 32:4** is...

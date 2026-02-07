@@ -1,4 +1,4 @@
-**Proverbs 29:20** 
+**Proverbs 29:20**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seest thou a man [that is] hasty in his words? [there is] more hope of a fool than of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do you see a man who speaks in haste? There is more hope for a fool than for him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.19|<< Proverbs 29:19]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.21|Proverbs 29:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do you see?  |**<big>&#8207;[[H2372\|חָזִ֗יתָ]]&#8207; </big>**| cha.Zi.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anyone  |**<big>&#8207;[[H0376I\|אִ֭ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

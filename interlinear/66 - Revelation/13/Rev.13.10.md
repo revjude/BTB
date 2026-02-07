@@ -1,5 +1,5 @@
-**Revelation 13:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:10**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
 <small><sub>**BSB:**</sub></small>
 “If anyone is destined for captivity, into captivity he will go; if anyone is to die by the sword, by the sword he must be killed.” Here is a call for the perseverance and faith of the saints.
@@ -10,7 +10,7 @@ If anyone into captivity gathers into captivity he goes, If anyone with [the] sw
 > $\quad$ alluding to: [[LXX.Gen.9.6|Gen 9:6]] ☩ [[LXX.Isa.14.2|Isa 14:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

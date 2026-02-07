@@ -1,4 +1,4 @@
-**Zechariah 4:2** 
+**Zechariah 4:2**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all [of] gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which [are] upon the top thereof:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And said unto me, What seest thou? And I said, I have looked, and behold a candl
 > $\quad$ referenced by: [[Rev.1.12|Rev 1:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

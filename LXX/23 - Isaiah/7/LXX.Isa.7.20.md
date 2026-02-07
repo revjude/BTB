@@ -1,10 +1,7 @@
 **LXX Isaiah 7:20** 
 <small><sub>**LXX:**</sub></small>
 In  that day \[the\] <span class="smallcaps">lord</span> shall shave with the razor  the head \[of the\] king of \[the\] Assyrians having been intoxicated from the other side of the river, even the hairs of the feet, and he will remove the beard. 
-<small><sub>**KJV:**</sub></small>
-In the same day shall the Lord shave with a rasor that is hired, [namely], by them beyond the river, by the king of Assyria, the head, and the hair of the feet: and it shall also consume the beard.
-<small><sub>**BSB:**</sub></small>
-On that day the Lord will use a razor hired from beyond the Euphrates—the king of Assyria—to shave your head and the hair of your legs, and to remove your beard as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.19|<< Isaiah 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.21|Isaiah 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

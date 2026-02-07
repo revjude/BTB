@@ -1,12 +1,12 @@
-**2 Timothy 4:21
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:21**<big><big>[[2Tim.4.19 Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren.
 <small><sub>**BSB:**</sub></small>
 Make every effort to come to me before winter. Eubulus sends you greetings, as do Pudens, Linus, Claudia, and all the brothers.
 <small><sub>**Literal:**</sub></small>
 do be eager before winter to come. Greets you Eubulus and Pudens and Linus and Claudia and the brothers all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.20|<< 2 Timothy 4:20]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.22|2 Timothy 4:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be eager |**<big>[[G4704\|Σπούδασον]]</big>**  |Spoudason <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | before |**<big>[[G4253\|πρὸ]]</big>**  |pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

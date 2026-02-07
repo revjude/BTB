@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:29** 
 <small><sub>**LXX:**</sub></small>
 \[Are\] not  my words as fire blazing, says \[the\] <span class="smallcaps">lord</span>? and as a hewing axe beating \[the\] rock? 
-<small><sub>**KJV:**</sub></small>
-[Is] not my word like as a fire? saith the LORD; and like a hammer [that] breaketh the rock in pieces?
-<small><sub>**BSB:**</sub></small>
-“Is not My word like fire,” declares the LORD, “and like a hammer that smashes a rock?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.28|<< Jeremiah 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.30|Jeremiah 23:30 >>]]</td></tr></table>
 
 | Translation | Greek |

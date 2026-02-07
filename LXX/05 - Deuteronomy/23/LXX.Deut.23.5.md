@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God did not want to listen to  Balaam; and \[the\] <span class="smallcaps">lord</span> your God converted the curses into a blessing, for \Eit the your God loved you. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless the LORD thy God would not hearken unto Balaam; but the LORD thy God turned the curse into a blessing unto thee, because the LORD thy God loved thee.
-<small><sub>**BSB:**</sub></small>
-Yet the LORD your God would not listen to Balaam, and the LORD your God turned the curse into a blessing for you, because the LORD your God loves you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.4|<< Deuteronomy 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.6|Deuteronomy 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

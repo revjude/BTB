@@ -1,16 +1,16 @@
 (KJV) **Judges 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1|<< Judges 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3|Judges 3 >>]]</td></tr></table>
 
-***Israel Rebuked at Bochim*** ^bsb600
+<big><big>[[Judg.2.1 Israel Rebuked at Bochim|⥃]]</big></big>***Israel Rebuked at Bochim***
 
  $\quad$ <span class="startversemarker">[</span>**[[Judg.2.1|1]]**<span class="endversemarker">]</span> And an angel<small><small>[^2]</small></small> of the <span class="smallcaps">Lord</span> came up from Gilgal to Bochim<small><small>[^3]</small></small>, and said, I made<small><small>[^4]</small></small> you to go up out of Egypt, and have brought<small><small>[^5]</small></small> you unto the land which I sware unto your fathers; and I said, I will never<small><small>[^6]</small></small> break my covenant with you. <span class="startversemarker">[</span>**[[Judg.2.2|2]]**<span class="endversemarker">]</span> And ye shall<small><small>[^7]</small></small> make no league with the inhabitants of this land; ye shall throw down their altars: but ye have<small><small>[^8]</small></small> not obeyed my voice: why have<small><small>[^9]</small></small> ye done this? <span class="startversemarker">[</span>**[[Judg.2.3|3]]**<span class="endversemarker">]</span> Wherefore I also said<small><small>[^10]</small></small>, I will not drive them out from before you; but they shall be \[as thorns\] in your sides, and their gods<small><small>[^11]</small></small> shall be a snare unto you. <span class="startversemarker">[</span>**[[Judg.2.4|4]]**<span class="endversemarker">]</span> And it came to pass, when the angel of the <span class="smallcaps">Lord</span> spake these words unto all the children of Israel, that the people<small><small>[^12]</small></small> lifted up their voice, and wept. <span class="startversemarker">[</span>**[[Judg.2.5|5]]**<span class="endversemarker">]</span> And they called the name of that place Bochim<small><small>[^13]</small></small>: and they sacrificed<small><small>[^14]</small></small> there unto the <span class="smallcaps">Lord</span>.
 
-***Joshua’s Death and Burial***&emsp;<small><sup>\[ [[Josh.24|Joshua 24:29–33]] ]</sup></small> ^bsb601
+<big><big>[[Judg.2.6 Joshua’s Death and Burial|⥃]]</big></big>***Joshua’s Death and Burial***&emsp;<small><sup>\[ [[Josh.24|Joshua 24:29–33]] ]</sup></small>
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Judg.2.6|6]]**<span class="endversemarker">]</span> And when Joshua<small><small>[^15]</small></small> had let the people go, the children of Israel went every man unto his inheritance to possess the land. <span class="startversemarker">[</span>**[[Judg.2.7|7]]**<span class="endversemarker">]</span> And the people<small><small>[^16]</small></small> served the <span class="smallcaps">Lord</span> all the days of Joshua, and all the days of the elders that outlived<small><small>[^17]</small></small> Joshua, who had seen all the great works of the <span class="smallcaps">Lord</span>, that he did for Israel. <span class="startversemarker">[</span>**[[Judg.2.8|8]]**<span class="endversemarker">]</span> And Joshua<small><small>[^18]</small></small> the son of Nun, the servant of the <span class="smallcaps">Lord</span>, died, \[being\] an hundred and ten years old. <span class="startversemarker">[</span>**[[Judg.2.9|9]]**<span class="endversemarker">]</span> And they buried him in the border of his inheritance in Timnath–heres<small><small>[^19]</small></small>, in the mount of Ephraim, on the north side of the hill Gaash.
 
-***Israel’s Unfaithfulness***&emsp;<small><sup>\[ [[Isa.43|Isaiah 43:22–28]] <big>†</big> [[Jer.2|Jeremiah 2:23–37]] ]</sup></small> ^bsb602
+<big><big>[[Judg.2.10 Israel’s Unfaithfulness|⥃]]</big></big>***Israel’s Unfaithfulness***&emsp;<small><sup>\[ [[Isa.43|Isaiah 43:22–28]] <big>†</big> [[Jer.2|Jeremiah 2:23–37]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[Judg.2.10|10]]**<span class="endversemarker">]</span> And also all that generation were gathered unto their fathers: and there arose another generation after them, which knew not<small><small>[^20]</small></small> the <span class="smallcaps">Lord</span>, nor yet the works which he had done for Israel.<small><small>[^21]</small></small> 
 
@@ -18,7 +18,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Judg.2.11|11]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Judg.2.14|14]]**<span class="endversemarker">]</span> [¶]And the anger<small><small>[^28]</small></small> of the <span class="smallcaps">Lord</span> was hot against Israel, and he delivered<small><small>[^29]</small></small> them into the hands of spoilers that spoiled them, and he sold them<small><small>[^30]</small></small> into the hands of their enemies round about, so that they could not<small><small>[^31]</small></small> any longer stand before their enemies. <span class="startversemarker">[</span>**[[Judg.2.15|15]]**<span class="endversemarker">]</span> Whithersoever they went out, the hand of the <span class="smallcaps">Lord</span> was against<small><small>[^32]</small></small> them for evil, as the <span class="smallcaps">Lord</span> had said<small><small>[^33]</small></small>, and as the <span class="smallcaps">Lord</span> had sworn<small><small>[^34]</small></small> unto them: and they were greatly<small><small>[^35]</small></small> distressed.
 
-***Judges Raised Up*** ^bsb603
+<big><big>[[Judg.2.16 Judges Raised Up|⥃]]</big></big>***Judges Raised Up***
 
  
 

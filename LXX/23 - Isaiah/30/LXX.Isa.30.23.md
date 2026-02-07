@@ -1,10 +1,7 @@
 **LXX Isaiah 30:23** 
 <small><sub>**LXX:**</sub></small>
 Then there will be  rain for the seed  of your land; and the bread from the produce  of your land will be plenteous and lustrous; and your cattle shall graze in  that day \[in\] a place fertile and broad-spaced. 
-<small><sub>**KJV:**</sub></small>
-Then shall he give the rain of thy seed, that thou shalt sow the ground withal; and bread of the increase of the earth, and it shall be fat and plenteous: in that day shall thy cattle feed in large pastures.
-<small><sub>**BSB:**</sub></small>
-Then He will send rain for the seed that you have sown in the ground, and the food that comes from your land will be rich and plentiful. On that day your cattle will graze in open pastures.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.22|<< Isaiah 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.24|Isaiah 30:24 >>]]</td></tr></table>
 
 | Translation | Greek |

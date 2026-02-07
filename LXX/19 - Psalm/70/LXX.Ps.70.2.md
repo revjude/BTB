@@ -1,10 +1,7 @@
 **LXX Psalm 70:2** 
 <small><sub>**LXX:**</sub></small>
 the ones seeking my life be ashamed and feel remorse! the ones wanting bad \[things\] for me be turned to the rear and be disgraced! 
-<small><sub>**KJV:**</sub></small>
-Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.
-<small><sub>**BSB:**</sub></small>
-May those who seek my life be ashamed and confounded; may those who wish me harm be repelled and humiliated.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.70.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.70.1|<< Psalm 70:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.70.3|Psalm 70:3 >>]]</td></tr></table>
 
 | Translation | Greek |

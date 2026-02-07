@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:11** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  God  of your fathers may he add to you as you are a thousand times more, and bless you in so far as he spoke to you! 
-<small><sub>**KJV:**</sub></small>
-(The LORD God of your fathers make you a thousand times so many more as ye [are], and bless you, as he hath promised you!)
-<small><sub>**BSB:**</sub></small>
-May the LORD, the God of your fathers, increase you a thousand times over and bless you as He has promised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.10|<< Deuteronomy 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.12|Deuteronomy 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

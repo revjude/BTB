@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:22** 
 <small><sub>**LXX:**</sub></small>
 And Josiah did not turn  his face from him, but he fortified himself  to wage war against him. And he did not hearken concerning the words of Pharaoh Necho by \[the\] mouth of God. And he came  to wage war in the plain of Megiddo. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless Josiah would not turn his face from him, but disguised himself, that he might fight with him, and hearkened not unto the words of Necho from the mouth of God, and came to fight in the valley of Megiddo.
-<small><sub>**BSB:**</sub></small>
-Josiah, however, did not turn away from him; instead, in order to engage him in battle, he disguised himself. He did not listen to Neco’s words from the mouth of God, but went to fight him on the Plain of Megiddo.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.21|<< 2 Chronicles 35:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.23|2 Chronicles 35:23 >>]]</td></tr></table>
 
 | Translation | Greek |

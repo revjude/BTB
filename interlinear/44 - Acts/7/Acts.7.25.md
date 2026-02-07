@@ -1,12 +1,12 @@
-**Acts 7:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:25**<big><big>[[Acts.7.23 The Rejection and Flight of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.
 <small><sub>**BSB:**</sub></small>
 He assumed his brothers would understand that God was using him to deliver them, but they did not.
 <small><sub>**Literal:**</sub></small>
 He was supposing now to understand the brothers of him that <the> God through [the] hand of him is giving salvation to them; <the> but not they understood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.24|<< Acts 7:24]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.26|Acts 7:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was supposing |**<big>[[G3543\|ἐνόμιζεν]]</big>**  |enomizen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

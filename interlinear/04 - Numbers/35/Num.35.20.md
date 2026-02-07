@@ -1,4 +1,4 @@
-**Numbers 35:20** 
+**Numbers 35:20**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if he thrust him of hatred, or hurl at him by laying of wait, that he die;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Likewise, if anyone maliciously pushes another or intentionally throws an object
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.19|<< Numbers 35:19]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.21|Numbers 35:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in hatred  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8135\|שִׂנְאָ֖ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sin.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

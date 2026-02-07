@@ -1,10 +1,7 @@
 **LXX Psalm 129:7** 
 <small><sub>**LXX:**</sub></small>
 of which the one harvesting did not fill his hand, nor the one collecting together the sheaves unto his bosom, 
-<small><sub>**KJV:**</sub></small>
-Wherewith the mower filleth not his hand; nor he that bindeth sheaves his bosom.
-<small><sub>**BSB:**</sub></small>
-unable to fill the hands of the reaper, or the arms of the binder of sheaves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.129.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.129.6|<< Psalm 129:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.129.8|Psalm 129:8 >>]]</td></tr></table>
 
 | Translation | Greek |

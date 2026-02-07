@@ -1,12 +1,12 @@
-**Acts 22:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:20**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.
 <small><sub>**BSB:**</sub></small>
 And when the blood of Your witness Stephen was shed, I stood there giving my approval and watching over the garments of those who killed him.’
 <small><sub>**Literal:**</sub></small>
 And when was poured out the blood of Stephen the witness of You, also I myself was already standing by and consenting to the  killing of him and watching over the garments of those executing him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.19|<< Acts 22:19]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.21|Acts 22:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

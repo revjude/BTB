@@ -1,12 +1,12 @@
-**Matthew 5:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:29**<big><big>[[Matt.5.27 Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if thy right eye offend thee, pluck it out, and cast [it] from thee: for it is profitable for thee that one of thy members should perish, and not [that] thy whole body should be cast into hell.
 <small><sub>**BSB:**</sub></small>
 If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.
 <small><sub>**Literal:**</sub></small>
 If now the eye of you <the> right causes to stumble you, do pluck out it and do cast [it] from you; it is better indeed for you that may perish one of the members of you and not all the body of you may be cast into hell.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.28|<< Matthew 5:28]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.30|Matthew 5:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

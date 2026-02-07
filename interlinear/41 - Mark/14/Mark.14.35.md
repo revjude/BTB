@@ -1,12 +1,12 @@
-**Mark 14:35
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:35**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass from him.
 <small><sub>**BSB:**</sub></small>
 Going a little farther, He fell to the ground and prayed that, if it were possible, the hour would pass from Him.
 <small><sub>**Literal:**</sub></small>
 And having gone forward a little He was falling upon the ground and he was praying that if possible it is it shall pass from Him the hour.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.34|<< Mark 14:34]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.36|Mark 14:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone forward [^1] |**<big>[[G4281\|προελθὼν]]</big>**  |proelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+TR">NK(o)</abbr> | |

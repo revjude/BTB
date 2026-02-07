@@ -1,4 +1,4 @@
-**Esther 3:3** 
+**Esther 3:3**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king’s servants, which [were] in the king’s gate, said unto Mordecai, Why transgressest thou the king’s commandment?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the royal servants at the king’s gate asked Mordecai, “Why do you disob
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.2|<< Esther 3:2]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.4|Esther 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמְר֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servants of  |**<big>&#8207;[[H5650\|עַבְדֵ֥י]]&#8207; </big>**| 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

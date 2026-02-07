@@ -1,4 +1,4 @@
-**Ezekiel 22:14** 
+**Ezekiel 22:14**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the LORD have spoken [it], and will do [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will your courage endure or your hands be strong in the day I deal with you? I, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.13|<< Ezekiel 22:13]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.15|Ezekiel 22:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will it endure  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H5975G\|יַעֲמֹ֤ד]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ya.'a.Mod<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart your  |**<big>&#8207;[[H3820A\|לִבֵּ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| li.be<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 33:1** 
+**Genesis 33:1**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Jacob looked up and saw Esau coming toward him with four hundred men. So he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.32|<< Genesis 32:32]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.2|Genesis 33:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375M\|יִּשָּׂ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֜ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 19:22** 
 <small><sub>**LXX:**</sub></small>
 You hasten then  to escape there, for I will not be able  to do \[the\] thing until  you go there! On account of this he called the name  of that city, Zoar. 
-<small><sub>**KJV:**</sub></small>
-Haste thee, escape thither; for I cannot do any thing till thou be come thither. Therefore the name of the city was called Zoar.
-<small><sub>**BSB:**</sub></small>
-Hurry! Run there quickly, for I cannot do anything until you reach it.” That is why the town was called Zoar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.21|<< Genesis 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.23|Genesis 19:23 >>]]</td></tr></table>
 
 | Translation | Greek |

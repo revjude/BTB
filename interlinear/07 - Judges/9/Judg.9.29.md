@@ -1,4 +1,4 @@
-**Judges 9:29** 
+**Judges 9:29**<big><big>[[Judg.9.22 Gaal Conspires with the Shechemites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And would to God this people were under my hand! then would I remove Abimelech. And he said to Abimelech, Increase thine army, and come out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If only this people were under my authority, I would remove Abimelech; I would s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.28|<< Judges 9:28]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.30|Judges 9:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִ֨י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he give  |**<big>&#8207;[[H5414Q\|יִתֵּ֜ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

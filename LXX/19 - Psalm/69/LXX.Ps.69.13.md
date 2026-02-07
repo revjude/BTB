@@ -1,10 +1,7 @@
 **LXX Psalm 69:13** 
 <small><sub>**LXX:**</sub></small>
 But I \[will cry\] \[in\] my prayer to you, O <span class="smallcaps">lord</span>, at a time of benevolence. O God, in the multitude  of your mercies heed me in \[the\] truth  of your deliverance! 
-<small><sub>**KJV:**</sub></small>
-But as for me, my prayer [is] unto thee, O LORD, [in] an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.
-<small><sub>**BSB:**</sub></small>
-But my prayer to You, O LORD, is for a time of favor. In Your abundant loving devotion, O God, answer me with Your sure salvation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.12|<< Psalm 69:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.14|Psalm 69:14 >>]]</td></tr></table>
 
 | Translation | Greek |

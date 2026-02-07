@@ -1,12 +1,12 @@
-**Acts 19:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:17**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified.
 <small><sub>**BSB:**</sub></small>
 This became known to all the Jews and Greeks living in Ephesus, and fear came over all of them. So the name of the Lord Jesus was held in high honor.
 <small><sub>**Literal:**</sub></small>
 This now became known to all Jews both also to Greeks who inhabiting <the> Ephesus and fell fear upon all them and was being magnified the name of the Lord Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.16|<< Acts 19:16]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.18|Acts 19:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

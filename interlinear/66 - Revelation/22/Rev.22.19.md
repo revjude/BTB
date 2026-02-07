@@ -1,12 +1,12 @@
-**Revelation 22:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:19**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and [from] the things which are written in this book.
 <small><sub>**BSB:**</sub></small>
 And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and the holy city, which are described in this book.
 <small><sub>**Literal:**</sub></small>
 And if anyone shall take away from the words of the book of the prophecy this, will take away <the> God the part of him from the tree <the> of life and out of the city <the> holy, and of those written in <the> book this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.18|<< Revelation 22:18]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.20|Revelation 22:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐάν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

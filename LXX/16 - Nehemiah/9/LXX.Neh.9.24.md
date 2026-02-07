@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:24** 
 <small><sub>**LXX:**</sub></small>
 And their sons entered and inherited the land. And you obliterated before them the ones dwelling the land of the Canaanites, and you gave them into  their hands, even  their kings, and the peoples of the land, to do to them as was pleasing before them. 
-<small><sub>**KJV:**</sub></small>
-So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.
-<small><sub>**BSB:**</sub></small>
-So their descendants went in and possessed the land; You subdued before them the Canaanites dwelling in the land. You delivered into their hands the kings and peoples of the land, to do with them as they wished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.23|<< Nehemiah 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.25|Nehemiah 9:25 >>]]</td></tr></table>
 
 | Translation | Greek |

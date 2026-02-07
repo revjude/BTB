@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:19** 
 <small><sub>**LXX:**</sub></small>
 And the man of God fretted over him, and he said, If you struck five times or six times, then you would have struck the Syrian until completion. And now three times you shall strike  Syria. 
-<small><sub>**KJV:**</sub></small>
-And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed [it]: whereas now thou shalt smite Syria [but] thrice.
-<small><sub>**BSB:**</sub></small>
-But the man of God was angry with him and said, “You should have struck the ground five or six times. Then you would have struck down Aram until you had put an end to it. But now you will strike down Aram only three times.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.18|<< 2 Kings 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.20|2 Kings 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Matthew 4:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:7**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “It is also written: ‘Do not put the Lord your God to the test.’”
@@ -10,7 +10,7 @@ was saying to him <the> Jesus; Again it has been written: Not you will test [the
 > $\quad$ referencing: [[LXX.Deut.6.16|Deut 6:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | was saying |**<big>[[G5346\|ἔφη]]</big>**  |ephē <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

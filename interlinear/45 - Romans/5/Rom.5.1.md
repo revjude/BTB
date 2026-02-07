@@ -1,12 +1,12 @@
-**Romans 5:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:1**<big><big>[[Rom.5.1 The Triumph of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ,
 <small><sub>**Literal:**</sub></small>
 Having been justified therefore by faith peace we have with <the> God through the Lord of us Jesus Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.25|<< Romans 4:25]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.2|Romans 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having been justified |**<big>[[G1344\|Δικαιωθέντες]]</big>**  |Dikaiōthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

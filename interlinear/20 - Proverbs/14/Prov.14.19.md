@@ -1,4 +1,4 @@
-**Proverbs 14:19** 
+**Proverbs 14:19**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The evil bow before the good; and the wicked at the gates of the righteous.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The evil bow before the good, and the wicked at the gates of the righteous.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.18|<< Proverbs 14:18]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.20|Proverbs 14:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they bow  |**<big>&#8207;[[H7817\|שַׁח֣וּ]]&#8207; </big>**| sha.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | evil [people]  |**<big>&#8207;[[H7451H\|רָ֭עִים]]&#8207; </big>**| Ra.'im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 32:18** 
+**Ezekiel 32:18**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, wail for the multitude of Egypt, and cast them down, [even] her, and the daughters of the famous nations, unto the nether parts of the earth, with them that go down into the pit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Son of man, wail for the multitude of Egypt, and cast them down, [even] her, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.17|<< Ezekiel 32:17]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.19|Ezekiel 32:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֕ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 23:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:22**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon.
 <small><sub>**BSB:**</sub></small>
 And he who swears by heaven swears by God’s throne and by the One who sits on it.
 <small><sub>**Literal:**</sub></small>
 And the [one] having sworn by <the> heaven swears by the throne <the> of God and by the [One] sitting upon it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.21|<< Matthew 23:21]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.23|Matthew 23:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

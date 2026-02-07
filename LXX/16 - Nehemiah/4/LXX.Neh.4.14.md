@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:14** 
 <small><sub>**LXX:**</sub></small>
 And I beheld, and I rose up, and I spoke to the important ones, and to the commandants, and to the rest of the people, \[saying\], You should not fear from their face. You should remember  our great and fearful God, and deploy for  your brethren, your sons, and your daughters, and your wives, and your residences! 
-<small><sub>**KJV:**</sub></small>
-And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the Lord, [which is] great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses.
-<small><sub>**BSB:**</sub></small>
-After I had made an inspection, I stood up and said to the nobles, the officials, and the rest of the people, “Do not be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons and your daughters, your wives and your homes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.13|<< Nehemiah 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.15|Nehemiah 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

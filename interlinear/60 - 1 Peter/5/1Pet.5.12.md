@@ -1,12 +1,12 @@
-**1 Peter 5:12
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:12**<big><big>[[1Pet.5.10 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.
 <small><sub>**BSB:**</sub></small>
 Through Silvanus, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand firm in it.
 <small><sub>**Literal:**</sub></small>
 Through Silvanus to you the faithful brother as I regard [him], through few [words] I have written exhorting and testifying this to be [the] true grace <the> of God, in which do stand firm.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.11|<< 1 Peter 5:11]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.13|1 Peter 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Through |**<big>[[G1223\|Διὰ]]</big>**  |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Silvanus |**<big>[[G4610\|Σιλουανοῦ]]</big>**  |Silouanou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 50:31** 
+**Jeremiah 50:31**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I [am] against thee, [O thou] most proud, saith the Lord GOD of hosts: for thy day is come, the time [that] I will visit thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold, I [am] against thee, [O thou] most proud, saith the Lord GOD of hosts: f
 > $\quad$ referenced by: [[Rev.18.7|Rev 18:7-8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֤י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] against you  |**<big>&#8207;[[H0413\|אֵלֶ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

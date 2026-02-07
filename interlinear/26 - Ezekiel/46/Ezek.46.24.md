@@ -1,4 +1,4 @@
-**Ezekiel 46:24** 
+**Ezekiel 46:24**<big><big>[[Ezek.46.19 The Courts for Boiling and Baking|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, These [are] the places of them that boil, where the ministers of the house shall boil the sacrifice of the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said to me, “These are the kitchens where those who minister at the tem
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.23|<< Ezekiel 46:23]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.1|Ezekiel 47:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלָ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

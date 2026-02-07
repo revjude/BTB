@@ -1,4 +1,4 @@
-**Jeremiah 39:2** 
+**Jeremiah 39:2**<big><big>[[Jer.39.1 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] in the eleventh year of Zedekiah, in the fourth month, the ninth [day] of the month, the city was broken up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on the ninth day of the fourth month of Zedekiah’s eleventh year, the city
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.1|<< Jeremiah 39:1]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.3|Jeremiah 39:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in one [plus]  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6249\|עַשְׁתֵּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ash.tei-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֤ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

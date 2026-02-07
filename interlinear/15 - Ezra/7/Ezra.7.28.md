@@ -1,4 +1,4 @@
-**Ezra 7:28** 
+**Ezra 7:28**<big><big>[[Ezra.7.27 Ezra Blesses God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hath extended mercy unto me before the king, and his counsellers, and before all the king’s mighty princes. And I was strengthened as the hand of the LORD my God [was] upon me, and I gathered together out of Israel chief men to go up with me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and who has shown me favor before the king, his counselors, and all his powerful
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.27|<< Ezra 7:27]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.1|Ezra 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and towards me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עָלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has extended  |**<big>&#8207;[[H5186\|הִטָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.tah-<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

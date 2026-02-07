@@ -1,10 +1,7 @@
 **LXX Psalm 22:21** 
 <small><sub>**LXX:**</sub></small>
 Deliver me from \[the\] mouth of \[the\] lion, and from \[the\] horns of \[the\] unicorns  of my humiliation! 
-<small><sub>**KJV:**</sub></small>
-Save me from the lion’s mouth: for thou hast heard me from the horns of the unicorns.
-<small><sub>**BSB:**</sub></small>
-Save me from the mouth of the lion; at the horns of the wild oxen You have answered me!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.20|<< Psalm 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.22|Psalm 22:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:21** is...

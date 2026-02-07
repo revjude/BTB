@@ -1,12 +1,12 @@
-**1 Corinthians 2:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:12**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.
 <small><sub>**BSB:**</sub></small>
 We have not received the spirit of the world, but the Spirit who is from God, that we may understand what God has freely given us.
 <small><sub>**Literal:**</sub></small>
 We ourselves now not the spirit of the world have received but the Spirit who [is] from <the> God, that we may know the [things] by <the> God having been granted to us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.11|<< 1 Corinthians 2:11]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.13|1 Corinthians 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

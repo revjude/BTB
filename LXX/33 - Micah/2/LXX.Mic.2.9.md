@@ -1,10 +1,7 @@
 **LXX Micah 2:9** 
 <small><sub>**LXX:**</sub></small>
 The ones leading my people shall be thrown from out of  their luxurious houses. Because of  their wicked practices they were pushed out. Approach to everlasting mountains! 
-<small><sub>**KJV:**</sub></small>
-The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever.
-<small><sub>**BSB:**</sub></small>
-You drive the women of My people from their pleasant homes. You take away My blessing from their children forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.8|<< Micah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.10|Micah 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

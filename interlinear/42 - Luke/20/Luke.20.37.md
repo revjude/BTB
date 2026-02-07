@@ -1,5 +1,5 @@
-**Luke 20:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:37**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
 <small><sub>**BSB:**</sub></small>
 Even Moses demonstrates that the dead are raised, in the passage about the burning bush. For he calls the Lord ‘the God of Abraham, the God of Isaac, and the God of Jacob.’
@@ -11,7 +11,7 @@ for however are raised the dead, even Moses showed at the bush when he names [th
 > $\quad$ alluding to: [[LXX.Exod.3.15|Exod 3:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

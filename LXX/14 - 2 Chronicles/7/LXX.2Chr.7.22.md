@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:22** 
 <small><sub>**LXX:**</sub></small>
 And they shall say, Because they abandoned \[the\] <span class="smallcaps">lord</span>, the God  of their fathers, the one leading them from out of \[the\] land of Egypt; and they took hold of other gods, and they did obeisance to them, and they served to them. On account of this he brought upon them all  this evil. 
-<small><sub>**KJV:**</sub></small>
-And it shall be answered, Because they forsook the LORD God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them.
-<small><sub>**BSB:**</sub></small>
-And others will answer, ‘Because they have forsaken the LORD, the God of their fathers, who brought them out of the land of Egypt, and have embraced other gods, worshiping and serving them—because of this, He has brought all this disaster upon them.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.21|<< 2 Chronicles 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.1|2 Chronicles 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

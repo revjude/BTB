@@ -1,4 +1,4 @@
-**Nehemiah 13:30** 
+**Nehemiah 13:30**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus I purified the priests and Levites from everything foreign, and I assigned 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.29|<< Nehemiah 13:29]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.31|Nehemiah 13:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I purified them  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2891\|טִֽהַרְתִּ֖י]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ti.har.Ti<small><sup>[[HVpq1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

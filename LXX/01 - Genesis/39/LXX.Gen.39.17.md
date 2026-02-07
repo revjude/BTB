@@ -1,10 +1,7 @@
 **LXX Genesis 39:17** 
 <small><sub>**LXX:**</sub></small>
 And she spoke to him concerning  these things, saying, There entered to me the Hebrew servant, whom you brought in to us, to mock me. And he said to me, I will come to bed with you. 
-<small><sub>**KJV:**</sub></small>
-And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:
-<small><sub>**BSB:**</sub></small>
-Then she told him the same story: “The Hebrew slave you brought us came to me to make sport of me,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.16|<< Genesis 39:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.18|Genesis 39:18 >>]]</td></tr></table>
 
 | Translation | Greek |

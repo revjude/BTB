@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And if you should go forth to war against  your enemies, and you should behold a horse, and rider, and many more people than you, do not be fearful of them! for \[the\] <span class="smallcaps">lord</span>  your God \[is\] with you, the \[one\] bringing you from \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-When thou goest out to battle against thine enemies, and seest horses, and chariots, [and] a people more than thou, be not afraid of them: for the LORD thy God [is] with thee, which brought thee up out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-When you go out to war against your enemies and see horses, chariots, and an army larger than yours, do not be afraid of them; for the LORD your God, who brought you out of the land of Egypt, is with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.21|<< Deuteronomy 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.2|Deuteronomy 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

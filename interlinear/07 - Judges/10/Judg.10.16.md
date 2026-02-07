@@ -1,4 +1,4 @@
-**Judges 10:16** 
+**Judges 10:16**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they put away the strange gods from among them, and served the LORD: and his soul was grieved for the misery of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they put away the foreign gods from among them and served the LORD, and He co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.15|<< Judges 10:15]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.17|Judges 10:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493G\|יָּסִ֜ירוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 49:14** (49:15)
+**Psalms 49:14**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like sheep they are destined for Sheol. Death will be their shepherd. The uprigh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.13|<< Psalms 49:13]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.15|Psalms 49:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like \<the> sheep  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H6629G\|צֹּ֤אן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for Sheol  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H7585\|שְׁא֣וֹל]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

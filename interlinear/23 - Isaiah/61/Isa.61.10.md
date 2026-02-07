@@ -1,4 +1,4 @@
-**Isaiah 61:10** 
+**Isaiah 61:10**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh [himself] with ornaments, and as a bride adorneth [herself] with her jewels.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will rejoice greatly in the LORD, my soul will exult in my God; for He has clo
 > $\quad$ referenced by: [[Rev.19.8|Rev 19:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to rejoice>  |**<big>&#8207;[[H7797\|שׂ֧וֹשׂ]]&#8207; </big>**| Sos<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will rejoice  |**<big>&#8207;[[H7797\|אָשִׂ֣ישׂ]]&#8207; </big>**| 'a.Sis<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

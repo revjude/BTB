@@ -1,4 +1,4 @@
-**Nehemiah 7:68** (7:67)
+**Nehemiah 7:68**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their horses, seven hundred thirty and six: their mules, two hundred forty and five:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They had 736 horses, 245 mules,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.68|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.67|<< Nehemiah 7:67]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.69|Nehemiah 7:69 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | horses their  |**<big>&#8207;[[H5483M\|סוּסֵי]]&#8207;&#8207;[[H9028\|הֶם]]&#8207; </big>**| su.sei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Restored text based on Leningrad parallels">R</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שְׁבַע]]&#8207; </big>**| she.Va'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Restored text based on Leningrad parallels">R</abbr> |

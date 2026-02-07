@@ -1,12 +1,12 @@
-**Matthew 27:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:7**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they took counsel, and bought with them the potter’s field, to bury strangers in.
 <small><sub>**BSB:**</sub></small>
 After conferring together, they used the money to buy the potter’s field as a burial place for foreigners.
 <small><sub>**Literal:**</sub></small>
 Counsel then having taken they bought with them the field of the potter for a burial place for the strangers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.6|<< Matthew 27:6]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.8|Matthew 27:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Counsel |**<big>[[G4824\|Συμβούλιον]]</big>**  |Sumboulion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

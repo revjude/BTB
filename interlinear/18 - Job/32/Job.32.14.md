@@ -1,4 +1,4 @@
-**Job 32:14** 
+**Job 32:14**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now he hath not directed [his] words against me: neither will I answer him with your speeches.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Job has not directed his words against me, and I will not answer him with yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.13|<< Job 32:13]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.15|Job 32:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has arranged  |**<big>&#8207;[[H6186A\|עָרַ֣ךְ]]&#8207; </big>**| 'a.Rakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:11** 
 <small><sub>**LXX:**</sub></small>
 To you, O <span class="smallcaps">lord</span>, \[is\] the greatness, and the power, and the majesty, and the victory, and the acknowledgment. For you \[are\] master of all the \[things\] in heaven and upon the earth. To you, O <span class="smallcaps">lord</span>, \[is\] the kingdom, and the raising in all, and in all rule. 
-<small><sub>**KJV:**</sub></small>
-Thine, O LORD, [is] the greatness, and the power, and the glory, and the victory, and the majesty: for all [that is] in the heaven and in the earth [is thine]; thine [is] the kingdom, O LORD, and thou art exalted as head above all.
-<small><sub>**BSB:**</sub></small>
-Yours, O LORD, is the greatness and the power and the glory and the splendor and the majesty, for everything in heaven and on earth belongs to You. Yours, O LORD, is the kingdom, and You are exalted as head over all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.10|<< 1 Chronicles 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.12|1 Chronicles 29:12 >>]]</td></tr></table>
 
 | Translation | Greek |

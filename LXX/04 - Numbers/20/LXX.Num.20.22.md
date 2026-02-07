@@ -1,10 +1,7 @@
 **LXX Numbers 20:22** 
 <small><sub>**LXX:**</sub></small>
 And they departed from Kadesh. And the sons of Israel came, all the congregation, unto Hor the mountain. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel, [even] the whole congregation, journeyed from Kadesh, and came unto mount Hor.
-<small><sub>**BSB:**</sub></small>
-After they had set out from Kadesh, the whole congregation of Israel came to Mount Hor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.21|<< Numbers 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.23|Numbers 20:23 >>]]</td></tr></table>
 
 | Translation | Greek |

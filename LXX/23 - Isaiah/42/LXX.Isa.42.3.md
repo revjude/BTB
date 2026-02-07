@@ -1,10 +1,7 @@
 **LXX Isaiah 42:3** 
 <small><sub>**LXX:**</sub></small>
 A reed being crushed he will not break, and smoking flax he will not extinguish; but to validity he will bring forth judgment. 
-<small><sub>**KJV:**</sub></small>
-A bruised reed shall he not break, and the smoking flax shall he not quench: he shall bring forth judgment unto truth.
-<small><sub>**BSB:**</sub></small>
-A bruised reed He will not break and a smoldering wick He will not extinguish; He will faithfully bring forth justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.2|<< Isaiah 42:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.4|Isaiah 42:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 42:3** is...

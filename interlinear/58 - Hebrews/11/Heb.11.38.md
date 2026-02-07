@@ -1,12 +1,12 @@
-**Hebrews 11:38
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:38**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (Of whom the world was not worthy:) they wandered in deserts, and [in] mountains, and [in] dens and caves of the earth.
 <small><sub>**BSB:**</sub></small>
 The world was not worthy of them. They wandered in deserts and mountains, and hid in caves and holes in the ground.
 <small><sub>**Literal:**</sub></small>
 of whom not was worthy the world; in deserts wandering and in mountains and in caves and in the holes of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.37|<< Hebrews 11:37]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.39|Hebrews 11:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of whom |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

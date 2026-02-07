@@ -1,4 +1,4 @@
-**1 Samuel 25:44** 
+**1 Samuel 25:44**<big><big>[[1Sam.25.39 David Marries Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Saul had given Michal his daughter, David’s wife, to Phalti the son of Laish, which [was] of Gallim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Saul had given his daughter Michal, David’s wife, to Palti son of Laish, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.43|<< 1 Samuel 25:43]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.1|1 Samuel 26:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Saul  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7586G\|שָׁא֗וּל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had given  |**<big>&#8207;[[H5414O\|נָתַ֛ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

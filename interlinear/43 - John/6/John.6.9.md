@@ -1,12 +1,12 @@
-**John 6:9
-**<small><sub>**KJV:**</sub></small>
+**John 6:9**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?
 <small><sub>**BSB:**</sub></small>
 “Here is a boy with five barley loaves and two small fish. But what difference will these make among so many?”
 <small><sub>**Literal:**</sub></small>
 Is a little boy one here who has five loaves barley and two small fish; but these what are for so many?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.8|<< John 6:8]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.10|John 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Is |**<big>[[G1510\|ἔστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a little boy |**<big>[[G3808\|παιδάριον]]</big>**  |paidarion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

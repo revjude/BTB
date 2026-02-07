@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:68** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> will return you unto Egypt in boats, and in the way which I said, You shall not proceed again to behold it. And you shall be sold there to your enemies for manservants and maidservants, and none shall be  acquiring you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy [you].
-<small><sub>**BSB:**</sub></small>
-The LORD will return you to Egypt in ships by a route that I said you should never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.68|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.67|<< Deuteronomy 28:67]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.1|Deuteronomy 29:1 >>]]</td></tr></table>
 
 | Translation | Greek |

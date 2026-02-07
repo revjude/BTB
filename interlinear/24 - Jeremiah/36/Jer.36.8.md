@@ -1,4 +1,4 @@
-**Jeremiah 36:8** 
+**Jeremiah 36:8**<big><big>[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of the LORD in the LORD’S house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Baruch son of Neriah did everything that Jeremiah the prophet had commanded h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.7|<< Jeremiah 36:7]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.9|Jeremiah 36:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֗עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Baruch  |**<big>&#8207;[[H1263J\|בָּרוּךְ֙]]&#8207; </big>**| ba.ruKh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

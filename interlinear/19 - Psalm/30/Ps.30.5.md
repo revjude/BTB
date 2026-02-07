@@ -1,4 +1,4 @@
-**Psalms 30:5** (30:6)
+**Psalms 30:5**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For his anger [endureth but] a moment; in his favour [is] life: weeping may endure for a night, but joy [cometh] in the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For His anger is fleeting, but His favor lasts a lifetime. Weeping may stay the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.4|<< Psalms 30:4]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.6|Psalms 30:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a moment  |**<big>&#8207;[[H7281\|רֶ֨גַע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Re.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

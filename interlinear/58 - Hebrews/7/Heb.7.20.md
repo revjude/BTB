@@ -1,12 +1,12 @@
-**Hebrews 7:20
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:20**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And inasmuch as not without an oath [he was made priest]:
 <small><sub>**BSB:**</sub></small>
 And none of this happened without an oath. For others became priests without an oath,
 <small><sub>**Literal:**</sub></small>
 And to as much as not apart from an oath. [21] those ones truly for without an oath are priests having become,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.19|<< Hebrews 7:19]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.21|Hebrews 7:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to |**<big>[[G2596\|καθ᾽]]</big>**  |kath᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

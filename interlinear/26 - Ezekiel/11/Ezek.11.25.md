@@ -1,4 +1,4 @@
-**Ezekiel 11:25** 
+**Ezekiel 11:25**<big><big>[[Ezek.11.22 God’s Glory Leaves Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I spake unto them of the captivity all the things that the LORD had shewed me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I told the exiles everything the LORD had shown me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.24|<< Ezekiel 11:24]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.1|Ezekiel 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I spoke  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H1696G\|אֲדַבֵּ֖ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.da.Ber<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

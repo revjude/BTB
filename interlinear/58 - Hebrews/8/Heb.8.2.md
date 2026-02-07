@@ -1,12 +1,12 @@
-**Hebrews 8:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:2**<big><big>[[Heb.8.1 Christ’s Eternal Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.
 <small><sub>**BSB:**</sub></small>
 and who ministers in the sanctuary and true tabernacle set up by the Lord, not by man.
 <small><sub>**Literal:**</sub></small>
 in the Holy [Places] a minister and in the tabernacle <the> true, which has pitched the Lord, and not man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.1|<< Hebrews 8:1]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.3|Hebrews 8:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Holy [Places] |**<big>[[G0039G\|ἁγίων]]</big>**  |hagiōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

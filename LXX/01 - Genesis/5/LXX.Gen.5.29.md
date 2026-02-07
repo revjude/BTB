@@ -1,10 +1,7 @@
 **LXX Genesis 5:29** 
 <small><sub>**LXX:**</sub></small>
 And he named  his name, Noah, saying, This \[one\] will rest us from  our works, and from the distresses  of our hands, and from the earth of which \[the\] <span class="smallcaps">lord</span> God cursed. 
-<small><sub>**KJV:**</sub></small>
-And he called his name Noah, saying, This [same] shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.
-<small><sub>**BSB:**</sub></small>
-And he named him Noah, saying, “May this one comfort us in the labor and toil of our hands caused by the ground that the LORD has cursed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.28|<< Genesis 5:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.30|Genesis 5:30 >>]]</td></tr></table>
 
 | Translation | Greek |

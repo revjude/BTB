@@ -1,10 +1,7 @@
 **LXX Psalm 84:7** 
 <small><sub>**LXX:**</sub></small>
 They shall go from force to force; they shall see the God  of gods in Zion. 
-<small><sub>**KJV:**</sub></small>
-They go from strength to strength, [every one of them] in Zion appeareth before God.
-<small><sub>**BSB:**</sub></small>
-They go from strength to strength, until each appears before God in Zion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.6|<< Psalm 84:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.8|Psalm 84:8 >>]]</td></tr></table>
 
 | Translation | Greek |

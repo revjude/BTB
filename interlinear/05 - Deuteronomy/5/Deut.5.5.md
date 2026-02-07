@@ -1,4 +1,4 @@
-**Deuteronomy 5:5** 
+**Deuteronomy 5:5**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (I stood between the LORD and you at that time, to shew you the word of the LORD: for ye were afraid by reason of the fire, and went not up into the mount;) saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time I was standing between the LORD and you to declare to you the word 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.4|<< Deuteronomy 5:4]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.6|Deuteronomy 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָ֠נֹכִי]]&#8207; </big>**| 'A.no.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] standing  |**<big>&#8207;[[H5975G\|עֹמֵ֨ד]]&#8207; </big>**| 'o.Med<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

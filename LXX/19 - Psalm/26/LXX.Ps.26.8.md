@@ -1,10 +1,7 @@
 **LXX Psalm 26:8** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, I loved \[the\] beauty of your house, and \[the\] place of \[the\] tent of your glory. 
-<small><sub>**KJV:**</sub></small>
-LORD, I have loved the habitation of thy house, and the place where thine honour dwelleth.
-<small><sub>**BSB:**</sub></small>
-O LORD, I love the house where You dwell, the place where Your glory resides.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.7|<< Psalm 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.9|Psalm 26:9 >>]]</td></tr></table>
 
 | Translation | Greek |

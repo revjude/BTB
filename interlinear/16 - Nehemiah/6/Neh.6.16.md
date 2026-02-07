@@ -1,4 +1,4 @@
-**Nehemiah 6:16** 
+**Nehemiah 6:16**<big><big>[[Neh.6.15 Completion of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that when all our enemies heard [thereof], and all the heathen that [were] about us saw [these things], they were much cast down in their own eyes: for they perceived that this work was wrought of our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all our enemies heard about this, all the surrounding nations were afraid a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.15|<< Nehemiah 6:15]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.17|Nehemiah 6:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just when  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֤ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

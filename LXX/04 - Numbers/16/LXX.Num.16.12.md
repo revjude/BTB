@@ -1,10 +1,7 @@
 **LXX Numbers 16:12** 
 <small><sub>**LXX:**</sub></small>
 And Moses sent to call Dathan and Abiram, sons of Eliab. And they said, We do not ascend \[to you\]. 
-<small><sub>**KJV:**</sub></small>
-And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
-<small><sub>**BSB:**</sub></small>
-Then Moses summoned Dathan and Abiram, the sons of Eliab, but they said, “We will not come!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.11|<< Numbers 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.13|Numbers 16:13 >>]]</td></tr></table>
 
 | Translation | Greek |

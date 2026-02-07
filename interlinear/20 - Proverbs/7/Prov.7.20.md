@@ -1,4 +1,4 @@
-**Proverbs 7:20** 
+**Proverbs 7:20**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath taken a bag of money with him, [and] will come home at the day appointed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He took with him a bag of money and will not return till the moon is full.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.19|<< Proverbs 7:19]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.21|Proverbs 7:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] bag of  |**<big>&#8207;[[H6872A\|צְֽרוֹר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tze.ror-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> money  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H3701G\|כֶּסֶף]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

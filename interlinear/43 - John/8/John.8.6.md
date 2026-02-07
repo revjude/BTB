@@ -1,12 +1,12 @@
-**John 8:6
-**<small><sub>**KJV:**</sub></small>
+**John 8:6**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with [his] finger wrote on the ground, [as though he heard them not].
 <small><sub>**BSB:**</sub></small>
 They said this to test Him, in order to have a basis for accusing Him. But Jesus bent down and began to write on the ground with His finger.
 <small><sub>**Literal:**</sub></small>
 This now they were saying testing Him so that they may have [grounds] to accuse Him. <the> But Jesus down having stooped <the> with [His] finger he was writing on the ground. not pretending<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.5|<< John 8:5]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.7|John 8:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |

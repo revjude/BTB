@@ -1,12 +1,12 @@
-**John 14:27
-**<small><sub>**KJV:**</sub></small>
+**John 14:27**<big><big>[[John.14.27 Peace I Leave with You|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.
 <small><sub>**BSB:**</sub></small>
 Peace I leave with you; My peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled; do not be afraid.
 <small><sub>**Literal:**</sub></small>
 Peace I leave with you, peace <the> of Mine I give to you; not even as the world gives, I myself give to you. Not should be troubled of you the heart nor should it fear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.26|<< John 14:26]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.28|John 14:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Peace |**<big>[[G1515\|Εἰρήνην]]</big>**  |Eirēnēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I leave |**<big>[[G0863G\|ἀφίημι]]</big>**  |aphiēmi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

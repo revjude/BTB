@@ -1,4 +1,4 @@
-**Leviticus 24:18** 
+**Leviticus 24:18**<big><big>[[Lev.24.17 An Eye for an Eye|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that killeth a beast shall make it good; beast for beast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever kills an animal must make restitution—life for life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.17|<< Leviticus 24:17]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.19|Leviticus 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [one who] strikes down  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5221\|מַכֵּ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Keh<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] life of  |**<big>&#8207;[[H5315H\|נֶֽפֶשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.fesh-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

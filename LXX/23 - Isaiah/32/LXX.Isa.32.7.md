@@ -1,10 +1,7 @@
 **LXX Isaiah 32:7** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] counsel of the wicked shall plan lawless \[deeds\] to corrupt \[the\] lowly by unjust words, and to efface \[the\] words of \[the\] lowly in a case. 
-<small><sub>**KJV:**</sub></small>
-The instruments also of the churl [are] evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
-<small><sub>**BSB:**</sub></small>
-The weapons of the scoundrel are destructive; he hatches plots to destroy the poor with lies, even when the plea of the needy is just.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.6|<< Isaiah 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.8|Isaiah 32:8 >>]]</td></tr></table>
 
 | Translation | Greek |

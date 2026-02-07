@@ -1,5 +1,5 @@
-**Revelation 18:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:3**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For all nations have drunk of the wine of the wrath of her fornication, and the kings of the earth have committed fornication with her, and the merchants of the earth are waxed rich through the abundance of her delicacies.
 <small><sub>**BSB:**</sub></small>
 All the nations have drunk the wine of the passion of her immorality. The kings of the earth were immoral with her, and the merchants of the earth have grown wealthy from the extravagance of her luxury.”
@@ -11,7 +11,7 @@ For of the wine of the wrath of the sexual immorality of her they have drunk all
 > $\quad$ alluding to: [[LXX.Nah.3.4|Nah 3:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

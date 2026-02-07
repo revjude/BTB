@@ -1,4 +1,4 @@
-**1 Chronicles 23:28** 
+**1 Chronicles 23:28**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because their office [was] to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but their duty was to assist the descendants of Aaron with the service of the ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.27|<< 1 Chronicles 23:27]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.29|1 Chronicles 23:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | function their  |**<big>&#8207;[[H4612\|מַעֲמָדָ֞]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ma.'a.ma.Da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

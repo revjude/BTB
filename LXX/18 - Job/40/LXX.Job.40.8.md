@@ -1,10 +1,7 @@
 **LXX Job 40:8** 
 <small><sub>**LXX:**</sub></small>
 Or should you undo my  judgment? And do you imagine me otherwise executing things with you? or that you should appear just? 
-<small><sub>**KJV:**</sub></small>
-Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?
-<small><sub>**BSB:**</sub></small>
-Would you really annul My justice? Would you condemn Me to justify yourself?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.7|<< Job 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.9|Job 40:9 >>]]</td></tr></table>
 
 | Translation | Greek |

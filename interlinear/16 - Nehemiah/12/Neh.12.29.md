@@ -1,4 +1,4 @@
-**Nehemiah 12:29** 
+**Nehemiah 12:29**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from Beth-gilgal, and from the fields of Geba and Azmaveth, for they had built v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.28|<< Nehemiah 12:28]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.30|Nehemiah 12:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from Beth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1019\|בֵּית֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Beit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of the> Gilgal  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1019\|גִּלְגָּ֔ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gil.Gal<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Zechariah 7:13** 
+**Zechariah 7:13**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore it is come to pass, [that] as he cried, and they would not hear; so they cried, and I would not hear, saith the LORD of hosts:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And just as I had called and they would not listen, so when they called I would 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.12|<< Zechariah 7:12]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.14|Zechariah 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kha.<small><sup>[[HR]]</sup></small> 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

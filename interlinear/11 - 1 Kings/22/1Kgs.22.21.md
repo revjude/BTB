@@ -1,4 +1,4 @@
-**1 Kings 22:21** 
+**1 Kings 22:21**<big><big>[[1Kgs.22.13 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came forth a spirit, and stood before the LORD, and said, I will persuade him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then a spirit came forward, stood before the LORD, and said, ‘I will entice hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.20|<< 1 Kings 22:20]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.22|1 Kings 22:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came forth  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the spirit  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7307G\|ר֗וּחַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

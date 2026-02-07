@@ -1,10 +1,7 @@
 **LXX Genesis 37:26** 
 <small><sub>**LXX:**</sub></small>
 And Judah said to  his brothers, What profit if we kill  our brother, and hide  his blood? 
-<small><sub>**KJV:**</sub></small>
-And Judah said unto his brethren, What profit [is it] if we slay our brother, and conceal his blood?
-<small><sub>**BSB:**</sub></small>
-Then Judah said to his brothers, “What profit will we gain if we kill our brother and cover up his blood?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.25|<< Genesis 37:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.27|Genesis 37:27 >>]]</td></tr></table>
 
 | Translation | Greek |

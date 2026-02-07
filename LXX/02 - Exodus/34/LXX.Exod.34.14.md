@@ -1,10 +1,7 @@
 **LXX Exodus 34:14** 
 <small><sub>**LXX:**</sub></small>
 For you should not do obeisance to other gods.  For \[the\] <span class="smallcaps">lord</span>  God, a jealous name, is a jealous God; 
-<small><sub>**KJV:**</sub></small>
-For thou shalt worship no other god: for the LORD, whose name [is] Jealous, [is] a jealous God:
-<small><sub>**BSB:**</sub></small>
-For you must not worship any other god, for the LORD, whose name is Jealous, is a jealous God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.13|<< Exodus 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.15|Exodus 34:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 49:27** 
+**Genesis 49:27**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Benjamin shall ravin [as] a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Benjamin is a ravenous wolf; in the morning he devours the prey, in the evening 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.26|<< Genesis 49:26]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.28|Genesis 49:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Benjamin  |**<big>&#8207;[[H1144G\|בִּנְיָמִין֙]]&#8207; </big>**| bin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a wolf  |**<big>&#8207;[[H2061\|זְאֵ֣ב]]&#8207; </big>**| ze.'Ev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

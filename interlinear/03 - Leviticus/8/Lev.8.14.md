@@ -1,4 +1,4 @@
-**Leviticus 8:14** 
+**Leviticus 8:14**<big><big>[[Lev.8.14 The Priests’ Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses then brought the bull near for the sin offering, and Aaron and his sons la
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.13|<< Leviticus 8:13]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.15|Leviticus 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066H\|יַּגֵּ֕שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gesh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

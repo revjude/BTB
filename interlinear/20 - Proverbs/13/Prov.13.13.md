@@ -1,4 +1,4 @@
-**Proverbs 13:13** 
+**Proverbs 13:13**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who despises instruction will pay the penalty, but the one who respects a com
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.12|<< Proverbs 13:12]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.14|Proverbs 13:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] despises  |**<big>&#8207;[[H0936\|בָּ֣ז]]&#8207; </big>**| baz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> a word  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H1697G\|דָבָר]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> da.vor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 6:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:1**<big><big>[[Matt.6.1 Giving to the Needy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 “Be careful not to perform your righteous acts before men to be seen by them. If you do, you will have no reward from your Father in heaven.
 <small><sub>**Literal:**</sub></small>
 do beware now the righteousness of you not [you are] to do before <the> men in order <the> to be seen by them; lest then except indeed reward not have you with the Father of you who [is] in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.48|<< Matthew 5:48]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.2|Matthew 6:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do beware |**<big>[[G4337\|Προσέχετε]]</big>**  |Prosechete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">no</abbr> | |

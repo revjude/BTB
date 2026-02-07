@@ -1,10 +1,7 @@
 **LXX Exodus 14:25** 
 <small><sub>**LXX:**</sub></small>
 And he bound the axles  of their chariots, and led them with force. And the Egyptians said, We should flee from \[the\] face of Israel, for the <span class="smallcaps">lord</span> wages war for them \[against\] the Egyptians. 
-<small><sub>**KJV:**</sub></small>
-And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the LORD fighteth for them against the Egyptians.
-<small><sub>**BSB:**</sub></small>
-He caused their chariot wheels to wobble, so that they had difficulty driving. “Let us flee from the Israelites,” said the Egyptians, “for the LORD is fighting for them against Egypt!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.24|<< Exodus 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.26|Exodus 14:26 >>]]</td></tr></table>
 
 | Translation | Greek |

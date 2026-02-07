@@ -1,12 +1,12 @@
-**Revelation 18:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:5**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For her sins have reached unto heaven, and God hath remembered her iniquities.
 <small><sub>**BSB:**</sub></small>
 For her sins are piled up to heaven, and God has remembered her iniquities.
 <small><sub>**Literal:**</sub></small>
 For they were heaped in her <the> sins as high as <the> heaven, and has remembered <the> God the iniquities of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.4|<< Revelation 18:4]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.6|Revelation 18:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were heaped [^1] [^2] |**<big>[[G2853\|ἐκολλήθησαν]]</big>**  |ekollēthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(K)O</abbr> | |

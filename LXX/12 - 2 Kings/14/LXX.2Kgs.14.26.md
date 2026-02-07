@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:26** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> beheld the humiliation  of Israel, \[that it was\] exceedingly bitter, and very few, and being held together, and being depleted, and being abandoned, and there was no  one helping  Israel. 
-<small><sub>**KJV:**</sub></small>
-For the LORD saw the affliction of Israel, [that it was] very bitter: for [there was] not any shut up, nor any left, nor any helper for Israel.
-<small><sub>**BSB:**</sub></small>
-For the LORD saw that the affliction of the Israelites, both slave and free, was very bitter. There was no one to help Israel,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.25|<< 2 Kings 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.27|2 Kings 14:27 >>]]</td></tr></table>
 
 | Translation | Greek |

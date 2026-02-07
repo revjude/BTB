@@ -1,10 +1,7 @@
 **LXX Genesis 32:15** 
 <small><sub>**LXX:**</sub></small>
 camels nursing and  their offspring -- thirty; oxen -- forty; bulls -- ten; donkeys -- twenty; and foals -- ten. 
-<small><sub>**KJV:**</sub></small>
-Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.
-<small><sub>**BSB:**</sub></small>
-30 milk camels with their young, 40 cows, 10 bulls, 20 female donkeys, and 10 male donkeys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.14|<< Genesis 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.16|Genesis 32:16 >>]]</td></tr></table>
 
 | Translation | Greek |

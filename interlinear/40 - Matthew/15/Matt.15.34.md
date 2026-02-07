@@ -1,12 +1,12 @@
-**Matthew 15:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:34**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus saith unto them, How many loaves have ye? And they said, Seven, and a few little fishes.
 <small><sub>**BSB:**</sub></small>
 “How many loaves do you have?” Jesus asked. “Seven,” they replied, “and a few small fish.”
 <small><sub>**Literal:**</sub></small>
 And says to them <the> Jesus; How many loaves have you? <the> And they said; Seven and a few small fish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.33|<< Matthew 15:33]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.35|Matthew 15:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

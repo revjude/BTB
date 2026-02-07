@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:5** 
 <small><sub>**LXX:**</sub></small>
 And David went forth perceiving in all what ever Saul sent him. And Saul placed him over the men \[of\] war. And he pleased in \[the\] eyes of all the people, and also even in \[the\] eyes of the manservants of Saul. 
-<small><sub>**KJV:**</sub></small>
-And David went out whithersoever Saul sent him, [and] behaved himself wisely: and Saul set him over the men of war, and he was accepted in the sight of all the people, and also in the sight of Saul’s servants.
-<small><sub>**BSB:**</sub></small>
-So David marched out and prospered in everything Saul sent him to do, and Saul set him over the men of war. And this was pleasing in the sight of all the people, and of Saul’s officers as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.4|<< 1 Samuel 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.6|1 Samuel 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

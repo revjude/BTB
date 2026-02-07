@@ -1,10 +1,7 @@
 **LXX Daniel 8:9** 
 <small><sub>**LXX:**</sub></small>
 And from out of the one of them came forth one strong horn, and was magnified extremely towards the south, and towards the east, and towards the setting of the sun. 
-<small><sub>**KJV:**</sub></small>
-And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant [land].
-<small><sub>**BSB:**</sub></small>
-From one of these horns a little horn emerged and grew extensively toward the south and the east and toward the Beautiful Land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.8|<< Daniel 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.10|Daniel 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

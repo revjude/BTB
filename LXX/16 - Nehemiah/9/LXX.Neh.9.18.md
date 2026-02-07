@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:18** 
 <small><sub>**LXX:**</sub></small>
 And still also they made for themselves a molten calf. And they said, These \[are\] the gods, the ones leading us from Egypt. And they committed great provocations to anger. 
-<small><sub>**KJV:**</sub></small>
-Yea, when they had made them a molten calf, and said, This [is] thy God that brought thee up out of Egypt, and had wrought great provocations;
-<small><sub>**BSB:**</sub></small>
-Even when they cast for themselves an image of a calf and said, ‘This is your God who brought you up out of Egypt,’ and when they committed terrible blasphemies,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.17|<< Nehemiah 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.19|Nehemiah 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

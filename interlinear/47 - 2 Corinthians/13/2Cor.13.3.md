@@ -1,12 +1,12 @@
-**2 Corinthians 13:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:3**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
 <small><sub>**BSB:**</sub></small>
 since you are demanding proof that Christ is speaking through me. He is not weak in dealing with you but is powerful among you.
 <small><sub>**Literal:**</sub></small>
 since a proof you seek <the> in me myself speaking of Christ who toward you not is weak but He is powerful among you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.2|<< 2 Corinthians 13:2]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.4|2 Corinthians 13:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | since |**<big>[[G1893\|ἐπεὶ]]</big>**  |epei <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a proof |**<big>[[G1382\|δοκιμὴν]]</big>**  |dokimēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

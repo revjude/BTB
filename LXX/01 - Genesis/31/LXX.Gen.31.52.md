@@ -1,10 +1,7 @@
 **LXX Genesis 31:52** 
 <small><sub>**LXX:**</sub></small>
 this hill witnesses, and the monument which I stood -- it witnesses. For if I pass over, I to you, neither shall you pass over to me  \[beyond\] this hill and  this monument, for evil. 
-<small><sub>**KJV:**</sub></small>
-This heap [be] witness, and [this] pillar [be] witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm.
-<small><sub>**BSB:**</sub></small>
-This mound is a witness, and this pillar is a witness, that I will not go past this mound to harm you, and you will not go past this mound and pillar to harm me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.51|<< Genesis 31:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.53|Genesis 31:53 >>]]</td></tr></table>
 
 | Translation | Greek |

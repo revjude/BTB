@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:14** 
 <small><sub>**LXX:**</sub></small>
 Who among all the gods  of these nations, which my fathers utterly destroyed, \[is the one\] who is able to rescue  his people from my hand, that your God shall be able to deliver you from out of my hand? 
-<small><sub>**KJV:**</sub></small>
-Who [was there] among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand?
-<small><sub>**BSB:**</sub></small>
-Who among all the gods of these nations that my fathers devoted to destruction has been able to deliver his people from my hand? How then can your God deliver you from my hand?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.13|<< 2 Chronicles 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.15|2 Chronicles 32:15 >>]]</td></tr></table>
 
 | Translation | Greek |

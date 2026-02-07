@@ -1,10 +1,7 @@
 **LXX Psalm 89:51** 
 <small><sub>**LXX:**</sub></small>
 where your enemies berated, O <span class="smallcaps">lord</span>, where they berated the equivalent  of your anointed one. 
-<small><sub>**KJV:**</sub></small>
-Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed.
-<small><sub>**BSB:**</sub></small>
-how Your enemies have taunted, O LORD, and have mocked every step of Your anointed one!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.50|<< Psalm 89:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.52|Psalm 89:52 >>]]</td></tr></table>
 
 | Translation | Greek |

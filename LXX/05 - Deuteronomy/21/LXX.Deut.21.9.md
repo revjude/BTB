@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall lift away the innocent blood from you of them, if you should do the good and the pleasing \[thing\] before \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-So shalt thou put away the [guilt of] innocent blood from among you, when thou shalt do [that which is] right in the sight of the LORD.
-<small><sub>**BSB:**</sub></small>
-So you shall purge from among you the guilt of shedding innocent blood, since you have done what is right in the eyes of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.8|<< Deuteronomy 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.10|Deuteronomy 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

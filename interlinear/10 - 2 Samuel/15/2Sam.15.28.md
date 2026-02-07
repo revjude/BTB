@@ -1,4 +1,4 @@
-**2 Samuel 15:28** 
+**2 Samuel 15:28**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 See, I will tarry in the plain of the wilderness, until there come word from you to certify me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See, I will wait at the fords of the wilderness until word comes from you to inf
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.27|<< 2 Samuel 15:27]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.29|2 Samuel 15:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200I\|רְאוּ֙]]&#8207; </big>**| re.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֣י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

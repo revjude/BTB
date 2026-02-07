@@ -1,10 +1,7 @@
 **LXX Joshua 10:4** 
 <small><sub>**LXX:**</sub></small>
 Come, ascend to me, and help me! and we shall wage war against  Gibeon. For it deserted to Joshua, and to the sons of Israel! 
-<small><sub>**KJV:**</sub></small>
-Come up unto me, and help me, that we may smite Gibeon: for it hath made peace with Joshua and with the children of Israel.
-<small><sub>**BSB:**</sub></small>
-“Come up and help me. We will attack Gibeon, because they have made peace with Joshua and the Israelites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.3|<< Joshua 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.5|Joshua 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 23:24** 
+**Jeremiah 23:24**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can any hide himself in secret places that I shall not see him? saith the LORD. Do not I fill heaven and earth? saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can any hide himself in secret places that I shall not see him? saith the LORD. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.23|<< Jeremiah 23:23]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.25|Jeremiah 23:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or?  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he hide himself  |**<big>&#8207;[[H5641\|יִסָּתֵ֨ר]]&#8207; </big>**| yi.sa.Ter<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

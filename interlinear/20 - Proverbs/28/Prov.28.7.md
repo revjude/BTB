@@ -1,4 +1,4 @@
-**Proverbs 28:7** 
+**Proverbs 28:7**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso keepeth the law [is] a wise son: but he that is a companion of riotous [men] shameth his father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A discerning son keeps the law, but a companion of gluttons disgraces his father
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.6|<< Proverbs 28:6]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.8|Proverbs 28:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] keeps  |**<big>&#8207;[[H5341\|נוֹצֵ֣ר]]&#8207; </big>**| no.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] law  |**<big>&#8207;[[H8451\|תּ֭וֹרָה]]&#8207; </big>**| To.rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

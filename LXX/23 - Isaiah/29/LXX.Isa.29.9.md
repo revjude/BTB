@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Be loosened! Be amazed and be dizzy! Not from liquor nor from wine. 
-<small><sub>**KJV:**</sub></small>
-Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
-<small><sub>**BSB:**</sub></small>
-Stop and be astonished; blind yourselves and be sightless; be drunk, but not with wine; stagger, but not from strong drink.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.8|<< Isaiah 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.10|Isaiah 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

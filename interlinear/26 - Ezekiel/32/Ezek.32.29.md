@@ -1,4 +1,4 @@
-**Ezekiel 32:29** 
+**Ezekiel 32:29**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There [is] Edom, her kings, and all her princes, which with their might are laid by [them that were] slain by the sword: they shall lie with the uncircumcised, and with them that go down to the pit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Edom is there, and all her kings and princes, who despite their might are laid a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.28|<< Ezekiel 32:28]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.30|Ezekiel 32:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] there \<towards>  |**<big>&#8207;[[H8033G\|שָׁ֣מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Edom  |**<big>&#8207;[[H0123G\|אֱד֗וֹם]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

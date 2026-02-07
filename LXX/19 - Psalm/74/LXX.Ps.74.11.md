@@ -1,10 +1,7 @@
 **LXX Psalm 74:11** 
 <small><sub>**LXX:**</sub></small>
 Why did you turn away  your hand, even  your right \[hand\] from \[the\] midst  of your bosom to \[the\] end? 
-<small><sub>**KJV:**</sub></small>
-Why withdrawest thou thy hand, even thy right hand? pluck [it] out of thy bosom.
-<small><sub>**BSB:**</sub></small>
-Why do You withdraw Your strong right hand? Stretch it out to destroy them!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.10|<< Psalm 74:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.12|Psalm 74:12 >>]]</td></tr></table>
 
 | Translation | Greek |

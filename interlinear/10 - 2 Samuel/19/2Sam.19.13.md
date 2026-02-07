@@ -1,4 +1,4 @@
-**2 Samuel 19:13** (19:14)
+**2 Samuel 19:13**<big><big>[[2Sam.19.8 David Restored as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say ye to Amasa, [Art] thou not of my bone, and of my flesh? God do so to me, and more also, if thou be not captain of the host before me continually in the room of Joab.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And say to Amasa, ‘Aren’t you my flesh and blood? May God punish me, and eve
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.12|<< 2 Samuel 19:12]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.14|2 Samuel 19:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Amasa  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H6021G\|עֲמָשָׂא֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.ma.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹּֽמְר֔וּ]]&#8207; </big>**| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

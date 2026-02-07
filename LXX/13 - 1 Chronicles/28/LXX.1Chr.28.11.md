@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David gave to Solomon  his son the plan of the temple, and  its houses, and  its treasuries, and the upper rooms, and the inner storerooms, and the house of the atonement-seat, 
-<small><sub>**KJV:**</sub></small>
-Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat,
-<small><sub>**BSB:**</sub></small>
-Then David gave his son Solomon the plans for the portico of the temple, its buildings, storehouses, upper rooms, inner rooms, and the room for the mercy seat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.10|<< 1 Chronicles 28:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.12|1 Chronicles 28:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 22:1** 
+**Joshua 22:1**<big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Joshua summoned the Reubenites, the Gadites, and the half-tribe of Manasseh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.45|<< Joshua 21:45]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.2|Joshua 22:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֚ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he summoned  |**<big>&#8207;[[H7121G\|יִקְרָ֣א]]&#8207; </big>**| yik.Ra'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

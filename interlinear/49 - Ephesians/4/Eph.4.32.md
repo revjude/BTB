@@ -1,12 +1,12 @@
-**Ephesians 4:32
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:32**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.
 <small><sub>**BSB:**</sub></small>
 Be kind and tenderhearted to one another, forgiving each other just as in Christ God forgave you.
 <small><sub>**Literal:**</sub></small>
 do be now to one another kind, tender-hearted, forgiving each other even as also <the> God in Christ forgave you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.31|<< Ephesians 4:31]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.1|Ephesians 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be |**<big>[[G1096\|γίνεσθε]]</big>**  [^1] |ginesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">NKO</abbr> | |

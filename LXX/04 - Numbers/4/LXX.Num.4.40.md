@@ -1,10 +1,7 @@
 **LXX Numbers 4:40** 
 <small><sub>**LXX:**</sub></small>
 And their numbering was according to their peoples, according to \[the\] house of their patrimony -- two thousand six hundred thirty. 
-<small><sub>**KJV:**</sub></small>
-Even those that were numbered of them, throughout their families, by the house of their fathers, were two thousand and six hundred and thirty.
-<small><sub>**BSB:**</sub></small>
-And those numbered by their clans and families totaled 2,630.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.39|<< Numbers 4:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.41|Numbers 4:41 >>]]</td></tr></table>
 
 | Translation | Greek |

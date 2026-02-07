@@ -1,10 +1,7 @@
 **LXX Psalm 130:7** 
 <small><sub>**LXX:**</sub></small>
 Let Israel hope upon the <span class="smallcaps">lord</span>! for with the <span class="smallcaps">lord</span>  \[is\] mercy, and an abundant ransoming by him. 
-<small><sub>**KJV:**</sub></small>
-Let Israel hope in the LORD: for with the LORD [there is] mercy, and with him [is] plenteous redemption.
-<small><sub>**BSB:**</sub></small>
-O Israel, put your hope in the LORD, for with the LORD is loving devotion, and with Him is redemption in abundance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.130.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.130.6|<< Psalm 130:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.8|Psalm 130:8 >>]]</td></tr></table>
 
 | Translation | Greek |

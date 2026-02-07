@@ -1,12 +1,12 @@
-**Acts 27:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:34**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore I pray you to take [some] meat: for this is for your health: for there shall not an hair fall from the head of any of you.
 <small><sub>**BSB:**</sub></small>
 So for your own preservation, I urge you to eat something, because not a single hair of your head will be lost.”
 <small><sub>**Literal:**</sub></small>
 Therefore I exhort you to partake of food; this indeed for <the> of you preservation is; not [one] for of you a hair of the head will perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.33|<< Acts 27:33]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.35|Acts 27:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I exhort |**<big>[[G3870\|παρακαλῶ]]</big>**  |parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

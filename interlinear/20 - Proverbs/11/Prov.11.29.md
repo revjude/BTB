@@ -1,4 +1,4 @@
-**Proverbs 11:29** 
+**Proverbs 11:29**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that troubleth his own house shall inherit the wind: and the fool [shall be] servant to the wise of heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who brings trouble on his house will inherit the wind, and the fool will be s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.28|<< Proverbs 11:28]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.30|Proverbs 11:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] troubles  |**<big>&#8207;[[H5916\|עוֹכֵ֣ר]]&#8207; </big>**| o.Kher<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | household his  |**<big>&#8207;[[H1004M\|בֵּ֭ית]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| bei.t<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

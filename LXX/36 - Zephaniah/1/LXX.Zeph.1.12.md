@@ -1,10 +1,7 @@
 **LXX Zephaniah 1:12** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day, I will search out  Jerusalem with a lamp, and I will take vengeance upon the men, of the ones paying no attention to  their injunctions; and the ones saying in  their hearts, In no way shall \[the\] <span class="smallcaps">lord</span> do good, nor shall he inflict evil. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass at that time, [that] I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The LORD will not do good, neither will he do evil.
-<small><sub>**BSB:**</sub></small>
-And at that time I will search Jerusalem with lamps and punish the men settled in complacency, who say to themselves, ‘The LORD will do nothing, either good or bad.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.11|<< Zephaniah 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.13|Zephaniah 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

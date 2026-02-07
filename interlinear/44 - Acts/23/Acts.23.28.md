@@ -1,12 +1,12 @@
-**Acts 23:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:28**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when I would have known the cause wherefore they accused him, I brought him forth into their council:
 <small><sub>**BSB:**</sub></small>
 and since I wanted to understand their charges against him, I brought him down to their Sanhedrin.
 <small><sub>**Literal:**</sub></small>
 Resolving then to know the charge on account of which they were accusing him I brought down him to the council of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.27|<< Acts 23:27]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.29|Acts 23:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Resolving |**<big>[[G1014\|βουλόμενός]]</big>**  |boulomenos <small><sup>[[V-PMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

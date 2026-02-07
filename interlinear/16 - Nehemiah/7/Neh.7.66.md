@@ -1,4 +1,4 @@
-**Nehemiah 7:66** 
+**Nehemiah 7:66**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The whole congregation together [was] forty and two thousand three hundred and threescore,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The whole assembly numbered 42,360,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.65|<< Nehemiah 7:65]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.67|Nehemiah 7:67 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the assembly  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6951\|קָּהָ֖ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Hal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

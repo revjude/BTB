@@ -1,4 +1,4 @@
-**Ezra 6:22** 
+**Ezra 6:22**<big><big>[[Ezra.6.19 The Returned Exiles Keep the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And kept the feast of unleavened bread seven days with joy: for the LORD had made them joyful, and turned the heart of the king of Assyria unto them, to strengthen their hands in the work of the house of God, the God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For seven days they kept the Feast of Unleavened Bread with joy, because the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.21|<< Ezra 6:21]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.1|Ezra 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they celebrated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּֽעֲשׂ֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] feast of  |**<big>&#8207;[[H2282\|חַג]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chag-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

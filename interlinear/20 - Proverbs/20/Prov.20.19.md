@@ -1,4 +1,4 @@
-**Proverbs 20:19** 
+**Proverbs 20:19**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that goeth about [as] a talebearer revealeth secrets: therefore meddle not with him that flattereth with his lips.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who reveals secrets is a constant gossip; avoid the one who babbles with his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.18|<< Proverbs 20:18]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.20|Proverbs 20:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] uncovering  |**<big>&#8207;[[H1540H\|גּֽוֹלֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| go.leh-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | secret counsel  |**<big>&#8207;[[H5475\|סּ֭וֹד]]&#8207; </big>**| Sod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

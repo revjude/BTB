@@ -1,4 +1,4 @@
-**Isaiah 23:4** 
+**Isaiah 23:4**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be thou ashamed, O Zidon: for the sea hath spoken, [even] the strength of the sea, saying, I travail not, nor bring forth children, neither do I nourish up young men, [nor] bring up virgins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be ashamed, O Sidon, the stronghold of the sea, for the sea has spoken: “I hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.3|<< Isaiah 23:3]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.5|Isaiah 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be ashamed  |**<big>&#8207;[[H0954\|בּ֣וֹשִׁי]]&#8207; </big>**| Bo.o.shi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Sidon  |**<big>&#8207;[[H6721H\|צִיד֔וֹן]]&#8207; </big>**| tzi.Don<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

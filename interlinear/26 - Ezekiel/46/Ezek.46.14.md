@@ -1,4 +1,4 @@
-**Ezekiel 46:14** 
+**Ezekiel 46:14**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt prepare a meat offering for it every morning, the sixth part of an ephah, and the third part of an hin of oil, to temper with the fine flour; a meat offering continually by a perpetual ordinance unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are also to provide with it every morning a grain offering of a sixth of an 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.13|<< Ezekiel 46:13]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.15|Ezekiel 46:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a grain offering  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4503G\|מִנְחָה֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will offer  |**<big>&#8207;[[H6213I\|תַעֲשֶׂ֨ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

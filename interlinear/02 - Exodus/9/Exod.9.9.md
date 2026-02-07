@@ -1,4 +1,4 @@
-**Exodus 9:9** 
+**Exodus 9:9**<big><big>[[Exod.9.8 The Sixth Plague：Boils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth [with] blains upon man, and upon beast, throughout all the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It will become fine dust over all the land of Egypt, and festering boils will br
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.8|<< Exodus 9:8]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.10|Exodus 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> dust  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0080\|אָבָ֔ק]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Vak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 36:21** 
+**Job 36:21**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed, regard not iniquity: for this hast thou chosen rather than affliction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be careful not to turn to iniquity, for this you have preferred to affliction.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.20|<< Job 36:20]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.22|Job 36:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take heed  |**<big>&#8207;[[H8104J\|הִ֭שָּׁמֶר]]&#8207; </big>**| Hi.sha.mer<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

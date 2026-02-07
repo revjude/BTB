@@ -1,4 +1,4 @@
-**Deuteronomy 3:4** 
+**Deuteronomy 3:4**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we took all his cities at that time, there was not a city which we took not from them, threescore cities, all the region of Argob, the kingdom of Og in Bashan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time we captured all sixty of his cities. There was not a single city we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.3|<< Deuteronomy 3:3]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.5|Deuteronomy 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we captured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3920\|נִּלְכֹּ֤ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> nil.Kod<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

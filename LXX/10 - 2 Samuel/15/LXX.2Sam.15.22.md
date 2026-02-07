@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:22** 
 <small><sub>**LXX:**</sub></small>
 And David said to Ittai, Go, and pass over with me! And Ittai the Gittite went, and all the men, the ones with him, and all  his servants. 
-<small><sub>**KJV:**</sub></small>
-And David said to Ittai, Go and pass over. And Ittai the Gittite passed over, and all his men, and all the little ones that [were] with him.
-<small><sub>**BSB:**</sub></small>
-“March on then,” said David to Ittai. So Ittai the Gittite marched past with all his men and all the little ones who were with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.21|<< 2 Samuel 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.23|2 Samuel 15:23 >>]]</td></tr></table>
 
 | Translation | Greek |

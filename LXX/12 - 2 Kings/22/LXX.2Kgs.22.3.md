@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:3** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the eighteenth year \[to\] king Josiah, the king sent  Shaphan son of Azaliah, son of Meshullam, the scribe of \[the\] house of \[the\] <span class="smallcaps">lord</span>, saying, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the eighteenth year of king Josiah, [that] the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,
-<small><sub>**BSB:**</sub></small>
-Now in the eighteenth year of his reign, King Josiah sent the scribe, Shaphan son of Azaliah, the son of Meshullam, to the house of the LORD, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.2|<< 2 Kings 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.4|2 Kings 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

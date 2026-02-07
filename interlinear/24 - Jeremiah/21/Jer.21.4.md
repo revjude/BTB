@@ -1,4 +1,4 @@
-**Jeremiah 21:4** 
+**Jeremiah 21:4**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD God of Israel; Behold, I will turn back the weapons of war that [are] in your hands, wherewith ye fight against the king of Babylon, and [against] the Chaldeans, which besiege you without the walls, and I will assemble them into the midst of this city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ this is what the LORD, the God of Israel, says: ‘I will turn against you the w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.3|<< Jeremiah 21:3]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.5|Jeremiah 21:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֨ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

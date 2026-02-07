@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] men of Israel gathered together, and they came to Samuel into Ramah. 
-<small><sub>**KJV:**</sub></small>
-Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,
-<small><sub>**BSB:**</sub></small>
-So all the elders of Israel gathered together and came to Samuel at Ramah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.3|<< 1 Samuel 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.5|1 Samuel 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

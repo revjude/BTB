@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:6** 
 <small><sub>**LXX:**</sub></small>
 for this  hour tomorrow I will send  my servants to you, and they will search  your house, and the houses  of your servants. And it will be \[that\] all the desires  of their eyes, of what ever they should put upon with  their hands, they shall take. 
-<small><sub>**KJV:**</sub></small>
-Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, [that] whatsoever is pleasant in thine eyes, they shall put [it] in their hand, and take [it] away.
-<small><sub>**BSB:**</sub></small>
-But about this time tomorrow I will send my servants to search your palace and the houses of your servants. They will seize and carry away all that is precious to you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.5|<< 1 Kings 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.7|1 Kings 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 91:10** 
+**Psalms 91:10**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ no evil will befall you, no plague will approach your tent.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.91.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.9|<< Psalms 91:9]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.11|Psalms 91:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will happen  |**<big>&#8207;[[H0579\|תְאֻנֶּ֣ה]]&#8207; </big>**| te.'u.Neh<small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:23** 
 <small><sub>**LXX:**</sub></small>
 And he said, Why is it that you should go to him today? It is not a new moon nor a Sabbath.  And she said, Peace. 
-<small><sub>**KJV:**</sub></small>
-And he said, Wherefore wilt thou go to him to day? [it is] neither new moon, nor sabbath. And she said, [It shall be] well.
-<small><sub>**BSB:**</sub></small>
-“Why would you go to him today?” he replied. “It is not a New Moon or a Sabbath.” “Everything is all right,” she said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.22|<< 2 Kings 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.24|2 Kings 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

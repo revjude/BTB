@@ -1,4 +1,4 @@
-**1 Samuel 9:14** 
+**1 Samuel 9:14**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went up into the city: [and] when they were come into the city, behold, Samuel came out against them, for to go up to the high place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Saul and his servant went up toward the city, and as they were entering it, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.13|<< 1 Samuel 9:13]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.15|1 Samuel 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went up  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5927G\|יַּעֲל֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֑יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

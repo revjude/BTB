@@ -1,4 +1,4 @@
-**Habakkuk 3:13** 
+**Habakkuk 3:13**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou wentest forth for the salvation of thy people, [even] for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You went forth for the salvation of Your people, to save Your anointed. You crus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.12|<< Habakkuk 3:12]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.14|Habakkuk 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have gone out  |**<big>&#8207;[[H3318G\|יָצָ֙אתָ֙]]&#8207; </big>**| ya.Tza.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] salvation of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3468\|יֵ֣שַׁע]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ye.sha'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

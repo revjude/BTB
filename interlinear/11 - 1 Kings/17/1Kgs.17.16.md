@@ -1,4 +1,4 @@
-**1 Kings 17:16** 
+**1 Kings 17:16**<big><big>[[1Kgs.17.8 The Widow of Zarephath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the LORD, which he spake by Elijah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The jar of flour was not exhausted and the jug of oil did not run dry, according
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.15|<< 1 Kings 17:15]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.17|1 Kings 17:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] jar of  |**<big>&#8207;[[H3537\|כַּ֤ד]]&#8207; </big>**| kad<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> flour  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7058\|קֶּ֙מַח֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ke.mach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

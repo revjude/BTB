@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:7** 
 <small><sub>**LXX:**</sub></small>
 And he became good in  his height because of the multitude  of his tender branches; for his roots existed among much water. 
-<small><sub>**KJV:**</sub></small>
-Thus was he fair in his greatness, in the length of his branches: for his root was by great waters.
-<small><sub>**BSB:**</sub></small>
-It was beautiful in its greatness, in the length of its limbs, for its roots extended to abundant waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.6|<< Ezekiel 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.8|Ezekiel 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

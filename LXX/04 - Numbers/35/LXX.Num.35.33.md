@@ -1,10 +1,7 @@
 **LXX Numbers 35:33** 
 <small><sub>**LXX:**</sub></small>
 And in no way should you pollute with murder the land upon which you dwell upon it;  for this blood the land by murder, and the land shall not be atoned from the blood  having been poured out upon it, but \[it shall be\] upon the blood of the one pouring it out. 
-<small><sub>**KJV:**</sub></small>
-So ye shall not pollute the land wherein ye [are]: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it.
-<small><sub>**BSB:**</sub></small>
-Do not pollute the land where you live, for bloodshed pollutes the land, and no atonement can be made for the land on which the blood is shed, except by the blood of the one who shed it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.32|<< Numbers 35:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.34|Numbers 35:34 >>]]</td></tr></table>
 
 | Translation | Greek |

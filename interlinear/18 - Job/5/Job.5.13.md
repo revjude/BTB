@@ -1,4 +1,4 @@
-**Job 5:13** 
+**Job 5:13**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He catches the wise in their craftiness, and sweeps away the plans of the cunnin
 > $\quad$ referenced by: [[1Cor.3.19|1Cor 3:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] catches  |**<big>&#8207;[[H3920\|לֹכֵ֣ד]]&#8207; </big>**| lo.Khed<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִ֣ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

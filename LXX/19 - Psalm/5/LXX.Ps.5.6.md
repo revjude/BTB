@@ -1,10 +1,7 @@
 **LXX Psalm 5:6** 
 <small><sub>**LXX:**</sub></small>
 You shall destroy all the ones speaking the lie. A man of blood and deceitful \[the\] <span class="smallcaps">lord</span> abhors. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.
-<small><sub>**BSB:**</sub></small>
-You destroy those who tell lies; the LORD abhors the man of bloodshed and deceit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.5|<< Psalm 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.7|Psalm 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

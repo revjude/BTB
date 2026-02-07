@@ -1,10 +1,7 @@
 **LXX Psalm 80:4** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  God of the forces, for how long are you provoked to anger over the prayer  of your servants? 
-<small><sub>**KJV:**</sub></small>
-O LORD God of hosts, how long wilt thou be angry against the prayer of thy people?
-<small><sub>**BSB:**</sub></small>
-O LORD God of Hosts, how long will Your anger smolder against the prayers of Your people?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.3|<< Psalm 80:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.5|Psalm 80:5 >>]]</td></tr></table>
 
 | Translation | Greek |

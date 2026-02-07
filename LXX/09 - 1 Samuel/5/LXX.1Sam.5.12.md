@@ -1,10 +1,7 @@
 **LXX 1 Samuel 5:12** 
 <small><sub>**LXX:**</sub></small>
 For there came to pass a confusion of death in \[the\] entire  city, exceedingly severe, as the ark of the God of Israel entered. And the living and the dying were struck in the buttocks. And the cry of the city ascended unto the heaven. 
-<small><sub>**KJV:**</sub></small>
-And the men that died not were smitten with the emerods: and the cry of the city went up to heaven.
-<small><sub>**BSB:**</sub></small>
-Those who did not die were afflicted with tumors, and the outcry of the city went up to heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.11|<< 1 Samuel 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.1|1 Samuel 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

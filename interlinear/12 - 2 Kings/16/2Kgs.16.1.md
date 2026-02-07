@@ -1,4 +1,4 @@
-**2 Kings 16:1** 
+**2 Kings 16:1**<big><big>[[2Kgs.16.1 Ahaz Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the seventeenth year of Pekah the son of Remaliah Ahaz the son of Jotham king of Judah began to reign.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham became king
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.38|<< 2 Kings 15:38]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.2|2 Kings 16:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַת֙]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven-  |**<big>&#8207;[[H7651\|שְׁבַֽע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.va'-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

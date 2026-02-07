@@ -1,4 +1,4 @@
-**Deuteronomy 1:9** 
+**Deuteronomy 1:9**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I spake unto you at that time, saying, I am not able to bear you myself alone:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time I said to you, “I cannot carry the burden for you alone.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.8|<< Deuteronomy 1:8]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.10|Deuteronomy 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֣ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֲלֵ]]&#8207;&#8207;[[H9036\|כֶ֔ם]]&#8207; </big>**| 'a.le.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

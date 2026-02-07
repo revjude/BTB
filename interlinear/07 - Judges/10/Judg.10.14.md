@@ -1,4 +1,4 @@
-**Judges 10:14** 
+**Judges 10:14**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and cry unto the gods which ye have chosen; let them deliver you in the time of your tribulation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go and cry out to the gods you have chosen. Let them save you in your time of tr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.13|<< Judges 10:13]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.15|Judges 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לְכ֗וּ]]&#8207; </big>**| le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and cry out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2199\|זַֽעֲקוּ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> za.'a.Ku<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

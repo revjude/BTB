@@ -1,4 +1,4 @@
-**1 Chronicles 15:27** 
+**1 Chronicles 15:27**<big><big>[[1Chr.15.25 Moving the Ark to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David [was] clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also [had] upon him an ephod of linen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now David was dressed in a robe of fine linen, as were all the Levites who were 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.26|<< 1 Chronicles 15:26]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.28|1 Chronicles 15:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and David  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1732\|דָוִ֞יד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] wrapped  |**<big>&#8207;[[H3736\|מְכֻרְבָּ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| me.khur.Bal<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

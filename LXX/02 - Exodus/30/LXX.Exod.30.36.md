@@ -1,10 +1,7 @@
 **LXX Exodus 30:36** 
 <small><sub>**LXX:**</sub></small>
 And you shall cut of these \[into\] fine \[parts\], and you shall put it before the testimony in the tent of the testimony from where I will be known to you from there. It will be to you a holy of the holies incense. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt beat [some] of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy.
-<small><sub>**BSB:**</sub></small>
-Grind some of it into fine powder and place it in front of the Testimony in the Tent of Meeting, where I will meet with you. It shall be most holy to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.35|<< Exodus 30:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.37|Exodus 30:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 24:51
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:51**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall cut him asunder, and appoint [him] his portion with the hypocrites: there shall be weeping and gnashing of teeth.
 <small><sub>**BSB:**</sub></small>
 Then he will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
 <small><sub>**Literal:**</sub></small>
 and will cut in pieces him and the place of him with the hypocrites will appoint; there will be the weeping and the gnashing <the> of teeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.50|<< Matthew 24:50]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.1|Matthew 25:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will cut in pieces |**<big>[[G1371\|διχοτομήσει]]</big>**  |dichotomēsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

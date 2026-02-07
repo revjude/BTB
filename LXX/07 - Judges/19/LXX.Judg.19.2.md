@@ -1,10 +1,7 @@
 **LXX Judges 19:2** 
 <small><sub>**LXX:**</sub></small>
 And his concubine provoked him to anger, and she went forth from him unto the house  of her father in Beth-lehem Judah, and she was there \[the\] days of four months. 
-<small><sub>**KJV:**</sub></small>
-And his concubine played the whore against him, and went away from him unto her father’s house to Bethlehemjudah, and was there four whole months.
-<small><sub>**BSB:**</sub></small>
-But she was unfaithful to him and left him to return to her father’s house in Bethlehem in Judah. After she had been there four months,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.1|<< Judges 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.3|Judges 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

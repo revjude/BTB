@@ -1,10 +1,7 @@
 **LXX Joshua 2:11** 
 <small><sub>**LXX:**</sub></small>
 And having heard, we were amazed \[in\] our heart, and there was no longer a spirit established in any one because of your presence; for \[the\] <span class="smallcaps">lord</span>  your God \[is the\] God in heaven upward, and upon the earth below. 
-<small><sub>**KJV:**</sub></small>
-And as soon as we had heard [these things], our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he [is] God in heaven above, and in earth beneath.
-<small><sub>**BSB:**</sub></small>
-When we heard this, our hearts melted and everyone’s courage failed because of you, for the LORD your God is God in the heavens above and on the earth below.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.10|<< Joshua 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.12|Joshua 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

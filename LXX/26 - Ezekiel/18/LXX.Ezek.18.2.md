@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, What to you \[is\] this parable concerning the land  of Israel, saying, The fathers ate an unripe grape, and the teeth of the children have a toothache? 
-<small><sub>**KJV:**</sub></small>
-What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children’s teeth are set on edge?
-<small><sub>**BSB:**</sub></small>
-“What do you people mean by quoting this proverb about the land of Israel: ‘The fathers have eaten sour grapes, and the teeth of the children are set on edge’?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.1|<< Ezekiel 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.3|Ezekiel 18:3 >>]]</td></tr></table>
 
 | Translation | Greek |

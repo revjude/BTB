@@ -1,4 +1,4 @@
-**Zephaniah 3:8** 
+**Zephaniah 3:8**<big><big>[[Zeph.3.6 Purification of the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore wait ye upon me, saith the LORD, until the day that I rise up to the prey: for my determination [is] to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, [even] all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore wait for Me,” declares the LORD, “until the day I rise to testify.
 > $\quad$ referenced by: [[Rev.16.14|Rev 16:14]] ☩ [[Rev.16.16|Rev 16:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֤ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wait  |**<big>&#8207;[[H2442\|חַכּוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.ku-<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

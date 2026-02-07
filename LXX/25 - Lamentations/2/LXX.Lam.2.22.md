@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΘΑΥ</p>
 
 You called as in a day of holiday for my sojourners round about; and there was not in \[the\] day of anger of \[the\] <span class="smallcaps">lord</span> one being rescued and being left behind, as I prevailed, and I filled all my enemies. 
-<small><sub>**KJV:**</sub></small>
-Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD’S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.
-<small><sub>**BSB:**</sub></small>
-You summoned my terrors on every side, as for the day of an appointed feast. In the day of the LORD’s anger no one escaped or survived; my enemy has destroyed those I nurtured and reared.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.21|<< Lamentations 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.1|Lamentations 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

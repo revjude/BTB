@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:46** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall shut you up today by  my hand, and I will kill you, and I will remove  your head from you, and I will give  your carcass and the carcasses of \[the\] camp of the Philistines in this  day to the birds of the heaven, and to the wild beasts of the earth; and all the earth shall know that God is in Israel. 
-<small><sub>**KJV:**</sub></small>
-This day will the LORD deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.
-<small><sub>**BSB:**</sub></small>
-This day the LORD will deliver you into my hand. This day I will strike you down, cut off your head, and give the carcasses of the Philistine army to the birds of the air and the creatures of the earth. Then the whole world will know that there is a God in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.45|<< 1 Samuel 17:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.47|1 Samuel 17:47 >>]]</td></tr></table>
 
 | Translation | Greek |

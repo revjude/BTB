@@ -1,10 +1,7 @@
 **LXX Job 29:12** 
 <small><sub>**LXX:**</sub></small>
 For I delivered \[the\] poor from out of \[the\] hand of \[the\] mighty one; and \[the\] orphan in whom there was no helper, I helped. 
-<small><sub>**KJV:**</sub></small>
-Because I delivered the poor that cried, and the fatherless, and [him that had] none to help him.
-<small><sub>**BSB:**</sub></small>
-because I rescued the poor who cried out and the fatherless who had no helper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.11|<< Job 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.13|Job 29:13 >>]]</td></tr></table>
 
 | Translation | Greek |

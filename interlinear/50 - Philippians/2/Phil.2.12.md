@@ -1,12 +1,12 @@
-**Philippians 2:12
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:12**<big><big>[[Phil.2.12 Lights in the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.
 <small><sub>**BSB:**</sub></small>
 Therefore, my beloved, just as you have always obeyed, not only in my presence, but now even more in my absence, continue to work out your salvation with fear and trembling.
 <small><sub>**Literal:**</sub></small>
 Therefore, beloved of mine, even as always you have obeyed, not as in the presence of me only but now much more in the absence of me, with fear and trembling <the> your own salvation do work out;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.11|<< Philippians 2:11]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.13|Philippians 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore, |**<big>[[G5620\|Ὥστε,]]</big>**  |Hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | beloved |**<big>[[G0027\|ἀγαπητοί]]</big>**  |agapētoi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

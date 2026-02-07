@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:17** 
 <small><sub>**LXX:**</sub></small>
 For he did not kill me in \[the\] womb of my mother, for my mother to be to me my burying-place, and the womb an everlasting conception. 
-<small><sub>**KJV:**</sub></small>
-Because he slew me not from the womb; or that my mother might have been my grave, and her womb [to be] always great [with me].
-<small><sub>**BSB:**</sub></small>
-because he did not kill me in the womb so that my mother might have been my grave, and her womb forever enlarged.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.16|<< Jeremiah 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.18|Jeremiah 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 8:6** 
 <small><sub>**LXX:**</sub></small>
 And Moses led forward  Aaron, and  his sons, and bathed them in water. 
-<small><sub>**KJV:**</sub></small>
-And Moses brought Aaron and his sons, and washed them with water.
-<small><sub>**BSB:**</sub></small>
-Then Moses presented Aaron and his sons and washed them with water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.5|<< Leviticus 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.7|Leviticus 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

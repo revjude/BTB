@@ -1,12 +1,12 @@
-**Luke 1:71
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:71**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That we should be saved from our enemies, and from the hand of all that hate us;
 <small><sub>**BSB:**</sub></small>
 salvation from our enemies and from the hand of all who hate us,
 <small><sub>**Literal:**</sub></small>
 salvation from [the] enemies of us and from [the] hand of all those hating us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.70|<< Luke 1:70]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.72|Luke 1:72 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | salvation |**<big>[[G4991\|σωτηρίαν]]</big>**  |sōtērian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

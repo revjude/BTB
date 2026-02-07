@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:10** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; And it will be in  that day things will ascend upon  your heart, and you shall consider wicked devices. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; It shall also come to pass, [that] at the same time shall things come into thy mind, and thou shalt think an evil thought:
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: On that day, thoughts will arise in your mind, and you will devise an evil plan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.9|<< Ezekiel 38:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.11|Ezekiel 38:11 >>]]</td></tr></table>
 
 | Translation | Greek |

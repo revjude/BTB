@@ -1,10 +1,7 @@
 **LXX Numbers 19:11** 
 <small><sub>**LXX:**</sub></small>
 The one touching  any \[departed\] soul of a man having died will be unclean seven days. 
-<small><sub>**KJV:**</sub></small>
-He that toucheth the dead body of any man shall be unclean seven days.
-<small><sub>**BSB:**</sub></small>
-Whoever touches any dead body will be unclean for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.10|<< Numbers 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.12|Numbers 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

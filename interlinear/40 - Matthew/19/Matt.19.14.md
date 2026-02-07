@@ -1,12 +1,12 @@
-**Matthew 19:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:14**<big><big>[[Matt.19.13 Jesus Blesses the Children|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 But Jesus said, “Let the little children come to Me, and do not hinder them! For the kingdom of heaven belongs to such as these.”
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus said; do permit the little children and not do forbid them to come to Me; of the for of such kind is the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.13|<< Matthew 19:13]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.15|Matthew 19:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

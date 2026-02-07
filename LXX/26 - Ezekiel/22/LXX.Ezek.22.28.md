@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:28** 
 <small><sub>**LXX:**</sub></small>
 And  her prophets anointing them shall fall seeing vanities, lying oracles, saying, Thus says Adonai \[the\] <span class="smallcaps">lord</span>, but \[the\] <span class="smallcaps">lord</span> has not spoken. 
-<small><sub>**KJV:**</sub></small>
-And her prophets have daubed them with untempered [morter], seeing vanity, and divining lies unto them, saying, Thus saith the Lord GOD, when the LORD hath not spoken.
-<small><sub>**BSB:**</sub></small>
-Her prophets whitewash these deeds by false visions and lying divinations, saying, ‘This is what the Lord GOD says,’ when the LORD has not spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.27|<< Ezekiel 22:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.29|Ezekiel 22:29 >>]]</td></tr></table>
 
 | Translation | Greek |

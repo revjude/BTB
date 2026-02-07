@@ -1,10 +1,7 @@
 **LXX Joshua 21:38** 
 <small><sub>**LXX:**</sub></small>
 And from \[the\] tribe of Gad, the city of the place of refuge of the one manslaying --  Ramoth in  Gilead and the outskirts of it, and  Mahanaim and the outskirts of it; 
-<small><sub>**KJV:**</sub></small>
-And out of the tribe of Gad, Ramoth in Gilead with her suburbs, [to be] a city of refuge for the slayer; and Mahanaim with her suburbs,
-<small><sub>**BSB:**</sub></small>
-And from the tribe of Gad they were given Ramoth in Gilead, a city of refuge for the manslayer, Mahanaim,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.37|<< Joshua 21:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.39|Joshua 21:39 >>]]</td></tr></table>
 
 | Translation | Greek |

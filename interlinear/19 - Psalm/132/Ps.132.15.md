@@ -1,4 +1,4 @@
-**Psalms 132:15** 
+**Psalms 132:15**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will abundantly bless her provision: I will satisfy her poor with bread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will bless her with abundant provisions; I will satisfy her poor with bread.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.14|<< Psalms 132:14]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.16|Psalms 132:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | provision[s] its  |**<big>&#8207;[[H6718B\|צֵ֭ידָ]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| Tzei.da<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<bless>  |**<big>&#8207;[[H1288\|בָּרֵ֣ךְ]]&#8207; </big>**| ba.Rekh<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

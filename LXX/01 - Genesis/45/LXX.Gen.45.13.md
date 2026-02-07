@@ -1,10 +1,7 @@
 **LXX Genesis 45:13** 
 <small><sub>**LXX:**</sub></small>
 Report then \[to\] my father all  my glory  in Egypt, and as much as you saw! And hastening, bring down  my father here! 
-<small><sub>**KJV:**</sub></small>
-And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.
-<small><sub>**BSB:**</sub></small>
-Tell my father about all my splendor in Egypt and everything you have seen. And bring my father down here quickly.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.12|<< Genesis 45:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.14|Genesis 45:14 >>]]</td></tr></table>
 
 | Translation | Greek |

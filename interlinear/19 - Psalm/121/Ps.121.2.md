@@ -1,4 +1,4 @@
-**Psalms 121:2** 
+**Psalms 121:2**<big><big>[[Ps.121.1 I Lift Up My Eyes to the Hills|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My help [cometh] from the LORD, which made heaven and earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My help comes from the LORD, the Maker of heaven and earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.121.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.121.1|<< Psalms 121:1]]</td><td align="center" style="border:none;">[[Ps.121|Psalms 121]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.121.3|Psalms 121:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | help my  |**<big>&#8207;[[H5828\|עֶ֭זְרִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'Ez.r<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5973B\|עִ֣ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

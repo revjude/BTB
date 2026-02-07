@@ -1,10 +1,7 @@
 **LXX Job 5:8** 
 <small><sub>**LXX:**</sub></small>
 but nevertheless I shall beseech of \[the\] <span class="smallcaps">lord</span>, and I shall call upon \[the\] <span class="smallcaps">lord</span> the master of all, 
-<small><sub>**KJV:**</sub></small>
-I would seek unto God, and unto God would I commit my cause:
-<small><sub>**BSB:**</sub></small>
-However, if I were you, I would appeal to God and lay my cause before Him—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.7|<< Job 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.9|Job 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

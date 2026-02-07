@@ -1,12 +1,12 @@
-**Acts 9:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:16**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I will shew him how great things he must suffer for my name’s sake.
 <small><sub>**BSB:**</sub></small>
 I will show him how much he must suffer for My name.”
 <small><sub>**Literal:**</sub></small>
 I myself for will show to him how much it behooves him for the name of Me to suffer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.15|<< Acts 9:15]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.17|Acts 9:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

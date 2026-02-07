@@ -1,12 +1,12 @@
-**John 10:15
-**<small><sub>**KJV:**</sub></small>
+**John 10:15**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.
 <small><sub>**BSB:**</sub></small>
 just as the Father knows Me and I know the Father. And I lay down My life for the sheep.
 <small><sub>**Literal:**</sub></small>
 Even as knows Me the Father I myself also know the Father, and the life of Mine I lay down for the sheep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.14|<< John 10:14]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.16|John 10:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | knows |**<big>[[G1097\|γινώσκει]]</big>**  [^1] |ginōskei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

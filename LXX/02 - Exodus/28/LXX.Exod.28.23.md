@@ -1,10 +1,7 @@
 **LXX Exodus 28:23** 
 <small><sub>**LXX:**</sub></small>
 And you shall make upon the oracle two golden rings. And you shall place the two golden rings upon both the corners of the oracle. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make upon the breastplate two rings of gold, and shalt put the two rings on the two ends of the breastplate.
-<small><sub>**BSB:**</sub></small>
-You are also to make two gold rings and fasten them to the two corners of the breastpiece.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.22|<< Exodus 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.24|Exodus 28:24 >>]]</td></tr></table>
 
 | Translation | Greek |

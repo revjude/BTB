@@ -1,4 +1,4 @@
-**Psalms 119:139** 
+**Psalms 119:139**<big><big>[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My zeal hath consumed me, because mine enemies have forgotten thy words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My zeal has consumed me because my foes forget Your words.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.139|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.138|<< Psalms 119:138]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.140|Psalms 119:140 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has destroyed me  |**<big>&#8207;[[H6789\|צִמְּתַ֥תְ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| tzi.me.Tat.<small><sup>[[HVpp3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | zeal my  |**<big>&#8207;[[H7068\|קִנְאָתִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| kin.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

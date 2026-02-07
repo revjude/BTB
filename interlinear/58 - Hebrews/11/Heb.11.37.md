@@ -1,12 +1,12 @@
-**Hebrews 11:37
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:37**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;
 <small><sub>**BSB:**</sub></small>
 They were stoned, they were sawed in two, they were put to death by the sword. They went around in sheepskins and goatskins, destitute, oppressed, and mistreated.
 <small><sub>**Literal:**</sub></small>
 They were stoned, they were sawed in two tested by slaughter of [the] sword they were killed; they wandered in sheepskins, in goats’ skins, being destitute, being oppressed, being mistreated,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.36|<< Hebrews 11:36]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.38|Hebrews 11:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were stoned, |**<big>[[G3034\|ἐλιθάσθησαν,]]</big>**  |elithasthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were sawed in two |**<big>[[G4249\|ἐπρίσθησαν,]]</big>**  |epristhēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH»1+Treg+TR+Byz">NKO</abbr> | |

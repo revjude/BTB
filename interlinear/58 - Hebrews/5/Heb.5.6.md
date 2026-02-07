@@ -1,5 +1,5 @@
-**Hebrews 5:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:6**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As he saith also in another [place], Thou [art] a priest for ever after the order of Melchisedec.
 <small><sub>**BSB:**</sub></small>
 And in another passage God says: “You are a priest forever in the order of Melchizedek.”
@@ -10,7 +10,7 @@ even as also in another [place] He says: You [are] a priest to the age according
 > $\quad$ referencing: [[LXX.Ps.110.4|Ps 110:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

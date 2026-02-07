@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:41** 
 <small><sub>**LXX:**</sub></small>
 and Shallum procreated  Jekamiah,  Jekamiah procreated  Elishama. 
-<small><sub>**KJV:**</sub></small>
-And Shallum begat Jekamiah, and Jekamiah begat Elishama.
-<small><sub>**BSB:**</sub></small>
-Shallum was the father of Jekamiah, and Jekamiah was the father of Elishama.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.40|<< 1 Chronicles 2:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.42|1 Chronicles 2:42 >>]]</td></tr></table>
 
 | Translation | Greek |

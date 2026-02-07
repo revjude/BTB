@@ -1,12 +1,12 @@
-**1 John 1:7
-**<small><sub>**KJV:**</sub></small>
+**1 John 1:7**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.
 <small><sub>**BSB:**</sub></small>
 But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.
 <small><sub>**Literal:**</sub></small>
 If now in the light we shall walk as He himself is in the light, fellowship we have with one another and the blood of Jesus Christ the Son of Him cleanses us from all sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.6|<< 1 John 1:6]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.8|1 John 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

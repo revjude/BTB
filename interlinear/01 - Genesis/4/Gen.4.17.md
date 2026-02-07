@@ -1,4 +1,4 @@
-**Genesis 4:17** 
+**Genesis 4:17**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Cain had relations with his wife, and she conceived and gave birth to Enoch.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.16|<< Genesis 4:16]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.18|Genesis 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he knew  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3045\|יֵּ֤דַע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.da'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Cain  |**<big>&#8207;[[H7014B\|קַ֙יִן֙]]&#8207; </big>**| ka.yin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 32:5** 
 <small><sub>**LXX:**</sub></small>
 And Elihu saw that there is no answer in \[the\] mouths of the three men, and his anger was enraged. 
-<small><sub>**KJV:**</sub></small>
-When Elihu saw that [there was] no answer in the mouth of [these] three men, then his wrath was kindled.
-<small><sub>**BSB:**</sub></small>
-But when he saw that the three men had no further reply, his anger was kindled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.32.4|<< Job 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.6|Job 32:6 >>]]</td></tr></table>
 
 | Translation | Greek |

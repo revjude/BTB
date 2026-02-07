@@ -1,4 +1,4 @@
-**Isaiah 63:7** 
+**Isaiah 63:7**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will mention the lovingkindnesses of the LORD, [and] the praises of the LORD, according to all that the LORD hath bestowed on us, and the great goodness toward the house of Israel, which he hath bestowed on them according to his mercies, and according to the multitude of his lovingkindnesses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make known the LORD’s loving devotion and His praiseworthy acts, becaus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.6|<< Isaiah 63:6]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.8|Isaiah 63:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] covenant loyalti\<es> of  |**<big>&#8207;[[H2617A\|חַֽסְדֵ֨י]]&#8207; </big>**| chas.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

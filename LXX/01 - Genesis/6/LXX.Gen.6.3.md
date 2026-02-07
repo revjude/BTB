@@ -1,10 +1,7 @@
 **LXX Genesis 6:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God said, No way my spirit stay with  these men, on account of  their being flesh; and their days will be a hundred twenty years. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said, My spirit shall not always strive with man, for that he also [is] flesh: yet his days shall be an hundred and twenty years.
-<small><sub>**BSB:**</sub></small>
-So the LORD said, “My Spirit will not contend with man forever, for he is mortal; his days shall be 120 years.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.2|<< Genesis 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.4|Genesis 6:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 6:3** is...

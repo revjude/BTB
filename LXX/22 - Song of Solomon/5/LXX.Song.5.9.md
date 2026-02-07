@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:9** 
 <small><sub>**LXX:**</sub></small>
 What \[is\] your beloved \[man\] from a beloved \[man\],  O fair one among women? What \[is\] your beloved \[man\] from a beloved \[man\], that thus you bound us by an oath? 
-<small><sub>**KJV:**</sub></small>
-What [is] thy beloved more than [another] beloved, O thou fairest among women? what [is] thy beloved more than [another] beloved, that thou dost so charge us?
-<small><sub>**BSB:**</sub></small>
-How is your beloved better than others, O most beautiful among women? How is your beloved better than another, that you charge us so?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.8|<< Song of Solomon 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.10|Song of Solomon 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

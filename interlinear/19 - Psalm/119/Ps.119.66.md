@@ -1,4 +1,4 @@
-**Psalms 119:66** 
+**Psalms 119:66**<big><big>[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Teach me good judgment and knowledge: for I have believed thy commandments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Teach me good judgment and knowledge, for I believe in Your commandments.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.65|<< Psalms 119:65]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.67|Psalms 119:67 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | goodness of  |**<big>&#8207;[[H2898\|ט֤וּב]]&#8207; </big>**| tuv<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | discernment  |**<big>&#8207;[[H2940\|טַ֣עַם]]&#8207; </big>**| Ta.'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

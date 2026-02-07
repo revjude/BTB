@@ -1,10 +1,7 @@
 **LXX Numbers 24:2** 
 <small><sub>**LXX:**</sub></small>
 And Balaam lifting up  his eyes, looks down  \[on\] Israel encamped by tribes. And spirit of God became upon him. 
-<small><sub>**KJV:**</sub></small>
-And Balaam lifted up his eyes, and he saw Israel abiding [in his tents] according to their tribes; and the spirit of God came upon him.
-<small><sub>**BSB:**</sub></small>
-When Balaam looked up and saw Israel encamped tribe by tribe, the Spirit of God came upon him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.1|<< Numbers 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.3|Numbers 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

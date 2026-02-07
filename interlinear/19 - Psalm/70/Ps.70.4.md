@@ -1,4 +1,4 @@
-**Psalms 70:4** (70:5)
+**Psalms 70:4**<big><big>[[Ps.70.1 Hurry, O LORD, to Help Me!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May all who seek You rejoice and be glad in You; may those who love Your salvati
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.70.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.3|<< Psalms 70:3]]</td><td align="center" style="border:none;">[[Ps.70|Psalms 70]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.70.5|Psalms 70:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they exult  |**<big>&#8207;[[H7797\|יָ֘שִׂ֤ישׂוּ]]&#8207; </big>**| ya.Si.su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may rejoice  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8055\|יִשְׂמְח֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yis.me.Chu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

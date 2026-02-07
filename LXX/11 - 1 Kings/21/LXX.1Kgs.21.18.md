@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:18** 
 <small><sub>**LXX:**</sub></small>
 Rise up and go down for a meeting with Ahab king of Israel, the one in Samaria! Behold, he \[is\] in the vineyard of Naboth, for he went down there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-Arise, go down to meet Ahab king of Israel, which [is] in Samaria: behold, [he is] in the vineyard of Naboth, whither he is gone down to possess it.
-<small><sub>**BSB:**</sub></small>
-“Get up and go down to meet Ahab king of Israel, who is in Samaria. See, he is in the vineyard of Naboth, where he has gone to take possession of it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.17|<< 1 Kings 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.19|1 Kings 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

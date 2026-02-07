@@ -1,10 +1,7 @@
 **LXX Genesis 31:50** 
 <small><sub>**LXX:**</sub></small>
 If you shall humble  my daughters, if you should take wives over  my daughters, you see no one is with us seeing --  God \[is\] witness between me and between you. 
-<small><sub>**KJV:**</sub></small>
-If thou shalt afflict my daughters, or if thou shalt take [other] wives beside my daughters, no man [is] with us; see, God [is] witness betwixt me and thee.
-<small><sub>**BSB:**</sub></small>
-If you mistreat my daughters or take other wives, although no one is with us, remember that God is a witness between you and me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.49|<< Genesis 31:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.51|Genesis 31:51 >>]]</td></tr></table>
 
 | Translation | Greek |

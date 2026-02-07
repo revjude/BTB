@@ -1,4 +1,4 @@
-**2 Kings 2:14** 
+**2 Kings 2:14**<big><big>[[2Kgs.2.1 Elijah Taken Up to Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where [is] the LORD God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he took the cloak of Elijah that had fallen from him and struck the waters.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.13|<< 2 Kings 2:13]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.15|2 Kings 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּח֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

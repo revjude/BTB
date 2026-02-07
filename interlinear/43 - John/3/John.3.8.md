@@ -1,12 +1,12 @@
-**John 3:8
-**<small><sub>**KJV:**</sub></small>
+**John 3:8**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.
 <small><sub>**BSB:**</sub></small>
 The wind blows where it wishes. You hear its sound, but you do not know where it comes from or where it is going. So it is with everyone born of the Spirit.”
 <small><sub>**Literal:**</sub></small>
 The wind where it wishes blows, and the sound of it You hear but not you know from where it comes and where it goes; thus is everyone who born of the Spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.7|<< John 3:7]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.9|John 3:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wind |**<big>[[G4151H\|πνεῦμα]]</big>**  |pneuma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

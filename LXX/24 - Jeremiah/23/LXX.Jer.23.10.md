@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:10** 
 <small><sub>**LXX:**</sub></small>
 For the land is full of adulterers. For from \[the\] countenance of these \[things\] the land mourned; the pastures of the wilderness were dried up; and their race became wicked, and  their strength not thus. 
-<small><sub>**KJV:**</sub></small>
-For the land is full of adulterers; for because of swearing the land mourneth; the pleasant places of the wilderness are dried up, and their course is evil, and their force [is] not right.
-<small><sub>**BSB:**</sub></small>
-For the land is full of adulterers—because of the curse, the land mourns and the pastures of the wilderness have dried up—their course is evil and their power is misused.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.9|<< Jeremiah 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.11|Jeremiah 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

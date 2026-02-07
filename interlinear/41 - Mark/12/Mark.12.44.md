@@ -1,12 +1,12 @@
-**Mark 12:44
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:44**<big><big>[[Mark.12.41 The Widow’s Offering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For all [they] did cast in of their abundance; but she of her want did cast in all that she had, [even] all her living.
 <small><sub>**BSB:**</sub></small>
 For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”
 <small><sub>**Literal:**</sub></small>
 All for out of that which is abounding to them cast [in], she however out of the poverty of her all as much as she had cast [in], all the livelihood of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.43|<< Mark 12:43]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.1|Mark 13:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

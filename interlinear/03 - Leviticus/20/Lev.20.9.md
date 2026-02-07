@@ -1,4 +1,4 @@
-**Leviticus 20:9** 
+**Leviticus 20:9**<big><big>[[Lev.20.1 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood [shall be] upon him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If anyone curses his father or mother, he must be put to death. He has cursed hi
 > $\quad$ referenced by: [[Matt.15.4|Matt 15:4]] ☩ [[Mark.7.10|Mark 7:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

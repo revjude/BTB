@@ -1,10 +1,7 @@
 **LXX Isaiah 9:16** 
 <small><sub>**LXX:**</sub></small>
 And the ones blessed this people shall be misleading. And they misled so that they should swallow them down. 
-<small><sub>**KJV:**</sub></small>
-For the leaders of this people cause [them] to err; and [they that are] led of them [are] destroyed.
-<small><sub>**BSB:**</sub></small>
-For those who guide this people mislead them, and those they mislead are swallowed up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.15|<< Isaiah 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.17|Isaiah 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 11:5** 
+**Deuteronomy 11:5**<big><big>[[Deut.11.1 Obedience and Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what he did unto you in the wilderness, until ye came into this place;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ what He did for you in the wilderness until you reached this place;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.4|<< Deuteronomy 11:4]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.6|Deuteronomy 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and which  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he did  |**<big>&#8207;[[H6213A\|עָשָׂ֛ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 40:36** 
+**Exodus 40:36**<big><big>[[Exod.40.34 The Cloud and the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whenever the cloud was lifted from above the tabernacle, the Israelites would se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.35|<< Exodus 40:35]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.37|Exodus 40:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when was taken up  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5927H\|הֵעָל֤וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> he.'a.Lot<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cloud  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H6051\|עָנָן֙]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

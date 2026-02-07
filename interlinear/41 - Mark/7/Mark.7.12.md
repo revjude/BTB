@@ -1,12 +1,12 @@
-**Mark 7:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:12**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye suffer him no more to do ought for his father or his mother;
 <small><sub>**BSB:**</sub></small>
 he is no longer permitted to do anything for his father or mother.
 <small><sub>**Literal:**</sub></small>
 and no longer you do allow him no [thing] to do for the father of him or for the mother of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.11|<< Mark 7:11]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.13|Mark 7:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+TR+Byz">ko</abbr> | |
 | no longer |**<big>[[G3756\|οὐκέτι]]</big>**  |ouketi <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

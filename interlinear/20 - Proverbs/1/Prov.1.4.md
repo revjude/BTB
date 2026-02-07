@@ -1,4 +1,4 @@
-**Proverbs 1:4** 
+**Proverbs 1:4**<big><big>[[Prov.1.1 The Beginning of Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To give subtilty to the simple, to the young man knowledge and discretion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To impart prudence to the simple and knowledge and discretion to the young,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.3|<< Proverbs 1:3]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.5|Proverbs 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to give  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5414G\|תֵ֣ת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to naive people  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6612A\|פְתָאיִ֣ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.ta.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

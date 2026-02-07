@@ -1,10 +1,7 @@
 **LXX Joshua 22:19** 
 <small><sub>**LXX:**</sub></small>
 And now, if the land of your possession \[be\] small, pass over into the land of the possession of \[the\] <span class="smallcaps">lord</span>! where the tent of \[the\] <span class="smallcaps">lord</span> encamps there; and inherit among us, and be not defectors from \[the\] <span class="smallcaps">lord</span>! and do not separate from us! on account of  your building a shrine outside the altar of \[the\] <span class="smallcaps">lord</span>  our God. 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding, if the land of your possession [be] unclean, [then] pass ye over unto the land of the possession of the LORD, wherein the LORD’S tabernacle dwelleth, and take possession among us: but rebel not against the LORD, nor rebel against us, in building you an altar beside the altar of the LORD our God.
-<small><sub>**BSB:**</sub></small>
-If indeed the land of your inheritance is unclean, then cross over to the land of the LORD’s possession, where the LORD’s tabernacle stands, and take possession of it among us. But do not rebel against the LORD or against us by building for yourselves an altar other than the altar of the LORD our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.18|<< Joshua 22:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.20|Joshua 22:20 >>]]</td></tr></table>
 
 | Translation | Greek |

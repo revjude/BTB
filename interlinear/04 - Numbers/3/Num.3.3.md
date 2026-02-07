@@ -1,4 +1,4 @@
-**Numbers 3:3** 
+**Numbers 3:3**<big><big>[[Num.3.1 The Sons of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were Aaron’s sons, the anointed priests, who were ordained to serve as p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.2|<< Numbers 3:2]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.4|Numbers 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמוֹת֙]]&#8207; </big>**| she.mOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

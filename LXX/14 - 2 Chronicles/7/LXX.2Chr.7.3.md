@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:3** 
 <small><sub>**LXX:**</sub></small>
 And all the sons of Israel seeing the fire come down, and the glory of \[the\] <span class="smallcaps">lord</span> upon the house, and they fell upon \[their\] face upon the ground, upon the stone pavement, and they did obeisance and gave praise to the <span class="smallcaps">lord</span>, \[saying\], For \[he is\] good, for his mercy \[is\] into the eon. 
-<small><sub>**KJV:**</sub></small>
-And when all the children of Israel saw how the fire came down, and the glory of the LORD upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the LORD, [saying], For [he is] good; for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-When all the Israelites saw the fire coming down and the glory of the LORD above the temple, they bowed down on the pavement with their faces to the ground, and they worshiped and gave thanks to the LORD: “For He is good; His loving devotion endures forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.2|<< 2 Chronicles 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.4|2 Chronicles 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

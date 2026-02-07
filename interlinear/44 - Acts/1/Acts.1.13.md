@@ -1,12 +1,12 @@
-**Acts 1:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:13**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were come in, they went up into an upper room, where abode both Peter, and James, and John, and Andrew, Philip, and Thomas, Bartholomew, and Matthew, James [the son] of Alphaeus, and Simon Zelotes, and Judas [the brother] of James.
 <small><sub>**BSB:**</sub></small>
 When they arrived, they went to the upper room where they were staying: Peter and John, James and Andrew, Philip and Thomas, Bartholomew and Matthew, James son of Alphaeus, Simon the Zealot, and Judas son of James.
 <small><sub>**Literal:**</sub></small>
 And when they had entered into the upper room they went up where they were staying, <the> both Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James [son] of Alphaeus and Simon the Zealot and Judas [son] of James.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.12|<< Acts 1:12]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.14|Acts 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

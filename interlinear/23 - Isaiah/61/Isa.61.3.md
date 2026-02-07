@@ -1,4 +1,4 @@
-**Isaiah 61:3** 
+**Isaiah 61:3**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to console the mourners in Zion—to give them a crown of beauty for ashes, the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.2|<< Isaiah 61:2]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.4|Isaiah 61:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to put  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7760H\|שׂ֣וּם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Sum<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] mourners of  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0057\|אֲבֵלֵ֣י]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.ve.Lei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

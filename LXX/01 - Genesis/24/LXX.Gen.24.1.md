@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abraham was older, advancing of days. And \[the\] <span class="smallcaps">lord</span> blessed  Abraham according to all \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And Abraham was old, [and] well stricken in age: and the LORD had blessed Abraham in all things.
-<small><sub>**BSB:**</sub></small>
-By now Abraham was old and well along in years, and the LORD had blessed him in every way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.20|<< Genesis 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.2|Genesis 24:2 >>]]</td></tr></table>
 
 | Translation | Greek |

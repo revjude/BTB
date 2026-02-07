@@ -1,4 +1,4 @@
-**1 Chronicles 4:26** 
+**1 Chronicles 4:26**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Mishma; Hamuel his son, Zacchur his son, Shimei his son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Mishma: Hammuel, Zaccur, and Shimei.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.25|<< 1 Chronicles 4:25]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.27|1 Chronicles 4:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] descendants of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mishma  |**<big>&#8207;[[H4927H\|מִשְׁמָ֑ע]]&#8207; </big>**| mish.Ma'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

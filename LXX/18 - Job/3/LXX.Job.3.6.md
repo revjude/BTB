@@ -1,10 +1,7 @@
 **LXX Job 3:6** 
 <small><sub>**LXX:**</sub></small>
 and  that night. darkness away it. May it not be for \[the\] days \[of the\] year, nor may it be counted for \[the\] days of \[the\] months. 
-<small><sub>**KJV:**</sub></small>
-[As for] that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.
-<small><sub>**BSB:**</sub></small>
-If only darkness had taken that night away! May it not appear among the days of the year; may it never be entered in any of the months.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.5|<< Job 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.7|Job 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

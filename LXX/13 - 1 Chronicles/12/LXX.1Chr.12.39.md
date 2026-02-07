@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:39** 
 <small><sub>**LXX:**</sub></small>
 And they were there with David three days, eating and drinking, for their brethren made preparations for them. 
-<small><sub>**KJV:**</sub></small>
-And there they were with David three days, eating and drinking: for their brethren had prepared for them.
-<small><sub>**BSB:**</sub></small>
-They spent three days there eating and drinking with David, for their relatives had provided for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.38|<< 1 Chronicles 12:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.40|1 Chronicles 12:40 >>]]</td></tr></table>
 
 | Translation | Greek |

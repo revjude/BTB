@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:4** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah called  Baruch son of Neriah. And Baruch wrote from \[the\] mouth of Jeremiah all the words of \[the\] <span class="smallcaps">lord</span> of which he gave a divine message to him on a papyrus paper scroll. 
-<small><sub>**KJV:**</sub></small>
-Then Jeremiah called Baruch the son of Neriah: and Baruch wrote from the mouth of Jeremiah all the words of the LORD, which he had spoken unto him, upon a roll of a book.
-<small><sub>**BSB:**</sub></small>
-So Jeremiah called Baruch son of Neriah, and at the dictation of Jeremiah, Baruch wrote on a scroll all the words that the LORD had spoken to Jeremiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.3|<< Jeremiah 36:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.5|Jeremiah 36:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 2:7** (2:6)
+**2 Chronicles 2:7**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send me now therefore a man cunning to work in gold, and in silver, and in brass, and in iron, and in purple, and crimson, and blue, and that can skill to grave with the cunning men that [are] with me in Judah and in Jerusalem, whom David my father did provide.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Send me, therefore, a craftsman skilled in engraving to work with gold and silve
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.6|<< 2 Chronicles 2:6]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.8|2 Chronicles 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | send  |**<big>&#8207;[[H7971G\|שְֽׁלַֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.lach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

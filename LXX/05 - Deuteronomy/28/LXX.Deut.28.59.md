@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:59** 
 <small><sub>**LXX:**</sub></small>
 Then \[the\] <span class="smallcaps">lord</span> will render notorious  your calamities, and the calamities  of your seed, great and surprising calamities, and severe and sure diseases. 
-<small><sub>**KJV:**</sub></small>
-Then the LORD will make thy plagues wonderful, and the plagues of thy seed, [even] great plagues, and of long continuance, and sore sicknesses, and of long continuance.
-<small><sub>**BSB:**</sub></small>
-He will bring upon you and your descendants extraordinary disasters, severe and lasting plagues, and terrible and chronic sicknesses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.58|<< Deuteronomy 28:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.60|Deuteronomy 28:60 >>]]</td></tr></table>
 
 | Translation | Greek |

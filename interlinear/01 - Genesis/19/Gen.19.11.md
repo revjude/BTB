@@ -1,4 +1,4 @@
-**Genesis 19:11** 
+**Genesis 19:11**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they smote the men that [were] at the door of the house with blindness, both small and great: so that they wearied themselves to find the door.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they struck the men at the entrance, young and old, with blindness, so that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.10|<< Genesis 19:10]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.12|Genesis 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the men  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֞ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

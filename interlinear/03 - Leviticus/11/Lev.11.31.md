@@ -1,4 +1,4 @@
-**Leviticus 11:31** 
+**Leviticus 11:31**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These animals are unclean for you among all the crawling creatures. Whoever touc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.30|<< Leviticus 11:30]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.32|Leviticus 11:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the unclean  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2931\|טְּמֵאִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.me.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

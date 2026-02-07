@@ -1,10 +1,7 @@
 **LXX Exodus 9:5** 
 <small><sub>**LXX:**</sub></small>
 And God gave confirmation, saying, In the next morning \[the\] <span class="smallcaps">lord</span> will do  this thing upon the land. 
-<small><sub>**KJV:**</sub></small>
-And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.
-<small><sub>**BSB:**</sub></small>
-The LORD set a time, saying, “Tomorrow the LORD will do this in the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.4|<< Exodus 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.6|Exodus 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

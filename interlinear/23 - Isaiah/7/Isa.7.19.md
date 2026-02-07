@@ -1,4 +1,4 @@
-**Isaiah 7:19** 
+**Isaiah 7:19**<big><big>[[Isa.7.17 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they will all come and settle in the steep ravines and clefts of the rocks, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.18|<< Isaiah 7:18]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.20|Isaiah 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֨אוּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va.'u<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will settle  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5117\|נָח֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

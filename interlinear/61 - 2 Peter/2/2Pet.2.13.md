@@ -1,12 +1,12 @@
-**2 Peter 2:13
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:13**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall receive the reward of unrighteousness, [as] they that count it pleasure to riot in the day time. Spots [they are] and blemishes, sporting themselves with their own deceivings while they feast with you;
 <small><sub>**BSB:**</sub></small>
 The harm they will suffer is the wages of their wickedness. They consider it a pleasure to carouse in broad daylight. They are blots and blemishes, reveling in their deception as they feast with you.
 <small><sub>**Literal:**</sub></small>
 suffering [as the] wage of unrighteousness. [as] pleasure esteeming <the> in daytime carousal, blots and blemishes, reveling in the deceptions of them feasting with you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.12|<< 2 Peter 2:12]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.14|2 Peter 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | suffering [^1] [^2] |**<big>[[G0091\|ἀδικούμενοι]]</big>**  |adikoumenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(K)O</abbr> | |
 | [as the] wage |**<big>[[G3408\|μισθὸν]]</big>**  |misthon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

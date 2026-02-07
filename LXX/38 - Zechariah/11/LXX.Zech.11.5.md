@@ -1,10 +1,7 @@
 **LXX Zechariah 11:5** 
 <small><sub>**LXX:**</sub></small>
 which the ones acquiring butcher, and are repenting not. And the ones selling them said, Blessed \[be\] \[the\] <span class="smallcaps">lord</span>, we were enriched. And  their shepherds suffered not anything for them. 
-<small><sub>**KJV:**</sub></small>
-Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed [be] the LORD; for I am rich: and their own shepherds pity them not.
-<small><sub>**BSB:**</sub></small>
-whose buyers slaughter them without remorse. Those who sell them say, ‘Blessed be the LORD, for I am rich!’ Even their own shepherds have no compassion on them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.4|<< Zechariah 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.6|Zechariah 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

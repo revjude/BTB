@@ -1,12 +1,12 @@
-**Matthew 9:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:30**<big><big>[[Matt.9.27 Jesus Heals the Blind and Mute|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And their eyes were opened; and Jesus straitly charged them, saying, See [that] no man know [it].
 <small><sub>**BSB:**</sub></small>
 And their eyes were opened. Jesus warned them sternly, “See that no one finds out about this!”
 <small><sub>**Literal:**</sub></small>
 And were opened their <the> eyes. And he strictly instructed them <the> Jesus saying; do see [that] no one should know.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.29|<< Matthew 9:29]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.31|Matthew 9:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were opened |**<big>[[G0455\|ἠνεῴχθησαν]]</big>**  [^1] |ēneōchthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

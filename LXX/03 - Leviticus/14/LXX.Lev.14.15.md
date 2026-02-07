@@ -1,10 +1,7 @@
 **LXX Leviticus 14:15** 
 <small><sub>**LXX:**</sub></small>
 And the priest taking from the small cup of the olive oil, he shall pour upon the left hand of the priest. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall take [some] of the log of oil, and pour [it] into the palm of his own left hand:
-<small><sub>**BSB:**</sub></small>
-Then the priest shall take some of the log of olive oil, pour it into his left palm,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.14|<< Leviticus 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.16|Leviticus 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

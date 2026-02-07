@@ -1,12 +1,12 @@
-**2 Peter 1:9
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:9**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins.
 <small><sub>**BSB:**</sub></small>
 But whoever lacks these traits is nearsighted to the point of blindness, having forgotten that he has been cleansed from his past sins.
 <small><sub>**Literal:**</sub></small>
 In whomever for not are present these things, blind he is being short sighted, forgetfulness having received of the purification the former of him sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.8|<< 2 Peter 1:8]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.10|2 Peter 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In whomever |**<big>[[G3739\|ᾯ]]</big>**  |Hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

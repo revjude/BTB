@@ -1,4 +1,4 @@
-**Hosea 10:9** 
+**Hosea 10:9**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Since the days of Gibeah you have sinned, O Israel, and there you have remained.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.8|<< Hosea 10:8]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.10|Hosea 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | since [the] days of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|ימֵי֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Gibeah  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1390H\|גִּבְעָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> giv.'Ah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

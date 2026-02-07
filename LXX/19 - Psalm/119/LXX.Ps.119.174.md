@@ -1,10 +1,7 @@
 **LXX Psalm 119:174** 
 <small><sub>**LXX:**</sub></small>
 I longed after  your deliverance, O <span class="smallcaps">lord</span>, and  your law is my meditation. 
-<small><sub>**KJV:**</sub></small>
-I have longed for thy salvation, O LORD; and thy law [is] my delight.
-<small><sub>**BSB:**</sub></small>
-I long for Your salvation, O LORD, and Your law is my delight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.174|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.173|<< Psalm 119:173]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.175|Psalm 119:175 >>]]</td></tr></table>
 
 | Translation | Greek |

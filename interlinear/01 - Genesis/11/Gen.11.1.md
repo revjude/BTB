@@ -1,4 +1,4 @@
-**Genesis 11:1** 
+**Genesis 11:1**<big><big>[[Gen.11.1 The Tower of Babel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the whole earth was of one language, and of one speech.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the whole world had one language and a common form of speech.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.32|<< Genesis 10:32]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.2|Genesis 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

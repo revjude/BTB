@@ -1,4 +1,4 @@
-**Psalms 127:5** 
+**Psalms 127:5**<big><big>[[Ps.127.1 Children Are a Heritage from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Happy [is] the man that hath his quiver full of them: they shall not be ashamed, but they shall speak with the enemies in the gate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed is the man whose quiver is full of them. He will not be put to shame whe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.127.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.127.4|<< Psalms 127:4]]</td><td align="center" style="border:none;">[[Ps.127|Psalms 127]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.128.0|Psalms 128:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֤י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the man  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1397\|גֶּ֗בֶר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

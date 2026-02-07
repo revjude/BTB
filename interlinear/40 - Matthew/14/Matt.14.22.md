@@ -1,12 +1,12 @@
-**Matthew 14:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:22**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away.
 <small><sub>**BSB:**</sub></small>
 Immediately Jesus made the disciples get into the boat and go on ahead of Him to the other side, while He dismissed the crowds.
 <small><sub>**Literal:**</sub></small>
 And immediately He compelled <the> Jesus the disciples of him to climb into the boat and to go before Him to the other side until that He may have dismissed the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.21|<< Matthew 14:21]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.23|Matthew 14:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

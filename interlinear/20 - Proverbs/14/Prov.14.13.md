@@ -1,4 +1,4 @@
-**Proverbs 14:13** 
+**Proverbs 14:13**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even in laughter the heart is sorrowful; and the end of that mirth [is] heaviness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even in laughter the heart may ache, and joy may end in sorrow.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.12|<< Proverbs 14:12]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.14|Proverbs 14:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in laughter  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7814\|שְׂח֥וֹק]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> s.Chok<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

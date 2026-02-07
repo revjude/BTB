@@ -1,12 +1,12 @@
-**Luke 18:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:8**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
 <small><sub>**BSB:**</sub></small>
 I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?”
 <small><sub>**Literal:**</sub></small>
 I say to you that He will carry out the avenging of them with speed. Nevertheless the Son <the> of Man having come surely not will He find <the> faith on the earth?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.7|<< Luke 18:7]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.9|Luke 18:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it happened in the flame ascending on top of the altar unto the heaven, that the angel \[of the\] <span class="smallcaps">lord</span> ascended in the flame of the altar. And Manoah and  his wife were viewing, and they fell upon their face upon the ground. 
-<small><sub>**KJV:**</sub></small>
-For it came to pass, when the flame went up toward heaven from off the altar, that the angel of the LORD ascended in the flame of the altar. And Manoah and his wife looked on [it], and fell on their faces to the ground.
-<small><sub>**BSB:**</sub></small>
-When the flame went up from the altar to the sky, the angel of the LORD ascended in the flame. When Manoah and his wife saw this, they fell facedown to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.19|<< Judges 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.21|Judges 13:21 >>]]</td></tr></table>
 
 | Translation | Greek |

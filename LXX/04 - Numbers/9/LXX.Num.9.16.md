@@ -1,10 +1,7 @@
 **LXX Numbers 9:16** 
 <small><sub>**LXX:**</sub></small>
 So it was always. The cloud covered it by day, and \[the\] form of fire by the night. 
-<small><sub>**KJV:**</sub></small>
-So it was alway: the cloud covered it [by day], and the appearance of fire by night.
-<small><sub>**BSB:**</sub></small>
-It remained that way continually; the cloud would cover the tabernacle by day, and at night it would appear like fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.15|<< Numbers 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.17|Numbers 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

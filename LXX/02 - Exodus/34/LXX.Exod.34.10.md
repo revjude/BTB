@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Behold, I establish with you a covenant before all  your people. And I will do honorable, which has not happened in all the earth, and with any nation. And all the people among whom you are shall see the works of \[the\] <span class="smallcaps">lord</span>, for it is wonderful what I will do for you. 
-<small><sub>**KJV:**</sub></small>
-And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou [art] shall see the work of the LORD: for it [is] a terrible thing that I will do with thee.
-<small><sub>**BSB:**</sub></small>
-And the LORD said, “Behold, I am making a covenant. Before all your people I will perform wonders that have never been done in any nation in all the world. All the people among whom you live will see the LORD’s work, for it is an awesome thing that I am doing with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.9|<< Exodus 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.11|Exodus 34:11 >>]]</td></tr></table>
 
 | Translation | Greek |

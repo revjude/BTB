@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:8** 
 <small><sub>**LXX:**</sub></small>
 And the Levites and all Judah did according to all as much as Jehoiada the priest gave charge. And each man took  his men entering on the Sabbath, unto exiting of the Sabbath, for Jehoiada the priest did not rest up the daily rotations. 
-<small><sub>**KJV:**</sub></small>
-So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go [out] on the sabbath: for Jehoiada the priest dismissed not the courses.
-<small><sub>**BSB:**</sub></small>
-So the Levites and all Judah did everything that Jehoiada the priest had ordered. Each of them took his men—those coming on duty on the Sabbath and those going off duty—for Jehoiada the priest had not released any of the divisions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.7|<< 2 Chronicles 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.9|2 Chronicles 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Psalms 125:1** 
+**Psalms 125:1**<big><big>[[Ps.125.1 The LORD Surrounds His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Song of degrees. They that trust in the LORD [shall be] as mount Zion, [which] cannot be removed, [but] abideth for ever.
+They that trust in the LORD [shall be] as mount Zion, [which] cannot be removed, [but] abideth for ever.
 <small><sub>**BSB:**</sub></small>
 A song of ascents. Those who trust in the LORD are like Mount Zion. It cannot be moved; it abides forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.125.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.125.0|<< Psalms 125:0]]</td><td align="center" style="border:none;">[[Ps.125|Psalms 125]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.125.2|Psalms 125:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] trust  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0982\|בֹּטְחִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bo.te.Chim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Yahweh  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

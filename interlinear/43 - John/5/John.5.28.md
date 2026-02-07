@@ -1,12 +1,12 @@
-**John 5:28
-**<small><sub>**KJV:**</sub></small>
+**John 5:28**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,
 <small><sub>**BSB:**</sub></small>
 Do not be amazed at this, for the hour is coming when all who are in their graves will hear His voice
 <small><sub>**Literal:**</sub></small>
 Not do marvel at this, for is coming an hour in which all those in the tombs will hear the voice of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.27|<< John 5:27]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.29|John 5:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do marvel |**<big>[[G2296\|θαυμάζετε]]</big>**  |thaumazete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

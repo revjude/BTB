@@ -1,10 +1,7 @@
 **LXX Numbers 21:23** 
 <small><sub>**LXX:**</sub></small>
 And Sihon did not give \[permission\] \[to\] Israel to go through  his borders. And Sihon gathered together all  his people, and came forth to deploy \[against\] Israel in the wilderness. And he came unto Jahaz, and deployed \[against\] Israel. 
-<small><sub>**KJV:**</sub></small>
-And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel.
-<small><sub>**BSB:**</sub></small>
-But Sihon would not let Israel pass through his territory. Instead, he gathered his whole army and went out to confront Israel in the wilderness. When he came to Jahaz, he fought against Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.22|<< Numbers 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.24|Numbers 21:24 >>]]</td></tr></table>
 
 | Translation | Greek |

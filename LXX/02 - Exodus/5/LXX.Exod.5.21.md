@@ -1,10 +1,7 @@
 **LXX Exodus 5:21** 
 <small><sub>**LXX:**</sub></small>
 And they said to them, God over you and judge, for our scent to be abhorred before Pharaoh, and before  his attendants, to put a broadsword into  his hands  to kill us. 
-<small><sub>**KJV:**</sub></small>
-And they said unto them, The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us.
-<small><sub>**BSB:**</sub></small>
-“May the LORD look upon you and judge you,” the foremen said, “for you have made us a stench before Pharaoh and his officials; you have placed in their hand a sword to kill us!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.20|<< Exodus 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.22|Exodus 5:22 >>]]</td></tr></table>
 
 | Translation | Greek |

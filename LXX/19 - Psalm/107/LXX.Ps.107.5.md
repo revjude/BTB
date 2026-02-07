@@ -1,10 +1,7 @@
 **LXX Psalm 107:5** 
 <small><sub>**LXX:**</sub></small>
 Hungering and thirsting,  their soul failed in them. 
-<small><sub>**KJV:**</sub></small>
-Hungry and thirsty, their soul fainted in them.
-<small><sub>**BSB:**</sub></small>
-They were hungry and thirsty; their soul fainted within them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.4|<< Psalm 107:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.6|Psalm 107:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Peter 1:5
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:5**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;
 <small><sub>**BSB:**</sub></small>
 For this very reason, make every effort to add to your faith virtue; and to virtue, knowledge;
 <small><sub>**Literal:**</sub></small>
 And very [reason] for this now earnestness all having brought in do supplement into the faith of you <the> virtue, into and <the> virtue <the> knowledge,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.4|<< 2 Peter 1:4]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.6|2 Peter 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | very [reason] |**<big>[[G0846\|αὐτὸ]]</big>**  |auto <small><sup>[[P-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

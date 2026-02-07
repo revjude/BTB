@@ -1,12 +1,12 @@
-**John 4:48
-**<small><sub>**KJV:**</sub></small>
+**John 4:48**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.
 <small><sub>**BSB:**</sub></small>
 Jesus said to him, “Unless you people see signs and wonders, you will never believe.”
 <small><sub>**Literal:**</sub></small>
 Said therefore <the> Jesus to him; only unless signs and wonders you [people] may see, certainly not shall you believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.47|<< John 4:47]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.49|John 4:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

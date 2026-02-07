@@ -1,4 +1,4 @@
-**Psalms 36:2** (36:3)
+**Psalms 36:2**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he flattereth himself in his own eyes, until his iniquity be found to be hateful.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For his eyes are too full of conceit to detect or hate his own sin.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.1|<< Psalms 36:1]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.3|Psalms 36:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he flatters  |**<big>&#8207;[[H2505B\|הֶחֱלִ֣יק]]&#8207; </big>**| he.che.Lik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

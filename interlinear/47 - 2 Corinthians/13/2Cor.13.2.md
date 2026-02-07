@@ -1,12 +1,12 @@
-**2 Corinthians 13:2
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:2**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:
 <small><sub>**BSB:**</sub></small>
 I already warned you the second time I was with you. So now in my absence I warn those who sinned earlier and everyone else: If I return, I will not spare anyone,
 <small><sub>**Literal:**</sub></small>
 I have warned and I warn, as being present the second time and being absent now I am writing to those having sinned before and to the rest all, that if I may come to the [same] again not I will spare [anyone].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.1|<< 2 Corinthians 13:1]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.3|2 Corinthians 13:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have warned |**<big>[[G4280\|προείρηκα]]</big>**  |proeirēka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

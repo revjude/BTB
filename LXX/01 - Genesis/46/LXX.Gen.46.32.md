@@ -1,10 +1,7 @@
 **LXX Genesis 46:32** 
 <small><sub>**LXX:**</sub></small>
 And the men are shepherds, for they were men grazing cattle. And the cattle, and the oxen, and all  their \[things\], they have brought. 
-<small><sub>**KJV:**</sub></small>
-And the men [are] shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.
-<small><sub>**BSB:**</sub></small>
-The men are shepherds; they raise livestock, and they have brought their flocks and herds and all that they own.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.31|<< Genesis 46:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.33|Genesis 46:33 >>]]</td></tr></table>
 
 | Translation | Greek |

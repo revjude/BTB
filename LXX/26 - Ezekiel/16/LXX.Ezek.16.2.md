@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, testify  to Jerusalem  of her lawless deeds! 
-<small><sub>**KJV:**</sub></small>
-Son of man, cause Jerusalem to know her abominations,
-<small><sub>**BSB:**</sub></small>
-“Son of man, confront Jerusalem with her abominations<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.1|<< Ezekiel 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.3|Ezekiel 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

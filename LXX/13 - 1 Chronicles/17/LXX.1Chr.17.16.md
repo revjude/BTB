@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:16** 
 <small><sub>**LXX:**</sub></small>
 And king David came and sat before \[the\] <span class="smallcaps">lord</span>, and said, Who am I, O <span class="smallcaps">lord</span>  God, and what  \[is\] my house, that you loved me unto \[the\] eon? 
-<small><sub>**KJV:**</sub></small>
-And David the king came and sat before the LORD, and said, Who [am] I, O LORD God, and what [is] mine house, that thou hast brought me hitherto?
-<small><sub>**BSB:**</sub></small>
-Then King David went in, sat before the LORD, and said, “Who am I, O LORD God, and what is my house, that You have brought me this far?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.15|<< 1 Chronicles 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.17|1 Chronicles 17:17 >>]]</td></tr></table>
 
 | Translation | Greek |

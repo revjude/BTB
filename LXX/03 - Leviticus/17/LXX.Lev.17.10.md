@@ -1,10 +1,7 @@
 **LXX Leviticus 17:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man, a man of the sons of Israel, or of the foreigners of the ones lying nearby among you, who ever should eat any blood, that I will set  my face against the soul  eating the blood, and I will destroy it from out of  its people. 
-<small><sub>**KJV:**</sub></small>
-And whatsoever man [there be] of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.
-<small><sub>**BSB:**</sub></small>
-If anyone from the house of Israel or a foreigner living among them eats any blood, I will set My face against that person and cut him off from among his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.9|<< Leviticus 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.11|Leviticus 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

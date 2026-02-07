@@ -1,12 +1,12 @@
-**1 Corinthians 12:28
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:28**<big><big>[[1Cor.12.27 The Greater Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.
 <small><sub>**BSB:**</sub></small>
 And in the church God has appointed first of all apostles, second prophets, third teachers, then workers of miracles, and those with gifts of healing, helping, administration, and various tongues.
 <small><sub>**Literal:**</sub></small>
 And some indeed has appointed <the> God in the church first apostles, secondly prophets, third teachers, then miracles, then gifts of healing, helping, administrating, various kinds of tongues.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.27|<< 1 Corinthians 12:27]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.29|1 Corinthians 12:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | some |**<big>[[G3739\|οὓς]]</big>**  |hous <small><sup>[[R-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

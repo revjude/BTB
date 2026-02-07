@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:18** 
 <small><sub>**LXX:**</sub></small>
 And he disgraced \[the\] swearing of an oath  violating \[the\] covenant; and behold, he appointed  his hand, and all these \[things\] he did to him, he shall not escape. 
-<small><sub>**KJV:**</sub></small>
-Seeing he despised the oath by breaking the covenant, when, lo, he had given his hand, and hath done all these [things], he shall not escape.
-<small><sub>**BSB:**</sub></small>
-He despised the oath by breaking the covenant. Seeing that he gave his hand in pledge yet did all these things, he will not escape!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.17|<< Ezekiel 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.19|Ezekiel 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

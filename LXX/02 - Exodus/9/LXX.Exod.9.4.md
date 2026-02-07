@@ -1,10 +1,7 @@
 **LXX Exodus 9:4** 
 <small><sub>**LXX:**</sub></small>
 And I will do an incredible thing, \[even\] I in  that time, between the cattle of the Egyptians, and between the cattle of the sons of Israel. And there shall not come to an end of any of the ones of the sons of Israel in particular. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all [that is] the children’s of Israel.
-<small><sub>**BSB:**</sub></small>
-But the LORD will make a distinction between the livestock of Israel and the livestock of Egypt, so that no animal belonging to the Israelites will die.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.3|<< Exodus 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.5|Exodus 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

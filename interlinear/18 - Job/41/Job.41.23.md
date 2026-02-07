@@ -1,4 +1,4 @@
-**Job 41:23** (41:15)
+**Job 41:23**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The folds of his flesh are tightly joined; they are firm and immovable.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.22|<< Job 41:22]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.24|Job 41:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] hanging parts of  |**<big>&#8207;[[H4651\|מַפְּלֵ֣י]]&#8207; </big>**| ma.pe.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flesh its  |**<big>&#8207;[[H1320\|בְשָׂר֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.sa.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

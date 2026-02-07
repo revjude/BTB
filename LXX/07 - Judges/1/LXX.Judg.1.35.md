@@ -1,10 +1,7 @@
 **LXX Judges 1:35** 
 <small><sub>**LXX:**</sub></small>
 And the Amorite began to dwell in  mount  Heres of which the bears and the foxes \[are\]; and the hand of \[the\] house of Joseph was oppressive upon the Amorite, and he became for tribute. 
-<small><sub>**KJV:**</sub></small>
-But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries.
-<small><sub>**BSB:**</sub></small>
-And the Amorites were determined to dwell in Mount Heres, Aijalon, and Shaalbim. But when the house of Joseph grew in strength, they pressed the Amorites into forced labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.34|<< Judges 1:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.36|Judges 1:36 >>]]</td></tr></table>
 
 | Translation | Greek |

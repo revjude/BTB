@@ -1,4 +1,4 @@
-**Ezekiel 13:22** 
+**Ezekiel 13:22**<big><big>[[Ezek.13.17 Reproof of False Prophetesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because with lies ye have made the heart of the righteous sad, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, by promising him life:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because you have disheartened the righteous with your lies, even though I have c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.21|<< Ezekiel 13:21]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.23|Ezekiel 13:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H3282\|יַ֣עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | disheartened  |**<big>&#8207;[[H3512A\|הַכְא֤וֹת]]&#8207; </big>**| hakh.'ot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

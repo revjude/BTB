@@ -1,4 +1,4 @@
-**2 Kings 5:27** 
+**2 Kings 5:27**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper [as white] as snow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, the leprosy of Naaman will cling to you and your descendants forever!
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.26|<< 2 Kings 5:26]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.1|2 Kings 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] skin disease of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6883\|צָרַ֤עַת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.Ra.'at<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naaman  |**<big>&#8207;[[H5283I\|נַֽעֲמָן֙]]&#8207; </big>**| na.'a.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 9:20** (9:19)
+**Jeremiah 9:20**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet hear the word of the LORD, O ye women, and let your ear receive the word of his mouth, and teach your daughters wailing, and every one her neighbour lamentation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, O women, hear the word of the LORD. Open your ears to the word of His mouth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.19|<< Jeremiah 9:19]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.21|Jeremiah 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hear  |**<big>&#8207;[[H8085G\|שְׁמַ֤עְנָה]]&#8207; </big>**| she.Ma'.nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

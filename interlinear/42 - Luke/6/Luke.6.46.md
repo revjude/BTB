@@ -1,12 +1,12 @@
-**Luke 6:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:46**<big><big>[[Luke.6.46 The House on the Rock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And why call ye me, Lord, Lord, and do not the things which I say?
 <small><sub>**BSB:**</sub></small>
 Why do you call Me ‘Lord, Lord,’ but do not do what I say?
 <small><sub>**Literal:**</sub></small>
 Why now Me do you call: Lord Lord, and not do what I say?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.45|<< Luke 6:45]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.47|Luke 6:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Why |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

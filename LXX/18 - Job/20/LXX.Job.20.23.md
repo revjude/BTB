@@ -1,10 +1,7 @@
 **LXX Job 20:23** 
 <small><sub>**LXX:**</sub></small>
 If by any means he might fill his belly, let \[God\] send as a successor upon him \[the\] rage of anger; griefs wash over him. 
-<small><sub>**KJV:**</sub></small>
-[When] he is about to fill his belly, [God] shall cast the fury of his wrath upon him, and shall rain [it] upon him while he is eating.
-<small><sub>**BSB:**</sub></small>
-When he has filled his stomach, God will vent His fury upon him, raining it down on him as he eats.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.22|<< Job 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.24|Job 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

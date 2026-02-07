@@ -1,10 +1,7 @@
 **LXX Exodus 12:50** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel did as \[the\] <span class="smallcaps">lord</span> gave charge to Moses and Aaron to them -- so they did. 
-<small><sub>**KJV:**</sub></small>
-Thus did all the children of Israel; as the LORD commanded Moses and Aaron, so did they.
-<small><sub>**BSB:**</sub></small>
-Then all the Israelites did this—they did just as the LORD had commanded Moses and Aaron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.49|<< Exodus 12:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.51|Exodus 12:51 >>]]</td></tr></table>
 
 | Translation | Greek |

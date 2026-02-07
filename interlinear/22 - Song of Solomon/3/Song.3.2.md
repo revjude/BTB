@@ -1,4 +1,4 @@
-**Song of Solomon 3:2** 
+**Song of Solomon 3:2**<big><big>[[Song.3.1 The Bride’s Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will arise now and go about the city, through the streets and squares. I will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.1|<< Song of Solomon 3:1]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.3|Song of Solomon 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will arise  |**<big>&#8207;[[H6965B\|אָק֨וּמָה]]&#8207; </big>**| 'a.Ku.mah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָּ֜א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

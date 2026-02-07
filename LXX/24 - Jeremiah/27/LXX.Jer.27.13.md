@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:13** 
 <small><sub>**LXX:**</sub></small>
 and work for him and \[for\] his people! and you shall live. Why should you die and  your people by sword, and by famine, and by pestilence, as \[the\] <span class="smallcaps">lord</span> spoke against nations, which served not to the king of Babylon? 
-<small><sub>**KJV:**</sub></small>
-Why will ye die, thou and thy people, by the sword, by the famine, and by the pestilence, as the LORD hath spoken against the nation that will not serve the king of Babylon?
-<small><sub>**BSB:**</sub></small>
-Why should you and your people die by sword and famine and plague, as the LORD has decreed against any nation that does not serve the king of Babylon?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.12|<< Jeremiah 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.14|Jeremiah 27:14 >>]]</td></tr></table>
 
 | Translation | Greek |

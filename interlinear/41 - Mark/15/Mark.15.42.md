@@ -1,12 +1,12 @@
-**Mark 15:42
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:42**<big><big>[[Mark.15.42 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now when the even was come, because it was the preparation, that is, the day before the sabbath,
 <small><sub>**BSB:**</sub></small>
 Now it was already evening. Since it was Preparation Day (that is, the day before the Sabbath),
 <small><sub>**Literal:**</sub></small>
 And already when evening having arrived, since it was [the] Preparation that is before Sabbath<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.41|<< Mark 15:41]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.43|Mark 15:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | already |**<big>[[G2235\|ἤδη]]</big>**  |ēdē <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

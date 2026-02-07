@@ -1,10 +1,7 @@
 **LXX Job 34:8** 
 <small><sub>**LXX:**</sub></small>
 Not sinning, nor being impious, nor wholly participating with ones committing  lawless deeds,  to go with \[the\] impious. 
-<small><sub>**KJV:**</sub></small>
-Which goeth in company with the workers of iniquity, and walketh with wicked men.
-<small><sub>**BSB:**</sub></small>
-He keeps company with evildoers and walks with wicked men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.7|<< Job 34:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.9|Job 34:9 >>]]</td></tr></table>
 
 | Translation | Greek |

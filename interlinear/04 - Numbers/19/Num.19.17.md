@@ -1,4 +1,4 @@
-**Numbers 19:17** 
+**Numbers 19:17**<big><big>[[Num.19.11 Purification of the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for an unclean [person] they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put thereto in a vessel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the purification of the unclean person, take some of the ashes of the burnt 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.16|<< Numbers 19:16]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.18|Numbers 19:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָֽקְחוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.ke.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the unclean [person]  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2931\|טָּמֵ֔א]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

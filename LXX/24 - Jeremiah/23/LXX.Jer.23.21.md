@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:21** 
 <small><sub>**LXX:**</sub></small>
 I did not send the \[false\] prophets, yet they ran. I did not speak to them, and they prophesied. 
-<small><sub>**KJV:**</sub></small>
-I have not sent these prophets, yet they ran: I have not spoken to them, yet they prophesied.
-<small><sub>**BSB:**</sub></small>
-I did not send these prophets, yet they have run with their message; I did not speak to them, yet they have prophesied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.20|<< Jeremiah 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.22|Jeremiah 23:22 >>]]</td></tr></table>
 
 | Translation | Greek |

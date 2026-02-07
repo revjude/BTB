@@ -1,10 +1,7 @@
 **LXX Proverbs 9:14** 
 <small><sub>**LXX:**</sub></small>
 She sits at \[the\] doors  of her own house upon a chair, visibly in \[the\] squares, 
-<small><sub>**KJV:**</sub></small>
-For she sitteth at the door of her house, on a seat in the high places of the city,
-<small><sub>**BSB:**</sub></small>
-She sits at the door of her house, on a seat in the heights of the city,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.13|<< Proverbs 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.15|Proverbs 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

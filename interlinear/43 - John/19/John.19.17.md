@@ -1,12 +1,12 @@
-**John 19:17
-**<small><sub>**KJV:**</sub></small>
+**John 19:17**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he bearing his cross went forth into a place called [the place] of a skull, which is called in the Hebrew Golgotha:
 <small><sub>**BSB:**</sub></small>
 Carrying His own cross, He went out to The Place of the Skull, which in Hebrew is called Golgotha.
 <small><sub>**Literal:**</sub></small>
 And bearing His own <the> cross He went out to the [place] being named of the Skull Place, which is named in Hebrew Golgotha,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.16|<< John 19:16]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.18|John 19:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | bearing |**<big>[[G0941\|βαστάζων]]</big>**  |bastazōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

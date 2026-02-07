@@ -1,4 +1,4 @@
-**Leviticus 26:42** 
+**Leviticus 26:42**<big><big>[[Lev.26.40 God Remembers Those Who Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then I will remember My covenant with Jacob and My covenant with Isaac and My co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.41|<< Leviticus 26:41]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.43|Leviticus 26:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will remember  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2142\|זָכַרְתִּ֖י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.khar.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

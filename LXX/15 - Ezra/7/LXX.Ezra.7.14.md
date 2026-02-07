@@ -1,10 +1,7 @@
 **LXX Ezra 7:14** 
 <small><sub>**LXX:**</sub></small>
 In so far as from in front of the king, and  of his seven counselors, \[one\] should be sent to look about over  Judea and Jerusalem, and in \[the\] law of their God in your hand, 
-<small><sub>**KJV:**</sub></small>
-Forasmuch as thou art sent of the king, and of his seven counsellers, to inquire concerning Judah and Jerusalem, according to the law of thy God which [is] in thine hand;
-<small><sub>**BSB:**</sub></small>
-You are sent by the king and his seven counselors to evaluate Judah and Jerusalem according to the Law of your God, which is in your hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.13|<< Ezra 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.15|Ezra 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

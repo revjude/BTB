@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David said, This is the house of \[the\] <span class="smallcaps">lord</span>  God, and this \[is\] the altar for \[the\] whole burnt-offering \[to\] Israel. 
-<small><sub>**KJV:**</sub></small>
-Then David said, This [is] the house of the LORD God, and this [is] the altar of the burnt offering for Israel.
-<small><sub>**BSB:**</sub></small>
-Then David said, “Here shall be the house of the LORD God, as well as the altar of burnt offering for Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.30|<< 1 Chronicles 21:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.2|1 Chronicles 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 1:15** 
 <small><sub>**LXX:**</sub></small>
 and the priest shall bring it to the altar, and shall pluck off  its head, and the priest shall place \[it\] upon the altar, and he shall wring out the blood to the base of the altar. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall bring it unto the altar, and wring off his head, and burn [it] on the altar; and the blood thereof shall be wrung out at the side of the altar:
-<small><sub>**BSB:**</sub></small>
-Then the priest shall bring it to the altar, twist off its head, and burn it on the altar; its blood should be drained out on the side of the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.14|<< Leviticus 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.1.16|Leviticus 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

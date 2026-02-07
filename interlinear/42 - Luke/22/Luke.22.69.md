@@ -1,5 +1,5 @@
-**Luke 22:69
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:69**<big><big>[[Luke.22.66 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hereafter shall the Son of man sit on the right hand of the power of God.
 <small><sub>**BSB:**</sub></small>
 But from now on the Son of Man will be seated at the right hand of the power of God.”
@@ -10,7 +10,7 @@ From <the> now on also will be the Son <the> of Man sitting at [the] right hand 
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]] ☩ [[LXX.Dan.7.13|Dan 7:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

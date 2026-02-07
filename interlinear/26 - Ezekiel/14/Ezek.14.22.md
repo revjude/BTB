@@ -1,4 +1,4 @@
-**Ezekiel 14:22** 
+**Ezekiel 14:22**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet, behold, therein shall be left a remnant that shall be brought forth, [both] sons and daughters: behold, they shall come forth unto you, and ye shall see their way and their doings: and ye shall be comforted concerning the evil that I have brought upon Jerusalem, [even] concerning all that I have brought upon it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet, behold, some survivors will be left in it—sons and daughters who will be 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.21|<< Ezekiel 14:21]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.23|Ezekiel 14:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be left  |**<big>&#8207;[[H3498\|נֽוֹתְרָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| not.rah-<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

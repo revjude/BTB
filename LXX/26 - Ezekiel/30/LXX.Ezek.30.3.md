@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:3** 
 <small><sub>**LXX:**</sub></small>
 for the day \[of the\] <span class="smallcaps">lord</span> \[is\] near, even \[the\] day \[of the\] <span class="smallcaps">lord</span> approaches. It will be a day of cloud and a time of nations. 
-<small><sub>**KJV:**</sub></small>
-For the day [is] near, even the day of the LORD [is] near, a cloudy day; it shall be the time of the heathen.
-<small><sub>**BSB:**</sub></small>
-For the day is near, the Day of the LORD is near. It will be a day of clouds, a time of doom for the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.2|<< Ezekiel 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.4|Ezekiel 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

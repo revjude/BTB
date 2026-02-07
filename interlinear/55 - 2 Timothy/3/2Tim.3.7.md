@@ -1,12 +1,12 @@
-**2 Timothy 3:7
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:7**<big><big>[[2Tim.3.1 Evil in the Last Days|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ever learning, and never able to come to the knowledge of the truth.
 <small><sub>**BSB:**</sub></small>
 who are always learning but never able to come to a knowledge of the truth.
 <small><sub>**Literal:**</sub></small>
 always learning and never to a knowledge of [the] truth to come being able.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.6|<< 2 Timothy 3:6]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.8|2 Timothy 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | always |**<big>[[G3842\|πάντοτε]]</big>**  |pantote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | learning |**<big>[[G3129\|μανθάνοντα]]</big>**  |manthanonta <small><sup>[[V-PAP-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:24** 
 <small><sub>**LXX:**</sub></small>
 And after him Binnui repaired, son of Henadad a second measured \[section\], from \[the\] house of Azariah unto the corner, and unto the curve. 
-<small><sub>**KJV:**</sub></small>
-After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning [of the wall], even unto the corner.
-<small><sub>**BSB:**</sub></small>
-After him, Binnui son of Henadad repaired another section, from the house of Azariah to the angle and the corner,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.23|<< Nehemiah 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.25|Nehemiah 3:25 >>]]</td></tr></table>
 
 | Translation | Greek |

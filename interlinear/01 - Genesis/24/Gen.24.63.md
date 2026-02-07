@@ -1,4 +1,4 @@
-**Genesis 24:63** 
+**Genesis 24:63**<big><big>[[Gen.24.62 Isaac Marries Rebekah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels [were] coming.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Early in the evening, Isaac went out to the field to meditate, and looking up, h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.62|<< Genesis 24:62]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.64|Genesis 24:64 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֛ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

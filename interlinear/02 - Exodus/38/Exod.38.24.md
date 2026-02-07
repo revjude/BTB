@@ -1,4 +1,4 @@
-**Exodus 38:24** 
+**Exodus 38:24**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the gold that was occupied for the work in all the work of the holy [place], even the gold of the offering, was twenty and nine talents, and seven hundred and thirty shekels, after the shekel of the sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the gold from the wave offering used for the work on the sanctuary totaled 2
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.23|<< Exodus 38:23]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.25|Exodus 38:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the gold  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2091\|זָּהָ֗ב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:10** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Hosah of the sons of Merari, \[the\] sons guarding the office, but he was not \[the\] first-born, but his father made him ruler. 
-<small><sub>**KJV:**</sub></small>
-Also Hosah, of the children of Merari, had sons; Simri the chief, (for [though] he was not the firstborn, yet his father made him the chief;)
-<small><sub>**BSB:**</sub></small>
-Hosah the Merarite also had sons: Shimri the first (although he was not the firstborn, his father had appointed him as the first),<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.9|<< 1 Chronicles 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.11|1 Chronicles 26:11 >>]]</td></tr></table>
 
 | Translation | Greek |

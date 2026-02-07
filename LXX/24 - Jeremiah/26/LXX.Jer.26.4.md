@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:4** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, Thus said \[the\] <span class="smallcaps">lord</span>, If you should not hearken to me  to go by  my laws which I put before your face, 
-<small><sub>**KJV:**</sub></small>
-And thou shalt say unto them, Thus saith the LORD; If ye will not hearken to me, to walk in my law, which I have set before you,
-<small><sub>**BSB:**</sub></small>
-And you are to tell them that this is what the LORD says: ‘If you do not listen to Me and walk in My law, which I have set before you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.3|<< Jeremiah 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.5|Jeremiah 26:5 >>]]</td></tr></table>
 
 | Translation | Greek |

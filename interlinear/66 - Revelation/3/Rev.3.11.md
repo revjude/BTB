@@ -1,12 +1,12 @@
-**Revelation 3:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:11**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.
 <small><sub>**BSB:**</sub></small>
 I am coming soon. Hold fast to what you have, so that no one will take your crown.
 <small><sub>**Literal:**</sub></small>
 behold I am coming quickly; do hold fast to what you have, so that no one may take the crown of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.10|<< Revelation 3:10]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.12|Revelation 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | behold [^1] |**<big>[[G2400\|ἰδού]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="TR">K</abbr> | |
 | I am coming |**<big>[[G2064\|ἔρχομαι]]</big>**  |erchomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

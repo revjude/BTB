@@ -1,12 +1,12 @@
-**John 20:26
-**<small><sub>**KJV:**</sub></small>
+**John 20:26**<big><big>[[John.20.24 Jesus Appears to Thomas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after eight days again his disciples were within, and Thomas with them: [then] came Jesus, the doors being shut, and stood in the midst, and said, Peace [be] unto you.
 <small><sub>**BSB:**</sub></small>
 Eight days later, His disciples were once again inside with the doors locked, and Thomas was with them. Jesus came and stood among them and said, “Peace be with you.”
 <small><sub>**Literal:**</sub></small>
 And after days eight again were inside the disciples of Him and Thomas with them. Comes <the> Jesus when the doors shut And He stood in the midst and said; Peace to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.25|<< John 20:25]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.27|John 20:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | after |**<big>[[G3326\|μεθ᾽]]</big>**  |meth᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

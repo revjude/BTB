@@ -1,4 +1,4 @@
-**Ezekiel 34:31** 
+**Ezekiel 34:31**<big><big>[[Ezek.34.25 The Covenant of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye my flock, the flock of my pasture, [are] men, [and] I [am] your God, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And ye my flock, the flock of my pasture, [are] men, [and] I [am] your God, sait
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.30|<< Ezekiel 34:30]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.1|Ezekiel 35:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859E\|אַתֵּ֥ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Ten<small><sup>[[HPp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] flock my  |**<big>&#8207;[[H6629G\|צֹאנִ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| tzo.N<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

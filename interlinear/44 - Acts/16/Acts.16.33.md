@@ -1,12 +1,12 @@
-**Acts 16:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:33**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he took them the same hour of the night, and washed [their] stripes; and was baptized, he and all his, straightway.
 <small><sub>**BSB:**</sub></small>
 At that hour of the night, the jailer took them and washed their wounds. And without delay, he and all his household were baptized.
 <small><sub>**Literal:**</sub></small>
 And having taken them in that [very] <the> hour of the night he washed [them] from the wounds, and he was baptized he himself and the [household] of him all immediately.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.32|<< Acts 16:32]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.34|Acts 16:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken |**<big>[[G3880\|παραλαβὼν]]</big>**  |paralabōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 1:10** 
+**Jeremiah 1:10**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See, I have appointed you today over nations and kingdoms to uproot and tear dow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.9|<< Jeremiah 1:9]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.11|Jeremiah 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200I\|רְאֵ֞ה]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I appoint you  |**<big>&#8207;[[H6485J\|הִפְקַדְתִּ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hif.kad.Ti.<small><sup>[[HVhp1cs]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 20:24** 
+**Exodus 20:24**<big><big>[[Exod.20.22 Idolatry Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to make for Me an altar of earth, and sacrifice on it your burnt offerin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.23|<< Exodus 20:23]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.25|Exodus 20:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an altar of  |**<big>&#8207;[[H4196\|מִזְבַּ֣ח]]&#8207; </big>**| miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | earth  |**<big>&#8207;[[H0127G\|אֲדָמָה֮]]&#8207; </big>**| 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

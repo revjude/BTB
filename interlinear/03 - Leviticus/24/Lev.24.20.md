@@ -1,4 +1,4 @@
-**Leviticus 24:20** 
+**Leviticus 24:20**<big><big>[[Lev.24.17 An Eye for an Eye|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Breach for breach, eye for eye, tooth for tooth: as he hath caused a blemish in a man, so shall it be done to him [again].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ fracture for fracture, eye for eye, tooth for tooth. Just as he injured the othe
 > $\quad$ referenced by: [[Matt.5.38|Matt 5:38]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a fracture  |**<big>&#8207;[[H7667\|שֶׁ֚בֶר]]&#8207; </big>**| She.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

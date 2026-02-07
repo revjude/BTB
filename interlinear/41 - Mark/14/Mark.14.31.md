@@ -1,12 +1,12 @@
-**Mark 14:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:31**<big><big>[[Mark.14.27 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all.
 <small><sub>**BSB:**</sub></small>
 But Peter kept insisting, “Even if I have to die with You, I will never deny You.” And all the others said the same thing.
 <small><sub>**Literal:**</sub></small>
 <the> And overexceedingly he was saying more: If it shall be needful to me to die with You, certainly not You I will deny. Likewise now also all of them were saying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.30|<< Mark 14:30]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.32|Mark 14:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

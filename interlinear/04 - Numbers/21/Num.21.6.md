@@ -1,4 +1,4 @@
-**Numbers 21:6** 
+**Numbers 21:6**<big><big>[[Num.21.4 The Bronze Serpent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the LORD sent venomous snakes among the people, and many of the Israelites we
 > $\quad$ referenced by: [[1Cor.10.9|1Cor 10:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יְשַׁלַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.Lach<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

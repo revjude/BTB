@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:20** 
 <small><sub>**LXX:**</sub></small>
 And his sons shall enter as  formerly, and  their testimonies \[are\] in front of me straight up. And I shall visit upon all the ones afflicting them. 
-<small><sub>**KJV:**</sub></small>
-Their children also shall be as aforetime, and their congregation shall be established before me, and I will punish all that oppress them.
-<small><sub>**BSB:**</sub></small>
-Their children will be as in days of old, and their congregation will be established before Me; and I will punish all their oppressors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.19|<< Jeremiah 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.21|Jeremiah 30:21 >>]]</td></tr></table>
 
 | Translation | Greek |

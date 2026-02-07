@@ -1,10 +1,7 @@
 **LXX 1 Samuel 31:9** 
 <small><sub>**LXX:**</sub></small>
 And they behead him, and they strip him  of his weapons, and they send into \[the\] land of \[the\] Philistines round about, announcing good news \[to\] their idols, and \[to\] their people. 
-<small><sub>**KJV:**</sub></small>
-And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish [it in] the house of their idols, and among the people.
-<small><sub>**BSB:**</sub></small>
-They cut off Saul’s head, stripped off his armor, and sent messengers throughout the land of the Philistines to proclaim the news in the temples of their idols and among their people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.31.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.8|<< 1 Samuel 31:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.10|1 Samuel 31:10 >>]]</td></tr></table>
 
 | Translation | Greek |

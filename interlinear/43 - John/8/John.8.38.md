@@ -1,12 +1,12 @@
-**John 8:38
-**<small><sub>**KJV:**</sub></small>
+**John 8:38**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I speak that which I have seen with my Father: and ye do that which ye have seen with your father.
 <small><sub>**BSB:**</sub></small>
 I speak of what I have seen in the presence of the Father, and you do what you have heard from your father.”
 <small><sub>**Literal:**</sub></small>
 Those which I myself have seen with the Father of mine I speak; also you yourselves therefore what things you have heard from the father of you you do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.37|<< John 8:37]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.39|John 8:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those which [^1] |**<big>[[G3739\|ἃ]]</big>**  |ha <small><sup>[[R-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

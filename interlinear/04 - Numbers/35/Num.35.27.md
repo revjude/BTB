@@ -1,4 +1,4 @@
-**Numbers 35:27** 
+**Numbers 35:27**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the avenger of blood finds him outside of his city of refuge and kills him, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.26|<< Numbers 35:26]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.28|Numbers 35:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will find  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4672\|מָצָ֤א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

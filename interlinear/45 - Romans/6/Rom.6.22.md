@@ -1,12 +1,12 @@
-**Romans 6:22
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:22**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.
 <small><sub>**BSB:**</sub></small>
 But now that you have been set free from sin and have become slaves to God, the fruit you reap leads to holiness, and the outcome is eternal life.
 <small><sub>**Literal:**</sub></small>
 Now however having been set free from <the> sin having become slaves now <the> to God you have the fruit of you unto sanctification, <the> now the end [is] life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.21|<< Romans 6:21]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.23|Romans 6:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3570\|νυνὶ]]</big>**  |nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

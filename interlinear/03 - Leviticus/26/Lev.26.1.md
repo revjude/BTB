@@ -1,4 +1,4 @@
-**Leviticus 26:1** 
+**Leviticus 26:1**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall make you no idols nor graven image, neither rear you up a standing image, neither shall ye set up [any] image of stone in your land, to bow down unto it: for I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ye shall make you no idols nor graven image, neither rear you up a standing imag
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.55|<< Leviticus 25:55]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.2|Leviticus 26:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must make  |**<big>&#8207;[[H6213H\|תַעֲשׂ֨וּ]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 7:37** 
+**1 Kings 7:37**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this [manner] he made the ten bases: all of them had one casting, one measure, [and] one size.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In this way he made the ten stands, each with the same casting, dimensions, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.36|<< 1 Kings 7:36]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.38|1 Kings 7:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like this  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made  |**<big>&#8207;[[H6213H\|עָשָׂ֔ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

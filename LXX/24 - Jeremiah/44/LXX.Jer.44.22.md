@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was not able still to bear up from in front \[of the\] wickedness of your deeds, and from  your abominations which you did; and your land became for desolation, and for an untrodden \[place\], and for a curse, as  this day; 
-<small><sub>**KJV:**</sub></small>
-So that the LORD could no longer bear, because of the evil of your doings, [and] because of the abominations which ye have committed; therefore is your land a desolation, and an astonishment, and a curse, without an inhabitant, as at this day.
-<small><sub>**BSB:**</sub></small>
-So the LORD could no longer endure the evil deeds and detestable acts you committed, and your land became a desolation, a horror, and an object of cursing, without inhabitant, as it is this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.21|<< Jeremiah 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.23|Jeremiah 44:23 >>]]</td></tr></table>
 
 | Translation | Greek |

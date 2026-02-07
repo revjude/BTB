@@ -1,10 +1,7 @@
 **LXX Numbers 2:34** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel did according to all what \[the\] <span class="smallcaps">lord</span> gave orders to Moses; thus they camped according to their order, and thus they lifted away each being next to \[the other\] according to their peoples, according to \[the\] houses of their patrimony. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did according to all that the LORD commanded Moses: so they pitched by their standards, and so they set forward, every one after their families, according to the house of their fathers.
-<small><sub>**BSB:**</sub></small>
-So the Israelites did everything the LORD commanded Moses; they camped under their standards in this way and set out in the same way, each man with his clan and his family.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.33|<< Numbers 2:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.1|Numbers 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

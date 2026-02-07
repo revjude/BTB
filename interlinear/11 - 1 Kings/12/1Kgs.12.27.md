@@ -1,4 +1,4 @@
-**1 Kings 12:27** 
+**1 Kings 12:27**<big><big>[[1Kgs.12.25 Jeroboam’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, [even] unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If these people go up to offer sacrifices in the house of the LORD at Jerusalem,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.26|<< 1 Kings 12:26]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.28|1 Kings 12:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will go up  |**<big>&#8207;[[H5927G\|יַעֲלֶ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.'a.Leh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

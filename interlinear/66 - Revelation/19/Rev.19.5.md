@@ -1,5 +1,5 @@
-**Revelation 19:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:5**<big><big>[[Rev.19.1 Rejoicing in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a voice came out of the throne, saying, Praise our God, all ye his servants, and ye that fear him, both small and great.
 <small><sub>**BSB:**</sub></small>
 Then a voice came from the throne, saying: “Praise our God, all you who serve Him, and those who fear Him, small and great alike!”
@@ -10,7 +10,7 @@ And a voice from the throne came forth saying: do praise to the God of us all yo
 > $\quad$ alluding to: [[LXX.Ps.115.13|Ps 115:13]] ☩ [[LXX.Ps.135.1|Ps 135:1]] ☩ [[LXX.Ps.135.20|Ps 135:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a voice |**<big>[[G5456G\|φωνὴ]]</big>**  |phōnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

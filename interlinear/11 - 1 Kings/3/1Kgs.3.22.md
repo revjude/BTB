@@ -1,4 +1,4 @@
-**1 Kings 3:22** 
+**1 Kings 3:22**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the other woman said, Nay; but the living [is] my son, and the dead [is] thy son. And this said, No; but the dead [is] thy son, and the living [is] my son. Thus they spake before the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the other woman said, Nay; but the living [is] my son, and the dead [is] thy
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.21|<< 1 Kings 3:21]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.23|1 Kings 3:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּאמֶר֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> to.Mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the woman  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֨ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

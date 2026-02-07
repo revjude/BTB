@@ -1,10 +1,7 @@
 **LXX Esther 1:14** 
 <small><sub>**LXX:**</sub></small>
 And came forward to him Carshena, and Shethar and Admatha, and Tarshish, and Meres and Marsena and Memucan seven rulers of \[the\] Persians and Medes, the ones near the king, the ones foremost being seated near the king. 
-<small><sub>**KJV:**</sub></small>
-And the next unto him [was] Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, [and] Memucan, the seven princes of Persia and Media, which saw the king’s face, [and] which sat the first in the kingdom;)
-<small><sub>**BSB:**</sub></small>
-His closest advisors were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media who had personal access to the king and ranked highest in the kingdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.13|<< Esther 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.15|Esther 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

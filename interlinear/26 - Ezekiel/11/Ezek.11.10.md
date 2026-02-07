@@ -1,4 +1,4 @@
-**Ezekiel 11:10** 
+**Ezekiel 11:10**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall fall by the sword; I will judge you in the border of Israel; and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will fall by the sword, and I will judge you even to the borders of Israel. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.9|<< Ezekiel 11:9]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.11|Ezekiel 11:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by the sword  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2719\|חֶ֣רֶב]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will fall  |**<big>&#8207;[[H5307J\|תִּפֹּ֔לוּ]]&#8207; </big>**| ti.Po.lu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

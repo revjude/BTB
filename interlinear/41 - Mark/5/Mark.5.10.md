@@ -1,12 +1,12 @@
-**Mark 5:10
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:10**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he besought him much that he would not send them away out of the country.
 <small><sub>**BSB:**</sub></small>
 And he begged Jesus repeatedly not to send them out of that region.
 <small><sub>**Literal:**</sub></small>
 And he was begging Him numerous times that not them He may send out of the country.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.9|<< Mark 5:9]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.11|Mark 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he was begging |**<big>[[G3870\|παρεκάλει]]</big>**  |parekalei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

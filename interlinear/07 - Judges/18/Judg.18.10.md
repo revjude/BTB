@@ -1,4 +1,4 @@
-**Judges 18:10** 
+**Judges 18:10**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where [there is] no want of any thing that [is] in the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you enter, you will come to an unsuspecting people and a spacious land, for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.9|<< Judges 18:9]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.11|Judges 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when go you  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0935G\|בֹאֲ]]&#8207;&#8207;[[H9046\|כֶ֞ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> vo.'a.<small><sup>[[HVqcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will come  |**<big>&#8207;[[H0935G\|תָּבֹ֣אוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ta.Vo.'u<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

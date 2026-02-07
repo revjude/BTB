@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:7** 
 <small><sub>**LXX:**</sub></small>
 And they spoke to him, saying, If in  this day you will be a servant  to this people, and should serve them, and shall speak to them \[with\] good words, then they will be to you servants all the days. 
-<small><sub>**KJV:**</sub></small>
-And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever.
-<small><sub>**BSB:**</sub></small>
-They replied, “If you will be a servant to these people and serve them this day, and if you will respond by speaking kind words to them, they will be your servants forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.6|<< 1 Kings 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.8|1 Kings 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

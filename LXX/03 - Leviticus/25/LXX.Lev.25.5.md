@@ -1,10 +1,7 @@
 **LXX Leviticus 25:5** 
 <small><sub>**LXX:**</sub></small>
 and the \[produce\] ascending by itself  in your field you shall not reap up, and the grape  of your sanctification you shall not gather in the vintage; a year's rest will be for the land. 
-<small><sub>**KJV:**</sub></small>
-That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: [for] it is a year of rest unto the land.
-<small><sub>**BSB:**</sub></small>
-You are not to reap the aftergrowth of your harvest or gather the grapes of your untended vines. The land must have a year of complete rest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.4|<< Leviticus 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.6|Leviticus 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

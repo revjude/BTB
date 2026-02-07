@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:8** 
 <small><sub>**LXX:**</sub></small>
 But that nation turn from  their evils, then I shall change my mind concerning the bad \[things\] which I devised  to do to them. 
-<small><sub>**KJV:**</sub></small>
-If that nation, against whom I have pronounced, turn from their evil, I will repent of the evil that I thought to do unto them.
-<small><sub>**BSB:**</sub></small>
-But if that nation I warned turns from its evil, then I will relent of the disaster I had planned to bring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.7|<< Jeremiah 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.9|Jeremiah 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

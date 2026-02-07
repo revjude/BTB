@@ -1,10 +1,7 @@
 **LXX Genesis 44:17** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said, Let it not be to me to do  this thing. The man by whom was found \[with\] the drinking cup, he will be my servant. But you all ascend with safety to  your father. 
-<small><sub>**KJV:**</sub></small>
-And he said, God forbid that I should do so: [but] the man in whose hand the cup is found, he shall be my servant; and as for you, get you up in peace unto your father.
-<small><sub>**BSB:**</sub></small>
-But Joseph replied, “Far be it from me to do this. The man who was found with the cup will be my slave. The rest of you may return to your father in peace.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.16|<< Genesis 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.18|Genesis 44:18 >>]]</td></tr></table>
 
 | Translation | Greek |

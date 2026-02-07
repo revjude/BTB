@@ -1,12 +1,12 @@
-**Matthew 8:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:12**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.
 <small><sub>**BSB:**</sub></small>
 But the sons of the kingdom will be thrown into the outer darkness, where there will be weeping and gnashing of teeth.”
 <small><sub>**Literal:**</sub></small>
 the however sons of the kingdom will be cast out into the darkness the outer; there will be the weeping and the gnashing of the teeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.11|<< Matthew 8:11]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.13|Matthew 8:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

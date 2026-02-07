@@ -1,12 +1,12 @@
-**Luke 8:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:17**<big><big>[[Luke.8.16 The Lesson of the Lamp|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For nothing is secret, that shall not be made manifest; neither [any thing] hid, that shall not be known and come abroad.
 <small><sub>**BSB:**</sub></small>
 For there is nothing hidden that will not be disclosed, and nothing concealed that will not be made known and brought to light.
 <small><sub>**Literal:**</sub></small>
 Nothing for is hidden which not manifest will become, nor [is] secret which certainly not may be known and to light come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.16|<< Luke 8:16]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.18|Luke 8:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nothing |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 33:27** 
+**Ezekiel 33:27**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say thou thus unto them, Thus saith the Lord GOD; [As] I live, surely they that [are] in the wastes shall fall by the sword, and him that [is] in the open field will I give to the beasts to be devoured, and they that [be] in the forts and in the caves shall die of the pestilence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tell them that this is what the Lord GOD says: ‘As surely as I live, those in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.26|<< Ezekiel 33:26]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.28|Ezekiel 33:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹאמַ֨ר]]&#8207; </big>**| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

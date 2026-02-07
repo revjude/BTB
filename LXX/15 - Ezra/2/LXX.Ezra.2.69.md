@@ -1,10 +1,7 @@
 **LXX Ezra 2:69** 
 <small><sub>**LXX:**</sub></small>
 According to  their power they gave for \[the\] treasury for the work; gold drachmas -- six ten thousands and a thousand; and silver minas -- five thousand; and garments for the priests -- a hundred. 
-<small><sub>**KJV:**</sub></small>
-They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests’ garments.
-<small><sub>**BSB:**</sub></small>
-According to their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.69|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.68|<< Ezra 2:68]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.70|Ezra 2:70 >>]]</td></tr></table>
 
 | Translation | Greek |

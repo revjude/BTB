@@ -1,4 +1,4 @@
-**Psalms 84:2** (84:3)
+**Psalms 84:2**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My soul longs, even faints, for the courts of the LORD; my heart and my flesh cr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.1|<< Psalms 84:1]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.3|Psalms 84:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has longed  |**<big>&#8207;[[H3700\|נִכְסְפָ֬ה]]&#8207; </big>**| nikh.se.Fah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

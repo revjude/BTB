@@ -1,4 +1,4 @@
-**2 Chronicles 24:23** 
+**2 Chronicles 24:23**<big><big>[[2Chr.24.23 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the end of the year, [that] the host of Syria came up against him: and they came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all the spoil of them unto the king of Damascus.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the spring, the army of Aram went to war against Joash. They entered Judah an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.22|<< 2 Chronicles 24:22]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.24|2 Chronicles 24:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] circuit of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8622\|תְקוּפַ֣ת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> t.ku.Fat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

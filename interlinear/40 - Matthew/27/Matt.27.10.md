@@ -1,5 +1,5 @@
-**Matthew 27:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:10**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And gave them for the potter’s field, as the Lord appointed me.
 <small><sub>**BSB:**</sub></small>
 and they gave them for the potter’s field, as the Lord had commanded me.”
@@ -10,7 +10,7 @@ and they gave them for the field of the potter, as directed me [the] Lord<br><ta
 > $\quad$ referencing: [[LXX.Jer.32.6|Jer 32:6-9]] ☩ [[LXX.Zech.11.12|Zech 11:12-13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they gave |**<big>[[G1325\|ἔδωκαν]]</big>**  |edōkan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

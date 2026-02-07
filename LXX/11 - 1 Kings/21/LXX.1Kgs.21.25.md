@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:25** 
 <small><sub>**LXX:**</sub></small>
 Furthermore there was not \[one\] as Ahab, who sold himself to do the wicked \[thing\] before \[the\] <span class="smallcaps">lord</span>, as Jezebel his wife altered him. 
-<small><sub>**KJV:**</sub></small>
-But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the LORD, whom Jezebel his wife stirred up.
-<small><sub>**BSB:**</sub></small>
-(Surely there was never one like Ahab, who sold himself to do evil in the sight of the LORD, incited by his wife Jezebel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.24|<< 1 Kings 21:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.26|1 Kings 21:26 >>]]</td></tr></table>
 
 | Translation | Greek |

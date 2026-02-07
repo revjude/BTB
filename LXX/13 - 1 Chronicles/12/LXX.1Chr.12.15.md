@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:15** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the ones passing over the Jordan in the first month, and it was filled over all  its bank. And they drove out all the ones dwelling \[in the\] canyons to \[the\] east, and to \[the\] west. 
-<small><sub>**KJV:**</sub></small>
-These [are] they that went over Jordan in the first month, when it had overflown all his banks; and they put to flight all [them] of the valleys, [both] toward the east, and toward the west.
-<small><sub>**BSB:**</sub></small>
-These are the ones who crossed the Jordan in the first month when it was overflowing all its banks, and they put to flight all those in the valleys, both to the east and to the west.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.14|<< 1 Chronicles 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.16|1 Chronicles 12:16 >>]]</td></tr></table>
 
 | Translation | Greek |

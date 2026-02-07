@@ -1,10 +1,7 @@
 **LXX Hosea 13:5** 
 <small><sub>**LXX:**</sub></small>
 I tended you in the wilderness in an uninhabited land. 
-<small><sub>**KJV:**</sub></small>
-I did know thee in the wilderness, in the land of great drought.
-<small><sub>**BSB:**</sub></small>
-I knew you in the wilderness, in the land of drought.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.4|<< Hosea 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.6|Hosea 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

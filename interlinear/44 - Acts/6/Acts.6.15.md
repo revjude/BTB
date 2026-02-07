@@ -1,12 +1,12 @@
-**Acts 6:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:15**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all that sat in the council, looking stedfastly on him, saw his face as it had been the face of an angel.
 <small><sub>**BSB:**</sub></small>
 All who were sitting in the Sanhedrin looked intently at Stephen, and they saw that his face was like the face of an angel.
 <small><sub>**Literal:**</sub></small>
 And having looked intently on him all those sitting in the Council saw the face of him as [the] face of an angel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.14|<< Acts 6:14]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.1|Acts 7:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having looked intently |**<big>[[G0816\|ἀτενίσαντες]]</big>**  |atenisantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

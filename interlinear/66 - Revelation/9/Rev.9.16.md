@@ -1,12 +1,12 @@
-**Revelation 9:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:16**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the number of the army of the horsemen [were] two hundred thousand thousand: and I heard the number of them.
 <small><sub>**BSB:**</sub></small>
 And the number of mounted troops was two hundred million; I heard their number.
 <small><sub>**Literal:**</sub></small>
 And the number of the armies of the cavalry [was] twice ten thousand ten thousands; and I heard the number of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.15|<< Revelation 9:15]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.17|Revelation 9:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

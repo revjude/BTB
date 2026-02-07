@@ -1,10 +1,7 @@
 **LXX Genesis 26:7** 
 <small><sub>**LXX:**</sub></small>
 And the men of the place asked concerning Rebekah  his wife. And he said, She is my sister, for he feared to say that, She is my wife, lest at any time the men of the place should kill him on account of Rebekah; for her appearance was beautiful. 
-<small><sub>**KJV:**</sub></small>
-And the men of the place asked [him] of his wife; and he said, She [is] my sister: for he feared to say, [She is] my wife; lest, [said he], the men of the place should kill me for Rebekah; because she [was] fair to look upon.
-<small><sub>**BSB:**</sub></small>
-But when the men of that place asked about his wife, he said, “She is my sister.” For he was afraid to say, “She is my wife,” since he thought to himself, “The men of this place will kill me on account of Rebekah, because she is so beautiful.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.6|<< Genesis 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.8|Genesis 26:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they gave the money  being prepared into \[the\] hands of the ones doing the works of the ones overseeing \[the\] house of \[the\] <span class="smallcaps">lord</span>. And they handed over to the fabricators of the wood \[items\], and to the builders  doing work in \[the\] house of \[the\] <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the LORD: and they laid it out to the carpenters and builders, that wrought upon the house of the LORD,
-<small><sub>**BSB:**</sub></small>
-Then they would put the counted money into the hands of those who supervised the work on the house of the LORD, who in turn would pay those doing the work—the carpenters, builders,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.10|<< 2 Kings 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.12|2 Kings 12:12 >>]]</td></tr></table>
 
 | Translation | Greek |

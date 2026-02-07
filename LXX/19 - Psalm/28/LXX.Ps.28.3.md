@@ -1,10 +1,7 @@
 **LXX Psalm 28:3** 
 <small><sub>**LXX:**</sub></small>
 Do not draw me together with sinners! And do not destroy me together with ones working injustice! of the ones speaking peace with  their neighbors, but evils \[are\] in  their hearts. 
-<small><sub>**KJV:**</sub></small>
-Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief [is] in their hearts.
-<small><sub>**BSB:**</sub></small>
-Do not drag me away with the wicked, and with the workers of iniquity, who speak peace to their neighbors while malice is in their hearts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.2|<< Psalm 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.28.4|Psalm 28:4 >>]]</td></tr></table>
 
 | Translation | Greek |

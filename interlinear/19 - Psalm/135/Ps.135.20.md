@@ -1,4 +1,4 @@
-**Psalms 135:20** 
+**Psalms 135:20**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bless the LORD, O house of Levi: ye that fear the LORD, bless the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ O house of Levi, bless the LORD; you who fear the LORD, bless the LORD!
 > $\quad$ referenced by: [[Rev.19.5|Rev 19:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O house of  |**<big>&#8207;[[H1004M\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H3878\|לֵּוִי]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> le.vi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

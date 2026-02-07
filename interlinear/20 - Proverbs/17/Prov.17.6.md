@@ -1,4 +1,4 @@
-**Proverbs 17:6** 
+**Proverbs 17:6**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Children’s children [are] the crown of old men; and the glory of children [are] their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Grandchildren are the crown of the aged, and the glory of a son is his father.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.5|<< Proverbs 17:5]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.7|Proverbs 17:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are the] crown of  |**<big>&#8207;[[H5850\|עֲטֶ֣רֶת]]&#8207; </big>**| 'a.Te.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | old [people]  |**<big>&#8207;[[H2205H\|זְ֭קֵנִים]]&#8207; </big>**| Ze.ke.nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

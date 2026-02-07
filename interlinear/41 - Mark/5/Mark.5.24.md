@@ -1,12 +1,12 @@
-**Mark 5:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:24**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And [Jesus] went with him; and much people followed him, and thronged him.
 <small><sub>**BSB:**</sub></small>
 So Jesus went with him, and a large crowd followed and pressed around Him.
 <small><sub>**Literal:**</sub></small>
 And He departed with him, And was following Him a crowd great and were pressing in on Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.23|<< Mark 5:23]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.25|Mark 5:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He departed |**<big>[[G0565\|ἀπῆλθεν]]</big>**  |apēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Leviticus 13:43** 
+**Leviticus 13:43**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall look upon it: and, behold, [if] the rising of the sore [be] white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest is to examine him, and if the swelling of the infection on his bald h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.42|<< Leviticus 13:42]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.44|Leviticus 13:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will see  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'Ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת֜]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 5:9** 
 <small><sub>**LXX:**</sub></small>
 And I lifted  my eyes, and I saw, and behold, two women going forth, and \[the\] wind \[was\] in  their wings, and these had wings as wings of \[the\] hoopoe \[bird\]; and they took up the measure \[basket\] between the earth and the heaven. 
-<small><sub>**KJV:**</sub></small>
-Then lifted I up mine eyes, and looked, and, behold, there came out two women, and the wind [was] in their wings; for they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven.
-<small><sub>**BSB:**</sub></small>
-Then I lifted up my eyes and saw two women approaching, with the wind in their wings. Their wings were like those of a stork, and they lifted up the basket between heaven and earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.8|<< Zechariah 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.10|Zechariah 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

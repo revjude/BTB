@@ -1,4 +1,4 @@
-**Nehemiah 8:3** 
+**Nehemiah 8:3**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he read therein before the street that [was] before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people [were attentive] unto the book of the law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ezra read it aloud from daybreak until noon as he faced the square before the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.2|<< Nehemiah 8:2]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.4|Nehemiah 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he read aloud  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121J\|יִּקְרָא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.ra'-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in it  |**<big>&#8207;[[H9003\|ב]]&#8207;&#8207;[[H9033\|וֹ֩]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

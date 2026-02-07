@@ -1,4 +1,4 @@
-**Leviticus 25:46** 
+**Leviticus 25:46**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall take them as an inheritance for your children after you, to inherit [them for] a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You may leave them to your sons after you to inherit as property; you can make t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.45|<< Leviticus 25:45]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.47|Leviticus 25:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will give as an inheritance  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5157\|הִתְנַחֲלְתֶּ֨ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.na.chal.Tem<small><sup>[[HVtq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֜]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

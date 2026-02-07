@@ -1,4 +1,4 @@
-**Isaiah 52:15** 
+**Isaiah 52:15**<big><big>[[Isa.52.13 The Servant Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall he sprinkle many nations; the kings shall shut their mouths at him: for [that] which had not been told them shall they see; and [that] which they had not heard shall they consider.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ so He will sprinkle many nations. Kings will shut their mouths because of Him. F
 > $\quad$ referenced by: [[Rom.15.21|Rom 15:21]] ☩ [[1Cor.2.9|1Cor 2:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so  |**<big>&#8207;[[H3651C\|כֵּ֤ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will startle  |**<big>&#8207;[[H5137B\|יַזֶּה֙]]&#8207; </big>**| ya.Zeh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

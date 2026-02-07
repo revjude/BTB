@@ -1,10 +1,7 @@
 **LXX Genesis 24:18** 
 <small><sub>**LXX:**</sub></small>
  And she said, Drink, O lord! And she hastened and lowered the water-pitcher upon  her arm, and gave him to drink until he ceased drinking. 
-<small><sub>**KJV:**</sub></small>
-And she said, Drink, my lord: and she hasted, and let down her pitcher upon her hand, and gave him drink.
-<small><sub>**BSB:**</sub></small>
-“Drink, my lord,” she replied, and she quickly lowered her jar to her hands and gave him a drink.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.17|<< Genesis 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.19|Genesis 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

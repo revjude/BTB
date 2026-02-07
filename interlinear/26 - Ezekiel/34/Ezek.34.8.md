@@ -1,4 +1,4 @@
-**Ezekiel 34:8** 
+**Ezekiel 34:8**<big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] I live, saith the Lord GOD, surely because my flock became a prey, and my flock became meat to every beast of the field, because [there was] no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@
 > $\quad$ related to: [[Ps.44.22|Ps 44:22]] ☩ [[Zech.11.7|Zech 11:7]] ☩ [[Luke.11.49|Luke 11:49-50]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [by] [the] life  |**<big>&#8207;[[H2416A\|חַי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chai-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of me  |**<big>&#8207;[[H0589\|אָ֜נִי]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

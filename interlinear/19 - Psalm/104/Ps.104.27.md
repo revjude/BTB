@@ -1,4 +1,4 @@
-**Psalms 104:27** 
+**Psalms 104:27**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These wait all upon thee; that thou mayest give [them] their meat in due season.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All creatures look to You to give them their food in due season.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.26|<< Psalms 104:26]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.28|Psalms 104:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of them  |**<big>&#8207;[[H3605\|כֻּ֭לָּ]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| Ku.lo<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵלֶ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

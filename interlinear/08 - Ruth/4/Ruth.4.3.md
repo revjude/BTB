@@ -1,4 +1,4 @@
-**Ruth 4:3** 
+**Ruth 4:3**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which [was] our brother Elimelech’s:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said to the kinsman-redeemer, “Naomi, who has returned from the land of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.2|<< Ruth 4:2]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.4|Ruth 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the kinsman redeemer  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1350A\|גֹּאֵ֔ל]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> go.'El<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

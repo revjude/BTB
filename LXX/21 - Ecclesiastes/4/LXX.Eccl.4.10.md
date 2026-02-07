@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 4:10** 
 <small><sub>**LXX:**</sub></small>
 For if they should fall, the one shall raise  his partner. But woe to him, to the one, whenever he should fall and there should not be a second  to raise him. 
-<small><sub>**KJV:**</sub></small>
-For if they fall, the one will lift up his fellow: but woe to him [that is] alone when he falleth; for [he hath] not another to help him up.
-<small><sub>**BSB:**</sub></small>
-For if one falls down, his companion can lift him up; but pity the one who falls without another to help him up!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.9|<< Ecclesiastes 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.11|Ecclesiastes 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

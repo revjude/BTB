@@ -1,10 +1,7 @@
 **LXX Isaiah 26:21** 
 <small><sub>**LXX:**</sub></small>
 For behold \[the\] <span class="smallcaps">lord</span> brings anger from the holy place upon the ones dwelling upon the earth; and the earth shall uncover  her blood, and shall not cover up the ones being done away with any more. 
-<small><sub>**KJV:**</sub></small>
-For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.
-<small><sub>**BSB:**</sub></small>
-For behold, the LORD is coming out of His dwelling to punish the inhabitants of the earth for their iniquity. The earth will reveal her bloodshed and will no longer conceal her slain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.26.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.20|<< Isaiah 26:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.1|Isaiah 27:1 >>]]</td></tr></table>
 
 | Translation | Greek |

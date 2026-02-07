@@ -1,10 +1,7 @@
 **LXX Joshua 1:17** 
 <small><sub>**LXX:**</sub></small>
 According to all as much as we hearkened to Moses, we will hearken to you. Furthermore \[the\] <span class="smallcaps">lord</span> our God be with you, in which manner he was with Moses! 
-<small><sub>**KJV:**</sub></small>
-According as we hearkened unto Moses in all things, so will we hearken unto thee: only the LORD thy God be with thee, as he was with Moses.
-<small><sub>**BSB:**</sub></small>
-Just as we obeyed Moses in all things, so we will obey you. And may the LORD your God be with you, as He was with Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.16|<< Joshua 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.18|Joshua 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

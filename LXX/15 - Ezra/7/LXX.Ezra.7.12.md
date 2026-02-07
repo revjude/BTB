@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Artaxerxes king of kings, to Ezra the priest, scribe of \[the\] law of the God  of heaven. \[the\] matter and the answer be initiated,. 
-<small><sub>**KJV:**</sub></small>
-Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect [peace], and at such a time.
-<small><sub>**BSB:**</sub></small>
-Artaxerxes, king of kings. To Ezra the priest, the scribe of the Law of the God of heaven: Greetings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.11|<< Ezra 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.13|Ezra 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

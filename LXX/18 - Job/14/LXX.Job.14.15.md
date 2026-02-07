@@ -1,10 +1,7 @@
 **LXX Job 14:15** 
 <small><sub>**LXX:**</sub></small>
 Then you shall call, and I will hearken to you; but the works  of your hands do not undo. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.
-<small><sub>**BSB:**</sub></small>
-You will call, and I will answer; You will desire the work of Your hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.14|<< Job 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.16|Job 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

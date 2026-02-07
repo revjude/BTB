@@ -1,4 +1,4 @@
-**Ezekiel 23:18** 
+**Ezekiel 23:18**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So she discovered her whoredoms, and discovered her nakedness: then my mind was alienated from her, like as my mind was alienated from her sister.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Oholibah openly prostituted herself and exposed her nakedness, I turned awa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.17|<< Ezekiel 23:17]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.19|Ezekiel 23:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she uncovered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1540I\|תְּגַל֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Gal<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prostitution\<s> her  |**<big>&#8207;[[H8457\|תַּזְנוּתֶ֔י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| taz.nu.Tei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

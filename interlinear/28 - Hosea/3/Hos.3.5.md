@@ -1,4 +1,4 @@
-**Hosea 3:5** 
+**Hosea 3:5**<big><big>[[Hos.3.1 Hosea Redeems His Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Afterward, the people of Israel will return and seek the LORD their God and Davi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.3.4|<< Hosea 3:4]]</td><td align="center" style="border:none;">[[Hos.3|Hosea 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.1|Hosea 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after  |**<big>&#8207;[[H0310A\|אַחַ֗ר]]&#8207; </big>**| 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will return  |**<big>&#8207;[[H7725G\|יָשֻׁ֙בוּ֙]]&#8207; </big>**| ya.Shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

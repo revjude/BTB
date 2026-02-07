@@ -1,10 +1,7 @@
 **LXX Exodus 21:22** 
 <small><sub>**LXX:**</sub></small>
 And if two men should do combat, and should strike a woman having one in \[the\] womb, and should come forth  her child not completely formed, with a fine he shall be penalized, in so far as the husband of the woman should put upon \[him\], and he shall give by means of what is fit. 
-<small><sub>**KJV:**</sub></small>
-If men strive, and hurt a woman with child, so that her fruit depart [from her], and yet no mischief follow: he shall be surely punished, according as the woman’s husband will lay upon him; and he shall pay as the judges [determine].
-<small><sub>**BSB:**</sub></small>
-If men who are fighting strike a pregnant woman and her child is born prematurely, but there is no further injury, he shall surely be fined as the woman’s husband demands and as the court allows.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.21|<< Exodus 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.23|Exodus 21:23 >>]]</td></tr></table>
 
 | Translation | Greek |

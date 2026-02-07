@@ -1,10 +1,7 @@
 **LXX Psalm 7:9** 
 <small><sub>**LXX:**</sub></small>
 Finish off entirely indeed \[the\] wickedness of sinners! And you shall straighten \[the\] just, examining hearts and kidneys, O God, justly. 
-<small><sub>**KJV:**</sub></small>
-Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.
-<small><sub>**BSB:**</sub></small>
-Put an end to the evil of the wicked, but establish the righteous, O righteous God who searches hearts and minds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.8|<< Psalm 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.10|Psalm 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

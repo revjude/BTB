@@ -1,12 +1,12 @@
-**Mark 12:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:2**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard.
 <small><sub>**BSB:**</sub></small>
 At harvest time, he sent a servant to the tenants to collect his share of the fruit of the vineyard.
 <small><sub>**Literal:**</sub></small>
 And he sent to the farmers at the due time a servant that from the farmers he may receive from the fruits of the vineyard.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.1|<< Mark 12:1]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.3|Mark 12:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he sent |**<big>[[G0649\|ἀπέστειλεν]]</big>**  |apesteilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

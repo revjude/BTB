@@ -1,4 +1,4 @@
-**Isaiah 3:13** 
+**Isaiah 3:13**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD standeth up to plead, and standeth to judge the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD arises to contend; He stands to judge the people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.12|<< Isaiah 3:12]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.14|Isaiah 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] taking his stand  |**<big>&#8207;[[H5324\|נִצָּ֥ב]]&#8207; </big>**| ni.Tzav<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to conduct a case  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7378\|רִ֖יב]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Riv<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

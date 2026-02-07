@@ -1,10 +1,7 @@
 **LXX Haggai 2:13** 
 <small><sub>**LXX:**</sub></small>
 And Haggai said, If one being defiled should touch upon a \[dead\] soul of any of these, shall he be defiled? And the priests answered and said, He shall be defiled. 
-<small><sub>**KJV:**</sub></small>
-Then said Haggai, If [one that is] unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean.
-<small><sub>**BSB:**</sub></small>
-So Haggai asked, “If one who is defiled by contact with a corpse touches any of these, does it become defiled?” “Yes, it becomes defiled,” the priests answered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.12|<< Haggai 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.14|Haggai 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

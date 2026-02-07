@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:14** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span> almighty, the God of Israel, Take the scroll  of this possession! even \[this\] scroll  being sealed and being read. And you shall put \[it\] into an earthenware receptacle, that it should remain many more days. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, the God of Israel; Take these evidences, this evidence of the purchase, both which is sealed, and this evidence which is open; and put them in an earthen vessel, that they may continue many days.
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD of Hosts, the God of Israel, says: Take these deeds—both the sealed copy and the open copy of the deed of purchase—and put them in a clay jar to preserve them for a long time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.13|<< Jeremiah 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.15|Jeremiah 32:15 >>]]</td></tr></table>
 
 | Translation | Greek |

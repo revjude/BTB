@@ -1,10 +1,7 @@
 **LXX Genesis 41:52** 
 <small><sub>**LXX:**</sub></small>
 And the name of the second he called, Ephraim, for God increased me in \[the\] land of my humiliation. 
-<small><sub>**KJV:**</sub></small>
-And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.
-<small><sub>**BSB:**</sub></small>
-And the second son he named Ephraim, saying, “God has made me fruitful in the land of my affliction.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.51|<< Genesis 41:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.53|Genesis 41:53 >>]]</td></tr></table>
 
 | Translation | Greek |

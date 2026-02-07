@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:12** 
 <small><sub>**LXX:**</sub></small>
 And they shall come and shall be glad in  mount Zion. And they shall come upon \[the\] good \[things\] of \[the\] <span class="smallcaps">lord</span>, upon a land of grain, and wine, and olive oil, and fruits, and cattle, and sheep. And their soul shall be as \[the\] tree containing fruit. And they shall not hunger any longer. 
-<small><sub>**KJV:**</sub></small>
-Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the LORD, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all.
-<small><sub>**BSB:**</sub></small>
-They will come and shout for joy on the heights of Zion; they will be radiant over the bounty of the LORD—the grain, new wine, and oil, and the young of the flocks and herds. Their life will be like a well-watered garden, and never again will they languish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.11|<< Jeremiah 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.13|Jeremiah 31:13 >>]]</td></tr></table>
 
 | Translation | Greek |

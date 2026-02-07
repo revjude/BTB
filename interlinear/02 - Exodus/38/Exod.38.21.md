@@ -1,4 +1,4 @@
-**Exodus 38:21** 
+**Exodus 38:21**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This is the sum of the tabernacle, [even] of the tabernacle of testimony, as it was counted, according to the commandment of Moses, [for] the service of the Levites, by the hand of Ithamar, son to Aaron the priest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the inventory for the tabernacle, the tabernacle of the Testimony, as re
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.20|<< Exodus 38:20]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.22|Exodus 38:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] expenses of  |**<big>&#8207;[[H6485B\|פְקוּדֵ֤י]]&#8207; </big>**| fe.ku.Dei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

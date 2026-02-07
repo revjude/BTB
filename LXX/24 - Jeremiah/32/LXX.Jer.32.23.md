@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:23** 
 <small><sub>**LXX:**</sub></small>
 And they entered and took it. And they hearkened not to  your voice, and they did not go by your orders. All which you charged to them, they did not do. And they caused all these bad \[things\] to come to pass to them. 
-<small><sub>**KJV:**</sub></small>
-And they came in, and possessed it; but they obeyed not thy voice, neither walked in thy law; they have done nothing of all that thou commandedst them to do: therefore thou hast caused all this evil to come upon them:
-<small><sub>**BSB:**</sub></small>
-They came in and possessed it, but they did not obey Your voice or walk in Your law. They failed to perform all that You commanded them to do, and so You have brought upon them all this disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.22|<< Jeremiah 32:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.24|Jeremiah 32:24 >>]]</td></tr></table>
 
 | Translation | Greek |

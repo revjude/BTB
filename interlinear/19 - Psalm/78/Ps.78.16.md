@@ -1,4 +1,4 @@
-**Psalms 78:16** 
+**Psalms 78:16**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He brought streams also out of the rock, and caused waters to run down like rivers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He brought streams from the stone and made water flow down like rivers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.15|<< Psalms 78:15]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.17|Psalms 78:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318L\|יּוֹצִ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tzi'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | streams  |**<big>&#8207;[[H5140\|נוֹזְלִ֣ים]]&#8207; </big>**| noz.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

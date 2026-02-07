@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:34** 
 <small><sub>**LXX:**</sub></small>
 And became in you a perverseness beyond the \[other\] women in the harlotry of your harlotry, and with you, which they shall commit harlotry. For in wages in addition, (and wages were not given to you,) a perverseness has taken place in you. 
-<small><sub>**KJV:**</sub></small>
-And the contrary is in thee from [other] women in thy whoredoms, whereas none followeth thee to commit whoredoms: and in that thou givest a reward, and no reward is given unto thee, therefore thou art contrary.
-<small><sub>**BSB:**</sub></small>
-So your prostitution is the opposite of that of other women: No one solicited your favors, and you paid a fee instead of receiving one; so you are the very opposite!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.33|<< Ezekiel 16:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.35|Ezekiel 16:35 >>]]</td></tr></table>
 
 | Translation | Greek |

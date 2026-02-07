@@ -1,12 +1,12 @@
-**John 19:2
-**<small><sub>**KJV:**</sub></small>
+**John 19:2**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the soldiers platted a crown of thorns, and put [it] on his head, and they put on him a purple robe,
 <small><sub>**BSB:**</sub></small>
 The soldiers twisted together a crown of thorns, set it on His head, and dressed Him in a purple robe.
 <small><sub>**Literal:**</sub></small>
 And the soldiers having twisted together a crown of thorns put [it] of Him on the head and a robe purple cast around Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.1|<< John 19:1]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.3|John 19:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 17:7** 
+**Jeremiah 17:7**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the man that trusteth in the LORD, and whose hope the LORD is.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But blessed is the man who trusts in the LORD, whose confidence is in Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.6|<< Jeremiah 17:6]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.8|Jeremiah 17:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] blessed  |**<big>&#8207;[[H1288\|בָּר֣וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1397\|גֶּ֔בֶר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

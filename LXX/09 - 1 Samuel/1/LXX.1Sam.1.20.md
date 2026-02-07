@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the time of the days, that Hannah bore a son, and she called  his name Samuel, saying that, From \[the\] <span class="smallcaps">lord</span> almighty I asked him. 
-<small><sub>**KJV:**</sub></small>
-Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, [saying], Because I have asked him of the LORD.
-<small><sub>**BSB:**</sub></small>
-So in the course of time, Hannah conceived and gave birth to a son. She named him Samuel, saying, “Because I have asked for him from the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.19|<< 1 Samuel 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.21|1 Samuel 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

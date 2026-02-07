@@ -1,10 +1,7 @@
 **LXX Exodus 12:39** 
 <small><sub>**LXX:**</sub></small>
 And they baked the dough which they brought from out of Egypt -- unleavened cakes baked in hot ashes. For it was not leavened, because the Egyptians out them, and they were not able to remain, nor to prepare provisions for themselves for the journey. 
-<small><sub>**KJV:**</sub></small>
-And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.
-<small><sub>**BSB:**</sub></small>
-Since their dough had no leaven, the people baked what they had brought out of Egypt into unleavened loaves. For when they had been driven out of Egypt, they could not delay and had not prepared any provisions for themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.38|<< Exodus 12:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.40|Exodus 12:40 >>]]</td></tr></table>
 
 | Translation | Greek |

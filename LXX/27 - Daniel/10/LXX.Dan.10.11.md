@@ -1,10 +1,7 @@
 **LXX Daniel 10:11** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, Daniel, man desired; perceive by the words which I speak to you, and stand at  your position! for now I am sent to you. And in  his speaking to me  this word, I rose up trembling. 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent. And when he had spoken this word unto me, I stood trembling.
-<small><sub>**BSB:**</sub></small>
-He said to me, “Daniel, you are a man who is highly precious. Consider carefully the words that I am about to say to you. Stand up, for I have now been sent to you.” And when he had said this to me, I stood up trembling.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.10|<< Daniel 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.12|Daniel 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

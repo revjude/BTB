@@ -1,4 +1,4 @@
-**Genesis 2:17** 
+**Genesis 2:17**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but you must not eat from the tree of the knowledge of good and evil; for in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.16|<< Genesis 2:16]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.18|Genesis 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] tree of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6086H\|עֵ֗ץ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'Etz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the knowledge  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1847\|דַּ֙עַת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Da.'at<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

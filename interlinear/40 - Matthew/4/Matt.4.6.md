@@ -1,5 +1,5 @@
-**Matthew 4:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:6**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in [their] hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
 <small><sub>**BSB:**</sub></small>
 “If You are the Son of God,” he said, “throw Yourself down. For it is written: ‘He will command His angels concerning You, and they will lift You up in their hands, so that You will not strike Your foot against a stone.’”
@@ -10,7 +10,7 @@ and says to him; If Son You are <the> of God, do throw Yourself down; it has bee
 > $\quad$ referencing: [[LXX.Ps.91.11|Ps 91:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

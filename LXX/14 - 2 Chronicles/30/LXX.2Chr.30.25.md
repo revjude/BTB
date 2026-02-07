@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:25** 
 <small><sub>**LXX:**</sub></small>
 And all the assembly of Judah was glad, and the priests, and the Levites, and all the assembly  coming from Israel, and the foreigners  coming from \[the\] land of Israel, and the ones dwelling Judah. 
-<small><sub>**KJV:**</sub></small>
-And all the congregation of Judah, with the priests and the Levites, and all the congregation that came out of Israel, and the strangers that came out of the land of Israel, and that dwelt in Judah, rejoiced.
-<small><sub>**BSB:**</sub></small>
-Then the whole assembly of Judah rejoiced along with the priests and Levites and the whole assembly that had come from Israel, including the foreigners who had come from Israel and those who lived in Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.24|<< 2 Chronicles 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.26|2 Chronicles 30:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Colossians 4:17
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:17**<big><big>[[Col.4.15 Signature and Final Instructions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.
 <small><sub>**BSB:**</sub></small>
 Tell Archippus: “See to it that you complete the ministry you have received in the Lord.”
 <small><sub>**Literal:**</sub></small>
 And do say to Archippus; do take heed to the ministry that you have received in [the] Lord, that it you may fulfill.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.16|<< Colossians 4:16]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.18|Colossians 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do say |**<big>[[G2036\|εἴπατε]]</big>**  |eipate <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

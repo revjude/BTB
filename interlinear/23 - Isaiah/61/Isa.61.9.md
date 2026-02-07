@@ -1,4 +1,4 @@
-**Isaiah 61:9** 
+**Isaiah 61:9**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they [are] the seed [which] the LORD hath blessed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their descendants will be known among the nations, and their offspring among the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.8|<< Isaiah 61:8]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.10|Isaiah 61:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be known  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|נוֹדַ֤ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> no.Da'<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the nations  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1471A\|גּוֹיִם֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

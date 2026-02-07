@@ -1,12 +1,12 @@
-**Matthew 25:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:7**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then all those virgins arose, and trimmed their lamps.
 <small><sub>**BSB:**</sub></small>
 Then all the virgins woke up and trimmed their lamps.
 <small><sub>**Literal:**</sub></small>
 Then arose all the virgins those and trimmed the lamps their own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.6|<< Matthew 25:6]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.8|Matthew 25:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | arose |**<big>[[G1453\|ἠγέρθησαν]]</big>**  |ēgerthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

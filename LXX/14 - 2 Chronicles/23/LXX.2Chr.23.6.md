@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:6** 
 <small><sub>**LXX:**</sub></small>
 And let no one enter into \[the\] house of \[the\] <span class="smallcaps">lord</span>, except the priests and the Levites, and the ones officiating to the Levites! They shall enter, for they are holy. And all the people let guard the watches of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall go in, for they [are] holy: but all the people shall keep the watch of the LORD.
-<small><sub>**BSB:**</sub></small>
-No one is to enter the house of the LORD except the priests and those Levites who serve; they may enter because they are consecrated, but all the people are to obey the requirement of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.5|<< 2 Chronicles 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.7|2 Chronicles 23:7 >>]]</td></tr></table>
 
 | Translation | Greek |

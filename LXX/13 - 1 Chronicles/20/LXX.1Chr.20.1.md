@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the year going out, in the exiting of the kings \[for war\], that Joab led all the force of the military, and ruined the place of \[the\] sons of Ammon, and came and besieged  Rabbah. And David settled in Jerusalem. And Joab struck  Rabbah, and razed it. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that after the year was expired, at the time that kings go out [to battle], Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.
-<small><sub>**BSB:**</sub></small>
-In the spring, at the time when kings march out to war, Joab led out the army and ravaged the land of the Ammonites. He came to Rabbah and besieged it, but David remained in Jerusalem. And Joab attacked Rabbah and demolished it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.19|<< 1 Chronicles 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.20.2|1 Chronicles 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

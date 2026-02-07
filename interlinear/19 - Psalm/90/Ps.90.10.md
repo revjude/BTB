@@ -1,4 +1,4 @@
-**Psalms 90:10** 
+**Psalms 90:10**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The days of our years [are] threescore years and ten; and if by reason of strength [they be] fourscore years, yet [is] their strength labour and sorrow; for it is soon cut off, and we fly away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The length of our days is seventy years—or eighty if we are strong—yet their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.9|<< Psalms 90:9]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.11|Psalms 90:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] days of  |**<big>&#8207;[[H3117I\|יְמֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.mei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years our  |**<big>&#8207;[[H8141\|שְׁנוֹתֵ֨י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| she.no.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 11:10** 
+**2 Chronicles 11:10**<big><big>[[2Chr.11.5 Rehoboam Fortifies Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zorah, and Aijalon, and Hebron, which [are] in Judah and in Benjamin fenced cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zorah, Aijalon, and Hebron, the fortified cities in Judah and Benjamin.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.9|<< 2 Chronicles 11:9]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.11|2 Chronicles 11:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zorah  |**<big>&#8207;[[H6881\|צָרְעָה֙]]&#8207; </big>**| tza.re.'Ah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

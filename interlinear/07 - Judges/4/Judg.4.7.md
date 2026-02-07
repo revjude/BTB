@@ -1,4 +1,4 @@
-**Judges 4:7** 
+**Judges 4:7**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will draw out Sisera the commander of Jabin’s army, his chariots, and hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.6|<< Judges 4:6]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.8|Judges 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will draw  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4900\|מָשַׁכְתִּ֨י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.shakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֵלֶ֜י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

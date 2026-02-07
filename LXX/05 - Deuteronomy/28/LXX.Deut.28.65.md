@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:65** 
 <small><sub>**LXX:**</sub></small>
 But also in  those nations he will not rest you, nor in any way the sole of your foot become stationary. And \[the\] <span class="smallcaps">lord</span> will give to you there another heart being depressed, and failing eyes, and a melting soul. 
-<small><sub>**KJV:**</sub></small>
-And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the LORD shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:
-<small><sub>**BSB:**</sub></small>
-Among those nations you will find no repose, not even a resting place for the sole of your foot. There the LORD will give you a trembling heart, failing eyes, and a despairing soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.64|<< Deuteronomy 28:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.66|Deuteronomy 28:66 >>]]</td></tr></table>
 
 | Translation | Greek |

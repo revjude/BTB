@@ -1,10 +1,7 @@
 **LXX Psalm 85:9** 
 <small><sub>**LXX:**</sub></small>
 Moreover his deliverance \[is\] near the ones fearing him; so that \[his\] glory may encamp in  our land. 
-<small><sub>**KJV:**</sub></small>
-Surely his salvation [is] nigh them that fear him; that glory may dwell in our land.
-<small><sub>**BSB:**</sub></small>
-Surely His salvation is near to those who fear Him, that His glory may dwell in our land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.85.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.8|<< Psalm 85:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.10|Psalm 85:10 >>]]</td></tr></table>
 
 | Translation | Greek |

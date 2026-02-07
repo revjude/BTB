@@ -1,12 +1,12 @@
-**Luke 2:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:25**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, there was a man in Jerusalem, whose name [was] Simeon; and the same man [was] just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.
 <small><sub>**BSB:**</sub></small>
 Now there was a man in Jerusalem named Simeon, who was righteous and devout. He was waiting for the consolation of Israel, and the Holy Spirit was upon him.
 <small><sub>**Literal:**</sub></small>
 And behold a man there was in Jerusalem whose name [was] Simeon and <the> man this [was] righteous and devout waiting for [the] consolation <the> of Israel; and [the] Spirit was Holy upon him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.24|<< Luke 2:24]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.26|Luke 2:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

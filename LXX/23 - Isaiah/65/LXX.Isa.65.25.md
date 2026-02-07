@@ -1,10 +1,7 @@
 **LXX Isaiah 65:25** 
 <small><sub>**LXX:**</sub></small>
 Then wolves and lambs shall graze together; and \[the\] lion shall eat straw as an ox; and \[the\] serpent \[shall eat of the\] earth as bread; they shall not do wrong nor lay waste upon  my holy mountain, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust [shall be] the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-The wolf and the lamb will feed together, and the lion will eat straw like the ox, but the food of the serpent will be dust. They will neither harm nor destroy on all My holy mountain,” says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.24|<< Isaiah 65:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.1|Isaiah 66:1 >>]]</td></tr></table>
 
 | Translation | Greek |

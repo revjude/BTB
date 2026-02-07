@@ -1,4 +1,4 @@
-**Genesis 35:23** 
+**Genesis 35:23**<big><big>[[Gen.35.21 The Sons of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Leah; Reuben, Jacob’s firstborn, and Simeon, and Levi, and Judah, and Issachar, and Zebulun:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Leah were Reuben the firstborn of Jacob, Simeon, Levi, Judah, Issach
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.22|<< Genesis 35:22]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.24|Genesis 35:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Leah  |**<big>&#8207;[[H3812\|לֵאָ֔ה]]&#8207; </big>**| le.'Ah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

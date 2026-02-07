@@ -1,10 +1,7 @@
 **LXX Numbers 34:5** 
 <small><sub>**LXX:**</sub></small>
 And it shall encircle the borders from Azmon \[to the\] rushing stream of Egypt, and the outer reaches will be the sea. 
-<small><sub>**KJV:**</sub></small>
-And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.
-<small><sub>**BSB:**</sub></small>
-where it will turn from Azmon, join the Brook of Egypt, and end at the Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.4|<< Numbers 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.6|Numbers 34:6 >>]]</td></tr></table>
 
 | Translation | Greek |

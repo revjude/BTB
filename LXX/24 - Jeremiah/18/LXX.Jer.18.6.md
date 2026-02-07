@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:6** 
 <small><sub>**LXX:**</sub></small>
 Shall as  this potter I not be able  to make you, O house of Israel, says \[the\] <span class="smallcaps">lord</span>? Behold, as the mortar in the hand of the potter, \[so\] are you in  my hands, O house of Israel. 
-<small><sub>**KJV:**</sub></small>
-O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay [is] in the potter’s hand, so [are] ye in mine hand, O house of Israel.
-<small><sub>**BSB:**</sub></small>
-“O house of Israel, declares the LORD, can I not treat you as this potter treats his clay? Just like clay in the potter’s hand, so are you in My hand, O house of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.5|<< Jeremiah 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.7|Jeremiah 18:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 18:6** is...

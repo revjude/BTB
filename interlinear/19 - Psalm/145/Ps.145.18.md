@@ -1,4 +1,4 @@
-**Psalms 145:18** 
+**Psalms 145:18**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] nigh unto all them that call upon him, to all that call upon him in truth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD is near to all who call on Him, to all who call out to Him in truth.
 > $\quad$ referenced by: [[Phil.4.5|Phil 4:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] near  |**<big>&#8207;[[H7138\|קָר֣וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

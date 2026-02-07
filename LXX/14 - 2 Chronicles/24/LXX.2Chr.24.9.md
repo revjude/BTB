@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:9** 
 <small><sub>**LXX:**</sub></small>
 And let them proclaim in Judah and in Jerusalem, to carry in to the <span class="smallcaps">lord</span> as Moses \[the\] servant of God said unto  Israel in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And they made a proclamation through Judah and Jerusalem, to bring in to the LORD the collection [that] Moses the servant of God [laid] upon Israel in the wilderness.
-<small><sub>**BSB:**</sub></small>
-And a proclamation was issued in Judah and Jerusalem that they were to bring to the LORD the tax imposed by Moses the servant of God on Israel in the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.8|<< 2 Chronicles 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.10|2 Chronicles 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

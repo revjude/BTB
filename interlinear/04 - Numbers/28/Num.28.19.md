@@ -1,4 +1,4 @@
-**Numbers 28:19** 
+**Numbers 28:19**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye shall offer a sacrifice made by fire [for] a burnt offering unto the LORD; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Present to the LORD a food offering, a burnt offering of two young bulls, one ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.18|<< Numbers 28:18]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.20|Numbers 28:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will bring near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126H\|הִקְרַבְתֶּ֨ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.rav.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fire offering  |**<big>&#8207;[[H0801\|אִשֶּׁ֤ה]]&#8207; </big>**| 'i.Sheh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

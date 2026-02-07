@@ -1,12 +1,12 @@
-**Revelation 13:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:15**<big><big>[[Rev.13.11 The Beast from the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
 <small><sub>**BSB:**</sub></small>
 The second beast was permitted to give breath to the image of the first beast, so that the image could speak and cause all who refused to worship it to be killed.
 <small><sub>**Literal:**</sub></small>
 And there was given to it to give breath to the image of the beast so that also may speak the image of the beast, and may cause that as many as might not shall worship the image of the beast shall be killed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.14|<< Revelation 13:14]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.16|Revelation 13:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there was given |**<big>[[G1325\|ἐδόθη]]</big>**  |edothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

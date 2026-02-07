@@ -1,10 +1,7 @@
 **LXX Joel 3:19** 
 <small><sub>**LXX:**</sub></small>
 Egypt will be for extinction, and  Edom for a plain of extinction, because of iniquities of \[the\] sons of Judah, because they poured out blood of \[the\] just in  their land. 
-<small><sub>**KJV:**</sub></small>
-Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence [against] the children of Judah, because they have shed innocent blood in their land.
-<small><sub>**BSB:**</sub></small>
-Egypt will become desolate, and Edom a desert wasteland, because of the violence done to the people of Judah, in whose land they shed innocent blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.18|<< Joel 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.20|Joel 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 41:19** 
+**Ezekiel 41:19**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that the face of a man [was] toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: [it was] made through all the house round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the face of a man was toward the palm tree on one side, and the face of a young 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.18|<< Ezekiel 41:18]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.20|Ezekiel 41:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] face of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6440H\|פְנֵ֨י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a human  |**<big>&#8207;[[H0120G\|אָדָ֤ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

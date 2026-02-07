@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:11** 
 <small><sub>**LXX:**</sub></small>
 Sons of Arvad, and  your force \[were\] upon  your walls round about. But also Medes in  your towers were guards.  They hung their quivers upon  your moorings, round about these they perfected your  beauty. 
-<small><sub>**KJV:**</sub></small>
-The men of Arvad with thine army [were] upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect.
-<small><sub>**BSB:**</sub></small>
-Men of Arvad and Helech manned your walls all around, and the men of Gammad were in your towers. They hung their shields around your walls; they perfected your beauty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.10|<< Ezekiel 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.12|Ezekiel 27:12 >>]]</td></tr></table>
 
 | Translation | Greek |

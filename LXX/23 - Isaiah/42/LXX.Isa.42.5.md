@@ -1,10 +1,7 @@
 **LXX Isaiah 42:5** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>  God, the one making the heaven, and pitching it; solidifying the earth, and the \[things\] in it; and giving breath to the people  upon it, and spirit to the ones treading it. 
-<small><sub>**KJV:**</sub></small>
-Thus saith God the LORD, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:
-<small><sub>**BSB:**</sub></small>
-This is what God the LORD says—He who created the heavens and stretched them out, who spread out the earth and its offspring, who gives breath to the people on it and life to those who walk in it:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.4|<< Isaiah 42:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.6|Isaiah 42:6 >>]]</td></tr></table>
 
 | Translation | Greek |

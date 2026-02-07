@@ -1,4 +1,4 @@
-**Song of Solomon 4:3** 
+**Song of Solomon 4:3**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy lips [are] like a thread of scarlet, and thy speech [is] comely: thy temples [are] like a piece of a pomegranate within thy locks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your lips are like a scarlet ribbon, and your mouth is lovely. Your brow behind 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.2|<< Song of Solomon 4:2]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.4|Song of Solomon 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] like [the] thread of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H2339\|ח֤וּט]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Chut<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> scarlet  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8144\|שָּׁנִי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ni<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

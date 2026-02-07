@@ -1,12 +1,12 @@
-**Matthew 3:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:1**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In those days came John the Baptist, preaching in the wilderness of Judaea,
 <small><sub>**BSB:**</sub></small>
 In those days John the Baptist came, preaching in the wilderness of Judea
 <small><sub>**Literal:**</sub></small>
 In then the days those comes John the Baptist preaching in the wilderness <the> of Judea<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.23|<< Matthew 2:23]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.2|Matthew 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

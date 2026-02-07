@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:34** 
 <small><sub>**LXX:**</sub></small>
 And the rate always given to him by the king of Babylon \[continued\] from day to day until \[the\] day of which he died. 
-<small><sub>**KJV:**</sub></small>
-And [for] his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life.
-<small><sub>**BSB:**</sub></small>
-And the king of Babylon provided Jehoiachin a daily portion for the rest of his life, until the day of his death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.33|<< Jeremiah 52:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.1|Lamentations 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

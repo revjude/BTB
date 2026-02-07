@@ -1,10 +1,7 @@
 **LXX Leviticus 18:4** 
 <small><sub>**LXX:**</sub></small>
  My judgments you shall execute, and  my orders you shall keep, and you shall go by them. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Ye shall do my judgments, and keep mine ordinances, to walk therein: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-You are to practice My judgments and keep My statutes by walking in them. I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.3|<< Leviticus 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.5|Leviticus 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

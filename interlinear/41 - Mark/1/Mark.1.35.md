@@ -1,12 +1,12 @@
-**Mark 1:35
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:35**<big><big>[[Mark.1.35 Jesus Prays and Preaches|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.
 <small><sub>**BSB:**</sub></small>
 Early in the morning, while it was still dark, Jesus got up and went out to a solitary place to pray.
 <small><sub>**Literal:**</sub></small>
 And very early in night still much having risen up He went out and He departed into solitary a place and there He was praying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.34|<< Mark 1:34]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.36|Mark 1:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | very early |**<big>[[G4404\|πρωῒ]]</big>**  |prōi <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

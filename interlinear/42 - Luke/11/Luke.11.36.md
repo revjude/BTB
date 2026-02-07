@@ -1,12 +1,12 @@
-**Luke 11:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:36**<big><big>[[Luke.11.33 The Lamp of the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If thy whole body therefore [be] full of light, having no part dark, the whole shall be full of light, as when the bright shining of a candle doth give thee light.
 <small><sub>**BSB:**</sub></small>
 So if your whole body is full of light, with no part of it in darkness, you will be radiant, as though a lamp were shining on you.”
 <small><sub>**Literal:**</sub></small>
 If therefore the body of you [is] full of light not having part any dark, it will be light all, as when the lamp so the shining may light you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.35|<< Luke 11:35]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.37|Luke 11:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

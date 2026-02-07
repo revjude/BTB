@@ -1,10 +1,7 @@
 **LXX Joshua 19:41** 
 <small><sub>**LXX:**</sub></small>
 And the borders of their inheritance was Zorah, and Eshtaol, city Shemesh, 
-<small><sub>**KJV:**</sub></small>
-And the coast of their inheritance was Zorah, and Eshtaol, and Irshemesh,
-<small><sub>**BSB:**</sub></small>
-The territory of their inheritance included Zorah, Eshtaol, Ir-shemesh,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.40|<< Joshua 19:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.42|Joshua 19:42 >>]]</td></tr></table>
 
 | Translation | Greek |

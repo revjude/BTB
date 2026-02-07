@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:20** 
 <small><sub>**LXX:**</sub></small>
 A choice ornament for pride -- they made them; and images  of their abominations they made from them. Because of this I have given them to them for uncleanness. 
-<small><sub>**KJV:**</sub></small>
-As for the beauty of his ornament, he set it in majesty: but they made the images of their abominations [and] of their detestable things therein: therefore have I set it far from them.
-<small><sub>**BSB:**</sub></small>
-His beautiful ornaments they transformed into pride and used them to fashion their vile images and detestable idols. Therefore I will make these into something unclean for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.19|<< Ezekiel 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.21|Ezekiel 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

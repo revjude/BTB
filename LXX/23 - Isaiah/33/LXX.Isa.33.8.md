@@ -1,10 +1,7 @@
 **LXX Isaiah 33:8** 
 <small><sub>**LXX:**</sub></small>
 For the ways of these shall be made desolate. \[Your\] fear of the nations has been made to cease, and the covenant is lifted away, and in no way shall you consider them men. 
-<small><sub>**KJV:**</sub></small>
-The highways lie waste, the wayfaring man ceaseth: he hath broken the covenant, he hath despised the cities, he regardeth no man.
-<small><sub>**BSB:**</sub></small>
-The highways are deserted; travel has ceased. The treaty has been broken, the witnesses are despised, and human life is disregarded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.7|<< Isaiah 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.9|Isaiah 33:9 >>]]</td></tr></table>
 
 | Translation | Greek |

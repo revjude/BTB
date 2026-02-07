@@ -1,4 +1,4 @@
-**Isaiah 17:12** 
+**Isaiah 17:12**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to the multitude of many people, [which] make a noise like the noise of the seas; and to the rushing of nations, [that] make a rushing like the rushing of mighty waters!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Alas, the tumult of many peoples; they rage like the roaring seas and clamoring 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.11|<< Isaiah 17:11]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.13|Isaiah 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֗וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tumult of  |**<big>&#8207;[[H1995A\|הֲמוֹן֙]]&#8207; </big>**| ha.mOn<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

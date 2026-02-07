@@ -1,10 +1,7 @@
 **LXX Numbers 13:26** 
 <small><sub>**LXX:**</sub></small>
 And having gone, they came to Moses and Aaron, and to all \[the\] congregation of \[the\] sons of Israel, to the wilderness of Paran Kadesh. And they answered to them a word, and to all \[the\] congregation. And they showed the fruit of the land. 
-<small><sub>**KJV:**</sub></small>
-And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.
-<small><sub>**BSB:**</sub></small>
-and they went back to Moses, Aaron, and the whole congregation of Israel in the Wilderness of Paran at Kadesh. They brought back a report for the whole congregation and showed them the fruit of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.25|<< Numbers 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.27|Numbers 13:27 >>]]</td></tr></table>
 
 | Translation | Greek |

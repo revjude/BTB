@@ -1,4 +1,4 @@
-**Genesis 47:22** 
+**Genesis 47:22**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only the land of the priests bought he not; for the priests had a portion [assigned them] of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ However, he did not acquire the priests’ portion of the land, for it had been 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.21|<< Genesis 47:21]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.23|Genesis 47:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֛ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] land of  |**<big>&#8207;[[H0127G\|אַדְמַ֥ת]]&#8207; </big>**| 'ad.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

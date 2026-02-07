@@ -1,4 +1,4 @@
-**Ruth 2:18** 
+**Ruth 2:18**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she took [it] up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She picked up the grain and went into the town, where her mother-in-law saw what
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.17|<< Ruth 2:17]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.19|Ruth 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she lifted [it] up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375H\|תִּשָּׂא֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Sa'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּב֣וֹא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

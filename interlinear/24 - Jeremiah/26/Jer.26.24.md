@@ -1,4 +1,4 @@
-**Jeremiah 26:24** 
+**Jeremiah 26:24**<big><big>[[Jer.26.20 The Prophet Uriah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, Ahikam son of Shaphan supported Jeremiah, so he was not handed ove
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.23|<< Jeremiah 26:23]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.1|Jeremiah 27:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַ֗ךְ]]&#8207; </big>**| 'Akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hand of  |**<big>&#8207;[[H3027G\|יַ֚ד]]&#8207; </big>**| yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

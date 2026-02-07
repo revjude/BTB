@@ -1,10 +1,7 @@
 **LXX Psalm 10:14** 
 <small><sub>**LXX:**</sub></small>
 For you see. You contemplate misery and rage  to deliver him into your hands. The poor have been abandoned to you, to \[the\] orphan you were a helper. 
-<small><sub>**KJV:**</sub></small>
-Thou hast seen [it]; for thou beholdest mischief and spite, to requite [it] with thy hand: the poor committeth himself unto thee; thou art the helper of the fatherless.
-<small><sub>**BSB:**</sub></small>
-But You have regarded trouble and grief; You see to repay it by Your hand. The victim entrusts himself to You; You are the helper of the fatherless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.13|<< Psalm 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.15|Psalm 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

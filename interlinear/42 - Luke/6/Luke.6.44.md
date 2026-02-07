@@ -1,12 +1,12 @@
-**Luke 6:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:44**<big><big>[[Luke.6.43 A Tree and Its Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes.
 <small><sub>**BSB:**</sub></small>
 For each tree is known by its own fruit. Indeed, figs are not gathered from thornbushes, nor grapes from brambles.
 <small><sub>**Literal:**</sub></small>
 Each for tree by the own fruit is known. Not for from thorns do they gather figs nor from a bramble bush grapes gather they.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.43|<< Luke 6:43]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.45|Luke 6:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Each |**<big>[[G1538\|ἕκαστον]]</big>**  |hekaston <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

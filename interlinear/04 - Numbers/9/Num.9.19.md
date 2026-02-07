@@ -1,4 +1,4 @@
-**Numbers 9:19** 
+**Numbers 9:19**<big><big>[[Num.9.15 The Cloud above the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the LORD, and journeyed not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even when the cloud lingered over the tabernacle for many days, the Israelites k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.18|<< Numbers 9:18]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.20|Numbers 9:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when made long  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0748\|הַאֲרִ֧יךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ha.'a.Rikh<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cloud  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H6051\|עָנָ֛ן]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

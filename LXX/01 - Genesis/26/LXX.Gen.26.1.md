@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there became a famine upon the land, separate from the famine  formerly, which happened in the time  of Abraham. And Isaac went to Abimelech king of the Philistines in Gerar. 
-<small><sub>**KJV:**</sub></small>
-And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar.
-<small><sub>**BSB:**</sub></small>
-Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.34|<< Genesis 25:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.2|Genesis 26:2 >>]]</td></tr></table>
 
 | Translation | Greek |

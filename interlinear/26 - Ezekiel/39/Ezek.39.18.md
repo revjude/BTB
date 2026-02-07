@@ -1,4 +1,4 @@
-**Ezekiel 39:18** 
+**Ezekiel 39:18**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You will eat the flesh of the mighty and drink the blood of the princes of the e
 > $\quad$ referenced by: [[Rev.19.17|Rev 19:17-18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] flesh of  |**<big>&#8207;[[H1320\|בְּשַׂ֤ר]]&#8207; </big>**| be.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | warriors  |**<big>&#8207;[[H1368\|גִּבּוֹרִים֙]]&#8207; </big>**| gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

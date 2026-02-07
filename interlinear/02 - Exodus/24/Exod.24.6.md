@@ -1,4 +1,4 @@
-**Exodus 24:6** 
+**Exodus 24:6**<big><big>[[Exod.24.1 The Covenant Sealed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses took half of the blood, and put [it] in basons; and half of the blood he sprinkled on the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses took half of the blood and put it in bowls, and the other half he splatter
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.5|<< Exodus 24:5]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.7|Exodus 24:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁה֙]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

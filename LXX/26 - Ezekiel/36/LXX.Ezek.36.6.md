@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:6** 
 <small><sub>**LXX:**</sub></small>
 On account of this, prophesy over the land  of Israel! and say to the mountains, and to the hills, and to the ravines, and to the groves! Thus says \[the\] <span class="smallcaps">lord</span>; Behold, I in  my zeal and in  my rage spoke against  your scorning which nations bore to you. 
-<small><sub>**KJV:**</sub></small>
-Prophesy therefore concerning the land of Israel, and say unto the mountains, and to the hills, to the rivers, and to the valleys, Thus saith the Lord GOD; Behold, I have spoken in my jealousy and in my fury, because ye have borne the shame of the heathen:
-<small><sub>**BSB:**</sub></small>
-Therefore, prophesy concerning the land of Israel and tell the mountains and hills, the ravines and valleys, that this is what the Lord GOD says: Behold, I have spoken in My burning zeal because you have endured the reproach of the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.5|<< Ezekiel 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.7|Ezekiel 36:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Timothy 4:22
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:22**<big><big>[[2Tim.4.19 Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Lord Jesus Christ [be] with thy spirit. Grace [be] with you. Amen.
 <small><sub>**BSB:**</sub></small>
 The Lord be with your spirit. Grace be with you all.
 <small><sub>**Literal:**</sub></small>
 The Lord Jesus Christ [be] with the spirit of you. <the> Grace [be] with you all Amen. to Timothy second [epistle] of the Ephesian church first overseer having been chosen It was written from Rome when from second time stood Paul <the> before Caesar Nero<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.21|<< 2 Timothy 4:21]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.1|Titus 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Lord |**<big>[[G2962G\|κύριος]]</big>**  |kurios <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

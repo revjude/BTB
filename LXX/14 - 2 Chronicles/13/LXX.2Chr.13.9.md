@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:9** 
 <small><sub>**LXX:**</sub></small>
 Or did you not cast out the priests of \[the\] <span class="smallcaps">lord</span>, the sons of Aaron, and the Levites; and you made to yourselves priests from the people of the land? Even every one  approaching  filling  his hand with a calf, \[an offspring\] of \[the\] herd, and seven rams, and he becomes as a priest to the \[one\] not being God. 
-<small><sub>**KJV:**</sub></small>
-Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of [other] lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, [the same] may be a priest of [them that are] no gods.
-<small><sub>**BSB:**</sub></small>
-But did you not drive out the priests of the LORD, the sons of Aaron, and the Levites? And did you not make priests for yourselves as do the peoples of other lands? Now whoever comes to consecrate himself with a young bull and seven rams can become a priest of things that are not gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.8|<< 2 Chronicles 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.10|2 Chronicles 13:10 >>]]</td></tr></table>
 
 | Translation | Greek |

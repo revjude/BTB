@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:27** 
 <small><sub>**LXX:**</sub></small>
 And over the vineyards \[was\] Shimei the Ramathite. And over the storehouses  in the fields for the wine \[was\] Zabdi the one of Shiphmi. 
-<small><sub>**KJV:**</sub></small>
-And over the vineyards [was] Shimei the Ramathite: over the increase of the vineyards for the wine cellars [was] Zabdi the Shiphmite:
-<small><sub>**BSB:**</sub></small>
-Shimei the Ramathite was in charge of the vineyards. Zabdi the Shiphmite was in charge of the produce of the vineyards for the wine vats.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.26|<< 1 Chronicles 27:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.28|1 Chronicles 27:28 >>]]</td></tr></table>
 
 | Translation | Greek |

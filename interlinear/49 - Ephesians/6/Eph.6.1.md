@@ -1,12 +1,12 @@
-**Ephesians 6:1
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:1**<big><big>[[Eph.6.1 Children and Parents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Children, obey your parents in the Lord: for this is right.
 <small><sub>**BSB:**</sub></small>
 Children, obey your parents in the Lord, for this is right.
 <small><sub>**Literal:**</sub></small>
 you who [are] Children, do obey the parents of you in [the] Lord; this for is right.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.33|<< Ephesians 5:33]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.2|Ephesians 6:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you who [are] |**<big>[[G3588\|Τὰ]]</big>**  |Ta <small><sup>[[T-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Children, |**<big>[[G5043\|τέκνα,]]</big>**  |tekna <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

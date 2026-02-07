@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:11** 
 <small><sub>**LXX:**</sub></small>
 And you shall be glad in all the good \[things\] which \[the\] <span class="smallcaps">lord</span> your God gave to you, and \[to\] your family, you and the Levite and the foreigner  among you. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt rejoice in every good [thing] which the LORD thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that [is] among you.
-<small><sub>**BSB:**</sub></small>
-So you shall rejoice—you, the Levite, and the foreigner dwelling among you—in all the good things the LORD your God has given to you and your household.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.10|<< Deuteronomy 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.12|Deuteronomy 26:12 >>]]</td></tr></table>
 
 | Translation | Greek |

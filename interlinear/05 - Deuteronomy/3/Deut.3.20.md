@@ -1,4 +1,4 @@
-**Deuteronomy 3:20** 
+**Deuteronomy 3:20**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until the LORD have given rest unto your brethren, as well as unto you, and [until] they also possess the land which the LORD your God hath given them beyond Jordan: and [then] shall ye return every man unto his possession, which I have given you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ until the LORD gives rest to your brothers as He has to you, and they too have t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.19|<< Deuteronomy 3:19]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.21|Deuteronomy 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַ֠ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

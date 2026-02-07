@@ -1,4 +1,4 @@
-**Ezekiel 7:24** 
+**Ezekiel 7:24**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I will bring the worst of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will bring the most wicked of nations to take possession of their houses. I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.23|<< Ezekiel 7:23]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.25|Ezekiel 7:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵֽבֵאתִי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.ve.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] evil of  |**<big>&#8207;[[H7451A\|רָעֵ֣י]]&#8207; </big>**| ra.'Ei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jonah 4:11** 
 <small><sub>**LXX:**</sub></small>
 But I, shall I not spare for Nineveh the great city, in which dwells in it more than twelve myriads of men, who do not know their right \[hand\] or their left, and much cattle? 
-<small><sub>**KJV:**</sub></small>
-And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and [also] much cattle?
-<small><sub>**BSB:**</sub></small>
-So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.10|<< Jonah 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.1|Micah 1:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 4:11** is...

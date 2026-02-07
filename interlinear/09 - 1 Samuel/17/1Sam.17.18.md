@@ -1,4 +1,4 @@
-**1 Samuel 17:18** 
+**1 Samuel 17:18**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And carry these ten cheeses unto the captain of [their] thousand, and look how thy brethren fare, and take their pledge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take also these ten portions of cheese to the commander of their unit. Check on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.17|<< 1 Samuel 17:17]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.19|1 Samuel 17:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0853\|אֵת]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ten  |**<big>&#8207;[[H6235\|עֲשֶׂ֜רֶת]]&#8207; </big>**| 'a.Se.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

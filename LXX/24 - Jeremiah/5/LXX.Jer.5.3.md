@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:3** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>,  your eyes \[look\] unto trust. You whipped them, and they were not pained. You finished them off entirely, but they did not want to take correction. They solidified  their faces above a rock, and they did not want to turn towards \[you\]. 
-<small><sub>**KJV:**</sub></small>
-O LORD, [are] not thine eyes upon the truth? thou hast stricken them, but they have not grieved; thou hast consumed them, [but] they have refused to receive correction: they have made their faces harder than a rock; they have refused to return.
-<small><sub>**BSB:**</sub></small>
-O LORD, do not Your eyes look for truth? You struck them, but they felt no pain. You finished them off, but they refused to accept discipline. They have made their faces harder than stone and refused to repent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.2|<< Jeremiah 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.4|Jeremiah 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

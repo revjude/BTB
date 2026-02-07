@@ -1,4 +1,4 @@
-**1 Chronicles 2:2** 
+**1 Chronicles 2:2**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.1|<< 1 Chronicles 2:1]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.3|1 Chronicles 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Dan  |**<big>&#8207;[[H1835H\|דָּ֚ן]]&#8207; </big>**| dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֣ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

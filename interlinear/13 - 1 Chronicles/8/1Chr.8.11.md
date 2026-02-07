@@ -1,4 +1,4 @@
-**1 Chronicles 8:11** 
+**1 Chronicles 8:11**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Hushim he begat Abitub, and Elpaal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also had sons by Hushim: Abitub and Elpaal.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.10|<< 1 Chronicles 8:10]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.12|1 Chronicles 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from Hushim  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2366A\|חֻשִׁ֛ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> chu.Shim<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֥יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

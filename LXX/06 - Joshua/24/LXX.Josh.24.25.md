@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joshua ordained a covenant with the people in  that day. And he gave to \[them\] \[the\] law and judgment in Shechem. 
-<small><sub>**KJV:**</sub></small>
-So Joshua made a covenant with the people that day, and set them a statute and an ordinance in Shechem.
-<small><sub>**BSB:**</sub></small>
-On that day Joshua made a covenant for the people, and there at Shechem he established for them a statute and ordinance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.24|<< Joshua 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.26|Joshua 24:26 >>]]</td></tr></table>
 
 | Translation | Greek |

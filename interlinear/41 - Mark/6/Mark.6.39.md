@@ -1,12 +1,12 @@
-**Mark 6:39
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:39**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he commanded them to make all sit down by companies upon the green grass.
 <small><sub>**BSB:**</sub></small>
 Then Jesus directed them to have the people sit in groups on the green grass.
 <small><sub>**Literal:**</sub></small>
 And He commanded them to recline all groups [by] groups on the green grass.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.38|<< Mark 6:38]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.40|Mark 6:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He commanded |**<big>[[G2004\|ἐπέταξεν]]</big>**  |epetaxen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

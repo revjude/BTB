@@ -1,10 +1,7 @@
 **LXX Joshua 18:14** 
 <small><sub>**LXX:**</sub></small>
 And the borders shall go through and go around upon the part that looks  upon \[the\] west from \[the\] south, from the mountain upon \[the\] face of Beth-horon south. And its outer reaches will be unto Kirjath-baal (this is Kirjath-jearim) a city of \[the\] sons of Judah. This is the part  towards \[the\] west. 
-<small><sub>**KJV:**</sub></small>
-And the border was drawn [thence], and compassed the corner of the sea southward, from the hill that [lieth] before Bethhoron southward; and the goings out thereof were at Kirjathbaal, which [is] Kirjathjearim, a city of the children of Judah: this [was] the west quarter.
-<small><sub>**BSB:**</sub></small>
-On the west side the border curved southward from the hill facing Beth-horon on the south and came out at Kiriath-baal (that is, Kiriath-jearim), a city of the sons of Judah. This was the western side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.13|<< Joshua 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.15|Joshua 18:15 >>]]</td></tr></table>
 
 | Translation | Greek |

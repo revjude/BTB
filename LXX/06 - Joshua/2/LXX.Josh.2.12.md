@@ -1,10 +1,7 @@
 **LXX Joshua 2:12** 
 <small><sub>**LXX:**</sub></small>
 And now, swear by an oath to me \[by the\] <span class="smallcaps">lord</span>  God! for I performed \[an act of\] mercy to you, and you shall also perform yourself \[an act of\] mercy in the house  of my father, And you shall give to me a true sign. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, I pray you, swear unto me by the LORD, since I have shewed you kindness, that ye will also shew kindness unto my father’s house, and give me a true token:
-<small><sub>**BSB:**</sub></small>
-Now therefore, please swear to me by the LORD that you will indeed show kindness to my family, because I showed kindness to you. Give me a sure sign<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.11|<< Joshua 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.13|Joshua 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

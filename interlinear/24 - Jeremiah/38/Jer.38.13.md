@@ -1,4 +1,4 @@
-**Jeremiah 38:13** 
+**Jeremiah 38:13**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and they pulled him up with the ropes and lifted him out of the cistern. And Jer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.12|<< Jeremiah 38:12]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.14|Jeremiah 38:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they drew out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4900\|יִּמְשְׁכ֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.she.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 36:18** 
 <small><sub>**LXX:**</sub></small>
 Let not Hezekiah deceive you! saying,  God shall rescue us. \[Have\] the gods of the nations each rescued  his own place from out of \[the\] hand of \[the\] king of \[the\] Assyrians? 
-<small><sub>**KJV:**</sub></small>
-[Beware] lest Hezekiah persuade you, saying, The LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?
-<small><sub>**BSB:**</sub></small>
-Do not let Hezekiah mislead you when he says, ‘The LORD will deliver us.’ Has the god of any nation ever delivered his land from the hand of the king of Assyria?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.17|<< Isaiah 36:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.19|Isaiah 36:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zechariah 10:12** 
 <small><sub>**LXX:**</sub></small>
 And I will strengthen them in \[the\] <span class="smallcaps">lord</span> their God; and in  his name they shall boast, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will strengthen them in the LORD; and they shall walk up and down in his name, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will strengthen them in the LORD, and in His name they will walk,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.11|<< Zechariah 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.1|Zechariah 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

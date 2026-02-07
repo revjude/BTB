@@ -1,10 +1,7 @@
 **LXX Joshua 18:19** 
 <small><sub>**LXX:**</sub></small>
 And the outer reaches of the borders shall be upon \[the\] ridge of the sea  of salts from \[the\] north, to part of the Jordan from \[the\] south. These are the borders of \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-And the border passed along to the side of Bethhoglah northward: and the outgoings of the border were at the north bay of the salt sea at the south end of Jordan: this [was] the south coast.
-<small><sub>**BSB:**</sub></small>
-The border continued to the northern slope of Beth-hoglah and came out at the northern bay of the Salt Sea, at the mouth of the Jordan. This was the southern border.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.18|<< Joshua 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.20|Joshua 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

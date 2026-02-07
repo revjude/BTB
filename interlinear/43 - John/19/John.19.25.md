@@ -1,12 +1,12 @@
-**John 19:25
-**<small><sub>**KJV:**</sub></small>
+**John 19:25**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the [wife] of Cleophas, and Mary Magdalene.
 <small><sub>**BSB:**</sub></small>
 Near the cross of Jesus stood His mother and her sister, as well as Mary the wife of Clopas and Mary Magdalene.
 <small><sub>**Literal:**</sub></small>
 Had been standing however by the cross <the> of Jesus the mother of Him and the sister of the mother of Him, Mary the [wife] <the> of Clopas and Mary <the> Magdalene.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.24|<< John 19:24]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.26|John 19:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Had been standing |**<big>[[G2476\|Εἱστήκεισαν]]</big>**  [^1] |Heistēkeisan <small><sup>[[V-LAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

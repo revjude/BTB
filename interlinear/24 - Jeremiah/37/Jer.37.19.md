@@ -1,4 +1,4 @@
-**Jeremiah 37:19** 
+**Jeremiah 37:19**<big><big>[[Jer.37.11 Jeremiah Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [are] now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where are your prophets who prophesied to you, claiming, ‘The king of Babylon 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.18|<< Jeremiah 37:18]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.20|Jeremiah 37:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and where?  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0346\|אַיֵּה֙]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> 'ai.yov<small><sup>[[HTi]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | [are] prophets your  |**<big>&#8207;[[H5030\|נְבִ֣יאֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| ne.Vi.'ei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

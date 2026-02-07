@@ -1,4 +1,4 @@
-**2 Chronicles 36:22** 
+**2 Chronicles 36:22**<big><big>[[2Chr.36.22 The Proclamation of Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now in the first year of Cyrus king of Persia, that the word of the LORD [spoken] by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and [put it] also in writing, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoke
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.21|<< 2 Chronicles 36:21]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.23|2 Chronicles 36:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in year  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8141\|שְׁנַ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אַחַ֗ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

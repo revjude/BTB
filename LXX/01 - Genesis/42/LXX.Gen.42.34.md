@@ -1,10 +1,7 @@
 **LXX Genesis 42:34** 
 <small><sub>**LXX:**</sub></small>
 And you lead to me  your younger brother! and I shall know that you are not spies, but that you are peaceable, and  I will give back to you your brother, and you can trade in the land! 
-<small><sub>**KJV:**</sub></small>
-And bring your youngest brother unto me: then shall I know that ye [are] no spies, but [that] ye [are] true [men: so] will I deliver you your brother, and ye shall traffick in the land.
-<small><sub>**BSB:**</sub></small>
-But bring your youngest brother back to me so I will know that you are not spies but honest men. Then I will give your brother back to you, and you can trade in the land.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.33|<< Genesis 42:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.35|Genesis 42:35 >>]]</td></tr></table>
 
 | Translation | Greek |

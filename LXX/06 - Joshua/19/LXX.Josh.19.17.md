@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Issachar came forth the fourth lot, to the sons of Issachar, according to their kin. 
-<small><sub>**KJV:**</sub></small>
-[And] the fourth lot came out to Issachar, for the children of Issachar according to their families.
-<small><sub>**BSB:**</sub></small>
-The fourth lot came out for the clans of the tribe of Issachar:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.16|<< Joshua 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.18|Joshua 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

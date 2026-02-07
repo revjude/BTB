@@ -1,10 +1,7 @@
 **LXX Numbers 31:31** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Eleazar the priest did as \[the\] <span class="smallcaps">lord</span> gave orders to Moses. 
-<small><sub>**KJV:**</sub></small>
-And Moses and Eleazar the priest did as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-So Moses and Eleazar the priest did as the LORD had commanded Moses,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.30|<< Numbers 31:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.32|Numbers 31:32 >>]]</td></tr></table>
 
 | Translation | Greek |

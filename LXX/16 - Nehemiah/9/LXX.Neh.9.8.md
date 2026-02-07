@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:8** 
 <small><sub>**LXX:**</sub></small>
 And you found  his heart trustworthy before you, and you ordained with him a covenant, \[so as\] to give to him the land of the Canaanites, and Hittites, and Amorites, and Perizzites, and Jebusites, and Girgashites, and to give it \[to\] his seed. And you established  your words, for you \[are\] just. 
-<small><sub>**KJV:**</sub></small>
-And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give [it, I say], to his seed, and hast performed thy words; for thou [art] righteous:
-<small><sub>**BSB:**</sub></small>
-You found his heart faithful before You, and made a covenant with him to give the land of the Canaanites and Hittites, of the Amorites and Perizzites, of the Jebusites and Girgashites—to give it to his descendants. You have kept Your promise, because You are righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.7|<< Nehemiah 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.9|Nehemiah 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

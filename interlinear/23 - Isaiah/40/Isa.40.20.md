@@ -1,4 +1,4 @@
-**Isaiah 40:20** 
+**Isaiah 40:20**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that [is] so impoverished that he hath no oblation chooseth a tree [that] will not rot; he seeketh unto him a cunning workman to prepare a graven image, [that] shall not be moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One lacking such an offering chooses wood that will not rot. He seeks a skilled 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.19|<< Isaiah 40:19]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.21|Isaiah 40:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the impoverished [person]  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H5533B\|מְסֻכָּ֣ן]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.su.Kan<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a contribution  |**<big>&#8207;[[H8641\|תְּרוּמָ֔ה]]&#8207; </big>**| te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

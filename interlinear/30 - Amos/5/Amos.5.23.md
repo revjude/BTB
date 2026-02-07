@@ -1,4 +1,4 @@
-**Amos 5:23** 
+**Amos 5:23**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take away from Me the noise of your songs! I will not listen to the music of you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.22|<< Amos 5:22]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.24|Amos 5:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remove  |**<big>&#8207;[[H5493G\|הָסֵ֥ר]]&#8207; </big>**| ha.Ser<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> me  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עָלַ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

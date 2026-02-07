@@ -1,4 +1,4 @@
-**Job 18:20** 
+**Job 18:20**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that come after [him] shall be astonied at his day, as they that went before were affrighted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those in the west are appalled at his fate, while those in the east tremble in h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.19|<< Job 18:19]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.21|Job 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | day his  |**<big>&#8207;[[H3117L\|י֭וֹמ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| yo.m<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

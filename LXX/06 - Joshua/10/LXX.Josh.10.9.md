@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And when Joshua came upon them suddenly, \[for the\] entire  night he was gone from out of Gilgal, 
-<small><sub>**KJV:**</sub></small>
-Joshua therefore came unto them suddenly, [and] went up from Gilgal all night.
-<small><sub>**BSB:**</sub></small>
-After marching all night from Gilgal, Joshua caught them by surprise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.8|<< Joshua 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.10|Joshua 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

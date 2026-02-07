@@ -1,10 +1,7 @@
 **LXX Genesis 24:17** 
 <small><sub>**LXX:**</sub></small>
 And the servant ran to meet with her, and he said, Give me to drink a little water from out of  your water-pitcher! 
-<small><sub>**KJV:**</sub></small>
-And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher.
-<small><sub>**BSB:**</sub></small>
-So the servant ran to meet her and said, “Please let me have a little water from your jar.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.16|<< Genesis 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.18|Genesis 24:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 22:11** 
+**1 Chronicles 22:11**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, my son, the LORD be with thee; and prosper thou, and build the house of the LORD thy God, as he hath said of thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, my son, may the LORD be with you, and may you succeed in building the house
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.10|<< 1 Chronicles 22:10]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.12|1 Chronicles 22:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O son my  |**<big>&#8207;[[H1121A\|בְנִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

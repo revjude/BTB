@@ -1,12 +1,12 @@
-**Luke 8:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:22**<big><big>[[Luke.8.22 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.
 <small><sub>**BSB:**</sub></small>
 One day Jesus said to His disciples, “Let us cross to the other side of the lake.” So He got into a boat with them and set out.
 <small><sub>**Literal:**</sub></small>
 and It came to pass then on one of the days also He himself climbed into a boat with the disciples of Him and He said to them; Let us pass over to the other side of the lake. And they launched out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.21|<< Luke 8:21]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.23|Luke 8:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

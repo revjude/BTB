@@ -1,4 +1,4 @@
-**2 Samuel 24:5** 
+**2 Samuel 24:5**<big><big>[[2Sam.24.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they passed over Jordan, and pitched in Aroer, on the right side of the city that [lieth] in the midst of the river of Gad, and toward Jazer:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They crossed the Jordan and camped near Aroer, south of the town in the middle o
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.4|<< 2 Samuel 24:4]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.6|2 Samuel 24:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they passed over  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעַבְר֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'av.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

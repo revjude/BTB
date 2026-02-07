@@ -1,4 +1,4 @@
-**Judges 6:6** 
+**Judges 6:6**<big><big>[[Judg.6.1 Midian Oppresses Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel was greatly impoverished by Midian, and the Israelites cried out to the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.5|<< Judges 6:5]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.7|Judges 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it became low  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1809\|יִּדַּ֧ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Dal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֛ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

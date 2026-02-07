@@ -1,4 +1,4 @@
-**2 Chronicles 33:12** 
+**2 Chronicles 33:12**<big><big>[[2Chr.33.10 Manasseh’s Repentance and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he was in affliction, he besought the LORD his God, and humbled himself greatly before the God of his fathers,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in his distress, Manasseh sought the favor of the LORD his God and earnestly
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.11|<< 2 Chronicles 33:11]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.13|2 Chronicles 33:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as harassed  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H6887B\|הָצֵ֣ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> ha.Tzer<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> him  |**<big>&#8207;[[H9005\|ל֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

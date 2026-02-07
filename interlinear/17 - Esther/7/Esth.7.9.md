@@ -1,4 +1,4 @@
-**Esther 7:9** 
+**Esther 7:9**<big><big>[[Esth.7.7 The Hanging of Haman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Harbonah, one of the eunuchs attending the king, said: “There is a gallow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.8|<< Esther 7:8]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.10|Esther 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Harbona  |**<big>&#8207;[[H2726H\|חַ֠רְבוֹנָה]]&#8207; </big>**| Char.vo.nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

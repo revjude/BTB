@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:3** 
 <small><sub>**LXX:**</sub></small>
 And he spoke to the Levites, to the mighty ones in all Israel,  to sanctify themselves to the <span class="smallcaps">lord</span>, and  to put the holy ark in \[the\] house of \[the\] <span class="smallcaps">lord</span>. And they put the holy ark in the house which Solomon son of David the king of Israel built. And the king said, It is not for you to lift anything upon \[your\] shoulders. Now then, you officiate to the <span class="smallcaps">lord</span>  your God, and \[to\] his people Israel! 
-<small><sub>**KJV:**</sub></small>
-And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; [it shall] not [be] a burden upon [your] shoulders: serve now the LORD your God, and his people Israel,
-<small><sub>**BSB:**</sub></small>
-To the Levites who taught all Israel and were holy to the LORD, Josiah said: “Put the holy ark in the temple built by Solomon son of David king of Israel. It is not to be carried around on your shoulders. Now serve the LORD your God and His people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.2|<< 2 Chronicles 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.4|2 Chronicles 35:4 >>]]</td></tr></table>
 
 | Translation | Greek |

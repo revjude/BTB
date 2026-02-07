@@ -1,4 +1,4 @@
-**1 Chronicles 9:15** 
+**1 Chronicles 9:15**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bakbakkar, Heresh, and Galal, and Mattaniah the son of Micah, the son of Zichri, the son of Asaph;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bakbakkar, Heresh, Galal, and Mattaniah son of Mica, the son of Zichri, the son 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.14|<< 1 Chronicles 9:14]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.16|1 Chronicles 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Bakbakkar  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1230\|בַקְבַּקַּ֥ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vak.ba.Kar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Heresh  |**<big>&#8207;[[H2792\|חֶ֖רֶשׁ]]&#8207; </big>**| Che.resh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

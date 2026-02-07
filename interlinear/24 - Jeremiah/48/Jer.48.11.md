@@ -1,4 +1,4 @@
-**Jeremiah 48:11** 
+**Jeremiah 48:11**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moab hath been at ease from his youth, and he hath settled on his lees, and hath not been emptied from vessel to vessel, neither hath he gone into captivity: therefore his taste remained in him, and his scent is not changed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moab has been at ease from youth, settled like wine on its dregs; he has not bee
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.10|<< Jeremiah 48:10]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.12|Jeremiah 48:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has been at ease  |**<big>&#8207;[[H7599\|שַׁאֲנַ֨ן]]&#8207; </big>**| sha.'a.Nan<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֜ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

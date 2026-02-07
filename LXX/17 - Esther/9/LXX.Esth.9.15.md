@@ -1,10 +1,7 @@
 **LXX Esther 9:15** 
 <small><sub>**LXX:**</sub></small>
 And the Jews gathered together in Shushan on the fourteenth \[day\]  of Adar, and they killed three hundred men, but nothing they plundered. 
-<small><sub>**KJV:**</sub></small>
-For the Jews that [were] in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.
-<small><sub>**BSB:**</sub></small>
-On the fourteenth day of the month of Adar, the Jews in Susa came together again and put to death three hundred men there, but they did not lay a hand on the plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.14|<< Esther 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.16|Esther 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

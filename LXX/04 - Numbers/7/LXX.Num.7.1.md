@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the day in which Moses completed so as to raise up the tent, and he anointed it, and sanctified it, and all the items of it, and the altar, and all the items of it; and he anointed them and sanctified them. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;
-<small><sub>**BSB:**</sub></small>
-On the day Moses finished setting up the tabernacle, he anointed and consecrated it and all its furnishings, along with the altar and all its utensils.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.27|<< Numbers 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.2|Numbers 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

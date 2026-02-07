@@ -1,10 +1,7 @@
 **LXX Proverbs 20:29** 
 <small><sub>**LXX:**</sub></small>
 An ornament to young men \[is\] wisdom; and \[the\] glory of older men \[is\] gray hair. 
-<small><sub>**KJV:**</sub></small>
-The glory of young men [is] their strength: and the beauty of old men [is] the gray head.
-<small><sub>**BSB:**</sub></small>
-The glory of young men is their strength, and gray hair is the splendor of the old.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.28|<< Proverbs 20:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.30|Proverbs 20:30 >>]]</td></tr></table>
 
 | Translation | Greek |

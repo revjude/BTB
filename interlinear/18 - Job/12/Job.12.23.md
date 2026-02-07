@@ -1,4 +1,4 @@
-**Job 12:23** 
+**Job 12:23**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them [again].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He makes nations great and destroys them; He enlarges nations, then disperses th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.22|<< Job 12:22]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.24|Job 12:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] making great  |**<big>&#8207;[[H7679\|מַשְׂגִּ֣יא]]&#8207; </big>**| mas.Gi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> the nations  |**<big>&#8207;[[H9005\|לַ֭]]&#8207;&#8207;[[H1471A\|גּוֹיִם]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> go.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

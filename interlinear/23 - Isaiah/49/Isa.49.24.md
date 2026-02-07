@@ -1,4 +1,4 @@
-**Isaiah 49:24** 
+**Isaiah 49:24**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall the prey be taken from the mighty, or the lawful captive delivered?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can the plunder be snatched from the mighty, or the captives of a tyrant be deli
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.23|<< Isaiah 49:23]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.25|Isaiah 49:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will it be taken  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3947G\|יֻקַּ֥ח]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yu.Kach<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a warrior  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1368\|גִּבּ֖וֹר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

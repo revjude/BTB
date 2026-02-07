@@ -1,10 +1,7 @@
 **LXX Isaiah 1:20** 
 <small><sub>**LXX:**</sub></small>
 But if you should not want, nor should you listen to me, a sword shall devour you. For the mouth of \[the\] <span class="smallcaps">lord</span> spoke these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the LORD hath spoken [it].
-<small><sub>**BSB:**</sub></small>
-But if you resist and rebel, you will be devoured by the sword.” For the mouth of the LORD has spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.19|<< Isaiah 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.21|Isaiah 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

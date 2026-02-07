@@ -1,4 +1,4 @@
-**Job 18:14** 
+**Job 18:14**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is torn from the shelter of his tent and is marched off to the king of terror
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.13|<< Job 18:13]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.15|Job 18:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he is torn away  |**<big>&#8207;[[H5423\|יִנָּתֵ֣ק]]&#8207; </big>**| yi.na.Tek<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from tent his  |**<big>&#8207;[[H9006\|מֵ֭]]&#8207;&#8207;[[H0168G\|אָהֳל]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.ho.l<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 2:8** 
 <small><sub>**LXX:**</sub></small>
 Because, thus says \[the\] <span class="smallcaps">lord</span> almighty, After glory he has sent me out unto the nations, the ones despoiling you; for the one touching you \[is\] as  one touching the pupil  of his eye. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD of hosts; After the glory hath he sent me unto the nations which spoiled you: for he that toucheth you toucheth the apple of his eye.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts says: “After His Glory has sent Me against the nations that have plundered you—for whoever touches you touches the apple of His eye—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.7|<< Zechariah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.9|Zechariah 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 34:12** 
+**Ezekiel 34:12**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a shepherd seeketh out his flock in the day that he is among his sheep [that are] scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As a shepherd looks for his scattered sheep when he is among the flock, so I wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.11|<< Ezekiel 34:11]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.13|Ezekiel 34:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like [the] seeking of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1243\|בַקָּרַת֩]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> va.ka.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a shepherd  |**<big>&#8207;[[H7462B\|רֹעֶ֨ה]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

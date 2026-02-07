@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΑΙΝ</p>
 
 \[The\] person of \[the\] <span class="smallcaps">lord</span> was their portion; he shall not proceed to look upon them. \[The\] person of \[the\] priests they did not receive; they did not show mercy on old men. 
-<small><sub>**KJV:**</sub></small>
-The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.
-<small><sub>**BSB:**</sub></small>
-The presence of the LORD has scattered them; He regards them no more. The priests are shown no honor; the elders find no favor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.15|<< Lamentations 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.17|Lamentations 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

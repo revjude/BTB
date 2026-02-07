@@ -1,4 +1,4 @@
-**Numbers 21:5** 
+**Numbers 21:5**<big><big>[[Num.21.4 The Bronze Serpent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for [there is] no bread, neither [is there any] water; and our soul loatheth this light bread.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and spoke against God and against Moses: “Why have you led us up out of Egypt 
 > $\quad$ referenced by: [[1Cor.10.10|1Cor 10:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֗ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

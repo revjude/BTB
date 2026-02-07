@@ -1,12 +1,12 @@
-**Acts 28:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:15**<big><big>[[Acts.28.11 Paul Arrives in Italy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from thence, when the brethren heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.
 <small><sub>**BSB:**</sub></small>
 The brothers there had heard about us and traveled as far as the Forum of Appius and the Three Taverns to meet us. When Paul saw them, he was encouraged and gave thanks to God.
 <small><sub>**Literal:**</sub></small>
 And from there the brothers having heard the [things] concerning us they came out to meet us as far as of Appius [the] market and [the] Three Taverns, whom having seen <the> Paul having given thanks <the> to God took courage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.14|<< Acts 28:14]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.16|Acts 28:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And from there |**<big>[[G2532\|κἀκεῖθεν]]</big>**  |kakeithen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

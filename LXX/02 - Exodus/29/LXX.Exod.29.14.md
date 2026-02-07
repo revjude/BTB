@@ -1,10 +1,7 @@
 **LXX Exodus 29:14** 
 <small><sub>**LXX:**</sub></small>
 But the meats of the calf, and the skin, and the dung you shall incinerate with fire outside the camp, for it is \[an offering on account\] of sin. 
-<small><sub>**KJV:**</sub></small>
-But the flesh of the bullock, and his skin, and his dung, shalt thou burn with fire without the camp: it [is] a sin offering.
-<small><sub>**BSB:**</sub></small>
-But burn the flesh of the bull and its hide and dung outside the camp; it is a sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.13|<< Exodus 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.15|Exodus 29:15 >>]]</td></tr></table>
 
 | Translation | Greek |

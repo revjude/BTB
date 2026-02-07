@@ -1,10 +1,7 @@
 **LXX Numbers 7:85** 
 <small><sub>**LXX:**</sub></small>
 thirty and a hundred shekels to the one saucer, and seventy shekels to the one bowl; all the silver of the items -- two thousand and four hundred shekels, \[the\] shekels according to the holy shekel. 
-<small><sub>**KJV:**</sub></small>
-Each charger of silver [weighing] an hundred and thirty [shekels], each bowl seventy: all the silver vessels [weighed] two thousand and four hundred [shekels], after the shekel of the sanctuary:
-<small><sub>**BSB:**</sub></small>
-Each silver platter weighed a hundred and thirty shekels, and each silver bowl seventy shekels. The total weight of the silver articles was two thousand four hundred shekels, according to the sanctuary shekel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.85|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.84|<< Numbers 7:84]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.86|Numbers 7:86 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 22:14** 
 <small><sub>**LXX:**</sub></small>
 As water was poured out, even all my bones were dispersed; my heart became as beeswax melting away in \[the\] midst  of my belly. 
-<small><sub>**KJV:**</sub></small>
-I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
-<small><sub>**BSB:**</sub></small>
-I am poured out like water, and all my bones are disjointed. My heart is like wax; it melts away within me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.13|<< Psalm 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.15|Psalm 22:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:14** is...

@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:10** 
 <small><sub>**LXX:**</sub></small>
 Persians and Lidians and Libyans were men among your force, of your warriors -- they hung shields and helmets among you; these gave  you glory. 
-<small><sub>**KJV:**</sub></small>
-They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.
-<small><sub>**BSB:**</sub></small>
-Men of Persia, Lydia, and Put served as warriors in your army. They hung their shields and helmets on your walls; they gave you splendor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.9|<< Ezekiel 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.11|Ezekiel 27:11 >>]]</td></tr></table>
 
 | Translation | Greek |

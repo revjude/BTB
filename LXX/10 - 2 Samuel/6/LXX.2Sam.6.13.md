@@ -1,10 +1,7 @@
 **LXX 2 Samuel 6:13** 
 <small><sub>**LXX:**</sub></small>
 And there were with him the ones lifting the ark of the <span class="smallcaps">lord</span>, seven companies of dancers, and a calf and lambs for sacrifice. 
-<small><sub>**KJV:**</sub></small>
-And it was [so], that when they that bare the ark of the LORD had gone six paces, he sacrificed oxen and fatlings.
-<small><sub>**BSB:**</sub></small>
-When those carrying the ark of the LORD had advanced six paces, he sacrificed an ox and a fattened calf.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.12|<< 2 Samuel 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.14|2 Samuel 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

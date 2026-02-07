@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:8** 
 <small><sub>**LXX:**</sub></small>
 And I was with you in all \[the places\] in which you went, and I utterly destroyed all  your enemies from in front of you, and I made to you a name according to the name of the great \[ones\], of the ones upon the earth. 
-<small><sub>**KJV:**</sub></small>
-And I have been with thee whithersoever thou hast walked, and have cut off all thine enemies from before thee, and have made thee a name like the name of the great men that [are] in the earth.
-<small><sub>**BSB:**</sub></small>
-I have been with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make for you a name like that of the greatest in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.7|<< 1 Chronicles 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.9|1 Chronicles 17:9 >>]]</td></tr></table>
 
 | Translation | Greek |

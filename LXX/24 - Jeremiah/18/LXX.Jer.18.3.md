@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:3** 
 <small><sub>**LXX:**</sub></small>
 And I went down unto the house of the potter. And behold, he was making a work upon the stones. 
-<small><sub>**KJV:**</sub></small>
-Then I went down to the potter’s house, and, behold, he wrought a work on the wheels.
-<small><sub>**BSB:**</sub></small>
-So I went down to the potter’s house and saw him working at the wheel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.2|<< Jeremiah 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.4|Jeremiah 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 25:35** 
+**Jeremiah 25:35**<big><big>[[Jer.25.34 The Cry of the Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the shepherds shall have no way to flee, nor the principal of the flock to escape.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Flight will evade the shepherds, and escape will elude the leaders of the flock.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.34|<< Jeremiah 25:34]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.36|Jeremiah 25:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be lost  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0006\|אָבַ֥ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Vad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a place of escape  |**<big>&#8207;[[H4498\|מָנ֖וֹס]]&#8207; </big>**| ma.Nos<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

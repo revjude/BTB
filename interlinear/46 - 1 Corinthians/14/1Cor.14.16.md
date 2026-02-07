@@ -1,12 +1,12 @@
-**1 Corinthians 14:16
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:16**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?
 <small><sub>**BSB:**</sub></small>
 Otherwise, if you speak a blessing in spirit, how can someone who is uninstructed say “Amen” to your thanksgiving, since he does not know what you are saying?
 <small><sub>**Literal:**</sub></small>
 Otherwise if you shall bless in [the] spirit, the [one] filling the place of the uninstructed how will he say the Amen at <the> your thanksgiving? since what you say [is that] not he knows;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.15|<< 1 Corinthians 14:15]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.17|1 Corinthians 14:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Otherwise |**<big>[[G1893\|ἐπεὶ]]</big>**  |epei <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

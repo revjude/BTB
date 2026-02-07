@@ -1,12 +1,12 @@
-**1 Peter 3:21
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:21**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The like figure whereunto [even] baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 And this water symbolizes the baptism that now saves you also—not the removal of dirt from the body, but the pledge of a clear conscience toward God—through the resurrection of Jesus Christ,
 <small><sub>**Literal:**</sub></small>
 which also you prefigures now saving baptism, not of flesh a putting away of [the] filth, but of a conscience good [the] demand toward God, through [the] resurrection of Jesus Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.20|<< 1 Peter 3:20]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.22|1 Peter 3:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz»3">NKO</abbr> | |

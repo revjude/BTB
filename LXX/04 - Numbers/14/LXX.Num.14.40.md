@@ -1,10 +1,7 @@
 **LXX Numbers 14:40** 
 <small><sub>**LXX:**</sub></small>
 And rising early in the morning, they ascended into the top of the mountain, saying, Behold, we shall ascend unto the place which \[the\] <span class="smallcaps">lord</span> spoke, for we sinned. 
-<small><sub>**KJV:**</sub></small>
-And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we [be here], and will go up unto the place which the LORD hath promised: for we have sinned.
-<small><sub>**BSB:**</sub></small>
-Early the next morning they got up and went up toward the ridge of the hill country. “We have indeed sinned,” they said, “but we will go to the place the LORD has promised.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.39|<< Numbers 14:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.41|Numbers 14:41 >>]]</td></tr></table>
 
 | Translation | Greek |

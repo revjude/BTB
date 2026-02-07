@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:18** 
 <small><sub>**LXX:**</sub></small>
 \[As\] I live, says the king, \[the\] <span class="smallcaps">lord</span> of the forces, for as  Tabor \[is\] in the mountains, and as  Carmel  \[is\] by the sea, he shall come. 
-<small><sub>**KJV:**</sub></small>
-[As] I live, saith the King, whose name [is] the LORD of hosts, Surely as Tabor [is] among the mountains, and as Carmel by the sea, [so] shall he come.
-<small><sub>**BSB:**</sub></small>
-As surely as I live, declares the King, whose name is the LORD of Hosts, there will come one who is like Tabor among the mountains and like Carmel by the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.17|<< Jeremiah 46:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.19|Jeremiah 46:19 >>]]</td></tr></table>
 
 | Translation | Greek |

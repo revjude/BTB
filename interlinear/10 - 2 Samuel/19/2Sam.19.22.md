@@ -1,4 +1,4 @@
-**2 Samuel 19:22** (19:23)
+**2 Samuel 19:22**<big><big>[[2Sam.19.16 Shimei Pardoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said, What have I to do with you, ye sons of Zeruiah, that ye should this day be adversaries unto me? shall there any man be put to death this day in Israel? for do not I know that I [am] this day king over Israel?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And David replied, “Sons of Zeruiah, what have I to do with you, that you shou
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.21|<< 2 Samuel 19:21]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.23|2 Samuel 19:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֗ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

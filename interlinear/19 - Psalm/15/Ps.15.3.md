@@ -1,4 +1,4 @@
-**Psalms 15:3** 
+**Psalms 15:3**<big><big>[[Ps.15.1 Who May Dwell on Your Holy Mountain？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that] backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who has no slander on his tongue, who does no harm to his neighbor, who casts no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.15.2|<< Psalms 15:2]]</td><td align="center" style="border:none;">[[Ps.15|Psalms 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.15.4|Psalms 15:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he takes slander  |**<big>&#8207;[[H7270\|רָגַ֨ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ra.Gal<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

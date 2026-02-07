@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:19** 
 <small><sub>**LXX:**</sub></small>
 And all the utensils which king Ahaz defiled during  his kingdom, in  his defection, we prepared and sanctified. And behold, it is before the altar of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Moreover all the vessels, which king Ahaz in his reign did cast away in his transgression, have we prepared and sanctified, and, behold, they [are] before the altar of the LORD.
-<small><sub>**BSB:**</sub></small>
-Moreover, we have prepared and consecrated all the articles that King Ahaz in his unfaithfulness cast aside during his reign. They are now in front of the altar of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.18|<< 2 Chronicles 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.20|2 Chronicles 29:20 >>]]</td></tr></table>
 
 | Translation | Greek |

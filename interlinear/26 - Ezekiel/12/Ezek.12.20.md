@@ -1,4 +1,4 @@
-**Ezekiel 12:20** 
+**Ezekiel 12:20**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The inhabited cities will be laid waste, and the land will become desolate. Then
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.19|<< Ezekiel 12:19]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.21|Ezekiel 12:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the cities  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H5892B\|עָרִ֤ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> inhabited  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3427\|נּֽוֹשָׁבוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.sha.Vot<small><sup>[[HVNrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

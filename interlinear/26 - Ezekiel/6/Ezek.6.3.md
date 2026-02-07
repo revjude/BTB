@@ -1,4 +1,4 @@
-**Ezekiel 6:3** 
+**Ezekiel 6:3**<big><big>[[Ezek.6.1 Judgment against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say, Ye mountains of Israel, hear the word of the Lord GOD; Thus saith the Lord GOD to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, [even] I, will bring a sword upon you, and I will destroy your high places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to say: ‘O mountains of Israel, hear the word of the Lord GOD! This is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.2|<< Ezekiel 6:2]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.4|Ezekiel 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָ֣מַרְתָּ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'A.mar.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O mountains of  |**<big>&#8207;[[H2022G\|הָרֵי֙]]&#8207; </big>**| ha.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,6 +1,6 @@
 (KJV) **Exodus 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18|<< Exodus 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20|Exodus 20 >>]]</td></tr></table>
 
-***Israel at Mount Sinai*** ^bsb195
+<big><big>[[Exod.19.1 Israel at Mount Sinai|⥃]]</big></big>***Israel at Mount Sinai***
 
  $\quad$ <span class="startversemarker">[</span>**[[Exod.19.1|1]]**<span class="endversemarker">]</span> In the third<small><small>[^2]</small></small> month, when the children of Israel were gone forth out of the land of Egypt, the same day came<small><small>[^3]</small></small> they \[into\] the wilderness of Sinai.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Exod.19.2|2]]**<span class="endversemarker">]</span> For they were departed from Rephidim<small><small>[^5]</small></small>, and were come \[to\] the desert<small><small>[^6]</small></small> of Sinai, and had pitched in the wilderness; and there Israel camped<small><small>[^7]</small></small> before the mount. <span class="startversemarker">[</span>**[[Exod.19.3|3]]**<span class="endversemarker">]</span> And Moses went up<small><small>[^8]</small></small> unto God, and the <span class="smallcaps">Lord</span> called<small><small>[^9]</small></small> unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel; <span class="startversemarker">[</span>**[[Exod.19.4|4]]**<span class="endversemarker">]</span> Ye have seen<small><small>[^10]</small></small> what I did unto the Egyptians, and \[how\] I bare you<small><small>[^11]</small></small> on eagles’ wings, and brought you unto myself. <span class="startversemarker">[</span>**[[Exod.19.5|5]]**<span class="endversemarker">]</span> Now therefore, if ye<small><small>[^12]</small></small> will obey my voice indeed, and keep<small><small>[^13]</small></small> my covenant, then ye shall be a peculiar<small><small>[^14]</small></small> treasure unto me above all people: for all the earth<small><small>[^15]</small></small> \[is\] mine: <span class="startversemarker">[</span>**[[Exod.19.6|6]]**<span class="endversemarker">]</span> And ye shall be unto me a kingdom<small><small>[^16]</small></small> of priests, and an<small><small>[^17]</small></small> holy nation. These \[are\] the words which thou shalt speak unto the children of Israel. 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.19.10|10]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.19.14|14]]**<span class="endversemarker">]</span> [¶]And Moses went down from the mount unto the people, and sanctified<small><small>[^32]</small></small> the people; and they washed their clothes. <span class="startversemarker">[</span>**[[Exod.19.15|15]]**<span class="endversemarker">]</span> And he said unto the people, Be ready<small><small>[^33]</small></small> against the third<small><small>[^34]</small></small> day: come not<small><small>[^35]</small></small> at \[your\] wives.
 
-***The LORD Visits Sinai*** ^bsb196
+<big><big>[[Exod.19.16 The LORD Visits Sinai|⥃]]</big></big>***The LORD Visits Sinai***
 
  
 

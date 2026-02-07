@@ -1,4 +1,4 @@
-**Jeremiah 13:18** 
+**Jeremiah 13:18**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say unto the king and to the queen, Humble yourselves, sit down: for your principalities shall come down, [even] the crown of your glory.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Say to the king and to the queen mother: “Take a lowly seat, for your glorious
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.17|<< Jeremiah 13:17]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.19|Jeremiah 13:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אֱמֹ֥ר]]&#8207; </big>**| 'e.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the king  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4428G\|מֶּ֛לֶךְ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

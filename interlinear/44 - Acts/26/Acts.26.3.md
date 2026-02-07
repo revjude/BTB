@@ -1,12 +1,12 @@
-**Acts 26:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:3**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Especially [because I know] thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.
 <small><sub>**BSB:**</sub></small>
 especially since you are acquainted with all the Jewish customs and controversies. I beg you, therefore, to listen to me patiently.
 <small><sub>**Literal:**</sub></small>
 Especially acquainted being you with all the of [the] Jews customs and also controversies. therefore I implore you patiently to hear me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.2|<< Acts 26:2]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.4|Acts 26:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Especially |**<big>[[G3122\|μάλιστα]]</big>**  |malista <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | acquainted |**<big>[[G1109\|γνώστην]]</big>**  |gnōstēn <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

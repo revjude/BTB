@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:17** 
 <small><sub>**LXX:**</sub></small>
 And Solomon gathered all the men of the foreigners of the ones in the land of Israel, after the count which David his father counted them. And were found a hundred fifty thousand and three thousand six hundred. 
-<small><sub>**KJV:**</sub></small>
-And Solomon numbered all the strangers that [were] in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found an hundred and fifty thousand and three thousand and six hundred.
-<small><sub>**BSB:**</sub></small>
-Solomon numbered all the foreign men in the land of Israel following the census his father David had conducted, and there were found to be 153,600 in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.16|<< 2 Chronicles 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.18|2 Chronicles 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

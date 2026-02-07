@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:12** 
 <small><sub>**LXX:**</sub></small>
 And I shall take the remnant of Judah, the ones \[that\] established  their face  to enter into \[the\] land of Egypt  to dwell there, and they shall fail all in \[the\] land of Egypt. And they shall fall by broadsword, and they shall fail by famine, from small unto great. And they will be for scorning, and for destruction, and for a curse. 
-<small><sub>**KJV:**</sub></small>
-And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, [and] fall in the land of Egypt; they shall [even] be consumed by the sword [and] by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, [and] an astonishment, and a curse, and a reproach.
-<small><sub>**BSB:**</sub></small>
-And I will take away the remnant of Judah who have resolved to go to the land of Egypt to reside there; they will meet their end. They will all fall by the sword or be consumed by famine. From the least to the greatest, they will die by sword or famine; and they will become an object of cursing and horror, of vilification and reproach.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.11|<< Jeremiah 44:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.13|Jeremiah 44:13 >>]]</td></tr></table>
 
 | Translation | Greek |

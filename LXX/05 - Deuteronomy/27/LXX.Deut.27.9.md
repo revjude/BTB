@@ -1,10 +1,7 @@
 **LXX Deuteronomy 27:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses and the priests the Levites spoke to all Israel, saying, Keep silent and hear, O Israel! On  this day you have become a people \[to the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And Moses and the priests the Levites spake unto all Israel, saying, Take heed, and hearken, O Israel; this day thou art become the people of the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-Then Moses and the Levitical priests spoke to all Israel: “Be silent, O Israel, and listen! This day you have become the people of the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.8|<< Deuteronomy 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.10|Deuteronomy 27:10 >>]]</td></tr></table>
 
 | Translation | Greek |

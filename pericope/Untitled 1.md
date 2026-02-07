@@ -1,0 +1,12 @@
+---
+book/chapter:
+pericope:
+verse:
+difficulty:
+needs_review:
+verse_count:
+translation_date:
+status:
+priority:
+genre:
+---

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 You  shall proclaim wisdom, that intellect should obey you. 
-<small><sub>**KJV:**</sub></small>
-Doth not wisdom cry? and understanding put forth her voice?
-<small><sub>**BSB:**</sub></small>
-Does not wisdom call out, and understanding raise her voice?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.27|<< Proverbs 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.2|Proverbs 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

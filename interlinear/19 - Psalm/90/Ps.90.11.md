@@ -1,4 +1,4 @@
-**Psalms 90:11** 
+**Psalms 90:11**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who knoweth the power of thine anger? even according to thy fear, [so is] thy wrath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who knows the power of Your anger? Your wrath matches the fear You are due.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.10|<< Psalms 90:10]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.12|Psalms 90:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] knowing  |**<big>&#8207;[[H3045\|י֭וֹדֵעַ]]&#8207; </big>**| Yo.de.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

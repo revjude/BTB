@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:13** 
 <small><sub>**LXX:**</sub></small>
 And now they have planted her in the wilderness, in a waterless land and one thirsting. 
-<small><sub>**KJV:**</sub></small>
-And now she [is] planted in the wilderness, in a dry and thirsty ground.
-<small><sub>**BSB:**</sub></small>
-Now it is planted in the wilderness, in a dry and thirsty land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.12|<< Ezekiel 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.14|Ezekiel 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

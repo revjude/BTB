@@ -1,4 +1,4 @@
-**Proverbs 30:26** 
+**Proverbs 30:26**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The conies [are but] a feeble folk, yet make they their houses in the rocks;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the rock badgers are creatures of little power, yet they make their homes in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.25|<< Proverbs 30:25]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.27|Proverbs 30:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rock badgers  |**<big>&#8207;[[H8227A\|שְׁ֭פַנִּים]]&#8207; </big>**| She.fa.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] a people  |**<big>&#8207;[[H5971A\|עַ֣ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

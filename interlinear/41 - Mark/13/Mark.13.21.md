@@ -1,12 +1,12 @@
-**Mark 13:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:21**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And then if any man shall say to you, Lo, here [is] Christ; or, lo, [he is] there; believe [him] not:
 <small><sub>**BSB:**</sub></small>
 At that time if anyone says to you, ‘Look, here is the Christ!’ or ‘There He is!’ do not believe it.
 <small><sub>**Literal:**</sub></small>
 And then if anyone to you shall say; behold here [is] the Christ or behold there! not you do believe [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.20|<< Mark 13:20]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.22|Mark 13:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
 | then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 21:11** 
 <small><sub>**LXX:**</sub></small>
 For they leaned bad \[things\] to you, they argued \[over\] plans which in no way might they be able to establish. 
-<small><sub>**KJV:**</sub></small>
-For they intended evil against thee: they imagined a mischievous device, [which] they are not able [to perform].
-<small><sub>**BSB:**</sub></small>
-Though they intend You harm, the schemes they devise will not prevail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.10|<< Psalm 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.12|Psalm 21:12 >>]]</td></tr></table>
 
 | Translation | Greek |

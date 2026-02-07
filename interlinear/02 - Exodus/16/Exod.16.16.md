@@ -1,4 +1,4 @@
-**Exodus 16:16** 
+**Exodus 16:16**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, [according to] the number of your persons; take ye every man for [them] which [are] in his tents.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what the LORD has commanded: ‘Each one is to gather as much as he need
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.15|<< Exodus 16:15]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.17|Exodus 16:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֤ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

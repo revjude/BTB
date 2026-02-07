@@ -1,4 +1,4 @@
-**Genesis 38:19** 
+**Genesis 38:19**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Tamar got up and departed. And she removed her veil and put on her widow’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.18|<< Genesis 38:18]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.20|Genesis 38:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|תָּ֣קָם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.kom<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|תֵּ֔לֶךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.lekh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

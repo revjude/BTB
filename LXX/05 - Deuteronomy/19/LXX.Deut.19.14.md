@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:14** 
 <small><sub>**LXX:**</sub></small>
 You shall not move \[the\] boundaries  of your neighbor, which they established, the ones prior of you among  your inheritance, which you inherited in the land, which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it.
-<small><sub>**BSB:**</sub></small>
-You must not move your neighbor’s boundary marker, which was set up by your ancestors to mark the inheritance you shall receive in the land that the LORD your God is giving you to possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.13|<< Deuteronomy 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.15|Deuteronomy 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 14:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:1**<big><big>[[Luke.14.1 Jesus Heals a Man with Dropsy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him.
 <small><sub>**BSB:**</sub></small>
 One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely.
 <small><sub>**Literal:**</sub></small>
 And it came to pass on the going of Him into a house of one of the rulers of the Pharisees on a Sabbath to eat bread and they themselves were watching Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.35|<< Luke 13:35]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.2|Luke 14:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

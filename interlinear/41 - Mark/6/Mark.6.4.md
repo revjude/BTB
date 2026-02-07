@@ -1,12 +1,12 @@
-**Mark 6:4
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:4**<big><big>[[Mark.6.1 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to them, “Only in his hometown, among his relatives, and in his own household is a prophet without honor.”
 <small><sub>**Literal:**</sub></small>
 And was saying now to them <the> Jesus that Not is a prophet without honor only except in the hometown of him and among the relatives of him and in the household of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.3|<< Mark 6:3]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.5|Mark 6:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | was saying |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 Corinthians 9:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:2**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord.
 <small><sub>**BSB:**</sub></small>
 Even if I am not an apostle to others, surely I am to you. For you are the seal of my apostleship in the Lord.
 <small><sub>**Literal:**</sub></small>
 If to others not I am an apostle, yet at least to you I am; the for seal of my <the> apostleship you yourselves are in [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.1|<< 1 Corinthians 9:1]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.3|1 Corinthians 9:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to others |**<big>[[G0243\|ἄλλοις]]</big>**  |allois <small><sup>[[A-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

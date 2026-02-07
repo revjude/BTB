@@ -1,4 +1,4 @@
-**Jeremiah 33:7** 
+**Jeremiah 33:7**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cause the captivity of Judah and the captivity of Israel to return, and will build them, as at the first.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will restore Judah and Israel from captivity and will rebuild them as in forme
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.6|<< Jeremiah 33:6]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.8|Jeremiah 33:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will turn back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725H\|הֲשִֽׁבֹתִי֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.shi.vo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

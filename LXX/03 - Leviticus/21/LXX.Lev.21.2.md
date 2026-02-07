@@ -1,10 +1,7 @@
 **LXX Leviticus 21:2** 
 <small><sub>**LXX:**</sub></small>
 but only among the members of the family  near them -- for father, and for mother, and for sons, and for daughters, and for brother, 
-<small><sub>**KJV:**</sub></small>
-But for his kin, that is near unto him, [that is], for his mother, and for his father, and for his son, and for his daughter, and for his brother,
-<small><sub>**BSB:**</sub></small>
-except for his immediate family—his mother, father, son, daughter, or brother,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.1|<< Leviticus 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.3|Leviticus 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

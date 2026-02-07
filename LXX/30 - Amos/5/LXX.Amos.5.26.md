@@ -1,10 +1,7 @@
 **LXX Amos 5:26** 
 <small><sub>**LXX:**</sub></small>
 And you took up the tent  of Molech, and the star  of your god, Raiphan, the impressions of them which you made for yourselves. 
-<small><sub>**KJV:**</sub></small>
-But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.
-<small><sub>**BSB:**</sub></small>
-You have taken along Sakkuth your king and Kaiwan your star god, the idols you made for yourselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.25|<< Amos 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.27|Amos 5:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Amos 5:26** is...

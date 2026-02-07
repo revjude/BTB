@@ -1,12 +1,12 @@
-**Acts 18:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:24**<big><big>[[Acts.18.23 Paul’s Third Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a certain Jew named Apollos, born at Alexandria, an eloquent man, [and] mighty in the scriptures, came to Ephesus.
 <small><sub>**BSB:**</sub></small>
 Meanwhile a Jew named Apollos, a native of Alexandria, came to Ephesus. He was an eloquent man, well versed in the Scriptures.
 <small><sub>**Literal:**</sub></small>
 A Jew now certain Apollos named, of Alexandria <the> a native, a man eloquent, came to Ephesus mighty being in the Scriptures.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.23|<< Acts 18:23]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.25|Acts 18:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A Jew |**<big>[[G2453\|Ἰουδαῖος]]</big>**  |Ioudaios <small><sup>[[N-NSM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

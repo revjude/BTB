@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:29** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] to you the sign. You shall eat this  year \[the things grown\] by themselves, and in in the second year the \[things\] rising up, and  the third year you shall sow, and you shall reap, and you shall plant vineyards, and you shall eat  their fruit. 
-<small><sub>**KJV:**</sub></small>
-And this [shall be] a sign unto thee, Ye shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow ye, and reap, and plant vineyards, and eat the fruits thereof.
-<small><sub>**BSB:**</sub></small>
-And this will be a sign to you, O Hezekiah: This year you will eat what grows on its own, and in the second year what springs from the same. But in the third year you will sow and reap; you will plant vineyards and eat their fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.28|<< 2 Kings 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.30|2 Kings 19:30 >>]]</td></tr></table>
 
 | Translation | Greek |

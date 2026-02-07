@@ -1,10 +1,7 @@
 **LXX Job 6:23** 
 <small><sub>**LXX:**</sub></small>
 so as to deliver me from enemies, or to rescue me from out of \[the\] hand of mighty ones? 
-<small><sub>**KJV:**</sub></small>
-Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?
-<small><sub>**BSB:**</sub></small>
-deliver me from the hand of the enemy; redeem me from the grasp of the ruthless’?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.22|<< Job 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.24|Job 6:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 13:30** 
+**Numbers 13:30**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Caleb quieted the people before Moses and said, “We must go up and take p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.29|<< Numbers 13:29]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.31|Numbers 13:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he silenced  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2013\|יַּ֧הַס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.has<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Caleb  |**<big>&#8207;[[H3612G\|כָּלֵ֛ב]]&#8207; </big>**| ka.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 14:12** 
+**1 Kings 14:12**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise thou therefore, get thee to thine own house: [and] when thy feet enter into the city, the child shall die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for you, get up and go home. When your feet enter the city, the child will di
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.11|<< 1 Kings 14:11]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.13|1 Kings 14:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859C\|אַ֥תְּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'At<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arise  |**<big>&#8207;[[H6965B\|ק֖וּמִי]]&#8207; </big>**| Ku.mi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

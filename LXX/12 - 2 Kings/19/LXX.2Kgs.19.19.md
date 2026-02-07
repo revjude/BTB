@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:19** 
 <small><sub>**LXX:**</sub></small>
 And now, O <span class="smallcaps">lord</span>  our God, deliver us from out of his hand! And they shall know in all the kingdoms of the earth that you are \[the\] <span class="smallcaps">lord</span>  God alone. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, O LORD our God, I beseech thee, save thou us out of his hand, that all the kingdoms of the earth may know that thou [art] the LORD God, [even] thou only.
-<small><sub>**BSB:**</sub></small>
-And now, O LORD our God, please save us from his hand, so that all the kingdoms of the earth may know that You alone, O LORD, are God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.18|<< 2 Kings 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.20|2 Kings 19:20 >>]]</td></tr></table>
 
 | Translation | Greek |

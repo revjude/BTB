@@ -1,12 +1,12 @@
-**Acts 16:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:24**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who, having received such a charge, thrust them into the inner prison, and made their feet fast in the stocks.
 <small><sub>**BSB:**</sub></small>
 On receiving this order, he placed them in the inner cell and fastened their feet in the stocks.
 <small><sub>**Literal:**</sub></small>
 who an order such having received threw them into the inner prison and the feet fastened of them in the stocks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.23|<< Acts 16:23]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.25|Acts 16:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | an order |**<big>[[G3852\|παραγγελίαν]]</big>**  |parangelian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

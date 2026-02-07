@@ -1,10 +1,7 @@
 **LXX Joshua 5:9** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said \[to\] Joshua, In  today's day I removed the scorn of Egypt from you. And he called the name  of that place, Gilgal, until  this day. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Joshua, “Today I have rolled away the reproach of Egypt from you.” So that place has been called Gilgal to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.8|<< Joshua 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.10|Joshua 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

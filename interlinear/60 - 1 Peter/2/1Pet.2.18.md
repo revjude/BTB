@@ -1,12 +1,12 @@
-**1 Peter 2:18
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:18**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Servants, [be] subject to [your] masters with all fear; not only to the good and gentle, but also to the froward.
 <small><sub>**BSB:**</sub></small>
 Servants, submit yourselves to your masters with all respect, not only to those who are good and gentle, but even to those who are unreasonable.
 <small><sub>**Literal:**</sub></small>
 you who [are] Servants be subject with all fear <the> to masters, not only to the good and gentle, but also to the unreasonable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.17|<< 1 Peter 2:17]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.19|1 Peter 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you who [are] |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Servants |**<big>[[G3610\|οἰκέται]]</big>**  |oiketai <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

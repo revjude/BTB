@@ -1,5 +1,5 @@
-**Hebrews 11:25
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:25**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;
 <small><sub>**BSB:**</sub></small>
 He chose to suffer oppression with God’s people rather than to experience the fleeting enjoyment of sin.
@@ -10,7 +10,7 @@ rather having chosen to suffer affliction with the people <the> of God than [the
 > $\quad$ alluding to: [[LXX.Exod.2.11|Exod 2:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rather |**<big>[[G3123H\|μᾶλλον]]</big>**  |mallon <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having chosen |**<big>[[G0138\|ἑλόμενος]]</big>**  |helomenos <small><sup>[[V-2AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

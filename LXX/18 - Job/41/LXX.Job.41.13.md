@@ -1,10 +1,7 @@
 **LXX Job 41:13** 
 <small><sub>**LXX:**</sub></small>
 Who will uncover \[the\] front of his clothing? and into \[the\] fold of his chest \[plate\] who can enter? 
-<small><sub>**KJV:**</sub></small>
-Who can discover the face of his garment? [or] who can come [to him] with his double bridle?
-<small><sub>**BSB:**</sub></small>
-Who can strip off his outer coat? Who can approach him with a bridle?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.12|<< Job 41:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.14|Job 41:14 >>]]</td></tr></table>
 
 | Translation | Greek |

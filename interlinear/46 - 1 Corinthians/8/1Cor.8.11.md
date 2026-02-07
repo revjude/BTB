@@ -1,12 +1,12 @@
-**1 Corinthians 8:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:11**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And through thy knowledge shall the weak brother perish, for whom Christ died?
 <small><sub>**BSB:**</sub></small>
 So this weak brother, for whom Christ died, is destroyed by your knowledge.
 <small><sub>**Literal:**</sub></small>
 Is destroyed for the [one] who is being weak through <the> your knowledge, the brother for whom Christ died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.10|<< 1 Corinthians 8:10]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.12|1 Corinthians 8:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Is destroyed [^1] [^2] |**<big>[[G0622\|ἀπόλλυται]]</big>**  |apollutai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | for [^3] |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

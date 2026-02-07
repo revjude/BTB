@@ -1,10 +1,7 @@
 **LXX Numbers 4:10** 
 <small><sub>**LXX:**</sub></small>
 And they shall put it, and all the items for it, into a covering made of skin of blue. And they shall place it upon bearing poles. 
-<small><sub>**KJV:**</sub></small>
-And they shall put it and all the vessels thereof within a covering of badgers’ skins, and shall put [it] upon a bar.
-<small><sub>**BSB:**</sub></small>
-Then they shall wrap it and all its utensils inside a covering of fine leather and put it on the carrying frame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.9|<< Numbers 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.11|Numbers 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

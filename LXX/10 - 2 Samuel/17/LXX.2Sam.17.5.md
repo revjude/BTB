@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:5** 
 <small><sub>**LXX:**</sub></small>
 And Absalom said, Call indeed  Hushai the Archite, and I shall hear what \[is\] in  his mouth, and indeed of him. 
-<small><sub>**KJV:**</sub></small>
-Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he saith.
-<small><sub>**BSB:**</sub></small>
-Then Absalom said, “Summon Hushai the Archite as well, and let us hear what he too has to say.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.4|<< 2 Samuel 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.6|2 Samuel 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

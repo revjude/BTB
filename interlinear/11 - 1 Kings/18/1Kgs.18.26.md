@@ -1,4 +1,4 @@
-**1 Kings 18:26** 
+**1 Kings 18:26**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took the bullock which was given them, and they dressed [it], and called on the name of Baal from morning even until noon, saying, O Baal, hear us. But [there was] no voice, nor any that answered. And they leaped upon the altar which was made.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they took the bull that was given them, prepared it, and called on the name 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.25|<< 1 Kings 18:25]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.27|1 Kings 18:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H3947G\|יִּקְחוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yik.chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

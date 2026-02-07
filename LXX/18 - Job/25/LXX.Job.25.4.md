@@ -1,10 +1,7 @@
 **LXX Job 25:4** 
 <small><sub>**LXX:**</sub></small>
 For how a mortal be just before \[the\] <span class="smallcaps">lord</span>? or who may cleanse himself born of a woman? 
-<small><sub>**KJV:**</sub></small>
-How then can man be justified with God? or how can he be clean [that is] born of a woman?
-<small><sub>**BSB:**</sub></small>
-How then can a man be just before God? How can one born of woman be pure?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.25.3|<< Job 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.5|Job 25:5 >>]]</td></tr></table>
 
 | Translation | Greek |

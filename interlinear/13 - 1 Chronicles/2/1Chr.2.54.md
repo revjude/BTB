@@ -1,4 +1,4 @@
-**1 Chronicles 2:54** 
+**1 Chronicles 2:54**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Salma; Bethlehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The descendants of Salma: Bethlehem, the Netophathites, Atroth-beth-joab, half t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.53|<< 1 Chronicles 2:53]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.55|1 Chronicles 2:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Salma  |**<big>&#8207;[[H8007H\|שַׂלְמָ֗א]]&#8207; </big>**| sal.Ma'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

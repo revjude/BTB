@@ -1,12 +1,12 @@
-**Matthew 1:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:2**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
 <small><sub>**BSB:**</sub></small>
 Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.
 <small><sub>**Literal:**</sub></small>
 Abraham begat <the> Isaac; Isaac then begat <the> Jacob; Jacob then begat <the> Judah and the brothers of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.1|<< Matthew 1:1]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.3|Matthew 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Abraham |**<big>[[G0011\|Ἀβραὰμ]]</big>**  [^1] |Abraam <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | begat |**<big>[[G1080\|ἐγέννησεν]]</big>**  |egennēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

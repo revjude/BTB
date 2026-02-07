@@ -1,4 +1,4 @@
-**2 Samuel 19:24** (19:25)
+**2 Samuel 19:24**<big><big>[[2Sam.19.24 Mephibosheth Excused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mephibosheth the son of Saul came down to meet the king, and had neither dressed his feet, nor trimmed his beard, nor washed his clothes, from the day the king departed until the day he came [again] in peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Mephibosheth, Saul’s grandson, went down to meet the king. He had not car
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.23|<< 2 Samuel 19:23]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.25|2 Samuel 19:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Mephibosheth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4648G\|מְפִבֹ֙שֶׁת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.fi.Vo.shet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121G\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

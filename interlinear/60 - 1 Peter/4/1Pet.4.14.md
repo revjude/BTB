@@ -1,5 +1,5 @@
-**1 Peter 4:14
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:14**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye be reproached for the name of Christ, happy [are ye]; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
 <small><sub>**BSB:**</sub></small>
 If you are insulted for the name of Christ, you are blessed, because the Spirit of glory and of God rests on you.
@@ -10,7 +10,7 @@ If you are insulted in [the] name of Christ, [you are] blessed; because <the> <t
 > $\quad$ referencing: [[LXX.Isa.11.2|Isa 11:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you are insulted |**<big>[[G3679\|ὀνειδίζεσθε]]</big>**  |oneidizesthe <small><sup>[[V-PPI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

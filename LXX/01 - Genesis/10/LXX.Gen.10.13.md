@@ -1,10 +1,7 @@
 **LXX Genesis 10:13** 
 <small><sub>**LXX:**</sub></small>
 And Mizraim procreated the Ludim, and the Naphtuhim, and the Anamim, and the Lehabim, 
-<small><sub>**KJV:**</sub></small>
-And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,
-<small><sub>**BSB:**</sub></small>
-Mizraim was the father of the Ludites, the Anamites, the Lehabites, the Naphtuhites,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.12|<< Genesis 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.14|Genesis 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

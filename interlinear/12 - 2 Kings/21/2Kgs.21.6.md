@@ -1,4 +1,4 @@
-**2 Kings 21:6** 
+**2 Kings 21:6**<big><big>[[2Kgs.21.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made his son pass through the fire, and observed times, and used enchantments, and dealt with familiar spirits and wizards: he wrought much wickedness in the sight of the LORD, to provoke [him] to anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sacrificed his own son in the fire, practiced sorcery and divination, and con
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.5|<< 2 Kings 21:5]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.7|2 Kings 21:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made pass  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|הֶעֱבִ֤יר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.'e.Vir<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

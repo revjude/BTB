@@ -1,4 +1,4 @@
-**1 Chronicles 14:11** 
+**1 Chronicles 14:11**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they came up to Baalperazim; and David smote them there. Then David said, God hath broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baalperazim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David and his men went up to Baal-perazim, where he defeated the Philistines 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.10|<< 1 Chronicles 14:10]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.12|1 Chronicles 14:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּעֲל֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at Baal  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1188\|בַֽעַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> va.'al-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

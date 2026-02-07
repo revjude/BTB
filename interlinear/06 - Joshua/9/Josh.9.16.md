@@ -1,4 +1,4 @@
-**Joshua 9:16** 
+**Joshua 9:16**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the end of three days after they had made a league with them, that they heard that they [were] their neighbours, and [that] they dwelt among them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Three days after they had made the treaty with the Gibeonites, the Israelites le
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.15|<< Joshua 9:15]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.17|Joshua 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] end of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7097A\|קְצֵה֙]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> k.Tzeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

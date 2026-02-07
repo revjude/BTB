@@ -1,10 +1,7 @@
 **LXX Leviticus 23:43** 
 <small><sub>**LXX:**</sub></small>
 so that your generations should see that in tents I settled the sons of Israel, in  my leading them from \[the\] land of Egypt. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-That your generations may know that I made the children of Israel to dwell in booths, when I brought them out of the land of Egypt: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-so that your descendants may know that I made the Israelites dwell in booths when I brought them out of the land of Egypt. I am the LORD your God.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.42|<< Leviticus 23:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.44|Leviticus 23:44 >>]]</td></tr></table>
 
 | Translation | Greek |

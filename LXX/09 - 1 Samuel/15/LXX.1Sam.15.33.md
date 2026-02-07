@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:33** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to Agag, As your broadsword childless women, thus your mother shall be made childless among women. And Samuel slew  Agag in the presence of \[the\] <span class="smallcaps">lord</span> in Gilgal. 
-<small><sub>**KJV:**</sub></small>
-And Samuel said, As thy sword hath made women childless, so shall thy mother be childless among women. And Samuel hewed Agag in pieces before the LORD in Gilgal.
-<small><sub>**BSB:**</sub></small>
-But Samuel declared: “As your sword has made women childless, so your mother will be childless among women.” And Samuel hacked Agag to pieces before the LORD at Gilgal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.32|<< 1 Samuel 15:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.34|1 Samuel 15:34 >>]]</td></tr></table>
 
 | Translation | Greek |

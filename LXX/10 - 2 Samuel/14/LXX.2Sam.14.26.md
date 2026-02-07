@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:26** 
 <small><sub>**LXX:**</sub></small>
 And in  his shearing  his head, and it took place at \[the\] end of days unto days that he sheared it, for it became burdensome upon him; and shearing, he set \[aside\] the hair  of his head two hundred shekels of the royal scale-weight. 
-<small><sub>**KJV:**</sub></small>
-And when he polled his head, (for it was at every year’s end that he polled [it]: because [the hair] was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels after the king’s weight.
-<small><sub>**BSB:**</sub></small>
-And when he cut the hair of his head—he shaved it every year because his hair got so heavy—he would weigh it out to be two hundred shekels, according to the royal standard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.25|<< 2 Samuel 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.27|2 Samuel 14:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 34:14** 
 <small><sub>**LXX:**</sub></small>
 And said to them Simeon and Levi the brothers of Dinah, We shall not be able to do  this matter, to give  our sister to a man who has a foreskin, for it is scorn to us. 
-<small><sub>**KJV:**</sub></small>
-And they said unto them, We cannot do this thing, to give our sister to one that is uncircumcised; for that [were] a reproach unto us:
-<small><sub>**BSB:**</sub></small>
-“We cannot do such a thing,” they said. “To give our sister to an uncircumcised man would be a disgrace to us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.13|<< Genesis 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.15|Genesis 34:15 >>]]</td></tr></table>
 
 | Translation | Greek |

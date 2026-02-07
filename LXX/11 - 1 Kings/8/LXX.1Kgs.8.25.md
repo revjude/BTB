@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:25** 
 <small><sub>**LXX:**</sub></small>
 And now, O <span class="smallcaps">lord</span>  God of Israel, keep with your servant David,  my father, \[that\] which you spoke to him! saying, There shall not be lifted away from you a man from my face sitting upon \[the\] throne of Israel, except that your sons shall guard  their ways  to go before me, as you went before me. 
-<small><sub>**KJV:**</sub></small>
-Therefore now, LORD God of Israel, keep with thy servant David my father that thou promisedst him, saying, There shall not fail thee a man in my sight to sit on the throne of Israel; so that thy children take heed to their way, that they walk before me as thou hast walked before me.
-<small><sub>**BSB:**</sub></small>
-Therefore now, O LORD, God of Israel, keep for Your servant, my father David, what You promised when You said: ‘You will never fail to have a man to sit before Me on the throne of Israel, if only your descendants guard their way to walk before Me as you have done.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.24|<< 1 Kings 8:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.26|1 Kings 8:26 >>]]</td></tr></table>
 
 | Translation | Greek |

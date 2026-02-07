@@ -1,4 +1,4 @@
-**Exodus 27:4** 
+**Exodus 27:4**<big><big>[[Exod.27.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make for it a grate of network [of] brass; and upon the net shalt thou make four brasen rings in the four corners thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Construct for it a grate of bronze mesh, and make a bronze ring at each of the f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.3|<< Exodus 27:3]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.5|Exodus 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֤יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> it  |**<big>&#8207;[[H9005\|לּ]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

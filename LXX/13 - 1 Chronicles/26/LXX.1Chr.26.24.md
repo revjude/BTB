@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:24** 
 <small><sub>**LXX:**</sub></small>
 And Shebuel the \[son of\] Gershom, the \[son\] of Moses, \[was\] leading over the treasures. 
-<small><sub>**KJV:**</sub></small>
-And Shebuel the son of Gershom, the son of Moses, [was] ruler of the treasures.
-<small><sub>**BSB:**</sub></small>
-Shebuel, a descendant of Gershom son of Moses, was the officer in charge of the treasuries.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.23|<< 1 Chronicles 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.25|1 Chronicles 26:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 25:28** 
+**Proverbs 25:28**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that [hath] no rule over his own spirit [is like] a city [that is] broken down, [and] without walls.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a city whose walls are broken down is a man who does not control his temper
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.27|<< Proverbs 25:27]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.1|Proverbs 26:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a city  |**<big>&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| 'ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | broken into  |**<big>&#8207;[[H6555\|פְּ֭רוּצָה]]&#8207; </big>**| Pe.ru.tzah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

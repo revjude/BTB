@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:50** 
 <small><sub>**LXX:**</sub></small>
 And they bragged, and committed violations of the law before me. And I removed them as you saw. 
-<small><sub>**KJV:**</sub></small>
-And they were haughty, and committed abomination before me: therefore I took them away as I saw [good].
-<small><sub>**BSB:**</sub></small>
-Thus they were haughty and committed abominations before Me. Therefore I removed them, as you have seen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.49|<< Ezekiel 16:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.51|Ezekiel 16:51 >>]]</td></tr></table>
 
 | Translation | Greek |

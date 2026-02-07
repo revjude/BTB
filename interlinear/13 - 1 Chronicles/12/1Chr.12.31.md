@@ -1,4 +1,4 @@
-**1 Chronicles 12:31** (12:32)
+**1 Chronicles 12:31**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the half-tribe of Manasseh: 18,000 designated by name to come and make Davi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.30|<< 1 Chronicles 12:30]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.32|1 Chronicles 12:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and of [the] half of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2677\|חֲצִי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> cha.Tzi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tribe of  |**<big>&#8207;[[H4294H\|מַטֵּ֣ה]]&#8207; </big>**| ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

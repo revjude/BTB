@@ -1,12 +1,12 @@
-**Luke 19:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:8**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore [him] fourfold.
 <small><sub>**BSB:**</sub></small>
 But Zacchaeus stood up and said to the Lord, “Look, Lord, half of my possessions I give to the poor, and if I have cheated anyone, I will repay it fourfold.”
 <small><sub>**Literal:**</sub></small>
 Having stood then Zacchaeus said to the Lord; Behold the half my <the> possessions Lord, to the poor I give; and if of anyone anything I have defrauded, I restore [it] fourfold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.7|<< Luke 19:7]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.9|Luke 19:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having stood |**<big>[[G2476\|Σταθεὶς]]</big>**  |Statheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

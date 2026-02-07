@@ -1,4 +1,4 @@
-**Leviticus 2:12** 
+**Leviticus 2:12**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You may bring them to the LORD as an offering of firstfruits, but they must not 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.11|<< Leviticus 2:11]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.13|Leviticus 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a present of  |**<big>&#8207;[[H7133A\|קָרְבַּ֥ן]]&#8207; </big>**| ka.re.Ban<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | first [fruit]  |**<big>&#8207;[[H7225G\|רֵאשִׁ֛ית]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

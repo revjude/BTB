@@ -1,4 +1,4 @@
-**2 Kings 7:18** 
+**2 Kings 7:18**<big><big>[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, shall be to morrow about this time in the gate of Samaria:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It happened just as the man of God had told the king: “About this time tomorro
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.17|<< 2 Kings 7:17]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.19|2 Kings 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as had spoken  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1696G\|דַבֵּר֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

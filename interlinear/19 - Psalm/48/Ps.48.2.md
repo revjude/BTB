@@ -1,4 +1,4 @@
-**Psalms 48:2** (48:3)
+**Psalms 48:2**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beautiful for situation, the joy of the whole earth, [is] mount Zion, [on] the sides of the north, the city of the great King.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Beautiful in loftiness, the joy of all the earth, like the peaks of Zaphon is Mo
 > $\quad$ referenced by: [[Matt.5.35|Matt 5:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [it is] beautiful of  |**<big>&#8207;[[H3303\|יְפֵ֥ה]]&#8207; </big>**| ye.Peh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | height  |**<big>&#8207;[[H5131\|נוֹף֮]]&#8207; </big>**| nOf<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

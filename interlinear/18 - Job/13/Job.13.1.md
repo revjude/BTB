@@ -1,4 +1,4 @@
-**Job 13:1** 
+**Job 13:1**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, mine eye hath seen all [this], mine ear hath heard and understood it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lo, mine eye hath seen all [this], mine ear hath heard and understood it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.25|<< Job 12:25]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.2|Job 13:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hen-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כֹּ֭ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

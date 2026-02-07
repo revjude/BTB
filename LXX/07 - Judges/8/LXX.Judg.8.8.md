@@ -1,10 +1,7 @@
 **LXX Judges 8:8** 
 <small><sub>**LXX:**</sub></small>
 And he ascended from there to Penuel, and spoke to them according to these \[things\]. And the men of Penuel answered to him in which manner the men of Succoth answered to him. 
-<small><sub>**KJV:**</sub></small>
-And he went up thence to Penuel, and spake unto them likewise: and the men of Penuel answered him as the men of Succoth had answered [him].
-<small><sub>**BSB:**</sub></small>
-From there he went up to Penuel and asked the same from them, but the men of Penuel gave the same response as the men of Succoth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.7|<< Judges 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.9|Judges 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

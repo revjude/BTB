@@ -1,4 +1,4 @@
-**Esther 9:22** 
+**Esther 9:22**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the days wherein the Jews rested from their enemies, and the month which was turned unto them from sorrow to joy, and from mourning into a good day: that they should make them days of feasting and joy, and of sending portions one to another, and gifts to the poor.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ as the days on which the Jews gained rest from their enemies and the month in wh
 > $\quad$ referenced by: [[Rev.11.10|Rev 11:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as the days  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3117G\|יָּמִ֗ים]]&#8207; </big>**| ka<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

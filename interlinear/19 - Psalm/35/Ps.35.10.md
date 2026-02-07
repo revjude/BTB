@@ -1,4 +1,4 @@
-**Psalms 35:10** 
+**Psalms 35:10**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All my bones shall say, LORD, who [is] like unto thee, which deliverest the poor from him that is too strong for him, yea, the poor and the needy from him that spoileth him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All my bones will exclaim, “Who is like You, O LORD, who delivers the afflicte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.9|<< Psalms 35:9]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.11|Psalms 35:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּ֥ל]]&#8207; </big>**| kal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bones my  |**<big>&#8207;[[H6106G\|עַצְמוֹתַ֨]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| atz.mo.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

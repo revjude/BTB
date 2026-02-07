@@ -1,10 +1,7 @@
 **LXX Genesis 47:31** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Swear by an oath to me! And he swore by an oath to him. And Israel did obeisance upon the top  of his cane. 
-<small><sub>**KJV:**</sub></small>
-And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed’s head.
-<small><sub>**BSB:**</sub></small>
-“Swear to me,” Jacob said. So Joseph swore to him, and Israel bowed in worship at the head of his bed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.30|<< Genesis 47:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.1|Genesis 48:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 47:31** is...

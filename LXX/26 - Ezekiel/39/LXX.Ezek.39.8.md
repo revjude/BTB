@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:8** 
 <small><sub>**LXX:**</sub></small>
 Behold, it is come, and you shall know that it will be, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; this is the day in which I spoke. 
-<small><sub>**KJV:**</sub></small>
-Behold, it is come, and it is done, saith the Lord GOD; this [is] the day whereof I have spoken.
-<small><sub>**BSB:**</sub></small>
-Yes, it is coming, and it will surely happen, declares the Lord GOD. This is the day of which I have spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.7|<< Ezekiel 39:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.9|Ezekiel 39:9 >>]]</td></tr></table>
 
 | Translation | Greek |

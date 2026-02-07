@@ -1,4 +1,4 @@
-**2 Chronicles 36:10** 
+**2 Chronicles 36:10**<big><big>[[2Chr.36.9 Jehoiachin Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the spring, King Nebuchadnezzar summoned Jehoiachin and brought him to Babylo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.9|<< 2 Chronicles 36:9]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.11|2 Chronicles 36:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] return of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8666\|תְשׁוּבַ֣ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> t.shu.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the year  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8141\|שָּׁנָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

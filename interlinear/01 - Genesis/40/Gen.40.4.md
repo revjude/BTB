@@ -1,4 +1,4 @@
-**Genesis 40:4** 
+**Genesis 40:4**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The captain of the guard assigned them to Joseph, and he became their personal a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.3|<< Genesis 40:3]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.5|Genesis 40:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appointed  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H6485J\|יִּפְקֹד]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yif.kod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] commander of  |**<big>&#8207;[[H8269\|שַׂ֣ר]]&#8207; </big>**| sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

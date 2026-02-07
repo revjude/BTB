@@ -1,4 +1,4 @@
-**1 Samuel 18:20** 
+**1 Samuel 18:20**<big><big>[[1Sam.18.17 David Marries Michal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Michal Saul’s daughter loved David: and they told Saul, and the thing pleased him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Saul’s daughter Michal loved David, and when this was reported to Saul, it
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.19|<< 1 Samuel 18:19]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.21|1 Samuel 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she loved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0157G\|תֶּאֱהַ֛ב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.'e.Hav<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Michal  |**<big>&#8207;[[H4324G\|מִיכַ֥ל]]&#8207; </big>**| mi.Khal<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

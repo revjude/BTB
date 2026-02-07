@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:12** 
 <small><sub>**LXX:**</sub></small>
 And all the Jews were returned from every place into which they were dispersed. And they came to Gedaliah in \[the\] land of Judah in Mizpah. And they gathered wine and autumn fruits -- much, exceedingly, and olive oil. 
-<small><sub>**KJV:**</sub></small>
-Even all the Jews returned out of all places whither they were driven, and came to the land of Judah, to Gedaliah, unto Mizpah, and gathered wine and summer fruits very much.
-<small><sub>**BSB:**</sub></small>
-they all returned from all the places to which they had been banished and came to the land of Judah, to Gedaliah at Mizpah. And they gathered an abundance of wine grapes and summer fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.11|<< Jeremiah 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.13|Jeremiah 40:13 >>]]</td></tr></table>
 
 | Translation | Greek |

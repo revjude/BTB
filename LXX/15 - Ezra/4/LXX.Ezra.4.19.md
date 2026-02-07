@@ -1,10 +1,7 @@
 **LXX Ezra 4:19** 
 <small><sub>**LXX:**</sub></small>
 And by me was rendered a decree, and they examined and it was found that  that city from days of \[the\] eon lifts itself up against kings, and defections and exiles take place in it. 
-<small><sub>**KJV:**</sub></small>
-And I commanded, and search hath been made, and it is found that this city of old time hath made insurrection against kings, and [that] rebellion and sedition have been made therein.
-<small><sub>**BSB:**</sub></small>
-I issued a decree, and a search was conducted. It was discovered that this city has revolted against kings from ancient times, engaging in rebellion and sedition.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.18|<< Ezra 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.20|Ezra 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 10:21** 
+**Ezekiel 10:21**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one had four faces apiece, and every one four wings; and the likeness of the hands of a man [was] under their wings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each had four faces and four wings, with what looked like human hands under thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.20|<< Ezekiel 10:20]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.22|Ezekiel 10:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | four  |**<big>&#8207;[[H0702\|אַרְבָּעָ֨ה]]&#8207; </big>**| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | four  |**<big>&#8207;[[H0702\|אַרְבָּעָ֤ה]]&#8207; </big>**| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

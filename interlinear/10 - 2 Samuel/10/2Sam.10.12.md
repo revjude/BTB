@@ -1,4 +1,4 @@
-**2 Samuel 10:12** 
+**2 Samuel 10:12**<big><big>[[2Sam.10.9 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be strong and let us fight bravely for our people and for the cities of our God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.11|<< 2 Samuel 10:11]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.13|2 Samuel 10:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be strong  |**<big>&#8207;[[H2388G\|חֲזַ֤ק]]&#8207; </big>**| cha.Zak<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so we may show ourselves strong  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2388G\|נִתְחַזַּק֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nit.cha.Zak<small><sup>[[HVtu1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 15:25** 
+**1 Samuel 15:25**<big><big>[[1Sam.15.24 Saul’s Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, I pray thee, pardon my sin, and turn again with me, that I may worship the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now therefore, please forgive my sin and return with me so I can worship the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.24|<< 1 Samuel 15:24]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.26|1 Samuel 15:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forgive  |**<big>&#8207;[[H5375I\|שָׂ֥א]]&#8207; </big>**| sa'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

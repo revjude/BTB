@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:12** 
 <small><sub>**LXX:**</sub></small>
 And Samuel took one stone, and set it between Mizpeh and between the old \[city\]. And he called the name of it, Ebenezer,  signifying, Stone of the Helper. And he said, Unto here the <span class="smallcaps">lord</span> helped us. 
-<small><sub>**KJV:**</sub></small>
-Then Samuel took a stone, and set [it] between Mizpeh and Shen, and called the name of it Ebenezer, saying, Hitherto hath the LORD helped us.
-<small><sub>**BSB:**</sub></small>
-Afterward, Samuel took a stone and set it up between Mizpah and Shen. He named it Ebenezer, saying, “Thus far the LORD has helped us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.11|<< 1 Samuel 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.13|1 Samuel 7:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:12** is...

@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, Do not say that! I am younger. For to all whom ever I should send you, you shall go; and according to all as much as I should give charge to you, you shall speak. 
-<small><sub>**KJV:**</sub></small>
-But the LORD said unto me, Say not, I [am] a child: for thou shalt go to all that I shall send thee, and whatsoever I command thee thou shalt speak.
-<small><sub>**BSB:**</sub></small>
-But the LORD told me: “Do not say, ‘I am only a child.’ For to everyone I send you, you must go, and all that I command you, you must speak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.6|<< Jeremiah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.8|Jeremiah 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

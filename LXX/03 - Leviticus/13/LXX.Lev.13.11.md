@@ -1,10 +1,7 @@
 **LXX Leviticus 13:11** 
 <small><sub>**LXX:**</sub></small>
 it is a leprosy becoming old in the skin  of his flesh, and the priest shall declare him defiled, and shall separate him, for he is unclean. 
-<small><sub>**KJV:**</sub></small>
-It [is] an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he [is] unclean.
-<small><sub>**BSB:**</sub></small>
-it is a chronic skin disease and the priest must pronounce him unclean. He need not isolate him, for he is unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.10|<< Leviticus 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.12|Leviticus 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

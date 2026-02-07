@@ -1,10 +1,7 @@
 **LXX Proverbs 22:26** 
 <small><sub>**LXX:**</sub></small>
 Do not give yourself for surety! shaming \[the\] face, 
-<small><sub>**KJV:**</sub></small>
-Be not thou [one] of them that strike hands, [or] of them that are sureties for debts.
-<small><sub>**BSB:**</sub></small>
-Do not be one who gives pledges, who puts up security for debts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.25|<< Proverbs 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.27|Proverbs 22:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 13:25** 
 <small><sub>**LXX:**</sub></small>
 And spirit \[of the\] <span class="smallcaps">lord</span> began to go forth with him in \[the\] camp of Dan, between Zorah and between Eshtaol. 
-<small><sub>**KJV:**</sub></small>
-And the Spirit of the LORD began to move him at times in the camp of Dan between Zorah and Eshtaol.
-<small><sub>**BSB:**</sub></small>
-And the Spirit of the LORD began to stir him at Mahaneh-dan, between Zorah and Eshtaol.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.24|<< Judges 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.1|Judges 14:1 >>]]</td></tr></table>
 
 | Translation | Greek |

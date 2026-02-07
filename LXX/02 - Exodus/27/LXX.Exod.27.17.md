@@ -1,10 +1,7 @@
 **LXX Exodus 27:17** 
 <small><sub>**LXX:**</sub></small>
 All the posts of the courtyard round about being plated in silver, and  their tips made of silver, and  their bases of brass. 
-<small><sub>**KJV:**</sub></small>
-All the pillars round about the court [shall be] filleted with silver; their hooks [shall be of] silver, and their sockets [of] brass.
-<small><sub>**BSB:**</sub></small>
-All the posts around the courtyard shall have silver bands, silver hooks, and bronze bases.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.16|<< Exodus 27:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.18|Exodus 27:18 >>]]</td></tr></table>
 
 | Translation | Greek |

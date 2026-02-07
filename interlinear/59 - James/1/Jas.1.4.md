@@ -1,12 +1,12 @@
-**James 1:4
-**<small><sub>**KJV:**</sub></small>
+**James 1:4**<big><big>[[Jas.1.2 Rejoicing in Trials|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But let patience have [her] perfect work, that ye may be perfect and entire, wanting nothing.
 <small><sub>**BSB:**</sub></small>
 Allow perseverance to finish its work, so that you may be mature and complete, not lacking anything.
 <small><sub>**Literal:**</sub></small>
 <the> And endurance work [its] perfect should have, so that you may be perfect and complete in nothing lacking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.3|<< James 1:3]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.5|James 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

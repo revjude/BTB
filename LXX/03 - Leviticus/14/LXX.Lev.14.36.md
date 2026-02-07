@@ -1,10 +1,7 @@
 **LXX Leviticus 14:36** 
 <small><sub>**LXX:**</sub></small>
 And the priest will assign to pack up the house before the priest enters to look at the infection, that no way should become unclean as much as might be in the house. And after these \[things\] the priest shall enter to study the house. 
-<small><sub>**KJV:**</sub></small>
-Then the priest shall command that they empty the house, before the priest go [into it] to see the plague, that all that [is] in the house be not made unclean: and afterward the priest shall go in to see the house:
-<small><sub>**BSB:**</sub></small>
-The priest must order that the house be cleared before he enters it to examine the mildew, so that nothing in the house will become unclean. After this, the priest shall go in to inspect the house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.35|<< Leviticus 14:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.37|Leviticus 14:37 >>]]</td></tr></table>
 
 | Translation | Greek |

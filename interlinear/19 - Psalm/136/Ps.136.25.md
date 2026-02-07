@@ -1,4 +1,4 @@
-**Psalms 136:25** 
+**Psalms 136:25**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who giveth food to all flesh: for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He gives food to every creature. His loving devotion endures forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.24|<< Psalms 136:24]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.26|Psalms 136:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] giving  |**<big>&#8207;[[H5414G\|נֹתֵ֣ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | food  |**<big>&#8207;[[H3899G\|לֶ֭חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

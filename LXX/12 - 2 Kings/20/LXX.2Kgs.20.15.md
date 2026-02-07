@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:15** 
 <small><sub>**LXX:**</sub></small>
 And he said, What did they behold in  your house? And Hezekiah said, All as much \[is\] in  my house they beheld. There was nothing in  my house which I did not show to them, and in  my treasuries. 
-<small><sub>**KJV:**</sub></small>
-And he said, What have they seen in thine house? And Hezekiah answered, All [the things] that [are] in mine house have they seen: there is nothing among my treasures that I have not shewed them.
-<small><sub>**BSB:**</sub></small>
-“What have they seen in your palace?” Isaiah asked. “They have seen everything in my palace,” answered Hezekiah. “There is nothing among my treasures that I did not show them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.14|<< 2 Kings 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.16|2 Kings 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

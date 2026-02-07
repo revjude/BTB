@@ -1,10 +1,7 @@
 **LXX Isaiah 58:14** 
 <small><sub>**LXX:**</sub></small>
 then shall you be relying upon \[the\] <span class="smallcaps">lord</span>, and he will bring the good \[things\] upon your  land, and he will feed you the inheritance of Jacob  your father. For the mouth  of \[the\] <span class="smallcaps">lord</span> spoke these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou delight thyself in the LORD; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the LORD hath spoken [it].
-<small><sub>**BSB:**</sub></small>
-then you will delight yourself in the LORD, and I will make you ride on the heights of the land and feed you with the heritage of your father Jacob.” For the mouth of the LORD has spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.13|<< Isaiah 58:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.1|Isaiah 59:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the impartial parables of Solomon, which the friends of Hezekiah the king of Judea wrote out. 
-<small><sub>**KJV:**</sub></small>
-These [are] also proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
-<small><sub>**BSB:**</sub></small>
-These are additional proverbs of Solomon, which were copied by the men of Hezekiah king of Judah:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.34|<< Proverbs 24:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.2|Proverbs 25:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:16** 
 <small><sub>**LXX:**</sub></small>
 And I said, Wisdom \[is\] good over power. But \[the\] wisdom of the needy \[man\] is being treated with contempt, and his words are not being listened to. 
-<small><sub>**KJV:**</sub></small>
-Then said I, Wisdom [is] better than strength: nevertheless the poor man’s wisdom [is] despised, and his words are not heard.
-<small><sub>**BSB:**</sub></small>
-And I said, “Wisdom is better than strength, but the wisdom of the poor man is despised, and his words are not heeded.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.15|<< Ecclesiastes 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.17|Ecclesiastes 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

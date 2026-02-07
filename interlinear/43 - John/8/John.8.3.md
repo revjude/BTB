@@ -1,12 +1,12 @@
-**John 8:3
-**<small><sub>**KJV:**</sub></small>
+**John 8:3**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,
 <small><sub>**BSB:**</sub></small>
 The scribes and Pharisees, however, brought to Him a woman caught in adultery. They made her stand before them
 <small><sub>**Literal:**</sub></small>
 Bring now the scribes and the Pharisees to him a woman in adultery having been grasped and having set her in [the] midst<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.2|<< John 8:2]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.4|John 8:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Bring |**<big>[[G0071\|ἄγουσιν]]</big>**  |agousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |

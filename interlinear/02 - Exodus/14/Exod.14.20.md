@@ -1,4 +1,4 @@
-**Exodus 14:20** 
+**Exodus 14:20**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness [to them], but it gave light by night [to these]: so that the one came not near the other all the night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that it came between the camps of Egypt and Israel. The cloud was there in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.19|<< Exodus 14:19]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.21|Exodus 14:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֞א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | between  |**<big>&#8207;[[H0996G\|בֵּ֣ין]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

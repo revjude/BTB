@@ -1,12 +1,12 @@
-**Acts 13:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:15**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, [Ye] men [and] brethren, if ye have any word of exhortation for the people, say on.
 <small><sub>**BSB:**</sub></small>
 After the reading from the Law and the Prophets, the synagogue leaders sent word to them: “Brothers, if you have a word of encouragement for the people, please speak.”
 <small><sub>**Literal:**</sub></small>
 After then the reading of the law and of the Prophets sent the rulers of the synagogue to them saying; Men brothers, if any there is among you a word of exhortation toward the people, do speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.14|<< Acts 13:14]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.16|Acts 13:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

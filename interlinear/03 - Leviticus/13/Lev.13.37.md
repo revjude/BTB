@@ -1,4 +1,4 @@
-**Leviticus 13:37** 
+**Leviticus 13:37**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the scall be in his sight at a stay, and [that] there is black hair grown up therein; the scall is healed, he [is] clean: and the priest shall pronounce him clean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If, however, in his sight the scaly outbreak is unchanged and black hair has gro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.36|<< Leviticus 13:36]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.38|Leviticus 13:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in view his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869A\|עֵינָי]]&#8207;&#8207;[[H9023\|ו֩]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

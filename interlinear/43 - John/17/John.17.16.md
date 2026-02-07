@@ -1,12 +1,12 @@
-**John 17:16
-**<small><sub>**KJV:**</sub></small>
+**John 17:16**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They are not of the world, even as I am not of the world.
 <small><sub>**BSB:**</sub></small>
 They are not of the world, just as I am not of the world.
 <small><sub>**Literal:**</sub></small>
 Of the world not they are even as I myself not am of the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.15|<< John 17:15]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.17|John 17:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

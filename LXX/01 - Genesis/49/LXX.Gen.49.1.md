@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob called  his sons, and said, Come together that I may announce to you what will meet to you upon \[the\] last of the days! 
-<small><sub>**KJV:**</sub></small>
-And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you [that] which shall befall you in the last days.
-<small><sub>**BSB:**</sub></small>
-Then Jacob called for his sons and said, “Gather around so that I can tell you what will happen to you in the days to come:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.22|<< Genesis 48:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.2|Genesis 49:2 >>]]</td></tr></table>
 
 | Translation | Greek |

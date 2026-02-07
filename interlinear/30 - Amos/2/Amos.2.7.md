@@ -1,4 +1,4 @@
-**Amos 2:7** 
+**Amos 2:7**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That pant after the dust of the earth on the head of the poor, and turn aside the way of the meek: and a man and his father will go in unto the [same] maid, to profane my holy name:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They trample on the heads of the poor as on the dust of the earth; they push the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.6|<< Amos 2:6]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.8|Amos 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] trample  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7602B\|שֹּׁאֲפִ֤ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.'a.Fim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

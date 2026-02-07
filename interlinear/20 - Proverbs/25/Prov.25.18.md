@@ -1,4 +1,4 @@
-**Proverbs 25:18** 
+**Proverbs 25:18**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man that beareth false witness against his neighbour [is] a maul, and a sword, and a sharp arrow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a club or sword or sharp arrow is a man who bears false witness against his
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.17|<< Proverbs 25:17]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.19|Proverbs 25:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a war-club  |**<big>&#8207;[[H4650\|מֵפִ֣יץ]]&#8207; </big>**| me.Fitz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a sword  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H2719\|חֶרֶב]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

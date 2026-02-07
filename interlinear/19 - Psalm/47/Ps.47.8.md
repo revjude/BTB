@@ -1,4 +1,4 @@
-**Psalms 47:8** (47:9)
+**Psalms 47:8**<big><big>[[Ps.47.1 Clap Your Hands, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God reigneth over the heathen: God sitteth upon the throne of his holiness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God reigns over the nations; God is seated on His holy throne.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.47.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.47.7|<< Psalms 47:7]]</td><td align="center" style="border:none;">[[Ps.47|Psalms 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.47.9|Psalms 47:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he reigns  |**<big>&#8207;[[H4427A\|מָלַ֣ךְ]]&#8207; </big>**| ma.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

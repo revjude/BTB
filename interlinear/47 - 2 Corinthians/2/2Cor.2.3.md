@@ -1,12 +1,12 @@
-**2 Corinthians 2:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:3**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is [the joy] of you all.
 <small><sub>**BSB:**</sub></small>
 I wrote as I did so that on my arrival I would not be grieved by those who ought to make me rejoice. I had confidence in all of you, that you would share my joy.
 <small><sub>**Literal:**</sub></small>
 And I wrote to you this same thing, so that not having come grief I may have from [those] of whom it was necessary me to rejoice having trusted in all you that <the> my joy of all of you is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.2|<< 2 Corinthians 2:2]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.4|2 Corinthians 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I wrote |**<big>[[G1125\|ἔγραψα]]</big>**  |egrapsa <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

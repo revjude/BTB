@@ -1,4 +1,4 @@
-**Numbers 6:5** 
+**Numbers 6:5**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the days of the vow of his separation there shall no rasor come upon his head: until the days be fulfilled, in the which he separateth [himself] unto the LORD, he shall be holy, [and] shall let the locks of the hair of his head grow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the entire period of his vow of separation, no razor shall touch his head. H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.4|<< Numbers 6:4]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.6|Numbers 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] days of  |**<big>&#8207;[[H3117G\|יְמֵי֙]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

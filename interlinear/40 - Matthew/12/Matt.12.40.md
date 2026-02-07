@@ -1,5 +1,5 @@
-**Matthew 12:40
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:40**<big><big>[[Matt.12.38 The Sign of Jonah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.
 <small><sub>**BSB:**</sub></small>
 For as Jonah was three days and three nights in the belly of the great fish, so the Son of Man will be three days and three nights in the heart of the earth.
@@ -10,7 +10,7 @@ Just as for was Jonah in the belly of the great fish three days and three nights
 > $\quad$ referencing: [[LXX.Jonah.1.17|Jonah 1:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Just as |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

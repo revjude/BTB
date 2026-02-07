@@ -1,4 +1,4 @@
-**Psalms 66:3** 
+**Psalms 66:3**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say unto God, How terrible [art thou in] thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Say to God, “How awesome are Your deeds! So great is Your power that Your enem
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.2|<< Psalms 66:2]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.4|Psalms 66:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אִמְר֣וּ]]&#8207; </big>**| 'im.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to God  |**<big>&#8207;[[H9005\|לֵ֭]]&#8207;&#8207;[[H0430G\|אלֹהִים]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> lo.him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

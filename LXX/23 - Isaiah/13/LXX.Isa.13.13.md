@@ -1,10 +1,7 @@
 **LXX Isaiah 13:13** 
 <small><sub>**LXX:**</sub></small>
 For the heaven shall be enraged, and the earth shall be shaken from out of  its foundation, because of \[the\] rage of \[the\] anger of \[the\] <span class="smallcaps">lord</span> of Hosts in the day which ever his rage should come about. 
-<small><sub>**KJV:**</sub></small>
-Therefore I will shake the heavens, and the earth shall remove out of her place, in the wrath of the LORD of hosts, and in the day of his fierce anger.
-<small><sub>**BSB:**</sub></small>
-Therefore I will make the heavens tremble, and the earth will be shaken from its place at the wrath of the LORD of Hosts on the day of His burning anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.12|<< Isaiah 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.14|Isaiah 13:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 13:13** is...

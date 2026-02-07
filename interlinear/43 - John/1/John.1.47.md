@@ -1,12 +1,12 @@
-**John 1:47
-**<small><sub>**KJV:**</sub></small>
+**John 1:47**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!
 <small><sub>**BSB:**</sub></small>
 When Jesus saw Nathanael approaching, He said of him, “Here is a true Israelite, in whom there is no deceit.”
 <small><sub>**Literal:**</sub></small>
 Saw <the> Jesus <the> Nathanael coming to Him and He says concerning him; Behold truly an Israelite in whom deceit not there is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.46|<< John 1:46]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.48|John 1:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Saw |**<big>[[G1492H\|Εἶδεν]]</big>**  |Eiden <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NKO</abbr> | |

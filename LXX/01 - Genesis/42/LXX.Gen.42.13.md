@@ -1,10 +1,7 @@
 **LXX Genesis 42:13** 
 <small><sub>**LXX:**</sub></small>
  And they said, We are your servants twelve brothers in \[the\] land of Canaan; and behold,  our younger \[brother\] \[is\] with  our father today, and the other does not exist. 
-<small><sub>**KJV:**</sub></small>
-And they said, Thy servants [are] twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest [is] this day with our father, and one [is] not.
-<small><sub>**BSB:**</sub></small>
-But they answered, “Your servants are twelve brothers, the sons of one man in the land of Canaan. The youngest is now with our father, and one is no more.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.12|<< Genesis 42:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.14|Genesis 42:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 42:13** is...

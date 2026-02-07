@@ -1,4 +1,4 @@
-**Job 39:2** 
+**Job 39:2**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou number the months [that] they fulfil? or knowest thou the time when they bring forth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can you count the months they are pregnant? Do you know the time they give birth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.1|<< Job 39:1]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.3|Job 39:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | will you count?  |**<big>&#8207;[[H5608A\|תִּסְפֹּ֣ר]]&#8207; </big>**| tis.Por<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] months  |**<big>&#8207;[[H3391\|יְרָחִ֣ים]]&#8207; </big>**| ye.ra.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

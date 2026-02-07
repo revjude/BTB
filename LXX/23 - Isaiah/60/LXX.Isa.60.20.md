@@ -1,10 +1,7 @@
 **LXX Isaiah 60:20** 
 <small><sub>**LXX:**</sub></small>
 For the sun shall not go down to you, and the moon shall not subside to you. For \[the\] <span class="smallcaps">lord</span> will be to you an eternal light. And the days of your mourning shall be fulfilled. 
-<small><sub>**KJV:**</sub></small>
-Thy sun shall no more go down; neither shall thy moon withdraw itself: for the LORD shall be thine everlasting light, and the days of thy mourning shall be ended.
-<small><sub>**BSB:**</sub></small>
-Your sun will no longer set, and your moon will not wane; for the LORD will be your everlasting light, and the days of your sorrow will cease.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.19|<< Isaiah 60:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.21|Isaiah 60:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 60:20** is...

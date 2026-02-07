@@ -1,4 +1,4 @@
-**Ecclesiastes 1:16** 
+**Ecclesiastes 1:16**<big><big>[[Eccl.1.12 With Wisdom Comes Sorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all [they] that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I said to myself, “Behold, I have grown and increased in wisdom beyond all tho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.15|<< Ecclesiastes 1:15]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.17|Ecclesiastes 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have spoken  |**<big>&#8207;[[H1696G\|דִּבַּ֨רְתִּי]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֤י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

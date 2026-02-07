@@ -1,10 +1,7 @@
 **LXX Isaiah 25:7** 
 <small><sub>**LXX:**</sub></small>
 They shall anoint with a perfumed liquid on  this mountain. You deliver all these \[things\] to the nations,  for this plan \[is\] for all the nations. 
-<small><sub>**KJV:**</sub></small>
-And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations.
-<small><sub>**BSB:**</sub></small>
-On this mountain He will swallow up the shroud that enfolds all peoples, the sheet that covers all nations;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.6|<< Isaiah 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.8|Isaiah 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

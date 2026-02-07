@@ -1,4 +1,4 @@
-**Psalms 92:4** (92:5)
+**Psalms 92:4**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou, LORD, hast made me glad through thy work: I will triumph in the works of thy hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You, O LORD, have made me glad by Your deeds; I sing for joy at the works of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.3|<< Psalms 92:3]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.5|Psalms 92:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have made rejoice me  |**<big>&#8207;[[H8055\|שִׂמַּחְתַּ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| si.mach.Ta.<small><sup>[[HVpp2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

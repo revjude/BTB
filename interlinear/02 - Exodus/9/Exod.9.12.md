@@ -1,4 +1,4 @@
-**Exodus 9:12** 
+**Exodus 9:12**<big><big>[[Exod.9.8 The Sixth Plague：Boils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD hardened Pharaoh’s heart, and he would not listen to them, just a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.11|<< Exodus 9:11]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.13|Exodus 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made strong  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|יְחַזֵּ֤ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.Zek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

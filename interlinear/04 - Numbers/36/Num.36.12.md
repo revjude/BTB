@@ -1,4 +1,4 @@
-**Numbers 36:12** 
+**Numbers 36:12**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They married within the clans of the descendants of Manasseh son of Joseph, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.11|<< Numbers 36:11]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.13|Numbers 36:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] clans of  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4940\|מִּשְׁפְּחֹ֛ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

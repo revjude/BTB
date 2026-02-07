@@ -6,10 +6,7 @@ For the director; a psalm. for the sons of Korah
 
 <small><sub>**LXX:**</sub></small>
 All the nations -- clap hands! Shout  to God with a voice of exultation! 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm for the sons of Korah. O clap your hands, all ye people; shout unto God with the voice of triumph.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of the sons of Korah. Clap your hands, all you peoples; shout unto God with a voice of triumph.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.47.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.46.11|<< Psalm 46:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.47.2|Psalm 47:2 >>]]</td></tr></table>
 
 | Translation | Greek |

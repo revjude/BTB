@@ -1,4 +1,4 @@
-**2 Samuel 19:15** (19:16)
+**2 Samuel 19:15**<big><big>[[2Sam.19.8 David Restored as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the king returned, and came to Jordan. And Judah came to Gilgal, to go to meet the king, to conduct the king over Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the king returned, and when he arrived at the Jordan, the men of Judah came t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.14|<< 2 Samuel 19:14]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.16|2 Samuel 19:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֣שָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֔לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

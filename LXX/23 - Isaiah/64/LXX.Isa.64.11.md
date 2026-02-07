@@ -1,10 +1,7 @@
 **LXX Isaiah 64:11** 
 <small><sub>**LXX:**</sub></small>
 The house  our holy place, and the glory which our fathers blessed, became scorched, and all  our honorable \[things\] are cast down. 
-<small><sub>**KJV:**</sub></small>
-Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.
-<small><sub>**BSB:**</sub></small>
-Our holy and beautiful temple, where our fathers praised You, has been burned with fire, and all that was dear to us lies in ruins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.64.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.10|<< Isaiah 64:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.12|Isaiah 64:12 >>]]</td></tr></table>
 
 | Translation | Greek |

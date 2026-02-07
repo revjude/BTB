@@ -1,10 +1,7 @@
 **LXX Job 30:3** 
 <small><sub>**LXX:**</sub></small>
 In lack and hunger one \[is\] barren, \[as\] the ones fleeing waterless yesterday in conflict and misery. 
-<small><sub>**KJV:**</sub></small>
-For want and famine [they were] solitary; fleeing into the wilderness in former time desolate and waste.
-<small><sub>**BSB:**</sub></small>
-Gaunt from poverty and hunger, they gnawed the dry land, and the desolate wasteland by night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.2|<< Job 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.4|Job 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

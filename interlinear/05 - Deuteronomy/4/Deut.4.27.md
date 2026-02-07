@@ -1,4 +1,4 @@
-**Deuteronomy 4:27** 
+**Deuteronomy 4:27**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the LORD shall lead you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD will scatter you among the peoples, and only a few of you will sur
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.26|<< Deuteronomy 4:26]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.28|Deuteronomy 4:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will scatter  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6327A\|הֵפִ֧יץ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Fitz<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

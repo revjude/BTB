@@ -1,12 +1,12 @@
-**1 Corinthians 13:9
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 13:9**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we know in part, and we prophesy in part.
 <small><sub>**BSB:**</sub></small>
 For we know in part and we prophesy in part,
 <small><sub>**Literal:**</sub></small>
 In part for we know and in part we prophesy;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.8|<< 1 Corinthians 13:8]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.10|1 Corinthians 13:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | part |**<big>[[G3313\|μέρους]]</big>**  |merous <small><sup>[[N-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

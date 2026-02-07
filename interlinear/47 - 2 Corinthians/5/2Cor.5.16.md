@@ -1,12 +1,12 @@
-**2 Corinthians 5:16
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:16**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we [him] no more.
 <small><sub>**BSB:**</sub></small>
 So from now on we regard no one according to the flesh. Although we once regarded Christ in this way, we do so no longer.
 <small><sub>**Literal:**</sub></small>
 Therefore we ourselves from <the> now no [one] know according to [the] flesh; If now even we have regarded according to flesh Christ, yet now no longer we regard [Him thus].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.15|<< 2 Corinthians 5:15]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.17|2 Corinthians 5:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G5620\|Ὥστε]]</big>**  |Hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

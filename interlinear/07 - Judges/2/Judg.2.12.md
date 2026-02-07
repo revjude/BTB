@@ -1,4 +1,4 @@
-**Judges 2:12** 
+**Judges 2:12**<big><big>[[Judg.2.10 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that [were] round about them, and bowed themselves unto them, and provoked the LORD to anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus they forsook the LORD, the God of their fathers, who had brought them out o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.11|<< Judges 2:11]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.13|Judges 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they forsook  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5800A\|יַּעַזְב֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'az.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Corinthians 8:8
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:8**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.
 <small><sub>**BSB:**</sub></small>
 I am not giving a command, but I am testing the sincerity of your love through the earnestness of others.
 <small><sub>**Literal:**</sub></small>
 Not as a command do I speak but through the of others earnestness also the <the> of your love genuineness proving;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.7|<< 2 Corinthians 8:7]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.9|2 Corinthians 8:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G2596\|κατ᾽]]</big>**  |kat᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

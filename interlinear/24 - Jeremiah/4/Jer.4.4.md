@@ -1,4 +1,4 @@
-**Jeremiah 4:4** 
+**Jeremiah 4:4**<big><big>[[Jer.4.1 A Plea to Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Circumcise yourselves to the LORD, and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench [it], because of the evil of your doings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Circumcise yourselves to the LORD, and remove the foreskins of your hearts, O me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.3|<< Jeremiah 4:3]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.5|Jeremiah 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | circumcise yourselves  |**<big>&#8207;[[H4135A\|הִמֹּ֣לוּ]]&#8207; </big>**| hi.Mo.lu<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהֹוָ֗ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

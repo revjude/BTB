@@ -1,4 +1,4 @@
-**Nehemiah 13:29** 
+**Nehemiah 13:29**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember them, O my God, because they have defiled the priesthood and the covena
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.28|<< Nehemiah 13:28]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.30|Nehemiah 13:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember !  |**<big>&#8207;[[H2142\|זָכְרָ֥]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| za.khe.Ra<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

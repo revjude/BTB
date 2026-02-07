@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it happened in the middle of the night, and \[the\] <span class="smallcaps">lord</span> struck all \[the\] first-born in \[the\] land of Egypt; from \[the\] first-born of Pharaoh, of the \[one\] sitting upon the throne, unto the first-born of the captive, of the one in the pit, and every first-born of \[the\] beast. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that at midnight the LORD smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that [was] in the dungeon; and all the firstborn of cattle.
-<small><sub>**BSB:**</sub></small>
-Now at midnight the LORD struck down every firstborn male in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, as well as all the firstborn among the livestock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.28|<< Exodus 12:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.30|Exodus 12:30 >>]]</td></tr></table>
 
 | Translation | Greek |

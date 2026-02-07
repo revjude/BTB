@@ -1,12 +1,12 @@
-**Mark 14:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:24**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, This is my blood of the new testament, which is shed for many.
 <small><sub>**BSB:**</sub></small>
 He said to them, “This is My blood of the covenant, which is poured out for many.
 <small><sub>**Literal:**</sub></small>
 And He said to them; This is the blood of Me which [is] <the> of a new covenant which is being poured out for many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.23|<< Mark 14:23]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.25|Mark 14:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

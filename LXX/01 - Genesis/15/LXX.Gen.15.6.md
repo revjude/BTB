@@ -1,10 +1,7 @@
 **LXX Genesis 15:6** 
 <small><sub>**LXX:**</sub></small>
 And Abram trusted  in God, and it was imputed to him for righteousness. 
-<small><sub>**KJV:**</sub></small>
-And he believed in the LORD; and he counted it to him for righteousness.
-<small><sub>**BSB:**</sub></small>
-Abram believed the LORD, and it was credited to him as righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.5|<< Genesis 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.7|Genesis 15:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 15:6** is...

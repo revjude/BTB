@@ -1,4 +1,4 @@
-**Hosea 11:1** 
+**Hosea 11:1**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Israel [was] a child, then I loved him, and called my son out of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When Israel was a child, I loved him, and out of Egypt I called My son.
 > $\quad$ referenced by: [[Matt.2.15|Matt 2:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a youth  |**<big>&#8207;[[H5288\|נַ֥עַר]]&#8207; </big>**| Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

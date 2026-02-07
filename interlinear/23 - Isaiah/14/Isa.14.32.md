@@ -1,4 +1,4 @@
-**Isaiah 14:32** 
+**Isaiah 14:32**<big><big>[[Isa.14.28 Philistia Will Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What shall [one] then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What answer will be given to the envoys of that nation? “The LORD has founded 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.31|<< Isaiah 14:31]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.1|Isaiah 15:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מַֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will anyone answer  |**<big>&#8207;[[H6030B\|יַּעֲנֶ֖ה]]&#8207; </big>**| ya.'a.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

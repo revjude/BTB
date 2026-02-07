@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:38** 
 <small><sub>**LXX:**</sub></small>
 And  its cubicles and  its doorways, and  its pediments \[were\] at the second gate outflow, 
-<small><sub>**KJV:**</sub></small>
-And the chambers and the entries thereof [were] by the posts of the gates, where they washed the burnt offering.
-<small><sub>**BSB:**</sub></small>
-There was a chamber with a doorway by the portico in each of the inner gateways. There the burnt offering was to be washed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.37|<< Ezekiel 40:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.39|Ezekiel 40:39 >>]]</td></tr></table>
 
 | Translation | Greek |

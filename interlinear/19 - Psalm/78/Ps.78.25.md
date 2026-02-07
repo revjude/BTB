@@ -1,4 +1,4 @@
-**Psalms 78:25** 
+**Psalms 78:25**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Man did eat angels’ food: he sent them meat to the full.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Man ate the bread of angels; He sent them food in abundance.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.24|<< Psalms 78:24]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.26|Psalms 78:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bread of  |**<big>&#8207;[[H3899H\|לֶ֣חֶם]]&#8207; </big>**| Le.chem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mighty [ones]  |**<big>&#8207;[[H0047J\|אַ֭בִּירִים]]&#8207; </big>**| 'A.bi.rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

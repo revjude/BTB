@@ -1,10 +1,7 @@
 **LXX Leviticus 22:12** 
 <small><sub>**LXX:**</sub></small>
 And a daughter of a man a priest, if she should become \[the wife\] of a man of another race, she shall not eat of the first-fruits of the holy \[things\]. 
-<small><sub>**KJV:**</sub></small>
-If the priest’s daughter also be [married] unto a stranger, she may not eat of an offering of the holy things.
-<small><sub>**BSB:**</sub></small>
-If the priest’s daughter is married to a man other than a priest, she is not to eat of the sacred contributions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.11|<< Leviticus 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.13|Leviticus 22:13 >>]]</td></tr></table>
 
 | Translation | Greek |

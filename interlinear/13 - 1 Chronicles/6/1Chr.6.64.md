@@ -1,4 +1,4 @@
-**1 Chronicles 6:64** (6:49)
+**1 Chronicles 6:64**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel gave to the Levites [these] cities with their suburbs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Israelites gave to the Levites these cities and their pasturelands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.63|<< 1 Chronicles 6:63]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.65|1 Chronicles 6:65 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתְּנ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

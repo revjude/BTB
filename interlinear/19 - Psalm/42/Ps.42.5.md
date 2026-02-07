@@ -1,4 +1,4 @@
-**Psalms 42:5** (42:6)
+**Psalms 42:5**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why art thou cast down, O my soul? and [why] art thou disquieted in me? hope thou in God: for I shall yet praise him [for] the help of his countenance.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Why are you downcast, O my soul? Why the unease within me? Put your hope in God,
 > $\quad$ referenced by: [[Matt.26.38|Matt 26:38]] ☩ [[Mark.14.34|Mark 14:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | are you bowed down  |**<big>&#8207;[[H7817\|תִּשְׁתּ֬וֹחֲחִ֨י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| tish.To.cha.Chi<small><sup>[[HVti2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

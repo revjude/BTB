@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:41** 
 <small><sub>**LXX:**</sub></small>
 And now, rise up O <span class="smallcaps">lord</span>  God in  your rest, you and the ark  of your strength!  Your priests, O <span class="smallcaps">lord</span>  God, shall clothe themselves in deliverance, and  your sacred ones shall be glad in good \[things\]. 
-<small><sub>**KJV:**</sub></small>
-Now therefore arise, O LORD God, into thy resting place, thou, and the ark of thy strength: let thy priests, O LORD God, be clothed with salvation, and let thy saints rejoice in goodness.
-<small><sub>**BSB:**</sub></small>
-Now therefore, arise, O LORD God, and enter Your resting place, You and the ark of Your might. May Your priests, O LORD God, be clothed with salvation, and may Your godly ones rejoice in goodness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.40|<< 2 Chronicles 6:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.42|2 Chronicles 6:42 >>]]</td></tr></table>
 
 | Translation | Greek |

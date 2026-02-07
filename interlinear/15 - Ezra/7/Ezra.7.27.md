@@ -1,4 +1,4 @@
-**Ezra 7:27** 
+**Ezra 7:27**<big><big>[[Ezra.7.27 Ezra Blesses God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the LORD God of our fathers, which hath put [such a thing] as this in the king’s heart, to beautify the house of the LORD which [is] in Jerusalem:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed be the LORD, the God of our fathers, who has put into the heart of the k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.26|<< Ezra 7:26]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.28|Ezra 7:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [be] blessed  |**<big>&#8207;[[H1288\|בָּר֥וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

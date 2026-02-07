@@ -1,4 +1,4 @@
-**Ezekiel 39:7** 
+**Ezekiel 39:7**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So will I make my holy name known in the midst of my people Israel; and I will not [let them] pollute my holy name any more: and the heathen shall know that I [am] the LORD, the Holy One in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will make My holy name known among My people Israel and will no longer allo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.6|<< Ezekiel 39:6]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.8|Ezekiel 39:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֨ם]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

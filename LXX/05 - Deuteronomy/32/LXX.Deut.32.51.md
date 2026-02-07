@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:51** 
 <small><sub>**LXX:**</sub></small>
 Because you resisted persuasion  of my word, among the sons of Israel at the water of dispute, Kadesh, in the wilderness of Sin; because you did not sanctify me among the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Because ye trespassed against me among the children of Israel at the waters of MeribahKadesh, in the wilderness of Zin; because ye sanctified me not in the midst of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-For at the waters of Meribah-kadesh in the Wilderness of Zin, both of you broke faith with Me among the Israelites by failing to treat Me as holy in their presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.50|<< Deuteronomy 32:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.52|Deuteronomy 32:52 >>]]</td></tr></table>
 
 | Translation | Greek |

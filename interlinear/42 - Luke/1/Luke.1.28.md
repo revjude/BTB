@@ -1,12 +1,12 @@
-**Luke 1:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:28**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angel came in unto her, and said, Hail, [thou that art] highly favoured, the Lord [is] with thee: blessed [art] thou among women.
 <small><sub>**BSB:**</sub></small>
 The angel appeared to her and said, “Greetings, you who are highly favored! The Lord is with you.”
 <small><sub>**Literal:**</sub></small>
 And having come <the> angel to her he said; Greetings! you graciously favored; The Lord [is] with you. blessed [are] you yourself among women.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.27|<< Luke 1:27]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.29|Luke 1:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G1525\|εἰσελθὼν]]</big>**  |eiselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 29:26** 
 <small><sub>**LXX:**</sub></small>
 The fifth day -- nine calves, two rams, four and ten unblemished lambs of a year \[old\], 
-<small><sub>**KJV:**</sub></small>
-And on the fifth day nine bullocks, two rams, [and] fourteen lambs of the first year without spot:
-<small><sub>**BSB:**</sub></small>
-On the fifth day you are to present nine bulls, two rams, and fourteen male lambs a year old, all unblemished,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.25|<< Numbers 29:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.27|Numbers 29:27 >>]]</td></tr></table>
 
 | Translation | Greek |

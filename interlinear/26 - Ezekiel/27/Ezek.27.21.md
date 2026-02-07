@@ -1,4 +1,4 @@
-**Ezekiel 27:21** 
+**Ezekiel 27:21**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these [were they] thy merchants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arabia and all the princes of Kedar were your customers, trading in lambs, rams,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.20|<< Ezekiel 27:20]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.22|Ezekiel 27:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Arabia  |**<big>&#8207;[[H6152B\|עֲרַב֙]]&#8207; </big>**| 'a.Rav<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

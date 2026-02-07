@@ -1,12 +1,12 @@
-**Philemon 1:21
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:21**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.
 <small><sub>**BSB:**</sub></small>
 Confident of your obedience, I write to you, knowing that you will do even more than I ask.
 <small><sub>**Literal:**</sub></small>
 Having been persuaded of the obedience of you I write to you knowing that even above what [things] I say you will do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.20|<< Philemon 1:20]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.22|Philemon 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having been persuaded of |**<big>[[G3982\|Πεποιθὼς]]</big>**  |Pepoithōs <small><sup>[[V-2RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

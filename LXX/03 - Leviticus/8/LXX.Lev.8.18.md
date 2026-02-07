@@ -1,10 +1,7 @@
 **LXX Leviticus 8:18** 
 <small><sub>**LXX:**</sub></small>
 And Moses brought the ram, the one for a whole burnt-offering. And Aaron and his sons placed  their hands upon the head of the ram. 
-<small><sub>**KJV:**</sub></small>
-And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.
-<small><sub>**BSB:**</sub></small>
-Then Moses presented the ram for the burnt offering, and Aaron and his sons laid their hands on its head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.17|<< Leviticus 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.19|Leviticus 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

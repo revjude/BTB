@@ -1,4 +1,4 @@
-**Deuteronomy 9:5** 
+**Deuteronomy 9:5**<big><big>[[Deut.9.1 Assurance of Victory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Not for thy righteousness, or for the uprightness of thine heart, dost thou go to possess their land: but for the wickedness of these nations the LORD thy God doth drive them out from before thee, and that he may perform the word which the LORD sware unto thy fathers, Abraham, Isaac, and Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is not because of your righteousness or uprightness of heart that you are goi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.4|<< Deuteronomy 9:4]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.6|Deuteronomy 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in righteousness your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6666\|צִדְקָתְ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> tzid.ka.te.<small><sup>[[HNcfsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

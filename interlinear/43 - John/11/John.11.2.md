@@ -1,12 +1,12 @@
-**John 11:2
-**<small><sub>**KJV:**</sub></small>
+**John 11:2**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (It was [that] Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
 <small><sub>**BSB:**</sub></small>
 (Mary, whose brother Lazarus was sick, was to anoint the Lord with perfume and wipe His feet with her hair.)
 <small><sub>**Literal:**</sub></small>
 Was now Mary the [one] having anointed the Lord with fragrant oil and having wiped the feet of Him with the hair of her, whose <the> brother Lazarus was sick.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.1|<< John 11:1]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.3|John 11:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

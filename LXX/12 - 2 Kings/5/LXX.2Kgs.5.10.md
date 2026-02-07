@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:10** 
 <small><sub>**LXX:**</sub></small>
 And Elisha sent to him a messenger, saying, In going, bathe in the Jordan seven times, and your flesh shall return to you, and you shall be cleansed. 
-<small><sub>**KJV:**</sub></small>
-And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean.
-<small><sub>**BSB:**</sub></small>
-Then Elisha sent him a messenger, who said, “Go and wash yourself seven times in the Jordan, and your flesh will be restored, and you will be clean.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.9|<< 2 Kings 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.11|2 Kings 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

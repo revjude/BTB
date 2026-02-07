@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:11** 
 <small><sub>**LXX:**</sub></small>
 And he said, If Syria should strengthen over me, then you shall be to me for deliverance. And if \[the\] sons of Ammon should be strengthened over you, then I will come  to deliver you. 
-<small><sub>**KJV:**</sub></small>
-And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will come and help thee.
-<small><sub>**BSB:**</sub></small>
-“If the Arameans are too strong for me,” said Joab, “then you will come to my rescue. And if the Ammonites are too strong for you, then I will come to your rescue.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.10|<< 2 Samuel 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.12|2 Samuel 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 17:19** 
+**1 Chronicles 17:19**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, for thy servant’s sake, and according to thine own heart, hast thou done all this greatness, in making known all [these] great things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD. For the sake of Your servant and according to Your own heart, You have a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.18|<< 1 Chronicles 17:18]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.20|1 Chronicles 17:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֕ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for sake of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5668\|עֲב֤וּר]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Vur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

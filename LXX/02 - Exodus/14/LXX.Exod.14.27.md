@@ -1,10 +1,7 @@
 **LXX Exodus 14:27** 
 <small><sub>**LXX:**</sub></small>
 And Moses stretched out \[his\] hand upon the sea, and the water restored at day to \[its\] place. And the Egyptians fled \[from\] under the water. And \[the\] <span class="smallcaps">lord</span> shook off the Egyptians in \[the\] midst of the sea. 
-<small><sub>**KJV:**</sub></small>
-And Moses stretched forth his hand over the sea, and the sea returned to his strength when the morning appeared; and the Egyptians fled against it; and the LORD overthrew the Egyptians in the midst of the sea.
-<small><sub>**BSB:**</sub></small>
-So Moses stretched out his hand over the sea, and at daybreak the sea returned to its normal state. As the Egyptians were retreating, the LORD swept them into the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.26|<< Exodus 14:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.28|Exodus 14:28 >>]]</td></tr></table>
 
 | Translation | Greek |

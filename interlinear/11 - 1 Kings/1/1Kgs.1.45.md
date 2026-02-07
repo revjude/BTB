@@ -1,4 +1,4 @@
-**1 Kings 1:45** 
+**1 Kings 1:45**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from thence rejoicing, so that the city rang again. This [is] the noise that ye have heard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zadok the priest and Nathan the prophet have anointed him king at Gihon, and the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.44|<< 1 Kings 1:44]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.46|1 Kings 1:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they have anointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4886\|יִּמְשְׁח֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.she.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֡]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 21:16** 
 <small><sub>**LXX:**</sub></small>
 and  Ain and the \[parts\] being separated  with it, and  Juttah and the \[parts\] being separated  with it, and Beth-shemesh and the \[parts\] being separated  with it; nine cities from  these two tribes. 
-<small><sub>**KJV:**</sub></small>
-And Ain with her suburbs, and Juttah with her suburbs, [and] Bethshemesh with her suburbs; nine cities out of those two tribes.
-<small><sub>**BSB:**</sub></small>
-Ain, Juttah, and Beth-shemesh—nine cities from these two tribes, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.15|<< Joshua 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.17|Joshua 21:17 >>]]</td></tr></table>
 
 | Translation | Greek |

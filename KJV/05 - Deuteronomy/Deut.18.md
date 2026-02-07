@@ -1,6 +1,6 @@
 (KJV) **Deuteronomy 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17|<< Deuteronomy 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19|Deuteronomy 19 >>]]</td></tr></table>
 
-***Provision for Priests and Levites***&emsp;<small><sup>\[ [[1Cor.9|1 Corinthians 9:1–18]] ]</sup></small> ^bsb506
+<big><big>[[Deut.18.1 Provision for Priests and Levites|⥃]]</big></big>***Provision for Priests and Levites***&emsp;<small><sup>\[ [[1Cor.9|1 Corinthians 9:1–18]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Deut.18.1|1]]**<span class="endversemarker">]</span> The priests the Levites, \[and\] all the tribe of Levi, shall have<small><small>[^2]</small></small> no part nor inheritance with Israel: they shall<small><small>[^3]</small></small> eat the offerings of the <span class="smallcaps">Lord</span> made by fire, and his inheritance. <span class="startversemarker">[</span>**[[Deut.18.2|2]]**<span class="endversemarker">]</span> Therefore shall they have no inheritance among their brethren: the <span class="smallcaps">Lord<small><small>[^4]</small></small></span> \[is\] their inheritance, as he hath said unto them. 
 
@@ -8,13 +8,13 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.18.3|3]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.18.6|6]]**<span class="endversemarker">]</span> [¶]And if a Levite come<small><small>[^9]</small></small> from any of thy gates out of all Israel, where he sojourned, and come with<small><small>[^10]</small></small> all the desire of his mind unto the place<small><small>[^11]</small></small> which the <span class="smallcaps">Lord</span> shall choose; <span class="startversemarker">[</span>**[[Deut.18.7|7]]**<span class="endversemarker">]</span> Then he shall minister in the name of the <span class="smallcaps">Lord</span> his God, as all his brethren<small><small>[^12]</small></small> the Levites \[do\], which stand there before the <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[Deut.18.8|8]]**<span class="endversemarker">]</span> They shall have like portions<small><small>[^13]</small></small> to eat, beside that which cometh of the sale of his patrimony<small><small>[^14]</small></small>.
 
-***Sorcery Forbidden***&emsp;<small><sup>\[ [[Acts.8|Acts 8:9–25]] ]</sup></small> ^bsb507
+<big><big>[[Deut.18.9 Sorcery Forbidden|⥃]]</big></big>***Sorcery Forbidden***&emsp;<small><sup>\[ [[Acts.8|Acts 8:9–25]] ]</sup></small>
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.18.9|9]]**<span class="endversemarker">]</span> When thou art come into the land which the <span class="smallcaps">Lord</span> thy God giveth thee, thou shalt not learn to do after the abominations of those nations.<small><small>[^15]</small></small> <span class="startversemarker">[</span>**[[Deut.18.10|10]]**<span class="endversemarker">]</span> There shall not be found among you \[any one\] that maketh<small><small>[^16]</small></small> his son or his daughter to pass through the fire, \[or\] that useth divination<small><small>[^17]</small></small>, \[or\] an observer of times, or an enchanter, or a witch, <span class="startversemarker">[</span>**[[Deut.18.11|11]]**<span class="endversemarker">]</span> Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer<small><small>[^18]</small></small>. <span class="startversemarker">[</span>**[[Deut.18.12|12]]**<span class="endversemarker">]</span> For all that do these things \[are\] an abomination unto the <span class="smallcaps">Lord</span>: and because of these abominations the <span class="smallcaps">Lord</span> thy God doth drive them out from before thee.<small><small>[^19]</small></small> <span class="startversemarker">[</span>**[[Deut.18.13|13]]**<span class="endversemarker">]</span> Thou shalt<small><small>[^20]</small></small> be perfect<small><small>[^21]</small></small> with the <span class="smallcaps">Lord</span> thy God. <span class="startversemarker">[</span>**[[Deut.18.14|14]]**<span class="endversemarker">]</span> For these nations, which thou shalt possess<small><small>[^22]</small></small>, hearkened unto observers of times, and unto diviners: but as for thee, the <span class="smallcaps">Lord</span> thy God hath not suffered<small><small>[^23]</small></small> thee so \[to do\].
 
-***A Prophet Like Moses***&emsp;<small><sup>\[ [[Acts.3|Acts 3:11–26]] ]</sup></small> ^bsb508
+<big><big>[[Deut.18.15 A Prophet Like Moses|⥃]]</big></big>***A Prophet Like Moses***&emsp;<small><sup>\[ [[Acts.3|Acts 3:11–26]] ]</sup></small>
 
  
 

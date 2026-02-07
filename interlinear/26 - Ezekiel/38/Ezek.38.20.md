@@ -1,4 +1,4 @@
-**Ezekiel 38:20** 
+**Ezekiel 38:20**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that [are] upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fish of the sea, the birds of the air, the beasts of the field, every creatu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.19|<< Ezekiel 38:19]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.21|Ezekiel 38:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will shake  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7493\|רָעֲשׁ֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'a.Shu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from before me  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440I\|פָּנַ֡]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

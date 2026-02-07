@@ -1,4 +1,4 @@
-**Jeremiah 8:6** 
+**Jeremiah 8:6**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I hearkened and heard, [but] they spake not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rusheth into the battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have listened and heard; they do not speak what is right. No one repents of hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.5|<< Jeremiah 8:5]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.7|Jeremiah 8:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have paid attention  |**<big>&#8207;[[H7181\|הִקְשַׁ֤בְתִּי]]&#8207; </big>**| hik.Shav.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I have heard  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H8085G\|אֶשְׁמָע֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Ma'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

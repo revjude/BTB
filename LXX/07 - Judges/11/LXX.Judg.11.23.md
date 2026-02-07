@@ -1,10 +1,7 @@
 **LXX Judges 11:23** 
 <small><sub>**LXX:**</sub></small>
 And now \[the\] <span class="smallcaps">lord</span>  God of Israel lifted away the Amorite from \[the\] face of his people Israel, and you, shall you inherit it? 
-<small><sub>**KJV:**</sub></small>
-So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it?
-<small><sub>**BSB:**</sub></small>
-Now since the LORD, the God of Israel, has driven out the Amorites from before His people Israel, should you now possess it?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.22|<< Judges 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.24|Judges 11:24 >>]]</td></tr></table>
 
 | Translation | Greek |

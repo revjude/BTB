@@ -1,10 +1,7 @@
 **LXX Leviticus 4:23** 
 <small><sub>**LXX:**</sub></small>
 and the sin by which he sinned by it should be known to him, then he shall bring  his gift \[offering\] of a young he-goat from \[the\] goats -- a male unblemished. 
-<small><sub>**KJV:**</sub></small>
-Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish:
-<small><sub>**BSB:**</sub></small>
-When he becomes aware of the sin he has committed, he must bring an unblemished male goat as his offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.22|<< Leviticus 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.24|Leviticus 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

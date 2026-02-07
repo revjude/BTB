@@ -1,10 +1,7 @@
 **LXX Exodus 22:14** 
 <small><sub>**LXX:**</sub></small>
 And if anyone should ask \[to borrow\] from \[his\] neighbor, and it should break, or die, or become captive, and the owner of it should not be with it, he shall pay. 
-<small><sub>**KJV:**</sub></small>
-And if a man borrow [ought] of his neighbour, and it be hurt, or die, the owner thereof [being] not with it, he shall surely make [it] good.
-<small><sub>**BSB:**</sub></small>
-If a man borrows an animal from his neighbor and it is injured or dies while its owner is not present, he must make full restitution.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.13|<< Exodus 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.15|Exodus 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

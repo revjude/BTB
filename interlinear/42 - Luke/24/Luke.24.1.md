@@ -1,12 +1,12 @@
-**Luke 24:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:1**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now upon the first [day] of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain [others] with them.
 <small><sub>**BSB:**</sub></small>
 On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared.
 <small><sub>**Literal:**</sub></small>
 The however on [the] first [day] of the week dawn very early to the tomb they came bringing that they had prepared spices and certain with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.56|<< Luke 23:56]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.2|Luke 24:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

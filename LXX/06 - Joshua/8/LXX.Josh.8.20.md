@@ -1,10 +1,7 @@
 **LXX Joshua 8:20** 
 <small><sub>**LXX:**</sub></small>
 And the inhabitants of Ai looking about unto the rear of them, and they viewed the smoke of the city ascending into the heaven; and no longer had they anywhere to flee here \[on this side\] or here \[on that side\]. And the people  fleeing into the wilderness turned upon the ones pursuing. 
-<small><sub>**KJV:**</sub></small>
-And when the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers.
-<small><sub>**BSB:**</sub></small>
-When the men of Ai turned and looked back, the smoke of the city was rising into the sky. They could not escape in any direction, and the troops who had fled to the wilderness now turned against their pursuers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.19|<< Joshua 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.21|Joshua 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

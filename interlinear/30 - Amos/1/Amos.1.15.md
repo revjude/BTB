@@ -1,4 +1,4 @@
-**Amos 1:15** 
+**Amos 1:15**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their king shall go into captivity, he and his princes together, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their king will go into exile—he and his princes together,” says the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.14|<< Amos 1:14]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.1|Amos 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will go  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980G\|הָלַ֥ךְ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Lakh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king their  |**<big>&#8207;[[H4428G\|מַלְכָּ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| mal.Ka<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

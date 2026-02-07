@@ -1,12 +1,12 @@
-**John 4:39
-**<small><sub>**KJV:**</sub></small>
+**John 4:39**<big><big>[[John.4.39 Many Samaritans Believe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.
 <small><sub>**BSB:**</sub></small>
 Many of the Samaritans from that town believed in Jesus because of the woman’s testimony, “He told me everything I ever did.”
 <small><sub>**Literal:**</sub></small>
 Out of now the city that many believed in Him of the Samaritans because of the word of the woman testifying that He told me all things whatever I did.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.38|<< John 4:38]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.40|John 4:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

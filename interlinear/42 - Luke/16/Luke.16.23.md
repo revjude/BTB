@@ -1,12 +1,12 @@
-**Luke 16:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:23**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.
 <small><sub>**BSB:**</sub></small>
 In Hades, where he was in torment, he looked up and saw Abraham from afar, with Lazarus by his side.
 <small><sub>**Literal:**</sub></small>
 And in <the> Hades having lifted up the eyes of him, being in torment he sees <the> Abraham from afar and Lazarus in the bosom of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.22|<< Luke 16:22]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.24|Luke 16:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

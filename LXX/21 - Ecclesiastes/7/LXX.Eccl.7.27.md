@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:27** 
 <small><sub>**LXX:**</sub></small>
 Behold! this I found, said the ecclesiastic, \[counting\] one by one, to find a device, 
-<small><sub>**KJV:**</sub></small>
-Behold, this have I found, saith the preacher, [counting] one by one, to find out the account:
-<small><sub>**BSB:**</sub></small>
-“Behold,” says the Teacher, “I have discovered this by adding one thing to another to find an explanation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.26|<< Ecclesiastes 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.28|Ecclesiastes 7:28 >>]]</td></tr></table>
 
 | Translation | Greek |

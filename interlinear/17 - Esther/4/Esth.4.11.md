@@ -1,4 +1,4 @@
-**Esther 4:11** 
+**Esther 4:11**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the king’s servants, and the people of the king’s provinces, do know, that whosoever, whether man or woman, shall come unto the king into the inner court, who is not called, [there is] one law of his to put [him] to death, except such to whom the king shall hold out the golden sceptre, that he may live: but I have not been called to come in unto the king these thirty days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the king’s servants, and the people of the king’s provinces, do know, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.10|<< Esther 4:10]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.12|Esther 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servants of  |**<big>&#8207;[[H5650\|עַבְדֵ֣י]]&#8207; </big>**| 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

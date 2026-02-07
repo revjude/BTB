@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:18** 
 <small><sub>**LXX:**</sub></small>
 Come down from glory, and sit being sat down in wetness, O daughter of Dibon! for Moab is destroyed; one ascended unto you laying waste your fortress. 
-<small><sub>**KJV:**</sub></small>
-Thou daughter that dost inhabit Dibon, come down from [thy] glory, and sit in thirst; for the spoiler of Moab shall come upon thee, [and] he shall destroy thy strong holds.
-<small><sub>**BSB:**</sub></small>
-Come down from your glory; sit on parched ground, O daughter dwelling in Dibon, for the destroyer of Moab has come against you; he has destroyed your fortresses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.17|<< Jeremiah 48:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.19|Jeremiah 48:19 >>]]</td></tr></table>
 
 | Translation | Greek |

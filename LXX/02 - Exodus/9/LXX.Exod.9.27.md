@@ -1,10 +1,7 @@
 **LXX Exodus 9:27** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh sending, called  Moses and Aaron, and he said to them, I have sinned  now, the <span class="smallcaps">lord</span> \[is\] just, but I and  my people \[are\] impious. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD [is] righteous, and I and my people [are] wicked.
-<small><sub>**BSB:**</sub></small>
-Then Pharaoh summoned Moses and Aaron. “This time I have sinned,” he said. “The LORD is righteous, and I and my people are wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.26|<< Exodus 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.28|Exodus 9:28 >>]]</td></tr></table>
 
 | Translation | Greek |

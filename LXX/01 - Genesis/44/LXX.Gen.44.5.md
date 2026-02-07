@@ -1,10 +1,7 @@
 **LXX Genesis 44:5** 
 <small><sub>**LXX:**</sub></small>
 Is this not in which my master drinks? And he foretells an omen by it? You completed \[the\] wicked \[things\] which you have done. 
-<small><sub>**KJV:**</sub></small>
-[Is] not this [it] in which my lord drinketh, and whereby indeed he divineth? ye have done evil in so doing.
-<small><sub>**BSB:**</sub></small>
-Is this not the cup my master drinks from and uses for divination? What you have done is wicked!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.4|<< Genesis 44:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.6|Genesis 44:6 >>]]</td></tr></table>
 
 | Translation | Greek |

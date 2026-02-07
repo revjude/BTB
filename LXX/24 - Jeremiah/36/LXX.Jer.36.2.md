@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:2** 
 <small><sub>**LXX:**</sub></small>
 Take to yourself a papyrus leaf scroll! and write upon it! all the words which I spoke to you against Israel, and against Judah, and against all the nations from which day I spoke to you, from \[the\] days of Josiah king of Judah, and unto  this day. 
-<small><sub>**KJV:**</sub></small>
-Take thee a roll of a book, and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spake unto thee, from the days of Josiah, even unto this day.
-<small><sub>**BSB:**</sub></small>
-“Take a scroll and write on it all the words I have spoken to you concerning Israel, Judah, and all the nations, from the day I first spoke to you during the reign of Josiah until today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.1|<< Jeremiah 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.3|Jeremiah 36:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 59:3** 
 <small><sub>**LXX:**</sub></small>
  For your hands are tainted with blood, and  your fingers with sins;  and your lips spoke lawlessness, and  your tongue meditated upon injustice. 
-<small><sub>**KJV:**</sub></small>
-For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness.
-<small><sub>**BSB:**</sub></small>
-For your hands are stained with blood, and your fingers with iniquity; your lips have spoken lies, and your tongue mutters injustice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.2|<< Isaiah 59:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.4|Isaiah 59:4 >>]]</td></tr></table>
 
 | Translation | Greek |

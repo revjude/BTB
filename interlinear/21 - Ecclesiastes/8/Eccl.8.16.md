@@ -1,4 +1,4 @@
-**Ecclesiastes 8:16** 
+**Ecclesiastes 8:16**<big><big>[[Eccl.8.14 God’s Ways Are Mysterious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also [there is that] neither day nor night seeth sleep with his eyes:)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I applied my mind to know wisdom and to observe the task that one performs 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.15|<< Ecclesiastes 8:15]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.17|Ecclesiastes 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<just> when  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֨ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I gave  |**<big>&#8207;[[H5414H\|נָתַ֤תִּי]]&#8207; </big>**| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

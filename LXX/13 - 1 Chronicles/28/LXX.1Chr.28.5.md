@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:5** 
 <small><sub>**LXX:**</sub></small>
 And of all  my sons, for \[the\] <span class="smallcaps">lord</span> gave to me many sons, he chose  Solomon  my son to sit upon \[the\] throne of \[the\] kingdom of \[the\] <span class="smallcaps">lord</span> over  Israel. 
-<small><sub>**KJV:**</sub></small>
-And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel.
-<small><sub>**BSB:**</sub></small>
-And of all my sons—for the LORD has given me many sons—He has chosen Solomon my son to sit on the throne of the kingdom of the LORD over Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.4|<< 1 Chronicles 28:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.6|1 Chronicles 28:6 >>]]</td></tr></table>
 
 | Translation | Greek |

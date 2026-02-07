@@ -1,4 +1,4 @@
-**Ruth 3:15** 
+**Ruth 3:15**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he said, Bring the vail that [thou hast] upon thee, and hold it. And when she held it, he measured six [measures] of barley, and laid [it] on her: and she went into the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he told her, “Bring the shawl you are wearing and hold it out.” When she
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.14|<< Ruth 3:14]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.16|Ruth 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | give  |**<big>&#8207;[[H3051\|הָ֠בִי]]&#8207; </big>**| Ha.vi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

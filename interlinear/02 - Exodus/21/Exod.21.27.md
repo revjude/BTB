@@ -1,4 +1,4 @@
-**Exodus 21:27** 
+**Exodus 21:27**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if he knocks out the tooth of his manservant or maidservant, he must let the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.26|<< Exodus 21:26]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.28|Exodus 21:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tooth of  |**<big>&#8207;[[H8127G\|שֵׁ֥ן]]&#8207; </big>**| shen<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

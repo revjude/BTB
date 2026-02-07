@@ -1,12 +1,12 @@
-**Matthew 2:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:16**<big><big>[[Matt.2.16 Weeping and Great Mourning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently inquired of the wise men.
 <small><sub>**BSB:**</sub></small>
 When Herod saw that he had been outwitted by the Magi, he was filled with rage. Sending orders, he put to death all the boys in Bethlehem and its vicinity who were two years old and under, according to the time he had learned from the Magi.
 <small><sub>**Literal:**</sub></small>
 Then Herod having seen that he had been outwitted by the Magi was enraged intensely, and having sent forth he executed all the boys that [were] in Bethlehem and in all the vicinity of it from two years old and under according to the time which he had ascertained from the Magi.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.15|<< Matthew 2:15]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.17|Matthew 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Herod |**<big>[[G2264G\|Ἡρῴδης]]</big>**  |Hērōdēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

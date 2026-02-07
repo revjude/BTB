@@ -1,4 +1,4 @@
-**Exodus 22:30** (22:29)
+**Exodus 22:30**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Likewise shalt thou do with thine oxen, [and] with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall do likewise with your cattle and your sheep. Let them stay with their 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.29|<< Exodus 22:29]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.31|Exodus 22:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3651C\|כֵּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ken-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will do  |**<big>&#8207;[[H6213A\|תַּעֲשֶׂ֥ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

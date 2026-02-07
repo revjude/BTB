@@ -1,10 +1,7 @@
 **LXX Exodus 22:29** 
 <small><sub>**LXX:**</sub></small>
 You shall not be late of your first-fruits \[of the\] threshing-floor and wine vat.  Your first-born son you shall give to me -- 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not delay [to offer] the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.
-<small><sub>**BSB:**</sub></small>
-You must not hold back offerings from your granaries or vats. You are to give Me the firstborn of your sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.28|<< Exodus 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.30|Exodus 22:30 >>]]</td></tr></table>
 
 | Translation | Greek |

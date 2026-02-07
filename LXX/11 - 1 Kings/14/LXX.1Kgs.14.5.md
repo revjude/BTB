@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Ahijah, Behold, the wife of Jeroboam enters  to seek an utterance from you concerning her son, for he is ill. According to this and according to that you shall speak to her. And it came to pass in  her entering that she was as a stranger. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Ahijah, Behold, the wife of Jeroboam cometh to ask a thing of thee for her son; for he [is] sick: thus and thus shalt thou say unto her: for it shall be, when she cometh in, that she shall feign herself [to be] another [woman].
-<small><sub>**BSB:**</sub></small>
-But the LORD had said to Ahijah, “Behold, the wife of Jeroboam is coming to ask you about her son, for he is ill. You are to say such and such to her, because when she arrives, she will be disguised.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.4|<< 1 Kings 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.6|1 Kings 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

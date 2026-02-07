@@ -1,12 +1,12 @@
-**Mark 2:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:5**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.
 <small><sub>**BSB:**</sub></small>
 When Jesus saw their faith, He said to the paralytic, “Son, your sins are forgiven.”
 <small><sub>**Literal:**</sub></small>
 And having seen now <the> Jesus the faith of them He says to the paralytic; Son, are forgiven of you the sins of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.4|<< Mark 2:4]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.6|Mark 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">no</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

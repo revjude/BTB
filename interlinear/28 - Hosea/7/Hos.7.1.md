@@ -1,4 +1,4 @@
-**Hosea 7:1** 
+**Hosea 7:1**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I would have healed Israel, then the iniquity of Ephraim was discovered, and the wickedness of Samaria: for they commit falsehood; and the thief cometh in, [and] the troop of robbers spoileth without.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I heal Israel, the iniquity of Ephraim will be exposed, as well as the crim
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.11|<< Hosea 6:11]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.2|Hosea 7:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when heal I  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7495\|רָפְאִ֣]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ra.fe.'<small><sup>[[HVqcc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> Israel  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵ֗ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

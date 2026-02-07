@@ -1,4 +1,4 @@
-**2 Chronicles 33:9** 
+**2 Chronicles 33:9**<big><big>[[2Chr.33.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Manasseh made Judah and the inhabitants of Jerusalem to err, [and] to do worse than the heathen, whom the LORD had destroyed before the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Manasseh led the people of Judah and Jerusalem astray, so that they did great
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.8|<< 2 Chronicles 33:8]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.10|2 Chronicles 33:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he misled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8582\|יֶּ֣תַע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.ta'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Manasseh  |**<big>&#8207;[[H4519H\|מְנַשֶּׁ֔ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

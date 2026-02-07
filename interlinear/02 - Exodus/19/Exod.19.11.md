@@ -1,4 +1,4 @@
-**Exodus 19:11** 
+**Exodus 19:11**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And be ready against the third day: for the third day the LORD will come down in the sight of all the people upon mount Sinai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and be prepared by the third day, for on the third day the LORD will come down o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.10|<< Exodus 19:10]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.12|Exodus 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prepared  |**<big>&#8207;[[H3559A\|נְכֹנִ֖ים]]&#8207; </big>**| ne.kho.Nim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

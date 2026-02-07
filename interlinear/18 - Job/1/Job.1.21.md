@@ -1,4 +1,4 @@
-**Job 1:21** 
+**Job 1:21**<big><big>[[Job.1.13 Job Loses His Children and Possessions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ saying: “Naked I came from my mother’s womb, and naked I will return. The LO
 > $\quad$ referenced by: [[1Tim.6.7|1Tim 6:7]] ☩ [[Jas.5.11|Jas 5:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | naked  |**<big>&#8207;[[H6174\|עָרֹ֨ם]]&#8207; </big>**| 'a.Rom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

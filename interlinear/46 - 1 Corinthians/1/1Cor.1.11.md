@@ -1,12 +1,12 @@
-**1 Corinthians 1:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:11**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it hath been declared unto me of you, my brethren, by them [which are of the house] of Chloe, that there are contentions among you.
 <small><sub>**BSB:**</sub></small>
 My brothers, some from Chloe’s household have informed me that there are quarrels among you.
 <small><sub>**Literal:**</sub></small>
 It was shown for to me concerning you, brothers of mine, by those of Chloe that quarrels among you there are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.10|<< 1 Corinthians 1:10]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.12|1 Corinthians 1:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It was shown |**<big>[[G1213\|Ἐδηλώθη]]</big>**  |Edēlōthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

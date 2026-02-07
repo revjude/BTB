@@ -1,10 +1,7 @@
 **LXX Judges 1:3** 
 <small><sub>**LXX:**</sub></small>
 And Judah said to Simeon  his brother, Ascend with me unto  my lot, for we should wage war with the Canaanite, and I shall go also with you unto  your lot. And Simeon went with him. 
-<small><sub>**KJV:**</sub></small>
-And Judah said unto Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with thee into thy lot. So Simeon went with him.
-<small><sub>**BSB:**</sub></small>
-Then the men of Judah said to their brothers the Simeonites, “Come up with us to our allotted territory, and let us fight against the Canaanites. And we likewise will go with you to your territory.” So the Simeonites went with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.2|<< Judges 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.4|Judges 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 6:54
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:54**<big><big>[[Mark.6.53 Jesus Heals at Gennesaret|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were come out of the ship, straightway they knew him,
 <small><sub>**BSB:**</sub></small>
 As soon as they got out of the boat, the people recognized Jesus
 <small><sub>**Literal:**</sub></small>
 And when were exiting they out of the boat immediately having recognized Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.53|<< Mark 6:53]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.55|Mark 6:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when were exiting |**<big>[[G1831\|ἐξελθόντων]]</big>**  |exelthontōn <small><sup>[[V-2AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Joel 2:32** 
 <small><sub>**LXX:**</sub></small>
 And it will be all who ever shall call upon the name of \[the\] <span class="smallcaps">lord</span> shall be delivered. For in  mount Zion and in Jerusalem shall be one rescuing, as the <span class="smallcaps">lord</span> said; and one announcing good news of which the <span class="smallcaps">lord</span> was called upon. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.
-<small><sub>**BSB:**</sub></small>
-And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has promised, among the remnant called by the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.31|<< Joel 2:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.1|Joel 3:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 2:32** is...

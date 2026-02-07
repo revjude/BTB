@@ -1,12 +1,12 @@
-**2 Corinthians 7:6
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 7:6**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;
 <small><sub>**BSB:**</sub></small>
 But God, who comforts the downcast, comforted us by the arrival of Titus,
 <small><sub>**Literal:**</sub></small>
 But the [One] comforting the downcast comforted us <the> God by the coming of Titus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.5|<< 2 Corinthians 7:5]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.7|2 Corinthians 7:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

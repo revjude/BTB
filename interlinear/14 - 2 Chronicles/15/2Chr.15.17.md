@@ -1,4 +1,4 @@
-**2 Chronicles 15:17** 
+**2 Chronicles 15:17**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the high places were not taken away out of Israel: nevertheless the heart of Asa was perfect all his days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The high places were not removed from Israel, but Asa’s heart was fully devote
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.16|<< 2 Chronicles 15:16]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.18|2 Chronicles 15:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the high places  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H1116\|בָּמ֔וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> ba.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

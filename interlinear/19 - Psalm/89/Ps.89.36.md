@@ -1,4 +1,4 @@
-**Psalms 89:36** (89:37)
+**Psalms 89:36**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His seed shall endure for ever, and his throne as the sun before me.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ his offspring shall endure forever, and his throne before Me like the sun,
 > $\quad$ referenced by: [[John.12.34|John 12:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | offspring his  |**<big>&#8207;[[H2233H\|זַ֭רְע]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| zar.'<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֣ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

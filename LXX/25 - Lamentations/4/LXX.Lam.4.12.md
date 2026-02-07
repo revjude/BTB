@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΛΑΜΕΔ</p>
 
 \[The\] kings of \[the\] earth believed not, all the ones dwelling, the ones living, that an enemy and one afflicting shall enter through the gates of Jerusalem, 
-<small><sub>**KJV:**</sub></small>
-The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-The kings of the earth did not believe, nor any people of the world, that an enemy or a foe could enter the gates of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.11|<< Lamentations 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.13|Lamentations 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

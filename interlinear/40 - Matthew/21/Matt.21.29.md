@@ -1,12 +1,12 @@
-**Matthew 21:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:29**<big><big>[[Matt.21.28 The Parable of the Two Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He answered and said, I will not: but afterward he repented, and went.
 <small><sub>**BSB:**</sub></small>
 ‘I will not,’ he replied. But later he changed his mind and went.
 <small><sub>**Literal:**</sub></small>
 <the> And answering he said; Not I want to; Afterward however having repented he went.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.28|<< Matthew 21:28]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.30|Matthew 21:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

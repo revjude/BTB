@@ -1,4 +1,4 @@
-**Deuteronomy 26:5** 
+**Deuteronomy 26:5**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt speak and say before the LORD thy God, A Syrian ready to perish [was] my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and you are to declare before the LORD your God, “My father was a wandering Ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.4|<< Deuteronomy 26:4]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.6|Deuteronomy 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will answer  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6030B\|עָנִ֨יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Ni.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתָּ֜]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

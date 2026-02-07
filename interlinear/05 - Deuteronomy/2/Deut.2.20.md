@@ -1,4 +1,4 @@
-**Deuteronomy 2:20** 
+**Deuteronomy 2:20**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (That also was accounted a land of giants: giants dwelt therein in old time; and the Ammonites call them Zamzummims;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.19|<< Deuteronomy 2:19]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.21|Deuteronomy 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] land of  |**<big>&#8207;[[H0776G\|אֶֽרֶץ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.retz-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Rephaites  |**<big>&#8207;[[H7497B\|רְפָאִ֥ים]]&#8207; </big>**| re.fa.'Im<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

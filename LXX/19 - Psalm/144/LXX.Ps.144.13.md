@@ -1,10 +1,7 @@
 **LXX Psalm 144:13** 
 <small><sub>**LXX:**</sub></small>
  their storerooms \[are\] full, discharging forth from out of this one to that one;  their sheep \[are\] prolific, multiplying in  their streets; 
-<small><sub>**KJV:**</sub></small>
-[That] our garners [may be] full, affording all manner of store: [that] our sheep may bring forth thousands and ten thousands in our streets:
-<small><sub>**BSB:**</sub></small>
-Our storehouses will be full, supplying all manner of produce; our flocks will bring forth thousands, tens of thousands in our fields.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.144.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.12|<< Psalm 144:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.14|Psalm 144:14 >>]]</td></tr></table>
 
 | Translation | Greek |

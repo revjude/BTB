@@ -1,4 +1,4 @@
-**Ezekiel 32:24** 
+**Ezekiel 32:24**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There [is] Elam and all her multitude round about her grave, all of them slain, fallen by the sword, which are gone down uncircumcised into the nether parts of the earth, which caused their terror in the land of the living; yet have they borne their shame with them that go down to the pit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Elam is there with all her multitudes around her grave. All of them are slain, f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.23|<< Ezekiel 32:23]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.25|Ezekiel 32:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] there  |**<big>&#8207;[[H8033G\|שָׁ֤ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elam  |**<big>&#8207;[[H5867A\|עֵילָם֙]]&#8207; </big>**| 'ei.Lam<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

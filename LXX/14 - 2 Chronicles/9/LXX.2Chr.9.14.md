@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:14** 
 <small><sub>**LXX:**</sub></small>
 besides what the men arranging and trading brought. And all the kings  of Arabia, and \[the\] satraps of the land brought gold and silver  to king Solomon. 
-<small><sub>**KJV:**</sub></small>
-Beside [that which] chapmen and merchants brought. And all the kings of Arabia and governors of the country brought gold and silver to Solomon.
-<small><sub>**BSB:**</sub></small>
-not including the revenue from the merchants and traders. And all the Arabian kings and governors of the land also brought gold and silver to Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.13|<< 2 Chronicles 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.15|2 Chronicles 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

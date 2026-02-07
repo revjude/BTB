@@ -6,10 +6,7 @@ Alleluiah.
 
 <small><sub>**LXX:**</sub></small>
 Make acknowledgment to the <span class="smallcaps">lord</span> for \[he is\] gracious, for his mercy \[is\] into the eon! 
-<small><sub>**KJV:**</sub></small>
-O give thanks unto the LORD, for [he is] good: for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-Give thanks to the LORD, for He is good; His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.48|<< Psalm 106:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.2|Psalm 107:2 >>]]</td></tr></table>
 
 | Translation | Greek |

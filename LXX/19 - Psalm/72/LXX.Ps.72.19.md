@@ -1,10 +1,7 @@
 **LXX Psalm 72:19** 
 <small><sub>**LXX:**</sub></small>
 And being blessed \[is\] the name  of his glory into the eon, and into the eon of the eon. And all the earth shall be filled of his glory. May it be. May it be. 
-<small><sub>**KJV:**</sub></small>
-And blessed [be] his glorious name for ever: and let the whole earth be filled [with] his glory; Amen, and Amen.
-<small><sub>**BSB:**</sub></small>
-And blessed be His glorious name forever; may all the earth be filled with His glory. Amen and amen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.18|<< Psalm 72:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.20|Psalm 72:20 >>]]</td></tr></table>
 
 | Translation | Greek |

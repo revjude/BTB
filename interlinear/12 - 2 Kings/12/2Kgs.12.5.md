@@ -1,4 +1,4 @@
-**2 Kings 12:5** (12:6)
+**2 Kings 12:5**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the priests take [it] to them, every man of his acquaintance: and let them repair the breaches of the house, wheresoever any breach shall be found.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let every priest receive it from his constituency, and let it be used to repair 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.4|<< 2 Kings 12:4]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.6|2 Kings 12:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them take  |**<big>&#8207;[[H3947G\|יִקְח֤וּ]]&#8207; </big>**| yik.Chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<for> themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

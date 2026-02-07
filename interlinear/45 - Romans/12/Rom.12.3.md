@@ -1,12 +1,12 @@
-**Romans 12:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:3**<big><big>[[Rom.12.1 Living Sacrifices|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I say, through the grace given unto me, to every man that is among you, not to think [of himself] more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.
 <small><sub>**BSB:**</sub></small>
 For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but think of yourself with sober judgment, according to the measure of faith God has given you.
 <small><sub>**Literal:**</sub></small>
 I say for through the grace which having been given to me to everyone who is being among you, not to be high-minded above what it behooves [you] to think, but to think so as <the> to be sober-minded, to each as <the> God has allotted a measure of faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.2|<< Romans 12:2]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.4|Romans 12:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

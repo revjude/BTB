@@ -1,12 +1,12 @@
-**John 9:35
-**<small><sub>**KJV:**</sub></small>
+**John 9:35**<big><big>[[John.9.35 Spiritual Blindness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?
 <small><sub>**BSB:**</sub></small>
 When Jesus heard that they had thrown him out, He found the man and said, “Do you believe in the Son of Man?”
 <small><sub>**Literal:**</sub></small>
 Heard <the> Jesus that they had cast him out, and having found him He said to him: You yourself believe in the Son <the> of Man?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.34|<< John 9:34]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.36|John 9:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Heard |**<big>[[G0191\|ἤκουσεν]]</big>**  |ēkousen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">ko</abbr> | |

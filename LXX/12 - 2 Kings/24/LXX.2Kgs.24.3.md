@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:3** 
 <small><sub>**LXX:**</sub></small>
 Only a rage of \[the\] <span class="smallcaps">lord</span> was against  Judah,  to remove it from in front of him, on account of the sins of Manasseh, according to all as much as he did; 
-<small><sub>**KJV:**</sub></small>
-Surely at the commandment of the LORD came [this] upon Judah, to remove [them] out of his sight, for the sins of Manasseh, according to all that he did;
-<small><sub>**BSB:**</sub></small>
-Surely this happened to Judah at the LORD’s command, to remove them from His presence because of the sins of Manasseh and all that he had done,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.2|<< 2 Kings 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.4|2 Kings 24:4 >>]]</td></tr></table>
 
 | Translation | Greek |

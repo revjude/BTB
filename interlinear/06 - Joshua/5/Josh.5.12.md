@@ -1,4 +1,4 @@
-**Joshua 5:12** 
+**Joshua 5:12**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the day after they had eaten from the produce of the land, the manna ceased.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.11|<< Joshua 5:11]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.13|Joshua 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it ceased  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7673A\|יִּשְׁבֹּ֨ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Bot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the manna  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4478A\|מָּ֜ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Man<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 9:12** 
 <small><sub>**LXX:**</sub></small>
 Syria from \[the\] dawn of \[the\] sun, and the Greeks from \[the\] descent of \[the\] sun, the ones devouring  Israel \[with their\] whole  mouth. In all these \[things\] the rage is not turned, but still there is the high hand. 
-<small><sub>**KJV:**</sub></small>
-The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth. For all this his anger is not turned away, but his hand [is] stretched out still.
-<small><sub>**BSB:**</sub></small>
-Aram from the east and Philistia from the west have devoured Israel with open mouths. Despite all this, His anger is not turned away; His hand is still upraised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.11|<< Isaiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.13|Isaiah 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

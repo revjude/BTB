@@ -1,10 +1,7 @@
 **LXX Deuteronomy 18:7** 
 <small><sub>**LXX:**</sub></small>
 then he shall officiate in the name of \[the\] <span class="smallcaps">lord</span>  his God, as all  his brethren the Levites, the ones standing there before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then he shall minister in the name of the LORD his God, as all his brethren the Levites [do], which stand there before the LORD.
-<small><sub>**BSB:**</sub></small>
-then he shall serve in the name of the LORD his God like all his fellow Levites who stand there before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.6|<< Deuteronomy 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.8|Deuteronomy 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 8:50
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:50**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Jesus heard [it], he answered him, saying, Fear not: believe only, and she shall be made whole.
 <small><sub>**BSB:**</sub></small>
 But Jesus overheard them and said to Jairus, “Do not be afraid; just believe, and she will be healed.”
 <small><sub>**Literal:**</sub></small>
 <the> But Jesus having heard He answered to him saying; Not do fear; only do believe, and she will be saved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.49|<< Luke 8:49]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.51|Luke 8:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

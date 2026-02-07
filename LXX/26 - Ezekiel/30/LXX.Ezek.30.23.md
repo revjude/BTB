@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:23** 
 <small><sub>**LXX:**</sub></small>
 And I will scatter Egypt into the nations, and I will winnow them into the places. 
-<small><sub>**KJV:**</sub></small>
-And I will scatter the Egyptians among the nations, and will disperse them through the countries.
-<small><sub>**BSB:**</sub></small>
-I will disperse the Egyptians among the nations and scatter them throughout the lands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.22|<< Ezekiel 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.24|Ezekiel 30:24 >>]]</td></tr></table>
 
 | Translation | Greek |

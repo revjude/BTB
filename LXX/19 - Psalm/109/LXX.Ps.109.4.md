@@ -1,10 +1,7 @@
 **LXX Psalm 109:4** 
 <small><sub>**LXX:**</sub></small>
 Instead of the loving me, they slandered me; but I prayed. 
-<small><sub>**KJV:**</sub></small>
-For my love they are my adversaries: but I [give myself unto] prayer.
-<small><sub>**BSB:**</sub></small>
-In return for my love they accuse me, but I am a man of prayer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.3|<< Psalm 109:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.5|Psalm 109:5 >>]]</td></tr></table>
 
 | Translation | Greek |

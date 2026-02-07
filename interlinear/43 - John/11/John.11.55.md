@@ -1,12 +1,12 @@
-**John 11:55
-**<small><sub>**KJV:**</sub></small>
+**John 11:55**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Jews’ passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.
 <small><sub>**BSB:**</sub></small>
 Now the Jewish Passover was near, and many people went up from the country to Jerusalem to purify themselves before the Passover.
 <small><sub>**Literal:**</sub></small>
 Was now near the Passover of the Jews, and went up many to Jerusalem out of the region before the Passover so that they may purify themselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.54|<< John 11:54]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.56|John 11:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|Ἦν]]</big>**  |Ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

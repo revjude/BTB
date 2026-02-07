@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:22** 
 <small><sub>**LXX:**</sub></small>
 but only  to afflict him. And he proceeded  to leave from \[the\] <span class="smallcaps">lord</span>, and king Ahaz said, 
-<small><sub>**KJV:**</sub></small>
-And in the time of his distress did he trespass yet more against the LORD: this [is that] king Ahaz.
-<small><sub>**BSB:**</sub></small>
-In the time of his distress, King Ahaz became even more unfaithful to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.21|<< 2 Chronicles 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.23|2 Chronicles 28:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 24:14** 
+**Isaiah 24:14**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They raise their voices, they shout for joy; from the west they proclaim the maj
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.13|<< Isaiah 24:13]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.15|Isaiah 24:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֛מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will lift up  |**<big>&#8207;[[H5375N\|יִשְׂא֥וּ]]&#8207; </big>**| yis.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

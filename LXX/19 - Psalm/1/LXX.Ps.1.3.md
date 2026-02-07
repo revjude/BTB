@@ -1,10 +1,7 @@
 **LXX Psalm 1:3** 
 <small><sub>**LXX:**</sub></small>
 And he will be as the tree  being planted by the outlet of the waters, which  gives his fruit in his season, and  his leaf shall not drop down; and all as much as he should do will greatly prosper. 
-<small><sub>**KJV:**</sub></small>
-And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
-<small><sub>**BSB:**</sub></small>
-He is like a tree planted by streams of water, yielding its fruit in season, whose leaf does not wither, and who prospers in all he does.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.1.2|<< Psalm 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.1.4|Psalm 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

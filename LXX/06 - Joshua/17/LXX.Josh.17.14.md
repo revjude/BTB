@@ -1,10 +1,7 @@
 **LXX Joshua 17:14** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Joseph contradicted  Joshua, saying, Why do you allot us one lot, and one piece of measured out land, and I \[am\] a populous people, and God blessed me? 
-<small><sub>**KJV:**</sub></small>
-And the children of Joseph spake unto Joshua, saying, Why hast thou given me [but] one lot and one portion to inherit, seeing I [am] a great people, forasmuch as the LORD hath blessed me hitherto?
-<small><sub>**BSB:**</sub></small>
-Then the sons of Joseph said to Joshua, “Why have you given us only one portion as an inheritance? We have many people, because the LORD has blessed us abundantly.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.13|<< Joshua 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.15|Joshua 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 25:4** 
+**Genesis 25:4**<big><big>[[Gen.25.1 Abraham and Keturah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these [were] the children of Keturah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.3|<< Genesis 25:3]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.5|Genesis 25:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Midian  |**<big>&#8207;[[H4080G\|מִדְיָ֗ן]]&#8207; </big>**| mid.Yan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

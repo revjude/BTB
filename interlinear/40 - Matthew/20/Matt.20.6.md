@@ -1,12 +1,12 @@
-**Matthew 20:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:6**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?
 <small><sub>**BSB:**</sub></small>
 About the eleventh hour he went out and found still others standing around. ‘Why have you been standing here all day long doing nothing?’ he asked.
 <small><sub>**Literal:**</sub></small>
 About then the eleventh hour having gone out he found others already standing idle and he says to them; Why here you have stood all the day idle?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.5|<< Matthew 20:5]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.7|Matthew 20:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | About |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

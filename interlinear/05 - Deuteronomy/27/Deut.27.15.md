@@ -1,4 +1,4 @@
-**Deuteronomy 27:15** 
+**Deuteronomy 27:15**<big><big>[[Deut.27.11 Curses Pronounced from Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] the man that maketh [any] graven or molten image, an abomination unto the LORD, the work of the hands of the craftsman, and putteth [it] in [a] secret [place]. And all the people shall answer and say, Amen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cursed [be] the man that maketh [any] graven or molten image, an abomination unt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.14|<< Deuteronomy 27:14]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.16|Deuteronomy 27:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] cursed  |**<big>&#8207;[[H0779\|אָר֣וּר]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the person  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֡ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

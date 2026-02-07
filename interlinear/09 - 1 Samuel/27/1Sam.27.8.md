@@ -1,4 +1,4 @@
-**1 Samuel 27:8** 
+**1 Samuel 27:8**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those [nations were] of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now David and his men went up and raided the Geshurites, the Girzites, and the A
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.7|<< 1 Samuel 27:7]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.9|1 Samuel 27:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֤עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִד֙]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

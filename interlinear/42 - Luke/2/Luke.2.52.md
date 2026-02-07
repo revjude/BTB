@@ -1,5 +1,5 @@
-**Luke 2:52
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:52**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus increased in wisdom and stature, and in favour with God and man.
 <small><sub>**BSB:**</sub></small>
 And Jesus grew in wisdom and stature, and in favor with God and man.
@@ -10,7 +10,7 @@ And Jesus was continuing to advance in <the> wisdom and stature and in favor wit
 > $\quad$ alluding to: [[LXX.1Sam.2.26|1Sam 2:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

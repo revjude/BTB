@@ -1,4 +1,4 @@
-**Psalms 21:13** (21:14)
+**Psalms 21:13**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be thou exalted, LORD, in thine own strength: [so] will we sing and praise thy power.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be exalted, O LORD, in Your strength; we will sing and praise Your power.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.12|<< Psalms 21:12]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.0|Psalms 22:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rise up !  |**<big>&#8207;[[H7311A\|ר֣וּמָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Ru.ma<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

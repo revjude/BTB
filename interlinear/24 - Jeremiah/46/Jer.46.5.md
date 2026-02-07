@@ -1,4 +1,4 @@
-**Jeremiah 46:5** 
+**Jeremiah 46:5**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore have I seen them dismayed [and] turned away back? and their mighty ones are beaten down, and are fled apace, and look not back: [for] fear [was] round about, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why am I seeing this? They are terrified, they are retreating; their warriors ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.4|<< Jeremiah 46:4]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.6|Jeremiah 46:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַדּ֣וּעַ]]&#8207; </big>**| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have I seen  |**<big>&#8207;[[H7200G\|רָאִ֗יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

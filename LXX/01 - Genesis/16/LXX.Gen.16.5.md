@@ -1,10 +1,7 @@
 **LXX Genesis 16:5** 
 <small><sub>**LXX:**</sub></small>
 And Sarai said to Abram, I am being wronged because of you. I gave  my maidservant to  your bosom. And seeing that she had \[a child\] in \[the\] womb I was dishonored before her. May God judge between me and you. 
-<small><sub>**KJV:**</sub></small>
-And Sarai said unto Abram, My wrong [be] upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the LORD judge between me and thee.
-<small><sub>**BSB:**</sub></small>
-Then Sarai said to Abram, “May the wrong done to me be upon you! I delivered my servant into your arms, and ever since she saw that she was pregnant, she has treated me with contempt. May the LORD judge between you and me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.4|<< Genesis 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.6|Genesis 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

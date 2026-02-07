@@ -1,4 +1,4 @@
-**Isaiah 46:10** 
+**Isaiah 46:10**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declaring the end from the beginning, and from ancient times [the things] that are not [yet] done, saying, My counsel shall stand, and I will do all my pleasure:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I declare the end from the beginning, and from ancient times what is still to co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.9|<< Isaiah 46:9]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.11|Isaiah 46:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] declares  |**<big>&#8207;[[H5046\|מַגִּ֤יד]]&#8207; </big>**| ma.Gid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] beginning  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H7225G\|רֵאשִׁית֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> re.Shit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

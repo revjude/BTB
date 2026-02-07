@@ -1,12 +1,12 @@
-**Hebrews 7:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:7**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And without all contradiction the less is blessed of the better.
 <small><sub>**BSB:**</sub></small>
 And indisputably, the lesser is blessed by the greater.
 <small><sub>**Literal:**</sub></small>
 Apart from now all dispute; the inferior by the superior is blessed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.6|<< Hebrews 7:6]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.8|Hebrews 7:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Apart from |**<big>[[G5565\|χωρὶς]]</big>**  |chōris <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

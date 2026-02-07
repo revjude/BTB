@@ -1,10 +1,7 @@
 **LXX Joshua 7:18** 
 <small><sub>**LXX:**</sub></small>
 And he led forward  his house by man, and was made manifest Achan son of Carmi, son of Zabdi, son of Zerah of the tribe of Judah. 
-<small><sub>**KJV:**</sub></small>
-And he brought his household man by man; and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was taken.
-<small><sub>**BSB:**</sub></small>
-And he had the family of Zabdi come forward man by man, and Achan son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was selected.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.17|<< Joshua 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.19|Joshua 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

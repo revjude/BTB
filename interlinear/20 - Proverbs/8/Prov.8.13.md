@@ -1,4 +1,4 @@
-**Proverbs 8:13** 
+**Proverbs 8:13**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the LORD [is] to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To fear the LORD is to hate evil; I hate arrogant pride, evil conduct, and perve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.12|<< Proverbs 8:12]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.14|Proverbs 8:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] fear of  |**<big>&#8207;[[H3374\|יִֽרְאַ֣ת]]&#8207; </big>**| yir.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 38:16** 
+**Jeremiah 38:16**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Zedekiah the king sware secretly unto Jeremiah, saying, [As] the LORD liveth, that made us this soul, I will not put thee to death, neither will I give thee into the hand of these men that seek thy life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But King Zedekiah swore secretly to Jeremiah, “As surely as the LORD lives, wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.15|<< Jeremiah 38:15]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.17|Jeremiah 38:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he swore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7650\|יִּשָּׁבַ֞ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sha.Va'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֧לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

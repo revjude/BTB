@@ -1,10 +1,7 @@
 **LXX Esther 2:3** 
 <small><sub>**LXX:**</sub></small>
 And the king shall place magistrates in all the places  of his kingdom, and let them choose young women, virgins, beautiful  in appearance \[to be brought\] to Shushan the city, into the chamber of the women! And let them be delivered to the eunuch of the king, the keeper of the women! And let there be given \[to them\] a beauty treatment, and the remaining care! 
-<small><sub>**KJV:**</sub></small>
-And let the king appoint officers in all the provinces of his kingdom, that they may gather together all the fair young virgins unto Shushan the palace, to the house of the women, unto the custody of Hege the king’s chamberlain, keeper of the women; and let their things for purification be given [them]:
-<small><sub>**BSB:**</sub></small>
-and let the king appoint commissioners in each province of his kingdom to assemble all the beautiful young women into the harem at the citadel of Susa. Let them be placed under the care of Hegai, the king’s eunuch in charge of the women, and let them be given beauty treatments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.2|<< Esther 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.4|Esther 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

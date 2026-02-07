@@ -1,4 +1,4 @@
-**Ezra 10:16** 
+**Ezra 10:16**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of the captivity did so. And Ezra the priest, [with] certain chief of the fathers, after the house of their fathers, and all of them by [their] names, were separated, and sat down in the first day of the tenth month to examine the matter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the exiles did as proposed. Ezra the priest selected men who were family head
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.15|<< Ezra 10:15]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.17|Ezra 10:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּֽעֲשׂוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.su-<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3651C\|כֵן֮]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

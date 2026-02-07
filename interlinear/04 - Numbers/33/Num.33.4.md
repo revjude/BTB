@@ -1,4 +1,4 @@
-**Numbers 33:4** 
+**Numbers 33:4**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Egyptians buried all [their] firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who were burying all their firstborn, whom the LORD had struck down among them; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.3|<< Numbers 33:3]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.5|Numbers 33:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Egypt  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4713\|מִצְרַ֣יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] burying  |**<big>&#8207;[[H6912\|מְקַבְּרִ֗ים]]&#8207; </big>**| me.ka.be.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 10:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:5**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And into whatsoever house ye enter, first say, Peace [be] to this house.
 <small><sub>**BSB:**</sub></small>
 Whatever house you enter, begin by saying, ‘Peace to this house.’
 <small><sub>**Literal:**</sub></small>
 Into whatever now maybe you may enter house first do say: Peace to the house this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.4|<< Luke 10:4]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.6|Luke 10:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Into |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whatever |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

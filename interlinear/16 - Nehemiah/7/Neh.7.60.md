@@ -1,4 +1,4 @@
-**Nehemiah 7:60** 
+**Nehemiah 7:60**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the Nethinims, and the children of Solomon’s servants, [were] three hundred ninety and two.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The temple servants and descendants of the servants of Solomon numbered 392 in a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.60|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.59|<< Nehemiah 7:59]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.61|Nehemiah 7:61 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the temple servants  |**<big>&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H5411\|נְּתִינִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.ti.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

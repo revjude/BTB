@@ -1,4 +1,4 @@
-**Genesis 45:11** 
+**Genesis 45:11**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there will I nourish thee; for yet [there are] five years of famine; lest thou, and thy household, and all that thou hast, come to poverty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there I will provide for you, because there will be five more years of famin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.10|<< Genesis 45:10]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.12|Genesis 45:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will provide for  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3557\|כִלְכַּלְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khil.kal.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֹֽתְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| 'o.te.<small><sup>[[HTo]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

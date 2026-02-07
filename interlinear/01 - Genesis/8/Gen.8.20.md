@@ -1,4 +1,4 @@
-**Genesis 8:20** 
+**Genesis 8:20**<big><big>[[Gen.8.20 Noah Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Noah built an altar to the LORD. And taking from every kind of clean animal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.19|<< Genesis 8:19]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.21|Genesis 8:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּ֥בֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Noah  |**<big>&#8207;[[H5146\|נֹ֛חַ]]&#8207; </big>**| No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

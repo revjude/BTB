@@ -1,10 +1,7 @@
 **LXX Genesis 7:21** 
 <small><sub>**LXX:**</sub></small>
 And there died all flesh moving upon the earth of the winged creatures, and of the cattle, and from wild beasts, and every reptile moving upon the earth, and every man, 
-<small><sub>**KJV:**</sub></small>
-And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:
-<small><sub>**BSB:**</sub></small>
-And every living thing that moved upon the earth perished—birds, livestock, animals, every creature that swarms upon the earth, and all mankind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.20|<< Genesis 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.22|Genesis 7:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 7:21** is...

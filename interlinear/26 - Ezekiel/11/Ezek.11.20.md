@@ -1,4 +1,4 @@
-**Ezekiel 11:20** 
+**Ezekiel 11:20**<big><big>[[Ezek.11.13 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may walk in my statutes, and keep mine ordinances, and do them: and they shall be my people, and I will be their God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ so that they may follow My statutes, keep My ordinances, and practice them. Then
 > $\quad$ referenced by: [[Rev.21.7|Rev 21:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֙עַן֙]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in statutes my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2708\|חֻקֹּתַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chu.ko.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

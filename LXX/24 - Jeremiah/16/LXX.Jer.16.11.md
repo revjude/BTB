@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:11** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Because your fathers abandoned me, says \[the\] <span class="smallcaps">lord</span>; and they set out after strange gods, and they served to them, and did obeisance to them; and they abandoned me, and  they did not keep my law. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou say unto them, Because your fathers have forsaken me, saith the LORD, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;
-<small><sub>**BSB:**</sub></small>
-Then you are to answer them: ‘It is because your fathers have forsaken Me, declares the LORD, and followed other gods, and served and worshiped them. They abandoned Me and did not keep My instruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.10|<< Jeremiah 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.12|Jeremiah 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Ephesians 4:1
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:1**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
 <small><sub>**BSB:**</sub></small>
 As a prisoner in the Lord, then, I urge you to walk in a manner worthy of the calling you have received:
 <small><sub>**Literal:**</sub></small>
 Exhort therefore you I myself the prisoner in [the] Lord worthily to walk of the calling to which you were called,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.21|<< Ephesians 3:21]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.2|Ephesians 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Exhort |**<big>[[G3870\|Παρακαλῶ]]</big>**  |Parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 9:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:43**<big><big>[[Luke.9.43 The Second Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,
 <small><sub>**BSB:**</sub></small>
 And they were all astonished at the greatness of God. While everyone was marveling at all that Jesus was doing, He said to His disciples,
 <small><sub>**Literal:**</sub></small>
 Were astonished then all at the majesty <the> of God. Of all however wondering at all which was doing <the> Jesus He said to the disciples of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.42|<< Luke 9:42]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.44|Luke 9:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were astonished |**<big>[[G1605\|ἐξεπλήσσοντο]]</big>**  |exeplēssonto <small><sup>[[V-IPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

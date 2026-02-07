@@ -1,4 +1,4 @@
-**Joshua 10:4** 
+**Joshua 10:4**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come up unto me, and help me, that we may smite Gibeon: for it hath made peace with Joshua and with the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come up unto me, and help me, that we may smite Gibeon: for it hath made peace w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.3|<< Joshua 10:3]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.5|Joshua 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come up  |**<big>&#8207;[[H5927G\|עֲלֽוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.lu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

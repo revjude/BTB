@@ -1,10 +1,7 @@
 **LXX Psalm 119:96** 
 <small><sub>**LXX:**</sub></small>
 I beheld \[the\] end of every completion; your commandment \[is\] exceedingly spacious. 
-<small><sub>**KJV:**</sub></small>
-I have seen an end of all perfection: [but] thy commandment [is] exceeding broad.
-<small><sub>**BSB:**</sub></small>
-I have seen a limit to all perfection, but Your commandment is without limit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.96|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.95|<< Psalm 119:95]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.97|Psalm 119:97 >>]]</td></tr></table>
 
 | Translation | Greek |

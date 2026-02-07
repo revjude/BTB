@@ -1,12 +1,12 @@
-**1 Corinthians 7:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:7**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.
 <small><sub>**BSB:**</sub></small>
 I wish that all men were as I am. But each man has his own gift from God; one has this gift, another has that.
 <small><sub>**Literal:**</sub></small>
 I wish now all men to be like even myself; But each [their] own has gift from God, one [has] indeed this, one however that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.6|<< 1 Corinthians 7:6]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.8|1 Corinthians 7:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I wish |**<big>[[G2309\|θέλω]]</big>**  |thelō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

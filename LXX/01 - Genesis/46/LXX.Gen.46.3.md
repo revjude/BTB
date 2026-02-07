@@ -1,10 +1,7 @@
 **LXX Genesis 46:3** 
 <small><sub>**LXX:**</sub></small>
 And he says to him, I am the God  of your fathers; \[do\] not fear to go down into Egypt! For I will make you into a great nation there. 
-<small><sub>**KJV:**</sub></small>
-And he said, I [am] God, the God of thy father: fear not to go down into Egypt; for I will there make of thee a great nation:
-<small><sub>**BSB:**</sub></small>
-“I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.2|<< Genesis 46:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.4|Genesis 46:4 >>]]</td></tr></table>
 
 | Translation | Greek |

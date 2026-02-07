@@ -1,12 +1,12 @@
-**Matthew 22:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:9**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Go ye therefore into the highways, and as many as ye shall find, bid to the marriage.
 <small><sub>**BSB:**</sub></small>
 Go therefore to the crossroads and invite to the banquet as many as you can find.’
 <small><sub>**Literal:**</sub></small>
 do go therefore into the thoroughfares of the highways, and as many as if you shall find, do invite to the wedding feast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.8|<< Matthew 22:8]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.10|Matthew 22:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do go |**<big>[[G4198\|πορεύεσθε]]</big>**  |poreuesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

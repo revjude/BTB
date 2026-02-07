@@ -1,4 +1,4 @@
-**Jeremiah 15:15** 
+**Jeremiah 15:15**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, thou knowest: remember me, and visit me, and revenge me of my persecutors; take me not away in thy longsuffering: know that for thy sake I have suffered rebuke.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You understand, O LORD; remember me and attend to me. Avenge me against my perse
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.14|<< Jeremiah 15:14]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.16|Jeremiah 15:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֧ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you know  |**<big>&#8207;[[H3045\|יָדַ֣עְתָּ]]&#8207; </big>**| ya.Da'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

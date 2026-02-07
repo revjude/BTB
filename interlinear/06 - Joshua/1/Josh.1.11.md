@@ -1,4 +1,4 @@
-**Joshua 1:11** 
+**Joshua 1:11**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the LORD your God giveth you to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pass through the host, and command the people, saying, Prepare you victuals; for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.10|<< Joshua 1:10]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.12|Joshua 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pass  |**<big>&#8207;[[H5674A\|עִבְר֣וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'iv.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] midst of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קֶ֣רֶב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ke.rev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

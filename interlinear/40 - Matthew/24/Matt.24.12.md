@@ -1,12 +1,12 @@
-**Matthew 24:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:12**<big><big>[[Matt.24.9 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And because iniquity shall abound, the love of many shall wax cold.
 <small><sub>**BSB:**</sub></small>
 Because of the multiplication of wickedness, the love of most will grow cold.
 <small><sub>**Literal:**</sub></small>
 And because <the> is to be multiplied <the> lawlessness will grow cold the love of the many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.11|<< Matthew 24:11]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.13|Matthew 24:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | because |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

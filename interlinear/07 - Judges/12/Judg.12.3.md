@@ -1,4 +1,4 @@
-**Judges 12:3** 
+**Judges 12:3**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I saw that ye delivered [me] not, I put my life in my hands, and passed over against the children of Ammon, and the LORD delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I saw that you would not save me, I risked my life and crossed over to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.2|<< Judges 12:2]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.4|Judges 12:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H7200G\|אֶרְאֶ֞ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'er.'Eh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

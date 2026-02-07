@@ -1,4 +1,4 @@
-**Proverbs 17:14** 
+**Proverbs 17:14**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The beginning of strife [is as] when one letteth out water: therefore leave off contention, before it be meddled with.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To start a quarrel is to release a flood; so abandon the dispute before it break
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.13|<< Proverbs 17:13]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.15|Proverbs 17:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is one who] lets out  |**<big>&#8207;[[H6362\|פּ֣וֹטֵֽר]]&#8207; </big>**| Po.ter<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | water  |**<big>&#8207;[[H4325G\|מַ֭יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

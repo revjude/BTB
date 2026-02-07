@@ -1,10 +1,7 @@
 **LXX Judges 1:8** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Judah waged war with Jerusalem, and overtook it, and struck it by \[the\] mouth of \[the\] broadsword, and the city they burnt with fire. 
-<small><sub>**KJV:**</sub></small>
-Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire.
-<small><sub>**BSB:**</sub></small>
-Then the men of Judah fought against Jerusalem and captured it. They put the city to the sword and set it on fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.7|<< Judges 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.9|Judges 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

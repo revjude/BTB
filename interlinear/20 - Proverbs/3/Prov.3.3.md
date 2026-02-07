@@ -1,4 +1,4 @@
-**Proverbs 3:3** 
+**Proverbs 3:3**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Never let loving devotion or faithfulness leave you; bind them around your neck,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.2|<< Proverbs 3:2]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.4|Proverbs 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | loyalty  |**<big>&#8207;[[H2617A\|חֶ֥סֶד]]&#8207; </big>**| Che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and faithfulness  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0571G\|אֱמֶ֗ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

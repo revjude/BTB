@@ -1,12 +1,12 @@
-**Ephesians 4:17
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:17**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,
 <small><sub>**BSB:**</sub></small>
 So I tell you this, and insist on it in the Lord, that you must no longer walk as the Gentiles do, in the futility of their thinking.
 <small><sub>**Literal:**</sub></small>
 This therefore I say and I testify in [the] Lord No longer [are] you to walk even as also the rest of Gentiles are walking in [the] futility of the mind of them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.16|<< Ephesians 4:16]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.18|Ephesians 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Τοῦτο]]</big>**  |Touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

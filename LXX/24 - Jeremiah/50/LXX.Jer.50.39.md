@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:39** 
 <small><sub>**LXX:**</sub></small>
 On account of this \[the\] effigies shall dwell among the islands, and there shall dwell in them daughters of sirens. In no way should it be inhabited any longer unto the eon, nor shall it be encamped unto generation and generation. 
-<small><sub>**KJV:**</sub></small>
-Therefore the wild beasts of the desert with the wild beasts of the islands shall dwell [there], and the owls shall dwell therein: and it shall be no more inhabited for ever; neither shall it be dwelt in from generation to generation.
-<small><sub>**BSB:**</sub></small>
-So the desert creatures and hyenas will live there and ostriches will dwell there. It will never again be inhabited or lived in from generation to generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.38|<< Jeremiah 50:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.40|Jeremiah 50:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 15:10** 
 <small><sub>**LXX:**</sub></small>
 And every man of Judah said to them, Why have you ascended against us? And the Philistines said, We ascended to tie up Samson, and to do to him in which manner he did to us. 
-<small><sub>**KJV:**</sub></small>
-And the men of Judah said, Why are ye come up against us? And they answered, To bind Samson are we come up, to do to him as he hath done to us.
-<small><sub>**BSB:**</sub></small>
-“Why have you attacked us?” said the men of Judah. The Philistines replied, “We have come to arrest Samson and pay him back for what he has done to us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.9|<< Judges 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.11|Judges 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

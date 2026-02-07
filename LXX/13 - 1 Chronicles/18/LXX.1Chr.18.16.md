@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:16** 
 <small><sub>**LXX:**</sub></small>
 and Zadok son of Ahitub, and Abimelech son of Abiathar, \[were\] priests; and Shavsha \[was\] scribe; 
-<small><sub>**KJV:**</sub></small>
-And Zadok the son of Ahitub, and Abimelech the son of Abiathar, [were] the priests; and Shavsha was scribe;
-<small><sub>**BSB:**</sub></small>
-Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Shavsha was the scribe;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.15|<< 1 Chronicles 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.17|1 Chronicles 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

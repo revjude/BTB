@@ -1,10 +1,7 @@
 **LXX Psalm 132:16** 
 <small><sub>**LXX:**</sub></small>
  Her priests I will clothe \[with\] deliverance; and  her sacred ones shall exult in exultation. 
-<small><sub>**KJV:**</sub></small>
-I will also clothe her priests with salvation: and her saints shall shout aloud for joy.
-<small><sub>**BSB:**</sub></small>
-I will clothe her priests with salvation, and her saints will sing out in joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.132.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.15|<< Psalm 132:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.17|Psalm 132:17 >>]]</td></tr></table>
 
 | Translation | Greek |

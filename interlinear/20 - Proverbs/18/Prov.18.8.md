@@ -1,4 +1,4 @@
-**Proverbs 18:8** 
+**Proverbs 18:8**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of a talebearer [are] as wounds, and they go down into the innermost parts of the belly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The words of a gossip are like choice morsels that go down into the inmost being
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.7|<< Proverbs 18:7]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.9|Proverbs 18:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֣י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a slanderer  |**<big>&#8207;[[H7279\|נִ֭רְגָּן]]&#8207; </big>**| Nir.gon<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

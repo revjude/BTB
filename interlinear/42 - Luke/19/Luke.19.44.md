@@ -1,12 +1,12 @@
-**Luke 19:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:44**<big><big>[[Luke.19.41 Jesus Weeps over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall lay thee even with the ground, and thy children within thee; and they shall not leave in thee one stone upon another; because thou knewest not the time of thy visitation.
 <small><sub>**BSB:**</sub></small>
 They will level you to the ground—you and the children within your walls. They will not leave one stone on another, because you did not recognize the time of your visitation from God.”
 <small><sub>**Literal:**</sub></small>
 and will level to the ground you and the children of you within you and not will leave a stone upon a stone within you, because which not you knew the season <the> of visitation of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.43|<< Luke 19:43]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.45|Luke 19:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will level to the ground |**<big>[[G1474\|ἐδαφιοῦσίν]]</big>**  |edaphiousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

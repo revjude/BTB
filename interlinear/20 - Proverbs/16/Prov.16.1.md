@@ -1,4 +1,4 @@
-**Proverbs 16:1** 
+**Proverbs 16:1**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The preparations of the heart in man, and the answer of the tongue, [is] from the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The plans of the heart belong to man, but the reply of the tongue is from the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.33|<< Proverbs 15:33]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.2|Proverbs 16:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belong] to a person  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0120G\|אָדָ֥ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] plans of  |**<big>&#8207;[[H4633\|מַֽעַרְכֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.'ar.khei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

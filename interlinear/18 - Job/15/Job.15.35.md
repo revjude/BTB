@@ -1,4 +1,4 @@
-**Job 15:35** 
+**Job 15:35**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They conceive mischief, and bring forth vanity, and their belly prepareth deceit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They conceive trouble and give birth to evil; their womb is pregnant with deceit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.34|<< Job 15:34]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.1|Job 16:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they conceive  |**<big>&#8207;[[H2029\|הָרֹ֣ה]]&#8207; </big>**| ha.Roh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | trouble  |**<big>&#8207;[[H5999\|עָ֭מָל]]&#8207; </big>**| 'A.mol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

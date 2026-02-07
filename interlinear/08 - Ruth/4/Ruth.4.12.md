@@ -1,4 +1,4 @@
-**Ruth 4:12** 
+**Ruth 4:12**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And may your house become like the house of Perez, whom Tamar bore to Judah, bec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.11|<< Ruth 4:11]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.13|Ruth 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so may it be  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H1961\|יהִ֤י]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | household your  |**<big>&#8207;[[H1004M\|בֵֽיתְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| vei.te.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

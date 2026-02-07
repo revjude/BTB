@@ -1,4 +1,4 @@
-**Psalms 102:26** (102:27)
+**Psalms 102:26**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They will perish, but You remain; they will all wear out like a garment. Like cl
 > $\quad$ referenced by: [[Heb.1.10|Heb 1:10-12]] ☩ [[2Pet.3.10|2Pet 3:10]] ☩ [[Rev.6.14|Rev 6:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֤מָּה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will perish  |**<big>&#8207;[[H0006\|יֹאבֵדוּ֮]]&#8207; </big>**| yoe.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

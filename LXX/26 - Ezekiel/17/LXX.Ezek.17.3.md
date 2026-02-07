@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; The great eagle  having large wings,  stretching out long, full of claws, who has the leading to enter into  Lebanon -- even he took the choice  cedar. 
-<small><sub>**KJV:**</sub></small>
-And say, Thus saith the Lord GOD; A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar:
-<small><sub>**BSB:**</sub></small>
-and tell them that this is what the Lord GOD says: ‘A great eagle with great wings and long pinions, full of feathers of many colors, came to Lebanon and took away the top of the cedar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.2|<< Ezekiel 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.4|Ezekiel 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 1:32
-**<small><sub>**KJV:**</sub></small>
+**John 1:32**<big><big>[[John.1.29 Jesus the Lamb of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.
 <small><sub>**BSB:**</sub></small>
 Then John testified, “I saw the Spirit descending from heaven like a dove and resting on Him.
 <small><sub>**Literal:**</sub></small>
 And bore witness John saying that I have beheld the Spirit descending as a dove out of heaven, and it remained upon Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.31|<< John 1:31]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.33|John 1:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | bore witness |**<big>[[G3140\|ἐμαρτύρησεν]]</big>**  |emarturēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 40:8** 
 <small><sub>**LXX:**</sub></small>
  And they said to him, We saw a dream, and the interpreting it is not. And Joseph said to them, Is not the explanation of them through God? Describe \[them\] then to me. 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, We have dreamed a dream, and [there is] no interpreter of it. And Joseph said unto them, [Do] not interpretations [belong] to God? tell me [them], I pray you.
-<small><sub>**BSB:**</sub></small>
-“We both had dreams,” they replied, “but there is no one to interpret them.” Then Joseph said to them, “Don’t interpretations belong to God? Tell me your dreams.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.7|<< Genesis 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.9|Genesis 40:9 >>]]</td></tr></table>
 
 | Translation | Greek |

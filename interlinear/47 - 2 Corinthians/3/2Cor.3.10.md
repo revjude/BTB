@@ -1,12 +1,12 @@
-**2 Corinthians 3:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:10**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.
 <small><sub>**BSB:**</sub></small>
 Indeed, what was once glorious has no glory now in comparison to the glory that surpasses it.
 <small><sub>**Literal:**</sub></small>
 Even for not has been glorified that glorified in this <the> respect on account of the surpassing [it] glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.9|<< 2 Corinthians 3:9]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.11|2 Corinthians 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

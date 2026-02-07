@@ -1,12 +1,12 @@
-**Jude 1:6
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:6**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
 <small><sub>**BSB:**</sub></small>
 And the angels who did not stay within their own domain but abandoned their proper dwelling—these He has kept in eternal chains under darkness, bound for judgment on that great day.
 <small><sub>**Literal:**</sub></small>
 [The] angels both <the> not having kept <the> their own domain but having left <the> [their] own dwelling, unto [the] judgment of [the] great day in chains eternal under darkness He has kept;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.5|<< Jude 1:5]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.7|Jude 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] angels |**<big>[[G0032G\|ἀγγέλους]]</big>**  |angelous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | both |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

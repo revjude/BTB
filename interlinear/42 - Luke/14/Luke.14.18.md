@@ -1,12 +1,12 @@
-**Luke 14:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:18**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they all with one [consent] began to make excuse. The first said unto him, I have bought a piece of ground, and I must needs go and see it: I pray thee have me excused.
 <small><sub>**BSB:**</sub></small>
 But one after another they all began to make excuses. The first one said, ‘I have bought a field, and I need to go see it. Please excuse me.’
 <small><sub>**Literal:**</sub></small>
 And began with one [voice] all to excuse themselves. The first said to him; A field I have bought and I have need going out and to see it; I beg of you, do hold me excused.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.17|<< Luke 14:17]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.19|Luke 14:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | began |**<big>[[G0757\|ἤρξαντο]]</big>**  |ērxanto <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

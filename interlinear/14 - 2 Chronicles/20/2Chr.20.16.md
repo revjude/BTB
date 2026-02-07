@@ -1,4 +1,4 @@
-**2 Chronicles 20:16** 
+**2 Chronicles 20:16**<big><big>[[2Chr.20.14 The Prophecy of Jahaziel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tomorrow you are to march down against them. You will see them coming up the Asc
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.15|<< 2 Chronicles 20:15]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.17|2 Chronicles 20:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tomorrow  |**<big>&#8207;[[H4279\|מָחָר֙]]&#8207; </big>**| ma.Char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go down  |**<big>&#8207;[[H3381\|רְד֣וּ]]&#8207; </big>**| re.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

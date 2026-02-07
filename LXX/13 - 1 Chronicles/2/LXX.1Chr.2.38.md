@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:38** 
 <small><sub>**LXX:**</sub></small>
 and Obed procreated  Jehu, and Jehu procreated  Azariah, 
-<small><sub>**KJV:**</sub></small>
-And Obed begat Jehu, and Jehu begat Azariah,
-<small><sub>**BSB:**</sub></small>
-Obed was the father of Jehu, Jehu was the father of Azariah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.37|<< 1 Chronicles 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.39|1 Chronicles 2:39 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Galatians 4:24
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:24**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
 <small><sub>**BSB:**</sub></small>
 These things serve as illustrations, for the women represent two covenants. One covenant is from Mount Sinai and bears children into slavery: This is Hagar.
 <small><sub>**Literal:**</sub></small>
 which things are allegorized; these for are <the> two covenants, one indeed from Mount Sinai unto slavery begetting which is Hagar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.23|<< Galatians 4:23]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.25|Galatians 4:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which things |**<big>[[G3748\|ἅτινά]]</big>**  |hatina <small><sup>[[R-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

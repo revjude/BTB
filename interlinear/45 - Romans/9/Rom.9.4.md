@@ -1,12 +1,12 @@
-**Romans 9:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:4**<big><big>[[Rom.9.1 Paul’s Concern for the Jews|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who are Israelites; to whom [pertaineth] the adoption, and the glory, and the covenants, and the giving of the law, and the service [of God], and the promises;
 <small><sub>**BSB:**</sub></small>
 the people of Israel. Theirs is the adoption as sons; theirs the divine glory and the covenants; theirs the giving of the law, the temple worship, and the promises.
 <small><sub>**Literal:**</sub></small>
 who are Israelites, whose [is] the divine adoption as sons and the glory and the covenants and the lawgiving and the service and the promises,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.3|<< Romans 9:3]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.5|Romans 9:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινές]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|εἰσιν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

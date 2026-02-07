@@ -1,4 +1,4 @@
-**Isaiah 36:10** 
+**Isaiah 36:10**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And am I now come up without the LORD against this land to destroy it? the LORD said unto me, Go up against this land, and destroy it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, was it apart from the LORD that I have come up against this land to dest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.9|<< Isaiah 36:9]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.11|Isaiah 36:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ \<from> without  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1107\|בַּלְעֲדֵ֣י]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> mi.<small><sup>[[HR]]</sup></small> bal.'a.Dei<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

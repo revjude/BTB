@@ -1,4 +1,4 @@
-**Joshua 21:44** 
+**Joshua 21:44**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD gave them rest on every side, just as He had sworn to their fathers
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.43|<< Joshua 21:43]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.45|Joshua 21:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave rest  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5117\|יָּ֨נַח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.nach<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

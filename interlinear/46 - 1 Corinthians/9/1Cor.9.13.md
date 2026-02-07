@@ -1,12 +1,12 @@
-**1 Corinthians 9:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:13**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do ye not know that they which minister about holy things live [of the things] of the temple? and they which wait at the altar are partakers with the altar?
 <small><sub>**BSB:**</sub></small>
 Do you not know that those who work in the temple eat of its food, and those who serve at the altar partake of its offerings?
 <small><sub>**Literal:**</sub></small>
 Surely you know that those in the sacred [things] working the [things] of the temple eat? those at the altar attending at the altar partake?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.12|<< 1 Corinthians 9:12]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.14|1 Corinthians 9:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3756\|Οὐκ]]</big>**  |Ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you know |**<big>[[G6063\|οἴδατε]]</big>**  |oidate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

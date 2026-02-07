@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:28** 
 <small><sub>**LXX:**</sub></small>
 And as they were caused to rest, they turned to act  wickedly before you. And you abandoned them into \[the\] hands of their enemies, and they ruled among them. And again they yelled out to you. And you from out of heaven listened and rescued them by your abundant compassions. 
-<small><sub>**KJV:**</sub></small>
-But after they had rest, they did evil again before thee: therefore leftest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest [them] from heaven; and many times didst thou deliver them according to thy mercies;
-<small><sub>**BSB:**</sub></small>
-But as soon as they had rest, they again did evil in Your sight. So You abandoned them to the hands of their enemies, who had dominion over them. When they cried out to You again, You heard from heaven, and You delivered them many times in Your compassion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.27|<< Nehemiah 9:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.29|Nehemiah 9:29 >>]]</td></tr></table>
 
 | Translation | Greek |

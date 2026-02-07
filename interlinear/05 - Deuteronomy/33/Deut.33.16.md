@@ -1,4 +1,4 @@
-**Deuteronomy 33:16** 
+**Deuteronomy 33:16**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the precious things of the earth and fulness thereof, and [for] the good will of him that dwelt in the bush: let [the blessing] come upon the head of Joseph, and upon the top of the head of him [that was] separated from his brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ with the choice gifts of the land and everything in it, and with the favor of Hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.15|<< Deuteronomy 33:15]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.17|Deuteronomy 33:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] excellent gift of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4022\|מֶּ֗גֶד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Me.ged<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] earth  |**<big>&#8207;[[H0776G\|אֶ֚רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

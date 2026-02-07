@@ -1,4 +1,4 @@
-**1 Samuel 7:12** 
+**1 Samuel 7:12**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Samuel took a stone, and set [it] between Mizpeh and Shen, and called the name of it Ebenezer, saying, Hitherto hath the LORD helped us.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Afterward, Samuel took a stone and set it up between Mizpah and Shen. He named i
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֜ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**James 4:16
-**<small><sub>**KJV:**</sub></small>
+**James 4:16**<big><big>[[Jas.4.13 Do Not Boast about Tomorrow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now ye rejoice in your boastings: all such rejoicing is evil.
 <small><sub>**BSB:**</sub></small>
 As it is, you boast in your proud intentions. All such boasting is evil.
 <small><sub>**Literal:**</sub></small>
 Now however you boast in the arrogance of you; All boasting such evil is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.15|<< James 4:15]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.17|James 4:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

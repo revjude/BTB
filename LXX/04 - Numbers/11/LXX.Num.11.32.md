@@ -1,10 +1,7 @@
 **LXX Numbers 11:32** 
 <small><sub>**LXX:**</sub></small>
 And the people rose up that entire day, and the entire night, and \[the\] entire  next day; and they gathered together the mother-quail -- the one gathering a few \[was\] ten cors. And they cooled themselves \[in a time of\] refreshing round about the camp. 
-<small><sub>**KJV:**</sub></small>
-And the people stood up all that day, and all [that] night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread [them] all abroad for themselves round about the camp.
-<small><sub>**BSB:**</sub></small>
-All that day and night, and all the next day, the people stayed up gathering the quail. No one gathered less than ten homers, and they spread them out all around the camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.31|<< Numbers 11:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.33|Numbers 11:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Romans 3:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:16**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Destruction and misery [are] in their ways:
 <small><sub>**BSB:**</sub></small>
 ruin and misery lie in their wake,
@@ -10,7 +10,7 @@ ruin and misery [are] in the paths of them;<br><table width="100%" border="0"><t
 > $\quad$ referencing: [[LXX.Isa.59.7|Isa 59:7-8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ruin |**<big>[[G4938\|σύντριμμα]]</big>**  |suntrimma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

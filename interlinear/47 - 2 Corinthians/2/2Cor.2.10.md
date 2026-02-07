@@ -1,12 +1,12 @@
-**2 Corinthians 2:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:10**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To whom ye forgive any thing, I [forgive] also: for if I forgave any thing, to whom I forgave [it], for your sakes [forgave I it] in the person of Christ;
 <small><sub>**BSB:**</sub></small>
 If you forgive anyone, I also forgive him. And if I have forgiven anything, I have forgiven it in the presence of Christ for your sake,
 <small><sub>**Literal:**</sub></small>
 To whomever now anything you forgive, I also myself; and for I myself to whom I have forgiven, if anything I have forgiven, [it is] for you in [the] presence of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.9|<< 2 Corinthians 2:9]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.11|2 Corinthians 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To whomever |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

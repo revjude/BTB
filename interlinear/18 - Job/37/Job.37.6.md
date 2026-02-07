@@ -1,4 +1,4 @@
-**Job 37:6** 
+**Job 37:6**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he saith to the snow, Be thou [on] the earth; likewise to the small rain, and to the great rain of his strength.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For He says to the snow, ‘Fall on the earth,’ and to the gentle rain, ‘Pou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.5|<< Job 37:5]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.7|Job 37:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the snow  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7950\|שֶּׁ֨לַג]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> She.lag<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

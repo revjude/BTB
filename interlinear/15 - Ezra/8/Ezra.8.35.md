@@ -1,4 +1,4 @@
-**Ezra 8:35** 
+**Ezra 8:35**<big><big>[[Ezra.8.32 Arrival in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Also] the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats [for] a sin offering: all [this was] a burnt offering unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the exiles who had returned from captivity sacrificed burnt offerings to th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.34|<< Ezra 8:34]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.36|Ezra 8:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] had come  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H0935G\|בָּאִים]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ba.'im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from the captivity  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7628A\|שְּׁבִ֨י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> she.Vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

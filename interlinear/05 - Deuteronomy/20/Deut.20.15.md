@@ -1,4 +1,4 @@
-**Deuteronomy 20:15** 
+**Deuteronomy 20:15**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shalt thou do unto all the cities [which are] very far off from thee, which [are] not of the cities of these nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is how you are to treat all the cities that are far away from you and do no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.14|<< Deuteronomy 20:14]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.16|Deuteronomy 20:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3651C\|כֵּ֤ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will do  |**<big>&#8207;[[H6213A\|תַּעֲשֶׂה֙]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezra 5:9** 
 <small><sub>**LXX:**</sub></small>
 Then we asked  those elders, and thus we said to them, Who rendered to you a decree  to build this house, and the bestowing of this expense to ready it? 
-<small><sub>**KJV:**</sub></small>
-Then asked we those elders, [and] said unto them thus, Who commanded you to build this house, and to make up these walls?
-<small><sub>**BSB:**</sub></small>
-So we questioned the elders and asked, “Who authorized you to rebuild this temple and restore this structure?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.8|<< Ezra 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.10|Ezra 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

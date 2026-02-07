@@ -1,4 +1,4 @@
-**Psalms 119:77** 
+**Psalms 119:77**<big><big>[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy tender mercies come unto me, that I may live: for thy law [is] my delight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May Your compassion come to me, that I may live, for Your law is my delight.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.77|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.76|<< Psalms 119:76]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.78|Psalms 119:78 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them come to me  |**<big>&#8207;[[H0935G\|יְבֹא֣וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ye.vo.'U.<small><sup>[[HVqi3mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | compassion\<s> your  |**<big>&#8207;[[H7356B\|רַחֲמֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ra.cha.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

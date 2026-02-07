@@ -1,4 +1,4 @@
-**Jeremiah 1:5** 
+**Jeremiah 1:5**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, [and] I ordained thee a prophet unto the nations.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Before I formed thee in the belly I knew thee; and before thou camest forth out 
 > $\quad$ referenced by: [[Gal.1.15|Gal 1:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> before  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2962\|טֶ֨רֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I formed you  |**<big>&#8207;[[H3335G\|אֶצָּרְ]]&#8207;&#8207;[[H9031\|ךָ֤]]&#8207; </big>**[^1] [^2] | 'e.tzor.<small><sup>[[HVqi1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

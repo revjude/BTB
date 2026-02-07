@@ -1,12 +1,12 @@
-**Acts 15:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:20**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But that we write unto them, that they abstain from pollutions of idols, and [from] fornication, and [from] things strangled, and [from] blood.
 <small><sub>**BSB:**</sub></small>
 Instead, we should write and tell them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals, and from blood.
 <small><sub>**Literal:**</sub></small>
 but to write to them <the> to abstain from from the pollutions of the idols and <the> sexual immorality and that which is strangled and <the> from blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.19|<< Acts 15:19]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.21|Acts 15:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to write |**<big>[[G1989\|ἐπιστεῖλαι]]</big>**  |episteilai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

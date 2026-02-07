@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> sent Nathan the prophet to  David. And he entered to him, and said to him, There were two men in one city -- one rich and one needy. 
-<small><sub>**KJV:**</sub></small>
-And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.
-<small><sub>**BSB:**</sub></small>
-Then the LORD sent Nathan to David, and when he arrived, he said, “There were two men in a certain city, one rich and the other poor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.27|<< 2 Samuel 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.2|2 Samuel 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 14:4** 
+**Proverbs 14:4**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where no oxen [are], the crib [is] clean: but much increase [is] by the strength of the ox.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where there are no oxen, the manger is empty, but an abundant harvest comes thro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.3|<< Proverbs 14:3]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.5|Proverbs 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when there not  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] cattle\<s>  |**<big>&#8207;[[H0504\|אֲ֭לָפִים]]&#8207; </big>**| 'A.la.fim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

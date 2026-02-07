@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Naaman. the ruler of the force of \[the\] king of Syria was a great man before  his master, and being an admired person, for through him \[the\] <span class="smallcaps">lord</span> gave deliverance \[to\] Syria. And the man was mighty in strength, \[but\] leprous. 
-<small><sub>**KJV:**</sub></small>
-Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, [but he was] a leper.
-<small><sub>**BSB:**</sub></small>
-Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.44|<< 2 Kings 4:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.2|2 Kings 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

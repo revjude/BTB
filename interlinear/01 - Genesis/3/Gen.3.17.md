@@ -1,4 +1,4 @@
-**Genesis 3:17** 
+**Genesis 3:17**<big><big>[[Gen.3.16 The Punishment of Mankind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed [is] the ground for thy sake; in sorrow shalt thou eat [of] it all the days of thy life;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And to Adam He said: “Because you have listened to the voice of your wife and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.16|<< Genesis 3:16]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.18|Genesis 3:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Adam  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0121G\|אָדָ֣ם]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> l.<small><sup>[[HR]]</sup></small> 'a.Dam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0559\|אָמַ֗ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

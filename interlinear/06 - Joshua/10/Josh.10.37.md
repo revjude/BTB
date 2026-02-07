@@ -1,4 +1,4 @@
-**Joshua 10:37** 
+**Joshua 10:37**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took it, and smote it with the edge of the sword, and the king thereof, and all the cities thereof, and all the souls that [were] therein; he left none remaining, according to all that he had done to Eglon; but destroyed it utterly, and all the souls that [were] therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They captured it and put to the sword its king, all its villages, and all the pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.36|<< Joshua 10:36]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.38|Joshua 10:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they captured it  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3920\|יִּלְכְּד֣וּ]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.ke.Du.<small><sup>[[HVqw3mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they struck it  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּכּֽוּ]]&#8207;&#8207;[[H9034\|הָ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.ku.<small><sup>[[HVhw3mp]]</sup></small> ha-<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

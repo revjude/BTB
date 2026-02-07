@@ -1,4 +1,4 @@
-**Numbers 29:25** 
+**Numbers 29:25**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one kid of the goats [for] a sin offering; beside the continual burnt offering, his meat offering, and his drink offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Include one male goat as a sin offering, in addition to the regular burnt offeri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.24|<< Numbers 29:24]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.26|Numbers 29:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a male goat of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8163B\|שְׂעִיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.'ir-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | goats  |**<big>&#8207;[[H5795\|עִזִּ֥ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

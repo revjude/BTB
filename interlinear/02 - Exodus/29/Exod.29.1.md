@@ -1,4 +1,4 @@
-**Exodus 29:1** 
+**Exodus 29:1**<big><big>[[Exod.29.1 Consecration of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the thing that thou shalt do unto them to hallow them, to minister unto me in the priest’s office: Take one young bullock, and two rams without blemish,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And this [is] the thing that thou shalt do unto them to hallow them, to minister
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.43|<< Exodus 28:43]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.2|Exodus 29:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the thing  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דָּבָ֜ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

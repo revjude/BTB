@@ -1,4 +1,4 @@
-**Judges 5:28** 
+**Judges 5:28**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot [so] long in coming? why tarry the wheels of his chariots?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sisera’s mother looked through the window; she peered through the lattice and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.27|<< Judges 5:27]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.29|Judges 5:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | through  |**<big>&#8207;[[H1157\|בְּעַד֩]]&#8207; </big>**| be.'Ad<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the window  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2474\|חַלּ֨וֹן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.Lon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

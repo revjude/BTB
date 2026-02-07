@@ -1,10 +1,7 @@
 **LXX Hosea 3:4** 
 <small><sub>**LXX:**</sub></small>
 For many days the sons of Israel shall sit down \[with there\] not being a king, nor there being a ruler, nor there being a sacrifice, nor there being an altar, nor a priesthood, nor manifestations. 
-<small><sub>**KJV:**</sub></small>
-For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and [without] teraphim:
-<small><sub>**BSB:**</sub></small>
-For the Israelites must live many days without king or prince, without sacrifice or sacred pillar, and without ephod or idol.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.3.3|<< Hosea 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.5|Hosea 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

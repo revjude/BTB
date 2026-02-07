@@ -1,12 +1,12 @@
-**John 6:36
-**<small><sub>**KJV:**</sub></small>
+**John 6:36**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I said unto you, That ye also have seen me, and believe not.
 <small><sub>**BSB:**</sub></small>
 But as I stated, you have seen Me and still you do not believe.
 <small><sub>**Literal:**</sub></small>
 But I said to you that also you have seen Me and yet not believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.35|<< John 6:35]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.37|John 6:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I said |**<big>[[G2036\|εἶπον]]</big>**  |eipon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Judges 2:9** 
 <small><sub>**LXX:**</sub></small>
 And they entombed him in \[the\] border  of his inheritance in Timnath-heres, in mount Ephraim, from \[the\] north  of mount Gaash. 
-<small><sub>**KJV:**</sub></small>
-And they buried him in the border of his inheritance in Timnathheres, in the mount of Ephraim, on the north side of the hill Gaash.
-<small><sub>**BSB:**</sub></small>
-They buried him in the land of his inheritance, at Timnath-heres in the hill country of Ephraim, north of Mount Gaash.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.8|<< Judges 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.10|Judges 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 31:6** 
+**Genesis 31:6**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye know that with all my power I have served your father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You know that I have served your father with all my strength.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.5|<< Genesis 31:5]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.7|Genesis 31:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859E\|אַתֵּ֖נָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Te.nah<small><sup>[[HPp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you know  |**<big>&#8207;[[H3045\|יְדַעְתֶּ֑ן]]&#8207; </big>**| ye.da'.Ten<small><sup>[[HVqp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

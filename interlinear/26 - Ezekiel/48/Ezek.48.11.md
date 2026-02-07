@@ -1,4 +1,4 @@
-**Ezekiel 48:11** 
+**Ezekiel 48:11**<big><big>[[Ezek.48.8 The Portions for the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It shall be] for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It will be for the consecrated priests, the descendants of Zadok, who kept My ch
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.10|<< Ezekiel 48:10]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.12|Ezekiel 48:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the priests  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֤ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the consecrated [one]  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H6942G\|מְקֻדָּשׁ֙]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.ku.Dash<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

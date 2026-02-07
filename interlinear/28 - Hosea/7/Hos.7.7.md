@@ -1,4 +1,4 @@
-**Hosea 7:7** 
+**Hosea 7:7**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are all hot as an oven, and have devoured their judges; all their kings are fallen: [there is] none among them that calleth unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All of them are hot as an oven, and they devour their rulers. All their kings fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.6|<< Hosea 7:6]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.8|Hosea 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of them  |**<big>&#8207;[[H3605\|כֻּלָּ֤]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are hot  |**<big>&#8207;[[H2552\|יֵחַ֙מּוּ֙]]&#8207; </big>**| ye.Cha.mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

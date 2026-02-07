@@ -1,5 +1,5 @@
-**Hebrews 12:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:13**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.
 <small><sub>**BSB:**</sub></small>
 Make straight paths for your feet, so that the lame may not be disabled, but rather healed.
@@ -10,7 +10,7 @@ and paths straight do make for the feet of you, so that not the lame may be disa
 > $\quad$ alluding to: [[LXX.Prov.4.26|Prov 4:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | paths |**<big>[[G5163\|τροχιὰς]]</big>**  |trochias <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

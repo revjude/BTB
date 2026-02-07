@@ -1,4 +1,4 @@
-**Micah 7:8** 
+**Micah 7:8**<big><big>[[Mic.7.7 Israel’s Confession and Comfort|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the LORD [shall be] a light unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not gloat over me, my enemy! Though I have fallen, I will arise; though I sit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.7|<< Micah 7:7]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.9|Micah 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you rejoice  |**<big>&#8207;[[H8055\|תִּשְׂמְחִ֤י]]&#8207; </big>**| tis.me.Chi<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

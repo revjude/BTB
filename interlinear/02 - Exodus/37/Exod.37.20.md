@@ -1,4 +1,4 @@
-**Exodus 37:20** 
+**Exodus 37:20**<big><big>[[Exod.37.17 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the candlestick [were] four bowls made like almonds, his knops, and his flowers:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on the lampstand were four cups shaped like almond blossoms with buds and pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.19|<< Exodus 37:19]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.21|Exodus 37:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] on the lampstand  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H4501\|מְּנֹרָ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> me.no.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | four  |**<big>&#8207;[[H0702\|אַרְבָּעָ֣ה]]&#8207; </big>**| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

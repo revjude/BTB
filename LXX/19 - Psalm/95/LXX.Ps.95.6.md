@@ -1,10 +1,7 @@
 **LXX Psalm 95:6** 
 <small><sub>**LXX:**</sub></small>
 Come, we should do obeisance and fall \[before\] him; and weep before \[the\] <span class="smallcaps">lord</span>, the one making us. 
-<small><sub>**KJV:**</sub></small>
-O come, let us worship and bow down: let us kneel before the LORD our maker.
-<small><sub>**BSB:**</sub></small>
-O come, let us worship and bow down; let us kneel before the LORD our Maker.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.95.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.5|<< Psalm 95:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.7|Psalm 95:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 1:21** 
+**Isaiah 1:21**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See how the faithful city has become a harlot! She once was full of justice; rig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.20|<< Isaiah 1:20]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.22|Isaiah 1:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349B\|אֵיכָה֙]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has become  |**<big>&#8207;[[H1961\|הָיְתָ֣ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

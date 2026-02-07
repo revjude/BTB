@@ -1,10 +1,7 @@
 **LXX Genesis 24:38** 
 <small><sub>**LXX:**</sub></small>
 But unto the house  of my father you should go, and to  my tribe; and you shall take a wife  for my son. 
-<small><sub>**KJV:**</sub></small>
-But thou shalt go unto my father’s house, and to my kindred, and take a wife unto my son.
-<small><sub>**BSB:**</sub></small>
-but you shall go to my father’s house and to my kindred to take a wife for my son.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.37|<< Genesis 24:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.39|Genesis 24:39 >>]]</td></tr></table>
 
 | Translation | Greek |

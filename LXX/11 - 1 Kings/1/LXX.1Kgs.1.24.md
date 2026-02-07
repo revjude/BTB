@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:24** 
 <small><sub>**LXX:**</sub></small>
 And Nathan said, O my master, O king, have you said, Adonijah shall reign after me, and he shall sit upon my throne? 
-<small><sub>**KJV:**</sub></small>
-And Nathan said, My lord, O king, hast thou said, Adonijah shall reign after me, and he shall sit upon my throne?
-<small><sub>**BSB:**</sub></small>
-“My lord the king,” said Nathan, “did you say, ‘Adonijah will reign after me, and he will sit on my throne’?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.23|<< 1 Kings 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.25|1 Kings 1:25 >>]]</td></tr></table>
 
 | Translation | Greek |

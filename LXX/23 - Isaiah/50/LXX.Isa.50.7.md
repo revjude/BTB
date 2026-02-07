@@ -1,10 +1,7 @@
 **LXX Isaiah 50:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] Lord, \[the\] <span class="smallcaps">lord</span> was a helper to me. On account of this I was not ashamed, but I set  my face as a solid rock; and I knew that in no way should I be ashamed. 
-<small><sub>**KJV:**</sub></small>
-For the Lord GOD will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.
-<small><sub>**BSB:**</sub></small>
-Because the Lord GOD helps Me, I have not been disgraced; therefore I have set My face like flint, and I know that I will not be put to shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.50.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.6|<< Isaiah 50:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.8|Isaiah 50:8 >>]]</td></tr></table>
 
 | Translation | Greek |

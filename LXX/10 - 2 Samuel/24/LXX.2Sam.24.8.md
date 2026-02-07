@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:8** 
 <small><sub>**LXX:**</sub></small>
 And they traveled about in all the land, and came at \[the\] end of nine months and twenty days into Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days.
-<small><sub>**BSB:**</sub></small>
-At the end of nine months and twenty days, having gone through the whole land, they returned to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.7|<< 2 Samuel 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.9|2 Samuel 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

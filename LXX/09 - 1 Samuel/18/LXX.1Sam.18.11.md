@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:11** 
 <small><sub>**LXX:**</sub></small>
 And Saul lifted the wooden spear and said, I will strike into David and into the wall. And David turned aside from his presence twice. 
-<small><sub>**KJV:**</sub></small>
-And Saul cast the javelin; for he said, I will smite David even to the wall [with it]. And David avoided out of his presence twice.
-<small><sub>**BSB:**</sub></small>
-and he hurled it, thinking, “I will pin David to the wall.” But David eluded him twice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.10|<< 1 Samuel 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.12|1 Samuel 18:12 >>]]</td></tr></table>
 
 | Translation | Greek |

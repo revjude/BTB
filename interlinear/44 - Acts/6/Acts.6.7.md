@@ -1,12 +1,12 @@
-**Acts 6:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:7**<big><big>[[Acts.6.1 The Choosing of the Seven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests were obedient to the faith.
 <small><sub>**BSB:**</sub></small>
 So the word of God continued to spread. The number of disciples in Jerusalem grew rapidly, and a great number of priests became obedient to the faith.
 <small><sub>**Literal:**</sub></small>
 And the word <the> of God was increasing, and was multiplied the number of the disciples in Jerusalem exceedingly, a great then multitude of the priests were becoming obedient to the faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.6|<< Acts 6:6]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.8|Acts 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 11:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:28**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there stood up one of them named Agabus, and signified by the spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar.
 <small><sub>**BSB:**</sub></small>
 One of them named Agabus stood up and predicted through the Spirit that a great famine would sweep across the whole world. (This happened under Claudius.)
 <small><sub>**Literal:**</sub></small>
 Having risen up now one of them named Agabus he signified through the Spirit [that] a famine great to ensue being over all the world — which also was in [the time of] Claudius of Caesar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.27|<< Acts 11:27]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.29|Acts 11:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having risen up |**<big>[[G0450\|ἀναστὰς]]</big>**  |anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

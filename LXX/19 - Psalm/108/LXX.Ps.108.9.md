@@ -1,10 +1,7 @@
 **LXX Psalm 108:9** 
 <small><sub>**LXX:**</sub></small>
 Judah \[is\] my king; Moab \[the\] kettle  of my hope; upon  Edom I will put  my sandal; \[the\] Philistines are submitted to me. 
-<small><sub>**KJV:**</sub></small>
-Moab [is] my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.
-<small><sub>**BSB:**</sub></small>
-Moab is My washbasin; upon Edom I toss My sandal; over Philistia I shout in triumph.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.108.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.8|<< Psalm 108:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.10|Psalm 108:10 >>]]</td></tr></table>
 
 | Translation | Greek |

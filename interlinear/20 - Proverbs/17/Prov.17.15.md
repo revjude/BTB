@@ -1,4 +1,4 @@
-**Proverbs 17:15** 
+**Proverbs 17:15**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that justifieth the wicked, and he that condemneth the just, even they both [are] abomination to the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Acquitting the guilty and condemning the righteous—both are detestable to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.14|<< Proverbs 17:14]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.16|Proverbs 17:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] justifies  |**<big>&#8207;[[H6663\|מַצְדִּ֣יק]]&#8207; </big>**| matz.Dik<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wicked  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

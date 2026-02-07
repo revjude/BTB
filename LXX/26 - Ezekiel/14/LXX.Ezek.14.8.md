@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:8** 
 <small><sub>**LXX:**</sub></small>
 And I will firmly fix  my face against  that man, and I will appoint him for a desolate \[place\] and for extinction, and I will lift him away from \[the\] midst  of my people; and you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will set my face against that man, and will make him a sign and a proverb, and I will cut him off from the midst of my people; and ye shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-I will set My face against that man and make him a sign and a proverb; I will cut him off from among My people. Then you will know that I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.7|<< Ezekiel 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.9|Ezekiel 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 10:36
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:36**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, What would ye that I should do for you?
 <small><sub>**BSB:**</sub></small>
 “What do you want Me to do for you?” He inquired.
 <small><sub>**Literal:**</sub></small>
 <the> And He said to them; What do you desire Me I may do for you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.35|<< Mark 10:35]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.37|Mark 10:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

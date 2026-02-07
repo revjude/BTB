@@ -1,12 +1,12 @@
-**Acts 20:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:22**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:
 <small><sub>**BSB:**</sub></small>
 And now, compelled by the Spirit, I am going to Jerusalem, not knowing what will happen to me there.
 <small><sub>**Literal:**</sub></small>
 And now behold bound I myself in the Spirit go to Jerusalem what in it will happen to me not knowing,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.21|<< Acts 20:21]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.23|Acts 20:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

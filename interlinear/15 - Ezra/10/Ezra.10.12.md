@@ -1,4 +1,4 @@
-**Ezra 10:12** 
+**Ezra 10:12**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the congregation answered and said with a loud voice, As thou hast said, so must we do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the whole assembly responded in a loud voice: “Truly we must do as you say
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.11|<< Ezra 10:11]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.13|Ezra 10:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּֽעְנ֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya'.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

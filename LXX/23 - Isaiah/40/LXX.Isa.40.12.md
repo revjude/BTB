@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Who measured the water \[with\] the hand, and the heaven with a span, and all the earth in a handful? Who established the mountains weight, and the groves in a yoke \[balance scale\]? 
-<small><sub>**KJV:**</sub></small>
-Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?
-<small><sub>**BSB:**</sub></small>
-Who has measured the waters in the hollow of his hand, or marked off the heavens with the span of his hand? Who has held the dust of the earth in a basket, or weighed the mountains on a scale and the hills with a balance?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.11|<< Isaiah 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.13|Isaiah 40:13 >>]]</td></tr></table>
 
 | Translation | Greek |

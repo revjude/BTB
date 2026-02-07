@@ -1,6 +1,6 @@
 (KJV) **Proverbs 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4|<< Proverbs 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6|Proverbs 6 >>]]</td></tr></table>
 
-***Avoiding Immorality***&emsp;<small><sup>\[ [[Lev.20|Leviticus 20:10–21]] <big>†</big> [[1Cor.5|1 Corinthians 5:1–8]] ]</sup></small> ^bsb1451
+<big><big>[[Prov.5.1 Avoiding Immorality|⥃]]</big></big>***Avoiding Immorality***&emsp;<small><sup>\[ [[Lev.20|Leviticus 20:10–21]] <big>†</big> [[1Cor.5|1 Corinthians 5:1–8]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Prov.5.1|1]]**<span class="endversemarker">]</span> My son, attend<small><small>[^2]</small></small> unto my wisdom, \[and\] bow<small><small>[^3]</small></small> thine ear to my understanding: <span class="startversemarker">[</span>**[[Prov.5.2|2]]**<span class="endversemarker">]</span> That thou mayest regard discretion, and \[that\] thy lips<small><small>[^4]</small></small> may keep knowledge. 
 

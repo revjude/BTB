@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:2** 
 <small><sub>**LXX:**</sub></small>
 And the king called the Gibeonites, and he spoke to them. And the Gibeonites were not of the sons of Israel, for they were of the remnants of the Amorites, and the sons of Israel swore an oath to them. But Saul sought to strike them in  his zeal for the sons of Israel and Judah. 
-<small><sub>**KJV:**</sub></small>
-And the king called the Gibeonites, and said unto them; (now the Gibeonites [were] not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.)
-<small><sub>**BSB:**</sub></small>
-At this, David summoned the Gibeonites and spoke to them. (Now the Gibeonites were not Israelites, but a remnant of the Amorites. The Israelites had taken an oath concerning them, but in his zeal for Israel and Judah, Saul had sought to kill them.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.1|<< 2 Samuel 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.3|2 Samuel 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

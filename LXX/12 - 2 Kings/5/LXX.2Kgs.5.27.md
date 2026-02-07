@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:27** 
 <small><sub>**LXX:**</sub></small>
 And the leprosy of Naaman shall cleave to you, and among  your seed into the eon. And he went forth from his face being leprous as snow. 
-<small><sub>**KJV:**</sub></small>
-The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper [as white] as snow.
-<small><sub>**BSB:**</sub></small>
-Therefore, the leprosy of Naaman will cling to you and your descendants forever!” And as Gehazi left his presence, he was leprous—as white as snow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.26|<< 2 Kings 5:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.1|2 Kings 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Hebrews 12:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:2**<big><big>[[Heb.12.1 A Call to Endurance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Looking unto Jesus the author and finisher of [our] faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.
 <small><sub>**BSB:**</sub></small>
 Let us fix our eyes on Jesus, the author and perfecter of our faith, who for the joy set before Him endured the cross, scorning its shame, and sat down at the right hand of the throne of God.
@@ -10,7 +10,7 @@ looking to the <the> of [our] faith founder and perfecter Jesus, who in view of 
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | looking |**<big>[[G0872\|ἀφορῶντες]]</big>**  |aphorōntes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

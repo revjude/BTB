@@ -1,12 +1,12 @@
-**Jude 1:18
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:18**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.
 <small><sub>**BSB:**</sub></small>
 when they said to you, “In the last times there will be scoffers who will follow after their own ungodly desires.”
 <small><sub>**Literal:**</sub></small>
 for they were saying to you that on [this] last <the> time there will be scoffers after <the> their own passions following <the> of ungodlinesses.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.17|<< Jude 1:17]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.19|Jude 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were saying |**<big>[[G3004G\|ἔλεγον]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

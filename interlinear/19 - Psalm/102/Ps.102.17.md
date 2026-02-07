@@ -1,4 +1,4 @@
-**Psalms 102:17** (102:18)
+**Psalms 102:17**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will regard the prayer of the destitute, and not despise their prayer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will turn toward the prayer of the destitute; He will not despise their praye
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.16|<< Psalms 102:16]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.18|Psalms 102:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has turned  |**<big>&#8207;[[H6437G\|פָּ֭נָה]]&#8207; </big>**| Pa.nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

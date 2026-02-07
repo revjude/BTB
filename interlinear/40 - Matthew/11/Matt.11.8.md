@@ -1,12 +1,12 @@
-**Matthew 11:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:8**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft [clothing] are in kings’ houses.
 <small><sub>**BSB:**</sub></small>
 Otherwise, what did you go out to see? A man dressed in fine clothes? Look, those who wear fine clothing are found in kings’ palaces.
 <small><sub>**Literal:**</sub></small>
 But what did you go out to see? A man in delicate garments dressed? Behold those <the> delicate [clothing] wearing in the houses <the> of kings are;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.7|<< Matthew 11:7]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.9|Matthew 11:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

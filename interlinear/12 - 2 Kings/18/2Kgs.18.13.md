@@ -1,4 +1,4 @@
-**2 Kings 18:13** 
+**2 Kings 18:13**<big><big>[[2Kgs.18.13 Sennacherib Invades Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now in the fourteenth year of king Hezekiah did Sennacherib king of Assyria come up against all the fenced cities of Judah, and took them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the fourteenth year of Hezekiah’s reign, Sennacherib king of Assyria attack
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.12|<< 2 Kings 18:12]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.14|2 Kings 18:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in four-  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0702\|אַרְבַּע֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'ar.Ba'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֨ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

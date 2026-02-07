@@ -1,4 +1,4 @@
-**2 Samuel 4:8** 
+**2 Samuel 4:8**<big><big>[[2Sam.4.1 The Murder of Ish-bosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought the head of Ishbosheth unto David to Hebron, and said to the king, Behold the head of Ishbosheth the son of Saul thine enemy, which sought thy life; and the LORD hath avenged my lord the king this day of Saul, and of his seed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They brought the head of Ish-bosheth to David at Hebron and said to the king, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.7|<< 2 Samuel 4:7]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.9|2 Samuel 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0935P\|יָּבִאוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.vi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

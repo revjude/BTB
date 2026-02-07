@@ -1,4 +1,4 @@
-**Deuteronomy 18:13** 
+**Deuteronomy 18:13**<big><big>[[Deut.18.9 Sorcery Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be perfect with the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must be blameless before the LORD your God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.12|<< Deuteronomy 18:12]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.14|Deuteronomy 18:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | blameless  |**<big>&#8207;[[H8549H\|תָּמִ֣ים]]&#8207; </big>**| ta.Mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֔ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

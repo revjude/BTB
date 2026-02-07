@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:45** 
 <small><sub>**LXX:**</sub></small>
 And sitting you wept before \[the\] <span class="smallcaps">lord</span>  your God, and \[the\] <span class="smallcaps">lord</span> did not listen to  your voice, nor took heed to you. 
-<small><sub>**KJV:**</sub></small>
-And ye returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you.
-<small><sub>**BSB:**</sub></small>
-And you returned and wept before the LORD, but He would not listen to your voice or give ear to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.44|<< Deuteronomy 1:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.46|Deuteronomy 1:46 >>]]</td></tr></table>
 
 | Translation | Greek |

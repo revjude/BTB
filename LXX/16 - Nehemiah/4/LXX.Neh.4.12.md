@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the Jews living next to them came, that they said to us, They ascend from out of all the places that you returned from us. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence ye shall return unto us [they will be upon you].
-<small><sub>**BSB:**</sub></small>
-At that time the Jews who lived nearby came and told us ten times over, “Wherever you turn, they will attack us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.11|<< Nehemiah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.13|Nehemiah 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

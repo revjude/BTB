@@ -1,10 +1,7 @@
 **LXX Genesis 13:7** 
 <small><sub>**LXX:**</sub></small>
 And there was a battle between the herdsmen of the cattle  of Abram, and between the herdsmen of the cattle  of Lot. And the Canaanites and the Perizzites then inhabited the land. 
-<small><sub>**KJV:**</sub></small>
-And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land.
-<small><sub>**BSB:**</sub></small>
-And there was discord between the herdsmen of Abram and the herdsmen of Lot. At that time the Canaanites and the Perizzites were also living in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.6|<< Genesis 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.8|Genesis 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

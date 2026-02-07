@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:53** 
 <small><sub>**LXX:**</sub></small>
 For though Babylon should ascend as the heaven, and though she should fortify \[the\] height of her strength; from me shall come ones utterly destroying her, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Though Babylon should mount up to heaven, and though she should fortify the height of her strength, [yet] from me shall spoilers come unto her, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Even if Babylon ascends to the heavens and fortifies her lofty stronghold, the destroyers I send will come against her,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.52|<< Jeremiah 51:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.54|Jeremiah 51:54 >>]]</td></tr></table>
 
 | Translation | Greek |

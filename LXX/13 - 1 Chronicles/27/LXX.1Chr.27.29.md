@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:29** 
 <small><sub>**LXX:**</sub></small>
 And over the oxen  grazing  in  Sharon \[was\] Shitrai the Sharonite. And over the oxen  in the canyons \[was\] Shaphat son Adlai. 
-<small><sub>**KJV:**</sub></small>
-And over the herds that fed in Sharon [was] Shitrai the Sharonite: and over the herds [that were] in the valleys [was] Shaphat the son of Adlai:
-<small><sub>**BSB:**</sub></small>
-Shitrai the Sharonite was in charge of the herds grazing in Sharon. Shaphat son of Adlai was in charge of the herds in the valleys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.28|<< 1 Chronicles 27:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.30|1 Chronicles 27:30 >>]]</td></tr></table>
 
 | Translation | Greek |

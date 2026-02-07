@@ -1,4 +1,4 @@
-**Daniel 4:22** (4:19)
+**Daniel 4:22**<big><big>[[Dan.4.19 Daniel Interprets the Second Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [is] thou, O king, that art grown and become strong: for thy greatness is grown, and reacheth unto heaven, and thy dominion to the end of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you, O king, are that tree! For you have become great and strong; your greatness
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.21|<< Daniel 4:21]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.23|Daniel 4:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] you  |**<big>&#8207;[[H0607\|אַנְתְּ]]&#8207; </big>**[^1] [^2] | 'an.tah<small><sup>[[APp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | it  |**<big>&#8207;[[H1932\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[APp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

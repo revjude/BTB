@@ -1,4 +1,4 @@
-**Numbers 4:27** 
+**Numbers 4:27**<big><big>[[Num.4.21 The Duties of the Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the service of the Gershonites—all their transport duties and other work�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.26|<< Numbers 4:26]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.28|Numbers 4:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mouth of  |**<big>&#8207;[[H6310I\|פִּי֩]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

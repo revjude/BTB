@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joshua gave charge to the scribes of the people, saying, 
-<small><sub>**KJV:**</sub></small>
-Then Joshua commanded the officers of the people, saying,
-<small><sub>**BSB:**</sub></small>
-Then Joshua commanded the officers of the people:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.9|<< Joshua 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.11|Joshua 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

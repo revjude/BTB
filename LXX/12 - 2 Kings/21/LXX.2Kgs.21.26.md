@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:26** 
 <small><sub>**LXX:**</sub></small>
 And they entombed him in  his tomb in the garden of Uzza. And Josiah his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And he was buried in his sepulchre in the garden of Uzza: and Josiah his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And he was buried in his tomb in the garden of Uzza, and his son Josiah reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.25|<< 2 Kings 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.1|2 Kings 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

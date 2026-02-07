@@ -1,4 +1,4 @@
-**2 Chronicles 33:20** 
+**2 Chronicles 33:20**<big><big>[[2Chr.33.10 Manasseh’s Repentance and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Manasseh slept with his fathers, and they buried him in his own house: and Amon his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Manasseh rested with his fathers and was buried at his palace. And his son A
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.19|<< 2 Chronicles 33:19]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.21|2 Chronicles 33:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Manasseh  |**<big>&#8207;[[H4519H\|מְנַשֶּׁה֙]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

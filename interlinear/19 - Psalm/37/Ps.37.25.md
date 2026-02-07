@@ -1,4 +1,4 @@
-**Psalms 37:25** 
+**Psalms 37:25**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have been young, and [now] am old; yet have I not seen the righteous forsaken, nor his seed begging bread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I once was young and now am old, yet never have I seen the righteous abandoned o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.24|<< Psalms 37:24]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.26|Psalms 37:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a young man  |**<big>&#8207;[[H5288\|נַ֤עַר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have been  |**<big>&#8207;[[H1961\|הָיִ֗יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

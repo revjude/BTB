@@ -1,10 +1,7 @@
 **LXX Exodus 26:35** 
 <small><sub>**LXX:**</sub></small>
 And you shall put the table outwardly of the veil, and the lamp-stand directly opposite the table near \[the\] part of the tent  towards \[the\] south. and the table you shall put by \[the\] part of the tent  towards \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt set the table without the vail, and the candlestick over against the table on the side of the tabernacle toward the south: and thou shalt put the table on the north side.
-<small><sub>**BSB:**</sub></small>
-And place the table outside the veil on the north side of the tabernacle, and put the lampstand opposite the table, on the south side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.34|<< Exodus 26:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.36|Exodus 26:36 >>]]</td></tr></table>
 
 | Translation | Greek |

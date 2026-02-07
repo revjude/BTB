@@ -1,12 +1,12 @@
-**Mark 14:68
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:68**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he denied, saying, I know not, neither understand I what thou sayest. And he went out into the porch; and the cock crew.
 <small><sub>**BSB:**</sub></small>
 But he denied it. “I do not know or even understand what you are talking about,” he said. Then he went out to the gateway, and the rooster crowed.
 <small><sub>**Literal:**</sub></small>
 <the> But he denied [it] saying; Neither I know nor even understand you yourself what say. And he went forth out into the porch, and [the] rooster crowed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.67|<< Mark 14:67]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.69|Mark 14:69 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

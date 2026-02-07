@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they found written in the law which \[the\] <span class="smallcaps">lord</span> gave charge \[to\] Moses, that the sons of Israel should dwell in tents in \[the\] holiday in the seventh month; 
-<small><sub>**KJV:**</sub></small>
-And they found written in the law which the LORD had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:
-<small><sub>**BSB:**</sub></small>
-And they found written in the Law, which the LORD had commanded through Moses, that the Israelites were to dwell in booths during the feast of the seventh month,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.13|<< Nehemiah 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.15|Nehemiah 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

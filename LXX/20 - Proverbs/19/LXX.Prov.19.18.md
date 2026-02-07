@@ -1,10 +1,7 @@
 **LXX Proverbs 19:18** 
 <small><sub>**LXX:**</sub></small>
 Correct your son! for thus he will be confident; but do not lift up the soul to insult! 
-<small><sub>**KJV:**</sub></small>
-Chasten thy son while there is hope, and let not thy soul spare for his crying.
-<small><sub>**BSB:**</sub></small>
-Discipline your son, for in that there is hope; do not be party to his death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.17|<< Proverbs 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.19|Proverbs 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

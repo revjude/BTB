@@ -1,4 +1,4 @@
-**Psalms 144:4** 
+**Psalms 144:4**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Man is like to vanity: his days [are] as a shadow that passeth away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Man is like a breath; his days are like a passing shadow.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.3|<< Psalms 144:3]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.5|Psalms 144:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | humankind  |**<big>&#8207;[[H0120G\|אָ֭דָם]]&#8207; </big>**| 'A.dom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> breath  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1892\|הֶ֣בֶל]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> He.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

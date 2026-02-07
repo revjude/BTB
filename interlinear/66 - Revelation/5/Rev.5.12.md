@@ -1,12 +1,12 @@
-**Revelation 5:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:12**<big><big>[[Rev.5.11 The Lamb Exalted|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
 <small><sub>**BSB:**</sub></small>
 In a loud voice they were saying: “Worthy is the Lamb who was slain, to receive power and riches and wisdom and strength and honor and glory and blessing!”
 <small><sub>**Literal:**</sub></small>
 saying in a voice loud: Worthy is the Lamb which slain to receive the power and <the> riches and wisdom and strength and honor and glory and blessing!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.11|<< Revelation 5:11]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.13|Revelation 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγοντες]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in a voice |**<big>[[G5456G\|φωνῇ]]</big>**  |phōnēa <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

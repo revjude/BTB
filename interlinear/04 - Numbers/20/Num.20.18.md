@@ -1,4 +1,4 @@
-**Numbers 20:18** 
+**Numbers 20:18**<big><big>[[Num.20.14 Edom Refuses Passage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Edom said unto him, Thou shalt not pass by me, lest I come out against thee with the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Edom answered, “You may not travel through our land, or we will come out a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.17|<< Numbers 20:17]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.19|Numbers 20:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

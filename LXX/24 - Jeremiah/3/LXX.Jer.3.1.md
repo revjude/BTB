@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 If a husband should send away  his wife, and she should go forth from him, and becomes to another man, shall by returning she return to him yet \[again\]? Shall not by defiling that woman be defiled? But you fornicated with many shepherds, and you have returned to me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-They say, If a man put away his wife, and she go from him, and become another man’s, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“If a man divorces his wife and she leaves him to marry another, can he ever return to her? Would not such a land be completely defiled? But you have played the harlot with many lovers—and you would return to Me?” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.37|<< Jeremiah 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.2|Jeremiah 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

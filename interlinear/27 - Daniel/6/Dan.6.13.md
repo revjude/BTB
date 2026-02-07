@@ -1,4 +1,4 @@
-**Daniel 6:13** (6:14)
+**Daniel 6:13**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered they and said before the king, That Daniel, which [is] of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they told the king, “Daniel, one of the exiles from Judah, shows no regar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.12|<< Daniel 6:12]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.14|Daniel 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ֠]]&#8207;&#8207;[[H0116\|אדַיִן]]&#8207; </big>**| Be.<small><sup>[[AR]]</sup></small> da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they replied  |**<big>&#8207;[[H6032\|עֲנ֣וֹ]]&#8207; </big>**| a.No<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

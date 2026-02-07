@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:21** 
 <small><sub>**LXX:**</sub></small>
 And she called the boy, Ichabod, for the ark  of God, and for  her father-in-law, and for  her husband. 
-<small><sub>**KJV:**</sub></small>
-And she named the child Ichabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband.
-<small><sub>**BSB:**</sub></small>
-And she named the boy Ichabod, saying, “The glory has departed from Israel,” because the ark of God had been captured and her father-in-law and her husband had been killed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.20|<< 1 Samuel 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.22|1 Samuel 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

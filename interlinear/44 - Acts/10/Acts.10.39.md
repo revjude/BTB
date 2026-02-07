@@ -1,12 +1,12 @@
-**Acts 10:39
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:39**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:
 <small><sub>**BSB:**</sub></small>
 We are witnesses of all that He did, both in the land of the Jews and in Jerusalem. And although they put Him to death by hanging Him on a tree,
 <small><sub>**Literal:**</sub></small>
 And we ourselves are witnesses of all things that He did in both the region of the Jews and in Jerusalem; whom also they executed having hanged [Him] on a tree.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.38|<< Acts 10:38]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.40|Acts 10:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

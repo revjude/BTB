@@ -1,4 +1,4 @@
-**Psalms 39:11** (39:12)
+**Psalms 39:11**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man [is] vanity. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You discipline and correct a man for his iniquity, consuming like a moth what he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.10|<< Psalms 39:10]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.12|Psalms 39:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with rebukes  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H8433B\|תוֹכָ֘ח֤וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.Kha.chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

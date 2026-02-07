@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:22** 
 <small><sub>**LXX:**</sub></small>
 And every man of Israel, the ones hiding in  mount Ephraim, heard that the Philistines have fled. And they joined together also themselves after them to battle. And \[the\] <span class="smallcaps">lord</span> delivered Israel in that day. And the war went through  Beth-aven. And all the people being with Saul were about ten thousand men. 
-<small><sub>**KJV:**</sub></small>
-Likewise all the men of Israel which had hid themselves in mount Ephraim, [when] they heard that the Philistines fled, even they also followed hard after them in the battle.
-<small><sub>**BSB:**</sub></small>
-When all the Israelites who had been hiding in the hill country of Ephraim heard that the Philistines were fleeing, they also joined the battle in close pursuit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.21|<< 1 Samuel 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.23|1 Samuel 14:23 >>]]</td></tr></table>
 
 | Translation | Greek |

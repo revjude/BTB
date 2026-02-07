@@ -1,4 +1,4 @@
-**Genesis 17:17** 
+**Genesis 17:17**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abraham fell upon his face, and laughed, and said in his heart, Shall [a child] be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abraham fell facedown. Then he laughed and said to himself, “Can a child be bo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.16|<< Genesis 17:16]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.18|Genesis 17:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307G\|יִּפֹּ֧ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Pol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָ֛ם]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

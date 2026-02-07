@@ -1,12 +1,12 @@
-**Luke 1:80
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:80**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel.
 <small><sub>**BSB:**</sub></small>
 And the child grew and became strong in spirit; and he lived in the wilderness until the time of his public appearance to Israel.
 <small><sub>**Literal:**</sub></small>
 <the> And the child was continuing to grow and he was strengthened in spirit and he was in the deserted places until [the] day of appearance of him to <the> Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.79|<< Luke 1:79]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.1|Luke 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τὸ]]</big>**  |To <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

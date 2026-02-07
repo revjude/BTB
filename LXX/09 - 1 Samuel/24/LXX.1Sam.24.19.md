@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:19** 
 <small><sub>**LXX:**</sub></small>
 And that if anyone may find  his enemy in affliction, and shall send him forth in a good way, even \[the\] <span class="smallcaps">lord</span> will recompense to him good \[things\], as you have done today. 
-<small><sub>**KJV:**</sub></small>
-For if a man find his enemy, will he let him go well away? wherefore the LORD reward thee good for that thou hast done unto me this day.
-<small><sub>**BSB:**</sub></small>
-When a man finds his enemy, does he let him go away unharmed? May the LORD reward you with good for what you have done for me this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.18|<< 1 Samuel 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.20|1 Samuel 24:20 >>]]</td></tr></table>
 
 | Translation | Greek |

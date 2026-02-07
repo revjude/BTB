@@ -1,12 +1,12 @@
-**John 10:6
-**<small><sub>**KJV:**</sub></small>
+**John 10:6**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.
 <small><sub>**BSB:**</sub></small>
 Jesus spoke to them using this illustration, but they did not understand what He was telling them.
 <small><sub>**Literal:**</sub></small>
 This <the> allegory spoke to them <the> Jesus; they however not knew what it was that He was saying to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.5|<< John 10:5]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.7|John 10:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Ταύτην]]</big>**  |Tautēn <small><sup>[[D-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 68:19** (68:20)
+**Psalms 68:19**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the Lord, [who] daily loadeth us [with benefits, even] the God of our salvation. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed be the Lord, who daily bears our burden, the God of our salvation. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.18|<< Psalms 68:18]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.20|Psalms 68:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [be] blessed  |**<big>&#8207;[[H1288\|בָּ֤ר֣וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָי֮]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

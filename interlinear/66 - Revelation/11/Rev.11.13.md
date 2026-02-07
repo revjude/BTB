@@ -1,12 +1,12 @@
-**Revelation 11:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:13**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the same hour was there a great earthquake, and the tenth part of the city fell, and in the earthquake were slain of men seven thousand: and the remnant were affrighted, and gave glory to the God of heaven.
 <small><sub>**BSB:**</sub></small>
 And in that hour there was a great earthquake, and a tenth of the city collapsed. Seven thousand were killed in the quake, and the rest were terrified and gave glory to the God of heaven.
 <small><sub>**Literal:**</sub></small>
 And in that [very] <the> hour there was an earthquake great, and <the> a tenth of the city fell, and were killed in the earthquake names of men thousand seven. And the rest terrified became and they gave glory to the God <the> of heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.12|<< Revelation 11:12]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.14|Revelation 11:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

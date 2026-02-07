@@ -1,5 +1,5 @@
-**1 Corinthians 2:16
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:16**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.
 <small><sub>**BSB:**</sub></small>
 “For who has known the mind of the Lord, so as to instruct Him?” But we have the mind of Christ.
@@ -10,7 +10,7 @@ Who for has known [the] mind of [the] Lord? Who will instruct Him? We ourselves 
 > $\quad$ referencing: [[LXX.Isa.40.13|Isa 40:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

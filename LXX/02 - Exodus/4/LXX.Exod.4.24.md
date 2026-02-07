@@ -1,10 +1,7 @@
 **LXX Exodus 4:24** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass during the journey in the lodging, an angel of \[the\] <span class="smallcaps">lord</span> met him, and sought to kill him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass by the way in the inn, that the LORD met him, and sought to kill him.
-<small><sub>**BSB:**</sub></small>
-Now at a lodging place along the way, the LORD met Moses and was about to kill him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.23|<< Exodus 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.25|Exodus 4:25 >>]]</td></tr></table>
 
 | Translation | Greek |

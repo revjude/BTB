@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> testified \[to\] Israel, and \[to\] Judah, by \[the\] hand of all  his prophets, every \[one of them\] seers, saying, Turn from  your wicked ways, and guard  my commandments, and  my ordinances, and every  law! which I gave charge \[to\] your fathers, as many as I sent to them by \[the\] hand  of my servants the prophets. 
-<small><sub>**KJV:**</sub></small>
-Yet the LORD testified against Israel, and against Judah, by all the prophets, [and by] all the seers, saying, Turn ye from your evil ways, and keep my commandments [and] my statutes, according to all the law which I commanded your fathers, and which I sent to you by my servants the prophets.
-<small><sub>**BSB:**</sub></small>
-Yet through all His prophets and seers, the LORD warned Israel and Judah, saying, “Turn from your wicked ways and keep My commandments and statutes, according to the entire Law that I commanded your fathers and delivered to you through My servants the prophets.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.12|<< 2 Kings 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.14|2 Kings 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

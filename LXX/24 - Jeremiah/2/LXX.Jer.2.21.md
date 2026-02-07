@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:21** 
 <small><sub>**LXX:**</sub></small>
 But I planted you a grapevine bearing fruit -- all true. How are you turned into bitterness --  a strange grapevine? 
-<small><sub>**KJV:**</sub></small>
-Yet I had planted thee a noble vine, wholly a right seed: how then art thou turned into the degenerate plant of a strange vine unto me?
-<small><sub>**BSB:**</sub></small>
-I had planted you like a choice vine from the very best seed. How could you turn yourself before Me into a rotten, wild vine?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.20|<< Jeremiah 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.22|Jeremiah 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

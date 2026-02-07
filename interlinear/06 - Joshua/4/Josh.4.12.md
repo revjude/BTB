@@ -1,4 +1,4 @@
-**Joshua 4:12** 
+**Joshua 4:12**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spake unto them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Reubenites, the Gadites, and the half-tribe of Manasseh crossed over before 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.11|<< Joshua 4:11]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.13|Joshua 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they passed over  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H5674A\|יַּעַבְרוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'av.ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Ephesians 4:10
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:10**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that descended is the same also that ascended up far above all heavens, that he might fill all things.)
 <small><sub>**BSB:**</sub></small>
 He who descended is the very One who ascended above all the heavens, in order to fill all things.
 <small><sub>**Literal:**</sub></small>
 The [One] having descended [the] same is also [one] having ascended above all the heavens, so that He may fill <the> all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.9|<< Ephesians 4:9]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.11|Ephesians 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having descended |**<big>[[G2597\|καταβὰς]]</big>**  |katabas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 8:56
-**<small><sub>**KJV:**</sub></small>
+**John 8:56**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Your father Abraham rejoiced to see my day: and he saw [it], and was glad.
 <small><sub>**BSB:**</sub></small>
 Your father Abraham rejoiced that he would see My day. He saw it and was glad.”
 <small><sub>**Literal:**</sub></small>
 Abraham the father of you rejoiced in that he may see <the> day <the> of Mine and he saw and rejoiced.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.55|<< John 8:55]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.57|John 8:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Abraham |**<big>[[G0011\|Ἀβραὰμ]]</big>**  [^1] |Abraam <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

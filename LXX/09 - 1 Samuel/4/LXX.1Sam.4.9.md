@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:9** 
 <small><sub>**LXX:**</sub></small>
 Fortify, and become as men, O Philistines! so that you should not serve to the Hebrews, as they served us; and you shall be  men and wage war against them. 
-<small><sub>**KJV:**</sub></small>
-Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.
-<small><sub>**BSB:**</sub></small>
-Take courage and be men, O Philistines! Otherwise, you will serve the Hebrews just as they served you. Now be men and fight!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.8|<< 1 Samuel 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.10|1 Samuel 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

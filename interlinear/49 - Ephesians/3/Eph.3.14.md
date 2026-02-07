@@ -1,12 +1,12 @@
-**Ephesians 3:14
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:14**<big><big>[[Eph.3.14 Paul’s Prayer for the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause I bow my knees unto the Father of our Lord Jesus Christ,
 <small><sub>**BSB:**</sub></small>
 ... for this reason I bow my knees before the Father,
 <small><sub>**Literal:**</sub></small>
 of this Because I bow the knees of mine to the Father of the Lord of us Jesus Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.13|<< Ephesians 3:13]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.15|Ephesians 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of this |**<big>[[G3778\|Τούτου]]</big>**  |Toutou <small><sup>[[D-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Because |**<big>[[G5484\|χάριν]]</big>**  |charin <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

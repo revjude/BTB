@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:25** 
 <small><sub>**LXX:**</sub></small>
 that there shall enter through the gates  of this city kings and rulers sitting upon \[the\] throne of David, and mounting upon their chariots and horses, they and  their rulers, \[the\] men of Judah, and the ones dwelling in Jerusalem. And this city shall be settled into the eon. 
-<small><sub>**KJV:**</sub></small>
-Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever.
-<small><sub>**BSB:**</sub></small>
-then kings and princes will enter through the gates of this city. They will sit on the throne of David, riding in chariots and on horses with their officials, along with the men of Judah and the residents of Jerusalem, and this city will be inhabited forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.24|<< Jeremiah 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.26|Jeremiah 17:26 >>]]</td></tr></table>
 
 | Translation | Greek |

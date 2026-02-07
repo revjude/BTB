@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:20** 
 <small><sub>**LXX:**</sub></small>
 For your servant knows that I have sinned. And behold, I have come today first of all of the house of Joseph  to go down myself for the meeting  of my master the king. 
-<small><sub>**KJV:**</sub></small>
-For thy servant doth know that I have sinned: therefore, behold, I am come the first this day of all the house of Joseph to go down to meet my lord the king.
-<small><sub>**BSB:**</sub></small>
-For your servant knows that I have sinned, so here I am today as the first of all the house of Joseph to come down to meet my lord the king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.19|<< 2 Samuel 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.21|2 Samuel 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

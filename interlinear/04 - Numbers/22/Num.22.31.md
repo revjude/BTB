@@ -1,4 +1,4 @@
-**Numbers 22:31** 
+**Numbers 22:31**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD opened Balaam’s eyes, and he saw the angel of the LORD standing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.30|<< Numbers 22:30]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.32|Numbers 22:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he uncovered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1540I\|יְגַ֣ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Gal<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

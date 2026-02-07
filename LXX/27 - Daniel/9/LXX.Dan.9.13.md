@@ -1,10 +1,7 @@
 **LXX Daniel 9:13** 
 <small><sub>**LXX:**</sub></small>
 As was written in the law of Moses, all  these evils came upon us. And we did not beseech the face of \[the\] <span class="smallcaps">lord</span>  our God, to turn from  our iniquities, and  to perceive in all truth. 
-<small><sub>**KJV:**</sub></small>
-As [it is] written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth.
-<small><sub>**BSB:**</sub></small>
-Just as it is written in the Law of Moses, all this disaster has come upon us, yet we have not sought the favor of the LORD our God by turning from our iniquities and giving attention to Your truth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.12|<< Daniel 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.14|Daniel 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

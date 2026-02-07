@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:5** 
 <small><sub>**LXX:**</sub></small>
 And he said, Peace, I come to sacrifice to the <span class="smallcaps">lord</span>. Sanctify \[yourselves\] and recline with me today for the sacrifice! And he sanctified  Jesse and  his sons, and he called them to the sacrifice. 
-<small><sub>**KJV:**</sub></small>
-And he said, Peaceably: I am come to sacrifice unto the LORD: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.
-<small><sub>**BSB:**</sub></small>
-“In peace,” he replied. “I have come to sacrifice to the LORD. Consecrate yourselves and come with me to the sacrifice.” Then he consecrated Jesse and his sons and invited them to the sacrifice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.4|<< 1 Samuel 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.6|1 Samuel 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

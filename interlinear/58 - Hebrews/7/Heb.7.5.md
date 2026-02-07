@@ -1,12 +1,12 @@
-**Hebrews 7:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:5**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:
 <small><sub>**BSB:**</sub></small>
 Now the law commands the sons of Levi who become priests to collect a tenth from the people—that is, from their brothers—though they too are descended from Abraham.
 <small><sub>**Literal:**</sub></small>
 And those indeed out from the sons of Levi the priestly office receiving a commandment have to take a tenth from the people according to the law, That is from the brothers of them, though having come out of the loin of Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.4|<< Hebrews 7:4]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.6|Hebrews 7:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

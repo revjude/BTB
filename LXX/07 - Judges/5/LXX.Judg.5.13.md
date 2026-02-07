@@ -1,10 +1,7 @@
 **LXX Judges 5:13** 
 <small><sub>**LXX:**</sub></small>
 Then his strength was magnified. O <span class="smallcaps">lord</span> abase to me the ones stronger than me! People Ephraim punished them in \[the\] valley. Your brother Benjamin among your peoples. 
-<small><sub>**KJV:**</sub></small>
-Then he made him that remaineth have dominion over the nobles among the people: the LORD made me have dominion over the mighty.
-<small><sub>**BSB:**</sub></small>
-Then the survivors came down to the nobles; the people of the LORD came down to me against the mighty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.12|<< Judges 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.14|Judges 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 11:5** 
+**Daniel 11:5**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of the south shall be strong, and [one] of his princes; and he shall be strong above him, and have dominion; his dominion [shall be] a great dominion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king of the South will grow strong, but one of his commanders will grow even
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.4|<< Daniel 11:4]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.6|Daniel 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so he may become strong  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2388G\|יֶחֱזַ֥ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.che.Zak<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

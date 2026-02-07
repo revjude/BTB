@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> seeing that Leah was detested, he opened  her womb. But Rachel was sterile. 
-<small><sub>**KJV:**</sub></small>
-And when the LORD saw that Leah [was] hated, he opened her womb: but Rachel [was] barren.
-<small><sub>**BSB:**</sub></small>
-When the LORD saw that Leah was unloved, He opened her womb; but Rachel was barren.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.30|<< Genesis 29:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.32|Genesis 29:32 >>]]</td></tr></table>
 
 | Translation | Greek |

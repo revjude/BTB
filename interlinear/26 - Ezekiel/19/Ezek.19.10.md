@@ -1,4 +1,4 @@
-**Ezekiel 19:10** 
+**Ezekiel 19:10**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy mother [is] like a vine in thy blood, planted by the waters: she was fruitful and full of branches by reason of many waters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your mother was like a vine in your vineyard, planted by the water; it was fruit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.9|<< Ezekiel 19:9]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.11|Ezekiel 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | mother your  |**<big>&#8207;[[H0517\|אִמְּ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| 'i.me.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> vine  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H1612\|גֶּ֛פֶן]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> Ge.fen<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

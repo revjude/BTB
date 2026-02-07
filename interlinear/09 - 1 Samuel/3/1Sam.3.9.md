@@ -1,4 +1,4 @@
-**1 Samuel 3:9** 
+**1 Samuel 3:9**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, LORD; for thy servant heareth. So Samuel went and lay down in his place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.8|<< 1 Samuel 3:8]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.10|1 Samuel 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eli  |**<big>&#8207;[[H5941\|עֵלִ֣י]]&#8207; </big>**| 'e.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

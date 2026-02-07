@@ -1,4 +1,4 @@
-**Ezekiel 23:16** 
+**Ezekiel 23:16**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as soon as she saw them with her eyes, she doted upon them, and sent messengers unto them into Chaldea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the sight of them, she lusted for them and sent messengers to them in Chaldea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.15|<< Ezekiel 23:15]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.17|Ezekiel 23:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she lusted !  [^3]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5689\|תַּעְגְּבָ֥]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**[^4] | va.<small><sup>[[Hc]]</sup></small> ta'.gav<small><sup>[[HVqw3fs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

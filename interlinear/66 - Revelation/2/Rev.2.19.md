@@ -1,12 +1,12 @@
-**Revelation 2:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:19**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last [to be] more than the first.
 <small><sub>**BSB:**</sub></small>
 I know your deeds—your love, your faith, your service, your perseverance—and your latest deeds are greater than your first.
 <small><sub>**Literal:**</sub></small>
 I know your <the> works and <the> love and <the> faith and <the> service and the perseverance of you and the works of you and the latter [are] greater than the first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.18|<< Revelation 2:18]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.20|Revelation 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|οἶδά]]</big>**  |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | your |**<big>[[G4771\|σου]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

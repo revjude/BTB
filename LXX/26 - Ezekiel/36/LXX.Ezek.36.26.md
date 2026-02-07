@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I will put in you a new heart, and I will put a new spirit in you, and I will remove the stone heart from  your flesh, and I will give to you a heart \[of\] flesh. 
-<small><sub>**KJV:**</sub></small>
-A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.
-<small><sub>**BSB:**</sub></small>
-I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.25|<< Ezekiel 36:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.27|Ezekiel 36:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 36:26** is...

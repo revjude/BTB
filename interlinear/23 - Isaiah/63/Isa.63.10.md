@@ -1,4 +1,4 @@
-**Isaiah 63:10** 
+**Isaiah 63:10**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, [and] he fought against them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they rebelled and grieved His Holy Spirit. So He turned and became their ene
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.9|<< Isaiah 63:9]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.11|Isaiah 63:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֛מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they rebelled  |**<big>&#8207;[[H4784\|מָר֥וּ]]&#8207; </big>**| ma.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:23** 
 <small><sub>**LXX:**</sub></small>
 And \[with\] his speaking with them, and behold, a man in the middle ascended (\[the\] name \[given\] to him \[was\] Goliath the Philistine from Gath) from the battle array of the Philistines, and he spoke according to  these words, and David heard. 
-<small><sub>**KJV:**</sub></small>
-And as he talked with them, behold, there came up the champion, the Philistine of Gath, Goliath by name, out of the armies of the Philistines, and spake according to the same words: and David heard [them].
-<small><sub>**BSB:**</sub></small>
-And as he was speaking with them, suddenly the champion named Goliath, the Philistine from Gath, came forward from the ranks of the Philistines and shouted his usual words, which David also heard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.22|<< 1 Samuel 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.24|1 Samuel 17:24 >>]]</td></tr></table>
 
 | Translation | Greek |

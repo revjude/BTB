@@ -1,10 +1,7 @@
 **LXX Ezra 4:9** 
 <small><sub>**LXX:**</sub></small>
 Thus Rehum \[the\] master judges, and Shimshai the scribe, and the rest of our fellow-servants, \[the\] Dinaites, Apharsathchites, Tarpelites, Apharsites, Archevites, Babylonians, Susanchites, Dehavites, Elamites, 
-<small><sub>**KJV:**</sub></small>
-Then [wrote] Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, [and] the Elamites,
-<small><sub>**BSB:**</sub></small>
-From Rehum the commander, Shimshai the scribe, and the rest of their associates—the judges and officials over Tripolis, Persia, Erech and Babylon, the Elamites of Susa,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.8|<< Ezra 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.10|Ezra 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

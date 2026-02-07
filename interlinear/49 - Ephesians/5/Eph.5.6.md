@@ -1,12 +1,12 @@
-**Ephesians 5:6
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:6**<big><big>[[Eph.5.1 Imitators of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.
 <small><sub>**BSB:**</sub></small>
 Let no one deceive you with empty words, for because of such things the wrath of God is coming on the sons of disobedience.
 <small><sub>**Literal:**</sub></small>
 No one you should deceive with empty words; because of these things for comes the wrath <the> of God upon the sons <the> of disobedience.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.5|<< Ephesians 5:5]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.7|Ephesians 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No one |**<big>[[G3367\|Μηδεὶς]]</big>**  |Mēdeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

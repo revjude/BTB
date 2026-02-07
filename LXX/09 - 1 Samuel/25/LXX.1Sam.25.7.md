@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:7** 
 <small><sub>**LXX:**</sub></small>
 And now, behold, I hear that your shepherds shear for you now, \[the ones\] who were with us in the wilderness, and we did not detain them, and we did not give charge to them in anything all the days of their being in  Carmel. 
-<small><sub>**KJV:**</sub></small>
-And now I have heard that thou hast shearers: now thy shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel.
-<small><sub>**BSB:**</sub></small>
-Now I hear that it is time for shearing. When your shepherds were with us, we did not harass them, and nothing of theirs was missing the whole time they were in Carmel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.6|<< 1 Samuel 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.8|1 Samuel 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

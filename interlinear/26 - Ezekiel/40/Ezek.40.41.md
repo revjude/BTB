@@ -1,4 +1,4 @@
-**Ezekiel 40:41** 
+**Ezekiel 40:41**<big><big>[[Ezek.40.38 Eight Tables for Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Four tables [were] on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew [their sacrifices].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So there were four tables inside the gateway and four outside—eight tables in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.40|<< Ezekiel 40:40]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.42|Ezekiel 40:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | four  |**<big>&#8207;[[H0702\|אַרְבָּעָ֨ה]]&#8207; </big>**| 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tables  |**<big>&#8207;[[H7979\|שֻׁלְחָנ֜וֹת]]&#8207; </big>**| shul.cha.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

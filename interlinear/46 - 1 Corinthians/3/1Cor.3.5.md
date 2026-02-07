@@ -1,12 +1,12 @@
-**1 Corinthians 3:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:5**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who then is Paul, and who [is] Apollos, but ministers by whom ye believed, even as the Lord gave to every man?
 <small><sub>**BSB:**</sub></small>
 What then is Apollos? And what is Paul? They are servants through whom you believed, as the Lord has assigned to each his role.
 <small><sub>**Literal:**</sub></small>
 who then is Apollos who now is Paul other than Servants through whom you believed, also to each as the Lord has given.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.4|<< 1 Corinthians 3:4]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.6|1 Corinthians 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who [^1] |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

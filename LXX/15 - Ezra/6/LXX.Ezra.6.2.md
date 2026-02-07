@@ -1,10 +1,7 @@
 **LXX Ezra 6:2** 
 <small><sub>**LXX:**</sub></small>
 And there was found in Achmetha \[the\] city, in the palace of the Mede city, one chapter \[of a scroll\], and this was the record written in it. 
-<small><sub>**KJV:**</sub></small>
-And there was found at Achmetha, in the palace that [is] in the province of the Medes, a roll, and therein [was] a record thus written:
-<small><sub>**BSB:**</sub></small>
-And a scroll was found in the fortress of Ecbatana, in the province of Media, with the following written on it: Memorandum:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.1|<< Ezra 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.3|Ezra 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

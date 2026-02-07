@@ -1,10 +1,7 @@
 **LXX Genesis 16:15** 
 <small><sub>**LXX:**</sub></small>
 And Hagar bore  to Abram a son. And Abram called the name  of his son, whom Hagar bore to him, Ishmael. 
-<small><sub>**KJV:**</sub></small>
-And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael.
-<small><sub>**BSB:**</sub></small>
-And Hagar bore Abram a son, and Abram gave the name Ishmael to the son she had borne.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.14|<< Genesis 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.16|Genesis 16:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 16:15** is...

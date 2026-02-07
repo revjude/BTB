@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:35** 
 <small><sub>**LXX:**</sub></small>
 And they built the shrines \[to\] Baal, the ones in \[the\] ravine of \[the\] son of Hinnom,  to offer  their sons and  their daughters \[to\] Molech; which I ordered not to them, and it ascended not unto my heart  to do  this abomination, to  seduce Judah to sin. 
-<small><sub>**KJV:**</sub></small>
-And they built the high places of Baal, which [are] in the valley of the son of Hinnom, to cause their sons and their daughters to pass through [the fire] unto Molech; which I commanded them not, neither came it into my mind, that they should do this abomination, to cause Judah to sin.
-<small><sub>**BSB:**</sub></small>
-They have built the high places of Baal in the Valley of Ben-hinnom to make their sons and daughters pass through the fire to Molech—something I never commanded them, nor had it ever entered My mind, that they should commit such an abomination and cause Judah to sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.34|<< Jeremiah 32:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.36|Jeremiah 32:36 >>]]</td></tr></table>
 
 | Translation | Greek |

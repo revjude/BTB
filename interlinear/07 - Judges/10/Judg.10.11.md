@@ -1,4 +1,4 @@
-**Judges 10:11** 
+**Judges 10:11**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto the children of Israel, [Did] not [I deliver you] from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD replied, “When the Egyptians, Amorites, Ammonites, Philistines,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.10|<< Judges 10:10]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.12|Judges 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ֥]]&#8207;&#8207;[[H0559\|יֹּאמֶר]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

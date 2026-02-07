@@ -1,10 +1,7 @@
 **LXX Proverbs 7:27** 
 <small><sub>**LXX:**</sub></small>
 Her house \[is the\] ways of Hades; they lead down into the storerooms  of death. 
-<small><sub>**KJV:**</sub></small>
-Her house [is] the way to hell, going down to the chambers of death.
-<small><sub>**BSB:**</sub></small>
-Her house is the road to Sheol, descending to the chambers of death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.26|<< Proverbs 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.1|Proverbs 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

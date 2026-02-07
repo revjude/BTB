@@ -1,12 +1,12 @@
-**James 3:4
-**<small><sub>**KJV:**</sub></small>
+**James 3:4**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold also the ships, which though [they be] so great, and [are] driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.
 <small><sub>**BSB:**</sub></small>
 Consider ships as well. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot is inclined.
 <small><sub>**Literal:**</sub></small>
 Behold also the ships, so great being and by winds strong being driven, are turned about by a very small rudder where ever the impulse [of the one] who is steering decides.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.3|<< James 3:3]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.5|James 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

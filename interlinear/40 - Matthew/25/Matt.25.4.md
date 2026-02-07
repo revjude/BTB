@@ -1,12 +1,12 @@
-**Matthew 25:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:4**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the wise took oil in their vessels with their lamps.
 <small><sub>**BSB:**</sub></small>
 But the wise ones took oil in flasks along with their lamps.
 <small><sub>**Literal:**</sub></small>
 <the> but the wise took oil in the vessels of them with the lamps their own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.3|<< Matthew 25:3]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.5|Matthew 25:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|αἱ]]</big>**  |hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | but |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

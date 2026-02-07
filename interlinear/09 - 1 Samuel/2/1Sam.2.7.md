@@ -1,4 +1,4 @@
-**1 Samuel 2:7** 
+**1 Samuel 2:7**<big><big>[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD maketh poor, and maketh rich: he bringeth low, and lifteth up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD sends poverty and wealth; He humbles and He exalts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.6|<< 1 Samuel 2:6]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.8|1 Samuel 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] making poor  |**<big>&#8207;[[H3423I\|מוֹרִ֣ישׁ]]&#8207; </big>**| mo.Rish<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

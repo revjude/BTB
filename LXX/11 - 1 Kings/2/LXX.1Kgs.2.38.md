@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:38** 
 <small><sub>**LXX:**</sub></small>
 And Shimei said to the king, The thing is good which you have spoken, O my master, O king, thus your servant do. And Shimei settled in Jerusalem three years. 
-<small><sub>**KJV:**</sub></small>
-And Shimei said unto the king, The saying [is] good: as my lord the king hath said, so will thy servant do. And Shimei dwelt in Jerusalem many days.
-<small><sub>**BSB:**</sub></small>
-“The sentence is fair,” Shimei replied. “Your servant will do as my lord the king has spoken.” And Shimei lived in Jerusalem for a long time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.37|<< 1 Kings 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.39|1 Kings 2:39 >>]]</td></tr></table>
 
 | Translation | Greek |

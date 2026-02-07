@@ -1,10 +1,7 @@
 **LXX Numbers 3:28** 
 <small><sub>**LXX:**</sub></small>
 Every male from a month and up -- eight thousand and six hundred, guarding the watches of the holy \[place\]. 
-<small><sub>**KJV:**</sub></small>
-In the number of all the males, from a month old and upward, [were] eight thousand and six hundred, keeping the charge of the sanctuary.
-<small><sub>**BSB:**</sub></small>
-The number of all the males a month old or more was 8,600. They were responsible for the duties of the sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.27|<< Numbers 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.29|Numbers 3:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Song of Solomon 5:4** 
+**Song of Solomon 5:4**<big><big>[[Song.5.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved put in his hand by the hole [of the door], and my bowels were moved for him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My beloved put his hand to the latch; my heart pounded for him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.3|<< Song of Solomon 5:3]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.5|Song of Solomon 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lover my  |**<big>&#8207;[[H1730G\|דּוֹדִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| do.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sent  |**<big>&#8207;[[H7971K\|שָׁלַ֤ח]]&#8207; </big>**| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

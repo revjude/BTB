@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word against  Moab. \[The land of\] Moab shall be destroyed by night; for by night the wall of the \[land of\] Moab shall be destroyed. 
-<small><sub>**KJV:**</sub></small>
-The burden of Moab. Because in the night Ar of Moab is laid waste, [and] brought to silence; because in the night Kir of Moab is laid waste, [and] brought to silence;
-<small><sub>**BSB:**</sub></small>
-This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir in Moab is devastated, destroyed in a night!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.32|<< Isaiah 14:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.2|Isaiah 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

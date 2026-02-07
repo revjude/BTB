@@ -1,10 +1,7 @@
 **LXX Judges 12:12** 
 <small><sub>**LXX:**</sub></small>
 And Elon the Zebulunite died, and was entombed in Aijalon in \[the\] land of Zebulun. 
-<small><sub>**KJV:**</sub></small>
-And Elon the Zebulonite died, and was buried in Aijalon in the country of Zebulun.
-<small><sub>**BSB:**</sub></small>
-Then Elon the Zebulunite died, and he was buried in Aijalon in the land of Zebulun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.11|<< Judges 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.13|Judges 12:13 >>]]</td></tr></table>
 
 | Translation | Greek |

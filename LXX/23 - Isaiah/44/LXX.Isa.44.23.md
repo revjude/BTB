@@ -1,10 +1,7 @@
 **LXX Isaiah 44:23** 
 <small><sub>**LXX:**</sub></small>
 Be glad, O heavens! for the God of Israel showed mercy. Trump, O foundations of the earth! Yell out, O mountains in gladness, O hills, and all the trees  in them! for \[the\] <span class="smallcaps">lord</span> ransomed  Jacob, and Israel shall be glorified. 
-<small><sub>**KJV:**</sub></small>
-Sing, O ye heavens; for the LORD hath done [it]: shout, ye lower parts of the earth: break forth into singing, ye mountains, O forest, and every tree therein: for the LORD hath redeemed Jacob, and glorified himself in Israel.
-<small><sub>**BSB:**</sub></small>
-Sing for joy, O heavens, for the LORD has done this; shout aloud, O depths of the earth. Break forth in song, O mountains, you forests and all your trees. For the LORD has redeemed Jacob, and revealed His glory in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.22|<< Isaiah 44:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.24|Isaiah 44:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 44:23** is...

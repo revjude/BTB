@@ -1,4 +1,4 @@
-**Song of Solomon 8:11** 
+**Song of Solomon 8:11**<big><big>[[Song.8.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand [pieces] of silver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon had a vineyard in Baal-hamon. He leased it to the tenants. For its fruit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.10|<< Song of Solomon 8:10]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.12|Song of Solomon 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a vineyard  |**<big>&#8207;[[H3754\|כֶּ֣רֶם]]&#8207; </big>**| Ke.rem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it belonged  |**<big>&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

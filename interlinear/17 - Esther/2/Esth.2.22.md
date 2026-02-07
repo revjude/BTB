@@ -1,4 +1,4 @@
-**Esther 2:22** 
+**Esther 2:22**<big><big>[[Esth.2.21 Mordecai Uncovers a Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the thing was known to Mordecai, who told [it] unto Esther the queen; and Esther certified the king [thereof] in Mordecai’s name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Mordecai learned of the plot, he reported it to Queen Esther, and she infor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.21|<< Esther 2:21]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.23|Esther 2:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was made known  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3045\|יִּוָּדַ֤ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.va.Da'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the matter  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דָּבָר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

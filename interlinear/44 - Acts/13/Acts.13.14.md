@@ -1,12 +1,12 @@
-**Acts 13:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:14**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down.
 <small><sub>**BSB:**</sub></small>
 And from Perga, they traveled inland to Pisidian Antioch, where they entered the synagogue on the Sabbath and sat down.
 <small><sub>**Literal:**</sub></small>
 They themselves now having passed through from <the> Perga came to Antioch <the> Pisidia, and having gone into the synagogue on the day of the Sabbaths they sat down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.13|<< Acts 13:13]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.15|Acts 13:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They themselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

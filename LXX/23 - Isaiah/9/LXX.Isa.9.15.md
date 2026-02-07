@@ -1,10 +1,7 @@
 **LXX Isaiah 9:15** 
 <small><sub>**LXX:**</sub></small>
 \[the\] old man, and the ones  admiring persons -- this is \[the\] head; and \[the\] prophet teaching lawless \[things\] -- this is \[the\] tail. 
-<small><sub>**KJV:**</sub></small>
-The ancient and honourable, he [is] the head; and the prophet that teacheth lies, he [is] the tail.
-<small><sub>**BSB:**</sub></small>
-The head is the elder and honorable man, and the tail is the prophet who teaches lies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.14|<< Isaiah 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.16|Isaiah 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

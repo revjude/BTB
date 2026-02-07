@@ -1,4 +1,4 @@
-**Psalms 73:7** 
+**Psalms 73:7**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their eyes stand out with fatness: they have more than heart could wish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From their prosperity proceeds iniquity; the imaginations of their hearts run wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.6|<< Psalms 73:6]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.8|Psalms 73:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it comes out  |**<big>&#8207;[[H3318G\|יָ֭צָא]]&#8207; </big>**| Ya.tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from fat  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2459\|חֵ֣לֶב]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Che.lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

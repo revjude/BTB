@@ -1,10 +1,7 @@
 **LXX Esther 2:7** 
 <small><sub>**LXX:**</sub></small>
 And there was to this man a child \[that\] he brought up, \[the\] daughter of \[the\] brother of his father, and her name \[was\] Esther. And at the changeover of her  parents, he instructed her to himself for a woman. And the young woman was good  in appearance. 
-<small><sub>**KJV:**</sub></small>
-And he brought up Hadassah, that [is], Esther, his uncle’s daughter: for she had neither father nor mother, and the maid [was] fair and beautiful; whom Mordecai, when her father and mother were dead, took for his own daughter.
-<small><sub>**BSB:**</sub></small>
-And Mordecai had brought up Hadassah (that is, Esther), the daughter of his uncle, because she did not have a father or mother. The young woman was lovely in form and appearance, and when her father and mother had died, Mordecai had taken her as his own daughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.6|<< Esther 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.8|Esther 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

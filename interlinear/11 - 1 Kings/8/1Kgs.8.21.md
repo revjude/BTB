@@ -1,4 +1,4 @@
-**1 Kings 8:21** 
+**1 Kings 8:21**<big><big>[[1Kgs.8.12 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have set there a place for the ark, wherein [is] the covenant of the LORD, which he made with our fathers, when he brought them out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there I have provided a place for the ark, which contains the covenant of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.20|<< 1 Kings 8:20]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.22|1 Kings 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have set up  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7760H\|אָשִׂ֨ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Sim<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֤ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

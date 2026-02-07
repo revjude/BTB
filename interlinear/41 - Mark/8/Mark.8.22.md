@@ -1,12 +1,12 @@
-**Mark 8:22
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:22**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him.
 <small><sub>**BSB:**</sub></small>
 When they arrived at Bethsaida, some people brought a blind man and begged Jesus to touch him.
 <small><sub>**Literal:**</sub></small>
 And they come to Bethsaida, And they bring to Him a blind [man] and they implore Him that him He may touch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.21|<< Mark 8:21]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.23|Mark 8:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they come [^1] [^2] |**<big>[[G2064\|ἔρχονται]]</big>**  |erchontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |

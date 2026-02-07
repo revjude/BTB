@@ -1,4 +1,4 @@
-**Psalms 26:6** 
+**Psalms 26:6**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will wash mine hands in innocency: so will I compass thine altar, O LORD:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I wash my hands in innocence that I may go about Your altar, O LORD,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.5|<< Psalms 26:5]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.7|Psalms 26:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I wash  |**<big>&#8207;[[H7364\|אֶרְחַ֣ץ]]&#8207; </big>**| 'er.Chatz<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in innocence  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5356A\|נִקָּי֣וֹן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ni.ka.Yon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

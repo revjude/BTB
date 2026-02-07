@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 What shall you see in the Shulamite? She comes as a company of the camps. How you do beautify your footsteps in sandals, O daughter of Nabad. \[The\] proportions of your thighs \[are\] likened to pendants -- works of \[the\] hands of a craftsman. 
-<small><sub>**KJV:**</sub></small>
-How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs [are] like jewels, the work of the hands of a cunning workman.
-<small><sub>**BSB:**</sub></small>
-How beautiful are your sandaled feet, O daughter of the prince! The curves of your thighs are like jewels, the handiwork of a master.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.13|<< Song of Solomon 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.2|Song of Solomon 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

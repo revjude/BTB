@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> will raise up for himself a king over Israel who shall strike the house of Jeroboam this  day, and yet also indeed now. 
-<small><sub>**KJV:**</sub></small>
-Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.
-<small><sub>**BSB:**</sub></small>
-Moreover, the LORD will raise up for Himself a king over Israel who will cut off the house of Jeroboam. This is the day—yes, even today!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.13|<< 1 Kings 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.15|1 Kings 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

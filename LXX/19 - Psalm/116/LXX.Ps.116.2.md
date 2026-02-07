@@ -1,10 +1,7 @@
 **LXX Psalm 116:2** 
 <small><sub>**LXX:**</sub></small>
 For he leaned  his ear to me; and during  my days I shall call upon \[him\]. 
-<small><sub>**KJV:**</sub></small>
-Because he hath inclined his ear unto me, therefore will I call upon [him] as long as I live.
-<small><sub>**BSB:**</sub></small>
-Because He has inclined His ear to me, I will call on Him as long as I live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.116.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.1|<< Psalm 116:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.3|Psalm 116:3 >>]]</td></tr></table>
 
 | Translation | Greek |

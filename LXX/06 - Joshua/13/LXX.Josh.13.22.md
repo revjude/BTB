@@ -1,10 +1,7 @@
 **LXX Joshua 13:22** 
 <small><sub>**LXX:**</sub></small>
 And  Balaam son Beor the clairvoyant the sons of Israel killed by \[the\] broadsword in the routing of the enemy. 
-<small><sub>**KJV:**</sub></small>
-Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.
-<small><sub>**BSB:**</sub></small>
-The Israelites also killed the diviner Balaam son of Beor along with the others they put to the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.21|<< Joshua 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.23|Joshua 13:23 >>]]</td></tr></table>
 
 | Translation | Greek |

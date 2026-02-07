@@ -1,4 +1,4 @@
-**Psalms 83:3** (83:4)
+**Psalms 83:3**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With cunning they scheme against Your people and conspire against those You cher
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.2|<< Psalms 83:2]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.4|Psalms 83:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people your  |**<big>&#8207;[[H5971A\|עַ֭מְּ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'A.me.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

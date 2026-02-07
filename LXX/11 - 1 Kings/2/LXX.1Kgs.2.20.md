@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:20** 
 <small><sub>**LXX:**</sub></small>
 And she said to him, I ask one small request from you, you should not turn away  my face. And the king said to her, Ask my mother, for I will not turn from you. 
-<small><sub>**KJV:**</sub></small>
-Then she said, I desire one small petition of thee; [I pray thee], say me not nay. And the king said unto her, Ask on, my mother: for I will not say thee nay.
-<small><sub>**BSB:**</sub></small>
-“I have just one small request of you,” she said. “Do not deny me.” “Make your request, my mother,” the king replied, “for I will not deny you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.19|<< 1 Kings 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.21|1 Kings 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

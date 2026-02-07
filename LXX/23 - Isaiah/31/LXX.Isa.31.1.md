@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Woe to the ones going down into Egypt for help; the ones relying upon horses, and upon chariots, for they are many; and \[relying\] upon exceedingly many horses. And they did not hearken relying upon the holy one  of Israel, and  they did not seek God. 
-<small><sub>**KJV:**</sub></small>
-Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because [they are] many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!
-<small><sub>**BSB:**</sub></small>
-Woe to those who go down to Egypt for help, who rely on horses, who trust in their abundance of chariots and in their multitude of horsemen. They do not look to the Holy One of Israel; they do not seek the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.33|<< Isaiah 30:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.2|Isaiah 31:2 >>]]</td></tr></table>
 
 | Translation | Greek |

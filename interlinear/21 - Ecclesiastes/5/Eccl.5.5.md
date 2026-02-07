@@ -1,4 +1,4 @@
-**Ecclesiastes 5:5** (5:4)
+**Ecclesiastes 5:5**<big><big>[[Eccl.5.1 Approaching God with Awe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is it] that thou shouldest not vow, than that thou shouldest vow and not pay.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is better not to vow than to make a vow and not fulfill it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.4|<< Ecclesiastes 5:4]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.6|Ecclesiastes 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֖וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

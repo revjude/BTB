@@ -1,4 +1,4 @@
-**Psalms 18:30** (18:31)
+**Psalms 18:30**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for God, His way is perfect; the word of the LORD is flawless. He is a shield
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.29|<< Psalms 18:29]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.31|Psalms 18:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0410G\|אֵל֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] blameless  |**<big>&#8207;[[H8549G\|תָּמִ֪ים]]&#8207; </big>**| ta.Mim<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 26:20** 
 <small><sub>**LXX:**</sub></small>
 And the second side  towards \[the\] north -- twenty posts. 
-<small><sub>**KJV:**</sub></small>
-And for the second side of the tabernacle on the north side [there shall be] twenty boards:
-<small><sub>**BSB:**</sub></small>
-For the second side of the tabernacle, the north side, make twenty frames<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.19|<< Exodus 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.21|Exodus 26:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 26:2** 
+**Ezekiel 26:2**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, because that Tyrus hath said against Jerusalem, Aha, she is broken [that was] the gates of the people: she is turned unto me: I shall be replenished, [now] she is laid waste:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Son of man, because that Tyrus hath said against Jerusalem, Aha, she is broken [
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.1|<< Ezekiel 26:1]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.3|Ezekiel 26:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

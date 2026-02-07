@@ -1,4 +1,4 @@
-**Ruth 4:4** 
+**Ruth 4:4**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I thought to advertise thee, saying, Buy [it] before the inhabitants, and before the elders of my people. If thou wilt redeem [it], redeem [it]: but if thou wilt not redeem [it, then] tell me, that I may know: for [there is] none to redeem [it] beside thee; and I [am] after thee. And he said, I will redeem [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I thought I should inform you that you may buy it back in the presence of those 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.3|<< Ruth 4:3]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.5|Ruth 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֨י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I said  |**<big>&#8207;[[H0559\|אָמַ֜רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

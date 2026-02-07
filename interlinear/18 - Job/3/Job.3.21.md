@@ -1,4 +1,4 @@
-**Job 3:21** 
+**Job 3:21**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which long for death, but it [cometh] not; and dig for it more than for hid treasures;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who long for death that does not come, and search for it like hidden treasure,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.20|<< Job 3:20]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.22|Job 3:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] long  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2442\|מְחַכִּ֣ים]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.cha.Kim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> death  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4194\|מָּ֣וֶת]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

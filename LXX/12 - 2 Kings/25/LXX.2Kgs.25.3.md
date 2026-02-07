@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:3** 
 <small><sub>**LXX:**</sub></small>
 And the hunger grew in strength in the city, and there was no bread to the people of the land. 
-<small><sub>**KJV:**</sub></small>
-And on the ninth [day] of the [fourth] month the famine prevailed in the city, and there was no bread for the people of the land.
-<small><sub>**BSB:**</sub></small>
-By the ninth day of the fourth month, the famine in the city was so severe that the people of the land had no food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.2|<< 2 Kings 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.4|2 Kings 25:4 >>]]</td></tr></table>
 
 | Translation | Greek |

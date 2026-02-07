@@ -1,10 +1,7 @@
 **LXX Judges 9:14** 
 <small><sub>**LXX:**</sub></small>
 And all the trees said to the white-thorn shrub, Come, You reign over us! 
-<small><sub>**KJV:**</sub></small>
-Then said all the trees unto the bramble, Come thou, [and] reign over us.
-<small><sub>**BSB:**</sub></small>
-Finally all the trees said to the thornbush, ‘Come and reign over us.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.13|<< Judges 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.15|Judges 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 3:7** 
+**Lamentations 3:7**<big><big>[[Lam.3.1 The Prophet’s Afflictions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath hedged me about, that I cannot get out: he hath made my chain heavy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has walled me in so I cannot escape; He has weighed me down with chains.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.6|<< Lamentations 3:6]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.8|Lamentations 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has walled up  |**<big>&#8207;[[H1443\|גָּדַ֧ר]]&#8207; </big>**| ga.Dar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | behind me  |**<big>&#8207;[[H1157\|בַּעֲדִ֛]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ba.'a.D<small><sup>[[HAcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

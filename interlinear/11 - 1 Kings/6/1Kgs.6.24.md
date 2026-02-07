@@ -1,4 +1,4 @@
-**1 Kings 6:24** 
+**1 Kings 6:24**<big><big>[[1Kgs.6.23 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And five cubits [was] the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other [were] ten cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One wing of the first cherub was five cubits long, and the other wing was five c
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.23|<< 1 Kings 6:23]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.25|1 Kings 6:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] five  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2568\|חָמֵ֣שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cubits  |**<big>&#8207;[[H0520A\|אַמּ֗וֹת]]&#8207; </big>**| 'a.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

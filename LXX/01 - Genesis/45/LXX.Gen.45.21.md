@@ -1,10 +1,7 @@
 **LXX Genesis 45:21** 
 <small><sub>**LXX:**</sub></small>
 And they did thus, the sons of Israel. And Joseph gave to them wagons, according to the sayings by Pharaoh the king. And he gave to them provisions for the journey. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.
-<small><sub>**BSB:**</sub></small>
-So the sons of Israel did as they were told. Joseph gave them wagons as Pharaoh had instructed, and he also gave them provisions for their journey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.20|<< Genesis 45:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.22|Genesis 45:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zephaniah 2:7** 
 <small><sub>**LXX:**</sub></small>
 And the measured out piece of land by the sea will be for the remnant of \[the\] house of Judah; upon them they shall pasture in the houses of Ashkelon; \[in the\] afternoon they shall rest up from in front \[of the\] sons of Judah; for \[the\] <span class="smallcaps">lord</span> their God shall visit them; and he shall return  their captivity. 
-<small><sub>**KJV:**</sub></small>
-And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity.
-<small><sub>**BSB:**</sub></small>
-The coast will belong to the remnant of the house of Judah; there they will find pasture. They will lie down in the evening among the houses of Ashkelon, for the LORD their God will attend to them and restore their captives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.6|<< Zephaniah 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.8|Zephaniah 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

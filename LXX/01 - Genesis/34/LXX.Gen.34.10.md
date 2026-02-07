@@ -1,10 +1,7 @@
 **LXX Genesis 34:10** 
 <small><sub>**LXX:**</sub></small>
 And dwell with us! And the land -- behold, \[it is\] spacious before you; you dwell and \[do\] trade in it, and acquire possessions in it! 
-<small><sub>**KJV:**</sub></small>
-And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.
-<small><sub>**BSB:**</sub></small>
-You may settle among us, and the land will be open to you. Live here, move about freely, and acquire your own property.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.9|<< Genesis 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.11|Genesis 34:11 >>]]</td></tr></table>
 
 | Translation | Greek |

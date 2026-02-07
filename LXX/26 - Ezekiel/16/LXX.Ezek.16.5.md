@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:5** 
 <small><sub>**LXX:**</sub></small>
 nor did my eye spare over you  to do for you one of all of these \[things\],  to suffer anything for you; and you were thrown away upon \[the\] face of the plain \[because of\] \[the\] deformity  of your life in the day you were birthed. 
-<small><sub>**KJV:**</sub></small>
-None eye pitied thee, to do any of these unto thee, to have compassion upon thee; but thou wast cast out in the open field, to the lothing of thy person, in the day that thou wast born.
-<small><sub>**BSB:**</sub></small>
-No one cared enough for you to do even one of these things out of compassion for you. Instead, you were thrown out into the open field, because you were despised on the day of your birth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.4|<< Ezekiel 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.6|Ezekiel 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

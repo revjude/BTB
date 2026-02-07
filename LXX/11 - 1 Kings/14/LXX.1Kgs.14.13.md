@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:13** 
 <small><sub>**LXX:**</sub></small>
 And all Israel shall lament him, and entomb him, for this one only shall enter  of Jeroboam to \[the\] tomb, for there shall be found in him a good word concerning  \[the\] <span class="smallcaps">lord</span> God of Israel among \[the\] house of Jeroboam. 
-<small><sub>**KJV:**</sub></small>
-And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found [some] good thing toward the LORD God of Israel in the house of Jeroboam.
-<small><sub>**BSB:**</sub></small>
-All Israel will mourn for him and bury him. For this is the only one belonging to Jeroboam who will receive a proper burial, because only in him has the LORD, the God of Israel, found any good in the house of Jeroboam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.12|<< 1 Kings 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.14|1 Kings 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

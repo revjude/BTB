@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And every man of Israel gathered together to David in Hebron, saying, Behold, we \[are\] of your bones and of your flesh. 
-<small><sub>**KJV:**</sub></small>
-Then all Israel gathered themselves to David unto Hebron, saying, Behold, we [are] thy bone and thy flesh.
-<small><sub>**BSB:**</sub></small>
-Then all Israel came together to David at Hebron and said, “Here we are, your own flesh and blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.14|<< 1 Chronicles 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.2|1 Chronicles 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

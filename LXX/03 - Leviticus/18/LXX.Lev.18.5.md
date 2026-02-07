@@ -1,10 +1,7 @@
 **LXX Leviticus 18:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall keep all  my orders, and all  my judgments, and you shall observe them; by which a man observing them shall live by them. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-Keep My statutes and My judgments, for the man who does these things will live by them. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.4|<< Leviticus 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.6|Leviticus 18:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 18:5** is...

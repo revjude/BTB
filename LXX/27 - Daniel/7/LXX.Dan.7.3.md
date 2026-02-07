@@ -1,10 +1,7 @@
 **LXX Daniel 7:3** 
 <small><sub>**LXX:**</sub></small>
 And four great wild beasts ascended from out of the sea, differing from one another. 
-<small><sub>**KJV:**</sub></small>
-And four great beasts came up from the sea, diverse one from another.
-<small><sub>**BSB:**</sub></small>
-Then four great beasts came up out of the sea, each one different from the others:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.2|<< Daniel 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.4|Daniel 7:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:3** is...

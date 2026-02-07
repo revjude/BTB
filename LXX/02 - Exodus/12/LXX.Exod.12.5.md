@@ -1,10 +1,7 @@
 **LXX Exodus 12:5** 
 <small><sub>**LXX:**</sub></small>
 It shall be to you a perfect male unblemished sheep of a year \[old\]; from the lambs and from the kids you shall take. 
-<small><sub>**KJV:**</sub></small>
-Your lamb shall be without blemish, a male of the first year: ye shall take [it] out from the sheep, or from the goats:
-<small><sub>**BSB:**</sub></small>
-Your lamb must be an unblemished year-old male, and you may take it from the sheep or the goats.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.4|<< Exodus 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.6|Exodus 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Haggai 2:7** 
+**Haggai 2:7**<big><big>[[Hag.2.1 The Coming Glory of God’s House|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will shake all the nations, and they will come with all their treasures, and I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.6|<< Haggai 2:6]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.8|Haggai 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will shake  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7493\|הִרְעַשְׁתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hir.'ash.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 33:2** 
+**Exodus 33:2**<big><big>[[Exod.33.1 The Command to Leave Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will send an angel before thee; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will send an angel before you, and I will drive out the Canaanites, Amorit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.1|<< Exodus 33:1]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.3|Exodus 33:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will send  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971G\|שָׁלַחְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.lach.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

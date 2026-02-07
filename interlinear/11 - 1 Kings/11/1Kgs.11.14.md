@@ -1,4 +1,4 @@
-**1 Kings 11:14** 
+**1 Kings 11:14**<big><big>[[1Kgs.11.14 Hadad’s Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD stirred up an adversary unto Solomon, Hadad the Edomite: he [was] of the king’s seed in Edom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD raised up against Solomon an adversary, Hadad the Edomite, from th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.13|<< 1 Kings 11:13]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.15|1 Kings 11:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he raised up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965H\|יָּ֨קֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:3** 
 <small><sub>**LXX:**</sub></small>
 And I will come forth and stand next to  my father in \[the\] field of which ever you should be there. And I will speak concerning you to  my father, and I will see whatever might be, and I will report it to you. 
-<small><sub>**KJV:**</sub></small>
-And I will go out and stand beside my father in the field where thou [art], and I will commune with my father of thee; and what I see, that I will tell thee.
-<small><sub>**BSB:**</sub></small>
-I will go out and stand beside my father in the field where you are, so I can ask about you. And if I find out anything, I will tell you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.2|<< 1 Samuel 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.4|1 Samuel 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

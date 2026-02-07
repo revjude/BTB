@@ -1,12 +1,12 @@
-**Luke 23:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:23**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
 <small><sub>**BSB:**</sub></small>
 But they were insistent, demanding with loud voices for Jesus to be crucified. And their clamor prevailed.
 <small><sub>**Literal:**</sub></small>
 <the> But they were urgent with voices loud asking for Him to be crucified, And were prevailing the voices of them and of the chief priests.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.22|<< Luke 23:22]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.24|Luke 23:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

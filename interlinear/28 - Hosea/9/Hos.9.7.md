@@ -1,4 +1,4 @@
-**Hosea 9:7** 
+**Hosea 9:7**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The days of visitation are come, the days of recompence are come; Israel shall know [it]: the prophet [is] a fool, the spiritual man [is] mad, for the multitude of thine iniquity, and the great hatred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The days of punishment have come; the days of retribution have arrived—let Isr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.6|<< Hosea 9:6]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.8|Hosea 9:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have come  |**<big>&#8207;[[H0935G\|בָּ֣אוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֣י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

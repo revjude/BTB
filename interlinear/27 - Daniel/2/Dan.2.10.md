@@ -1,4 +1,4 @@
-**Daniel 2:10** 
+**Daniel 2:10**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: therefore [there is] no king, lord, nor ruler, [that] asked such things at any magician, or astrologer, or Chaldean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The astrologers answered the king, “No one on earth can do what the king reque
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.9|<< Daniel 2:9]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.11|Daniel 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they replied  |**<big>&#8207;[[H6032\|עֲנ֨וֹ]]&#8207; </big>**| a.No<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Chaldeans the  [^2]|**<big>&#8207;[[H3779\|כַשְׂדָּ]]&#8207;&#8207;[[H9020\|אֵ֤י]]&#8207; </big>**[^3] | khas.da.<small><sup>[[ANgmpd]]</sup></small> i<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

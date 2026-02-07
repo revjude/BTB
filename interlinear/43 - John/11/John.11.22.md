@@ -1,12 +1,12 @@
-**John 11:22
-**<small><sub>**KJV:**</sub></small>
+**John 11:22**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I know, that even now, whatsoever thou wilt ask of God, God will give [it] thee.
 <small><sub>**BSB:**</sub></small>
 But even now I know that God will give You whatever You ask of Him.”
 <small><sub>**Literal:**</sub></small>
 Nevertheless even now I know that as much as maybe You may ask <the> God will give You <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.21|<< John 11:21]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.23|John 11:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nevertheless |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+TR+Byz">NKO</abbr> | |
 | even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

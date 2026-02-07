@@ -1,4 +1,4 @@
-**Psalms 37:27** 
+**Psalms 37:27**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Depart from evil, and do good; and dwell for evermore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn away from evil and do good, so that you will abide forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.26|<< Psalms 37:26]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.28|Psalms 37:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn away  |**<big>&#8207;[[H5493H\|ס֣וּר]]&#8207; </big>**| sur<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from evil  |**<big>&#8207;[[H9006\|מֵ֭]]&#8207;&#8207;[[H7451B\|רָע]]&#8207; </big>**| Me.<small><sup>[[HR]]</sup></small> ro'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

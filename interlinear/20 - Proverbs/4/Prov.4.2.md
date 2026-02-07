@@ -1,4 +1,4 @@
-**Proverbs 4:2** 
+**Proverbs 4:2**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I give you good doctrine, forsake ye not my law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I give you sound teaching; do not abandon my directive.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.1|<< Proverbs 4:1]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.3|Proverbs 4:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | instruction  |**<big>&#8207;[[H3948\|לֶ֣קַח]]&#8207; </big>**| Le.kach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

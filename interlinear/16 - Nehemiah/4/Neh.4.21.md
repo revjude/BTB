@@ -1,4 +1,4 @@
-**Nehemiah 4:21** (4:15)
+**Nehemiah 4:21**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So we continued the work, while half of the men held spears from the break of da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.20|<< Nehemiah 4:20]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.22|Nehemiah 4:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0587\|אֲנַ֖חְנוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] doing  |**<big>&#8207;[[H6213A\|עֹשִׂ֣ים]]&#8207; </big>**| 'o.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 11:5
-**<small><sub>**KJV:**</sub></small>
+**John 11:5**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now Jesus loved Martha, and her sister, and Lazarus.
 <small><sub>**BSB:**</sub></small>
 Now Jesus loved Martha and her sister and Lazarus.
 <small><sub>**Literal:**</sub></small>
 was loving now <the> Jesus <the> Martha and the sister of her and <the> Lazarus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.4|<< John 11:4]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.6|John 11:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | was loving |**<big>[[G0025\|Ἠγάπα]]</big>**  |Ēgapa <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

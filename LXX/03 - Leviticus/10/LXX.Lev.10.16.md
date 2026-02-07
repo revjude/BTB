@@ -1,10 +1,7 @@
 **LXX Leviticus 10:16** 
 <small><sub>**LXX:**</sub></small>
 And seeking the young he-goat for the sin \[offering\] Moses sought after. But thus it had been set on fire. And Moses was enraged at Eleazar and Ithamar the sons of Aaron, the ones being left, saying, 
-<small><sub>**KJV:**</sub></small>
-And Moses diligently sought the goat of the sin offering, and, behold, it was burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron [which were] left [alive], saying,
-<small><sub>**BSB:**</sub></small>
-Later, Moses searched carefully for the goat of the sin offering, and behold, it had been burned up. He was angry with Eleazar and Ithamar, Aaron’s remaining sons, and asked,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.15|<< Leviticus 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.17|Leviticus 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

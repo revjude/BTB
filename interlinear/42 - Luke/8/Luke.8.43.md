@@ -1,12 +1,12 @@
-**Luke 8:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:43**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,
 <small><sub>**BSB:**</sub></small>
 including a woman who had suffered from bleeding for twelve years. She had spent all her money on physicians, but no one was able to heal her.
 <small><sub>**Literal:**</sub></small>
 And a woman being with a flux of blood for years twelve, who into on physicians having spent all the living of her neither was able by no [one] to be healed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.42|<< Luke 8:42]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.44|Luke 8:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a woman |**<big>[[G1135G\|γυνὴ]]</big>**  |gunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

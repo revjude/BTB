@@ -1,12 +1,12 @@
-**Acts 1:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:21**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore of these men which have companied with us all the time that the Lord Jesus went in and out among us,
 <small><sub>**BSB:**</sub></small>
 Therefore it is necessary to choose one of the men who have accompanied us the whole time the Lord Jesus went in and out among us,
 <small><sub>**Literal:**</sub></small>
 It behooves therefore of those [who] were accompanying us men during all [the] time in that he came in and he went out among us the Lord Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.20|<< Acts 1:20]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.22|Acts 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It behooves |**<big>[[G1163\|δεῖ]]</big>**  |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

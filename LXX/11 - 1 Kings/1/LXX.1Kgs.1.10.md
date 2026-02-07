@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:10** 
 <small><sub>**LXX:**</sub></small>
 But Nathan the prophet, and  Benaiah, and the mighty \[ones\], and  Solomon his brother he did not call. 
-<small><sub>**KJV:**</sub></small>
-But Nathan the prophet, and Benaiah, and the mighty men, and Solomon his brother, he called not.
-<small><sub>**BSB:**</sub></small>
-But he did not invite Nathan the prophet, Benaiah, the mighty men, or his brother Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.9|<< 1 Kings 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.11|1 Kings 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

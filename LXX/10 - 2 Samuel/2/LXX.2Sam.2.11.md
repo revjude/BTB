@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:11** 
 <small><sub>**LXX:**</sub></small>
 And became \[the\] number of the days which David reigned in Hebron over the house of Judah -- seven years and six months. 
-<small><sub>**KJV:**</sub></small>
-And the time that David was king in Hebron over the house of Judah was seven years and six months.
-<small><sub>**BSB:**</sub></small>
-And the length of time that David was king in Hebron over the house of Judah was seven years and six months.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.10|<< 2 Samuel 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.12|2 Samuel 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

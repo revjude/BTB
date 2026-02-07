@@ -1,10 +1,7 @@
 **LXX Isaiah 11:9** 
 <small><sub>**LXX:**</sub></small>
 And in no way shall they do evil nor be able to destroy any one upon  my holy mountain. For the whole \[area\] is filled up  to know the <span class="smallcaps">lord</span>, as much water to cover up \[the\] sea. 
-<small><sub>**KJV:**</sub></small>
-They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea.
-<small><sub>**BSB:**</sub></small>
-They will neither harm nor destroy on all My holy mountain, for the earth will be full of the knowledge of the LORD as the sea is full of water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.8|<< Isaiah 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.10|Isaiah 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

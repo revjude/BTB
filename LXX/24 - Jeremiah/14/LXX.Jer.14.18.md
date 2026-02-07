@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:18** 
 <small><sub>**LXX:**</sub></small>
 If I should go forth into the plain, then behold, ones slain by sword. And if I should enter into the city, then behold, \[the\] misery of famine. For priest and prophet were gone into a land which they did not know. 
-<small><sub>**KJV:**</sub></small>
-If I go forth into the field, then behold the slain with the sword! and if I enter into the city, then behold them that are sick with famine! yea, both the prophet and the priest go about into a land that they know not.
-<small><sub>**BSB:**</sub></small>
-If I go out to the country, I see those slain by the sword; if I enter the city, I see those ravaged by famine! For both prophet and priest travel to a land they do not know.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.17|<< Jeremiah 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.19|Jeremiah 14:19 >>]]</td></tr></table>
 
 | Translation | Greek |

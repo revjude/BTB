@@ -1,12 +1,12 @@
-**Matthew 25:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:18**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that had received one went and digged in the earth, and hid his lord’s money.
 <small><sub>**BSB:**</sub></small>
 But the servant who had received the one talent went off, dug a hole in the ground, and hid his master’s money.
 <small><sub>**Literal:**</sub></small>
 <The> however <the> one having received having gone away he dug in in the ground and he hid the money of the master of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.17|<< Matthew 25:17]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.19|Matthew 25:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<The> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

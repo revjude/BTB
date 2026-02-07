@@ -1,4 +1,4 @@
-**1 Kings 3:20** 
+**1 Kings 3:20**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she arose at midnight, and took my son from beside me, while thine handmaid slept, and laid it in her bosom, and laid her dead child in my bosom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So she got up in the middle of the night and took my son from my side while I wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.19|<< 1 Kings 3:19]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.21|1 Kings 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she rose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|תָּקָם֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Kam<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] middle of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|ת֨וֹךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

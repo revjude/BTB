@@ -1,4 +1,4 @@
-**Psalms 45:9** (45:10)
+**Psalms 45:9**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Kings’ daughters [were] among thy honourable women: upon thy right hand did stand the queen in gold of Ophir.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The daughters of kings are among your honored women; the queen stands at your ri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.8|<< Psalms 45:8]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.10|Psalms 45:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | daughters of  |**<big>&#8207;[[H1323G\|בְּנ֣וֹת]]&#8207; </big>**| be.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kings  |**<big>&#8207;[[H4428G\|מְ֭לָכִים]]&#8207; </big>**| Me.la.khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

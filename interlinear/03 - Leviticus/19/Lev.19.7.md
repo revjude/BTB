@@ -1,4 +1,4 @@
-**Leviticus 19:7** 
+**Leviticus 19:7**<big><big>[[Lev.19.1 Commandments for Holiness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it be eaten at all on the third day, it [is] abominable; it shall not be accepted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If any of it is eaten on the third day, it is tainted and will not be accepted.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.6|<< Leviticus 19:6]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.8|Leviticus 19:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִ֛ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ever \<to be eaten>  |**<big>&#8207;[[H0398\|הֵאָכֹ֥ל]]&#8207; </big>**| he.'a.Khol<small><sup>[[HVNaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

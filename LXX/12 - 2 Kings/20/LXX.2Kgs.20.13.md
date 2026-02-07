@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:13** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah rejoiced over them, and showed to them all the house of the spices -- the silver, and the gold, the aromatics, and the good olive oil, and the house \[of\] his weapons, and all as much as was found in  his treasuries. There was no place which Hezekiah did not show to them in  his house, and in all  \[under\] his authority. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and [all] the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.
-<small><sub>**BSB:**</sub></small>
-And Hezekiah received the envoys and showed them all that was in his treasure house—the silver, the gold, the spices, and the precious oil, as well as his armory—all that was found in his storehouses. There was nothing in his palace or in all his dominion that Hezekiah did not show them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.12|<< 2 Kings 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.14|2 Kings 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

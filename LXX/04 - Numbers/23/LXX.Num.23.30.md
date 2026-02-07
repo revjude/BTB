@@ -1,10 +1,7 @@
 **LXX Numbers 23:30** 
 <small><sub>**LXX:**</sub></small>
 And Balak did just as Balaam said to him, and he bore a calf and a ram unto the shrine. 
-<small><sub>**KJV:**</sub></small>
-And Balak did as Balaam had said, and offered a bullock and a ram on [every] altar.
-<small><sub>**BSB:**</sub></small>
-So Balak did as Balaam had instructed, and he offered a bull and a ram on each altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.29|<< Numbers 23:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.1|Numbers 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

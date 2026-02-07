@@ -1,4 +1,4 @@
-**Isaiah 43:23** 
+**Isaiah 43:23**<big><big>[[Isa.43.22 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have not brought Me sheep for burnt offerings, nor honored Me with your sacr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.22|<< Isaiah 43:22]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.24|Isaiah 43:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have brought  |**<big>&#8207;[[H0935P\|הֵבֵ֤יאתָ]]&#8207; </big>**| he.Vei.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

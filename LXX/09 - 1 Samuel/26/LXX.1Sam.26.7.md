@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they enter, David and Abishai, among the people  at night. And behold, Saul was sleeping a \[deep\] sleep in \[the\] royal chariot, and  his spear \[was\] sticking in the ground by his head, and Abner and the people slept round about him. 
-<small><sub>**KJV:**</sub></small>
-So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him.
-<small><sub>**BSB:**</sub></small>
-That night David and Abishai came to the troops, and Saul was lying there asleep in the inner circle of the camp, with his spear stuck in the ground by his head. And Abner and the troops were lying around him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.6|<< 1 Samuel 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.8|1 Samuel 26:8 >>]]</td></tr></table>
 
 | Translation | Greek |

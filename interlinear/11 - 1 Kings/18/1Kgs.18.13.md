@@ -1,4 +1,4 @@
-**1 Kings 18:13** 
+**1 Kings 18:13**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Was it not told my lord what I did when Jezebel slew the prophets of the LORD, how I hid an hundred men of the LORD’S prophets by fifty in a cave, and fed them with bread and water?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Was it not reported to my lord what I did when Jezebel slaughtered the prophets 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.12|<< 1 Kings 18:12]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.14|1 Kings 18:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has it been told  |**<big>&#8207;[[H5046\|הֻגַּ֤ד]]&#8207; </big>**| hu.Gad<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

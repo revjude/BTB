@@ -1,4 +1,4 @@
-**Job 34:34** 
+**Job 34:34**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let men of understanding tell me, and let a wise man hearken unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Men of understanding will declare to me, and the wise men who hear me will say:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.33|<< Job 34:33]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.35|Job 34:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | people of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart  |**<big>&#8207;[[H3824\|לֵ֭בָב]]&#8207; </big>**| le.vo<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

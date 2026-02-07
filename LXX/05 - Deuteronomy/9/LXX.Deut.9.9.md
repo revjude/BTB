@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:9** 
 <small><sub>**LXX:**</sub></small>
 Of my ascending into the mountain to take the tablets  of stone, tablets of covenant of which \[the\] <span class="smallcaps">lord</span> ordained for you. And I was occupied in the mountain forty days and forty nights. I did not eat bread, and water I did not drink. 
-<small><sub>**KJV:**</sub></small>
-When I was gone up into the mount to receive the tables of stone, [even] the tables of the covenant which the LORD made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water:
-<small><sub>**BSB:**</sub></small>
-When I went up on the mountain to receive the tablets of stone, the tablets of the covenant that the LORD made with you, I stayed on the mountain forty days and forty nights. I ate no bread and drank no water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.8|<< Deuteronomy 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.10|Deuteronomy 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

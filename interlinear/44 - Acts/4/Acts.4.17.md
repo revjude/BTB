@@ -1,12 +1,12 @@
-**Acts 4:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:17**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name.
 <small><sub>**BSB:**</sub></small>
 But to keep this message from spreading any further among the people, we must warn them not to speak to anyone in this name.”
 <small><sub>**Literal:**</sub></small>
 But that not on further it may spread among the people, threats let us warn them no longer to speak in <the> name this to no man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.16|<< Acts 4:16]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.18|Acts 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

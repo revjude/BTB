@@ -1,4 +1,4 @@
-**Ezekiel 20:26** 
+**Ezekiel 20:26**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I polluted them in their own gifts, in that they caused to pass through [the fire] all that openeth the womb, that I might make them desolate, to the end that they might know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I pronounced them unclean through their gifts—the sacrifice of every first
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.25|<< Ezekiel 20:25]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.27|Ezekiel 20:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I made unclean  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H2930A\|אֲטַמֵּ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.ta.Me'<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

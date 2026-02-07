@@ -1,12 +1,12 @@
-**Luke 7:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:1**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.
 <small><sub>**BSB:**</sub></small>
 When Jesus had concluded His discourse in the hearing of the people, He went to Capernaum.
 <small><sub>**Literal:**</sub></small>
 And since He had completed all the declarations of Him in the hearing of the people, He entered into Capernaum.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.49|<< Luke 6:49]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.2|Luke 7:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And since [^1] |**<big>[[G1894\|Ἐπειδὴ]]</big>**  |Epeidē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | He had completed |**<big>[[G4137\|ἐπλήρωσεν]]</big>**  |eplērōsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

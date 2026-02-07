@@ -1,4 +1,4 @@
-**Genesis 41:22** 
+**Genesis 41:22**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I saw in my dream, and, behold, seven ears came up in one stalk, full and good:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In my dream I also saw seven heads of grain, plump and ripe, growing on a single
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.21|<< Genesis 41:21]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.23|Genesis 41:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֵ֖רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'E.re'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in dream my  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2472\|חֲלֹמִ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.lo.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

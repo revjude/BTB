@@ -1,4 +1,4 @@
-**Psalms 90:8** 
+**Psalms 90:8**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast set our iniquities before thee, our secret [sins] in the light of thy countenance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have set our iniquities before You, our secret sins in the light of Your pre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.7|<< Psalms 90:7]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.9|Psalms 90:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you set  |**<big>&#8207;[[H7896G\|שַׁתָּ֣ה]]&#8207; </big>**[^1] [^2] | sha.Tah<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | iniquities our  |**<big>&#8207;[[H5771G\|עֲוֹנֹתֵ֣י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'a.vo.no.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

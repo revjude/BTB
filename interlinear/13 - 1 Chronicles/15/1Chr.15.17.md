@@ -1,4 +1,4 @@
-**1 Chronicles 15:17** 
+**1 Chronicles 15:17**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Levites appointed Heman son of Joel; from his brothers, Asaph son of Bere
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.16|<< 1 Chronicles 15:16]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.18|1 Chronicles 15:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975H\|יַּעֲמִ֣ידוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֗ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

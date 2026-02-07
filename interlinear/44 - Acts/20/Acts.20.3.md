@@ -1,12 +1,12 @@
-**Acts 20:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:3**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And [there] abode three months. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia.
 <small><sub>**BSB:**</sub></small>
 where he stayed three months. And when the Jews formed a plot against him as he was about to sail for Syria, he decided to go back through Macedonia.
 <small><sub>**Literal:**</sub></small>
 Having continued then months three, having been made a plot against him by the Jews he being about to sail into <the> Syria, arose a purpose <the> to return through Macedonia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.2|<< Acts 20:2]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.4|Acts 20:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having continued |**<big>[[G4160J\|ποιήσας]]</big>**  |poiēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

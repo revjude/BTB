@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jericho was closed up, and fortified from before \[the\] sons of Israel. And no one went forth from out of it, and neither entered. 
-<small><sub>**KJV:**</sub></small>
-Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.
-<small><sub>**BSB:**</sub></small>
-Now Jericho was tightly shut up because of the Israelites. No one went out and no one came in.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.15|<< Joshua 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.2|Joshua 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 8:2** 
+**Ezekiel 8:2**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I beheld, and lo a likeness as the appearance of fire: from the appearance of his loins even downward, fire; and from his loins even upward, as the appearance of brightness, as the colour of amber.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then I looked and saw a figure like that of a man. From His waist down His appea
 > $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֶרְאֶ֗ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'er.'Eh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

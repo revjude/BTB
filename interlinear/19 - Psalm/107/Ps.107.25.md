@@ -1,4 +1,4 @@
-**Psalms 107:25** 
+**Psalms 107:25**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For He spoke and raised a tempest that lifted the waves of the sea.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.24|<< Psalms 107:24]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.26|Psalms 107:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he appointed  |**<big>&#8207;[[H9001\|וַֽ֭]]&#8207;&#8207;[[H5975I\|יַּעֲמֵד]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'a.med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

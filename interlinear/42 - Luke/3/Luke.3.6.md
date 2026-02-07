@@ -1,5 +1,5 @@
-**Luke 3:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:6**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all flesh shall see the salvation of God.
 <small><sub>**BSB:**</sub></small>
 And all humanity will see God’s salvation.’”
@@ -10,7 +10,7 @@ and will behold all flesh the salvation <the> of God.<br><table width="100%" bor
 > $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3-5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will behold |**<big>[[G3700G\|ὄψεται]]</big>**  |opsetai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

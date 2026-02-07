@@ -1,4 +1,4 @@
-**1 Chronicles 6:11** (5:37)
+**1 Chronicles 6:11**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Azariah begat Amariah, and Amariah begat Ahitub,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Azariah was the father of Amariah, Amariah was the father of Ahitub,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.10|<< 1 Chronicles 6:10]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.12|1 Chronicles 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he fathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|יּ֥וֹלֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.led<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Azariah  |**<big>&#8207;[[H5838K\|עֲזַרְיָ֖ה]]&#8207; </big>**| 'a.zar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

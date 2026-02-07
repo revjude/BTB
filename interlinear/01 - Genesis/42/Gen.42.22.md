@@ -1,4 +1,4 @@
-**Genesis 42:22** 
+**Genesis 42:22**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and ye would not hear? therefore, behold, also his blood is required.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Reuben responded, “Didn’t I tell you not to sin against the boy? But you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.21|<< Genesis 42:21]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.23|Genesis 42:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּעַן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'An<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵ֨ן]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

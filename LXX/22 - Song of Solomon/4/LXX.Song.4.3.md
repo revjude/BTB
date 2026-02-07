@@ -1,10 +1,7 @@
 **LXX Song of Solomon 4:3** 
 <small><sub>**LXX:**</sub></small>
 Your lips \[are\] as a scarlet string, and  your speech beautiful. your cheeks \[are\] as a rind of the pomegranate, outside  your veil. 
-<small><sub>**KJV:**</sub></small>
-Thy lips [are] like a thread of scarlet, and thy speech [is] comely: thy temples [are] like a piece of a pomegranate within thy locks.
-<small><sub>**BSB:**</sub></small>
-Your lips are like a scarlet ribbon, and your mouth is lovely. Your brow behind your veil is like a slice of pomegranate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.2|<< Song of Solomon 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.4|Song of Solomon 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Revelation 2:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:5**<big><big>[[Rev.2.1 To the Church in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.
 <small><sub>**BSB:**</sub></small>
 Therefore, keep in mind how far you have fallen. Repent and perform the deeds you did at first. But if you do not repent, I will come to you and remove your lampstand from its place.
 <small><sub>**Literal:**</sub></small>
 do remember therefore from where you have fallen, and do repent and the first works do perform; lest then except, I am coming to you [with] speed and I will remove the lampstand of you out of the place of it, only unless you shall repent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.4|<< Revelation 2:4]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.6|Revelation 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do remember |**<big>[[G3421\|μνημόνευε]]</big>**  |mnēmoneue <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

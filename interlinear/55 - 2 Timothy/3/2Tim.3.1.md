@@ -1,12 +1,12 @@
-**2 Timothy 3:1
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:1**<big><big>[[2Tim.3.1 Evil in the Last Days|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This know also, that in the last days perilous times shall come.
 <small><sub>**BSB:**</sub></small>
 But understand this: In the last days terrible times will come.
 <small><sub>**Literal:**</sub></small>
 This however do realize, that in [the] last days will be present times difficult.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.26|<< 2 Timothy 2:26]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.2|2 Timothy 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Τοῦτο]]</big>**  |Touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

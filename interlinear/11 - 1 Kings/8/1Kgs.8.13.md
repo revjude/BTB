@@ -1,4 +1,4 @@
-**1 Kings 8:13** 
+**1 Kings 8:13**<big><big>[[1Kgs.8.12 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have surely built thee an house to dwell in, a settled place for thee to abide in for ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I have indeed built You an exalted house, a place for You to dwell forever.”
 > $\quad$ referenced by: [[Acts.7.47|Acts 7:47]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to build>  |**<big>&#8207;[[H1129\|בָּנֹ֥ה]]&#8207; </big>**| ba.Noh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have built  |**<big>&#8207;[[H1129\|בָנִ֛יתִי]]&#8207; </big>**| va.Ni.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

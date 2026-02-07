@@ -1,10 +1,7 @@
 **LXX Genesis 9:3** 
 <small><sub>**LXX:**</sub></small>
 And every reptile which is living shall be to you for food; as I have given all vegetation of grass to you. 
-<small><sub>**KJV:**</sub></small>
-Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things.
-<small><sub>**BSB:**</sub></small>
-Everything that lives and moves will be food for you; just as I gave you the green plants, I now give you all things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.2|<< Genesis 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.4|Genesis 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

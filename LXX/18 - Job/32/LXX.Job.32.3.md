@@ -1,10 +1,7 @@
 **LXX Job 32:3** 
 <small><sub>**LXX:**</sub></small>
 But even against the three friends he was provoked to anger exceedingly, for they were not able to answer contrary to Job; and they established him to be an impious man. 
-<small><sub>**KJV:**</sub></small>
-Also against his three friends was his wrath kindled, because they had found no answer, and [yet] had condemned Job.
-<small><sub>**BSB:**</sub></small>
-and he burned with anger against Job’s three friends because they had failed to refute Job, and yet had condemned him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.32.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.32.2|<< Job 32:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.4|Job 32:4 >>]]</td></tr></table>
 
 | Translation | Greek |

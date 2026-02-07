@@ -1,4 +1,4 @@
-**Numbers 19:11** 
+**Numbers 19:11**<big><big>[[Num.19.11 Purification of the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that toucheth the dead body of any man shall be unclean seven days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever touches any dead body will be unclean for seven days.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.10|<< Numbers 19:10]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.12|Numbers 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one who] touches  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5060\|נֹּגֵ֥עַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.Ge.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> a dead [body]  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4191\|מֵ֖ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Met<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

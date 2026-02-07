@@ -1,12 +1,12 @@
-**John 15:2
-**<small><sub>**KJV:**</sub></small>
+**John 15:2**<big><big>[[John.15.1 Jesus the True Vine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Every branch in me that beareth not fruit he taketh away: and every [branch] that beareth fruit, he purgeth it, that it may bring forth more fruit.
 <small><sub>**BSB:**</sub></small>
 He cuts off every branch in Me that bears no fruit, and every branch that does bear fruit, He prunes to make it even more fruitful.
 <small><sub>**Literal:**</sub></small>
 Every branch in Me myself not bearing fruit He takes away it, and every one <the> fruit bearing He prunes it that fruit more it may bear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.1|<< John 15:1]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.3|John 15:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | branch |**<big>[[G2814\|κλῆμα]]</big>**  |klēma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

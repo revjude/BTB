@@ -1,10 +1,7 @@
 **LXX Judges 16:28** 
 <small><sub>**LXX:**</sub></small>
 And Samson yelled to \[the\] <span class="smallcaps">lord</span>, and said, O <span class="smallcaps">lord</span>, O <span class="smallcaps">lord</span>, remember me, and strengthen me indeed besides! even  this once O God, and I will avenge one vengeance against  the Philistines for my two eyes. 
-<small><sub>**KJV:**</sub></small>
-And Samson called unto the LORD, and said, O Lord GOD, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God, that I may be at once avenged of the Philistines for my two eyes.
-<small><sub>**BSB:**</sub></small>
-Then Samson called out to the LORD: “O Lord GOD, please remember me. Strengthen me, O God, just once more, so that with one vengeful blow I may pay back the Philistines for my two eyes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.27|<< Judges 16:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.29|Judges 16:29 >>]]</td></tr></table>
 
 | Translation | Greek |

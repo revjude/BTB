@@ -1,4 +1,4 @@
-**2 Samuel 21:7** 
+**2 Samuel 21:7**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD’S oath that [was] between them, between David and Jonathan the son of Saul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the king spared Mephibosheth son of Jonathan, the son of Saul, because of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.6|<< 2 Samuel 21:6]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.8|2 Samuel 21:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had compassion  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2550\|יַּחְמֹ֣ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.Mol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֔לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

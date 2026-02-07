@@ -1,4 +1,4 @@
-**Numbers 7:19** 
+**Numbers 7:19**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He offered [for] his offering one silver charger, the weight whereof [was] an hundred and thirty [shekels], one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The offering he presented was one silver platter weighing a hundred and thirty s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.18|<< Numbers 7:18]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.20|Numbers 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he brought near  |**<big>&#8207;[[H7126H\|הִקְרִ֨ב]]&#8207; </big>**| hik.Riv<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

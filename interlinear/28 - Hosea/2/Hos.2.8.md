@@ -1,4 +1,4 @@
-**Hosea 2:8** (2:10)
+**Hosea 2:8**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, [which] they prepared for Baal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For she does not acknowledge that it was I who gave her grain, new wine, and oil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.7|<< Hosea 2:7]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.9|Hosea 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|הִיא֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 23:14** 
+**Exodus 23:14**<big><big>[[Exod.23.14 The Three Feasts of Pilgrimage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Three times thou shalt keep a feast unto me in the year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Three times a year you are to celebrate a feast to Me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.13|<< Exodus 23:13]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.15|Exodus 23:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | three  |**<big>&#8207;[[H7969\|שָׁלֹ֣שׁ]]&#8207; </big>**| sha.Losh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | feet  |**<big>&#8207;[[H7272\|רְגָלִ֔ים]]&#8207; </big>**| re.ga.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

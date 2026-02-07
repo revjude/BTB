@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:5** 
 <small><sub>**LXX:**</sub></small>
 And I said to the king, If \[it be\] upon the king \[for\] good, and if your servant shall seem good before you, so as to send him to Judah, to \[the\] city of \[the\] sepulchres of my fathers, then I will rebuild it. 
-<small><sub>**KJV:**</sub></small>
-And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ sepulchres, that I may build it.
-<small><sub>**BSB:**</sub></small>
-and answered the king, “If it pleases the king, and if your servant has found favor in your sight, I ask that you send me to Judah, to the city where my fathers are buried, so that I may rebuild it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.4|<< Nehemiah 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.6|Nehemiah 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

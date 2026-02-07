@@ -1,4 +1,4 @@
-**Ezekiel 9:1** 
+**Ezekiel 9:1**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man [with] his destroying weapon in his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I heard Him call out in a loud voice, saying, “Draw near, O executioners 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.18|<< Ezekiel 8:18]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.2|Ezekiel 9:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121I\|יִּקְרָ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in ears my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0241I\|אָזְנַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'a.ze.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

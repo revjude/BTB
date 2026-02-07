@@ -1,4 +1,4 @@
-**Job 33:27** 
+**Job 33:27**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He looketh upon men, and [if any] say, I have sinned, and perverted [that which was] right, and it profited me not;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he sings before men with these words: ‘I have sinned and perverted what w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.26|<< Job 33:26]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.28|Job 33:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he watches  |**<big>&#8207;[[H7789\|יָשֹׁ֤ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Shor<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 2:19** 
+**Daniel 2:19**<big><big>[[Dan.2.14 The Dream Revealed to Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During the night, the mystery was revealed to Daniel in a vision, and he blessed
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.18|<< Daniel 2:18]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.20|Daniel 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֗יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Daniel  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1841H\|דָנִיֵּ֛אל]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

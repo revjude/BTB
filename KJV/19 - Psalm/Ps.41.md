@@ -1,6 +1,6 @@
 (KJV) **Psalm 41**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40|<< Psalm 40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42|Psalm 42 >>]]</td></tr></table>
 
-***Victory over Betrayal*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[John.13|John 13:18–30]] ]</sup></small> ^bsb1334
+<big><big>[[Ps.41.1 Victory over Betrayal|⥃]]</big></big>***Victory over Betrayal*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[John.13|John 13:18–30]] ]</sup></small>
 
 
 

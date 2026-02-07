@@ -1,4 +1,4 @@
-**2 Chronicles 7:7** 
+**2 Chronicles 7:7**<big><big>[[2Chr.7.4 Sacrifices of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Solomon hallowed the middle of the court that [was] before the house of the LORD: for there he offered burnt offerings, and the fat of the peace offerings, because the brasen altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings, and the fat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Solomon consecrated the middle of the courtyard in front of the house of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.6|<< 2 Chronicles 7:6]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.8|2 Chronicles 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he consecrated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6942G\|יְקַדֵּ֣שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ka.Desh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֗ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

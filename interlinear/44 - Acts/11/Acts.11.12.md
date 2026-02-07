@@ -1,12 +1,12 @@
-**Acts 11:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:12**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man’s house:
 <small><sub>**BSB:**</sub></small>
 The Spirit told me to accompany them without hesitation. These six brothers also went with me, and we entered the man’s home.
 <small><sub>**Literal:**</sub></small>
 Told now the Spirit to me to go with them not having discriminated. Went now with me myself also <the> six brothers these, and we entered into the house of the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.11|<< Acts 11:11]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.13|Acts 11:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Told |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 1:3** 
+**Isaiah 1:3**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ox knoweth his owner, and the ass his master’s crib: [but] Israel doth not know, my people doth not consider.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The ox knows its owner, and the donkey its master’s manger, but Israel does no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.2|<< Isaiah 1:2]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.4|Isaiah 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it knows  |**<big>&#8207;[[H3045\|יָדַ֥ע]]&#8207; </big>**| ya.Da'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an ox  |**<big>&#8207;[[H7794\|שׁוֹר֙]]&#8207; </big>**| shOr<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

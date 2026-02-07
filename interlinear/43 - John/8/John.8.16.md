@@ -1,12 +1,12 @@
-**John 8:16
-**<small><sub>**KJV:**</sub></small>
+**John 8:16**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.
 <small><sub>**BSB:**</sub></small>
 But even if I do judge, My judgment is true, because I am not alone; I am with the Father who sent Me.
 <small><sub>**Literal:**</sub></small>
 And if shall judge however I myself, <the> judgment <the> My true is, because alone not I am, but I myself and the having sent Me Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.15|<< John 8:15]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.17|John 8:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

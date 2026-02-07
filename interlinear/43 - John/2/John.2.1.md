@@ -1,12 +1,12 @@
-**John 2:1
-**<small><sub>**KJV:**</sub></small>
+**John 2:1**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:
 <small><sub>**BSB:**</sub></small>
 On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there,
 <small><sub>**Literal:**</sub></small>
 And on the day <the> third a wedding took place in Cana <the> of Galilee, and was the mother <the> of Jesus there;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.51|<< John 1:51]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.2|John 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

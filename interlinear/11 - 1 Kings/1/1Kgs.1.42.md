@@ -1,4 +1,4 @@
-**1 Kings 1:42** 
+**1 Kings 1:42**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And while he yet spake, behold, Jonathan the son of Abiathar the priest came: and Adonijah said unto him, Come in; for thou [art] a valiant man, and bringest good tidings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As he was speaking, suddenly Jonathan the son of Abiathar the priest arrived. �
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.41|<< 1 Kings 1:41]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.43|1 Kings 1:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | still he  |**<big>&#8207;[[H5750\|עוֹדֶ֣]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207; </big>**| o.De.<small><sup>[[HAcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] speaking  |**<big>&#8207;[[H1696G\|מְדַבֵּ֔ר]]&#8207; </big>**| me.da.Ber<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

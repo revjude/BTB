@@ -1,10 +1,7 @@
 **LXX Numbers 29:14** 
 <small><sub>**LXX:**</sub></small>
  Their sacrifice \[offerings\] \[shall be\] of fine flour being prepared in olive oil -- three tenths to the one calf for the thirteen calves; and two tenths to the one ram for the two rams; 
-<small><sub>**KJV:**</sub></small>
-And their meat offering [shall be of] flour mingled with oil, three tenth deals unto every bullock of the thirteen bullocks, two tenth deals to each ram of the two rams,
-<small><sub>**BSB:**</sub></small>
-along with the grain offering of three-tenths of an ephah of fine flour mixed with oil with each of the thirteen bulls, two-tenths of an ephah with each of the two rams,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.13|<< Numbers 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.15|Numbers 29:15 >>]]</td></tr></table>
 
 | Translation | Greek |

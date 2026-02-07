@@ -1,4 +1,4 @@
-**Isaiah 64:4** (64:3)
+**Isaiah 64:4**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For since the beginning of the world [men] have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside thee, [what] he hath prepared for him that waiteth for him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ From ancient times no one has heard, no ear has perceived, no eye has seen any G
 > $\quad$ referenced by: [[1Cor.2.9|1Cor 2:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from long ago  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5769J\|עוֹלָ֥ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

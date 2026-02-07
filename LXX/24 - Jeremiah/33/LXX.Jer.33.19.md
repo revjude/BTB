@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:19** 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Jeremiah, saying, 
-<small><sub>**KJV:**</sub></small>
-And the word of the LORD came unto Jeremiah, saying,
-<small><sub>**BSB:**</sub></small>
-And the word of the LORD came to Jeremiah:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.18|<< Jeremiah 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.20|Jeremiah 33:20 >>]]</td></tr></table>
 
 | Translation | Greek |

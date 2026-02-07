@@ -1,4 +1,4 @@
-**Numbers 15:25** 
+**Numbers 15:25**<big><big>[[Num.15.22 Offerings for Unintentional Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall make an atonement for all the congregation of the children of Israel, and it shall be forgiven them; for it [is] ignorance: and they shall bring their offering, a sacrifice made by fire unto the LORD, and their sin offering before the LORD, for their ignorance:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest is to make atonement for the whole congregation of Israel, so that th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.24|<< Numbers 15:24]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.26|Numbers 15:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make atonement  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3722A\|כִפֶּ֣ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.Per<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֗ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

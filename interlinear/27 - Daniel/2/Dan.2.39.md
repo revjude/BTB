@@ -1,4 +1,4 @@
-**Daniel 2:39** 
+**Daniel 2:39**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But after you, there will arise another kingdom, inferior to yours. Next, a thir
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.38|<< Daniel 2:38]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.40|Daniel 2:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after you  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0870\|בָתְרָ֗]]&#8207;&#8207;[[H9021\|ךְ]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> va.te.Ra<small><sup>[[ANcbsc]]</sup></small> kh<small><sup>[[ASp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will arise  |**<big>&#8207;[[H6966G\|תְּק֛וּם]]&#8207; </big>**| te.Kum<small><sup>[[AVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

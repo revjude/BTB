@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> added \[again\] to call Samuel a third \[time\]. And he rose up and went to Eli. And said, Behold, \[it is\] I, for you have called me. And Eli discerned that \[the\] <span class="smallcaps">lord</span> has called the boy. 
-<small><sub>**KJV:**</sub></small>
-And the LORD called Samuel again the third time. And he arose and went to Eli, and said, Here [am] I; for thou didst call me. And Eli perceived that the LORD had called the child.
-<small><sub>**BSB:**</sub></small>
-Once again, for the third time, the LORD called to Samuel. He got up, went to Eli, and said, “Here I am, for you have called me.” Then Eli realized that it was the LORD who was calling the boy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.7|<< 1 Samuel 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.9|1 Samuel 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joab son of Zeruiah knew that the heart of the king \[was\] towards Absalom. 
-<small><sub>**KJV:**</sub></small>
-Now Joab the son of Zeruiah perceived that the king’s heart [was] toward Absalom.
-<small><sub>**BSB:**</sub></small>
-Now Joab son of Zeruiah perceived that the king’s heart longed for Absalom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.39|<< 2 Samuel 13:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.2|2 Samuel 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

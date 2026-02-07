@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:29** 
 <small><sub>**LXX:**</sub></small>
 For your eyes to be open towards  this house day and night, to  this place which you said, My name shall be there.  To listen to the prayer which your servant prays in  this place. 
-<small><sub>**KJV:**</sub></small>
-That thine eyes may be open toward this house night and day, [even] toward the place of which thou hast said, My name shall be there: that thou mayest hearken unto the prayer which thy servant shall make toward this place.
-<small><sub>**BSB:**</sub></small>
-May Your eyes be open toward this temple night and day, toward the place of which You said, ‘My Name shall be there,’ so that You may hear the prayer that Your servant prays toward this place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.28|<< 1 Kings 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.30|1 Kings 8:30 >>]]</td></tr></table>
 
 | Translation | Greek |

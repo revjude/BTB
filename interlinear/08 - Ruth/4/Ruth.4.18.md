@@ -1,4 +1,4 @@
-**Ruth 4:18** 
+**Ruth 4:18**<big><big>[[Ruth.4.18 The Line of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the generations of Pharez: Pharez begat Hezron,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now these are the generations of Perez: Perez was the father of Hezron,
 > $\quad$ referenced by: [[Matt.1.3|Matt 1:3-6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] descendants of  |**<big>&#8207;[[H8435\|תּוֹלְד֣וֹת]]&#8207; </big>**| tol.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

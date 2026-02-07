@@ -1,10 +1,7 @@
 **LXX Numbers 22:27** 
 <small><sub>**LXX:**</sub></small>
 And the donkey seeing the angel  of God, sat down underneath Balaam. And Balaam became enraged, and beat the donkey with the rod. 
-<small><sub>**KJV:**</sub></small>
-And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam’s anger was kindled, and he smote the ass with a staff.
-<small><sub>**BSB:**</sub></small>
-When the donkey saw the angel of the LORD, she lay down under Balaam, and he became furious and beat her with his staff.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.26|<< Numbers 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.28|Numbers 22:28 >>]]</td></tr></table>
 
 | Translation | Greek |

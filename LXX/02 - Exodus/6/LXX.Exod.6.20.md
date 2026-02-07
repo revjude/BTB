@@ -1,10 +1,7 @@
 **LXX Exodus 6:20** 
 <small><sub>**LXX:**</sub></small>
 And Amram took  Jochebed daughter of the brother  of his father to himself for a wife. And she bore to him  also Aaron, and Moses, and Miriam  their sister. And the years of the life of Amram -- a hundred thirty-seven years. 
-<small><sub>**KJV:**</sub></small>
-And Amram took him Jochebed his father’s sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram [were] an hundred and thirty and seven years.
-<small><sub>**BSB:**</sub></small>
-And Amram married his father’s sister Jochebed, and she bore him Aaron and Moses. Amram lived 137 years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.19|<< Exodus 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.21|Exodus 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 8:2** (8:3)
+**Psalms 8:2**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ From the mouths of children and infants You have ordained praise on account of Y
 > $\quad$ referenced by: [[Matt.21.16|Matt 21:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] mouth of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6310G\|פִּ֤י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children  |**<big>&#8207;[[H5768\|עֽוֹלְלִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

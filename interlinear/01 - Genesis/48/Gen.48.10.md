@@ -1,4 +1,4 @@
-**Genesis 48:10** 
+**Genesis 48:10**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the eyes of Israel were dim for age, [so that] he could not see. And he brought them near unto him; and he kissed them, and embraced them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Israel’s eyesight was poor because of old age; he could hardly see. Joseph
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.9|<< Genesis 48:9]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.11|Genesis 48:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] eyes of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5869A\|עֵינֵ֤י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵל֙]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

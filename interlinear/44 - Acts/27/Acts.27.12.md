@@ -1,12 +1,12 @@
-**Acts 27:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:12**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, [and there] to winter; [which is] an haven of Crete, and lieth toward the south west and north west.
 <small><sub>**BSB:**</sub></small>
 Since the harbor was unsuitable to winter in, the majority decided to sail on, hoping that somehow they could reach Phoenix to winter there. Phoenix was a harbor in Crete facing both southwest and northwest.
 <small><sub>**Literal:**</sub></small>
 Unsuitable now the harbor being to winter in the majority reached a decision to set sail from there, if somehow they would be able having arrived at Phoenix to winter [there] — a harbor <the> of Crete looking toward [the] southwest and toward [the] northwest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.11|<< Acts 27:11]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.13|Acts 27:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Unsuitable |**<big>[[G0428\|Ἀνευθέτου]]</big>**  |Aneuthetou <small><sup>[[A-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

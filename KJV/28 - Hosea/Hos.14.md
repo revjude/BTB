@@ -1,10 +1,10 @@
 (KJV) **Hosea 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13|<< Hosea 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1|Joel 1 >>]]</td></tr></table>
 
-***A Call to Repentance***&emsp;<small><sup>\[ [[Jer.3|Jeremiah 3:11–25]] <big>†</big> [[Zech.1|Zechariah 1:1–6]] ]</sup></small> ^bsb1988
+<big><big>[[Hos.14.1 A Call to Repentance|⥃]]</big></big>***A Call to Repentance***&emsp;<small><sup>\[ [[Jer.3|Jeremiah 3:11–25]] <big>†</big> [[Zech.1|Zechariah 1:1–6]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Hos.14.1|1]]**<span class="endversemarker">]</span> O Israel, return<small><small>[^2]</small></small> unto the <span class="smallcaps">Lord</span> thy God; for thou<small><small>[^3]</small></small> hast fallen by thine iniquity. <span class="startversemarker">[</span>**[[Hos.14.2|2]]**<span class="endversemarker">]</span> Take with you words, and turn to the <span class="smallcaps">Lord</span>: say unto him, Take away<small><small>[^4]</small></small> all iniquity, and receive<small><small>[^5]</small></small> \[us\] graciously: so will we render the calves<small><small>[^6]</small></small> of our lips.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Hos.14.3|3]]**<span class="endversemarker">]</span> Asshur<small><small>[^8]</small></small> shall not save us; we will not<small><small>[^9]</small></small> ride upon horses: neither<small><small>[^10]</small></small> will we say any more to the work of our hands, \[Ye are\] our gods: for<small><small>[^11]</small></small> in thee the fatherless findeth mercy.
 
-***A Promise of God’s Blessing*** ^bsb1989
+<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥃]]</big></big>***A Promise of God’s Blessing***
 
  
 

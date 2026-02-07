@@ -1,10 +1,7 @@
 **LXX Judges 3:20** 
 <small><sub>**LXX:**</sub></small>
 And Ehud entered to him, and he sat in  his upper harvest \[room\] alone. And Ehud said, \[There is\] a word of God with me to you, O king. And Eglon rose up from the throne near him. 
-<small><sub>**KJV:**</sub></small>
-And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of [his] seat.
-<small><sub>**BSB:**</sub></small>
-Then Ehud approached him while he was sitting alone in the coolness of his upper room. “I have a word from God for you,” Ehud said, and the king rose from his seat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.19|<< Judges 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.21|Judges 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

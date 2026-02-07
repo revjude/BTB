@@ -1,10 +1,7 @@
 **LXX Ezra 10:25** 
 <small><sub>**LXX:**</sub></small>
 And of Israel, of \[the\] sons of Parosh -- Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah. 
-<small><sub>**KJV:**</sub></small>
-Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.
-<small><sub>**BSB:**</sub></small>
-And among the other Israelites, from the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.24|<< Ezra 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.26|Ezra 10:26 >>]]</td></tr></table>
 
 | Translation | Greek |

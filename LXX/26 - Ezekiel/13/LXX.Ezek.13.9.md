@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:9** 
 <small><sub>**LXX:**</sub></small>
 And I will stretch out  my hand against the prophets, of the ones seeing false \[visions\], and the ones declaring vain \[things\] in instruction  of my people. They will not be, nor shall they be written among \[the\] writing of \[the\] house of Israel, and into the land  of Israel they shall not enter; and they shall know that I \[am\] Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And mine hand shall be upon the prophets that see vanity, and that divine lies: they shall not be in the assembly of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I [am] the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-My hand will be against the prophets who see false visions and speak lying divinations. They will not belong to the council of My people or be recorded in the register of the house of Israel, nor will they enter the land of Israel. Then you will know that I am the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.8|<< Ezekiel 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.10|Ezekiel 13:10 >>]]</td></tr></table>
 
 | Translation | Greek |

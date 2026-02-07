@@ -1,10 +1,7 @@
 **LXX Malachi 3:17** 
 <small><sub>**LXX:**</sub></small>
 And they will be to me, says \[the\] <span class="smallcaps">lord</span> almighty, in \[the\] day which I prepare for a procurement. And I will select them in which manner a man selects  his son, the one serving to him. 
-<small><sub>**KJV:**</sub></small>
-And they shall be mine, saith the LORD of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.
-<small><sub>**BSB:**</sub></small>
-“They will be Mine,” says the LORD of Hosts, “on the day when I prepare My treasured possession. And I will spare them as a man spares his own son who serves him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.16|<< Malachi 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.18|Malachi 3:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Malachi 3:17** is...

@@ -1,10 +1,7 @@
 **LXX Proverbs 18:22** 
 <small><sub>**LXX:**</sub></small>
 The one who found a good wife, found favors; and he received happiness from \[the\] <span class="smallcaps">lord</span>. \[The\] one who casts out a good woman, casts out  good \[things\]; but \[the\] one holding on to an adulteress \[is\] foolish and impious. 
-<small><sub>**KJV:**</sub></small>
-[Whoso] findeth a wife findeth a good [thing], and obtaineth favour of the LORD.
-<small><sub>**BSB:**</sub></small>
-He who finds a wife finds a good thing and obtains favor from the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.21|<< Proverbs 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.23|Proverbs 18:23 >>]]</td></tr></table>
 
 | Translation | Greek |

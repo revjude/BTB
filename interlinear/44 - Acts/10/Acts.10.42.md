@@ -1,12 +1,12 @@
-**Acts 10:42
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:42**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he commanded us to preach unto the people, and to testify that it is he which was ordained of God [to be] the Judge of quick and dead.
 <small><sub>**BSB:**</sub></small>
 And He commanded us to preach to the people and to testify that He is the One appointed by God to judge the living and the dead.
 <small><sub>**Literal:**</sub></small>
 And He instructed us to proclaim to the people and to testify fully that He is the [One] appointed by <the> God [as] judge of living and dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.41|<< Acts 10:41]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.43|Acts 10:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He instructed |**<big>[[G3853\|παρήγγειλεν]]</big>**  |parēngeilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

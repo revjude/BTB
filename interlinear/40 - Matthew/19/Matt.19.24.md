@@ -1,12 +1,12 @@
-**Matthew 19:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:24**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Again I tell you, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”
 <small><sub>**Literal:**</sub></small>
 Again now I say to you; easier for [it] is a camel through [the] an eye of a needle to go through than a rich man to enter into the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.23|<< Matthew 19:23]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.25|Matthew 19:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Again |**<big>[[G3825\|Πάλιν]]</big>**  |Palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Romans 11:30
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:30**<big><big>[[Rom.11.25 All Israel Will Be Saved|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as ye in times past have not believed God, yet have now obtained mercy through their unbelief:
 <small><sub>**BSB:**</sub></small>
 Just as you who formerly disobeyed God have now received mercy through their disobedience,
 <small><sub>**Literal:**</sub></small>
 Just as for and you yourselves once were disobedient <the> to God now however were shown mercy to them through their disobedience,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.29|<< Romans 11:29]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.31|Romans 11:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Just as |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

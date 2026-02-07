@@ -1,4 +1,4 @@
-**Ecclesiastes 7:23** 
+**Ecclesiastes 7:23**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All this have I proved by wisdom: I said, I will be wise; but it [was] far from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All this I tested by wisdom, saying, “I resolve to be wise.” But it was beyo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.22|<< Ecclesiastes 7:22]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.24|Ecclesiastes 7:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2090\|זֹ֖ה]]&#8207; </big>**| zoh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

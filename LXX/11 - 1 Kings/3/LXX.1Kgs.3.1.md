@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the kingdom solidified in \[the\] hand  of Solomon. And Solomon contracted a marriage \[with\] Pharaoh king of Egypt. And he took the daughter of Pharaoh, and he brought her into the city of David, until  he completed building  his house, and the house of \[the\] <span class="smallcaps">lord</span> at first, and the wall of Jerusalem round about. 
-<small><sub>**KJV:**</sub></small>
-And Solomon made affinity with Pharaoh king of Egypt, and took Pharaoh’s daughter, and brought her into the city of David, until he had made an end of building his own house, and the house of the LORD, and the wall of Jerusalem round about.
-<small><sub>**BSB:**</sub></small>
-Later, Solomon formed an alliance with Pharaoh king of Egypt by marrying his daughter. Solomon brought her to the City of David until he had finished building his palace and the house of the LORD, as well as the wall around Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.46|<< 1 Kings 2:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.2|1 Kings 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

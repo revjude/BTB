@@ -1,12 +1,12 @@
-**Matthew 24:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:24**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if [it were] possible, they shall deceive the very elect.
 <small><sub>**BSB:**</sub></small>
 For false Christs and false prophets will appear and perform great signs and wonders to deceive even the elect, if that were possible.
 <small><sub>**Literal:**</sub></small>
 There will arise for false Christs and false prophets and they will give signs great and wonders so as to mislead if possible even the elect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.23|<< Matthew 24:23]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.25|Matthew 24:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There will arise |**<big>[[G1453\|ἐγερθήσονται]]</big>**  |egerthēsontai <small><sup>[[V-FPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

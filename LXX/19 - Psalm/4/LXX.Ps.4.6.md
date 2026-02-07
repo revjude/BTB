@@ -1,10 +1,7 @@
 **LXX Psalm 4:6** 
 <small><sub>**LXX:**</sub></small>
 Many say, Who shall show to us  good \[things\]? The light of your face was signified to us, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-[There be] many that say, Who will shew us [any] good? LORD, lift thou up the light of thy countenance upon us.
-<small><sub>**BSB:**</sub></small>
-Many ask, “Who can show us the good?” Shine the light of Your face upon us, O LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.4.5|<< Psalm 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.4.7|Psalm 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

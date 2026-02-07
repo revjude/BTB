@@ -1,4 +1,4 @@
-**Exodus 9:35** 
+**Exodus 9:35**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Pharaoh’s heart was hardened, and he would not let the Israelites go, just 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.34|<< Exodus 9:34]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.1|Exodus 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was strong  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2388G\|יֶּחֱזַק֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.che.Zak<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heart of  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 9:23** (9:22)
+**Jeremiah 9:23**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Let not the wise [man] glory in his wisdom, neither let the mighty [man] glory in his might, let not the rich [man] glory in his riches:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is what the LORD says: “Let not the wise man boast in his wisdom, nor the
 > $\quad$ referenced by: [[1Cor.1.31|1Cor 1:31]] ☩ [[2Cor.10.17|2Cor 10:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

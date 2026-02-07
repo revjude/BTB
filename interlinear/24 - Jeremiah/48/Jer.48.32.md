@@ -1,4 +1,4 @@
-**Jeremiah 48:32** 
+**Jeremiah 48:32**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O vine of Sibmah, I will weep for thee with the weeping of Jazer: thy plants are gone over the sea, they reach [even] to the sea of Jazer: the spoiler is fallen upon thy summer fruits and upon thy vintage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will weep for you, O vine of Sibmah, more than I weep for Jazer. Your tendrils
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.31|<< Jeremiah 48:31]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.33|Jeremiah 48:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | more than [the] weeping of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1065\|בְּכִ֨י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> be.Khi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jazer  |**<big>&#8207;[[H3270G\|יַעְזֵ֤ר]]&#8207; </big>**| ya'.Zer<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

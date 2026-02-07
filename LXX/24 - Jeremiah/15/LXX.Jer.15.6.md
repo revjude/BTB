@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:6** 
 <small><sub>**LXX:**</sub></small>
 You turned from me, says \[the\] <span class="smallcaps">lord</span>; you shall go back. And I will stretch out  my hand, and I shall utterly destroy you; and no longer shall I spare them. 
-<small><sub>**KJV:**</sub></small>
-Thou hast forsaken me, saith the LORD, thou art gone backward: therefore will I stretch out my hand against thee, and destroy thee; I am weary with repenting.
-<small><sub>**BSB:**</sub></small>
-You have forsaken Me, declares the LORD. You have turned your back. So I will stretch out My hand against you and I will destroy you; I am weary of showing compassion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.5|<< Jeremiah 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.7|Jeremiah 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

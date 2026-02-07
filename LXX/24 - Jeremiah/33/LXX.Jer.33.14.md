@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:14** 
 <small><sub>**LXX:**</sub></small>
 Behold days come, says \[the\] <span class="smallcaps">lord</span>, and I will raise up the good word which I spoke over the house of Israel and over the house of Judah. 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, saith the LORD, that I will perform that good thing which I have promised unto the house of Israel and to the house of Judah.
-<small><sub>**BSB:**</sub></small>
-Behold, the days are coming, declares the LORD, when I will fulfill the gracious promise that I have spoken to the house of Israel and the house of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.13|<< Jeremiah 33:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.15|Jeremiah 33:15 >>]]</td></tr></table>
 
 | Translation | Greek |

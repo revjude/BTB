@@ -1,4 +1,4 @@
-**Proverbs 16:17** 
+**Proverbs 16:17**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The highway of the upright [is] to depart from evil: he that keepeth his way preserveth his soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The highway of the upright leads away from evil; he who guards his way protects 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.16|<< Proverbs 16:16]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.18|Proverbs 16:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] highway of  |**<big>&#8207;[[H4546\|מְסִלַּ֣ת]]&#8207; </big>**| me.si.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | upright [people]  |**<big>&#8207;[[H3477G\|יְ֭שָׁרִים]]&#8207; </big>**| Ye.sha.rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

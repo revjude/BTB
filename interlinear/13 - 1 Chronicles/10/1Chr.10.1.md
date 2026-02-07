@@ -1,4 +1,4 @@
-**1 Chronicles 10:1** 
+**1 Chronicles 10:1**<big><big>[[1Chr.10.1 Saul’s Overthrow and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the Philistines fought against Israel, and the men of Israel fled before the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.44|<< 1 Chronicles 9:44]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.2|1 Chronicles 10:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] Philistines  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6430G\|פְלִשְׁתִּ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they fought  |**<big>&#8207;[[H3898A\|נִלְחֲמ֣וּ]]&#8207; </big>**| nil.cha.Mu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 8:2** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, I have been zealous  for Jerusalem and  Zion \[with\] a great zeal; even \[with\] great rage I have been zealous over her. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: “I am jealous for Zion with great zeal; I am jealous for her with great fervor.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.1|<< Zechariah 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.3|Zechariah 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 12:8** 
+**2 Chronicles 12:8**<big><big>[[2Chr.12.1 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless they shall be his servants; that they may know my service, and the service of the kingdoms of the countries.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, they will become his servants, so that they may learn the differen
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.7|<< 2 Chronicles 12:7]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.9|2 Chronicles 12:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will become  |**<big>&#8207;[[H1961\|יִהְיוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yih.yu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

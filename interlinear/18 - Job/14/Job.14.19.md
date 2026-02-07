@@ -1,4 +1,4 @@
-**Job 14:19** 
+**Job 14:19**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The waters wear the stones: thou washest away the things which grow [out] of the dust of the earth; and thou destroyest the hope of man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as water wears away the stones and torrents wash away the soil, so You destroy a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.18|<< Job 14:18]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.20|Job 14:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | stones  |**<big>&#8207;[[H0068G\|אֲבָנִ֤ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they rub away  |**<big>&#8207;[[H7833\|שָׁ֥חֲקוּ]]&#8207; </big>**| Sha.cha.ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

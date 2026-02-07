@@ -1,10 +1,7 @@
 **LXX Psalm 74:12** 
 <small><sub>**LXX:**</sub></small>
  But God our king \[is\] before \[the\] eon. He worked deliverance in \[the\] midst of the earth. 
-<small><sub>**KJV:**</sub></small>
-For God [is] my King of old, working salvation in the midst of the earth.
-<small><sub>**BSB:**</sub></small>
-Yet God is my King from ancient times, working salvation on the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.11|<< Psalm 74:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.13|Psalm 74:13 >>]]</td></tr></table>
 
 | Translation | Greek |

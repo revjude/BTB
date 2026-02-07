@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:2** 
 <small><sub>**LXX:**</sub></small>
 And there were some saying, With our sons and with our daughters we \[are\] many; and we shall take grain, and shall eat and shall live. 
-<small><sub>**KJV:**</sub></small>
-For there were that said, We, our sons, and our daughters, [are] many: therefore we take up corn [for them], that we may eat, and live.
-<small><sub>**BSB:**</sub></small>
-Some were saying, “We and our sons and daughters are numerous. We must get grain in order to eat and stay alive.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.1|<< Nehemiah 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.3|Nehemiah 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

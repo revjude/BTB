@@ -1,4 +1,4 @@
-**2 Chronicles 27:9** 
+**2 Chronicles 27:9**<big><big>[[2Chr.27.1 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jotham rested with his fathers and was buried in the City of David. And his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27.8|<< 2 Chronicles 27:8]]</td><td align="center" style="border:none;">[[2Chr.27|2 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.1|2 Chronicles 28:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jotham  |**<big>&#8207;[[H3147H\|יוֹתָם֙]]&#8207; </big>**| yo.Tam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

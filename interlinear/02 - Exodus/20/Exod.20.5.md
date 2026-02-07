@@ -1,4 +1,4 @@
-**Exodus 20:5** 
+**Exodus 20:5**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall not bow down to them or worship them; for I, the LORD your God, am a j
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.4|<< Exodus 20:4]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.6|Exodus 20:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must bow down  |**<big>&#8207;[[H7812\|תִשְׁתַּחְוֶ֥֣ה]]&#8207; </big>**[^1] | tish.tach.Veh<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

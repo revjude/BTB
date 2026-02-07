@@ -1,10 +1,7 @@
 **LXX Numbers 3:42** 
 <small><sub>**LXX:**</sub></small>
 And Moses numbered in which manner \[the\] <span class="smallcaps">lord</span> gave charge to him -- every first-born among the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel.
-<small><sub>**BSB:**</sub></small>
-So Moses numbered all the firstborn of the Israelites, as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.41|<< Numbers 3:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.43|Numbers 3:43 >>]]</td></tr></table>
 
 | Translation | Greek |

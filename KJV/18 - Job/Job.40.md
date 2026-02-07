@@ -1,12 +1,12 @@
 (KJV) **Job 40**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39|<< Job 39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41|Job 41 >>]]</td></tr></table>
 
-***Job Humbles Himself before the LORD*** ^bsb1288
+<big><big>[[Job.40.1 Job Humbles Himself before the LORD|⥃]]</big></big>***Job Humbles Himself before the LORD***
 
  $\quad$ <span class="startversemarker">[</span>**[[Job.40.1|1]]**<span class="endversemarker">]</span> Moreover the <span class="smallcaps">Lord</span> answered Job, and said,<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Job.40.2|2]]**<span class="endversemarker">]</span> Shall<small><small>[^3]</small></small> he that contendeth with the Almighty instruct<small><small>[^4]</small></small> \[him\]? he that reproveth<small><small>[^5]</small></small> God, let him answer it. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Job.40.3|3]]**<span class="endversemarker">]</span> [¶]Then Job answered the <span class="smallcaps">Lord</span>, and said, <span class="startversemarker">[</span>**[[Job.40.4|4]]**<span class="endversemarker">]</span> Behold<small><small>[^6]</small></small>, I am vile; what<small><small>[^7]</small></small> shall I answer thee? I will<small><small>[^8]</small></small> lay mine hand upon my mouth. <span class="startversemarker">[</span>**[[Job.40.5|5]]**<span class="endversemarker">]</span> Once have I spoken; but I will not<small><small>[^9]</small></small> answer: yea, twice<small><small>[^10]</small></small>; but I will proceed<small><small>[^11]</small></small> no further.
 
-***The LORD Challenges Job Again*** ^bsb1289
+<big><big>[[Job.40.6 The LORD Challenges Job Again|⥃]]</big></big>***The LORD Challenges Job Again***
 
  
 

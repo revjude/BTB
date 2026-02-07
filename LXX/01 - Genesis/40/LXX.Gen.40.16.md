@@ -1,10 +1,7 @@
 **LXX Genesis 40:16** 
 <small><sub>**LXX:**</sub></small>
 And the chief baker saw that rightly he interpreted, and he said  to Joseph, I also saw a dream, and I imagined three bins of groats, lifted upon  my head. 
-<small><sub>**KJV:**</sub></small>
-When the chief baker saw that the interpretation was good, he said unto Joseph, I also [was] in my dream, and, behold, [I had] three white baskets on my head:
-<small><sub>**BSB:**</sub></small>
-When the chief baker saw that the interpretation was favorable, he said to Joseph, “I too had a dream: There were three baskets of white bread on my head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.15|<< Genesis 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.17|Genesis 40:17 >>]]</td></tr></table>
 
 | Translation | Greek |

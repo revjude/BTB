@@ -1,4 +1,4 @@
-**Amos 3:13** 
+**Amos 3:13**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye, and testify in the house of Jacob, saith the Lord GOD, the God of hosts,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear and testify against the house of Jacob, declares the Lord GOD, the God of H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.12|<< Amos 3:12]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.14|Amos 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְע֥וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and warn  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5749B\|הָעִ֖ידוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.'I.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 6:26** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] value of a harlot \[is\] as much as even one bread loaf; and a woman ensnares \[the\] precious souls of men. 
-<small><sub>**KJV:**</sub></small>
-For by means of a whorish woman [a man is brought] to a piece of bread: and the adulteress will hunt for the precious life.
-<small><sub>**BSB:**</sub></small>
-For the levy of the prostitute is poverty, and the adulteress preys upon your very life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.25|<< Proverbs 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.27|Proverbs 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

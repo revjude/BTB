@@ -1,10 +1,7 @@
 **LXX Genesis 27:32** 
 <small><sub>**LXX:**</sub></small>
 And Isaac his father said to him, Who are you?  And he said, I am  your son, the first-born, Esau. 
-<small><sub>**KJV:**</sub></small>
-And Isaac his father said unto him, Who [art] thou? And he said, I [am] thy son, thy firstborn Esau.
-<small><sub>**BSB:**</sub></small>
-But his father Isaac replied, “Who are you?” “I am Esau, your firstborn son,” he answered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.31|<< Genesis 27:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.33|Genesis 27:33 >>]]</td></tr></table>
 
 | Translation | Greek |

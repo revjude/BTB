@@ -1,4 +1,4 @@
-**Jeremiah 52:22** 
+**Jeremiah 52:22**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a chapiter of brass [was] upon it; and the height of one chapiter [was] five cubits, with network and pomegranates upon the chapiters round about, all [of] brass. The second pillar also and the pomegranates [were] like unto these.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The bronze capital atop one pillar was five cubits high, with a network of bronz
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.21|<< Jeremiah 52:21]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.23|Jeremiah 52:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a capital  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3805\|כֹתֶ֨רֶת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kho.Te.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלָ֜י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

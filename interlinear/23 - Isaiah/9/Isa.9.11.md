@@ -1,4 +1,4 @@
-**Isaiah 9:11** (9:10)
+**Isaiah 9:11**<big><big>[[Isa.9.8 Judgment against Israel’s Pride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the LORD shall set up the adversaries of Rezin against him, and join his enemies together;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has raised up the foes of Rezin against him and joined his enemies toge
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.10|<< Isaiah 9:10]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.12|Isaiah 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set on high  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7682\|יְשַׂגֵּ֧ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.Gev<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

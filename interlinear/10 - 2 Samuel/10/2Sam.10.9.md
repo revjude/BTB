@@ -1,4 +1,4 @@
-**2 Samuel 10:9** 
+**2 Samuel 10:9**<big><big>[[2Sam.10.9 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Joab saw that the front of the battle was against him before and behind, he chose of all the choice [men] of Israel, and put [them] in array against the Syrians:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Joab saw the battle lines before him and behind him, he selected some of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.8|<< 2 Samuel 10:8]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.10|2 Samuel 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֣רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joab  |**<big>&#8207;[[H3097G\|יוֹאָ֗ב]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

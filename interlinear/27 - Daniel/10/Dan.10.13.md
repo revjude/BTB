@@ -1,4 +1,4 @@
-**Daniel 10:13** 
+**Daniel 10:13**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ However, the prince of the kingdom of Persia opposed me for twenty-one days. The
 > $\quad$ referenced by: [[Rev.12.7|Rev 12:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] prince of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שַׂ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] kingdom of  |**<big>&#8207;[[H4438\|מַלְכ֣וּת]]&#8207; </big>**| mal.Khut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

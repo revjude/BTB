@@ -1,4 +1,4 @@
-**Leviticus 11:13** 
+**Leviticus 11:13**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are they which] ye shall have in abomination among the fowls; they shall not be eaten, they [are] an abomination: the eagle, and the ossifrage, and the ospray,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Additionally, you are to detest the following birds, and they must not be eaten 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.12|<< Leviticus 11:12]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.14|Leviticus 11:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| 'e.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 8:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:19**<big><big>[[Luke.8.19 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came to him [his] mother and his brethren, and could not come at him for the press.
 <small><sub>**BSB:**</sub></small>
 Then Jesus’ mother and brothers came to see Him, but they were unable to reach Him because of the crowd.
 <small><sub>**Literal:**</sub></small>
 she came then to Him the mother and the brothers of Him and not they were able to get to Him because of the crowd.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.18|<< Luke 8:18]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.20|Luke 8:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she came [^1] |**<big>[[G3854\|Παρεγένετο]]</big>**  |Paregeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

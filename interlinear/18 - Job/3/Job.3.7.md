@@ -1,4 +1,4 @@
-**Job 3:7** 
+**Job 3:7**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, let that night be solitary, let no joyful voice come therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, may that night be barren; may no joyful voice come into it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.6|<< Job 3:6]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.8|Job 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the night  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3915\|לַּ֣יְלָה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

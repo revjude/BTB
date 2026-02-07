@@ -1,10 +1,7 @@
 **LXX Psalm 31:5** 
 <small><sub>**LXX:**</sub></small>
 Into your hands I shall place  my spirit. You ransomed me, O <span class="smallcaps">lord</span>  God  of truth. 
-<small><sub>**KJV:**</sub></small>
-Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth.
-<small><sub>**BSB:**</sub></small>
-Into Your hands I commit my spirit; You have redeemed me, O LORD, God of truth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.4|<< Psalm 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.6|Psalm 31:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 31:5** is...

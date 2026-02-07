@@ -1,4 +1,4 @@
-**Exodus 40:20** 
+**Exodus 40:20**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took and put the testimony into the ark, and set the staves on the ark, and put the mercy seat above upon the ark:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses took the Testimony and placed it in the ark, attaching the poles to the ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.19|<< Exodus 40:19]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.21|Exodus 40:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֞ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414H\|יִּתֵּ֤ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

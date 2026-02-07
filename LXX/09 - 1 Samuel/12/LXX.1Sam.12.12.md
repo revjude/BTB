@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you beheld that Nahash king of \[the\] sons of Ammon came upon you, and you said, No, but only that a king shall reign over us. And \[the\] <span class="smallcaps">lord</span>  our God \[is\] your king. 
-<small><sub>**KJV:**</sub></small>
-And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the LORD your God [was] your king.
-<small><sub>**BSB:**</sub></small>
-But when you saw that Nahash king of the Ammonites was moving against you, you said to me, ‘No, we must have a king to rule over us’—even though the LORD your God was your king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.11|<< 1 Samuel 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.13|1 Samuel 12:13 >>]]</td></tr></table>
 
 | Translation | Greek |

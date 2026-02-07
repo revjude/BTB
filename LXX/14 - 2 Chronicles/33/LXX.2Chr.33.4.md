@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:4** 
 <small><sub>**LXX:**</sub></small>
 And he built altars in \[the\] house of \[the\] <span class="smallcaps">lord</span>, in which \[the\] <span class="smallcaps">lord</span> said, My name will be in Jerusalem into the eon. 
-<small><sub>**KJV:**</sub></small>
-Also he built altars in the house of the LORD, whereof the LORD had said, In Jerusalem shall my name be for ever.
-<small><sub>**BSB:**</sub></small>
-Manasseh also built altars in the house of the LORD, of which the LORD had said, “My Name will remain in Jerusalem forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.3|<< 2 Chronicles 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.5|2 Chronicles 33:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 15:16
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:16**<big><big>[[Mark.15.16 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the soldiers led him away into the hall, called Praetorium; and they call together the whole band.
 <small><sub>**BSB:**</sub></small>
 Then the soldiers led Jesus away into the palace (that is, the Praetorium) and called the whole company together.
 <small><sub>**Literal:**</sub></small>
 <the> And the soldiers led away him into the palace, that is [the] Praetorium, and they call together all the cohort<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.15|<< Mark 15:15]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.17|Mark 15:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

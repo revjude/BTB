@@ -1,10 +1,7 @@
 **LXX Numbers 34:13** 
 <small><sub>**LXX:**</sub></small>
 And Moses gave charge to the sons of Israel, saying, This is the land which you shall inherit it by lot, in which manner \[the\] <span class="smallcaps">lord</span> gave orders to give it to the nine tribes, and the half tribe of Manasseh. 
-<small><sub>**KJV:**</sub></small>
-And Moses commanded the children of Israel, saying, This [is] the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:
-<small><sub>**BSB:**</sub></small>
-So Moses commanded the Israelites, “Apportion this land by lot as an inheritance. The LORD has commanded that it be given to the nine and a half tribes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.12|<< Numbers 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.14|Numbers 34:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  that time, said \[the\] <span class="smallcaps">lord</span>, I will be for a God to the race of Israel, and they will be to me for a people. 
-<small><sub>**KJV:**</sub></small>
-At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people.
-<small><sub>**BSB:**</sub></small>
-“At that time,” declares the LORD, “I will be the God of all the families of Israel, and they will be My people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.24|<< Jeremiah 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.2|Jeremiah 31:2 >>]]</td></tr></table>
 
 | Translation | Greek |

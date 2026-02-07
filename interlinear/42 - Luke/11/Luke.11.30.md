@@ -1,5 +1,5 @@
-**Luke 11:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:30**<big><big>[[Luke.11.29 The Sign of Jonah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation.
 <small><sub>**BSB:**</sub></small>
 For as Jonah was a sign to the Ninevites, so the Son of Man will be a sign to this generation.
@@ -10,7 +10,7 @@ Even as for was <the> Jonah to the Ninevites a sign thus will be also the Son <t
 > $\quad$ alluding to: [[LXX.Jonah.1.17|Jonah 1:17]] ☩ [[LXX.Jonah.3.1|Jonah 3:1-10]] ☩ [[LXX.Jonah.4.1|Jonah 4:1-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

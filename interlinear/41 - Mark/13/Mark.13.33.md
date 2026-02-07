@@ -1,12 +1,12 @@
-**Mark 13:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:33**<big><big>[[Mark.13.32 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Take ye heed, watch and pray: for ye know not when the time is.
 <small><sub>**BSB:**</sub></small>
 Be on your guard and stay alert! For you do not know when the appointed time will come.
 <small><sub>**Literal:**</sub></small>
 do take heed, do watch and do pray; not you know for when the time is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.32|<< Mark 13:32]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.34|Mark 13:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do take heed, |**<big>[[G0991\|Βλέπετε,]]</big>**  |Blepete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do watch |**<big>[[G0069\|ἀγρυπνεῖτε]]</big>**  |agrupneite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

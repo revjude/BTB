@@ -1,4 +1,4 @@
-**Ezekiel 45:22** 
+**Ezekiel 45:22**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon that day shall the prince prepare for himself and for all the people of the land a bullock [for] a sin offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that day the prince shall provide a bull as a sin offering for himself and fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.21|<< Ezekiel 45:21]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.23|Ezekiel 45:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will provide  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213I\|עָשָׂ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prince  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5387A\|נָּשִׂיא֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

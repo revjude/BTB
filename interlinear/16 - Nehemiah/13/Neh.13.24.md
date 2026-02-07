@@ -1,4 +1,4 @@
-**Nehemiah 13:24** 
+**Nehemiah 13:24**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their children spake half in the speech of Ashdod, and could not speak in the Jews’ language, but according to the language of each people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Half of their children spoke the language of Ashdod or of the other peoples, but
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.23|<< Nehemiah 13:23]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.25|Nehemiah 13:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and children their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | half  |**<big>&#8207;[[H2677\|חֲצִי֙]]&#8207; </big>**| cha.Tzi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

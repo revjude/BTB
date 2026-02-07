@@ -1,10 +1,7 @@
 **LXX Judges 2:4** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the angel \[of the\] <span class="smallcaps">lord</span> spoke  these words to all \[the\] sons of Israel, that the people lifted up  their voices, and wept. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept.
-<small><sub>**BSB:**</sub></small>
-When the angel of the LORD had spoken these words to all the Israelites, the people lifted up their voices and wept.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.3|<< Judges 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.5|Judges 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

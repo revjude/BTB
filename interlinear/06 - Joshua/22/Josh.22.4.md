@@ -1,4 +1,4 @@
-**Joshua 22:4** 
+**Joshua 22:4**<big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now the LORD your God hath given rest unto your brethren, as he promised them: therefore now return ye, and get you unto your tents, [and] unto the land of your possession, which Moses the servant of the LORD gave you on the other side Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And now that the LORD your God has given your brothers rest as He promised them,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.3|<< Joshua 22:3]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.5|Joshua 22:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has given rest  |**<big>&#8207;[[H5117\|הֵנִ֨יחַ]]&#8207; </big>**| he.Ni.ach<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

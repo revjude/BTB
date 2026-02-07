@@ -1,10 +1,7 @@
 **LXX Numbers 19:15** 
 <small><sub>**LXX:**</sub></small>
 And every item being open, as many as \[have\] not been bound with a bond upon it is unclean. 
-<small><sub>**KJV:**</sub></small>
-And every open vessel, which hath no covering bound upon it, [is] unclean.
-<small><sub>**BSB:**</sub></small>
-and any open container without a lid fastened on it is unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.14|<< Numbers 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.16|Numbers 19:16 >>]]</td></tr></table>
 
 | Translation | Greek |

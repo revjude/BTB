@@ -1,12 +1,12 @@
-**John 13:31
-**<small><sub>**KJV:**</sub></small>
+**John 13:31**<big><big>[[John.13.31 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him.
 <small><sub>**BSB:**</sub></small>
 When Judas had gone out, Jesus said, “Now the Son of Man is glorified, and God is glorified in Him.
 <small><sub>**Literal:**</sub></small>
 When therefore he had gone out, says <the> Jesus; Now has been glorified the Son <the> of Man, and <the> God has been glorified in Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.30|<< John 13:30]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.32|John 13:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|Ὅτε]]</big>**  |Hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">NKO</abbr> | |

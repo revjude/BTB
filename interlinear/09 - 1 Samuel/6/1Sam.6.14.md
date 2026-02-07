@@ -1,4 +1,4 @@
-**1 Samuel 6:14** 
+**1 Samuel 6:14**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cart came into the field of Joshua, a Bethshemite, and stood there, where [there was] a great stone: and they clave the wood of the cart, and offered the kine a burnt offering unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The cart came to the field of Joshua of Beth-shemesh and stopped there near a la
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.13|<< 1 Samuel 6:13]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.15|1 Samuel 6:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the cart  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5699\|עֲגָלָ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ga.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it came  |**<big>&#8207;[[H0935G\|בָּ֠אָה]]&#8207; </big>**| Ba.'ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 6:9** 
 <small><sub>**LXX:**</sub></small>
 Better vision of eyes, than going in life; for indeed this \[is\] folly and resolve of spirit. 
-<small><sub>**KJV:**</sub></small>
-Better [is] the sight of the eyes than the wandering of the desire: this [is] also vanity and vexation of spirit.
-<small><sub>**BSB:**</sub></small>
-Better what the eye can see than the wandering of desire. This too is futile and a pursuit of the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.8|<< Ecclesiastes 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.10|Ecclesiastes 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

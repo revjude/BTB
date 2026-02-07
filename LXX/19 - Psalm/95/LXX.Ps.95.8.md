@@ -1,10 +1,7 @@
 **LXX Psalm 95:8** 
 <small><sub>**LXX:**</sub></small>
 you should not harden  your hearts as in the embittering, according to the day of the test in the wilderness, 
-<small><sub>**KJV:**</sub></small>
-Harden not your heart, as in the provocation, [and] as [in] the day of temptation in the wilderness:
-<small><sub>**BSB:**</sub></small>
-do not harden your hearts as you did at Meribah, in the day at Massah in the wilderness,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.95.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.7|<< Psalm 95:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.9|Psalm 95:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 95:8** is...

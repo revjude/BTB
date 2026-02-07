@@ -1,12 +1,12 @@
-**John 3:16
-**<small><sub>**KJV:**</sub></small>
+**John 3:16**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 <small><sub>**BSB:**</sub></small>
 For God so loved the world that He gave His one and only Son, that everyone who believes in Him shall not perish but have eternal life.
 <small><sub>**Literal:**</sub></small>
 Thus for loved <the> God the world, that the Son of him the only begotten He gave, so that everyone who is believing in Him not may perish but may have life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.15|<< John 3:15]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.17|John 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

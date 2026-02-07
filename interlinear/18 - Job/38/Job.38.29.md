@@ -1,4 +1,4 @@
-**Job 38:29** 
+**Job 38:29**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From whose womb does the ice emerge? Who gives birth to the frost from heaven,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.28|<< Job 38:28]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.30|Job 38:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] womb of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0990H\|בֶּ֣טֶן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Be.ten<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom?  |**<big>&#8207;[[H4310\|מִ֭י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

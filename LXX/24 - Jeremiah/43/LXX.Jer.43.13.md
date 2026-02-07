@@ -1,10 +1,7 @@
 **LXX Jeremiah 43:13** 
 <small><sub>**LXX:**</sub></small>
 And he shall break the columns of Heliopolis, the ones in Egypt. And the houses of the gods of Egypt he shall incinerate with fire. 
-<small><sub>**KJV:**</sub></small>
-He shall break also the images of Bethshemesh, that [is] in the land of Egypt; and the houses of the gods of the Egyptians shall he burn with fire.
-<small><sub>**BSB:**</sub></small>
-He will demolish the sacred pillars of the temple of the sun in the land of Egypt, and he will burn down the temples of the gods of Egypt.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.43.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.12|<< Jeremiah 43:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.1|Jeremiah 44:1 >>]]</td></tr></table>
 
 | Translation | Greek |

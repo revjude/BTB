@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:32** 
 <small><sub>**LXX:**</sub></small>
 then you shall listen from the heaven, and shall act, and shall judge  your people Israel --  to act as lawless \[with the\] lawless, to impute  his way upon his head; and  to do justice \[with the\] just, to impute to him according to  his righteousness. 
-<small><sub>**KJV:**</sub></small>
-Then hear thou in heaven, and do, and judge thy servants, condemning the wicked, to bring his way upon his head; and justifying the righteous, to give him according to his righteousness.
-<small><sub>**BSB:**</sub></small>
-then may You hear from heaven and act. May You judge Your servants, condemning the wicked man by bringing down on his own head what he has done, and justifying the righteous man by rewarding him according to his righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.31|<< 1 Kings 8:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.33|1 Kings 8:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:21** 
 <small><sub>**LXX:**</sub></small>
 And you overlooked the lawlessness  of your youth, which you did in Egypt in  your lodging, of which \[place\] the breasts  of your youth fell. 
-<small><sub>**KJV:**</sub></small>
-Thus thou calledst to remembrance the lewdness of thy youth, in bruising thy teats by the Egyptians for the paps of thy youth.
-<small><sub>**BSB:**</sub></small>
-So you revisited the indecency of your youth, when the Egyptians caressed your bosom and pressed your young breasts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.20|<< Ezekiel 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.22|Ezekiel 23:22 >>]]</td></tr></table>
 
 | Translation | Greek |

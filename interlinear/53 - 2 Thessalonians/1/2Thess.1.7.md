@@ -1,12 +1,12 @@
-**2 Thessalonians 1:7
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 1:7**<big><big>[[2Thess.1.5 Christ’s Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,
 <small><sub>**BSB:**</sub></small>
 and to grant relief to you who are oppressed and to us as well. This will take place when the Lord Jesus is revealed from heaven with His mighty angels
 <small><sub>**Literal:**</sub></small>
 and to you those being oppressed repose with us at the revelation of the Lord Jesus from heaven with [the] angels mighty of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.6|<< 2 Thessalonians 1:6]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.8|2 Thessalonians 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

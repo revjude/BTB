@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:26** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Pekahiah, and all as much as he did, behold, these \[are\] written upon \[the\] scroll of \[the\] words of \[the\] days of the kings of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the rest of the acts of Pekahiah, and all that he did, behold, they [are] written in the book of the chronicles of the kings of Israel.
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Pekahiah, along with all his accomplishments, they are indeed written in the Book of the Chronicles of the Kings of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.25|<< 2 Kings 15:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.27|2 Kings 15:27 >>]]</td></tr></table>
 
 | Translation | Greek |

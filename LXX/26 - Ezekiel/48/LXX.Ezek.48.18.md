@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:18** 
 <small><sub>**LXX:**</sub></small>
 And the extra of the length  next to the first-fruits of the holy \[places\] \[will be\] ten thousand towards \[the\] east, and ten thousand towards \[the\] west; and they will be the first-fruits of the holy \[place\]; and its produce will be for bread loaves to the \[ones\] working for the city. 
-<small><sub>**KJV:**</sub></small>
-And the residue in length over against the oblation of the holy [portion shall be] ten thousand eastward, and ten thousand westward: and it shall be over against the oblation of the holy [portion]; and the increase thereof shall be for food unto them that serve the city.
-<small><sub>**BSB:**</sub></small>
-The remainder of the length bordering the holy portion and running adjacent to it will be 10,000 cubits on the east side and 10,000 cubits on the west side. Its produce will supply food for the workers of the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.17|<< Ezekiel 48:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.19|Ezekiel 48:19 >>]]</td></tr></table>
 
 | Translation | Greek |

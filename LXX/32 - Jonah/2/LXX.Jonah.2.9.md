@@ -1,10 +1,7 @@
 **LXX Jonah 2:9** 
 <small><sub>**LXX:**</sub></small>
 But I with \[the\] voice of praise and acknowledgment will sacrifice to you. As much as I vowed I will render to you. For my deliverance \[is\] by the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But I will sacrifice unto thee with the voice of thanksgiving; I will pay [that] that I have vowed. Salvation [is] of the LORD.
-<small><sub>**BSB:**</sub></small>
-But I, with the voice of thanksgiving, will sacrifice to You. I will fulfill what I have vowed. Salvation is from the LORD!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.8|<< Jonah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.10|Jonah 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

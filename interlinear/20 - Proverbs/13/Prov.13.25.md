@@ -1,4 +1,4 @@
-**Proverbs 13:25** 
+**Proverbs 13:25**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A righteous man eats to his heart’s content, but the stomach of the wicked is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.24|<< Proverbs 13:24]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.1|Proverbs 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a righteous [person]  |**<big>&#8207;[[H6662\|צַדִּ֗יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] eating  |**<big>&#8207;[[H0398\|אֹ֭כֵל]]&#8207; </big>**| 'O.khel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 18:6** 
+**Numbers 18:6**<big><big>[[Num.18.1 Duties of Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I, behold, I have taken your brethren the Levites from among the children of Israel: to you [they are] given [as] a gift for the LORD, to do the service of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I Myself have selected your fellow Levites from the Israelites as a gift
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.5|<< Numbers 18:5]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.7|Numbers 18:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֗י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

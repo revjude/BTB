@@ -1,10 +1,7 @@
 **LXX Obadiah 1:12** 
 <small><sub>**LXX:**</sub></small>
 And you should not have looked upon \[the\] day of your brother in \[the\] day of strangers; and you should not have rejoiced over the sons of Judah in \[the\] day of their destruction; and you should not have spoken great words in \[the\] day of \[their\] affliction; 
-<small><sub>**KJV:**</sub></small>
-But thou shouldest not have looked on the day of thy brother in the day that he became a stranger; neither shouldest thou have rejoiced over the children of Judah in the day of their destruction; neither shouldest thou have spoken proudly in the day of distress.
-<small><sub>**BSB:**</sub></small>
-But you should not gloat in that day, your brother’s day of misfortune, nor rejoice over the people of Judah in the day of their destruction, nor boast proudly in the day of their distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.11|<< Obadiah 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.13|Obadiah 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

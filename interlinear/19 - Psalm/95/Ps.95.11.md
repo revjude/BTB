@@ -1,4 +1,4 @@
-**Psalms 95:11** 
+**Psalms 95:11**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto whom I sware in my wrath that they should not enter into my rest.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So I swore on oath in My anger, “They shall never enter My rest.”
 > $\quad$ referenced by: [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]] ☩ [[Heb.3.18|Heb 3:18]] ☩ [[Heb.4.3|Heb 4:3]] ☩ [[Heb.4.10|Heb 4:10]] ☩ [[Heb.4.5|Heb 4:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I swore an oath  |**<big>&#8207;[[H7650\|נִשְׁבַּ֥עְתִּי]]&#8207; </big>**| nish.Ba'.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

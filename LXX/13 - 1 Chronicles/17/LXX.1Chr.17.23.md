@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:23** 
 <small><sub>**LXX:**</sub></small>
 And now, O <span class="smallcaps">lord</span>,  your word which you spoke to  your servant, and concerning  his house, let it be trusted unto \[the\] eon, and you do as you spoke! 
-<small><sub>**KJV:**</sub></small>
-Therefore now, LORD, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said.
-<small><sub>**BSB:**</sub></small>
-And now, O LORD, let the word You have spoken concerning Your servant and his house be established forever. Do as You have promised,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.22|<< 1 Chronicles 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.24|1 Chronicles 17:24 >>]]</td></tr></table>
 
 | Translation | Greek |

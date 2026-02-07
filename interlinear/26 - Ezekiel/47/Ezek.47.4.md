@@ -1,4 +1,4 @@
-**Ezekiel 47:4** 
+**Ezekiel 47:4**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again he measured a thousand, and brought me through the waters; the waters [were] to the knees. Again he measured a thousand, and brought me through; the waters [were] to the loins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he measured off a thousand cubits and led me through knee-deep water. Again
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.3|<< Ezekiel 47:3]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.5|Ezekiel 47:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he measured out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4058\|יָּ֣מָד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a thousand [cubits]  |**<big>&#8207;[[H0505G\|אֶ֔לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

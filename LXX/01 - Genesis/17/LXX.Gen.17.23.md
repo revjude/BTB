@@ -1,10 +1,7 @@
 **LXX Genesis 17:23** 
 <small><sub>**LXX:**</sub></small>
 And Abraham took Ishmael,  his son, and all  his native-born servants, and all the \[ones\] bought with silver, and every male of the men  in the house of Abraham. And he circumcised  their foreskins in  that time of the day, as God spoke to him. 
-<small><sub>**KJV:**</sub></small>
-And Abraham took Ishmael his son, and all that were born in his house, and all that were bought with his money, every male among the men of Abraham’s house; and circumcised the flesh of their foreskin in the selfsame day, as God had said unto him.
-<small><sub>**BSB:**</sub></small>
-On that very day Abraham took his son Ishmael and all those born in his household or purchased with his money—every male among the members of Abraham’s household—and he circumcised them, just as God had told him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.22|<< Genesis 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.24|Genesis 17:24 >>]]</td></tr></table>
 
 | Translation | Greek |

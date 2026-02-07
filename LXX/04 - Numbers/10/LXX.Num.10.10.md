@@ -1,10 +1,7 @@
 **LXX Numbers 10:10** 
 <small><sub>**LXX:**</sub></small>
 And in the days  of your gladness, and in  your holidays, and in  your new moons, you shall trump with the trumpets at the whole burnt-offerings, and at the sacrifices  of your deliverance \[offerings\]. And it shall be to you for a remembrance before  your God. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-And on your joyous occasions, your appointed feasts, and the beginning of each month, you are to blow the trumpets over your burnt offerings and peace offerings to serve as a reminder for you before your God. I am the LORD your God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.9|<< Numbers 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.11|Numbers 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

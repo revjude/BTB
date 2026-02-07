@@ -1,4 +1,4 @@
-**2 Kings 3:2** 
+**2 Kings 3:2**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he wrought evil in the sight of the LORD; but not like his father, and like his mother: for he put away the image of Baal that his father had made.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he did evil in the sight of the LORD, but not as his father and mother had d
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.1|<< 2 Kings 3:1]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.3|2 Kings 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּעֲשֶׂ֤ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Seh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the evil  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451H\|רַע֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

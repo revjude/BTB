@@ -1,10 +1,7 @@
 **LXX Lamentations 5:21** 
 <small><sub>**LXX:**</sub></small>
 Turn us to you! O <span class="smallcaps">lord</span>, and we shall be turned; and renew our days as before! 
-<small><sub>**KJV:**</sub></small>
-Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.
-<small><sub>**BSB:**</sub></small>
-Restore us to Yourself, O LORD, so we may return; renew our days as of old,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.20|<< Lamentations 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.5.22|Lamentations 5:22 >>]]</td></tr></table>
 
 | Translation | Greek |

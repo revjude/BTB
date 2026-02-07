@@ -1,4 +1,4 @@
-**Esther 9:28** 
+**Esther 9:28**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [that] these days [should be] remembered and kept throughout every generation, every family, every province, and every city; and [that] these days of Purim should not fail from among the Jews, nor the memorial of them perish from their seed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These days should be remembered and celebrated by every generation, family, prov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.27|<< Esther 9:27]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.29|Esther 9:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the days  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> these  |**<big>&#8207;[[H9009\|הָ֠]]&#8207;&#8207;[[H0428\|אֵלֶּה]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> 'e.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

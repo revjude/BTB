@@ -1,4 +1,4 @@
-**2 Chronicles 29:3** 
+**2 Chronicles 29:3**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He in the first year of his reign, in the first month, opened the doors of the house of the LORD, and repaired them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the first month of the first year of his reign, Hezekiah opened and repaired 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.2|<< 2 Chronicles 29:2]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.4|2 Chronicles 29:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the year  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8141\|שָּׁנָה֩]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 17:10** 
+**1 Samuel 17:10**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistine said, I defy the armies of Israel this day; give me a man, that we may fight together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Philistine said, “I defy the ranks of Israel this day! Give me a man 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.9|<< 1 Samuel 17:9]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.11|1 Samuel 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Philistine  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6430G\|פְּלִשְׁתִּ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.lish.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

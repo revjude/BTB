@@ -1,4 +1,4 @@
-**Jeremiah 48:39** 
+**Jeremiah 48:39**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall howl, [saying], How is it broken down! how hath Moab turned the back with shame! so shall Moab be a derision and a dismaying to all them about him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They shall howl, [saying], How is it broken down! how hath Moab turned the back 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.38|<< Jeremiah 48:38]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.40|Jeremiah 48:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349A\|אֵ֥יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been shattered  |**<big>&#8207;[[H2865\|חַ֙תָּה֙]]&#8207; </big>**| cha.tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

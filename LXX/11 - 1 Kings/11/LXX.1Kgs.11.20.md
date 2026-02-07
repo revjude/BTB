@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:20** 
 <small><sub>**LXX:**</sub></small>
 And the sister of Tahpenes bore to him, \[to\] Hadad,  Genubath her son. And Tahpenes nourished him in \[the\] midst of the house of Pharaoh. And Genubath was in the house of Pharaoh in \[the\] midst of the sons of Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And the sister of Tahpenes bare him Genubath his son, whom Tahpenes weaned in Pharaoh’s house: and Genubath was in Pharaoh’s household among the sons of Pharaoh.
-<small><sub>**BSB:**</sub></small>
-And the sister of Tahpenes bore Hadad a son named Genubath. Tahpenes herself weaned him in Pharaoh’s palace, and Genubath lived there among the sons of Pharaoh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.19|<< 1 Kings 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.21|1 Kings 11:21 >>]]</td></tr></table>
 
 | Translation | Greek |

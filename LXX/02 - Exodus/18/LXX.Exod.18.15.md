@@ -1,10 +1,7 @@
 **LXX Exodus 18:15** 
 <small><sub>**LXX:**</sub></small>
 And Moses says \[to\] his father-in-law, Because the people come to me to seek after a judgment from  God. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto his father in law, Because the people come unto me to inquire of God:
-<small><sub>**BSB:**</sub></small>
-“Because the people come to me to inquire of God,” Moses replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.14|<< Exodus 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.16|Exodus 18:16 >>]]</td></tr></table>
 
 | Translation | Greek |

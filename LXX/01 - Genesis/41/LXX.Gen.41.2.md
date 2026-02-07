@@ -1,10 +1,7 @@
 **LXX Genesis 41:2** 
 <small><sub>**LXX:**</sub></small>
 And behold, as if from the river ascended seven oxen good to the sight and choice in the flesh; and they were grazing in the reed-grass. 
-<small><sub>**KJV:**</sub></small>
-And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.
-<small><sub>**BSB:**</sub></small>
-when seven cows, sleek and well-fed, came up from the river and began to graze among the reeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.1|<< Genesis 41:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.3|Genesis 41:3 >>]]</td></tr></table>
 
 | Translation | Greek |

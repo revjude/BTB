@@ -1,10 +1,7 @@
 **LXX Psalm 76:3** 
 <small><sub>**LXX:**</sub></small>
 There he broke the might of the bows, \[the\] shield, and \[the\] broadsword, and war. 
-<small><sub>**KJV:**</sub></small>
-There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.
-<small><sub>**BSB:**</sub></small>
-There He shattered the flaming arrows, the shield and sword and weapons of war. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.76.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.2|<< Psalm 76:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.4|Psalm 76:4 >>]]</td></tr></table>
 
 | Translation | Greek |

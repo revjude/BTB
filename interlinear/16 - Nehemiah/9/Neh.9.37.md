@@ -1,4 +1,4 @@
-**Nehemiah 9:37** 
+**Nehemiah 9:37**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we [are] in great distress.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Its abundant harvest goes to the kings You have set over us because of our sins.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.36|<< Nehemiah 9:36]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.38|Nehemiah 9:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and produce its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8393\|תְבוּאָתָ֣]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.vu.'a.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] increasing  |**<big>&#8207;[[H7235A\|מַרְבָּ֗ה]]&#8207; </big>**| mar.Bah<small><sup>[[HVhrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

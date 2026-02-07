@@ -1,12 +1,12 @@
-**1 John 5:3
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:3**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this is the love of God, that we keep his commandments: and his commandments are not grievous.
 <small><sub>**BSB:**</sub></small>
 For this is the love of God, that we keep His commandments. And His commandments are not burdensome,
 <small><sub>**Literal:**</sub></small>
 This for is the love <the> of God, that the commandments of Him we may keep; and the commandments of Him burdensome not are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.2|<< 1 John 5:2]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.4|1 John 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

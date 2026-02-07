@@ -1,12 +1,12 @@
-**Mark 8:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:33**<big><big>[[Mark.8.31 Christ’s Passion Foretold|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get thee behind me, Satan: for thou savourest not the things that be of God, but the things that be of men.
 <small><sub>**BSB:**</sub></small>
 But Jesus, turning and looking at His disciples, rebuked Peter and said, “Get behind Me, Satan! For you do not have in mind the things of God, but the things of men.”
 <small><sub>**Literal:**</sub></small>
 <the> And having turned and having looked upon the disciples of Him He rebuked <the> Peter and speaks; do go behind Me, Satan, for not you have in mind the [things] <of the> of God but the [things] <of the> of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.32|<< Mark 8:32]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.34|Mark 8:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

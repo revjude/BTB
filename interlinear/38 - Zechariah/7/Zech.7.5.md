@@ -1,4 +1,4 @@
-**Zechariah 7:5** 
+**Zechariah 7:5**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh [month], even those seventy years, did ye at all fast unto me, [even] to me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak unto all the people of the land, and to the priests, saying, When ye faste
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.4|<< Zechariah 7:4]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.6|Zechariah 7:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אֱמֹר֙]]&#8207; </big>**| 'e.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

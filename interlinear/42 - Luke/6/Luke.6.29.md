@@ -1,12 +1,12 @@
-**Luke 6:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:29**<big><big>[[Luke.6.27 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And unto him that smiteth thee on the [one] cheek offer also the other; and him that taketh away thy cloke forbid not [to take thy] coat also.
 <small><sub>**BSB:**</sub></small>
 If someone strikes you on one cheek, turn to him the other also. And if someone takes your cloak, do not withhold your tunic as well.
 <small><sub>**Literal:**</sub></small>
 To the [one] striking you on the cheek, do offer also the other; and from the [one] taking away your <the> cloak also the tunic not may do withhold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.28|<< Luke 6:28]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.30|Luke 6:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the [one] |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | striking |**<big>[[G5180\|τύπτοντί]]</big>**  |tuptonti <small><sup>[[V-PAP-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

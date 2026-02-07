@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:18** 
 <small><sub>**LXX:**</sub></small>
 And Syria fled from in front of Israel. And David killed of the Syrian seven thousand \[of the\] chariots, and forty thousand men on foot; and  Shophach \[the\] commander-in-chief of the force he killed. 
-<small><sub>**KJV:**</sub></small>
-But the Syrians fled before Israel; and David slew of the Syrians seven thousand [men which fought in] chariots, and forty thousand footmen, and killed Shophach the captain of the host.
-<small><sub>**BSB:**</sub></small>
-But the Arameans fled before Israel, and David killed seven thousand of their charioteers and forty thousand foot soldiers. He also killed Shophach the commander of their army.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.17|<< 1 Chronicles 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.19|1 Chronicles 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

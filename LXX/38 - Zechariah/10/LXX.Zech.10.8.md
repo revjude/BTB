@@ -1,10 +1,7 @@
 **LXX Zechariah 10:8** 
 <small><sub>**LXX:**</sub></small>
 I will signify for them, and I will take them in. For I will ransom them, and they shall be multiplied, in so far as they were many. 
-<small><sub>**KJV:**</sub></small>
-I will hiss for them, and gather them; for I have redeemed them: and they shall increase as they have increased.
-<small><sub>**BSB:**</sub></small>
-I will whistle for them to gather, for I have redeemed them; and they will be as numerous as they once were.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.7|<< Zechariah 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.9|Zechariah 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

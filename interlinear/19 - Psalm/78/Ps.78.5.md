@@ -1,4 +1,4 @@
-**Psalms 78:5** 
+**Psalms 78:5**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For He established a testimony in Jacob and appointed a law in Israel, which He 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.4|<< Psalms 78:4]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.6|Psalms 78:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he established  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|יָּ֤קֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a testimony  |**<big>&#8207;[[H5715\|עֵד֨וּת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'e.Dut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

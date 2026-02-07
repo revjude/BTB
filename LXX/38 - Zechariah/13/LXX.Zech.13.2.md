@@ -1,10 +1,7 @@
 **LXX Zechariah 13:2** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day, says \[the\] <span class="smallcaps">lord</span> of Hosts, I will utterly destroy the names of the idols from the land, and there will not be any longer a memory of them. And the false prophets and the unclean spirit I will remove from the land. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, saith the LORD of hosts, [that] I will cut off the names of the idols out of the land, and they shall no more be remembered: and also I will cause the prophets and the unclean spirit to pass out of the land.
-<small><sub>**BSB:**</sub></small>
-And on that day, declares the LORD of Hosts, I will erase the names of the idols from the land, and they will no longer be remembered. I will also remove the prophets and the spirit of impurity from the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.13.1|<< Zechariah 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.13.3|Zechariah 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

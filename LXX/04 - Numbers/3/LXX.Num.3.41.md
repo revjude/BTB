@@ -1,10 +1,7 @@
 **LXX Numbers 3:41** 
 <small><sub>**LXX:**</sub></small>
 And you shall take the Levites for me, I \[am\] \[the\] <span class="smallcaps">lord</span>, in place of all the first-born of the sons of Israel; and the cattle of the Levites in place of all the first-born among the cattle of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take the Levites for me (I [am] the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-You are to take the Levites for Me—I am the LORD—in place of all the firstborn of Israel, and the livestock of the Levites in place of all the firstborn of the livestock of the Israelites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.40|<< Numbers 3:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.42|Numbers 3:42 >>]]</td></tr></table>
 
 | Translation | Greek |

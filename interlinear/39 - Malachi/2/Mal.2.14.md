@@ -1,4 +1,4 @@
-**Malachi 2:14** 
+**Malachi 2:14**<big><big>[[Mal.2.10 Judah’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet ye say, Wherefore? Because the LORD hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet [is] she thy companion, and the wife of thy covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet you ask, “Why?” It is because the LORD has been a witness between you an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.13|<< Malachi 2:13]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.15|Malachi 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you say  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|אֲמַרְתֶּ֖ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | concerning  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:15** 
 <small><sub>**LXX:**</sub></small>
 And the king did not hear the people, for he was converted by \[the\] <span class="smallcaps">lord</span>, so that his word should stand, which he spoke by \[the\] hand of Ahijah the Shilonite over Jeroboam son of Nebat. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the king hearkened not unto the people; for the cause was from the LORD, that he might perform his saying, which the LORD spake by Ahijah the Shilonite unto Jeroboam the son of Nebat.
-<small><sub>**BSB:**</sub></small>
-So the king did not listen to the people, and indeed this turn of events was from the LORD, to fulfill the word He had spoken to Jeroboam son of Nebat through Ahijah the Shilonite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.14|<< 1 Kings 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.16|1 Kings 12:16 >>]]</td></tr></table>
 
 | Translation | Greek |

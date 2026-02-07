@@ -1,4 +1,4 @@
-**Job 6:24** 
+**Job 6:24**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Teach me, and I will be silent. Help me understand how I have erred.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.23|<< Job 6:23]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.25|Job 6:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | teach me  |**<big>&#8207;[[H3384B\|ה֭וֹרוּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Ho.ru.<small><sup>[[HVhv2mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 13:6** 
+**Exodus 13:6**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seven days thou shalt eat unleavened bread, and in the seventh day [shall be] a feast to the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For seven days you are to eat unleavened bread, and on the seventh day there sha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.5|<< Exodus 13:5]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.7|Exodus 13:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seven  |**<big>&#8207;[[H7651\|שִׁבְעַ֥ת]]&#8207; </big>**| shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִ֖ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

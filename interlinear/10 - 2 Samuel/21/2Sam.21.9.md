@@ -1,4 +1,4 @@
-**2 Samuel 21:9** 
+**2 Samuel 21:9**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the LORD: and they fell [all] seven together, and were put to death in the days of harvest, in the first [days], in the beginning of barley harvest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he delivered them into the hands of the Gibeonites, and they hanged them on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.8|<< 2 Samuel 21:8]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.10|2 Samuel 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave them  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5414G\|יִּתְּנֵ֞]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Ne<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יַ֣ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

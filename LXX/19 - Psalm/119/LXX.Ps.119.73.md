@@ -1,10 +1,7 @@
 **LXX Psalm 119:73** 
 <small><sub>**LXX:**</sub></small>
  Your hands made me, and shaped me. Bring understanding to me! and I shall learn  your commandments. 
-<small><sub>**KJV:**</sub></small>
-JOD. Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.
-<small><sub>**BSB:**</sub></small>
-Your hands have made me and fashioned me; give me understanding to learn Your commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.73|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.72|<< Psalm 119:72]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.74|Psalm 119:74 >>]]</td></tr></table>
 
 | Translation | Greek |

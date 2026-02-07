@@ -1,5 +1,5 @@
-**1 Corinthians 9:9
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:9**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?
 <small><sub>**BSB:**</sub></small>
 For it is written in the Law of Moses: “Do not muzzle an ox while it is treading out the grain.” Is it about oxen that God is concerned?
@@ -10,7 +10,7 @@ In for the of Moses law it has been written: Not you will muzzle an ox treading 
 > $\quad$ referencing: [[LXX.Deut.25.4|Deut 25:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

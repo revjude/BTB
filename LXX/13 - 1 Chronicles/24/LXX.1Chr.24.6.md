@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 24:6** 
 <small><sub>**LXX:**</sub></small>
 And Shemaiah son of Nethaneel the scribe from Levi wrote them before the king, and the rulers, and Zadok of the priest, and Ahimelech son of Abiathar, and the rulers of the families of the priests and the Levites. \[The\] house one family, one \[to\] Eleazar; and \[the\] house one family, one \[to\] Ithamar. 
-<small><sub>**KJV:**</sub></small>
-And Shemaiah the son of Nethaneel the scribe, [one] of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and [before] the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and [one] taken for Ithamar.
-<small><sub>**BSB:**</sub></small>
-The scribe, Shemaiah son of Nethanel, a Levite, recorded their names in the presence of the king and of the officers: Zadok the priest, Ahimelech son of Abiathar, and the heads of families of the priests and the Levites—one family being taken from Eleazar, and then one from Ithamar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.5|<< 1 Chronicles 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.7|1 Chronicles 24:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezra 8:30** 
+**Ezra 8:30**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So took the priests and the Levites the weight of the silver, and the gold, and the vessels, to bring [them] to Jerusalem unto the house of our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the priests and Levites took charge of the silver and gold and sacred article
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.29|<< Ezra 8:29]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.31|Ezra 8:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they received  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6901\|קִבְּלוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.be.Lu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 25:44** 
+**Leviticus 25:44**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both thy bondmen, and thy bondmaids, which thou shalt have, [shall be] of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your menservants and maidservants shall come from the nations around you, from w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.43|<< Leviticus 25:43]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.45|Leviticus 25:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [male] slave your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5650\|עַבְדְּ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and female slave your  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0519\|אֲמָתְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ma.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

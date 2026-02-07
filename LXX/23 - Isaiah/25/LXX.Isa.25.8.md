@@ -1,10 +1,7 @@
 **LXX Isaiah 25:8** 
 <small><sub>**LXX:**</sub></small>
 Death swallowed prevailing; and again \[the\] <span class="smallcaps">lord</span> God removed every tear from every face; he removed the scorn of the people from all the earth; for the mouth of \[the\] <span class="smallcaps">lord</span> spoke. 
-<small><sub>**KJV:**</sub></small>
-He will swallow up death in victory; and the Lord GOD will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the LORD hath spoken [it].
-<small><sub>**BSB:**</sub></small>
-He will swallow up death forever. The Lord GOD will wipe away the tears from every face and remove the disgrace of His people from the whole earth. For the LORD has spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.7|<< Isaiah 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.9|Isaiah 25:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 25:8** is...

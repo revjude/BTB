@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:9** 
 <small><sub>**LXX:**</sub></small>
 For thus \[the\] <span class="smallcaps">lord</span> gave charge to me by a word, saying, In no way should you eat bread, nor in any way should you drink water, nor in any way should you return in the way in which you came by it. 
-<small><sub>**KJV:**</sub></small>
-For so was it charged me by the word of the LORD, saying, Eat no bread, nor drink water, nor turn again by the same way that thou camest.
-<small><sub>**BSB:**</sub></small>
-For this is what I was commanded by the word of the LORD: ‘You must not eat bread or drink water or return by the way you came.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.8|<< 1 Kings 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.10|1 Kings 13:10 >>]]</td></tr></table>
 
 | Translation | Greek |

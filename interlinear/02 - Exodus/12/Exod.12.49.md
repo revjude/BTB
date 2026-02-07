@@ -1,4 +1,4 @@
-**Exodus 12:49** 
+**Exodus 12:49**<big><big>[[Exod.12.43 Instructions for the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One law shall be to him that is homeborn, and unto the stranger that sojourneth among you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The same law shall apply to both the native and the foreigner who resides among 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.48|<< Exodus 12:48]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.50|Exodus 12:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | law  |**<big>&#8207;[[H8451\|תּוֹרָ֣ה]]&#8207; </big>**| to.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אַחַ֔ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

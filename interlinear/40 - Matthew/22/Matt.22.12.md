@@ -1,12 +1,12 @@
-**Matthew 22:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:12**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he saith unto him, Friend, how camest thou in hither not having a wedding garment? And he was speechless.
 <small><sub>**BSB:**</sub></small>
 ‘Friend,’ he asked, ‘how did you get in here without wedding clothes?’ But the man was speechless.
 <small><sub>**Literal:**</sub></small>
 and he says to him; Friend, how did you enter here not having garment of wedding? <the> And he was speechless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.11|<< Matthew 22:11]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.13|Matthew 22:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

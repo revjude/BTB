@@ -1,4 +1,4 @@
-**Isaiah 35:3** 
+**Isaiah 35:3**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Strengthen ye the weak hands, and confirm the feeble knees.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Strengthen the limp hands and steady the feeble knees!
 > $\quad$ referenced by: [[Heb.12.12|Heb 12:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | strengthen  |**<big>&#8207;[[H2388G\|חַזְּק֖וּ]]&#8207; </big>**| cha.ze.Ku<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands  |**<big>&#8207;[[H3027G\|יָדַ֣יִם]]&#8207; </big>**| ya.Da.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

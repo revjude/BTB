@@ -1,12 +1,12 @@
-**Revelation 3:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:1**<big><big>[[Rev.3.1 To the Church in Sardis|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.
 <small><sub>**BSB:**</sub></small>
 “To the angel of the church in Sardis write: These are the words of the One who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation for being alive, yet you are dead.
 <small><sub>**Literal:**</sub></small>
 And to the angel of the in Sardis church do write: These things says the [One] having the seven Spirits <the> of God and the seven stars; I know your <the> deeds that <the> characterization you have that you are alive and yet dead you are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.29|<< Revelation 2:29]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.2|Revelation 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

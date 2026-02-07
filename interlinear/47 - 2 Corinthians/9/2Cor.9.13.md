@@ -1,12 +1,12 @@
-**2 Corinthians 9:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:13**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for [your] liberal distribution unto them, and unto all [men];
 <small><sub>**BSB:**</sub></small>
 Because of the proof this ministry provides, the saints will glorify God for your obedient confession of the gospel of Christ, and for the generosity of your contribution to them and to all the others.
 <small><sub>**Literal:**</sub></small>
 through the proof of the service this [they] glorifying <the> God at the submission of the of confession of you to the gospel <the> of Christ and to [the] generosity of the participation toward them and toward all,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.12|<< 2 Corinthians 9:12]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.14|2 Corinthians 9:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | through |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

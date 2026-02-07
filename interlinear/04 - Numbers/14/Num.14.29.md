@@ -1,4 +1,4 @@
-**Numbers 14:29** 
+**Numbers 14:29**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your bodies will fall in this wilderness—all who were numbered in the census, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.28|<< Numbers 14:28]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.30|Numbers 14:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֣ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> this  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H2088\|זֶּה]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

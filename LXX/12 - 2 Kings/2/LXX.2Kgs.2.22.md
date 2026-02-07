@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:22** 
 <small><sub>**LXX:**</sub></small>
 And the waters were healed until  this day, according to the word of Elisha which he spoke. 
-<small><sub>**KJV:**</sub></small>
-So the waters were healed unto this day, according to the saying of Elisha which he spake.
-<small><sub>**BSB:**</sub></small>
-And the waters there have been healthy to this day, according to the word spoken by Elisha.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.21|<< 2 Kings 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.23|2 Kings 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

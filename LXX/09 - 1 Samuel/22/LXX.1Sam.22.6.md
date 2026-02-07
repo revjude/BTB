@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:6** 
 <small><sub>**LXX:**</sub></small>
 And Saul heard that David was known, and the men  with him. And Saul stayed on the hill by the plowed field, the one in Ramah, and the spear was in  his hand, and all  his servants stood beside him. 
-<small><sub>**KJV:**</sub></small>
-When Saul heard that David was discovered, and the men that [were] with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants [were] standing about him;)
-<small><sub>**BSB:**</sub></small>
-Soon Saul learned that David and his men had been discovered. At that time Saul was sitting under the tamarisk tree on the hill at Gibeah, with his spear in hand and all his servants standing around him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.5|<< 1 Samuel 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.7|1 Samuel 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

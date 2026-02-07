@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:12** 
 <small><sub>**LXX:**</sub></small>
 And it will be if I should go forth from you, and a wind of \[the\] <span class="smallcaps">lord</span> shall lift you into the land which I do not know, and I shall enter  to report  to Ahab, and he should not find you, then he will kill me. But  your servant is fearing the <span class="smallcaps">lord</span> from out of his youth. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [as soon as] I am gone from thee, that the Spirit of the LORD shall carry thee whither I know not; and [so] when I come and tell Ahab, and he cannot find thee, he shall slay me: but I thy servant fear the LORD from my youth.
-<small><sub>**BSB:**</sub></small>
-I do not know where the Spirit of the LORD may carry you off when I leave you. Then when I go and tell Ahab and he does not find you, he will kill me. But I, your servant, have feared the LORD from my youth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.11|<< 1 Kings 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.13|1 Kings 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,6 +1,6 @@
-**Psalms 110:1** 
+**Psalms 110:1**<big><big>[[Ps.110.1 God’s Faithful Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm of David. The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David. The LORD said to my Lord: “Sit at My right hand until I make Your enemies a footstool for Your feet.”
 <small><sub>**LXX:**</sub></small>
@@ -10,7 +10,7 @@ A Psalm of David. The LORD said to my Lord: “Sit at My right hand until I make
 > $\quad$ referenced by: [[Matt.22.44|Matt 22:44]] ☩ [[Matt.26.64|Matt 26:64]] ☩ [[Mark.12.36|Mark 12:36]] ☩ [[Mark.14.62|Mark 14:62]] ☩ [[Mark.16.19|Mark 16:19]] ☩ [[Luke.20.42|Luke 20:42-43]] ☩ [[Luke.22.69|Luke 22:69]] ☩ [[Acts.2.34|Acts 2:34-35]] ☩ [[1Cor.15.25|1Cor 15:25]] ☩ [[Eph.1.20|Eph 1:20]] ☩ [[Col.3.1|Col 3:1]] ☩ [[Heb.1.3|Heb 1:3]] ☩ [[Heb.1.13|Heb 1:13]] ☩ [[Heb.10.12|Heb 10:12-13]] ☩ [[Heb.8.1|Heb 8:1]] ☩ [[Heb.12.2|Heb 12:2]] ☩ [[Rev.3.21|Rev 3:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֤ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

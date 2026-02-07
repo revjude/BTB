@@ -1,10 +1,7 @@
 **LXX Joshua 8:30** 
 <small><sub>**LXX:**</sub></small>
 Then Joshua built an altar \[to the\] <span class="smallcaps">lord</span>  God of Israel on mount Ebal, 
-<small><sub>**KJV:**</sub></small>
-Then Joshua built an altar unto the LORD God of Israel in mount Ebal,
-<small><sub>**BSB:**</sub></small>
-At that time Joshua built an altar on Mount Ebal to the LORD, the God of Israel,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.29|<< Joshua 8:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.31|Joshua 8:31 >>]]</td></tr></table>
 
 | Translation | Greek |

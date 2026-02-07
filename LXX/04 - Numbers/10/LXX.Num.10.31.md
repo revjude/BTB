@@ -1,10 +1,7 @@
 **LXX Numbers 10:31** 
 <small><sub>**LXX:**</sub></small>
 And he said, You should not abandon us, because you were with us in the wilderness, and you will be among us \[as\] an ambassador. 
-<small><sub>**KJV:**</sub></small>
-And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes.
-<small><sub>**BSB:**</sub></small>
-“Please do not leave us,” Moses said, “since you know where we should camp in the wilderness, and you can serve as our eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.30|<< Numbers 10:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.32|Numbers 10:32 >>]]</td></tr></table>
 
 | Translation | Greek |

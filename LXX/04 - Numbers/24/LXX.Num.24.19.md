@@ -1,10 +1,7 @@
 **LXX Numbers 24:19** 
 <small><sub>**LXX:**</sub></small>
 And one shall be awakened from out of Jacob, and shall destroy \[the\] one escaping from \[the\] city. 
-<small><sub>**KJV:**</sub></small>
-Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city.
-<small><sub>**BSB:**</sub></small>
-A ruler will come from Jacob and destroy the survivors of the city.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.18|<< Numbers 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.20|Numbers 24:20 >>]]</td></tr></table>
 
 | Translation | Greek |

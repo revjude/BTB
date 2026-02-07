@@ -1,10 +1,7 @@
 **LXX Genesis 50:4** 
 <small><sub>**LXX:**</sub></small>
 And when the days went by of the mourning, Joseph spoke to the mighty ones of Pharaoh, saying, If I found favor before you, speak into the ears of Pharaoh! saying, 
-<small><sub>**KJV:**</sub></small>
-And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,
-<small><sub>**BSB:**</sub></small>
-When the days of mourning had passed, Joseph said to Pharaoh’s court, “If I have found favor in your eyes, please tell Pharaoh that<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.3|<< Genesis 50:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.5|Genesis 50:5 >>]]</td></tr></table>
 
 | Translation | Greek |

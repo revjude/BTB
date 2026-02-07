@@ -1,4 +1,4 @@
-**Daniel 2:37** 
+**Daniel 2:37**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou, O king, [art] a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You, O king, are the king of kings, to whom the God of heaven has given sovereig
 > $\quad$ referenced by: [[Rev.13.7|Rev 13:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0607\|אַ֣נְתְּ]]&#8207; </big>**[^1] [^2] | 'an.tah<small><sup>[[APp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | king O  |**<big>&#8207;[[H4430\|מַלְכָּ֔]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

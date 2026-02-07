@@ -1,4 +1,4 @@
-**Psalms 23:3** 
+**Psalms 23:3**<big><big>[[Ps.23.1 The LORD Is My Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He restores my soul; He guides me in the paths of righteousness for the sake of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.23.2|<< Psalms 23:2]]</td><td align="center" style="border:none;">[[Ps.23|Psalms 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.23.4|Psalms 23:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | self my  |**<big>&#8207;[[H5315G\|נַפְשִׁ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he restores  |**<big>&#8207;[[H7725H\|יְשׁוֹבֵ֑ב]]&#8207; </big>**| ye.sho.Vev<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

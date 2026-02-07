@@ -1,4 +1,4 @@
-**Psalms 119:101** 
+**Psalms 119:101**<big><big>[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have refrained my feet from every evil way, that I might keep thy word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have kept my feet from every evil path, that I may keep Your word.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.101|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.100|<< Psalms 119:100]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.102|Psalms 119:102 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from every  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | path  |**<big>&#8207;[[H0734\|אֹ֣רַח]]&#8207; </big>**| 'O.rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Judges 1:29** 
+**Judges 1:29**<big><big>[[Judg.1.27 The Failure to Complete the Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ephraim also failed to drive out the Canaanites living in Gezer; so the Canaanit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.28|<< Judges 1:28]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.30|Judges 1:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ephraim  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0669G\|אֶפְרַ֙יִם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:80** 
 <small><sub>**LXX:**</sub></small>
 And from \[the\] tribe of Gad --  Ramoth in Gilead and  her outskirts, and  Mahanaim and  her outskirts, 
-<small><sub>**KJV:**</sub></small>
-And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,
-<small><sub>**BSB:**</sub></small>
-And from the tribe of Gad they were given Ramoth in Gilead, Mahanaim,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.80|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.79|<< 1 Chronicles 6:79]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.81|1 Chronicles 6:81 >>]]</td></tr></table>
 
 | Translation | Greek |

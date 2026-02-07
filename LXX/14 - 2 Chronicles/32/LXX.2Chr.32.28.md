@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:28** 
 <small><sub>**LXX:**</sub></small>
 and cities for the produce of the grain, and wine, and olive oil; and stables for every beast, and havens for the flocks. 
-<small><sub>**KJV:**</sub></small>
-Storehouses also for the increase of corn, and wine, and oil; and stalls for all manner of beasts, and cotes for flocks.
-<small><sub>**BSB:**</sub></small>
-He also made storehouses for the harvest of grain and new wine and oil, stalls for all kinds of livestock, and pens for the flocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.27|<< 2 Chronicles 32:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.29|2 Chronicles 32:29 >>]]</td></tr></table>
 
 | Translation | Greek |

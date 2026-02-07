@@ -1,4 +1,4 @@
-**Jeremiah 29:24** 
+**Jeremiah 29:24**<big><big>[[Jer.29.24 The Message to Shemaiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thus] shalt thou also speak to Shemaiah the Nehelamite, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to tell Shemaiah the Nehelamite that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.23|<< Jeremiah 29:23]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.25|Jeremiah 29:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shemaiah  |**<big>&#8207;[[H8098Y\|שְׁמַעְיָ֥הוּ]]&#8207; </big>**| she.ma'.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

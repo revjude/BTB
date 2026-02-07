@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:19** 
 <small><sub>**LXX:**</sub></small>
 \[there were\] Six stairs to the throne, and \[the\] upper part \[had\] calves from the \[places\] behind it to the throne. And \[There were\] hand \[rails\] on this side and that side upon the place of the chair, and two lions standing by the hand \[rails\]. 
-<small><sub>**KJV:**</sub></small>
-The throne had six steps, and the top of the throne [was] round behind: and [there were] stays on either side on the place of the seat, and two lions stood beside the stays.
-<small><sub>**BSB:**</sub></small>
-The throne had six steps, and its back had a rounded top. There were armrests on both sides of the seat, with a lion standing beside each armrest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.18|<< 1 Kings 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.20|1 Kings 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

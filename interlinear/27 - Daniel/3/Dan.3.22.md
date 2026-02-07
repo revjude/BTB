@@ -1,4 +1,4 @@
-**Daniel 3:22** 
+**Daniel 3:22**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore because the king’s commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abednego.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king’s command was so urgent and the furnace so hot that the fiery flames 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.21|<< Daniel 3:21]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.23|Daniel 3:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as to  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ko<small><sup>[[AR]]</sup></small> l-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | because  |**<big>&#8207;[[H6903H\|קֳבֵ֣ל]]&#8207; </big>**| ko.Vel<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

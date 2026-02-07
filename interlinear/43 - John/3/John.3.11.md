@@ -1,12 +1,12 @@
-**John 3:11
-**<small><sub>**KJV:**</sub></small>
+**John 3:11**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, we speak of what we know, and we testify to what we have seen, and yet you people do not accept our testimony.
 <small><sub>**Literal:**</sub></small>
 Amen Amen I say to you that what we know we speak and what we have seen we bear witness to, and the witness of us not you people receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.10|<< John 3:10]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.12|John 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

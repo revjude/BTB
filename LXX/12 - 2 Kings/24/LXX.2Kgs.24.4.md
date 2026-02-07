@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:4** 
 <small><sub>**LXX:**</sub></small>
 and indeed for the innocent blood which he poured out, and filled  Jerusalem of innocent blood. And \[the\] <span class="smallcaps">lord</span> did not want  to atone. 
-<small><sub>**KJV:**</sub></small>
-And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the LORD would not pardon.
-<small><sub>**BSB:**</sub></small>
-and also for the innocent blood he had shed. For he had filled Jerusalem with innocent blood, and the LORD was unwilling to forgive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.3|<< 2 Kings 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.5|2 Kings 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

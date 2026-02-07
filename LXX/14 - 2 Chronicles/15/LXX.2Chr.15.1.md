@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Azariah son of Oded -- spirit of God came upon him. 
-<small><sub>**KJV:**</sub></small>
-And the Spirit of God came upon Azariah the son of Oded:
-<small><sub>**BSB:**</sub></small>
-Now the Spirit of God came upon Azariah son of Oded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.14.15|<< 2 Chronicles 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.2|2 Chronicles 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

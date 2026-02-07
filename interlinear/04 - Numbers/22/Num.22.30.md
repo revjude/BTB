@@ -1,4 +1,4 @@
-**Numbers 22:30** 
+**Numbers 22:30**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ass said unto Balaam, [Am] not I thine ass, upon which thou hast ridden ever since [I was] thine unto this day? was I ever wont to do so unto thee? And he said, Nay.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the donkey said to Balaam, “Am I not the donkey you have ridden all your l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.29|<< Numbers 22:29]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.31|Numbers 22:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֨אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the donkey  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0860\|אָת֜וֹן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Ton<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

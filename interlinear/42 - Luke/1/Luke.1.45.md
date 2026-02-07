@@ -1,12 +1,12 @@
-**Luke 1:45
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:45**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And blessed [is] she that believed: for there shall be a performance of those things which were told her from the Lord.
 <small><sub>**BSB:**</sub></small>
 Blessed is she who has believed that the Lord’s word to her will be fulfilled.”
 <small><sub>**Literal:**</sub></small>
 And blessed [is] the [one] having believed that there will be a fulfillment to the [things] spoken to her from [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.44|<< Luke 1:44]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.46|Luke 1:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | blessed [is] |**<big>[[G3107\|μακαρία]]</big>**  |makaria <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 36:32** 
+**Ezekiel 36:32**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Not for your sakes do I [this], saith the Lord GOD, be it known unto you: be ashamed and confounded for your own ways, O house of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is not for your sake that I will act, declares the Lord GOD—let it be known
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.31|<< Ezekiel 36:31]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.33|Ezekiel 36:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֧א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for sake your  |**<big>&#8207;[[H4616\|לְמַעַנְ]]&#8207;&#8207;[[H9036\|כֶ֣ם]]&#8207; </big>**| le.ma.'an.<small><sup>[[HTc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

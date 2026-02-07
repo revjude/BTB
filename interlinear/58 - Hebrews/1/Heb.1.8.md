@@ -1,5 +1,5 @@
-**Hebrews 1:8
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:8**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But unto the Son [he saith], Thy throne, O God, [is] for ever and ever: a sceptre of righteousness [is] the sceptre of thy kingdom.
 <small><sub>**BSB:**</sub></small>
 But about the Son He says: “Your throne, O God, endures forever and ever, and justice is the scepter of Your kingdom.
@@ -10,7 +10,7 @@ Unto however the Son: The throne of You, O God [is] to the age of the age; and t
 > $\quad$ referencing: [[LXX.Ps.45.6|Ps 45:6-7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Unto |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

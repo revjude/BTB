@@ -1,4 +1,4 @@
-**Genesis 24:16** 
+**Genesis 24:16**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the damsel [was] very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the girl was very beautiful, a virgin who had not had relations with any man
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.15|<< Genesis 24:15]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.17|Genesis 24:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the young woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H5291\|נַּעֲרָ֗]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> na.'a.Ra<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] good of  |**<big>&#8207;[[H2896A\|טֹבַ֤ת]]&#8207; </big>**| to.Vat<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

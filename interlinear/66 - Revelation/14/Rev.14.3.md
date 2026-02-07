@@ -1,12 +1,12 @@
-**Revelation 14:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:3**<big><big>[[Rev.14.1 The Lamb and the 144,000|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred [and] forty [and] four thousand, which were redeemed from the earth.
 <small><sub>**BSB:**</sub></small>
 And they sang a new song before the throne and before the four living creatures and the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth.
 <small><sub>**Literal:**</sub></small>
 And they are singing as a song new before the throne and before the four living creatures and the elders, And no [one] was able to learn the song only except the one hundred forty four thousand who redeemed from the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.2|<< Revelation 14:2]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.4|Revelation 14:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they are singing |**<big>[[G0103\|ᾄδουσιν]]</big>**  |adousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

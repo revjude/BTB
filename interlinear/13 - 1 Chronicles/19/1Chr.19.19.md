@@ -1,4 +1,4 @@
-**1 Chronicles 19:19** 
+**1 Chronicles 19:19**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Hadadezer’s subjects saw that they had been defeated by Israel, they made
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.18|<< 1 Chronicles 19:18]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.1|1 Chronicles 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יִּרְא֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servants of  |**<big>&#8207;[[H5650\|עַבְדֵ֣י]]&#8207; </big>**| 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

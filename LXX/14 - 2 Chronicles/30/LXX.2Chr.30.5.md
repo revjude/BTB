@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:5** 
 <small><sub>**LXX:**</sub></small>
 And they established a communication  to go through by proclamation in all Israel, from Beer-sheba unto Dan,  to come and to observe the passover to the <span class="smallcaps">lord</span> God of Israel in Jerusalem. For the multitude did not do according to the scripture. 
-<small><sub>**KJV:**</sub></small>
-So they established a decree to make proclamation throughout all Israel, from Beersheba even to Dan, that they should come to keep the passover unto the LORD God of Israel at Jerusalem: for they had not done [it] of a long [time in such sort] as it was written.
-<small><sub>**BSB:**</sub></small>
-So they established a decree to circulate a proclamation throughout Israel, from Beersheba to Dan, that the people should come to keep the Passover of the LORD, the God of Israel, in Jerusalem. For they had not observed it in great numbers as prescribed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.4|<< 2 Chronicles 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.6|2 Chronicles 30:6 >>]]</td></tr></table>
 
 | Translation | Greek |

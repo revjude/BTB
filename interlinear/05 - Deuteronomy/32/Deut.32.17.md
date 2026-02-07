@@ -1,4 +1,4 @@
-**Deuteronomy 32:17** 
+**Deuteronomy 32:17**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They sacrificed unto devils, not to God; to gods whom they knew not, to new [gods that] came newly up, whom your fathers feared not.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They sacrificed to demons, not to God, to gods they had not known, to newly arri
 > $\quad$ referenced by: [[1Cor.10.20|1Cor 10:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they sacrificed  |**<big>&#8207;[[H2076\|יִזְבְּח֗וּ]]&#8207; </big>**| yiz.be.Chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the demons  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7700\|שֵּׁדִים֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> she.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 44:8** (44:9)
+**Psalms 44:8**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In God we boast all the day long, and praise thy name for ever. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In God we have boasted all day long, and Your name we will praise forever. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.7|<< Psalms 44:7]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.9|Psalms 44:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in God  |**<big>&#8207;[[H9003\|בֵּֽ֭]]&#8207;&#8207;[[H0430G\|אלֹהִים]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> lo.him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we have boasted  |**<big>&#8207;[[H1984H\|הִלַּלְ֣נוּ]]&#8207; </big>**| hi.laL.nu<small><sup>[[HVpp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

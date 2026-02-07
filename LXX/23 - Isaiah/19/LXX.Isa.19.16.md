@@ -1,10 +1,7 @@
 **LXX Isaiah 19:16** 
 <small><sub>**LXX:**</sub></small>
 \[In\] that day the Egyptians will be as women, in fear and in trembling from in front of the hand of \[the\] <span class="smallcaps">lord</span> of Hosts, which he shall put upon them. 
-<small><sub>**KJV:**</sub></small>
-In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the LORD of hosts, which he shaketh over it.
-<small><sub>**BSB:**</sub></small>
-In that day the Egyptians will be like women. They will tremble with fear beneath the uplifted hand of the LORD of Hosts, when He brandishes it against them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.15|<< Isaiah 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.17|Isaiah 19:17 >>]]</td></tr></table>
 
 | Translation | Greek |

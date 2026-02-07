@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:20** 
 <small><sub>**LXX:**</sub></small>
 Judah and Israel \[were\] exceedingly many, as the sand upon the sea in multitude, eating and drinking and rejoicing. 
-<small><sub>**KJV:**</sub></small>
-Judah and Israel [were] many, as the sand which [is] by the sea in multitude, eating and drinking, and making merry.
-<small><sub>**BSB:**</sub></small>
-The people of Judah and Israel were as numerous as the sand on the seashore, and they were eating and drinking and rejoicing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.19|<< 1 Kings 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.21|1 Kings 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

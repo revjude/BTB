@@ -1,10 +1,7 @@
 **LXX Zechariah 10:7** 
 <small><sub>**LXX:**</sub></small>
 And they will be as warriors \[to\] Ephraim, and their heart shall rejoice as with wine. And  their children shall see, and be glad, and their heart shall rejoice over the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And [they of] Ephraim shall be like a mighty [man], and their heart shall rejoice as through wine: yea, their children shall see [it], and be glad; their heart shall rejoice in the LORD.
-<small><sub>**BSB:**</sub></small>
-Ephraim will be like a mighty man, and their hearts will be glad as with wine. Their children will see it and be joyful; their hearts will rejoice in the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.6|<< Zechariah 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.8|Zechariah 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

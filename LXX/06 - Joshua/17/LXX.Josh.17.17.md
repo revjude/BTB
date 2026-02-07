@@ -1,10 +1,7 @@
 **LXX Joshua 17:17** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said to the sons of Joseph,  to Ephraim and  to Manasseh, saying, If you are many people, and have great strength, there shall not be to you \[only\] one lot. 
-<small><sub>**KJV:**</sub></small>
-And Joshua spake unto the house of Joseph, [even] to Ephraim and to Manasseh, saying, Thou [art] a great people, and hast great power: thou shalt not have one lot [only]:
-<small><sub>**BSB:**</sub></small>
-So Joshua said to the house of Joseph—to Ephraim and Manasseh—“You have many people and great strength. You shall not have just one allotment,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.16|<< Joshua 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.18|Joshua 17:18 >>]]</td></tr></table>
 
 | Translation | Greek |

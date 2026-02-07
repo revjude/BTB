@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[As\] I live, says \[the\] <span class="smallcaps">lord</span>, Though in coming to pass Coniah son of Jehoiakim king of Judah should become a seal upon  my right hand, from there will I pull you out. 
-<small><sub>**KJV:**</sub></small>
-[As] I live, saith the LORD, though Coniah the son of Jehoiakim king of Judah were the signet upon my right hand, yet would I pluck thee thence;
-<small><sub>**BSB:**</sub></small>
-“As surely as I live,” declares the LORD, “even if you, Coniah son of Jehoiakim king of Judah, were a signet ring on My right hand, I would pull you off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.23|<< Jeremiah 22:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.25|Jeremiah 22:25 >>]]</td></tr></table>
 
 | Translation | Greek |

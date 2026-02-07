@@ -1,4 +1,4 @@
-**Isaiah 49:15** 
+**Isaiah 49:15**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can a woman forget her sucking child, that she should not have compassion on the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.14|<< Isaiah 49:14]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.16|Isaiah 49:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will she forget  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7911\|תִשְׁכַּ֤ח]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> tish.Kach<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a woman  |**<big>&#8207;[[H0802G\|אִשָּׁה֙]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

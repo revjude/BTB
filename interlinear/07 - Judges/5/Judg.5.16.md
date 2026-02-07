@@ -1,4 +1,4 @@
-**Judges 5:16** 
+**Judges 5:16**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why abodest thou among the sheepfolds, to hear the bleatings of the flocks? For the divisions of Reuben [there were] great searchings of heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why did you sit among the sheepfolds to hear the whistling for the flocks? In th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.15|<< Judges 5:15]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.17|Judges 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did you sit  |**<big>&#8207;[[H3427\|יָשַׁ֗בְתָּ]]&#8207; </big>**| ya.Shav.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

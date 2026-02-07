@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:21** 
 <small><sub>**LXX:**</sub></small>
 And the king gave charge to all the people, saying, Observe the passover to the <span class="smallcaps">lord</span>  your God! as it is written in the scroll  of this covenant. 
-<small><sub>**KJV:**</sub></small>
-And the king commanded all the people, saying, Keep the passover unto the LORD your God, as [it is] written in the book of this covenant.
-<small><sub>**BSB:**</sub></small>
-The king commanded all the people, “Keep the Passover of the LORD your God, as it is written in this Book of the Covenant.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.20|<< 2 Kings 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.22|2 Kings 23:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:35** 
 <small><sub>**LXX:**</sub></small>
 And the king appointed  Benaiah son of Jehoiada instead of him over the military. And  the king appointed Zadok the priest, as foremost priest instead of Abiathar. 
-<small><sub>**KJV:**</sub></small>
-And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
-<small><sub>**BSB:**</sub></small>
-And the king appointed Benaiah son of Jehoiada in Joab’s place over the army, and he appointed Zadok the priest in Abiathar’s place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.34|<< 1 Kings 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.36|1 Kings 2:36 >>]]</td></tr></table>
 
 | Translation | Greek |

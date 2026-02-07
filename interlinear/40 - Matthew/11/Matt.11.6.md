@@ -1,12 +1,12 @@
-**Matthew 11:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:6**<big><big>[[Matt.11.1 John’s Inquiry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And blessed is [he], whosoever shall not be offended in me.
 <small><sub>**BSB:**</sub></small>
 Blessed is the one who does not fall away on account of Me.”
 <small><sub>**Literal:**</sub></small>
 And blessed is he who only unless shall fall away in Me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.5|<< Matthew 11:5]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.7|Matthew 11:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | blessed |**<big>[[G3107\|μακάριός]]</big>**  |makarios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

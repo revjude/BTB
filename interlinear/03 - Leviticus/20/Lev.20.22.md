@@ -1,4 +1,4 @@
-**Leviticus 20:22** 
+**Leviticus 20:22**<big><big>[[Lev.20.22 Distinguish between Clean and Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are therefore to keep all My statutes and ordinances, so that the land where
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.21|<< Leviticus 20:21]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.23|Leviticus 20:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will keep  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8104G\|שְׁמַרְתֶּ֤ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

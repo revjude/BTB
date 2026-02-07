@@ -1,4 +1,4 @@
-**Leviticus 21:8** 
+**Leviticus 21:8**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, [am] holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to regard him as holy, since he presents the food of your God. He shall 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.7|<< Leviticus 21:7]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.9|Leviticus 21:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will set apart as holy him  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6942G\|קִדַּשְׁתּ֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.dash.T<small><sup>[[HVpq2ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:16** 
 <small><sub>**LXX:**</sub></small>
 Hamath, Berothah, Sibraim, the \[places\] between \[the\] limits of Damascus and between \[the\] limits of Hamath, \[the\] courtyards  of Hatticon, which are upon the limits of Hauran. 
-<small><sub>**KJV:**</sub></small>
-Hamath, Berothah, Sibraim, which [is] between the border of Damascus and the border of Hamath; Hazarhatticon, which [is] by the coast of Hauran.
-<small><sub>**BSB:**</sub></small>
-Berothah, and Sibraim (which is on the border between Damascus and Hamath), as far as Hazer-hatticon, which is on the border of Hauran.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.15|<< Ezekiel 47:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.17|Ezekiel 47:17 >>]]</td></tr></table>
 
 | Translation | Greek |

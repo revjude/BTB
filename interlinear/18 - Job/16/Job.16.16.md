@@ -1,4 +1,4 @@
-**Job 16:16** 
+**Job 16:16**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My face is foul with weeping, and on my eyelids [is] the shadow of death;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My face is red with weeping, and deep shadows ring my eyes;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.15|<< Job 16:15]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.17|Job 16:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | face my  |**<big>&#8207;[[H6440H\|פָּנַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| pa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are reddened  [^1]|**<big>&#8207;[[H2560C\|חֳ֭מַרְמְרוּ]]&#8207; </big>**[^2] | cho.mar.me.rah<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

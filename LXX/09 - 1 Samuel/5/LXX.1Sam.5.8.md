@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they send and gather the satraps of the Philistines to themselves. And they say, What should we do with the ark of the God of Israel? And the Gathites say, the ark of God pass between the ranks to us! And the ark of the God of Israel passed between the ranks unto Gath. 
-<small><sub>**KJV:**</sub></small>
-They sent therefore and gathered all the lords of the Philistines unto them, and said, What shall we do with the ark of the God of Israel? And they answered, Let the ark of the God of Israel be carried about unto Gath. And they carried the ark of the God of Israel about [thither].
-<small><sub>**BSB:**</sub></small>
-So they called together all the rulers of the Philistines and asked, “What shall we do with the ark of the God of Israel?” “It must be moved to Gath,” they replied. So they carried away the ark of the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.7|<< 1 Samuel 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.9|1 Samuel 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

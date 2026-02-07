@@ -1,4 +1,4 @@
-**Ezekiel 4:14** 
+**Ezekiel 4:14**<big><big>[[Ezek.4.9 The Defiled Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.13|<< Ezekiel 4:13]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.15|Ezekiel 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֗ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | alas!  |**<big>&#8207;[[H0162\|אֲהָהּ֙]]&#8207; </big>**| 'a.Hah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

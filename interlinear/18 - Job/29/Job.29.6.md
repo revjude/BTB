@@ -1,4 +1,4 @@
-**Job 29:6** 
+**Job 29:6**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I washed my steps with butter, and the rock poured me out rivers of oil;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ when my steps were bathed in cream and the rock poured out for me streams of oil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.5|<< Job 29:5]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.7|Job 29:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when bathed  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H7364\|רְחֹ֣ץ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> r.Chotz<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | steps my  |**<big>&#8207;[[H1978\|הֲלִיכַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ha.li.Kha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

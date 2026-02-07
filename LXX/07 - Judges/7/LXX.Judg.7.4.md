@@ -1,10 +1,7 @@
 **LXX Judges 7:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Gideon, Still the people are many, lead them down to the water! and I will try them for you there. And it will be whom ever I should tell to you, This one shall go with you -- he shall go with you. And all whom ever I should say that, He shall not go with you, then he shall not go with you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Gideon, The people [are] yet [too] many; bring them down unto the water, and I will try them for thee there: and it shall be, [that] of whom I say unto thee, This shall go with thee, the same shall go with thee; and of whomsoever I say unto thee, This shall not go with thee, the same shall not go.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Gideon, “There are still too many men. Take them down to the water, and I will sift them for you there. If I say to you, ‘This one shall go with you,’ he shall go. But if I say, ‘This one shall not go with you,’ he shall not go.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.3|<< Judges 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.5|Judges 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

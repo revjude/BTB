@@ -1,10 +1,7 @@
 **LXX Numbers 22:13** 
 <small><sub>**LXX:**</sub></small>
 And Balaam rising in the morning, said to the rulers of Balak, You run to  your land, \[the\] <span class="smallcaps">lord</span> does not allow me to go with you. 
-<small><sub>**KJV:**</sub></small>
-And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the LORD refuseth to give me leave to go with you.
-<small><sub>**BSB:**</sub></small>
-So Balaam got up the next morning and said to Balak’s princes, “Go back to your homeland, because the LORD has refused to let me go with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.12|<< Numbers 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.14|Numbers 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

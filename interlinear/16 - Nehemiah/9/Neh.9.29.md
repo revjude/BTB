@@ -1,4 +1,4 @@
-**Nehemiah 9:29** 
+**Nehemiah 9:29**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And testifiedst against them, that thou mightest bring them again unto thy law: yet they dealt proudly, and hearkened not unto thy commandments, but sinned against thy judgments, (which if a man do, he shall live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You admonished them to turn back to Your law, but they were arrogant and disobey
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.28|<< Nehemiah 9:28]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.30|Nehemiah 9:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you warned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5749B\|תָּ֨עַד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'ad<small><sup>[[HVhw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

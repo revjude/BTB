@@ -1,10 +1,7 @@
 **LXX Daniel 3:25** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king said, Here, I see four men being loose and walking in \[the\] midst of the fire, and there is no corruption to them, and the vision of the fourth \[is\] likened to son of God. 
-<small><sub>**KJV:**</sub></small>
-He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
-<small><sub>**BSB:**</sub></small>
-“Look!” he exclaimed. “I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.24|<< Daniel 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.26|Daniel 3:26 >>]]</td></tr></table>
 
 | Translation | Greek |

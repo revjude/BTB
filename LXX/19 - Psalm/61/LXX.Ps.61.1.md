@@ -6,10 +6,7 @@ To the director; among \[the\] hymns \[to\] David; a psalm.
 
 <small><sub>**LXX:**</sub></small>
 Listen, O God, \[to\] my supplication! Take heed \[to\] my prayer! 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician upon Neginah, [A Psalm] of David. Hear my cry, O God; attend unto my prayer.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. With stringed instruments. Of David. Hear my cry, O God; attend to my prayer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.61.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.12|<< Psalm 60:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.61.2|Psalm 61:2 >>]]</td></tr></table>
 
 | Translation | Greek |

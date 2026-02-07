@@ -1,10 +1,7 @@
 **LXX Genesis 6:20** 
 <small><sub>**LXX:**</sub></small>
 From all the fowl according to type, and from all the cattle according to type, and from all the reptiles  crawling upon the earth according to their type; two by two from all shall enter to you, to be maintained with you, male and female. 
-<small><sub>**KJV:**</sub></small>
-Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every [sort] shall come unto thee, to keep [them] alive.
-<small><sub>**BSB:**</sub></small>
-Two of every kind of bird and animal and crawling creature will come to you to be kept alive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.19|<< Genesis 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.21|Genesis 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

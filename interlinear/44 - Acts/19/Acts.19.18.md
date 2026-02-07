@@ -1,12 +1,12 @@
-**Acts 19:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:18**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many that believed came, and confessed, and shewed their deeds.
 <small><sub>**BSB:**</sub></small>
 Many who had believed now came forward, confessing and disclosing their deeds.
 <small><sub>**Literal:**</sub></small>
 Many then of those having believed were coming confessing and declaring the deeds of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.17|<< Acts 19:17]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.19|Acts 19:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|πολλοί]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

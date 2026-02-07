@@ -1,10 +1,7 @@
 **LXX Ruth 2:8** 
 <small><sub>**LXX:**</sub></small>
 And Boaz said to Ruth, Did you not hear, O daughter? You should not go to collect into another field, and you should not go from here; you join up here with  my young women! 
-<small><sub>**KJV:**</sub></small>
-Then said Boaz unto Ruth, Hearest thou not, my daughter? Go not to glean in another field, neither go from hence, but abide here fast by my maidens:
-<small><sub>**BSB:**</sub></small>
-Then Boaz said to Ruth, “Listen, my daughter. Do not go and glean in another field, and do not go away from this place, but stay here close to my servant girls.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.7|<< Ruth 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.9|Ruth 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, the prophets prophesy lies in  my name. I did not send them, and I did not give charge to them, and I did not speak to them. For lying visions, and divinations, and omens, and \[the\] resolves of their own heart they prophesy to you. 
-<small><sub>**KJV:**</sub></small>
-Then the LORD said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart.
-<small><sub>**BSB:**</sub></small>
-“The prophets are prophesying lies in My name,” replied the LORD. “I did not send them or appoint them or speak to them. They are prophesying to you a false vision, a worthless divination, the futility and delusion of their own minds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.13|<< Jeremiah 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.15|Jeremiah 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

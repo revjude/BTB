@@ -1,10 +1,7 @@
 **LXX Job 7:9** 
 <small><sub>**LXX:**</sub></small>
 \[I am\] as a cloud being cleared away from \[the\] heaven; for if a man should go down into Hades, no longer in any way should he ascend; 
-<small><sub>**KJV:**</sub></small>
-[As] the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no [more].
-<small><sub>**BSB:**</sub></small>
-As a cloud vanishes and is gone, so he who goes down to Sheol does not come back up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.8|<< Job 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.10|Job 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

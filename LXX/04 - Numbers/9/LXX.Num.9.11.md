@@ -1,10 +1,7 @@
 **LXX Numbers 9:11** 
 <small><sub>**LXX:**</sub></small>
 In the second month, on the fourteenth day towards evening, they shall prepare it; upon unleavened \[breads\] and bitter herbs they shall eat it. 
-<small><sub>**KJV:**</sub></small>
-The fourteenth day of the second month at even they shall keep it, [and] eat it with unleavened bread and bitter [herbs].
-<small><sub>**BSB:**</sub></small>
-Such people are to observe it at twilight on the fourteenth day of the second month. They are to eat the lamb, together with unleavened bread and bitter herbs;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.10|<< Numbers 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.12|Numbers 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

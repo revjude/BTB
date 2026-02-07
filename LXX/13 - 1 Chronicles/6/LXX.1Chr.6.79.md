@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:79** 
 <small><sub>**LXX:**</sub></small>
 and  Kedemoth and  her outskirts, and  Mephaath and  her outskirts. 
-<small><sub>**KJV:**</sub></small>
-Kedemoth also with her suburbs, and Mephaath with her suburbs:
-<small><sub>**BSB:**</sub></small>
-Kedemoth, and Mephaath, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.79|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.78|<< 1 Chronicles 6:78]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.80|1 Chronicles 6:80 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 49:39** 
+**Jeremiah 49:39**<big><big>[[Jer.49.34 Judgment on Elam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But it shall come to pass in the latter days, [that] I will bring again the captivity of Elam, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But it shall come to pass in the latter days, [that] I will bring again the capt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.38|<< Jeremiah 49:38]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.1|Jeremiah 50:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at [the] end of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0319\|אַחֲרִ֣ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.cha.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

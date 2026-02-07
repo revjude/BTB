@@ -1,10 +1,7 @@
 **LXX Numbers 11:5** 
 <small><sub>**LXX:**</sub></small>
 We remember the fishes which we ate in Egypt without charge, and the cucumbers, and the melons, and the leeks, and the onions, and the garlics. 
-<small><sub>**KJV:**</sub></small>
-We remember the fish, which we did eat in Egypt freely; the cucumbers, and the melons, and the leeks, and the onions, and the garlick:
-<small><sub>**BSB:**</sub></small>
-We remember the fish we ate freely in Egypt, along with the cucumbers, melons, leeks, onions, and garlic.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.4|<< Numbers 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.6|Numbers 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

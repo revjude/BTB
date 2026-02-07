@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 They sent a word to him, and thus was written in it, To Darius the king, all peace. 
-<small><sub>**KJV:**</sub></small>
-They sent a letter unto him, wherein was written thus; Unto Darius the king, all peace.
-<small><sub>**BSB:**</sub></small>
-The report they sent him read as follows: To King Darius: All peace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.6|<< Ezra 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.8|Ezra 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

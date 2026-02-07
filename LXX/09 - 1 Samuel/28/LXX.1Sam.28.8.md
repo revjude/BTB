@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:8** 
 <small><sub>**LXX:**</sub></small>
 And Saul changed \[appearance\], and put around other garments, and he himself goes and two men with him. And they come to the woman by night, and he said to her, Use oracles indeed for me by the delivering an oracle, and lead up to me whom ever I should tell you! 
-<small><sub>**KJV:**</sub></small>
-And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray thee, divine unto me by the familiar spirit, and bring me [him] up, whom I shall name unto thee.
-<small><sub>**BSB:**</sub></small>
-So Saul disguised himself by putting on different clothes, and he set out with two of his men. They came to the woman at night, and Saul said, “Consult a spirit for me. Bring up for me the one I name.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.7|<< 1 Samuel 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.9|1 Samuel 28:9 >>]]</td></tr></table>
 
 | Translation | Greek |

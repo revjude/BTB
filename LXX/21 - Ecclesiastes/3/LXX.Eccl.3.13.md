@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:13** 
 <small><sub>**LXX:**</sub></small>
 And indeed, every  man who shall eat and shall drink and should behold good in all his effort -- it is a gift of God. 
-<small><sub>**KJV:**</sub></small>
-And also that every man should eat and drink, and enjoy the good of all his labour, it [is] the gift of God.
-<small><sub>**BSB:**</sub></small>
-and also that every man should eat and drink and find satisfaction in all his labor—this is the gift of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.12|<< Ecclesiastes 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.14|Ecclesiastes 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

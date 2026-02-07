@@ -1,10 +1,7 @@
 **LXX Leviticus 15:19** 
 <small><sub>**LXX:**</sub></small>
 And a woman whoever might be flowing blood, when her flow shall be in  her body, seven days she will be in  her menstruation; every one touching her will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And if a woman have an issue, [and] her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-When a woman has a discharge consisting of blood from her body, she will be unclean due to her menstruation for seven days, and anyone who touches her will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.18|<< Leviticus 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.20|Leviticus 15:20 >>]]</td></tr></table>
 
 | Translation | Greek |

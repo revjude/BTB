@@ -1,12 +1,12 @@
-**Galatians 2:14
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:14**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before [them] all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
 <small><sub>**BSB:**</sub></small>
 When I saw that they were not walking in line with the truth of the gospel, I said to Cephas in front of them all, “If you, who are a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”
 <small><sub>**Literal:**</sub></small>
 But when I saw that not they are walking uprightly according to the truth of the gospel, I said <the> to Peter before all; If you yourself a Jew being like a Gentile and not like a Jew live, why the Gentiles do you compel to Judaize?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.13|<< Galatians 2:13]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.15|Galatians 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

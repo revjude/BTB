@@ -1,10 +1,7 @@
 **LXX Amos 9:10** 
 <small><sub>**LXX:**</sub></small>
 By broadsword all the sinners of my people shall come to an end, the ones saying, In no way shall approach nor come upon us the evils. 
-<small><sub>**KJV:**</sub></small>
-All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.
-<small><sub>**BSB:**</sub></small>
-All the sinners among My people will die by the sword—all those who say, ‘Disaster will never draw near or confront us.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.9|<< Amos 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.11|Amos 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

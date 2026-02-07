@@ -1,4 +1,4 @@
-**Micah 6:2** 
+**Micah 6:2**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye, O mountains, the LORD’S controversy, and ye strong foundations of the earth: for the LORD hath a controversy with his people, and he will plead with Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear, O mountains, the LORD’s indictment, you enduring foundations of the eart
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.1|<< Micah 6:1]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.3|Micah 6:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְע֤וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O mountains  |**<big>&#8207;[[H2022G\|הָרִים֙]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

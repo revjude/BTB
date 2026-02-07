@@ -1,12 +1,12 @@
-**2 John 1:12
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:12**<big><big>[[2John.1.12 Conclusion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having many things to write unto you, I would not [write] with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.
 <small><sub>**BSB:**</sub></small>
 I have many things to write to you, but I would prefer not to do so with paper and ink. Instead, I hope to come and speak with you face to face, so that our joy may be complete.
 <small><sub>**Literal:**</sub></small>
 Many things having to you to write not I purposed with paper and ink; but I hope to come to you and mouth to mouth to speak so that the joy of us completed may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.11|<< 2 John 1:11]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.13|2 John 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many things |**<big>[[G4183\|Πολλὰ]]</big>**  |Polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχων]]</big>**  |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

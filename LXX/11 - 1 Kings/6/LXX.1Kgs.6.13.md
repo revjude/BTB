@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:13** 
 <small><sub>**LXX:**</sub></small>
 and I will encamp in \[the\] midst of \[the\] sons of Israel, and  I will not abandon  my people Israel. 
-<small><sub>**KJV:**</sub></small>
-And I will dwell among the children of Israel, and will not forsake my people Israel.
-<small><sub>**BSB:**</sub></small>
-And I will dwell among the Israelites and will not abandon My people Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.12|<< 1 Kings 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.14|1 Kings 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

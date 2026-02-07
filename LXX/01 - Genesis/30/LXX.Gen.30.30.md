@@ -1,10 +1,7 @@
 **LXX Genesis 30:30** 
 <small><sub>**LXX:**</sub></small>
 For there was little as much as was to you before me, and it was grown into a multitude; and \[the\] <span class="smallcaps">lord</span> blessed you by  my foot. Now then, when I also produce for myself a house? 
-<small><sub>**KJV:**</sub></small>
-For [it was] little which thou hadst before I [came], and it is [now] increased unto a multitude; and the LORD hath blessed thee since my coming: and now when shall I provide for mine own house also?
-<small><sub>**BSB:**</sub></small>
-Indeed, you had very little before my arrival, but now your wealth has increased many times over. The LORD has blessed you wherever I set foot. But now, when may I also provide for my own household?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.29|<< Genesis 30:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.31|Genesis 30:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 1:10** 
+**2 Chronicles 1:10**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give me now wisdom and knowledge, that I may go out and come in before this people: for who can judge this thy people, [that is so] great?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now grant me wisdom and knowledge, so that I may lead this people. For who is ab
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.9|<< 2 Chronicles 1:9]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.11|2 Chronicles 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֤ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

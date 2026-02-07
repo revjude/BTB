@@ -1,4 +1,4 @@
-**Joel 1:10** 
+**Joel 1:10**<big><big>[[Joel.1.8 A Call to Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The field is ruined; the land mourns. For the grain is destroyed, the new wine i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.9|<< Joel 1:9]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.11|Joel 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it is devastated  |**<big>&#8207;[[H7703\|שֻׁדַּ֣ד]]&#8207; </big>**| shu.Dad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] field[s]  |**<big>&#8207;[[H7704G\|שָׂדֶ֔ה]]&#8207; </big>**| sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Acts 4:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:11**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This is the stone which was set at nought of you builders, which is become the head of the corner.
 <small><sub>**BSB:**</sub></small>
 This Jesus is ‘the stone you builders rejected, which has become the cornerstone.’
@@ -11,7 +11,7 @@ This is the stone which having been rejected by you the builders, which has beco
 > $\quad$ alluding to: [[LXX.Isa.28.16|Isa 28:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|οὗτός]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

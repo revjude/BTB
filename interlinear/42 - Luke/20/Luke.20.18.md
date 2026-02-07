@@ -1,5 +1,5 @@
-**Luke 20:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:18**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.
 <small><sub>**BSB:**</sub></small>
 Everyone who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.”
@@ -10,7 +10,7 @@ Everyone <the> falling on that [very] <the> stone will be broken; on whomever bu
 > $\quad$ alluding to: [[LXX.Isa.8.14|Isa 8:14]] ☩ [[LXX.Zech.12.3|Zech 12:3]] ☩ [[LXX.Dan.2.44|Dan 2:44]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

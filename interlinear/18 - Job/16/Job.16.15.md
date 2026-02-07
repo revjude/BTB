@@ -1,4 +1,4 @@
-**Job 16:15** 
+**Job 16:15**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have sewed sackcloth upon my skin, and defiled my horn in the dust.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have sewn sackcloth over my skin; I have buried my horn in the dust.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.14|<< Job 16:14]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.16|Job 16:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sackcloth  |**<big>&#8207;[[H8242\|שַׂ֣ק]]&#8207; </big>**| sak<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have sewed  |**<big>&#8207;[[H8609\|תָּ֭פַרְתִּי]]&#8207; </big>**| Ta.far.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

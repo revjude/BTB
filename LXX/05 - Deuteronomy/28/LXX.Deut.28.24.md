@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:24** 
 <small><sub>**LXX:**</sub></small>
 May \[the\] <span class="smallcaps">lord</span> appoint the rain  of your land a cloud of dust; and dust from out of the heaven shall come down upon you, until it should obliterate you, and until whenever it should destroy you. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed.
-<small><sub>**BSB:**</sub></small>
-The LORD will turn the rain of your land into dust and powder; it will descend on you from the sky until you are destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.23|<< Deuteronomy 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.25|Deuteronomy 28:25 >>]]</td></tr></table>
 
 | Translation | Greek |

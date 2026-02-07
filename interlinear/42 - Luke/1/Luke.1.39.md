@@ -1,12 +1,12 @@
-**Luke 1:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:39**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Mary arose in those days, and went into the hill country with haste, into a city of Juda;
 <small><sub>**BSB:**</sub></small>
 In those days Mary got ready and hurried to a town in the hill country of Judah,
 <small><sub>**Literal:**</sub></small>
 Having risen up then Mary in <the> days these she went into the hill country with haste to a town of Judah<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.38|<< Luke 1:38]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.40|Luke 1:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having risen up |**<big>[[G0450\|Ἀναστᾶσα]]</big>**  |Anastasa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

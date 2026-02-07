@@ -1,12 +1,12 @@
-**1 Corinthians 15:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:12**<big><big>[[1Cor.15.12 The Resurrection of the Dead|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
 <small><sub>**BSB:**</sub></small>
 But if it is preached that Christ has been raised from the dead, how can some of you say that there is no resurrection of the dead?
 <small><sub>**Literal:**</sub></small>
 If now Christ is preached that out from [the] dead He has been raised, how say among you some that a resurrection of [the] dead not there is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.11|<< 1 Corinthians 15:11]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.13|1 Corinthians 15:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

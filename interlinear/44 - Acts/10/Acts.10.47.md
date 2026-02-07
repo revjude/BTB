@@ -1,12 +1,12 @@
-**Acts 10:47
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:47**<big><big>[[Acts.10.44 The Gentiles Receive the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?
 <small><sub>**BSB:**</sub></small>
 “Can anyone withhold the water to baptize these people? They have received the Holy Spirit just as we have!”
 <small><sub>**Literal:**</sub></small>
 surely not ever the water is able to withhold anyone <the> not to baptize these who the Spirit <the> Holy have received as also [have] we ourselves?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.46|<< Acts 10:46]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.48|Acts 10:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely not ever |**<big>[[G3385\|μήτι]]</big>**  |mēti <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

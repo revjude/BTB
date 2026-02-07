@@ -1,12 +1,12 @@
-**1 Corinthians 1:26
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:26**<big><big>[[1Cor.1.26 Wisdom from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, [are called]:
 <small><sub>**BSB:**</sub></small>
 Brothers, consider the time of your calling: Not many of you were wise by human standards; not many were powerful; not many were of noble birth.
 <small><sub>**Literal:**</sub></small>
 Consider for the calling of you, brothers, that not many wise according to flesh [were], not many powerful, not many of noble birth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.25|<< 1 Corinthians 1:25]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.27|1 Corinthians 1:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Consider |**<big>[[G0991\|Βλέπετε]]</big>**  |Blepete <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

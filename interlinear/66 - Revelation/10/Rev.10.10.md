@@ -1,5 +1,5 @@
-**Revelation 10:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:10**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I took the little book out of the angel’s hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.
 <small><sub>**BSB:**</sub></small>
 So I took the small scroll from the angel’s hand and ate it, and it was as sweet as honey in my mouth. But when I had eaten it, my stomach turned bitter.
@@ -10,7 +10,7 @@ And I took the little scroll out of the hand of the angel and I ate it, and it w
 > $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I took |**<big>[[G2983\|ἔλαβον]]</big>**  |elabon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

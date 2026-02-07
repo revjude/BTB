@@ -1,10 +1,7 @@
 **LXX Isaiah 10:27** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day I shall remove  his yoke from  your shoulder, and the fear of him from you; and the yoke shall be ruined from  your shoulders. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, [that] his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.
-<small><sub>**BSB:**</sub></small>
-On that day the burden will be lifted from your shoulders, and the yoke from your neck. The yoke will be broken because your neck will be too large.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.26|<< Isaiah 10:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.28|Isaiah 10:28 >>]]</td></tr></table>
 
 | Translation | Greek |

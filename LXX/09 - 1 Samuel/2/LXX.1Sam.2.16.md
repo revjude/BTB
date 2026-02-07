@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:16** 
 <small><sub>**LXX:**</sub></small>
 And \[if\] the man \[who was\] sacrificing said, first let there be burnt as is fit for the fat, and then you shall take for yourself from all what your soul desires. Then he said, No, but now you shall give \[it\]; and if not, I will take it forcefully. 
-<small><sub>**KJV:**</sub></small>
-And [if] any man said unto him, Let them not fail to burn the fat presently, and [then] take [as much] as thy soul desireth; then he would answer him, [Nay]; but thou shalt give [it me] now: and if not, I will take [it] by force.
-<small><sub>**BSB:**</sub></small>
-And if any man said to him, “The fat must be burned first; then you may take whatever you want,” the servant would reply, “No, you must give it to me right now. If you refuse, I will take it by force!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.15|<< 1 Samuel 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.17|1 Samuel 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

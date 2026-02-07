@@ -1,4 +1,4 @@
-**Psalms 22:14** (22:15)
+**Psalms 22:14**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I am poured out like water, and all my bones are disjointed. My heart is like wa
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like \<the> water  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4325G\|מַּ֥יִם]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have been poured out  |**<big>&#8207;[[H8210G\|נִשְׁפַּכְתִּי֮]]&#8207; </big>**| nish.pakh.Ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 1:13** 
 <small><sub>**LXX:**</sub></small>
 If you should bring fine flour, \[it is in\] vain; incense is an abomination to me;  I cannot endure your new moons and the Sabbaths and \[the\] great day. 
-<small><sub>**KJV:**</sub></small>
-Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; [it is] iniquity, even the solemn meeting.
-<small><sub>**BSB:**</sub></small>
-Bring your worthless offerings no more; your incense is detestable to Me. New Moons, Sabbaths, and convocations—I cannot endure iniquity in a solemn assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.12|<< Isaiah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.14|Isaiah 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

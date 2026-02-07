@@ -1,4 +1,4 @@
-**Psalms 9:8** (9:9)
+**Psalms 9:8**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He judges the world with justice; He governs the people with equity.
 > $\quad$ referenced by: [[Acts.17.31|Acts 17:31]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֗וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will judge  |**<big>&#8207;[[H8199\|יִשְׁפֹּֽט]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yish.pot-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

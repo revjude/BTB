@@ -1,4 +1,4 @@
-**Ezekiel 11:11** 
+**Ezekiel 11:11**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [city] shall not be your caldron, neither shall ye be the flesh in the midst thereof; [but] I will judge you in the border of Israel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The city will not be a pot for you, nor will you be the meat within it. I will j
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.10|<< Ezekiel 11:10]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.12|Ezekiel 11:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it  |**<big>&#8207;[[H1931\|הִ֗יא]]&#8207; </big>**| Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

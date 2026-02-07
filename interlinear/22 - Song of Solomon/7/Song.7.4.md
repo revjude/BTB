@@ -1,4 +1,4 @@
-**Song of Solomon 7:4** (7:5)
+**Song of Solomon 7:4**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy neck [is] as a tower of ivory; thine eyes [like] the fishpools in Heshbon, by the gate of Bathrabbim: thy nose [is] as the tower of Lebanon which looketh toward Damascus.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your neck is like a tower made of ivory; your eyes are like the pools of Heshbon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.3|<< Song of Solomon 7:3]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.5|Song of Solomon 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | neck your  |**<big>&#8207;[[H6677A\|צַוָּארֵ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| tza.va.Re<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like [the] tower of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4026M\|מִגְדַּ֣ל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mig.Dal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

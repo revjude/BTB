@@ -1,4 +1,4 @@
-**Judges 4:5** 
+**Judges 4:5**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she dwelt under the palm tree of Deborah between Ramah and Bethel in mount Ephraim: and the children of Israel came up to her for judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And she would sit under the Palm of Deborah between Ramah and Bethel in the hill
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.4|<< Judges 4:4]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.6|Judges 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H1931\|הִיא]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] dwelling  |**<big>&#8207;[[H3427\|יוֹשֶׁ֨בֶת]]&#8207; </big>**| yo.She.vet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

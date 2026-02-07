@@ -1,12 +1,12 @@
-**Acts 9:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:31**<big><big>[[Acts.9.31 The Healing of Aeneas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
 <small><sub>**BSB:**</sub></small>
 Then the church throughout Judea, Galilee, and Samaria experienced a time of peace. It grew in strength and numbers, living in the fear of the Lord and the encouragement of the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 the indeed then church throughout all <the> of Judea and Galilee and Samaria had peace, being edified and going on in the fear of the Lord, and in the comfort of the Holy Spirit it were multiplied.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.30|<< Acts 9:30]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.32|Acts 9:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [^1] |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

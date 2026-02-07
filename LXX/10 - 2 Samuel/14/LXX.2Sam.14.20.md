@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:20** 
 <small><sub>**LXX:**</sub></small>
 So as for  the face of this matter to come about, Joab your servant prepared  this thing. And  my master the king \[is\] wise as \[the\] wisdom of a messenger  of God,  to know all the \[things\] in the land. 
-<small><sub>**KJV:**</sub></small>
-To fetch about this form of speech hath thy servant Joab done this thing: and my lord [is] wise, according to the wisdom of an angel of God, to know all [things] that [are] in the earth.
-<small><sub>**BSB:**</sub></small>
-Joab your servant has done this to bring about this change of affairs, but my lord has wisdom like the wisdom of the angel of God, to know everything that happens in the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.19|<< 2 Samuel 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.21|2 Samuel 14:21 >>]]</td></tr></table>
 
 | Translation | Greek |

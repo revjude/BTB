@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And if any take a woman and should live with her, and it shall be if she should not find favor before him, for he finds in her an indecent thing, then he shall write to her a certificate of divorce scroll, and he shall put it into  her hands, and he shall send her from out of  his house. 
-<small><sub>**KJV:**</sub></small>
-When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give [it] in her hand, and send her out of his house.
-<small><sub>**BSB:**</sub></small>
-If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.25|<< Deuteronomy 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.2|Deuteronomy 24:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 24:1** is...

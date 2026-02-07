@@ -1,4 +1,4 @@
-**Psalms 10:5** 
+**Psalms 10:5**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His ways are always grievous; thy judgments [are] far above out of his sight: [as for] all his enemies, he puffeth at them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is secure in his ways at all times; Your lofty judgments are far from him; he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.4|<< Psalms 10:4]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.6|Psalms 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they endure  |**<big>&#8207;[[H2342B\|יָ֘חִ֤ילוּ]]&#8207; </big>**| ya.Chi.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ways his  |**<big>&#8207;[[H1870G\|דְרָכָ֨י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^1] [^2] | da.re.k<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

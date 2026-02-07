@@ -1,10 +1,7 @@
 **LXX Job 36:8** 
 <small><sub>**LXX:**</sub></small>
 And the ones being shackled in manacles shall be held together by rough cords of poverty. 
-<small><sub>**KJV:**</sub></small>
-And if [they be] bound in fetters, [and] be holden in cords of affliction;
-<small><sub>**BSB:**</sub></small>
-And if men are bound with chains, caught in cords of affliction,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.7|<< Job 36:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.9|Job 36:9 >>]]</td></tr></table>
 
 | Translation | Greek |

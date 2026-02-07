@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:18** 
 <small><sub>**LXX:**</sub></small>
 Behold, I saw good, which is good  to eat and  to drink; and  to see goodness in all his effort in what ever he should make an effort in under the sun, \[in the\] number of days of his life which God gave to him. For it \[is\] his portion. 
-<small><sub>**KJV:**</sub></small>
-Behold [that] which I have seen: [it is] good and comely [for one] to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it [is] his portion.
-<small><sub>**BSB:**</sub></small>
-Here is what I have seen to be good and fitting: to eat and drink, and to find satisfaction in all the labor one does under the sun during the few days of life that God has given him—for this is his lot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.17|<< Ecclesiastes 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.19|Ecclesiastes 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

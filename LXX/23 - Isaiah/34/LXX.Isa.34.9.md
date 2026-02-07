@@ -1,10 +1,7 @@
 **LXX Isaiah 34:9** 
 <small><sub>**LXX:**</sub></small>
 And her ravines shall be turned into pitch; and  her land into sulphur; and her land will be in burning pitch 
-<small><sub>**KJV:**</sub></small>
-And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch.
-<small><sub>**BSB:**</sub></small>
-Edom’s streams will be turned to tar, and her soil to sulfur; her land will become a blazing pitch.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.8|<< Isaiah 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.10|Isaiah 34:10 >>]]</td></tr></table>
 
 | Translation | Greek |

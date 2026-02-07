@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:13** 
 <small><sub>**LXX:**</sub></small>
 the remnant  of Israel; and they shall not commit iniquity, and they shall not speak vanity, and in no way should there be found in  their mouth a deceitful tongue. For they shall feed, and shall lay in bed, and there will not be one frightening them. 
-<small><sub>**KJV:**</sub></small>
-The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make [them] afraid.
-<small><sub>**BSB:**</sub></small>
-The remnant of Israel will no longer do wrong or speak lies, nor will a deceitful tongue be found in their mouths. But they will feed and lie down, with no one to make them tremble.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.12|<< Zephaniah 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.14|Zephaniah 3:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zephaniah 3:13** is...

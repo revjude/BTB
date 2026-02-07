@@ -1,10 +1,7 @@
 **LXX Daniel 2:5** 
 <small><sub>**LXX:**</sub></small>
 The king answered and said to the Chaldeans, The matter departed from me. If then you should not make known to me the dream and the interpretation of it, you will be for destruction, and  your houses shall be torn in pieces. 
-<small><sub>**KJV:**</sub></small>
-The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.
-<small><sub>**BSB:**</sub></small>
-The king replied to the astrologers, “My word is final: If you do not tell me the dream and its interpretation, you will be cut into pieces and your houses will be reduced to rubble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.4|<< Daniel 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.6|Daniel 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 26:70
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:70**<big><big>[[Matt.26.69 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he denied before [them] all, saying, I know not what thou sayest.
 <small><sub>**BSB:**</sub></small>
 But he denied it before them all: “I do not know what you are talking about.”
 <small><sub>**Literal:**</sub></small>
 <the> And he denied before them all saying; Not I know what you say.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.69|<< Matthew 26:69]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.71|Matthew 26:71 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

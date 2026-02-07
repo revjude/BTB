@@ -1,10 +1,7 @@
 **LXX Exodus 28:11** 
 <small><sub>**LXX:**</sub></small>
 A work of a stonecutter's craft, \[as a\] carving \[of a\] seal you shall carve the two stones with the names of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-With the work of an engraver in stone, [like] the engravings of a signet, shalt thou engrave the two stones with the names of the children of Israel: thou shalt make them to be set in ouches of gold.
-<small><sub>**BSB:**</sub></small>
-Engrave the names of the sons of Israel on the two stones the way a gem cutter engraves a seal. Then mount the stones in gold filigree settings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.10|<< Exodus 28:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.12|Exodus 28:12 >>]]</td></tr></table>
 
 | Translation | Greek |

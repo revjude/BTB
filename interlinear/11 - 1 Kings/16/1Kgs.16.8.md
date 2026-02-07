@@ -1,4 +1,4 @@
-**1 Kings 16:8** 
+**1 Kings 16:8**<big><big>[[1Kgs.16.8 Elah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the twenty and sixth year of Asa king of Judah began Elah the son of Baasha to reign over Israel in Tirzah, two years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the twenty-sixth year of Asa’s reign over Judah, Elah son of Baasha became 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.7|<< 1 Kings 16:7]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.9|1 Kings 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֨ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֤ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

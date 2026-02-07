@@ -1,10 +1,7 @@
 **LXX Psalm 76:9** 
 <small><sub>**LXX:**</sub></small>
 in the rising up for judgment \[by\] God,  to deliver all the gentle in the earth. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-When God arose to judgment, to save all the meek of the earth. Selah.
-<small><sub>**BSB:**</sub></small>
-when God rose up to judge, to save all the lowly of the earth. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.76.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.8|<< Psalm 76:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.10|Psalm 76:10 >>]]</td></tr></table>
 
 | Translation | Greek |

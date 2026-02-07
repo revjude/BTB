@@ -1,10 +1,7 @@
 **LXX Isaiah 60:21** 
 <small><sub>**LXX:**</sub></small>
 And  your people \[are\] all righteous, and they shall inherit the earth through \[the\] eon, keeping the \[thing\] planted, \[even the\] works of \[their\] hands for glory. 
-<small><sub>**KJV:**</sub></small>
-Thy people also [shall be] all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
-<small><sub>**BSB:**</sub></small>
-Then all your people will be righteous; they will possess the land forever; they are the branch of My planting, the work of My hands, so that I may be glorified.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.20|<< Isaiah 60:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.22|Isaiah 60:22 >>]]</td></tr></table>
 
 | Translation | Greek |

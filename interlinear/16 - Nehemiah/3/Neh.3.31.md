@@ -1,4 +1,4 @@
-**Nehemiah 3:31** 
+**Nehemiah 3:31**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After him repaired Malchiah the goldsmith’s son unto the place of the Nethinims, and of the merchants, over against the gate Miphkad, and to the going up of the corner.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next to him, Malchijah, one of the goldsmiths, made repairs as far as the house 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.30|<< Nehemiah 3:30]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.32|Nehemiah 3:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after him  [^2]|**<big>&#8207;[[H0310A\|אַחֲרָ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**[^3] | 'a.cha.rei<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | he repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִ֗יק]]&#8207; </big>**| he.che.Zik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

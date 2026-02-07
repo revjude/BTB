@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:3** 
 <small><sub>**LXX:**</sub></small>
 And now, go! and you shall strike  Amalek, and you shall utterly destroy him, and all the \[things\] of his. And you shall devote him to consumption, and all the \[things\] of his; and in no way shall you spare over him. And you shall kill from man and unto woman, and from infant and unto one nursing; and from calf and unto sheep, and from camel and unto donkey. 
-<small><sub>**KJV:**</sub></small>
-Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.
-<small><sub>**BSB:**</sub></small>
-Now go and attack the Amalekites and devote to destruction all that belongs to them. Do not spare them, but put to death men and women, children and infants, oxen and sheep, camels and donkeys.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.2|<< 1 Samuel 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.4|1 Samuel 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

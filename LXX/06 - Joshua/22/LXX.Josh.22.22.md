@@ -1,10 +1,7 @@
 **LXX Joshua 22:22** 
 <small><sub>**LXX:**</sub></small>
 God, the <span class="smallcaps">lord</span> is God. And  God,  \[the\] <span class="smallcaps">lord</span> God himself knows, and Israel itself shall know; if we trespassed by defection before \[the\] <span class="smallcaps">lord</span>, may he not rescue us in  this day. 
-<small><sub>**KJV:**</sub></small>
-The LORD God of gods, the LORD God of gods, he knoweth, and Israel he shall know; if [it be] in rebellion, or if in transgression against the LORD, (save us not this day,)
-<small><sub>**BSB:**</sub></small>
-“The LORD, the Mighty One, is God! The LORD, the Mighty One, is God! He knows, and may Israel also know. If this was in rebellion or breach of faith against the LORD, do not spare us today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.21|<< Joshua 22:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.23|Joshua 22:23 >>]]</td></tr></table>
 
 | Translation | Greek |

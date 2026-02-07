@@ -1,4 +1,4 @@
-**2 Samuel 24:20** 
+**2 Samuel 24:20**<big><big>[[2Sam.24.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Araunah looked, and saw the king and his servants coming on toward him: and Araunah went out, and bowed himself before the king on his face upon the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Araunah looked out and saw the king and his servants coming toward him, he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.19|<< 2 Samuel 24:19]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.21|2 Samuel 24:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he looked down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8259\|יַּשְׁקֵ֣ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Kef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Araunah  |**<big>&#8207;[[H0728\|אֲרַ֗וְנָה]]&#8207; </big>**| 'a.Rav.nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

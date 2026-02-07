@@ -1,10 +1,7 @@
 **LXX Daniel 9:20** 
 <small><sub>**LXX:**</sub></small>
 And yet \[during\] my speaking, and praying, and declaring openly  my sins, and the sins  of my people Israel, and tossing  my \[desire for\] mercy before \[the\] <span class="smallcaps">lord</span>  my God concerning the holy mountain  of my God, 
-<small><sub>**KJV:**</sub></small>
-And whiles I [was] speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;
-<small><sub>**BSB:**</sub></small>
-While I was speaking, praying, confessing my sin and that of my people Israel, and presenting my petition before the LORD my God concerning His holy mountain—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.19|<< Daniel 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.21|Daniel 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

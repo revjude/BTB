@@ -1,10 +1,7 @@
 **LXX Job 10:22** 
 <small><sub>**LXX:**</sub></small>
 unto a land of eternal darkness, where there is no brightness, nor seeing \[the\] life of mortals. 
-<small><sub>**KJV:**</sub></small>
-A land of darkness, as darkness [itself; and] of the shadow of death, without any order, and [where] the light [is] as darkness.
-<small><sub>**BSB:**</sub></small>
-to a land of utter darkness, of deep shadow and disorder, where even the light is like darkness.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.21|<< Job 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.1|Job 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 11:26** 
 <small><sub>**LXX:**</sub></small>
 May the one hoarding grain leave it to the nations; but a blessing \[be\] on \[the\] head of the one sharing. 
-<small><sub>**KJV:**</sub></small>
-He that withholdeth corn, the people shall curse him: but blessing [shall be] upon the head of him that selleth [it].
-<small><sub>**BSB:**</sub></small>
-The people will curse the hoarder of grain, but blessing will crown the one who sells it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.25|<< Proverbs 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.27|Proverbs 11:27 >>]]</td></tr></table>
 
 | Translation | Greek |

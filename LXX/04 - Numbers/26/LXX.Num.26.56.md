@@ -1,10 +1,7 @@
 **LXX Numbers 26:56** 
 <small><sub>**LXX:**</sub></small>
 By the lot you shall portion  their inheritance between \[the\] many and few. 
-<small><sub>**KJV:**</sub></small>
-According to the lot shall the possession thereof be divided between many and few.
-<small><sub>**BSB:**</sub></small>
-Each inheritance is to be divided by lot among the larger and smaller tribes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.55|<< Numbers 26:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.57|Numbers 26:57 >>]]</td></tr></table>
 
 | Translation | Greek |

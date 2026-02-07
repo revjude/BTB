@@ -1,4 +1,4 @@
-**Hosea 11:5** 
+**Hosea 11:5**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will they not return to the land of Egypt and be ruled by Assyria because they r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.4|<< Hosea 11:4]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.6|Hosea 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will return  |**<big>&#8207;[[H7725G\|יָשׁוּב֙]]&#8207; </big>**| ya.Shuv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 5:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:32**<big><big>[[Luke.5.27 Jesus Calls Levi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I came not to call the righteous, but sinners to repentance.
 <small><sub>**BSB:**</sub></small>
 I have not come to call the righteous, but sinners, to repentance.”
 <small><sub>**Literal:**</sub></small>
 Not I have come to call righteous [ones] but sinners to repentance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.31|<< Luke 5:31]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.33|Luke 5:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have come |**<big>[[G2064\|ἐλήλυθα]]</big>**  |elēlutha <small><sup>[[V-2RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

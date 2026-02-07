@@ -1,12 +1,12 @@
-**Acts 21:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:28**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Crying out, Men of Israel, help: This is the man, that teacheth all [men] every where against the people, and the law, and this place: and further brought Greeks also into the temple, and hath polluted this holy place.
 <small><sub>**BSB:**</sub></small>
 crying out, “Men of Israel, help us! This is the man who teaches everyone everywhere against our people and against our law and against this place. Furthermore, he has brought Greeks into the temple and defiled this holy place.”
 <small><sub>**Literal:**</sub></small>
 crying out; Men Israelites, do help. This is the man who against the people and the law and <the> place this all those everywhere teaching, besides and also Greeks he has brought into the temple and has defiled <the> holy place this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.27|<< Acts 21:27]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.29|Acts 21:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | crying out; |**<big>[[G2896\|κράζοντες·]]</big>**  |krazontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Men |**<big>[[G0435G\|ἄνδρες]]</big>**  |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:13** 
 <small><sub>**LXX:**</sub></small>
 If I should hold up the heaven, and rain does not happen, and if the locust should be given charge  to eat up the land, and if I send a plague among  my people, 
-<small><sub>**KJV:**</sub></small>
-If I shut up heaven that there be no rain, or if I command the locusts to devour the land, or if I send pestilence among my people;
-<small><sub>**BSB:**</sub></small>
-If I close the sky so there is no rain, or if I command the locust to devour the land, or if I send a plague among My people,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.12|<< 2 Chronicles 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.14|2 Chronicles 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

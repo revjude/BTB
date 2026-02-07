@@ -1,10 +1,7 @@
 **LXX Zechariah 13:9** 
 <small><sub>**LXX:**</sub></small>
 And I shall lead the third \[part\] through fire, and I will purify them as silver is fired, and I will try them as gold is tried. He will call upon  my name, and I will heed him. And I will say, This is my people. And he shall say, \[The\] <span class="smallcaps">lord</span>  \[is\] my God. 
-<small><sub>**KJV:**</sub></small>
-And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It [is] my people: and they shall say, The LORD [is] my God.
-<small><sub>**BSB:**</sub></small>
-This third I will bring through the fire; I will refine them like silver and test them like gold. They will call on My name, and I will answer them. I will say, ‘They are My people,’ and they will say, ‘The LORD is our God.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.13.8|<< Zechariah 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.1|Zechariah 14:1 >>]]</td></tr></table>
 
 | Translation | Greek |

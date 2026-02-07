@@ -1,10 +1,7 @@
 **LXX Job 38:36** 
 <small><sub>**LXX:**</sub></small>
 And who gave women wisdom \[for\] a woven work, or skill for embroidery? 
-<small><sub>**KJV:**</sub></small>
-Who hath put wisdom in the inward parts? or who hath given understanding to the heart?
-<small><sub>**BSB:**</sub></small>
-Who has put wisdom in the heart or given understanding to the mind?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.35|<< Job 38:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.37|Job 38:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**1 John 1:8
-**<small><sub>**KJV:**</sub></small>
+**1 John 1:8**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If we say that we have no sin, we deceive ourselves, and the truth is not in us.
 <small><sub>**BSB:**</sub></small>
 If we say we have no sin, we deceive ourselves, and the truth is not in us.
@@ -10,7 +10,7 @@ If we shall say that sin not we have, ourselves we deceive and the truth not is 
 > $\quad$ alluding to: [[LXX.Prov.20.9|Prov 20:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we shall say |**<big>[[G2036\|εἴπωμεν]]</big>**  |eipōmen <small><sup>[[V-2AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

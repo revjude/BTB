@@ -1,12 +1,12 @@
-**Luke 9:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:1**<big><big>[[Luke.9.1 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
 <small><sub>**BSB:**</sub></small>
 Then Jesus called the Twelve together and gave them power and authority over all demons, and power to cure diseases.
 <small><sub>**Literal:**</sub></small>
 Having called together then the Twelve disciples of him He gave to them power and authority over all the demons and diseases to heal<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.56|<< Luke 8:56]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.2|Luke 9:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having called together |**<big>[[G4779\|Συγκαλεσάμενος]]</big>**  [^1] |Sugkalesamenos <small><sup>[[V-AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

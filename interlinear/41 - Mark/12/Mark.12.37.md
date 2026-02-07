@@ -1,12 +1,12 @@
-**Mark 12:37
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:37**<big><big>[[Mark.12.35 Whose Son Is the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 David therefore himself calleth him Lord; and whence is he [then] his son? And the common people heard him gladly.
 <small><sub>**BSB:**</sub></small>
 David himself calls Him ‘Lord.’ So how can He be David’s son?” And the large crowd listened to Him with delight.
 <small><sub>**Literal:**</sub></small>
 Himself therefore David names Him Lord, then how of him is He son? And the great crowd was listening to Him gladly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.36|<< Mark 12:36]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.38|Mark 12:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

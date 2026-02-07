@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:26** 
 <small><sub>**LXX:**</sub></small>
 And I will defile them in  their decrees in  my traveling by every one opening wide \[the\] womb, so that I should obliterate them, that thay shall know that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I polluted them in their own gifts, in that they caused to pass through [the fire] all that openeth the womb, that I might make them desolate, to the end that they might know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-And I pronounced them unclean through their gifts—the sacrifice of every firstborn in the fire—so that I might devastate them, in order that they would know that I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.25|<< Ezekiel 20:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.27|Ezekiel 20:27 >>]]</td></tr></table>
 
 | Translation | Greek |

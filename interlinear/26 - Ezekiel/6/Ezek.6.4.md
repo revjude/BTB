@@ -1,4 +1,4 @@
-**Ezekiel 6:4** 
+**Ezekiel 6:4**<big><big>[[Ezek.6.1 Judgment against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your altars shall be desolate, and your images shall be broken: and I will cast down your slain [men] before your idols.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your altars will be demolished and your incense altars will be smashed; and I wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.3|<< Ezekiel 6:3]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.5|Ezekiel 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be made desolate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8074G\|נָשַׁ֙מּוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sha.mu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | altars your  |**<big>&#8207;[[H4196\|מִזְבְּח֣וֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| miz.be.Cho.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

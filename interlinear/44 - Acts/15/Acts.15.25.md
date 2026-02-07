@@ -1,12 +1,12 @@
-**Acts 15:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:25**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,
 <small><sub>**BSB:**</sub></small>
 So we all agreed to choose men to send to you along with our beloved Barnabas and Paul,
 <small><sub>**Literal:**</sub></small>
 it seemed good to us having come with one accord having chosen men to send to you with the beloved of us Barnabas and Paul,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.24|<< Acts 15:24]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.26|Acts 15:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it seemed good |**<big>[[G1380\|ἔδοξεν]]</big>**  |edoxen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to us |**<big>[[G3165\|ἡμῖν]]</big>**  |hēmin <small><sup>[[P-1DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

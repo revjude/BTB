@@ -1,10 +1,7 @@
 **LXX Genesis 10:19** 
 <small><sub>**LXX:**</sub></small>
 And the boundaries of the Canaanites were from Sidon unto \[the\] coming into Gerar and Gaza, unto \[the\] coming unto Sodom and Gomorrah, Admah and Zeboim, unto Lasha. 
-<small><sub>**KJV:**</sub></small>
-And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.
-<small><sub>**BSB:**</sub></small>
-and the borders of Canaan extended from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.18|<< Genesis 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.20|Genesis 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

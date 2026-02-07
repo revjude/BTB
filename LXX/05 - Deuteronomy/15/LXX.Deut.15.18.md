@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:18** 
 <small><sub>**LXX:**</sub></small>
 be not hard before you sending them free from you, for \[the\] yearly wage of the hireling -- he served to you six years. And \[the\] <span class="smallcaps">lord</span> your God shall bless you in all what ever you should do. 
-<small><sub>**KJV:**</sub></small>
-It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant [to thee], in serving thee six years: and the LORD thy God shall bless thee in all that thou doest.
-<small><sub>**BSB:**</sub></small>
-Do not regard it as a hardship to set your servant free, because his six years of service were worth twice the wages of a hired hand. And the LORD your God will bless you in all you do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.17|<< Deuteronomy 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.19|Deuteronomy 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

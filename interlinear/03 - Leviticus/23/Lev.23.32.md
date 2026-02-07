@@ -1,4 +1,4 @@
-**Leviticus 23:32** 
+**Leviticus 23:32**<big><big>[[Lev.23.26 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [shall be] unto you a sabbath of rest, and ye shall afflict your souls: in the ninth [day] of the month at even, from even unto even, shall ye celebrate your sabbath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It will be a Sabbath of complete rest for you, and you shall humble yourselves. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.31|<< Leviticus 23:31]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.33|Leviticus 23:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a sabbath of  |**<big>&#8207;[[H7676\|שַׁבַּ֨ת]]&#8207; </big>**| sha.Bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sabbath observance  |**<big>&#8207;[[H7677\|שַׁבָּת֥וֹן]]&#8207; </big>**| sha.ba.Ton<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

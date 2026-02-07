@@ -1,4 +1,4 @@
-**Ezekiel 16:46** 
+**Ezekiel 16:46**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thine elder sister [is] Samaria, she and her daughters that dwell at thy left hand: and thy younger sister, that dwelleth at thy right hand, [is] Sodom and her daughters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your older sister was Samaria, who lived with her daughters to your north; and y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.45|<< Ezekiel 16:45]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.47|Ezekiel 16:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and sister your  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0269\|אֲחוֹתֵ֨]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.cho.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> old  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419K\|גְּדוֹלָ֤ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.do.Lah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

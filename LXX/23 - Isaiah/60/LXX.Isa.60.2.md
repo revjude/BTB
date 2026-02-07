@@ -1,10 +1,7 @@
 **LXX Isaiah 60:2** 
 <small><sub>**LXX:**</sub></small>
 Behold, darkness shall cover \[the\] earth, and a dimness upon nations; but \[the\] <span class="smallcaps">lord</span> shall appear upon you, and  his glory shall be seen upon you. 
-<small><sub>**KJV:**</sub></small>
-For, behold, the darkness shall cover the earth, and gross darkness the people: but the LORD shall arise upon thee, and his glory shall be seen upon thee.
-<small><sub>**BSB:**</sub></small>
-For behold, darkness covers the earth, and thick darkness is over the peoples; but the LORD will rise upon you, and His glory will appear over you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.1|<< Isaiah 60:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.3|Isaiah 60:3 >>]]</td></tr></table>
 
 | Translation | Greek |

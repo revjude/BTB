@@ -1,4 +1,4 @@
-**Numbers 21:33** 
+**Numbers 21:33**<big><big>[[Num.21.31 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they turned and went up by the way of Bashan: and Og the king of Bashan went out against them, he, and all his people, to the battle at Edrei.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they turned and went up the road to Bashan, and Og king of Bashan and his w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.32|<< Numbers 21:32]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.34|Numbers 21:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|יִּפְנוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they went up  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5927G\|יַּעֲל֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

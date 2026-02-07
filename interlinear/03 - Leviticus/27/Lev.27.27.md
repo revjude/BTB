@@ -1,4 +1,4 @@
-**Leviticus 27:27** 
+**Leviticus 27:27**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if [it be] of an unclean beast, then he shall redeem [it] according to thine estimation, and shall add a fifth [part] of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if it is among the unclean animals, then he may redeem it according to your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.26|<< Leviticus 27:26]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.28|Leviticus 27:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִ֨ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the livestock  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H0929\|בְּהֵמָ֤ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

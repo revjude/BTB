@@ -1,4 +1,4 @@
-**Proverbs 30:20** 
+**Proverbs 30:20**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Such [is] the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the way of an adulteress: She eats and wipes her mouth and says, ‘I ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.19|<< Proverbs 30:19]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.21|Proverbs 30:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] thus  |**<big>&#8207;[[H3651C\|כֵּ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] way of  |**<big>&#8207;[[H1870G\|דֶּ֥רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

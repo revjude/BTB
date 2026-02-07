@@ -1,10 +1,7 @@
 **LXX Numbers 27:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Ascend into the mountain, the one on the other side of the Jordan, this  mount Nebo, and see the land of Canaan which I give to the sons of Israel for a possession! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Go up this mountain of the Abarim range and see the land that I have given the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.11|<< Numbers 27:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.13|Numbers 27:13 >>]]</td></tr></table>
 
 | Translation | Greek |

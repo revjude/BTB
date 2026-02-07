@@ -1,10 +1,7 @@
 **LXX Genesis 35:12** 
 <small><sub>**LXX:**</sub></small>
 And the land which I gave Abraham and Isaac, I give it to you. And \[to\] your seed after you I shall give  this land. 
-<small><sub>**KJV:**</sub></small>
-And the land which I gave Abraham and Isaac, to thee I will give it, and to thy seed after thee will I give the land.
-<small><sub>**BSB:**</sub></small>
-The land that I gave to Abraham and Isaac I will give to you, and I will give this land to your descendants after you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.11|<< Genesis 35:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.13|Genesis 35:13 >>]]</td></tr></table>
 
 | Translation | Greek |

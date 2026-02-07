@@ -1,4 +1,4 @@
-**Deuteronomy 7:1** 
+**Deuteronomy 7:1**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When the LORD your God brings you into the land that you are entering to possess
 > $\quad$ referenced by: [[Acts.13.19|Acts 13:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will bring you  |**<big>&#8207;[[H0935P\|יְבִֽיאֲ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| ye.vi.'a.<small><sup>[[HVhi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 14:6** 
 <small><sub>**LXX:**</sub></small>
 And there came forward sons of Judah to Joshua in Gilgal. And said to him Caleb the \[son of\] Jephunneh the Kenezite, You know the word which \[the\] <span class="smallcaps">lord</span> spoke to Moses \[the\] man  of God concerning me and you in Kadesh Barnea. 
-<small><sub>**KJV:**</sub></small>
-Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the LORD said unto Moses the man of God concerning me and thee in Kadeshbarnea.
-<small><sub>**BSB:**</sub></small>
-Then the sons of Judah approached Joshua at Gilgal, and Caleb son of Jephunneh the Kenizzite said to him, “You know what the LORD said to Moses the man of God at Kadesh-barnea about you and me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.5|<< Joshua 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.7|Joshua 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

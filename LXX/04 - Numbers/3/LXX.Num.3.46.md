@@ -1,10 +1,7 @@
 **LXX Numbers 3:46** 
 <small><sub>**LXX:**</sub></small>
 And for the ransoms of three and seventy and two hundred -- the ones abounding over the Levites, from the first-born of the sons of Israel, 
-<small><sub>**KJV:**</sub></small>
-And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;
-<small><sub>**BSB:**</sub></small>
-To redeem the 273 firstborn Israelites who outnumber the Levites,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.45|<< Numbers 3:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.47|Numbers 3:47 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 5:6** 
+**1 Chronicles 5:6**<big><big>[[1Chr.5.1 The Descendants of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beerah his son, whom Tilgathpilneser king of Assyria carried away [captive]: he [was] prince of the Reubenites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Beerah his son, whom Tiglath-pileser king of Assyria carried into exile. Bee
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.5|<< 1 Chronicles 5:5]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.7|1 Chronicles 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Beerah  |**<big>&#8207;[[H0880\|בְּאֵרָ֣ה]]&#8207; </big>**| be.'e.Rah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְנ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

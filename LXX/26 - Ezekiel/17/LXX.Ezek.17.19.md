@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:19** 
 <small><sub>**LXX:**</sub></small>
 On account of this say! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; \[As\] I live, surely  swearing by my oath which he disgraced, and  my covenant which he violated, \[that\] I will impute it on his head. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; [As] I live, surely mine oath that he hath despised, and my covenant that he hath broken, even it will I recompense upon his own head.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: ‘As surely as I live, I will bring down upon his head My oath that he despised and My covenant that he broke.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.18|<< Ezekiel 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.20|Ezekiel 17:20 >>]]</td></tr></table>
 
 | Translation | Greek |

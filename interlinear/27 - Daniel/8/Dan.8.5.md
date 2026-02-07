@@ -1,4 +1,4 @@
-**Daniel 8:5** 
+**Daniel 8:5**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat [had] a notable horn between his eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As I was contemplating all this, suddenly a goat with a prominent horn between h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.4|<< Daniel 8:4]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.6|Daniel 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was  |**<big>&#8207;[[H1961\|הָיִ֣יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

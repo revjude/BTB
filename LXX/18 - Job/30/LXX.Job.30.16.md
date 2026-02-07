@@ -1,10 +1,7 @@
 **LXX Job 30:16** 
 <small><sub>**LXX:**</sub></small>
 And now my soul shall be poured out upon me; and days of griefs suffice me. 
-<small><sub>**KJV:**</sub></small>
-And now my soul is poured out upon me; the days of affliction have taken hold upon me.
-<small><sub>**BSB:**</sub></small>
-And now my soul is poured out within me; days of affliction grip me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.15|<< Job 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.17|Job 30:17 >>]]</td></tr></table>
 
 | Translation | Greek |

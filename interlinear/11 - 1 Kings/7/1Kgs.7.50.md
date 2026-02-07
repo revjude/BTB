@@ -1,4 +1,4 @@
-**1 Kings 7:50** 
+**1 Kings 7:50**<big><big>[[1Kgs.7.48 Completion of the Gold Furnishings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the bowls, and the snuffers, and the basons, and the spoons, and the censers [of] pure gold; and the hinges [of] gold, [both] for the doors of the inner house, the most holy [place, and] for the doors of the house, [to wit], of the temple.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the pure gold basins, wick trimmers, sprinkling bowls, ladles, and censers; and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.49|<< 1 Kings 7:49]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.51|1 Kings 7:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the basins  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5592A\|סִּפּוֹת]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> s.si.pot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the snuffers  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H4212\|מְזַמְּר֧וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> m.za.me.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

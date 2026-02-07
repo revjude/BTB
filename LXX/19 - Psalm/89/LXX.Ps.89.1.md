@@ -6,10 +6,7 @@ A contemplation of Ethan the Ezrahite.
 
 <small><sub>**LXX:**</sub></small>
  I shall sing of your mercies O <span class="smallcaps">lord</span> into the eon. Unto generation and generation I shall report  your truth with  my mouth. 
-<small><sub>**KJV:**</sub></small>
-Maschil of Ethan the Ezrahite. I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.
-<small><sub>**BSB:**</sub></small>
-A Maskil of Ethan the Ezrahite. I will sing of the loving devotion of the LORD forever; with my mouth I will proclaim Your faithfulness to all generations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.18|<< Psalm 88:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.2|Psalm 89:2 >>]]</td></tr></table>
 
 | Translation | Greek |

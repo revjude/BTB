@@ -1,10 +1,7 @@
 **LXX Psalm 119:36** 
 <small><sub>**LXX:**</sub></small>
 Lean  my heart unto  your testimonies, and not unto \[the\] desire for wealth! 
-<small><sub>**KJV:**</sub></small>
-Incline my heart unto thy testimonies, and not to covetousness.
-<small><sub>**BSB:**</sub></small>
-Turn my heart to Your testimonies and not to covetous gain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.35|<< Psalm 119:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.37|Psalm 119:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 25:5** 
+**Leviticus 25:5**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: [for] it is a year of rest unto the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are not to reap the aftergrowth of your harvest or gather the grapes of your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.4|<< Leviticus 25:4]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.6|Leviticus 25:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] self-sown grain of  |**<big>&#8207;[[H5599B\|סְפִ֤יחַ]]&#8207; </big>**| se.Fi.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 38:10** 
 <small><sub>**LXX:**</sub></small>
 And it appeared wicked before  God that he did this; and he put to death also this one. 
-<small><sub>**KJV:**</sub></small>
-And the thing which he did displeased the LORD: wherefore he slew him also.
-<small><sub>**BSB:**</sub></small>
-What he did was wicked in the sight of the LORD, so He put Onan to death as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.9|<< Genesis 38:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.11|Genesis 38:11 >>]]</td></tr></table>
 
 | Translation | Greek |

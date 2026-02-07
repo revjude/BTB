@@ -1,10 +1,7 @@
 **LXX Exodus 40:29** 
 <small><sub>**LXX:**</sub></small>
 And the altar of the yield \[offerings\] he put by the door of the tent of the testimony. And he offered on it a whole burnt-offering, and a sacrifice \[offering\], as \[the\] <span class="smallcaps">lord</span> gave orders to Moses. 
-<small><sub>**KJV:**</sub></small>
-And he put the altar of burnt offering [by] the door of the tabernacle of the tent of the congregation, and offered upon it the burnt offering and the meat offering; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-He placed the altar of burnt offering near the entrance to the tabernacle, the Tent of Meeting, and offered on it the burnt offering and the grain offering, just as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.28|<< Exodus 40:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.30|Exodus 40:30 >>]]</td></tr></table>
 
 | Translation | Greek |

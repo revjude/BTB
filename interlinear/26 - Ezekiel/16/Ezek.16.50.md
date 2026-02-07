@@ -1,4 +1,4 @@
-**Ezekiel 16:50** 
+**Ezekiel 16:50**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they were haughty, and committed abomination before me: therefore I took them away as I saw [good].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus they were haughty and committed abominations before Me. Therefore I removed
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.49|<< Ezekiel 16:49]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.51|Ezekiel 16:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were haughty  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1361\|תִּגְבְּהֶ֔ינָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tig.be.Hei.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|תַּעֲשֶׂ֥ינָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Sei.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

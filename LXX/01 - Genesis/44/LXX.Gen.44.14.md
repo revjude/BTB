@@ -1,10 +1,7 @@
 **LXX Genesis 44:14** 
 <small><sub>**LXX:**</sub></small>
 And Judah entered and  his brothers to Joseph, while he \[was\] there. And they fell before him upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And Judah and his brethren came to Joseph’s house; for he [was] yet there: and they fell before him on the ground.
-<small><sub>**BSB:**</sub></small>
-When Judah and his brothers arrived at Joseph’s house, he was still there, and they fell to the ground before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.13|<< Genesis 44:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.15|Genesis 44:15 >>]]</td></tr></table>
 
 | Translation | Greek |

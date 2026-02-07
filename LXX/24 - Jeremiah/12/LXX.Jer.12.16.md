@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:16** 
 <small><sub>**LXX:**</sub></small>
 And it will be if in learning they should learn the way  of my people,  to swear by an oath \[to\] my name, \[saying\], As \[the\] <span class="smallcaps">lord</span> lives; as they taught  my people to swear by an oath \[to\] Baal, then they shall be edified in \[the\] midst  of my people. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, if they will diligently learn the ways of my people, to swear by my name, The LORD liveth; as they taught my people to swear by Baal; then shall they be built in the midst of my people.
-<small><sub>**BSB:**</sub></small>
-And if they will diligently learn the ways of My people and swear by My name, saying, ‘As surely as the LORD lives’—just as they once taught My people to swear by Baal—then they will be established among My people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.15|<< Jeremiah 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.17|Jeremiah 12:17 >>]]</td></tr></table>
 
 | Translation | Greek |

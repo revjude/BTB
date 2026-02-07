@@ -1,4 +1,4 @@
-**2 Chronicles 14:12** (14:11)
+**2 Chronicles 14:12**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD struck down the Cushites before Asa and Judah, and the Cushites fled
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.11|<< 2 Chronicles 14:11]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.13|2 Chronicles 14:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he defeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5062\|יִּגֹּ֤ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Gof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

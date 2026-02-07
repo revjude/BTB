@@ -1,4 +1,4 @@
-**Ecclesiastes 7:10** 
+**Ecclesiastes 7:10**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say not thou, What is [the cause] that the former days were better than these? for thou dost not inquire wisely concerning this.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not say, “Why were the old days better than these?” For it is unwise of y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.9|<< Ecclesiastes 7:9]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.11|Ecclesiastes 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you say  |**<big>&#8207;[[H0559\|תֹּאמַר֙]]&#8207; </big>**| to.Mar<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

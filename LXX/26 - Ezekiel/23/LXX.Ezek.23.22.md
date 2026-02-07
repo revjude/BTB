@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 On account of this, O Aholibah, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I awaken  your lovers against you, of whom your soul is separated unto them. And I will bring them against you round about; 
-<small><sub>**KJV:**</sub></small>
-Therefore, O Aholibah, thus saith the Lord GOD; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side;
-<small><sub>**BSB:**</sub></small>
-Therefore, Oholibah, this is what the Lord GOD says: ‘I will incite your lovers against you, those from whom you turned away in disgust. And I will bring them against you from every side—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.21|<< Ezekiel 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.23|Ezekiel 23:23 >>]]</td></tr></table>
 
 | Translation | Greek |

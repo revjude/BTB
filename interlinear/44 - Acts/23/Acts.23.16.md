@@ -1,12 +1,12 @@
-**Acts 23:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:16**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Paul’s sister’s son heard of their lying in wait, he went and entered into the castle, and told Paul.
 <small><sub>**BSB:**</sub></small>
 But when the son of Paul’s sister heard about the plot, he went into the barracks and told Paul.
 <small><sub>**Literal:**</sub></small>
 Having heard however the son of the sister of Paul of the ambush, having come near and having entered into the barracks he reported [it] <the> to Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.15|<< Acts 23:15]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.17|Acts 23:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσας]]</big>**  |Akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

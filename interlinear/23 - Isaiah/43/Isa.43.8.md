@@ -1,4 +1,4 @@
-**Isaiah 43:8** 
+**Isaiah 43:8**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring forth the blind people that have eyes, and the deaf that have ears.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bring out a people who have eyes but are blind, and who have ears but are deaf.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.7|<< Isaiah 43:7]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.9|Isaiah 43:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bring out  |**<big>&#8207;[[H3318H\|הוֹצִ֥יא]]&#8207; </big>**| ho.Tzi'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a people  |**<big>&#8207;[[H5971A\|עַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'am-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

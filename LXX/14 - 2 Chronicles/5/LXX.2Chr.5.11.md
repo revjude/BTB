@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the coming forth of the priests from out of the holy \[places\], (for all the priests  being found were sanctified, for they were not \[then\] set in order according to daily rotation) 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the priests were come out of the holy [place]: (for all the priests [that were] present were sanctified, [and] did not [then] wait by course:
-<small><sub>**BSB:**</sub></small>
-Now all the priests who were present had consecrated themselves regardless of their divisions. And when the priests came out of the Holy Place,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.10|<< 2 Chronicles 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.12|2 Chronicles 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

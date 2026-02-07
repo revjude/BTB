@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:6** 
 <small><sub>**LXX:**</sub></small>
 And indeed \[to\] your maidservant \[are\] two sons, and both quarreled in the field, and there was no one  for rescuing between them, and the one hit  his one brother, and killed him. 
-<small><sub>**KJV:**</sub></small>
-And thy handmaid had two sons, and they two strove together in the field, and [there was] none to part them, but the one smote the other, and slew him.
-<small><sub>**BSB:**</sub></small>
-And your maidservant had two sons who were fighting in the field with no one to separate them, and one struck the other and killed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.5|<< 2 Samuel 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.7|2 Samuel 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

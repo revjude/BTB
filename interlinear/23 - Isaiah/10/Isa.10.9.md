@@ -1,4 +1,4 @@
-**Isaiah 10:9** 
+**Isaiah 10:9**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] not Calno as Carchemish? [is] not Hamath as Arpad? [is] not Samaria as Damascus?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.8|<< Isaiah 10:8]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.10|Isaiah 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like Carchemish  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3751\|כַרְכְּמִ֖ישׁ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> khar.ke.Mish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

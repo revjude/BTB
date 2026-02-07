@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:21** 
 <small><sub>**LXX:**</sub></small>
 And she said, Let there be given indeed Abishag the Shunammite \[to\] Adonijah  your brother for wife! 
-<small><sub>**KJV:**</sub></small>
-And she said, Let Abishag the Shunammite be given to Adonijah thy brother to wife.
-<small><sub>**BSB:**</sub></small>
-So Bathsheba said, “Let Abishag the Shunammite be given to your brother Adonijah as his wife.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.20|<< 1 Kings 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.22|1 Kings 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Revelation 18:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:14**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the fruits that thy soul lusted after are departed from thee, and all things which were dainty and goodly are departed from thee, and thou shalt find them no more at all.
 <small><sub>**BSB:**</sub></small>
 And they will say: “The fruit of your soul’s desire has departed from you; all your luxury and splendor have vanished, never to be seen again.”
 <small><sub>**Literal:**</sub></small>
 And the ripe fruit of you of the desire of the soul are departed from you, and all the sumptuous things and the splendid things were destroyed from you, and no longer certainly not them they will find.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.13|<< Revelation 18:13]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.15|Revelation 18:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

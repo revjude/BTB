@@ -1,10 +1,7 @@
 **LXX Numbers 4:48** 
 <small><sub>**LXX:**</sub></small>
 And the ones being numbered were, eight thousand five hundred eighty. 
-<small><sub>**KJV:**</sub></small>
-Even those that were numbered of them, were eight thousand and five hundred and fourscore.
-<small><sub>**BSB:**</sub></small>
-And the number of men was 8,580.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.47|<< Numbers 4:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.49|Numbers 4:49 >>]]</td></tr></table>
 
 | Translation | Greek |

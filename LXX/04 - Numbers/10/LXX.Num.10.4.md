@@ -1,10 +1,7 @@
 **LXX Numbers 10:4** 
 <small><sub>**LXX:**</sub></small>
 But if they should trump with one \[sound\], \[then\] shall come forward to you all the rulers \[of the\] heads of Israel. 
-<small><sub>**KJV:**</sub></small>
-And if they blow [but] with one [trumpet], then the princes, [which are] heads of the thousands of Israel, shall gather themselves unto thee.
-<small><sub>**BSB:**</sub></small>
-But if only one is sounded, then the leaders, the heads of the clans of Israel, are to gather before you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.3|<< Numbers 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.5|Numbers 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

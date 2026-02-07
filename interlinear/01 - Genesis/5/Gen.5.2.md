@@ -1,4 +1,4 @@
-**Genesis 5:2** 
+**Genesis 5:2**<big><big>[[Gen.5.1 The Descendants of Adam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Male and female He created them, and He blessed them. And in the day they were c
 > $\quad$ referenced by: [[Matt.19.4|Matt 19:4]] ☩ [[Mark.10.6|Mark 10:6]] ☩ [[Jas.3.9|Jas 3:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | male  |**<big>&#8207;[[H2145\|זָכָ֥ר]]&#8207; </big>**| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and female  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5347\|נְקֵבָ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.ke.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

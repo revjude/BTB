@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:11** 
 <small><sub>**LXX:**</sub></small>
 And he led out the son of the king, and put upon him the crown, and the testimony, and they made him to reign. And Jehoiada the priest and his sons anointed him, and they said, the king live! 
-<small><sub>**KJV:**</sub></small>
-Then they brought out the king’s son, and put upon him the crown, and [gave him] the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.
-<small><sub>**BSB:**</sub></small>
-Then Jehoiada and his sons brought out the king’s son, put the crown on him, presented him with the Testimony, and proclaimed him king. They anointed him and shouted, “Long live the king!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.10|<< 2 Chronicles 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.12|2 Chronicles 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

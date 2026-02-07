@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:18** 
 <small><sub>**LXX:**</sub></small>
 But only before \[the\] <span class="smallcaps">lord</span>  your God shall you eat them in the place in which ever \[the\] <span class="smallcaps">lord</span> your God himself should choose \[for\] you and  your son and  your daughter,  your manservant and  your maidservant, and the Levite, and the foreigner  in  your cities. And you shall be glad before \[the\] <span class="smallcaps">lord</span>  your God over all of whatsoever your hand upon. 
-<small><sub>**KJV:**</sub></small>
-But thou must eat them before the LORD thy God in the place which the LORD thy God shall choose, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that [is] within thy gates: and thou shalt rejoice before the LORD thy God in all that thou puttest thine hands unto.
-<small><sub>**BSB:**</sub></small>
-Instead, you must eat them in the presence of the LORD your God at the place the LORD your God will choose—you, your sons and daughters, your menservants and maidservants, and the Levite within your gates. Rejoice before the LORD your God in all you do,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.17|<< Deuteronomy 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.19|Deuteronomy 12:19 >>]]</td></tr></table>
 
 | Translation | Greek |

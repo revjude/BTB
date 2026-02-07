@@ -1,12 +1,12 @@
-**John 19:20
-**<small><sub>**KJV:**</sub></small>
+**John 19:20**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This title then read many of the Jews: for the place where Jesus was crucified was nigh to the city: and it was written in Hebrew, [and] Greek, [and] Latin.
 <small><sub>**BSB:**</sub></small>
 Many of the Jews read this sign, because the place where Jesus was crucified was near the city, and it was written in Hebrew, Latin, and Greek.
 <small><sub>**Literal:**</sub></small>
 This therefore the title many read of the Jews, for near was the place of the city where was crucified <the> Jesus; and it was written in Hebrew, in Latin, in Greek.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.19|<< John 19:19]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.21|John 19:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτον]]</big>**  |touton <small><sup>[[D-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

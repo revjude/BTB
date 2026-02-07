@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:29** 
 <small><sub>**LXX:**</sub></small>
 They did not think to perceive; let them appreciate in the coming time. 
-<small><sub>**KJV:**</sub></small>
-O that they were wise, [that] they understood this, [that] they would consider their latter end!
-<small><sub>**BSB:**</sub></small>
-If only they were wise, they would understand it; they would comprehend their fate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.28|<< Deuteronomy 32:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.30|Deuteronomy 32:30 >>]]</td></tr></table>
 
 | Translation | Greek |

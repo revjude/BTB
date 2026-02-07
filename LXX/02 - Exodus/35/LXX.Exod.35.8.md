@@ -1,10 +1,7 @@
 **LXX Exodus 35:8** 
 <small><sub>**LXX:**</sub></small>
 and oil for the giving light, and incense for the oil of the anointing, and for the compound of the incense, 
-<small><sub>**KJV:**</sub></small>
-And oil for the light, and spices for anointing oil, and for the sweet incense,
-<small><sub>**BSB:**</sub></small>
-olive oil for the light; spices for the anointing oil and for the fragrant incense;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.7|<< Exodus 35:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.9|Exodus 35:9 >>]]</td></tr></table>
 
 | Translation | Greek |

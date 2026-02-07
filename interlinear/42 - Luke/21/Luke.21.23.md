@@ -1,12 +1,12 @@
-**Luke 21:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:23**<big><big>[[Luke.21.20 The Destruction of Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.
 <small><sub>**BSB:**</sub></small>
 How miserable those days will be for pregnant and nursing mothers! For there will be great distress upon the land and wrath against this people.
 <small><sub>**Literal:**</sub></small>
 But woe now to those in womb [pregnancy] having and to the [ones] nursing in those the days; there will be for distress great upon the land and wrath in to the people this,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.22|<< Luke 21:22]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.24|Luke 21:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But woe |**<big>[[G3759\|Οὐαὶ]]</big>**  |Ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

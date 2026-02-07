@@ -1,10 +1,7 @@
 **LXX Genesis 9:10** 
 <small><sub>**LXX:**</sub></small>
 and every living soul after you, from fowls and from cattle, and with all the wild beasts of the earth, as many as are with you, from all the ones coming forth from out of the ark. 
-<small><sub>**KJV:**</sub></small>
-And with every living creature that [is] with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.
-<small><sub>**BSB:**</sub></small>
-and with every living creature that was with you—the birds, the livestock, and every beast of the earth—every living thing that came out of the ark.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.9|<< Genesis 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.11|Genesis 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

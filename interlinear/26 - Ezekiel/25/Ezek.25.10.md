@@ -1,4 +1,4 @@
-**Ezekiel 25:10** 
+**Ezekiel 25:10**<big><big>[[Ezek.25.8 A Prophecy against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will give it along with the Ammonites as a possession to the people of the Eas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.9|<< Ezekiel 25:9]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.11|Ezekiel 25:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [the] people of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] east  |**<big>&#8207;[[H6924A\|קֶ֙דֶם֙]]&#8207; </big>**| ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

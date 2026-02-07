@@ -1,4 +1,4 @@
-**Psalms 16:8** 
+**Psalms 16:8**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have set the LORD always before me: because [he is] at my right hand, I shall not be moved.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I have set the LORD always before me. Because He is at my right hand, I will not
 > $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[Acts.2.25|Acts 2:25-28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have placed  |**<big>&#8207;[[H7737B\|שִׁוִּ֬יתִי]]&#8207; </big>**| shi.Vi.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

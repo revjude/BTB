@@ -1,10 +1,7 @@
 **LXX Nahum 3:5** 
 <small><sub>**LXX:**</sub></small>
 Behold, I am against you, says \[the\] <span class="smallcaps">lord</span> almighty. And I will uncover  your behind in  your presence, and I will show \[the\] nations  your shame, and to kingdoms  your dishonor. 
-<small><sub>**KJV:**</sub></small>
-Behold, I [am] against thee, saith the LORD of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame.
-<small><sub>**BSB:**</sub></small>
-“Behold, I am against you,” declares the LORD of Hosts. “I will lift your skirts over your face. I will show your nakedness to the nations and your shame to the kingdoms.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.4|<< Nahum 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.6|Nahum 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

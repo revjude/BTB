@@ -1,4 +1,4 @@
-**Isaiah 14:7** 
+**Isaiah 14:7**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The whole earth is at rest, [and] is quiet: they break forth into singing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the earth is at peace and at rest; they break out in song.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.6|<< Isaiah 14:6]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.8|Isaiah 14:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it is at rest  |**<big>&#8207;[[H5117\|נָ֥חָה]]&#8207; </big>**| Na.chah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is at peace  |**<big>&#8207;[[H8252\|שָׁקְטָ֖ה]]&#8207; </big>**| sha.ke.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

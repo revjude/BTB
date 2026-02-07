@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:21** 
 <small><sub>**LXX:**</sub></small>
 With the sides and  your shoulders you pushed away, and \[with\] your horns you gored, and all the faltering you squeezed out, until of which \[time\] you thrust them outside! 
-<small><sub>**KJV:**</sub></small>
-Because ye have thrust with side and with shoulder, and pushed all the diseased with your horns, till ye have scattered them abroad;
-<small><sub>**BSB:**</sub></small>
-Since you shove with flank and shoulder, butting all the weak ones with your horns until you have scattered them abroad,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.20|<< Ezekiel 34:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.22|Ezekiel 34:22 >>]]</td></tr></table>
 
 | Translation | Greek |

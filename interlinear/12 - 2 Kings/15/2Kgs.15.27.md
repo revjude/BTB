@@ -1,4 +1,4 @@
-**2 Kings 15:27** 
+**2 Kings 15:27**<big><big>[[2Kgs.15.27 Pekah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the two and fiftieth year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, [and reigned] twenty years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the fifty-second year of Azariah’s reign over Judah, Pekah son of Remaliah 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.26|<< 2 Kings 15:26]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.28|2 Kings 15:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֨ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֤ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

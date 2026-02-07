@@ -1,10 +1,7 @@
 **LXX Job 37:21** 
 <small><sub>**LXX:**</sub></small>
 But the light \[is\] not visible to all; it is radiant among the \[things\] grown old, as if  from him upon \[the\] clouds. 
-<small><sub>**KJV:**</sub></small>
-And now [men] see not the bright light which [is] in the clouds: but the wind passeth, and cleanseth them.
-<small><sub>**BSB:**</sub></small>
-Now no one can gaze at the sun when it is bright in the skies after the wind has swept them clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.20|<< Job 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.22|Job 37:22 >>]]</td></tr></table>
 
 | Translation | Greek |

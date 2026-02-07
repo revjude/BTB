@@ -1,12 +1,12 @@
-**Matthew 10:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:34**<big><big>[[Matt.10.34 Not Peace but a Sword|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Think not that I am come to send peace on earth: I came not to send peace, but a sword.
 <small><sub>**BSB:**</sub></small>
 Do not assume that I have come to bring peace to the earth; I have not come to bring peace, but a sword.
 <small><sub>**Literal:**</sub></small>
 Not may you think that I came to bring peace to the earth; not I came to bring peace but a sword.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.33|<< Matthew 10:33]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.35|Matthew 10:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may you think |**<big>[[G3543\|νομίσητε]]</big>**  |nomisēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

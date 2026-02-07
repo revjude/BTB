@@ -1,4 +1,4 @@
-**Ezekiel 45:14** 
+**Ezekiel 45:14**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning the ordinance of oil, the bath of oil, [ye shall offer] the tenth part of a bath out of the cor, [which is] an homer of ten baths; for ten baths [are] an homer:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The prescribed portion of oil, measured by the bath, is a tenth of a bath from e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.13|<< Ezekiel 45:13]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.15|Ezekiel 45:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] prescribed portion of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2706H\|חֹ֨ק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Chok<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the oil  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8081\|שֶּׁ֜מֶן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> She.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

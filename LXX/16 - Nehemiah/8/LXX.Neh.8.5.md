@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:5** 
 <small><sub>**LXX:**</sub></small>
 And Ezra opened the scroll before all the people, for he was above the people. And it came to pass when he opened it, all the people stood. 
-<small><sub>**KJV:**</sub></small>
-And Ezra opened the book in the sight of all the people; (for he was above all the people;) and when he opened it, all the people stood up:
-<small><sub>**BSB:**</sub></small>
-Ezra opened the book in full view of all the people, since he was standing above them all, and as he opened it, all the people stood up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.4|<< Nehemiah 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.6|Nehemiah 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

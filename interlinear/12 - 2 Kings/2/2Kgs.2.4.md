@@ -1,4 +1,4 @@
-**2 Kings 2:4** 
+**2 Kings 2:4**<big><big>[[2Kgs.2.1 Elijah Taken Up to Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah said unto him, Elisha, tarry here, I pray thee; for the LORD hath sent me to Jericho. And he said, [As] the LORD liveth, and [as] thy soul liveth, I will not leave thee. So they came to Jericho.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Elijah said to Elisha, “Please stay here, for the LORD has sent me on to J
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.3|<< 2 Kings 2:3]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.5|2 Kings 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H9005\|ל֨]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

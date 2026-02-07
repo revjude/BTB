@@ -1,10 +1,7 @@
 **LXX Numbers 10:9** 
 <small><sub>**LXX:**</sub></small>
 But if you should go forth to war in  your land against the opponents  opposing you, then you shall signify with the trumpets; and you will be called to mind before \[the\] <span class="smallcaps">lord</span>  your God, and you shall be preserved from  your enemies. 
-<small><sub>**KJV:**</sub></small>
-And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies.
-<small><sub>**BSB:**</sub></small>
-When you enter into battle in your land against an adversary who attacks you, sound short blasts on the trumpets, and you will be remembered before the LORD your God and saved from your enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.8|<< Numbers 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.10|Numbers 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

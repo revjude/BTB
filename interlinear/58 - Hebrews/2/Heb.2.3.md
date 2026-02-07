@@ -1,12 +1,12 @@
-**Hebrews 2:3
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:3**<big><big>[[Heb.2.1 Salvation Confirmed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard [him];
 <small><sub>**BSB:**</sub></small>
 how shall we escape if we neglect such a great salvation? This salvation was first announced by the Lord, was confirmed to us by those who heard Him,
 <small><sub>**Literal:**</sub></small>
 how we ourselves will escape such a great having neglected a salvation? which a commencement having received declaring through the Lord by those having heard to us it was confirmed<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.2|<< Hebrews 2:2]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.4|Hebrews 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how |**<big>[[G4459\|πῶς]]</big>**  |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

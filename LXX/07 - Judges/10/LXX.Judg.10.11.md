@@ -1,10 +1,7 @@
 **LXX Judges 10:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to the sons of Israel, Is it not the Egyptians, and the Amorites, and the sons of Ammon, and Moab, and \[the\] Philistines, 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto the children of Israel, [Did] not [I deliver you] from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?
-<small><sub>**BSB:**</sub></small>
-The LORD replied, “When the Egyptians, Amorites, Ammonites, Philistines,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.10|<< Judges 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.12|Judges 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

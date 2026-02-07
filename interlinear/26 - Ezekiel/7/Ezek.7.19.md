@@ -1,4 +1,4 @@
-**Ezekiel 7:19** 
+**Ezekiel 7:19**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the LORD: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will throw their silver into the streets, and their gold will seem unclean.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.18|<< Ezekiel 7:18]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.20|Ezekiel 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | silver their  |**<big>&#8207;[[H3701G\|כַּסְפָּ֞]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| kas.Pa<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the streets  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2351\|חוּצ֣וֹת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> chu.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

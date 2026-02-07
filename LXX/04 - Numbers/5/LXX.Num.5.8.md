@@ -1,10 +1,7 @@
 **LXX Numbers 5:8** 
 <small><sub>**LXX:**</sub></small>
 But if there might not be to the man  acting as next of kin, so as to give to him \[satisfaction\] for the trespass \[offering\], \[let\] the trespass \[offering\], the one being given \[be\] to the <span class="smallcaps">lord</span> -- it shall be for the priest, besides the ram of the atonement, by which he shall atone with it for him. 
-<small><sub>**KJV:**</sub></small>
-But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, [even] to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.
-<small><sub>**BSB:**</sub></small>
-But if the man has no relative to whom restitution can be made for the wrong, the restitution belongs to the LORD and must be given to the priest along with the ram of atonement, by which the atonement is made for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.7|<< Numbers 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.9|Numbers 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

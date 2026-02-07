@@ -1,4 +1,4 @@
-**Joshua 22:32** 
+**Joshua 22:32**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Phinehas the son of Eleazar the priest, and the princes, returned from the children of Reuben, and from the children of Gad, out of the land of Gilead, unto the land of Canaan, to the children of Israel, and brought them word again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Phinehas son of Eleazar the priest, together with the other leaders, return
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.31|<< Joshua 22:31]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.33|Joshua 22:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֣שָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Phinehas  |**<big>&#8207;[[H6372G\|פִּֽינְחָ֣ס]]&#8207; </big>**| pin.Chas<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

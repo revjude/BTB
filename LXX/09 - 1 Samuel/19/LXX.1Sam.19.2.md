@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:2** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan the son of Saul took to  David exceedingly. And Jonathan reported  to David, saying, Saul  my father seeks to put you to death; and now be on guard tomorrow morning, and hide and stay in secret! 
-<small><sub>**KJV:**</sub></small>
-But Jonathan Saul’s son delighted much in David: and Jonathan told David, saying, Saul my father seeketh to kill thee: now therefore, I pray thee, take heed to thyself until the morning, and abide in a secret [place], and hide thyself:
-<small><sub>**BSB:**</sub></small>
-so he warned David, saying, “My father Saul intends to kill you. Be on your guard in the morning; find a secret place and hide there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.1|<< 1 Samuel 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.3|1 Samuel 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

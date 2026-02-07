@@ -1,12 +1,12 @@
-**John 10:13
-**<small><sub>**KJV:**</sub></small>
+**John 10:13**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The hireling fleeth, because he is an hireling, and careth not for the sheep.
 <small><sub>**BSB:**</sub></small>
 The man runs away because he is a hired servant and is unconcerned for the sheep.
 <small><sub>**Literal:**</sub></small>
 this now hired servant flees because a hired servant he is and not he is himself concerned to him about the sheep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.12|<< John 10:12]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.14|John 10:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz»1">k(o)</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k(o)</abbr> | |

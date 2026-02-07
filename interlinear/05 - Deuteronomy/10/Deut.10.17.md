@@ -1,4 +1,4 @@
-**Deuteronomy 10:17** 
+**Deuteronomy 10:17**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD your God [is] God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the LORD your God is God of gods and Lord of lords, the great, mighty, and a
 > $\quad$ referenced by: [[Acts.10.34|Acts 10:34]] ☩ [[Rom.2.11|Rom 2:11]] ☩ [[Gal.2.6|Gal 2:6]] ☩ [[Eph.6.9|Eph 6:9]] ☩ [[Col.3.25|Col 3:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

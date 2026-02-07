@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:17** 
 <small><sub>**LXX:**</sub></small>
 and lest you should say in  your heart,  My strength and the might  of my hand produced to me  this great ability. 
-<small><sub>**KJV:**</sub></small>
-And thou say in thine heart, My power and the might of [mine] hand hath gotten me this wealth.
-<small><sub>**BSB:**</sub></small>
-You might say in your heart, “The power and strength of my hands have made this wealth for me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.16|<< Deuteronomy 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.18|Deuteronomy 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

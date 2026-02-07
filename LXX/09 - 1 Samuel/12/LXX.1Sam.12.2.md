@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:2** 
 <small><sub>**LXX:**</sub></small>
 And now, behold, the king travels before you. And I grow old and shall sit. And behold,  my sons \[are\] among you. And I, behold, I have gone before you from my youth, and until  this day. 
-<small><sub>**KJV:**</sub></small>
-And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons [are] with you: and I have walked before you from my childhood unto this day.
-<small><sub>**BSB:**</sub></small>
-Now here is the king walking before you, and I am old and gray, and my sons are here with you. I have walked before you from my youth until this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.1|<< 1 Samuel 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.3|1 Samuel 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Hosea 10:2** 
+**Hosea 10:2**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their hearts are devious; now they must bear their guilt. The LORD will break do
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.1|<< Hosea 10:1]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.3|Hosea 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it is slippery  |**<big>&#8207;[[H2505B\|חָלַ֥ק]]&#8207; </big>**| cha.Lak<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart their  |**<big>&#8207;[[H3820A\|לִבָּ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| li.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

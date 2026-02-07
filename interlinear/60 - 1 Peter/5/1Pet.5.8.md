@@ -1,5 +1,5 @@
-**1 Peter 5:8
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:8**<big><big>[[1Pet.5.5 Cast Your Cares on Him|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:
 <small><sub>**BSB:**</sub></small>
 Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.
@@ -10,7 +10,7 @@ do be sober-minded, do watch that The adversary of You [the] devil as a lion roa
 > $\quad$ referencing: [[LXX.Ps.22.13|Ps 22:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be sober-minded, |**<big>[[G3525\|νήψατε,]]</big>**  |nēpsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do watch |**<big>[[G1127\|γρηγορήσατε]]</big>**  |grēgorēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

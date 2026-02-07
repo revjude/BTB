@@ -1,4 +1,4 @@
-**Judges 11:34** 
+**Judges 11:34**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jephthah came to Mizpeh unto his house, and, behold, his daughter came out to meet him with timbrels and with dances: and she [was his] only child; beside her he had neither son nor daughter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when Jephthah returned home to Mizpah, there was his daughter coming out to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.33|<< Judges 11:33]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.35|Judges 11:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jephthah  |**<big>&#8207;[[H3316H\|יִפְתָּ֣ח]]&#8207; </big>**| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

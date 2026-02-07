@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:23** 
 <small><sub>**LXX:**</sub></small>
 Bow and pike they shall hold. It is audacious, and will not show mercy. Its sound \[is\] as \[the\] sea swelling up. Upon horses and chariots it shall deploy as fire for war against you, O daughter of Zion. 
-<small><sub>**KJV:**</sub></small>
-They shall lay hold on bow and spear; they [are] cruel, and have no mercy; their voice roareth like the sea; and they ride upon horses, set in array as men for war against thee, O daughter of Zion.
-<small><sub>**BSB:**</sub></small>
-They grasp the bow and spear; they are cruel and merciless. Their voice roars like the sea, and they ride upon horses, lined up like men in formation against you, O Daughter of Zion.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.22|<< Jeremiah 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.24|Jeremiah 6:24 >>]]</td></tr></table>
 
 | Translation | Greek |

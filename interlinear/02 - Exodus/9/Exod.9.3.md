@@ -1,4 +1,4 @@
-**Exodus 9:3** 
+**Exodus 9:3**<big><big>[[Exod.9.1 The Fifth Plague：Livestock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the hand of the LORD is upon thy cattle which [is] in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: [there shall be] a very grievous murrain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then the hand of the LORD will bring a severe plague on your livestock in the fi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.2|<< Exodus 9:2]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.4|Exodus 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hand of  |**<big>&#8207;[[H3027H\|יַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yad-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

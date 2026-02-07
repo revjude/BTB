@@ -1,4 +1,4 @@
-**Psalms 145:5** 
+**Psalms 145:5**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will speak of the glorious honour of thy majesty, and of thy wondrous works.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the glorious splendor of Your majesty. And I will meditate on Your wondrous work
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.4|<< Psalms 145:4]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.6|Psalms 145:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] majesty of  |**<big>&#8207;[[H1926\|הֲ֭דַר]]&#8207; </big>**| Ha.dar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] glory of  |**<big>&#8207;[[H3519\|כְּב֣וֹד]]&#8207; </big>**| ke.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

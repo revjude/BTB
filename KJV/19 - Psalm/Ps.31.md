@@ -1,6 +1,6 @@
 (KJV) **Psalm 31**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30|<< Psalm 30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32|Psalm 32 >>]]</td></tr></table>
 
-***Into Your Hands I Commit My Spirit***&emsp;<small><sup>\[ [[Luke.23|Luke 23:44–49]] ]</sup></small> ^bsb1324
+<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥃]]</big></big>***Into Your Hands I Commit My Spirit***&emsp;<small><sup>\[ [[Luke.23|Luke 23:44–49]] ]</sup></small>
 
 
 

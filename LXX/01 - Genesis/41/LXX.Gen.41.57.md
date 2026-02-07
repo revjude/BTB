@@ -1,10 +1,7 @@
 **LXX Genesis 41:57** 
 <small><sub>**LXX:**</sub></small>
 And all the regions came to Egypt to buy from Joseph, for the famine prevailed in all the earth. 
-<small><sub>**KJV:**</sub></small>
-And all countries came into Egypt to Joseph for to buy [corn]; because that the famine was [so] sore in all lands.
-<small><sub>**BSB:**</sub></small>
-And every nation came to Joseph in Egypt to buy grain, because the famine was severe over all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.56|<< Genesis 41:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.1|Genesis 42:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 24:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:29**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them.
 <small><sub>**BSB:**</sub></small>
 But they pleaded with Him, “Stay with us, for it is nearly evening and the day is almost over.” So He went in to stay with them.
 <small><sub>**Literal:**</sub></small>
 And they constrained Him saying; do abide with us, for toward evening it is and has declined now the day. And He entered in <the> to abide with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.28|<< Luke 24:28]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.30|Luke 24:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they constrained |**<big>[[G3849\|παρεβιάσαντο]]</big>**  |parebiasanto <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Joshua 15:5** 
+**Joshua 15:5**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the east border [was] the salt sea, [even] unto the end of Jordan. And [their] border in the north quarter [was] from the bay of the sea at the uttermost part of Jordan:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The eastern border was the Salt Sea as far as the mouth of the Jordan. The north
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.4|<< Joshua 15:4]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.6|Joshua 15:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] border  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1366G\|גְב֥וּל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | east -ward  |**<big>&#8207;[[H6924B\|קֵ֙דְמָ]]&#8207;&#8207;[[H9011\|ה֙]]&#8207; </big>**| ke.de.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

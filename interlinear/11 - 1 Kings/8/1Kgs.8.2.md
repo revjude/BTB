@@ -1,4 +1,4 @@
-**1 Kings 8:2** 
+**1 Kings 8:2**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which [is] the seventh month.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all the men of Israel came together to King Solomon at the feast in the seve
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.1|<< 1 Kings 8:1]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.3|1 Kings 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6950\|יִּקָּ֨הֲל֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ka.ha.Lu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

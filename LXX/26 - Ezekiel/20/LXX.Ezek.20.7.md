@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:7** 
 <small><sub>**LXX:**</sub></small>
 And I said to them, Let each throw away the abominations of his eyes! and in the practices of Egypt be not defiled! I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-And I said to them: ‘Each of you must throw away the abominations before his eyes, and you must not defile yourselves with the idols of Egypt. I am the LORD your God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.6|<< Ezekiel 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.8|Ezekiel 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

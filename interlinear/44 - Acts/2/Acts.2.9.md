@@ -1,12 +1,12 @@
-**Acts 2:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:9**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Parthians, and Medes, and Elamites, and the dwellers in Mesopotamia, and in Judaea, and Cappadocia, in Pontus, and Asia,
 <small><sub>**BSB:**</sub></small>
 Parthians, Medes, and Elamites; residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia,
 <small><sub>**Literal:**</sub></small>
 Parthians and Medes and Elamites and those inhabiting <the> Mesopotamia, Judea also and Cappadocia, Pontus and <the> Asia,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.8|<< Acts 2:8]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.10|Acts 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Parthians |**<big>[[G3934\|Πάρθοι]]</big>**  |Parthoi <small><sup>[[N-NPM-LG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:22** 
 <small><sub>**LXX:**</sub></small>
 \[to\] Dan \[was\] Azareel the \[son of\] Jeroham. These \[were\] the patriarchs of the tribes of Israel. 
-<small><sub>**KJV:**</sub></small>
-Of Dan, Azareel the son of Jeroham. These [were] the princes of the tribes of Israel.
-<small><sub>**BSB:**</sub></small>
-and over Dan was Azarel son of Jeroham. These were the leaders of the tribes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.21|<< 1 Chronicles 27:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.23|1 Chronicles 27:23 >>]]</td></tr></table>
 
 | Translation | Greek |

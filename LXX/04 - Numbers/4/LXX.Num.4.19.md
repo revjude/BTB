@@ -1,10 +1,7 @@
 **LXX Numbers 4:19** 
 <small><sub>**LXX:**</sub></small>
 But do this to them, and they shall live, and in no way shall die, in their going forth to the holy  of holies. Let Aaron and his sons enter! and they shall place themselves each in  his office. 
-<small><sub>**KJV:**</sub></small>
-But thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden:
-<small><sub>**BSB:**</sub></small>
-In order that they may live and not die when they come near the most holy things, do this for them: Aaron and his sons are to go in and assign each man his task and what he is to carry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.18|<< Numbers 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.20|Numbers 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

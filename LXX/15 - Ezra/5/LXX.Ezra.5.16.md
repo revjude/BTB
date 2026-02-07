@@ -1,10 +1,7 @@
 **LXX Ezra 5:16** 
 <small><sub>**LXX:**</sub></small>
 Then that Sheshbazzar came and put \[down\] the foundations of the house  of God, the one in Jerusalem. And from then until  now it is being built, and was not finished. 
-<small><sub>**KJV:**</sub></small>
-Then came the same Sheshbazzar, [and] laid the foundation of the house of God which [is] in Jerusalem: and since that time even until now hath it been in building, and [yet] it is not finished.
-<small><sub>**BSB:**</sub></small>
-So this Sheshbazzar came and laid the foundation of the house of God in Jerusalem, and from that time until now it has been under construction, but it has not yet been completed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.15|<< Ezra 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.17|Ezra 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 41:17** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh spoke  to Joseph, saying, In  my sleep I imagined standing by the edge of the river. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:
-<small><sub>**BSB:**</sub></small>
-Then Pharaoh said to Joseph: “In my dream I was standing on the bank of the Nile,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.16|<< Genesis 41:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.18|Genesis 41:18 >>]]</td></tr></table>
 
 | Translation | Greek |

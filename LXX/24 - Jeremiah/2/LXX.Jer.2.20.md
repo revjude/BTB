@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:20** 
 <small><sub>**LXX:**</sub></small>
 For from \[the\] eon you broke  your yoke, and tore up  your bonds. And you said, I will not serve, but I will go upon every high hill, and underneath every shady tree; there I will disperse in  my harlotry. 
-<small><sub>**KJV:**</sub></small>
-For of old time I have broken thy yoke, [and] burst thy bands; and thou saidst, I will not transgress; when upon every high hill and under every green tree thou wanderest, playing the harlot.
-<small><sub>**BSB:**</sub></small>
-“For long ago you broke your yoke and tore off your chains, saying, ‘I will not serve!’ Indeed, on every high hill and under every green tree you lay down as a prostitute.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.19|<< Jeremiah 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.21|Jeremiah 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

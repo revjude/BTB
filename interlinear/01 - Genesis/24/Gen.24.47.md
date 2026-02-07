@@ -1,4 +1,4 @@
-**Genesis 24:47** 
+**Genesis 24:47**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I asked her, and said, Whose daughter [art] thou? And she said, The daughter of Bethuel, Nahor’s son, whom Milcah bare unto him: and I put the earring upon her face, and the bracelets upon her hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I asked her, ‘Whose daughter are you?’ She replied, ‘The daughter of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.46|<< Genesis 24:46]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.48|Genesis 24:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I asked  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7592\|אֶשְׁאַ֣ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.'Al<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> her  |**<big>&#8207;[[H0853\|אֹתָ֗]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

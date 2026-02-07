@@ -1,12 +1,12 @@
-**Philippians 2:2
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:2**<big><big>[[Phil.2.1 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Fulfil ye my joy, that ye be likeminded, having the same love, [being] of one accord, of one mind.
 <small><sub>**BSB:**</sub></small>
 then make my joy complete by being like-minded, having the same love, being united in spirit and purpose.
 <small><sub>**Literal:**</sub></small>
 do fulfill my <the> joy so that the same you may be minded, the same love having, united in soul, the same thing minding,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.1|<< Philippians 2:1]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.3|Philippians 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do fulfill |**<big>[[G4137\|πληρώσατέ]]</big>**  |plērōsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | my |**<big>[[G3165\|μου]]</big>**  |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

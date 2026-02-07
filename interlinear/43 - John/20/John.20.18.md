@@ -1,12 +1,12 @@
-**John 20:18
-**<small><sub>**KJV:**</sub></small>
+**John 20:18**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Mary Magdalene came and told the disciples that she had seen the Lord, and [that] he had spoken these things unto her.
 <small><sub>**BSB:**</sub></small>
 Mary Magdalene went and announced to the disciples, “I have seen the Lord!” And she told them what He had said to her.
 <small><sub>**Literal:**</sub></small>
 Comes Mary <the> Magdalene reporting to the disciples that I have seen the Lord, and [that] these things He had said to her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.17|<< John 20:17]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.19|John 20:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Comes |**<big>[[G2064\|Ἔρχεται]]</big>**  |Erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Mary |**<big>[[G3137I\|Μαριὰμ]]</big>**  [^1] |Mariam <small><sup>[[N-NSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

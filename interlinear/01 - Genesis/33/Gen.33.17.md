@@ -1,4 +1,4 @@
-**Genesis 33:17** 
+**Genesis 33:17**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob journeyed to Succoth, and built him an house, and made booths for his cattle: therefore the name of the place is called Succoth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but Jacob went on to Succoth, where he built a house for himself and shelters fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.16|<< Genesis 33:16]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.18|Genesis 33:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jacob  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3290\|יַעֲקֹב֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he set out  |**<big>&#8207;[[H5265\|נָסַ֣ע]]&#8207; </big>**| na.Sa'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

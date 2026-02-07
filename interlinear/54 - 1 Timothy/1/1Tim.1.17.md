@@ -1,12 +1,12 @@
-**1 Timothy 1:17
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:17**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now unto the King eternal, immortal, invisible, the only wise God, [be] honour and glory for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 Now to the King eternal, immortal, and invisible, the only God, be honor and glory forever and ever. Amen.
 <small><sub>**Literal:**</sub></small>
 <the> now to the King of the ages, [the] immortal invisible only wise God, [be] honor and glory to the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.16|<< 1 Timothy 1:16]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.18|1 Timothy 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τῷ]]</big>**  |Tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

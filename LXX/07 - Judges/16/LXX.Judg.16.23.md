@@ -1,10 +1,7 @@
 **LXX Judges 16:23** 
 <small><sub>**LXX:**</sub></small>
 And the rulers of the Philistines came together  to sacrifice a great sacrifice \[to\] Dagon  their god, and  to be merry. And they said, Our god delivered into our hand Samson  our enemy. 
-<small><sub>**KJV:**</sub></small>
-Then the lords of the Philistines gathered them together for to offer a great sacrifice unto Dagon their god, and to rejoice: for they said, Our god hath delivered Samson our enemy into our hand.
-<small><sub>**BSB:**</sub></small>
-Now the lords of the Philistines gathered together to offer a great sacrifice to their god Dagon. They rejoiced and said, “Our god has delivered Samson our enemy into our hands.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.22|<< Judges 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.24|Judges 16:24 >>]]</td></tr></table>
 
 | Translation | Greek |

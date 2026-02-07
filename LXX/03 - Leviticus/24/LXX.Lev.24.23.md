@@ -1,10 +1,7 @@
 **LXX Leviticus 24:23** 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke to the sons of Israel, and they led the one cursing outside the camp, and they stoned him \[with\] stones. And the sons of Israel did just as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-Then Moses spoke to the Israelites, and they took the blasphemer outside the camp and stoned him. So the Israelites did as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.22|<< Leviticus 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.1|Leviticus 25:1 >>]]</td></tr></table>
 
 | Translation | Greek |

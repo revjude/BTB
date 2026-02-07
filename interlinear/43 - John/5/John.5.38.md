@@ -1,12 +1,12 @@
-**John 5:38
-**<small><sub>**KJV:**</sub></small>
+**John 5:38**<big><big>[[John.5.31 Testimonies about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye have not his word abiding in you: for whom he hath sent, him ye believe not.
 <small><sub>**BSB:**</sub></small>
 nor does His word abide in you, because you do not believe the One He sent.
 <small><sub>**Literal:**</sub></small>
 And the word of Him not you have in you abiding for whom sent He, in Him you yourselves not believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.37|<< John 5:37]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.39|John 5:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

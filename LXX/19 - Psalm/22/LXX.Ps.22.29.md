@@ -1,10 +1,7 @@
 **LXX Psalm 22:29** 
 <small><sub>**LXX:**</sub></small>
 All the hearty of the earth ate and did obeisance; all the ones going down into the earth fell down before him. And  my soul lives for him. 
-<small><sub>**KJV:**</sub></small>
-All [they that be] fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.
-<small><sub>**BSB:**</sub></small>
-All the rich of the earth will feast and worship; all who go down to the dust will kneel before Him—even those unable to preserve their lives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.28|<< Psalm 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.30|Psalm 22:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:29** is...

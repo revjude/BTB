@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:25** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when he entered into Jerusalem for a meeting with the king, that the king said to him, Why \[is it\] that you did not go with me, Mephibosheth? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he was come to Jerusalem to meet the king, that the king said unto him, Wherefore wentest not thou with me, Mephibosheth?
-<small><sub>**BSB:**</sub></small>
-And he came from Jerusalem to meet the king, who asked him, “Mephibosheth, why did you not go with me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.24|<< 2 Samuel 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.26|2 Samuel 19:26 >>]]</td></tr></table>
 
 | Translation | Greek |

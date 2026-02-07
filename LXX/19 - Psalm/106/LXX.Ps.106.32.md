@@ -1,10 +1,7 @@
 **LXX Psalm 106:32** 
 <small><sub>**LXX:**</sub></small>
 And they provoked him to anger at Water of Dispute; and evil was inflicted upon Moses because of them; 
-<small><sub>**KJV:**</sub></small>
-They angered [him] also at the waters of strife, so that it went ill with Moses for their sakes:
-<small><sub>**BSB:**</sub></small>
-At the waters of Meribah they angered the LORD, and trouble came to Moses because of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.31|<< Psalm 106:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.33|Psalm 106:33 >>]]</td></tr></table>
 
 | Translation | Greek |

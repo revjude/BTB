@@ -1,12 +1,12 @@
-**John 4:43
-**<small><sub>**KJV:**</sub></small>
+**John 4:43**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now after two days he departed thence, and went into Galilee.
 <small><sub>**BSB:**</sub></small>
 After two days, Jesus left for Galilee.
 <small><sub>**Literal:**</sub></small>
 After then the two days He went forth from there and went away into <the> Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.42|<< John 4:42]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.44|John 4:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 32:33** 
+**Jeremiah 32:33**<big><big>[[Jer.32.26 The LORD Answers Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they have turned unto me the back, and not the face: though I taught them, rising up early and teaching [them], yet they have not hearkened to receive instruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have turned their backs to Me and not their faces. Though I taught them aga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.32|<< Jeremiah 32:32]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.34|Jeremiah 32:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|יִּפְנ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֛]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

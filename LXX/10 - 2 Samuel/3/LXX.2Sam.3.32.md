@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:32** 
 <small><sub>**LXX:**</sub></small>
 And they entombed  Abner in Hebron, and the king lifted  his voice and wept over the tomb of Abner, and all the people wept. 
-<small><sub>**KJV:**</sub></small>
-And they buried Abner in Hebron: and the king lifted up his voice, and wept at the grave of Abner; and all the people wept.
-<small><sub>**BSB:**</sub></small>
-When they buried Abner in Hebron, the king wept aloud at Abner’s tomb, and all the people wept.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.31|<< 2 Samuel 3:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.33|2 Samuel 3:33 >>]]</td></tr></table>
 
 | Translation | Greek |

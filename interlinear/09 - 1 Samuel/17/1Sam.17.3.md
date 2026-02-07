@@ -1,4 +1,4 @@
-**1 Samuel 17:3** 
+**1 Samuel 17:3**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines stood on a mountain on the one side, and Israel stood on a mountain on the other side: and [there was] a valley between them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Philistines stood on one hill and the Israelites stood on another, with the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.2|<< 1 Samuel 17:2]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.4|1 Samuel 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] Philistines  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6430G\|פְלִשְׁתִּ֞ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] standing  |**<big>&#8207;[[H5975G\|עֹמְדִ֤ים]]&#8207; </big>**| 'o.me.Dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

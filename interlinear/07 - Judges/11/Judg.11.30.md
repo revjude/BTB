@@ -1,4 +1,4 @@
-**Judges 11:30** 
+**Judges 11:30**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail deliver the children of Ammon into mine hands,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jephthah made this vow to the LORD: “If indeed You will deliver the Ammonites 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.29|<< Judges 11:29]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.31|Judges 11:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he vowed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5087\|יִּדַּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Dar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jephthah  |**<big>&#8207;[[H3316H\|יִפְתָּ֥ח]]&#8207; </big>**| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

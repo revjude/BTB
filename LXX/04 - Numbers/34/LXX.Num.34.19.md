@@ -1,10 +1,7 @@
 **LXX Numbers 34:19** 
 <small><sub>**LXX:**</sub></small>
 And these are the names of the men of the tribe of Judah -- Caleb son of Jephunneh. 
-<small><sub>**KJV:**</sub></small>
-And the names of the men [are] these: Of the tribe of Judah, Caleb the son of Jephunneh.
-<small><sub>**BSB:**</sub></small>
-These are their names: Caleb son of Jephunneh from the tribe of Judah;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.18|<< Numbers 34:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.20|Numbers 34:20 >>]]</td></tr></table>
 
 | Translation | Greek |

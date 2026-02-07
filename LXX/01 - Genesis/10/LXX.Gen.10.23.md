@@ -1,10 +1,7 @@
 **LXX Genesis 10:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Aram -- Uz, and Hul, and Gether, and Mash. 
-<small><sub>**KJV:**</sub></small>
-And the children of Aram; Uz, and Hul, and Gether, and Mash.
-<small><sub>**BSB:**</sub></small>
-The sons of Aram: Uz, Hul, Gether, and Mash.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.22|<< Genesis 10:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.24|Genesis 10:24 >>]]</td></tr></table>
 
 | Translation | Greek |

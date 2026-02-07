@@ -1,4 +1,4 @@
-**2 Kings 12:20** (12:21)
+**2 Kings 12:20**<big><big>[[2Kgs.12.17 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goeth down to Silla.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the servants of Joash rose up and formed a conspiracy and killed him at Beth
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.19|<< 2 Kings 12:19]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.21|2 Kings 12:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקֻ֥מוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servants his  |**<big>&#8207;[[H5650\|עֲבָדָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

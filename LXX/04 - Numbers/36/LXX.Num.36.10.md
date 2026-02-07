@@ -1,10 +1,7 @@
 **LXX Numbers 36:10** 
 <small><sub>**LXX:**</sub></small>
 In which manner \[the\] <span class="smallcaps">lord</span> ordered Moses, thus \[the\] daughters of Zelophehad did. 
-<small><sub>**KJV:**</sub></small>
-Even as the LORD commanded Moses, so did the daughters of Zelophehad:
-<small><sub>**BSB:**</sub></small>
-So the daughters of Zelophehad did as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.9|<< Numbers 36:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.11|Numbers 36:11 >>]]</td></tr></table>
 
 | Translation | Greek |

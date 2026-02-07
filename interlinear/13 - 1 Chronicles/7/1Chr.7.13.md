@@ -1,4 +1,4 @@
-**1 Chronicles 7:13** 
+**1 Chronicles 7:13**<big><big>[[1Chr.7.13 The Descendants of Naphtali|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Naphtali: Jahziel, Guni, Jezer, and Shallum—the descendants of Bil
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.12|<< 1 Chronicles 7:12]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.14|1 Chronicles 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naphtali  |**<big>&#8207;[[H5321G\|נַפְתָּלִ֗י]]&#8207; </big>**| naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

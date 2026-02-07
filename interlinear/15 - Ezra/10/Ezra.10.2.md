@@ -1,4 +1,4 @@
-**Ezra 10:2** 
+**Ezra 10:2**<big><big>[[Ezra.10.1 Shecaniah’s Encouragement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shechaniah the son of Jehiel, [one] of the sons of Elam, answered and said unto Ezra, We have trespassed against our God, and have taken strange wives of the people of the land: yet now there is hope in Israel concerning this thing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Shecaniah son of Jehiel, an Elamite, said to Ezra: “We have been unfaithf
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.1|<< Ezra 10:1]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.3|Ezra 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּעַן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'An<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shecaniah  |**<big>&#8207;[[H7935L\|שְׁכַנְיָ֨ה]]&#8207; </big>**| she.khan.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 5:19
-**<small><sub>**KJV:**</sub></small>
+**John 5:19**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.
 <small><sub>**BSB:**</sub></small>
 So Jesus replied, “Truly, truly, I tell you, the Son can do nothing by Himself, unless He sees the Father doing it. For whatever the Father does, the Son also does.
 <small><sub>**Literal:**</sub></small>
 Answered therefore <the> Jesus and was saying to them; Amen Amen I say to you; not is able the Son to do of Himself no [thing], only unless anything He shall see the Father doing. whatever for maybe He shall do, these things also the Son likewise does.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.18|<< John 5:18]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.20|John 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίνατο]]</big>**  |apekrinato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

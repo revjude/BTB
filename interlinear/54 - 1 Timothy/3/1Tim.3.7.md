@@ -1,12 +1,12 @@
-**1 Timothy 3:7
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:7**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
 <small><sub>**BSB:**</sub></small>
 Furthermore, he must have a good reputation with outsiders, so that he will not fall into disgrace and into the snare of the devil.
 <small><sub>**Literal:**</sub></small>
 It behooves now him also a testimony good to have from those outside, so that not into reproach he may fall and [the] snare of the devil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.6|<< 1 Timothy 3:6]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.8|1 Timothy 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It behooves |**<big>[[G1163\|δεῖ]]</big>**  |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

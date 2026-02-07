@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:9** 
 <small><sub>**LXX:**</sub></small>
 And the ones dwelling the cities of Israel shall come forth, and they shall kindle a fire with the weapons -- small shields, and shafts, and bows, and arrows, and rods of \[the\] hands, and lances; and they shall kindle with them a fire for seven years. 
-<small><sub>**KJV:**</sub></small>
-And they that dwell in the cities of Israel shall go forth, and shall set on fire and burn the weapons, both the shields and the bucklers, the bows and the arrows, and the handstaves, and the spears, and they shall burn them with fire seven years:
-<small><sub>**BSB:**</sub></small>
-Then those who dwell in the cities of Israel will go out, kindle fires, and burn up the weapons—the bucklers and shields, the bows and arrows, the clubs and spears. For seven years they will use them for fuel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.8|<< Ezekiel 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.10|Ezekiel 39:10 >>]]</td></tr></table>
 
 | Translation | Greek |

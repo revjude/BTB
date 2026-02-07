@@ -1,4 +1,4 @@
-**Psalms 136:5** 
+**Psalms 136:5**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To him that by wisdom made the heavens: for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By His insight He made the heavens. His loving devotion endures forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.4|<< Psalms 136:4]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.6|Psalms 136:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [one who] made  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6213H\|עֹשֵׂ֣ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Seh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> the heavens  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H8064\|שָּׁמַיִם]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

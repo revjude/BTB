@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:9** 
 <small><sub>**LXX:**</sub></small>
 And it will be every life of the living creatures of the ones swarming upon all upon which ever the river should come there shall live. And there will be there exceedingly many fishes; for this water is come there, and it shall heal and shall enliven. Everything upon which ever the river should come there shall live. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.
-<small><sub>**BSB:**</sub></small>
-Wherever the river flows, there will be swarms of living creatures and a great number of fish, because it flows there and makes the waters fresh; so wherever the river flows, everything will flourish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.8|<< Ezekiel 47:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.10|Ezekiel 47:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 37:7** 
 <small><sub>**LXX:**</sub></small>
 And he made two cherubim wrought in gold. And he put them at both of the sides of the atonement-seat. 
-<small><sub>**KJV:**</sub></small>
-And he made two cherubims [of] gold, beaten out of one piece made he them, on the two ends of the mercy seat;
-<small><sub>**BSB:**</sub></small>
-He made two cherubim of hammered gold at the ends of the mercy seat,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.6|<< Exodus 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.8|Exodus 37:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:6** 
 <small><sub>**LXX:**</sub></small>
 And during all this I was not in Jerusalem. For in \[the\] thirtieth and second year  of Artaxerxes king of Babylon I went to the king, and after the end of the days I asked \[things\] of the king. 
-<small><sub>**KJV:**</sub></small>
-But in all this [time] was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king:
-<small><sub>**BSB:**</sub></small>
-While all this was happening, I was not in Jerusalem, because I had returned to Artaxerxes king of Babylon in the thirty-second year of his reign. Some time later I obtained leave from the king<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.5|<< Nehemiah 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.7|Nehemiah 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

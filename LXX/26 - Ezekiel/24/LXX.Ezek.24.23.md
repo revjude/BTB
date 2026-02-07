@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:23** 
 <small><sub>**LXX:**</sub></small>
 And  your hair \[shall be\] upon  your head, and  your sandals on  your feet; neither shall you lament, nor shall you weep; and you shall melt away in  your iniquities, and each shall comfort  his brother. 
-<small><sub>**KJV:**</sub></small>
-And your tires [shall be] upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.
-<small><sub>**BSB:**</sub></small>
-Your turbans will remain on your heads and your sandals on your feet. You will not mourn or weep, but you will waste away because of your sins, and you will groan among yourselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.22|<< Ezekiel 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.24|Ezekiel 24:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 25:30** 
 <small><sub>**LXX:**</sub></small>
 But if it should not be ransomed until \[the\] entire year should be fulfilled, the house being in the city having a wall shall be validated firmly to the one acquiring it, unto  his generations, and it shall not go forth in the release. 
-<small><sub>**KJV:**</sub></small>
-And if it be not redeemed within the space of a full year, then the house that [is] in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile.
-<small><sub>**BSB:**</sub></small>
-If it is not redeemed by the end of a full year, then the house in the walled city is permanently transferred to its buyer and his descendants. It is not to be released in the Jubilee.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.29|<< Leviticus 25:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.31|Leviticus 25:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 John 4:21
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:21**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this commandment have we from him, That he who loveth God love his brother also.
 <small><sub>**BSB:**</sub></small>
 And we have this commandment from Him: Whoever loves God must love his brother as well.
 <small><sub>**Literal:**</sub></small>
 And this the commandment we have from Him, that the [one] loving <the> God may love also the brother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.20|<< 1 John 4:20]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.1|1 John 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|ταύτην]]</big>**  |tautēn <small><sup>[[D-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

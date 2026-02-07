@@ -1,10 +1,7 @@
 **LXX Numbers 15:18** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! And you shall say to them, In  your entering into the land, into which I bring you there, 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, and say unto them, When ye come into the land whither I bring you,
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and tell them: When you enter the land to which I am bringing you<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.17|<< Numbers 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.19|Numbers 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

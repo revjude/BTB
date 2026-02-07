@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 5:6** 
 <small><sub>**LXX:**</sub></small>
 And  king Solomon, and all the gathering of Israel, and the ones being assembled unto him before the ark were sacrificing calves and sheep, which shall not be counted nor considered because of the multitude. 
-<small><sub>**KJV:**</sub></small>
-Also king Solomon, and all the congregation of Israel that were assembled unto him before the ark, sacrificed sheep and oxen, which could not be told nor numbered for multitude.
-<small><sub>**BSB:**</sub></small>
-There, before the ark, King Solomon and the whole congregation of Israel who had assembled with him sacrificed so many sheep and oxen that they could not be counted or numbered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.5|<< 2 Chronicles 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.7|2 Chronicles 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

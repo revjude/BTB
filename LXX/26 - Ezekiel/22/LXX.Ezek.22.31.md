@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:31** 
 <small><sub>**LXX:**</sub></small>
 And I poured out upon her  my rage, by \[the\] fire of my anger,  to complete \[it\].  I have imputed their ways unto their heads, says Adonai \[the\] Lord. 
-<small><sub>**KJV:**</sub></small>
-Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-So I have poured out My indignation upon them and consumed them with the fire of My fury. I have brought their ways down upon their own heads, declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.30|<< Ezekiel 22:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.1|Ezekiel 23:1 >>]]</td></tr></table>
 
 | Translation | Greek |

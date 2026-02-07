@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And remember the one creating you in \[the\] days of your youth! while the days of evil should not come, \[nor\] years should arrive, in which you shall \[then\] say, There is not in me a want for them. 
-<small><sub>**KJV:**</sub></small>
-Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
-<small><sub>**BSB:**</sub></small>
-Remember your Creator in the days of your youth, before the days of adversity come and the years approach of which you will say, “I find no pleasure in them,”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.11.10|<< Ecclesiastes 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.2|Ecclesiastes 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 3:32** 
+**Numbers 3:32**<big><big>[[Num.3.27 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eleazar the son of Aaron the priest [shall be] chief over the chief of the Levites, [and have] the oversight of them that keep the charge of the sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The chief of the leaders of the Levites was Eleazar son of Aaron the priest; he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.31|<< Numbers 3:31]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.33|Numbers 3:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] leader of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5387A\|נְשִׂיא֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.Si'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] leaders of  |**<big>&#8207;[[H5387A\|נְשִׂיאֵ֣י]]&#8207; </big>**| ne.si.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

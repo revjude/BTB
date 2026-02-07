@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David the king said to all the assembly, Solomon  my son, in whom \[the\] <span class="smallcaps">lord</span> has taken for himself, \[is\] young and tender, and the work \[is\] great; for the place of abode \[is\] not to man, but only to \[the\] <span class="smallcaps">lord</span> God. 
-<small><sub>**KJV:**</sub></small>
-Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, [is yet] young and tender, and the work [is] great: for the palace [is] not for man, but for the LORD God.
-<small><sub>**BSB:**</sub></small>
-Then King David said to the whole assembly, “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great because this palace is not for man, but for the LORD God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.21|<< 1 Chronicles 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.2|1 Chronicles 29:2 >>]]</td></tr></table>
 
 | Translation | Greek |

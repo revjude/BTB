@@ -1,12 +1,12 @@
-**Matthew 3:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:10**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
 <small><sub>**BSB:**</sub></small>
 The axe lies ready at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.
 <small><sub>**Literal:**</sub></small>
 Already now and the ax to the root of the trees is applied. every therefore tree not producing fruit good is cut down and into [the] fire is thrown.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.9|<< Matthew 3:9]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.11|Matthew 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Already |**<big>[[G2235\|Ἤδη]]</big>**  |Ēdē <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

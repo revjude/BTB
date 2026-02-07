@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:5** 
 <small><sub>**LXX:**</sub></small>
 And David said to the servant-lad, In the reporting it, how do you know that Saul and Jonathan his son have died? 
-<small><sub>**KJV:**</sub></small>
-And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son be dead?
-<small><sub>**BSB:**</sub></small>
-Then David asked the young man who had brought him the report, “How do you know that Saul and his son Jonathan are dead?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.4|<< 2 Samuel 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.6|2 Samuel 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

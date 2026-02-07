@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:13** 
 <small><sub>**LXX:**</sub></small>
 And he brought forth from there all the treasures of the ones in the house of \[the\] <span class="smallcaps">lord</span>, and the treasures of \[the\] house of the king. And he cut off all the items  of gold which Solomon the king of Israel made for the temple of \[the\] <span class="smallcaps">lord</span>, according to the saying of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he carried out thence all the treasures of the house of the LORD, and the treasures of the king’s house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, as the LORD had said.
-<small><sub>**BSB:**</sub></small>
-As the LORD had declared, Nebuchadnezzar also carried off all the treasures from the house of the LORD and the royal palace, and he cut into pieces all the gold articles that Solomon king of Israel had made in the temple of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.12|<< 2 Kings 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.14|2 Kings 24:14 >>]]</td></tr></table>
 
 | Translation | Greek |

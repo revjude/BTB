@@ -1,12 +1,12 @@
-**Acts 28:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:21**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said unto him, We neither received letters out of Judaea concerning thee, neither any of the brethren that came shewed or spake any harm of thee.
 <small><sub>**BSB:**</sub></small>
 The leaders replied, “We have not received any letters about you from Judea, nor have any of the brothers from there reported or even mentioned anything bad about you.
 <small><sub>**Literal:**</sub></small>
 <the> And to him they said; We ourselves neither letters concerning you received from <the> Judea, nor having arrived any of the brothers reported or he said anything concerning you evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.20|<< Acts 28:20]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.22|Acts 28:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

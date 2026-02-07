@@ -1,10 +1,7 @@
 **LXX Judges 11:16** 
 <small><sub>**LXX:**</sub></small>
 In  their ascending from out of Egypt, \[it is that\] Israel went in the wilderness unto \[the\] red sea, and came to Kadesh. 
-<small><sub>**KJV:**</sub></small>
-But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;
-<small><sub>**BSB:**</sub></small>
-But when Israel came up out of Egypt, they traveled through the wilderness to the Red Sea and came to Kadesh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.15|<< Judges 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.17|Judges 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

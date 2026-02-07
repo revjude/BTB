@@ -1,4 +1,4 @@
-**Jeremiah 2:19** 
+**Jeremiah 2:19**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine own wickedness shall correct thee, and thy backslidings shall reprove thee: know therefore and see that [it is] an evil [thing] and bitter, that thou hast forsaken the LORD thy God, and that my fear [is] not in thee, saith the Lord GOD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your own evil will discipline you; your own apostasies will reprimand you. Consi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.18|<< Jeremiah 2:18]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.20|Jeremiah 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will punish you  |**<big>&#8207;[[H3256\|תְּיַסְּרֵ֣]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| te.ya.se.Re<small><sup>[[HVpi3fs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wickedness your  |**<big>&#8207;[[H7451I\|רָעָתֵ֗]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ra.'a.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

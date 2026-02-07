@@ -1,12 +1,12 @@
-**Matthew 5:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:13**<big><big>[[Matt.5.13 Salt and Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
 <small><sub>**BSB:**</sub></small>
 You are the salt of the earth. But if the salt loses its savor, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled by men.
 <small><sub>**Literal:**</sub></small>
 You yourselves are the salt of the earth; if however the salt shall become tasteless, with what will it be salted? For no [thing] it is useful any longer only except for being cast out and is to be trampled upon by <the> men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.12|<< Matthew 5:12]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.14|Matthew 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|Ὑμεῖς]]</big>**  |Humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|ἐστε]]</big>**  |este <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 9:8** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to them, Stand there and I will hear what \[the\] <span class="smallcaps">lord</span> gives charge concerning you. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto them, Stand still, and I will hear what the LORD will command concerning you.
-<small><sub>**BSB:**</sub></small>
-“Wait here until I find out what the LORD commands concerning you,” Moses replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.7|<< Numbers 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.9|Numbers 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 26:8** 
+**2 Chronicles 26:8**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Ammonites gave gifts to Uzziah: and his name spread abroad [even] to the entering in of Egypt; for he strengthened [himself] exceedingly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Ammonites brought tribute to Uzziah, and his fame spread as far as the borde
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.7|<< 2 Chronicles 26:7]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.9|2 Chronicles 26:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they paid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414N\|יִּתְּנ֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Ammonites  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5984H\|עַמּוֹנִ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.mo.Nim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

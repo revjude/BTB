@@ -1,4 +1,4 @@
-**Exodus 28:30** 
+**Exodus 28:30**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put in the breastplate of judgment the Urim and the Thummim; and they shall be upon Aaron’s heart, when he goeth in before the LORD: and Aaron shall bear the judgment of the children of Israel upon his heart before the LORD continually.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And place the Urim and Thummim in the breastpiece of judgment, so that they will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.29|<< Exodus 28:29]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.31|Exodus 28:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Samuel 22:3** 
+**2 Samuel 22:3**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The God of my rock; in him will I trust: [he is] my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ My God is my rock, in whom I take refuge, my shield, and the horn of my salvatio
 > $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God of  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֥י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rock my  |**<big>&#8207;[[H6697H\|צוּרִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| tzu.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

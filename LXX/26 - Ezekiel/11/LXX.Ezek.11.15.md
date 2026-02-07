@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:15** 
 <small><sub>**LXX:**</sub></small>
 O son of man,  your brethren, and the men  of your captivity, and all the house  of Israel have come to completion, \[about\] whom the ones dwelling in Jerusalem said to them, You are far at a distance from the <span class="smallcaps">lord</span>; the land has been given to us for an inheritance. 
-<small><sub>**KJV:**</sub></small>
-Son of man, thy brethren, [even] thy brethren, the men of thy kindred, and all the house of Israel wholly, [are] they unto whom the inhabitants of Jerusalem have said, Get you far from the LORD: unto us is this land given in possession.
-<small><sub>**BSB:**</sub></small>
-“Son of man, your brothers—your relatives, your fellow exiles, and the whole house of Israel—are those of whom the people of Jerusalem have said, ‘They are far away from the LORD; this land has been given to us as a possession.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.14|<< Ezekiel 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.16|Ezekiel 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:35** 
 <small><sub>**LXX:**</sub></small>
 And of the Danites being deployed for war -- twenty-eight thousand and six hundred. 
-<small><sub>**KJV:**</sub></small>
-And of the Danites expert in war twenty and eight thousand and six hundred.
-<small><sub>**BSB:**</sub></small>
-From Dan: 28,600 prepared for battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.34|<< 1 Chronicles 12:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.36|1 Chronicles 12:36 >>]]</td></tr></table>
 
 | Translation | Greek |

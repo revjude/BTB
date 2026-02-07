@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:3** 
 <small><sub>**LXX:**</sub></small>
 The ones saying, Have they not recently built the houses? This is the kettle, and we \[are\] the meats. 
-<small><sub>**KJV:**</sub></small>
-Which say, [It is] not near; let us build houses: this [city is] the caldron, and we [be] the flesh.
-<small><sub>**BSB:**</sub></small>
-They are saying, ‘Is not the time near to build houses? The city is the cooking pot, and we are the meat.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.2|<< Ezekiel 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.4|Ezekiel 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

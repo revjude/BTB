@@ -1,10 +1,7 @@
 **LXX Isaiah 37:12** 
 <small><sub>**LXX:**</sub></small>
 \[Have\] the gods of the nations rescued them whom my fathers destroyed,  both Gozan, and Haran, and Rezeph, which are in \[the\] place of Telassar? 
-<small><sub>**KJV:**</sub></small>
-Have the gods of the nations delivered them which my fathers have destroyed, [as] Gozan, and Haran, and Rezeph, and the children of Eden which [were] in Telassar?
-<small><sub>**BSB:**</sub></small>
-Did the gods of the nations destroyed by my fathers rescue those nations—the gods of Gozan, Haran, and Rezeph, and of the people of Eden in Telassar?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.11|<< Isaiah 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.13|Isaiah 37:13 >>]]</td></tr></table>
 
 | Translation | Greek |

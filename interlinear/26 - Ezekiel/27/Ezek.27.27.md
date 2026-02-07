@@ -1,4 +1,4 @@
-**Ezekiel 27:27** 
+**Ezekiel 27:27**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that [are] in thee, and in all thy company which [is] in the midst of thee, shall fall into the midst of the seas in the day of thy ruin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your wealth, wares, and merchandise, your sailors, captains, and shipwrights, yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.26|<< Ezekiel 27:26]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.28|Ezekiel 27:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wealth your  |**<big>&#8207;[[H1952\|הוֹנֵ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| ho.ne<small><sup>[[HNcmsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and wares your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5801\|עִזְבוֹנַ֔יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'iz.vo.Na.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

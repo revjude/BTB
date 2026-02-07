@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:18** 
 <small><sub>**LXX:**</sub></small>
 And Saul came to Samuel in \[the\] midst of the city, and he said, Report indeed to me, of what  house \[is\] the seer? 
-<small><sub>**KJV:**</sub></small>
-Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer’s house [is].
-<small><sub>**BSB:**</sub></small>
-Saul approached Samuel in the gateway and asked, “Would you please tell me where the seer’s house is?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.17|<< 1 Samuel 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.19|1 Samuel 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

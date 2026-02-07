@@ -1,4 +1,4 @@
-**Genesis 17:14** 
+**Genesis 17:14**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if any male is not circumcised, he will be cut off from his people; he has b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.13|<< Genesis 17:13]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.15|Genesis 17:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and an uncircumcised  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6189\|עָרֵ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Rel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | male  |**<big>&#8207;[[H2145\|זָכָ֗ר]]&#8207; </big>**| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

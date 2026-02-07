@@ -1,10 +1,7 @@
 **LXX Psalm 139:11** 
 <small><sub>**LXX:**</sub></small>
 And I said, Surely darkness shall trample me; even \[the\] night was illumination for  my luxury; 
-<small><sub>**KJV:**</sub></small>
-If I say, Surely the darkness shall cover me; even the night shall be light about me.
-<small><sub>**BSB:**</sub></small>
-If I say, “Surely the darkness will hide me, and the light become night around me”—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.10|<< Psalm 139:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.12|Psalm 139:12 >>]]</td></tr></table>
 
 | Translation | Greek |

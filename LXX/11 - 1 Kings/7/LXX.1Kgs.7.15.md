@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:15** 
 <small><sub>**LXX:**</sub></small>
 And he cast in a furnace the two columns for the columned porch of the house -- eighteen cubits \[was\] the height of the column, and the perimeter \[had\] a two and ten cubits cord encircling it. And so \[was\] the second column. 
-<small><sub>**KJV:**</sub></small>
-For he cast two pillars of brass, of eighteen cubits high apiece: and a line of twelve cubits did compass either of them about.
-<small><sub>**BSB:**</sub></small>
-He cast two pillars of bronze, each eighteen cubits high and twelve cubits in circumference.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.14|<< 1 Kings 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.16|1 Kings 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

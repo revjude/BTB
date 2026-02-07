@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:6** 
 <small><sub>**LXX:**</sub></small>
 And the columned porch of the columns \[was\] fifty cubits  \[in\] length, and thirty cubits in width, being joined together by a columned porch in front of them. And columns and thick \[beams\] were at \[the\] front to them. 
-<small><sub>**KJV:**</sub></small>
-And he made a porch of pillars; the length thereof [was] fifty cubits, and the breadth thereof thirty cubits: and the porch [was] before them: and the [other] pillars and the thick beam [were] before them.
-<small><sub>**BSB:**</sub></small>
-Solomon made his colonnade fifty cubits long and thirty cubits wide, with a portico in front of it and a canopy with pillars in front of the portico.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.5|<< 1 Kings 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.7|1 Kings 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

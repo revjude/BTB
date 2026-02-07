@@ -1,4 +1,4 @@
-**Ezekiel 39:14** 
+**Ezekiel 39:14**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall sever out men of continual employment, passing through the land to bury with the passengers those that remain upon the face of the earth, to cleanse it: after the end of seven months shall they search.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And men will be employed to continually pass through the land to cleanse it by b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.13|<< Ezekiel 39:13]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.15|Ezekiel 39:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0582\|אַנְשֵׁ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | continuity  |**<big>&#8207;[[H8548\|תָמִ֤יד]]&#8207; </big>**| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

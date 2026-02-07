@@ -1,10 +1,7 @@
 **LXX Genesis 10:32** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the tribes of \[the\] sons of Noah, according to their generations, according to their nations. From these were scattered islands of the nations upon the earth after the flood. 
-<small><sub>**KJV:**</sub></small>
-These [are] the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.
-<small><sub>**BSB:**</sub></small>
-All these are the clans of Noah’s sons, according to their generations and nations. From these the nations of the earth spread out after the flood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.31|<< Genesis 10:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.1|Genesis 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

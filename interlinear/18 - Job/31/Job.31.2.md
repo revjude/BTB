@@ -1,4 +1,4 @@
-**Job 31:2** 
+**Job 31:2**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For what portion of God [is there] from above? and [what] inheritance of the Almighty from on high?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For what is the allotment of God from above, or the heritage from the Almighty o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.1|<< Job 31:1]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.3|Job 31:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מֶ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] portion of  |**<big>&#8207;[[H2506A\|חֵ֣לֶק]]&#8207; </big>**| Che.lek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

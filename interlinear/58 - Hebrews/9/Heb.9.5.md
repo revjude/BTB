@@ -1,12 +1,12 @@
-**Hebrews 9:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:5**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.
 <small><sub>**BSB:**</sub></small>
 Above the ark were the cherubim of glory, overshadowing the mercy seat. But we cannot discuss these things in detail now.
 <small><sub>**Literal:**</sub></small>
 Above then it [were the] cherubim of glory overshadowing the mercy seat, concerning which not it is now [the time] to speak in detail.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.4|<< Hebrews 9:4]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.6|Hebrews 9:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Above |**<big>[[G5231\|ὑπεράνω]]</big>**  |huperanō <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

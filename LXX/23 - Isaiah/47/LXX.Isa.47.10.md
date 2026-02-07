@@ -1,10 +1,7 @@
 **LXX Isaiah 47:10** 
 <small><sub>**LXX:**</sub></small>
 In the hope  of your wickedness, for you said, I am, and there is not another. Know that the understanding of these \[things\] and  your harlotry will be shame to you! For you said in  your heart, I am, and there is not another. 
-<small><sub>**KJV:**</sub></small>
-For thou hast trusted in thy wickedness: thou hast said, None seeth me. Thy wisdom and thy knowledge, it hath perverted thee; and thou hast said in thine heart, I [am], and none else beside me.
-<small><sub>**BSB:**</sub></small>
-You were secure in your wickedness; you said, ‘No one sees me.’ Your wisdom and knowledge led you astray; you told yourself, ‘I am, and there is none besides me.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.9|<< Isaiah 47:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.11|Isaiah 47:11 >>]]</td></tr></table>
 
 | Translation | Greek |

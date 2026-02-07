@@ -1,4 +1,4 @@
-**Jonah 3:5** 
+**Jonah 3:5**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the Ninevites believed God. They proclaimed a fast and dressed in sackcloth,
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they believed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H0539\|יַּאֲמִ֛ינוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mi.nu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֥י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

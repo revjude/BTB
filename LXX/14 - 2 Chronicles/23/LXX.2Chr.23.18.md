@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:18** 
 <small><sub>**LXX:**</sub></small>
 And Jehoiada the priest committed the works of \[the\] house of \[the\] <span class="smallcaps">lord</span> in \[the\] hand of the priests and Levites. And he reestablished the daily rotations of the priests and the Levites, as David separated for the house of \[the\] <span class="smallcaps">lord</span>,  to offer \[to the\] <span class="smallcaps">lord</span> whole burnt-offerings, as is written in \[the\] law of Moses, with gladness and with odes by \[the\] hand of David. 
-<small><sub>**KJV:**</sub></small>
-Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as [it is] written in the law of Moses, with rejoicing and with singing, [as it was ordained] by David.
-<small><sub>**BSB:**</sub></small>
-Moreover, Jehoiada put the oversight of the house of the LORD into the hands of the Levitical priests, whom David had appointed over the house of the LORD, to offer burnt offerings to the LORD as written in the Law of Moses, with rejoicing and song, as ordained by David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.17|<< 2 Chronicles 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.19|2 Chronicles 23:19 >>]]</td></tr></table>
 
 | Translation | Greek |

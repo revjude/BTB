@@ -1,12 +1,12 @@
-**1 Corinthians 4:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:12**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And labour, working with our own hands: being reviled, we bless; being persecuted, we suffer it:
 <small><sub>**BSB:**</sub></small>
 We work hard with our own hands. When we are vilified, we bless; when we are persecuted, we endure it;
 <small><sub>**Literal:**</sub></small>
 and we toil working <the> with [our] own hands; Being reviled we bless, being persecuted we endure,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.11|<< 1 Corinthians 4:11]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.13|1 Corinthians 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we toil |**<big>[[G2872\|κοπιῶμεν]]</big>**  |kopiōmen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

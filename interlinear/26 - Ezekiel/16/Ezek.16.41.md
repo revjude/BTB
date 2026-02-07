@@ -1,4 +1,4 @@
-**Ezekiel 16:41** 
+**Ezekiel 16:41**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall burn thine houses with fire, and execute judgments upon thee in the sight of many women: and I will cause thee to cease from playing the harlot, and thou also shalt give no hire any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they will burn down your houses and execute judgment against you in the sig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.40|<< Ezekiel 16:40]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.42|Ezekiel 16:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will burn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8313\|שָׂרְפ֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.re.Fu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | houses your  |**<big>&#8207;[[H1004B\|בָתַּ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| va.Ta.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΖΑΙΝ</p>
 
 \[The\] <span class="smallcaps">lord</span> thrust away his altar, he brushed off his sanctuary, he broke by \[the\] hand of \[the\] enemy \[the\] wall of her palaces; they gave a sound in \[the\] house of \[the\] <span class="smallcaps">lord</span>, as in \[the\] day of holiday. 
-<small><sub>**KJV:**</sub></small>
-The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast.
-<small><sub>**BSB:**</sub></small>
-The Lord has rejected His altar; He has abandoned His sanctuary; He has delivered the walls of her palaces into the hand of the enemy. They have raised a shout in the house of the LORD as on the day of an appointed feast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.6|<< Lamentations 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.8|Lamentations 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

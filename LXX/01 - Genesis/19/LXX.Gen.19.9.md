@@ -1,10 +1,7 @@
 **LXX Genesis 19:9** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, You left there to enter \[here\] to sojourn, and not to judge \[with\] judgment. Now then to you we will inflict evil rather  \[than\] them. And they were pressing the man  Lot exceedingly, and they approached to break the door. 
-<small><sub>**KJV:**</sub></small>
-And they said, Stand back. And they said [again], This one [fellow] came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, [even] Lot, and came near to break the door.
-<small><sub>**BSB:**</sub></small>
-“Get out of the way!” they replied. And they declared, “This one came here as a foreigner, and he is already acting like a judge! Now we will treat you worse than them.” And they pressed in on Lot and moved in to break down the door.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.8|<< Genesis 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.10|Genesis 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 18:21** 
+**2 Kings 18:21**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, behold, thou trustest upon the staff of this bruised reed, [even] upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so [is] Pharaoh king of Egypt unto all that trust on him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look now, you are trusting in Egypt, that splintered reed of a staff that will p
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.20|<< 2 Kings 18:20]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.22|2 Kings 18:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֡ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

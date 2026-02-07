@@ -1,10 +1,7 @@
 **LXX Genesis 5:22** 
 <small><sub>**LXX:**</sub></small>
 And Enoch was well-pleasing \[to\] God. And Enoch lived after  his procreating  Methuseleh, two hundred years, and he procreated sons and daughters. 
-<small><sub>**KJV:**</sub></small>
-And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Methuselah, Enoch walked with God 300 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.21|<< Genesis 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.23|Genesis 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

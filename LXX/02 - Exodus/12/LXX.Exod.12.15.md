@@ -1,10 +1,7 @@
 **LXX Exodus 12:15** 
 <small><sub>**LXX:**</sub></small>
 Seven days you shall eat unleavened \[breads\]. And from the first day you shall remove yeast from  your houses. All who ever shall eat yeast, that soul shall be utterly destroyed from out of Israel; \[it shall be\] from the first day until  the seventh day. 
-<small><sub>**KJV:**</sub></small>
-Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
-<small><sub>**BSB:**</sub></small>
-For seven days you must eat unleavened bread. On the first day you are to remove the leaven from your houses. Whoever eats anything leavened from the first day through the seventh must be cut off from Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.14|<< Exodus 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.16|Exodus 12:16 >>]]</td></tr></table>
 
 | Translation | Greek |

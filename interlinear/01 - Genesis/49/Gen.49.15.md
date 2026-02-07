@@ -1,4 +1,4 @@
-**Genesis 49:15** 
+**Genesis 49:15**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he saw that rest [was] good, and the land that [it was] pleasant; and bowed his shoulder to bear, and became a servant unto tribute.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He saw that his resting place was good and that his land was pleasant, so he ben
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.14|<< Genesis 49:14]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.16|Genesis 49:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֤רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a resting place  |**<big>&#8207;[[H4496H\|מְנֻחָה֙]]&#8207; </big>**| me.nu.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

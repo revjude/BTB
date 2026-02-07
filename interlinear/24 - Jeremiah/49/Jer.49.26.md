@@ -1,4 +1,4 @@
-**Jeremiah 49:26** 
+**Jeremiah 49:26**<big><big>[[Jer.49.23 Judgment on Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore her young men shall fall in her streets, and all the men of war shall be cut off in that day, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For her young men will fall in the streets, and all her warriors will be silence
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.25|<< Jeremiah 49:25]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.27|Jeremiah 49:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֛ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will fall  |**<big>&#8207;[[H5307J\|יִפְּל֥וּ]]&#8207; </big>**| yi.pe.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

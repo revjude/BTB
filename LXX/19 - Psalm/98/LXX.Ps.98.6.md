@@ -1,10 +1,7 @@
 **LXX Psalm 98:6** 
 <small><sub>**LXX:**</sub></small>
 With hammered \[metal\] trumpets, and \[the\] sound of \[the\] trumpet of \[the\] horn shout before the king of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-With trumpets and sound of cornet make a joyful noise before the LORD, the King.
-<small><sub>**BSB:**</sub></small>
-With trumpets and the blast of the ram’s horn shout for joy before the LORD, the King.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.98.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.98.5|<< Psalm 98:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.98.7|Psalm 98:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 5:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:2**<big><big>[[Matt.5.1 The Sermon on the Mount|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he opened his mouth, and taught them, saying,
 <small><sub>**BSB:**</sub></small>
 and He began to teach them, saying:
 <small><sub>**Literal:**</sub></small>
 And opening the mouth of Him He was teaching them saying:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.1|<< Matthew 5:1]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.3|Matthew 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | opening |**<big>[[G0455\|ἀνοίξας]]</big>**  |anoixas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the cry of the people and their wives was great against  their brethren of the Jews. 
-<small><sub>**KJV:**</sub></small>
-And there was a great cry of the people and of their wives against their brethren the Jews.
-<small><sub>**BSB:**</sub></small>
-About that time there was a great outcry from the people and their wives against their fellow Jews.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.23|<< Nehemiah 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.2|Nehemiah 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 31:10** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when the flocks were stimulated, in \[the\] womb conceiving, that I saw them with my eyes in  sleep. And behold, the he-goats and the rams ascended upon the flocks, and the she-goats white-mixed and colored and ashen speckled. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle [were] ringstraked, speckled, and grisled.
-<small><sub>**BSB:**</sub></small>
-When the flocks were breeding, I saw in a dream that the streaked, spotted, and speckled males were mating with the females.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.9|<< Genesis 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.11|Genesis 31:11 >>]]</td></tr></table>
 
 | Translation | Greek |

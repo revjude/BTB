@@ -1,12 +1,12 @@
-**Hebrews 1:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:2**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds;
 <small><sub>**BSB:**</sub></small>
 But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe.
 <small><sub>**Literal:**</sub></small>
 in [this] last of the days these has spoken to us in [His] Son whom He appointed heir of all things, through whom also He made the ages<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.1|<< Hebrews 1:1]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.3|Hebrews 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1909\|ἐπ᾽]]</big>**  |ep᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [this] last [^1] |**<big>[[G2078\|ἐσχάτου]]</big>**  |eschatou <small><sup>[[A-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

@@ -1,4 +1,4 @@
-**Job 37:5** 
+**Job 37:5**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God thunders wondrously with His voice; He does great things we cannot comprehen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.4|<< Job 37:4]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.6|Job 37:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he thunders  |**<big>&#8207;[[H7481\|יַרְעֵ֤ם]]&#8207; </big>**| yar.'Em<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0410G\|אֵ֣ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

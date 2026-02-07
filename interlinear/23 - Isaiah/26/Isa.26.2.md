@@ -1,4 +1,4 @@
-**Isaiah 26:2** 
+**Isaiah 26:2**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Open ye the gates, that the righteous nation which keepeth the truth may enter in.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Open the gates so a righteous nation may enter—one that remains faithful.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.1|<< Isaiah 26:1]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.3|Isaiah 26:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | open  |**<big>&#8207;[[H6605A\|פִּתְח֖וּ]]&#8207; </big>**| pit.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] gates  |**<big>&#8207;[[H8179G\|שְׁעָרִ֑ים]]&#8207; </big>**| she.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

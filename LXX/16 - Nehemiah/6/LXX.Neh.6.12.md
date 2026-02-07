@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:12** 
 <small><sub>**LXX:**</sub></small>
 I shall not enter. And I realized, and behold,  God did not send him, for the prophesy \[was\] a word against me. And Tobiah and Sanballat hired him, 
-<small><sub>**KJV:**</sub></small>
-And, lo, I perceived that God had not sent him; but that he pronounced this prophecy against me: for Tobiah and Sanballat had hired him.
-<small><sub>**BSB:**</sub></small>
-I realized that God had not sent him, but that he had uttered this prophecy against me because Tobiah and Sanballat had hired him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.11|<< Nehemiah 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.13|Nehemiah 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

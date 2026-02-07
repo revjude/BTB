@@ -1,4 +1,4 @@
-**Deuteronomy 3:27** 
+**Deuteronomy 3:27**<big><big>[[Deut.3.23 Moses Forbidden to Cross the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Get thee up into the top of Pisgah, and lift up thine eyes westward, and northward, and southward, and eastward, and behold [it] with thine eyes: for thou shalt not go over this Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go to the top of Pisgah and look to the west and north and south and east. See t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.26|<< Deuteronomy 3:26]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.28|Deuteronomy 3:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go up  |**<big>&#8207;[[H5927G\|עֲלֵ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Leh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] top of  |**<big>&#8207;[[H7218I\|רֹ֣אשׁ]]&#8207; </big>**| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Malachi 2:13** 
+**Malachi 2:13**<big><big>[[Mal.2.10 Judah’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this have ye done again, covering the altar of the LORD with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth [it] with good will at your hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And this is another thing you do: You cover the altar of the LORD with tears, wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.12|<< Malachi 2:12]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.14|Malachi 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹאת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | second [thing]  |**<big>&#8207;[[H8145\|שֵׁנִ֣ית]]&#8207; </big>**| she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

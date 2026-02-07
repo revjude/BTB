@@ -1,4 +1,4 @@
-**Leviticus 15:17** 
+**Leviticus 15:17**<big><big>[[Lev.15.13 The Cleansing of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every garment, and every skin, whereon is the seed of copulation, shall be washed with water, and be unclean until the even.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Any clothing or leather on which there is an emission of semen must be washed wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.16|<< Leviticus 15:16]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.18|Leviticus 15:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | garment  |**<big>&#8207;[[H0899B\|בֶּ֣גֶד]]&#8207; </big>**| Be.ged<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

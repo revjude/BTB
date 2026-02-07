@@ -1,12 +1,12 @@
-**Galatians 1:17
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:17**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.
 <small><sub>**BSB:**</sub></small>
 nor did I go up to Jerusalem to the apostles who came before me, but I went into Arabia and later returned to Damascus.
 <small><sub>**Literal:**</sub></small>
 nor did I go up to Jerusalem to the before me apostles, but I went away into Arabia and again returned to Damascus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.16|<< Galatians 1:16]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.18|Galatians 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nor |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | did I go up |**<big>[[G0424\|ἀνῆλθον]]</big>**  |anēlthon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

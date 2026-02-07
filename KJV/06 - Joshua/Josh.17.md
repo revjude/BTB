@@ -1,6 +1,6 @@
 (KJV) **Joshua 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16|<< Joshua 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18|Joshua 18 >>]]</td></tr></table>
 
-***Manasseh’s Western Inheritance*** ^bsb579
+<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥃]]</big></big>***Manasseh’s Western Inheritance***
 
  $\quad$ <span class="startversemarker">[</span>**[[Josh.17.1|1]]**<span class="endversemarker">]</span> There was also a lot for the tribe of Manasseh; for he \[was\] the firstborn<small><small>[^2]</small></small> of Joseph; \[to wit\], for Machir<small><small>[^3]</small></small> the firstborn of Manasseh, the father of Gilead<small><small>[^4]</small></small>: because he was a man of war, therefore he had Gilead and Bashan. <span class="startversemarker">[</span>**[[Josh.17.2|2]]**<span class="endversemarker">]</span> There was also \[a lot\] for the rest<small><small>[^5]</small></small> of the children<small><small>[^6]</small></small> of Manasseh by their families; for the children of Abi–ezer<small><small>[^7]</small></small>, and for the children of Helek, and for the children of Asriel<small><small>[^8]</small></small>, and for the children of Shechem, and for the children of Hepher<small><small>[^9]</small></small>, and for the children of Shemida: these \[were\] the male children of Manasseh the son of Joseph by their families. 
 

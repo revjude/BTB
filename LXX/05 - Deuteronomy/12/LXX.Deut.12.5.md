@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:5** 
 <small><sub>**LXX:**</sub></small>
 But in the place which ever \[the\] <span class="smallcaps">lord</span> your God should choose from all  of your tribes to name  his name there, and to be called upon -- even you shall seek after and enter there. 
-<small><sub>**KJV:**</sub></small>
-But unto the place which the LORD your God shall choose out of all your tribes to put his name there, [even] unto his habitation shall ye seek, and thither thou shalt come:
-<small><sub>**BSB:**</sub></small>
-Instead, you must seek the place the LORD your God will choose from among all your tribes to establish as a dwelling for His Name, and there you must go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.4|<< Deuteronomy 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.6|Deuteronomy 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 3:38** 
+**2 Samuel 3:38**<big><big>[[2Sam.3.31 David Mourns for Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto his servants, Know ye not that there is a prince and a great man fallen this day in Israel?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the king said to his servants, “Do you not realize that a great prince ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.37|<< 2 Samuel 3:37]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.39|2 Samuel 3:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֖לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

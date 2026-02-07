@@ -1,5 +1,5 @@
-**Romans 12:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:16**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Be] of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
 <small><sub>**BSB:**</sub></small>
 Live in harmony with one another. Do not be proud, but associate with the lowly. Do not be conceited.
@@ -11,7 +11,7 @@ the same thing toward one another minding, not the [things] haughty minding, but
 > $\quad$ alluding to: [[LXX.Isa.5.21|Isa 5:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | same thing |**<big>[[G0846\|αὐτὸ]]</big>**  |auto <small><sup>[[P-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

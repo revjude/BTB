@@ -1,12 +1,12 @@
-**Matthew 26:71
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:71**<big><big>[[Matt.26.69 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was gone out into the porch, another [maid] saw him, and said unto them that were there, This [fellow] was also with Jesus of Nazareth.
 <small><sub>**BSB:**</sub></small>
 When Peter had gone out to the gateway, another servant girl saw him and said to the people there, “This man was with Jesus of Nazareth.”
 <small><sub>**Literal:**</sub></small>
 Having gone out then him to the porch saw him another [servant girl] and she says to those there; and This [man] was with Jesus <the> of Nazareth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.70|<< Matthew 26:70]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.72|Matthew 26:72 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having gone out |**<big>[[G1831\|ἐξελθόντα]]</big>**  |exelthonta <small><sup>[[V-2AAP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 18:3** 
 <small><sub>**LXX:**</sub></small>
 and the two sons of his -- \[the\] name to the one \[was\] Gershom, saying, I was a sojourner in an alien land. 
-<small><sub>**KJV:**</sub></small>
-And her two sons; of which the name of the one [was] Gershom; for he said, I have been an alien in a strange land:
-<small><sub>**BSB:**</sub></small>
-along with her two sons. One son was named Gershom, for Moses had said, “I have been a foreigner in a foreign land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.2|<< Exodus 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.4|Exodus 18:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 18:3** is...

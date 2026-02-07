@@ -1,10 +1,7 @@
 **LXX Psalm 145:13** 
 <small><sub>**LXX:**</sub></small>
  Your kingdom \[is\] a kingdom of all the eons; and  your mastery \[is\] in every generation and generation. Trustworthy \[is the\] <span class="smallcaps">lord</span> in all  his words, and sacred in all  his works. 
-<small><sub>**KJV:**</sub></small>
-Thy kingdom [is] an everlasting kingdom, and thy dominion [endureth] throughout all generations.
-<small><sub>**BSB:**</sub></small>
-Your kingdom is an everlasting kingdom, and Your dominion endures through all generations. The LORD is faithful in all His words and kind in all His actions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.145.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.12|<< Psalm 145:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.14|Psalm 145:14 >>]]</td></tr></table>
 
 | Translation | Greek |

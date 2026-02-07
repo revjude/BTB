@@ -1,4 +1,4 @@
-**Psalms 107:13** 
+**Psalms 107:13**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they cried unto the LORD in their trouble, [and] he saved them out of their distresses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they cried out to the LORD in their trouble, and He saved them from their d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.12|<< Psalms 107:12]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.14|Psalms 107:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|יִּזְעֲק֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.'a.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

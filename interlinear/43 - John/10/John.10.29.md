@@ -1,12 +1,12 @@
-**John 10:29
-**<small><sub>**KJV:**</sub></small>
+**John 10:29**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 My Father, which gave [them] me, is greater than all; and no [man] is able to pluck [them] out of my Father’s hand.
 <small><sub>**BSB:**</sub></small>
 My Father who has given them to Me is greater than all. No one can snatch them out of My Father’s hand.
 <small><sub>**Literal:**</sub></small>
 The Father of Mine which has given [them] to Me [than] all greater is, and no [one] is able to seize [them] out of the hand the Father of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.28|<< John 10:28]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.30|John 10:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Father |**<big>[[G3962\|πατήρ]]</big>**  |patēr <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

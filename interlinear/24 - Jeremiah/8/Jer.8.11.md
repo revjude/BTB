@@ -1,4 +1,4 @@
-**Jeremiah 8:11** 
+**Jeremiah 8:11**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they have healed the hurt of the daughter of my people slightly, saying, Peace, peace; when [there is] no peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They dress the wound of the daughter of My people with very little care, saying,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.10|<< Jeremiah 8:10]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.12|Jeremiah 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they have healed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7495\|יְרַפּ֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ra.Pu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

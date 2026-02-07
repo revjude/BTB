@@ -1,4 +1,4 @@
-**Jeremiah 37:8** 
+**Jeremiah 37:8**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Chaldeans will return and fight against this city. They will capture it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.7|<< Jeremiah 37:7]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.9|Jeremiah 37:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will return  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|שָׁ֙בוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sha.vu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Chaldeans  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3778\|כַּשְׂדִּ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kas.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

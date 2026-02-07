@@ -1,4 +1,4 @@
-**1 Kings 7:23** 
+**1 Kings 7:23**<big><big>[[1Kgs.7.23 The Molten Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made a molten sea, ten cubits from the one brim to the other: [it was] round all about, and his height [was] five cubits: and a line of thirty cubits did compass it round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also made the Sea of cast metal. It was circular in shape, measuring ten cubi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.22|<< 1 Kings 7:22]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.24|1 Kings 7:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

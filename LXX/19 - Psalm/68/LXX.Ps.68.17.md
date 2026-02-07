@@ -1,10 +1,7 @@
 **LXX Psalm 68:17** 
 <small><sub>**LXX:**</sub></small>
 The chariot  of God -- ten thousand-fold; thousands of prospering ones. \[The\] <span class="smallcaps">lord</span> among them in Sinai, in the holy \[place\]. 
-<small><sub>**KJV:**</sub></small>
-The chariots of God [are] twenty thousand, [even] thousands of angels: the Lord [is] among them, [as in] Sinai, in the holy [place].
-<small><sub>**BSB:**</sub></small>
-The chariots of God are tens of thousands—thousands of thousands are they; the Lord is in His sanctuary as He was at Sinai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.16|<< Psalm 68:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.18|Psalm 68:18 >>]]</td></tr></table>
 
 | Translation | Greek |

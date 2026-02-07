@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:14** 
 <small><sub>**LXX:**</sub></small>
 And they did not hearken, and they hardened  their back above the back  of their fathers, the ones that trusted not in \[the\] <span class="smallcaps">lord</span>  their God; 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding they would not hear, but hardened their necks, like to the neck of their fathers, that did not believe in the LORD their God.
-<small><sub>**BSB:**</sub></small>
-But they would not listen, and they stiffened their necks like their fathers, who did not believe the LORD their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.13|<< 2 Kings 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.15|2 Kings 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

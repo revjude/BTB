@@ -1,12 +1,12 @@
-**Luke 20:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:15**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So they cast him out of the vineyard, and killed [him]. What therefore shall the lord of the vineyard do unto them?
 <small><sub>**BSB:**</sub></small>
 So they threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them?
 <small><sub>**Literal:**</sub></small>
 And having cast forth him outside the vineyard they killed [him]. What therefore will do to them the master of the vineyard?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.14|<< Luke 20:14]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.16|Luke 20:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having cast forth |**<big>[[G1544\|ἐκβαλόντες]]</big>**  |ekbalontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

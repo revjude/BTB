@@ -1,10 +1,7 @@
 **LXX Proverbs 12:25** 
 <small><sub>**LXX:**</sub></small>
 A fearful word disturbs \[the\] heart of a man; but a good message gladdens him. 
-<small><sub>**KJV:**</sub></small>
-Heaviness in the heart of man maketh it stoop: but a good word maketh it glad.
-<small><sub>**BSB:**</sub></small>
-Anxiety weighs down the heart of a man, but a good word cheers it up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.24|<< Proverbs 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.26|Proverbs 12:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 15:6** 
+**Proverbs 15:6**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the house of the righteous [is] much treasure: but in the revenues of the wicked is trouble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The house of the righteous has great treasure, but the income of the wicked is t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.5|<< Proverbs 15:5]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.7|Proverbs 15:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] house of  |**<big>&#8207;[[H1004B\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a righteous [person]  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

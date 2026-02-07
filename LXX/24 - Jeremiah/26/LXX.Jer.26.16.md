@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:16** 
 <small><sub>**LXX:**</sub></small>
 And the rulers and all the people said to the priests and to the false prophets; There is not \[due\] \[to\] this man a judgment of death, for upon the name of \[the\] <span class="smallcaps">lord</span>  our God he spoke to us. 
-<small><sub>**KJV:**</sub></small>
-Then said the princes and all the people unto the priests and to the prophets; This man [is] not worthy to die: for he hath spoken to us in the name of the LORD our God.
-<small><sub>**BSB:**</sub></small>
-Then the officials and all the people told the priests and prophets, “This man is not worthy of death, for he has spoken to us in the name of the LORD our God!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.15|<< Jeremiah 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.17|Jeremiah 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

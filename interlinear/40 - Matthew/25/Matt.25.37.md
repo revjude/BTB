@@ -1,12 +1,12 @@
-**Matthew 25:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:37**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed [thee]? or thirsty, and gave [thee] drink?
 <small><sub>**BSB:**</sub></small>
 Then the righteous will answer Him, ‘Lord, when did we see You hungry and feed You, or thirsty and give You something to drink?
 <small><sub>**Literal:**</sub></small>
 Then will answer Him the righteous saying; Lord, when You saw we hungering and fed [You] Or thirsting and gave [You] to drink?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.36|<< Matthew 25:36]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.38|Matthew 25:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will answer |**<big>[[G0611\|ἀποκριθήσονται]]</big>**  |apokrithēsontai <small><sup>[[V-FOI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

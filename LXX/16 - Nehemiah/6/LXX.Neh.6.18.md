@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:18** 
 <small><sub>**LXX:**</sub></small>
 For many in Judah were bound by an oath to him, for he was son-in-law  of Shechaniah son of Arah. And Johanan his son took the daughter of Meshullam, son of Berechiah for wife. 
-<small><sub>**KJV:**</sub></small>
-For [there were] many in Judah sworn unto him, because he [was] the son in law of Shechaniah the son of Arah; and his son Johanan had taken the daughter of Meshullam the son of Berechiah.
-<small><sub>**BSB:**</sub></small>
-For many in Judah were bound by oath to him, since he was a son-in-law of Shecaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berechiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.17|<< Nehemiah 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.19|Nehemiah 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

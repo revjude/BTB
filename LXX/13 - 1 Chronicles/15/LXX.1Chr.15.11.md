@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:11** 
 <small><sub>**LXX:**</sub></small>
 And David called  Zadok and  Abiathar the priests, and the Levites --  Uriel, Asiah, and Joel, and Shemaiah, and Eliel, and Amminadab. 
-<small><sub>**KJV:**</sub></small>
-And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,
-<small><sub>**BSB:**</sub></small>
-David summoned the priests Zadok and Abiathar and the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.10|<< 1 Chronicles 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.12|1 Chronicles 15:12 >>]]</td></tr></table>
 
 | Translation | Greek |

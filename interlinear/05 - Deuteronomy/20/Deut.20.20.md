@@ -1,4 +1,4 @@
-**Deuteronomy 20:20** 
+**Deuteronomy 20:20**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only the trees which thou knowest that they [be] not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But you may destroy the trees that you know do not produce fruit. Use them to bu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.19|<< Deuteronomy 20:19]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.1|Deuteronomy 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֞ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a tree  |**<big>&#8207;[[H6086H\|עֵ֣ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

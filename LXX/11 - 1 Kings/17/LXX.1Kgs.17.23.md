@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:23** 
 <small><sub>**LXX:**</sub></small>
 And he led \[him\] from the upper room into the house, and he gave it \[to\] his mother. And Elijah said, See! your son lives. 
-<small><sub>**KJV:**</sub></small>
-And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother: and Elijah said, See, thy son liveth.
-<small><sub>**BSB:**</sub></small>
-Then Elijah took the child, brought him down from the upper room into the house, and gave him to his mother. “Look, your son is alive,” Elijah declared.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.22|<< 1 Kings 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.24|1 Kings 17:24 >>]]</td></tr></table>
 
 | Translation | Greek |

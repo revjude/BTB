@@ -1,10 +1,7 @@
 **LXX Isaiah 32:15** 
 <small><sub>**LXX:**</sub></small>
 until whenever spirit from on high should come upon you; and the fruitful field shall be wilderness, and the fruitful field shall be considered as a forest. 
-<small><sub>**KJV:**</sub></small>
-Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest.
-<small><sub>**BSB:**</sub></small>
-until the Spirit is poured out upon us from on high. Then the desert will be an orchard, and the orchard will seem like a forest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.14|<< Isaiah 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.16|Isaiah 32:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 14:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:13**<big><big>[[Matt.14.13 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus heard [of it], he departed thence by ship into a desert place apart: and when the people had heard [thereof], they followed him on foot out of the cities.
 <small><sub>**BSB:**</sub></small>
 When Jesus heard about John, He withdrew by boat privately to a solitary place. But the crowds found out about it and followed Him on foot from the towns.
 <small><sub>**Literal:**</sub></small>
 and Having heard now <the> Jesus withdrew from there by boat to a secluded place apart [on his] own. And having heard [of it] the crowds followed Him on foot from the towns.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.12|<< Matthew 14:12]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.14|Matthew 14:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Having heard |**<big>[[G0191\|Ἀκούσας]]</big>**  |Akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

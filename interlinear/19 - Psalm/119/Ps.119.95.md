@@ -1,4 +1,4 @@
-**Psalms 119:95** 
+**Psalms 119:95**<big><big>[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked have waited for me to destroy me: [but] I will consider thy testimonies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wicked wait to destroy me, but I will ponder Your testimonies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.95|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.94|<< Psalms 119:94]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.96|Psalms 119:96 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for me  |**<big>&#8207;[[H9005\|לִ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have waited  |**<big>&#8207;[[H6960A\|קִוּ֣וּ]]&#8207; </big>**| ki.Vu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

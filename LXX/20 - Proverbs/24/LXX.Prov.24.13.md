@@ -1,10 +1,7 @@
 **LXX Proverbs 24:13** 
 <small><sub>**LXX:**</sub></small>
 Eat honey, O son, for \[the\] honeycomb \[is\] good! that your throat should be sweetened. 
-<small><sub>**KJV:**</sub></small>
-My son, eat thou honey, because [it is] good; and the honeycomb, [which is] sweet to thy taste:
-<small><sub>**BSB:**</sub></small>
-Eat honey, my son, for it is good, and the honeycomb is sweet to your taste.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.12|<< Proverbs 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.14|Proverbs 24:14 >>]]</td></tr></table>
 
 | Translation | Greek |

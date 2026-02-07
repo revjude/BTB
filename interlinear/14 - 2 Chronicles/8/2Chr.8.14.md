@@ -1,4 +1,4 @@
-**2 Chronicles 8:14** 
+**2 Chronicles 8:14**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In keeping with the ordinances of his father David, Solomon appointed the divisi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.13|<< 2 Chronicles 8:13]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.15|2 Chronicles 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975H\|יַּעֲמֵ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to [the] ordinance of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4941G\|מִשְׁפַּ֣ט]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mish.Pat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

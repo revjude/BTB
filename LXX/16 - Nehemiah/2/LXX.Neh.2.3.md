@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:3** 
 <small><sub>**LXX:**</sub></small>
 And I said to the king, O king, Live into the eon! Why should not my face be sorry, for the city, \[the\] house of \[the\] sepulchres of my fathers, was made desolate, and  its gates were devoured by fire? 
-<small><sub>**KJV:**</sub></small>
-And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers’ sepulchres, [lieth] waste, and the gates thereof are consumed with fire?
-<small><sub>**BSB:**</sub></small>
-and replied to the king, “May the king live forever! Why should I not be sad when the city where my fathers are buried lies in ruins, and its gates have been destroyed by fire?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.2|<< Nehemiah 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.4|Nehemiah 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 119:124** 
 <small><sub>**LXX:**</sub></small>
 Do with  your servant according to  your mercy, and  teach me your ordinances! 
-<small><sub>**KJV:**</sub></small>
-Deal with thy servant according unto thy mercy, and teach me thy statutes.
-<small><sub>**BSB:**</sub></small>
-Deal with Your servant according to Your loving devotion, and teach me Your statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.124|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.123|<< Psalm 119:123]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.125|Psalm 119:125 >>]]</td></tr></table>
 
 | Translation | Greek |

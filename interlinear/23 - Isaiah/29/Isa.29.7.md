@@ -1,4 +1,4 @@
-**Isaiah 29:7** 
+**Isaiah 29:7**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the many nations going out to battle against Ariel—even all who war agains
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.6|<< Isaiah 29:6]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.8|Isaiah 29:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a dream  |**<big>&#8207;[[H9004\|כַּֽ]]&#8207;&#8207;[[H2472\|חֲלוֹם֙]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> cha.lOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

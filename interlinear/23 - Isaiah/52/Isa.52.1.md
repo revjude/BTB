@@ -1,4 +1,4 @@
-**Isaiah 52:1** 
+**Isaiah 52:1**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Awake, awake, clothe yourself with strength, O Zion! Put on your garments of spl
 > $\quad$ referenced by: [[Rev.21.27|Rev 21:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | awake  |**<big>&#8207;[[H5782\|עוּרִ֥י]]&#8207; </big>**| 'u.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | awake  |**<big>&#8207;[[H5782\|עוּרִ֛י]]&#8207; </big>**| 'u.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

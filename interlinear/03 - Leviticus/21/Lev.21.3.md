@@ -1,4 +1,4 @@
-**Leviticus 21:3** 
+**Leviticus 21:3**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ or his unmarried sister who is near to him, since she has no husband.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.2|<< Leviticus 21:2]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.4|Leviticus 21:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and for sister his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0269\|אֲחֹת֤]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> 'a.cho.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the virgin  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1330\|בְּתוּלָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.tu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:3** 
 <small><sub>**LXX:**</sub></small>
 And an angel of \[the\] <span class="smallcaps">lord</span> spoke to Elijah the Tishbite, saying, Rise up, go to meet the messengers of Ahaziah king of Samaria! and say to them, Is it on account of the not being a God in Israel you go to ask of  Baal \[the\] fly god of Ekron? 
-<small><sub>**KJV:**</sub></small>
-But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, [Is it] not because [there is] not a God in Israel, [that] ye go to inquire of Baalzebub the god of Ekron?
-<small><sub>**BSB:**</sub></small>
-But the angel of the LORD said to Elijah the Tishbite, “Go up to meet the messengers of the king of Samaria and ask them, ‘Is it because there is no God in Israel that you are on your way to inquire of Baal-zebub, the god of Ekron?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.2|<< 2 Kings 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.4|2 Kings 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

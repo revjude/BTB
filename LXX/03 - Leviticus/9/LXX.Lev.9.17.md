@@ -1,10 +1,7 @@
 **LXX Leviticus 9:17** 
 <small><sub>**LXX:**</sub></small>
 And he brought the sacrifice \[offering\], and he filled the hand of it. And placed \[it\] upon the altar separate from the early morning whole burnt-offering. 
-<small><sub>**KJV:**</sub></small>
-And he brought the meat offering, and took an handful thereof, and burnt [it] upon the altar, beside the burnt sacrifice of the morning.
-<small><sub>**BSB:**</sub></small>
-Next he presented the grain offering, took a handful of it, and burned it on the altar in addition to the morning’s burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.16|<< Leviticus 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.18|Leviticus 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

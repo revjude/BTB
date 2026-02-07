@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:16** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> to the king, the one sitting upon \[the\] throne of David, and to all the people, the one dwelling in  this city,  to  your brethren, the ones not going forth with you into captivity. 
-<small><sub>**KJV:**</sub></small>
-[Know] that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, [and] of your brethren that are not gone forth with you into captivity;
-<small><sub>**BSB:**</sub></small>
-this is what the LORD says about the king who sits on David’s throne and all the people who remain in this city, your brothers who did not go with you into exile—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.15|<< Jeremiah 29:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.17|Jeremiah 29:17 >>]]</td></tr></table>
 
 | Translation | Greek |

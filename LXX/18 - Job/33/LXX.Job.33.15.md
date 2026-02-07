@@ -1,10 +1,7 @@
 **LXX Job 33:15** 
 <small><sub>**LXX:**</sub></small>
 \[sending\] a dream or in a nightly meditation, or as whenever an awful fear falls upon men, in slumberings upon a bed; 
-<small><sub>**KJV:**</sub></small>
-In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;
-<small><sub>**BSB:**</sub></small>
-In a dream, in a vision in the night, when deep sleep falls upon men as they slumber on their beds,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.14|<< Job 33:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.16|Job 33:16 >>]]</td></tr></table>
 
 | Translation | Greek |

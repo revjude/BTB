@@ -1,4 +1,4 @@
-**Leviticus 26:29** 
+**Leviticus 26:29**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall eat the flesh of your sons, and the flesh of your daughters shall ye eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will eat the flesh of your own sons and daughters.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.28|<< Leviticus 26:28]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.30|Leviticus 26:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will eat  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|אֲכַלְתֶּ֖ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.khal.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] flesh of  |**<big>&#8207;[[H1320\|בְּשַׂ֣ר]]&#8207; </big>**| be.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

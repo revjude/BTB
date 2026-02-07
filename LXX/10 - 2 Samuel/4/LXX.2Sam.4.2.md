@@ -1,10 +1,7 @@
 **LXX 2 Samuel 4:2** 
 <small><sub>**LXX:**</sub></small>
 And \[there were\] two men being leaders of \[the\] confederation  of Ishbosheth son of Saul -- \[the\] name to the one \[was\] Baanah, and \[the\] name of the second, Rechab, the sons of Rimmon the Beerothite from out of the sons of Benjamin; for also Beeroth was considered \[among\] the sons of Benjamin. 
-<small><sub>**KJV:**</sub></small>
-And Saul’s son had two men [that were] captains of bands: the name of the one [was] Baanah, and the name of the other Rechab, the sons of Rimmon a Beerothite, of the children of Benjamin: (for Beeroth also was reckoned to Benjamin:
-<small><sub>**BSB:**</sub></small>
-Saul’s son had two men who were leaders of raiding parties. One was named Baanah and the other Rechab; they were sons of Rimmon the Beerothite of the tribe of Benjamin—Beeroth is considered part of Benjamin,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.1|<< 2 Samuel 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.3|2 Samuel 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

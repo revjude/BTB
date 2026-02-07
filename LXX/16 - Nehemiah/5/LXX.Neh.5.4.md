@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:4** 
 <small><sub>**LXX:**</sub></small>
 And there are some saying, We borrowed money for tribute of the king of our fields, and our vineyards, and our houses. 
-<small><sub>**KJV:**</sub></small>
-There were also that said, We have borrowed money for the king’s tribute, [and that upon] our lands and vineyards.
-<small><sub>**BSB:**</sub></small>
-Still others were saying, “We have borrowed money to pay the king’s tax on our fields and vineyards.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.3|<< Nehemiah 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.5|Nehemiah 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

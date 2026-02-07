@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:11** 
 <small><sub>**LXX:**</sub></small>
 And Naaman was enraged, and went forth, and said, Behold, I said, he will come forth to me, and he shall stand and shall call in \[the\] name of \[the\] <span class="smallcaps">lord</span> his God, and shall place  his hand upon the place, and shall cure the leper. 
-<small><sub>**KJV:**</sub></small>
-But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper.
-<small><sub>**BSB:**</sub></small>
-But Naaman went away angry, saying, “I thought that he would surely come out, stand and call on the name of the LORD his God, and wave his hand over the spot to cure my leprosy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.10|<< 2 Kings 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.12|2 Kings 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

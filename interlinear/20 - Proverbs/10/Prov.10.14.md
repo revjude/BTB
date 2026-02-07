@@ -1,4 +1,4 @@
-**Proverbs 10:14** 
+**Proverbs 10:14**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wise [men] lay up knowledge: but the mouth of the foolish [is] near destruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wise store up knowledge, but the mouth of the fool invites destruction.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.13|<< Proverbs 10:13]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.15|Proverbs 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִ֥ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they store up  |**<big>&#8207;[[H6845\|יִצְפְּנוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yitz.pe.nu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

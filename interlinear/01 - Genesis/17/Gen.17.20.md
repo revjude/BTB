@@ -1,4 +1,4 @@
-**Genesis 17:20** 
+**Genesis 17:20**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for Ishmael, I have heard you, and I will surely bless him; I will make him f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.19|<< Genesis 17:19]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.21|Genesis 17:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Ishmael  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3458G\|יִשְׁמָעֵ֘אל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> yish.ma.'eL<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have heard you  |**<big>&#8207;[[H8085G\|שְׁמַעְתִּי]]&#8207;&#8207;[[H9031\|ךָ֒]]&#8207; </big>**| she.ma'.ti.<small><sup>[[HVqp1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

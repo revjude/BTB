@@ -1,10 +1,7 @@
 **LXX Psalm 106:10** 
 <small><sub>**LXX:**</sub></small>
 And he delivered them out of \[the\] hand of the one detesting; and he ransomed them out of \[the\] hand of enemies. 
-<small><sub>**KJV:**</sub></small>
-And he saved them from the hand of him that hated [them], and redeemed them from the hand of the enemy.
-<small><sub>**BSB:**</sub></small>
-He saved them from the hand that hated them; He redeemed them from the hand of the enemy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.9|<< Psalm 106:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.11|Psalm 106:11 >>]]</td></tr></table>
 
 | Translation | Greek |

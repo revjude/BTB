@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 6:8** 
 <small><sub>**LXX:**</sub></small>
 For what advantage to the wise over the fool, for the needy knows to go in front of  life? 
-<small><sub>**KJV:**</sub></small>
-For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?
-<small><sub>**BSB:**</sub></small>
-What advantage, then, has the wise man over the fool? What gain comes to the poor man who knows how to conduct himself before others?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.7|<< Ecclesiastes 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.9|Ecclesiastes 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

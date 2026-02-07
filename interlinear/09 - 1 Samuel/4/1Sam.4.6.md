@@ -1,4 +1,4 @@
-**1 Samuel 4:6** 
+**1 Samuel 4:6**<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the Philistines heard the noise of the shout, they said, What [meaneth] the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the LORD was come into the camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On hearing the noise of the shout, the Philistines asked, “What is this loud s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.5|<< 1 Samuel 4:5]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.7|1 Samuel 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמְע֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.me.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּים֙]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**John 1:51
-**<small><sub>**KJV:**</sub></small>
+**John 1:51**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.
 <small><sub>**BSB:**</sub></small>
 Then He declared, “Truly, truly, I tell you, you will all see heaven open and the angels of God ascending and descending on the Son of Man.”
@@ -10,7 +10,7 @@ And He says to him; Amen Amen I say to all of you from now you will behold the h
 > $\quad$ referencing: [[LXX.Gen.28.12|Gen 28:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

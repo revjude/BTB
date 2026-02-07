@@ -1,4 +1,4 @@
-**Hosea 7:11** 
+**Hosea 7:11**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ephraim has become like a silly, senseless dove—calling out to Egypt, then 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.10|<< Hosea 7:10]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.12|Hosea 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has become  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֔יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

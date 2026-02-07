@@ -1,12 +1,12 @@
-**John 6:34
-**<small><sub>**KJV:**</sub></small>
+**John 6:34**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said they unto him, Lord, evermore give us this bread.
 <small><sub>**BSB:**</sub></small>
 “Sir,” they said, “give us this bread at all times.”
 <small><sub>**Literal:**</sub></small>
 They said therefore to Him; Sir, always do give to us <the> bread this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.33|<< John 6:33]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.35|John 6:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They said |**<big>[[G2036\|εἶπον]]</big>**  |eipon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

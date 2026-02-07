@@ -1,10 +1,7 @@
 **LXX Daniel 8:23** 
 <small><sub>**LXX:**</sub></small>
 And at \[the\] last  of their kingdom, being full of the sins, shall rise up a king with an impudent face, and perceiving riddles. 
-<small><sub>**KJV:**</sub></small>
-And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
-<small><sub>**BSB:**</sub></small>
-In the latter part of their reign, when the rebellion has reached its full measure, an insolent king, skilled in intrigue, will come to the throne.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.22|<< Daniel 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.24|Daniel 8:24 >>]]</td></tr></table>
 
 | Translation | Greek |

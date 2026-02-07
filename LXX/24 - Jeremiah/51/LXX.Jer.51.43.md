@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:43** 
 <small><sub>**LXX:**</sub></small>
 Her cities became for extinction, a waterless and untrodden land. There shall not dwell in her not one \[thing\], nor should there rest up in her a son of man. 
-<small><sub>**KJV:**</sub></small>
-Her cities are a desolation, a dry land, and a wilderness, a land wherein no man dwelleth, neither doth [any] son of man pass thereby.
-<small><sub>**BSB:**</sub></small>
-Her cities have become a desolation, a dry and arid land, a land where no one lives, where no son of man passes through.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.42|<< Jeremiah 51:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.44|Jeremiah 51:44 >>]]</td></tr></table>
 
 | Translation | Greek |

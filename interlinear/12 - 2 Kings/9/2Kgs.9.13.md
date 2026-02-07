@@ -1,4 +1,4 @@
-**2 Kings 9:13** 
+**2 Kings 9:13**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they hasted, and took every man his garment, and put [it] under him on the top of the stairs, and blew with trumpets, saying, Jehu is king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Quickly, each man took his garment and put it under Jehu on the bare steps. Then
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.12|<< 2 Kings 9:12]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.14|2 Kings 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they hurried  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H4116A\|יְמַהֲר֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.ha.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקְחוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

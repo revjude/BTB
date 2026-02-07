@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:56** 
 <small><sub>**LXX:**</sub></small>
 And was not Sodom  your sister for a report in  your mouth in the days  of your pride, 
-<small><sub>**KJV:**</sub></small>
-For thy sister Sodom was not mentioned by thy mouth in the day of thy pride,
-<small><sub>**BSB:**</sub></small>
-Did you not treat your sister Sodom as an object of scorn in the day of your pride,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.55|<< Ezekiel 16:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.57|Ezekiel 16:57 >>]]</td></tr></table>
 
 | Translation | Greek |

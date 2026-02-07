@@ -1,4 +1,4 @@
-**Job 9:35** 
+**Job 9:35**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] would I speak, and not fear him; but [it is] not so with me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I would speak without fear of Him. But as it is, I am on my own.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.34|<< Job 9:34]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.1|Job 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will speak  |**<big>&#8207;[[H1696G\|אַֽ֭דַבְּרָה]]&#8207; </big>**| 'A.da.be.rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

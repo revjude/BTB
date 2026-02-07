@@ -1,4 +1,4 @@
-**Psalms 41:3** (41:4)
+**Psalms 41:3**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will sustain him on his bed of illness and restore him from his bed of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.2|<< Psalms 41:2]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.4|Psalms 41:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will sustain him  |**<big>&#8207;[[H5582\|יִ֭סְעָדֶ]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| Yis.'a.de.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

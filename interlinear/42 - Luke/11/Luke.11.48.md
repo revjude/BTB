@@ -1,12 +1,12 @@
-**Luke 11:48
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:48**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Truly ye bear witness that ye allow the deeds of your fathers: for they indeed killed them, and ye build their sepulchres.
 <small><sub>**BSB:**</sub></small>
 So you are witnesses consenting to the deeds of your fathers: They killed the prophets, and you build their tombs.
 <small><sub>**Literal:**</sub></small>
 So witnesses you are and you consent to the works of the fathers of you; For they themselves indeed killed them, you yourselves however build of them the monuments.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.47|<< Luke 11:47]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.49|Luke 11:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G0686\|ἄρα]]</big>**  |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | witnesses [^1] |**<big>[[G3144\|μάρτυρές]]</big>**  |martures <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

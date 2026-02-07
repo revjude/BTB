@@ -1,4 +1,4 @@
-**Isaiah 29:9** 
+**Isaiah 29:9**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Stop and be astonished; blind yourselves and be sightless; be drunk, but not wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.8|<< Isaiah 29:8]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.10|Isaiah 29:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | delay  |**<big>&#8207;[[H4102\|הִתְמַהְמְה֣וּ]]&#8207; </big>**| hit.mah.me.Hu<small><sup>[[HVtv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and be astounded  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8539\|תְמָ֔הוּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.Ma.hu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

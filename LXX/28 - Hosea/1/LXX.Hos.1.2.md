@@ -1,10 +1,7 @@
 **LXX Hosea 1:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] beginning of \[the\] word of \[the\] <span class="smallcaps">lord</span> by Hosea. And the <span class="smallcaps">lord</span> said to Hosea, Proceed, take to yourself a wife of harlotry, and children of harlotry! because by fornicating the land shall fornicate away from \[going\] after the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, [departing] from the LORD.
-<small><sub>**BSB:**</sub></small>
-When the LORD first spoke through Hosea, He told him, “Go, take a prostitute as your wife and have children of adultery, because this land is flagrantly prostituting itself by departing from the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.1.1|<< Hosea 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.1.3|Hosea 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

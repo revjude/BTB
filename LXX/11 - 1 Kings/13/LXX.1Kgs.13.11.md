@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And a prophet, one old man, dwelt in Beth-el. And his sons came and described to him all the works which the man of God did in  that day in Beth-el, and the words which he spoke to the king. And they turned the face  of their father. 
-<small><sub>**KJV:**</sub></small>
-Now there dwelt an old prophet in Bethel; and his sons came and told him all the works that the man of God had done that day in Bethel: the words which he had spoken unto the king, them they told also to their father.
-<small><sub>**BSB:**</sub></small>
-Now a certain old prophet was living in Bethel, and his sons came and told him all the deeds that the man of God had done that day in Bethel. They also told their father the words that the man had spoken to the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.10|<< 1 Kings 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.12|1 Kings 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 11:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:24**<big><big>[[Luke.11.24 An Unclean Spirit Returns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out.
 <small><sub>**BSB:**</sub></small>
 When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it. Then it says, ‘I will return to the house I left.’
 <small><sub>**Literal:**</sub></small>
 When the unclean spirit is gone out from the man, it passes through waterless places seeking rest. and not finding [any] then it says; I will return to the house of mine from where I came out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.23|<< Luke 11:23]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.25|Luke 11:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

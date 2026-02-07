@@ -1,4 +1,4 @@
-**Malachi 2:17** 
+**Malachi 2:17**<big><big>[[Mal.2.10 Judah’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have wearied the LORD with your words. Yet ye say, Wherein have we wearied [him]? When ye say, Every one that doeth evil [is] good in the sight of the LORD, and he delighteth in them; or, Where [is] the God of judgment?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have wearied the LORD with your words; yet you ask, “How have we wearied H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.16|<< Malachi 2:16]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.1|Malachi 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have wearied  |**<big>&#8207;[[H3021\|הוֹגַעְתֶּ֤ם]]&#8207; </big>**| ho.ga'.Tem<small><sup>[[HVhp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

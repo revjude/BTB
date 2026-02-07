@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:9** 
 <small><sub>**LXX:**</sub></small>
 And they put him in a cage, even in a wicker cage, and they led him to the king of Babylon. And they brought him into prison, so that his voice should not be heard any more upon the mountains  of Israel. 
-<small><sub>**KJV:**</sub></small>
-And they put him in ward in chains, and brought him to the king of Babylon: they brought him into holds, that his voice should no more be heard upon the mountains of Israel.
-<small><sub>**BSB:**</sub></small>
-With hooks they caged him and brought him to the king of Babylon. They brought him into captivity so that his roar was heard no longer on the mountains of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.8|<< Ezekiel 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.10|Ezekiel 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

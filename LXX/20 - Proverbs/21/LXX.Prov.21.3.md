@@ -1,10 +1,7 @@
 **LXX Proverbs 21:3** 
 <small><sub>**LXX:**</sub></small>
 To do just \[things\] and to be truthful \[are\] more pleasing to God rather, than a sacrifice of blood. 
-<small><sub>**KJV:**</sub></small>
-To do justice and judgment [is] more acceptable to the LORD than sacrifice.
-<small><sub>**BSB:**</sub></small>
-To do righteousness and justice is more desirable to the LORD than sacrifice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.2|<< Proverbs 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.4|Proverbs 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

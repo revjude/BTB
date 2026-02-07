@@ -1,4 +1,4 @@
-**Exodus 32:6** 
+**Exodus 32:6**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they rose up early on the morrow, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the next day they arose, offered burnt offerings, and presented peace offerin
 > $\quad$ referenced by: [[1Cor.10.7|1Cor 10:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rose early  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7925\|יַּשְׁכִּ֙ימוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Ki.mu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] next day  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4283\|מָּחֳרָ֔ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mo.cho.Rat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

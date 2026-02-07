@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall make a draw curtain for the door, of blue and purple, and scarlet being twined, and linen being twined, \[the\] work of an embroiderer. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make an hanging for the door of the tent, [of] blue, and purple, and scarlet, and fine twined linen, wrought with needlework.
-<small><sub>**BSB:**</sub></small>
-For the entrance to the tent, you are to make a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.35|<< Exodus 26:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.37|Exodus 26:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 26:36** is...

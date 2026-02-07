@@ -1,12 +1,12 @@
-**1 Corinthians 9:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:3**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Mine answer to them that do examine me is this,
 <small><sub>**BSB:**</sub></small>
 This is my defense to those who scrutinize me:
 <small><sub>**Literal:**</sub></small>
 <the> My defense to those me myself examining is this:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.2|<< 1 Corinthians 9:2]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.4|1 Corinthians 9:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | My |**<big>[[G1473\|ἐμὴ]]</big>**  |emē <small><sup>[[S-1SNSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

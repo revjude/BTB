@@ -1,10 +1,7 @@
 **LXX Leviticus 16:23** 
 <small><sub>**LXX:**</sub></small>
 And Aaron shall enter into the tent of the testimony, and shall take off the flaxen linen apparel which he put on of his entering into the holy \[place\]. And he shall put it aside there. 
-<small><sub>**KJV:**</sub></small>
-And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy [place], and shall leave them there:
-<small><sub>**BSB:**</sub></small>
-Then Aaron is to enter the Tent of Meeting, take off the linen garments he put on before entering the Most Holy Place, and leave them there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.22|<< Leviticus 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.24|Leviticus 16:24 >>]]</td></tr></table>
 
 | Translation | Greek |

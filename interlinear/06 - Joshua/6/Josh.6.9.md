@@ -1,4 +1,4 @@
-**Joshua 6:9** 
+**Joshua 6:9**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, [the priests] going on, and blowing with the trumpets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While the horns continued to sound, the armed troops marched ahead of the priest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.8|<< Joshua 6:8]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.10|Joshua 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the armed [man]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2502B\|חָל֣וּץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> he.<small><sup>[[HTd]]</sup></small> cha.Lutz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] walking  |**<big>&#8207;[[H1980I\|הֹלֵ֔ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

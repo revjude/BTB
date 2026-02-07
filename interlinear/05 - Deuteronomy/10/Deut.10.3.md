@@ -1,4 +1,4 @@
-**Deuteronomy 10:3** 
+**Deuteronomy 10:3**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I made an ark [of] shittim wood, and hewed two tables of stone like unto the first, and went up into the mount, having the two tables in mine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I made an ark of acacia wood, chiseled out two stone tablets like the origina
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.2|<< Deuteronomy 10:2]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.4|Deuteronomy 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I made  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6213H\|אַ֤עַשׂ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'A.'as<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an ark of  |**<big>&#8207;[[H0727\|אֲרוֹן֙]]&#8207; </big>**| 'a.rOn<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

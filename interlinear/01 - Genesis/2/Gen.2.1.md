@@ -1,4 +1,4 @@
-**Genesis 2:1** 
+**Genesis 2:1**<big><big>[[Gen.2.1 The Seventh Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus the heavens and the earth were finished, and all the host of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the heavens and the earth were completed in all their vast array.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.31|<< Genesis 1:31]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.2|Genesis 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were completed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615G\|יְכֻלּ֛וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.khu.Lu<small><sup>[[HVPw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֥יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

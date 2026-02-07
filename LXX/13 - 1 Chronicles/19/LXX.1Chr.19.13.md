@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:13** 
 <small><sub>**LXX:**</sub></small>
 Be manly! and we shall grow in strength for  our people, and for the cities  of our God; and \[the\] <span class="smallcaps">lord</span>  shall do good in his eyes. 
-<small><sub>**KJV:**</sub></small>
-Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the LORD do [that which is] good in his sight.
-<small><sub>**BSB:**</sub></small>
-Be strong and let us fight bravely for our people and for the cities of our God. May the LORD do what is good in His sight.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.12|<< 1 Chronicles 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.14|1 Chronicles 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

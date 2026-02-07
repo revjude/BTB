@@ -1,4 +1,4 @@
-**2 Chronicles 21:17** 
+**2 Chronicles 21:17**<big><big>[[2Chr.21.16 Jehoram’s Disease and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came up into Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they went to war against Judah, invaded it, and carried off all the possessio
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.16|<< 2 Chronicles 21:16]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.18|2 Chronicles 21:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּעֲל֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on Judah  |**<big>&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H3063G\|יהוּדָה֙]]&#8207; </big>**| vi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

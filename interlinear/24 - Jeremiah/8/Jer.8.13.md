@@ -1,4 +1,4 @@
-**Jeremiah 8:13** 
+**Jeremiah 8:13**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will surely consume them, saith the LORD: [there shall be] no grapes on the vine, nor figs on the fig tree, and the leaf shall fade; and [the things that] I have given them shall pass away from them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will take away their harvest, declares the LORD. There will be no grapes on th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.12|<< Jeremiah 8:12]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.14|Jeremiah 8:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely \<gather>  |**<big>&#8207;[[H0622\|אָסֹ֥ף]]&#8207; </big>**| 'a.Sof<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will make an end of them  |**<big>&#8207;[[H5486\|אֲסִיפֵ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'a.si.Fe<small><sup>[[HVqi1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

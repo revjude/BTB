@@ -1,10 +1,7 @@
 **LXX Job 31:30** 
 <small><sub>**LXX:**</sub></small>
 then my ear hear  my curse, and may I then be a common topic  by my people \[for my\] inflicting evil. 
-<small><sub>**KJV:**</sub></small>
-Neither have I suffered my mouth to sin by wishing a curse to his soul.
-<small><sub>**BSB:**</sub></small>
-I have not allowed my mouth to sin by asking for his life with a curse—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.29|<< Job 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.31|Job 31:31 >>]]</td></tr></table>
 
 | Translation | Greek |

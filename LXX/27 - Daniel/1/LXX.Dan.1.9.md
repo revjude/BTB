@@ -1,10 +1,7 @@
 **LXX Daniel 1:9** 
 <small><sub>**LXX:**</sub></small>
 And God granted  Daniel for mercy and compassion before the chief eunuch. 
-<small><sub>**KJV:**</sub></small>
-Now God had brought Daniel into favour and tender love with the prince of the eunuchs.
-<small><sub>**BSB:**</sub></small>
-Now God had granted Daniel favor and compassion from the chief official,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.8|<< Daniel 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.10|Daniel 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 15:14
-**<small><sub>**KJV:**</sub></small>
+**John 15:14**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye are my friends, if ye do whatsoever I command you.
 <small><sub>**BSB:**</sub></small>
 You are My friends if you do what I command you.
 <small><sub>**Literal:**</sub></small>
 You yourselves friends of Mine are if you shall do what things as much as I myself command you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.13|<< John 15:13]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.15|John 15:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | friends |**<big>[[G5384\|φίλοι]]</big>**  |philoi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

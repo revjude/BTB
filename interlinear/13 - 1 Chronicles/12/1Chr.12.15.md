@@ -1,4 +1,4 @@
-**1 Chronicles 12:15** (12:16)
+**1 Chronicles 12:15**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] they that went over Jordan in the first month, when it had overflown all his banks; and they put to flight all [them] of the valleys, [both] toward the east, and toward the west.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the ones who crossed the Jordan in the first month when it was overflo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.14|<< 1 Chronicles 12:14]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.16|1 Chronicles 12:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] they  |**<big>&#8207;[[H1992\|הֵ֗ם]]&#8207; </big>**| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

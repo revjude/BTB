@@ -1,4 +1,4 @@
-**Numbers 26:23** 
+**Numbers 26:23**<big><big>[[Num.26.23 The Tribe of Issachar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Of] the sons of Issachar after their families: [of] Tola, the family of the Tolaites: of Pua, the family of the Punites:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the descendants of Issachar by their clans: The Tolaite clan from Tol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.22|<< Numbers 26:22]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.24|Numbers 26:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Issachar  |**<big>&#8207;[[H3485G\|יִשָּׂשכָר֙]]&#8207; </big>**| yi.sa.sh.Khar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

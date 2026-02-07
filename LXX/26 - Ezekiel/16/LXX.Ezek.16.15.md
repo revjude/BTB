@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:15** 
 <small><sub>**LXX:**</sub></small>
 And you relied in  your beauty, and you committed harlotry because of  your name; and you poured out  your harlotry upon all in \[the\] byway -- it was to him. 
-<small><sub>**KJV:**</sub></small>
-But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was.
-<small><sub>**BSB:**</sub></small>
-But because of your fame, you trusted in your beauty and played the harlot. You lavished your favors on everyone who passed by, and your beauty was theirs for the asking.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.14|<< Ezekiel 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.16|Ezekiel 16:16 >>]]</td></tr></table>
 
 | Translation | Greek |

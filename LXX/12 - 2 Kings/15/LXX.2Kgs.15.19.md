@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:19** 
 <small><sub>**LXX:**</sub></small>
 In  his days Pul king of \[the\] Assyrians ascended upon the land. And Menahem gave  to Pul a thousand talents of silver  for his hand to be with him,  to strengthen  his kingdom in his hand. 
-<small><sub>**KJV:**</sub></small>
-[And] Pul the king of Assyria came against the land: and Menahem gave Pul a thousand talents of silver, that his hand might be with him to confirm the kingdom in his hand.
-<small><sub>**BSB:**</sub></small>
-Then Pul king of Assyria invaded the land, and Menahem gave Pul a thousand talents of silver in order to gain his support and strengthen his own grip on the kingdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.18|<< 2 Kings 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.20|2 Kings 15:20 >>]]</td></tr></table>
 
 | Translation | Greek |

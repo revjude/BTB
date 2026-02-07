@@ -1,6 +1,6 @@
 (KJV) **2 Kings 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12|<< 2 Kings 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14|2 Kings 14 >>]]</td></tr></table>
 
-***Jehoahaz Reigns in Israel*** ^bsb923
+<big><big>[[2Kgs.13.1 Jehoahaz Reigns in Israel|⥃]]</big></big>***Jehoahaz Reigns in Israel***
 
  $\quad$ <span class="startversemarker">[</span>**[[2Kgs.13.1|1]]**<span class="endversemarker">]</span> In the three and twentieth year<small><small>[^2]</small></small> of Joash the son of Ahaziah king of Judah Jehoahaz<small><small>[^3]</small></small> the son of Jehu began to reign over Israel in Samaria, \[and reigned\] seventeen years. <span class="startversemarker">[</span>**[[2Kgs.13.2|2]]**<span class="endversemarker">]</span> And he did \[that which was\] evil in the sight of the <span class="smallcaps">Lord</span>, and followed<small><small>[^4]</small></small> the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.<small><small>[^5]</small></small> 
 
@@ -8,13 +8,13 @@ $\quad$ <span class="startversemarker">[</span>**[[2Kgs.13.3|3]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[2Kgs.13.8|8]]**<span class="endversemarker">]</span> [¶]Now the rest<small><small>[^22]</small></small> of the acts of Jehoahaz, and all that he did, and his might, \[are\] they not written in the book of the chronicles of the kings of Israel?<small><small>[^23]</small></small> <span class="startversemarker">[</span>**[[2Kgs.13.9|9]]**<span class="endversemarker">]</span> And Jehoahaz slept with his fathers; and they buried him<small><small>[^24]</small></small> in Samaria: and Joash<small><small>[^25]</small></small> his son reigned in his stead<small><small>[^26]</small></small>.<small><small>[^27]</small></small>
 
-***Jehoash Reigns in Israel*** ^bsb924
+<big><big>[[2Kgs.13.10 Jehoash Reigns in Israel|⥃]]</big></big>***Jehoash Reigns in Israel***
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[2Kgs.13.10|10]]**<span class="endversemarker">]</span> In the thirty<small><small>[^28]</small></small> and seventh year of Joash king of Judah began Jehoash<small><small>[^29]</small></small> the son of Jehoahaz to reign over Israel in Samaria, \[and reigned\] sixteen years. <span class="startversemarker">[</span>**[[2Kgs.13.11|11]]**<span class="endversemarker">]</span> And he did \[that which was\] evil in the sight of the <span class="smallcaps">Lord</span>; he departed<small><small>[^30]</small></small> not from all the sins of Jeroboam the son of Nebat, who made Israel sin: \[but\] he walked therein. <span class="startversemarker">[</span>**[[2Kgs.13.12|12]]**<span class="endversemarker">]</span> And the rest<small><small>[^31]</small></small> of the acts of Joash, and all that he did, and his might<small><small>[^32]</small></small> wherewith he fought against Amaziah king of Judah, \[are\] they not written in the book of the chronicles of the kings of Israel?<small><small>[^33]</small></small> <span class="startversemarker">[</span>**[[2Kgs.13.13|13]]**<span class="endversemarker">]</span> And Joash slept<small><small>[^34]</small></small> with his fathers; and Jeroboam<small><small>[^35]</small></small> sat upon his throne: and Joash was buried<small><small>[^36]</small></small> in Samaria with the kings of Israel.
 
-***Elisha’s Final Prophecy*** ^bsb925
+<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥃]]</big></big>***Elisha’s Final Prophecy***
 
  
 

@@ -1,4 +1,4 @@
-**1 Chronicles 12:20** (12:21)
+**1 Chronicles 12:20**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that [were] of Manasseh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When David went to Ziklag, these men of Manasseh defected to him: Adnah, Jozabad
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.19|<< 1 Chronicles 12:19]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.21|1 Chronicles 12:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when went he  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1980G\|לֶכְתּ֣]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> lekh.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

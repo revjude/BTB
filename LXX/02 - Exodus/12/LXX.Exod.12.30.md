@@ -1,10 +1,7 @@
 **LXX Exodus 12:30** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh rose up at night, and all  his attendants, and all the Egyptians, and there was a great cry in all \[the\] land of Egypt. For there was no house in which there was not dying in it. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for [there was] not a house where [there was] not one dead.
-<small><sub>**BSB:**</sub></small>
-During the night Pharaoh got up—he and all his officials and all the Egyptians—and there was loud wailing in Egypt; for there was no house without someone dead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.29|<< Exodus 12:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.31|Exodus 12:31 >>]]</td></tr></table>
 
 | Translation | Greek |

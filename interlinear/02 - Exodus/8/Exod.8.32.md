@@ -1,4 +1,4 @@
-**Exodus 8:32** (8:28)
+**Exodus 8:32**<big><big>[[Exod.8.20 The Fourth Plague：Flies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh hardened his heart at this time also, neither would he let the people go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Pharaoh hardened his heart this time as well, and he would not let the peopl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.31|<< Exodus 8:31]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.1|Exodus 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made heavy  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3513H\|יַּכְבֵּ֤ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yakh.Bed<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹה֙]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezra 9:14** 
+**Ezra 9:14**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Should we again break thy commandments, and join in affinity with the people of these abominations? wouldest not thou be angry with us till thou hadst consumed [us], so that [there should be] no remnant nor escaping?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ shall we again break Your commandments and intermarry with the peoples who commi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.13|<< Ezra 9:13]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.15|Ezra 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will we return  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7725J\|נָשׁוּב֙]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> na.Shuv<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to break  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6565A\|הָפֵ֣ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Fer<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

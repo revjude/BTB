@@ -1,10 +1,7 @@
 **LXX Isaiah 47:2** 
 <small><sub>**LXX:**</sub></small>
 Take a millstone! Grind flour! Uncover  your \[face\] covering! Expose the gray hairs! Uncover the legs! Be passed over \[the\] rivers! 
-<small><sub>**KJV:**</sub></small>
-Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.
-<small><sub>**BSB:**</sub></small>
-Take millstones and grind flour; remove your veil; strip off your skirt, bare your thigh, and wade through the streams.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.1|<< Isaiah 47:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.3|Isaiah 47:3 >>]]</td></tr></table>
 
 | Translation | Greek |

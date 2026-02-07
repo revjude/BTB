@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:11** 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to me, saying, What \[do\] you see, Jeremiah? And I said, A walnut staff. 
-<small><sub>**KJV:**</sub></small>
-Moreover the word of the LORD came unto me, saying, Jeremiah, what seest thou? And I said, I see a rod of an almond tree.
-<small><sub>**BSB:**</sub></small>
-And the word of the LORD came to me, asking, “Jeremiah, what do you see?” “I see a branch of an almond tree,” I replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.10|<< Jeremiah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.12|Jeremiah 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

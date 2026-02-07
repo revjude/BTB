@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:17** 
 <small><sub>**LXX:**</sub></small>
 And sons of Babylon came to her, to \[her\] marriage-bed resting up, and they defiled her with  their harlotry. And she was defiled by them, and her soul separated unto them. 
-<small><sub>**KJV:**</sub></small>
-And the Babylonians came to her into the bed of love, and they defiled her with their whoredom, and she was polluted with them, and her mind was alienated from them.
-<small><sub>**BSB:**</sub></small>
-Then the Babylonians came to her, to the bed of love, and in their lust they defiled her. But after she had been defiled by them, she turned away in disgust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.16|<< Ezekiel 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.18|Ezekiel 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

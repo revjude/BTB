@@ -1,10 +1,7 @@
 **LXX Numbers 31:7** 
 <small><sub>**LXX:**</sub></small>
 And they deployed against Midian as \[the\] <span class="smallcaps">lord</span> gave charge to Moses. And they killed every male. 
-<small><sub>**KJV:**</sub></small>
-And they warred against the Midianites, as the LORD commanded Moses; and they slew all the males.
-<small><sub>**BSB:**</sub></small>
-Then they waged war against Midian, as the LORD had commanded Moses, and they killed every male.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.6|<< Numbers 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.8|Numbers 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

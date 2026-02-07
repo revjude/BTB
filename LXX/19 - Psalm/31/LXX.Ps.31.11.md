@@ -1,10 +1,7 @@
 **LXX Psalm 31:11** 
 <small><sub>**LXX:**</sub></small>
 By all  my enemies I became a scorn, even \[to\] my neighbors exceedingly so, and a fear \[to\] my acquaintances. The ones viewing me outside fled from me. 
-<small><sub>**KJV:**</sub></small>
-I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me.
-<small><sub>**BSB:**</sub></small>
-Among all my enemies I am a disgrace, and among my neighbors even more. I am dreaded by my friends—they flee when they see me on the street.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.10|<< Psalm 31:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.12|Psalm 31:12 >>]]</td></tr></table>
 
 | Translation | Greek |

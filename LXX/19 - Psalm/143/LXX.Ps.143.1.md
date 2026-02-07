@@ -6,10 +6,7 @@ A psalm \[to\] David; when \[his\] son pursued. him
 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, listen to  my prayer! Give ear to  my supplication in  your truth! Hearken to me in  your righteousness! 
-<small><sub>**KJV:**</sub></small>
-A Psalm of David. Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, [and] in thy righteousness.
-<small><sub>**BSB:**</sub></small>
-A Psalm of David. O LORD, hear my prayer. In Your faithfulness, give ear to my plea; in Your righteousness, answer me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.7|<< Psalm 142:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.2|Psalm 143:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 26:26** 
 <small><sub>**LXX:**</sub></small>
 In  your being afflicted \[there will be\] scarcity of bread loaves. Ten women shall bake  your bread loaves in one oven, and they shall give back the bread loaves to you by weight; and you shall eat, and no way shall you be filled. 
-<small><sub>**KJV:**</sub></small>
-[And] when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver [you] your bread again by weight: and ye shall eat, and not be satisfied.
-<small><sub>**BSB:**</sub></small>
-When I cut off your supply of bread, ten women will bake your bread in a single oven and dole out your bread by weight, so that you will eat but not be satisfied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.25|<< Leviticus 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.27|Leviticus 26:27 >>]]</td></tr></table>
 
 | Translation | Greek |

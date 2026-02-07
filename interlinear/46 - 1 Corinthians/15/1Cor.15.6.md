@@ -1,12 +1,12 @@
-**1 Corinthians 15:6
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:6**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
 <small><sub>**BSB:**</sub></small>
 After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep.
 <small><sub>**Literal:**</sub></small>
 Thereafter He appeared to above five hundred brothers at once of whom the greater part remain until now, some however and were fallen asleep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.5|<< 1 Corinthians 15:5]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.7|1 Corinthians 15:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thereafter |**<big>[[G1899\|ἔπειτα]]</big>**  |epeita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He appeared |**<big>[[G3700H\|ὤφθη]]</big>**  |ōphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

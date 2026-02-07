@@ -1,12 +1,12 @@
-**1 John 2:27
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:27**<big><big>[[1John.2.24 Remain in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.
 <small><sub>**BSB:**</sub></small>
 And as for you, the anointing you received from Him remains in you, and you do not need anyone to teach you. But just as His true and genuine anointing teaches you about all things, so remain in Him as you have been taught.
 <small><sub>**Literal:**</sub></small>
 And you yourselves, the anointing that you received from Him abides in you and not need you have that anyone may teach you; But just as the same anointing teaches you concerning all things and true is and not is a lie and even as it has taught you, you abide in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.26|<< 1 John 2:26]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.28|1 John 2:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves, |**<big>[[G4771\|ὑμεῖς,]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

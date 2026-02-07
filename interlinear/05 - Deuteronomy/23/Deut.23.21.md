@@ -1,4 +1,4 @@
-**Deuteronomy 23:21** (23:22)
+**Deuteronomy 23:21**<big><big>[[Deut.23.15 Miscellaneous Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou shalt vow a vow unto the LORD thy God, thou shalt not slack to pay it: for the LORD thy God will surely require it of thee; and it would be sin in thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you make a vow to the LORD your God, do not be slow to keep it, because He wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.20|<< Deuteronomy 23:20]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.22|Deuteronomy 23:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will vow  |**<big>&#8207;[[H5087\|תִדֹּ֥ר]]&#8207; </big>**| ti.Dor<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

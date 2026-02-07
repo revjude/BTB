@@ -1,12 +1,12 @@
-**Romans 5:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:3**<big><big>[[Rom.5.1 The Triumph of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And not only [so], but we glory in tribulations also: knowing that tribulation worketh patience;
 <small><sub>**BSB:**</sub></small>
 Not only that, but we also rejoice in our sufferings, because we know that suffering produces perseverance;
 <small><sub>**Literal:**</sub></small>
 Not only [so] now, but also we glory in <the> tribulations knowing that <the> tribulation perseverance produces,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.2|<< Romans 5:2]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.4|Romans 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | only [so] |**<big>[[G3441\|μόνον]]</big>**  |monon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

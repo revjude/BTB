@@ -1,4 +1,4 @@
-**Ezekiel 47:3** 
+**Ezekiel 47:3**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters [were] to the ancles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the man went eastward with a measuring line in his hand, he measured off a th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.2|<< Ezekiel 47:2]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.4|Ezekiel 47:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when went out  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3318G\|צֵאת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> tzet-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

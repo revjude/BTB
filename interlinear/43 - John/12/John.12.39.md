@@ -1,12 +1,12 @@
-**John 12:39
-**<small><sub>**KJV:**</sub></small>
+**John 12:39**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore they could not believe, because that Esaias said again,
 <small><sub>**BSB:**</sub></small>
 For this reason they were unable to believe. For again, Isaiah says:
 <small><sub>**Literal:**</sub></small>
 Because of this not they were able to believe, for again said Isaiah:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.38|<< John 12:38]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.40|John 12:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

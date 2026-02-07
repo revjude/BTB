@@ -1,12 +1,12 @@
-**Romans 8:38
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:38**<big><big>[[Rom.8.35 More than Conquerors|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
 <small><sub>**BSB:**</sub></small>
 For I am convinced that neither death nor life, neither angels nor principalities, neither the present nor the future, nor any powers,
 <small><sub>**Literal:**</sub></small>
 I have been persuaded for that neither death nor life nor angels nor principalities nor things being present nor things to come nor powers<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.37|<< Romans 8:37]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.39|Romans 8:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have been persuaded |**<big>[[G3982\|πέπεισμαι]]</big>**  |pepeismai <small><sup>[[V-RPI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 9:29
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:29**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, This kind can come forth by nothing, but by prayer and fasting.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “This kind cannot come out, except by prayer.”
 <small><sub>**Literal:**</sub></small>
 And He said to them; This <the> kind by no [thing] is able to go out only except by prayer and with fastings.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.28|<< Mark 9:28]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.30|Mark 9:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

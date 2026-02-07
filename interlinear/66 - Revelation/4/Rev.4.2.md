@@ -1,5 +1,5 @@
-**Revelation 4:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:2**<big><big>[[Rev.4.1 The Throne in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately I was in the spirit: and, behold, a throne was set in heaven, and [one] sat on the throne.
 <small><sub>**BSB:**</sub></small>
 At once I was in the Spirit, and I saw a throne standing in heaven, with someone seated on it.
@@ -10,7 +10,7 @@ and immediately I was in [the] Spirit and behold a throne was set in <the> heave
 > $\quad$ possibly alluding to: [[LXX.Ezek.1.26|Ezek 1:26]][[LXX.Ezek.1.28|, 28]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | immediately |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 22:17** (22:16)
+**Exodus 22:17**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If her father absolutely refuses to give her to him, the man still must pay an a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.16|<< Exodus 22:16]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.18|Exodus 22:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | absolutely \<refuse>  |**<big>&#8207;[[H3985\|מָאֵ֧ן]]&#8207; </big>**| ma.'En<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

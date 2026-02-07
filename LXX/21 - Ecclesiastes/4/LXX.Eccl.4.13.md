@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 4:13** 
 <small><sub>**LXX:**</sub></small>
 Better a needy and wise child, than an older and foolish king who does not know  to take heed any longer. 
-<small><sub>**KJV:**</sub></small>
-Better [is] a poor and a wise child than an old and foolish king, who will no more be admonished.
-<small><sub>**BSB:**</sub></small>
-Better is a poor but wise youth than an old but foolish king who no longer knows how to take a warning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.12|<< Ecclesiastes 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.14|Ecclesiastes 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

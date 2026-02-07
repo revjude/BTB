@@ -1,10 +1,7 @@
 **LXX Ezekiel 2:3** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, I shall send you to the sons  of Israel, of the ones rebelling against me; the ones who rebelled against me. They and  their fathers disregarded  me, until  today's day. 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, [even] unto this very day.
-<small><sub>**BSB:**</sub></small>
-“Son of man,” He said to me, “I am sending you to the Israelites, to a rebellious nation that has rebelled against Me. To this very day they and their fathers have rebelled against Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.2|<< Ezekiel 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.4|Ezekiel 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

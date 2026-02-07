@@ -1,4 +1,4 @@
-**2 Chronicles 24:21** 
+**2 Chronicles 24:21**<big><big>[[2Chr.24.17 The Wickedness of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But they conspired against Zechariah, and by order of the king, they stoned him 
 > $\quad$ referenced by: [[Matt.23.35|Matt 23:35]] ☩ [[Luke.11.51|Luke 11:51]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they conspired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7194\|יִּקְשְׁר֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.she.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

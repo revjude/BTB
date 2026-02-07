@@ -1,10 +1,7 @@
 **LXX Hosea 4:5** 
 <small><sub>**LXX:**</sub></small>
 and he shall weaken by day, and \[the\] prophet also shall weaken with you. I likened your mother to night. 
-<small><sub>**KJV:**</sub></small>
-Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother.
-<small><sub>**BSB:**</sub></small>
-You will stumble by day, and the prophet will stumble with you by night; so I will destroy your mother—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.4|<< Hosea 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.6|Hosea 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

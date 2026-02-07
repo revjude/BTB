@@ -1,12 +1,12 @@
-**1 Peter 3:4
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:4**<big><big>[[1Pet.3.1 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But [let it be] the hidden man of the heart, in that which is not corruptible, [even the ornament] of a meek and quiet spirit, which is in the sight of God of great price.
 <small><sub>**BSB:**</sub></small>
 but from the inner disposition of your heart, the unfading beauty of a gentle and quiet spirit, which is precious in God’s sight.
 <small><sub>**Literal:**</sub></small>
 but the hidden of the heart man in the imperishable of the gentle and quiet spirit, which is before the God of great worth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.3|<< 1 Peter 3:3]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.5|1 Peter 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

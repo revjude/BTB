@@ -1,10 +1,7 @@
 **LXX Ezra 8:18** 
 <small><sub>**LXX:**</sub></small>
 And they came to us as the good hand of our God \[was\] upon us, \[with\] a discerning man from \[the\] sons of Mahli, the \[son\] of Levi  of Israel. And Sherebiah, and  his sons, and his brethren -- eighteen. 
-<small><sub>**KJV:**</sub></small>
-And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;
-<small><sub>**BSB:**</sub></small>
-And since the gracious hand of our God was upon us, they brought us Sherebiah—a man of insight from the descendants of Mahli son of Levi, the son of Israel—along with his sons and brothers, 18 men;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.17|<< Ezra 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.19|Ezra 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

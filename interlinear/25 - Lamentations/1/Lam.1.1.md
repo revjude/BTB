@@ -1,4 +1,4 @@
-**Lamentations 1:1** 
+**Lamentations 1:1**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How doth the city sit solitary, [that was] full of people! [how] is she become as a widow! she [that was] great among the nations, [and] princess among the provinces, [how] is she become tributary!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How lonely lies the city, once so full of people! She who was great among the na
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.34|<< Jeremiah 52:34]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.2|Lamentations 1:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349B\|אֵיכָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she sits  |**<big>&#8207;[[H3427\|יָשְׁבָ֣ה]]&#8207; </big>**| ya.she.Vah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

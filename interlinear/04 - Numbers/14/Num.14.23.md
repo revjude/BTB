@@ -1,4 +1,4 @@
-**Numbers 14:23** 
+**Numbers 14:23**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ not one will ever see the land that I swore to give their fathers. None of those
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.22|<< Numbers 14:22]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.24|Numbers 14:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will see  |**<big>&#8207;[[H7200G\|יִרְאוּ֙]]&#8207; </big>**| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

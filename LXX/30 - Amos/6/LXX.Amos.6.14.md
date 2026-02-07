@@ -1,10 +1,7 @@
 **LXX Amos 6:14** 
 <small><sub>**LXX:**</sub></small>
 For behold, I will rouse against you, O house  of Israel, a nation. And they shall squeeze you  to not enter into Hamath, and unto the rushing stream of the west. 
-<small><sub>**KJV:**</sub></small>
-But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness.
-<small><sub>**BSB:**</sub></small>
-For behold, I will raise up a nation against you, O house of Israel,” declares the LORD, the God of Hosts, “and they will oppress you from Lebo-hamath to the Brook of the Arabah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.13|<< Amos 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.1|Amos 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 26:29** 
+**Numbers 26:29**<big><big>[[Num.26.28 The Tribe of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the sons of Manasseh: of Machir, the family of the Machirites: and Machir begat Gilead: of Gilead [come] the family of the Gileadites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the descendants of Manasseh: The Machirite clan from Machir, the fath
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.28|<< Numbers 26:28]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.30|Numbers 26:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Manasseh  |**<big>&#8207;[[H4519G\|מְנַשֶּׁ֗ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

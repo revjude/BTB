@@ -1,4 +1,4 @@
-**Psalms 22:15** (22:16)
+**Psalms 22:15**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ My strength is dried up like a potsherd, and my tongue sticks to the roof of my 
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has dried up  |**<big>&#8207;[[H3001\|יָ֘בֵ֤שׁ]]&#8207; </big>**| ya.Vesh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> earthenware  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H2789\|חֶ֨רֶשׂ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Che.res<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the boundaries of \[the\] tribe of Judah were according to their peoples; from the borders  of Edom from the wilderness of Zin to \[the\] south unto Kadesh. 
-<small><sub>**KJV:**</sub></small>
-[This] then was the lot of the tribe of the children of Judah by their families; [even] to the border of Edom the wilderness of Zin southward [was] the uttermost part of the south coast.
-<small><sub>**BSB:**</sub></small>
-Now the allotment for the clans of the tribe of Judah extended to the border of Edom, to the Wilderness of Zin at the extreme southern boundary:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.15|<< Joshua 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.2|Joshua 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

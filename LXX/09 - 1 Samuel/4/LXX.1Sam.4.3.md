@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:3** 
 <small><sub>**LXX:**</sub></small>
 And the people came into the camp. And the elders of Israel said, Why is it so \[the\] <span class="smallcaps">lord</span> devestated us today before the Philistines? We should take to us the ark of the covenant of \[the\] <span class="smallcaps">lord</span> from out of Shiloh, and let \[it\] come forth in our midst! and it will deliver us from \[the\] hand  of our enemies. 
-<small><sub>**KJV:**</sub></small>
-And when the people were come into the camp, the elders of Israel said, Wherefore hath the LORD smitten us to day before the Philistines? Let us fetch the ark of the covenant of the LORD out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies.
-<small><sub>**BSB:**</sub></small>
-When the troops returned to the camp, the elders of Israel asked, “Why has the LORD brought defeat on us before the Philistines today? Let us bring the ark of the covenant of the LORD from Shiloh, so that it may go with us to save us from the hand of our enemies.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.2|<< 1 Samuel 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.4|1 Samuel 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

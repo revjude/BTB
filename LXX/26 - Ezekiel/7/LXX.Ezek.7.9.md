@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:9** 
 <small><sub>**LXX:**</sub></small>
 My eye shall not spare, nor shall I show mercy. According to  your ways I will impute against you, and  your abominations will be in your midst. And you shall realize that I am \[the\] <span class="smallcaps">lord</span>, the one striking. 
-<small><sub>**KJV:**</sub></small>
-And mine eye shall not spare, neither will I have pity: I will recompense thee according to thy ways and thine abominations [that] are in the midst of thee; and ye shall know that I [am] the LORD that smiteth.
-<small><sub>**BSB:**</sub></small>
-I will not look on you with pity, nor will I spare you, but I will punish you for your ways and for the abominations among you. Then you will know that it is I, the LORD, who strikes the blow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.8|<< Ezekiel 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.10|Ezekiel 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 2:11** 
+**Genesis 2:11**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The name of the first [is] Pison: that [is] it which compasseth the whole land of Havilah, where [there is] gold;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The name of the first river is the Pishon; it winds through the whole land of Ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.10|<< Genesis 2:10]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.12|Genesis 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֥ם]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the one  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0259\|אֶחָ֖ד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Lead forward, O nations, and hearken, O rulers! Hear, O earth and the ones living in it; O world, and the people  in it! 
-<small><sub>**KJV:**</sub></small>
-Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
-<small><sub>**BSB:**</sub></small>
-Come near, O nations, to listen; pay attention, O peoples. Let the earth hear, and all that fills it, the world and all that springs from it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.24|<< Isaiah 33:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.2|Isaiah 34:2 >>]]</td></tr></table>
 
 | Translation | Greek |

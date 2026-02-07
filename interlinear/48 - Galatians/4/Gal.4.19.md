@@ -1,12 +1,12 @@
-**Galatians 4:19
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:19**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 My little children, of whom I travail in birth again until Christ be formed in you,
 <small><sub>**BSB:**</sub></small>
 My children, for whom I am again in the pains of childbirth until Christ is formed in you,
 <small><sub>**Literal:**</sub></small>
 Children of mine, of whom again I travail until that may have been formed Christ in you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.18|<< Galatians 4:18]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.20|Galatians 4:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Children [^1] |**<big>[[G5043\|τέκνα]]</big>**  |tekna <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+SBL+Treg">N(k)O</abbr> | |
 | of mine, |**<big>[[G3165\|μου,]]</big>**  |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

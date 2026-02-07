@@ -1,4 +1,4 @@
-**2 Kings 17:10** 
+**2 Kings 17:10**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they set them up images and groves in every high hill, and under every green tree:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They set up for themselves sacred pillars and Asherah poles on every high hill a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.9|<< 2 Kings 17:9]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.11|2 Kings 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they erected  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5324\|יַּצִּ֧בוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Tzi.vu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

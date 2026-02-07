@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:48** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> \[is\] strong, the one giving acts of vengeance to me, and humbling peoples underneath me. 
-<small><sub>**KJV:**</sub></small>
-It [is] God that avengeth me, and that bringeth down the people under me,
-<small><sub>**BSB:**</sub></small>
-the God who avenges me and brings down nations beneath me,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.47|<< 2 Samuel 22:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.49|2 Samuel 22:49 >>]]</td></tr></table>
 
 | Translation | Greek |

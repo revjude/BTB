@@ -1,4 +1,4 @@
-**1 Kings 11:24** 
+**1 Kings 11:24**<big><big>[[1Kgs.11.23 Rezon’s Hostility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he gathered men unto him, and became captain over a band, when David slew them [of Zobah]: and they went to Damascus, and dwelt therein, and reigned in Damascus.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and had gathered men to himself. When David killed the Zobaites, Rezon captained
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.23|<< 1 Kings 11:23]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.25|1 Kings 11:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקְבֹּ֤ץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Botz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with him  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

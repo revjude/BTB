@@ -1,10 +1,7 @@
 **LXX Job 38:38** 
 <small><sub>**LXX:**</sub></small>
 and it is poured as earth's powder, and I have cleaved it as a stone cube? 
-<small><sub>**KJV:**</sub></small>
-When the dust groweth into hardness, and the clods cleave fast together?
-<small><sub>**BSB:**</sub></small>
-when the dust hardens into a mass and the clods of earth stick together?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.37|<< Job 38:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.39|Job 38:39 >>]]</td></tr></table>
 
 | Translation | Greek |

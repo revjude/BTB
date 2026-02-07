@@ -1,4 +1,4 @@
-**Psalms 66:7** 
+**Psalms 66:7**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He rules forever by His power; His eyes watch the nations. Do not let the rebell
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.6|<< Psalms 66:6]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.8|Psalms 66:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] ruling  |**<big>&#8207;[[H4910\|מֹ֘שֵׁ֤ל]]&#8207; </big>**| mo.Shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by might his  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1369\|גְבוּרָת֨]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> g.vu.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

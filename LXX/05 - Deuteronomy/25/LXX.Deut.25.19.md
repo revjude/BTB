@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:19** 
 <small><sub>**LXX:**</sub></small>
 And it will be when ever \[the\] <span class="smallcaps">lord</span> your God rests you from all  your enemies  round about you in the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot to inherit, you shall wipe away the name Amalek from  under the heaven, and in no way should you forget. 
-<small><sub>**KJV:**</sub></small>
-Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee [for] an inheritance to possess it, [that] thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget [it].
-<small><sub>**BSB:**</sub></small>
-When the LORD your God gives you rest from the enemies around you in the land that He is giving you to possess as an inheritance, you are to blot out the memory of Amalek from under heaven. Do not forget!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.18|<< Deuteronomy 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.1|Deuteronomy 26:1 >>]]</td></tr></table>
 
 | Translation | Greek |

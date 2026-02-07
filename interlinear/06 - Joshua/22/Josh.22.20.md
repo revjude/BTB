@@ -1,4 +1,4 @@
-**Joshua 22:20** 
+**Joshua 22:20**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did not Achan the son of Zerah commit a trespass in the accursed thing, and wrath fell on all the congregation of Israel? and that man perished not alone in his iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Was not Achan son of Zerah unfaithful regarding what was set apart for destructi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.19|<< Joshua 22:19]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.21|Joshua 22:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֣וֹא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Achan  |**<big>&#8207;[[H5912\|עָכָ֣ן]]&#8207; </big>**| 'a.Khan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

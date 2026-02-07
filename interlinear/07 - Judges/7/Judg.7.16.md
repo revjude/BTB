@@ -1,4 +1,4 @@
-**Judges 7:16** 
+**Judges 7:16**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he divided the three hundred men [into] three companies, and he put a trumpet in every man’s hand, with empty pitchers, and lamps within the pitchers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he divided the three hundred men into three companies and gave each man a ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.15|<< Judges 7:15]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.17|Judges 7:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he divided  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2673\|יַּ֛חַץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.chatz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

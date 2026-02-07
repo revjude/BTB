@@ -1,4 +1,4 @@
-**Psalms 111:10** 
+**Psalms 111:10**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the LORD [is] the beginning of wisdom: a good understanding have all they that do [his commandments]: his praise endureth for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fear of the LORD is the beginning of wisdom; all who follow His precepts gai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.9|<< Psalms 111:9]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.1|Psalms 112:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is the] beginning of  |**<big>&#8207;[[H7225G\|רֵ֘אשִׁ֤ית]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

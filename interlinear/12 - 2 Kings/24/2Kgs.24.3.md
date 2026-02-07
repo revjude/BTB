@@ -1,4 +1,4 @@
-**2 Kings 24:3** 
+**2 Kings 24:3**<big><big>[[2Kgs.24.1 Babylon Controls Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely at the commandment of the LORD came [this] upon Judah, to remove [them] out of his sight, for the sins of Manasseh, according to all that he did;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely this happened to Judah at the LORD’s command, to remove them from His p
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.2|<< 2 Kings 24:2]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.4|2 Kings 24:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

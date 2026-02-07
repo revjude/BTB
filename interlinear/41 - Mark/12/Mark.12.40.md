@@ -1,12 +1,12 @@
-**Mark 12:40
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:40**<big><big>[[Mark.12.38 Beware of the Scribes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which devour widows’ houses, and for a pretence make long prayers: these shall receive greater damnation.
 <small><sub>**BSB:**</sub></small>
 They defraud widows of their houses, and for a show make lengthy prayers. These men will receive greater condemnation.”
 <small><sub>**Literal:**</sub></small>
 those devouring the houses of the widows and as a pretext at great length praying, These will receive more excessive judgment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.39|<< Mark 12:39]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.41|Mark 12:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | devouring |**<big>[[G2719\|κατεσθίοντες]]</big>**  [^1] |katesthiontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

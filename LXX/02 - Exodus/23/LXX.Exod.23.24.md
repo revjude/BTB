@@ -1,10 +1,7 @@
 **LXX Exodus 23:24** 
 <small><sub>**LXX:**</sub></small>
 You shall not do obeisance to  their gods, nor shall you serve to them. You shall not do according to  their works; but by demolition you shall demolish them, and by breaking you shall break  their monuments. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images.
-<small><sub>**BSB:**</sub></small>
-You must not bow down to their gods or serve them or follow their practices. Instead, you are to demolish them and smash their sacred stones to pieces.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.23|<< Exodus 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.25|Exodus 23:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 50:5** 
 <small><sub>**LXX:**</sub></small>
 Gathered to him  \[are\] his sacred ones, the ones ordaining  his covenant with sacrifices. 
-<small><sub>**KJV:**</sub></small>
-Gather my saints together unto me; those that have made a covenant with me by sacrifice.
-<small><sub>**BSB:**</sub></small>
-“Gather to Me My saints, who made a covenant with Me by sacrifice.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.4|<< Psalm 50:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.6|Psalm 50:6 >>]]</td></tr></table>
 
 | Translation | Greek |

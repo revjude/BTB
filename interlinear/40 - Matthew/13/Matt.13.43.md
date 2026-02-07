@@ -1,12 +1,12 @@
-**Matthew 13:43
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:43**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.
 <small><sub>**BSB:**</sub></small>
 Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear.
 <small><sub>**Literal:**</sub></small>
 Then the righteous will shine forth as the sun in the kingdom of the Father of them. The [one] having ears to hear he should hear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.42|<< Matthew 13:42]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.44|Matthew 13:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

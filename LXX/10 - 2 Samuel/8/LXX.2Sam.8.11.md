@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[things\] king David sanctified to the <span class="smallcaps">lord</span>, with the silver, and the gold of which he sanctified from all of the cities which he overpowered; 
-<small><sub>**KJV:**</sub></small>
-Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued;
-<small><sub>**BSB:**</sub></small>
-and King David dedicated these to the LORD, along with the silver and gold he had dedicated from all the nations he had subdued—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.10|<< 2 Samuel 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.12|2 Samuel 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

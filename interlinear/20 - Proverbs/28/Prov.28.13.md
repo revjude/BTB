@@ -1,4 +1,4 @@
-**Proverbs 28:13** 
+**Proverbs 28:13**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that covereth his sins shall not prosper: but whoso confesseth and forsaketh [them] shall have mercy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who conceals his sins will not prosper, but whoever confesses and renounces t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.12|<< Proverbs 28:12]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.14|Proverbs 28:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] conceals  |**<big>&#8207;[[H3680\|מְכַסֶּ֣ה]]&#8207; </big>**| me.kha.Seh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | transgressions his  |**<big>&#8207;[[H6588\|פְ֭שָׁעָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Fe.sha.'a<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

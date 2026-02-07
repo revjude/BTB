@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 1:8** 
 <small><sub>**LXX:**</sub></small>
 All  wearied words a man shall not be able  to speak; and \[the\] eye shall not be filled up  to see, and \[the\] ear shall not be filled of hearing. 
-<small><sub>**KJV:**</sub></small>
-All things [are] full of labour; man cannot utter [it]: the eye is not satisfied with seeing, nor the ear filled with hearing.
-<small><sub>**BSB:**</sub></small>
-All things are wearisome, more than one can describe; the eye is not satisfied with seeing, nor the ear content with hearing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.7|<< Ecclesiastes 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.9|Ecclesiastes 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

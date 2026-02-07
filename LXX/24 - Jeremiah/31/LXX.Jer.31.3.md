@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> shall be seen at a distance by him, \[saying\], With an everlasting affection I loved you; on account of this I drew you for pitying. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath appeared of old unto me, [saying], Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.
-<small><sub>**BSB:**</sub></small>
-The LORD appeared to us in the past, saying: “I have loved you with an everlasting love; therefore I have drawn you with loving devotion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.2|<< Jeremiah 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.4|Jeremiah 31:4 >>]]</td></tr></table>
 
 | Translation | Greek |

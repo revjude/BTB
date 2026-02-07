@@ -1,4 +1,4 @@
-**2 Samuel 22:7** 
+**2 Samuel 22:7**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In my distress I called upon the LORD, and cried to my God: and he did hear my voice out of his temple, and my cry [did enter] into his ears.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In my distress I called upon the LORD; I cried out to my God. And from His templ
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.6|<< 2 Samuel 22:6]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.8|2 Samuel 22:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when \<the> it was distress  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6862B\|צַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> tzar-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

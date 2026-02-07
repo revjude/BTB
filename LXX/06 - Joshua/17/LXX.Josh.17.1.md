@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the borders of \[the\] tribe of Manasseh were (for this one \[is\] first-born  of Joseph) \[to\] Machir first-born of Manasseh, father of Gilead. For he \[was\] a man of war in  Gilead and in the Bashan \[area\]. 
-<small><sub>**KJV:**</sub></small>
-There was also a lot for the tribe of Manasseh; for he [was] the firstborn of Joseph; [to wit], for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.
-<small><sub>**BSB:**</sub></small>
-Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son, namely for Machir the firstborn of Manasseh and father of the Gileadites, who had received Gilead and Bashan because Machir was a man of war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.10|<< Joshua 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.2|Joshua 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

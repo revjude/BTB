@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:19** 
 <small><sub>**LXX:**</sub></small>
 And Ahimaaz son of Zadok said, Running indeed, I will announce good news to the king, that \[the\] <span class="smallcaps">lord</span> passed judgment to him on \[the\] hand  of his enemies. 
-<small><sub>**KJV:**</sub></small>
-Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.
-<small><sub>**BSB:**</sub></small>
-Then Ahimaaz son of Zadok said, “Please let me run and tell the king the good news that the LORD has avenged him of his enemies.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.18|<< 2 Samuel 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.20|2 Samuel 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

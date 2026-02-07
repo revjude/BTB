@@ -1,4 +1,4 @@
-**1 Kings 9:6** 
+**1 Kings 9:6**<big><big>[[1Kgs.9.1 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] if ye shall at all turn from following me, ye or your children, and will not keep my commandments [and] my statutes which I have set before you, but go and serve other gods, and worship them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if indeed you or your sons turn away from following Me and do not keep the c
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.5|<< 1 Kings 9:5]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.7|1 Kings 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<if>  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly [if] \<to turn back>  |**<big>&#8207;[[H7725I\|שׁ֨וֹב]]&#8207; </big>**| Shov<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

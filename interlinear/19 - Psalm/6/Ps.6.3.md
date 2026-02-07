@@ -1,4 +1,4 @@
-**Psalms 6:3** (6:4)
+**Psalms 6:3**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul is also sore vexed: but thou, O LORD, how long?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ My soul is deeply distressed. How long, O LORD, how long?
 > $\quad$ referenced by: [[John.12.27|John 12:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and self my  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H5315G\|נַפְשִׁ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> naf.sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is disturbed  |**<big>&#8207;[[H0926\|נִבְהֲלָ֣ה]]&#8207; </big>**| niv.ha.Lah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

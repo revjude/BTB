@@ -1,4 +1,4 @@
-**Numbers 15:20** 
+**Numbers 15:20**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall offer up a cake of the first of your dough [for] an heave offering: as [ye do] the heave offering of the threshingfloor, so shall ye heave it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the first of your dough, you are to lift up a cake as a contribution; offer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.19|<< Numbers 15:19]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.21|Numbers 15:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] first of  |**<big>&#8207;[[H7225G\|רֵאשִׁית֙]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dough\<s> your  |**<big>&#8207;[[H6182\|עֲרִסֹ֣תֵ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'a.ri.So.te.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

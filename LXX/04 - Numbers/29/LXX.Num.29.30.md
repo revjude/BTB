@@ -1,10 +1,7 @@
 **LXX Numbers 29:30** 
 <small><sub>**LXX:**</sub></small>
  their sacrifice \[offerings\], and  their libations for the calves, and for the rams, and for the lambs, according to their number, according to  their interpretation, 
-<small><sub>**KJV:**</sub></small>
-And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, [shall be] according to their number, after the manner:
-<small><sub>**BSB:**</sub></small>
-along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.29|<< Numbers 29:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.31|Numbers 29:31 >>]]</td></tr></table>
 
 | Translation | Greek |

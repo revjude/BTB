@@ -1,12 +1,12 @@
-**1 Thessalonians 3:6
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 3:6**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also [to see] you:
 <small><sub>**BSB:**</sub></small>
 But just now, Timothy has returned from his visit with the good news about your faith, your love, and the fond memories you have preserved, longing to see us just as we long to see you.
 <small><sub>**Literal:**</sub></small>
 Presently however when was coming Timothy to us from you and having evangelised to us of the faith and the love of you and that you have a remembrance of us good always longing us to see just as also we ourselves you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.5|<< 1 Thessalonians 3:5]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.7|1 Thessalonians 3:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Presently |**<big>[[G0737\|ἄρτι]]</big>**  |arti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

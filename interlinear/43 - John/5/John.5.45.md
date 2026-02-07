@@ -1,12 +1,12 @@
-**John 5:45
-**<small><sub>**KJV:**</sub></small>
+**John 5:45**<big><big>[[John.5.39 The Witness of Scripture|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do not think that I will accuse you to the Father: there is [one] that accuseth you, [even] Moses, in whom ye trust.
 <small><sub>**BSB:**</sub></small>
 Do not think that I will accuse you before the Father. Your accuser is Moses, in whom you have put your hope.
 <small><sub>**Literal:**</sub></small>
 Not do think that I myself will accuse you to the Father; There is [one] accusing you Moses in whom you yourselves have hoped.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.44|<< John 5:44]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.46|John 5:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do think |**<big>[[G1380\|δοκεῖτε]]</big>**  |dokeite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 11:21** 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam loved  Maacha daughter of Absalom above all  his wives and the concubines; for he had eighteen wives, and sixty concubines. And he engendered twenty and eight sons, and sixty daughters. 
-<small><sub>**KJV:**</sub></small>
-And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)
-<small><sub>**BSB:**</sub></small>
-Rehoboam loved Maacah daughter of Absalom more than all his wives and concubines. In all, he had eighteen wives and sixty concubines, and he was the father of twenty-eight sons and sixty daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.20|<< 2 Chronicles 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.22|2 Chronicles 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

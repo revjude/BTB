@@ -1,4 +1,4 @@
-**Isaiah 10:6** 
+**Isaiah 10:6**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will send him against an hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will send him against a godless nation; I will dispatch him against a people d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.5|<< Isaiah 10:5]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.7|Isaiah 10:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on a nation  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1471A\|ג֤וֹי]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | godless  |**<big>&#8207;[[H2611\|חָנֵף֙]]&#8207; </big>**| cha.Nef<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

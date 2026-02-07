@@ -1,4 +1,4 @@
-**Psalms 55:22** (55:23)
+**Psalms 55:22**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Cast your burden upon the LORD and He will sustain you; He will never let the ri
 > $\quad$ referenced by: [[1Pet.5.7|1Pet 5:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cast  |**<big>&#8207;[[H7993\|הַשְׁלֵ֤ךְ]]&#8207; </big>**| hash.Lekh<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

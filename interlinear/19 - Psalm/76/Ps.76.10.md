@@ -1,4 +1,4 @@
-**Psalms 76:10** (76:11)
+**Psalms 76:10**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even the wrath of man shall praise You; with the survivors of wrath You will clo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.9|<< Psalms 76:9]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.11|Psalms 76:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] anger of  |**<big>&#8207;[[H2534\|חֲמַ֣ת]]&#8207; </big>**| cha.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

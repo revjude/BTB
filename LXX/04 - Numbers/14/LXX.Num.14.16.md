@@ -1,10 +1,7 @@
 **LXX Numbers 14:16** 
 <small><sub>**LXX:**</sub></small>
 Because the <span class="smallcaps">lord</span> was not able to bring  this people into the land which he swore by an oath to them, he prostrated them in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-Because the LORD was not able to bring this people into the land which he sware unto them, therefore he hath slain them in the wilderness.
-<small><sub>**BSB:**</sub></small>
-‘Because the LORD was unable to bring this people into the land He swore to give them, He has slaughtered them in the wilderness.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.15|<< Numbers 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.17|Numbers 14:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 14:16** is...

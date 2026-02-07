@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:5** 
 <small><sub>**LXX:**</sub></small>
 And Sanballat sent to me according to  this word the fifth \[time\] \[by\] his servant, and a letter being open \[was\] in his hand. 
-<small><sub>**KJV:**</sub></small>
-Then sent Sanballat his servant unto me in like manner the fifth time with an open letter in his hand;
-<small><sub>**BSB:**</sub></small>
-The fifth time, Sanballat sent me this same message by his young servant, who had in his hand an unsealed letter<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.4|<< Nehemiah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.6|Nehemiah 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

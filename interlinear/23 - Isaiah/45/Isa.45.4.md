@@ -1,4 +1,4 @@
-**Isaiah 45:4** 
+**Isaiah 45:4**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Jacob my servant’s sake, and Israel mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the sake of Jacob My servant and Israel My chosen one, I call you by name; I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.3|<< Isaiah 45:3]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.5|Isaiah 45:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for [the] sake of  |**<big>&#8207;[[H4616\|לְמַ֙עַן֙]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servant my  |**<big>&#8207;[[H5650\|עַבְדִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

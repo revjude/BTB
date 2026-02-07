@@ -1,4 +1,4 @@
-**Joel 3:15** (4:15)
+**Joel 3:15**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun and the moon shall be darkened, and the stars shall withdraw their shining.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The sun and moon will grow dark, and the stars will no longer shine.
 > $\quad$ referenced by: [[Matt.24.29|Matt 24:29]] ☩ [[Mark.13.24|Mark 13:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sun  |**<big>&#8207;[[H8121\|שֶׁ֥מֶשׁ]]&#8207; </big>**| She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and moon  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3394\|יָרֵ֖חַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Re.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

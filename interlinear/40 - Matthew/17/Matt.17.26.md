@@ -1,12 +1,12 @@
-**Matthew 17:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:26**<big><big>[[Matt.17.24 The Temple Tax|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
 <small><sub>**BSB:**</sub></small>
 “From others,” Peter answered. “Then the sons are exempt,” Jesus said to him.
 <small><sub>**Literal:**</sub></small>
 When saying now he,  <the> Peter From the strangers, one was saying to him <the> Jesus; Then surely free are the sons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.25|<< Matthew 17:25]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.27|Matthew 17:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When saying [^1] |**<big>[[G2036\|εἰπόντος]]</big>**  |eipontos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

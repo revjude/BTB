@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:29** 
 <small><sub>**LXX:**</sub></small>
 as the sons of Esau dwelling in Seir did to me, and the Moabites, the ones dwelling in Ar, until whenever I should go by the Jordan into the land which \[the\] <span class="smallcaps">lord</span>  our God gives us. 
-<small><sub>**KJV:**</sub></small>
-(As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the LORD our God giveth us.
-<small><sub>**BSB:**</sub></small>
-just as the descendants of Esau who live in Seir and the Moabites who live in Ar did for us, until we cross the Jordan into the land that the LORD our God is giving us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.28|<< Deuteronomy 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.30|Deuteronomy 2:30 >>]]</td></tr></table>
 
 | Translation | Greek |

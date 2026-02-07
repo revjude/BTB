@@ -1,4 +1,4 @@
-**2 Kings 5:11** 
+**2 Kings 5:11**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Naaman went away angry, saying, “I thought that he would surely come out, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.10|<< 2 Kings 5:10]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.12|2 Kings 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was angry  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7107\|יִּקְצֹ֥ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Tzof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naaman  |**<big>&#8207;[[H5283I\|נַעֲמָ֖ן]]&#8207; </big>**| na.'a.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

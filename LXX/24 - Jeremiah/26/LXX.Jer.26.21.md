@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:21** 
 <small><sub>**LXX:**</sub></small>
 And king Jehoiakim and all the rulers heard all  his words, and sought to kill him. And Urijah heard and feared and fled and entered into Egypt. 
-<small><sub>**KJV:**</sub></small>
-And when Jehoiakim the king, with all his mighty men, and all the princes, heard his words, the king sought to put him to death: but when Urijah heard it, he was afraid, and fled, and went into Egypt;
-<small><sub>**BSB:**</sub></small>
-King Jehoiakim and all his mighty men and officials heard his words, and the king sought to put him to death. But when Uriah found out about it, he fled in fear and went to Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.20|<< Jeremiah 26:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.22|Jeremiah 26:22 >>]]</td></tr></table>
 
 | Translation | Greek |

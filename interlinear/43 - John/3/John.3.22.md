@@ -1,12 +1,12 @@
-**John 3:22
-**<small><sub>**KJV:**</sub></small>
+**John 3:22**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
 <small><sub>**BSB:**</sub></small>
 After this, Jesus and His disciples went into the Judean countryside, where He spent some time with them and baptized.
 <small><sub>**Literal:**</sub></small>
 After these things came <the> Jesus and the disciples of Him into the Judean land, and there He was staying with them and was baptizing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.21|<< John 3:21]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.23|John 3:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Zephaniah 2:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this, \[as\] I live, says \[the\] <span class="smallcaps">lord</span>  of \[the\] forces, the God of Israel, that Moab will be as Sodom, and \[the\] sons of Ammon as Gomorrah, and Damascus ceasing. And \[it will be\] as a heap of salt into the eon. And the remnants of my people shall plunder them, and the remnants of my nation shall inherit them. 
-<small><sub>**KJV:**</sub></small>
-Therefore [as] I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, [even] the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.
-<small><sub>**BSB:**</sub></small>
-Therefore, as surely as I live,” declares the LORD of Hosts, the God of Israel, “surely Moab will be like Sodom and the Ammonites like Gomorrah—a place of weeds and salt pits, a perpetual wasteland. The remnant of My people will plunder them; the remainder of My nation will dispossess them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.8|<< Zephaniah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.10|Zephaniah 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 20:12** 
+**Exodus 20:12**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Honor your father and mother, so that your days may be long in the land that the
 > $\quad$ referenced by: [[Matt.15.4|Matt 15:4]] ☩ [[Matt.19.18|Matt 19:18-19]] ☩ [[Mark.7.10|Mark 7:10]] ☩ [[Mark.10.19|Mark 10:19]] ☩ [[Luke.18.20|Luke 18:20]] ☩ [[Eph.6.2|Eph 6:2-3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | honor  |**<big>&#8207;[[H3513G\|כַּבֵּ֥ד]]&#8207; </big>**| ka.Bed<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

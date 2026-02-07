@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:34** 
 <small><sub>**LXX:**</sub></small>
 Until  this day they do according to  their distinguishing \[manner\]. They are not fearing the <span class="smallcaps">lord</span>, and  they do not do according to  their ordinances, and according to  their judgment, and according to the law, and according to the commandment which \[the\] <span class="smallcaps">lord</span> gave charge to the sons of Jacob, of whom he established  his name Israel. 
-<small><sub>**KJV:**</sub></small>
-Unto this day they do after the former manners: they fear not the LORD, neither do they after their statutes, or after their ordinances, or after the law and commandment which the LORD commanded the children of Jacob, whom he named Israel;
-<small><sub>**BSB:**</sub></small>
-To this day they are still practicing their former customs. None of them worship the LORD or observe the statutes, ordinances, laws, and commandments that the LORD gave the descendants of Jacob, whom He named Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.33|<< 2 Kings 17:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.35|2 Kings 17:35 >>]]</td></tr></table>
 
 | Translation | Greek |

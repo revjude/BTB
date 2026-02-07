@@ -1,4 +1,4 @@
-**Genesis 36:5** 
+**Genesis 36:5**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aholibamah bare Jeush, and Jaalam, and Korah: these [are] the sons of Esau, which were born unto him in the land of Canaan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Oholibamah gave birth to Jeush, Jalam, and Korah. These were the sons of Esa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.4|<< Genesis 36:4]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.6|Genesis 36:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Oholibamah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0173\|אָהֳלִֽיבָמָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.ho.li.va.Mah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she bore  |**<big>&#8207;[[H3205\|יָֽלְדָ֔ה]]&#8207; </big>**| Yal.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:30** 
 <small><sub>**LXX:**</sub></small>
 Flee exceedingly! Deepen into sitting! sitting down in the courtyard, says \[the\] <span class="smallcaps">lord</span>. For Nebuchadnezzar king of Babylon planned against you a plan, and devised against you a device. 
-<small><sub>**KJV:**</sub></small>
-Flee, get you far off, dwell deep, O ye inhabitants of Hazor, saith the LORD; for Nebuchadrezzar king of Babylon hath taken counsel against you, and hath conceived a purpose against you.
-<small><sub>**BSB:**</sub></small>
-Run! Escape quickly! Lie low, O residents of Hazor,” declares the LORD, “for Nebuchadnezzar king of Babylon has drawn up a plan against you; he has devised a strategy against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.29|<< Jeremiah 49:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.31|Jeremiah 49:31 >>]]</td></tr></table>
 
 | Translation | Greek |

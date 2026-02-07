@@ -1,4 +1,4 @@
-**Joshua 1:2** 
+**Joshua 1:2**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moses my servant is dead; now therefore arise, go over this Jordan, thou, and all this people, unto the land which I do give to them, [even] to the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses my servant is dead; now therefore arise, go over this Jordan, thou, and al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.1|<< Joshua 1:1]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.3|Joshua 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֥ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servant my  |**<big>&#8207;[[H5650\|עַבְדִּ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

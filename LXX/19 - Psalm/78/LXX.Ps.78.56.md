@@ -1,10 +1,7 @@
 **LXX Psalm 78:56** 
 <small><sub>**LXX:**</sub></small>
 And they tested and greatly embittered  God the highest; and  his testimonies they did not keep. 
-<small><sub>**KJV:**</sub></small>
-Yet they tempted and provoked the most high God, and kept not his testimonies:
-<small><sub>**BSB:**</sub></small>
-But they tested and disobeyed God Most High, for they did not keep His decrees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.55|<< Psalm 78:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.57|Psalm 78:57 >>]]</td></tr></table>
 
 | Translation | Greek |

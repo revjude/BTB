@@ -1,10 +1,7 @@
 **LXX Numbers 20:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses took the rod before \[the\] <span class="smallcaps">lord</span>, as \[the\] <span class="smallcaps">lord</span> gave orders to him. 
-<small><sub>**KJV:**</sub></small>
-And Moses took the rod from before the LORD, as he commanded him.
-<small><sub>**BSB:**</sub></small>
-So Moses took the staff from the LORD’s presence, just as he had been commanded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.8|<< Numbers 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.10|Numbers 20:10 >>]]</td></tr></table>
 
 | Translation | Greek |

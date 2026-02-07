@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:8** 
 <small><sub>**LXX:**</sub></small>
 Maaziah, Bilgai, and Shemaiah; these \[were\] \[the\] priests. 
-<small><sub>**KJV:**</sub></small>
-Maaziah, Bilgai, Shemaiah: these [were] the priests.
-<small><sub>**BSB:**</sub></small>
-Maaziah, Bilgai, and Shemaiah. These were the priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.7|<< Nehemiah 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.9|Nehemiah 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

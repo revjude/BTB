@@ -1,10 +1,7 @@
 **LXX Daniel 1:19** 
 <small><sub>**LXX:**</sub></small>
 And the king spoke with them; and there was not found from out of all of them \[one\] likened to Daniel, and Hananiah, and Mishael, and Azariah; and they stood before the king. 
-<small><sub>**KJV:**</sub></small>
-And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.
-<small><sub>**BSB:**</sub></small>
-And the king spoke with them, and among all the young men he found no one equal to Daniel, Hananiah, Mishael, and Azariah. So they entered the king’s service.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.18|<< Daniel 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.20|Daniel 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

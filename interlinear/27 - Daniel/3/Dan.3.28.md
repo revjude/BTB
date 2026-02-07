@@ -1,4 +1,4 @@
-**Daniel 3:28** 
+**Daniel 3:28**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] Nebuchadnezzar spake, and said, Blessed [be] the God of Shadrach, Meshach, and Abednego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king’s word, and yielded their bodies, that they might not serve nor worship any god, except their own God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nebuchadnezzar declared, “Blessed be the God of Shadrach, Meshach, and Abedneg
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.27|<< Daniel 3:27]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.29|Daniel 3:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] replying  |**<big>&#8207;[[H6032\|עָנֵ֨ה]]&#8207; </big>**| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nebuchadnezzar  |**<big>&#8207;[[H5020\|נְבֽוּכַדְנֶצַּ֜ר]]&#8207; </big>**| ne.vu.khad.ne.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

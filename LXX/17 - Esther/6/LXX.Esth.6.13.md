@@ -1,10 +1,7 @@
 **LXX Esther 6:13** 
 <small><sub>**LXX:**</sub></small>
 And Haman described the \[things\] coming to pass to him to Zeresh  his wife, and  \[to his\] friends. And the friends and wife said to him, Since Mordecai \[is\] of \[the\] race of \[the\] Jews, and you began to be humbled before him, in falling you shall fall, in no way should you be able to defend against him, for \[the\] living God \[is\] with him. 
-<small><sub>**KJV:**</sub></small>
-And Haman told Zeresh his wife and all his friends every [thing] that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai [be] of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.
-<small><sub>**BSB:**</sub></small>
-Haman told his wife Zeresh and all his friends everything that had happened. His advisers and his wife Zeresh said to him, “Since Mordecai, before whom your downfall has begun, is Jewish, you will not prevail against him—for surely you will fall before him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.12|<< Esther 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.14|Esther 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

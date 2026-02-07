@@ -1,4 +1,4 @@
-**2 Chronicles 16:14** 
+**2 Chronicles 16:14**<big><big>[[2Chr.16.11 The Death and Burial of Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds [of spices] prepared by the apothecaries’ art: and they made a very great burning for him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he was buried in the tomb that he had cut out for himself in the City of Dav
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.13|<< 2 Chronicles 16:13]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.1|2 Chronicles 17:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people buried him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|יִּקְבְּרֻ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.be.Ru.<small><sup>[[HVqw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in own grave\<s> his  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6913\|קִבְרֹתָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> kiv.ro.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

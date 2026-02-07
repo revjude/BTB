@@ -1,4 +1,4 @@
-**Judges 12:15** 
+**Judges 12:15**<big><big>[[Judg.12.8 Ibzan, Elon, and Abdon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Abdon son of Hillel, from Pirathon, died, and he was buried at Pirathon in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.14|<< Judges 12:14]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.1|Judges 13:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֛מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abdon  |**<big>&#8207;[[H5658H\|עַבְדּ֥וֹן]]&#8207; </big>**| av.Don<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

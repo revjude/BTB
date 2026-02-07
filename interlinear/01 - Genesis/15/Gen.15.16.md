@@ -1,4 +1,4 @@
-**Genesis 15:16** 
+**Genesis 15:16**<big><big>[[Gen.15.8 God Confirms His Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in the fourth generation they shall come hither again: for the iniquity of the Amorites [is] not yet full.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the fourth generation your descendants will return here, for the iniquity of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.15|<< Genesis 15:15]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.17|Genesis 15:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] generation  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1755\|ד֥וֹר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fourth  |**<big>&#8207;[[H7243\|רְבִיעִ֖י]]&#8207; </big>**| re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

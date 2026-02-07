@@ -1,4 +1,4 @@
-**Exodus 38:8** 
+**Exodus 38:8**<big><big>[[Exod.38.8 The Bronze Basin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the laver [of] brass, and the foot of it [of] brass, of the lookingglasses of [the women] assembling, which assembled [at] the door of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next he made the bronze basin and its stand from the mirrors of the women who se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.7|<< Exodus 38:7]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.9|Exodus 38:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֗עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֚ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

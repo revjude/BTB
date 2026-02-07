@@ -1,4 +1,4 @@
-**Jeremiah 49:14** 
+**Jeremiah 49:14**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have heard a rumour from the LORD, and an ambassador is sent unto the heathen, [saying], Gather ye together, and come against her, and rise up to the battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have heard a message from the LORD; an envoy has been sent to the nations: “
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.13|<< Jeremiah 49:13]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.15|Jeremiah 49:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a report  |**<big>&#8207;[[H8052\|שְׁמוּעָ֤ה]]&#8207; </big>**| she.mu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֙עְתִּי֙]]&#8207; </big>**| sha.Ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

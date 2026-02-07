@@ -1,10 +1,7 @@
 **LXX Judges 8:18** 
 <small><sub>**LXX:**</sub></small>
 And he said to Zebah and Zalmunna, What \[manner are\] the men whom you killed in Tabor? And they said, As you, so they \[are\] likened to you -- likened to them as \[the\] appearance of sons of kings. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto Zebah and Zalmunna, What manner of men [were they] whom ye slew at Tabor? And they answered, As thou [art], so [were] they; each one resembled the children of a king.
-<small><sub>**BSB:**</sub></small>
-Next, Gideon asked Zebah and Zalmunna, “What kind of men did you kill at Tabor?” “Men like you,” they answered, “each one resembling the son of a king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.17|<< Judges 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.19|Judges 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

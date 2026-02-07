@@ -1,10 +1,7 @@
 **LXX Psalm 53:2** 
 <small><sub>**LXX:**</sub></small>
  God from out of the heaven looks upon the sons  of men,  to behold if there is one perceiving or seeking after  God. 
-<small><sub>**KJV:**</sub></small>
-God looked down from heaven upon the children of men, to see if there were [any] that did understand, that did seek God.
-<small><sub>**BSB:**</sub></small>
-God looks down from heaven upon the sons of men to see if any understand, if any seek God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.53.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.53.1|<< Psalm 53:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.53.3|Psalm 53:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 53:2** is...

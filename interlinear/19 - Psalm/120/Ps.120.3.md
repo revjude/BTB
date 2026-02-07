@@ -1,4 +1,4 @@
-**Psalms 120:3** 
+**Psalms 120:3**<big><big>[[Ps.120.1 In My Distress I Cried to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What shall be given unto thee? or what shall be done unto thee, thou false tongue?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What will He do to you, and what will be added to you, O deceitful tongue?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.120.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120.2|<< Psalms 120:2]]</td><td align="center" style="border:none;">[[Ps.120|Psalms 120]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.4|Psalms 120:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will anyone give  |**<big>&#8207;[[H5414G\|יִּתֵּ֣ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

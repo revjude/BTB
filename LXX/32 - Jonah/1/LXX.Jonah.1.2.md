@@ -1,10 +1,7 @@
 **LXX Jonah 1:2** 
 <small><sub>**LXX:**</sub></small>
 Rise up, and go unto Nineveh the great city, and proclaim in it! for the cry of its evils ascended to me. 
-<small><sub>**KJV:**</sub></small>
-Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.
-<small><sub>**BSB:**</sub></small>
-“Get up! Go to the great city of Nineveh and preach against it, because its wickedness has come up before Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.1|<< Jonah 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.3|Jonah 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

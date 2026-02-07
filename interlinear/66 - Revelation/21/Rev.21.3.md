@@ -1,5 +1,5 @@
-**Revelation 21:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:3**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I heard a great voice out of heaven saying, Behold, the tabernacle of God [is] with men, and he will dwell with them, and they shall be his people, and God himself shall be with them, [and be] their God.
 <small><sub>**BSB:**</sub></small>
 And I heard a loud voice from the throne saying: “Behold, the dwelling place of God is with man, and He will dwell with them. They will be His people, and God Himself will be with them as their God.
@@ -10,7 +10,7 @@ And I heard a voice great from the throne saying: Behold the tabernacle <the> of
 > $\quad$ alluding to: [[LXX.Ezek.37.27|Ezek 37:27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I heard |**<big>[[G0191\|ἤκουσα]]</big>**  |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

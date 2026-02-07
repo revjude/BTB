@@ -1,4 +1,4 @@
-**Job 37:3** 
+**Job 37:3**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He directeth it under the whole heaven, and his lightning unto the ends of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He unleashes His lightning beneath the whole sky and sends it to the ends of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.2|<< Job 37:2]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.4|Job 37:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | under  |**<big>&#8207;[[H8478G\|תַּֽחַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.chat-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 148:9** 
 <small><sub>**LXX:**</sub></small>
 the mountains and all \[the\] hills; \[the\] trees bearing fruit, and all \[the\] cedars; 
-<small><sub>**KJV:**</sub></small>
-Mountains, and all hills; fruitful trees, and all cedars:
-<small><sub>**BSB:**</sub></small>
-mountains and all hills, fruit trees and all cedars,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.148.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.8|<< Psalm 148:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.10|Psalm 148:10 >>]]</td></tr></table>
 
 | Translation | Greek |

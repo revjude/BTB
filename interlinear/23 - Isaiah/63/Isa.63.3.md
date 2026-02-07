@@ -1,4 +1,4 @@
-**Isaiah 63:3** 
+**Isaiah 63:3**<big><big>[[Isa.63.1 God’s Vengeance on the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have trodden the winepress alone; and of the people [there was] none with me: for I will tread them in mine anger, and trample them in my fury; and their blood shall be sprinkled upon my garments, and I will stain all my raiment.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I have trodden the winepress alone; and of the people [there was] none with me: 
 > $\quad$ referenced by: [[Rev.14.19|Rev 14:19-20]] ☩ [[Rev.19.15|Rev 19:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] winepress  |**<big>&#8207;[[H6333\|פּוּרָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| pu.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have trodden  |**<big>&#8207;[[H1869\|דָּרַ֣כְתִּי]]&#8207; </big>**| da.Rakh.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

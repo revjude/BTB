@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:24** 
 <small><sub>**LXX:**</sub></small>
 because  they did not observe my ordinances, and  they thrusted away my orders, and  profaned my Sabbaths, and their eyes were after the thoughts of their fathers. 
-<small><sub>**KJV:**</sub></small>
-Because they had not executed my judgments, but had despised my statutes, and had polluted my sabbaths, and their eyes were after their fathers’ idols.
-<small><sub>**BSB:**</sub></small>
-For they did not practice My ordinances, but they rejected My statutes and profaned My Sabbaths, fixing their eyes on the idols of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.23|<< Ezekiel 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.25|Ezekiel 20:25 >>]]</td></tr></table>
 
 | Translation | Greek |

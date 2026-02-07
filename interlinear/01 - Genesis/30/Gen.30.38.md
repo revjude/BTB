@@ -1,4 +1,4 @@
-**Genesis 30:38** 
+**Genesis 30:38**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he set the peeled branches in the watering troughs in front of the flocks c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.37|<< Genesis 30:37]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.39|Genesis 30:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he placed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3322\|יַּצֵּ֗ג]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Tzeg<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

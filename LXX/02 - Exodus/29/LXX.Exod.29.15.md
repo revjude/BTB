@@ -1,10 +1,7 @@
 **LXX Exodus 29:15** 
 <small><sub>**LXX:**</sub></small>
 And  you shall take one ram, and Aaron and his sons shall place  their hands upon the head of the ram. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram.
-<small><sub>**BSB:**</sub></small>
-Take one of the rams, and Aaron and his sons shall lay their hands on its head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.14|<< Exodus 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.16|Exodus 29:16 >>]]</td></tr></table>
 
 | Translation | Greek |

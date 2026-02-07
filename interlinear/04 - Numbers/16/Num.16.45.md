@@ -1,4 +1,4 @@
-**Numbers 16:45** (17:10)
+**Numbers 16:45**<big><big>[[Num.16.41 Murmuring and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Get you up from among this congregation, that I may consume them as in a moment.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.44|<< Numbers 16:44]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.46|Numbers 16:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | get away  |**<big>&#8207;[[H7426\|הֵרֹ֗מּוּ]]&#8207; </big>**| he.Ro.mu<small><sup>[[HVNv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from among  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8432\|תּוֹךְ֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> toKh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

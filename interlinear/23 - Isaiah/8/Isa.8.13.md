@@ -1,4 +1,4 @@
-**Isaiah 8:13** 
+**Isaiah 8:13**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sanctify the LORD of hosts himself; and [let] him [be] your fear, and [let] him [be] your dread.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD of Hosts is the One you shall regard as holy. Only He should be feared;
 > $\quad$ referenced by: [[1Pet.3.15|1Pet 3:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

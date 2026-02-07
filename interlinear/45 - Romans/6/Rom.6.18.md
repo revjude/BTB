@@ -1,12 +1,12 @@
-**Romans 6:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:18**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Being then made free from sin, ye became the servants of righteousness.
 <small><sub>**BSB:**</sub></small>
 You have been set free from sin and have become slaves to righteousness.
 <small><sub>**Literal:**</sub></small>
 Having been set free now from <the> sin you have become slaves <the> to righteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.17|<< Romans 6:17]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.19|Romans 6:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having been set free |**<big>[[G1659\|Ἐλευθερωθέντες]]</big>**  |Eleutherōthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

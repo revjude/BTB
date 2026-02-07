@@ -1,10 +1,7 @@
 **LXX Psalm 46:9** 
 <small><sub>**LXX:**</sub></small>
 wars in return unto the ends of the earth. He shall break \[the\] bow, and he shall break in pieces \[the\] weapon; and \[the\] shields he shall incinerate with fire. 
-<small><sub>**KJV:**</sub></small>
-He maketh wars to cease unto the end of the earth; he breaketh the bow, and cutteth the spear in sunder; he burneth the chariot in the fire.
-<small><sub>**BSB:**</sub></small>
-He makes wars to cease throughout the earth; He breaks the bow and shatters the spear; He burns the shields in the fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.46.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.46.8|<< Psalm 46:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.10|Psalm 46:10 >>]]</td></tr></table>
 
 | Translation | Greek |

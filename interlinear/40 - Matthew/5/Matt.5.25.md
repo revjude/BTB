@@ -1,12 +1,12 @@
-**Matthew 5:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:25**<big><big>[[Matt.5.21 Anger and Reconciliation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
 <small><sub>**BSB:**</sub></small>
 Reconcile quickly with your adversary, while you are still on the way to court. Otherwise, he may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison.
 <small><sub>**Literal:**</sub></small>
 do be agreeing with the accuser of you quickly before which you are with him on the way otherwise you shall deliver the accuser to the judge, and the judge you he may betray to the officer, and into prison you will be cast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.24|<< Matthew 5:24]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.26|Matthew 5:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be |**<big>[[G1510\|Ἴσθι]]</big>**  |Isthi <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | agreeing |**<big>[[G2132\|εὐνοῶν]]</big>**  |eunoōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

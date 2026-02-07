@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they turned aside there  to enter to rest up in Gibeah. And he entered and sat in the square of the city, and there is no man  bringing them into the house  to rest up. 
-<small><sub>**KJV:**</sub></small>
-And they turned aside thither, to go in [and] to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for [there was] no man that took them into his house to lodging.
-<small><sub>**BSB:**</sub></small>
-They stopped to go in and lodge in Gibeah. The Levite went in and sat down in the city square, but no one would take them into his home for the night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.14|<< Judges 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.16|Judges 19:16 >>]]</td></tr></table>
 
 | Translation | Greek |

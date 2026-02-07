@@ -1,4 +1,4 @@
-**Ezekiel 16:45** 
+**Ezekiel 16:45**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] thy mother’s daughter, that lotheth her husband and her children; and thou [art] the sister of thy sisters, which lothed their husbands and their children: your mother [was] an Hittite, and your father an Amorite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are the daughter of your mother, who despised her husband and children. You 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.44|<< Ezekiel 16:44]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.46|Ezekiel 16:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mother your  |**<big>&#8207;[[H0517\|אִמֵּ֣]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'i.Me<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

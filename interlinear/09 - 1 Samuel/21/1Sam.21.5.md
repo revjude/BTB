@@ -1,4 +1,4 @@
-**1 Samuel 21:5** (21:6)
+**1 Samuel 21:5**<big><big>[[1Sam.21.1 David Takes the Consecrated Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David answered the priest, and said unto him, Of a truth women [have been] kept from us about these three days, since I came out, and the vessels of the young men are holy, and [the bread is] in a manner common, yea, though it were sanctified this day in the vessel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David answered, “Women have indeed been kept from us, as is usual when I set o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.4|<< 1 Samuel 21:4]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.6|1 Samuel 21:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּעַן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'An<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֨ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

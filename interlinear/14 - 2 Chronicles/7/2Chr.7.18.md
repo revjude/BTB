@@ -1,4 +1,4 @@
-**2 Chronicles 7:18** 
+**2 Chronicles 7:18**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man [to be] ruler in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then I will establish your royal throne, as I covenanted with your father David 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.17|<< 2 Chronicles 7:17]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.19|2 Chronicles 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will establish  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|הֲקִ֣ימוֹתִ֔י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.Ki.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

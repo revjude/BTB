@@ -1,12 +1,12 @@
-**Acts 1:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:17**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he was numbered with us, and had obtained part of this ministry.
 <small><sub>**BSB:**</sub></small>
 He was one of our number and shared in this ministry.”
 <small><sub>**Literal:**</sub></small>
 for numbered he was among us and was allotted the share of the ministry this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.16|<< Acts 1:16]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.18|Acts 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | numbered |**<big>[[G2674\|κατηριθμημένος]]</big>**  |katērithmēmenos <small><sup>[[V-RPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

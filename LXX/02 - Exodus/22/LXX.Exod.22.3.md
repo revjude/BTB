@@ -1,10 +1,7 @@
 **LXX Exodus 22:3** 
 <small><sub>**LXX:**</sub></small>
 But if the sun should rise upon him, he is liable, he shall die for it; and if there be no possessions to him, let him be sold for the theft. 
-<small><sub>**KJV:**</sub></small>
-If the sun be risen upon him, [there shall be] blood [shed] for him; [for] he should make full restitution; if he have nothing, then he shall be sold for his theft.
-<small><sub>**BSB:**</sub></small>
-But if it happens after sunrise, there is guilt for his bloodshed. A thief must make full restitution; if he has nothing, he himself shall be sold for his theft.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.2|<< Exodus 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.4|Exodus 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

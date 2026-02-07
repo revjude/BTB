@@ -1,4 +1,4 @@
-**Exodus 28:42** 
+**Exodus 28:42**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Make linen undergarments to cover their bare flesh, extending from waist to thig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.41|<< Exodus 28:41]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.43|Exodus 28:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and make  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6213H\|עֲשֵׂ֤ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

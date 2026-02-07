@@ -1,10 +1,7 @@
 **LXX Genesis 30:15** 
 <small><sub>**LXX:**</sub></small>
 And Leah said, \[Is it\] not fit to you that you took  my man, shall also you take of the mandrakes of my son? And Rachel said, Not so, let him go to bed with you  this night in return for the mandrakes  of your son. 
-<small><sub>**KJV:**</sub></small>
-And she said unto her, [Is it] a small matter that thou hast taken my husband? and wouldest thou take away my son’s mandrakes also? And Rachel said, Therefore he shall lie with thee to night for thy son’s mandrakes.
-<small><sub>**BSB:**</sub></small>
-But Leah replied, “Is it not enough that you have taken away my husband? Now you want to take my son’s mandrakes as well?” “Very well,” said Rachel, “he may sleep with you tonight in exchange for your son’s mandrakes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.14|<< Genesis 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.16|Genesis 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

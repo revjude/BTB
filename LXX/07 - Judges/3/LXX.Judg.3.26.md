@@ -1,10 +1,7 @@
 **LXX Judges 3:26** 
 <small><sub>**LXX:**</sub></small>
 And Ehud came through safe until they made a disruption. And there was not \[one\] paying attention to him. And he went by the carvings, and came through safe into Seirath. 
-<small><sub>**KJV:**</sub></small>
-And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath.
-<small><sub>**BSB:**</sub></small>
-Ehud, however, had escaped while the servants waited. He passed by the idols and escaped to Seirah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.25|<< Judges 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.27|Judges 3:27 >>]]</td></tr></table>
 
 | Translation | Greek |

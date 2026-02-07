@@ -1,10 +1,7 @@
 **LXX Exodus 22:12** 
 <small><sub>**LXX:**</sub></small>
 And if it be stolen from him, he shall pay the owner of it. 
-<small><sub>**KJV:**</sub></small>
-And if it be stolen from him, he shall make restitution unto the owner thereof.
-<small><sub>**BSB:**</sub></small>
-But if the animal was actually stolen from the neighbor, he must make restitution to the owner.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.11|<< Exodus 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.13|Exodus 22:13 >>]]</td></tr></table>
 
 | Translation | Greek |

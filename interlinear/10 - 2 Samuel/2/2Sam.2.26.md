@@ -1,4 +1,4 @@
-**2 Samuel 2:26** 
+**2 Samuel 2:26**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abner called to Joab, and said, Shall the sword devour for ever? knowest thou not that it will be bitterness in the latter end? how long shall it be then, ere thou bid the people return from following their brethren?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Abner called out to Joab: “Must the sword devour forever? Do you not real
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.25|<< 2 Samuel 2:25]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.27|2 Samuel 2:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121I\|יִּקְרָ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abner  |**<big>&#8207;[[H0074\|אַבְנֵ֜ר]]&#8207; </big>**| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Hosea 14:7** (14:8)
+**Hosea 14:7**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that dwell under his shadow shall return; they shall revive [as] the corn, and grow as the vine: the scent thereof [shall be] as the wine of Lebanon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will return and dwell in his shade; they will grow grain and blossom like t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.6|<< Hosea 14:6]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.8|Hosea 14:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will return  |**<big>&#8207;[[H7725G\|יָשֻׁ֙בוּ֙]]&#8207; </big>**| ya.Shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] dwell  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֣י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 23:22** 
+**Ezekiel 23:22**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, O Aholibah, thus saith the Lord GOD; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, Oholibah, this is what the Lord GOD says: ‘I will incite your lover
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.21|<< Ezekiel 23:21]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.23|Ezekiel 23:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֣ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Oholibah  |**<big>&#8207;[[H0172\|אָהֳלִיבָ֗ה]]&#8207; </big>**| 'o.ho.li.Vah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

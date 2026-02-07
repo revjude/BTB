@@ -1,10 +1,7 @@
 **LXX Job 7:21** 
 <small><sub>**LXX:**</sub></small>
 And why did you not appoint  of my lawlessness to forgetfulness, and \[for\] a cleansing  of my sin? But now into \[the\] earth I shall go forth, and I am no longer for rising early. 
-<small><sub>**KJV:**</sub></small>
-And why dost thou not pardon my transgression, and take away mine iniquity? for now shall I sleep in the dust; and thou shalt seek me in the morning, but I [shall] not [be].
-<small><sub>**BSB:**</sub></small>
-Why do You not pardon my transgression and take away my iniquity? For soon I will lie down in the dust; You will seek me, but I will be no more.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.20|<< Job 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.1|Job 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

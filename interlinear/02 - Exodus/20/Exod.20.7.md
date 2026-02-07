@@ -1,4 +1,4 @@
-**Exodus 20:7** 
+**Exodus 20:7**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You shall not take the name of the LORD your God in vain, for the LORD will not 
 > $\quad$ referenced by: [[Matt.5.33|Matt 5:33]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must take  |**<big>&#8207;[[H5375G\|תִשָּׂ֛א]]&#8207; </big>**| ti.Sa'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Judges 7:22** 
+**Judges 7:22**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the three hundred blew the trumpets, and the LORD set every man’s sword against his fellow, even throughout all the host: and the host fled to Bethshittah in Zererath, [and] to the border of Abelmeholah, unto Tabbath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when the three hundred rams’ horns sounded, the LORD set all the men in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.21|<< Judges 7:21]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.23|Judges 7:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave a blast  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H8628\|יִּתְקְעוּ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ke.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] three  |**<big>&#8207;[[H7969\|שְׁלֹשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.losh-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

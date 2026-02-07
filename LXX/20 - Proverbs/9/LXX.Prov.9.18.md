@@ -1,10 +1,7 @@
 **LXX Proverbs 9:18** 
 <small><sub>**LXX:**</sub></small>
 But he does not know that earth-born men \[are\] destroyed by her, and he meets upon \[the\] perch of Hades. 
-<small><sub>**KJV:**</sub></small>
-But he knoweth not that the dead [are] there; [and that] her guests [are] in the depths of hell.
-<small><sub>**BSB:**</sub></small>
-But they do not know that the dead are there, that her guests are in the depths of Sheol.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.17|<< Proverbs 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.1|Proverbs 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

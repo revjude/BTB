@@ -1,10 +1,7 @@
 **LXX Psalm 78:46** 
 <small><sub>**LXX:**</sub></small>
 And he appointed the blight  for their fruits; and  the locust for their miseries. 
-<small><sub>**KJV:**</sub></small>
-He gave also their increase unto the caterpiller, and their labour unto the locust.
-<small><sub>**BSB:**</sub></small>
-He gave their crops to the grasshopper, the fruit of their labor to the locust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.45|<< Psalm 78:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.47|Psalm 78:47 >>]]</td></tr></table>
 
 | Translation | Greek |

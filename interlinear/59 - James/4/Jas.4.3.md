@@ -1,12 +1,12 @@
-**James 4:3
-**<small><sub>**KJV:**</sub></small>
+**James 4:3**<big><big>[[Jas.4.1 A Warning against Pride|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye ask, and receive not, because ye ask amiss, that ye may consume [it] upon your lusts.
 <small><sub>**BSB:**</sub></small>
 And when you do ask, you do not receive, because you ask with wrong motives, that you may squander it on your pleasures.
 <small><sub>**Literal:**</sub></small>
 You ask and not receive, because wrongly you ask, that in the pleasures of you you may spend [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.2|<< James 4:2]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.4|James 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You ask |**<big>[[G0154\|αἰτεῖτε]]</big>**  |aiteite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

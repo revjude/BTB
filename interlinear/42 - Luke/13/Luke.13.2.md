@@ -1,12 +1,12 @@
-**Luke 13:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:2**<big><big>[[Luke.13.1 A Call to Repentance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said unto them, Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things?
 <small><sub>**BSB:**</sub></small>
 To this He replied, “Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered this way?
 <small><sub>**Literal:**</sub></small>
 And answering <the> Jesus He said to them; Think you that <the> Galileans these sinners beyond all the Galileans were because these things they have suffered?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.1|<< Luke 13:1]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.3|Luke 13:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

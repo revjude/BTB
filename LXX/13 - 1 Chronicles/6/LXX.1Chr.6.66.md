@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:66** 
 <small><sub>**LXX:**</sub></small>
 And to the ones from the peoples of \[the\] sons of Kohath came to pass \[the\] cities of their borders from \[the\] tribe of Ephraim. 
-<small><sub>**KJV:**</sub></small>
-And [the residue] of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.
-<small><sub>**BSB:**</sub></small>
-And some of the clans of the Kohathites were given cities from the tribe of Ephraim for their territory:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.66|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.65|<< 1 Chronicles 6:65]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.67|1 Chronicles 6:67 >>]]</td></tr></table>
 
 | Translation | Greek |

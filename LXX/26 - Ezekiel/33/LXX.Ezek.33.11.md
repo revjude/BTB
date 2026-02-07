@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:11** 
 <small><sub>**LXX:**</sub></small>
 Say to them! As I live, says Adonai \[the\] <span class="smallcaps">lord</span>, I do not want the death of the impious, \[but\] as \[for\] the impious to turn from  his way, and \[for\] him to live. By turning you turn from  your evil way! For why do you die, O house of Israel? 
-<small><sub>**KJV:**</sub></small>
-Say unto them, [As] I live, saith the Lord GOD, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die, O house of Israel?
-<small><sub>**BSB:**</sub></small>
-Say to them: ‘As surely as I live, declares the Lord GOD, I take no pleasure in the death of the wicked, but rather that the wicked should turn from their ways and live. Turn! Turn from your evil ways! For why should you die, O house of Israel?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.10|<< Ezekiel 33:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.12|Ezekiel 33:12 >>]]</td></tr></table>
 
 | Translation | Greek |

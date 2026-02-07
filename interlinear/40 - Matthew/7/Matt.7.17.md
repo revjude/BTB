@@ -1,12 +1,12 @@
-**Matthew 7:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:17**<big><big>[[Matt.7.15 A Tree and Its Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.
 <small><sub>**BSB:**</sub></small>
 Likewise, every good tree bears good fruit, but a bad tree bears bad fruit.
 <small><sub>**Literal:**</sub></small>
 thus every tree good fruits good produces, <the> but the bad tree fruits bad produces.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.16|<< Matthew 7:16]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.18|Matthew 7:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus |**<big>[[G3779\|οὕτως]]</big>**  [^1] |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | every |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

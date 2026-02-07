@@ -1,4 +1,4 @@
-**Song of Solomon 6:6** 
+**Song of Solomon 6:6**<big><big>[[Song.6.4 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy teeth [are] as a flock of sheep which go up from the washing, whereof every one beareth twins, and [there is] not one barren among them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your teeth are like a flock of sheep coming up from the washing; each has its tw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.5|<< Song of Solomon 6:5]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.7|Song of Solomon 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | teeth your  |**<big>&#8207;[[H8127G\|שִׁנַּ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| shi.Na.yi<small><sup>[[HNcfdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] like [the] flock of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5739\|עֵ֣דֶר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'E.der<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

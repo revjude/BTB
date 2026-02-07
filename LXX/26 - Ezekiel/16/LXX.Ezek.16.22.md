@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:22** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] beyond all your harlotry, and  your abominations. And you did not remember the days  of your infancy, when you were naked and indecent, being befouled in  your blood, and you lived. 
-<small><sub>**KJV:**</sub></small>
-And in all thine abominations and thy whoredoms thou hast not remembered the days of thy youth, when thou wast naked and bare, [and] wast polluted in thy blood.
-<small><sub>**BSB:**</sub></small>
-And in all your abominations and acts of prostitution, you did not remember the days of your youth when you were naked and bare, wallowing in your own blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.21|<< Ezekiel 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.23|Ezekiel 16:23 >>]]</td></tr></table>
 
 | Translation | Greek |

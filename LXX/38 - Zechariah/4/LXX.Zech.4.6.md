@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he responded and said to me, saying, This \[is\] the word of \[the\] <span class="smallcaps">lord</span> to Zerubbabel, saying, Not by great power, nor by strength, but by my spirit, says \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-Then he answered and spake unto me, saying, This [is] the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-So he said to me, “This is the word of the LORD to Zerubbabel: Not by might nor by power, but by My Spirit, says the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.5|<< Zechariah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.7|Zechariah 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

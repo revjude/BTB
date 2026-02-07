@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And when Jabin king of Hazor heard, he sent to Jobab king of Madon, and to king Shimron, and to king Achshaph, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Jabin king of Hazor had heard [those things], that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,
-<small><sub>**BSB:**</sub></small>
-Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.43|<< Joshua 10:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.2|Joshua 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:26** 
 <small><sub>**LXX:**</sub></small>
 On account of this, young men shall fall in your squares; and all the men,  your warriors, shall fall in  that day, says \[the\] <span class="smallcaps">lord</span> of the forces. 
-<small><sub>**KJV:**</sub></small>
-Therefore her young men shall fall in her streets, and all the men of war shall be cut off in that day, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-For her young men will fall in the streets, and all her warriors will be silenced in that day,” declares the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.25|<< Jeremiah 49:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.27|Jeremiah 49:27 >>]]</td></tr></table>
 
 | Translation | Greek |

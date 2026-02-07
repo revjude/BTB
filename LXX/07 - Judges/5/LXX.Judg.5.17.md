@@ -1,10 +1,7 @@
 **LXX Judges 5:17** 
 <small><sub>**LXX:**</sub></small>
 Gilead encamped on the other side of the Jordan. And Dan -- why does he sojourn in boats? Asher sojourns by \[the\] shore of seas, and at  his breaches he will encamp. 
-<small><sub>**KJV:**</sub></small>
-Gilead abode beyond Jordan: and why did Dan remain in ships? Asher continued on the sea shore, and abode in his breaches.
-<small><sub>**BSB:**</sub></small>
-Gilead remained beyond the Jordan. Dan, why did you linger by the ships? Asher stayed at the coast and remained in his harbors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.16|<< Judges 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.18|Judges 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

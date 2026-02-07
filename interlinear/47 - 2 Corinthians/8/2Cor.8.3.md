@@ -1,12 +1,12 @@
-**2 Corinthians 8:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:3**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For to [their] power, I bear record, yea, and beyond [their] power [they were] willing of themselves;
 <small><sub>**BSB:**</sub></small>
 For I testify that they gave according to their ability and even beyond it. Of their own accord,
 <small><sub>**Literal:**</sub></small>
 For according to [their] ability, I testify [that], and beside [their] ability [they were] willing of themselves,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.2|<< 2 Corinthians 8:2]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.4|2 Corinthians 8:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

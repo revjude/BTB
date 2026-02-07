@@ -1,4 +1,4 @@
-**2 Samuel 15:14** 
+**2 Samuel 15:14**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto all his servants that [were] with him at Jerusalem, Arise, and let us flee; for we shall not [else] escape from Absalom: make speed to depart, lest he overtake us suddenly, and bring evil upon us, and smite the city with the edge of the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And David said to all the servants with him in Jerusalem, “Arise and let us fl
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.13|<< 2 Samuel 15:13]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.15|2 Samuel 15:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּ֠וִד]]&#8207; </big>**| Da.vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

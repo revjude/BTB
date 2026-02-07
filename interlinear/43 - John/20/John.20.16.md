@@ -1,12 +1,12 @@
-**John 20:16
-**<small><sub>**KJV:**</sub></small>
+**John 20:16**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.
 <small><sub>**BSB:**</sub></small>
 Jesus said to her, “Mary.” She turned and said to Him in Hebrew, “Rabboni!” (which means “Teacher”).
 <small><sub>**Literal:**</sub></small>
 Says to her <the> Jesus; Mary. Having turned around she says to Him in Hebrew; Rabboni, that is to say, Teacher.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.15|<< John 20:15]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.17|John 20:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to her |**<big>[[G0846\|αὐτῇ]]</big>**  |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

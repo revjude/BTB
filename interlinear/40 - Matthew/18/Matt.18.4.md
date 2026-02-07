@@ -1,12 +1,12 @@
-**Matthew 18:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:4**<big><big>[[Matt.18.1 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 Therefore, whoever humbles himself like this little child is the greatest in the kingdom of heaven.
 <small><sub>**Literal:**</sub></small>
 Whoever therefore will humble himself as <the> little child this, he is the greater in the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.3|<< Matthew 18:3]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.5|Matthew 18:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whoever |**<big>[[G3748\|ὅστις]]</big>**  |hostis <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

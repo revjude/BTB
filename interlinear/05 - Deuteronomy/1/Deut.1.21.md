@@ -1,4 +1,4 @@
-**Deuteronomy 1:21** 
+**Deuteronomy 1:21**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the LORD thy God hath set the land before thee: go up [and] possess [it], as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See, the LORD your God has placed the land before you. Go up and take possession
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.20|<< Deuteronomy 1:20]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.22|Deuteronomy 1:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200I\|רְ֠אֵה]]&#8207; </big>**| Re.'eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sets  |**<big>&#8207;[[H5414H\|נָתַ֨ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

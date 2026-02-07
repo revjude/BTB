@@ -1,10 +1,7 @@
 **LXX Haggai 2:5** 
 <small><sub>**LXX:**</sub></small>
 The word which I ordained with you in  your coming forth from Egypt, and  my spirit I set in \[the\] midst of you -- take courage! 
-<small><sub>**KJV:**</sub></small>
-[According to] the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.
-<small><sub>**BSB:**</sub></small>
-This is the promise I made to you when you came out of Egypt. And My Spirit remains among you; do not be afraid.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.4|<< Haggai 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.6|Haggai 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

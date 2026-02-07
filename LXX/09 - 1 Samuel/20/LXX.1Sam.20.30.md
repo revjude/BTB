@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:30** 
 <small><sub>**LXX:**</sub></small>
 And Saul was enraged in anger at Jonathan exceedingly, and said to him, O son of a deserting woman, for do you not know that you are a partner to the son of Jesse for your shame, and for \[the\] shame of uncovering your mother? 
-<small><sub>**KJV:**</sub></small>
-Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious [woman], do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness?
-<small><sub>**BSB:**</sub></small>
-Then Saul’s anger burned against Jonathan, and he said to him, “You son of a perverse and rebellious woman! Do I not know that you have chosen the son of Jesse to your own shame and to the shame of the mother who bore you?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.29|<< 1 Samuel 20:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.31|1 Samuel 20:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 25:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:9**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?
 <small><sub>**BSB:**</sub></small>
 But Festus, wishing to do the Jews a favor, said to Paul, “Are you willing to go up to Jerusalem to stand trial before me on these charges?”
 <small><sub>**Literal:**</sub></small>
 <the> Festus however wishing from the Jews a favor to lay, answering <the> Paul said; Are you willing to Jerusalem having gone up there concerning these things to be judged before me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.8|<< Acts 25:8]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.10|Acts 25:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Festus |**<big>[[G5347\|Φῆστος]]</big>**  |Phēstos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

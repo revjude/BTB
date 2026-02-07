@@ -1,10 +1,7 @@
 **LXX Ruth 3:13** 
 <small><sub>**LXX:**</sub></small>
 You lodge the night! and it will be in the morning, if he should act as next of kin for you -- good, let him act as next of kin! But if he should not want to act as next of kin for you, I shall act as next of kin for you. \[As\] \[the\] <span class="smallcaps">lord</span> lives, you go to sleep until morning! 
-<small><sub>**KJV:**</sub></small>
-Tarry this night, and it shall be in the morning, [that] if he will perform unto thee the part of a kinsman, well; let him do the kinsman’s part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, [as] the LORD liveth: lie down until the morning.
-<small><sub>**BSB:**</sub></small>
-Stay here tonight, and in the morning, if he wants to redeem you, good. Let him redeem you. But if he does not want to redeem you, as surely as the LORD lives, I will. Now lie here until morning.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.12|<< Ruth 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.14|Ruth 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

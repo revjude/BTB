@@ -1,4 +1,4 @@
-**Jeremiah 51:13** 
+**Jeremiah 51:13**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou that dwellest upon many waters, abundant in treasures, thine end is come, [and] the measure of thy covetousness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You who dwell by many waters, rich in treasures, your end has come; the thread o
 > $\quad$ referenced by: [[Rev.17.1|Rev 17:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O [one who] dwells  |**<big>&#8207;[[H7931\|שֹׁכַנְתְּ֙]]&#8207; </big>**[^1] [^2] | sho.khan.ti<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 12:10** 
+**Deuteronomy 12:10**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [when] ye go over Jordan, and dwell in the land which the LORD your God giveth you to inherit, and [when] he giveth you rest from all your enemies round about, so that ye dwell in safety;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you cross the Jordan and live in the land that the LORD your God is giving 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.9|<< Deuteronomy 12:9]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.11|Deuteronomy 12:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will pass over  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|עֲבַרְתֶּם֮]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.var.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 29:5** 
+**Jeremiah 29:5**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Build ye houses, and dwell [in them]; and plant gardens, and eat the fruit of them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Build ye houses, and dwell [in them]; and plant gardens, and eat the fruit of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.4|<< Jeremiah 29:4]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.6|Jeremiah 29:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | build  |**<big>&#8207;[[H1129\|בְּנ֥וּ]]&#8207; </big>**| be.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | houses  |**<big>&#8207;[[H1004B\|בָתִּ֖ים]]&#8207; </big>**| va.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

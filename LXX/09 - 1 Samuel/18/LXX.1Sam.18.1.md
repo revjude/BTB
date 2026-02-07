@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as he finished speaking to Saul, that the soul of Jonathan was bound together to the soul of David; and Jonathan loved him according to  his own soul. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
-<small><sub>**BSB:**</sub></small>
-After David had finished speaking with Saul, the souls of Jonathan and David were knit together, and Jonathan loved him as himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.58|<< 1 Samuel 17:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.2|1 Samuel 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

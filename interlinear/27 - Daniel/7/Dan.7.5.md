@@ -1,4 +1,4 @@
-**Daniel 7:5** 
+**Daniel 7:5**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And behold another beast, a second, like to a bear, and it raised up itself on one side, and [it had] three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Suddenly another beast appeared, which looked like a bear. It was raised up on o
 > $\quad$ referenced by: [[Rev.13.2|Rev 13:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and lo!  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0718\|אֲר֣וּ]]&#8207; </big>**| va.<small><sup>[[AC]]</sup></small> 'a.Ru<small><sup>[[ATj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a beast  |**<big>&#8207;[[H2423\|חֵיוָה֩]]&#8207; </big>**| chei.Vah<small><sup>[[ANcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Proverbs 16:20** 
+**Proverbs 16:20**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that handleth a matter wisely shall find good: and whoso trusteth in the LORD, happy [is] he.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever heeds instruction will find success, and blessed is he who trusts in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.19|<< Proverbs 16:19]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.21|Proverbs 16:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] gives attention  |**<big>&#8207;[[H7919A\|מַשְׂכִּ֣יל]]&#8207; </big>**| mas.Kil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

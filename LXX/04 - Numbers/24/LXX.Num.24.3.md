@@ -1,10 +1,7 @@
 **LXX Numbers 24:3** 
 <small><sub>**LXX:**</sub></small>
 And taking up  his parable, he said, Says Balaam son of Beor. Says the man seeing true. 
-<small><sub>**KJV:**</sub></small>
-And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:
-<small><sub>**BSB:**</sub></small>
-and he lifted up an oracle, saying: “This is the prophecy of Balaam son of Beor, the prophecy of a man whose eyes are open,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.2|<< Numbers 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.4|Numbers 24:4 >>]]</td></tr></table>
 
 | Translation | Greek |

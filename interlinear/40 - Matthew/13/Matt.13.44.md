@@ -1,12 +1,12 @@
-**Matthew 13:44
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:44**<big><big>[[Matt.13.44 The Parables of the Treasure and the Pearl|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Again, the kingdom of heaven is like unto treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth and selleth all that he hath, and buyeth that field.
 <small><sub>**BSB:**</sub></small>
 The kingdom of heaven is like treasure hidden in a field. When a man found it, he hid it again, and in his joy he went and sold all he had and bought that field.
 <small><sub>**Literal:**</sub></small>
 again Like is the kingdom of the heavens to treasure hidden in the field, which having found a man hid. and for the joy of it goes and he sells all as much as he has and buys the field that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.43|<< Matthew 13:43]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.45|Matthew 13:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | again |**<big>[[G3825\|Πάλιν]]</big>**  |Palin <small><sup>[[ADV]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Like |**<big>[[G3664\|ὁμοία]]</big>**  |homoia <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

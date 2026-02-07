@@ -1,4 +1,4 @@
-**Proverbs 3:28** 
+**Proverbs 3:28**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not tell your neighbor, “Come back tomorrow and I will provide”—when yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.27|<< Proverbs 3:27]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.29|Proverbs 3:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you say  |**<big>&#8207;[[H0559\|תֹּ֘אמַ֤ר]]&#8207; </big>**| to.Mar<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

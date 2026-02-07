@@ -1,10 +1,7 @@
 **LXX Exodus 34:9** 
 <small><sub>**LXX:**</sub></small>
 And he said, If I have found favor before you, my <span class="smallcaps">lord</span> go with us! For the people are hard-necked. And you shall remove the sins, and  our lawless deeds, and we will be yours. 
-<small><sub>**KJV:**</sub></small>
-And he said, If now I have found grace in thy sight, O Lord, let my Lord, I pray thee, go among us; for it [is] a stiffnecked people; and pardon our iniquity and our sin, and take us for thine inheritance.
-<small><sub>**BSB:**</sub></small>
-“O Lord,” he said, “if I have indeed found favor in Your sight, my Lord, please go with us. Although this is a stiff-necked people, forgive our iniquity and sin, and take us as Your inheritance.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.8|<< Exodus 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.10|Exodus 34:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 John 4:13
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:13**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.
 <small><sub>**BSB:**</sub></small>
 By this we know that we remain in Him, and He in us: He has given us of His Spirit.
 <small><sub>**Literal:**</sub></small>
 By this we know that in Him we abide and He in us, because from out the Spirit of Him He has given to us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.12|<< 1 John 4:12]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.14|1 John 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τούτῳ]]</big>**  |toutō <small><sup>[[D-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

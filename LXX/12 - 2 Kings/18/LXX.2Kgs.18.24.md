@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:24** 
 <small><sub>**LXX:**</sub></small>
 And how will you turn back  \[the\] face of one toparch of the least of the servants of my master, and hope for yourself upon Egypt for chariots and horsemen? 
-<small><sub>**KJV:**</sub></small>
-How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?
-<small><sub>**BSB:**</sub></small>
-For how can you repel a single officer among the least of my master’s servants when you depend on Egypt for chariots and horsemen?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.23|<< 2 Kings 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.25|2 Kings 18:25 >>]]</td></tr></table>
 
 | Translation | Greek |

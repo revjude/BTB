@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the ones inheriting of \[the\] sons of Israel in the land of Canaan, which Eleazar the priest allotted to them, and Joshua the \[son of\] Nun, and the rulers of families of \[the\] tribes of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And these [are the countries] which the children of Israel inherited in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, distributed for inheritance to them.
-<small><sub>**BSB:**</sub></small>
-Now these are the portions that the Israelites inherited in the land of Canaan, as distributed by Eleazar the priest, Joshua son of Nun, and the heads of the families of the tribes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.33|<< Joshua 13:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.2|Joshua 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 68:18** 
 <small><sub>**LXX:**</sub></small>
 You ascended into \[the\] height; you captured captivity; you received gifts by men; for even to encamp among \[the\] ones resisting persuasion. 
-<small><sub>**KJV:**</sub></small>
-Thou hast ascended on high, thou hast led captivity captive: thou hast received gifts for men; yea, [for] the rebellious also, that the LORD God might dwell [among them].
-<small><sub>**BSB:**</sub></small>
-You have ascended on high; You have led captives away. You have received gifts from men, even from the rebellious, that the LORD God may dwell there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.17|<< Psalm 68:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.19|Psalm 68:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 68:18** is...

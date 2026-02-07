@@ -1,12 +1,12 @@
-**2 Timothy 2:8
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:8**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Remember that Jesus Christ of the seed of David was raised from the dead according to my gospel:
 <small><sub>**BSB:**</sub></small>
 Remember Jesus Christ, raised from the dead, descended from David, as proclaimed by my gospel,
 <small><sub>**Literal:**</sub></small>
 do remember Jesus Christ raised out from [the] dead from [the] seed of David according to <the> gospel of mine;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.7|<< 2 Timothy 2:7]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.9|2 Timothy 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do remember |**<big>[[G3421\|Μνημόνευε]]</big>**  |Mnēmoneue <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Jesus |**<big>[[G2424G\|Ἰησοῦν]]</big>**  |Iēsoun <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

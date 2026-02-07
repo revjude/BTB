@@ -1,12 +1,12 @@
-**Hebrews 12:27
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:27**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this [word], Yet once more, signifieth the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.
 <small><sub>**BSB:**</sub></small>
 The words “Once more” signify the removal of what can be shaken—that is, created things—so that the unshakable may remain.
 <small><sub>**Literal:**</sub></small>
 This now Yet once [more], signifies that of the [things] being shaken removing as created, so that may remain the [things] not being shaken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.26|<< Hebrews 12:26]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.28|Hebrews 12:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 19:1** 
+**Deuteronomy 19:1**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the LORD your God has cut off the nations whose land He is giving you, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.22|<< Deuteronomy 18:22]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.2|Deuteronomy 19:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will cut off  |**<big>&#8207;[[H3772I\|יַכְרִ֞ית]]&#8207; </big>**| yakh.Rit<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 7:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:8**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I say therefore to the unmarried and widows, It is good for them if they abide even as I.
 <small><sub>**BSB:**</sub></small>
 Now to the unmarried and widows I say this: It is good for them to remain unmarried, as I am.
 <small><sub>**Literal:**</sub></small>
 I say now to the unmarried and to the widows, good for them it is if they shall remain as also I. myself<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.7|<< 1 Corinthians 7:7]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.9|1 Corinthians 7:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|Λέγω]]</big>**  |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

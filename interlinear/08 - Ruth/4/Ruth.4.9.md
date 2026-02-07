@@ -1,4 +1,4 @@
-**Ruth 4:9** 
+**Ruth 4:9**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Boaz said unto the elders, and [unto] all the people, Ye [are] witnesses this day, that I have bought all that [was] Elimelech’s, and all that [was] Chilion’s and Mahlon’s, of the hand of Naomi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At this, Boaz said to the elders and all the people, “You are witnesses today 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.8|<< Ruth 4:8]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.10|Ruth 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Boaz  |**<big>&#8207;[[H1162G\|בֹּ֨עַז]]&#8207; </big>**| Bo.'az<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard and shall do; for this  \[is\] your wisdom and  your understanding before all the nations, as many as should hear all  these ordinances. Then they shall say, Behold, this great nation \[is\] a wise and intelligent people. 
-<small><sub>**KJV:**</sub></small>
-Keep therefore and do [them]; for this [is] your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation [is] a wise and understanding people.
-<small><sub>**BSB:**</sub></small>
-Observe them carefully, for this will show your wisdom and understanding in the sight of the peoples, who will hear of all these statutes and say, “Surely this great nation is a wise and understanding people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.5|<< Deuteronomy 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.7|Deuteronomy 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

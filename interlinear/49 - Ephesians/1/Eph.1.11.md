@@ -1,12 +1,12 @@
-**Ephesians 1:11
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:11**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:
 <small><sub>**BSB:**</sub></small>
 In Him we were also chosen as God’s own, having been predestined according to the plan of Him who works out everything by the counsel of His will,
 <small><sub>**Literal:**</sub></small>
 in whom also we have obtained an inheritance having been predestined according to [the] purpose of the [One] <the> all things working according to the counsel of the will of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.10|<< Ephesians 1:10]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.12|Ephesians 1:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

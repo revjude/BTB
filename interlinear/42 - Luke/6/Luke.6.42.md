@@ -1,12 +1,12 @@
-**Luke 6:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:42**<big><big>[[Luke.6.37 Judging Others|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Either how canst thou say to thy brother, Brother, let me pull out the mote that is in thine eye, when thou thyself beholdest not the beam that is in thine own eye? Thou hypocrite, cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brother’s eye.
 <small><sub>**BSB:**</sub></small>
 How can you say, ‘Brother, let me take the speck out of your eye,’ while you yourself fail to see the beam in your own eye? You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.
 <small><sub>**Literal:**</sub></small>
 or How are you able to say to the brother of you; Brother, do allow [me] I may cast out the splinter that [is] in the eye of you, yourself the in the eye of you beam not seeing? Hypocrite, do cast out first the beam from the eye of you, and then you will see clearly the splinter <the> in the eye of the brother of you to cast out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.41|<< Luke 6:41]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.43|Luke 6:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">ko</abbr> | |
 | How |**<big>[[G4459\|πῶς]]</big>**  |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Daniel 5:19** 
 <small><sub>**LXX:**</sub></small>
 And because of the greatness of which he gave to him, all the peoples, tribes, languages were trembling and fearing from before him. Whom he willed he did away with, and whom he willed he beat, and whom he willed he raised up high, and whom he willed he humbled. 
-<small><sub>**KJV:**</sub></small>
-And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.
-<small><sub>**BSB:**</sub></small>
-Because of the greatness that He bestowed on him, the people of every nation and language trembled in fear before him. He killed whom he wished and kept alive whom he wished; he exalted whom he wished and humbled whom he wished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.18|<< Daniel 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.20|Daniel 5:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 5:19** is...

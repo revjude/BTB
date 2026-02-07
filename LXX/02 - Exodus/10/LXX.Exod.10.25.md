@@ -1,10 +1,7 @@
 **LXX Exodus 10:25** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, But also you shall give us \[means for\] whole burnt-offerings and sacrifices which we will make to \[the\] <span class="smallcaps">lord</span>  our God. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the LORD our God.
-<small><sub>**BSB:**</sub></small>
-But Moses replied, “You must also provide us with sacrifices and burnt offerings to present to the LORD our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.24|<< Exodus 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.26|Exodus 10:26 >>]]</td></tr></table>
 
 | Translation | Greek |

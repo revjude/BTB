@@ -1,4 +1,4 @@
-**Daniel 4:9** (4:6)
+**Daniel 4:9**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods [is] in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Belteshazzar, master of the magicians, because I know that the spirit of the h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.8|<< Daniel 4:8]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.10|Daniel 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Belteshazzar  |**<big>&#8207;[[H1096\|בֵּלְטְשַׁאצַּר֮]]&#8207; </big>**| be.le.te.sha.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] chief of  |**<big>&#8207;[[H7229\|רַ֣ב]]&#8207; </big>**| rav<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

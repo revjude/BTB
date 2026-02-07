@@ -1,10 +1,7 @@
 **LXX Numbers 26:5** 
 <small><sub>**LXX:**</sub></small>
 \[and\] Reuben, \[was\] first-born of Israel. And \[the\] sons of Reuben -- Hanoch, \[the\] people of the of Hanochites;  of Pallu, \[the\] people of the Palluites; 
-<small><sub>**KJV:**</sub></small>
-Reuben, the eldest son of Israel: the children of Reuben; Hanoch, [of whom cometh] the family of the Hanochites: of Pallu, the family of the Palluites:
-<small><sub>**BSB:**</sub></small>
-Reuben was the firstborn of Israel. These were the descendants of Reuben: The Hanochite clan from Hanoch, the Palluite clan from Pallu,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.4|<< Numbers 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.6|Numbers 26:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 47:14** 
 <small><sub>**LXX:**</sub></small>
 And Joseph brought together all the silver  being found in \[the\] land of Egypt, and in \[the\] land of Canaan, from the grain which they bought. And he measured out grain to them. And Joseph carried in all the silver into the house of Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh’s house.
-<small><sub>**BSB:**</sub></small>
-Joseph collected all the money to be found in the land of Egypt and the land of Canaan in exchange for the grain they were buying, and he brought it into Pharaoh’s palace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.13|<< Genesis 47:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.15|Genesis 47:15 >>]]</td></tr></table>
 
 | Translation | Greek |

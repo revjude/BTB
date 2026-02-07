@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:6** 
 <small><sub>**LXX:**</sub></small>
 We utterly destroyed them as we did  Sihon king of Heshbon. And we utterly destroyed every city, next also the women and the children, 
-<small><sub>**KJV:**</sub></small>
-And we utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying the men, women, and children, of every city.
-<small><sub>**BSB:**</sub></small>
-We devoted them to destruction, as we had done to Sihon king of Heshbon, utterly destroying the men, women, and children of every city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.5|<< Deuteronomy 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.7|Deuteronomy 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

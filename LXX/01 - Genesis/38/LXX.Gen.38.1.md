@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  that time, Judah went from  his brothers, and he arrived unto before a certain man of Adullam, whose name \[was\] Hirah. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name [was] Hirah.
-<small><sub>**BSB:**</sub></small>
-About that time, Judah left his brothers and settled near a man named Hirah, an Adullamite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.36|<< Genesis 37:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.2|Genesis 38:2 >>]]</td></tr></table>
 
 | Translation | Greek |

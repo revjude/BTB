@@ -1,4 +1,4 @@
-**Exodus 19:6** 
+**Exodus 19:6**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall be unto me a kingdom of priests, and an holy nation. These [are] the words which thou shalt speak unto the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And unto Me you shall be a kingdom of priests and a holy nation.’ These are th
 > $\quad$ referenced by: [[Rev.1.6|Rev 1:6]] ☩ [[1Pet.2.9|1Pet 2:9]] ☩ [[Rev.5.10|Rev 5:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּ֧ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be  |**<big>&#8207;[[H1961\|תִּהְיוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tih.yu-<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

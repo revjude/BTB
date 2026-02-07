@@ -1,10 +1,7 @@
 **LXX Job 33:6** 
 <small><sub>**LXX:**</sub></small>
 From out of clay you were molded as also I; we were molded from out of the same \[clay\]. 
-<small><sub>**KJV:**</sub></small>
-Behold, I [am] according to thy wish in God’s stead: I also am formed out of the clay.
-<small><sub>**BSB:**</sub></small>
-I am just like you before God; I was also formed from clay.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.5|<< Job 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.7|Job 33:7 >>]]</td></tr></table>
 
 | Translation | Greek |

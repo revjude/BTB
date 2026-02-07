@@ -1,10 +1,7 @@
 **LXX Psalm 18:12** 
 <small><sub>**LXX:**</sub></small>
 From the radiance of his presence the clouds went by; hail and coals of fire. 
-<small><sub>**KJV:**</sub></small>
-At the brightness [that was] before him his thick clouds passed, hail [stones] and coals of fire.
-<small><sub>**BSB:**</sub></small>
-From the brightness of His presence His clouds advanced—hailstones and coals of fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.11|<< Psalm 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.13|Psalm 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

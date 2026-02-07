@@ -1,4 +1,4 @@
-**2 Samuel 18:25** 
+**2 Samuel 18:25**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the watchman cried, and told the king. And the king said, If he [be] alone, [there is] tidings in his mouth. And he came apace, and drew near.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he called out and told the king. “If he is alone,” the king replied, “h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.24|<< 2 Samuel 18:24]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.26|2 Samuel 18:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121I\|יִּקְרָ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the watchman  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6822\|צֹּפֶה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tzo.Peh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 25:17** 
+**Ezekiel 25:17**<big><big>[[Ezek.25.15 A Prophecy against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will execute great vengeance upon them with furious rebukes; and they shall know that I [am] the LORD, when I shall lay my vengeance upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will execute great vengeance against them with furious reproof. Then they will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.16|<< Ezekiel 25:16]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.1|Ezekiel 26:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִׂ֤יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| va<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

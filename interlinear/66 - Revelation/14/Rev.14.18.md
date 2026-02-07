@@ -1,12 +1,12 @@
-**Revelation 14:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:18**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe.
 <small><sub>**BSB:**</sub></small>
 Still another angel, with authority over the fire, came from the altar and called out in a loud voice to the angel with the sharp sickle, “Swing your sharp sickle and gather the clusters of grapes from the vine of the earth, because its grapes are ripe.”
 <small><sub>**Literal:**</sub></small>
 And another angel came out of the altar who is having authority over the fire and he called in a voice loud to the [one] having the sickle <the> sharp saying; do put forth your <the> sickle <the> sharp and do gather the clusters from the vine of the earth, because fully ripened the grapes of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.17|<< Revelation 14:17]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.19|Revelation 14:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | another |**<big>[[G0243\|ἄλλος]]</big>**  |allos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

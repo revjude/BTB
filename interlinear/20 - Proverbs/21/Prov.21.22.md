@@ -1,4 +1,4 @@
-**Proverbs 21:22** 
+**Proverbs 21:22**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wise [man] scaleth the city of the mighty, and casteth down the strength of the confidence thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wise man scales the city of the mighty and pulls down the stronghold in which 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.21|<< Proverbs 21:21]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.23|Proverbs 21:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a city of  |**<big>&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| 'ir<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | warriors  |**<big>&#8207;[[H1368\|גִּ֭בֹּרִים]]&#8207; </big>**| Gi.bo.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

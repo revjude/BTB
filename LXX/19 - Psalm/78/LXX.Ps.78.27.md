@@ -1,10 +1,7 @@
 **LXX Psalm 78:27** 
 <small><sub>**LXX:**</sub></small>
 And he rained flesh upon them as dust; even feathered winged creatures as \[the\] sand of \[the\] seas. 
-<small><sub>**KJV:**</sub></small>
-He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:
-<small><sub>**BSB:**</sub></small>
-He rained meat on them like dust, and winged birds like the sand of the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.26|<< Psalm 78:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.28|Psalm 78:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 6:52
-**<small><sub>**KJV:**</sub></small>
+**John 6:52**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Jews therefore strove among themselves, saying, How can this man give us [his] flesh to eat?
 <small><sub>**BSB:**</sub></small>
 At this, the Jews began to argue among themselves, “How can this man give us His flesh to eat?”
 <small><sub>**Literal:**</sub></small>
 Were arguing therefore with one another the Jews saying; How is able this [man] us to give the flesh of Him to eat?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.51|<< John 6:51]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.53|John 6:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were arguing |**<big>[[G3164\|Ἐμάχοντο]]</big>**  |Emachonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

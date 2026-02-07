@@ -1,4 +1,4 @@
-**Nehemiah 7:45** 
+**Nehemiah 7:45**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, an hundred thirty and eight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The gatekeepers: the descendants of Shallum, the descendants of Ater, the descen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.44|<< Nehemiah 7:44]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.46|Nehemiah 7:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the gatekeepers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7778\|שֹּֽׁעֲרִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

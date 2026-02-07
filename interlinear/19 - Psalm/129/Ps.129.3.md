@@ -1,4 +1,4 @@
-**Psalms 129:3** 
+**Psalms 129:3**<big><big>[[Ps.129.1 The Cords of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The plowers plowed upon my back: they made long their furrows.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The plowmen plowed over my back; they made their furrows long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.129.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.129.2|<< Psalms 129:2]]</td><td align="center" style="border:none;">[[Ps.129|Psalms 129]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.129.4|Psalms 129:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | back my  |**<big>&#8207;[[H1354\|גַּ֭בִּ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Ga.b<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

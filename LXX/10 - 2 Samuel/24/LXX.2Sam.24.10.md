@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] heart of David struck him after  counting the people. And David said to \[the\] <span class="smallcaps">lord</span>, I have sinned exceedingly -- I having done  this thing. And now, O <span class="smallcaps">lord</span>, remove indeed the iniquity  of your servant, for I was in folly exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And David’s heart smote him after that he had numbered the people. And David said unto the LORD, I have sinned greatly in that I have done: and now, I beseech thee, O LORD, take away the iniquity of thy servant; for I have done very foolishly.
-<small><sub>**BSB:**</sub></small>
-After David had numbered the troops, his conscience was stricken and he said to the LORD, “I have sinned greatly in what I have done. Now, O LORD, I beg You to take away the iniquity of Your servant, for I have acted very foolishly.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.9|<< 2 Samuel 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.11|2 Samuel 24:11 >>]]</td></tr></table>
 
 | Translation | Greek |

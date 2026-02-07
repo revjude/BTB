@@ -1,12 +1,12 @@
-**John 9:28
-**<small><sub>**KJV:**</sub></small>
+**John 9:28**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then they reviled him, and said, Thou art his disciple; but we are Moses’ disciples.
 <small><sub>**BSB:**</sub></small>
 Then they heaped insults on him and said, “You are His disciple; we are disciples of Moses.
 <small><sub>**Literal:**</sub></small>
 And <the>[they] now railed at therefore him and said; You yourself a disciple are of that One, we ourselves however <the> of Moses are disciples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.27|<< John 9:27]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.29|John 9:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+WH">n(o)</abbr> | |
 | \<the>[they] |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="Treg">o</abbr> | |

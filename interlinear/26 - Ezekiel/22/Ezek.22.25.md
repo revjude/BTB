@@ -1,4 +1,4 @@
-**Ezekiel 22:25** 
+**Ezekiel 22:25**<big><big>[[Ezek.22.23 Israel’s Wicked Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls; they have taken the treasure and precious things; they have made her many widows in the midst thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The conspiracy of the princes in her midst is like a roaring lion tearing its pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.24|<< Ezekiel 22:24]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.26|Ezekiel 22:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a conspiracy of  |**<big>&#8207;[[H7195\|קֶ֤שֶׁר]]&#8207; </big>**| Ke.sher<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prophets its  |**<big>&#8207;[[H5030\|נְבִיאֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| ne.vi.'Ei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

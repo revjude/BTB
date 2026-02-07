@@ -1,4 +1,4 @@
-**Numbers 7:66** 
+**Numbers 7:66**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the tenth day Ahiezer the son of Ammishaddai, prince of the children of Dan, [offered]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the tenth day Ahiezer son of Ammishaddai, the leader of the Danites, drew nea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.65|<< Numbers 7:65]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.67|Numbers 7:67 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּוֹם֙]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> tenth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6224\|עֲשִׂירִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.si.Ri<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

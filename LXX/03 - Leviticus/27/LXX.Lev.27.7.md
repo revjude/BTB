@@ -1,10 +1,7 @@
 **LXX Leviticus 27:7** 
 <small><sub>**LXX:**</sub></small>
 And if from sixty years old and up, if indeed it might be a male, his value shall be fifteen double-drachmas of silver; for the female ten double-drachmas. 
-<small><sub>**KJV:**</sub></small>
-And if [it be] from sixty years old and above; if [it be] a male, then thy estimation shall be fifteen shekels, and for the female ten shekels.
-<small><sub>**BSB:**</sub></small>
-And if the person is sixty years of age or older, then your valuation shall be fifteen shekels for the male and ten shekels for the female.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.6|<< Leviticus 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.8|Leviticus 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

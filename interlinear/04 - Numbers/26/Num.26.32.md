@@ -1,4 +1,4 @@
-**Numbers 26:32** 
+**Numbers 26:32**<big><big>[[Num.26.28 The Tribe of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [of] Shemida, the family of the Shemidaites: and [of] Hepher, the family of the Hepherites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the Shemidaite clan from Shemida, and the Hepherite clan from Hepher.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.31|<< Numbers 26:31]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.33|Numbers 26:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Shemida  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8061\|שְׁמִידָ֕ע]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mi.Da'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] clan of  |**<big>&#8207;[[H4940\|מִשְׁפַּ֖חַת]]&#8207; </big>**| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

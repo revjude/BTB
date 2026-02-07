@@ -1,4 +1,4 @@
-**Deuteronomy 29:18** (29:17)
+**Deuteronomy 29:18**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the LORD our God, to go [and] serve the gods of these nations; lest there should be among you a root that beareth gall and wormwood;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Make sure there is no man or woman, clan or tribe among you today whose heart tu
 > $\quad$ referenced by: [[Heb.12.15|Heb 12:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

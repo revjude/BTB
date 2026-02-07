@@ -1,4 +1,4 @@
-**Deuteronomy 4:43** 
+**Deuteronomy 4:43**<big><big>[[Deut.4.41 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Namely], Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bezer in the wilderness on the plateau belonging to the Reubenites, Ramoth in Gi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.42|<< Deuteronomy 4:42]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.44|Deuteronomy 4:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bezer  |**<big>&#8207;[[H1221G\|בֶּ֧צֶר]]&#8207; </big>**| Be.tzer<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

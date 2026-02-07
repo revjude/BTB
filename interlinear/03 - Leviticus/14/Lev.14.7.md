@@ -1,4 +1,4 @@
-**Leviticus 14:7** 
+**Leviticus 14:7**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird loose into the open field.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seven times he shall sprinkle the one to be cleansed of the skin disease. Then h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.6|<< Leviticus 14:6]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.8|Leviticus 14:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will spatter [it]  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5137A\|הִזָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Zah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַ֧ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 9:11** 
 <small><sub>**LXX:**</sub></small>
 And you, by \[the\] blood of your covenant, sent out your prisoners from \[the\] pit not having water. 
-<small><sub>**KJV:**</sub></small>
-As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein [is] no water.
-<small><sub>**BSB:**</sub></small>
-As for you, because of the blood of My covenant, I will release your prisoners from the waterless pit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.10|<< Zechariah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.12|Zechariah 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

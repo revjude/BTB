@@ -1,12 +1,12 @@
-**John 10:32
-**<small><sub>**KJV:**</sub></small>
+**John 10:32**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered them, Many good works have I shewed you from my Father; for which of those works do ye stone me?
 <small><sub>**BSB:**</sub></small>
 But Jesus responded, “I have shown you many good works from the Father. For which of these do you stone Me?”
 <small><sub>**Literal:**</sub></small>
 Answered them <the> Jesus; Many works good I have shown you from the Father of mine; because of which of these work Me myself do you stone<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.31|<< John 10:31]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.33|John 10:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 38:10** (38:11)
+**Psalms 38:10**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My heart pounds, my strength fails, and even the light of my eyes has faded.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.9|<< Psalms 38:9]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.11|Psalms 38:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | heart my  |**<big>&#8207;[[H3820A\|לִבִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it palpitates  |**<big>&#8207;[[H5503\|סְ֭חַרְחַר]]&#8207; </big>**| Se.char.char<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

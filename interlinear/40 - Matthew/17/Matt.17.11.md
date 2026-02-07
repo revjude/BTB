@@ -1,12 +1,12 @@
-**Matthew 17:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:11**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto them, Elias truly shall first come, and restore all things.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Elijah does indeed come, and he will restore all things.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus answering He said to them: Elijah indeed comes first and will restore all things;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.10|<< Matthew 17:10]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.12|Matthew 17:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

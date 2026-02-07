@@ -1,4 +1,4 @@
-**Jeremiah 31:38** 
+**Jeremiah 31:38**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, saith the LORD, that the city shall be built to the LORD from the tower of Hananeel unto the gate of the corner.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, the days come, saith the LORD, that the city shall be built to the LORD 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.37|<< Jeremiah 31:37]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.39|Jeremiah 31:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  [are] coming  [^3]|**<big>&#8207;[[H3117G\|יָמִ֥ים]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H0935G\|בָּאִ֖ים]]&#8207; </big>**[^4] | ya.Mim<small><sup>[[HNcmpa]]</sup></small>   ba.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

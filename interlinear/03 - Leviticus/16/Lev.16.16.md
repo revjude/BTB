@@ -1,4 +1,4 @@
-**Leviticus 16:16** 
+**Leviticus 16:16**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall make an atonement for the holy [place], because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he shall make atonement for the Most Holy Place because of the impurities and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.15|<< Leviticus 16:15]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.17|Leviticus 16:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make atonement  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3722A\|כִפֶּ֣ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.Per<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

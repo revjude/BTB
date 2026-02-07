@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:33** 
 <small><sub>**LXX:**</sub></small>
 for \[the\] bread loaves  in front, and the perpetual sacrifice \[offering\], and for the perpetual whole burnt-offering, of the Sabbaths, of the new moons, for the holidays, and for the holy \[things\], and the \[things\] for a sin \[offering\], to atone for Israel, and for \[the\] works of \[the\] house  of our God. 
-<small><sub>**KJV:**</sub></small>
-For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy [things], and for the sin offerings to make an atonement for Israel, and [for] all the work of the house of our God.
-<small><sub>**BSB:**</sub></small>
-for the showbread, for the regular grain offerings and burnt offerings, for the Sabbath offerings, for the New Moons and appointed feasts, for the holy offerings, for the sin offerings to make atonement for Israel, and for all the duties of the house of our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.32|<< Nehemiah 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.34|Nehemiah 10:34 >>]]</td></tr></table>
 
 | Translation | Greek |

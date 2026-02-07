@@ -6,10 +6,7 @@
 And it came to pass after  Israel was taken captive, and Jerusalem was made desolate, Jeremiah sat down weeping, and he wailed  this lamentation over Jerusalem, and he said, <p style="text-align:center;font-weight:600;">ΑΛΕΦ</p>
 
 How the city being filled with peoples sit alone; she became as a widow, becoming filled among \[the\] nations; ruling in \[the\] regions, she became for tribute. 
-<small><sub>**KJV:**</sub></small>
-How doth the city sit solitary, [that was] full of people! [how] is she become as a widow! she [that was] great among the nations, [and] princess among the provinces, [how] is she become tributary!
-<small><sub>**BSB:**</sub></small>
-How lonely lies the city, once so full of people! She who was great among the nations has become a widow. The princess of the provinces has become a slave.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.34|<< Jeremiah 52:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.2|Lamentations 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

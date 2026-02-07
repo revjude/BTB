@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:25** 
 <small><sub>**LXX:**</sub></small>
 And from the city he took one eunuch who was supervisor of the men of the warriors, and seven famous men of the ones in front of the king, of the ones being found in the city, and the scribe of the forces, the one acting as scribe to the people of the land, and sixty men from out of the people of the land, of the ones being found in \[the\] midst of the city. 
-<small><sub>**KJV:**</sub></small>
-He took also out of the city an eunuch, which had the charge of the men of war; and seven men of them that were near the king’s person, which were found in the city; and the principal scribe of the host, who mustered the people of the land; and threescore men of the people of the land, that were found in the midst of the city.
-<small><sub>**BSB:**</sub></small>
-Of those still in the city, he took a court official who had been appointed over the men of war, as well as seven trusted royal advisers. He also took the scribe of the captain of the army, who had enlisted the people of the land, and sixty men who were found in the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.24|<< Jeremiah 52:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.26|Jeremiah 52:26 >>]]</td></tr></table>
 
 | Translation | Greek |

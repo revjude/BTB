@@ -1,12 +1,12 @@
-**Matthew 6:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:2**<big><big>[[Matt.6.1 Giving to the Needy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore when thou doest [thine] alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.
 <small><sub>**BSB:**</sub></small>
 So when you give to the needy, do not sound a trumpet before you, as the hypocrites do in the synagogues and on the streets, to be honored by men. Truly I tell you, they already have their full reward.
 <small><sub>**Literal:**</sub></small>
 When therefore you may do acts of charity, not may sound a trumpet before you, as the hypocrites do in the synagogues and in the streets so that they may have glory from <the> men. Amen I say to you; they have the reward of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.1|<< Matthew 6:1]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.3|Matthew 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

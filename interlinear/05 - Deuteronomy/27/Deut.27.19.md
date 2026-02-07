@@ -1,4 +1,4 @@
-**Deuteronomy 27:19** 
+**Deuteronomy 27:19**<big><big>[[Deut.27.11 Curses Pronounced from Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] he that perverteth the judgment of the stranger, fatherless, and widow. And all the people shall say, Amen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cursed [be] he that perverteth the judgment of the stranger, fatherless, and wid
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.18|<< Deuteronomy 27:18]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.20|Deuteronomy 27:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] cursed  |**<big>&#8207;[[H0779\|אָר֗וּר]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] turns aside  |**<big>&#8207;[[H5186\|מַטֶּ֛ה]]&#8207; </big>**| ma.Teh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

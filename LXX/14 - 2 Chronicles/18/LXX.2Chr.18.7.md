@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:7** 
 <small><sub>**LXX:**</sub></small>
 And the \[the\] king of Israel said to Jehoshaphat, There is one man  to seek the <span class="smallcaps">lord</span> through him, and I detest him; for he is not prophesying for good \[things\] concerning me, for all  his days \[are\] for bad \[things\]. He is Michaiah son of Imla. And Jehoshaphat said, Let not the king speak thus! 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel said unto Jehoshaphat, [There is] yet one man, by whom we may inquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same [is] Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so.
-<small><sub>**BSB:**</sub></small>
-The king of Israel answered, “There is still one man through whom we can inquire of the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.” “The king should not say that!” Jehoshaphat replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.6|<< 2 Chronicles 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.8|2 Chronicles 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 49:19** 
 <small><sub>**LXX:**</sub></small>
 He shall enter unto \[the\] generation of his fathers; unto \[the\] eon he shall not see light. 
-<small><sub>**KJV:**</sub></small>
-He shall go to the generation of his fathers; they shall never see light.
-<small><sub>**BSB:**</sub></small>
-he will join the generation of his fathers, who will never see the light of day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.18|<< Psalm 49:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.20|Psalm 49:20 >>]]</td></tr></table>
 
 | Translation | Greek |

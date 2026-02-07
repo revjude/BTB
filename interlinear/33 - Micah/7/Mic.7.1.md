@@ -1,4 +1,4 @@
-**Micah 7:1** 
+**Micah 7:1**<big><big>[[Mic.7.1 Israel’s Great Misery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: [there is] no cluster to eat: my soul desired the firstripe fruit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe is me! For I am like one gathering summer fruit at the gleaning of the viney
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.16|<< Micah 6:16]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.2|Micah 7:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe!  |**<big>&#8207;[[H0480\|אַ֣לְלַי]]&#8207; </big>**| 'A.lai<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

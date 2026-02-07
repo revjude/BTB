@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:8** 
 <small><sub>**LXX:**</sub></small>
 The one digging a cesspool shall fall into it; and \[the\] one demolishing a fence \[boundary\], a serpent shall bite him. 
-<small><sub>**KJV:**</sub></small>
-He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.
-<small><sub>**BSB:**</sub></small>
-He who digs a pit may fall into it, and he who breaches a wall may be bitten by a snake.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.7|<< Ecclesiastes 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.9|Ecclesiastes 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

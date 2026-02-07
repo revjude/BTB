@@ -1,4 +1,4 @@
-**Ezekiel 30:3** 
+**Ezekiel 30:3**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the day [is] near, even the day of the LORD [is] near, a cloudy day; it shall be the time of the heathen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the day is near, the Day of the LORD is near. It will be a day of clouds, a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.2|<< Ezekiel 30:2]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.4|Ezekiel 30:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] near  |**<big>&#8207;[[H7138\|קָר֣וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

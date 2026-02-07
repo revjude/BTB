@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:14** 
 <small><sub>**LXX:**</sub></small>
 If you should fear the <span class="smallcaps">lord</span>, and should serve to him, and should hearken to  his voice, and should not contend with the mouth of \[the\] <span class="smallcaps">lord</span>, then you should be (even you yourselves, and the king  reigning over you) going after \[the\] <span class="smallcaps">lord</span> your God. 
-<small><sub>**KJV:**</sub></small>
-If ye will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both ye and also the king that reigneth over you continue following the LORD your God:
-<small><sub>**BSB:**</sub></small>
-If you fear the LORD and serve Him and obey His voice, and if you do not rebel against the command of the LORD, and if both you and the king who rules over you follow the LORD your God, then all will be well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.13|<< 1 Samuel 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.15|1 Samuel 12:15 >>]]</td></tr></table>
 
 | Translation | Greek |

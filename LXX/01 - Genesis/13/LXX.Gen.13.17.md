@@ -1,10 +1,7 @@
 **LXX Genesis 13:17** 
 <small><sub>**LXX:**</sub></small>
 \[In\] rising up, you travel through the land unto both the length of it and unto the width; for to you I shall give it, and \[to\] your seed, into the eon. 
-<small><sub>**KJV:**</sub></small>
-Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.
-<small><sub>**BSB:**</sub></small>
-Get up and walk around the land, through its length and breadth, for I will give it to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.16|<< Genesis 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.18|Genesis 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

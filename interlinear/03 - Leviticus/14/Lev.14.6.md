@@ -1,4 +1,4 @@
-**Leviticus 14:6** 
+**Leviticus 14:6**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird [that was] killed over the running water:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he is to take the live bird together with the cedar wood, scarlet yarn, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.5|<< Leviticus 14:5]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.7|Leviticus 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the bird  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6833\|צִּפֹּ֤ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tzi.Por<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

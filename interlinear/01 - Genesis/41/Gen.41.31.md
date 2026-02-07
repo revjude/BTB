@@ -1,4 +1,4 @@
-**Genesis 41:31** 
+**Genesis 41:31**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the plenty shall not be known in the land by reason of that famine following; for it [shall be] very grievous.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The abundance in the land will not be remembered, since the famine that follows 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.30|<< Genesis 41:30]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.32|Genesis 41:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be known  |**<big>&#8207;[[H3045\|יִוָּדַ֤ע]]&#8207; </big>**| yi.va.Da'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

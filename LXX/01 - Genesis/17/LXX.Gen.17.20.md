@@ -1,10 +1,7 @@
 **LXX Genesis 17:20** 
 <small><sub>**LXX:**</sub></small>
 And concerning Ishmael, behold, I heeded you. And behold, I shall bless him, and I will increase him, and I will multiply him exceedingly. Twelve nations he will procreate, and I will make him for a great nation. 
-<small><sub>**KJV:**</sub></small>
-And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation.
-<small><sub>**BSB:**</sub></small>
-As for Ishmael, I have heard you, and I will surely bless him; I will make him fruitful and multiply him greatly. He will become the father of twelve rulers, and I will make him into a great nation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.19|<< Genesis 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.21|Genesis 17:21 >>]]</td></tr></table>
 
 | Translation | Greek |

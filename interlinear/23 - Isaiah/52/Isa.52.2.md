@@ -1,4 +1,4 @@
-**Isaiah 52:2** 
+**Isaiah 52:2**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shake thyself from the dust; arise, [and] sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shake off your dust! Rise up and sit on your throne, O Jerusalem. Remove the cha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.1|<< Isaiah 52:1]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.3|Isaiah 52:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shake yourself free  |**<big>&#8207;[[H5287\|הִתְנַעֲרִ֧י]]&#8207; </big>**| hit.na.'a.Ri<small><sup>[[HVtv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] dust  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6083\|עָפָ֛ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

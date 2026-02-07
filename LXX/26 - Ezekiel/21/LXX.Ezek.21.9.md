@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:9** 
 <small><sub>**LXX:**</sub></small>
 O son of man, prophesy! And you shall say, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Say, O broadsword, O broadsword, sharpen and be enraged! 
-<small><sub>**KJV:**</sub></small>
-Son of man, prophesy, and say, Thus saith the LORD; Say, A sword, a sword is sharpened, and also furbished:
-<small><sub>**BSB:**</sub></small>
-“Son of man, prophesy and tell them that this is what the Lord says: ‘A sword, a sword, sharpened and polished—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.8|<< Ezekiel 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.10|Ezekiel 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

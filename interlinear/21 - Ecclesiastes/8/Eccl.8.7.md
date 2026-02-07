@@ -1,4 +1,4 @@
-**Ecclesiastes 8:7** 
+**Ecclesiastes 8:7**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he knoweth not that which shall be: for who can tell him when it shall be?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Since no one knows what will happen, who can tell him what is to come?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.6|<< Ecclesiastes 8:6]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.8|Ecclesiastes 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not he  |**<big>&#8207;[[H0369\|אֵינֶ֥]]&#8207;&#8207;[[H9043\|נּוּ]]&#8207; </big>**| 'ei.Ne.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

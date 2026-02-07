@@ -1,10 +1,7 @@
 **LXX Numbers 32:4** 
 <small><sub>**LXX:**</sub></small>
 the land which \[the\] <span class="smallcaps">lord</span> delivered up before the sons of Israel, is land for grazing cattle, and  your servants subsist on cattle. 
-<small><sub>**KJV:**</sub></small>
-[Even] the country which the LORD smote before the congregation of Israel, [is] a land for cattle, and thy servants have cattle:
-<small><sub>**BSB:**</sub></small>
-which the LORD conquered before the congregation of Israel, are suitable for livestock—and your servants have livestock.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.3|<< Numbers 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.5|Numbers 32:5 >>]]</td></tr></table>
 
 | Translation | Greek |

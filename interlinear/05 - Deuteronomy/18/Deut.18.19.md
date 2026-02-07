@@ -1,4 +1,4 @@
-**Deuteronomy 18:19** 
+**Deuteronomy 18:19**<big><big>[[Deut.18.15 A Prophet Like Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] whosoever will not hearken unto my words which he shall speak in my name, I will require [it] of him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And I will hold accountable anyone who does not listen to My words that the prop
 > $\quad$ referenced by: [[Acts.3.22|Acts 3:22-23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the person  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִישׁ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

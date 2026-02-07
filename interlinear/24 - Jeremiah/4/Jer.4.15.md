@@ -1,4 +1,4 @@
-**Jeremiah 4:15** 
+**Jeremiah 4:15**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a voice declareth from Dan, and publisheth affliction from mount Ephraim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For a voice resounds from Dan, proclaiming disaster from the hills of Ephraim.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.14|<< Jeremiah 4:14]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.16|Jeremiah 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a voice  |**<big>&#8207;[[H6963A\|ק֥וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

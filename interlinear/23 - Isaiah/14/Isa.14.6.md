@@ -1,4 +1,4 @@
-**Isaiah 14:6** 
+**Isaiah 14:6**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, [and] none hindereth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It struck the peoples in anger with unceasing blows; it subdued the nations in r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.5|<< Isaiah 14:5]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.7|Isaiah 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [which] struck  |**<big>&#8207;[[H5221\|מַכֶּ֤ה]]&#8207; </big>**| ma.Keh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peoples  |**<big>&#8207;[[H5971A\|עַמִּים֙]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

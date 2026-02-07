@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now fear the <span class="smallcaps">lord</span>, and serve him in straightness and in righteousness, and remove the alien gods which your fathers served on the other side of the river, and in Egypt, and serve to the <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Now therefore fear the LORD, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the LORD.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, fear the LORD and serve Him in sincerity and truth; cast aside the gods your fathers served beyond the Euphrates and in Egypt, and serve the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.13|<< Joshua 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.15|Joshua 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

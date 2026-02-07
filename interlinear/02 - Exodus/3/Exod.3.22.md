@@ -1,4 +1,4 @@
-**Exodus 3:22** 
+**Exodus 3:22**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put [them] upon your sons, and upon your daughters; and ye shall spoil the Egyptians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every woman shall ask her neighbor and any woman staying in her house for silver
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.21|<< Exodus 3:21]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.1|Exodus 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she will ask  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7592\|שָׁאֲלָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.'a.Lah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [each] woman  |**<big>&#8207;[[H0802G\|אִשָּׁ֤ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

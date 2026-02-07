@@ -1,4 +1,4 @@
-**Isaiah 63:11** 
+**Isaiah 63:11**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he remembered the days of old, Moses, [and] his people, [saying], Where [is] he that brought them up out of the sea with the shepherd of his flock? where [is] he that put his holy Spirit within him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then His people remembered the days of old, the days of Moses. Where is He who b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.10|<< Isaiah 63:10]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.12|Isaiah 63:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it remembered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2142\|יִּזְכֹּ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Kor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] days of  |**<big>&#8207;[[H3117G\|יְמֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.mei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

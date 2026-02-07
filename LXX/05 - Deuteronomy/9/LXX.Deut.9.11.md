@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:11** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass through forty days and through forty nights, \[the\] <span class="smallcaps">lord</span> gave to me the two tablets  of stone -- tablets of covenant. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the end of forty days and forty nights, [that] the LORD gave me the two tables of stone, [even] the tables of the covenant.
-<small><sub>**BSB:**</sub></small>
-And at the end of forty days and forty nights, the LORD gave me the two stone tablets, the tablets of the covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.10|<< Deuteronomy 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.12|Deuteronomy 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

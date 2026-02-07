@@ -1,4 +1,4 @@
-**Ruth 1:21** 
+**Ruth 1:21**<big><big>[[Ruth.1.19 The Return to Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went out full, and the LORD hath brought me home again empty: why [then] call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I went away full, but the LORD has brought me back empty. Why call me Naomi? Aft
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.20|<< Ruth 1:20]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.22|Ruth 1:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | full  |**<big>&#8207;[[H4392\|מְלֵאָ֣ה]]&#8207; </big>**| me.le.'Ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

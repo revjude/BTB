@@ -1,4 +1,4 @@
-**2 Chronicles 7:14** 
+**2 Chronicles 7:14**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if My people who are called by My name humble themselves and pray and seek M
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.13|<< 2 Chronicles 7:13]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.15|2 Chronicles 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may humble themselves  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3665\|יִכָּנְע֨וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.ka.ne.'U<small><sup>[[HVNu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people my  |**<big>&#8207;[[H5971A\|עַמִּ֜]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

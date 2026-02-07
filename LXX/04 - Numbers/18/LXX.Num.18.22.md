@@ -1,10 +1,7 @@
 **LXX Numbers 18:22** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel shall not come forward still into the tent of the testimony, \[so as\] to take on sin causing death. 
-<small><sub>**KJV:**</sub></small>
-Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die.
-<small><sub>**BSB:**</sub></small>
-No longer may the Israelites come near to the Tent of Meeting, or they will incur guilt and die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.21|<< Numbers 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.23|Numbers 18:23 >>]]</td></tr></table>
 
 | Translation | Greek |

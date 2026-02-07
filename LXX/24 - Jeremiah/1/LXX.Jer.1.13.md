@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] word \[of the\] <span class="smallcaps">lord</span> came to pass of a second \[time\] to me, saying, What \[do\] you see? and I said, A kettle being fired up, and the face of it towards \[the\] face of \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And the word of the LORD came unto me the second time, saying, What seest thou? And I said, I see a seething pot; and the face thereof [is] toward the north.
-<small><sub>**BSB:**</sub></small>
-Again the word of the LORD came to me, asking, “What do you see?” “I see a boiling pot,” I replied, “and it is tilting toward us from the north.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.12|<< Jeremiah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.14|Jeremiah 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

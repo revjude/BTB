@@ -1,4 +1,4 @@
-**Leviticus 26:27** 
+**Leviticus 26:27**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye will not for all this hearken unto me, but walk contrary unto me;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if in spite of all this you do not obey Me, but continue to walk in hostilit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.26|<< Leviticus 26:26]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.28|Leviticus 26:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִ֨ם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in this  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2063\|זֹ֔את]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

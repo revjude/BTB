@@ -1,10 +1,7 @@
 **LXX Joel 2:7** 
 <small><sub>**LXX:**</sub></small>
 As warriors, they shall run; and as men of war, they shall ascend upon the walls; and each in  his way shall go, and no way shall they turn aside from  their roads. 
-<small><sub>**KJV:**</sub></small>
-They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:
-<small><sub>**BSB:**</sub></small>
-They charge like mighty men; they scale the walls like men of war. Each one marches in formation, not swerving from the course.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.6|<< Joel 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.8|Joel 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

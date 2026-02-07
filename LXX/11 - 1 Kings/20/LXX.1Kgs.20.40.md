@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:40** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as  your servant looked round about here \[this way\] and here \[that way\], that this \[man\] was not \[around\]. And the king of Israel said to him, Behold, you \[are the\] magistrate, you murdered for me. 
-<small><sub>**KJV:**</sub></small>
-And as thy servant was busy here and there, he was gone. And the king of Israel said unto him, So [shall] thy judgment [be]; thyself hast decided [it].
-<small><sub>**BSB:**</sub></small>
-But while your servant was busy here and there, the man disappeared.” And the king of Israel said to him, “So shall your judgment be; you have pronounced it on yourself.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.39|<< 1 Kings 20:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.41|1 Kings 20:41 >>]]</td></tr></table>
 
 | Translation | Greek |

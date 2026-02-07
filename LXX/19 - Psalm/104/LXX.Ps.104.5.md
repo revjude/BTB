@@ -1,10 +1,7 @@
 **LXX Psalm 104:5** 
 <small><sub>**LXX:**</sub></small>
 the one laying the foundation for the earth in  its stability (it shall not lean into the eon of the eon); 
-<small><sub>**KJV:**</sub></small>
-[Who] laid the foundations of the earth, [that] it should not be removed for ever.
-<small><sub>**BSB:**</sub></small>
-He set the earth on its foundations, never to be moved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.4|<< Psalm 104:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.6|Psalm 104:6 >>]]</td></tr></table>
 
 | Translation | Greek |

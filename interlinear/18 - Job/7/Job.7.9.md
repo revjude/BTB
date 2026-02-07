@@ -1,4 +1,4 @@
-**Job 7:9** 
+**Job 7:9**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] the cloud is consumed and vanisheth away: so he that goeth down to the grave shall come up no [more].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As a cloud vanishes and is gone, so he who goes down to Sheol does not come back
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.8|<< Job 7:8]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.10|Job 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it vanishes  |**<big>&#8207;[[H3615J\|כָּלָ֣ה]]&#8207; </big>**| ka.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cloud  |**<big>&#8207;[[H6051\|עָ֭נָן]]&#8207; </big>**| 'A.non<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

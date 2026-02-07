@@ -1,4 +1,4 @@
-**Isaiah 40:9** 
+**Isaiah 40:9**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift [it] up, be not afraid; say unto the cities of Judah, Behold your God!
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Go up on a high mountain, O Zion, herald of good news. Raise your voice loudly, 
 > $\quad$ referenced by: [[John.12.15|John 12:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַ֣ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a mountain  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

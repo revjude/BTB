@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:20** 
 <small><sub>**LXX:**</sub></small>
 Shall evils be recompensed for good \[things\], \[no\]. For they conversed together things against  my soul. Remember my standing in front of you!  to speak good for them,  to turn  your rage from them. 
-<small><sub>**KJV:**</sub></small>
-Shall evil be recompensed for good? for they have digged a pit for my soul. Remember that I stood before thee to speak good for them, [and] to turn away thy wrath from them.
-<small><sub>**BSB:**</sub></small>
-Should good be repaid with evil? Yet they have dug a pit for me. Remember how I stood before You to speak good on their behalf, to turn Your wrath from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.19|<< Jeremiah 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.21|Jeremiah 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

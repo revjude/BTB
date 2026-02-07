@@ -1,5 +1,5 @@
-**Mark 11:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:17**<big><big>[[Mark.11.15 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he taught, saying unto them, Is it not written, My house shall be called of all nations the house of prayer? but ye have made it a den of thieves.
 <small><sub>**BSB:**</sub></small>
 Then Jesus began to teach them, and He declared, “Is it not written: ‘My house will be called a house of prayer for all the nations’? But you have made it ‘a den of robbers.’”
@@ -10,7 +10,7 @@ And He was teaching and was saying to them; Surely it has been written that The 
 > $\quad$ referencing: [[LXX.Isa.56.7|Isa 56:7]] ☩ [[LXX.Jer.7.11|Jer 7:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was teaching |**<big>[[G1321\|ἐδίδασκεν]]</big>**  |edidasken <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

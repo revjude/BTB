@@ -1,12 +1,12 @@
-**Acts 24:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:27**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But after two years Porcius Festus came into Felix’ room: and Felix, willing to shew the Jews a pleasure, left Paul bound.
 <small><sub>**BSB:**</sub></small>
 After two years had passed, Felix was succeeded by Porcius Festus. And wishing to do the Jews a favor, Felix left Paul in prison.
 <small><sub>**Literal:**</sub></small>
 When two years however having been completed he received [as] successor <the> Felix Porcius Festus, wishing then favor to acquire for himself with the Jews <the> Felix left <the> Paul imprisoned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.26|<< Acts 24:26]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.1|Acts 25:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When two years |**<big>[[G1333\|Διετίας]]</big>**  |Dietias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

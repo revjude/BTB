@@ -1,4 +1,4 @@
-**Job 22:9** 
+**Job 22:9**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast sent widows away empty, and the arms of the fatherless have been broken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You sent widows away empty-handed, and the strength of the fatherless was crushe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.8|<< Job 22:8]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.10|Job 22:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | widows  |**<big>&#8207;[[H0490\|אַ֭לְמָנוֹת]]&#8207; </big>**| 'Al.ma.not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have sent away  |**<big>&#8207;[[H7971G\|שִׁלַּ֣חְתָּ]]&#8207; </big>**| shi.Lach.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

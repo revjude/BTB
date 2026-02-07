@@ -1,4 +1,4 @@
-**Deuteronomy 4:38** 
+**Deuteronomy 4:38**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To drive out nations from before thee greater and mightier than thou [art], to bring thee in, to give thee their land [for] an inheritance, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to drive out before you nations greater and mightier than you, and to bring you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.37|<< Deuteronomy 4:37]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.39|Deuteronomy 4:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to dispossess  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3423H\|הוֹרִ֗ישׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ho.Rish<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גּוֹיִ֛ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

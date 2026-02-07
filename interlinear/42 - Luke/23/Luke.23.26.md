@@ -1,12 +1,12 @@
-**Luke 23:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:26**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear [it] after Jesus.
 <small><sub>**BSB:**</sub></small>
 As the soldiers led Him away, they seized Simon of Cyrene on his way in from the country, and they put the cross on him to carry behind Jesus.
 <small><sub>**Literal:**</sub></small>
 And as they led away Him, having laid hold on Simon a certain from Cyrene who is coming from [the] country they put upon him the cross to carry behind <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.25|<< Luke 23:25]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.27|Luke 23:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Proverbs 28:26** 
 <small><sub>**LXX:**</sub></small>
 \[The\] one who yields to a rash heart,  such a one is a fool; but \[the\] one who goes in wisdom shall be delivered. 
-<small><sub>**KJV:**</sub></small>
-He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.
-<small><sub>**BSB:**</sub></small>
-He who trusts in himself is a fool, but one who walks in wisdom will be safe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.25|<< Proverbs 28:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.27|Proverbs 28:27 >>]]</td></tr></table>
 
 | Translation | Greek |

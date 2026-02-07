@@ -1,4 +1,4 @@
-**Leviticus 25:6** 
+**Leviticus 25:6**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whatever the land yields during the Sabbath year shall be food for you—for you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.5|<< Leviticus 25:5]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.7|Leviticus 25:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will belong  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H1961\|הָיְתָה]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> hay.tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sabbath of  |**<big>&#8207;[[H7676\|שַׁבַּ֨ת]]&#8207; </big>**| sha.Bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

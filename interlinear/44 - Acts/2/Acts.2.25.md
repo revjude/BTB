@@ -1,5 +1,5 @@
-**Acts 2:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:25**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
 <small><sub>**BSB:**</sub></small>
 David says about Him: ‘I saw the Lord always before me; because He is at my right hand, I will not be shaken.
@@ -10,7 +10,7 @@ David for says about Him: I was foresseeing the Lord before me through all [time
 > $\quad$ referencing: [[LXX.Ps.16.8|Ps 16:8-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | David |**<big>[[G1138\|Δαυὶδ]]</big>**  [^1] [^2] |Dauid <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

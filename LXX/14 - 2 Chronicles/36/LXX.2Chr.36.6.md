@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 36:6** 
 <small><sub>**LXX:**</sub></small>
 And Nebuchadnezzar king of Babylon ascended against him, and bound him in brass shackles, and took him into Babylon. 
-<small><sub>**KJV:**</sub></small>
-Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.
-<small><sub>**BSB:**</sub></small>
-Then Nebuchadnezzar king of Babylon came up against Jehoiakim and bound him with bronze shackles to take him to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.5|<< 2 Chronicles 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.7|2 Chronicles 36:7 >>]]</td></tr></table>
 
 | Translation | Greek |

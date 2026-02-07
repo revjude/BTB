@@ -1,10 +1,7 @@
 **LXX Psalm 143:7** 
 <small><sub>**LXX:**</sub></small>
 Quickly listen to me! O <span class="smallcaps">lord</span>, my spirit fails. You should not turn  your face from me, so that I shall be like the ones going down into \[the\] pit. 
-<small><sub>**KJV:**</sub></small>
-Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.
-<small><sub>**BSB:**</sub></small>
-Answer me quickly, O LORD; my spirit fails. Do not hide Your face from me, or I will be like those who descend to the Pit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.143.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.143.6|<< Psalm 143:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.143.8|Psalm 143:8 >>]]</td></tr></table>
 
 | Translation | Greek |

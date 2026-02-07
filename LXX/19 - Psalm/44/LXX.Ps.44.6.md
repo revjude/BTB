@@ -1,10 +1,7 @@
 **LXX Psalm 44:6** 
 <small><sub>**LXX:**</sub></small>
 For not upon  my bow will I hope; and  my broadsword will not deliver me. 
-<small><sub>**KJV:**</sub></small>
-For I will not trust in my bow, neither shall my sword save me.
-<small><sub>**BSB:**</sub></small>
-For I do not trust in my bow, nor does my sword save me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.5|<< Psalm 44:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.7|Psalm 44:7 >>]]</td></tr></table>
 
 | Translation | Greek |

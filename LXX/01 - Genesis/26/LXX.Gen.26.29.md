@@ -1,10 +1,7 @@
 **LXX Genesis 26:29** 
 <small><sub>**LXX:**</sub></small>
 You shall not do evil with us, in so far as we did not abhor you, and which manner we treated you well, and we sent you out in peace. And now, you are being blessed by \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou [art] now the blessed of the LORD.
-<small><sub>**BSB:**</sub></small>
-that you will not harm us, just as we have not harmed you but have done only good to you, sending you on your way in peace. And now you are blessed by the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.28|<< Genesis 26:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.30|Genesis 26:30 >>]]</td></tr></table>
 
 | Translation | Greek |

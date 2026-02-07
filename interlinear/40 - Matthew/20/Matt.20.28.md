@@ -1,12 +1,12 @@
-**Matthew 20:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:28**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
 <small><sub>**BSB:**</sub></small>
 just as the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”
 <small><sub>**Literal:**</sub></small>
 even as the Son <the> of Man not came to be served but to serve and to give the life of Him [as] a ransom for many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.27|<< Matthew 20:27]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.29|Matthew 20:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

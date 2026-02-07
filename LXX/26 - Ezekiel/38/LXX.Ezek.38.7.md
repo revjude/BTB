@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:7** 
 <small><sub>**LXX:**</sub></small>
 Be prepared! Prepare yourself! you and all  your gathering  being brought together with you. And you will be to me for an advance guard. 
-<small><sub>**KJV:**</sub></small>
-Be thou prepared, and prepare for thyself, thou, and all thy company that are assembled unto thee, and be thou a guard unto them.
-<small><sub>**BSB:**</sub></small>
-Get ready; prepare yourself, you and all your company gathered around you; you will be their guard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.6|<< Ezekiel 38:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.8|Ezekiel 38:8 >>]]</td></tr></table>
 
 | Translation | Greek |

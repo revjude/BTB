@@ -1,4 +1,4 @@
-**2 Chronicles 33:24** 
+**2 Chronicles 33:24**<big><big>[[2Chr.33.21 Amon Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his servants conspired against him, and slew him in his own house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the servants of Amon conspired against him and killed him in his palace.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.23|<< 2 Chronicles 33:23]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.25|2 Chronicles 33:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they conspired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7194\|יִּקְשְׁר֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.she.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

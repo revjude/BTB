@@ -1,5 +1,5 @@
-**Hebrews 7:21
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:21**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou [art] a priest for ever after the order of Melchisedec:)
 <small><sub>**BSB:**</sub></small>
 but Jesus became a priest with an oath by the One who said to Him: “The Lord has sworn and will not change His mind: ‘You are a priest forever.’”
@@ -10,7 +10,7 @@ but Jesus became a priest with an oath by the One who said to Him: “The Lord h
 > $\quad$ referencing: [[LXX.Ps.110.4|Ps 110:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [He] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

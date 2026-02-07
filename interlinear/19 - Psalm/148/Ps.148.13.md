@@ -1,4 +1,4 @@
-**Psalms 148:13** 
+**Psalms 148:13**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them praise the name of the LORD: for his name alone is excellent; his glory [is] above the earth and heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let them praise the name of the LORD, for His name alone is exalted; His splendo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.12|<< Psalms 148:12]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.14|Psalms 148:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them praise  |**<big>&#8207;[[H1984B\|יְהַלְל֤וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.ha.Lu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

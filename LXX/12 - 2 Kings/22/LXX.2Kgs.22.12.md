@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:12** 
 <small><sub>**LXX:**</sub></small>
 And the king gave charge \[to\] Hilkiah the priest, and \[to\] Ahikam son of Shaphan, and \[to\] Achbor son of Michaiah, and \[to\] Shaphan the scribe, and \[to\] Asahiah the servant of the king, saying, 
-<small><sub>**KJV:**</sub></small>
-And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king’s, saying,
-<small><sub>**BSB:**</sub></small>
-and commanded Hilkiah the priest, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the scribe, and Asaiah the servant of the king:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.11|<< 2 Kings 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.13|2 Kings 22:13 >>]]</td></tr></table>
 
 | Translation | Greek |

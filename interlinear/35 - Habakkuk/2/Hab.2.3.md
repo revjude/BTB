@@ -1,4 +1,4 @@
-**Habakkuk 2:3** 
+**Habakkuk 2:3**<big><big>[[Hab.2.1 The LORD Answers Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the vision [is] yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the vision awaits an appointed time; it testifies of the end and does not li
 > $\quad$ referenced by: [[Heb.10.37|Heb 10:37-38]] ☩ [[Rev.22.20|Rev 22:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | still  |**<big>&#8207;[[H5750\|ע֤וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

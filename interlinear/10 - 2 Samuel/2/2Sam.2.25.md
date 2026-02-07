@@ -1,4 +1,4 @@
-**2 Samuel 2:25** 
+**2 Samuel 2:25**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Benjamin gathered themselves together after Abner, and became one troop, and stood on the top of an hill.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Benjamites rallied to Abner, formed a single unit, and took their stand atop
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.24|<< 2 Samuel 2:24]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.26|2 Samuel 2:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered together  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּֽתְקַבְּצ֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ka.be.Tzu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

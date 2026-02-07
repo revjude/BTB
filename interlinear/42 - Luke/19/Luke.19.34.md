@@ -1,12 +1,12 @@
-**Luke 19:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:34**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said, The Lord hath need of him.
 <small><sub>**BSB:**</sub></small>
 “The Lord needs it,” they answered.
 <small><sub>**Literal:**</sub></small>
 <the> And they said: that The Lord of it need has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.33|<< Luke 19:33]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.35|Luke 19:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

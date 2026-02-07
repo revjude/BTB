@@ -1,4 +1,4 @@
-**Joshua 15:9** 
+**Joshua 15:9**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border was drawn from the top of the hill unto the fountain of the water of Nephtoah, and went out to the cities of mount Ephron; and the border was drawn to Baalah, which [is] Kirjathjearim:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the hilltop the border curved to the spring of the Waters of Nephtoah, proc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.8|<< Joshua 15:8]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.10|Joshua 15:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it turns  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8388A\|תָאַ֨ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.'Ar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּב֜וּל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

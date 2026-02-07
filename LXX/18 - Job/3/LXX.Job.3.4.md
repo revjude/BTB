@@ -1,10 +1,7 @@
 **LXX Job 3:4** 
 <small><sub>**LXX:**</sub></small>
  be that night darkness, and out the <span class="smallcaps">lord</span> not it from above, nor brightness come into it. 
-<small><sub>**KJV:**</sub></small>
-Let that day be darkness; let not God regard it from above, neither let the light shine upon it.
-<small><sub>**BSB:**</sub></small>
-If only that day had turned to darkness! May God above disregard it; may no light shine upon it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.3|<< Job 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.5|Job 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

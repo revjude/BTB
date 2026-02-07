@@ -1,4 +1,4 @@
-**Ezekiel 20:24** 
+**Ezekiel 20:24**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they had not executed my judgments, but had despised my statutes, and had polluted my sabbaths, and their eyes were after their fathers’ idols.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they did not practice My ordinances, but they rejected My statutes and profa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.23|<< Ezekiel 20:23]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.25|Ezekiel 20:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H3282\|יַ֜עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judgments my  |**<big>&#8207;[[H4941G\|מִשְׁפָּטַ֤]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mish.pa.Ta<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

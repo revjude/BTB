@@ -1,4 +1,4 @@
-**Leviticus 14:51** 
+**Leviticus 14:51**<big><big>[[Lev.14.48 Cleansing a Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he shall take the cedar wood, the hyssop, the scarlet yarn, and the live bi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.50|<< Leviticus 14:50]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.52|Leviticus 14:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַ֣ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

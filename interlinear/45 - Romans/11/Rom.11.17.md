@@ -1,12 +1,12 @@
-**Romans 11:17
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:17**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if some of the branches be broken off, and thou, being a wild olive tree, wert graffed in among them, and with them partakest of the root and fatness of the olive tree;
 <small><sub>**BSB:**</sub></small>
 Now if some branches have been broken off, and you, a wild olive shoot, have been grafted in among the others to share in the nourishment of the olive root,
 <small><sub>**Literal:**</sub></small>
 If however some of the branches were broken off, you yourself now a wild olive tree being you were grafted in among them and a fellow-partaker of the root and of the fatness of the olive tree you have become,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.16|<< Romans 11:16]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.18|Romans 11:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 5:8** 
+**Exodus 5:8**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish [ought] thereof: for they [be] idle; therefore they cry, saying, Let us go [and] sacrifice to our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But require of them the same quota of bricks as before; do not reduce it. For th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.7|<< Exodus 5:7]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.9|Exodus 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] measurement of  |**<big>&#8207;[[H4971\|מַתְכֹּ֨נֶת]]&#8207; </big>**| mat.Ko.net<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

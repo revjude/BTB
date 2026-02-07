@@ -1,4 +1,4 @@
-**Deuteronomy 28:18** 
+**Deuteronomy 28:18**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [shall be] the fruit of thy body, and the fruit of thy land, the increase of thy kine, and the flocks of thy sheep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fruit of your womb will be cursed, as well as the produce of your land, the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.17|<< Deuteronomy 28:17]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.19|Deuteronomy 28:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [will be] cursed  |**<big>&#8207;[[H0779\|אָר֥וּר]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fruit of  |**<big>&#8207;[[H6529\|פְּרִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.ri-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

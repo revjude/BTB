@@ -1,4 +1,4 @@
-**Deuteronomy 22:18** 
+**Deuteronomy 22:18**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the elders of that city shall take that man and chastise him;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the elders of that city shall take the man and punish him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.17|<< Deuteronomy 22:17]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.19|Deuteronomy 22:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָֽקְח֛וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.ke.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] elders of  |**<big>&#8207;[[H2205G\|זִקְנֵ֥י]]&#8207; </big>**| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

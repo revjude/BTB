@@ -1,4 +1,4 @@
-**Numbers 24:23** 
+**Numbers 24:23**<big><big>[[Num.24.20 Balaam’s Final Three Oracles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took up his parable, and said, Alas, who shall live when God doeth this!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once more Balaam lifted up an oracle, saying: “Ah, who can live unless God has
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.22|<< Numbers 24:22]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.24|Numbers 24:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375N\|יִּשָּׂ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | oracle his  |**<big>&#8207;[[H4912\|מְשָׁל֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| me.sha.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

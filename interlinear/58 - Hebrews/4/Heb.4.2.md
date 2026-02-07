@@ -1,12 +1,12 @@
-**Hebrews 4:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:2**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard [it].
 <small><sub>**BSB:**</sub></small>
 For we also received the good news just as they did; but the message they heard was of no value to them, since they did not share the faith of those who comprehended it.
 <small><sub>**Literal:**</sub></small>
 And for we are  evangelised just as also they [were]; but not did profit the message <the> of [their] hearing them not united with the faith of those having heard.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.1|<< Hebrews 4:1]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.3|Hebrews 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

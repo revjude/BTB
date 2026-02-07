@@ -1,12 +1,12 @@
-**1 Corinthians 8:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:12**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.
 <small><sub>**BSB:**</sub></small>
 By sinning against your brothers in this way and wounding their weak conscience, you sin against Christ.
 <small><sub>**Literal:**</sub></small>
 Thus then sinning against the brothers and wounding their <the> conscience being weak, against Christ you sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.11|<< 1 Corinthians 8:11]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.13|1 Corinthians 8:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

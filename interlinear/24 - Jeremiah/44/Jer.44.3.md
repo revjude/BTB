@@ -1,4 +1,4 @@
-**Jeremiah 44:3** 
+**Jeremiah 44:3**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, [and] to serve other gods, whom they knew not, [neither] they, ye, nor your fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ because of the evil they have done. They provoked Me to anger by continuing to b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.2|<< Jeremiah 44:2]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.4|Jeremiah 44:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<from> because of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440I\|פְּנֵ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wickedness their  |**<big>&#8207;[[H7451I\|רָעָתָ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ra.'a.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

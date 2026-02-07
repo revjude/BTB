@@ -1,4 +1,4 @@
-**1 Kings 12:23** 
+**1 Kings 12:23**<big><big>[[1Kgs.12.20 Shemaiah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remnant of the people, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.22|<< 1 Kings 12:22]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.24|1 Kings 12:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אֱמֹ֗ר]]&#8207; </big>**| 'e.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

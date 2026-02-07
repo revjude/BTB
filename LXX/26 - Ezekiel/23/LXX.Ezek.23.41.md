@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:41** 
 <small><sub>**LXX:**</sub></small>
 and you sat down upon a bed being a spread out, and a table being adorned before it; and  my incense and  my oil you put before them, and they were glad in them. 
-<small><sub>**KJV:**</sub></small>
-And satest upon a stately bed, and a table prepared before it, whereupon thou hast set mine incense and mine oil.
-<small><sub>**BSB:**</sub></small>
-You sat on a couch of luxury with a table spread before it, on which you had set My incense and My oil,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.40|<< Ezekiel 23:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.42|Ezekiel 23:42 >>]]</td></tr></table>
 
 | Translation | Greek |

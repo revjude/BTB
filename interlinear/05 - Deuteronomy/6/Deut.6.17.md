@@ -1,4 +1,4 @@
-**Deuteronomy 6:17** 
+**Deuteronomy 6:17**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to diligently keep the commandments of the LORD your God and the testimo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.16|<< Deuteronomy 6:16]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.18|Deuteronomy 6:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to keep>  |**<big>&#8207;[[H8104J\|שָׁמ֣וֹר]]&#8207; </big>**| sha.Mor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will keep !  |**<big>&#8207;[[H8104G\|תִּשְׁמְר֔וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| tish.me.Ru<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

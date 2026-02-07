@@ -1,12 +1,12 @@
-**Acts 26:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:27**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 King Agrippa, believest thou the prophets? I know that thou believest.
 <small><sub>**BSB:**</sub></small>
 King Agrippa, do you believe the prophets? I know you do.”
 <small><sub>**Literal:**</sub></small>
 Believe you, King Agrippa, in the prophets? I know that you believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.26|<< Acts 26:26]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.28|Acts 26:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Believe you, |**<big>[[G4100\|πιστεύεις,]]</big>**  |pisteueis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | King |**<big>[[G0935\|βασιλεῦ]]</big>**  |basileu <small><sup>[[N-VSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

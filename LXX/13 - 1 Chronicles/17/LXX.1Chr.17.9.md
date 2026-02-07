@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:9** 
 <small><sub>**LXX:**</sub></small>
 And I shall establish a place  for my people Israel, and I will plant him, and he shall encamp by himself, and he shall not be disturbed any longer; and \[the\] son of iniquity shall not proceed  to humble him as from \[the\] beginning. 
-<small><sub>**KJV:**</sub></small>
-Also I will ordain a place for my people Israel, and will plant them, and they shall dwell in their place, and shall be moved no more; neither shall the children of wickedness waste them any more, as at the beginning,
-<small><sub>**BSB:**</sub></small>
-And I will provide a place for My people Israel and will plant them so that they may dwell in a place of their own and be disturbed no more. No longer will the sons of wickedness oppress them as they did at the beginning<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.8|<< 1 Chronicles 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.10|1 Chronicles 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

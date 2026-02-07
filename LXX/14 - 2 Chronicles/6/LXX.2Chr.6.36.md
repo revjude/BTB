@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:36** 
 <small><sub>**LXX:**</sub></small>
 For they shall sin against you, (for there is not a man who shall not sin,) and if enraged over them, and you should deliver them before \[the\] face of \[the\] enemies, and the ones capturing shall take them captive into a land far or near; 
-<small><sub>**KJV:**</sub></small>
-If they sin against thee, (for [there is] no man which sinneth not,) and thou be angry with them, and deliver them over before [their] enemies, and they carry them away captives unto a land far off or near;
-<small><sub>**BSB:**</sub></small>
-When they sin against You—for there is no one who does not sin—and You become angry with them and deliver them to an enemy who takes them as captives to a land far or near,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.35|<< 2 Chronicles 6:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.37|2 Chronicles 6:37 >>]]</td></tr></table>
 
 | Translation | Greek |

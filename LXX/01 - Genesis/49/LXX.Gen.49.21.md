@@ -1,10 +1,7 @@
 **LXX Genesis 49:21** 
 <small><sub>**LXX:**</sub></small>
 Naphtali, a trunk springing up giving beauty in the offspring. 
-<small><sub>**KJV:**</sub></small>
-Naphtali [is] a hind let loose: he giveth goodly words.
-<small><sub>**BSB:**</sub></small>
-Naphtali is a doe set free that bears beautiful fawns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.20|<< Genesis 49:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.22|Genesis 49:22 >>]]</td></tr></table>
 
 | Translation | Greek |

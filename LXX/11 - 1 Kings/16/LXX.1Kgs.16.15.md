@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:15** 
 <small><sub>**LXX:**</sub></small>
 In the twentieth and seventh year of Asa king of Judah, Zimri reigned in Tizrah seven days. And the camp of Israel \[was\] upon Gibbethon the \[city\] of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people [were] encamped against Gibbethon, which [belonged] to the Philistines.
-<small><sub>**BSB:**</sub></small>
-In the twenty-seventh year of Asa’s reign over Judah, Zimri reigned in Tirzah for seven days. Now the troops were encamped against Gibbethon of the Philistines,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.14|<< 1 Kings 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.16|1 Kings 16:16 >>]]</td></tr></table>
 
 | Translation | Greek |

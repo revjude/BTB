@@ -1,4 +1,4 @@
-**Daniel 8:13** 
+**Daniel 8:13**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I heard one saint speaking, and another saint said unto that certain [saint] which spake, How long [shall be] the vision [concerning] the daily [sacrifice], and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then I heard a holy one speaking, and another holy one said to him, “How long 
 > $\quad$ referenced by: [[Matt.24.15|Matt 24:15]] ☩ [[Mark.13.14|Mark 13:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I heard !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H8085G\|אֶשְׁמְעָ֥]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.me.'A<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אֶֽחָד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.chod-<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 36:24** 
 <small><sub>**LXX:**</sub></small>
 Remember that his works are great, which men command! 
-<small><sub>**KJV:**</sub></small>
-Remember that thou magnify his work, which men behold.
-<small><sub>**BSB:**</sub></small>
-Remember to magnify His work, which men have praised in song.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.23|<< Job 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.25|Job 36:25 >>]]</td></tr></table>
 
 | Translation | Greek |

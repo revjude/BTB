@@ -1,10 +1,7 @@
 **LXX Isaiah 24:13** 
 <small><sub>**LXX:**</sub></small>
 All these \[things\] will be on the earth in \[the\] midst of the nations. In which manner as if one should glean an olive tree, thus shall they glean them, even as if the gathering a crop should cease, 
-<small><sub>**KJV:**</sub></small>
-When thus it shall be in the midst of the land among the people, [there shall be] as the shaking of an olive tree, [and] as the gleaning grapes when the vintage is done.
-<small><sub>**BSB:**</sub></small>
-So will it be on the earth and among the nations, like a harvested olive tree, like a gleaning after a grape harvest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.12|<< Isaiah 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.14|Isaiah 24:14 >>]]</td></tr></table>
 
 | Translation | Greek |

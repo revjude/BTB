@@ -1,4 +1,4 @@
-**Psalms 106:45** 
+**Psalms 106:45**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he remembered for them his covenant, and repented according to the multitude of his mercies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And He remembered His covenant with them, and relented by the abundance of His l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.44|<< Psalms 106:44]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.46|Psalms 106:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he remembered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2142\|יִּזְכֹּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Kor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

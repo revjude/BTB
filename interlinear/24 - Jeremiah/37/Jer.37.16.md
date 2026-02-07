@@ -1,4 +1,4 @@
-**Jeremiah 37:16** 
+**Jeremiah 37:16**<big><big>[[Jer.37.11 Jeremiah Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Jeremiah was entered into the dungeon, and into the cabins, and Jeremiah had remained there many days;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jeremiah went into a cell in the dungeon and remained there a long time.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.15|<< Jeremiah 37:15]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.17|Jeremiah 37:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went  |**<big>&#8207;[[H0935G\|בָ֧א]]&#8207; </big>**| va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

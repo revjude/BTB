@@ -1,10 +1,7 @@
 **LXX Leviticus 25:31** 
 <small><sub>**LXX:**</sub></small>
 But the houses, the ones in properties, ones in which there is not among them a wall round about, they shall be considered \[belonging\] to the field of the land -- ransomable always they shall be. And in the release they shall go forth. 
-<small><sub>**KJV:**</sub></small>
-But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile.
-<small><sub>**BSB:**</sub></small>
-But houses in villages with no walls around them are to be considered as open fields. They may be redeemed, and they shall be released in the Jubilee.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.30|<< Leviticus 25:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.32|Leviticus 25:32 >>]]</td></tr></table>
 
 | Translation | Greek |

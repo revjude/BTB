@@ -1,10 +1,7 @@
 **LXX Isaiah 54:2** 
 <small><sub>**LXX:**</sub></small>
 Widen the place  of your tent, and pitch the hide coverings of your curtains! You should spare not. Distance out  your measured lands, and  strengthen your \[tent\] pegs! 
-<small><sub>**KJV:**</sub></small>
-Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes;
-<small><sub>**BSB:**</sub></small>
-“Enlarge the site of your tent, stretch out the curtains of your dwellings, do not hold back. Lengthen your ropes and drive your stakes in deep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.1|<< Isaiah 54:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.3|Isaiah 54:3 >>]]</td></tr></table>
 
 | Translation | Greek |

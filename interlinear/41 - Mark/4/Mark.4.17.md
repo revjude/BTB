@@ -1,12 +1,12 @@
-**Mark 4:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:17**<big><big>[[Mark.4.13 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.
 <small><sub>**BSB:**</sub></small>
 But they themselves have no root, and they remain for only a season. When trouble or persecution comes because of the word, they quickly fall away.
 <small><sub>**Literal:**</sub></small>
 and not they have root in themselves but temporary are. then when was happening tribulation or persecution on account of the word, immediately they fall away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.16|<< Mark 4:16]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.18|Mark 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

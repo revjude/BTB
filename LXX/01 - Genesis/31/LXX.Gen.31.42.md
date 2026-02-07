@@ -1,10 +1,7 @@
 **LXX Genesis 31:42** 
 <small><sub>**LXX:**</sub></small>
 Unless the God  of my father Abraham, and the fear of Isaac was with me, now then would you have sent me empty.  My humiliation and the toil  of my hands God saw, and he reproved you yesterday. 
-<small><sub>**KJV:**</sub></small>
-Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked [thee] yesternight.
-<small><sub>**BSB:**</sub></small>
-If the God of my father, the God of Abraham and the Fear of Isaac, had not been with me, surely by now you would have sent me away empty-handed. But God has seen my affliction and the toil of my hands, and last night He rendered judgment.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.41|<< Genesis 31:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.43|Genesis 31:43 >>]]</td></tr></table>
 
 | Translation | Greek |

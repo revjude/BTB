@@ -1,10 +1,7 @@
 **LXX Psalm 119:109** 
 <small><sub>**LXX:**</sub></small>
  My soul \[is\] in  your hands always; and  your law I forgot not. 
-<small><sub>**KJV:**</sub></small>
-My soul [is] continually in my hand: yet do I not forget thy law.
-<small><sub>**BSB:**</sub></small>
-I constantly take my life in my hands, yet I do not forget Your law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.109|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.108|<< Psalm 119:108]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.110|Psalm 119:110 >>]]</td></tr></table>
 
 | Translation | Greek |

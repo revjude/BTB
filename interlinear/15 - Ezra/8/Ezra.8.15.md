@@ -1,4 +1,4 @@
-**Ezra 8:15** 
+**Ezra 8:15**<big><big>[[Ezra.8.15 Ezra Sends for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I gathered them together to the river that runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now I assembled these exiles at the canal that flows to Ahava, and we camped the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.14|<< Ezra 8:14]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.16|Ezra 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I assembled them  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H6908\|אֶקְבְּצֵ֗]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ek.be.Tze<small><sup>[[HVqw1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

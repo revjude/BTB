@@ -1,12 +1,12 @@
-**2 Corinthians 5:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:11**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.
 <small><sub>**BSB:**</sub></small>
 Therefore, since we know what it means to fear the Lord, we try to persuade men. What we are is clear to God, and I hope it is clear to your conscience as well.
 <small><sub>**Literal:**</sub></small>
 Knowing therefore the fear of the Lord men we persuade to God and we have been made manifest; I hope now also in the consciences of you to have been made manifest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.10|<< 2 Corinthians 5:10]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.12|2 Corinthians 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Knowing |**<big>[[G6063\|Εἰδότες]]</big>**  |Eidotes <small><sup>[[V-RAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

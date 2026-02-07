@@ -1,4 +1,4 @@
-**Psalms 22:8** (22:9)
+**Psalms 22:8**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He trusted on the LORD [that] he would deliver him: let him deliver him, seeing he delighted in him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He trusted on the LORD [that] he would deliver him: let him deliver him, seeing 
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.43|Matt 27:43]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | roll  |**<big>&#8207;[[H1556\|גֹּ֣ל]]&#8207; </big>**| gol<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

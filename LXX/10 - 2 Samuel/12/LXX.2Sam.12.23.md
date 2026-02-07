@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:23** 
 <small><sub>**LXX:**</sub></small>
 And now he has died, why this \[that\] I fast? I shall not be able  to return him, yet I will go to him, but he shall not return to me. 
-<small><sub>**KJV:**</sub></small>
-But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me.
-<small><sub>**BSB:**</sub></small>
-But now that he is dead, why should I fast? Can I bring him back again? I will go to him, but he will not return to me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.22|<< 2 Samuel 12:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.24|2 Samuel 12:24 >>]]</td></tr></table>
 
 | Translation | Greek |

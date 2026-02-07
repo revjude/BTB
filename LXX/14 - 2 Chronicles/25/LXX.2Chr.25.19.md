@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:19** 
 <small><sub>**LXX:**</sub></small>
 You said, Behold, I struck  Edom; and your heavy heart lifts you up. Now be seated in your house, for why do you unite in evil, and you shall fall, and Judah with you? 
-<small><sub>**KJV:**</sub></small>
-Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to [thine] hurt, that thou shouldest fall, [even] thou, and Judah with thee?
-<small><sub>**BSB:**</sub></small>
-You have said, ‘Look, I have defeated Edom,’ and your heart has become proud and boastful. Now stay at home. Why should you stir up trouble so that you fall—you and Judah with you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.18|<< 2 Chronicles 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.20|2 Chronicles 25:20 >>]]</td></tr></table>
 
 | Translation | Greek |

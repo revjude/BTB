@@ -1,10 +1,7 @@
 **LXX Isaiah 31:4** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span> to me, In which manner whenever the lion or the cub should yell out over the game which he took, and shall cry out over it, until whenever the mountains should be filled up  of his voice, and \[the prey\] are vanquished, and by the magnitude  of rage they are scared; so \[the\] <span class="smallcaps">lord</span> of Hosts shall go down to march upon  mount Zion, upon  her mountains. 
-<small><sub>**KJV:**</sub></small>
-For thus hath the LORD spoken unto me, Like as the lion and the young lion roaring on his prey, when a multitude of shepherds is called forth against him, [he] will not be afraid of their voice, nor abase himself for the noise of them: so shall the LORD of hosts come down to fight for mount Zion, and for the hill thereof.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD has said to me: “Like a lion roaring or a young lion over its prey—and though a band of shepherds is called out against it, it is not terrified by their shouting or subdued by their clamor—so the LORD of Hosts will come down to do battle on Mount Zion and its heights.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.3|<< Isaiah 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.5|Isaiah 31:5 >>]]</td></tr></table>
 
 | Translation | Greek |

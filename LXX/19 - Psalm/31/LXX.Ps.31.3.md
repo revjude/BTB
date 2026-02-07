@@ -1,10 +1,7 @@
 **LXX Psalm 31:3** 
 <small><sub>**LXX:**</sub></small>
 For you are my fortification and my refuge; and because of  your name you shall guide me and nourish me. 
-<small><sub>**KJV:**</sub></small>
-For thou [art] my rock and my fortress; therefore for thy name’s sake lead me, and guide me.
-<small><sub>**BSB:**</sub></small>
-For You are my rock and my fortress; lead me and guide me for the sake of Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.2|<< Psalm 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.4|Psalm 31:4 >>]]</td></tr></table>
 
 | Translation | Greek |

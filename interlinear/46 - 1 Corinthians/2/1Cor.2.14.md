@@ -1,12 +1,12 @@
-**1 Corinthians 2:14
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:14**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know [them], because they are spiritually discerned.
 <small><sub>**BSB:**</sub></small>
 The natural man does not accept the things that come from the Spirit of God. For they are foolishness to him, and he cannot understand them, because they are spiritually discerned.
 <small><sub>**Literal:**</sub></small>
 [The] natural however man not accepts the [things] of the Spirit <the> of God, foolishness for to him they are, and not he is able to understand [them], because spiritually they are discerned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.13|<< 1 Corinthians 2:13]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.15|1 Corinthians 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] natural |**<big>[[G5591\|ψυχικὸς]]</big>**  |psuchikos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

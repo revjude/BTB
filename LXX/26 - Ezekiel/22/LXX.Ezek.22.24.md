@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:24** 
 <small><sub>**LXX:**</sub></small>
 O son of man, say to her! You are \[the\] land, the \[land\] not having rain, nor rain came upon you in \[the\] day of anger. 
-<small><sub>**KJV:**</sub></small>
-Son of man, say unto her, Thou [art] the land that is not cleansed, nor rained upon in the day of indignation.
-<small><sub>**BSB:**</sub></small>
-“Son of man, say to her, ‘In the day of indignation, you are a land that has not been cleansed, upon which no rain has fallen.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.23|<< Ezekiel 22:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.25|Ezekiel 22:25 >>]]</td></tr></table>
 
 | Translation | Greek |

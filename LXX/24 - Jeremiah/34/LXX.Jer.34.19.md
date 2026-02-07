@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:19** 
 <small><sub>**LXX:**</sub></small>
 of the rulers of Judah, and rulers of Jerusalem, and mighty ones, and priests, and all the people of the land; 
-<small><sub>**KJV:**</sub></small>
-The princes of Judah, and the princes of Jerusalem, the eunuchs, and the priests, and all the people of the land, which passed between the parts of the calf;
-<small><sub>**BSB:**</sub></small>
-The officials of Judah and Jerusalem, the court officials, the priests, and all the people of the land who passed between the pieces of the calf,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.18|<< Jeremiah 34:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.20|Jeremiah 34:20 >>]]</td></tr></table>
 
 | Translation | Greek |

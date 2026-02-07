@@ -1,4 +1,4 @@
-**Habakkuk 2:2** 
+**Habakkuk 2:2**<big><big>[[Hab.2.1 The LORD Answers Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD answered me, and said, Write the vision, and make [it] plain upon tables, that he may run that readeth it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD answered me: “Write down this vision and clearly inscribe it on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.1|<< Habakkuk 2:1]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.3|Habakkuk 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּעֲנֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Ne.<small><sup>[[HVqw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

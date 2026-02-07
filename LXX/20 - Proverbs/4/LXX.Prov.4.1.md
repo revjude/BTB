@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Hear, O children, \[the\] instruction of a father, and take heed to know insight! 
-<small><sub>**KJV:**</sub></small>
-Hear, ye children, the instruction of a father, and attend to know understanding.
-<small><sub>**BSB:**</sub></small>
-Listen, my sons, to a father’s instruction; pay attention and gain understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.35|<< Proverbs 3:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.2|Proverbs 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

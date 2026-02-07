@@ -6,10 +6,7 @@ Alleluiah.
 
 <small><sub>**LXX:**</sub></small>
 Make acknowledgment to the <span class="smallcaps">lord</span>, and call upon  his name! Report among the nations  of his works! 
-<small><sub>**KJV:**</sub></small>
-O give thanks unto the LORD; call upon his name: make known his deeds among the people.
-<small><sub>**BSB:**</sub></small>
-Give thanks to the LORD, call upon His name; make known His deeds among the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.35|<< Psalm 104:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.2|Psalm 105:2 >>]]</td></tr></table>
 
 | Translation | Greek |

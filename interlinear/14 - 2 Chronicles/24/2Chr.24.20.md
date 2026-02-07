@@ -1,4 +1,4 @@
-**2 Chronicles 24:20** 
+**2 Chronicles 24:20**<big><big>[[2Chr.24.17 The Wickedness of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the LORD, that ye cannot prosper? because ye have forsaken the LORD, he hath also forsaken you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Spirit of God came upon Zechariah son of Jehoiada the priest, who stood
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.19|<< 2 Chronicles 24:19]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.21|2 Chronicles 24:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] spirit of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307G\|ר֣וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:6** 
 <small><sub>**LXX:**</sub></small>
 Be manly and be strong! Do not fear! nor should you be timid, nor should you be terrified from their face. For \[the\] <span class="smallcaps">lord</span>  your God, the one going before with you -- in no way should he forsake you, nor in any way should he abandon you. 
-<small><sub>**KJV:**</sub></small>
-Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he [it is] that doth go with thee; he will not fail thee, nor forsake thee.
-<small><sub>**BSB:**</sub></small>
-Be strong and courageous; do not be afraid or terrified of them, for it is the LORD your God who goes with you; He will never leave you nor forsake you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.5|<< Deuteronomy 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.7|Deuteronomy 31:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 31:6** is...

@@ -1,12 +1,12 @@
-**Romans 7:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:13**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.
 <small><sub>**BSB:**</sub></small>
 Did that which is good, then, become death to me? Certainly not! But in order that sin might be exposed as sin, it produced death in me through what was good, so that through the commandment sin might become utterly sinful.
 <small><sub>**Literal:**</sub></small>
 That which then [is] good to me myself became death? Never would it be! But <the> sin, in order that it may be shown as sin, through that which [is] good to me is working out death, so that may become beyond excess sinful <the> sin through the commandment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.12|<< Romans 7:12]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.14|Romans 7:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That which |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Samuel 21:11** 
+**2 Samuel 21:11**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When David was told what Saul’s concubine Rizpah, daughter of Aiah, had done,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.10|<< 2 Samuel 21:10]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.12|2 Samuel 21:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יֻּגַּ֖ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yu.Gad<small><sup>[[HVHw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֑ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

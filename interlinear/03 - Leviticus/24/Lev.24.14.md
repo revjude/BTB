@@ -1,4 +1,4 @@
-**Leviticus 24:14** 
+**Leviticus 24:14**<big><big>[[Lev.24.10 Punishment for Blasphemy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring forth him that hath cursed without the camp; and let all that heard [him] lay their hands upon his head, and let all the congregation stone him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bring forth him that hath cursed without the camp; and let all that heard [him] 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.13|<< Leviticus 24:13]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.15|Leviticus 24:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bring out  |**<big>&#8207;[[H3318H\|הוֹצֵ֣א]]&#8207; </big>**| ho.Tze'<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

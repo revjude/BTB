@@ -1,10 +1,7 @@
 **LXX Psalm 35:13** 
 <small><sub>**LXX:**</sub></small>
 But I, in  their troubling me, put on sackcloth. And I humbled my soul in fasting; and  my prayer shall be returned unto my bosom. 
-<small><sub>**KJV:**</sub></small>
-But as for me, when they were sick, my clothing [was] sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.
-<small><sub>**BSB:**</sub></small>
-Yet when they were ill, I put on sackcloth; I humbled myself with fasting, but my prayers returned unanswered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.12|<< Psalm 35:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.14|Psalm 35:14 >>]]</td></tr></table>
 
 | Translation | Greek |

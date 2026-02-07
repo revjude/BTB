@@ -1,10 +1,7 @@
 **LXX Numbers 17:6** 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke to the sons of Israel; and all the rulers gave to him their rod -- to the one ruler one rod, according to \[the\] ruler, according to \[the\] houses of their patrimony -- twelve rods. And the rod of Aaron \[was\] in the midst  of their rods. 
-<small><sub>**KJV:**</sub></small>
-And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers’ houses, [even] twelve rods: and the rod of Aaron [was] among their rods.
-<small><sub>**BSB:**</sub></small>
-So Moses spoke to the Israelites, and each of their leaders gave him a staff—one for each of the leaders of their tribes, twelve staffs in all. And Aaron’s staff was among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.5|<< Numbers 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.7|Numbers 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 5:16** 
 <small><sub>**LXX:**</sub></small>
 And what \[ever\] he sinned, he shall pay from the holy \[things\], and the fifth part he shall add to it. And he shall give it to the priest. And the priest shall atone for him by the ram of the trespass \[offering\]. And it shall be forgiven him. 
-<small><sub>**KJV:**</sub></small>
-And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.
-<small><sub>**BSB:**</sub></small>
-Regarding any holy thing he has harmed, he must make restitution by adding a fifth of its value to it and giving it to the priest, who will make atonement on his behalf with the ram as a guilt offering, and he will be forgiven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.15|<< Leviticus 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.17|Leviticus 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

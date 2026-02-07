@@ -1,4 +1,4 @@
-**Ezekiel 16:13** 
+**Ezekiel 16:13**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus wast thou decked with gold and silver; and thy raiment [was of] fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you were adorned with gold and silver, and your clothing was made of fine lin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.12|<< Ezekiel 16:12]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.14|Ezekiel 16:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you ornamented yourself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5710B\|תַּעְדִּ֞י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta'.Di<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָ֣ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

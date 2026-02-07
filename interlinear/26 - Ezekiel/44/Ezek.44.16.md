@@ -1,4 +1,4 @@
-**Ezekiel 44:16** 
+**Ezekiel 44:16**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall enter into my sanctuary, and they shall come near to my table, to minister unto me, and they shall keep my charge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They alone shall enter My sanctuary and draw near to My table to minister before
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.15|<< Ezekiel 44:15]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.17|Ezekiel 44:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֜מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will come  |**<big>&#8207;[[H0935G\|יָבֹ֣אוּ]]&#8207; </big>**| ya.Vo.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

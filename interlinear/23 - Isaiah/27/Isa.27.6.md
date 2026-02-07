@@ -1,4 +1,4 @@
-**Isaiah 27:6** 
+**Isaiah 27:6**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall cause them that come of Jacob to take root: Israel shall blossom and bud, and fill the face of the world with fruit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the days to come, Jacob will take root. Israel will bud and blossom and fill 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.5|<< Isaiah 27:5]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.7|Isaiah 27:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the coming [times]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0935G\|בָּאִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will take root  |**<big>&#8207;[[H8327\|יַשְׁרֵ֣שׁ]]&#8207; </big>**| yash.Resh<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

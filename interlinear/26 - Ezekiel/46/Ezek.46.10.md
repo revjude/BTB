@@ -1,4 +1,4 @@
-**Ezekiel 46:10** 
+**Ezekiel 46:10**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the prince in the midst of them, when they go in, shall go in; and when they go forth, shall go forth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the people enter, the prince shall go in with them, and when they leave, he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.9|<< Ezekiel 46:9]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.11|Ezekiel 46:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the prince  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5387A\|נָּשִׂ֑יא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] in midst of them  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תוֹכָ֤]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

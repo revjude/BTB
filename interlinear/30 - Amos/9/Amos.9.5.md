@@ -1,4 +1,4 @@
-**Amos 9:5** 
+**Amos 9:5**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Lord GOD of hosts [is] he that toucheth the land, and it shall melt, and all that dwell therein shall mourn: and it shall rise up wholly like a flood; and shall be drowned, as [by] the flood of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Lord GOD of Hosts, He who touches the earth and it melts, and all its dwelle
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.4|<< Amos 9:4]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.6|Amos 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] Lord  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0136\|אדֹנָ֨י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 12:27** 
 <small><sub>**LXX:**</sub></small>
 That you shall say to them, This \[is\] the passover sacrifice to \[the\] <span class="smallcaps">lord</span>, as he sheltered the houses of the sons of Israel in Egypt, when he struck the Egyptians,  but our houses he rescued. And bowing, the people did obeisance. 
-<small><sub>**KJV:**</sub></small>
-That ye shall say, It [is] the sacrifice of the LORD’S passover, who passed over the houses of the children of Israel in Egypt, when he smote the Egyptians, and delivered our houses. And the people bowed the head and worshipped.
-<small><sub>**BSB:**</sub></small>
-you are to reply, ‘It is the Passover sacrifice to the LORD, who passed over the houses of the Israelites in Egypt when He struck down the Egyptians and spared our homes.’” Then the people bowed down and worshiped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.26|<< Exodus 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.28|Exodus 12:28 >>]]</td></tr></table>
 
 | Translation | Greek |

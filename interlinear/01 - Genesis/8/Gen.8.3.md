@@ -1,4 +1,4 @@
-**Genesis 8:3** 
+**Genesis 8:3**<big><big>[[Gen.8.1 The Ark Rests on Ararat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The waters receded steadily from the earth, and after 150 days the waters had go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.2|<< Genesis 8:2]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.4|Genesis 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּשֻׁ֧בוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the waters  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מַּ֛יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

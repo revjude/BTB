@@ -1,10 +1,7 @@
 **LXX Jeremiah 21:12** 
 <small><sub>**LXX:**</sub></small>
 O house of David, Thus says \[the\] <span class="smallcaps">lord</span>; Arbitrate judgment in the morning, and straighten out, and rescue the one being torn in pieces from \[the\] hand of the one wronging him! so that my anger should not be lit as a fire, and it should be kindled, and there will not be  one extinguishing it. 
-<small><sub>**KJV:**</sub></small>
-O house of David, thus saith the LORD; Execute judgment in the morning, and deliver [him that is] spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench [it], because of the evil of your doings.
-<small><sub>**BSB:**</sub></small>
-O house of David, this is what the LORD says: ‘Administer justice every morning, and rescue the victim of robbery from the hand of his oppressor, or My wrath will go forth like fire and burn with no one to extinguish it because of their evil deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.11|<< Jeremiah 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.13|Jeremiah 21:13 >>]]</td></tr></table>
 
 | Translation | Greek |

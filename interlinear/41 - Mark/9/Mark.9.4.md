@@ -1,12 +1,12 @@
-**Mark 9:4
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:4**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there appeared unto them Elias with Moses: and they were talking with Jesus.
 <small><sub>**BSB:**</sub></small>
 And Elijah and Moses appeared before them, talking with Jesus.
 <small><sub>**Literal:**</sub></small>
 And appeared to them Elijah with Moses, and they were talking with <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.3|<< Mark 9:3]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.5|Mark 9:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | appeared |**<big>[[G3700H\|ὤφθη]]</big>**  |ōphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

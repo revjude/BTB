@@ -1,4 +1,4 @@
-**Genesis 20:4** 
+**Genesis 20:4**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Abimelech had not gone near her, so he replied, “Lord, would You destroy a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.3|<< Genesis 20:3]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.5|Genesis 20:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abimelech  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0040G\|אֲבִימֶ֕לֶךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

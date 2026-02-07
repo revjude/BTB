@@ -1,10 +1,7 @@
 **LXX Genesis 41:56** 
 <small><sub>**LXX:**</sub></small>
 And the famine was upon \[the\] face of all the earth. And Joseph opened all the granaries, and sold to all the Egyptians. 
-<small><sub>**KJV:**</sub></small>
-And the famine was over all the face of the earth: And Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-When the famine had spread over all the land, Joseph opened up all the storehouses and sold grain to the Egyptians; for the famine was severe in the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.55|<< Genesis 41:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.57|Genesis 41:57 >>]]</td></tr></table>
 
 | Translation | Greek |

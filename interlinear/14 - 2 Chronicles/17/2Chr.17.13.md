@@ -1,4 +1,4 @@
-**2 Chronicles 17:13** 
+**2 Chronicles 17:13**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had much business in the cities of Judah: and the men of war, mighty men of valour, [were] in Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and kept vast supplies in the cities of Judah. He also had warriors in Jerusalem
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.12|<< 2 Chronicles 17:12]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.14|2 Chronicles 17:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and property  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4399\|מְלָאכָ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | much  |**<big>&#8207;[[H7227A\|רַבָּ֛ה]]&#8207; </big>**| ra.Bah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

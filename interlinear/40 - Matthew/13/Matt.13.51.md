@@ -1,12 +1,12 @@
-**Matthew 13:51
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:51**<big><big>[[Matt.13.47 The Parable of the Net|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto them, Have ye understood all these things? They say unto him, Yea, Lord.
 <small><sub>**BSB:**</sub></small>
 Have you understood all these things?” “Yes,” they answered.
 <small><sub>**Literal:**</sub></small>
 says to them <the> Jesus Did you understand these things all? They say to Him; Yes Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.50|<< Matthew 13:50]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.52|Matthew 13:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | to them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

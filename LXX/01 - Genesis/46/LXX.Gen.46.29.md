@@ -1,10 +1,7 @@
 **LXX Genesis 46:29** 
 <small><sub>**LXX:**</sub></small>
 And Joseph teaming up  his chariots, ascended to meet Israel  his father at Heropolis. And seeing him, he fell upon  his neck. And he wept weeping greatly. 
-<small><sub>**KJV:**</sub></small>
-And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.
-<small><sub>**BSB:**</sub></small>
-Joseph prepared his chariot and went there to meet his father Israel. Joseph presented himself to him, embraced him, and wept profusely.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.28|<< Genesis 46:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.30|Genesis 46:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 51:13** (51:15)
+**Psalms 51:13**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Then] will I teach transgressors thy ways; and sinners shall be converted unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I will teach transgressors Your ways, and sinners will return to You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.12|<< Psalms 51:12]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.14|Psalms 51:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will teach  |**<big>&#8207;[[H3925G\|אֲלַמְּדָ֣ה]]&#8207; </big>**| 'a.la.me.Dah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | transgressors  |**<big>&#8207;[[H6586\|פֹשְׁעִ֣ים]]&#8207; </big>**| fo.she.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

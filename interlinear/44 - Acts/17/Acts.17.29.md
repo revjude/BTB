@@ -1,12 +1,12 @@
-**Acts 17:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:29**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device.
 <small><sub>**BSB:**</sub></small>
 Therefore, being offspring of God, we should not think that the Divine Being is like gold or silver or stone, an image formed by man’s skill and imagination.
 <small><sub>**Literal:**</sub></small>
 Offspring therefore being <the> of God not we ought to consider to gold or to silver or to stone, a graven thing of craft and imagination of man, the Divine Being to be like.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.28|<< Acts 17:28]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.30|Acts 17:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Offspring |**<big>[[G1085G\|γένος]]</big>**  |genos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

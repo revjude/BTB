@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:25** 
 <small><sub>**LXX:**</sub></small>
 And there was no man as Absalom in all Israel exceedingly praiseworthy. From \[the\] sole of his foot and unto \[the\] top of his \[head\] -- there was not a blemish on him. 
-<small><sub>**KJV:**</sub></small>
-But in all Israel there was none to be so much praised as Absalom for his beauty: from the sole of his foot even to the crown of his head there was no blemish in him.
-<small><sub>**BSB:**</sub></small>
-Now there was not a man in all Israel as handsome and highly praised as Absalom. From the sole of his foot to the top of his head, he did not have a single flaw.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.24|<< 2 Samuel 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.26|2 Samuel 14:26 >>]]</td></tr></table>
 
 | Translation | Greek |

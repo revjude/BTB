@@ -1,10 +1,7 @@
 **LXX Job 28:18** 
 <small><sub>**LXX:**</sub></small>
 Meteorites and crystal shall not be mentioned; but draw on wisdom above the innermost \[things\]. 
-<small><sub>**KJV:**</sub></small>
-No mention shall be made of coral, or of pearls: for the price of wisdom [is] above rubies.
-<small><sub>**BSB:**</sub></small>
-Coral and quartz are unworthy of mention; the price of wisdom is beyond rubies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.17|<< Job 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.19|Job 28:19 >>]]</td></tr></table>
 
 | Translation | Greek |

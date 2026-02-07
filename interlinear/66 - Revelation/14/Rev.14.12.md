@@ -1,12 +1,12 @@
-**Revelation 14:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:12**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Here is the patience of the saints: here [are] they that keep the commandments of God, and the faith of Jesus.
 <small><sub>**BSB:**</sub></small>
 Here is a call for the perseverance of the saints, who keep the commandments of God and the faith of Jesus.
 <small><sub>**Literal:**</sub></small>
 Here the endurance of the saints is here those keeping the commandments <the> of God and the faith of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.11|<< Revelation 14:11]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.13|Revelation 14:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Here |**<big>[[G5602\|Ὧδε]]</big>**  |Hōde <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |

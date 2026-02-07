@@ -1,10 +1,7 @@
 **LXX Genesis 27:29** 
 <small><sub>**LXX:**</sub></small>
 And nations be slave to you! And rulers do obeisance to you! And you become master  of your brother! And the sons of your father will do obeisance to you. The one cursing you \[will be\] accursed, and the one blessing you \[will be for a\] blessing. 
-<small><sub>**KJV:**</sub></small>
-Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother’s sons bow down to thee: cursed [be] every one that curseth thee, and blessed [be] he that blesseth thee.
-<small><sub>**BSB:**</sub></small>
-May peoples serve you and nations bow down to you. May you be the master of your brothers, and may the sons of your mother bow down to you. May those who curse you be cursed, and those who bless you be blessed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.28|<< Genesis 27:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.30|Genesis 27:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 5:4
-**<small><sub>**KJV:**</sub></small>
+**John 5:4**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.
 <small><sub>**BSB:**</sub></small>
 
 <small><sub>**Literal:**</sub></small>
 an angel for on occasion was going down among those pool and was troubling the water; the [one] who therefore first was climbing in after the disturbance of the water healthy was becoming of that whatever he was posessed disease.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.3|<< John 5:3]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.5|John 5:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an angel |**<big>[[G0032G\|ἄγγελος]]</big>**  |angelos <small><sup>[[N-NSM]]</sup></small> | <abbr title="TR+Byz">KO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

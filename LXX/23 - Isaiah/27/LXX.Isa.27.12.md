@@ -1,10 +1,7 @@
 **LXX Isaiah 27:12** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day \[the\] <span class="smallcaps">lord</span> will shut up together from the aqueduct of the river unto Rhinocora. But you gather together the sons of Israel, according to one \[by\] one! 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, [that] the LORD shall beat off from the channel of the river unto the stream of Egypt, and ye shall be gathered one by one, O ye children of Israel.
-<small><sub>**BSB:**</sub></small>
-In that day the LORD will thresh from the flowing Euphrates to the Wadi of Egypt, and you, O Israelites, will be gathered one by one.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.27.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.11|<< Isaiah 27:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.13|Isaiah 27:13 >>]]</td></tr></table>
 
 | Translation | Greek |

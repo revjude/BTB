@@ -1,4 +1,4 @@
-**Hosea 12:8** (12:9)
+**Hosea 12:8**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ephraim said, Yet I am become rich, I have found me out substance: [in] all my labours they shall find none iniquity in me that [were] sin.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Ephraim boasts: “How rich I have become! I have found wealth for myself. I
 > $\quad$ referenced by: [[Rev.3.17|Rev 3:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֔יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:24** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to Samuel, I have sinned, that I violated the word of \[the\] <span class="smallcaps">lord</span>, and the saying by you; for I feared the people, and I hearkened to  their voice. 
-<small><sub>**KJV:**</sub></small>
-And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the LORD, and thy words: because I feared the people, and obeyed their voice.
-<small><sub>**BSB:**</sub></small>
-Then Saul said to Samuel, “I have sinned; I have transgressed the LORD’s commandment and your instructions, because I feared the people and obeyed their voice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.23|<< 1 Samuel 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.25|1 Samuel 15:25 >>]]</td></tr></table>
 
 | Translation | Greek |

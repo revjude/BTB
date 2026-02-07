@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:11** 
 <small><sub>**LXX:**</sub></small>
 In  that time they shall say  to this people, and  to Jerusalem, \[There is\] a spirit of addiction to a delusion in the wilderness; \[the\] way of the daughter  of my people \[is\] not to purity, nor to holiness. 
-<small><sub>**KJV:**</sub></small>
-At that time shall it be said to this people and to Jerusalem, A dry wind of the high places in the wilderness toward the daughter of my people, not to fan, nor to cleanse,
-<small><sub>**BSB:**</sub></small>
-At that time it will be said to this people and to Jerusalem, “A searing wind from the barren heights in the desert blows toward the daughter of My people, but not to winnow or to sift;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.10|<< Jeremiah 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.12|Jeremiah 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

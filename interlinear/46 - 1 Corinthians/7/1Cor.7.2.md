@@ -1,12 +1,12 @@
-**1 Corinthians 7:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:2**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless, [to avoid] fornication, let every man have his own wife, and let every woman have her own husband.
 <small><sub>**BSB:**</sub></small>
 But because there is so much sexual immorality, each man should have his own wife, and each woman her own husband.
 <small><sub>**Literal:**</sub></small>
 Because of however <the> sexual immorality each man <the> his own wife should have, and each [woman] the [her] own husband should have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.1|<< 1 Corinthians 7:1]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.3|1 Corinthians 7:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

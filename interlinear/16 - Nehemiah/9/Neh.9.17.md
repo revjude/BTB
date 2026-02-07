@@ -1,4 +1,4 @@
-**Nehemiah 9:17** 
+**Nehemiah 9:17**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou [art] a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They refused to listen and failed to remember the wonders You performed among th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.16|<< Nehemiah 9:16]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.18|Nehemiah 9:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they refused  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3985\|יְמָאֲנ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.'a.Nu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to listen  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8085H\|שְׁמֹ֗עַ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

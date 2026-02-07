@@ -1,4 +1,4 @@
-**Genesis 4:1** 
+**Genesis 4:1**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Adam had relations with his wife Eve, and she conceived and gave birth to Ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.24|<< Genesis 3:24]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.2|Genesis 4:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the man  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0120H\|אָדָ֔ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he knew  |**<big>&#8207;[[H3045\|יָדַ֖ע]]&#8207; </big>**| ya.Da'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:5** 
 <small><sub>**LXX:**</sub></small>
 Rise up! for we should ascend at night, and utterly destroy  her foundations. 
-<small><sub>**KJV:**</sub></small>
-Arise, and let us go by night, and let us destroy her palaces.
-<small><sub>**BSB:**</sub></small>
-Rise up, let us attack by night and destroy her fortresses!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.4|<< Jeremiah 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.6|Jeremiah 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

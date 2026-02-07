@@ -1,4 +1,4 @@
-**Genesis 47:20** 
+**Genesis 47:20**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Joseph acquired for Pharaoh all the land in Egypt; the Egyptians, one and all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.19|<< Genesis 47:19]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.21|Genesis 47:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he bought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7069\|יִּ֨קֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.ken<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֜ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

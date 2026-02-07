@@ -1,4 +1,4 @@
-**Numbers 31:33** 
+**Numbers 31:33**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And threescore and twelve thousand beeves,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And threescore and twelve thousand beeves,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.32|<< Numbers 31:32]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.34|Numbers 31:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and cattle  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1241\|בָקָ֕ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנַ֥יִם]]&#8207; </big>**| she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

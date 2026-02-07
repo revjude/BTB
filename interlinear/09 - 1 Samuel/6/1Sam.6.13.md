@@ -1,4 +1,4 @@
-**1 Samuel 6:13** 
+**1 Samuel 6:13**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [they of] Bethshemesh [were] reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the people of Beth-shemesh were harvesting wheat in the valley, and when the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.12|<< 1 Samuel 6:12]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.14|1 Samuel 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Beth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1053G\|בֵ֣ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shemesh  |**<big>&#8207;[[H1053G\|שֶׁ֔מֶשׁ]]&#8207; </big>**| She.mesh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

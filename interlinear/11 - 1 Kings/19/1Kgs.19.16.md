@@ -1,4 +1,4 @@
-**1 Kings 19:16** 
+**1 Kings 19:16**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehu the son of Nimshi shalt thou anoint [to be] king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt thou anoint [to be] prophet in thy room.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are also to anoint Jehu son of Nimshi as king over Israel and Elisha son of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.15|<< 1 Kings 19:15]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.17|1 Kings 19:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehu  |**<big>&#8207;[[H3058H\|יֵה֣וּא]]&#8207; </big>**| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

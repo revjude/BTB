@@ -1,10 +1,7 @@
 **LXX Joshua 23:6** 
 <small><sub>**LXX:**</sub></small>
 Grow strong then exceedingly! to guard and to do all things  being written in the scroll of the law of Moses, that you should not turn aside from him to \[the\] right or to \[the\] left; 
-<small><sub>**KJV:**</sub></small>
-Be ye therefore very courageous to keep and to do all that is written in the book of the law of Moses, that ye turn not aside therefrom [to] the right hand or [to] the left;
-<small><sub>**BSB:**</sub></small>
-Be very strong, then, so that you can keep and obey all that is written in the Book of the Law of Moses, not turning aside from it to the right or to the left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.5|<< Joshua 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.7|Joshua 23:7 >>]]</td></tr></table>
 
 | Translation | Greek |

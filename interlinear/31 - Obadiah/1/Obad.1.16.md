@@ -1,4 +1,4 @@
-**Obadiah 1:16** 
+**Obadiah 1:16**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For as ye have drunk upon my holy mountain, [so] shall all the heathen drink continually, yea, they shall drink, and they shall swallow down, and they shall be as though they had not been.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For as you drank on My holy mountain, so all the nations will drink continually.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.15|<< Obadiah 1:15]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.17|Obadiah 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֗י]]&#8207; </big>**| Ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as  |**<big>&#8207;[[H9004\|כַּֽ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֤ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 15:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:37**<big><big>[[Acts.15.36 Paul’s Second Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Barnabas determined to take with them John, whose surname was Mark.
 <small><sub>**BSB:**</sub></small>
 Barnabas wanted to take John, also called Mark.
 <small><sub>**Literal:**</sub></small>
 Barnabas now was planning to take along also <the> John who is being called Mark;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.36|<< Acts 15:36]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.38|Acts 15:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Barnabas |**<big>[[G0921G\|Βαρναβᾶς]]</big>**  |Barnabas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

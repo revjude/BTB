@@ -1,10 +1,7 @@
 **LXX Psalm 102:17** 
 <small><sub>**LXX:**</sub></small>
 He looked upon the prayer of the humble, and did not their supplication with contempt. 
-<small><sub>**KJV:**</sub></small>
-He will regard the prayer of the destitute, and not despise their prayer.
-<small><sub>**BSB:**</sub></small>
-He will turn toward the prayer of the destitute; He will not despise their prayer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.16|<< Psalm 102:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.18|Psalm 102:18 >>]]</td></tr></table>
 
 | Translation | Greek |

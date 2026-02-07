@@ -1,10 +1,7 @@
 **LXX Psalm 136:22** 
 <small><sub>**LXX:**</sub></small>
 An inheritance to Israel his servant, for into the eon  \[is\] his mercy. 
-<small><sub>**KJV:**</sub></small>
-[Even] an heritage unto Israel his servant: for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-a heritage to His servant Israel. His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.136.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.21|<< Psalm 136:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.23|Psalm 136:23 >>]]</td></tr></table>
 
 | Translation | Greek |

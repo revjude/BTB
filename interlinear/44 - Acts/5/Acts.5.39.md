@@ -1,12 +1,12 @@
-**Acts 5:39
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:39**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God.
 <small><sub>**BSB:**</sub></small>
 But if it is from God, you will not be able to stop them. You may even find yourselves fighting against God.”
 <small><sub>**Literal:**</sub></small>
 if however from God it is, not you will be able to overthrow them, otherwise also fighting against God You shall be found. [40] They were persuaded now by him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.38|<< Acts 5:38]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.40|Acts 5:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

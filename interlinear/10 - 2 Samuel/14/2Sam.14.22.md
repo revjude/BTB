@@ -1,4 +1,4 @@
-**2 Samuel 14:22** 
+**2 Samuel 14:22**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab fell to the ground on his face, and bowed himself, and thanked the king: and Joab said, To day thy servant knoweth that I have found grace in thy sight, my lord, O king, in that the king hath fulfilled the request of his servant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joab fell facedown in homage and blessed the king. “Today,” said Joab, “yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.21|<< 2 Samuel 14:21]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.23|2 Samuel 14:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307G\|יִּפֹּל֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Pol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joab  |**<big>&#8207;[[H3097G\|יוֹאָ֨ב]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

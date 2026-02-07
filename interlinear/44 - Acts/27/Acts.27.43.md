@@ -1,12 +1,12 @@
-**Acts 27:43
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:43**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the centurion, willing to save Paul, kept them from [their] purpose; and commanded that they which could swim should cast [themselves] first [into the sea], and get to land:
 <small><sub>**BSB:**</sub></small>
 But the centurion, wanting to spare Paul’s life, thwarted their plan. He commanded those who could swim to jump overboard first and get to land.
 <small><sub>**Literal:**</sub></small>
 <the> But the centurion desiring to save <the> Paul hindered them of the purpose, he commanded then those being able to swim having cast [themselves] off first on the land to go out,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.42|<< Acts 27:42]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.44|Acts 27:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

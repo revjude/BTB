@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:25** 
 <small><sub>**LXX:**</sub></small>
 And they overtook high cities, and a fertile land. And they inherited houses full of all good \[things\], \[and\] pits for quarrying, vineyards and olive groves, and every tree of eatable \[things\] in multitude. And they ate, and were filled up, and were fattened, and indulged in your great goodness. 
-<small><sub>**KJV:**</sub></small>
-And they took strong cities, and a fat land, and possessed houses full of all goods, wells digged, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in thy great goodness.
-<small><sub>**BSB:**</sub></small>
-They captured fortified cities and fertile land and took houses full of all goods, wells already dug, vineyards, olive groves, and fruit trees in abundance. So they ate and were filled; they grew fat and delighted in Your great goodness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.24|<< Nehemiah 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.26|Nehemiah 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

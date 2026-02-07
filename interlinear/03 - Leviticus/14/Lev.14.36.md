@@ -1,4 +1,4 @@
-**Leviticus 14:36** 
+**Leviticus 14:36**<big><big>[[Lev.14.33 Signs of Home Contamination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall command that they empty the house, before the priest go [into it] to see the plague, that all that [is] in the house be not made unclean: and afterward the priest shall go in to see the house:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest must order that the house be cleared before he enters it to examine t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.35|<< Leviticus 14:35]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.37|Leviticus 14:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will command  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6680\|צִוָּ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tzi.Vah<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֜ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

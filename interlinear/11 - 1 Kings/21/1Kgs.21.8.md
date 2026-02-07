@@ -1,4 +1,4 @@
-**1 Kings 21:8** 
+**1 Kings 21:8**<big><big>[[1Kgs.21.8 Jezebel’s Plot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So she wrote letters in Ahab’s name, and sealed [them] with his seal, and sent the letters unto the elders and to the nobles that [were] in his city, dwelling with Naboth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jezebel wrote letters in Ahab’s name, sealed them with his seal, and sent
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.7|<< 1 Kings 21:7]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.9|1 Kings 21:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she wrote  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3789\|תִּכְתֹּ֤ב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tikh.To<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | letters  |**<big>&#8207;[[H5612A\|סְפָרִים֙]]&#8207; </big>**| se.fa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

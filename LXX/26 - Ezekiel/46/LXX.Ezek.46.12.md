@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:12** 
 <small><sub>**LXX:**</sub></small>
 And if the one guiding should offer an acknowledgment \[offering\] of a whole burnt-offering of deliverance to the <span class="smallcaps">lord</span>, \[then one\] should open to him the gate, the one looking according to \[the\] east, and he should offer  his whole burnt-offering, and the \[things\]  for his deliverance \[offering\], in which manner he did on the day of the Sabbaths. And he shall come forth and lock the doors after  his going forth. 
-<small><sub>**KJV:**</sub></small>
-Now when the prince shall prepare a voluntary burnt offering or peace offerings voluntarily unto the LORD, [one] shall then open him the gate that looketh toward the east, and he shall prepare his burnt offering and his peace offerings, as he did on the sabbath day: then he shall go forth; and after his going forth [one] shall shut the gate.
-<small><sub>**BSB:**</sub></small>
-When the prince makes a freewill offering to the LORD, whether a burnt offering or a peace offering, the gate facing east must be opened for him. He is to offer his burnt offering or peace offering just as he does on the Sabbath day. Then he shall go out, and the gate must be closed after he goes out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.11|<< Ezekiel 46:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.13|Ezekiel 46:13 >>]]</td></tr></table>
 
 | Translation | Greek |

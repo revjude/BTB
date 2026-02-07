@@ -1,4 +1,4 @@
-**1 Samuel 17:38** 
+**1 Samuel 17:38**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Saul clothed David in his own tunic, put a bronze helmet on his head, and d
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.37|<< 1 Samuel 17:37]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.39|1 Samuel 17:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he clothed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3847\|יַּלְבֵּ֨שׁ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yal.Besh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֤וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

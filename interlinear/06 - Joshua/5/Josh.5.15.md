@@ -1,4 +1,4 @@
-**Joshua 5:15** 
+**Joshua 5:15**<big><big>[[Josh.5.13 The Commander of the LORD’s Army|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the captain of the LORD’S host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest [is] holy. And Joshua did so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Commander of the LORD’s army replied, “Take off your sandals, for the pl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.14|<< Joshua 5:14]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.1|Joshua 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] commander of  |**<big>&#8207;[[H8269\|שַׂר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

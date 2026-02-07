@@ -1,4 +1,4 @@
-**Deuteronomy 19:5** 
+**Deuteronomy 19:5**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If he goes into the forest with his neighbor to cut timber and swings his axe to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.4|<< Deuteronomy 19:4]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.6|Deuteronomy 19:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and who  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will go  |**<big>&#8207;[[H0935G\|יָבֹ֨א]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:12** 
 <small><sub>**LXX:**</sub></small>
 And the man said to Joab, And if you rendered unto  my hands a thousand shekels of silver, in no way would I put  my hand against the son of the king. For in  our ears the king gave charge to you, and \[to\] Abishai, and \[to\] Ittai, saying, Guard for me the young man  Absalom, 
-<small><sub>**KJV:**</sub></small>
-And the man said unto Joab, Though I should receive a thousand [shekels] of silver in mine hand, [yet] would I not put forth mine hand against the king’s son: for in our hearing the king charged thee and Abishai and Ittai, saying, Beware that none [touch] the young man Absalom.
-<small><sub>**BSB:**</sub></small>
-The man replied, “Even if a thousand shekels of silver were weighed out into my hands, I would not raise my hand against the son of the king. For we heard the king command you and Abishai and Ittai, ‘Protect the young man Absalom for my sake.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.11|<< 2 Samuel 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.13|2 Samuel 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

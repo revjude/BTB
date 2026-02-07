@@ -1,4 +1,4 @@
-**Exodus 15:14** 
+**Exodus 15:14**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The people shall hear, [and] be afraid: sorrow shall take hold on the inhabitants of Palestina.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The nations will hear and tremble; anguish will grip the dwellers of Philistia.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.13|<< Exodus 15:13]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.15|Exodus 15:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have heard  |**<big>&#8207;[[H8085G\|שָֽׁמְע֥וּ]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peoples  |**<big>&#8207;[[H5971A\|עַמִּ֖ים]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

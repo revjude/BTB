@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:3** 
 <small><sub>**LXX:**</sub></small>
 The end is come now; the end to you. And I shall send  my rage. I \[am\] against you, and I shall punish you in  your ways, and I shall impute against you all  your abominations. 
-<small><sub>**KJV:**</sub></small>
-Now [is] the end [come] upon thee, and I will send mine anger upon thee, and will judge thee according to thy ways, and will recompense upon thee all thine abominations.
-<small><sub>**BSB:**</sub></small>
-The end is now upon you, and I will unleash My anger against you. I will judge you according to your ways and repay you for all your abominations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.2|<< Ezekiel 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.4|Ezekiel 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

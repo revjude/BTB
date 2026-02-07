@@ -1,4 +1,4 @@
-**2 Chronicles 19:2** 
+**2 Chronicles 19:2**<big><big>[[2Chr.19.1 Jehoshaphat Reproved by Jehu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore [is] wrath upon thee from before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jehu son of Hanani the seer went out to confront him and said to King Jehoshapha
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.1|<< 2 Chronicles 19:1]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.3|2 Chronicles 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

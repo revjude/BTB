@@ -1,12 +1,12 @@
-**1 Corinthians 16:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:8**<big><big>[[1Cor.16.5 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I will tarry at Ephesus until Pentecost.
 <small><sub>**BSB:**</sub></small>
 But I will stay in Ephesus until Pentecost,
 <small><sub>**Literal:**</sub></small>
 I will remain however in Ephesus until <the> Pentecost;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.7|<< 1 Corinthians 16:7]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.9|1 Corinthians 16:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will remain [^1] |**<big>[[G1961\|ἐπιμενῶ]]</big>**  |epimenō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

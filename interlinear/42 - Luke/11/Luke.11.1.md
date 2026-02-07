@@ -1,12 +1,12 @@
-**Luke 11:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:1**<big><big>[[Luke.11.1 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that, as he was praying in a certain place, when he ceased, one of his disciples said unto him, Lord, teach us to pray, as John also taught his disciples.
 <small><sub>**BSB:**</sub></small>
 One day in a place where Jesus had just finished praying, one of His disciples requested, “Lord, teach us to pray, just as John taught his disciples.”
 <small><sub>**Literal:**</sub></small>
 And it came to pass while <the> being He in a place certain praying, when He ceased, said one of the disciples of Him to Him; Lord, do teach us to pray even as also John taught the disciples of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.42|<< Luke 10:42]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.2|Luke 11:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

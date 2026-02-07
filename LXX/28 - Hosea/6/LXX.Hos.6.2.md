@@ -1,10 +1,7 @@
 **LXX Hosea 6:2** 
 <small><sub>**LXX:**</sub></small>
 He will heal us after two days, on the third day we shall rise up, and we shall live before him. 
-<small><sub>**KJV:**</sub></small>
-After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
-<small><sub>**BSB:**</sub></small>
-After two days He will revive us; on the third day He will raise us up, that we may live in His presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.1|<< Hosea 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.3|Hosea 6:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 6:2** is...

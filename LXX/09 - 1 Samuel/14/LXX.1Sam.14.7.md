@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:7** 
 <small><sub>**LXX:**</sub></small>
 And the one carrying his weapons said to him, You do all what ever  your heart should will, turn yourself! Behold, I am with you. As  your heart  my heart. 
-<small><sub>**KJV:**</sub></small>
-And his armourbearer said unto him, Do all that [is] in thine heart: turn thee; behold, I [am] with thee according to thy heart.
-<small><sub>**BSB:**</sub></small>
-His armor-bearer replied, “Do all that is in your heart. Go ahead; I am with you heart and soul.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.6|<< 1 Samuel 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.8|1 Samuel 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

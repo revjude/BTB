@@ -1,10 +1,7 @@
 **LXX Psalm 139:14** 
 <small><sub>**LXX:**</sub></small>
 I will make acknowledgment to you, for fearfully you caused wonder; \[the\] wonders  of your works; and  my soul knows exceedingly. 
-<small><sub>**KJV:**</sub></small>
-I will praise thee; for I am fearfully [and] wonderfully made: marvellous [are] thy works; and [that] my soul knoweth right well.
-<small><sub>**BSB:**</sub></small>
-I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.13|<< Psalm 139:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.15|Psalm 139:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 139:14** is...

@@ -1,4 +1,4 @@
-**Daniel 6:22** (6:23)
+**Daniel 6:22**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ My God sent His angel and shut the mouths of the lions. They have not hurt me, f
 > $\quad$ referenced by: [[Heb.11.33|Heb 11:33]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God my  |**<big>&#8207;[[H0426\|אֱלָהִ֞]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.la.H<small><sup>[[ANcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sent  |**<big>&#8207;[[H7972\|שְׁלַ֣ח]]&#8207; </big>**| she.Lach<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 10:17
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:17**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So then faith [cometh] by hearing, and hearing by the word of God.
 <small><sub>**BSB:**</sub></small>
 Consequently, faith comes by hearing, and hearing by the word of Christ.
 <small><sub>**Literal:**</sub></small>
 So <the> faith [is] from hearing <the> and hearing through declaration of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.16|<< Romans 10:16]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.18|Romans 10:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G0686\|ἄρα]]</big>**  |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

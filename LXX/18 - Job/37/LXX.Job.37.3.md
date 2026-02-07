@@ -1,10 +1,7 @@
 **LXX Job 37:3** 
 <small><sub>**LXX:**</sub></small>
 Underneath all the heaven  \[is\] his sovereignty, and  his light \[is\] upon \[the\] wings of the earth. 
-<small><sub>**KJV:**</sub></small>
-He directeth it under the whole heaven, and his lightning unto the ends of the earth.
-<small><sub>**BSB:**</sub></small>
-He unleashes His lightning beneath the whole sky and sends it to the ends of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.2|<< Job 37:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.4|Job 37:4 >>]]</td></tr></table>
 
 | Translation | Greek |

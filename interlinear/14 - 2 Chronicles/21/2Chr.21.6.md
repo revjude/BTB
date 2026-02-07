@@ -1,4 +1,4 @@
-**2 Chronicles 21:6** 
+**2 Chronicles 21:6**<big><big>[[2Chr.21.1 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he walked in the way of the kings of Israel, like as did the house of Ahab: for he had the daughter of Ahab to wife: and he wrought [that which was] evil in the eyes of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jehoram walked in the ways of the kings of Israel, just as the house of Ahab
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.5|<< 2 Chronicles 21:5]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.7|2 Chronicles 21:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he walked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980I\|יֵּ֜לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] way of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1870G\|דֶ֣רֶךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

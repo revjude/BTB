@@ -1,4 +1,4 @@
-**1 Chronicles 22:10** 
+**1 Chronicles 22:10**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall build an house for my name; and he shall be my son, and I [will be] his father; and I will establish the throne of his kingdom over Israel for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is the one who will build a house for My Name. He will be My son, and I will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.9|<< 1 Chronicles 22:9]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.11|1 Chronicles 22:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will build  |**<big>&#8207;[[H1129\|יִבְנֶ֥ה]]&#8207; </big>**| yiv.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

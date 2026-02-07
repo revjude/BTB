@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:27** 
 <small><sub>**LXX:**</sub></small>
 And now receive  this blessing which your maidservant has brought \[to\] my master! and you shall give \[it\] to the servants  standing beside  my master. 
-<small><sub>**KJV:**</sub></small>
-And now this blessing which thine handmaid hath brought unto my lord, let it even be given unto the young men that follow my lord.
-<small><sub>**BSB:**</sub></small>
-Now let this gift your servant has brought to my lord be given to the young men who follow you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.26|<< 1 Samuel 25:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.28|1 Samuel 25:28 >>]]</td></tr></table>
 
 | Translation | Greek |

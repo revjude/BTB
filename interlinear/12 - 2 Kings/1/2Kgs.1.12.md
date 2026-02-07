@@ -1,4 +1,4 @@
-**2 Kings 1:12** 
+**2 Kings 1:12**<big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah answered and said unto them, If I [be] a man of God, let fire come down from heaven, and consume thee and thy fifty. And the fire of God came down from heaven, and consumed him and his fifty.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Again Elijah replied, “If I am a man of God, may fire come down from heaven an
 > $\quad$ referenced by: [[Luke.9.54|Luke 9:54]] ☩ [[Rev.11.5|Rev 11:5]] ☩ [[Rev.20.9|Rev 20:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֣עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elijah  |**<big>&#8207;[[H0452G\|אֵלִיָּה֮]]&#8207; </big>**| 'e.li.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

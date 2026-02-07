@@ -1,10 +1,7 @@
 **LXX Psalm 31:2** 
 <small><sub>**LXX:**</sub></small>
 Lean your ear to me! Hasten  to take me out! Become to me as a defending God! and for a house of refuge  to deliver me. 
-<small><sub>**KJV:**</sub></small>
-Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.
-<small><sub>**BSB:**</sub></small>
-Incline Your ear to me; come quickly to my rescue. Be my rock of refuge, the stronghold of my deliverance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.1|<< Psalm 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.3|Psalm 31:3 >>]]</td></tr></table>
 
 | Translation | Greek |

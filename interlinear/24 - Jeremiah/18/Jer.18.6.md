@@ -1,4 +1,4 @@
-**Jeremiah 18:6** 
+**Jeremiah 18:6**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay [is] in the potter’s hand, so [are] ye in mine hand, O house of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, 
 > $\quad$ referenced by: [[Rom.9.21|Rom 9:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ like the potter  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H3335H\|יּוֹצֵ֨ר]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> kha<small><sup>[[HRd]]</sup></small> i.yo.Tzer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

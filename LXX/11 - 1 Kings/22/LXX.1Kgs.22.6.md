@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:6** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel gathered together all the prophets, about four hundred men. And said to them, Shall I go unto Ramoth Gilead for war, or wait? And they said, Ascend! for by giving, \[the\] <span class="smallcaps">lord</span> shall give into \[the\] hands of the king. 
-<small><sub>**KJV:**</sub></small>
-Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramothgilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver [it] into the hand of the king.
-<small><sub>**BSB:**</sub></small>
-So the king of Israel assembled the prophets, about four hundred men, and asked them, “Should I go to war against Ramoth-gilead, or should I refrain?” “Go up,” they replied, “and the Lord will deliver it into the hand of the king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.5|<< 1 Kings 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.7|1 Kings 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:20** 
 <small><sub>**LXX:**</sub></small>
 And indeed in your conscience you should not curse a king; and in \[the\] closets of your bedrooms you should not curse a rich \[man\]. For a winged creature  of heaven shall carry  your voice, and the one having the wings shall report your word. 
-<small><sub>**KJV:**</sub></small>
-Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.
-<small><sub>**BSB:**</sub></small>
-Do not curse the king even in your thoughts, or curse the rich even in your bedroom, for a bird of the air may carry your words, and a winged creature may report your speech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.19|<< Ecclesiastes 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.1|Ecclesiastes 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

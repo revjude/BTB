@@ -1,10 +1,7 @@
 **LXX Psalm 73:22** 
 <small><sub>**LXX:**</sub></small>
 And I being with contempt, and not knowing, became brutish before you. 
-<small><sub>**KJV:**</sub></small>
-So foolish [was] I, and ignorant: I was [as] a beast before thee.
-<small><sub>**BSB:**</sub></small>
-I was senseless and ignorant; I was a brute beast before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.21|<< Psalm 73:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.23|Psalm 73:23 >>]]</td></tr></table>
 
 | Translation | Greek |

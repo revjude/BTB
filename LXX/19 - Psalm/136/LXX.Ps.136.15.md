@@ -1,10 +1,7 @@
 **LXX Psalm 136:15** 
 <small><sub>**LXX:**</sub></small>
 And the one shaking off Pharaoh and  his force into \[the\] red sea, for into the eon  \[is\] his mercy. 
-<small><sub>**KJV:**</sub></small>
-But overthrew Pharaoh and his host in the Red sea: for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-but swept Pharaoh and his army into the Red Sea. His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.136.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.14|<< Psalm 136:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.16|Psalm 136:16 >>]]</td></tr></table>
 
 | Translation | Greek |

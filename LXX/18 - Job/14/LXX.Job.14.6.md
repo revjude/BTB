@@ -1,10 +1,7 @@
 **LXX Job 14:6** 
 <small><sub>**LXX:**</sub></small>
 Separate from him! that he should be still, and he shall think well of the existence as the hireling. 
-<small><sub>**KJV:**</sub></small>
-Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.
-<small><sub>**BSB:**</sub></small>
-look away from him and let him rest, so he can enjoy his day as a hired hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.5|<< Job 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.7|Job 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

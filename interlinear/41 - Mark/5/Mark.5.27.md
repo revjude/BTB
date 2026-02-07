@@ -1,12 +1,12 @@
-**Mark 5:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:27**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When she had heard of Jesus, came in the press behind, and touched his garment.
 <small><sub>**BSB:**</sub></small>
 When the woman heard about Jesus, she came up through the crowd behind Him and touched His cloak.
 <small><sub>**Literal:**</sub></small>
 having heard the [things] concerning <the> Jesus, having come up in the crowd behind [Him] she touched the clothing of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.26|<< Mark 5:26]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.28|Mark 5:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having heard |**<big>[[G0191\|ἀκούσασα]]</big>**  |akousasa <small><sup>[[V-AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [things] |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="WH">o</abbr> | |

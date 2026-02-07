@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:9** 
 <small><sub>**LXX:**</sub></small>
 And Amaziah said to the man  of God, And what shall I do with the hundred talents which I gave to the force of Israel? And the man of God said, It is with the <span class="smallcaps">lord</span> to give to you more of these. 
-<small><sub>**KJV:**</sub></small>
-And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The LORD is able to give thee much more than this.
-<small><sub>**BSB:**</sub></small>
-Amaziah asked the man of God, “What should I do about the hundred talents I have given to the troops of Israel?” And the man of God replied, “The LORD is able to give you much more than this.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.8|<< 2 Chronicles 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.10|2 Chronicles 25:10 >>]]</td></tr></table>
 
 | Translation | Greek |

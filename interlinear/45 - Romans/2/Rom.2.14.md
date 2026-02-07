@@ -1,12 +1,12 @@
-**Romans 2:14
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:14**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:
 <small><sub>**BSB:**</sub></small>
 Indeed, when Gentiles, who do not have the law, do by nature what the law requires, they are a law to themselves, even though they do not have the law.
 <small><sub>**Literal:**</sub></small>
 When for Gentiles <the> not the law having by nature the [things] of the law they may do, these [the] Law not having to themselves are a law,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.13|<< Romans 2:13]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.15|Romans 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

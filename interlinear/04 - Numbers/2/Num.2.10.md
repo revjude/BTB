@@ -1,4 +1,4 @@
-**Numbers 2:10** 
+**Numbers 2:10**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the south side [shall be] the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben [shall be] Elizur the son of Shedeur.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the south side, the divisions of Reuben are to camp under their standard: The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.9|<< Numbers 2:9]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.11|Numbers 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] standard of  |**<big>&#8207;[[H1714\|דֶּ֣גֶל]]&#8207; </big>**| De.gel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] camp of  |**<big>&#8207;[[H4264\|מַחֲנֵ֧ה]]&#8207; </big>**| ma.cha.Neh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

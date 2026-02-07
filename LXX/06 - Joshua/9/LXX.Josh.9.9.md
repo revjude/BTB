@@ -1,10 +1,7 @@
 **LXX Joshua 9:9** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, your servants have come from out of a land far off exceedingly in \[the\] name of \[the\] <span class="smallcaps">lord</span>  your God. For we have heard  his name, and all as much as he did in Egypt; 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, From a very far country thy servants are come because of the name of the LORD thy God: for we have heard the fame of him, and all that he did in Egypt,
-<small><sub>**BSB:**</sub></small>
-“Your servants have come from a very distant land,” they replied, “because of the fame of the LORD your God. For we have heard the reports about Him: all that He did in Egypt,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.8|<< Joshua 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.10|Joshua 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

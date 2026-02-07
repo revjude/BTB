@@ -1,10 +1,7 @@
 **LXX Job 4:20** 
 <small><sub>**LXX:**</sub></small>
 And from morning until evening they are no longer; by \[their\] not being able to help themselves they themselves perish. 
-<small><sub>**KJV:**</sub></small>
-They are destroyed from morning to evening: they perish for ever without any regarding [it].
-<small><sub>**BSB:**</sub></small>
-They are smashed to pieces from dawn to dusk; unnoticed, they perish forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.19|<< Job 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.21|Job 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

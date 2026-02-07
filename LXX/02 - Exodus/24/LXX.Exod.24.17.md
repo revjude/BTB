@@ -1,10 +1,7 @@
 **LXX Exodus 24:17** 
 <small><sub>**LXX:**</sub></small>
 And the sight of the glory of \[the\] <span class="smallcaps">lord</span> \[was\] as fire blazing upon the top of the mountain before the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the sight of the glory of the LORD [was] like devouring fire on the top of the mount in the eyes of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-And the sight of the glory of the LORD was like a consuming fire on the mountaintop in the eyes of the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.16|<< Exodus 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.18|Exodus 24:18 >>]]</td></tr></table>
 
 | Translation | Greek |

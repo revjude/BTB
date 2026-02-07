@@ -1,10 +1,7 @@
 **LXX Exodus 8:26** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, It is not possible to be so. For the abominations of the Egyptians we sacrifice \[to the\] <span class="smallcaps">lord</span>  our God. For if we should sacrifice the abominations of the Egyptians before them, we shall have stones thrown \[at us\]. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?
-<small><sub>**BSB:**</sub></small>
-But Moses replied, “It would not be right to do that, because the sacrifices we offer to the LORD our God would be detestable to the Egyptians. If we offer sacrifices that are detestable before the Egyptians, will they not stone us?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.25|<< Exodus 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.27|Exodus 8:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 10:4** 
+**Proverbs 10:4**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He becometh poor that dealeth [with] a slack hand: but the hand of the diligent maketh rich.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Idle hands make one poor, but diligent hands bring wealth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.3|<< Proverbs 10:3]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.5|Proverbs 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] poor  |**<big>&#8207;[[H7326\|רָ֗אשׁ]]&#8207; </big>**| Rash<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] works  |**<big>&#8207;[[H6213H\|עֹשֶׂ֥ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

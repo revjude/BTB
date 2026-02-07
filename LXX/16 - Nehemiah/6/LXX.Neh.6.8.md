@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:8** 
 <small><sub>**LXX:**</sub></small>
 And I sent to him, saying, It happened not as  these words which you say, for you lie from \[the\] heart about them. 
-<small><sub>**KJV:**</sub></small>
-Then I sent unto him, saying, There are no such things done as thou sayest, but thou feignest them out of thine own heart.
-<small><sub>**BSB:**</sub></small>
-Then I sent him this reply: “There is nothing to these rumors you are spreading; you are inventing them in your own mind.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.7|<< Nehemiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.9|Nehemiah 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

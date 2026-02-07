@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:4** 
 <small><sub>**LXX:**</sub></small>
 And the word of the king excelled against Joab, and  the rulers of the force. And Joab went forth, and the rulers of the force before the king to number the people  of Israel. 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding the king’s word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the king’s word prevailed against Joab and against the commanders of the army. So Joab and the commanders of the army departed from the presence of the king to register the troops of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.3|<< 2 Samuel 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.5|2 Samuel 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Timothy 1:10
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:10**<big><big>[[1Tim.1.3 Correcting False Teachers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;
 <small><sub>**BSB:**</sub></small>
 for the sexually immoral, for homosexuals, for slave traders and liars and perjurers, and for anyone else who is averse to sound teaching
 <small><sub>**Literal:**</sub></small>
 for the sexually immoral, for homosexuals, for enslavers, for liars, for perjurers, and if anything other which to sound teaching is opposed<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.9|<< 1 Timothy 1:9]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.11|1 Timothy 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for the sexually immoral, |**<big>[[G4205\|πόρνοις,]]</big>**  |pornois <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for homosexuals, |**<big>[[G0733\|ἀρσενοκοίταις,]]</big>**  |arsenokoitais <small><sup>[[N-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

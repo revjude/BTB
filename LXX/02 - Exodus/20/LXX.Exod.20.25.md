@@ -1,10 +1,7 @@
 **LXX Exodus 20:25** 
 <small><sub>**LXX:**</sub></small>
 And if you should make an altar of stones to me, you shall not build them cut into shape; for you have put your knife upon them, and they are defiled. 
-<small><sub>**KJV:**</sub></small>
-And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.
-<small><sub>**BSB:**</sub></small>
-Now if you make an altar of stones for Me, you must not build it with stones shaped by tools; for if you use a chisel on it, you will defile it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.24|<< Exodus 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.26|Exodus 20:26 >>]]</td></tr></table>
 
 | Translation | Greek |

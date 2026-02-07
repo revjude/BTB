@@ -1,4 +1,4 @@
-**Isaiah 43:21** 
+**Isaiah 43:21**<big><big>[[Isa.43.14 A Way in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This people have I formed for myself; they shall shew forth my praise.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The people I formed for Myself will declare My praise.
 > $\quad$ referenced by: [[1Pet.2.9c|1Pet 2:9c]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a people  |**<big>&#8207;[[H5971A\|עַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'am-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H2098\|זוּ֙]]&#8207; </big>**| zu<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

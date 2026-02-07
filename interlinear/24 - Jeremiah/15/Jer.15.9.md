@@ -1,4 +1,4 @@
-**Jeremiah 15:9** 
+**Jeremiah 15:9**<big><big>[[Jer.15.1 Judgment to Continue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She that hath borne seven languisheth: she hath given up the ghost; her sun is gone down while [it was] yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mother of seven will grow faint; she will breathe her last breath. Her sun w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.8|<< Jeremiah 15:8]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.10|Jeremiah 15:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | she has grown feeble  |**<big>&#8207;[[H0535\|אֻמְלְלָ֞ה]]&#8207; </big>**| 'um.le.Lah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] bore  |**<big>&#8207;[[H3205\|יֹלֶ֣דֶת]]&#8207; </big>**| yo.Le.det<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

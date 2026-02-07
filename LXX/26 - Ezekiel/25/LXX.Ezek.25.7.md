@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:7** 
 <small><sub>**LXX:**</sub></small>
 on account of this, behold, I will stretch out  my hand against you, and I will appoint you for ravaging among the nations; and I will utterly destroy you from out of the peoples, and I will destroy you from out of the regions by destruction; and you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Behold, therefore I will stretch out mine hand upon thee, and will deliver thee for a spoil to the heathen; and I will cut thee off from the people, and I will cause thee to perish out of the countries: I will destroy thee; and thou shalt know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-therefore I will indeed stretch out My hand against you and give you as plunder to the nations. I will cut you off from the peoples and exterminate you from the countries. I will destroy you, and you will know that I am the LORD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.6|<< Ezekiel 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.8|Ezekiel 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

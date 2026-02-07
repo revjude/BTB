@@ -1,12 +1,12 @@
-**Ephesians 1:19
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:19**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And what [is] the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,
 <small><sub>**BSB:**</sub></small>
 and the surpassing greatness of His power to us who believe. These are in accordance with the working of His mighty strength,
 <small><sub>**Literal:**</sub></small>
 and what [is] the surpassing greatness of the power of Him toward us those believing according to the working of the might of the strength of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.18|<< Ephesians 1:18]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.20|Ephesians 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

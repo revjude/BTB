@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:2** 
 <small><sub>**LXX:**</sub></small>
 And \[before\] yesterday and \[the\] third \[day before\], Saul \[was\] king over us, you were the one leading out and bringing in  Israel. And the <span class="smallcaps">lord</span> said to you, You tend  my people  Israel! and you will be for leader over  my people Israel. 
-<small><sub>**KJV:**</sub></small>
-Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.
-<small><sub>**BSB:**</sub></small>
-Even in times past, while Saul was king over us, you were the one who led Israel out and brought them back. And to you the LORD said, ‘You will shepherd My people Israel, and you will be ruler over them.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.1|<< 2 Samuel 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.3|2 Samuel 5:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Samuel 5:2** is...

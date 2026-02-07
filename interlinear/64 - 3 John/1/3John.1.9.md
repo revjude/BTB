@@ -1,12 +1,12 @@
-**3 John 1:9
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:9**<big><big>[[3John.1.9 Diotrephes and Demetrius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.
 <small><sub>**BSB:**</sub></small>
 I have written to the church about this, but Diotrephes, who loves to be first, will not accept our instruction.
 <small><sub>**Literal:**</sub></small>
 I have written something to the church; but the [one] loving to be first among them Diotrephes not welcomes us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.8|<< 3 John 1:8]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.10|3 John 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have written |**<big>[[G1125\|Ἔγραψά]]</big>**  |Egrapsa <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | something |**<big>[[G5100\|τι]]</big>**  |ti <small><sup>[[X-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

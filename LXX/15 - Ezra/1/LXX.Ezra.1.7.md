@@ -1,10 +1,7 @@
 **LXX Ezra 1:7** 
 <small><sub>**LXX:**</sub></small>
 And  king Cyrus brought forth the items of \[the\] house of \[the\] <span class="smallcaps">lord</span> which Nebuchadnezzar took from Jerusalem, and \[had\] put them in \[the\] house of his god. 
-<small><sub>**KJV:**</sub></small>
-Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;
-<small><sub>**BSB:**</sub></small>
-King Cyrus also brought out the articles belonging to the house of the LORD that Nebuchadnezzar had carried away from Jerusalem and placed in the temple of his gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.6|<< Ezra 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.8|Ezra 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

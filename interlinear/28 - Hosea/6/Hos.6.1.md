@@ -1,4 +1,4 @@
-**Hosea 6:1** 
+**Hosea 6:1**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, let us return to the LORD. For He has torn us to pieces, but He will heal 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.15|<< Hosea 5:15]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.2|Hosea 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H1980K\|לְכוּ֙]]&#8207; </big>**| le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so let us return  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7725G\|נָשׁ֣וּבָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Shu.vah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

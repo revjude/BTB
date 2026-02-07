@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:22** 
 <small><sub>**LXX:**</sub></small>
 For I die in  this land, and I shall not pass over  this Jordan. But you shall pass over and shall inherit  this good land. 
-<small><sub>**KJV:**</sub></small>
-But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land.
-<small><sub>**BSB:**</sub></small>
-For I will not be crossing the Jordan, because I must die in this land. But you shall cross over and take possession of that good land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.21|<< Deuteronomy 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.23|Deuteronomy 4:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 20:18** 
 <small><sub>**LXX:**</sub></small>
 For in closing up, \[the\] <span class="smallcaps">lord</span> closed up outside every  womb in the house of Abimelech, because of Sarah the wife of Abraham. 
-<small><sub>**KJV:**</sub></small>
-For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham’s wife.
-<small><sub>**BSB:**</sub></small>
-for on account of Abraham’s wife Sarah, the LORD had completely closed all the wombs in Abimelech’s household.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.17|<< Genesis 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.1|Genesis 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 7:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:17**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was entered into the house from the people, his disciples asked him concerning the parable.
 <small><sub>**BSB:**</sub></small>
 After Jesus had left the crowd and gone into the house, His disciples inquired about the parable.
 <small><sub>**Literal:**</sub></small>
 And when He went into [the] house from the crowd, were asking Him the disciples of Him concerning the parable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.16|<< Mark 7:16]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.18|Mark 7:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

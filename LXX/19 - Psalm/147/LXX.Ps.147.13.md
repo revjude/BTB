@@ -1,10 +1,7 @@
 **LXX Psalm 147:13** 
 <small><sub>**LXX:**</sub></small>
 For he strengthened the bars  of your gates; he blessed  your sons by you. 
-<small><sub>**KJV:**</sub></small>
-For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.
-<small><sub>**BSB:**</sub></small>
-For He strengthens the bars of your gates and blesses the children within you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.147.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.12|<< Psalm 147:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.14|Psalm 147:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 86:8** 
 <small><sub>**LXX:**</sub></small>
 There is not one likened to you among gods, O <span class="smallcaps">lord</span>; and there is not \[one likened\] according to  your works. 
-<small><sub>**KJV:**</sub></small>
-Among the gods [there is] none like unto thee, O Lord; neither [are there any works] like unto thy works.
-<small><sub>**BSB:**</sub></small>
-O Lord, there is none like You among the gods, nor any works like Yours.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.7|<< Psalm 86:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.9|Psalm 86:9 >>]]</td></tr></table>
 
 | Translation | Greek |

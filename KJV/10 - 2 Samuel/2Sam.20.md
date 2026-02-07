@@ -1,6 +1,6 @@
 (KJV) **2 Samuel 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19|<< 2 Samuel 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21|2 Samuel 21 >>]]</td></tr></table>
 
-***Sheba’s Rebellion*** ^bsb781
+<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥃]]</big></big>***Sheba’s Rebellion***
 
  $\quad$ <span class="startversemarker">[</span>**[[2Sam.20.1|1]]**<span class="endversemarker">]</span> And there<small><small>[^2]</small></small> happened to be there a man<small><small>[^3]</small></small> of Belial, whose name \[was\] Sheba, the son of Bichri, a Benjamite: and he blew<small><small>[^4]</small></small> a trumpet, and said, We have<small><small>[^5]</small></small> no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel. <span class="startversemarker">[</span>**[[2Sam.20.2|2]]**<span class="endversemarker">]</span> So every man<small><small>[^6]</small></small> of Israel went up from after David, \[and\] followed Sheba the son of Bichri: but the men<small><small>[^7]</small></small> of Judah clave unto their king, from Jordan<small><small>[^8]</small></small> even to Jerusalem. 
 

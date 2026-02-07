@@ -1,4 +1,4 @@
-**Ruth 2:11** 
+**Ruth 2:11**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and [how] thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Boaz replied, “I have been made fully aware of all you have done for your moth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.10|<< Ruth 2:10]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.12|Ruth 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֤עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Boaz  |**<big>&#8207;[[H1162G\|בֹּ֙עַז֙]]&#8207; </big>**| bo.'az<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 2:28** 
+**1 Samuel 2:28**<big><big>[[1Sam.2.27 A Prophecy against the House of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And did I choose him out of all the tribes of Israel [to be] my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And out of all the tribes of Israel I selected your father to be My priest, to o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.27|<< 1 Samuel 2:27]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.29|1 Samuel 2:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I chose  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0977\|בָחֹ֣ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Chor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹ֠ת]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.t<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

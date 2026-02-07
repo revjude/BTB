@@ -1,4 +1,4 @@
-**1 Kings 5:17** (5:31)
+**1 Kings 5:17**<big><big>[[1Kgs.5.13 Solomon’s Labor Force|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king commanded, and they brought great stones, costly stones, [and] hewed stones, to lay the foundation of the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the king commanded them to quarry large, costly stones to lay the foundation
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.16|<< 1 Kings 5:16]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.18|1 Kings 5:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he commanded  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6680\|יְצַ֣ו]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Tzav<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֡לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

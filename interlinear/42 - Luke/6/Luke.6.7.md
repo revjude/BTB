@@ -1,12 +1,12 @@
-**Luke 6:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:7**<big><big>[[Luke.6.6 Jesus Heals on the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him.
 <small><sub>**BSB:**</sub></small>
 Looking for a reason to accuse Jesus, the scribes and Pharisees were watching Him closely to see if He would heal on the Sabbath.
 <small><sub>**Literal:**</sub></small>
 Were closely watching now Him the scribes and the Pharisees whether on the Sabbath He heals that they may find [reason] to accuse Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.6|<< Luke 6:6]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.8|Luke 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were closely watching [^1] |**<big>[[G3906\|παρετηροῦντο]]</big>**  |paretērounto <small><sup>[[V-IMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

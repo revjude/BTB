@@ -1,10 +1,7 @@
 **LXX Numbers 13:7** 
 <small><sub>**LXX:**</sub></small>
 Of the tribe of Issachar \[was\] Igal son of Joseph. 
-<small><sub>**KJV:**</sub></small>
-Of the tribe of Issachar, Igal the son of Joseph.
-<small><sub>**BSB:**</sub></small>
-from the tribe of Issachar, Igal son of Joseph;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.6|<< Numbers 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.8|Numbers 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

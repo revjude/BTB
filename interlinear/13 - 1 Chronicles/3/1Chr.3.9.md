@@ -1,4 +1,4 @@
-**1 Chronicles 3:9** 
+**1 Chronicles 3:9**<big><big>[[1Chr.3.1 The Descendants of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [These were] all the sons of David, beside the sons of the concubines, and Tamar their sister.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were all the sons of David, besides the sons by his concubines. And Tamar 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.8|<< 1 Chronicles 3:8]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.10|1 Chronicles 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

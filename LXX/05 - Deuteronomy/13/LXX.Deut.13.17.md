@@ -1,10 +1,7 @@
 **LXX Deuteronomy 13:17** 
 <small><sub>**LXX:**</sub></small>
 And you shall not cleave to anything of that being offered up for consumption as anathema in  your hand so that \[the\] <span class="smallcaps">lord</span> should be turned away from the rage  of his anger, and should grant to you mercy, and should show mercy on you, and should multiply you in which manner \[the\] <span class="smallcaps">lord</span> swore by an oath \[to\] your fathers; 
-<small><sub>**KJV:**</sub></small>
-And there shall cleave nought of the cursed thing to thine hand: that the LORD may turn from the fierceness of his anger, and shew thee mercy, and have compassion upon thee, and multiply thee, as he hath sworn unto thy fathers;
-<small><sub>**BSB:**</sub></small>
-Nothing devoted to destruction shall cling to your hands, so that the LORD will turn from His fierce anger, grant you mercy, show you compassion, and multiply you as He swore to your fathers,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.16|<< Deuteronomy 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.18|Deuteronomy 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 5:17** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall take clean living water in an earthenware receptacle, and \[some\] of the earth  being upon the floor of the tent of the testimony; and taking \[it\], the priest shall put it into the water. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put [it] into the water:
-<small><sub>**BSB:**</sub></small>
-Then he is to take some holy water in a clay jar and put some of the dust from the tabernacle floor into the water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.16|<< Numbers 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.18|Numbers 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

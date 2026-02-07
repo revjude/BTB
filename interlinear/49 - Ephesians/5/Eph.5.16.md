@@ -1,12 +1,12 @@
-**Ephesians 5:16
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:16**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Redeeming the time, because the days are evil.
 <small><sub>**BSB:**</sub></small>
 redeeming the time, because the days are evil.
 <small><sub>**Literal:**</sub></small>
 redeeming the time, because the days evil are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.15|<< Ephesians 5:15]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.17|Ephesians 5:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | redeeming |**<big>[[G1805\|ἐξαγοραζόμενοι]]</big>**  |exagorazomenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Mark 1:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:3**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
 <small><sub>**BSB:**</sub></small>
 “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.’”
@@ -10,7 +10,7 @@ The voice of one crying in the wilderness, Prepare ye the way of the Lord, make 
 > $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] voice |**<big>[[G5456G\|φωνὴ]]</big>**  |phōnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of one crying |**<big>[[G0994\|βοῶντος]]</big>**  |boōntos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

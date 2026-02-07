@@ -1,4 +1,4 @@
-**Psalms 64:4** (64:5)
+**Psalms 64:4**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ ambushing the innocent in seclusion, shooting suddenly, without fear.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.3|<< Psalms 64:3]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.5|Psalms 64:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to shoot  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3384A\|יר֣וֹת]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> Rot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> secret places  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4565\|מִּסְתָּרִ֣ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mis.ta.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

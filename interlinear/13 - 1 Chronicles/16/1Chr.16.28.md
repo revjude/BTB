@@ -1,4 +1,4 @@
-**1 Chronicles 16:28** 
+**1 Chronicles 16:28**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give unto the LORD, ye kindreds of the people, give unto the LORD glory and strength.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and st
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.27|<< 1 Chronicles 16:27]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.29|1 Chronicles 16:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ascribe  |**<big>&#8207;[[H3051\|הָב֤וּ]]&#8207; </big>**| ha.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָה֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

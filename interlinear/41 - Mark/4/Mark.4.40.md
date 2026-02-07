@@ -1,12 +1,12 @@
-**Mark 4:40
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:40**<big><big>[[Mark.4.35 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Why are ye so fearful? how is it that ye have no faith?
 <small><sub>**BSB:**</sub></small>
 “Why are you so afraid?” He asked. “Do you still have no faith?”
 <small><sub>**Literal:**</sub></small>
 And He said to them; Why fearful are you? Still not how not have you faith?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.39|<< Mark 4:39]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.41|Mark 4:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Daniel 1:20** 
+**Daniel 1:20**<big><big>[[Dan.1.17 Daniel’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in all matters of wisdom [and] understanding, that the king inquired of them, he found them ten times better than all the magicians [and] astrologers that [were] in all his realm.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In every matter of wisdom and understanding about which the king consulted them,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.19|<< Daniel 1:19]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.21|Daniel 1:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹ֗ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | matter of  |**<big>&#8207;[[H1697I\|דְּבַר֙]]&#8207; </big>**| de.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

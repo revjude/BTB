@@ -1,4 +1,4 @@
-**Jeremiah 36:32** 
+**Jeremiah 36:32**<big><big>[[Jer.36.27 Jeremiah Rewrites the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and there were added besides unto them many like words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jeremiah took another scroll and gave it to the scribe Baruch son of Neriah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.31|<< Jeremiah 36:31]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.1|Jeremiah 37:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jeremiah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3414L\|יִרְמְיָ֜הוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yir.me.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he took  |**<big>&#8207;[[H3947G\|לָקַ֣ח]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Nehemiah 7:39** 
+**Nehemiah 7:39**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priests: the descendants of Jedaiah (through the house of Jeshua), 973;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.38|<< Nehemiah 7:38]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.40|Nehemiah 7:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the priests  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֤י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

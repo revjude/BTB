@@ -1,10 +1,7 @@
 **LXX Psalm 58:6** 
 <small><sub>**LXX:**</sub></small>
  God broke  their teeth in  their mouths; the <span class="smallcaps">lord</span> fractured in pieces the molars of the lions. 
-<small><sub>**KJV:**</sub></small>
-Break their teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD.
-<small><sub>**BSB:**</sub></small>
-O God, shatter their teeth in their mouths; O LORD, tear out the fangs of the lions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.58.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.5|<< Psalm 58:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.7|Psalm 58:7 >>]]</td></tr></table>
 
 | Translation | Greek |

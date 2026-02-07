@@ -1,6 +1,6 @@
 (KJV) **Exodus 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21|<< Exodus 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23|Exodus 23 >>]]</td></tr></table>
 
-***Property Laws*** ^bsb202
+<big><big>[[Exod.22.1 Property Laws|⥃]]</big></big>***Property Laws***
 
  $\quad$ <span class="startversemarker">[</span>**[[Exod.22.1|1]]**<span class="endversemarker">]</span> If a man shall steal an ox, or a sheep<small><small>[^2]</small></small>, and kill it, or sell it; he shall<small><small>[^3]</small></small> restore five oxen<small><small>[^4]</small></small> for an ox, and four sheep for a sheep. 
 
@@ -14,7 +14,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.22.7|7]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.22.14|14]]**<span class="endversemarker">]</span> [¶]And if a man borrow<small><small>[^26]</small></small> \[ought\] of his neighbour, and it be hurt, or die, the owner thereof \[being\] not with it, he shall surely make \[it\] good<small><small>[^27]</small></small>. <span class="startversemarker">[</span>**[[Exod.22.15|15]]**<span class="endversemarker">]</span> \[But\] if the owner thereof \[be\] with it, he shall not make \[it\] good: if it \[be\] an hired \[thing\], it came for his hire<small><small>[^28]</small></small>.
 
-***Laws of Social Responsibility*** ^bsb203
+<big><big>[[Exod.22.16 Laws of Social Responsibility|⥃]]</big></big>***Laws of Social Responsibility***
 
  
 

@@ -1,4 +1,4 @@
-**Ecclesiastes 12:4** 
+**Ecclesiastes 12:4**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ when the doors to the street are shut and the sound of the mill fades away, when
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.3|<< Ecclesiastes 12:3]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.5|Ecclesiastes 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be shut up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5462\|סֻגְּר֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> su.ge.Ru<small><sup>[[HVPq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] doors  |**<big>&#8207;[[H1817C\|דְלָתַ֙יִם֙]]&#8207; </big>**| de.la.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

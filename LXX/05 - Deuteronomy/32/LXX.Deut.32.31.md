@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:31** 
 <small><sub>**LXX:**</sub></small>
 For their gods are not as our God,  but our enemies are unthinking. 
-<small><sub>**KJV:**</sub></small>
-For their rock [is] not as our Rock, even our enemies themselves [being] judges.
-<small><sub>**BSB:**</sub></small>
-For their rock is not like our Rock, even our enemies concede.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.30|<< Deuteronomy 32:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.32|Deuteronomy 32:32 >>]]</td></tr></table>
 
 | Translation | Greek |

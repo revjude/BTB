@@ -1,10 +1,7 @@
 **LXX Psalm 119:37** 
 <small><sub>**LXX:**</sub></small>
 Turn  my eyes  to not behold folly! Enliven me in your way! 
-<small><sub>**KJV:**</sub></small>
-Turn away mine eyes from beholding vanity; [and] quicken thou me in thy way.
-<small><sub>**BSB:**</sub></small>
-Turn my eyes away from worthless things; revive me with Your word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.36|<< Psalm 119:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.38|Psalm 119:38 >>]]</td></tr></table>
 
 | Translation | Greek |

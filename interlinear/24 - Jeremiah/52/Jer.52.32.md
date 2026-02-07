@@ -1,4 +1,4 @@
-**Jeremiah 52:32** 
+**Jeremiah 52:32**<big><big>[[Jer.52.31 Jehoiachin Released from Prison|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And spake kindly unto him, and set his throne above the throne of the kings that [were] with him in Babylon,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he spoke kindly to Jehoiachin and set his throne above the thrones of the ot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.31|<< Jeremiah 52:31]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.33|Jeremiah 52:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with him  |**<big>&#8207;[[H0854\|אִתּ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'i.T<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

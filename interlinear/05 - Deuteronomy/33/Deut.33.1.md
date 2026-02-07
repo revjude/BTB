@@ -1,4 +1,4 @@
-**Deuteronomy 33:1** 
+**Deuteronomy 33:1**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the blessing, wherewith Moses the man of God blessed the children of Israel before his death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the blessing that Moses the man of God pronounced upon the Israelites be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.52|<< Deuteronomy 32:52]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.2|Deuteronomy 33:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the blessing  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1293\|בְּרָכָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.ra.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

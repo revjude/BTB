@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[To\] Damascus. Hamath was disgraced and Arpad; for they heard an evil report. They \[were\] startled; they were enraged; in no way shall they be able to rest. 
-<small><sub>**KJV:**</sub></small>
-Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; [there is] sorrow on the sea; it cannot be quiet.
-<small><sub>**BSB:**</sub></small>
-Concerning Damascus: “Hamath and Arpad are put to shame, for they have heard a bad report; they are agitated like the sea; their anxiety cannot be calmed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.22|<< Jeremiah 49:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.24|Jeremiah 49:24 >>]]</td></tr></table>
 
 | Translation | Greek |

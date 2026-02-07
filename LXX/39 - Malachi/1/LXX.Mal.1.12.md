@@ -1,10 +1,7 @@
 **LXX Malachi 1:12** 
 <small><sub>**LXX:**</sub></small>
 But you profane it in  your saying, \[The\] table of \[the\] <span class="smallcaps">lord</span> is polluted; and  his foods placed upon \[it\] \[are\] treated with contempt. 
-<small><sub>**KJV:**</sub></small>
-But ye have profaned it, in that ye say, The table of the LORD [is] polluted; and the fruit thereof, [even] his meat, [is] contemptible.
-<small><sub>**BSB:**</sub></small>
-“But you profane it when you say, ‘The table of the Lord is defiled, and as for its fruit, its food is contemptible.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.11|<< Malachi 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.13|Malachi 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

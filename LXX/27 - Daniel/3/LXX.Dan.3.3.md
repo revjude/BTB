@@ -1,10 +1,7 @@
 **LXX Daniel 3:3** 
 <small><sub>**LXX:**</sub></small>
 And gathered together the toparchs, supreme \[leaders\], commandants, leaders, sovereigns, great ones, the ones in authorities, and all the rulers of the regions, to the dedication of the image which Nebuchadnezzar the king stationed. And they stood before the image which Nebuchadnezzar stationed. 
-<small><sub>**KJV:**</sub></small>
-Then the princes, the governors, and captains, the judges, the treasurers, the counsellers, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.
-<small><sub>**BSB:**</sub></small>
-So the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the rulers of the provinces assembled for the dedication of the statue that King Nebuchadnezzar had set up, and they stood before it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.2|<< Daniel 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.4|Daniel 3:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 3:3** is...

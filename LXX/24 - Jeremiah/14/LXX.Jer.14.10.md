@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:10** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> \[to\] this people, They loved to move their feet, and spared not, and  God prospered not the way among them. Now the iniquity shall be remembered, and he visited  their sins. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the LORD doth not accept them; he will now remember their iniquity, and visit their sins.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says about this people: “Truly they love to wander; they have not restrained their feet. So the LORD does not accept them; He will now remember their iniquity and punish them for their sins.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.9|<< Jeremiah 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.11|Jeremiah 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

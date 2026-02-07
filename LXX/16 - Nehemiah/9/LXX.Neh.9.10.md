@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:10** 
 <small><sub>**LXX:**</sub></small>
 And you gave signs and miracles in Egypt to Pharaoh, and among all  his servants, and among all the people  of his land, for you knew that they extolled themselves above them; and you made for yourself a name as \[it is\] this day. 
-<small><sub>**KJV:**</sub></small>
-And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as [it is] this day.
-<small><sub>**BSB:**</sub></small>
-You performed signs and wonders against Pharaoh, all his officials, and all the people of his land, for You knew they had acted with arrogance against our fathers. You made a name for Yourself that endures to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.9|<< Nehemiah 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.11|Nehemiah 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

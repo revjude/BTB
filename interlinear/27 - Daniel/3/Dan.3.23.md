@@ -1,4 +1,4 @@
-**Daniel 3:23** 
+**Daniel 3:23**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these three men, Shadrach, Meshach, and Abednego, fell down bound into the midst of the burning fiery furnace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And these three men, Shadrach, Meshach, and Abednego, firmly bound, fell into th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.22|<< Daniel 3:22]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.24|Daniel 3:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and men the  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1400\|גֻבְרַיָּ֤]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> guv.rai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these  |**<big>&#8207;[[H0479\|אִלֵּךְ֙]]&#8207; </big>**| 'i.leKh<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

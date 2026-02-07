@@ -1,5 +1,5 @@
-**Matthew 21:42
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:42**<big><big>[[Matt.21.33 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto them, Did ye never read in the scriptures, The stone which the builders rejected, the same is become the head of the corner: this is the Lord’s doing, and it is marvellous in our eyes?
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “Have you never read in the Scriptures: ‘The stone the builders rejected has become the cornerstone. This is from the Lord, and it is marvelous in our eyes’?
@@ -10,7 +10,7 @@ Says to them <the> Jesus; surely sometime you did read in the Scriptures: [The] 
 > $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22-23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Genesis 46:26** 
+**Genesis 46:26**<big><big>[[Gen.46.23 The Children of Bilhah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the souls that came with Jacob into Egypt, which came out of his loins, besides Jacob’s sons’ wives, all the souls [were] threescore and six;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All those belonging to Jacob who came to Egypt—his direct descendants, besides
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.25|<< Genesis 46:25]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.27|Genesis 46:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> person  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H5315J\|נֶּפֶשׁ]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

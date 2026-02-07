@@ -1,4 +1,4 @@
-**Numbers 35:14** 
+**Numbers 35:14**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, [which] shall be cities of refuge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Select three cities across the Jordan and three in the land of Canaan as cities 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.13|<< Numbers 35:13]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.15|Numbers 35:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> three  |**<big>&#8207;[[H7969\|שְׁלֹ֣שׁ]]&#8207; </big>**| she.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

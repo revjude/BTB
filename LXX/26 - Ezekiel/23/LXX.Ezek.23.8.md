@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:8** 
 <small><sub>**LXX:**</sub></small>
 And  her harlotry, the one with Egypt she did not abandon, for they went to bed with her in her youth, and they caused her loss of virginity, and they poured out  their harlotry upon her. 
-<small><sub>**KJV:**</sub></small>
-Neither left she her whoredoms [brought] from Egypt: for in her youth they lay with her, and they bruised the breasts of her virginity, and poured their whoredom upon her.
-<small><sub>**BSB:**</sub></small>
-She did not give up the prostitution she began in Egypt, when men slept with her in her youth, caressed her virgin bosom, and poured out their lust upon her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.7|<< Ezekiel 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.9|Ezekiel 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

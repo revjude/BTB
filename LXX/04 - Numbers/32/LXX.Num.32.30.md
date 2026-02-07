@@ -1,10 +1,7 @@
 **LXX Numbers 32:30** 
 <small><sub>**LXX:**</sub></small>
 But if they should not pass over being armed with you for  war before \[the\] <span class="smallcaps">lord</span>, then them to pass over with their belongings, and  their women, and  their cattle in front of you into \[the\] land of Canaan; and they shall inherit together with you in the land of Canaan. 
-<small><sub>**KJV:**</sub></small>
-But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.
-<small><sub>**BSB:**</sub></small>
-But if they do not arm themselves and go across with you, then they must accept their possession among you in the land of Canaan.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.29|<< Numbers 32:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.31|Numbers 32:31 >>]]</td></tr></table>
 
 | Translation | Greek |

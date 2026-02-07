@@ -1,4 +1,4 @@
-**2 Kings 12:11** (12:12)
+**2 Kings 12:11**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the LORD: and they laid it out to the carpenters and builders, that wrought upon the house of the LORD,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they would put the counted money into the hands of those who supervised the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.10|<< 2 Kings 12:10]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.12|2 Kings 12:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתְנוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.te.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 34:28** 
+**Genesis 34:28**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They took their sheep, and their oxen, and their asses, and that which [was] in the city, and that which [was] in the field,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They took their flocks and herds and donkeys, and everything else in the city or
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.27|<< Genesis 34:27]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.29|Genesis 34:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flock[s] their  |**<big>&#8207;[[H6629G\|צֹאנָ֥]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| tzo.Na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

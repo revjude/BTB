@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:60** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah wrote all the evils which shall come upon Babylon in a scroll; all  these words  being written against Babylon. 
-<small><sub>**KJV:**</sub></small>
-So Jeremiah wrote in a book all the evil that should come upon Babylon, [even] all these words that are written against Babylon.
-<small><sub>**BSB:**</sub></small>
-Jeremiah had written on a single scroll about all the disaster that would come upon Babylon—all these words that had been written concerning Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.59|<< Jeremiah 51:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.61|Jeremiah 51:61 >>]]</td></tr></table>
 
 | Translation | Greek |

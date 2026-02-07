@@ -1,4 +1,4 @@
-**Jeremiah 9:3** (9:2)
+**Jeremiah 9:3**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they bend their tongues [like] their bow [for] lies: but they are not valiant for the truth upon the earth; for they proceed from evil to evil, and they know not me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they bend their tongues [like] their bow [for] lies: but they are not valian
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.2|<< Jeremiah 9:2]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.4|Jeremiah 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they have bent  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1869\|יַּדְרְכ֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yad.re.Khu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

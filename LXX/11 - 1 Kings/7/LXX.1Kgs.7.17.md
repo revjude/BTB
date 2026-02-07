@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:17** 
 <small><sub>**LXX:**</sub></small>
 And he made latticed \[works\] to cover the capitals of the columns; seven to the capital -- to the one; and seven to the capital -- to the second. 
-<small><sub>**KJV:**</sub></small>
-[And] nets of checker work, and wreaths of chain work, for the chapiters which [were] upon the top of the pillars; seven for the one chapiter, and seven for the other chapiter.
-<small><sub>**BSB:**</sub></small>
-For the capitals on top of the pillars he made a network of lattice, with wreaths of chainwork, seven for each capital.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.16|<< 1 Kings 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.18|1 Kings 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

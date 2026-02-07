@@ -1,4 +1,4 @@
-**Ezekiel 40:2** 
+**Ezekiel 40:2**<big><big>[[Ezek.40.1 The Man with a Measuring Rod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which [was] as the frame of a city on the south.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ In visions of God He took me to the land of Israel and set me on a very high mou
 > $\quad$ referenced by: [[Rev.21.10|Rev 21:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in visions of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4759A\|מַרְא֣וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mar.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

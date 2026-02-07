@@ -1,12 +1,12 @@
-**1 Timothy 5:9
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:9**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let not a widow be taken into the number under threescore years old, having been the wife of one man,
 <small><sub>**BSB:**</sub></small>
 A widow should be enrolled if she is at least sixty years old, faithful to her husband,
 <small><sub>**Literal:**</sub></small>
 A widow should ld be enrol not less than years [old] sixty having been of one man [the] wife,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.8|<< 1 Timothy 5:8]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.10|1 Timothy 5:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A widow |**<big>[[G5503\|χήρα]]</big>**  |chēra <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | should ld be enrol |**<big>[[G2639\|καταλεγέσθω]]</big>**  |katalegesthō <small><sup>[[V-PPM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 31:6** 
+**Deuteronomy 31:6**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he [it is] that doth go with thee; he will not fail thee, nor forsake thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Be strong and courageous; do not be afraid or terrified of them, for it is the L
 > $\quad$ referenced by: [[Heb.13.5|Heb 13:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be strong  |**<big>&#8207;[[H2388G\|חִזְק֣וּ]]&#8207; </big>**| chiz.Ku<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and be bold  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0553\|אִמְצ֔וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im.Tzu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

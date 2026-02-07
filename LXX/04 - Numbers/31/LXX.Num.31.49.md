@@ -1,10 +1,7 @@
 **LXX Numbers 31:49** 
 <small><sub>**LXX:**</sub></small>
  Your servants have taken the total sum of the warrior men, of the \[ones\] with us, and not dissented of them not even one. 
-<small><sub>**KJV:**</sub></small>
-And they said unto Moses, Thy servants have taken the sum of the men of war which [are] under our charge, and there lacketh not one man of us.
-<small><sub>**BSB:**</sub></small>
-and said, “Your servants have counted the soldiers under our command, and not one of us is missing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.48|<< Numbers 31:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.50|Numbers 31:50 >>]]</td></tr></table>
 
 | Translation | Greek |

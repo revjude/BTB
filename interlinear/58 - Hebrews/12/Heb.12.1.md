@@ -1,12 +1,12 @@
-**Hebrews 12:1
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:1**<big><big>[[Heb.12.1 A Call to Endurance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset [us], and let us run with patience the race that is set before us,
 <small><sub>**BSB:**</sub></small>
 Therefore, since we are surrounded by such a great cloud of witnesses, let us throw off every encumbrance and the sin that so easily entangles, and let us run with endurance the race set out for us.
 <small><sub>**Literal:**</sub></small>
 Therefore also we ourselves such a great having encompassing us a cloud of witnesses, weight having laid aside every and the easily entangling sin, with endurance may run the lying before us race<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.40|<< Hebrews 11:40]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.2|Hebrews 12:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G5105\|Τοιγαροῦν]]</big>**  |Toigaroun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

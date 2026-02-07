@@ -1,10 +1,7 @@
 **LXX Psalm 108:6** 
 <small><sub>**LXX:**</sub></small>
 so that your beloved should be rescued. Deliver \[with\] your right \[hand\], and heed me! 
-<small><sub>**KJV:**</sub></small>
-That thy beloved may be delivered: save [with] thy right hand, and answer me.
-<small><sub>**BSB:**</sub></small>
-Respond and save us with Your right hand, that Your beloved may be delivered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.108.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.5|<< Psalm 108:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.7|Psalm 108:7 >>]]</td></tr></table>
 
 | Translation | Greek |

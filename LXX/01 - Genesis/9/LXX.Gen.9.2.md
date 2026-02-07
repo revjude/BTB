@@ -1,10 +1,7 @@
 **LXX Genesis 9:2** 
 <small><sub>**LXX:**</sub></small>
 And the fear of you and  trembling will be upon all the wild beasts of the earth, upon all the winged creatures of the heaven, and upon all the \[things\] moving upon the earth, and upon all the fishes of the sea. Under \[your\] hands I have given \[them\] to you. 
-<small><sub>**KJV:**</sub></small>
-And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth [upon] the earth, and upon all the fishes of the sea; into your hand are they delivered.
-<small><sub>**BSB:**</sub></small>
-The fear and dread of you will fall on every living creature on the earth, every bird of the air, every creature that crawls on the ground, and all the fish of the sea. They are delivered into your hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.1|<< Genesis 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.3|Genesis 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

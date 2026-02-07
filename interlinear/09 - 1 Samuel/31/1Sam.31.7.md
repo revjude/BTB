@@ -1,4 +1,4 @@
-**1 Samuel 31:7** 
+**1 Samuel 31:7**<big><big>[[1Sam.31.7 The Philistines Possess the Towns|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the men of Israel that [were] on the other side of the valley, and [they] that [were] on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the Israelites along the valley and those on the other side of the Jordan s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.6|<< 1 Samuel 31:6]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.8|1 Samuel 31:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יִּרְא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵֽׁי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'an.shei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

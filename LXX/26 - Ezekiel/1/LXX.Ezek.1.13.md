@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:13** 
 <small><sub>**LXX:**</sub></small>
 And in \[the\] midst of the living creatures \[was\] a vision as of coals of fire burning, as \[the\] appearance of lamps twisting in the midst of the living creatures. And brightness \[was\] of the fire, and from out of the fire went forth as lightning. 
-<small><sub>**KJV:**</sub></small>
-As for the likeness of the living creatures, their appearance [was] like burning coals of fire, [and] like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
-<small><sub>**BSB:**</sub></small>
-In the midst of the living creatures was the appearance of glowing coals of fire, or of torches. Fire moved back and forth between the living creatures; it was bright, and lightning flashed out of it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.12|<< Ezekiel 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.14|Ezekiel 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

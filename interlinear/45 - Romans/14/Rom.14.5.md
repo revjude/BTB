@@ -1,12 +1,12 @@
-**Romans 14:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:5**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 One man esteemeth one day above another: another esteemeth every day [alike]. Let every man be fully persuaded in his own mind.
 <small><sub>**BSB:**</sub></small>
 One person regards a certain day above the others, while someone else considers every day alike. Each one should be fully convinced in his own mind.
 <small><sub>**Literal:**</sub></small>
 One indeed for judges a day [to be] above [another] day, one [other] however judges every day [alike]; Each in the own mind should be fully assured.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.4|<< Romans 14:4]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.6|Romans 14:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | One |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

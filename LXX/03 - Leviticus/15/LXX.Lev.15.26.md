@@ -1,10 +1,7 @@
 **LXX Leviticus 15:26** 
 <small><sub>**LXX:**</sub></small>
 And every bed upon of which ever she should go to bed upon it all the days  of her flow, it will be to her as the bed of her menstruation. And every item upon which ever she should sit upon it, it shall be unclean, according to the uncleanness  of her menstruation. 
-<small><sub>**KJV:**</sub></small>
-Every bed whereon she lieth all the days of her issue shall be unto her as the bed of her separation: and whatsoever she sitteth upon shall be unclean, as the uncleanness of her separation.
-<small><sub>**BSB:**</sub></small>
-Any bed on which she lies or any furniture on which she sits during the days of her discharge will be unclean, like her bed during her menstrual period.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.25|<< Leviticus 15:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.27|Leviticus 15:27 >>]]</td></tr></table>
 
 | Translation | Greek |

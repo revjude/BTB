@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:5** 
 <small><sub>**LXX:**</sub></small>
 And Syria came from out of Damascus to help Hadarezer king of Zobah. And David struck among the Syrian -- twenty and two thousand men. 
-<small><sub>**KJV:**</sub></small>
-And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men.
-<small><sub>**BSB:**</sub></small>
-When the Arameans of Damascus came to help King Hadadezer of Zobah, David struck down twenty-two thousand of their men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.4|<< 1 Chronicles 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.6|1 Chronicles 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

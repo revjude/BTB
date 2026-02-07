@@ -1,4 +1,4 @@
-**Jeremiah 46:15** 
+**Jeremiah 46:15**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why are thy valiant [men] swept away? they stood not, because the LORD did drive them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why have your warriors been laid low? They cannot stand, for the LORD has thrust
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.14|<< Jeremiah 46:14]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.16|Jeremiah 46:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | why?  |**<big>&#8207;[[H4069\|מַדּ֖וּעַ]]&#8207; </big>**| ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he be prostrated  |**<big>&#8207;[[H5502\|נִסְחַ֣ף]]&#8207; </big>**| nis.Chaf<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

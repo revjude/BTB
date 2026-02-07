@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> our God delivered him into  our hands, even  Og king  of Bashan, and all  his people. And we struck him until \[there was\] not left behind \[any\] of his seed. 
-<small><sub>**KJV:**</sub></small>
-So the LORD our God delivered into our hands Og also, the king of Bashan, and all his people: and we smote him until none was left to him remaining.
-<small><sub>**BSB:**</sub></small>
-So the LORD our God also delivered Og king of Bashan and his whole army into our hands. We struck them down until no survivor was left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.2|<< Deuteronomy 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.4|Deuteronomy 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

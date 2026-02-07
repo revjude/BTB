@@ -1,12 +1,12 @@
-**Mark 10:45
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:45**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
 <small><sub>**BSB:**</sub></small>
 For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”
 <small><sub>**Literal:**</sub></small>
 Even for the Son <the> of Man not came to be served but to serve and to give the life of Him [as] a ransom for many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.44|<< Mark 10:44]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.46|Mark 10:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

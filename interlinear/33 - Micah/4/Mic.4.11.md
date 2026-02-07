@@ -1,4 +1,4 @@
-**Micah 4:11** 
+**Micah 4:11**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now also many nations are gathered against thee, that say, Let her be defiled, and let our eye look upon Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now many nations have assembled against you, saying, “Let her be defiled, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.10|<< Micah 4:10]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.12|Micah 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have gathered  |**<big>&#8207;[[H0622\|נֶאֶסְפ֥וּ]]&#8207; </big>**| ne.'es.Fu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 36:13** 
+**2 Chronicles 36:13**<big><big>[[2Chr.36.11 Zedekiah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also rebelled against King Nebuchadnezzar, who had made him swear by God. But
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.12|<< 2 Chronicles 36:12]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.14|2 Chronicles 36:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H1571\|גַם]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against the king  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4428G\|מֶּ֤לֶךְ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

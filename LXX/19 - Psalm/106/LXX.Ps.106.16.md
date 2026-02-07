@@ -1,10 +1,7 @@
 **LXX Psalm 106:16** 
 <small><sub>**LXX:**</sub></small>
 And they provoked Moses to anger in the camp, and Aaron the holy one of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-They envied Moses also in the camp, [and] Aaron the saint of the LORD.
-<small><sub>**BSB:**</sub></small>
-In the camp they envied Moses, as well as Aaron, the holy one of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.15|<< Psalm 106:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.17|Psalm 106:17 >>]]</td></tr></table>
 
 | Translation | Greek |

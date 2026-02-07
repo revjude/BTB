@@ -1,10 +1,7 @@
 **LXX Micah 4:5** 
 <small><sub>**LXX:**</sub></small>
 For all the peoples shall go each  in his \[own\] way; but we shall go in \[the\] name of \[the\] <span class="smallcaps">lord</span> our God into the eon and beyond. 
-<small><sub>**KJV:**</sub></small>
-For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever.
-<small><sub>**BSB:**</sub></small>
-Though all the nations may walk in the name of their gods, yet we will walk in the name of the LORD our God forever and ever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.4|<< Micah 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.6|Micah 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

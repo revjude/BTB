@@ -1,5 +1,5 @@
-**Hebrews 12:16
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:16**<big><big>[[Heb.12.14 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Lest there [be] any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.
 <small><sub>**BSB:**</sub></small>
 See to it that no one is sexually immoral, or is godless like Esau, who for a single meal sold his birthright.
@@ -10,7 +10,7 @@ lest [there be] any fornicator or profane person as Esau, who for meal one sold 
 > $\quad$ alluding to: [[LXX.Gen.25.31|Gen 25:31]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest [there be] |**<big>[[G3361\|μή]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | any |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

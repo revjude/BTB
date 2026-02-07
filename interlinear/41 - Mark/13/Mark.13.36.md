@@ -1,12 +1,12 @@
-**Mark 13:36
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:36**<big><big>[[Mark.13.32 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Lest coming suddenly he find you sleeping.
 <small><sub>**BSB:**</sub></small>
 Otherwise, he may arrive without notice and find you sleeping.
 <small><sub>**Literal:**</sub></small>
 lest having come suddenly he may find you sleeping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.35|<< Mark 13:35]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.37|Mark 13:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

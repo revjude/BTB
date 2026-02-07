@@ -1,12 +1,12 @@
-**Luke 12:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:33**<big><big>[[Luke.12.32 Treasures in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Sell that ye have, and give alms; provide yourselves bags which wax not old, a treasure in the heavens that faileth not, where no thief approacheth, neither moth corrupteth.
 <small><sub>**BSB:**</sub></small>
 Sell your possessions and give to the poor. Provide yourselves with purses that will not wear out, an inexhaustible treasure in heaven, where no thief approaches and no moth destroys.
 <small><sub>**Literal:**</sub></small>
 do sell the possessions of you and do give alms; do make to yourselves purses not growing old, a treasure unfailing in the heavens where thief not does draw near nor moth destroy;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.32|<< Luke 12:32]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.34|Luke 12:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do sell |**<big>[[G4453\|πωλήσατε]]</big>**  |pōlēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

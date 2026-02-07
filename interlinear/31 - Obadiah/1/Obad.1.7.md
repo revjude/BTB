@@ -1,4 +1,4 @@
-**Obadiah 1:7** 
+**Obadiah 1:7**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the men of thy confederacy have brought thee [even] to the border: the men that were at peace with thee have deceived thee, [and] prevailed against thee; [they that eat] thy bread have laid a wound under thee: [there is] none understanding in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the men allied with you will drive you to the border; the men at peace with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.6|<< Obadiah 1:6]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.8|Obadiah 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H5704\|עַֽד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּב֣וּל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 28:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:30**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Paul dwelt two whole years in his own hired house, and received all that came in unto him,
 <small><sub>**BSB:**</sub></small>
 Paul stayed there two full years in his own rented house, welcoming all who came to visit him.
 <small><sub>**Literal:**</sub></small>
 He abided then <the> Paul two years whole in his own rented house and was welcoming all those coming unto him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.29|<< Acts 28:29]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.31|Acts 28:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He abided [^1] |**<big>[[G1696\|Ἐνέμεινεν]]</big>**  |Enemeinen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

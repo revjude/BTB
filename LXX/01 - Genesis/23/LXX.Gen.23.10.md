@@ -1,10 +1,7 @@
 **LXX Genesis 23:10** 
 <small><sub>**LXX:**</sub></small>
 And Ephron was sitting down in \[the\] midst of the sons of Heth. And responding Ephron the Hittite spoke to Abraham in the hearing of the sons of Heth, and of all the \[ones\] entering into the city, saying, 
-<small><sub>**KJV:**</sub></small>
-And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, [even] of all that went in at the gate of his city, saying,
-<small><sub>**BSB:**</sub></small>
-Now Ephron was sitting among the sons of Heth. So in the presence of all the Hittites who had come to the gate of his city, Ephron the Hittite answered Abraham,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.9|<< Genesis 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.11|Genesis 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

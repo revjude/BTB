@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:15** 
 <small><sub>**LXX:**</sub></small>
 And the psalm singers, \[the\] sons of Asaph were at  their station, according to the commands of David, \[and\] Asaph, and Heman, and Jeduthun of the prophets of the king; and the rulers, and the gatekeepers, \[were stationed\] gate by gate; it was not for them to move from  their ministration, for  their brethren the Levites prepared for them. 
-<small><sub>**KJV:**</sub></small>
-And the singers the sons of Asaph [were] in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king’s seer; and the porters [waited] at every gate; they might not depart from their service; for their brethren the Levites prepared for them.
-<small><sub>**BSB:**</sub></small>
-The singers, the descendants of Asaph, were at their stations according to the command of David, Asaph, Heman, and Jeduthun the king’s seer. And the gatekeepers at each gate did not need to leave their posts, because their fellow Levites made preparations for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.14|<< 2 Chronicles 35:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.16|2 Chronicles 35:16 >>]]</td></tr></table>
 
 | Translation | Greek |

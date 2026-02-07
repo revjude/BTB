@@ -1,10 +1,7 @@
 **LXX Leviticus 13:17** 
 <small><sub>**LXX:**</sub></small>
 and the priest shall see him, and behold, the infection turned to the white, then the priest shall declare him cleansed by the infection -- he is clean. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall see him: and, behold, [if] the plague be turned into white; then the priest shall pronounce [him] clean [that hath] the plague: he [is] clean.
-<small><sub>**BSB:**</sub></small>
-The priest will reexamine him, and if the infection has turned white, the priest is to pronounce the infected person clean; then he is clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.16|<< Leviticus 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.18|Leviticus 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

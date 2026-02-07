@@ -1,10 +1,7 @@
 **LXX Numbers 18:2** 
 <small><sub>**LXX:**</sub></small>
 And  your brethren \[the\] tribe of Levi, \[the\] people  of your father, you lead them to yourself, and let them be added to you, and let them officiate to you! even you and  your sons with you before the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And thy brethren also of the tribe of Levi, the tribe of thy father, bring thou with thee, that they may be joined unto thee, and minister unto thee: but thou and thy sons with thee [shall minister] before the tabernacle of witness.
-<small><sub>**BSB:**</sub></small>
-But bring with you also your brothers from the tribe of Levi, the tribe of your father, that they may join you and assist you and your sons before the Tent of the Testimony.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.1|<< Numbers 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.3|Numbers 18:3 >>]]</td></tr></table>
 
 | Translation | Greek |

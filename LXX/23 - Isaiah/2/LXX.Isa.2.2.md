@@ -1,10 +1,7 @@
 **LXX Isaiah 2:2** 
 <small><sub>**LXX:**</sub></small>
 For it will be in the last days the mountain \[of the\] <span class="smallcaps">lord</span> \[will be\] apparent, and the house  of God \[will be\] upon \[the\] uppermost part of the mountains, and it shall be raised up high above the hills; and all the nations shall come unto it. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in the last days, [that] the mountain of the LORD’S house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.
-<small><sub>**BSB:**</sub></small>
-In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and all nations will stream to it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.1|<< Isaiah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.3|Isaiah 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

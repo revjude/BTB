@@ -1,4 +1,4 @@
-**2 Kings 7:10** 
+**2 Kings 7:10**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they came and called unto the porter of the city: and they told them, saying, We came to the camp of the Syrians, and, behold, [there was] no man there, neither voice of man, but horses tied, and asses tied, and the tents as they [were].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they went and called out to the gatekeepers of the city, saying, “We went t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.9|<< 2 Kings 7:9]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.11|2 Kings 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֗אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they called out  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7121G\|יִּקְרְאוּ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

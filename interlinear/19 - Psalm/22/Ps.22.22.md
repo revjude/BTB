@@ -1,4 +1,4 @@
-**Psalms 22:22** (22:23)
+**Psalms 22:22**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will proclaim Your name to my brothers; I will praise You in the assembly.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[John.20.17|John 20:17]] ☩ [[Heb.2.12|Heb 2:12]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will recount  |**<big>&#8207;[[H5608A\|אֲסַפְּרָ֣ה]]&#8207; </big>**| 'a.sa.pe.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name your  |**<big>&#8207;[[H8034\|שִׁמְ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

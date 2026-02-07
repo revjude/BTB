@@ -1,10 +1,7 @@
 **LXX Leviticus 26:20** 
 <small><sub>**LXX:**</sub></small>
 and your strength shall be in vain. And the earth shall not give of your  sowing it, and the tree of the field shall not give  its fruit. 
-<small><sub>**KJV:**</sub></small>
-And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits.
-<small><sub>**BSB:**</sub></small>
-and your strength will be spent in vain. For your land will not yield its produce, and the trees of the land will not bear their fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.19|<< Leviticus 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.21|Leviticus 26:21 >>]]</td></tr></table>
 
 | Translation | Greek |

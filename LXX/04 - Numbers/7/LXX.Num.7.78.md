@@ -1,10 +1,7 @@
 **LXX Numbers 7:78** 
 <small><sub>**LXX:**</sub></small>
 The twelfth day \[the\] ruler of the sons of Naphtali, Ahira son of Enan 
-<small><sub>**KJV:**</sub></small>
-On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, [offered]:
-<small><sub>**BSB:**</sub></small>
-On the twelfth day Ahira son of Enan, the leader of the Naphtalites, drew near.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.78|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.77|<< Numbers 7:77]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.79|Numbers 7:79 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Micah 3:3** 
 <small><sub>**LXX:**</sub></small>
 in which manner they devoured the flesh  of my people, and  their skins they flayed from them, and  their bones they fractured in pieces as flesh for \[the\] kettle, and as meats for \[the\] pot. 
-<small><sub>**KJV:**</sub></small>
-Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron.
-<small><sub>**BSB:**</sub></small>
-You eat the flesh of my people after stripping off their skin and breaking their bones. You chop them up like flesh for the cooking pot, like meat in a cauldron.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.2|<< Micah 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.3.4|Micah 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

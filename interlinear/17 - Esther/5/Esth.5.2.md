@@ -1,4 +1,4 @@
-**Esther 5:2** 
+**Esther 5:2**<big><big>[[Esth.5.1 Esther Approaches the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was so, when the king saw Esther the queen standing in the court, [that] she obtained favour in his sight: and the king held out to Esther the golden sceptre that [was] in his hand. So Esther drew near, and touched the top of the sceptre.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as the king saw Queen Esther standing in the court, she found favor in h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.1|<< Esther 5:1]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.3|Esther 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when saw  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H7200G\|רְא֨וֹת]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

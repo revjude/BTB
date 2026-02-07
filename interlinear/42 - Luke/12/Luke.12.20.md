@@ -1,12 +1,12 @@
-**Luke 12:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:20**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But God said unto him, [Thou] fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?
 <small><sub>**BSB:**</sub></small>
 But God said to him, ‘You fool! This very night your life will be required of you. Then who will own what you have accumulated?’
 <small><sub>**Literal:**</sub></small>
 Said then to him <the> God; Fool! On this <the> night the soul of you is required of you. what now you did prepare — to whom will [it] be?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.19|<< Luke 12:19]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.21|Luke 12:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

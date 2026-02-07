@@ -1,4 +1,4 @@
-**Ruth 2:16** 
+**Ruth 2:16**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let fall also [some] of the handfuls of purpose for her, and leave [them], that she may glean [them], and rebuke her not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rather, pull out for her some stalks from the bundles and leave them for her to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.15|<< Ruth 2:15]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.17|Ruth 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֛ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | indeed \<pull out>  |**<big>&#8207;[[H7997A\|שֹׁל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shol-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Romans 15:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:21**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But as it is written, To whom he was not spoken of, they shall see: and they that have not heard shall understand.
 <small><sub>**BSB:**</sub></small>
 Rather, as it is written: “Those who were not told about Him will see, and those who have not heard will understand.”
@@ -10,7 +10,7 @@ Rather even as it has been written: To whom not it was proclaimed concerning Him
 > $\quad$ referencing: [[LXX.Isa.52.15|Isa 52:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Rather |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

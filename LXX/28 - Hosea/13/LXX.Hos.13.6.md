@@ -1,10 +1,7 @@
 **LXX Hosea 13:6** 
 <small><sub>**LXX:**</sub></small>
 According to  their pastures, so they were filled unto fullness, and they exalted  their hearts; because of this they forgot me. 
-<small><sub>**KJV:**</sub></small>
-According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me.
-<small><sub>**BSB:**</sub></small>
-When they had pasture, they became satisfied; when they were satisfied, their hearts became proud, and as a result they forgot Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.5|<< Hosea 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.7|Hosea 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

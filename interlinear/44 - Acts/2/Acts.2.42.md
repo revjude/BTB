@@ -1,12 +1,12 @@
-**Acts 2:42
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:42**<big><big>[[Acts.2.42 The Fellowship of Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.
 <small><sub>**BSB:**</sub></small>
 They devoted themselves to the apostles’ teaching and to the fellowship, to the breaking of bread and to prayer.
 <small><sub>**Literal:**</sub></small>
 They were now steadfastly continuing in the teaching of the apostles and <the> in fellowship, and in the breaking of the bread and in the prayers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.41|<< Acts 2:41]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.43|Acts 2:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were |**<big>[[G1510\|Ἦσαν]]</big>**  |Ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

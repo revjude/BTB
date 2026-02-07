@@ -1,12 +1,12 @@
-**Mark 15:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:27**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And with him they crucify two thieves; the one on his right hand, and the other on his left.
 <small><sub>**BSB:**</sub></small>
 Along with Jesus, they crucified two robbers, one on His right and one on His left.
 <small><sub>**Literal:**</sub></small>
 And with Him they crucify two robbers, one at [the] right hand and one at [the] left of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.26|<< Mark 15:26]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.28|Mark 15:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with |**<big>[[G4862\|σὺν]]</big>**  |sun <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

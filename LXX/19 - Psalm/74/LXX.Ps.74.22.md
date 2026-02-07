@@ -1,10 +1,7 @@
 **LXX Psalm 74:22** 
 <small><sub>**LXX:**</sub></small>
 Rise up, O God, adjudicate  your cause! Remember  your scorning by the fool \[the\] entire  day! 
-<small><sub>**KJV:**</sub></small>
-Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.
-<small><sub>**BSB:**</sub></small>
-Rise up, O God; defend Your cause! Remember how the fool mocks You all day long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.21|<< Psalm 74:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.23|Psalm 74:23 >>]]</td></tr></table>
 
 | Translation | Greek |

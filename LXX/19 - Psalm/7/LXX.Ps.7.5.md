@@ -1,10 +1,7 @@
 **LXX Psalm 7:5** 
 <small><sub>**LXX:**</sub></small>
 then the enemy pursue  my soul, and may he overtake \[it\]; and may he trample my life into \[the\] ground; and  be encamped my glory in \[the\] dust. 
-<small><sub>**KJV:**</sub></small>
-Let the enemy persecute my soul, and take [it]; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.
-<small><sub>**BSB:**</sub></small>
-then may my enemy pursue me and overtake me; may he trample me to the ground and leave my honor in the dust. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.4|<< Psalm 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.6|Psalm 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

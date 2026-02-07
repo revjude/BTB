@@ -1,4 +1,4 @@
-**Deuteronomy 28:14** 
+**Deuteronomy 28:14**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt not go aside from any of the words which I command thee this day, [to] the right hand, or [to] the left, to go after other gods to serve them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not turn aside to the right or to the left from any of the words I command yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.13|<< Deuteronomy 28:13]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.15|Deuteronomy 28:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will turn aside  |**<big>&#8207;[[H5493I\|תָס֗וּר]]&#8207; </big>**| ta.Sur<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

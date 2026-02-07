@@ -1,4 +1,4 @@
-**Genesis 46:8** 
+**Genesis 46:8**<big><big>[[Gen.46.8 The Children of Leah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now these are the names of the sons of Israel (Jacob and his descendants) who we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.7|<< Genesis 46:7]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.9|Genesis 46:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֨לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֧וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

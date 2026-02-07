@@ -1,4 +1,4 @@
-**Leviticus 24:3** 
+**Leviticus 24:3**<big><big>[[Lev.24.1 The Oil for the Lamps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the LORD continually: [it shall be] a statute for ever in your generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Outside the veil of the Testimony in the Tent of Meeting, Aaron is to tend the l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.2|<< Leviticus 24:2]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.4|Leviticus 24:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] outside  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2351\|חוּץ֩]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Chutz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] curtain of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6532\|פָרֹ֨כֶת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Ro.khet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 18:30
-**<small><sub>**KJV:**</sub></small>
+**John 18:30**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They answered and said unto him, If he were not a malefactor, we would not have delivered him up unto thee.
 <small><sub>**BSB:**</sub></small>
 “If He were not a criminal,” they replied, “we would not have handed Him over to you.”
 <small><sub>**Literal:**</sub></small>
 They answered and they said to him; only except were He evil doing, [then] not would to you we have delivered Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.29|<< John 18:29]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.31|John 18:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They answered |**<big>[[G0611\|ἀπεκρίθησαν]]</big>**  |apekrithēsan <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

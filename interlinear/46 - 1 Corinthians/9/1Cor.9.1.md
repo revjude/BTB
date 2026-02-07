@@ -1,12 +1,12 @@
-**1 Corinthians 9:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:1**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
 <small><sub>**BSB:**</sub></small>
 Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you yourselves not my workmanship in the Lord?
 <small><sub>**Literal:**</sub></small>
 Surely I am free? Surely I am an apostle Surely Jesus Christ the Lord of us have I seen? Surely the work of mine you yourselves are in [the] Lord?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.13|<< 1 Corinthians 8:13]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.2|1 Corinthians 9:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3756\|Οὐκ]]</big>**  |Ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»5+Byz»5">NKO</abbr> | |
 | I am |**<big>[[G1510\|εἰμὶ]]</big>**  |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»4+Byz»4">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 5:3** 
+**Deuteronomy 5:3**<big><big>[[Deut.5.1 The Covenant at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD made not this covenant with our fathers, but with us, [even] us, who [are] all of us here alive this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He did not make this covenant with our fathers, but with all of us who are alive
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.2|<< Deuteronomy 5:2]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.4|Deuteronomy 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

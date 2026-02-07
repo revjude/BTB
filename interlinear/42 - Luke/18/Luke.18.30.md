@@ -1,12 +1,12 @@
-**Luke 18:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:30**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who shall not receive manifold more in this present time, and in the world to come life everlasting.
 <small><sub>**BSB:**</sub></small>
 will fail to receive many times more in this age—and in the age to come, eternal life.”
 <small><sub>**Literal:**</sub></small>
 who certainly nothing may receive back manifold more in <the> time this — and in the age which is coming life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.29|<< Luke 18:29]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.31|Luke 18:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | certainly [^1] |**<big>[[G3780\|οὐχὶ]]</big>**  |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |

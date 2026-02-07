@@ -1,4 +1,4 @@
-**Numbers 10:35** 
+**Numbers 10:35**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whenever the ark set out, Moses would say, “Rise up, O LORD! May Your enemies 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.34|<< Numbers 10:34]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.36|Numbers 10:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֛י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when set out  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H5265\|נְסֹ֥עַ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> n.So.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

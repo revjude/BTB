@@ -1,5 +1,5 @@
-**Revelation 9:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:6**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.
 <small><sub>**BSB:**</sub></small>
 In those days men will seek death and will not find it; they will long to die, but death will escape them.
@@ -10,7 +10,7 @@ And in the days those will seek <the> men <the> death and certainly no more will
 > $\quad$ alluding to: [[LXX.Jer.8.3|Jer 8:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

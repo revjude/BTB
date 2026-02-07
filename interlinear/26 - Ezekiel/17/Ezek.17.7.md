@@ -1,4 +1,4 @@
-**Ezekiel 17:7** 
+**Ezekiel 17:7**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There was also another great eagle with great wings and many feathers: and, behold, this vine did bend her roots toward him, and shot forth her branches toward him, that he might water it by the furrows of her plantation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But there was another great eagle with great wings and many feathers. And behold
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.6|<< Ezekiel 17:6]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.8|Ezekiel 17:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an eagle  |**<big>&#8207;[[H5404\|נֶֽשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.sher-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

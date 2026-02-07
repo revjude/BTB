@@ -1,10 +1,7 @@
 **LXX Ezra 6:8** 
 <small><sub>**LXX:**</sub></small>
 And by me was rendered a decree  to do through the elders  of those Jews  to build that house of God, and from the subsistence of the king, of the tribute on the other side of the river, \[that\] carefully an expense be given  to those men  to not cease work! 
-<small><sub>**KJV:**</sub></small>
-Moreover I make a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king’s goods, [even] of the tribute beyond the river, forthwith expences be given unto these men, that they be not hindered.
-<small><sub>**BSB:**</sub></small>
-I hereby decree what you must do for these elders of the Jews who are rebuilding this house of God: The cost is to be paid in full to these men from the royal treasury out of the taxes of the provinces west of the Euphrates, so that the work will not be hindered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.7|<< Ezra 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.9|Ezra 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

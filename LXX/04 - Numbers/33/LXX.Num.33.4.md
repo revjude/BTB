@@ -1,10 +1,7 @@
 **LXX Numbers 33:4** 
 <small><sub>**LXX:**</sub></small>
 And the Egyptians buried of theirs the ones having died, all of as many as \[the\] <span class="smallcaps">lord</span> struck, all \[the\] first-born in \[the\] land of Egypt. And among  their gods \[the\] <span class="smallcaps">lord</span> executed punishment. 
-<small><sub>**KJV:**</sub></small>
-For the Egyptians buried all [their] firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments.
-<small><sub>**BSB:**</sub></small>
-who were burying all their firstborn, whom the LORD had struck down among them; for the LORD had executed judgment against their gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.3|<< Numbers 33:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.5|Numbers 33:5 >>]]</td></tr></table>
 
 | Translation | Greek |

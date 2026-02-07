@@ -1,4 +1,4 @@
-**1 Chronicles 18:17** 
+**1 Chronicles 18:17**<big><big>[[1Chr.18.14 David’s Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Benaiah the son of Jehoiada [was] over the Cherethites and the Pelethites; and the sons of David [were] chief about the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Benaiah son of Jehoiada was over the Cherethites and Pelethites; and David’s s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.16|<< 1 Chronicles 18:16]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.1|1 Chronicles 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Benaiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1141G\|בְנָיָ֙הוּ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.na.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

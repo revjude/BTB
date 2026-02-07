@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:5** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah gave charge \[to\] Baruch, saying, I am guarded, and I am not able to enter into \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Jeremiah commanded Baruch, saying, I [am] shut up; I cannot go into the house of the LORD:
-<small><sub>**BSB:**</sub></small>
-Then Jeremiah commanded Baruch, “I am restricted; I cannot enter the house of the LORD;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.4|<< Jeremiah 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.6|Jeremiah 36:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 48:10** 
+**Jeremiah 48:10**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] he that doeth the work of the LORD deceitfully, and cursed [be] he that keepeth back his sword from blood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cursed is the one who is remiss in doing the work of the LORD, and cursed is he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.9|<< Jeremiah 48:9]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.11|Jeremiah 48:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] cursed  |**<big>&#8207;[[H0779\|אָר֗וּר]]&#8207; </big>**| 'a.Rur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] does  |**<big>&#8207;[[H6213A\|עֹשֶׂ֛ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

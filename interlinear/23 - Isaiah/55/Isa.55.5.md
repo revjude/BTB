@@ -1,4 +1,4 @@
-**Isaiah 55:5** 
+**Isaiah 55:5**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou shalt call a nation [that] thou knowest not, and nations [that] knew not thee shall run unto thee because of the LORD thy God, and for the Holy One of Israel; for he hath glorified thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely you will summon a nation you do not know, and nations who do not know you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.4|<< Isaiah 55:4]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.6|Isaiah 55:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a nation  |**<big>&#8207;[[H1471A\|גּ֤וֹי]]&#8207; </big>**| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

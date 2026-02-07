@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:22** 
 <small><sub>**LXX:**</sub></small>
 And  king Asa exhorted all Judah with no exceptions. And they lifted the stones  of Ramah, and  its timbers, which Baasha constructed. And Asa the king built with them the hill of Benjamin, and the height. 
-<small><sub>**KJV:**</sub></small>
-Then king Asa made a proclamation throughout all Judah; none [was] exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.
-<small><sub>**BSB:**</sub></small>
-Then King Asa summoned all the men of Judah, with no exceptions, and they carried away the stones of Ramah and the timbers Baasha had used for building. And with these materials King Asa built up Geba of Benjamin, as well as Mizpah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.21|<< 1 Kings 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.23|1 Kings 15:23 >>]]</td></tr></table>
 
 | Translation | Greek |

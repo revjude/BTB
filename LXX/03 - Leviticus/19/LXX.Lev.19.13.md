@@ -1,10 +1,7 @@
 **LXX Leviticus 19:13** 
 <small><sub>**LXX:**</sub></small>
 You shall not wrong \[your\] neighbor. And you shall not seize by force. And the wages of your hireling shall not go to bed with you until morning. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not defraud thy neighbour, neither rob [him]: the wages of him that is hired shall not abide with thee all night until the morning.
-<small><sub>**BSB:**</sub></small>
-You must not defraud your neighbor or rob him. You must not withhold until morning the wages due a hired hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.12|<< Leviticus 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.14|Leviticus 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

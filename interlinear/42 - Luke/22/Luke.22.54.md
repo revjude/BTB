@@ -1,12 +1,12 @@
-**Luke 22:54
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:54**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then took they him, and led [him], and brought him into the high priest’s house. And Peter followed afar off.
 <small><sub>**BSB:**</sub></small>
 Then they seized Jesus, led Him away, and took Him into the house of the high priest. And Peter followed at a distance.
 <small><sub>**Literal:**</sub></small>
 Having seized then Him they led [Him] away and brought him into the home of the high priest. <the> And Peter was following afar off.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.53|<< Luke 22:53]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.55|Luke 22:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seized |**<big>[[G4815\|Συλλαβόντες]]</big>**  |Sullabontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

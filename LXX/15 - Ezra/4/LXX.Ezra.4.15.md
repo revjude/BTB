@@ -1,10 +1,7 @@
 **LXX Ezra 4:15** 
 <small><sub>**LXX:**</sub></small>
 that it should be examined in \[the\] book of memoirs  of your fathers; and you shall find in the book of the memorial, and shall know that  that city \[is\] a defecting city, and one doing evil to kings; and in flights for your \[runaway\] servants \[the\] midst of it from \[the\] time of \[the\] eon it is for places and. On account of this,  this city was made desolate. 
-<small><sub>**KJV:**</sub></small>
-That search may be made in the book of the records of thy fathers: so shalt thou find in the book of the records, and know that this city [is] a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed.
-<small><sub>**BSB:**</sub></small>
-that a search should be made of the record books of your fathers. In these books you will discover and verify that the city is a rebellious city, harmful to kings and provinces, inciting sedition from ancient times. That is why this city was destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.14|<< Ezra 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.16|Ezra 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:7** 
 <small><sub>**LXX:**</sub></small>
 He is fearful and apparent; his judgment will be of himself, and  his concern of himself shall come forth. 
-<small><sub>**KJV:**</sub></small>
-They [are] terrible and dreadful: their judgment and their dignity shall proceed of themselves.
-<small><sub>**BSB:**</sub></small>
-They are dreaded and feared; from themselves they derive justice and sovereignty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.6|<< Habakkuk 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.8|Habakkuk 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

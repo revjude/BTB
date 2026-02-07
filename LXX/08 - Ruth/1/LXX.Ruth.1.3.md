@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Elimelech the husband of Naomi died, and she and her two sons were left. 
-<small><sub>**KJV:**</sub></small>
-And Elimelech Naomi’s husband died; and she was left, and her two sons.
-<small><sub>**BSB:**</sub></small>
-Then Naomi’s husband Elimelech died, and she was left with her two sons,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.2|<< Ruth 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.4|Ruth 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:27** 
 <small><sub>**LXX:**</sub></small>
 You approach and hear all as much as \[the\] <span class="smallcaps">lord</span> our God should say to you! And you shall speak to us all whatever as much as \[the\] <span class="smallcaps">lord</span> our God should speak to you, and we will hear, and we will do. 
-<small><sub>**KJV:**</sub></small>
-Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear [it], and do [it].
-<small><sub>**BSB:**</sub></small>
-Go near and listen to all that the LORD our God says. Then you can tell us everything the LORD our God tells you; we will listen and obey.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.26|<< Deuteronomy 5:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.28|Deuteronomy 5:28 >>]]</td></tr></table>
 
 | Translation | Greek |

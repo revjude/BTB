@@ -1,4 +1,4 @@
-**Song of Solomon 4:2** 
+**Song of Solomon 4:2**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy teeth [are] like a flock [of sheep that are even] shorn, which came up from the washing; whereof every one bear twins, and none [is] barren among them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your teeth are like a flock of newly shorn sheep coming up from the washing; eac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.1|<< Song of Solomon 4:1]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.3|Song of Solomon 4:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | teeth your  |**<big>&#8207;[[H8127G\|שִׁנַּ֙יִ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| shi.Na.yi<small><sup>[[HNcfdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] like [the] flock of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5739\|עֵ֣דֶר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'E.der<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

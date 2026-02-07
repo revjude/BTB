@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abram was ninety-nine years \[old\], and \[the\] <span class="smallcaps">lord</span> appeared  to Abram, and he said to him, I am  your God, you are well-pleasing before me -- then be blameless! 
-<small><sub>**KJV:**</sub></small>
-And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I [am] the Almighty God; walk before me, and be thou perfect.
-<small><sub>**BSB:**</sub></small>
-When Abram was ninety-nine years old, the LORD appeared to him and said, “I am God Almighty. Walk before Me and be blameless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.16|<< Genesis 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.2|Genesis 17:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 17:1** is...

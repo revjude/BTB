@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall ascend against  my people Israel as a cloud to cover \[the\] land. At \[the\] latter end of the days it will be. And I will lead you against  my land, that all the nations shall know me, in  my being sanctified among you before them. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring thee against my land, that the heathen may know me, when I shall be sanctified in thee, O Gog, before their eyes.
-<small><sub>**BSB:**</sub></small>
-You will advance against My people Israel like a cloud covering the land. It will happen in the latter days, O Gog, that I will bring you against My land, so that the nations may know Me when I show Myself holy in you before their eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.15|<< Ezekiel 38:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.17|Ezekiel 38:17 >>]]</td></tr></table>
 
 | Translation | Greek |

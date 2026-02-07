@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:7** 
 <small><sub>**LXX:**</sub></small>
 And I did not trust in the ones speaking to me, until of which I came and my eyes have seen. And behold, it is not according to the half as they reported to me. You have added wisdom and good \[things\] over all the report which I heard in  my land. 
-<small><sub>**KJV:**</sub></small>
-Howbeit I believed not the words, until I came, and mine eyes had seen [it]: and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard.
-<small><sub>**BSB:**</sub></small>
-But I did not believe these things until I came and saw with my own eyes. Indeed, not even half was told to me. Your wisdom and prosperity have far exceeded the report I heard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.6|<< 1 Kings 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.8|1 Kings 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

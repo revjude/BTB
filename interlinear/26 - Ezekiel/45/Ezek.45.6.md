@@ -1,4 +1,4 @@
-**Ezekiel 45:6** 
+**Ezekiel 45:6**<big><big>[[Ezek.45.1 Consecration of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall appoint the possession of the city five thousand broad, and five and twenty thousand long, over against the oblation of the holy [portion]: it shall be for the whole house of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the property of the city, you are to set aside an area 5,000 cubits wide and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.5|<< Ezekiel 45:5]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.7|Ezekiel 45:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] possession of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0272\|אֲחֻזַּ֨ת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chu.Zat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֜יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

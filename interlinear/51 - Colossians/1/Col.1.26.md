@@ -1,12 +1,12 @@
-**Colossians 1:26
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:26**<big><big>[[Col.1.24 Paul’s Suffering for the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Even] the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:
 <small><sub>**BSB:**</sub></small>
 the mystery that was hidden for ages and generations but is now revealed to His saints.
 <small><sub>**Literal:**</sub></small>
 the mystery which hidden from the ages and from the generations, now however having been manifested to the saints of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.25|<< Colossians 1:25]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.27|Colossians 1:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | mystery |**<big>[[G3466\|μυστήριον]]</big>**  |mustērion <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

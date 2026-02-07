@@ -1,4 +1,4 @@
-**2 Chronicles 27:4** 
+**2 Chronicles 27:4**<big><big>[[2Chr.27.1 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also built cities in the hill country of Judah and fortresses and towers in t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27.3|<< 2 Chronicles 27:3]]</td><td align="center" style="border:none;">[[2Chr.27|2 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.5|2 Chronicles 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and cities  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5892B\|עָרִ֥ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he built  |**<big>&#8207;[[H1129\|בָּנָ֖ה]]&#8207; </big>**| ba.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

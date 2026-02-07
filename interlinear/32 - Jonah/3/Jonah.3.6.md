@@ -1,4 +1,4 @@
-**Jonah 3:6** 
+**Jonah 3:6**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered [him] with sackcloth, and sat in ashes.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When word reached the king of Nineveh, he got up from his throne, took off his r
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it reached  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5060\|יִּגַּ֤ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ga'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

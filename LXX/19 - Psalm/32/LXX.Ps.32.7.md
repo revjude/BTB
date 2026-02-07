@@ -1,10 +1,7 @@
 **LXX Psalm 32:7** 
 <small><sub>**LXX:**</sub></small>
 You are my refuge from affliction  encompassing me;  my leap for joy to ransom me from the ones encircling me. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-Thou [art] my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.
-<small><sub>**BSB:**</sub></small>
-You are my hiding place. You protect me from trouble; You surround me with songs of deliverance. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.6|<< Psalm 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.8|Psalm 32:8 >>]]</td></tr></table>
 
 | Translation | Greek |

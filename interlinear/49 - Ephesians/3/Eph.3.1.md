@@ -1,12 +1,12 @@
-**Ephesians 3:1
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:1**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,
 <small><sub>**BSB:**</sub></small>
 For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles...
 <small><sub>**Literal:**</sub></small>
 Of this Because  I myself Paul the prisoner <the> of Christ Jesus for you <the> Gentiles..;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.22|<< Ephesians 2:22]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.2|Ephesians 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of this |**<big>[[G3778\|Τούτου]]</big>**  |Toutou <small><sup>[[D-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Because  |**<big>[[G5484\|χάριν]]</big>**  |charin <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

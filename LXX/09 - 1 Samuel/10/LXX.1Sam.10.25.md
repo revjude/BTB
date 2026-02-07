@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:25** 
 <small><sub>**LXX:**</sub></small>
 And Samuel spoke to the people the ordinance of the kingship. And he wrote in a scroll, and put \[it\] before \[the\] <span class="smallcaps">lord</span>. And Samuel sent out all the people, and each went forth unto  his place. 
-<small><sub>**KJV:**</sub></small>
-Then Samuel told the people the manner of the kingdom, and wrote [it] in a book, and laid [it] up before the LORD. And Samuel sent all the people away, every man to his house.
-<small><sub>**BSB:**</sub></small>
-Then Samuel explained to the people the rights of kingship. He wrote them on a scroll and laid it up before the LORD. And Samuel sent all the people away, each to his own home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.24|<< 1 Samuel 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.26|1 Samuel 10:26 >>]]</td></tr></table>
 
 | Translation | Greek |

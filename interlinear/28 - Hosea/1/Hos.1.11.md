@@ -1,4 +1,4 @@
-**Hosea 1:11** (2:2)
+**Hosea 1:11**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great [shall be] the day of Jezreel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the people of Judah and of Israel will be gathered together, and they will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.10|<< Hosea 1:10]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.1|Hosea 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be gathered  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H6908\|נִקְבְּצוּ]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> nik.be.tzu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

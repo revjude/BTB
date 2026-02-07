@@ -1,10 +1,7 @@
 **LXX Leviticus 26:37** 
 <small><sub>**LXX:**</sub></small>
 And the brother will neglect  his brother as in war, \[but\] no one running \[them\] down. And you will not be able to oppose  your enemies. 
-<small><sub>**KJV:**</sub></small>
-And they shall fall one upon another, as it were before a sword, when none pursueth: and ye shall have no power to stand before your enemies.
-<small><sub>**BSB:**</sub></small>
-They will stumble over one another as before the sword, though no one is behind them. So you will not be able to stand against your enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.36|<< Leviticus 26:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.38|Leviticus 26:38 >>]]</td></tr></table>
 
 | Translation | Greek |

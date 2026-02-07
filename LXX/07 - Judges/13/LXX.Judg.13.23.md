@@ -1,10 +1,7 @@
 **LXX Judges 13:23** 
 <small><sub>**LXX:**</sub></small>
 And his wife said to him, If \[the\] <span class="smallcaps">lord</span> wanted to kill us, he would not have received from  our hand a whole burnt-offering and a sacrifice \[offering\], and he would not have enlightened us all these \[things\], even as \[this\] time, and he would not have made these \[things\] audible to us. 
-<small><sub>**KJV:**</sub></small>
-But his wife said unto him, If the LORD were pleased to kill us, he would not have received a burnt offering and a meat offering at our hands, neither would he have shewed us all these [things], nor would as at this time have told us [such things] as these.
-<small><sub>**BSB:**</sub></small>
-But his wife replied, “If the LORD had intended to kill us, He would not have accepted the burnt offering and the grain offering from our hands, nor would He have shown us all these things or spoken to us this way.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.22|<< Judges 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.24|Judges 13:24 >>]]</td></tr></table>
 
 | Translation | Greek |

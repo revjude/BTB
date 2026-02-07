@@ -1,5 +1,5 @@
-**Hebrews 1:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:13**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?
 <small><sub>**BSB:**</sub></small>
 Yet to which of the angels did God ever say: “Sit at My right hand until I make Your enemies a footstool for Your feet”?
@@ -10,7 +10,7 @@ To which now of the angels has He said ever: do sit at [the] right hand of Me un
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G5101\|τίνα]]</big>**  |tina <small><sup>[[I-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

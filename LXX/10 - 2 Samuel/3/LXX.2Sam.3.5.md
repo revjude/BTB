@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:5** 
 <small><sub>**LXX:**</sub></small>
 and the sixth \[was\] Ithream of Eglah wife of David. These were born \[to\] David in Hebron. 
-<small><sub>**KJV:**</sub></small>
-And the sixth, Ithream, by Eglah David’s wife. These were born to David in Hebron.
-<small><sub>**BSB:**</sub></small>
-and his sixth was Ithream, by David’s wife Eglah. These sons were born to David in Hebron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.4|<< 2 Samuel 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.6|2 Samuel 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

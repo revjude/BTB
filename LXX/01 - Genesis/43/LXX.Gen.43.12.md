@@ -1,10 +1,7 @@
 **LXX Genesis 43:12** 
 <small><sub>**LXX:**</sub></small>
 And  you take double silver in  your hands. And the silver  being returned in  your bags, return it with you, perhaps it is by ignorance! 
-<small><sub>**KJV:**</sub></small>
-And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry [it] again in your hand; peradventure it [was] an oversight:
-<small><sub>**BSB:**</sub></small>
-Take double the silver with you so that you may return the silver that was put back into the mouths of your sacks. Perhaps it was a mistake.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.11|<< Genesis 43:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.13|Genesis 43:13 >>]]</td></tr></table>
 
 | Translation | Greek |

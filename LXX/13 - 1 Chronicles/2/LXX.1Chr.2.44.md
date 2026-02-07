@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:44** 
 <small><sub>**LXX:**</sub></small>
 And Shema procreated  Raham father of Jorkoam. And Rekem procreated  Shammai. 
-<small><sub>**KJV:**</sub></small>
-And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.
-<small><sub>**BSB:**</sub></small>
-Shema was the father of Raham the father of Jorkeam, and Rekem was the father of Shammai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.43|<< 1 Chronicles 2:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.45|1 Chronicles 2:45 >>]]</td></tr></table>
 
 | Translation | Greek |

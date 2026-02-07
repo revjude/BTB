@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> your God shall deliver up  your enemies  opposing you \[by\] breaking \[them\] before your face; in one way they shall come forth against you, and in seven ways they will flee from your face. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall cause thine enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways.
-<small><sub>**BSB:**</sub></small>
-The LORD will cause the enemies who rise up against you to be defeated before you. They will march out against you in one direction but flee from you in seven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.6|<< Deuteronomy 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.8|Deuteronomy 28:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 20:13** 
+**Ezekiel 20:13**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they despised my judgments, which [if] a man do, he shall even live in them; and my sabbaths they greatly polluted: then I said, I would pour out my fury upon them in the wilderness, to consume them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet the house of Israel rebelled against Me in the wilderness. They did not foll
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.12|<< Ezekiel 20:12]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.14|Ezekiel 20:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rebelled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4784\|יַּמְרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yam.ru-<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against me  |**<big>&#8207;[[H9003\|בִ֨]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| v<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

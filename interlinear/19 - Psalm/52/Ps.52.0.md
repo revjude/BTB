@@ -1,12 +1,10 @@
-**Psalms 52:0** (52:1)
+**Psalms 52:0**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, Maschil, [A Psalm] of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech. Why boastest thou thyself in mischief, O mighty man? the goodness of God [endureth] continually.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Maskil of David. After Doeg the Edomite went to Saul and told him, “David has gone to the house of Ahimelech.” Why do you boast of evil, O mighty man? The loving devotion of God endures all day long.
+To the chief Musician, Maschil, [A Psalm] of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.19|<< Psalms 51:19]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.1|Psalms 52:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the choirmaster  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5329\|מְנַצֵּ֗חַ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a poem  |**<big>&#8207;[[H4905\|מַשְׂכִּ֥יל]]&#8207; </big>**| mas.Kil<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

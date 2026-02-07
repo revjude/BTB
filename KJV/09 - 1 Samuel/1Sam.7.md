@@ -1,6 +1,6 @@
 (KJV) **1 Samuel 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6|<< 1 Samuel 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8|1 Samuel 8 >>]]</td></tr></table>
 
-***Samuel Subdues the Philistines*** ^bsb669
+<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥃]]</big></big>***Samuel Subdues the Philistines***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Sam.7.1|1]]**<span class="endversemarker">]</span> And the men of Kirjath–jearim<small><small>[^2]</small></small> came, and fetched up the ark of the <span class="smallcaps">Lord</span>, and brought it into the house of Abinadab<small><small>[^3]</small></small> in the hill, and sanctified Eleazar his son to keep the ark of the <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[1Sam.7.2|2]]**<span class="endversemarker">]</span> And it came to pass, while the ark abode in Kirjath–jearim, that the time was long; for it was twenty years: and all the house of Israel lamented<small><small>[^4]</small></small> after the <span class="smallcaps">Lord</span>. 
 

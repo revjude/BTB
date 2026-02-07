@@ -1,10 +1,7 @@
 **LXX Exodus 3:21** 
 <small><sub>**LXX:**</sub></small>
 And I will give favor \[to\] this people before the Egyptians. And whenever you might run from \[them\], you will not go forth empty. 
-<small><sub>**KJV:**</sub></small>
-And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:
-<small><sub>**BSB:**</sub></small>
-And I will grant this people such favor in the sight of the Egyptians that when you leave, you will not go away empty-handed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.20|<< Exodus 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.22|Exodus 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

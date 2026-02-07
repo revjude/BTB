@@ -1,4 +1,4 @@
-**Numbers 5:18** 
+**Numbers 5:18**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall set the woman before the LORD, and uncover the woman’s head, and put the offering of memorial in her hands, which [is] the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After the priest has the woman stand before the LORD, he is to let down her hair
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.17|<< Numbers 5:17]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.19|Numbers 5:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make stand  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975G\|הֶעֱמִ֨יד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.'e.Mid<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֥ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

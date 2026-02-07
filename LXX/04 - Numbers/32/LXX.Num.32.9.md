@@ -1,10 +1,7 @@
 **LXX Numbers 32:9** 
 <small><sub>**LXX:**</sub></small>
 And they ascended \[the\] Ravine of \[the\] Cluster, and studied the land, and separated the heart of the sons of Israel, so as to not enter into the land which \[the\] <span class="smallcaps">lord</span> gave to them. 
-<small><sub>**KJV:**</sub></small>
-For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them.
-<small><sub>**BSB:**</sub></small>
-For when your fathers went up to the Valley of Eshcol and saw the land, they discouraged the Israelites from entering the land that the LORD had given them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.8|<< Numbers 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.10|Numbers 32:10 >>]]</td></tr></table>
 
 | Translation | Greek |

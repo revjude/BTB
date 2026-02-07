@@ -1,12 +1,12 @@
-**Matthew 17:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:20**<big><big>[[Matt.17.19 The Power of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.
 <small><sub>**BSB:**</sub></small>
 “Because you have so little faith,” He answered. “For truly I tell you, if you have faith the size of a mustard seed, you can say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus spoke to them; Because of the little faith of you. Amen for I say to you; If you shall have faith as a seed of mustard, you will say to the mountain to this; do move from here to there, and it will move; And no [thing] will be impossible for you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.19|<< Matthew 17:19]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.21|Matthew 17:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

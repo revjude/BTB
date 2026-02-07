@@ -1,12 +1,12 @@
-**Acts 4:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:8**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,
 <small><sub>**BSB:**</sub></small>
 Then Peter, filled with the Holy Spirit, said to them, “Rulers and elders of the people!
 <small><sub>**Literal:**</sub></small>
 Then Peter having been filled with [the] Spirit Holy said to them; Rulers of the people and elders <the> of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.7|<< Acts 4:7]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.9|Acts 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Peter |**<big>[[G4074G\|Πέτρος]]</big>**  |Petros <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

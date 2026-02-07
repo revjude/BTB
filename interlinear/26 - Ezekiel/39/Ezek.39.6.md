@@ -1,4 +1,4 @@
-**Ezekiel 39:6** 
+**Ezekiel 39:6**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will send a fire on Magog, and among them that dwell carelessly in the isles: and they shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will send fire on Magog and on those who dwell securely in the coastlands, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.5|<< Ezekiel 39:5]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.7|Ezekiel 39:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will send  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971G\|שִׁלַּחְתִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.lach.ti-<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire  |**<big>&#8207;[[H0784\|אֵ֣שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

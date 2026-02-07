@@ -1,10 +1,7 @@
 **LXX Proverbs 10:5** 
 <small><sub>**LXX:**</sub></small>
 An intelligent son is preserved from sweltering heat; but destruction by the wind comes at \[the\] harvest \[to\] a son \[who is\] a lawbreaker. 
-<small><sub>**KJV:**</sub></small>
-He that gathereth in summer [is] a wise son: [but] he that sleepeth in harvest [is] a son that causeth shame.
-<small><sub>**BSB:**</sub></small>
-He who gathers in summer is a wise son, but he who sleeps during harvest is a disgraceful son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.4|<< Proverbs 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.6|Proverbs 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

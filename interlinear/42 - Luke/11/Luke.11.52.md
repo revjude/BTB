@@ -1,12 +1,12 @@
-**Luke 11:52
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:52**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Woe unto you, lawyers! for ye have taken away the key of knowledge: ye entered not in yourselves, and them that were entering in ye hindered.
 <small><sub>**BSB:**</sub></small>
 Woe to you experts in the law! For you have taken away the key to knowledge. You yourselves have not entered, and you have hindered those who were entering.”
 <small><sub>**Literal:**</sub></small>
 Woe to you <the> lawyers, for you have taken away the key of the knowledge. You yourselves not did enter and those entering you hindered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.51|<< Luke 11:51]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.53|Luke 11:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Woe |**<big>[[G3759\|Οὐαὶ]]</big>**  |Ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

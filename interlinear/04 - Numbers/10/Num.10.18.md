@@ -1,4 +1,4 @@
-**Numbers 10:18** 
+**Numbers 10:18**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the standard of the camp of Reuben set forward according to their armies: and over his host [was] Elizur the son of Shedeur.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the divisions of the camp of Reuben set out under their standard, with Eliz
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.17|<< Numbers 10:17]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.19|Numbers 10:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it set out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5265\|נָסַ֗ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sa'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] standard of  |**<big>&#8207;[[H1714\|דֶּ֛גֶל]]&#8207; </big>**| De.gel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 3:13** 
+**Deuteronomy 3:13**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of Gilead, and all Bashan, [being] the kingdom of Og, gave I unto the half tribe of Manasseh; all the region of Argob, with all Bashan, which was called the land of giants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To the half-tribe of Manasseh I gave the rest of Gilead and all of Bashan, the k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.12|<< Deuteronomy 3:12]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.14|Deuteronomy 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] remainder of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3499A\|יֶ֨תֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Gilead  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1568G\|גִּלְעָ֤ד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

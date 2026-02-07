@@ -1,4 +1,4 @@
-**Deuteronomy 24:11** 
+**Deuteronomy 24:11**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt stand abroad, and the man to whom thou dost lend shall bring out the pledge abroad unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to stand outside while the man to whom you are lending brings the securi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.10|<< Deuteronomy 24:10]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.12|Deuteronomy 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on the outside  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2351\|ח֖וּץ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Chutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will stand  |**<big>&#8207;[[H5975G\|תַּעֲמֹ֑ד]]&#8207; </big>**| ta.'a.Mod<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 63:11** 
 <small><sub>**LXX:**</sub></small>
 But the king shall be glad upon  God; all swearing by an oath in him shall be praised, for he obstructed \[the\] mouth of the ones speaking unjustly. 
-<small><sub>**KJV:**</sub></small>
-But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.
-<small><sub>**BSB:**</sub></small>
-But the king will rejoice in God; all who swear by Him will exult, for the mouths of liars will be shut.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.63.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.10|<< Psalm 63:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.1|Psalm 64:1 >>]]</td></tr></table>
 
 | Translation | Greek |

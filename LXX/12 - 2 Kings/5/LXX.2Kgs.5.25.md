@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he entered and stood before  his master. And Elisha said to him. From what place \[did you come from\] Gehazi? And Gehazi said, Your servant has not gone here or there. 
-<small><sub>**KJV:**</sub></small>
-But he went in, and stood before his master. And Elisha said unto him, Whence [comest thou], Gehazi? And he said, Thy servant went no whither.
-<small><sub>**BSB:**</sub></small>
-When Gehazi went in and stood before his master, Elisha asked him, “Gehazi, where have you been?” “Your servant did not go anywhere,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.24|<< 2 Kings 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.26|2 Kings 5:26 >>]]</td></tr></table>
 
 | Translation | Greek |

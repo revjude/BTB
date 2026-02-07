@@ -1,10 +1,7 @@
 **LXX Isaiah 53:4** 
 <small><sub>**LXX:**</sub></small>
 This one  bore our sins, and on account of us he was grieved. And we considered him to be for misery, and for calamity by God, and for ill treatment. 
-<small><sub>**KJV:**</sub></small>
-Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.
-<small><sub>**BSB:**</sub></small>
-Surely He took up our infirmities and carried our sorrows; yet we considered Him stricken, struck down by God, and afflicted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.53.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.3|<< Isaiah 53:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.5|Isaiah 53:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 53:4** is...

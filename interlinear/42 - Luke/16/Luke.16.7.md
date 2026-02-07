@@ -1,12 +1,12 @@
-**Luke 16:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:7**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore.
 <small><sub>**BSB:**</sub></small>
 Then he asked another, ‘And how much do you owe?’ ‘A hundred measures of wheat,’ he replied. ‘Take your bill and write eighty,’ he told him.
 <small><sub>**Literal:**</sub></small>
 Then to another he said; You yourself now how much owe? <the> And he said; A hundred cors of wheat. and He says to him; do take your <the> bills and do write eighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.6|<< Luke 16:6]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.8|Luke 16:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G1899\|ἔπειτα]]</big>**  |epeita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to another |**<big>[[G2087\|ἑτέρῳ]]</big>**  |heterō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

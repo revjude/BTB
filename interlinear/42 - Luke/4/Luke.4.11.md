@@ -1,5 +1,5 @@
-**Luke 4:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:11**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in [their] hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
 <small><sub>**BSB:**</sub></small>
 and they will lift You up in their hands, so that You will not strike Your foot against a stone.’”
@@ -10,7 +10,7 @@ and that in [their] hands will they bear You, otherwise You may strike against a
 > $\quad$ referencing: [[LXX.Ps.91.11|Ps 91:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |

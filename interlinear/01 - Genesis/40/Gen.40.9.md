@@ -1,4 +1,4 @@
-**Genesis 40:9** 
+**Genesis 40:9**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine [was] before me;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the chief cupbearer told Joseph his dream: “In my dream there was a vine be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.8|<< Genesis 40:8]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.10|Genesis 40:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he recounted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5608A\|יְסַפֵּ֧ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.Per<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] chief of  |**<big>&#8207;[[H8269\|שַֽׂר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

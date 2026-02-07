@@ -1,12 +1,12 @@
-**1 Corinthians 7:18
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:18**<big><big>[[1Cor.7.17 Live Your Calling|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Is any man called being circumcised? let him not become uncircumcised. Is any called in uncircumcision? let him not be circumcised.
 <small><sub>**BSB:**</sub></small>
 Was a man already circumcised when he was called? He should not become uncircumcised. Was a man still uncircumcised when called? He should not be circumcised.
 <small><sub>**Literal:**</sub></small>
 circumcised anyone was called? Not he should become uncircumcised; In uncircumcision has been called anyone Not he should d be circumcise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.17|<< 1 Corinthians 7:17]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.19|1 Corinthians 7:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | circumcised |**<big>[[G4059\|Περιτετμημένος]]</big>**  |Peritetmēmenos <small><sup>[[V-RPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

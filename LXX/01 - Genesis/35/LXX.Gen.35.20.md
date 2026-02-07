@@ -1,10 +1,7 @@
 **LXX Genesis 35:20** 
 <small><sub>**LXX:**</sub></small>
 And Jacob set up a monument for  her memorial. This is \[the\] monument upon the tomb of Rachel, until  this day. 
-<small><sub>**KJV:**</sub></small>
-And Jacob set a pillar upon her grave: that [is] the pillar of Rachel’s grave unto this day.
-<small><sub>**BSB:**</sub></small>
-Jacob set up a pillar on her grave; it marks Rachel’s tomb to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.19|<< Genesis 35:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.21|Genesis 35:21 >>]]</td></tr></table>
 
 | Translation | Greek |

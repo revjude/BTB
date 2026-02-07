@@ -1,4 +1,4 @@
-**2 Samuel 24:18** 
+**2 Samuel 24:18**<big><big>[[2Sam.24.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gad came that day to David, and said unto him, Go up, rear an altar unto the LORD in the threshingfloor of Araunah the Jebusite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And that day Gad came to David and said to him, “Go up and build an altar to t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.17|<< 2 Samuel 24:17]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.19|2 Samuel 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.vo'-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gad  |**<big>&#8207;[[H1410H\|גָ֥ד]]&#8207; </big>**| gad<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

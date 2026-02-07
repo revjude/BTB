@@ -1,4 +1,4 @@
-**Numbers 22:41** 
+**Numbers 22:41**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost [part] of the people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The next morning, Balak took Balaam and brought him up to Bamoth-baal. From ther
 > $\quad$ referenced by: [[1John.3.12|1John 3:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the morning  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1242\|בֹּ֔קֶר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:17** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to David, Behold,  my daughter, the elder, Merab. I will give her to you for a wife, only become to me for a son of power, and wage war of the battles of \[the\] <span class="smallcaps">lord</span>! And Saul said, my hand be upon him, but the hand of the Philistines be on him! 
-<small><sub>**KJV:**</sub></small>
-And Saul said to David, Behold my elder daughter Merab, her will I give thee to wife: only be thou valiant for me, and fight the LORD’S battles. For Saul said, Let not mine hand be upon him, but let the hand of the Philistines be upon him.
-<small><sub>**BSB:**</sub></small>
-Then Saul said to David, “Here is my older daughter Merab. I will give her to you in marriage. Only be valiant for me and fight the LORD’s battles.” But Saul was thinking, “I need not raise my hand against him; let the hand of the Philistines be against him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.16|<< 1 Samuel 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.18|1 Samuel 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

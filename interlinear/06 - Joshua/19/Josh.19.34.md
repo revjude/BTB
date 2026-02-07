@@ -1,4 +1,4 @@
-**Joshua 19:34** 
+**Joshua 19:34**<big><big>[[Josh.19.32 Naphtali’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [then] the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the border turned westward to Aznoth-tabor and ran from there to Hukkok, to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.33|<< Joshua 19:33]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.35|Joshua 19:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it turns back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|שָׁ֨ב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Shav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּב֥וּל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

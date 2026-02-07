@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:28** 
 <small><sub>**LXX:**</sub></small>
 And the curse, if you do not hearken to the commandments of \[the\] <span class="smallcaps">lord</span>  your God, as many as I give charge to you today, and you should wander from the way which I gave charge to you, having gone to serve other gods, ones who do not perceive. 
-<small><sub>**KJV:**</sub></small>
-And a curse, if ye will not obey the commandments of the LORD your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known.
-<small><sub>**BSB:**</sub></small>
-but a curse if you disobey the commandments of the LORD your God and turn aside from the path I command you today by following other gods, which you have not known.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.27|<< Deuteronomy 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.29|Deuteronomy 11:29 >>]]</td></tr></table>
 
 | Translation | Greek |

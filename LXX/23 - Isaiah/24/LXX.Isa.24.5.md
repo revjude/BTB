@@ -1,10 +1,7 @@
 **LXX Isaiah 24:5** 
 <small><sub>**LXX:**</sub></small>
 And the earth acted lawlessly on account of the ones inhabiting her; because they transgressed the law of \[the\] <span class="smallcaps">lord</span>, and effaced and bartered away the orders -- \[the\] eternal covenant. 
-<small><sub>**KJV:**</sub></small>
-The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.
-<small><sub>**BSB:**</sub></small>
-The earth is defiled by its people; they have transgressed the laws; they have overstepped the decrees and broken the everlasting covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.4|<< Isaiah 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.6|Isaiah 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

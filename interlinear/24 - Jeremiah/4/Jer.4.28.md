@@ -1,4 +1,4 @@
-**Jeremiah 4:28** 
+**Jeremiah 4:28**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this shall the earth mourn, and the heavens above be black: because I have spoken [it], I have purposed [it], and will not repent, neither will I turn back from it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore the earth will mourn and the heavens above will grow dark. I have spok
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.27|<< Jeremiah 4:27]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.29|Jeremiah 4:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹאת֙]]&#8207; </big>**| zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

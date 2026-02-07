@@ -1,10 +1,7 @@
 **LXX Isaiah 53:3** 
 <small><sub>**LXX:**</sub></small>
 But  his appearance \[was\] without honor, and wanting by sons  of men. A man being for calamity, and knowing \[how\] to bear infirmity. For he turned  his face; he was dishonored and was not considered. 
-<small><sub>**KJV:**</sub></small>
-He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were [our] faces from him; he was despised, and we esteemed him not.
-<small><sub>**BSB:**</sub></small>
-He was despised and rejected by men, a man of sorrows, acquainted with grief. Like one from whom men hide their faces, He was despised, and we esteemed Him not.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.53.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.2|<< Isaiah 53:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.4|Isaiah 53:4 >>]]</td></tr></table>
 
 | Translation | Greek |

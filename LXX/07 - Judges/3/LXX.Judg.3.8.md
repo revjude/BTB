@@ -1,10 +1,7 @@
 **LXX Judges 3:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was provoked to anger in rage with  Israel, and he gave them into \[the\] hands of Chushan-rishathaim king of Syria Mesopotamia. And the sons of Israel served \[to\] him eight years. 
-<small><sub>**KJV:**</sub></small>
-Therefore the anger of the LORD was hot against Israel, and he sold them into the hand of Chushanrishathaim king of Mesopotamia: and the children of Israel served Chushanrishathaim eight years.
-<small><sub>**BSB:**</sub></small>
-Then the anger of the LORD burned against Israel, and He sold them into the hand of Cushan-rishathaim king of Aram-naharaim, and the Israelites served him eight years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.7|<< Judges 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.9|Judges 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 8:22** (8:18)
+**Exodus 8:22**<big><big>[[Exod.8.20 The Fourth Plague：Flies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will sever in that day the land of Goshen, in which my people dwell, that no swarms [of flies] shall be there; to the end thou mayest know that I [am] the LORD in the midst of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But on that day I will give special treatment to the land of Goshen, where My pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.21|<< Exodus 8:21]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.23|Exodus 8:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will separate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6395\|הִפְלֵיתִי֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hif.lei.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֨וֹם]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

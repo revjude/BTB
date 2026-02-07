@@ -1,10 +1,7 @@
 **LXX Isaiah 22:7** 
 <small><sub>**LXX:**</sub></small>
 And your choice ravines will be filled of chariots, and the horsemen shall obstruct  your gates. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] thy choicest valleys shall be full of chariots, and the horsemen shall set themselves in array at the gate.
-<small><sub>**BSB:**</sub></small>
-Your choicest valleys are full of chariots, and horsemen are posted at the gates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.6|<< Isaiah 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.8|Isaiah 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

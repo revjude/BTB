@@ -1,4 +1,4 @@
-**Isaiah 66:9** 
+**Isaiah 66:9**<big><big>[[Isa.66.7 Rejoice with Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I bring to the birth, and not cause to bring forth? saith the LORD: shall I cause to bring forth, and shut [the womb]? saith thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shall I bring a baby to the point of birth and not deliver it?” says the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.8|<< Isaiah 66:8]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.10|Isaiah 66:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ I  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do I bring to [the] birth  |**<big>&#8207;[[H7665\|אַשְׁבִּ֛יר]]&#8207; </big>**| 'ash.Bir<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

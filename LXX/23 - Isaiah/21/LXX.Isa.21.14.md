@@ -1,10 +1,7 @@
 **LXX Isaiah 21:14** 
 <small><sub>**LXX:**</sub></small>
 for meeting with \[the\] one thirsting bring water! O ones dwelling in \[the\] place of Tema. Meet with bread \[loaves\] the ones fleeing! 
-<small><sub>**KJV:**</sub></small>
-The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.
-<small><sub>**BSB:**</sub></small>
-Bring water for the thirsty, O dwellers of Tema; meet the refugees with food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.13|<< Isaiah 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.15|Isaiah 21:15 >>]]</td></tr></table>
 
 | Translation | Greek |

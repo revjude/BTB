@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:9** 
 <small><sub>**LXX:**</sub></small>
 For in  your turning to \[the\] <span class="smallcaps">lord</span>,  your brethren and  your children will be  \[shown\] compassions before all the ones taking them captive, and he will return them to  this land; for merciful and pitying \[is the\] <span class="smallcaps">lord</span>  our God, and he will not turn  his face from us, if we should return to him. 
-<small><sub>**KJV:**</sub></small>
-For if ye turn again unto the LORD, your brethren and your children [shall find] compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God [is] gracious and merciful, and will not turn away [his] face from you, if ye return unto him.
-<small><sub>**BSB:**</sub></small>
-For if you return to the LORD, your brothers and sons will receive mercy in the presence of their captors and will return to this land. For the LORD your God is gracious and merciful; He will not turn His face away from you if you return to Him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.8|<< 2 Chronicles 30:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.10|2 Chronicles 30:10 >>]]</td></tr></table>
 
 | Translation | Greek |

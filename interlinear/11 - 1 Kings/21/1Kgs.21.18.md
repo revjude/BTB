@@ -1,4 +1,4 @@
-**1 Kings 21:18** 
+**1 Kings 21:18**<big><big>[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, go down to meet Ahab king of Israel, which [is] in Samaria: behold, [he is] in the vineyard of Naboth, whither he is gone down to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arise, go down to meet Ahab king of Israel, which [is] in Samaria: behold, [he i
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.17|<< 1 Kings 21:17]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.19|1 Kings 21:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֣וּם]]&#8207; </big>**| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go down  |**<big>&#8207;[[H3381\|רֵ֗ד]]&#8207; </big>**| Red<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

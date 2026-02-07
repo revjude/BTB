@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:6** 
 <small><sub>**LXX:**</sub></small>
 And all the ones dwelling Egypt shall know that I am \[the\] <span class="smallcaps">lord</span>, because you became a rod of reed to the house of Israel. 
-<small><sub>**KJV:**</sub></small>
-And all the inhabitants of Egypt shall know that I [am] the LORD, because they have been a staff of reed to the house of Israel.
-<small><sub>**BSB:**</sub></small>
-Then all the people of Egypt will know that I am the LORD. For you were only a staff of reeds to the house of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.5|<< Ezekiel 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.7|Ezekiel 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

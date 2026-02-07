@@ -1,10 +1,7 @@
 **LXX Proverbs 16:25** 
 <small><sub>**LXX:**</sub></small>
 There are ways that seem to be straight to a man, however the finalities of them look into \[the\] lower branch of Hades. 
-<small><sub>**KJV:**</sub></small>
-There is a way that seemeth right unto a man, but the end thereof [are] the ways of death.
-<small><sub>**BSB:**</sub></small>
-There is a way that seems right to a man, but its end is the way of death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.16.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.24|<< Proverbs 16:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.16.26|Proverbs 16:26 >>]]</td></tr></table>
 
 | Translation | Greek |

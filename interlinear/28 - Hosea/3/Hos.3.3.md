@@ -1,4 +1,4 @@
-**Hosea 3:3** 
+**Hosea 3:3**<big><big>[[Hos.3.1 Hosea Redeems His Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for [another] man: so [will] I also [be] for thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I said to her, “You must live with me for many days; you must not be prom
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.3.2|<< Hosea 3:2]]</td><td align="center" style="border:none;">[[Hos.3|Hosea 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.3.4|Hosea 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֣ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to her  |**<big>&#8207;[[H0413\|אֵלֶ֗י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

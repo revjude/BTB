@@ -1,4 +1,4 @@
-**2 Samuel 8:12** 
+**2 Samuel 8:12**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of Syria, and of Moab, and of the children of Ammon, and of the Philistines, and of Amalek, and of the spoil of Hadadezer, son of Rehob, king of Zobah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from Edom and Moab, from the Ammonites and Philistines and Amalekites, and from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.11|<< 2 Samuel 8:11]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.13|2 Samuel 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from Aram  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0758M\|אֲרָ֤ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and from Moab  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4124G\|מּוֹאָב֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

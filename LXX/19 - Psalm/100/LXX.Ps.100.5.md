@@ -1,10 +1,7 @@
 **LXX Psalm 100:5** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> \[is\] gracious; his mercy \[is\] into the eon, and his truth unto generation and generation. 
-<small><sub>**KJV:**</sub></small>
-For the LORD [is] good; his mercy [is] everlasting; and his truth [endureth] to all generations.
-<small><sub>**BSB:**</sub></small>
-For the LORD is good, and His loving devotion endures forever; His faithfulness continues to all generations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.100.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.100.4|<< Psalm 100:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.101.1|Psalm 101:1 >>]]</td></tr></table>
 
 | Translation | Greek |

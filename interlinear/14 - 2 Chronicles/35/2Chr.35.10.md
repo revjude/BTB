@@ -1,4 +1,4 @@
-**2 Chronicles 35:10** 
+**2 Chronicles 35:10**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the service was prepared, and the priests stood in their place, and the Levites in their courses, according to the king’s commandment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the service was prepared; the priests stood in their places and the Levites i
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.9|<< 2 Chronicles 35:9]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.11|2 Chronicles 35:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was arranged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3559A\|תִּכּ֖וֹן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kon<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the service  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5656G\|עֲבוֹדָ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.vo.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

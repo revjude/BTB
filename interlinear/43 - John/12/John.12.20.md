@@ -1,12 +1,12 @@
-**John 12:20
-**<small><sub>**KJV:**</sub></small>
+**John 12:20**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there were certain Greeks among them that came up to worship at the feast:
 <small><sub>**BSB:**</sub></small>
 Now there were some Greeks among those who went up to worship at the feast.
 <small><sub>**Literal:**</sub></small>
 There were now Greeks certain among those coming up that they may worship at the feast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.19|<< John 12:19]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.21|John 12:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There were |**<big>[[G1510\|Ἦσαν]]</big>**  |Ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

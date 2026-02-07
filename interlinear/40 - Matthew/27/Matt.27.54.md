@@ -1,12 +1,12 @@
-**Matthew 27:54
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:54**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.
 <small><sub>**BSB:**</sub></small>
 When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified and said, “Truly this was the Son of God.”
 <small><sub>**Literal:**</sub></small>
 <the> And the centurion and those with him keeping guard over <the> Jesus having seen the earthquake and the [things that] were happening feared greatly saying; Truly God’s Son was this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.53|<< Matthew 27:53]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.55|Matthew 27:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

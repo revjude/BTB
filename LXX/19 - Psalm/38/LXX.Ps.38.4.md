@@ -1,10 +1,7 @@
 **LXX Psalm 38:4** 
 <small><sub>**LXX:**</sub></small>
 For  my lawless deeds are elevated above  my head; as a heavy load they were oppressed upon me. 
-<small><sub>**KJV:**</sub></small>
-For mine iniquities are gone over mine head: as an heavy burden they are too heavy for me.
-<small><sub>**BSB:**</sub></small>
-For my iniquities have overwhelmed me; they are a burden too heavy to bear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.3|<< Psalm 38:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.5|Psalm 38:5 >>]]</td></tr></table>
 
 | Translation | Greek |

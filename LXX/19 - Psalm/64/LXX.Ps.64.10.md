@@ -1,10 +1,7 @@
 **LXX Psalm 64:10** 
 <small><sub>**LXX:**</sub></small>
 The just shall be glad in the <span class="smallcaps">lord</span>, and shall hope upon him; and all the straight in heart shall be praised. 
-<small><sub>**KJV:**</sub></small>
-The righteous shall be glad in the LORD, and shall trust in him; and all the upright in heart shall glory.
-<small><sub>**BSB:**</sub></small>
-Let the righteous rejoice in the LORD and take refuge in Him; let all the upright in heart exult.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.64.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.9|<< Psalm 64:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.1|Psalm 65:1 >>]]</td></tr></table>
 
 | Translation | Greek |

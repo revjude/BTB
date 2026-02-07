@@ -1,4 +1,4 @@
-**Deuteronomy 4:9** 
+**Deuteronomy 4:9**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons’ sons;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Only be on your guard and diligently watch yourselves, so that you do not forget
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.8|<< Deuteronomy 4:8]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.10|Deuteronomy 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֡ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take heed  |**<big>&#8207;[[H8104J\|הִשָּׁ֣מֶר]]&#8207; </big>**| hi.Sha.mer<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

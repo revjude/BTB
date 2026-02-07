@@ -1,12 +1,12 @@
-**Matthew 21:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:17**<big><big>[[Matt.21.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he left them, and went out of the city into Bethany; and he lodged there.
 <small><sub>**BSB:**</sub></small>
 Then He left them and went out of the city to Bethany, where He spent the night.
 <small><sub>**Literal:**</sub></small>
 And having left them He went out of the city to Bethany and He passed the night there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.16|<< Matthew 21:16]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.18|Matthew 21:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having left |**<big>[[G2641\|καταλιπὼν]]</big>**  |katalipōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

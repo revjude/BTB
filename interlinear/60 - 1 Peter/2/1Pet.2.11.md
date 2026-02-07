@@ -1,12 +1,12 @@
-**1 Peter 2:11
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:11**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Dearly beloved, I beseech [you] as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 <small><sub>**BSB:**</sub></small>
 Beloved, I urge you, as foreigners and exiles, to abstain from the desires of the flesh, which war against your soul.
 <small><sub>**Literal:**</sub></small>
 Beloved, I exhort [you] as aliens and sojourners to abstain <the> from fleshly desires, which war against the soul;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.10|<< 1 Peter 2:10]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.12|1 Peter 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Beloved, |**<big>[[G0027\|Ἀγαπητοί,]]</big>**  |Agapētoi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I exhort [you] |**<big>[[G3870\|παρακαλῶ]]</big>**  |parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

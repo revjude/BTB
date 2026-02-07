@@ -1,10 +1,7 @@
 **LXX Proverbs 7:22** 
 <small><sub>**LXX:**</sub></small>
  And he followed after her, being easily led on, and as an ox \[is\] led unto slaughter, and as a dog to bonds, and as a stag shot with a bow, 
-<small><sub>**KJV:**</sub></small>
-He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;
-<small><sub>**BSB:**</sub></small>
-He follows her on impulse, like an ox going to the slaughter, like a deer bounding into a trap,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.21|<< Proverbs 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.23|Proverbs 7:23 >>]]</td></tr></table>
 
 | Translation | Greek |

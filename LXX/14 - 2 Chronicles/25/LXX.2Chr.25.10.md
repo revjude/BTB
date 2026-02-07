@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:10** 
 <small><sub>**LXX:**</sub></small>
 And Amaziah parted the force  coming to him from Ephraim, to go forth to  their place. And they were enraged \[in\] their anger exceedingly over Judah, and returned to  their places in an anger of rage. 
-<small><sub>**KJV:**</sub></small>
-Then Amaziah separated them, [to wit], the army that was come to him out of Ephraim, to go home again: wherefore their anger was greatly kindled against Judah, and they returned home in great anger.
-<small><sub>**BSB:**</sub></small>
-So Amaziah dismissed the troops who had come to him from Ephraim and sent them home. And they were furious with Judah and returned home in great anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.9|<< 2 Chronicles 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.11|2 Chronicles 25:11 >>]]</td></tr></table>
 
 | Translation | Greek |

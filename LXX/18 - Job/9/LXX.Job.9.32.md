@@ -1,10 +1,7 @@
 **LXX Job 9:32** 
 <small><sub>**LXX:**</sub></small>
 For you are not a man like me, with whom I can judge by comparison, that we should come with one accord for judgment. 
-<small><sub>**KJV:**</sub></small>
-For [he is] not a man, as I [am, that] I should answer him, [and] we should come together in judgment.
-<small><sub>**BSB:**</sub></small>
-For He is not a man like me, that I can answer Him, that we can take each other to court.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.31|<< Job 9:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.33|Job 9:33 >>]]</td></tr></table>
 
 | Translation | Greek |

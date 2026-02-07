@@ -1,5 +1,5 @@
-**Revelation 17:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:1**<big><big>[[Rev.17.1 The Woman on the Beast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
 <small><sub>**BSB:**</sub></small>
 Then one of the seven angels with the seven bowls came and said to me, “Come, I will show you the punishment of the great prostitute, who sits on many waters.
@@ -10,7 +10,7 @@ And came one of the seven angels those having the seven bowls and spoke with me 
 > $\quad$ alluding to: [[LXX.Jer.51.13|Jer 51:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | came |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

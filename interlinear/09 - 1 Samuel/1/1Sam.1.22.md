@@ -1,4 +1,4 @@
-**1 Samuel 1:22** 
+**1 Samuel 1:22**<big><big>[[1Sam.1.19 The Birth of Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Hannah went not up; for she said unto her husband, [I will not go up] until the child be weaned, and [then] I will bring him, that he may appear before the LORD, and there abide for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but Hannah did not go. “After the boy is weaned,” she said to her husband, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.21|<< 1 Samuel 1:21]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.23|1 Samuel 1:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Hannah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2584\|חַנָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Nah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

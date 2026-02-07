@@ -1,10 +1,7 @@
 **LXX Genesis 46:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Simeon -- Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul, son of the Canaanitess. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.
-<small><sub>**BSB:**</sub></small>
-The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a Canaanite woman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.9|<< Genesis 46:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.11|Genesis 46:11 >>]]</td></tr></table>
 
 | Translation | Greek |

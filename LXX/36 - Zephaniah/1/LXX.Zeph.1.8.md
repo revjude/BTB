@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it will be in \[the\] day of \[the\] sacrifice of \[the\] <span class="smallcaps">lord</span>, that I will take vengeance upon the rulers, and upon the house of the king, and upon all the ones putting on alien garments. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in the day of the LORD’S sacrifice, that I will punish the princes, and the king’s children, and all such as are clothed with strange apparel.
-<small><sub>**BSB:**</sub></small>
-“On the Day of the LORD’s sacrifice I will punish the princes, the sons of the king, and all who are dressed in foreign apparel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.7|<< Zephaniah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.9|Zephaniah 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 49:8** 
 <small><sub>**LXX:**</sub></small>
 (Even the value of the ransoming  his soul, even \[if\] he labored into the eon.) 
-<small><sub>**KJV:**</sub></small>
-(For the redemption of their soul [is] precious, and it ceaseth for ever:)
-<small><sub>**BSB:**</sub></small>
-For the redemption of his soul is costly, and never can payment suffice,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.7|<< Psalm 49:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.9|Psalm 49:9 >>]]</td></tr></table>
 
 | Translation | Greek |

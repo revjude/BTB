@@ -1,4 +1,4 @@
-**1 Samuel 19:24** 
+**1 Samuel 19:24**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, [Is] Saul also among the prophets?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Saul stripped off his robes and also prophesied before Samuel. And he colla
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.23|<< 1 Samuel 19:23]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.1|1 Samuel 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stripped off  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6584\|יִּפְשַׁ֨ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Shat<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

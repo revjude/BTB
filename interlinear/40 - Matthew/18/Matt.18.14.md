@@ -1,12 +1,12 @@
-**Matthew 18:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:14**<big><big>[[Matt.18.10 The Parable of the Lost Sheep|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.
 <small><sub>**BSB:**</sub></small>
 In the same way, your Father in heaven is not willing that any of these little ones should perish.
 <small><sub>**Literal:**</sub></small>
 Thus not it is [the] will of the Father of you who [is] in [the] heavens that may perish one of the little ones of these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.13|<< Matthew 18:13]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.15|Matthew 18:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

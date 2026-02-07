@@ -1,12 +1,12 @@
-**Ephesians 2:10
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:10**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
 <small><sub>**BSB:**</sub></small>
 For we are God’s workmanship, created in Christ Jesus to do good works, which God prepared in advance as our way of life.
 <small><sub>**Literal:**</sub></small>
 Of Him for we are workmanship having been created in Christ Jesus for works good which prepared beforehand <the> God, that in them we may walk.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.9|<< Ephesians 2:9]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.11|Ephesians 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of Him |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

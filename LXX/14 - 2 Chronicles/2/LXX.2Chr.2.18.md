@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:18** 
 <small><sub>**LXX:**</sub></small>
 And he made of them seventy thousand load carriers, and eighty thousand quarriers in the mountain, and three thousand six hundred foremen over the people. 
-<small><sub>**KJV:**</sub></small>
-And he set threescore and ten thousand of them [to be] bearers of burdens, and fourscore thousand [to be] hewers in the mountain, and three thousand and six hundred overseers to set the people a work.
-<small><sub>**BSB:**</sub></small>
-Solomon made 70,000 of them porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.17|<< 2 Chronicles 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.1|2 Chronicles 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

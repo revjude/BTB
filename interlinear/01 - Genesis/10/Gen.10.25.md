@@ -1,4 +1,4 @@
-**Genesis 10:25** 
+**Genesis 10:25**<big><big>[[Gen.10.21 The Semites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Eber were born two sons: the name of one [was] Peleg; for in his days was the earth divided; and his brother’s name [was] Joktan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two sons were born to Eber: One was named Peleg, because in his days the earth w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.24|<< Genesis 10:24]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.26|Genesis 10:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Eber  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5677G\|עֵ֥בֶר]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> l.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<it> was born  |**<big>&#8207;[[H3205\|יֻלַּ֖ד]]&#8207; </big>**| yu.Lad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

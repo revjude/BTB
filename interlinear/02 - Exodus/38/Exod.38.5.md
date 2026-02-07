@@ -1,4 +1,4 @@
-**Exodus 38:5** 
+**Exodus 38:5**<big><big>[[Exod.38.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cast four rings for the four ends of the grate of brass, [to be] places for the staves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the four corners of the bronze grate he cast four rings as holders for the po
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.4|<< Exodus 38:4]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.6|Exodus 38:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he cast  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3332H\|יִּצֹ֞ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tzok<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | four  |**<big>&#8207;[[H0702\|אַרְבַּ֧ע]]&#8207; </big>**| 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

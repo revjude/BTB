@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:19** 
 <small><sub>**LXX:**</sub></small>
 And departing from out of Horeb, we went through all  that great and dreadful wilderness, which you beheld by \[the\] way of \[the\] mountain of the Amorite, in so far as \[the\] <span class="smallcaps">lord</span> our God gave charge to us; and we came unto Kadesh Barnea. 
-<small><sub>**KJV:**</sub></small>
-And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadeshbarnea.
-<small><sub>**BSB:**</sub></small>
-And just as the LORD our God had commanded us, we set out from Horeb and went toward the hill country of the Amorites, through all the vast and terrifying wilderness you have seen. When we reached Kadesh-barnea,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.18|<< Deuteronomy 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.20|Deuteronomy 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

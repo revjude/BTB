@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:24** 
 <small><sub>**LXX:**</sub></small>
 And there will not be any longer in the house of Israel a barb of bitterness, nor a thorn of grief from all the ones surrounding them, of the ones dishonoring them; and they shall know that I am Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And there shall be no more a pricking brier unto the house of Israel, nor [any] grieving thorn of all [that are] round about them, that despised them; and they shall know that I [am] the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-For the people of Israel will no longer face a pricking brier or a painful thorn from all around them who treat them with contempt. Then they will know that I am the Lord GOD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.23|<< Ezekiel 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.25|Ezekiel 28:25 >>]]</td></tr></table>
 
 | Translation | Greek |

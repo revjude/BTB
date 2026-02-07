@@ -1,4 +1,4 @@
-**Genesis 26:4** 
+**Genesis 26:4**<big><big>[[Gen.26.1 God’s Promise to Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will make your descendants as numerous as the stars in the sky, and I will giv
 > $\quad$ referenced by: [[Acts.3.25|Acts 3:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will multiply  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7235A\|הִרְבֵּיתִ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hir.bei.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

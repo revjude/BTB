@@ -1,5 +1,5 @@
-**Revelation 22:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:3**<big><big>[[Rev.22.1 The River of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:
 <small><sub>**BSB:**</sub></small>
 No longer will there be any curse. The throne of God and of the Lamb will be within the city, and His servants will worship Him.
@@ -10,7 +10,7 @@ And any curse not there will be any longer, And the throne <the> of God and of t
 > $\quad$ possibly alluding to: [[LXX.Zech.14.11|Zech 14:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | any |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

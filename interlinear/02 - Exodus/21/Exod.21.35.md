@@ -1,4 +1,4 @@
-**Exodus 21:35** 
+**Exodus 21:35**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead [ox] also they shall divide.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man’s ox injures his neighbor’s ox and it dies, they must sell the live
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.34|<< Exodus 21:34]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.36|Exodus 21:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will strike  |**<big>&#8207;[[H5062\|יִגֹּ֧ף]]&#8207; </big>**| yi.Gof<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

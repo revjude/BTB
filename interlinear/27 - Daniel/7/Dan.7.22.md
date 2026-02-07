@@ -1,4 +1,4 @@
-**Daniel 7:22** 
+**Daniel 7:22**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ until the Ancient of Days arrived and pronounced judgment in favor of the saints
 > $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5705\|עַ֣ד]]&#8207; </big>**| 'ad<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H1768\|דִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

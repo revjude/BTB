@@ -1,4 +1,4 @@
-**Job 19:10** 
+**Job 19:10**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He tears me down on every side until I am gone; He uproots my hope like a tree.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.9|<< Job 19:9]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.11|Job 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has torn down me  |**<big>&#8207;[[H5422\|יִתְּצֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| yi.te.Tze.<small><sup>[[HVqi3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all around  |**<big>&#8207;[[H5439H\|סָ֭בִיב]]&#8207; </big>**| Sa.viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

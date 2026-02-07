@@ -1,4 +1,4 @@
-**1 Samuel 3:14** 
+**1 Samuel 3:14**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And therefore I have sworn unto the house of Eli, that the iniquity of Eli’s house shall not be purged with sacrifice nor offering for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore I have sworn to the house of Eli, ‘The iniquity of Eli’s house sha
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.13|<< 1 Samuel 3:13]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.15|1 Samuel 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֥ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I swear  |**<big>&#8207;[[H7650\|נִשְׁבַּ֖עְתִּי]]&#8207; </big>**| nish.Ba'.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

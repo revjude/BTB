@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:21** 
 <small><sub>**LXX:**</sub></small>
 And I will scatter by you \[the\] horse and his rider. And I will scatter by you chariots and their riders. 
-<small><sub>**KJV:**</sub></small>
-And with thee will I break in pieces the horse and his rider; and with thee will I break in pieces the chariot and his rider;
-<small><sub>**BSB:**</sub></small>
-With you I shatter the horse and rider; with you I shatter the chariot and driver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.20|<< Jeremiah 51:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.22|Jeremiah 51:22 >>]]</td></tr></table>
 
 | Translation | Greek |

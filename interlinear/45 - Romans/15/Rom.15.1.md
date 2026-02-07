@@ -1,12 +1,12 @@
-**Romans 15:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:1**<big><big>[[Rom.15.1 Accept One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.
 <small><sub>**BSB:**</sub></small>
 We who are strong ought to bear with the shortcomings of the weak and not to please ourselves.
 <small><sub>**Literal:**</sub></small>
 We ought now we ourselves who [are] strong the weaknesses of the weak to bear and not ourselves to please;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.23|<< Romans 14:23]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.2|Romans 15:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ought |**<big>[[G3784\|Ὀφείλομεν]]</big>**  |Opheilomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

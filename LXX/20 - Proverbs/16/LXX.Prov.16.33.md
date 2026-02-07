@@ -1,10 +1,7 @@
 **LXX Proverbs 16:33** 
 <small><sub>**LXX:**</sub></small>
 Into enfolded arms come all \[things\] to the unjust; but all just \[things\] \[are\] from \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The lot is cast into the lap; but the whole disposing thereof [is] of the LORD.
-<small><sub>**BSB:**</sub></small>
-The lot is cast into the lap, but its every decision is from the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.16.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.32|<< Proverbs 16:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.1|Proverbs 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

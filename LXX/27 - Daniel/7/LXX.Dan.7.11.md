@@ -1,10 +1,7 @@
 **LXX Daniel 7:11** 
 <small><sub>**LXX:**</sub></small>
 I viewed then because of a voice of the great words which  that horn spoke, until the wild beast was done away with, and destroyed, and  its body was given unto burning fire. 
-<small><sub>**KJV:**</sub></small>
-I beheld then because of the voice of the great words which the horn spake: I beheld [even] till the beast was slain, and his body destroyed, and given to the burning flame.
-<small><sub>**BSB:**</sub></small>
-Then I kept watching because of the arrogant words the horn was speaking. As I continued to watch, the beast was slain, and its body was destroyed and thrown into the blazing fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.10|<< Daniel 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.12|Daniel 7:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:11** is...

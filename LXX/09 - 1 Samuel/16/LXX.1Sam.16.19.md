@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:19** 
 <small><sub>**LXX:**</sub></small>
 And Saul sent messengers to Jesse, saying, Send out to me David  your son, the one among  your flock. 
-<small><sub>**KJV:**</sub></small>
-Wherefore Saul sent messengers unto Jesse, and said, Send me David thy son, which [is] with the sheep.
-<small><sub>**BSB:**</sub></small>
-So Saul sent messengers to Jesse and said, “Send me your son David, who is with the sheep.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.18|<< 1 Samuel 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.20|1 Samuel 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

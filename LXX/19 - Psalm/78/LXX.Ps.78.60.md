@@ -1,10 +1,7 @@
 **LXX Psalm 78:60** 
 <small><sub>**LXX:**</sub></small>
 And he thrust away the tent of Shiloh, \[the\] tent in which he encamped among men. 
-<small><sub>**KJV:**</sub></small>
-So that he forsook the tabernacle of Shiloh, the tent [which] he placed among men;
-<small><sub>**BSB:**</sub></small>
-He abandoned the tabernacle of Shiloh, the tent He had pitched among men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.59|<< Psalm 78:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.61|Psalm 78:61 >>]]</td></tr></table>
 
 | Translation | Greek |

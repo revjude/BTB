@@ -1,10 +1,7 @@
 **LXX Joshua 2:14** 
 <small><sub>**LXX:**</sub></small>
 And the men said to her,  Our life for yours, \[even\] unto death. And she said, Whenever \[the\] <span class="smallcaps">lord</span> should deliver up the city to you, you shall perform for me \[an act of\] mercy and truth. 
-<small><sub>**KJV:**</sub></small>
-And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the LORD hath given us the land, that we will deal kindly and truly with thee.
-<small><sub>**BSB:**</sub></small>
-“Our lives for your lives!” the men agreed. “If you do not report our mission, we will show you kindness and faithfulness when the LORD gives us the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.13|<< Joshua 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.15|Joshua 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:21** 
 <small><sub>**LXX:**</sub></small>
 And Jehu sent in all Israel. And all the servants of Baal came; \[there was\] not left behind a man who did not come. And they entered into the house  of Baal, and the house of Baal was filled -- mouth unto mouth. 
-<small><sub>**KJV:**</sub></small>
-And Jehu sent through all Israel: and all the worshippers of Baal came, so that there was not a man left that came not. And they came into the house of Baal; and the house of Baal was full from one end to another.
-<small><sub>**BSB:**</sub></small>
-Then Jehu sent word throughout Israel, and all the servants of Baal came; there was not a man who failed to show. They entered the temple of Baal, and it was filled from end to end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.20|<< 2 Kings 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.22|2 Kings 10:22 >>]]</td></tr></table>
 
 | Translation | Greek |

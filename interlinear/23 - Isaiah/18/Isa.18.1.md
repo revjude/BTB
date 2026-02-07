@@ -1,4 +1,4 @@
-**Isaiah 18:1** 
+**Isaiah 18:1**<big><big>[[Isa.18.1 A Message to Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to the land shadowing with wings, which [is] beyond the rivers of Ethiopia:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to the land of whirring wings, along the rivers of Cush,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.14|<< Isaiah 17:14]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.2|Isaiah 18:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | alas!  |**<big>&#8207;[[H1945\|ה֥וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O land of  |**<big>&#8207;[[H0776G\|אֶ֖רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

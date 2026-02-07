@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:49** 
 <small><sub>**LXX:**</sub></small>
 Ascend into the mountain  Abarim, this mountain Nebo! which is in \[the\] land of Moab, against \[the\] face of Jericho. And behold the land of Canaan! which I give to the sons of Israel for a possession. 
-<small><sub>**KJV:**</sub></small>
-Get thee up into this mountain Abarim, [unto] mount Nebo, which [is] in the land of Moab, that [is] over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession:
-<small><sub>**BSB:**</sub></small>
-“Go up into the Abarim Range to Mount Nebo, in the land of Moab across from Jericho, and view the land of Canaan, which I am giving to the Israelites as their own possession.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.48|<< Deuteronomy 32:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.50|Deuteronomy 32:50 >>]]</td></tr></table>
 
 | Translation | Greek |

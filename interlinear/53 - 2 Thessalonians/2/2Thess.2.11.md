@@ -1,12 +1,12 @@
-**2 Thessalonians 2:11
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:11**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And for this cause God shall send them strong delusion, that they should believe a lie:
 <small><sub>**BSB:**</sub></small>
 For this reason God will send them a powerful delusion so that they believe the lie,
 <small><sub>**Literal:**</sub></small>
 And because of this sends to them <the> God a powerful delusion so that to believe they what [is] false,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.10|<< 2 Thessalonians 2:10]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.12|2 Thessalonians 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

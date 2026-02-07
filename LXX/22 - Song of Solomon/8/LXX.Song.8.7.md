@@ -1,10 +1,7 @@
 **LXX Song of Solomon 8:7** 
 <small><sub>**LXX:**</sub></small>
 Much water will not be able to extinguish  love, and rivers shall not engulf it. If a man should give all  his livelihood for  love, \[with\] contempt \[men\] will treat it contemptuously. 
-<small><sub>**KJV:**</sub></small>
-Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.
-<small><sub>**BSB:**</sub></small>
-Mighty waters cannot quench love; rivers cannot sweep it away. If a man were to give all the wealth of his house for love, his offer would be utterly scorned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.6|<< Song of Solomon 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.8|Song of Solomon 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

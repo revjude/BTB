@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:19** 
 <small><sub>**LXX:**</sub></small>
 And now my master the king hear indeed the words  of his servant! If  God stirs you against me, your sacrifice smell \[acceptable\]. And if \[the\] sons of men, \[then let\] these \[be\] accursed before \[the\] <span class="smallcaps">lord</span>, for they cast me out today to not be fixed firmly in \[the\] inheritance of \[the\] <span class="smallcaps">lord</span>, saying, Go serve other gods! 
-<small><sub>**KJV:**</sub></small>
-Now therefore, I pray thee, let my lord the king hear the words of his servant. If the LORD have stirred thee up against me, let him accept an offering: but if [they be] the children of men, cursed [be] they before the LORD; for they have driven me out this day from abiding in the inheritance of the LORD, saying, Go, serve other gods.
-<small><sub>**BSB:**</sub></small>
-Now please, may my lord the king hear the words of his servant: If the LORD has stirred you up against me, then may He accept an offering. But if men have done it, may they be cursed in the presence of the LORD! For today they have driven me away from sharing in the inheritance of the LORD, saying, ‘Go, serve other gods.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.18|<< 1 Samuel 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.20|1 Samuel 26:20 >>]]</td></tr></table>
 
 | Translation | Greek |

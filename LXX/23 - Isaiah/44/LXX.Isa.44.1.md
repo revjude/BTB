@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But now hear! O Jacob  my child, and O Israel, whom I chose. 
-<small><sub>**KJV:**</sub></small>
-Yet now hear, O Jacob my servant; and Israel, whom I have chosen:
-<small><sub>**BSB:**</sub></small>
-But now listen, O Jacob My servant, Israel, whom I have chosen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.28|<< Isaiah 43:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.2|Isaiah 44:2 >>]]</td></tr></table>
 
 | Translation | Greek |

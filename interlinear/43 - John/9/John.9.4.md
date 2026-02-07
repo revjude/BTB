@@ -1,12 +1,12 @@
-**John 9:4
-**<small><sub>**KJV:**</sub></small>
+**John 9:4**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I must work the works of him that sent me, while it is day: the night cometh, when no man can work.
 <small><sub>**BSB:**</sub></small>
 While it is daytime, we must do the works of Him who sent Me. Night is coming, when no one can work.
 <small><sub>**Literal:**</sub></small>
 Us it behooves to work the works of the [One who] having sent Me while day it is; is coming night, when no [one] is able to work.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.3|<< John 9:3]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.5|John 9:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Us [^1] [^2] |**<big>[[G3165\|ἡμᾶς]]</big>**  |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | it behooves |**<big>[[G1163\|δεῖ]]</big>**  |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

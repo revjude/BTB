@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:37** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass \[when\] he did obeisance in the house of Nisroch  his god, Adrammelech and Sharezer  his sons struck him with a sword; and they escaped into \[the\] land of Ararat. And Esar-haddon his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-One day, while he was worshiping in the temple of his god Nisroch, his sons Adrammelech and Sharezer put him to the sword and escaped to the land of Ararat. And his son Esar-haddon reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.36|<< 2 Kings 19:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.1|2 Kings 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

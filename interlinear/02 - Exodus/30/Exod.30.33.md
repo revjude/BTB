@@ -1,4 +1,4 @@
-**Exodus 30:33** 
+**Exodus 30:33**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whosoever compoundeth [any] like it, or whosoever putteth [any] of it upon a stranger, shall even be cut off from his people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Anyone who mixes perfume like it or puts it on an outsider shall be cut off from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.32|<< Exodus 30:32]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.34|Exodus 30:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | anyone  |**<big>&#8207;[[H0376I\|אִ֚ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

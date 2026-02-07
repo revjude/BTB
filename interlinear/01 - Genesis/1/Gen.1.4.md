@@ -1,4 +1,4 @@
-**Genesis 1:4** 
+**Genesis 1:4**<big><big>[[Gen.1.3 The First Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God saw the light, that [it was] good: and God divided the light from the darkness.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And God saw that the light was good, and He separated the light from the darknes
 > $\quad$ referenced by: [[2Cor.4.6|2Cor 4:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֧רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

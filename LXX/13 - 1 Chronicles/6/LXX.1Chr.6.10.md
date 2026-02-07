@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:10** 
 <small><sub>**LXX:**</sub></small>
 and Johanan engendered  Azariah -- he is Azariah who officiated as priest in the house which Solomon built in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And Johanan begat Azariah, (he [it is] that executed the priest’s office in the temple that Solomon built in Jerusalem:)
-<small><sub>**BSB:**</sub></small>
-Johanan was the father of Azariah, who served as priest in the temple that Solomon built in Jerusalem,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.9|<< 1 Chronicles 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.11|1 Chronicles 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

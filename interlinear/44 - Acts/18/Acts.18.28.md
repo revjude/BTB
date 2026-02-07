@@ -1,12 +1,12 @@
-**Acts 18:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:28**<big><big>[[Acts.18.23 Paul’s Third Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he mightily convinced the Jews, [and that] publickly, shewing by the scriptures that Jesus was Christ.
 <small><sub>**BSB:**</sub></small>
 For he powerfully refuted the Jews in public debate, proving from the Scriptures that Jesus is the Christ.
 <small><sub>**Literal:**</sub></small>
 Powerfully for the Jews he was refuting publicly showing through the Scriptures to be the Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.27|<< Acts 18:27]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.1|Acts 19:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Powerfully |**<big>[[G2159\|εὐτόνως]]</big>**  |eutonōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

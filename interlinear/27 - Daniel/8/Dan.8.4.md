@@ -1,4 +1,4 @@
-**Daniel 8:4** 
+**Daniel 8:4**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither [was there any] that could deliver out of his hand; but he did according to his will, and became great.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I saw the ram charging toward the west and the north and the south. No animal co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.3|<< Daniel 8:3]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.5|Daniel 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I saw  |**<big>&#8207;[[H7200G\|רָאִ֣יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

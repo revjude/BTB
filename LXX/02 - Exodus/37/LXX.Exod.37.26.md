@@ -1,10 +1,7 @@
 **LXX Exodus 37:26** 
 <small><sub>**LXX:**</sub></small>
 And he gilded it with pure gold,  \[its\] grate, and  \[its\] walls, and  \[its\] horns. And he made for it a twisted gold rim round about. 
-<small><sub>**KJV:**</sub></small>
-And he overlaid it with pure gold, [both] the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about.
-<small><sub>**BSB:**</sub></small>
-And he overlaid with pure gold the top and all the sides and horns. Then he made a molding of gold around it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.25|<< Exodus 37:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.27|Exodus 37:27 >>]]</td></tr></table>
 
 | Translation | Greek |

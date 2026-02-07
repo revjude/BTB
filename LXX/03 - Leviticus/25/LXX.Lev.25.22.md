@@ -1,10 +1,7 @@
 **LXX Leviticus 25:22** 
 <small><sub>**LXX:**</sub></small>
 And you shall sow the eighth year, and you shall eat of the old produce until the ninth year. Until whenever its produce should come, you shall eat old \[produce\] of \[the\] old. 
-<small><sub>**KJV:**</sub></small>
-And ye shall sow the eighth year, and eat [yet] of old fruit until the ninth year; until her fruits come in ye shall eat [of] the old [store].
-<small><sub>**BSB:**</sub></small>
-While you are sowing in the eighth year, you will be eating from the previous harvest, until the ninth year’s harvest comes in.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.21|<< Leviticus 25:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.23|Leviticus 25:23 >>]]</td></tr></table>
 
 | Translation | Greek |

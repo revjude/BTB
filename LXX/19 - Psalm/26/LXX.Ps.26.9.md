@@ -1,10 +1,7 @@
 **LXX Psalm 26:9** 
 <small><sub>**LXX:**</sub></small>
 You should not destroy together my soul with \[the\] impious, nor my life with \[the\] men of blood, 
-<small><sub>**KJV:**</sub></small>
-Gather not my soul with sinners, nor my life with bloody men:
-<small><sub>**BSB:**</sub></small>
-Do not take my soul away with sinners, or my life with men of bloodshed,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.26.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.26.8|<< Psalm 26:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.26.10|Psalm 26:10 >>]]</td></tr></table>
 
 | Translation | Greek |

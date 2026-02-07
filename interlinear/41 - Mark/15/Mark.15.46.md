@@ -1,12 +1,12 @@
-**Mark 15:46
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:46**<big><big>[[Mark.15.42 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre.
 <small><sub>**BSB:**</sub></small>
 So Joseph bought a linen cloth, took down the body of Jesus, wrapped it in the cloth, and placed it in a tomb that had been cut out of the rock. Then he rolled a stone against the entrance to the tomb.
 <small><sub>**Literal:**</sub></small>
 And having bought a linen cloth, and having taken down him he wrapped [Him] in the linen cloth and he laid Him in a grave which was cut out of a rock And he rolled a stone to the door of the tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.45|<< Mark 15:45]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.47|Mark 15:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having bought |**<big>[[G0059\|ἀγοράσας]]</big>**  |agorasas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

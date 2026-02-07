@@ -1,4 +1,4 @@
-**Psalms 116:6** 
+**Psalms 116:6**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD preserveth the simple: I was brought low, and he helped me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD preserves the simplehearted; I was helpless, and He saved me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.5|<< Psalms 116:5]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.7|Psalms 116:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] protecting  |**<big>&#8207;[[H8104H\|שֹׁמֵ֣ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | simple people  |**<big>&#8207;[[H6612A\|פְּתָאיִ֣ם]]&#8207; </big>**| pe.ta.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:30** 
 <small><sub>**LXX:**</sub></small>
 concerning all  his kingship, and all  his dominion, and of the \[events of the\] times of the ones spreading unto him, and unto  Israel, and unto all the kingdoms of the lands. 
-<small><sub>**KJV:**</sub></small>
-With all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries.
-<small><sub>**BSB:**</sub></small>
-together with all the details of his reign, his might, and the circumstances that came upon him and Israel and all the kingdoms of the lands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.29|<< 1 Chronicles 29:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.1|2 Chronicles 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 9:10** 
+**Zechariah 9:10**<big><big>[[Zech.9.9 Zion’s Coming King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion [shall be] from sea [even] to sea, and from the river [even] to the ends of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will cut off the chariot from Ephraim and the horse from Jerusalem, and th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.9|<< Zechariah 9:9]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.11|Zechariah 9:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will cut off  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3772I\|הִכְרַתִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hikh.ra.ti-<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | chariotry  |**<big>&#8207;[[H7393G\|רֶ֣כֶב]]&#8207; </big>**| Re.khev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

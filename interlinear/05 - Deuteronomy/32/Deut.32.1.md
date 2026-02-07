@@ -1,4 +1,4 @@
-**Deuteronomy 32:1** 
+**Deuteronomy 32:1**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give ear, O heavens, and I will speak; hear, O earth, the words of my mouth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.30|<< Deuteronomy 31:30]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.2|Deuteronomy 32:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give ear  |**<big>&#8207;[[H0238\|הַאֲזִ֥ינוּ]]&#8207; </big>**| ha.'a.Zi.nu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֖יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

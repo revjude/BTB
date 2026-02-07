@@ -1,12 +1,12 @@
-**Matthew 9:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:33**<big><big>[[Matt.9.27 Jesus Heals the Blind and Mute|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel.
 <small><sub>**BSB:**</sub></small>
 And when the demon had been driven out, the man began to speak. The crowds were amazed and said, “Nothing like this has ever been seen in Israel!”
 <small><sub>**Literal:**</sub></small>
 And when had been cast out the demon spoke the mute [man]. And marveled the crowds saying that: Never was it seen thus in <the> Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.32|<< Matthew 9:32]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.34|Matthew 9:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when had been cast out |**<big>[[G1544\|ἐκβληθέντος]]</big>**  |ekblēthentos <small><sup>[[V-APP-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

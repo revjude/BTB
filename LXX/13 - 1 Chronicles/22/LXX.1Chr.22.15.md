@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:15** 
 <small><sub>**LXX:**</sub></small>
 And with you 3in 4multitude 1doing 2 \[the\] works] \[are\] craftsmen, quarriers of stones, and fabricators of wood, and every wise one for every work; 
-<small><sub>**KJV:**</sub></small>
-Moreover [there are] workmen with thee in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work.
-<small><sub>**BSB:**</sub></small>
-You also have many workers: stonecutters, masons, carpenters, and men skilled in every kind of work—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.14|<< 1 Chronicles 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.16|1 Chronicles 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

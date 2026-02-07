@@ -1,12 +1,12 @@
-**John 11:19
-**<small><sub>**KJV:**</sub></small>
+**John 11:19**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many of the Jews came to Martha and Mary, to comfort them concerning their brother.
 <small><sub>**BSB:**</sub></small>
 and many of the Jews had come to Martha and Mary to console them in the loss of their brother.
 <small><sub>**Literal:**</sub></small>
 and Many now of the Jews had come unto <the> concerning Martha and Mary that they may console them concerning the brother of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.18|<< John 11:18]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.20|John 11:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Many |**<big>[[G4183\|Πολλοὶ]]</big>**  |Polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

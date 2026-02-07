@@ -1,10 +1,7 @@
 **LXX Leviticus 14:39** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall come back again on the seventh day, and he shall look at the house. And behold, the infection was diffused in the walls of the house, 
-<small><sub>**KJV:**</sub></small>
-And the priest shall come again the seventh day, and shall look: and, behold, [if] the plague be spread in the walls of the house;
-<small><sub>**BSB:**</sub></small>
-On the seventh day the priest is to return and inspect the house. If the mildew has spread on the walls,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.38|<< Leviticus 14:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.40|Leviticus 14:40 >>]]</td></tr></table>
 
 | Translation | Greek |

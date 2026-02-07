@@ -1,4 +1,4 @@
-**Exodus 26:19** 
+**Exodus 26:19**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make forty sockets of silver under the twenty boards; two sockets under one board for his two tenons, and two sockets under another board for his two tenons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ with forty silver bases under the twenty frames—two bases for each frame, one 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.18|<< Exodus 26:18]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.20|Exodus 26:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and forty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0705\|אַרְבָּעִים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bases of  |**<big>&#8207;[[H0134\|אַדְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

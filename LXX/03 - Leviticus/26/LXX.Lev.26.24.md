@@ -1,10 +1,7 @@
 **LXX Leviticus 26:24** 
 <small><sub>**LXX:**</sub></small>
 I will go also with you in rage sideways, and I will strike you also seven times for  your sins. 
-<small><sub>**KJV:**</sub></small>
-Then will I also walk contrary unto you, and will punish you yet seven times for your sins.
-<small><sub>**BSB:**</sub></small>
-then I will act with hostility toward you, and I will strike you sevenfold for your sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.23|<< Leviticus 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.25|Leviticus 26:25 >>]]</td></tr></table>
 
 | Translation | Greek |

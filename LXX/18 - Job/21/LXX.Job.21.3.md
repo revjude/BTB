@@ -1,10 +1,7 @@
 **LXX Job 21:3** 
 <small><sub>**LXX:**</sub></small>
 Lift me! and I will speak, then you shall not ridicule me. 
-<small><sub>**KJV:**</sub></small>
-Suffer me that I may speak; and after that I have spoken, mock on.
-<small><sub>**BSB:**</sub></small>
-Bear with me while I speak; then, after I have spoken, you may go on mocking.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.2|<< Job 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.4|Job 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

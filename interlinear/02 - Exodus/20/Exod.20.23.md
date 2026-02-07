@@ -1,4 +1,4 @@
-**Exodus 20:23** 
+**Exodus 20:23**<big><big>[[Exod.20.22 Idolatry Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are not to make any gods alongside Me; you are not to make for yourselves go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.22|<< Exodus 20:22]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.24|Exodus 20:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must make !  |**<big>&#8207;[[H6213H\|תַעֲשׂ֖וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

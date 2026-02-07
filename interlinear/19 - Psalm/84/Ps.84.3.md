@@ -1,4 +1,4 @@
-**Psalms 84:3** (84:4)
+**Psalms 84:3**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, [even] thine altars, O LORD of hosts, my King, and my God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even the sparrow has found a home, and the swallow a nest for herself, where she
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.2|<< Psalms 84:2]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.4|Psalms 84:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a bird  |**<big>&#8207;[[H6833\|צִפּ֨וֹר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| tzi.Por<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

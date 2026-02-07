@@ -1,4 +1,4 @@
-**2 Samuel 18:9** 
+**2 Samuel 18:9**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that [was] under him went away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Absalom was riding on his mule when he met the servants of David, and as the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.8|<< 2 Samuel 18:8]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.10|2 Samuel 18:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was met  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7122G\|יִּקָּרֵא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Re'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Absalom  |**<big>&#8207;[[H0053\|אַבְשָׁל֔וֹם]]&#8207; </big>**| 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

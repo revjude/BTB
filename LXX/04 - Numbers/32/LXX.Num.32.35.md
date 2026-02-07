@@ -1,10 +1,7 @@
 **LXX Numbers 32:35** 
 <small><sub>**LXX:**</sub></small>
 and  Shophan, and  Jaazer. And they raised them up, 
-<small><sub>**KJV:**</sub></small>
-And Atroth, Shophan, and Jaazer, and Jogbehah,
-<small><sub>**BSB:**</sub></small>
-Atroth-shophan, Jazer, Jogbehah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.34|<< Numbers 32:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.36|Numbers 32:36 >>]]</td></tr></table>
 
 | Translation | Greek |

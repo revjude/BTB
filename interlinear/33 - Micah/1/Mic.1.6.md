@@ -1,4 +1,4 @@
-**Micah 1:6** 
+**Micah 1:6**<big><big>[[Mic.1.1 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I will make Samaria as an heap of the field, [and] as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore I will make Samaria a heap of rubble in the open field, a planting are
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.5|<< Micah 1:5]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.7|Micah 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760A\|שַׂמְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samaria  |**<big>&#8207;[[H8111\|שֹׁמְר֛וֹן]]&#8207; </big>**| sho.me.Ron<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

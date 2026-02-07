@@ -1,12 +1,12 @@
-**Acts 27:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:1**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto [one] named Julius, a centurion of Augustus’ band.
 <small><sub>**BSB:**</sub></small>
 When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment.
 <small><sub>**Literal:**</sub></small>
 When now was determined <the> sailing our to <the> Italy, they were delivering <the> both Paul and certain other prisoners to a centurion named Julius of the cohort of Augustus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.32|<< Acts 26:32]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.2|Acts 27:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

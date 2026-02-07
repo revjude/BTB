@@ -1,5 +1,5 @@
-**Acts 3:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:25**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.
 <small><sub>**BSB:**</sub></small>
 And you are sons of the prophets and of the covenant God made with your fathers when He said to Abraham, ‘Through your offspring all the families of the earth will be blessed.’
@@ -11,7 +11,7 @@ You yourselves are the sons of the prophets and of the covenant that made <the> 
 > $\quad$ referencing: [[LXX.Gen.22.18|Gen 22:18]] ☩ [[LXX.Gen.26.4|Gen 26:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|ἐστε]]</big>**  |este <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 40:23** 
+**Exodus 40:23**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set the bread in order upon it before the LORD; as the LORD had commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He arranged the bread on it before the LORD, just as the LORD had commanded him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.22|<< Exodus 40:22]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.24|Exodus 40:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arranged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6186A\|יַּעֲרֹ֥ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Rokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלָ֛י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

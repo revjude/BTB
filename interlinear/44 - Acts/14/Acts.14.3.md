@@ -1,12 +1,12 @@
-**Acts 14:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:3**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands.
 <small><sub>**BSB:**</sub></small>
 So Paul and Barnabas spent considerable time there, speaking boldly for the Lord, who affirmed the message of His grace by enabling them to perform signs and wonders.
 <small><sub>**Literal:**</sub></small>
 A long indeed therefore time they stayed speaking boldly about the Lord who is bearing witness to the word of the grace of Him, and granting signs and wonders to be done through the hands of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.2|<< Acts 14:2]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.4|Acts 14:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A long |**<big>[[G2425\|Ἱκανὸν]]</big>**  |Hikanon <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

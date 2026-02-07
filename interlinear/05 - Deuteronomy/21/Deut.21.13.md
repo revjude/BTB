@@ -1,4 +1,4 @@
-**Deuteronomy 21:13** 
+**Deuteronomy 21:13**<big><big>[[Deut.21.10 Marrying a Captive Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month: and after that thou shalt go in unto her, and be her husband, and she shall be thy wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and put aside the clothing of her captivity. After she has lived in your house a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.12|<< Deuteronomy 21:12]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.14|Deuteronomy 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she will remove  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5493G\|הֵסִ֩ירָה֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Si.rah<small><sup>[[HVhq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

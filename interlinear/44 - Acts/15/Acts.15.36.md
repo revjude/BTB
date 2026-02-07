@@ -1,12 +1,12 @@
-**Acts 15:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:36**<big><big>[[Acts.15.36 Paul’s Second Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, [and see] how they do.
 <small><sub>**BSB:**</sub></small>
 Some time later Paul said to Barnabas, “Let us go back and visit the brothers in every town where we proclaimed the word of the Lord, to see how they are doing.”
 <small><sub>**Literal:**</sub></small>
 After now some days said to Barnabas Paul; Having turned back indeed let us look after the brothers of us in city every in which we have announced the word of the Lord, how they are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.35|<< Acts 15:35]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.37|Acts 15:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

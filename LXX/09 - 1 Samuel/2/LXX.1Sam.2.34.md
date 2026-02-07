@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:34** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] to you the sign which shall come upon  these your two sons, on Hophni and Phinehas; in one day both shall die. 
-<small><sub>**KJV:**</sub></small>
-And this [shall be] a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.
-<small><sub>**BSB:**</sub></small>
-And this sign shall come to you concerning your two sons Hophni and Phinehas: They will both die on the same day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.33|<< 1 Samuel 2:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.35|1 Samuel 2:35 >>]]</td></tr></table>
 
 | Translation | Greek |

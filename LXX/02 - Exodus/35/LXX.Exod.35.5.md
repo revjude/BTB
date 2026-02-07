@@ -1,10 +1,7 @@
 **LXX Exodus 35:5** 
 <small><sub>**LXX:**</sub></small>
 Take from yourselves of them -- a choice-portion \[to the\] <span class="smallcaps">lord</span>. Every one  appreciating \[in his\] heart shall bring the first-fruits \[to the\] <span class="smallcaps">lord</span> -- gold, silver, brass, 
-<small><sub>**KJV:**</sub></small>
-Take ye from among you an offering unto the LORD: whosoever [is] of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,
-<small><sub>**BSB:**</sub></small>
-Take from among you an offering to the LORD. Let everyone whose heart is willing bring an offering to the LORD: gold, silver, and bronze;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.4|<< Exodus 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.6|Exodus 35:6 >>]]</td></tr></table>
 
 | Translation | Greek |

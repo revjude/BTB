@@ -1,4 +1,4 @@
-**Exodus 30:21** 
+**Exodus 30:21**<big><big>[[Exod.30.17 The Bronze Basin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them, [even] to him and to his seed throughout their generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus they are to wash their hands and feet so that they will not die; this shall
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.20|<< Exodus 30:20]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.22|Exodus 30:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will wash  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7364\|רָחֲצ֛וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.cha.Tzu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands their  |**<big>&#8207;[[H3027G\|יְדֵי]]&#8207;&#8207;[[H9028\|הֶ֥ם]]&#8207; </big>**| ye.dei.<small><sup>[[HNcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

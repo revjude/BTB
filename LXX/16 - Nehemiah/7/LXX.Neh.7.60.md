@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:60** 
 <small><sub>**LXX:**</sub></small>
 All the Nethinim, and  \[the\] sons of \[the\] servants of Solomon \[were\] three hundred ninety-two. 
-<small><sub>**KJV:**</sub></small>
-All the Nethinims, and the children of Solomon’s servants, [were] three hundred ninety and two.
-<small><sub>**BSB:**</sub></small>
-The temple servants and descendants of the servants of Solomon numbered 392 in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.59|<< Nehemiah 7:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.61|Nehemiah 7:61 >>]]</td></tr></table>
 
 | Translation | Greek |

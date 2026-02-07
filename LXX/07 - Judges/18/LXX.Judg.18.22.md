@@ -1,10 +1,7 @@
 **LXX Judges 18:22** 
 <small><sub>**LXX:**</sub></small>
 And they were far from \[the\] house of Micah, and behold, Micah and the men  in the houses,  near the house of Micah cried out, and they overtook the sons of Dan. 
-<small><sub>**KJV:**</sub></small>
-[And] when they were a good way from the house of Micah, the men that [were] in the houses near to Micah’s house were gathered together, and overtook the children of Dan.
-<small><sub>**BSB:**</sub></small>
-After they were some distance from Micah’s house, the men in the houses near Micah’s house mobilized and overtook the Danites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.21|<< Judges 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.23|Judges 18:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 38:17** 
 <small><sub>**LXX:**</sub></small>
 And \[do the\] gates of death open to you in fear; and did gatekeepers of Hades, in beholding you, become alarmed? 
-<small><sub>**KJV:**</sub></small>
-Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?
-<small><sub>**BSB:**</sub></small>
-Have the gates of death been revealed to you? Have you seen the gates of the shadow of death?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.16|<< Job 38:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.18|Job 38:18 >>]]</td></tr></table>
 
 | Translation | Greek |

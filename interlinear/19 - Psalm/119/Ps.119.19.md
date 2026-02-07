@@ -1,4 +1,4 @@
-**Psalms 119:19** 
+**Psalms 119:19**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] a stranger in the earth: hide not thy commandments from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am a stranger on the earth; do not hide Your commandments from me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.18|<< Psalms 119:18]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.20|Psalms 119:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [am] a sojourner  |**<big>&#8207;[[H1616\|גֵּ֣ר]]&#8207; </big>**| ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֣י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

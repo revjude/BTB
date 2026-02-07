@@ -1,4 +1,4 @@
-**Leviticus 25:48** 
+**Leviticus 25:48**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After that he is sold he may be redeemed again; one of his brethren may redeem him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he retains the right of redemption after he has sold himself. One of his brother
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.47|<< Leviticus 25:47]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.49|Leviticus 25:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֣י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has sold himself  |**<big>&#8207;[[H4376\|נִמְכַּ֔ר]]&#8207; </big>**| nim.Kar<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

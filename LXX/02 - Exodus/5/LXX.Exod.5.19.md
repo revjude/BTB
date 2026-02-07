@@ -1,10 +1,7 @@
 **LXX Exodus 5:19** 
 <small><sub>**LXX:**</sub></small>
 And the scribes of the sons of Israel seeing themselves in bad \[ways\], \[in the\] saying, You shall not leave off from the making of bricks  fit for the day, 
-<small><sub>**KJV:**</sub></small>
-And the officers of the children of Israel did see [that] they [were] in evil [case], after it was said, Ye shall not minish [ought] from your bricks of your daily task.
-<small><sub>**BSB:**</sub></small>
-The Israelite foremen realized they were in trouble when they were told, “You must not reduce your daily quota of bricks.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.18|<< Exodus 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.20|Exodus 5:20 >>]]</td></tr></table>
 
 | Translation | Greek |

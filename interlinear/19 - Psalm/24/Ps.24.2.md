@@ -1,4 +1,4 @@
-**Psalms 24:2** 
+**Psalms 24:2**<big><big>[[Ps.24.1 The Earth Is the LORD’s|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he hath founded it upon the seas, and established it upon the floods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For He has founded it upon the seas and established it upon the waters.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.24.1|<< Psalms 24:1]]</td><td align="center" style="border:none;">[[Ps.24|Psalms 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.3|Psalms 24:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֭וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

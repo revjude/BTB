@@ -1,4 +1,4 @@
-**1 Kings 7:48** 
+**1 Kings 7:48**<big><big>[[1Kgs.7.48 Completion of the Gold Furnishings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon made all the vessels that [pertained] unto the house of the LORD: the altar of gold, and the table of gold, whereupon the shewbread [was],
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon also made all the furnishings for the house of the LORD: the golden alta
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.47|<< 1 Kings 7:47]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.49|1 Kings 7:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֔ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

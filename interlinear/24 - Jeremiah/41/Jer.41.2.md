@@ -1,4 +1,4 @@
-**Jeremiah 41:2** 
+**Jeremiah 41:2**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and smote Gedaliah the son of Ahikam the son of Shaphan with the sword, and slew him, whom the king of Babylon had made governor over the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Ishmael son of Nethaniah and the ten men who were with him got up and struc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.1|<< Jeremiah 41:1]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.3|Jeremiah 41:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקָם֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Kam<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ishmael  |**<big>&#8207;[[H3458H\|יִשְׁמָעֵ֨אל]]&#8207; </big>**| yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

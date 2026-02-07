@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:13** 
 <small><sub>**LXX:**</sub></small>
 And now, you make your ways better, and  your works, and hearken to the voice of \[the\] <span class="smallcaps">lord</span>  your God! and \[the\] <span class="smallcaps">lord</span> will cease from the evils which he spoke against you. 
-<small><sub>**KJV:**</sub></small>
-Therefore now amend your ways and your doings, and obey the voice of the LORD your God; and the LORD will repent him of the evil that he hath pronounced against you.
-<small><sub>**BSB:**</sub></small>
-So now, correct your ways and deeds, and obey the voice of the LORD your God, so that He might relent of the disaster He has pronounced against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.12|<< Jeremiah 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.14|Jeremiah 26:14 >>]]</td></tr></table>
 
 | Translation | Greek |

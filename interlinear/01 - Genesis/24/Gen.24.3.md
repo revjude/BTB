@@ -1,4 +1,4 @@
-**Genesis 24:3** 
+**Genesis 24:3**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thee swear by the LORD, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and I will have you swear by the LORD, the God of heaven and the God of earth, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.2|<< Genesis 24:2]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.4|Genesis 24:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so I may make swear you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7650\|אַשְׁבִּ֣יעֲ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ash.Bi.'a.<small><sup>[[HVhu1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by Yahweh  |**<big>&#8207;[[H9003\|בַּֽ]]&#8207;&#8207;[[H3068G\|יהוָה֙]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

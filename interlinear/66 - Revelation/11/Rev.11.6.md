@@ -1,5 +1,5 @@
-**Revelation 11:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:6**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These have power to shut heaven, that it rain not in the days of their prophecy: and have power over waters to turn them to blood, and to smite the earth with all plagues, as often as they will.
 <small><sub>**BSB:**</sub></small>
 These witnesses have power to shut the sky so that no rain will fall during the days of their prophecy, and power to turn the waters into blood and to strike the earth with every kind of plague as often as they wish.
@@ -10,7 +10,7 @@ These have the power to shut the sky so that not rain may fall in the days of th
 > $\quad$ alluding to: [[LXX.Exod.7.20|Exod 7:20]] ☩ [[LXX.1Kgs.17.1|1Kgs 17:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοι]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | have |**<big>[[G2192\|ἔχουσιν]]</big>**  |echousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

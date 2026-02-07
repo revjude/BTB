@@ -1,4 +1,4 @@
-**Psalms 119:67** 
+**Psalms 119:67**<big><big>[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before I was afflicted I went astray: but now have I kept thy word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before I was afflicted, I went astray; but now I keep Your word.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.67|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.66|<< Psalms 119:66]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.68|Psalms 119:68 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | before  |**<big>&#8207;[[H2962\|טֶ֣רֶם]]&#8207; </big>**| Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was afflicted  |**<big>&#8207;[[H6031B\|אֶ֭עֱנֶה]]&#8207; </big>**| 'E.'e.neh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

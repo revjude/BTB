@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:22** 
 <small><sub>**LXX:**</sub></small>
 And another generation shall say -- \[even\] your sons who rise up after you, and the alien which ever should come from out of a land far off, that they shall see the calamities  of that land, and  its diseases, which \[the\] <span class="smallcaps">lord</span> sent unto it, 
-<small><sub>**KJV:**</sub></small>
-So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses which the LORD hath laid upon it;
-<small><sub>**BSB:**</sub></small>
-Then the generation to come—your sons who follow you and the foreigner who comes from a distant land—will see the plagues of the land and the sicknesses the LORD has inflicted on it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.21|<< Deuteronomy 29:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.23|Deuteronomy 29:23 >>]]</td></tr></table>
 
 | Translation | Greek |

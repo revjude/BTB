@@ -1,10 +1,7 @@
 **LXX Exodus 14:7** 
 <small><sub>**LXX:**</sub></small>
 And he took six hundred chosen chariots, and all the cavalry of the Egyptians, and tribunes over all. 
-<small><sub>**KJV:**</sub></small>
-And he took six hundred chosen chariots, and all the chariots of Egypt, and captains over every one of them.
-<small><sub>**BSB:**</sub></small>
-He took 600 of the best chariots, and all the other chariots of Egypt, with officers over all of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.6|<< Exodus 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.8|Exodus 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

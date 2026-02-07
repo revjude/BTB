@@ -1,10 +1,7 @@
 **LXX Numbers 16:40** 
 <small><sub>**LXX:**</sub></small>
 as a memorial for the sons of Israel, how that not should anyone foreign come forward who is not of the seed of Aaron, to place incense before \[the\] <span class="smallcaps">lord</span>; so that he shall not be as Korah, and the ones conspiring with him, as \[the\] <span class="smallcaps">lord</span> spoke by \[the\] hand of Moses to him. 
-<small><sub>**KJV:**</sub></small>
-[To be] a memorial unto the children of Israel, that no stranger, which [is] not of the seed of Aaron, come near to offer incense before the LORD; that he be not as Korah, and as his company: as the LORD said to him by the hand of Moses.
-<small><sub>**BSB:**</sub></small>
-just as the LORD commanded him through Moses. This was to be a reminder to the Israelites that no outsider who is not a descendant of Aaron should approach to offer incense before the LORD, lest he become like Korah and his followers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.39|<< Numbers 16:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.41|Numbers 16:41 >>]]</td></tr></table>
 
 | Translation | Greek |

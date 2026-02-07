@@ -1,4 +1,4 @@
-**Genesis 36:16** 
+**Genesis 36:16**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Duke Korah, duke Gatam, [and] duke Amalek: these [are] the dukes [that came] of Eliphaz in the land of Edom; these [were] the sons of Adah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Korah, Gatam, and Amalek. They are the chiefs of Eliphaz in the land of Edom, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.15|<< Genesis 36:15]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.17|Genesis 36:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | chief  |**<big>&#8207;[[H0441B\|אַלּֽוּף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.luf-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Korah  |**<big>&#8207;[[H7141H\|קֹ֛רַח]]&#8207; </big>**| Ko.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

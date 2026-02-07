@@ -1,12 +1,12 @@
-**Matthew 27:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:2**<big><big>[[Matt.27.1 Jesus Delivered to Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had bound him, they led [him] away, and delivered him to Pontius Pilate the governor.
 <small><sub>**BSB:**</sub></small>
 They bound Him, led Him away, and handed Him over to Pilate the governor.
 <small><sub>**Literal:**</sub></small>
 And having bound Him they led away [Him] and delivered Him to Pontius Pilate the governor.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.1|<< Matthew 27:1]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.3|Matthew 27:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having bound |**<big>[[G1210\|δήσαντες]]</big>**  |dēsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 19:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:8**<big><big>[[Acts.19.8 Paul Ministers in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went into the synagogue, and spake boldly for the space of three months, disputing and persuading the things concerning the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Then Paul went into the synagogue and spoke boldly there for three months, arguing persuasively about the kingdom of God.
 <small><sub>**Literal:**</sub></small>
 Having entered then into the synagogue he was speaking boldly for months three reasoning and persuading <the> concerning the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.7|<< Acts 19:7]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.9|Acts 19:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having entered |**<big>[[G1525\|Εἰσελθὼν]]</big>**  |Eiselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

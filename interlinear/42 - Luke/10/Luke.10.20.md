@@ -1,12 +1,12 @@
-**Luke 10:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:20**<big><big>[[Luke.10.17 The Joyful Return|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Notwithstanding in this rejoice not, that the spirits are subject unto you; but rather rejoice, because your names are written in heaven.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”
 <small><sub>**Literal:**</sub></small>
 Yet in this not do rejoice that the spirits to you are subjected; do rejoice however more that the names of you have been written in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.19|<< Luke 10:19]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.21|Luke 10:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yet |**<big>[[G4133\|πλὴν]]</big>**  |plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:4** 
 <small><sub>**LXX:**</sub></small>
 And the vessel failed which he was making with  his hands. And again he made it \[into\] another vessel as was pleasing before him  to make. 
-<small><sub>**KJV:**</sub></small>
-And the vessel that he made of clay was marred in the hand of the potter: so he made it again another vessel, as seemed good to the potter to make [it].
-<small><sub>**BSB:**</sub></small>
-But the vessel that he was shaping from the clay became flawed in his hand; so he formed it into another vessel, as it seemed best for him to do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.3|<< Jeremiah 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.5|Jeremiah 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

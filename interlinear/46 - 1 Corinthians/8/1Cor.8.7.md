@@ -1,12 +1,12 @@
-**1 Corinthians 8:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:7**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit [there is] not in every man that knowledge: for some with conscience of the idol unto this hour eat [it] as a thing offered unto an idol; and their conscience being weak is defiled.
 <small><sub>**BSB:**</sub></small>
 But not everyone has this knowledge. Some people are still so accustomed to idols that they eat such food as if it were sacrificed to an idol. And since their conscience is weak, it is defiled.
 <small><sub>**Literal:**</sub></small>
 But not in all [is] this knowledge; Some now <the> by custom until now of the idol as of an idol-sacrifice eat, and the conscience of them weak being it is defiled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.6|<< 1 Corinthians 8:6]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.8|1 Corinthians 8:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

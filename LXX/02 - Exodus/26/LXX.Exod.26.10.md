@@ -1,10 +1,7 @@
 **LXX Exodus 26:10** 
 <small><sub>**LXX:**</sub></small>
 And you shall make fifty hooks upon the edge of the one hide covering, of the one in the middle by the coupling. And fifty hooks you shall make upon the edge of the hide covering, of the one joining of the second. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make fifty loops on the edge of the one curtain [that is] outmost in the coupling, and fifty loops in the edge of the curtain which coupleth the second.
-<small><sub>**BSB:**</sub></small>
-Make fifty loops along the edge of the end curtain in the first set, and fifty loops along the edge of the corresponding curtain in the second set.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.9|<< Exodus 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.11|Exodus 26:11 >>]]</td></tr></table>
 
 | Translation | Greek |

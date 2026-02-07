@@ -1,12 +1,12 @@
-**1 Corinthians 12:23
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:23**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And those [members] of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely [parts] have more abundant comeliness.
 <small><sub>**BSB:**</sub></small>
 and the parts we consider less honorable, we treat with greater honor. And our unpresentable parts are treated with special modesty,
 <small><sub>**Literal:**</sub></small>
 and those which we think less honorable to be of the body, these honor more excessive we bestow, and the unpresentable [parts] of us decorum more excessive have;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.22|<< 1 Corinthians 12:22]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.24|1 Corinthians 12:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those which |**<big>[[G3739\|ἃ]]</big>**  |ha <small><sup>[[R-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

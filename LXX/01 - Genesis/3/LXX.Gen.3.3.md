@@ -1,10 +1,7 @@
 **LXX Genesis 3:3** 
 <small><sub>**LXX:**</sub></small>
 but from the fruit of the tree which is in the middle of the paradise, God said, Eat not from it, nor touch it! that you should not die. 
-<small><sub>**KJV:**</sub></small>
-But of the fruit of the tree which [is] in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
-<small><sub>**BSB:**</sub></small>
-but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.2|<< Genesis 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.4|Genesis 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

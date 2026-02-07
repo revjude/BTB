@@ -1,4 +1,4 @@
-**Proverbs 25:14** 
+**Proverbs 25:14**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso boasteth himself of a false gift [is like] clouds and wind without rain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like clouds and wind without rain is the man who boasts of gifts never given.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.13|<< Proverbs 25:13]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.15|Proverbs 25:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | clouds  |**<big>&#8207;[[H5387B\|נְשִׂיאִ֣ים]]&#8207; </big>**| ne.si.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and wind  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H7307H\|רוּחַ]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

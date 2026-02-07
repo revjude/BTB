@@ -1,10 +1,7 @@
 **LXX Genesis 32:4** 
 <small><sub>**LXX:**</sub></small>
 And he gave charge to them, saying, Thus you shall say \[to\] my master Esau; Thus says  your servant Jacob, I sojourned with Laban, and passed time until the present. 
-<small><sub>**KJV:**</sub></small>
-And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:
-<small><sub>**BSB:**</sub></small>
-He instructed them, “You are to say to my master Esau, ‘Your servant Jacob says: I have been staying with Laban and have remained there until now.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.3|<< Genesis 32:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.5|Genesis 32:5 >>]]</td></tr></table>
 
 | Translation | Greek |

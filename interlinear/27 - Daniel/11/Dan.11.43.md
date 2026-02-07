@@ -1,4 +1,4 @@
-**Daniel 11:43** 
+**Daniel 11:43**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians [shall be] at his steps.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will gain control of the treasures of gold and silver and over all the riches
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.42|<< Daniel 11:42]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.44|Daniel 11:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will rule  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4910\|מָשַׁ֗ל]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.Shal<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over [the] treasures of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4362\|מִכְמַנֵּי֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mikh.ma.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

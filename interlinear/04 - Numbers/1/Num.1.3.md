@@ -1,4 +1,4 @@
-**Numbers 1:3** 
+**Numbers 1:3**<big><big>[[Num.1.1 The First Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You and Aaron are to number those who are twenty years of age or older by their 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.2|<< Numbers 1:2]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.4|Numbers 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from a son of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121L\|בֶּ֨ן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ben<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֤ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

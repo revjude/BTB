@@ -1,4 +1,4 @@
-**2 Chronicles 10:8** 
+**2 Chronicles 10:8**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he forsook the counsel which the old men gave him, and took counsel with the young men that were brought up with him, that stood before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Rehoboam rejected the advice of the elders; instead, he consulted the young 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.7|<< 2 Chronicles 10:7]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.9|2 Chronicles 10:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he abandoned  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5800A\|יַּעֲזֹ֛ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Zo<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

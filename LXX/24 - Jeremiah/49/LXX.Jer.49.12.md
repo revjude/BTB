@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:12** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>, Behold, the ones which \[were\] not by law to drink the cup, drank; and you for being acquitted in no way shall be acquitted; for by drinking you shall drink. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD; Behold, they whose judgment [was] not to drink of the cup have assuredly drunken; and [art] thou he [that] shall altogether go unpunished? thou shalt not go unpunished, but thou shalt surely drink [of it].
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says: “If those who do not deserve to drink the cup must drink it, can you possibly remain unpunished? You will not go unpunished, for you must drink it too.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.11|<< Jeremiah 49:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.13|Jeremiah 49:13 >>]]</td></tr></table>
 
 | Translation | Greek |

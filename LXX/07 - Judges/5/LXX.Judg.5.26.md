@@ -1,10 +1,7 @@
 **LXX Judges 5:26** 
 <small><sub>**LXX:**</sub></small>
  She stretched out her hand for a peg, and her right for \[the\] hammer of a laborer; and Sisera with a hammer; she nailed his head; yes, she struck, she nailed his temple. 
-<small><sub>**KJV:**</sub></small>
-She put her hand to the nail, and her right hand to the workmen’s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.
-<small><sub>**BSB:**</sub></small>
-She reached for the tent peg, her right hand for the workman’s hammer. She struck Sisera and crushed his skull; she shattered and pierced his temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.25|<< Judges 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.27|Judges 5:27 >>]]</td></tr></table>
 
 | Translation | Greek |

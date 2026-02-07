@@ -1,12 +1,12 @@
-**Acts 23:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:6**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men [and] brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
 <small><sub>**BSB:**</sub></small>
 Then Paul, knowing that some of them were Sadducees and the others Pharisees, called out in the Sanhedrin, “Brothers, I am a Pharisee, the son of a Pharisee. It is because of my hope in the resurrection of the dead that I am on trial.”
 <small><sub>**Literal:**</sub></small>
 Having known then <the> Paul that the one part consists of Sadducees <the> but the other of Pharisees he was crying out in the Council; Men brothers, I myself a Pharisee am, [the] son of Pharisees; concerning [the] hope and resurrection of [the] dead I myself am judged.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.5|<< Acts 23:5]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.7|Acts 23:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having known |**<big>[[G1097\|Γνοὺς]]</big>**  |Gnous <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

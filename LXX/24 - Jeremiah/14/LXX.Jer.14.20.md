@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:20** 
 <small><sub>**LXX:**</sub></small>
 We knew, O <span class="smallcaps">lord</span>, our sins, \[the\] iniquities of our fathers. For we sinned before you. 
-<small><sub>**KJV:**</sub></small>
-We acknowledge, O LORD, our wickedness, [and] the iniquity of our fathers: for we have sinned against thee.
-<small><sub>**BSB:**</sub></small>
-We acknowledge our wickedness, O LORD, the guilt of our fathers; indeed, we have sinned against You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.19|<< Jeremiah 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.21|Jeremiah 14:21 >>]]</td></tr></table>
 
 | Translation | Greek |

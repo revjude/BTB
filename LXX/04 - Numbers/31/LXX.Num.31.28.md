@@ -1,10 +1,7 @@
 **LXX Numbers 31:28** 
 <small><sub>**LXX:**</sub></small>
 And you shall offer up the tax \[to the\] <span class="smallcaps">lord</span> from the men of the warriors, of the ones going forth into the battle array, one soul from five hundred of the people, and from the cattle, and from the oxen, and from the sheep, and from the donkeys; 
-<small><sub>**KJV:**</sub></small>
-And levy a tribute unto the LORD of the men of war which went out to battle: one soul of five hundred, [both] of the persons, and of the beeves, and of the asses, and of the sheep:
-<small><sub>**BSB:**</sub></small>
-Set aside a tribute for the LORD from what belongs to the soldiers who went into battle: one out of every five hundred, whether persons, cattle, donkeys, or sheep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.27|<< Numbers 31:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.29|Numbers 31:29 >>]]</td></tr></table>
 
 | Translation | Greek |

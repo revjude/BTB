@@ -1,4 +1,4 @@
-**Exodus 7:20** 
+**Exodus 7:20**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that [were] in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that [were] in the river were turned to blood.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Moses and Aaron did just as the LORD had commanded; in the presence of Pharaoh a
 > $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]] ☩ [[Rev.8.8|Rev 8:8]] ☩ [[Rev.11.6|Rev 11:6]] ☩ [[Rev.16.3|Rev 16:3-4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּֽעֲשׂוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.su-<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵן֩]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:25** 
 <small><sub>**LXX:**</sub></small>
 And you say to me, Acquire to yourself the field \[with\] silver, and take testimony of witnesses! And the city was given into \[the\] hands of Chaldeans. 
-<small><sub>**KJV:**</sub></small>
-And thou hast said unto me, O Lord GOD, Buy thee the field for money, and take witnesses; for the city is given into the hand of the Chaldeans.
-<small><sub>**BSB:**</sub></small>
-Yet You, O Lord GOD, have said to me, ‘Buy for yourself the field with silver and call in witnesses, even though the city has been delivered into the hands of the Chaldeans!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.24|<< Jeremiah 32:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.26|Jeremiah 32:26 >>]]</td></tr></table>
 
 | Translation | Greek |

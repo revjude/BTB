@@ -1,4 +1,4 @@
-**Numbers 9:17** 
+**Numbers 9:17**<big><big>[[Num.9.15 The Cloud above the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whenever the cloud was lifted from above the Tent, the Israelites would set out,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.16|<< Numbers 9:16]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.18|Numbers 9:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] mouth of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6310K\|פִ֞י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Fi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] taking up of  |**<big>&#8207;[[H5927H\|הֵעָלֹ֤ת]]&#8207; </big>**| he.'a.Lot<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

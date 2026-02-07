@@ -1,4 +1,4 @@
-**2 Samuel 19:18** (19:19)
+**2 Samuel 19:18**<big><big>[[2Sam.19.16 Shimei Pardoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went over a ferry boat to carry over the king’s household, and to do what he thought good. And Shimei the son of Gera fell down before the king, as he was come over Jordan;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and crossed at the ford to carry over the king’s household and to do what was 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.17|<< 2 Samuel 19:17]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.19|2 Samuel 19:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it passed over  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|עָבְרָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.ve.Rah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ford  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5679\|עֲבָרָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.va.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

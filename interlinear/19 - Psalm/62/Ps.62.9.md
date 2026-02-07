@@ -1,4 +1,4 @@
-**Psalms 62:9** (62:10)
+**Psalms 62:9**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely men of low degree [are] vanity, [and] men of high degree [are] a lie: to be laid in the balance, they [are] altogether [lighter] than vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lowborn men are but a vapor; the exalted are but a lie. Weighed on the scale, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.8|<< Psalms 62:8]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.10|Psalms 62:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַ֤ךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] a breath  |**<big>&#8207;[[H1892\|הֶ֥בֶל]]&#8207; </big>**| He.vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**2 Corinthians 3:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:13**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And not as Moses, [which] put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
 <small><sub>**BSB:**</sub></small>
 We are not like Moses, who would put a veil over his face to keep the Israelites from gazing at the end of what was fading away.
@@ -10,7 +10,7 @@ and not as Moses was putting a veil over the face of himself for <the> not to lo
 > $\quad$ referencing: [[LXX.Exod.34.33|Exod 34:33]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

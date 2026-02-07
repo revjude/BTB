@@ -1,10 +1,7 @@
 **LXX Proverbs 19:14** 
 <small><sub>**LXX:**</sub></small>
 A house and substance is portioned \[by\] fathers to children; but by \[the\] <span class="smallcaps">lord</span> a wife is accorded to a man. 
-<small><sub>**KJV:**</sub></small>
-House and riches [are] the inheritance of fathers: and a prudent wife [is] from the LORD.
-<small><sub>**BSB:**</sub></small>
-Houses and wealth are inherited from fathers, but a prudent wife is from the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.13|<< Proverbs 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.15|Proverbs 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

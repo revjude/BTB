@@ -1,12 +1,12 @@
-**Ephesians 6:8
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:8**<big><big>[[Eph.6.5 Serving with Honor|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing that whatsoever good thing any man doeth, the same shall he receive of the Lord, whether [he be] bond or free.
 <small><sub>**BSB:**</sub></small>
 because you know that the Lord will reward each one for whatever good he does, whether he is slave or free.
 <small><sub>**Literal:**</sub></small>
 knowing that each one what maybe whatever he shall do good this he will receive [back] from the Lord whether slave or free.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.7|<< Ephesians 6:7]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.9|Ephesians 6:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G6063\|εἰδότες]]</big>**  |eidotes <small><sup>[[V-RAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

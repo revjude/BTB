@@ -6,10 +6,7 @@ A prayer \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Hear, O <span class="smallcaps">lord</span>,  my righteousness! Take heed \[to\] my supplication! Give ear \[to\] my prayer not \[uttered\] by deceitful lips! 
-<small><sub>**KJV:**</sub></small>
-A Prayer of David. Hear the right, O LORD, attend unto my cry, give ear unto my prayer, [that goeth] not out of feigned lips.
-<small><sub>**BSB:**</sub></small>
-A prayer of David. Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer—it comes from lips free of deceit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.11|<< Psalm 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.2|Psalm 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

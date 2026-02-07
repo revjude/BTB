@@ -1,4 +1,4 @@
-**Nehemiah 5:12** 
+**Nehemiah 5:12**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said they, We will restore [them], and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then said they, We will restore [them], and will require nothing of them; so wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.11|<< Nehemiah 5:11]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.13|Nehemiah 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will return [it]  |**<big>&#8207;[[H7725H\|נָשִׁ֗יב]]&#8207; </big>**| na.Shiv<small><sup>[[HVhi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

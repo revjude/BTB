@@ -1,4 +1,4 @@
-**Psalms 8:9** (8:10)
+**Psalms 8:9**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD our Lord, how excellent [is] thy name in all the earth!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, our Lord, how majestic is Your name in all the earth!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.8|<< Psalms 8:8]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.0|Psalms 9:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lord\<s> our  |**<big>&#8207;[[H0113\|אֲדֹנֵ֑י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'a.do.Nei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

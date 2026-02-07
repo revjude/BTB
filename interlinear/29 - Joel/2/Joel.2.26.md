@@ -1,4 +1,4 @@
-**Joel 2:26** 
+**Joel 2:26**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall eat in plenty, and be satisfied, and praise the name of the LORD your God, that hath dealt wondrously with you: and my people shall never be ashamed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will have plenty to eat, until you are satisfied. You will praise the name o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.25|<< Joel 2:25]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.27|Joel 2:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will eat  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|אֲכַלְתֶּ֤ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.khal.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | completely \<to eat>  |**<big>&#8207;[[H0398\|אָכוֹל֙]]&#8207; </big>**| 'a.khOl<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

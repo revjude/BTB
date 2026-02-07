@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:31** 
 <small><sub>**LXX:**</sub></small>
 Do not listen to Hezekiah! for thus says the king of \[the\] Assyrians, Do for me a blessing, and come forth to me! and each shall eat  of his grapevine, and each  of his fig tree, and each shall drink  water  of his well; 
-<small><sub>**KJV:**</sub></small>
-Hearken not to Hezekiah: for thus saith the king of Assyria, Make [an agreement] with me by a present, and come out to me, and [then] eat ye every man of his own vine, and every one of his fig tree, and drink ye every one the waters of his cistern:
-<small><sub>**BSB:**</sub></small>
-Do not listen to Hezekiah, for this is what the king of Assyria says: Make peace with me and come out to me. Then every one of you will eat from his own vine and his own fig tree and drink water from his own cistern,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.30|<< 2 Kings 18:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.32|2 Kings 18:32 >>]]</td></tr></table>
 
 | Translation | Greek |

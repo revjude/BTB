@@ -1,4 +1,4 @@
-**2 Chronicles 30:7** 
+**2 Chronicles 30:7**<big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And be not ye like your fathers, and like your brethren, which trespassed against the LORD God of their fathers, [who] therefore gave them up to desolation, as ye see.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not be like your fathers and brothers who were unfaithful to the LORD, the Go
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.6|<< 2 Chronicles 30:6]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.8|2 Chronicles 30:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be  |**<big>&#8207;[[H1961\|תִּֽהְי֗וּ]]&#8207; </big>**| tih.Yu<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

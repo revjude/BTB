@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:7** 
 <small><sub>**LXX:**</sub></small>
 Behold, Hanameel son of Shallum brother of your father comes to you, saying, Acquire to yourself  my field, the one in Anathoth! for \[it is\] equitable to you to take \[it\] for a possession. 
-<small><sub>**KJV:**</sub></small>
-Behold, Hanameel the son of Shallum thine uncle shall come unto thee, saying, Buy thee my field that [is] in Anathoth: for the right of redemption [is] thine to buy [it].
-<small><sub>**BSB:**</sub></small>
-Behold! Hanamel, the son of your uncle Shallum, is coming to you to say, ‘Buy for yourself my field in Anathoth, for you have the right of redemption to buy it.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.6|<< Jeremiah 32:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.8|Jeremiah 32:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 32:7** is...

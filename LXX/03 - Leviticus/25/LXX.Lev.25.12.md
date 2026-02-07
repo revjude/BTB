@@ -1,10 +1,7 @@
 **LXX Leviticus 25:12** 
 <small><sub>**LXX:**</sub></small>
 For it is an indication of release; it shall be holy to you. From the fields you shall eat  its produce. 
-<small><sub>**KJV:**</sub></small>
-For it [is] the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field.
-<small><sub>**BSB:**</sub></small>
-For it is a Jubilee; it shall be holy to you. You may eat only the crops taken directly from the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.11|<< Leviticus 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.13|Leviticus 25:13 >>]]</td></tr></table>
 
 | Translation | Greek |

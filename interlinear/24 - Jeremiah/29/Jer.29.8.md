@@ -1,4 +1,4 @@
-**Jeremiah 29:8** 
+**Jeremiah 29:8**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts, the God of Israel; Let not your prophets and your diviners, that [be] in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For this is what the LORD of Hosts, the God of Israel, says: “Do not be deceiv
 > $\quad$ referenced by: [[Mark.13.5|Mark 13:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹ֨ה]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

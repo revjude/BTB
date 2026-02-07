@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:54** 
 <small><sub>**LXX:**</sub></small>
 so that you should carry  your torment, and be disgraced from all which you did in  your provoking me to anger. 
-<small><sub>**KJV:**</sub></small>
-That thou mayest bear thine own shame, and mayest be confounded in all that thou hast done, in that thou art a comfort unto them.
-<small><sub>**BSB:**</sub></small>
-So you will bear your disgrace and be ashamed of all you did to comfort them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.53|<< Ezekiel 16:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.55|Ezekiel 16:55 >>]]</td></tr></table>
 
 | Translation | Greek |

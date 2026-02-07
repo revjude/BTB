@@ -1,10 +1,7 @@
 **LXX Proverbs 19:13** 
 <small><sub>**LXX:**</sub></small>
 A foolish son \[is\] shame to a father; and vows \[paid out\] from \[the\] hire of a mistress \[are\] not pure. 
-<small><sub>**KJV:**</sub></small>
-A foolish son [is] the calamity of his father: and the contentions of a wife [are] a continual dropping.
-<small><sub>**BSB:**</sub></small>
-A foolish son is his father’s ruin, and a quarrelsome wife is like a constant dripping.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.12|<< Proverbs 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.14|Proverbs 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

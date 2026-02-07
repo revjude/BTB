@@ -1,12 +1,12 @@
-**Romans 8:35
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:35**<big><big>[[Rom.8.35 More than Conquerors|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who shall separate us from the love of Christ? [shall] tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?
 <small><sub>**BSB:**</sub></small>
 Who shall separate us from the love of Christ? Shall trouble or distress or persecution or famine or nakedness or danger or sword?
 <small><sub>**Literal:**</sub></small>
 Who us will separate from the love <the> of Christ? Tribulation or distress or persecution or famine or nakedness or danger or sword?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.34|<< Romans 8:34]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.36|Romans 8:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G5101\|Τίς]]</big>**  |Tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | us |**<big>[[G3165\|ἡμᾶς]]</big>**  |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

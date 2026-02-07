@@ -1,10 +1,7 @@
 **LXX Daniel 2:22** 
 <small><sub>**LXX:**</sub></small>
 He uncovers deep and concealed \[things\], knowing the \[things\] in the darkness, and the light is with him. 
-<small><sub>**KJV:**</sub></small>
-He revealeth the deep and secret things: he knoweth what [is] in the darkness, and the light dwelleth with him.
-<small><sub>**BSB:**</sub></small>
-He reveals the deep and hidden things; He knows what lies in darkness, and light dwells with Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.21|<< Daniel 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.23|Daniel 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Woe city of Ariel, which David waged war. Gather together produce year by year! for you shall eat with Moab. 
-<small><sub>**KJV:**</sub></small>
-Woe to Ariel, to Ariel, the city [where] David dwelt! add ye year to year; let them kill sacrifices.
-<small><sub>**BSB:**</sub></small>
-Woe to you, O Ariel, the city of Ariel where David camped! Year upon year let your festivals recur.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.29|<< Isaiah 28:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.2|Isaiah 29:2 >>]]</td></tr></table>
 
 | Translation | Greek |

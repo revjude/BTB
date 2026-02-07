@@ -1,4 +1,4 @@
-**Deuteronomy 4:48** 
+**Deuteronomy 4:48**<big><big>[[Deut.4.44 Introduction to the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From Aroer, which [is] by the bank of the river Arnon, even unto mount Sion, which [is] Hermon,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ extending from Aroer on the rim of the Arnon Valley as far as Mount Siyon (that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.47|<< Deuteronomy 4:47]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.49|Deuteronomy 4:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from Aroer  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6177H\|עֲרֹעֵ֞ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.ro.'Er<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

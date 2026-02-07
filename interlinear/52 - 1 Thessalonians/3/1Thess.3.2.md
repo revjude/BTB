@@ -1,12 +1,12 @@
-**1 Thessalonians 3:2
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 3:2**<big><big>[[1Thess.3.1 Timothy’s Visit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:
 <small><sub>**BSB:**</sub></small>
 We sent Timothy, our brother and fellow worker for God in the gospel of Christ, to strengthen and encourage you in your faith,
 <small><sub>**Literal:**</sub></small>
 and we sent Timothy the brother of us and servant and fellow worker of us <the> of God in the gospel <the> of Christ in order <the> to strengthen you and to encourage you concerning the faith of you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.1|<< 1 Thessalonians 3:1]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.3|1 Thessalonians 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we sent |**<big>[[G3992\|ἐπέμψαμεν]]</big>**  |epempsamen <small><sup>[[V-AAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

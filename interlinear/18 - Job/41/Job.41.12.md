@@ -1,4 +1,4 @@
-**Job 41:12** (41:4)
+**Job 41:12**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not conceal his parts, nor his power, nor his comely proportion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I cannot keep silent about his limbs, his power and graceful form.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.11|<< Job 41:11]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.13|Job 41:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to it  [^2]|**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**[^3] | l<small><sup>[[HR]]</sup></small> o-<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | I will keep silent  |**<big>&#8207;[[H2790B\|אַחֲרִ֥ישׁ]]&#8207; </big>**| 'a.cha.Rish<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 16:9** 
+**Joshua 16:9**<big><big>[[Josh.16.1 Ephraim’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the separate cities for the children of Ephraim [were] among the inheritance of the children of Manasseh, all the cities with their villages.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ along with all the cities and villages set apart for the descendants of Ephraim 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.8|<< Joshua 16:8]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.10|Joshua 16:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the cities  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H5892B\|עָרִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the separate places  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3995\|מִּבְדָּלוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miv.da.lOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

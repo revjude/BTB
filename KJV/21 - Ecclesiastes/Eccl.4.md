@@ -1,6 +1,6 @@
 (KJV) **Ecclesiastes 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3|<< Ecclesiastes 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5|Ecclesiastes 5 >>]]</td></tr></table>
 
-***The Evil of Oppression*** ^bsb1518
+<big><big>[[Eccl.4.1 The Evil of Oppression|⥃]]</big></big>***The Evil of Oppression***
 
  $\quad$ <span class="startversemarker">[</span>**[[Eccl.4.1|1]]**<span class="endversemarker">]</span> So I returned<small><small>[^2]</small></small>, and considered<small><small>[^3]</small></small> all the oppressions that are done under the sun: and behold the tears<small><small>[^4]</small></small> of \[such as were\] oppressed, and they had<small><small>[^5]</small></small> no comforter; and on the side<small><small>[^6]</small></small> of their oppressors \[there was\] power; but they had no comforter. <span class="startversemarker">[</span>**[[Eccl.4.2|2]]**<span class="endversemarker">]</span> Wherefore I praised the dead which are already dead more than the living which are yet alive.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Eccl.4.3|3]]**<span class="endversemarker">]</span> Yea, better<small><small>[^8]</small></small> \[is he\] than both they, which hath not yet been, who<small><small>[^9]</small></small> hath not seen the evil work that is done under the sun. 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Eccl.4.7|7]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Eccl.4.9|9]]**<span class="endversemarker">]</span> [¶]Two \[are<small><small>[^22]</small></small>\] better than one; because they have a good<small><small>[^23]</small></small> reward for their labour. <span class="startversemarker">[</span>**[[Eccl.4.10|10]]**<span class="endversemarker">]</span> For if<small><small>[^24]</small></small> they fall, the one will lift up his fellow: but<small><small>[^25]</small></small> woe to him \[that is\] alone when he falleth; for \[he hath\] not another to help him up. <span class="startversemarker">[</span>**[[Eccl.4.11|11]]**<span class="endversemarker">]</span> Again, if two lie together, then they have heat: but how can one be warm \[alone\]?<small><small>[^26]</small></small> <span class="startversemarker">[</span>**[[Eccl.4.12|12]]**<span class="endversemarker">]</span> And if<small><small>[^27]</small></small> one prevail against him, two shall withstand him; and a<small><small>[^28]</small></small> threefold cord is not quickly broken.
 
-***The Futility of Power*** ^bsb1519
+<big><big>[[Eccl.4.13 The Futility of Power|⥃]]</big></big>***The Futility of Power***
 
  
 

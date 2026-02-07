@@ -1,12 +1,12 @@
-**James 4:4
-**<small><sub>**KJV:**</sub></small>
+**James 4:4**<big><big>[[Jas.4.1 A Warning against Pride|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
 <small><sub>**BSB:**</sub></small>
 You adulteresses! Do you not know that friendship with the world is hostility toward God? Therefore, whoever chooses to be a friend of the world renders himself an enemy of God.
 <small><sub>**Literal:**</sub></small>
 adulterers — and Adulteresses! Surely you know that the friendship with the world hostility <the> with God is? Who[ever] maybe therefore shall choose a friend to be of the world, an enemy <the> of God is appointed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.3|<< James 4:3]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.5|James 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | adulterers — |**<big>[[G3432\|μοιχοὶ]]</big>**  |moichoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | and [^1] |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 13:16** 
+**Isaiah 13:16**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their infants will be dashed to pieces before their eyes, their houses will be l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.15|<< Isaiah 13:15]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.17|Isaiah 13:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and children their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5768\|עֹלְלֵי]]&#8207;&#8207;[[H9028\|הֶ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.le.lei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be dashed in pieces  |**<big>&#8207;[[H7376\|יְרֻטְּשׁ֖וּ]]&#8207; </big>**| ye.ru.te.Shu<small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

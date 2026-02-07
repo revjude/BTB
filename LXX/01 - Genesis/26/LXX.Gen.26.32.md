@@ -1,10 +1,7 @@
 **LXX Genesis 26:32** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  that day, also the servants of Isaac coming reported to him concerning the well which they dug, and said, We did not find water. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass the same day, that Isaac’s servants came, and told him concerning the well which they had digged, and said unto him, We have found water.
-<small><sub>**BSB:**</sub></small>
-On that same day, Isaac’s servants came and told him about the well they had dug. “We have found water!” they told him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.31|<< Genesis 26:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.33|Genesis 26:33 >>]]</td></tr></table>
 
 | Translation | Greek |

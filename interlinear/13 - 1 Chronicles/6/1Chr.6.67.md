@@ -1,4 +1,4 @@
-**1 Chronicles 6:67** (6:52)
+**1 Chronicles 6:67**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave unto them, [of] the cities of refuge, Shechem in mount Ephraim with her suburbs; [they gave] also Gezer with her suburbs,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They were given Shechem (a city of refuge) with its pasturelands in the hill cou
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.67|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.66|<< 1 Chronicles 6:66]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.68|1 Chronicles 6:68 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתְּנ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

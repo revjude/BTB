@@ -1,4 +1,4 @@
-**Leviticus 15:25** 
+**Leviticus 15:25**<big><big>[[Lev.15.19 The Uncleanness of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she [shall be] unclean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When a woman has a discharge of her blood for many days at a time other than her
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.24|<< Leviticus 15:24]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.26|Leviticus 15:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:19** 
 <small><sub>**LXX:**</sub></small>
 the great tests which you beheld with your eyes; the signs and  those great miracles; the fortified hand and the high arm. As \[the\] <span class="smallcaps">lord</span> your God led you, so \[the\] <span class="smallcaps">lord</span> your God will do to all the nations which you fear from their face. 
-<small><sub>**KJV:**</sub></small>
-The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the LORD thy God brought thee out: so shall the LORD thy God do unto all the people of whom thou art afraid.
-<small><sub>**BSB:**</sub></small>
-the great trials that you saw, the signs and wonders, and the mighty hand and outstretched arm by which the LORD your God brought you out. The LORD your God will do the same to all the peoples you now fear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.18|<< Deuteronomy 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.20|Deuteronomy 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

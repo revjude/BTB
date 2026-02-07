@@ -1,12 +1,12 @@
-**1 Corinthians 5:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:5**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
 <small><sub>**BSB:**</sub></small>
 hand this man over to Satan for the destruction of the flesh, so that his spirit may be saved on the Day of the Lord.
 <small><sub>**Literal:**</sub></small>
 to deliver <the> such a one <the> to Satan for destruction of the flesh, so that the spirit may be saved in the day of the Lord Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.4|<< 1 Corinthians 5:4]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.6|1 Corinthians 5:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to deliver |**<big>[[G3860\|παραδοῦναι]]</big>**  |paradounai <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

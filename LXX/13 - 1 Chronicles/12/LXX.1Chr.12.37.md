@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:37** 
 <small><sub>**LXX:**</sub></small>
 And of the other side of the Jordan of Reuben, and \[the\] Gadites, and of the half tribe of Manasseh, all with weapons for warfare in \[the\] force -- a hundred twenty thousand. 
-<small><sub>**KJV:**</sub></small>
-And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an hundred and twenty thousand.
-<small><sub>**BSB:**</sub></small>
-And from east of the Jordan, from Reuben, Gad, and the half-tribe of Manasseh there: 120,000 armed with every kind of weapon of war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.36|<< 1 Chronicles 12:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.38|1 Chronicles 12:38 >>]]</td></tr></table>
 
 | Translation | Greek |

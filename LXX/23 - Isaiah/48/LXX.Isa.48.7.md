@@ -1,10 +1,7 @@
 **LXX Isaiah 48:7** 
 <small><sub>**LXX:**</sub></small>
 Now it takes place, and not earlier; and not in former days, and you heard them not. Lest you should say, Yes, I know them. 
-<small><sub>**KJV:**</sub></small>
-They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.
-<small><sub>**BSB:**</sub></small>
-They are created now, and not long ago; you have not heard of them before today. So you cannot claim, ‘I already knew them!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.6|<< Isaiah 48:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.8|Isaiah 48:8 >>]]</td></tr></table>
 
 | Translation | Greek |

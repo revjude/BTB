@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:5** 
 <small><sub>**LXX:**</sub></small>
 And the upper promenades \[were\] likewise; for the peristyle protruded from out of it, from out of the peristyle beneath, and the interval; thus a peristyle and an interval and thus. 
-<small><sub>**KJV:**</sub></small>
-Now the upper chambers [were] shorter: for the galleries were higher than these, than the lower, and than the middlemost of the building.
-<small><sub>**BSB:**</sub></small>
-Now the upper chambers were smaller because the galleries took more space from the chambers on the lower and middle floors of the building.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.4|<< Ezekiel 42:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.6|Ezekiel 42:6 >>]]</td></tr></table>
 
 | Translation | Greek |

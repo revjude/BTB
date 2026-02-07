@@ -1,4 +1,4 @@
-**Job 10:16** 
+**Job 10:16**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Should I hold my head high, You would hunt me like a lion, and again display You
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.15|<< Job 10:15]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.17|Job 10:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so it may rise up  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H1342\|יִגְאֶה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> yig.'eh<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> lion  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H7826\|שַּׁ֣חַל]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Sha.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

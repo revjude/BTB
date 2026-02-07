@@ -1,4 +1,4 @@
-**2 Chronicles 7:1** 
+**2 Chronicles 7:1**<big><big>[[2Chr.7.1 Fire from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Solomon had finished praying, fire came down from heaven and consumed the b
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.42|<< 2 Chronicles 6:42]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.2|2 Chronicles 7:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as finished  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H3615G\|כַלּ֤וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> kha.Lot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹה֙]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

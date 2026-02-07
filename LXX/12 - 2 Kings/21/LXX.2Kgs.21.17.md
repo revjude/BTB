@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:17** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Manasseh, and all as much as he did, and  his sin which he sinned, behold \[are\] not these written upon \[the\] scroll of \[the\] words \[of the\] days of the kings of Judah? 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Manasseh, and all that he did, and his sin that he sinned, [are] they not written in the book of the chronicles of the kings of Judah?
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Manasseh, along with all his accomplishments and the sin that he committed, are they not written in the Book of the Chronicles of the Kings of Judah?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.16|<< 2 Kings 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.18|2 Kings 21:18 >>]]</td></tr></table>
 
 | Translation | Greek |

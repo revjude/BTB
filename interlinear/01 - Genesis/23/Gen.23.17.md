@@ -1,4 +1,4 @@
-**Genesis 23:17** 
+**Genesis 23:17**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the field of Ephron, which [was] in Machpelah, which [was] before Mamre, the field, and the cave which [was] therein, and all the trees that [were] in the field, that [were] in all the borders round about, were made sure
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ephron’s field at Machpelah near Mamre, the cave that was in it, and all th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.16|<< Genesis 23:16]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.18|Genesis 23:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was confirmed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|יָּ֣קָם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] field of  |**<big>&#8207;[[H7704G\|שְׂדֵ֣ה]]&#8207; </big>**| se.Deh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

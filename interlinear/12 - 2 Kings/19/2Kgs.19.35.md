@@ -1,4 +1,4 @@
-**2 Kings 19:35** 
+**2 Kings 19:35**<big><big>[[2Kgs.19.35 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they [were] all dead corpses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And that very night the angel of the LORD went out and struck down 185,000 men i
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.34|<< 2 Kings 19:34]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.36|2 Kings 19:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the night  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3915\|לַּ֣יְלָה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:5** 
 <small><sub>**LXX:**</sub></small>
 And the messengers returned and said, Thus says the son of Hadad, I have sent to you, saying,  Your silver and  your gold and  your wives and  your children you shall give to me, 
-<small><sub>**KJV:**</sub></small>
-And the messengers came again, and said, Thus speaketh Benhadad, saying, Although I have sent unto thee, saying, Thou shalt deliver me thy silver, and thy gold, and thy wives, and thy children;
-<small><sub>**BSB:**</sub></small>
-The messengers came back and said, “This is what Ben-hadad says: ‘I have sent to you to demand your silver, your gold, your wives, and your children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.4|<< 1 Kings 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.6|1 Kings 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

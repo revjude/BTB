@@ -1,4 +1,4 @@
-**2 Kings 13:3** 
+**2 Kings 13:3**<big><big>[[2Kgs.13.1 Jehoahaz Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was kindled against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Benhadad the son of Hazael, all [their] days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the anger of the LORD burned against Israel, and He delivered them continuall
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.2|<< 2 Kings 13:2]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.4|2 Kings 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it burned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2734\|יִּֽחַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.char-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] anger of  |**<big>&#8207;[[H0639G\|אַ֥ף]]&#8207; </big>**| 'af<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

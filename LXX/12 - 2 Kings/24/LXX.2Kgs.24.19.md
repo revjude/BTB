@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:19** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] before \[the\] <span class="smallcaps">lord</span> according to all as much as Jehoiakim did. 
-<small><sub>**KJV:**</sub></small>
-And he did [that which was] evil in the sight of the LORD, according to all that Jehoiakim had done.
-<small><sub>**BSB:**</sub></small>
-And Zedekiah did evil in the sight of the LORD, just as Jehoiakim had done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.18|<< 2 Kings 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.20|2 Kings 24:20 >>]]</td></tr></table>
 
 | Translation | Greek |

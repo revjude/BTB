@@ -1,12 +1,12 @@
-**Acts 19:41
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:41**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had thus spoken, he dismissed the assembly.
 <small><sub>**BSB:**</sub></small>
 After he had said this, he dismissed the assembly.
 <small><sub>**Literal:**</sub></small>
 And these things having said he dismissed the assembly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.40|<< Acts 19:40]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.1|Acts 20:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

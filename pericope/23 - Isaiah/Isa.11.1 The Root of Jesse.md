@@ -1,0 +1,106 @@
+---
+status: 
+difficulty: 
+priority: 
+translation_date: 
+needs_review: false
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+verse_count: 16
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+verses:
+- "[[Isa.11.1]]"
+- "[[Isa.11.2]]"
+- "[[Isa.11.3]]"
+- "[[Isa.11.4]]"
+- "[[Isa.11.5]]"
+- "[[Isa.11.6]]"
+- "[[Isa.11.7]]"
+- "[[Isa.11.8]]"
+- "[[Isa.11.9]]"
+- "[[Isa.11.10]]"
+- "[[Isa.11.11]]"
+- "[[Isa.11.12]]"
+- "[[Isa.11.13]]"
+- "[[Isa.11.14]]"
+- "[[Isa.11.15]]"
+- "[[Isa.11.16]]"
+---
+
+[[Isa.11|Isaiah 11:1 - Isaiah 11:16]]
+*The Root of Jesse*
+
+[[Isa.11.1|1]] And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
+
+1: 
+
+[[Isa.11.2|2]] And the spirit of the LORD shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the LORD;
+
+2: 
+
+[[Isa.11.3|3]] And shall make him of quick understanding in the fear of the LORD: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears:
+
+3: 
+
+[[Isa.11.4|4]] But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
+
+4: 
+
+[[Isa.11.5|5]] And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
+
+5: 
+
+[[Isa.11.6|6]] The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
+
+6: 
+
+[[Isa.11.7|7]] And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
+
+7: 
+
+[[Isa.11.8|8]] And the sucking child shall play on the hole of the asp, and the weaned child shall put his hand on the cockatrice’ den.
+
+8: 
+
+[[Isa.11.9|9]] They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the LORD, as the waters cover the sea.
+
+9: 
+
+[[Isa.11.10|10]] And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious.
+
+10: 
+
+[[Isa.11.11|11]] And it shall come to pass in that day, \[that\] the Lord shall set his hand again the second time to recover the remnant of his people, which shall be left, from Assyria, and from Egypt, and from Pathros, and from Cush, and from Elam, and from Shinar, and from Hamath, and from the islands of the sea.
+
+11: 
+
+[[Isa.11.12|12]] And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
+
+12: 
+
+[[Isa.11.13|13]] The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim.
+
+13: 
+
+[[Isa.11.14|14]] But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them.
+
+14: 
+
+[[Isa.11.15|15]] And the LORD shall utterly destroy the tongue of the Egyptian sea; and with his mighty wind shall he shake his hand over the river, and shall smite it in the seven streams, and make \[men\] go over dryshod.
+
+15: 
+
+[[Isa.11.16|16]] And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt.
+
+16: 
+
+---
+NOTES:

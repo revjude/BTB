@@ -1,4 +1,4 @@
-**Isaiah 44:9** 
+**Isaiah 44:9**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that make a graven image [are] all of them vanity; and their delectable things shall not profit; and they [are] their own witnesses; they see not, nor know; that they may be ashamed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All makers of idols are nothing, and the things they treasure are worthless. The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.8|<< Isaiah 44:8]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.10|Isaiah 44:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those who] form  |**<big>&#8207;[[H3335G\|יֹֽצְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yo.tze.rei-<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> an idol  |**<big>&#8207;[[H6459\|פֶ֤סֶל]]&#8207; </big>**| Fe.sel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

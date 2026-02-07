@@ -1,12 +1,12 @@
-**2 Timothy 2:14
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:14**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of these things put [them] in remembrance, charging [them] before the Lord that they strive not about words to no profit, [but] to the subverting of the hearers.
 <small><sub>**BSB:**</sub></small>
 Remind the believers of these things, charging them before God to avoid quarreling over words, which succeeds only in leading the listeners to ruin.
 <small><sub>**Literal:**</sub></small>
 These things do remind [them] solemnly charging [them] before <the> God not to quarrel about words upon no [thing] profitable [but] to [the] subversion of those hearing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.13|<< 2 Timothy 2:13]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.15|2 Timothy 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do remind [them] |**<big>[[G5279\|ὑπομίμνῃσκε]]</big>**  |hupomimnēske <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

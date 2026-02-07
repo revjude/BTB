@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:24** 
 <small><sub>**LXX:**</sub></small>
 And they did not listen to me, and they did not take heed \[with\] their ear, but they went by the thoughts  of their evil heart; and they became for the rear, and not for the front. 
-<small><sub>**KJV:**</sub></small>
-But they hearkened not, nor inclined their ear, but walked in the counsels [and] in the imagination of their evil heart, and went backward, and not forward.
-<small><sub>**BSB:**</sub></small>
-Yet they did not listen or incline their ear, but they followed the stubborn inclinations of their own evil hearts. They went backward and not forward.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.23|<< Jeremiah 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.25|Jeremiah 7:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 41:23** 
 <small><sub>**LXX:**</sub></small>
 And another seven ears of corn, thin and destroyed by the wind grew up next to them. 
-<small><sub>**KJV:**</sub></small>
-And, behold, seven ears, withered, thin, [and] blasted with the east wind, sprung up after them:
-<small><sub>**BSB:**</sub></small>
-After them, seven other heads of grain sprouted—withered, thin, and scorched by the east wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.22|<< Genesis 41:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.24|Genesis 41:24 >>]]</td></tr></table>
 
 | Translation | Greek |

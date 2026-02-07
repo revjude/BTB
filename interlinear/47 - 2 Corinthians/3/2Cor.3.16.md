@@ -1,5 +1,5 @@
-**2 Corinthians 3:16
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:16**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless when it shall turn to the Lord, the vail shall be taken away.
 <small><sub>**BSB:**</sub></small>
 But whenever anyone turns to the Lord, the veil is taken away.
@@ -10,7 +10,7 @@ When however ever [one] shall have turned to [the] Lord, is taken away the veil.
 > $\quad$ referencing: [[LXX.Exod.34.34|Exod 34:34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G2259\|ἡνίκα]]</big>**  |hēnika <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  [^1] |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 35:8** 
+**Isaiah 35:8**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it [shall be] for those: the wayfaring men, though fools, shall not err [therein].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there will be a highway called the Way of Holiness. The unclean will not tra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.7|<< Isaiah 35:7]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.9|Isaiah 35:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.yah-<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֞ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

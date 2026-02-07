@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:5** 
 <small><sub>**LXX:**</sub></small>
 And the ones dwelling Jebus said  to David, You shall not enter here. And David was first to take the citadel of Zion -- this \[is\] the city of David. 
-<small><sub>**KJV:**</sub></small>
-And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which [is] the city of David.
-<small><sub>**BSB:**</sub></small>
-The people of Jebus said to David, “You will never get in here.” Nevertheless, David captured the fortress of Zion (that is, the City of David).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.4|<< 1 Chronicles 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.6|1 Chronicles 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

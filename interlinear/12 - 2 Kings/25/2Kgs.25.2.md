@@ -1,4 +1,4 @@
-**2 Kings 25:2** 
+**2 Kings 25:2**<big><big>[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the city was besieged unto the eleventh year of king Zedekiah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the city was kept under siege until King Zedekiah’s eleventh year.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.1|<< 2 Kings 25:1]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.3|2 Kings 25:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935N\|תָּבֹ֥א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֖יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 4:31** 
+**1 Chronicles 4:31**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at Bethmarcaboth, and Hazarsusim, and at Bethbirei, and at Shaaraim. These [were] their cities unto the reign of David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities un
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.30|<< 1 Chronicles 4:30]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.32|1 Chronicles 4:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in Beth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H1024\|בֵ֤ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Marcaboth  |**<big>&#8207;[[H1024\|מַרְכָּבוֹת֙]]&#8207; </big>**| mar.ka.Vot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

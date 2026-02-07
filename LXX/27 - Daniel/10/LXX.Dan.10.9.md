@@ -1,10 +1,7 @@
 **LXX Daniel 10:9** 
 <small><sub>**LXX:**</sub></small>
 And I heard the voice  of his words. And in  my hearing the sound of his discourses, I was being vexed, and  my face \[was\] upon the ground. 
-<small><sub>**KJV:**</sub></small>
-Yet heard I the voice of his words: and when I heard the voice of his words, then was I in a deep sleep on my face, and my face toward the ground.
-<small><sub>**BSB:**</sub></small>
-I heard the sound of his words, and as I listened, I fell into a deep sleep, with my face to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.8|<< Daniel 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.10|Daniel 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

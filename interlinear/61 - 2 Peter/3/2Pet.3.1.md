@@ -1,12 +1,12 @@
-**2 Peter 3:1
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:1**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This second epistle, beloved, I now write unto you; in [both] which I stir up your pure minds by way of remembrance:
 <small><sub>**BSB:**</sub></small>
 Beloved, this is now my second letter to you. Both of them are reminders to stir you to wholesome thinking
 <small><sub>**Literal:**</sub></small>
 This now, beloved, [is the] second to you I am writing letter, in which I am stirring up of you in putting [you] in remembrance <the> pure mind<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.22|<< 2 Peter 2:22]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.2|2 Peter 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Ταύτην]]</big>**  |Tautēn <small><sup>[[D-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now, |**<big>[[G2235\|ἤδη,]]</big>**  |ēdē <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

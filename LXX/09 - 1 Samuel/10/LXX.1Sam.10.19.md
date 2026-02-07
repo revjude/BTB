@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:19** 
 <small><sub>**LXX:**</sub></small>
 And you today treat with contempt  your God, who he himself is your deliverer from out of all  your bad \[things\], and  your afflictions. And you said, But only a king you shall place over us. And now, stand before \[the\] <span class="smallcaps">lord</span> according to your tribes and according to your thousands! 
-<small><sub>**KJV:**</sub></small>
-And ye have this day rejected your God, who himself saved you out of all your adversities and your tribulations; and ye have said unto him, [Nay], but set a king over us. Now therefore present yourselves before the LORD by your tribes, and by your thousands.
-<small><sub>**BSB:**</sub></small>
-But today you have rejected your God, who saves you from all your troubles and afflictions, and you have said to Him, ‘No, set a king over us.’ Now therefore present yourselves before the LORD by your tribes and clans.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.18|<< 1 Samuel 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.20|1 Samuel 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

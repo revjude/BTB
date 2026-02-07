@@ -1,12 +1,12 @@
-**Hebrews 13:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:12**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.
 <small><sub>**BSB:**</sub></small>
 And so Jesus also suffered outside the city gate, to sanctify the people by His own blood.
 <small><sub>**Literal:**</sub></small>
 Therefore also Jesus, so that he may sanctify through the own blood the people, outside the gate suffered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.11|<< Hebrews 13:11]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.13|Hebrews 13:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

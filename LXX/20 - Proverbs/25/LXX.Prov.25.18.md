@@ -1,10 +1,7 @@
 **LXX Proverbs 25:18** 
 <small><sub>**LXX:**</sub></small>
 \[As\] a club, and a sword, and a pointed bow, so also \[the\] man  bearing  false witness \[against\] his friend. 
-<small><sub>**KJV:**</sub></small>
-A man that beareth false witness against his neighbour [is] a maul, and a sword, and a sharp arrow.
-<small><sub>**BSB:**</sub></small>
-Like a club or sword or sharp arrow is a man who bears false witness against his neighbor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.17|<< Proverbs 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.19|Proverbs 25:19 >>]]</td></tr></table>
 
 | Translation | Greek |

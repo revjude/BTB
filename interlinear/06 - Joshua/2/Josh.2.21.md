@@ -1,4 +1,4 @@
-**Joshua 2:21** 
+**Joshua 2:21**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, According unto your words, so [be] it. And she sent them away, and they departed: and she bound the scarlet line in the window.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And she said, According unto your words, so [be] it. And she sent them away, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.20|<< Joshua 2:20]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.22|Joshua 2:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֙אמֶר֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to words your  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1697G\|דִבְרֵי]]&#8207;&#8207;[[H9026\|כֶ֣ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

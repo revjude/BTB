@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, You should not fear him, for into  your hands I will deliver him, and all  his people, and all  his land. And you shall do to him as you did to Sihon king of the Amorites, who dwelt in Heshbon. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto me, Fear him not: for I will deliver him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.
-<small><sub>**BSB:**</sub></small>
-But the LORD said to me, “Do not fear him, for I have delivered him into your hand, along with all his people and his land. Do to him as you did to Sihon king of the Amorites, who lived in Heshbon.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.1|<< Deuteronomy 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.3|Deuteronomy 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

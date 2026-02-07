@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:30** 
 <small><sub>**LXX:**</sub></small>
 And I cleansed them from all alien \[connection\], and I set \[the\] daily rotations for the priests and for the Levites, every man according to  his work; 
-<small><sub>**KJV:**</sub></small>
-Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;
-<small><sub>**BSB:**</sub></small>
-Thus I purified the priests and Levites from everything foreign, and I assigned specific duties to each of the priests and Levites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.29|<< Nehemiah 13:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.31|Nehemiah 13:31 >>]]</td></tr></table>
 
 | Translation | Greek |

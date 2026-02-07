@@ -1,4 +1,4 @@
-**Jeremiah 50:41** 
+**Jeremiah 50:41**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, an army is coming from the north; a great nation and many kings are stir
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.40|<< Jeremiah 50:40]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.42|Jeremiah 50:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a people  |**<big>&#8207;[[H5971A\|עַ֥ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

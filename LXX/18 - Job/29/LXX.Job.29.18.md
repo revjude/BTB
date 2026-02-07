@@ -1,10 +1,7 @@
 **LXX Job 29:18** 
 <small><sub>**LXX:**</sub></small>
 And I said,  My stature shall grow old as \[the\] trunk of a palm; I shall spend life with much time. 
-<small><sub>**KJV:**</sub></small>
-Then I said, I shall die in my nest, and I shall multiply [my] days as the sand.
-<small><sub>**BSB:**</sub></small>
-So I thought: ‘I will die in my nest and multiply my days as the sand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.17|<< Job 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.19|Job 29:19 >>]]</td></tr></table>
 
 | Translation | Greek |

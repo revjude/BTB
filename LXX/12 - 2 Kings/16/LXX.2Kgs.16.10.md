@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:10** 
 <small><sub>**LXX:**</sub></small>
 And king Ahaz went to meet Tiglath-pileser king of \[the\] Assyrians in Damascus. And he saw the altar, the one in Damascus. And king Ahaz sent to Urijah the priest the likeness of the altar, and the proportions of it, according to all its makings. 
-<small><sub>**KJV:**</sub></small>
-And king Ahaz went to Damascus to meet Tiglathpileser king of Assyria, and saw an altar that [was] at Damascus: and king Ahaz sent to Urijah the priest the fashion of the altar, and the pattern of it, according to all the workmanship thereof.
-<small><sub>**BSB:**</sub></small>
-Then King Ahaz went to Damascus to meet Tiglath-pileser king of Assyria. On seeing the altar in Damascus, King Ahaz sent Uriah the priest a model of the altar and complete plans for its construction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.9|<< 2 Kings 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.11|2 Kings 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

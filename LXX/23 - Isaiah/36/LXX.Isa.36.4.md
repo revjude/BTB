@@ -1,10 +1,7 @@
 **LXX Isaiah 36:4** 
 <small><sub>**LXX:**</sub></small>
 And Rabshakeh said to them, Speak  to Hezekiah! Thus says the great king, \[the\] king of \[the\] Assyrians. What are you relying on? 
-<small><sub>**KJV:**</sub></small>
-And Rabshakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence [is] this wherein thou trustest?
-<small><sub>**BSB:**</sub></small>
-The Rabshakeh said to them, “Tell Hezekiah that this is what the great king, the king of Assyria, says: What is the basis of this confidence of yours?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.3|<< Isaiah 36:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.5|Isaiah 36:5 >>]]</td></tr></table>
 
 | Translation | Greek |

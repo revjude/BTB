@@ -1,10 +1,7 @@
 **LXX Song of Solomon 8:9** 
 <small><sub>**LXX:**</sub></small>
 If she is a wall, we should build upon her parapets of silver. And if she is a door, we will circumscribe for her cedar plank. 
-<small><sub>**KJV:**</sub></small>
-If she [be] a wall, we will build upon her a palace of silver: and if she [be] a door, we will inclose her with boards of cedar.
-<small><sub>**BSB:**</sub></small>
-If she is a wall, we will build a tower of silver upon her. If she is a door, we will enclose her with panels of cedar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.8|<< Song of Solomon 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.10|Song of Solomon 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

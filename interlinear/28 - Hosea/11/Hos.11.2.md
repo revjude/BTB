@@ -1,4 +1,4 @@
-**Hosea 11:2** 
+**Hosea 11:2**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the more I called Israel, the farther they departed from Me. They sacrificed
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.1|<< Hosea 11:1]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.3|Hosea 11:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they summoned  |**<big>&#8207;[[H7121G\|קָרְא֖וּ]]&#8207; </big>**| ka.re.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 2:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> left  these nations so as to not remove them  quickly; and he did not deliver them into \[the\] hand of Joshua. 
-<small><sub>**KJV:**</sub></small>
-Therefore the LORD left those nations, without driving them out hastily; neither delivered he them into the hand of Joshua.
-<small><sub>**BSB:**</sub></small>
-That is why the LORD had left those nations in place and had not driven them out immediately by delivering them into the hand of Joshua.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.22|<< Judges 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.1|Judges 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

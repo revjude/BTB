@@ -1,10 +1,7 @@
 **LXX Genesis 24:30** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when he saw the ear-rings, and the bracelets upon the hands  of his sister, and when he heard the words of Rebekah  his sister, saying, So spoke to me the man; that he came to the man standing by himself by the camels near the spring. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he saw the earring and bracelets upon his sister’s hands, and when he heard the words of Rebekah his sister, saying, Thus spake the man unto me; that he came unto the man; and, behold, he stood by the camels at the well.
-<small><sub>**BSB:**</sub></small>
-As soon as he saw the ring, and the bracelets on his sister’s wrists, and heard Rebekah’s words, “The man said this to me,” he went and found the man standing by the camels near the spring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.29|<< Genesis 24:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.31|Genesis 24:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:3** 
 <small><sub>**LXX:**</sub></small>
 And David sent and sought the woman. And they said said, Is not this Bath-sheba, daughter of Eliam, wife of Uriah the Hittite? 
-<small><sub>**KJV:**</sub></small>
-And David sent and inquired after the woman. And [one] said, [Is] not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?
-<small><sub>**BSB:**</sub></small>
-So David sent and inquired about the woman, and he was told, “This is Bathsheba, the daughter of Eliam and the wife of Uriah the Hittite.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.2|<< 2 Samuel 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.4|2 Samuel 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

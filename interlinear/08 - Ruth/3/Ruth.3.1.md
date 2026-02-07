@@ -1,4 +1,4 @@
-**Ruth 3:1** 
+**Ruth 3:1**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One day Ruth’s mother-in-law Naomi said to her, “My daughter, should I not s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.23|<< Ruth 2:23]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.2|Ruth 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֥אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> her  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

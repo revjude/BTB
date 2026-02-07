@@ -1,10 +1,7 @@
 **LXX Exodus 12:26** 
 <small><sub>**LXX:**</sub></small>
 And it will be if your sons should say to you, What  \[is\] this service? 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when your children shall say unto you, What mean ye by this service?
-<small><sub>**BSB:**</sub></small>
-When your children ask you, ‘What does this service mean to you?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.25|<< Exodus 12:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.27|Exodus 12:27 >>]]</td></tr></table>
 
 | Translation | Greek |

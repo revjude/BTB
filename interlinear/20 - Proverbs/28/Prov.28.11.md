@@ -1,4 +1,4 @@
-**Proverbs 28:11** 
+**Proverbs 28:11**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The rich man [is] wise in his own conceit; but the poor that hath understanding searcheth him out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A rich man is wise in his own eyes, but a poor man with discernment sees through
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.10|<< Proverbs 28:10]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.12|Proverbs 28:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] wise  |**<big>&#8207;[[H2450\|חָכָ֣ם]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in own eyes his  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H5869A\|עֵינָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> 'ei.na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

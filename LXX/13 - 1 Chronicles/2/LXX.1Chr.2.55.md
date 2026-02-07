@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:55** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] families of \[the\] scribes dwelling in Jabez -- \[the\] Tirathites, Shimeathites, Suchathites, these \[are\] the Kenites, the ones coming from out of Hemath, \[the\] father of \[the\] house of Rechab. 
-<small><sub>**KJV:**</sub></small>
-And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, [and] Suchathites. These [are] the Kenites that came of Hemath, the father of the house of Rechab.
-<small><sub>**BSB:**</sub></small>
-and the clans of the scribes who lived at Jabez—the Tirathites, Shimeathites, and Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.54|<< 1 Chronicles 2:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.1|1 Chronicles 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

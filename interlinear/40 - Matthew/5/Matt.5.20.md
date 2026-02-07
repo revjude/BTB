@@ -1,12 +1,12 @@
-**Matthew 5:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:20**<big><big>[[Matt.5.17 The Fulfillment of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I say unto you, That except your righteousness shall exceed [the righteousness] of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.
 <small><sub>**Literal:**</sub></small>
 I say for to you that only unless shall abound your <the> righteousness above [that] of the scribes and Pharisees, certainly not shall you enter into the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.19|<< Matthew 5:19]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.21|Matthew 5:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Kings 9:26** 
+**1 Kings 9:26**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Solomon made a navy of ships in Eziongeber, which [is] beside Eloth, on the shore of the Red sea, in the land of Edom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ King Solomon also assembled a fleet of ships at Ezion-geber, which is near Eloth
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.25|<< 1 Kings 9:25]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.27|1 Kings 9:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and ship[s]  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0590\|אֳנִ֡י]]&#8207; </big>**| vo.<small><sup>[[HC]]</sup></small> 'o.Ni<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made  |**<big>&#8207;[[H6213H\|עָשָׂה֩]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

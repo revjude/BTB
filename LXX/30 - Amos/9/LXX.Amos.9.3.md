@@ -1,10 +1,7 @@
 **LXX Amos 9:3** 
 <small><sub>**LXX:**</sub></small>
 If they hide in the top  of Carmel, from there I will search out and take them. And if they descend from out of my eyes into the depths of the sea, there I will give charge to the dragon, and it will bite them. 
-<small><sub>**KJV:**</sub></small>
-And though they hide themselves in the top of Carmel, I will search and take them out thence; and though they be hid from my sight in the bottom of the sea, thence will I command the serpent, and he shall bite them:
-<small><sub>**BSB:**</sub></small>
-Though they hide themselves atop Carmel, there I will track them and seize them; and though they hide from Me at the bottom of the sea, there I will command the serpent to bite them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.2|<< Amos 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.4|Amos 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

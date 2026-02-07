@@ -1,12 +1,12 @@
-**John 21:25
-**<small><sub>**KJV:**</sub></small>
+**John 21:25**<big><big>[[John.21.20 Jesus and the Beloved Disciple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.
 <small><sub>**BSB:**</sub></small>
 There are many more things that Jesus did. If all of them were written down, I suppose that not even the world itself would have space for the books that would be written.
 <small><sub>**Literal:**</sub></small>
 There are now also other things many that did <the> Jesus which if they shall be written every one, not even itself I suppose the world to have space for the to be written books.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.24|<< John 21:24]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.1|Acts 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There are |**<big>[[G1510\|Ἔστιν]]</big>**  |Estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

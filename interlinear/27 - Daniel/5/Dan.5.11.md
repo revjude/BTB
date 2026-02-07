@@ -1,4 +1,4 @@
-**Daniel 5:11** 
+**Daniel 5:11**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is a man in thy kingdom, in whom [is] the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, [I say], thy father, made master of the magicians, astrologers, Chaldeans, [and] soothsayers;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is a man in your kingdom who has the spirit of the holy gods in him. In th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.10|<< Daniel 5:10]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.12|Daniel 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H0383\|אִיתַ֨י]]&#8207; </big>**| 'i.Tai<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a man  |**<big>&#8207;[[H1400\|גְּבַ֜ר]]&#8207; </big>**| ge.Var<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

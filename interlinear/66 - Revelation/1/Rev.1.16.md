@@ -1,5 +1,5 @@
-**Revelation 1:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:16**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance [was] as the sun shineth in his strength.
 <small><sub>**BSB:**</sub></small>
 He held in His right hand seven stars, and a sharp double-edged sword came from His mouth. His face was like the sun shining at its brightest.
@@ -10,7 +10,7 @@ and He is holding in the right hand of Him stars seven and out of the mouth of H
 > $\quad$ possibly alluding to: [[LXX.Isa.49.2|Isa 49:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He is holding |**<big>[[G2192\|ἔχων]]</big>**  |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

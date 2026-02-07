@@ -1,10 +1,7 @@
 **LXX Isaiah 55:3** 
 <small><sub>**LXX:**</sub></small>
 Take heed \[with\] your ears, and follow after  my ways! Listen to me! and you shall live with good \[things\]  for your soul. And I shall ordain with you an eternal covenant -- the sacred \[things\] of David, the trustworthy ones. 
-<small><sub>**KJV:**</sub></small>
-Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, [even] the sure mercies of David.
-<small><sub>**BSB:**</sub></small>
-Incline your ear and come to Me; listen, so that your soul may live. I will make with you an everlasting covenant—My loving devotion promised to David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.55.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.2|<< Isaiah 55:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.4|Isaiah 55:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 55:3** is...

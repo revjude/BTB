@@ -1,10 +1,7 @@
 **LXX Leviticus 26:31** 
 <small><sub>**LXX:**</sub></small>
 And I will establish  your cities as desolate, and I will make quite desolate  your holy \[places\]; and no way shall I smell the scents  of your sacrifices. 
-<small><sub>**KJV:**</sub></small>
-And I will make your cities waste, and bring your sanctuaries unto desolation, and I will not smell the savour of your sweet odours.
-<small><sub>**BSB:**</sub></small>
-I will reduce your cities to rubble and lay waste your sanctuaries, and I will refuse to smell the pleasing aroma of your sacrifices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.30|<< Leviticus 26:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.32|Leviticus 26:32 >>]]</td></tr></table>
 
 | Translation | Greek |

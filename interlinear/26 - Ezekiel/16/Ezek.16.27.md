@@ -1,4 +1,4 @@
-**Ezekiel 16:27** 
+**Ezekiel 16:27**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, therefore I have stretched out my hand over thee, and have diminished thine ordinary [food], and delivered thee unto the will of them that hate thee, the daughters of the Philistines, which are ashamed of thy lewd way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore I stretched out My hand against you and reduced your portion. I gave y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.26|<< Ezekiel 16:26]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.28|Ezekiel 16:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I stretched out  |**<big>&#8207;[[H5186\|נָטִ֤יתִי]]&#8207; </big>**| na.Ti.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

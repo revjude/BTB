@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:6** 
 <small><sub>**LXX:**</sub></small>
 And the king asked the woman, and she described to him. And the king appointed to her one eunuch, saying, Return all the \[things\] of hers, and all the offspring  of her field from the day of which she left the land until the present. 
-<small><sub>**KJV:**</sub></small>
-And when the king asked the woman, she told him. So the king appointed unto her a certain officer, saying, Restore all that [was] hers, and all the fruits of the field since the day that she left the land, even until now.
-<small><sub>**BSB:**</sub></small>
-When the king asked the woman, she confirmed it. So the king appointed for her an officer, saying, “Restore all that was hers, along with all the proceeds of the field from the day that she left the country until now.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.5|<< 2 Kings 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.7|2 Kings 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

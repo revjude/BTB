@@ -1,10 +1,7 @@
 **LXX Genesis 49:5** 
 <small><sub>**LXX:**</sub></small>
 Simeon and Levi -- brothers. They completed injustice by their sects. 
-<small><sub>**KJV:**</sub></small>
-Simeon and Levi [are] brethren; instruments of cruelty [are in] their habitations.
-<small><sub>**BSB:**</sub></small>
-Simeon and Levi are brothers; their swords are weapons of violence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.4|<< Genesis 49:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.6|Genesis 49:6 >>]]</td></tr></table>
 
 | Translation | Greek |

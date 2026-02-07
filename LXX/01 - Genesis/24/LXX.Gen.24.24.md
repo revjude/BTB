@@ -1,10 +1,7 @@
 **LXX Genesis 24:24** 
 <small><sub>**LXX:**</sub></small>
  And she said to him, I am \[the\] daughter of Bathuel, the \[son\] of Milcah, whom she bore to  Nahor. 
-<small><sub>**KJV:**</sub></small>
-And she said unto him, I [am] the daughter of Bethuel the son of Milcah, which she bare unto Nahor.
-<small><sub>**BSB:**</sub></small>
-She replied, “I am the daughter of Bethuel, the son that Milcah bore to Nahor.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.23|<< Genesis 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.25|Genesis 24:25 >>]]</td></tr></table>
 
 | Translation | Greek |

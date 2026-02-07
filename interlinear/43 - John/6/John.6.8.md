@@ -1,12 +1,12 @@
-**John 6:8
-**<small><sub>**KJV:**</sub></small>
+**John 6:8**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 One of his disciples, Andrew, Simon Peter’s brother, saith unto him,
 <small><sub>**BSB:**</sub></small>
 One of His disciples, Andrew, Simon Peter’s brother, said to Him,
 <small><sub>**Literal:**</sub></small>
 Says to Him one of the disciples of Him, Andrew the brother of Simon Peter;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.7|<< John 6:7]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.9|John 6:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

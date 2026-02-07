@@ -1,10 +1,7 @@
 **LXX Numbers 33:10** 
 <small><sub>**LXX:**</sub></small>
 And departing from Elim, and they camped by \[the\] red sea. 
-<small><sub>**KJV:**</sub></small>
-And they removed from Elim, and encamped by the Red sea.
-<small><sub>**BSB:**</sub></small>
-They set out from Elim and camped by the Red Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.9|<< Numbers 33:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.11|Numbers 33:11 >>]]</td></tr></table>
 
 | Translation | Greek |

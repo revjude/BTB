@@ -1,12 +1,12 @@
 (KJV) **Esther 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6|<< Esther 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8|Esther 8 >>]]</td></tr></table>
 
-***Esther Pleads for Her People*** ^bsb1236
+<big><big>[[Esth.7.1 Esther Pleads for Her People|⥃]]</big></big>***Esther Pleads for Her People***
 
  $\quad$ <span class="startversemarker">[</span>**[[Esth.7.1|1]]**<span class="endversemarker">]</span> So the king and Haman came to banquet<small><small>[^2]</small></small> with Esther the queen. <span class="startversemarker">[</span>**[[Esth.7.2|2]]**<span class="endversemarker">]</span> And the king said<small><small>[^3]</small></small> again unto Esther on the second day at the banquet of wine, What \[is\] thy petition, queen Esther? and it shall be granted thee: and what \[is\] thy request? and it shall be performed, \[even\] to the half of the kingdom. <span class="startversemarker">[</span>**[[Esth.7.3|3]]**<span class="endversemarker">]</span> Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life<small><small>[^4]</small></small> be given me at my petition, and my people<small><small>[^5]</small></small> at my request: <span class="startversemarker">[</span>**[[Esth.7.4|4]]**<span class="endversemarker">]</span> For we are sold<small><small>[^6]</small></small>, I and my people, to be destroyed<small><small>[^7]</small></small>, to be slain, and to perish. But if we<small><small>[^8]</small></small> had been sold for bondmen and bondwomen, I had held my tongue, although the enemy<small><small>[^9]</small></small> could not countervail the king’s damage. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Esth.7.5|5]]**<span class="endversemarker">]</span> [¶]Then the king Ahasuerus answered and said unto Esther the queen, Who is he<small><small>[^10]</small></small>, and where is he, that durst<small><small>[^11]</small></small> presume in his heart to do so? <span class="startversemarker">[</span>**[[Esth.7.6|6]]**<span class="endversemarker">]</span> And Esther said, The adversary<small><small>[^12]</small></small> and enemy \[is\] this wicked<small><small>[^13]</small></small> Haman. Then Haman was afraid<small><small>[^14]</small></small> before<small><small>[^15]</small></small> the king and the queen.
 
-***The Hanging of Haman*** ^bsb1237
+<big><big>[[Esth.7.7 The Hanging of Haman|⥃]]</big></big>***The Hanging of Haman***
 
  
 

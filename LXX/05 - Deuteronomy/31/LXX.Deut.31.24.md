@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:24** 
 <small><sub>**LXX:**</sub></small>
 And when Moses completed writing all the words  of this law in a scroll, until completion, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,
-<small><sub>**BSB:**</sub></small>
-When Moses had finished writing in a book the words of this law from beginning to end,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.23|<< Deuteronomy 31:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.25|Deuteronomy 31:25 >>]]</td></tr></table>
 
 | Translation | Greek |

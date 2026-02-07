@@ -1,5 +1,5 @@
-**Revelation 4:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:8**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the four beasts had each of them six wings about [him]; and [they were] full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
 <small><sub>**BSB:**</sub></small>
 And each of the four living creatures had six wings and was covered with eyes all around and within. Day and night they never stop saying: “Holy, Holy, Holy, is the Lord God Almighty, who was and is and is to come!”
@@ -10,7 +10,7 @@ And the four living creatures, one for one of them he having respectively wings 
 > $\quad$ possibly alluding to: [[LXX.Isa.6.2|Isa 6:2-3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |

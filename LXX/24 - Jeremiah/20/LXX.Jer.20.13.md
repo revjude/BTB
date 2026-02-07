@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:13** 
 <small><sub>**LXX:**</sub></small>
 Sing to the <span class="smallcaps">lord</span>! Praise him! for he rescued the soul of \[the\] needy from out of \[the\] hand of \[the\] most substantial ones. 
-<small><sub>**KJV:**</sub></small>
-Sing unto the LORD, praise ye the LORD: for he hath delivered the soul of the poor from the hand of evildoers.
-<small><sub>**BSB:**</sub></small>
-Sing to the LORD! Praise the LORD! For He rescues the life of the needy from the hands of evildoers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.12|<< Jeremiah 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.14|Jeremiah 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

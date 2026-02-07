@@ -1,12 +1,12 @@
-**Revelation 8:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:4**<big><big>[[Rev.8.1 The Seventh Seal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the smoke of the incense, [which came] with the prayers of the saints, ascended up before God out of the angel’s hand.
 <small><sub>**BSB:**</sub></small>
 And the smoke of the incense, together with the prayers of the saints, rose up before God from the hand of the angel.
 <small><sub>**Literal:**</sub></small>
 And went up the smoke of the incense with the prayers of the saints out of [the] hand of the angel before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.3|<< Revelation 8:3]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.5|Revelation 8:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | went up |**<big>[[G0305\|ἀνέβη]]</big>**  |anebē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

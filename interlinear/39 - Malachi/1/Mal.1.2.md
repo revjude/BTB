@@ -1,4 +1,4 @@
-**Malachi 1:2** 
+**Malachi 1:2**<big><big>[[Mal.1.1 The LORD’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? [Was] not Esau Jacob’s brother? saith the LORD: yet I loved Jacob,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I have loved you, saith the LORD. Yet ye say, Wherein hast thou loved us? [Was] 
 > $\quad$ referenced by: [[Rom.9.13|Rom 9:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have loved  |**<big>&#8207;[[H0157G\|אָהַ֤בְתִּי]]&#8207; </big>**| 'a.Hav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ruth 2:15** 
+**Ruth 2:15**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when she was risen up to glean, Boaz commanded his young men, saying, Let her glean even among the sheaves, and reproach her not:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Ruth got up to glean, Boaz ordered his young men, “Even if she gathers am
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.14|<< Ruth 2:14]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.16|Ruth 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|תָּ֖קָם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.kom<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to glean  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3950\|לַקֵּ֑ט]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> la.Ket<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

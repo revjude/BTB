@@ -1,10 +1,7 @@
 **LXX Exodus 12:17** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard  this commandment. For in  this day I will lead  your force from out of \[the\] land of Egypt. And you shall appoint  this day into your generations \[as an\] eternal law. 
-<small><sub>**KJV:**</sub></small>
-And ye shall observe [the feast of] unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever.
-<small><sub>**BSB:**</sub></small>
-So you are to keep the Feast of Unleavened Bread, for on this very day I brought your divisions out of the land of Egypt. You must keep this day as a permanent statute for the generations to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.16|<< Exodus 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.18|Exodus 12:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:31** 
 <small><sub>**LXX:**</sub></small>
 And \[concerning the\] peoples of the land  bringing  \[things\] for purchase, and all \[things\] for sale during the Sabbath day, to deliver \[up for sale\] -- we shall not buy from them during \[the\] Sabbath, nor during \[the\] holy days. And we shall ascend the seventh year, and \[the\] exaction of every \[debt of\] hand. 
-<small><sub>**KJV:**</sub></small>
-And [if] the people of the land bring ware or any victuals on the sabbath day to sell, [that] we would not buy it of them on the sabbath, or on the holy day: and [that] we would leave the seventh year, and the exaction of every debt.
-<small><sub>**BSB:**</sub></small>
-When the people of the land bring merchandise or any kind of grain to sell on the Sabbath day, we will not buy from them on a Sabbath or holy day. Every seventh year we will let the fields lie fallow and will cancel every debt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.30|<< Nehemiah 10:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.32|Nehemiah 10:32 >>]]</td></tr></table>
 
 | Translation | Greek |

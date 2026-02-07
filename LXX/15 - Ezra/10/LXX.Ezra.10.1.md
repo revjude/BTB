@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And as Ezra prayed, and as he confessed weeping and falling before \[the\] house  of God, \[there\] came together to him from Israel an exceedingly vast assembly, men and women and young \[people\]; for the people wept a great weeping. 
-<small><sub>**KJV:**</sub></small>
-Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore.
-<small><sub>**BSB:**</sub></small>
-While Ezra prayed and made this confession, weeping and falling facedown before the house of God, a very large assembly of Israelites—men, women, and children—gathered around him, and the people wept bitterly as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.15|<< Ezra 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.2|Ezra 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

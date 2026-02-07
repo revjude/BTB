@@ -1,12 +1,12 @@
-**1 Corinthians 12:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:13**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For by one Spirit are we all baptized into one body, whether [we be] Jews or Gentiles, whether [we be] bond or free; and have been all made to drink into one Spirit.
 <small><sub>**BSB:**</sub></small>
 For in one Spirit we were all baptized into one body, whether Jews or Greeks, slave or free, and we were all given one Spirit to drink.
 <small><sub>**Literal:**</sub></small>
 Also for in one Spirit we ourselves all into one body were baptized, whether Jews or Greeks whether slaves or free, and all into one Spirit we were made to drink.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.12|<< 1 Corinthians 12:12]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.14|1 Corinthians 12:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

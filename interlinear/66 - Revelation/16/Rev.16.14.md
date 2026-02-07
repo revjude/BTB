@@ -1,5 +1,5 @@
-**Revelation 16:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:14**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they are the spirits of devils, working miracles, [which] go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
 <small><sub>**BSB:**</sub></small>
 These are demonic spirits that perform signs and go out to all the kings of the earth, to assemble them for battle on the great day of God the Almighty.
@@ -10,7 +10,7 @@ they are for spirits of demons performing signs which go forth to the kings of t
 > $\quad$ possibly alluding to: [[LXX.Joel.3.2|Joel 3:2]] ☩ [[LXX.Zeph.3.8|Zeph 3:8]] ☩ [[LXX.Zech.14.2|Zech 14:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are |**<big>[[G1510\|εἰσὶν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

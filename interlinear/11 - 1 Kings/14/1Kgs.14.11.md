@@ -1,4 +1,4 @@
-**1 Kings 14:11** 
+**1 Kings 14:11**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Him that dieth of Jeroboam in the city shall the dogs eat; and him that dieth in the field shall the fowls of the air eat: for the LORD hath spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Anyone belonging to Jeroboam who dies in the city will be eaten by dogs, and any
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.10|<< 1 Kings 14:10]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.12|1 Kings 14:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one who] dies  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4191\|מֵּ֨ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Met<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Jeroboam  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3379G\|יָֽרָבְעָ֤ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

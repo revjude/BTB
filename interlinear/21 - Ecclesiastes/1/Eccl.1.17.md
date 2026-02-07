@@ -1,4 +1,4 @@
-**Ecclesiastes 1:17** 
+**Ecclesiastes 1:17**<big><big>[[Eccl.1.12 With Wisdom Comes Sorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I set my mind to know wisdom and madness and folly; I learned that this, too,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.16|<< Ecclesiastes 1:16]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.18|Ecclesiastes 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I gave !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5414H\|אֶתְּנָ֤]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.te.Na<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart my  |**<big>&#8207;[[H3820A\|לִבִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

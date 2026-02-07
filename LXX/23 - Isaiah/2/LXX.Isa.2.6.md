@@ -1,10 +1,7 @@
 **LXX Isaiah 2:6** 
 <small><sub>**LXX:**</sub></small>
 For he forsook  his people, the house  of Jacob; for their place was filled up as from \[the\] beginning of ones prognosticating, as that of the Philistines; and many Philistine children were born to them. 
-<small><sub>**KJV:**</sub></small>
-Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and [are] soothsayers like the Philistines, and they please themselves in the children of strangers.
-<small><sub>**BSB:**</sub></small>
-For You have abandoned Your people, the house of Jacob, because they are filled with influences from the east; they are soothsayers like the Philistines; they strike hands with the children of foreigners.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.2.5|<< Isaiah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.7|Isaiah 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

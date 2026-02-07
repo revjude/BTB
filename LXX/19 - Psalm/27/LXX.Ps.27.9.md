@@ -1,10 +1,7 @@
 **LXX Psalm 27:9** 
 <small><sub>**LXX:**</sub></small>
 You should not turn  your face from me, and you should not turn aside in anger from  your servant. Become my helper! Do not curse me to be far away, and do not abandon me, and do not overlook me, O God  my deliverer! 
-<small><sub>**KJV:**</sub></small>
-Hide not thy face [far] from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.
-<small><sub>**BSB:**</sub></small>
-Hide not Your face from me, nor turn away Your servant in anger. You have been my helper; do not leave me or forsake me, O God of my salvation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.8|<< Psalm 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.10|Psalm 27:10 >>]]</td></tr></table>
 
 | Translation | Greek |

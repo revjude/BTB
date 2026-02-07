@@ -1,10 +1,7 @@
 **LXX Genesis 1:7** 
 <small><sub>**LXX:**</sub></small>
 And God made the firmament, and God parted between the water which was underneath the firmament, and between the water  above the firmament. 
-<small><sub>**KJV:**</sub></small>
-And God made the firmament, and divided the waters which [were] under the firmament from the waters which [were] above the firmament: and it was so.
-<small><sub>**BSB:**</sub></small>
-So God made the expanse and separated the waters beneath it from the waters above. And it was so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.6|<< Genesis 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.8|Genesis 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

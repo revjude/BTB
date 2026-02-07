@@ -1,4 +1,4 @@
-**2 Kings 19:18** 
+**2 Kings 19:18**<big><big>[[2Kgs.19.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And have cast their gods into the fire: for they [were] no gods, but the work of men’s hands, wood and stone: therefore they have destroyed them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have cast their gods into the fire and destroyed them, for they were not go
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.17|<< 2 Kings 19:17]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.19|2 Kings 19:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they have put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414L\|נָתְנ֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.te.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

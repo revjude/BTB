@@ -1,4 +1,4 @@
-**Jeremiah 49:28** 
+**Jeremiah 49:28**<big><big>[[Jer.49.28 Judgment on Kedar and Hazor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning Kedar, and concerning the kingdoms of Hazor, which Nebuchadrezzar king of Babylon shall smite, thus saith the LORD; Arise ye, go up to Kedar, and spoil the men of the east.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.27|<< Jeremiah 49:27]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.29|Jeremiah 49:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of Kedar  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6938\|קֵדָ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ke.Dar<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and of [the] kingdoms of  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4467\|מַמְלְכ֣וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> mam.le.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 6:2** 
 <small><sub>**LXX:**</sub></small>
 For a man's own lips \[are\] a strong snare, and he is captured \[by the\] words of his own mouth. 
-<small><sub>**KJV:**</sub></small>
-Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.
-<small><sub>**BSB:**</sub></small>
-if you have been trapped by the words of your lips, ensnared by the words of your mouth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.1|<< Proverbs 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.3|Proverbs 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

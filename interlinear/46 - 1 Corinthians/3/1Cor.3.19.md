@@ -1,5 +1,5 @@
-**1 Corinthians 3:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:19**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness.
 <small><sub>**BSB:**</sub></small>
 For the wisdom of this world is foolishness in God’s sight. As it is written: “He catches the wise in their craftiness.”
@@ -10,7 +10,7 @@ The for wisdom of the world this foolishness with <the> God is. It has been writ
 > $\quad$ referencing: [[LXX.Job.5.12|Job 5:12-13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

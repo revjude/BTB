@@ -1,4 +1,4 @@
-**Judges 20:12** 
+**Judges 20:12**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the tribes of Israel sent men through all the tribe of Benjamin, saying, What wickedness [is] this that is done among you?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the tribes of Israel sent men throughout the tribe of Benjamin, saying, “W
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.11|<< Judges 20:11]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.13|Judges 20:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sent  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7971G\|יִּשְׁלְח֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.le.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tribes of  |**<big>&#8207;[[H7626H\|שִׁבְטֵ֤י]]&#8207; </big>**| shiv.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

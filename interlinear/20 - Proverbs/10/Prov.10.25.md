@@ -1,4 +1,4 @@
-**Proverbs 10:25** 
+**Proverbs 10:25**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the whirlwind passeth, so [is] the wicked no [more]: but the righteous [is] an everlasting foundation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the whirlwind passes, the wicked are no more, but the righteous are secure 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.24|<< Proverbs 10:24]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.26|Proverbs 10:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when passes by  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H5674A\|עֲב֣וֹר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Vor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a storm-wind  |**<big>&#8207;[[H5492A\|ס֭וּפָה]]&#8207; </big>**| Su.fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

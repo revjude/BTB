@@ -1,10 +1,7 @@
 **LXX Micah 1:7** 
 <small><sub>**LXX:**</sub></small>
 And all  her carved \[images\] I will cut in pieces, and all  her hires shall burn in fire, and all  her idols I shall establish for extinction, because she gathered together of \[the\] hires of harlotry, and of \[the\] hires of harlotry he eradicated. 
-<small><sub>**KJV:**</sub></small>
-And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered [it] of the hire of an harlot, and they shall return to the hire of an harlot.
-<small><sub>**BSB:**</sub></small>
-All her carved images will be smashed to pieces; all her wages will be burned in the fire, and I will destroy all her idols. Since she collected the wages of a prostitute, they will be used again on a prostitute.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.6|<< Micah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.8|Micah 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 2:7** 
 <small><sub>**LXX:**</sub></small>
 declaring the order of \[the\] <span class="smallcaps">lord</span>. \[The\] <span class="smallcaps">lord</span> said to me, you are my son, I today engendered you. 
-<small><sub>**KJV:**</sub></small>
-I will declare the decree: the LORD hath said unto me, Thou [art] my Son; this day have I begotten thee.
-<small><sub>**BSB:**</sub></small>
-I will proclaim the decree spoken to Me by the LORD: “You are My Son; today I have become Your Father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.2.6|<< Psalm 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.2.8|Psalm 2:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 2:7** is...

@@ -1,10 +1,7 @@
 **LXX Job 30:22** 
 <small><sub>**LXX:**</sub></small>
 And you arranged against me with griefs; and you threw me away from deliverance. 
-<small><sub>**KJV:**</sub></small>
-Thou liftest me up to the wind; thou causest me to ride [upon it], and dissolvest my substance.
-<small><sub>**BSB:**</sub></small>
-You snatch me up into the wind and drive me before it; You toss me about in the storm.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.21|<< Job 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.23|Job 30:23 >>]]</td></tr></table>
 
 | Translation | Greek |

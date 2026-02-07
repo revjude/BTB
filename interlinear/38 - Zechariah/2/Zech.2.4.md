@@ -1,4 +1,4 @@
-**Zechariah 2:4** (2:8)
+**Zechariah 2:4**<big><big>[[Zech.2.1 The Vision of the Measuring Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto him, Run, speak to this young man, saying, Jerusalem shall be inhabited [as] towns without walls for the multitude of men and cattle therein:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and said to him, “Run and tell that young man: ‘Jerusalem will be a city wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.3|<< Zechariah 2:3]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.5|Zechariah 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**[^1] [^2] | 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

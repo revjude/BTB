@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:18** 
 <small><sub>**LXX:**</sub></small>
 And you have reported today what good \[things\] you did to me, as how \[the\] <span class="smallcaps">lord</span> locked me into  your hands today, and you did not kill me. 
-<small><sub>**KJV:**</sub></small>
-And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the LORD had delivered me into thine hand, thou killedst me not.
-<small><sub>**BSB:**</sub></small>
-And you have declared this day how you have treated me well, for when the LORD delivered me into your hand, you did not kill me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.17|<< 1 Samuel 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.19|1 Samuel 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

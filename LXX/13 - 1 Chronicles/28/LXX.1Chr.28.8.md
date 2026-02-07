@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now according to \[the\] eyes of all Israel of every assembly of \[the\] <span class="smallcaps">lord</span>, and in \[the\] ears of our God, guard and seek all the commandments of \[the\] <span class="smallcaps">lord</span>  our God! that you should inherit the good land, and should inherit it \[to\] your sons after you unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-Now therefore in the sight of all Israel the congregation of the LORD, and in the audience of our God, keep and seek for all the commandments of the LORD your God: that ye may possess this good land, and leave [it] for an inheritance for your children after you for ever.
-<small><sub>**BSB:**</sub></small>
-So now in the sight of all Israel, the assembly of the LORD, and in the hearing of our God, keep and seek out all the commandments of the LORD your God, so that you may possess this good land and leave it as an inheritance to your descendants forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.7|<< 1 Chronicles 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.9|1 Chronicles 28:9 >>]]</td></tr></table>
 
 | Translation | Greek |

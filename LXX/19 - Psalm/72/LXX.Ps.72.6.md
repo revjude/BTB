@@ -1,10 +1,7 @@
 **LXX Psalm 72:6** 
 <small><sub>**LXX:**</sub></small>
 He shall come down as rain upon fleece, and as drops dripping upon the earth. 
-<small><sub>**KJV:**</sub></small>
-He shall come down like rain upon the mown grass: as showers [that] water the earth.
-<small><sub>**BSB:**</sub></small>
-May he be like rain that falls on freshly cut grass, like spring showers that water the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.5|<< Psalm 72:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.7|Psalm 72:7 >>]]</td></tr></table>
 
 | Translation | Greek |

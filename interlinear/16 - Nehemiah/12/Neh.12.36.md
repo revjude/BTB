@@ -1,4 +1,4 @@
-**Nehemiah 12:36** 
+**Nehemiah 12:36**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and his associates—Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.35|<< Nehemiah 12:35]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.37|Nehemiah 12:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and brothers his  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0251H\|אֶחָ֡י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shemaiah  |**<big>&#8207;[[H8098V\|שְֽׁמַעְיָ֡ה]]&#8207; </big>**| she.ma'.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

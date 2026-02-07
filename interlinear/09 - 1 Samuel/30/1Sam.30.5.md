@@ -1,4 +1,4 @@
-**1 Samuel 30:5** 
+**1 Samuel 30:5**<big><big>[[1Sam.30.1 The Amalekites Raid Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David’s two wives were taken captives, Ahinoam the Jezreelitess, and Abigail the wife of Nabal the Carmelite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David’s two wives, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.4|<< 1 Samuel 30:4]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.6|1 Samuel 30:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁתֵּ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wives of  |**<big>&#8207;[[H0802H\|נְשֵֽׁי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.shei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

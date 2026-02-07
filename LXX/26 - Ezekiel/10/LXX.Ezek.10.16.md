@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:16** 
 <small><sub>**LXX:**</sub></small>
 And in the cherubim going, the wheels went, and these were next to them. And in the lifting away of the cherubim,  of their wings  to raise up on high from the earth, their wheels did not turn; and indeed they \[were\] by the ones next to them. 
-<small><sub>**KJV:**</sub></small>
-And when the cherubims went, the wheels went by them: and when the cherubims lifted up their wings to mount up from the earth, the same wheels also turned not from beside them.
-<small><sub>**BSB:**</sub></small>
-When the cherubim moved, the wheels moved beside them, and even when they spread their wings to rise from the ground, the wheels did not veer away from their side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.15|<< Ezekiel 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.17|Ezekiel 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

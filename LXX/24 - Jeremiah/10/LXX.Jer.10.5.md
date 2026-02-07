@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:5** 
 <small><sub>**LXX:**</sub></small>
 and they do not move. It is a silver turned piece -- they do not speak. Being lifted they shall be lifted, for they shall not mount \[themselves\]. You should not fear them, for in no way should they do evil, and there is no good in them. 
-<small><sub>**KJV:**</sub></small>
-They [are] upright as the palm tree, but speak not: they must needs be borne, because they cannot go. Be not afraid of them; for they cannot do evil, neither also [is it] in them to do good.
-<small><sub>**BSB:**</sub></small>
-Like scarecrows in a cucumber patch, their idols cannot speak. They must be carried because they cannot walk. Do not fear them, for they can do no harm, and neither can they do any good.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.4|<< Jeremiah 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.6|Jeremiah 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

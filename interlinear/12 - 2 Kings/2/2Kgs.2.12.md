@@ -1,4 +1,4 @@
-**2 Kings 2:12** 
+**2 Kings 2:12**<big><big>[[2Kgs.2.1 Elijah Taken Up to Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha saw [it], and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As Elisha watched, he cried out, “My father, my father, the chariots and horse
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.11|<< 2 Kings 2:11]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.13|2 Kings 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Elisha  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0477\|אֱלִישָׁ֣ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] seeing  |**<big>&#8207;[[H7200G\|רֹאֶ֗ה]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

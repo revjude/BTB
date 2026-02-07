@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:29** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] sound of a horseman, and tightly stretched bow, every place withdrew; they have entered into the caves, and they were hid in the sacred groves; and they ascended upon the rocks. Every city they abandoned; man does not dwell in them. 
-<small><sub>**KJV:**</sub></small>
-The whole city shall flee for the noise of the horsemen and bowmen; they shall go into thickets, and climb up upon the rocks: every city [shall be] forsaken, and not a man dwell therein.
-<small><sub>**BSB:**</sub></small>
-Every city flees at the sound of the horseman and archer. They enter the thickets and climb among the rocks. Every city is abandoned; no inhabitant is left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.28|<< Jeremiah 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.30|Jeremiah 4:30 >>]]</td></tr></table>
 
 | Translation | Greek |

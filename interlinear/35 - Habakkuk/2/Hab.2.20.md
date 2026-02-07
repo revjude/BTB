@@ -1,4 +1,4 @@
-**Habakkuk 2:20** 
+**Habakkuk 2:20**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD [is] in his holy temple: let all the earth keep silence before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD is in His holy temple; let all the earth be silent before Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.19|<< Habakkuk 2:19]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.1|Habakkuk 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] in [the] temple of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1964G\|הֵיכַ֣ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> hei.Khal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

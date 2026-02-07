@@ -1,5 +1,5 @@
-**Acts 3:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:23**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] every soul, which will not hear that prophet, shall be destroyed from among the people.
 <small><sub>**BSB:**</sub></small>
 Everyone who does not listen to Him will be completely cut off from among his people.’
@@ -10,7 +10,7 @@ It will be [that] now every soul who only unless shall heed the prophet that wil
 > $\quad$ referencing: [[LXX.Deut.18.18|Deut 18:18-19]] ☩ [[LXX.Lev.23.29|Lev 23:29]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It will be [that] |**<big>[[G1510\|ἔσται]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

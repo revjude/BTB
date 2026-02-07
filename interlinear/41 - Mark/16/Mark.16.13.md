@@ -1,12 +1,12 @@
-**Mark 16:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:13**<big><big>[[Mark.16.12 Jesus Appears to Two Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they went and told [it] unto the residue: neither believed they them.
 <small><sub>**BSB:**</sub></small>
 And they went back and reported it to the rest, but they did not believe them either.
 <small><sub>**Literal:**</sub></small>
 And they having gone told [it] to the rest; neither them did they believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.12|<< Mark 16:12]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.14|Mark 16:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And they |**<big>[[G2532\|κἀκεῖνοι]]</big>**  |kakeinoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 | having gone |**<big>[[G0565\|ἀπελθόντες]]</big>**  |apelthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |

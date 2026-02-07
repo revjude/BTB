@@ -1,4 +1,4 @@
-**Psalms 83:12** (83:13)
+**Psalms 83:12**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who said, Let us take to ourselves the houses of God in possession.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who said, “Let us possess for ourselves the pastures of God.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.11|<< Psalms 83:11]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.13|Psalms 83:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they said  |**<big>&#8207;[[H0559\|אָ֭מְרוּ]]&#8207; </big>**| 'A.me.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

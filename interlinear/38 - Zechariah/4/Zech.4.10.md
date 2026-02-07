@@ -1,4 +1,4 @@
-**Zechariah 4:10** 
+**Zechariah 4:10**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel [with] those seven; they [are] the eyes of the LORD, which run to and fro through the whole earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For who has despised the day of small things? But these seven eyes of the LORD, 
 > $\quad$ referenced by: [[Rev.5.6|Rev 5:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

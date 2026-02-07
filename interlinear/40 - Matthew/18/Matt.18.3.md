@@ -1,12 +1,12 @@
-**Matthew 18:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:3**<big><big>[[Matt.18.1 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you,” He said, “unless you change and become like little children, you will never enter the kingdom of heaven.
 <small><sub>**Literal:**</sub></small>
 and said; Amen I say to you; only unless you may turn and may become as the little children, certainly not shall you enter into the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.2|<< Matthew 18:2]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.4|Matthew 18:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said; |**<big>[[G2036\|εἶπεν·]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

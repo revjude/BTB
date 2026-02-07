@@ -1,4 +1,4 @@
-**Genesis 38:27** 
+**Genesis 38:27**<big><big>[[Gen.38.27 The Birth of Perez and Zerah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the time of her travail, that, behold, twins [were] in her womb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the time came for Tamar to give birth, there were twins in her womb.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.26|<< Genesis 38:26]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.28|Genesis 38:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֖י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at [the] time  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6256\|עֵ֣ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

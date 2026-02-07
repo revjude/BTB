@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:5** 
 <small><sub>**LXX:**</sub></small>
 And David rose up in private, and went into the place where Saul was sleeping there. And David saw the place where Saul went to bed there. And Abner son of Ner his commander-in-chief \[was\] there. And Saul was sleeping in \[the\] royal chariot, and the people were camping round about him. 
-<small><sub>**KJV:**</sub></small>
-And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him.
-<small><sub>**BSB:**</sub></small>
-Then David set out and went to the place where Saul had camped. He saw the place where Saul and Abner son of Ner, the general of his army, had lain down. Saul was lying inside the inner circle of the camp, with the troops camped around him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.4|<< 1 Samuel 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.6|1 Samuel 26:6 >>]]</td></tr></table>
 
 | Translation | Greek |

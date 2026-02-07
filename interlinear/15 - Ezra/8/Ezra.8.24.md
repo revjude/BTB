@@ -1,4 +1,4 @@
-**Ezra 8:24** 
+**Ezra 8:24**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I set apart twelve of the leading priests, together with Sherebiah, Hashabi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.23|<< Ezra 8:23]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.25|Ezra 8:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I set apart !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0914\|אַבְדִּ֛ילָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'av.Di.la<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] leaders of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8269\|שָּׂרֵ֥י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

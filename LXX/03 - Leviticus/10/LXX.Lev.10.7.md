@@ -1,10 +1,7 @@
 **LXX Leviticus 10:7** 
 <small><sub>**LXX:**</sub></small>
 And from the door of the tent of the testimony you shall not go forth, that you should not die. For the oil of the anointing  of \[the\] <span class="smallcaps">lord</span> is upon you. And they did according to the saying of Moses. 
-<small><sub>**KJV:**</sub></small>
-And ye shall not go out from the door of the tabernacle of the congregation, lest ye die: for the anointing oil of the LORD [is] upon you. And they did according to the word of Moses.
-<small><sub>**BSB:**</sub></small>
-You shall not go outside the entrance to the Tent of Meeting, or you will die, for the LORD’s anointing oil is on you.” So they did as Moses instructed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.6|<< Leviticus 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.8|Leviticus 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

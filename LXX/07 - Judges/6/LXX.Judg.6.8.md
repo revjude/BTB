@@ -1,10 +1,7 @@
 **LXX Judges 6:8** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span> sent a man, a prophet, to the sons of Israel. And he said to them, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, I am the one bringing you up from Egypt, and I led you from \[the\] house of slavery; 
-<small><sub>**KJV:**</sub></small>
-That the LORD sent a prophet unto the children of Israel, which said unto them, Thus saith the LORD God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage;
-<small><sub>**BSB:**</sub></small>
-He sent them a prophet, who told them, “This is what the LORD, the God of Israel, says: I brought you up out of Egypt, out of the house of slavery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.7|<< Judges 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.9|Judges 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

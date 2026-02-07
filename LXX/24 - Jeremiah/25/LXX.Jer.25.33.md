@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:33** 
 <small><sub>**LXX:**</sub></small>
 And there will be slain by \[the\] <span class="smallcaps">lord</span> in that day from a part of the earth, even unto into a part of the earth; in no way shall they be lamented, and in no way shall they be gathered, and in no way shall they be buried, for they will be dung upon \[the\] face of the earth. 
-<small><sub>**KJV:**</sub></small>
-And the slain of the LORD shall be at that day from [one] end of the earth even unto the [other] end of the earth: they shall not be lamented, neither gathered, nor buried; they shall be dung upon the ground.
-<small><sub>**BSB:**</sub></small>
-Those slain by the LORD on that day will be spread from one end of the earth to the other. They will not be mourned, gathered, or buried. They will be like dung lying on the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.32|<< Jeremiah 25:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.34|Jeremiah 25:34 >>]]</td></tr></table>
 
 | Translation | Greek |

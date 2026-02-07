@@ -1,12 +1,12 @@
-**Luke 9:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:10**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida.
 <small><sub>**BSB:**</sub></small>
 Then the apostles returned and reported to Jesus all that they had done. Taking them away privately, He withdrew to a town called Bethsaida.
 <small><sub>**Literal:**</sub></small>
 And having returned the apostles related to Him as much as they had done. And having taken them He withdrew by in private into place solitary a town being called Bethsaida.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.9|<< Luke 9:9]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.11|Luke 9:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having returned |**<big>[[G5290\|ὑποστρέψαντες]]</big>**  |hupostrepsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

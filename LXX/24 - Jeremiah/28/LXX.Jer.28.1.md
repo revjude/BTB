@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the fourth year of \[the\] reigning of Zedekiah king of Judah, in the fifth month, Hananiah said to me (son of Azur the false prophet, the one from Gibeon) in \[the\] house of \[the\] <span class="smallcaps">lord</span> in front of \[the\] eyes of the priests and all the people, saying, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass the same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, [and] in the fifth month, [that] Hananiah the son of Azur the prophet, which [was] of Gibeon, spake unto me in the house of the LORD, in the presence of the priests and of all the people, saying,
-<small><sub>**BSB:**</sub></small>
-In the fifth month of that same year, the fourth year, near the beginning of the reign of King Zedekiah of Judah, the prophet Hananiah son of Azzur, who was from Gibeon, said to me in the house of the LORD in the presence of the priests and all the people:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.22|<< Jeremiah 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.2|Jeremiah 28:2 >>]]</td></tr></table>
 
 | Translation | Greek |

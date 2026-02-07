@@ -1,12 +1,12 @@
-**John 12:2
-**<small><sub>**KJV:**</sub></small>
+**John 12:2**<big><big>[[John.12.1 Mary Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There they made him a supper; and Martha served: but Lazarus was one of them that sat at the table with him.
 <small><sub>**BSB:**</sub></small>
 So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him.
 <small><sub>**Literal:**</sub></small>
 They made therefore for Him a supper there, and <the> Martha was serving; <the> and Lazarus one was of those reclining with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.1|<< John 12:1]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.3|John 12:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They made |**<big>[[G4160G\|ἐποίησαν]]</big>**  |epoiēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

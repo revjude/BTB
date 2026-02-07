@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:27** 
 <small><sub>**LXX:**</sub></small>
 And say, Thus says the king, Put him in prison, and let him eat bread of affliction and water of affliction until  my return in peace! 
-<small><sub>**KJV:**</sub></small>
-And say, Thus saith the king, Put this [fellow] in the prison, and feed him with bread of affliction and with water of affliction, until I come in peace.
-<small><sub>**BSB:**</sub></small>
-and tell them that this is what the king says: ‘Put this man in prison and feed him only bread and water until I return safely.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.26|<< 1 Kings 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.28|1 Kings 22:28 >>]]</td></tr></table>
 
 | Translation | Greek |

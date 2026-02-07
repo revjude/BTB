@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> gave  Israel favor \[from the\] sins of Jeroboam, who sinned and who led Israel into sin. 
-<small><sub>**KJV:**</sub></small>
-And he shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin.
-<small><sub>**BSB:**</sub></small>
-So He will give Israel over on account of the sins Jeroboam has committed and has caused Israel to commit.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.15|<< 1 Kings 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.17|1 Kings 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

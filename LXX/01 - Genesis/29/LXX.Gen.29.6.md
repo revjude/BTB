@@ -1,10 +1,7 @@
 **LXX Genesis 29:6** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Is he in health? And they said, He is in health, and behold, Rachel  his daughter comes with the sheep. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, [Is] he well? And they said, [He is] well: and, behold, Rachel his daughter cometh with the sheep.
-<small><sub>**BSB:**</sub></small>
-“Is he well?” Jacob inquired. “Yes,” they answered, “and here comes his daughter Rachel with his sheep.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.5|<< Genesis 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.7|Genesis 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

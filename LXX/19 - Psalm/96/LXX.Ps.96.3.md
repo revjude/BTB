@@ -1,10 +1,7 @@
 **LXX Psalm 96:3** 
 <small><sub>**LXX:**</sub></small>
 Announce among the nations  of his glory, \[and\] among all the peoples  of his wonders! 
-<small><sub>**KJV:**</sub></small>
-Declare his glory among the heathen, his wonders among all people.
-<small><sub>**BSB:**</sub></small>
-Declare His glory among the nations, His wonders among all peoples.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.96.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.2|<< Psalm 96:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.4|Psalm 96:4 >>]]</td></tr></table>
 
 | Translation | Greek |

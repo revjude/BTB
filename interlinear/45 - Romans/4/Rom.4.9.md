@@ -1,5 +1,5 @@
-**Romans 4:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:9**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Cometh] this blessedness then upon the circumcision [only], or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.
 <small><sub>**BSB:**</sub></small>
 Is this blessing only on the circumcised, or also on the uncircumcised? We have been saying that Abraham’s faith was credited to him as righteousness.
@@ -10,7 +10,7 @@ Is this blessing only on the circumcised, or also on the uncircumcised? We have 
 > $\quad$ referencing: [[LXX.Gen.15.6|Gen 15:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [Is] the |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | blessing |**<big>[[G3108\|μακαρισμὸς]]</big>**  |makarismos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

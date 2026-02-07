@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:7** 
 <small><sub>**LXX:**</sub></small>
 and in no way bread be broken in their mourning for consolation over one having died; they shall not give a drink for them of a cup for consolation over his father or his mother. 
-<small><sub>**KJV:**</sub></small>
-Neither shall [men] tear [themselves] for them in mourning, to comfort them for the dead; neither shall [men] give them the cup of consolation to drink for their father or for their mother.
-<small><sub>**BSB:**</sub></small>
-No food will be offered to comfort those who mourn the dead; not even a cup of consolation will be given for the loss of a father or mother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.6|<< Jeremiah 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.8|Jeremiah 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

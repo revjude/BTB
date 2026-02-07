@@ -1,4 +1,4 @@
-**2 Chronicles 6:6** 
+**2 Chronicles 6:6**<big><big>[[2Chr.6.1 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I have chosen Jerusalem, that my name might be there; and have chosen David to be over my people Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now I have chosen Jerusalem for My Name to be there, and I have chosen David
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.5|<< 2 Chronicles 6:5]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.7|2 Chronicles 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have chosen  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0977\|אֶבְחַר֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ev.Char<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|יר֣וּשָׁלִַ֔ם]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

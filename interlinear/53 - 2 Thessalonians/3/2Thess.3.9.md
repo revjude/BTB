@@ -1,12 +1,12 @@
-**2 Thessalonians 3:9
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:9**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not because we have not power, but to make ourselves an ensample unto you to follow us.
 <small><sub>**BSB:**</sub></small>
 Not that we lack this right, but we wanted to offer ourselves as an example for you to imitate.
 <small><sub>**Literal:**</sub></small>
 not that  not we have [the] right, but that ourselves [as] an example we may offer to you for <the> you to imitate us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.8|<< 2 Thessalonians 3:8]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.10|2 Thessalonians 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that  |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

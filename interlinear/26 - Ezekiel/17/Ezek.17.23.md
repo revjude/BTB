@@ -1,4 +1,4 @@
-**Ezekiel 17:23** 
+**Ezekiel 17:23**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will plant it on the mountain heights of Israel so that it will bear branches;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.22|<< Ezekiel 17:22]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.24|Ezekiel 17:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] mountain of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022G\|הַ֨ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] height of  |**<big>&#8207;[[H4791\|מְר֤וֹם]]&#8207; </big>**| me.Rom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

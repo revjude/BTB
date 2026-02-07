@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:21** 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam entered into Jerusalem, and he held an assembly of all the congregation of Judah, and \[the\] chiefdom of Benjamin -- a hundred and twenty thousand young men for making war,  to wage war against \[the\] house of Israel, to return the kingdom of Rehoboam son of Solomon. 
-<small><sub>**KJV:**</sub></small>
-And when Rehoboam was come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, an hundred and fourscore thousand chosen men, which were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon.
-<small><sub>**BSB:**</sub></small>
-And when Rehoboam arrived in Jerusalem, he mobilized the whole house of Judah and the tribe of Benjamin—180,000 chosen warriors—to fight against the house of Israel and restore the kingdom to Rehoboam son of Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.20|<< 1 Kings 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.22|1 Kings 12:22 >>]]</td></tr></table>
 
 | Translation | Greek |

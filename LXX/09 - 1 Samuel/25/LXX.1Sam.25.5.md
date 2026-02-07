@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:5** 
 <small><sub>**LXX:**</sub></small>
 And David sent ten servants. And he said to the servants, Ascend to  Carmel, and come to Nabal, and ask him in  my name the \[things\] for peace! 
-<small><sub>**KJV:**</sub></small>
-And David sent out ten young men, and David said unto the young men, Get you up to Carmel, and go to Nabal, and greet him in my name:
-<small><sub>**BSB:**</sub></small>
-So David sent ten young men and instructed them, “Go up to Nabal at Carmel. Greet him in my name<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.4|<< 1 Samuel 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.6|1 Samuel 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 46:5** 
 <small><sub>**LXX:**</sub></small>
 And Jacob rose up from the Well of the Oath. And the sons of Israel took up Jacob  their father, and the belongings, and  their wives upon the wagons which Joseph sent to carry him. 
-<small><sub>**KJV:**</sub></small>
-And Jacob rose up from Beersheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
-<small><sub>**BSB:**</sub></small>
-Then Jacob departed from Beersheba, and the sons of Israel took their father Jacob in the wagons Pharaoh had sent to carry him, along with their children and wives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.4|<< Genesis 46:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.6|Genesis 46:6 >>]]</td></tr></table>
 
 | Translation | Greek |

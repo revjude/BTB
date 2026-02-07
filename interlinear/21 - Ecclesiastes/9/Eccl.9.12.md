@@ -1,4 +1,4 @@
-**Ecclesiastes 9:12** 
+**Ecclesiastes 9:12**<big><big>[[Eccl.9.7 Enjoy Your Portion in This Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so [are] the sons of men snared in an evil time, when it falleth suddenly upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For surely no man knows his time: Like fish caught in a cruel net or birds trapp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.11|<< Ecclesiastes 9:11]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.13|Ecclesiastes 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֡י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַּם֩]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

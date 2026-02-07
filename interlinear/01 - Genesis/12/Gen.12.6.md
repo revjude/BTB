@@ -1,4 +1,4 @@
-**Genesis 12:6** 
+**Genesis 12:6**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite [was] then in the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abram traveled through the land as far as the site of the Oak of Moreh at Sheche
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.5|<< Genesis 12:5]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.7|Genesis 12:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he passed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבֹ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abram  |**<big>&#8207;[[H0087\|אַבְרָם֙]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

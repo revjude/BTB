@@ -1,12 +1,12 @@
-**2 Thessalonians 1:1
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 1:1**<big><big>[[2Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 <small><sub>**Literal:**</sub></small>
 Paul and Silvanus and Timothy To the church of [the] Thessalonians in God [the] Father of us and in the Lord Jesus Christ:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.28|<< 1 Thessalonians 5:28]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.2|2 Thessalonians 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

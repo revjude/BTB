@@ -1,12 +1,12 @@
-**1 Corinthians 13:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 13:3**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And though I bestow all my goods to feed [the poor], and though I give my body to be burned, and have not charity, it profiteth me nothing.
 <small><sub>**BSB:**</sub></small>
 If I give all I possess to the poor and exult in the surrender of my body, but have not love, I gain nothing.
 <small><sub>**Literal:**</sub></small>
 Even if I shall give away all the possessions of mine, And if I shall deliver up the body of mine that I may boast, love however not may have, no [thing] I am profited.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.2|<< 1 Corinthians 13:2]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.4|1 Corinthians 13:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even if |**<big>[[G2532\|κἂν]]</big>**  [^1] |kan <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I shall give away |**<big>[[G5595\|ψωμίσω]]</big>**  |psōmisō <small><sup>[[V-AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

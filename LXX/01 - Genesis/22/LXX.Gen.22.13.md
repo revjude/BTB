@@ -1,10 +1,7 @@
 **LXX Genesis 22:13** 
 <small><sub>**LXX:**</sub></small>
 And Abraham looking up \[with\] his eyes, saw. And behold, one ram being held in a plant of a thicket by the horns. And Abraham went and took the ram, and he offered it for a whole offering instead of Isaac  his son. 
-<small><sub>**KJV:**</sub></small>
-And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
-<small><sub>**BSB:**</sub></small>
-Then Abraham looked up and saw behind him a ram in a thicket, caught by its horns. So he went and took the ram and offered it as a burnt offering in place of his son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.12|<< Genesis 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.14|Genesis 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

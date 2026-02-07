@@ -1,12 +1,12 @@
-**Luke 21:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:3**<big><big>[[Luke.21.1 The Poor Widow’s Offering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you,” He said, “this poor widow has put in more than all the others.
 <small><sub>**Literal:**</sub></small>
 And He said; Truly I say to you that <the> widow this <the> poor more than all has cast in;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.2|<< Luke 21:2]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.4|Luke 21:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said; |**<big>[[G2036\|εἶπεν·]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

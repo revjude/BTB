@@ -1,12 +1,12 @@
-**John 1:39
-**<small><sub>**KJV:**</sub></small>
+**John 1:39**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.
 <small><sub>**BSB:**</sub></small>
 “Come and see,” He replied. So they went and saw where He was staying, and spent that day with Him. It was about the tenth hour.
 <small><sub>**Literal:**</sub></small>
 He says to them; do come and you will behold. They went therefore and saw where He abides, and with Him they stayed the day that; [The] hour now was about [the] tenth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.38|<< John 1:38]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.40|John 1:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them; |**<big>[[G0846\|αὐτοῖς·]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

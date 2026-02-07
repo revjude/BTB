@@ -6,10 +6,7 @@ An ode of the steps.
 
 <small><sub>**LXX:**</sub></small>
 I cried out to \[the\] <span class="smallcaps">lord</span> in my being afflicted, and he listened to me. 
-<small><sub>**KJV:**</sub></small>
-A Song of degrees. In my distress I cried unto the LORD, and he heard me.
-<small><sub>**BSB:**</sub></small>
-A song of ascents. In my distress I cried to the LORD, and He answered me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.120.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.176|<< Psalm 119:176]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.2|Psalm 120:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 19:16** 
 <small><sub>**LXX:**</sub></small>
 \[The\] one who keeps \[the\] commandment gives heed to  his own soul; but the one disdaining  his own ways shall perish. 
-<small><sub>**KJV:**</sub></small>
-He that keepeth the commandment keepeth his own soul; [but] he that despiseth his ways shall die.
-<small><sub>**BSB:**</sub></small>
-He who keeps a commandment preserves his soul, but he who is careless in his ways will die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.15|<< Proverbs 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.17|Proverbs 19:17 >>]]</td></tr></table>
 
 | Translation | Greek |

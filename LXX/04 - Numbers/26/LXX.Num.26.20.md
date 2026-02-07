@@ -1,10 +1,7 @@
 **LXX Numbers 26:20** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Judah were according to their peoples -- \[to\] Shelah, \[the\] people the Shelanites; \[to\] Pharez, \[the\] people the Pharzites; \[to\] Zerah, \[the\] people the Zerhites. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Judah after their families were; of Shelah, the family of the Shelanites: of Pharez, the family of the Pharzites: of Zerah, the family of the Zarhites.
-<small><sub>**BSB:**</sub></small>
-These were the descendants of Judah by their clans: The Shelanite clan from Shelah, the Perezite clan from Perez, and the Zerahite clan from Zerah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.19|<< Numbers 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.21|Numbers 26:21 >>]]</td></tr></table>
 
 | Translation | Greek |

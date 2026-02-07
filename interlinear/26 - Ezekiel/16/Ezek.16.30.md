@@ -1,4 +1,4 @@
-**Ezekiel 16:30** 
+**Ezekiel 16:30**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How weak is thine heart, saith the Lord GOD, seeing thou doest all these [things], the work of an imperious whorish woman;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How weak-willed is your heart, declares the Lord GOD, while you do all these thi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.29|<< Ezekiel 16:29]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.31|Ezekiel 16:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מָ֤ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hot  |**<big>&#8207;[[H0535\|אֲמֻלָה֙]]&#8207; </big>**| 'a.mu.Lah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

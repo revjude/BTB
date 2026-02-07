@@ -1,4 +1,4 @@
-**Genesis 5:7** 
+**Genesis 5:7**<big><big>[[Gen.5.1 The Descendants of Adam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And after he had become the father of Enosh, Seth lived 807 years and had other 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.6|<< Genesis 5:6]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.8|Genesis 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2421\|יְחִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.chi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Seth  |**<big>&#8207;[[H8352\|שֵׁ֗ת]]&#8207; </big>**| Shet<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

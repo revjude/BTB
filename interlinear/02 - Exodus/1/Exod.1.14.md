@@ -1,4 +1,4 @@
-**Exodus 1:14** 
+**Exodus 1:14**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, [was] with rigour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and made their lives bitter with hard labor in brick and mortar, and with all ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.13|<< Exodus 1:13]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.15|Exodus 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made bitter  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4843\|יְמָרְר֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.re.Ru<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

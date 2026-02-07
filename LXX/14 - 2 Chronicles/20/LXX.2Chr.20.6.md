@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:6** 
 <small><sub>**LXX:**</sub></small>
 and he said, O <span class="smallcaps">lord</span>  God  of our fathers, are you not God in heaven? And \[do\] you \[not\] dominate all the kingdoms of the nations? And \[is not\] in  your hand strength and dominion, and there is no one to oppose against you? 
-<small><sub>**KJV:**</sub></small>
-And said, O LORD God of our fathers, [art] not thou God in heaven? and rulest [not] thou over all the kingdoms of the heathen? and in thine hand [is there not] power and might, so that none is able to withstand thee?
-<small><sub>**BSB:**</sub></small>
-and said, “O LORD, God of our fathers, are You not the God who is in heaven, and do You not rule over all the kingdoms of the nations? Power and might are in Your hand, and no one can stand against You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.5|<< 2 Chronicles 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.7|2 Chronicles 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

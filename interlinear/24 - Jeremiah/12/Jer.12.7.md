@@ -1,4 +1,4 @@
-**Jeremiah 12:7** 
+**Jeremiah 12:7**<big><big>[[Jer.12.5 God’s Answer to Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have forsaken mine house, I have left mine heritage; I have given the dearly beloved of my soul into the hand of her enemies.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I have forsaken My house; I have abandoned My inheritance. I have given the belo
 > $\quad$ referenced by: [[Matt.23.38|Matt 23:38]] ☩ [[Luke.13.35|Luke 13:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have forsaken  |**<big>&#8207;[[H5800A\|עָזַ֙בְתִּי֙]]&#8207; </big>**| 'a.Zav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

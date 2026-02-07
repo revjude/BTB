@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:72** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the people gave two ten thousands drachmas of gold, and two thousand silver minas, and sixty-seven garments for the priests. 
-<small><sub>**KJV:**</sub></small>
-And [that] which the rest of the people gave [was] twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests’ garments.
-<small><sub>**BSB:**</sub></small>
-The rest of the people gave a total of 20,000 darics of gold, 2,000 minas of silver, and 67 priestly garments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.72|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.71|<< Nehemiah 7:71]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.73|Nehemiah 7:73 >>]]</td></tr></table>
 
 | Translation | Greek |

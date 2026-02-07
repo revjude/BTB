@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:25** 
 <small><sub>**LXX:**</sub></small>
 And there was an adversary \[to\] Israel all the days of Solomon. This is the evil which Hadad did, and oppressed against Israel, and he reigned in \[the\] land of Edom. 
-<small><sub>**KJV:**</sub></small>
-And he was an adversary to Israel all the days of Solomon, beside the mischief that Hadad [did]: and he abhorred Israel, and reigned over Syria.
-<small><sub>**BSB:**</sub></small>
-Rezon was Israel’s enemy throughout the days of Solomon, adding to the trouble caused by Hadad. So Rezon ruled over Aram with hostility toward Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.24|<< 1 Kings 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.26|1 Kings 11:26 >>]]</td></tr></table>
 
 | Translation | Greek |

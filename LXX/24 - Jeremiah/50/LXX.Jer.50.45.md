@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:45** 
 <small><sub>**LXX:**</sub></small>
 On account of this, hear the plan of \[the\] <span class="smallcaps">lord</span>! which he has planned against Babylon; and his devices which he devised against the ones dwelling \[the\] land of the Chaldeans. Surely the little lambs of their sheep will be utterly destroyed. Surely \[the\] pasture shall be removed from them. 
-<small><sub>**KJV:**</sub></small>
-Therefore hear ye the counsel of the LORD, that he hath taken against Babylon; and his purposes, that he hath purposed against the land of the Chaldeans: Surely the least of the flock shall draw them out: surely he shall make [their] habitation desolate with them.
-<small><sub>**BSB:**</sub></small>
-Therefore hear the plans that the LORD has drawn up against Babylon and the strategies He has devised against the land of the Chaldeans: Surely the little ones of the flock will be dragged away; certainly their pasture will be made desolate because of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.44|<< Jeremiah 50:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.46|Jeremiah 50:46 >>]]</td></tr></table>
 
 | Translation | Greek |

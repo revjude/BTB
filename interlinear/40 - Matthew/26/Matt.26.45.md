@@ -1,12 +1,12 @@
-**Matthew 26:45
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:45**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then cometh he to his disciples, and saith unto them, Sleep on now, and take [your] rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.
 <small><sub>**BSB:**</sub></small>
 Then He returned to the disciples and said, “Are you still sleeping and resting? Look, the hour is near, and the Son of Man is betrayed into the hands of sinners.
 <small><sub>**Literal:**</sub></small>
 Then He comes to the disciples of him and says to them; Sleep <the> later on and take your rest; Behold has drawn near the hour, and the Son <the> of Man is betrayed into [the] hands of sinners.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.44|<< Matthew 26:44]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.46|Matthew 26:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He comes |**<big>[[G2064\|ἔρχεται]]</big>**  |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

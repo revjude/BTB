@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David said, Is there anyone still left from the house of Saul, that I should perform with him an \[act of\] mercy because of Jonathan? 
-<small><sub>**KJV:**</sub></small>
-And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?
-<small><sub>**BSB:**</sub></small>
-Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.18|<< 2 Samuel 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.2|2 Samuel 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

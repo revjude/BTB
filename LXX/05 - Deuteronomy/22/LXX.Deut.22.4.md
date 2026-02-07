@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:4** 
 <small><sub>**LXX:**</sub></small>
 You shall not see the donkey  of your brother, or  his calf fallen in the way, and not overlook them; by raising you shall raise \[them\] up for him. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift [them] up again.
-<small><sub>**BSB:**</sub></small>
-If you see your brother’s donkey or ox fallen on the road, you must not ignore it; you must help him lift it up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.3|<< Deuteronomy 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.5|Deuteronomy 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

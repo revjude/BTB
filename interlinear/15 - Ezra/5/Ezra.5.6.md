@@ -1,4 +1,4 @@
-**Ezra 5:6** 
+**Ezra 5:6**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The copy of the letter that Tatnai, governor on this side the river, and Shetharboznai, and his companions the Apharsachites, which [were] on this side the river, sent unto Darius the king:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the text of the letter that Tattenai the governor of the region west of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.5|<< Ezra 5:5]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.7|Ezra 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> copy of  |**<big>&#8207;[[H6573\|פַּרְשֶׁ֣גֶן]]&#8207; </big>**| par.She.gen<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | letter the  |**<big>&#8207;[[H0104\|אִ֠גַּרְתָּ]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| 'I.gar.ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

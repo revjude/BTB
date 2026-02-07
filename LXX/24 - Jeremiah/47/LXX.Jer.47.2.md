@@ -1,10 +1,7 @@
 **LXX Jeremiah 47:2** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Behold, waters ascend from \[the\] north, and will be for a rushing stream, flooding. And it shall flood \[the\] land, and the fullness of it; \[the\] city and \[the\] ones dwelling in it. And the men shall cry out, and \[the\] ones dwelling in the land shall shout all together 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “See how the waters are rising from the north and becoming an overflowing torrent. They will overflow the land and its fullness, the cities and their inhabitants. The people will cry out, and all who dwell in the land will wail<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.47.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.1|<< Jeremiah 47:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.3|Jeremiah 47:3 >>]]</td></tr></table>
 
 | Translation | Greek |

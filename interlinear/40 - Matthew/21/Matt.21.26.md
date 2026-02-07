@@ -1,12 +1,12 @@
-**Matthew 21:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:26**<big><big>[[Matt.21.23 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if we shall say, Of men; we fear the people; for all hold John as a prophet.
 <small><sub>**BSB:**</sub></small>
 But if we say, ‘From men,’ we are afraid of the people, for they all regard John as a prophet.”
 <small><sub>**Literal:**</sub></small>
 If however we shall say; From men, we fear the multitude; all for as a prophet hold <the> John.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.25|<< Matthew 21:25]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.27|Matthew 21:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

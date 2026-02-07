@@ -1,12 +1,12 @@
-**Romans 8:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:20**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected [the same] in hope,
 <small><sub>**BSB:**</sub></small>
 For the creation was subjected to futility, not by its own will, but because of the One who subjected it, in hope
 <small><sub>**Literal:**</sub></small>
 To the for futility the creation was subjected, not willingly but because of the [One] having subjected [it], in hope<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.19|<< Romans 8:19]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.21|Romans 8:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

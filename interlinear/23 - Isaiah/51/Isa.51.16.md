@@ -1,4 +1,4 @@
-**Isaiah 51:16** 
+**Isaiah 51:16**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have put my words in thy mouth, and I have covered thee in the shadow of mine hand, that I may plant the heavens, and lay the foundations of the earth, and say unto Zion, Thou [art] my people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I have put My words in your mouth, and covered you with the shadow of My hand, t
 > $\quad$ referenced by: [[Matt.24.35|Matt 24:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have put  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7760H\|אָשִׂ֤ים]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Sim<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | words my  |**<big>&#8207;[[H1697G\|דְּבָרַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| de.va.Ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

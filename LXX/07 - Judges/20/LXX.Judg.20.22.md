@@ -1,10 +1,7 @@
 **LXX Judges 20:22** 
 <small><sub>**LXX:**</sub></small>
 And the people strengthened -- \[the\] man of Israel, and proceeded to deploy for war in the place in which he deployed there on the first day. 
-<small><sub>**KJV:**</sub></small>
-And the people the men of Israel encouraged themselves, and set their battle again in array in the place where they put themselves in array the first day.
-<small><sub>**BSB:**</sub></small>
-But the Israelite army took courage and again took their battle positions in the same place where they had arrayed themselves on the first day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.21|<< Judges 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.23|Judges 20:23 >>]]</td></tr></table>
 
 | Translation | Greek |

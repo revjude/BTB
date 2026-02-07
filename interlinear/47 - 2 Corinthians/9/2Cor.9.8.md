@@ -1,12 +1,12 @@
-**2 Corinthians 9:8
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:8**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And God [is] able to make all grace abound toward you; that ye, always having all sufficiency in all [things], may abound to every good work:
 <small><sub>**BSB:**</sub></small>
 And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work.
 <small><sub>**Literal:**</sub></small>
 is able now <the> God all grace to make abound to you, so that in every [way] always all sufficiency having you may abound in every work good<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.7|<< 2 Corinthians 9:7]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.9|2 Corinthians 9:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | is able [^1] |**<big>[[G1414\|Δυνατεῖ]]</big>**  |Dunatei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

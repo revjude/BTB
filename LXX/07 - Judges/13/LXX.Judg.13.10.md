@@ -1,10 +1,7 @@
 **LXX Judges 13:10** 
 <small><sub>**LXX:**</sub></small>
 And the woman hastened, and ran, and reported  to her husband, and she said to him, Behold, the man has appeared to me, the one coming  in this day to me. 
-<small><sub>**KJV:**</sub></small>
-And the woman made haste, and ran, and shewed her husband, and said unto him, Behold, the man hath appeared unto me, that came unto me the [other] day.
-<small><sub>**BSB:**</sub></small>
-The woman ran quickly to tell her husband, “Behold, the man who came to me the other day has reappeared!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.9|<< Judges 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.11|Judges 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

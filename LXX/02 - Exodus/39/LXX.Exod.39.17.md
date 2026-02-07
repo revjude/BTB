@@ -1,10 +1,7 @@
 **LXX Exodus 39:17** 
 <small><sub>**LXX:**</sub></small>
 And they placed the two rings  of gold upon both the corners of the oracle. And they placed the wreaths of gold upon the two rings, upon both of the parts of the oracle, and for the two couplings for the two wreaths. 
-<small><sub>**KJV:**</sub></small>
-And they put the two wreathen chains of gold in the two rings on the ends of the breastplate.
-<small><sub>**BSB:**</sub></small>
-Then they fastened the two gold chains to the two gold rings at the corners of the breastpiece,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.16|<< Exodus 39:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.18|Exodus 39:18 >>]]</td></tr></table>
 
 | Translation | Greek |

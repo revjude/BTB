@@ -1,4 +1,4 @@
-**Ezekiel 33:32** 
+**Ezekiel 33:32**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, lo, thou [art] unto them as a very lovely song of one that hath a pleasant voice, and can play well on an instrument: for they hear thy words, but they do them not.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Indeed, you are to them like a singer of love songs with a beautiful voice, who 
 > $\quad$ fulfilled in: [[Mark.3.32|Mark 3:32-35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2005\|הִנְּ]]&#8207;&#8207;[[H9041\|ךָ֤]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.ne.<small><sup>[[HTj]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 30:11** 
 <small><sub>**LXX:**</sub></small>
 and turn us from  this way! Remove from us  this road, and remove from us the oracle  of Israel! 
-<small><sub>**KJV:**</sub></small>
-Get you out of the way, turn aside out of the path, cause the Holy One of Israel to cease from before us.
-<small><sub>**BSB:**</sub></small>
-Get out of the way; turn off the road. Rid us of the Holy One of Israel!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.10|<< Isaiah 30:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.12|Isaiah 30:12 >>]]</td></tr></table>
 
 | Translation | Greek |

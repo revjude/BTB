@@ -1,12 +1,12 @@
-**Luke 9:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:17**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets.
 <small><sub>**BSB:**</sub></small>
 They all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces that were left over.
 <small><sub>**Literal:**</sub></small>
 And they ate and were satisfied all, and was taken up that having been a surplus to them of fragments hand-baskets twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.16|<< Luke 9:16]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.18|Luke 9:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they ate |**<big>[[G5315\|ἔφαγον]]</big>**  |ephagon <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 47:23** 
+**Ezekiel 47:23**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] in what tribe the stranger sojourneth, there shall ye give [him] his inheritance, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In whatever tribe a foreigner dwells, you are to assign his inheritance there,�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.22|<< Ezekiel 47:22]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.1|Ezekiel 48:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the tribe  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H7626H\|שֵּׁ֔בֶט]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> She.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Matthew 2:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:18**<big><big>[[Matt.2.16 Weeping and Great Mourning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping [for] her children, and would not be comforted, because they are not.
 <small><sub>**BSB:**</sub></small>
 “A voice is heard in Ramah, weeping and great mourning, Rachel weeping for her children and refusing to be comforted, because they are no more.”
@@ -10,7 +10,7 @@ A voice in Ramah was heard, lamentation and weeping and mourning great, Rachel w
 > $\quad$ referencing: [[LXX.Jer.31.15|Jer 31:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A voice |**<big>[[G5456G\|φωνὴ]]</big>**  |phōnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

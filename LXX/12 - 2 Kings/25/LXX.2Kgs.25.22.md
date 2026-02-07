@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And over the people  being left behind in the land of Judah, whom Nebuchadnezzar king of Babylon left behind, he placed over it  Gedaliah son of Ahikam, son of Shaphan. 
-<small><sub>**KJV:**</sub></small>
-And [as for] the people that remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, ruler.
-<small><sub>**BSB:**</sub></small>
-Nebuchadnezzar king of Babylon appointed Gedaliah son of Ahikam, the son of Shaphan, over the people he had left behind in the land of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.21|<< 2 Kings 25:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.23|2 Kings 25:23 >>]]</td></tr></table>
 
 | Translation | Greek |

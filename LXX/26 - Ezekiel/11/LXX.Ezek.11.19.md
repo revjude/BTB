@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I will give to them another heart, and I will put a new spirit in them; and I will pull out the stone heart from  their flesh, and I will give to them a heart \[of\] flesh; 
-<small><sub>**KJV:**</sub></small>
-And I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh:
-<small><sub>**BSB:**</sub></small>
-And I will give them singleness of heart and put a new spirit within them; I will remove their heart of stone and give them a heart of flesh,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.18|<< Ezekiel 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.20|Ezekiel 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

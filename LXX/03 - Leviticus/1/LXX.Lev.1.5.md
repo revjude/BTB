@@ -1,10 +1,7 @@
 **LXX Leviticus 1:5** 
 <small><sub>**LXX:**</sub></small>
 And they shall slay the calf before \[the\] <span class="smallcaps">lord</span>, and the sons of Aaron the priests shall bring the blood, and they shall pour the blood upon the altar round about the \[one\] at the doors of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And he shall kill the bullock before the LORD: and the priests, Aaron’s sons, shall bring the blood, and sprinkle the blood round about upon the altar that [is by] the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-And he shall slaughter the young bull before the LORD, and Aaron’s sons the priests are to present the blood and splatter it on all sides of the altar at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.4|<< Leviticus 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.1.6|Leviticus 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

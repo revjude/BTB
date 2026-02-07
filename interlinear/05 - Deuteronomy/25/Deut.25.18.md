@@ -1,4 +1,4 @@
-**Deuteronomy 25:18** 
+**Deuteronomy 25:18**<big><big>[[Deut.25.17 Revenge on the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How he met thee by the way, and smote the hindmost of thee, [even] all [that were] feeble behind thee, when thou [wast] faint and weary; and he feared not God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ how they met you on your journey when you were tired and weary, and they attacke
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.17|<< Deuteronomy 25:17]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.19|Deuteronomy 25:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it met you  |**<big>&#8207;[[H7136A\|קָֽרְ]]&#8207;&#8207;[[H9031\|ךָ֜]]&#8207; </big>**| ka.re.<small><sup>[[HVqp3ms]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

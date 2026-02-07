@@ -1,12 +1,12 @@
-**Acts 3:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:1**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now Peter and John went up together into the temple at the hour of prayer, [being] the ninth [hour].
 <small><sub>**BSB:**</sub></small>
 One afternoon Peter and John were going up to the temple at the hour of prayer, the ninth hour.
 <small><sub>**Literal:**</sub></small>
 upon <the> it Peter now and John were going up into the temple at the hour <the> of prayer the ninth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.47|<< Acts 2:47]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.2|Acts 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | upon |**<big>[[G1909\|Ἐπὶ]]</big>**  |Epi <small><sup>[[PREP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

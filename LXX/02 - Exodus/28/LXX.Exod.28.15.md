@@ -1,10 +1,7 @@
 **LXX Exodus 28:15** 
 <small><sub>**LXX:**</sub></small>
 And you shall make an oracle of the judgments; a work of an embroiderer, according to the proportion of the shoulder-piece; you shall make it from gold, and blue, and purple, and scarlet being twined, and linen being twined -- you shall make it. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; [of] gold, [of] blue, and [of] purple, and [of] scarlet, and [of] fine twined linen, shalt thou make it.
-<small><sub>**BSB:**</sub></small>
-You are also to make a breastpiece of judgment with the same workmanship as the ephod. Construct it with gold, with blue, purple, and scarlet yarn, and with finely spun linen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.14|<< Exodus 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.16|Exodus 28:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 1:21** (2:4)
+**Zechariah 1:21**<big><big>[[Zech.1.18 The Vision of the Horns and the Craftsmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, What come these to do? And he spake, saying, These [are] the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up [their] horn over the land of Judah to scatter it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then said I, What come these to do? And he spake, saying, These [are] the horns 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.20|<< Zechariah 1:20]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.1|Zechariah 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֕ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מָ֛ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

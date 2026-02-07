@@ -1,12 +1,12 @@
-**Romans 15:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:5**<big><big>[[Rom.15.1 Accept One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 Now may the God who gives endurance and encouragement grant you harmony with one another in Christ Jesus,
 <small><sub>**Literal:**</sub></small>
 The now God <the> of endurance and <the> encouragement would He give you the same to be of mind with one another according to Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.4|<< Romans 15:4]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.6|Romans 15:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

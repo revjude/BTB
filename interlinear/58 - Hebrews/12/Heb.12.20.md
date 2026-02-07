@@ -1,5 +1,5 @@
-**Hebrews 12:20
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:20**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:
 <small><sub>**BSB:**</sub></small>
 For they could not bear what was commanded: “If even an animal touches the mountain, it must be stoned.”
@@ -10,7 +10,7 @@ not [able] they were bearing for which is being commanded: If even a beast shall
 > $\quad$ referencing: [[LXX.Exod.19.12|Exod 19:12-13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not [able] |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were bearing |**<big>[[G5342\|ἔφερον]]</big>**  |epheron <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

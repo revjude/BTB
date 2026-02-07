@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:17** 
 <small><sub>**LXX:**</sub></small>
 And they led  their sons and  their daughters through fire. And they used oracles of divinations, and they foretold. And they were sold  to do the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>,  to provoke him to anger. 
-<small><sub>**KJV:**</sub></small>
-And they caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do evil in the sight of the LORD, to provoke him to anger.
-<small><sub>**BSB:**</sub></small>
-They sacrificed their sons and daughters in the fire and practiced divination and soothsaying. They devoted themselves to doing evil in the sight of the LORD, provoking Him to anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.16|<< 2 Kings 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.18|2 Kings 17:18 >>]]</td></tr></table>
 
 | Translation | Greek |

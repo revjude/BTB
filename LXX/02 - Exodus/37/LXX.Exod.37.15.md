@@ -1,10 +1,7 @@
 **LXX Exodus 37:15** 
 <small><sub>**LXX:**</sub></small>
 And he made the bearing poles of incorruptible wood, and he gilded them with gold so as to lift the table. 
-<small><sub>**KJV:**</sub></small>
-And he made the staves [of] shittim wood, and overlaid them with gold, to bear the table.
-<small><sub>**BSB:**</sub></small>
-He made the poles of acacia wood for carrying the table and overlaid them with gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.14|<< Exodus 37:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.16|Exodus 37:16 >>]]</td></tr></table>
 
 | Translation | Greek |

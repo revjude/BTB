@@ -1,4 +1,4 @@
-**Daniel 3:15** 
+**Daniel 3:15**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; [well]: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who [is] that God that shall deliver you out of my hands?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when you hear the sound of the horn, flute, zither, lyre, harp, pipes, and a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.14|<< Daniel 3:14]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.16|Daniel 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H3705\|כְּעַ֞ן]]&#8207; </big>**| ke.'An<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H2006A\|הֵ֧ן]]&#8207; </big>**| hen<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

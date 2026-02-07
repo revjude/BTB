@@ -1,12 +1,12 @@
-**Mark 5:18
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:18**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was come into the ship, he that had been possessed with the devil prayed him that he might be with him.
 <small><sub>**BSB:**</sub></small>
 As He was getting into the boat, the man who had been possessed by the demons begged to go with Him.
 <small><sub>**Literal:**</sub></small>
 And when climbing He into the boat was begging Him the [one] having been demonised that with Him he may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.17|<< Mark 5:17]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.19|Mark 5:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when climbing [^1] |**<big>[[G1684\|ἐμβαίνοντος]]</big>**  |embainontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

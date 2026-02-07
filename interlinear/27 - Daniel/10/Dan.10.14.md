@@ -1,4 +1,4 @@
-**Daniel 10:14** 
+**Daniel 10:14**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now I am come to make thee understand what shall befall thy people in the latter days: for yet the vision [is] for [many] days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now I have come to explain to you what will happen to your people in the latter 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.13|<< Daniel 10:13]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.15|Daniel 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֙אתִי֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to make understand you  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0995\|הֲבִ֣ינְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> ha.Vi.ne.<small><sup>[[HVhcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

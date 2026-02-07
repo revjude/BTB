@@ -1,4 +1,4 @@
-**Ezra 10:15** 
+**Ezra 10:15**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this [matter]: and Meshullam and Shabbethai the Levite helped them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed abo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.14|<< Ezra 10:14]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.16|Ezra 10:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jonathan  |**<big>&#8207;[[H3129I\|יוֹנָתָ֧ן]]&#8207; </big>**| yo.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

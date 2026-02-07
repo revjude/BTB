@@ -1,4 +1,4 @@
-**1 Samuel 26:11** 
+**1 Samuel 26:11**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD forbid that I should stretch forth mine hand against the LORD’S anointed: but, I pray thee, take thou now the spear that [is] at his bolster, and the cruse of water, and let us go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD forbid that I should extend my hand against the LORD’s anointed. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.10|<< 1 Samuel 26:10]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.12|1 Samuel 26:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | far be it  |**<big>&#8207;[[H2486\|חָלִ֤ילָה]]&#8207; </big>**| cha.Li.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִּ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Judges 11:25** 
+**Judges 11:25**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now [art] thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Are you now so much better than Balak son of Zippor, king of Moab? Did he ever c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.24|<< Judges 11:24]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.26|Judges 11:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ really \<good>  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H2895\|ט֥וֹב]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

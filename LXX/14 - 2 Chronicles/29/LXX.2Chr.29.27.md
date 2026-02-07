@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:27** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah spoke  to offer the whole burnt-offering upon the altar. And in the beginning of offering the whole burnt-offering, they began to sing to the <span class="smallcaps">lord</span>, and the trumpets with the instruments of David \[the\] king of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of the LORD began [also] with the trumpets, and with the instruments [ordained] by David king of Israel.
-<small><sub>**BSB:**</sub></small>
-And Hezekiah ordered that the burnt offering be sacrificed on the altar. When the burnt offering began, the song of the LORD and the trumpets began as well, accompanied by the instruments of David king of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.26|<< 2 Chronicles 29:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.28|2 Chronicles 29:28 >>]]</td></tr></table>
 
 | Translation | Greek |

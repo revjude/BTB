@@ -1,10 +1,7 @@
 **LXX Proverbs 15:18** 
 <small><sub>**LXX:**</sub></small>
 A man inclined to rage makes preparations for battle; but a lenient \[man\] soothes even the one about to \[go to battle\]. \[The\] lenient man shall extinguish litigations; but the impious raises \[them\] rather. 
-<small><sub>**KJV:**</sub></small>
-A wrathful man stirreth up strife: but [he that is] slow to anger appeaseth strife.
-<small><sub>**BSB:**</sub></small>
-A hot-tempered man stirs up strife, but he who is slow to anger calms dispute.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.17|<< Proverbs 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.19|Proverbs 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

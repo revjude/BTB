@@ -1,10 +1,7 @@
 **LXX Esther 8:4** 
 <small><sub>**LXX:**</sub></small>
 And the king stretched out to Esther the gold rod, and Esther arose to stand beside the king. 
-<small><sub>**KJV:**</sub></small>
-Then the king held out the golden sceptre toward Esther. So Esther arose, and stood before the king,
-<small><sub>**BSB:**</sub></small>
-The king extended the gold scepter toward Esther, and she arose and stood before the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.3|<< Esther 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.5|Esther 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

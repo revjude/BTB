@@ -1,4 +1,4 @@
-**1 Samuel 22:8** 
+**1 Samuel 22:8**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That all of you have conspired against me, and [there is] none that sheweth me that my son hath made a league with the son of Jesse, and [there is] none of you that is sorry for me, or sheweth unto me that my son hath stirred up my servant against me, to lie in wait, as at this day?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is that why all of you have conspired against me? Not one of you told me that my
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.7|<< 1 Samuel 22:7]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.9|1 Samuel 22:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have conspired  |**<big>&#8207;[[H7194\|קְשַׁרְתֶּ֨ם]]&#8207; </big>**| ke.shar.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

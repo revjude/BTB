@@ -1,10 +1,7 @@
 **LXX Jonah 1:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, I am a servant \[of the\] <span class="smallcaps">lord</span>, and I worship the God of the heaven who made the sea and the dry \[land\]. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, I [am] an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry [land].
-<small><sub>**BSB:**</sub></small>
-“I am a Hebrew,” replied Jonah. “I worship the LORD, the God of the heavens, who made the sea and the dry land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.8|<< Jonah 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.10|Jonah 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

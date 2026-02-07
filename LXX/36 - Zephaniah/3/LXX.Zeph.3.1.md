@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 O the prominent and ransomed city, the dove. 
-<small><sub>**KJV:**</sub></small>
-Woe to her that is filthy and polluted, to the oppressing city!
-<small><sub>**BSB:**</sub></small>
-Woe to the city of oppressors, rebellious and defiled!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.15|<< Zephaniah 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.2|Zephaniah 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

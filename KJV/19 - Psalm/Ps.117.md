@@ -1,6 +1,6 @@
 (KJV) **Psalm 117**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116|<< Psalm 116]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118|Psalm 118 >>]]</td></tr></table>
 
-***Extol Him, All You Peoples*** <small><small>[^2]</small></small>  ^bsb1410
+<big><big>[[Ps.117.1 Extol Him, All You Peoples|⥃]]</big></big>***Extol Him, All You Peoples*** <small><small>[^2]</small></small> 
 
  $\quad$ <span class="startversemarker">[</span>**[[Ps.117.1|1]]**<span class="endversemarker">]</span> O praise<small><small>[^3]</small></small> the <span class="smallcaps">Lord</span>, all ye nations: praise him<small><small>[^4]</small></small>, all ye people. <span class="startversemarker">[</span>**[[Ps.117.2|2]]**<span class="endversemarker">]</span> For his merciful kindness is great toward us: and the truth of the <span class="smallcaps">Lord</span> \[endureth\] for ever. Praise ye the <span class="smallcaps">Lord</span>. <small><small>[^5]</small></small><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116|<< Psalm 116]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118|Psalm 118 >>]]</td></tr></table>
 

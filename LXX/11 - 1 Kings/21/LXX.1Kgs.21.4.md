@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:4** 
 <small><sub>**LXX:**</sub></small>
 And Ahab went to his house being in a tumult and loosened over the word which Naboth the Jezreelite spoke to him, as he said, I will not give to you the inheritance  of my fathers to you. And the spirit of Ahab became disturbed, and he went to sleep upon  his bed, and covered up  his face, and did not eat bread. 
-<small><sub>**KJV:**</sub></small>
-And Ahab came into his house heavy and displeased because of the word which Naboth the Jezreelite had spoken to him: for he had said, I will not give thee the inheritance of my fathers. And he laid him down upon his bed, and turned away his face, and would eat no bread.
-<small><sub>**BSB:**</sub></small>
-So Ahab went to his palace, sullen and angry because Naboth the Jezreelite had told him, “I will not give you the inheritance of my fathers.” He lay down on his bed, turned his face away, and refused to eat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.3|<< 1 Kings 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.5|1 Kings 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

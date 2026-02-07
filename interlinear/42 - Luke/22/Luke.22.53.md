@@ -1,12 +1,12 @@
-**Luke 22:53
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:53**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness.
 <small><sub>**BSB:**</sub></small>
 Every day I was with you in the temple courts, and you did not lay a hand on Me. But this hour belongs to you and to the power of darkness.”
 <small><sub>**Literal:**</sub></small>
 Every day being Me with you in the temple not did you stretch out the hands against Me myself. but this is of you the hour and the power of the darkness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.52|<< Luke 22:52]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.54|Luke 22:54 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G2596\|καθ᾽]]</big>**  |kath᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | day |**<big>[[G2250\|ἡμέραν]]</big>**  |hēmeran <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

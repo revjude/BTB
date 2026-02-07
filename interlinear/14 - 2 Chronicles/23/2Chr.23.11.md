@@ -1,4 +1,4 @@
-**2 Chronicles 23:11** 
+**2 Chronicles 23:11**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they brought out the king’s son, and put upon him the crown, and [gave him] the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehoiada and his sons brought out the king’s son, put the crown on him, p
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.10|<< 2 Chronicles 23:10]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.12|2 Chronicles 23:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצִ֣יאוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tzi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

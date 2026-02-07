@@ -1,4 +1,4 @@
-**Proverbs 10:24** 
+**Proverbs 10:24**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What the wicked man dreads will overtake him, but the desire of the righteous wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.23|<< Proverbs 10:23]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.25|Proverbs 10:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] fear of  |**<big>&#8207;[[H4034\|מְגוֹרַ֣ת]]&#8207; </big>**| me.go.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wicked [person]  |**<big>&#8207;[[H7563\|רָ֭שָׁע]]&#8207; </big>**| Ra.sho'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

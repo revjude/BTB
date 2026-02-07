@@ -1,4 +1,4 @@
-**Ezekiel 37:5** 
+**Ezekiel 37:5**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is what the Lord GOD says to these bones: I will cause breath to enter you,
 > $\quad$ referenced by: [[Rev.11.11|Rev 11:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֤ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַר֙]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

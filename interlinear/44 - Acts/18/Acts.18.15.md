@@ -1,12 +1,12 @@
-**Acts 18:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:15**<big><big>[[Acts.18.12 Paul before Gallio|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if it be a question of words and names, and [of] your law, look ye [to it]; for I will be no judge of such [matters].
 <small><sub>**BSB:**</sub></small>
 But since it is a dispute about words and names and your own law, settle it yourselves. I refuse to be a judge of such things.”
 <small><sub>**Literal:**</sub></small>
 if however questions it is about a word and names and law <the> of yours, you will behold [to it] yourselves; a judge for I myself of these things not resolve to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.14|<< Acts 18:14]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.16|Acts 18:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

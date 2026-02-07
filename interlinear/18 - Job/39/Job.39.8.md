@@ -1,4 +1,4 @@
-**Job 39:8** 
+**Job 39:8**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The range of the mountains [is] his pasture, and he searcheth after every green thing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He roams the mountains for pasture, searching for any green thing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.7|<< Job 39:7]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.9|Job 39:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it explores  |**<big>&#8207;[[H8446\|יְת֣וּר]]&#8207; </big>**| ye.Tur<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mountains  |**<big>&#8207;[[H2022G\|הָרִ֣ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

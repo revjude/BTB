@@ -1,10 +1,7 @@
 **LXX Song of Solomon 2:14** 
 <small><sub>**LXX:**</sub></small>
 You \[are\] my dove in \[the\] protection of the rock, being next to the area around the wall. Show to me  your appearance, and cause me to hear  your voice! for  your voice \[is\] agreeable, and  your appearance \[is\] beautiful. 
-<small><sub>**KJV:**</sub></small>
-O my dove, [that art] in the clefts of the rock, in the secret [places] of the stairs, let me see thy countenance, let me hear thy voice; for sweet [is] thy voice, and thy countenance [is] comely.
-<small><sub>**BSB:**</sub></small>
-O my dove in the clefts of the rock, in the crevices of the cliff, let me see your face, let me hear your voice; for your voice is sweet, and your countenance is lovely.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.13|<< Song of Solomon 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.15|Song of Solomon 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

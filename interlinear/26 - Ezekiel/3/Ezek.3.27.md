@@ -1,4 +1,4 @@
-**Ezekiel 3:27** 
+**Ezekiel 3:27**<big><big>[[Ezek.3.16 A Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD; He that heareth, let him hear; and he that forbeareth, let him forbear: for they [are] a rebellious house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when I speak with you, I will open your mouth, and you are to tell them, ‘
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.26|<< Ezekiel 3:26]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.1|Ezekiel 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when speak I  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H1696G\|דַבְּרִ֤]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> da.be.R<small><sup>[[HVpcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with you  |**<big>&#8207;[[H0854\|אֽוֹתְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| 'ot.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

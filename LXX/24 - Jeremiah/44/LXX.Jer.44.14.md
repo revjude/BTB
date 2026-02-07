@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:14** 
 <small><sub>**LXX:**</sub></small>
 And there shall not be one escaping, not one of the ones remaining of Judah, of the ones sojourning in \[the\] land of Egypt,  to return into \[the\] land of Judah upon which they hope \[in\] their souls  to return there. In no way shall they return, except the ones escaping. 
-<small><sub>**KJV:**</sub></small>
-So that none of the remnant of Judah, which are gone into the land of Egypt to sojourn there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape.
-<small><sub>**BSB:**</sub></small>
-so that none of the remnant of Judah who have gone to reside in Egypt will escape or survive to return to the land of Judah, where they long to return and live; for none will return except a few fugitives.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.13|<< Jeremiah 44:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.15|Jeremiah 44:15 >>]]</td></tr></table>
 
 | Translation | Greek |

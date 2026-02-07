@@ -1,10 +1,7 @@
 **LXX Exodus 23:13** 
 <small><sub>**LXX:**</sub></small>
 All, as much as I have spoken to you, guard! And \[the\] name of other gods you shall not call to mind, nor should \[one\] be heard from out of  your mouth. 
-<small><sub>**KJV:**</sub></small>
-And in all [things] that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of thy mouth.
-<small><sub>**BSB:**</sub></small>
-Pay close attention to everything I have said to you. You must not invoke the names of other gods; they must not be heard on your lips.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.12|<< Exodus 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.14|Exodus 23:14 >>]]</td></tr></table>
 
 | Translation | Greek |

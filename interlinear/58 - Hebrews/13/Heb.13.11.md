@@ -1,5 +1,5 @@
-**Hebrews 13:11
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:11**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.
 <small><sub>**BSB:**</sub></small>
 Although the high priest brings the blood of animals into the Holy Place as a sacrifice for sin, the bodies are burned outside the camp.
@@ -10,7 +10,7 @@ Whose for is brought of animals the blood [as sacrifices] for sin into the Holy 
 > $\quad$ alluding to: [[LXX.Lev.4.12|Lev 4:12]] ☩ [[LXX.Lev.4.21|Lev 4:21]] ☩ [[LXX.Lev.16.27|Lev 16:27]] ☩ [[LXX.Num.19.3|Num 19:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whose |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

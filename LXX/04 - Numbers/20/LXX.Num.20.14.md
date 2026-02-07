@@ -1,10 +1,7 @@
 **LXX Numbers 20:14** 
 <small><sub>**LXX:**</sub></small>
 And Moses sent messengers from Kadesh to \[the\] king of Edom, saying, Thus says  your brother Israel, You have knowledge of all the trouble  finding us, 
-<small><sub>**KJV:**</sub></small>
-And Moses sent messengers from Kadesh unto the king of Edom, Thus saith thy brother Israel, Thou knowest all the travail that hath befallen us:
-<small><sub>**BSB:**</sub></small>
-From Kadesh, Moses sent messengers to tell the king of Edom, “This is what your brother Israel says: You know all the hardship that has befallen us,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.13|<< Numbers 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.15|Numbers 20:15 >>]]</td></tr></table>
 
 | Translation | Greek |

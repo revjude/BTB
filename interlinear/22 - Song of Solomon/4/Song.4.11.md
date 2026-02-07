@@ -1,4 +1,4 @@
-**Song of Solomon 4:11** 
+**Song of Solomon 4:11**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy lips, O [my] spouse, drop [as] the honeycomb: honey and milk [are] under thy tongue; and the smell of thy garments [is] like the smell of Lebanon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your lips, my bride, drip sweetness like the honeycomb; honey and milk are under
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.10|<< Song of Solomon 4:10]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.12|Song of Solomon 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | honey  |**<big>&#8207;[[H5317\|נֹ֛פֶת]]&#8207; </big>**| No.fet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they drip  |**<big>&#8207;[[H5197\|תִּטֹּ֥פְנָה]]&#8207; </big>**| ti.To.fe.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

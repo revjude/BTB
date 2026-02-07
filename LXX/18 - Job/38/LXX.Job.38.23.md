@@ -1,10 +1,7 @@
 **LXX Job 38:23** 
 <small><sub>**LXX:**</sub></small>
 And \[is\] it reserved to you for \[the\] hour of \[the\] enemies, for \[the\] day of war and battle? 
-<small><sub>**KJV:**</sub></small>
-Which I have reserved against the time of trouble, against the day of battle and war?
-<small><sub>**BSB:**</sub></small>
-which I hold in reserve for times of trouble, for the day of war and battle?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.22|<< Job 38:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.24|Job 38:24 >>]]</td></tr></table>
 
 | Translation | Greek |

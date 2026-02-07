@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:6** 
 <small><sub>**LXX:**</sub></small>
 to the fabricators, and to the builders, and to the stonemasons, and  to acquire wood and quarried stones,  to fortify the breach of the house. 
-<small><sub>**KJV:**</sub></small>
-Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house.
-<small><sub>**BSB:**</sub></small>
-to the carpenters, builders, and masons—to buy timber and dressed stone to repair the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.5|<< 2 Kings 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.7|2 Kings 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

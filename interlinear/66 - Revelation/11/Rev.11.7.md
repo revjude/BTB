@@ -1,5 +1,5 @@
-**Revelation 11:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:7**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they shall have finished their testimony, the beast that ascendeth out of the bottomless pit shall make war against them, and shall overcome them, and kill them.
 <small><sub>**BSB:**</sub></small>
 When the two witnesses have finished their testimony, the beast that comes up from the Abyss will wage war with them, and will overpower and kill them.
@@ -10,7 +10,7 @@ And when they may have completed the testimony of them, the beast which is comin
 > $\quad$ alluding to: [[LXX.Dan.7.21|Dan 7:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

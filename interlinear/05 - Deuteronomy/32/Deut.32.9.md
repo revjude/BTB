@@ -1,4 +1,4 @@
-**Deuteronomy 32:9** 
+**Deuteronomy 32:9**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD’S portion [is] his people; Jacob [is] the lot of his inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD’s portion is His people, Jacob His allotted inheritance.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.8|<< Deuteronomy 32:8]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.10|Deuteronomy 32:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] portion of  |**<big>&#8207;[[H2506A\|חֵ֥לֶק]]&#8207; </big>**| Che.lek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

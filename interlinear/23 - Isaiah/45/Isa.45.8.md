@@ -1,4 +1,4 @@
-**Isaiah 45:8** 
+**Isaiah 45:8**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Drop down, ye heavens, from above, and let the skies pour down righteousness: let the earth open, and let them bring forth salvation, and let righteousness spring up together; I the LORD have created it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Drip down, O heavens, from above, and let the skies pour down righteousness. Let
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.7|<< Isaiah 45:7]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.9|Isaiah 45:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | drip down  |**<big>&#8207;[[H7491\|הַרְעִ֤יפוּ]]&#8207; </big>**| har.'I.fu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O heaven  |**<big>&#8207;[[H8064\|שָׁמַ֙יִם֙]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

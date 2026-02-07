@@ -1,4 +1,4 @@
-**2 Chronicles 20:10** 
+**2 Chronicles 20:10**<big><big>[[2Chr.20.5 Jehoshaphat’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And now, here are the men of Ammon, Moab, and Mount Seir, whom You did not let I
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.9|<< 2 Chronicles 20:9]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.11|2 Chronicles 20:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּה֩]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

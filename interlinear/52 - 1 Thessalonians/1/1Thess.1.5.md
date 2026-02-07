@@ -1,12 +1,12 @@
-**1 Thessalonians 1:5
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 1:5**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.
 <small><sub>**BSB:**</sub></small>
 because our gospel came to you not only in word, but also in power, in the Holy Spirit, and with great conviction—just as you know we lived among you for your sake.
 <small><sub>**Literal:**</sub></small>
 because the gospel of us not came to you in word only but also in power and in [the] Spirit Holy and with full assurance much even as you know what we were among you on account of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.4|<< 1 Thessalonians 1:4]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.6|1 Thessalonians 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

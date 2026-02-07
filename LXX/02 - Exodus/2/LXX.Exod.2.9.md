@@ -1,10 +1,7 @@
 **LXX Exodus 2:9** 
 <small><sub>**LXX:**</sub></small>
 And the daughter of Pharaoh said to her, Carefully keep for me  this male child, and suckle it for me, and I will give to you the wage. And the woman took the male child, and suckled it. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh’s daughter said unto her, Take this child away, and nurse it for me, and I will give [thee] thy wages. And the woman took the child, and nursed it.
-<small><sub>**BSB:**</sub></small>
-Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I will pay your wages.” So the woman took the boy and nursed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.8|<< Exodus 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.10|Exodus 2:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 2:9** is...

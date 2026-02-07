@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] rulers of the sons of Ephraim rose up (Azariah the \[son of\] Johanan, and Berechiah the \[son of\] Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the \[son of\] Hadlai) unto the ones coming from the war. 
-<small><sub>**KJV:**</sub></small>
-Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,
-<small><sub>**BSB:**</sub></small>
-Then some of the leaders of the Ephraimites—Azariah son of Jehohanan, Berechiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai—stood in opposition to those arriving from the war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.11|<< 2 Chronicles 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.13|2 Chronicles 28:13 >>]]</td></tr></table>
 
 | Translation | Greek |

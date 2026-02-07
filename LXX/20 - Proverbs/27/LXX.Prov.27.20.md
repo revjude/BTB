@@ -1,10 +1,7 @@
 **LXX Proverbs 27:20** 
 <small><sub>**LXX:**</sub></small>
 Hades and destruction \[are\] not filled up; likewise also the eyes of the insatiable man. One fixing \[the\] eye \[is\] an abomination \[to the\] <span class="smallcaps">lord</span>, and the uninstructed ones \[are\] immoderate in tongue. 
-<small><sub>**KJV:**</sub></small>
-Hell and destruction are never full; so the eyes of man are never satisfied.
-<small><sub>**BSB:**</sub></small>
-Sheol and Abaddon are never satisfied; so the eyes of man are never satisfied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.19|<< Proverbs 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.21|Proverbs 27:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:68** 
 <small><sub>**LXX:**</sub></small>
 \[Their\] horses -- seven hundred thirty-six; mules -- two hundred forty-five; camels -- four hundred thirty five; 
-<small><sub>**KJV:**</sub></small>
-Their horses, seven hundred thirty and six: their mules, two hundred forty and five:
-<small><sub>**BSB:**</sub></small>
-They had 736 horses, 245 mules,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.68|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.67|<< Nehemiah 7:67]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.69|Nehemiah 7:69 >>]]</td></tr></table>
 
 | Translation | Greek |

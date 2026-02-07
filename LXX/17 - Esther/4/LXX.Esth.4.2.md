@@ -1,10 +1,7 @@
 **LXX Esther 4:2** 
 <small><sub>**LXX:**</sub></small>
 And he came unto the gate of the king, and stood; for it was not allowed for him to enter into the courtyard having on sackcloth and ashes. 
-<small><sub>**KJV:**</sub></small>
-And came even before the king’s gate: for none [might] enter into the king’s gate clothed with sackcloth.
-<small><sub>**BSB:**</sub></small>
-But he went only as far as the king’s gate, because the law prohibited anyone wearing sackcloth from entering that gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.1|<< Esther 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.3|Esther 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

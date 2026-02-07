@@ -1,10 +1,7 @@
 **LXX Job 8:18** 
 <small><sub>**LXX:**</sub></small>
 And if the place should swallow him, it shall lie to him, \[saying\], \[Have\] you not seen such \[a thing\]? 
-<small><sub>**KJV:**</sub></small>
-If he destroy him from his place, then [it] shall deny him, [saying], I have not seen thee.
-<small><sub>**BSB:**</sub></small>
-If he is uprooted from his place, it will disown him, saying, ‘I never saw you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.17|<< Job 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.19|Job 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

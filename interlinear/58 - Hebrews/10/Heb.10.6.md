@@ -1,5 +1,5 @@
-**Hebrews 10:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:6**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In burnt offerings and [sacrifices] for sin thou hast had no pleasure.
 <small><sub>**BSB:**</sub></small>
 In burnt offerings and sin offerings You took no delight.
@@ -10,7 +10,7 @@ Burnt offerings and [offerings] for sin not You have delighted in;<br><table wid
 > $\quad$ referencing: [[LXX.Ps.40.6|Ps 40:6-8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Burnt offerings |**<big>[[G3646\|ὁλοκαυτώματα]]</big>**  |holokautōmata <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

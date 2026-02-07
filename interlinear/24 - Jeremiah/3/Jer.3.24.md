@@ -1,4 +1,4 @@
-**Jeremiah 3:24** 
+**Jeremiah 3:24**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From our youth, that shameful god has consumed what our fathers have worked for�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.23|<< Jeremiah 3:23]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.25|Jeremiah 3:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the shameful thing  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1322\|בֹּ֗שֶׁת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Bo.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has consumed  |**<big>&#8207;[[H0398\|אָֽכְלָ֛ה]]&#8207; </big>**| 'a.khe.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

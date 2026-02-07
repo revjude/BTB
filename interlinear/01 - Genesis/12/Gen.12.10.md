@@ -1,4 +1,4 @@
-**Genesis 12:10** 
+**Genesis 12:10**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine [was] grievous in the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now there was a famine in the land. So Abram went down to Egypt to live there fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.9|<< Genesis 12:9]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.11|Genesis 12:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a famine  |**<big>&#8207;[[H7458\|רָעָ֖ב]]&#8207; </big>**| ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

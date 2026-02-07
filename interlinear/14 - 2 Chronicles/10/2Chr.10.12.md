@@ -1,4 +1,4 @@
-**2 Chronicles 10:12** 
+**2 Chronicles 10:12**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jeroboam and all the people came to Rehoboam on the third day, as the king bade, saying, Come again to me on the third day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After three days, Jeroboam and all the people returned to Rehoboam, since the ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.11|<< 2 Chronicles 10:11]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.13|2 Chronicles 10:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeroboam  |**<big>&#8207;[[H3379G\|יָרָבְעָ֧ם]]&#8207; </big>**| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

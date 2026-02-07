@@ -1,10 +1,7 @@
 **LXX Exodus 15:2** 
 <small><sub>**LXX:**</sub></small>
 Helper and shelterer he became to me for deliverance; this \[is\] my God, and I will glorify him; \[the\] God  of my father, and I will exalt him. 
-<small><sub>**KJV:**</sub></small>
-The LORD [is] my strength and song, and he is become my salvation: he [is] my God, and I will prepare him an habitation; my father’s God, and I will exalt him.
-<small><sub>**BSB:**</sub></small>
-The LORD is my strength and my song, and He has become my salvation. He is my God, and I will praise Him, my father’s God, and I will exalt Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.1|<< Exodus 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.3|Exodus 15:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 15:2** is...

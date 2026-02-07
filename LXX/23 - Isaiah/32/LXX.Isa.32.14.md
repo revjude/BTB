@@ -1,10 +1,7 @@
 **LXX Isaiah 32:14** 
 <small><sub>**LXX:**</sub></small>
 \[The\] houses are being abandoned; they shall leave \[the\] riches of \[the\] city and desirable houses. And the towns will be caves unto the eon, a gladness for wild donkeys, pastures for shepherds; 
-<small><sub>**KJV:**</sub></small>
-Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses, a pasture of flocks;
-<small><sub>**BSB:**</sub></small>
-For the palace will be forsaken, the busy city abandoned. The hill and the watchtower will become caves forever—the delight of wild donkeys and a pasture for flocks—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.13|<< Isaiah 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.15|Isaiah 32:15 >>]]</td></tr></table>
 
 | Translation | Greek |

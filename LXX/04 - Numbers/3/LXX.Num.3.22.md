@@ -1,10 +1,7 @@
 **LXX Numbers 3:22** 
 <small><sub>**LXX:**</sub></small>
  their numbering according to \[the\] number of every male from a month and up \[in\] their numbering -- seven thousand and five hundred. 
-<small><sub>**KJV:**</sub></small>
-Those that were numbered of them, according to the number of all the males, from a month old and upward, [even] those that were numbered of them [were] seven thousand and five hundred.
-<small><sub>**BSB:**</sub></small>
-The number of all the males a month old or more was 7,500.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.21|<< Numbers 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.23|Numbers 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

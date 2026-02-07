@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:35** 
 <small><sub>**LXX:**</sub></small>
 And behold, there \[are\] with you Zadok and Abiathar the priests. And it will be every word which ever you should hear from out of \[the\] house of the king, that you shall report \[it\]  to Zadok and  Abiathar the priests. 
-<small><sub>**KJV:**</sub></small>
-And [hast thou] not there with thee Zadok and Abiathar the priests? therefore it shall be, [that] what thing soever thou shalt hear out of the king’s house, thou shalt tell [it] to Zadok and Abiathar the priests.
-<small><sub>**BSB:**</sub></small>
-Will not Zadok and Abiathar the priests be there with you? Report to them everything you hear from the king’s palace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.34|<< 2 Samuel 15:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.36|2 Samuel 15:36 >>]]</td></tr></table>
 
 | Translation | Greek |

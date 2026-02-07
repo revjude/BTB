@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:19** 
 <small><sub>**LXX:**</sub></small>
 No way shall there fail a man of the sons of Jonadab son of Rechab standing in front of me all the days. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD of hosts, the God of Israel; Jonadab the son of Rechab shall not want a man to stand before me for ever.
-<small><sub>**BSB:**</sub></small>
-this is what the LORD of Hosts, the God of Israel, says: Jonadab son of Rechab will never fail to have a man to stand before Me.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.18|<< Jeremiah 35:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.1|Jeremiah 36:1 >>]]</td></tr></table>
 
 | Translation | Greek |

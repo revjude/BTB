@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say  to Sor, to the one dwelling upon the entrance of the sea, to the market-place of the peoples from many islands, Thus says Adonai \[the\] <span class="smallcaps">lord</span>  to Sor, You said, I invested myself with my beauty. 
-<small><sub>**KJV:**</sub></small>
-And say unto Tyrus, O thou that art situate at the entry of the sea, [which art] a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, thou hast said, I [am] of perfect beauty.
-<small><sub>**BSB:**</sub></small>
-Tell Tyre, who dwells at the gateway to the sea, merchant of the peoples on many coasts, that this is what the Lord GOD says: You have said, O Tyre, ‘I am perfect in beauty.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.2|<< Ezekiel 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.4|Ezekiel 27:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 27:3** is...

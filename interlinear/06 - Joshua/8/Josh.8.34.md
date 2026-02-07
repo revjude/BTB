@@ -1,4 +1,4 @@
-**Joshua 8:34** 
+**Joshua 8:34**<big><big>[[Josh.8.30 Joshua Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward he read all the words of the law, the blessings and cursings, according to all that is written in the book of the law.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Afterward, Joshua read aloud all the words of the law—the blessings and the cu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.33|<< Joshua 8:33]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.35|Joshua 8:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַֽחֲרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.rei-<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

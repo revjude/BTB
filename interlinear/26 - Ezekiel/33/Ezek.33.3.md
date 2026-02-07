@@ -1,4 +1,4 @@
-**Ezekiel 33:3** 
+**Ezekiel 33:3**<big><big>[[Ezek.33.1 Ezekiel the Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If when he seeth the sword come upon the land, he blow the trumpet, and warn the people;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he sees the sword coming against that land and blows the ram’s horn to war
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.2|<< Ezekiel 33:2]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.4|Ezekiel 33:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will see  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'Ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

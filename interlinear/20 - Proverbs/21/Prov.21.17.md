@@ -1,4 +1,4 @@
-**Proverbs 21:17** 
+**Proverbs 21:17**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that loveth pleasure [shall be] a poor man: he that loveth wine and oil shall not be rich.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who loves pleasure will become poor; the one who loves wine and oil will neve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.16|<< Proverbs 21:16]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.18|Proverbs 21:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [will be] a person of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | poverty  |**<big>&#8207;[[H4270\|מַ֭חְסוֹר]]&#8207; </big>**| Mach.sor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

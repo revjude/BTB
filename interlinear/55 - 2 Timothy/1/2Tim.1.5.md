@@ -1,12 +1,12 @@
-**2 Timothy 1:5
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:5**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.
 <small><sub>**BSB:**</sub></small>
 I am reminded of your sincere faith, which first dwelt in your grandmother Lois and your mother Eunice, and I am convinced is in you as well.
 <small><sub>**Literal:**</sub></small>
 remembrance having taken of the within you sincere faith, which dwelt first in the grandmother of you Lois and in the mother of you Eunice, I have been persuaded now that also [it is] in you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.4|<< 2 Timothy 1:4]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.6|2 Timothy 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remembrance |**<big>[[G5280\|ὑπόμνησιν]]</big>**  |hupomnēsin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken [^1] |**<big>[[G2983\|λαβὼν]]</big>**  |labōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 50:24** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to his brothers, saying, I die, and visiting, God will visit you, and lead you from out of  this land, into the land which God swore by an oath \[to\] your fathers, Abraham, Isaac, and Jacob. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
-<small><sub>**BSB:**</sub></small>
-Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.23|<< Genesis 50:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.25|Genesis 50:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 50:24** is...

@@ -1,4 +1,4 @@
-**Exodus 39:32** 
+**Exodus 39:32**<big><big>[[Exod.39.32 Moses Approves the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus was all the work of the tabernacle of the tent of the congregation finished: and the children of Israel did according to all that the LORD commanded Moses, so did they.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all the work for the tabernacle, the Tent of Meeting, was completed. The Isra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.31|<< Exodus 39:31]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.33|Exodus 39:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was finished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615G\|תֵּ֕כֶל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.khel<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

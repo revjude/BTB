@@ -1,4 +1,4 @@
-**1 Samuel 19:8** 
+**1 Samuel 19:8**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When war broke out again, David went out and fought the Philistines and struck t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.7|<< 1 Samuel 19:7]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.9|1 Samuel 19:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|תּ֥וֹסֶף]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.sef<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the war  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4421\|מִּלְחָמָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

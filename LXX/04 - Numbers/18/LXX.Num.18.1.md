@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Aaron, You and  your sons, and the house  of your father with you shall take the sins \[associated with\] the holies; and you and  your sons with you shall take the sins  \[associated with\] your priesthood. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.
-<small><sub>**BSB:**</sub></small>
-So the LORD said to Aaron, “You and your sons and your father’s house must bear the iniquity involving the sanctuary. And you and your sons alone must bear the iniquity involving your priesthood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.13|<< Numbers 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.2|Numbers 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

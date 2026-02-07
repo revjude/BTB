@@ -1,4 +1,4 @@
-**Psalms 5:6** (5:7)
+**Psalms 5:6**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You destroy those who tell lies; the LORD abhors the man of bloodshed and deceit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.5|<< Psalms 5:5]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.7|Psalms 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you destroy  |**<big>&#8207;[[H0006\|תְּאַבֵּד֮]]&#8207; </big>**| te.'a.Bed<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] speak  |**<big>&#8207;[[H1696G\|דֹּבְרֵ֪י]]&#8207; </big>**| doe.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

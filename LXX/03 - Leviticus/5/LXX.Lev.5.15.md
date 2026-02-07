@@ -1,10 +1,7 @@
 **LXX Leviticus 5:15** 
 <small><sub>**LXX:**</sub></small>
 \[The\] soul who ever should be unaware himself \[with\] forgetfulness, and should sin unintentionally of the holy \[things\] of \[the\] <span class="smallcaps">lord</span>, then he shall bring  for his trespass \[offering\] to the <span class="smallcaps">lord</span> an unblemished ram of the flocks, of \[the\] value of silver of shekels, in the shekel in the holy \[place\], for what he trespassed. 
-<small><sub>**KJV:**</sub></small>
-If a soul commit a trespass, and sin through ignorance, in the holy things of the LORD; then he shall bring for his trespass unto the LORD a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering:
-<small><sub>**BSB:**</sub></small>
-“If someone acts unfaithfully and sins unintentionally against any of the LORD’s holy things, he must bring his guilt offering to the LORD: an unblemished ram from the flock, of proper value in silver shekels according to the sanctuary shekel; it is a guilt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.14|<< Leviticus 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.16|Leviticus 5:16 >>]]</td></tr></table>
 
 | Translation | Greek |

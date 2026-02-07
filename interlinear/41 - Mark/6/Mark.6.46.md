@@ -1,12 +1,12 @@
-**Mark 6:46
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:46**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had sent them away, he departed into a mountain to pray.
 <small><sub>**BSB:**</sub></small>
 After bidding them farewell, He went up on the mountain to pray.
 <small><sub>**Literal:**</sub></small>
 And having taken leave of them He departed into the mountain to pray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.45|<< Mark 6:45]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.47|Mark 6:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken leave |**<big>[[G0657\|ἀποταξάμενος]]</big>**  |apotaxamenos <small><sup>[[V-AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Nehemiah 2:15** 
+**Nehemiah 2:15**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and [so] returned.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so I went up the valley by night and inspected the wall. Then I headed back and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.14|<< Nehemiah 2:14]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.16|Nehemiah 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I was  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H1961\|אֱהִ֨י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Hi<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | going up  |**<big>&#8207;[[H5927G\|עֹלֶ֤ה]]&#8207; </big>**| 'o.Leh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

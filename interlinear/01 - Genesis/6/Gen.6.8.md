@@ -1,4 +1,4 @@
-**Genesis 6:8** 
+**Genesis 6:8**<big><big>[[Gen.6.8 Noah’s Favor with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Noah found grace in the eyes of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Noah, however, found favor in the eyes of the LORD.
 > $\quad$ referenced by: [[Heb.11.7|Heb 11:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Noah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5146\|נֹ֕חַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he found  |**<big>&#8207;[[H4672\|מָ֥צָא]]&#8207; </big>**| Ma.tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

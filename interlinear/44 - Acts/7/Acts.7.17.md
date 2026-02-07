@@ -1,5 +1,5 @@
-**Acts 7:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:17**<big><big>[[Acts.7.15 Israel Oppressed in Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,
 <small><sub>**BSB:**</sub></small>
 As the time drew near for God to fulfill His promise to Abraham, our people in Egypt increased greatly in number.
@@ -10,7 +10,7 @@ Even as now was drawing near the time of the promise that he agreed <the> God <t
 > $\quad$ alluding to: [[LXX.Exod.1.7|Exod 1:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

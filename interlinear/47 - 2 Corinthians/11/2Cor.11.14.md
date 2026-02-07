@@ -1,12 +1,12 @@
-**2 Corinthians 11:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:14**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And no marvel; for Satan himself is transformed into an angel of light.
 <small><sub>**BSB:**</sub></small>
 And no wonder, for Satan himself masquerades as an angel of light.
 <small><sub>**Literal:**</sub></small>
 And no wonder; himself for <the> Satan masquerades as an angel of light;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.13|<< 2 Corinthians 11:13]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.15|2 Corinthians 11:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

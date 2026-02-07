@@ -1,10 +1,7 @@
 **LXX Esther 5:4** 
 <small><sub>**LXX:**</sub></small>
 And Esther said, Today is a notable day for me. If then it seems \[good\] to the king, both the king and Haman come to the banquet which I shall prepare today! 
-<small><sub>**KJV:**</sub></small>
-And Esther answered, If [it seem] good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him.
-<small><sub>**BSB:**</sub></small>
-“If it pleases the king,” Esther replied, “may the king and Haman come today to the banquet I have prepared for the king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.3|<< Esther 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.5|Esther 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

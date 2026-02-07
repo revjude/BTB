@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 O city of blood, entirely false, full of iniquity, \[the\] game shall not be handled. 
-<small><sub>**KJV:**</sub></small>
-Woe to the bloody city! it [is] all full of lies [and] robbery; the prey departeth not;
-<small><sub>**BSB:**</sub></small>
-Woe to the city of blood, full of lies, full of plunder, never without prey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.13|<< Nahum 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.2|Nahum 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

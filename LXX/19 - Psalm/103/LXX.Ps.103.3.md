@@ -1,10 +1,7 @@
 **LXX Psalm 103:3** 
 <small><sub>**LXX:**</sub></small>
 the one propitiating all  your lawlessnesses; the one healing all  your diseases; 
-<small><sub>**KJV:**</sub></small>
-Who forgiveth all thine iniquities; who healeth all thy diseases;
-<small><sub>**BSB:**</sub></small>
-He who forgives all your iniquities and heals all your diseases,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.103.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.2|<< Psalm 103:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.4|Psalm 103:4 >>]]</td></tr></table>
 
 | Translation | Greek |

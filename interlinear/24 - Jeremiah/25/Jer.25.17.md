@@ -1,4 +1,4 @@
-**Jeremiah 25:17** 
+**Jeremiah 25:17**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then took I the cup at the LORD’S hand, and made all the nations to drink, unto whom the LORD had sent me:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I took the cup from the LORD’s hand and made all the nations drink from it,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.16|<< Jeremiah 25:16]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.18|Jeremiah 25:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I took  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3947G\|אֶקַּ֥ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Kach<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

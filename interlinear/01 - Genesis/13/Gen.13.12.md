@@ -1,4 +1,4 @@
-**Genesis 13:12** 
+**Genesis 13:12**<big><big>[[Gen.13.10 Lot Proceeds toward Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched [his] tent toward Sodom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abram lived in the land of Canaan, but Lot settled in the cities of the plain an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.11|<< Genesis 13:11]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.13|Genesis 13:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Abram  |**<big>&#8207;[[H0087\|אַבְרָ֖ם]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he dwelt  |**<big>&#8207;[[H3427\|יָשַׁ֣ב]]&#8207; </big>**| ya.Shav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

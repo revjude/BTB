@@ -1,4 +1,4 @@
-**Genesis 12:2** 
+**Genesis 12:2**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will make you into a great nation, and I will bless you; I will make your name
 > $\quad$ referenced by: [[Heb.11.8|Heb 11:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so I may make you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6213H\|אֶֽעֶשְׂ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.'es.<small><sup>[[HVqu1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into a nation  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1471A\|ג֣וֹי]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

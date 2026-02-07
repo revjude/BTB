@@ -1,10 +1,7 @@
 **LXX Exodus 10:17** 
 <small><sub>**LXX:**</sub></small>
 Favorably receive then my  sin still now, and pray to \[the\] <span class="smallcaps">lord</span>  your God, and remove from me  this plague! 
-<small><sub>**KJV:**</sub></small>
-Now therefore forgive, I pray thee, my sin only this once, and intreat the LORD your God, that he may take away from me this death only.
-<small><sub>**BSB:**</sub></small>
-Now please forgive my sin once more and appeal to the LORD your God, that He may remove this death from me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.16|<< Exodus 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.18|Exodus 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

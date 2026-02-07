@@ -1,12 +1,12 @@
-**Matthew 12:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:1**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.
 <small><sub>**BSB:**</sub></small>
 At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick the heads of grain and eat them.
 <small><sub>**Literal:**</sub></small>
 At that [very] <the> time went <the> Jesus on the Sabbaths through the grainfields; <the> and the disciples of Him hungered and they began to pluck [the] heads of grain and to eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.30|<< Matthew 11:30]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.2|Matthew 12:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that [very] |**<big>[[G1565\|ἐκείνῳ]]</big>**  |ekeinō <small><sup>[[D-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

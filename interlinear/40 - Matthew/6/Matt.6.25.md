@@ -1,12 +1,12 @@
-**Matthew 6:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:25**<big><big>[[Matt.6.25 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?
 <small><sub>**BSB:**</sub></small>
 Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?
 <small><sub>**Literal:**</sub></small>
 Because of this I say to you; not do be anxious about the life of you what you may eat or what you may drink, nor about the body of you what you may put on. Surely <the> life more is <the> [than] food and the body <the> [than] clothing?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.24|<< Matthew 6:24]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.26|Matthew 6:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|Διὰ]]</big>**  |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

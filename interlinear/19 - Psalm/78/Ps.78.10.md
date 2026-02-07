@@ -1,4 +1,4 @@
-**Psalms 78:10** 
+**Psalms 78:10**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They kept not the covenant of God, and refused to walk in his law;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They failed to keep God’s covenant and refused to live by His law.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.9|<< Psalms 78:9]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.11|Psalms 78:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they kept  |**<big>&#8207;[[H8104G\|שָׁ֭מְרוּ]]&#8207; </big>**| Sham.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

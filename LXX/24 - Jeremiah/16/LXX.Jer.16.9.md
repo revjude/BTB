@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:9** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, Behold, I depose from out of  this place before  your eyes, and in  your days a voice of joy, and a voice of gladness, \[the\] voice of \[the\] groom, and \[the\] voice of \[the\] bride. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD of hosts, the God of Israel; Behold, I will cause to cease out of this place in your eyes, and in your days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts, the God of Israel, says: I am going to remove from this place, before your very eyes and in your days, the sounds of joy and gladness, the voices of the bride and bridegroom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.8|<< Jeremiah 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.10|Jeremiah 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

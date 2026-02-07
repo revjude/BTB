@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  those days Hezekiah was infirm unto death. And Isaiah son of Amoz the prophet entered to him. And he said to him, Thus says \[the\] <span class="smallcaps">lord</span>, Give charge concerning  your house! for you die, and shall not live. 
-<small><sub>**KJV:**</sub></small>
-In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live.
-<small><sub>**BSB:**</sub></small>
-In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.37|<< 2 Kings 19:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.2|2 Kings 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

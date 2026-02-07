@@ -1,10 +1,7 @@
 **LXX Psalm 86:6** 
 <small><sub>**LXX:**</sub></small>
 Give ear, O <span class="smallcaps">lord</span>, \[to\] my prayer, and take heed to the voice  of my supplication! 
-<small><sub>**KJV:**</sub></small>
-Give ear, O LORD, unto my prayer; and attend to the voice of my supplications.
-<small><sub>**BSB:**</sub></small>
-Hear my prayer, O LORD, and attend to my plea for mercy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.5|<< Psalm 86:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.7|Psalm 86:7 >>]]</td></tr></table>
 
 | Translation | Greek |

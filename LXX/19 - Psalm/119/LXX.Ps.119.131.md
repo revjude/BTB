@@ -1,10 +1,7 @@
 **LXX Psalm 119:131** 
 <small><sub>**LXX:**</sub></small>
  I opened my mouth and drew breath; for  your commandments I longed after. 
-<small><sub>**KJV:**</sub></small>
-I opened my mouth, and panted: for I longed for thy commandments.
-<small><sub>**BSB:**</sub></small>
-I open my mouth and pant, longing for Your commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.131|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.130|<< Psalm 119:130]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.132|Psalm 119:132 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Ephesians 2:22
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:22**<big><big>[[Eph.2.19 Christ Our Cornerstone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In whom ye also are builded together for an habitation of God through the Spirit.
 <small><sub>**BSB:**</sub></small>
 And in Him you too are being built together into a dwelling place for God in His Spirit.
 <small><sub>**Literal:**</sub></small>
 in whom also you yourselves are being built together for a habitation <the> of God in [the] Spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.21|<< Ephesians 2:21]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.1|Ephesians 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

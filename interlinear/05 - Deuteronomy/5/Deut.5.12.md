@@ -1,4 +1,4 @@
-**Deuteronomy 5:12** 
+**Deuteronomy 5:12**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Observe the Sabbath day by keeping it holy, as the LORD your God has commanded y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.11|<< Deuteronomy 5:11]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.13|Deuteronomy 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | keep  |**<big>&#8207;[[H8104G\|שָׁמ֣֛וֹר]]&#8207; </big>**[^1] | sha.Mor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

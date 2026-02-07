@@ -1,4 +1,4 @@
-**2 Samuel 7:26** 
+**2 Samuel 7:26**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let thy name be magnified for ever, saying, The LORD of hosts [is] the God over Israel: and let the house of thy servant David be established before thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that Your name will be magnified forever when it is said, ‘The LORD of Host
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.25|<< 2 Samuel 7:25]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.27|2 Samuel 7:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it may be great  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1431\|יִגְדַּ֨ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yig.Dal<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name your  |**<big>&#8207;[[H8034\|שִׁמְ]]&#8207;&#8207;[[H9021\|ךָ֤]]&#8207; </big>**| shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

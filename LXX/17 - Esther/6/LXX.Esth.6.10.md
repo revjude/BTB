@@ -1,10 +1,7 @@
 **LXX Esther 6:10** 
 <small><sub>**LXX:**</sub></small>
 And the king said  to Haman, You spoke well, you do thus  to Mordecai the Jew, to the one attending in the courtyard, and do not let fall from you a word which you spoke! 
-<small><sub>**KJV:**</sub></small>
-Then the king said to Haman, Make haste, [and] take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king’s gate: let nothing fail of all that thou hast spoken.
-<small><sub>**BSB:**</sub></small>
-“Hurry,” said the king to Haman, “and do just as you proposed. Take the robe and the horse to Mordecai the Jew, who is sitting at the king’s gate. Do not neglect anything that you have suggested.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.9|<< Esther 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.11|Esther 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

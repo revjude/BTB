@@ -1,4 +1,4 @@
-**Nehemiah 4:8** (4:2)
+**Nehemiah 4:8**<big><big>[[Neh.4.1 The Work Ridiculed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And conspired all of them together to come [and] to fight against Jerusalem, and to hinder it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and all of them conspired to come and fight against Jerusalem and create a hindr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.7|<< Nehemiah 4:7]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.9|Nehemiah 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they conspired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7194\|יִּקְשְׁר֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.she.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all of them  |**<big>&#8207;[[H3605\|כֻלָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| khu.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

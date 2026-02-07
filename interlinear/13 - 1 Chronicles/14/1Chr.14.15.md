@@ -1,4 +1,4 @@
-**1 Chronicles 14:15** 
+**1 Chronicles 14:15**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, [that] then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as you hear the sound of marching in the tops of the balsam trees, move 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.14|<< 1 Chronicles 14:14]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.16|1 Chronicles 14:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so may it be  |**<big>&#8207;[[H9002\|וִ֠]]&#8207;&#8207;[[H1961\|יהִי]]&#8207; </big>**| Vi.<small><sup>[[HC]]</sup></small> hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when hearing you  |**<big>&#8207;[[H9004\|כְּֽ]]&#8207;&#8207;[[H8085G\|שָׁמְעֲ]]&#8207;&#8207;[[H9041\|ךָ֞]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

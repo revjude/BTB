@@ -1,5 +1,5 @@
-**Acts 7:41
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:41**<big><big>[[Acts.7.39 The Rebellion of Israel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.
 <small><sub>**BSB:**</sub></small>
 At that time they made a calf and offered a sacrifice to the idol, rejoicing in the works of their hands.
@@ -10,7 +10,7 @@ And they made a calf in the days those and offered a sacrifice to the idol and t
 > $\quad$ alluding to: [[LXX.Exod.32.19|Exod 32:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they made a calf |**<big>[[G3447\|ἐμοσχοποίησαν]]</big>**  |emoschopoiēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

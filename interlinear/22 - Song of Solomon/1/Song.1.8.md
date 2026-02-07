@@ -1,4 +1,4 @@
-**Song of Solomon 1:8** 
+**Song of Solomon 1:8**<big><big>[[Song.1.8 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds’ tents.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you do not know, O fairest of women, follow the tracks of the flock, and graz
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.7|<< Song of Solomon 1:7]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.9|Song of Solomon 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

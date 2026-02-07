@@ -1,10 +1,7 @@
 **LXX Exodus 18:19** 
 <small><sub>**LXX:**</sub></small>
 Now then hear me! and I \[shall\] advise you, and God will be with you. You become to the people, the \[one\] before  God! and you shall offer  their words to  God. 
-<small><sub>**KJV:**</sub></small>
-Hearken now unto my voice, I will give thee counsel, and God shall be with thee: Be thou for the people to God-ward, that thou mayest bring the causes unto God:
-<small><sub>**BSB:**</sub></small>
-Now listen to me; I will give you some advice, and may God be with you. You must be the people’s representative before God and bring their causes to Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.18|<< Exodus 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.20|Exodus 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

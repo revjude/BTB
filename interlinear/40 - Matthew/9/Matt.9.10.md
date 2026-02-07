@@ -1,12 +1,12 @@
-**Matthew 9:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:10**<big><big>[[Matt.9.9 Jesus Calls Matthew|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples.
 <small><sub>**BSB:**</sub></small>
 Later, as Jesus was dining at Matthew’s house, many tax collectors and sinners came and ate with Him and His disciples.
 <small><sub>**Literal:**</sub></small>
 And it came to pass when he is reclining in the house, that behold many tax collectors and sinners having come they were reclining with <the> Jesus and the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.9|<< Matthew 9:9]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.11|Matthew 9:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

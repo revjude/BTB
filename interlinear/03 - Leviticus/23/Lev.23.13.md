@@ -1,4 +1,4 @@
-**Leviticus 23:13** 
+**Leviticus 23:13**<big><big>[[Lev.23.9 The Feast of Firstfruits|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the meat offering thereof [shall be] two tenth deals of fine flour mingled with oil, an offering made by fire unto the LORD [for] a sweet savour: and the drink offering thereof [shall be] of wine, the fourth [part] of an hin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ along with its grain offering of two-tenths of an ephah of fine flour mixed with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.12|<< Leviticus 23:12]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.14|Leviticus 23:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and grain offering its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4503G\|מִנְחָת]]&#8207;&#8207;[[H9023\|וֹ֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min.cha.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] two  |**<big>&#8207;[[H8147\|שְׁנֵ֨י]]&#8207; </big>**| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 13:13** 
 <small><sub>**LXX:**</sub></small>
 Every \[newborn\] opening \[the\] womb of donkey you shall barter for sheep. But if you should not barter you shall ransom it. Every first-born of man  of your sons you shall ransom. 
-<small><sub>**KJV:**</sub></small>
-And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.
-<small><sub>**BSB:**</sub></small>
-You must redeem every firstborn donkey with a lamb, and if you do not redeem it, you are to break its neck. And every firstborn of your sons you must redeem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.12|<< Exodus 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.14|Exodus 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 13:21** 
+**Isaiah 13:21**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But desert creatures will lie down there, and howling creatures will fill her ho
 > $\quad$ referenced by: [[Rev.18.2|Rev 18:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will lie down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7257\|רָבְצוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.ve.tzu-<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֣ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

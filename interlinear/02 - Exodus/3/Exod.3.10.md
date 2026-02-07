@@ -1,4 +1,4 @@
-**Exodus 3:10** 
+**Exodus 3:10**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come now therefore, and I will send thee unto Pharaoh, that thou mayest bring forth my people the children of Israel out of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore, go! I am sending you to Pharaoh to bring My people the Israelites out
 > $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go !  |**<big>&#8207;[[H1980K\|לְכָ֔]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| le.Kha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

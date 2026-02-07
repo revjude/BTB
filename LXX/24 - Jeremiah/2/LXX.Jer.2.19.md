@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:19** 
 <small><sub>**LXX:**</sub></small>
 Your defection shall correct you, and  your evil shall reprove you. And know and see that your forsaking me \[is\] bitter to you! says \[the\] <span class="smallcaps">lord</span>  your God. And I thought not well in you, says \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Thine own wickedness shall correct thee, and thy backslidings shall reprove thee: know therefore and see that [it is] an evil [thing] and bitter, that thou hast forsaken the LORD thy God, and that my fear [is] not in thee, saith the Lord GOD of hosts.
-<small><sub>**BSB:**</sub></small>
-Your own evil will discipline you; your own apostasies will reprimand you. Consider and realize how evil and bitter it is for you to forsake the LORD your God and to have no fear of Me,” declares the Lord GOD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.18|<< Jeremiah 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.20|Jeremiah 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

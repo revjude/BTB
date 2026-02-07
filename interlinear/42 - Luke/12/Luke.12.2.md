@@ -1,12 +1,12 @@
-**Luke 12:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:2**<big><big>[[Luke.12.1 The Leaven of the Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For there is nothing covered, that shall not be revealed; neither hid, that shall not be known.
 <small><sub>**BSB:**</sub></small>
 There is nothing concealed that will not be disclosed, and nothing hidden that will not be made known.
 <small><sub>**Literal:**</sub></small>
 No [thing] now concealed is which not will be revealed, nor hidden which not will be known.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.1|<< Luke 12:1]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.3|Luke 12:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No [thing] |**<big>[[G3762\|Οὐδὲν]]</big>**  |Ouden <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

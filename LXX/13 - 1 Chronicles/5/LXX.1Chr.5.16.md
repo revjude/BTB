@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:16** 
 <small><sub>**LXX:**</sub></small>
 And they dwelt in Gilead in Bashan, and in  her towns, and in in all the places round about Sharon, unto \[the\] exit. 
-<small><sub>**KJV:**</sub></small>
-And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.
-<small><sub>**BSB:**</sub></small>
-They lived in Gilead, in Bashan and its towns, and throughout the pasturelands of Sharon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.15|<< 1 Chronicles 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.17|1 Chronicles 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Daniel 11:18** 
 <small><sub>**LXX:**</sub></small>
 And he shall turn  his face unto the islands, and shall seize many. And rulers to cease their scorning, only  his scorning shall return to him. 
-<small><sub>**KJV:**</sub></small>
-After this shall he turn his face unto the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause [it] to turn upon him.
-<small><sub>**BSB:**</sub></small>
-Then he will turn his face to the coastlands and capture many of them. But a commander will put an end to his reproach and will turn it back upon him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.17|<< Daniel 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.19|Daniel 11:19 >>]]</td></tr></table>
 
 | Translation | Greek |

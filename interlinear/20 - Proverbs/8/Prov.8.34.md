@@ -1,4 +1,4 @@
-**Proverbs 8:34** 
+**Proverbs 8:34**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the man that heareth me, watching daily at my gates, waiting at the posts of my doors.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed is the man who listens to me, watching daily at my doors, waiting at the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.33|<< Proverbs 8:33]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.35|Proverbs 8:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַ֥שְֽׁרֵי]]&#8207; </big>**| 'Ash.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a person  |**<big>&#8207;[[H0120G\|אָדָם֮]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

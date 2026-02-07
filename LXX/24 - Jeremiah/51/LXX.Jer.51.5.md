@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:5** 
 <small><sub>**LXX:**</sub></small>
 For Israel and Judah have not been widowed from their God, from \[the\] <span class="smallcaps">lord</span> almighty. For  their land was filled with injustice from the holy \[things\] of Israel. 
-<small><sub>**KJV:**</sub></small>
-For Israel [hath] not [been] forsaken, nor Judah of his God, of the LORD of hosts; though their land was filled with sin against the Holy One of Israel.
-<small><sub>**BSB:**</sub></small>
-For Israel and Judah have not been abandoned by their God, the LORD of Hosts, though their land is full of guilt before the Holy One of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.4|<< Jeremiah 51:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.6|Jeremiah 51:6 >>]]</td></tr></table>
 
 | Translation | Greek |

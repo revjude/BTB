@@ -1,4 +1,4 @@
-**Numbers 21:18** 
+**Numbers 21:18**<big><big>[[Num.21.10 The Journey to Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The princes digged the well, the nobles of the people digged it, by [the direction of] the lawgiver, with their staves. And from the wilderness [they went] to Mattanah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The princes dug the well; the nobles of the people hollowed it out with their sc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.17|<< Numbers 21:17]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.19|Numbers 21:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a well  |**<big>&#8207;[[H0875\|בְּאֵ֞ר]]&#8207; </big>**| be.'Er<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] they dug it  |**<big>&#8207;[[H2658\|חֲפָר֣וּ]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| cha.fa.Ru.<small><sup>[[HVqp3cp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

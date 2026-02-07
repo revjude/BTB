@@ -1,10 +1,7 @@
 **LXX Genesis 8:18** 
 <small><sub>**LXX:**</sub></small>
 And Noah came forth, and  his wife, and  his sons, and the wives  of his sons with him. 
-<small><sub>**KJV:**</sub></small>
-And Noah went forth, and his sons, and his wife, and his sons’ wives with him:
-<small><sub>**BSB:**</sub></small>
-So Noah came out, along with his sons and his wife and his sons’ wives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.17|<< Genesis 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.19|Genesis 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

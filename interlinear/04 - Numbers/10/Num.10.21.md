@@ -1,4 +1,4 @@
-**Numbers 10:21** 
+**Numbers 10:21**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Kohathites set forward, bearing the sanctuary: and [the other] did set up the tabernacle against they came.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Kohathites set out, transporting the holy objects; the tabernacle was t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.20|<< Numbers 10:20]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.22|Numbers 10:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5265\|נָסְעוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.se.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Kohathites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6956\|קְּהָתִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ha.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

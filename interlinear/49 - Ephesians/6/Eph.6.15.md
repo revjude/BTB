@@ -1,5 +1,5 @@
-**Ephesians 6:15
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:15**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And your feet shod with the preparation of the gospel of peace;
 <small><sub>**BSB:**</sub></small>
 and with your feet fitted with the readiness of the gospel of peace.
@@ -10,7 +10,7 @@ and having shod the feet with [the] readiness of the gospel <the> of peace;<br><
 > $\quad$ alluding to: [[LXX.Isa.52.7|Isa 52:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having shod |**<big>[[G5265\|ὑποδησάμενοι]]</big>**  |hupodēsamenoi <small><sup>[[V-AMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

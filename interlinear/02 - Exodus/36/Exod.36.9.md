@@ -1,4 +1,4 @@
-**Exodus 36:9** 
+**Exodus 36:9**<big><big>[[Exod.36.8 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The length of one curtain [was] twenty and eight cubits, and the breadth of one curtain four cubits: the curtains [were] all of one size.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each curtain was twenty-eight cubits long and four cubits wide; all the curtains
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.8|<< Exodus 36:8]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.10|Exodus 36:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] length of  |**<big>&#8207;[[H0753\|אֹ֜רֶךְ]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the curtain  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3407\|יְרִיעָ֣ה]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.ri.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

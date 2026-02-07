@@ -1,10 +1,7 @@
 **LXX Leviticus 25:20** 
 <small><sub>**LXX:**</sub></small>
 And if you should say, What shall we eat in  this seventh year if we do not sow, and we do not gather in  our produce? 
-<small><sub>**KJV:**</sub></small>
-And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:
-<small><sub>**BSB:**</sub></small>
-Now you may wonder, ‘What will we eat in the seventh year if we do not sow or gather our produce?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.19|<< Leviticus 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.21|Leviticus 25:21 >>]]</td></tr></table>
 
 | Translation | Greek |

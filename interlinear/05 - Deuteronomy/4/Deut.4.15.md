@@ -1,4 +1,4 @@
-**Deuteronomy 4:15** 
+**Deuteronomy 4:15**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day [that] the LORD spake unto you in Horeb out of the midst of the fire:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So since you saw no form of any kind on the day the LORD spoke to you out of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.14|<< Deuteronomy 4:14]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.16|Deuteronomy 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take heed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8104H\|נִשְׁמַרְתֶּ֥ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nish.mar.Tem<small><sup>[[HVNq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | exceedingly  |**<big>&#8207;[[H3966\|מְאֹ֖ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

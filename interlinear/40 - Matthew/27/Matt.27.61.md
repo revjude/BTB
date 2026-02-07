@@ -1,12 +1,12 @@
-**Matthew 27:61
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:61**<big><big>[[Matt.27.57 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was Mary Magdalene, and the other Mary, sitting over against the sepulchre.
 <small><sub>**BSB:**</sub></small>
 Mary Magdalene and the other Mary were sitting there opposite the tomb.
 <small><sub>**Literal:**</sub></small>
 Was now there Mary <the> Magdalene and the other Mary sitting opposite the tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.60|<< Matthew 27:60]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.62|Matthew 27:62 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 11:7** 
+**Jeremiah 11:7**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I earnestly protested unto your fathers in the day [that] I brought them up out of the land of Egypt, [even] unto this day, rising early and protesting, saying, Obey my voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For from the time I brought your fathers out of the land of Egypt until today, I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.6|<< Jeremiah 11:6]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.8|Jeremiah 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to warn>  |**<big>&#8207;[[H5749B\|הָעֵ֨ד]]&#8207; </big>**| ha.'Ed<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

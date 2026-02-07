@@ -1,4 +1,4 @@
-**Ezekiel 5:6** 
+**Ezekiel 5:6**<big><big>[[Ezek.5.1 The Razor of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she hath changed my judgments into wickedness more than the nations, and my statutes more than the countries that [are] round about her: for they have refused my judgments and my statutes, they have not walked in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But she has rebelled against My ordinances more wickedly than the nations, and a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.5|<< Ezekiel 5:5]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.7|Ezekiel 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has rebelled against  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4784\|תֶּ֨מֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.mer<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

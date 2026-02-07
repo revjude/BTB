@@ -1,5 +1,5 @@
-**2 Corinthians 9:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:10**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now he that ministereth seed to the sower both minister bread for [your] food, and multiply your seed sown, and increase the fruits of your righteousness;)
 <small><sub>**BSB:**</sub></small>
 Now He who supplies seed to the sower and bread for food will supply and multiply your store of seed and will increase the harvest of your righteousness.
@@ -10,7 +10,7 @@ The [One] now supplying seed to him sowing and bread for food will supply and wi
 > $\quad$ referencing: [[LXX.Isa.55.10|Isa 55:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

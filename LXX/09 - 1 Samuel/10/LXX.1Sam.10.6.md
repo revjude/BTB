@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:6** 
 <small><sub>**LXX:**</sub></small>
 And spirit \[of the\] <span class="smallcaps">lord</span> shall spring upon you, and you shall prophesy with them, and you shall turn into another man. 
-<small><sub>**KJV:**</sub></small>
-And the Spirit of the LORD will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
-<small><sub>**BSB:**</sub></small>
-Then the Spirit of the LORD will rush upon you, and you will prophesy with them; and you will be transformed into a different person.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.5|<< 1 Samuel 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.7|1 Samuel 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 5:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:6**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had this done, they inclosed a great multitude of fishes: and their net brake.
 <small><sub>**BSB:**</sub></small>
 When they had done so, they caught such a large number of fish that their nets began to tear.
 <small><sub>**Literal:**</sub></small>
 And this having done they enclosed a multitude of fishes great; were breaking now the nets of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.5|<< Luke 5:5]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.7|Luke 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

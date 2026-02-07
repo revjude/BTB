@@ -1,12 +1,12 @@
-**Matthew 23:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:8**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But be not ye called Rabbi: for one is your Master, [even] Christ; and all ye are brethren.
 <small><sub>**BSB:**</sub></small>
 But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers.
 <small><sub>**Literal:**</sub></small>
 you yourselves however not may be called Rabbi; One for is of you the Teacher <the> Christ all now you yourselves brothers are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.7|<< Matthew 23:7]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.9|Matthew 23:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

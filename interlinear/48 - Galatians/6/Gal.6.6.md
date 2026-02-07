@@ -1,12 +1,12 @@
-**Galatians 6:6
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:6**<big><big>[[Gal.6.1 Carry One Another’s Burdens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let him that is taught in the word communicate unto him that teacheth in all good things.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, the one who receives instruction in the word must share in all good things with his instructor.
 <small><sub>**Literal:**</sub></small>
 should share now the [one] being taught in the word with the [one] teaching in all good things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.5|<< Galatians 6:5]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.7|Galatians 6:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | should share |**<big>[[G2841\|κοινωνείτω]]</big>**  |koinōneitō <small><sup>[[V-PAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

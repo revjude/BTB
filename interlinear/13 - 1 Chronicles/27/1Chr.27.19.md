@@ -1,4 +1,4 @@
-**1 Chronicles 27:19** 
+**1 Chronicles 27:19**<big><big>[[1Chr.27.16 The Leaders of the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ over Zebulun was Ishmaiah son of Obadiah; over Naphtali was Jerimoth son of Azri
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.18|<< 1 Chronicles 27:18]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.20|1 Chronicles 27:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for Zebulun  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H2074\|זְבוּלֻ֕ן]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> z.vu.Lun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ishmaiah  |**<big>&#8207;[[H3460H\|יִֽשְׁמַֽעְיָ֖הוּ]]&#8207; </big>**| yish.ma'.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

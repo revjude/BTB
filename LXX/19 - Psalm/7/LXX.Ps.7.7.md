@@ -1,10 +1,7 @@
 **LXX Psalm 7:7** 
 <small><sub>**LXX:**</sub></small>
 And a gathering of peoples shall encircle you; and for this return unto \[the\] height! 
-<small><sub>**KJV:**</sub></small>
-So shall the congregation of the people compass thee about: for their sakes therefore return thou on high.
-<small><sub>**BSB:**</sub></small>
-Let the assembled peoples gather around You; take Your seat over them on high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.6|<< Psalm 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.8|Psalm 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:16** 
 <small><sub>**LXX:**</sub></small>
 And I will appoint fire unto Egypt. And Sin shall be disturbed with a disturbance. And in Diospolis there will be inundation, and waters shall be dispersed. 
-<small><sub>**KJV:**</sub></small>
-And I will set fire in Egypt: Sin shall have great pain, and No shall be rent asunder, and Noph [shall have] distresses daily.
-<small><sub>**BSB:**</sub></small>
-I will set fire to Egypt, Pelusium will writhe in anguish, Thebes will be split open, and Memphis will face daily distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.15|<< Ezekiel 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.17|Ezekiel 30:17 >>]]</td></tr></table>
 
 | Translation | Greek |

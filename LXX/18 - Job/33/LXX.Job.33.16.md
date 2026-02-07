@@ -1,10 +1,7 @@
 **LXX Job 33:16** 
 <small><sub>**LXX:**</sub></small>
 then he uncovers \[the\] mind of men in sights of fear; with such he frightens them, 
-<small><sub>**KJV:**</sub></small>
-Then he openeth the ears of men, and sealeth their instruction,
-<small><sub>**BSB:**</sub></small>
-He opens their ears and terrifies them with warnings<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.15|<< Job 33:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.17|Job 33:17 >>]]</td></tr></table>
 
 | Translation | Greek |

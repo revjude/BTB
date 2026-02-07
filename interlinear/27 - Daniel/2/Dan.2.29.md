@@ -1,4 +1,4 @@
-**Daniel 2:29** 
+**Daniel 2:29**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for thee, O king, thy thoughts came [into thy mind] upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As you lay on your bed, O king, your thoughts turned to the future, and the Reve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.28|<< Daniel 2:28]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.30|Daniel 2:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0607\|אַ֣נְתְּ]]&#8207; </big>**[^1] [^2] | 'an.tah<small><sup>[[APp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | king O  |**<big>&#8207;[[H4430\|מַלְכָּ֗]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

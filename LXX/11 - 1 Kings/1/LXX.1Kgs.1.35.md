@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:35** 
 <small><sub>**LXX:**</sub></small>
 And you shall ascend after him. And he shall enter, and he shall sit upon  my throne, and he shall reign instead of me. And to him I gave charge  to be for leader over Israel and over Judah. 
-<small><sub>**KJV:**</sub></small>
-Then ye shall come up after him, that he may come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be ruler over Israel and over Judah.
-<small><sub>**BSB:**</sub></small>
-Then you shall go up with him, and he is to come and sit on my throne and reign in my place. For I have appointed him ruler over Israel and Judah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.34|<< 1 Kings 1:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.36|1 Kings 1:36 >>]]</td></tr></table>
 
 | Translation | Greek |

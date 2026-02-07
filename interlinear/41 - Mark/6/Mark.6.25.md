@@ -1,12 +1,12 @@
-**Mark 6:25
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:25**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she came in straightway with haste unto the king, and asked, saying, I will that thou give me by and by in a charger the head of John the Baptist.
 <small><sub>**BSB:**</sub></small>
 At once the girl hurried back to the king with her request: “I want you to give me the head of John the Baptist on a platter immediately.”
 <small><sub>**Literal:**</sub></small>
 And having entered immediately with haste to the king she asked saying; I desire that at once may you give to me on a platter the head of John the Baptist.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.24|<< Mark 6:24]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.26|Mark 6:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having entered |**<big>[[G1525\|εἰσελθοῦσα]]</big>**  |eiselthousa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

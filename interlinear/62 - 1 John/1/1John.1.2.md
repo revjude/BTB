@@ -1,12 +1,12 @@
-**1 John 1:2
-**<small><sub>**KJV:**</sub></small>
+**1 John 1:2**<big><big>[[1John.1.1 The Word of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For the life was manifested, and we have seen [it], and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)
 <small><sub>**BSB:**</sub></small>
 And this is the life that was revealed; we have seen it and testified to it, and we proclaim to you the eternal life that was with the Father and was revealed to us.
 <small><sub>**Literal:**</sub></small>
 and the life was made manifest, and we have seen and bear witness and we proclaim to you the life <the> eternal which was with the Father and was revealed to us —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.1|<< 1 John 1:1]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.3|1 John 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

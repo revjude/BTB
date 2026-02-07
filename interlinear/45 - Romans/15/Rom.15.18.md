@@ -1,12 +1,12 @@
-**Romans 15:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:18**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,
 <small><sub>**BSB:**</sub></small>
 I will not presume to speak of anything except what Christ has accomplished through me in leading the Gentiles to obedience by word and deed,
 <small><sub>**Literal:**</sub></small>
 Not for will I dare anything to speak of what except has accomplished Christ through me unto [the] obedience of [the] Gentiles by word and by deed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.17|<< Romans 15:17]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.19|Romans 15:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

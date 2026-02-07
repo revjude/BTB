@@ -1,4 +1,4 @@
-**Deuteronomy 28:52** 
+**Deuteronomy 28:52**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the LORD thy God hath given thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will besiege all the cities throughout your land, until the high and fortif
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.51|<< Deuteronomy 28:51]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.53|Deuteronomy 28:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will lay siege  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6887B\|הֵצַ֨ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Tzar<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֜]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

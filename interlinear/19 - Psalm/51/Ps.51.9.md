@@ -1,4 +1,4 @@
-**Psalms 51:9** (51:11)
+**Psalms 51:9**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hide thy face from my sins, and blot out all mine iniquities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hide Your face from my sins and blot out all my iniquities.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.8|<< Psalms 51:8]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.10|Psalms 51:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hide  |**<big>&#8207;[[H5641\|הַסְתֵּ֣ר]]&#8207; </big>**| has.Ter<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | face your  |**<big>&#8207;[[H6440H\|פָּ֭נֶי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Pa.nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

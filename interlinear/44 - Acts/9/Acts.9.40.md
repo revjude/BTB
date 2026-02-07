@@ -1,12 +1,12 @@
-**Acts 9:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:40**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter put them all forth, and kneeled down, and prayed; and turning [him] to the body said, Tabitha, arise. And she opened her eyes: and when she saw Peter, she sat up.
 <small><sub>**BSB:**</sub></small>
 Then Peter sent them all out of the room. He knelt down and prayed, and turning toward her body, he said, “Tabitha, get up!” She opened her eyes, and seeing Peter, she sat up.
 <small><sub>**Literal:**</sub></small>
 Having put then outside all <the> Peter and having bowed the knees he prayed; And having turned to the body he said; Tabitha, do arise. <the> And she opened the eyes of her and having seen <the> Peter she sat up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.39|<< Acts 9:39]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.41|Acts 9:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having put |**<big>[[G1544\|ἐκβαλὼν]]</big>**  |ekbalōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

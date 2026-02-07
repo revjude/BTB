@@ -1,4 +1,4 @@
-**Lamentations 5:1** 
+**Lamentations 5:1**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, O LORD, what is come upon us: consider, and behold our reproach.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember, O LORD, what has happened to us. Look and see our disgrace!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.22|<< Lamentations 4:22]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.2|Lamentations 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זְכֹ֤ר]]&#8207; </big>**| ze.Khor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

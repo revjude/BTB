@@ -1,12 +1,12 @@
-**Luke 18:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:18**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?
 <small><sub>**BSB:**</sub></small>
 Then a certain ruler asked Him, “Good Teacher, what must I do to inherit eternal life?”
 <small><sub>**Literal:**</sub></small>
 And asked a certain Him ruler saying; Teacher good, what having done life eternal will I inherit?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.17|<< Luke 18:17]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.19|Luke 18:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | asked |**<big>[[G1905\|ἐπηρώτησέν]]</big>**  |epērōtēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

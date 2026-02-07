@@ -1,4 +1,4 @@
-**1 Chronicles 21:12** 
+**1 Chronicles 21:12**<big><big>[[1Chr.21.7 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh [thee]; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ between three years of famine, three months of being swept away before your enem
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.11|<< 1 Chronicles 21:11]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.13|1 Chronicles 21:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whether  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שָׁל֨וֹשׁ]]&#8207; </big>**| sha.Lo.osh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

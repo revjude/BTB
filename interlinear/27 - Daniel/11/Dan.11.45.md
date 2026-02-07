@@ -1,4 +1,4 @@
-**Daniel 11:45** 
+**Daniel 11:45**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will pitch his royal tents between the sea and the beautiful holy mountain, b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.44|<< Daniel 11:44]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.1|Daniel 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so he may pitch  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5193\|יִטַּע֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.Ta'<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tents of  |**<big>&#8207;[[H0168G\|אָהֳלֶ֣י]]&#8207; </big>**| 'o.ho.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

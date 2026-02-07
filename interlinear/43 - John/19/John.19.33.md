@@ -1,12 +1,12 @@
-**John 19:33
-**<small><sub>**KJV:**</sub></small>
+**John 19:33**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when they came to Jesus, and saw that he was dead already, they brake not his legs:
 <small><sub>**BSB:**</sub></small>
 But when they came to Jesus and saw that He was already dead, they did not break His legs.
 <small><sub>**Literal:**</sub></small>
 to however <the> Jesus having come, when they saw already Him having been dead, not they did break His <the> legs,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.32|<< John 19:32]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.34|John 19:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

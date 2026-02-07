@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:25** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, If my covenant may not be to the day and to the night, and laws of the heaven and of the earth, \[then\] I ordained not. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; If my covenant [be] not with day and night, [and if] I have not appointed the ordinances of heaven and earth;
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: If I have not established My covenant with the day and the night and the fixed order of heaven and earth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.24|<< Jeremiah 33:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.26|Jeremiah 33:26 >>]]</td></tr></table>
 
 | Translation | Greek |

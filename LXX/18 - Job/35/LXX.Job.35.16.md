@@ -1,10 +1,7 @@
 **LXX Job 35:16** 
 <small><sub>**LXX:**</sub></small>
 even Job acting in folly opens  his mouth; in ignorance he weighs down words. 
-<small><sub>**KJV:**</sub></small>
-Therefore doth Job open his mouth in vain; he multiplieth words without knowledge.
-<small><sub>**BSB:**</sub></small>
-So Job opens his mouth in vain and multiplies words without knowledge.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.35.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.15|<< Job 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.1|Job 36:1 >>]]</td></tr></table>
 
 | Translation | Greek |

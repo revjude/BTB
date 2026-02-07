@@ -1,4 +1,4 @@
-**Daniel 2:27** 
+**Daniel 2:27**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise [men], the astrologers, the magicians, the soothsayers, shew unto the king;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Daniel answered the king, “No wise man, enchanter, medium, or magician can exp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.26|<< Daniel 2:26]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.28|Daniel 2:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] replying  |**<big>&#8207;[[H6032\|עָנֵ֧ה]]&#8207; </big>**| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Daniel  |**<big>&#8207;[[H1841H\|דָנִיֵּ֛אל]]&#8207; </big>**| da.ni.Yel<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

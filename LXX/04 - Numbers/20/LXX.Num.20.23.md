@@ -1,10 +1,7 @@
 **LXX Numbers 20:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses and Aaron in Hor, in the mountain, upon the borders of the land of Edom, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses and Aaron in mount Hor, by the coast of the land of Edom, saying,
-<small><sub>**BSB:**</sub></small>
-And at Mount Hor, near the border of the land of Edom, the LORD said to Moses and Aaron,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.22|<< Numbers 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.24|Numbers 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

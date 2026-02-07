@@ -1,4 +1,4 @@
-**Jeremiah 49:31** 
+**Jeremiah 49:31**<big><big>[[Jer.49.28 Judgment on Kedar and Hazor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, get you up unto the wealthy nation, that dwelleth without care, saith the LORD, which have neither gates nor bars, [which] dwell alone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rise up, advance against a nation at ease, one that dwells securely,” declares
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.30|<< Jeremiah 49:30]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.32|Jeremiah 49:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֣וּמוּ]]&#8207; </big>**| Ku.mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go up  |**<big>&#8207;[[H5927G\|עֲל֗וּ]]&#8207; </big>**| 'a.Lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

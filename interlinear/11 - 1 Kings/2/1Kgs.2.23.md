@@ -1,4 +1,4 @@
-**1 Kings 2:23** 
+**1 Kings 2:23**<big><big>[[1Kgs.2.13 The Execution of Adonijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then king Solomon sware by the LORD, saying, God do so to me, and more also, if Adonijah have not spoken this word against his own life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then King Solomon swore by the LORD: “May God punish me, and ever so severely,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.22|<< 1 Kings 2:22]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.24|1 Kings 2:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he swore an oath  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7650\|יִּשָּׁבַע֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sha.Va'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֣לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

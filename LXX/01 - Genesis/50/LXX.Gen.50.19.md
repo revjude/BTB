@@ -1,10 +1,7 @@
 **LXX Genesis 50:19** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to them, \[Do\] not fear!  for I am of God. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto them, Fear not: for [am] I in the place of God?
-<small><sub>**BSB:**</sub></small>
-But Joseph replied, “Do not be afraid. Am I in the place of God?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.18|<< Genesis 50:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.20|Genesis 50:20 >>]]</td></tr></table>
 
 | Translation | Greek |

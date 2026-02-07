@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:27** 
 <small><sub>**LXX:**</sub></small>
 For I know the aggravation \[caused by\] you, and  your hard neck. For still \[in\] my living with you today, you \[have been\] embittering greatly the \[things\] towards  God; how not so also at \[the\] last  at my death? 
-<small><sub>**KJV:**</sub></small>
-For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against the LORD; and how much more after my death?
-<small><sub>**BSB:**</sub></small>
-For I know how rebellious and stiff-necked you are. If you are already rebelling against the LORD while I am still alive, how much more will you rebel after my death!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.26|<< Deuteronomy 31:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.28|Deuteronomy 31:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:27** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Shimei \[there were\] sixteen sons, and six daughters; and \[to\] his brethren there were not many sons. And among all  their families they multiplied not as \[the\] sons of Judah. 
-<small><sub>**KJV:**</sub></small>
-And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah.
-<small><sub>**BSB:**</sub></small>
-Shimei had sixteen sons and six daughters, but his brothers did not have many children, so their whole clan did not become as numerous as the sons of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.26|<< 1 Chronicles 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.28|1 Chronicles 4:28 >>]]</td></tr></table>
 
 | Translation | Greek |

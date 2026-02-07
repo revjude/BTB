@@ -1,10 +1,7 @@
 **LXX Exodus 32:31** 
 <small><sub>**LXX:**</sub></small>
 And Moses returned to \[the\] <span class="smallcaps">lord</span>, and said, I beseech O <span class="smallcaps">lord</span>, this people have sinned a great sin, and made to themselves golden gods. 
-<small><sub>**KJV:**</sub></small>
-And Moses returned unto the LORD, and said, Oh, this people have sinned a great sin, and have made them gods of gold.
-<small><sub>**BSB:**</sub></small>
-So Moses returned to the LORD and said, “Oh, what a great sin these people have committed! They have made gods of gold for themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.30|<< Exodus 32:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.32|Exodus 32:32 >>]]</td></tr></table>
 
 | Translation | Greek |

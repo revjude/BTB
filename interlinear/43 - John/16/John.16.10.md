@@ -1,12 +1,12 @@
-**John 16:10
-**<small><sub>**KJV:**</sub></small>
+**John 16:10**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of righteousness, because I go to my Father, and ye see me no more;
 <small><sub>**BSB:**</sub></small>
 in regard to righteousness, because I am going to the Father and you will no longer see Me;
 <small><sub>**Literal:**</sub></small>
 concerning righteousness however, because to the Father of mine I go away, and no longer you behold Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.9|<< John 16:9]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.11|John 16:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | righteousness |**<big>[[G1343\|δικαιοσύνης]]</big>**  |dikaiosunēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

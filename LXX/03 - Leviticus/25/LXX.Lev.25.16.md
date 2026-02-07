@@ -1,10 +1,7 @@
 **LXX Leviticus 25:16** 
 <small><sub>**LXX:**</sub></small>
 In so far as \[there might be\] many of the years, he shall multiply the \[value of\] his possession; and in so far as \[there might be\] less of the years, he shall lessen \[the value\]  of his possession; for by number of the produce \[years left\] shall he sell to you. 
-<small><sub>**KJV:**</sub></small>
-According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for [according] to the number [of the years] of the fruits doth he sell unto thee.
-<small><sub>**BSB:**</sub></small>
-You shall increase the price in proportion to a greater number of years, or decrease it in proportion to a lesser number of years; for he is selling you a given number of harvests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.15|<< Leviticus 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.17|Leviticus 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

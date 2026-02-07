@@ -1,4 +1,4 @@
-**Numbers 11:20** 
+**Numbers 11:20**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the LORD which [is] among you, and have wept before him, saying, Why came we forth out of Egypt?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but for a whole month—until it comes out of your nostrils and makes you nauseo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.19|<< Numbers 11:19]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.21|Numbers 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַ֣ד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a month of  |**<big>&#8207;[[H2320G\|חֹ֣דֶשׁ]]&#8207; </big>**| Cho.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 35:5** 
+**Genesis 35:5**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they journeyed: and the terror of God was upon the cities that [were] round about them, and they did not pursue after the sons of Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As they set out, a terror from God fell over the surrounding cities, so that the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.4|<< Genesis 35:4]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.6|Genesis 35:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסָּ֑עוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

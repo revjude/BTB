@@ -1,10 +1,7 @@
 **LXX Proverbs 6:10** 
 <small><sub>**LXX:**</sub></small>
 A little then to sleep, and a little you sit down, and a little you slumber, and a little you fold your arms \[with\] hands to \[the\] breasts. 
-<small><sub>**KJV:**</sub></small>
-[Yet] a little sleep, a little slumber, a little folding of the hands to sleep:
-<small><sub>**BSB:**</sub></small>
-A little sleep, a little slumber, a little folding of the hands to rest,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.9|<< Proverbs 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.11|Proverbs 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

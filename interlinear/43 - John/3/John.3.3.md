@@ -1,12 +1,12 @@
-**John 3:3
-**<small><sub>**KJV:**</sub></small>
+**John 3:3**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Truly, truly, I tell you, no one can see the kingdom of God unless he is born again.”
 <small><sub>**Literal:**</sub></small>
 Answered <the> Jesus and said to him; Amen Amen I say to you; only unless someone shall be born from above, not he is able to see the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.2|<< John 3:2]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.4|John 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

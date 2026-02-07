@@ -1,4 +1,4 @@
-**2 Chronicles 9:29** 
+**2 Chronicles 9:29**<big><big>[[2Chr.9.29 The Death of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Solomon, first and last, [are] they not written in the book of Nathan the prophet, and in the prophecy of Ahijah the Shilonite, and in the visions of Iddo the seer against Jeroboam the son of Nebat?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the rest of the acts of Solomon, from beginning to end, are they not writ
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.28|<< 2 Chronicles 9:28]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.30|2 Chronicles 9:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] rest of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7605\|שְׁאָר֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'Ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] matters of  |**<big>&#8207;[[H1697K\|דִּבְרֵ֣י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 John 4:19
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:19**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We love him, because he first loved us.
 <small><sub>**BSB:**</sub></small>
 We love because He first loved us.
 <small><sub>**Literal:**</sub></small>
 We ourselves love him because He himself first loved us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.18|<< 1 John 4:18]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.20|1 John 4:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | love |**<big>[[G0025\|ἀγαπῶμεν]]</big>**  |agapōmen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

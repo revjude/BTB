@@ -1,4 +1,4 @@
-**Zechariah 10:9** 
+**Zechariah 10:9**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will sow them among the people: and they shall remember me in far countries; and they shall live with their children, and turn again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though I sow them among the nations, they will remember Me in distant lands; the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.8|<< Zechariah 10:8]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.10|Zechariah 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will sow them  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2232\|אֶזְרָעֵ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ez.ra.'E<small><sup>[[HVqu1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the peoples  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H5971A\|עַמִּ֔ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 26:22** 
 <small><sub>**LXX:**</sub></small>
 And departing from there, he dug another well. And they did not do combat over it. And he named the name of it, Expanse, saying, Because now \[the\] <span class="smallcaps">lord</span> widened us, and caused us to grow upon the earth. 
-<small><sub>**KJV:**</sub></small>
-And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the LORD hath made room for us, and we shall be fruitful in the land.
-<small><sub>**BSB:**</sub></small>
-He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth and said, “At last the LORD has made room for us, and we will be fruitful in the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.21|<< Genesis 26:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.23|Genesis 26:23 >>]]</td></tr></table>
 
 | Translation | Greek |

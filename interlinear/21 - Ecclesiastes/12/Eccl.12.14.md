@@ -1,4 +1,4 @@
-**Ecclesiastes 12:14** 
+**Ecclesiastes 12:14**<big><big>[[Eccl.12.9 The Whole Duty of Man|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For God shall bring every work into judgment, with every secret thing, whether [it be] good, or whether [it be] evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For God will bring every deed into judgment, along with every hidden thing, whet
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.13|<< Ecclesiastes 12:13]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.1|Song of Solomon 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

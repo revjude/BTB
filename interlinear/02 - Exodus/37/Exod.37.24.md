@@ -1,4 +1,4 @@
-**Exodus 37:24** 
+**Exodus 37:24**<big><big>[[Exod.37.17 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Of] a talent of pure gold made he it, and all the vessels thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made the lampstand and all its utensils from a talent of pure gold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.23|<< Exodus 37:23]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.25|Exodus 37:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a talent of  |**<big>&#8207;[[H3603H\|כִּכָּ֛ר]]&#8207; </big>**| ki.Kar<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָ֥ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

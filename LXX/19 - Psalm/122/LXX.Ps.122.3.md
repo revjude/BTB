@@ -1,10 +1,7 @@
 **LXX Psalm 122:3** 
 <small><sub>**LXX:**</sub></small>
 Jerusalem being built as a city of which the sharing of it \[is\] together. 
-<small><sub>**KJV:**</sub></small>
-Jerusalem is builded as a city that is compact together:
-<small><sub>**BSB:**</sub></small>
-Jerusalem is built up as a city united together,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.122.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.122.2|<< Psalm 122:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.122.4|Psalm 122:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ecclesiastes 2:2** 
+**Ecclesiastes 2:2**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said of laughter, [It is] mad: and of mirth, What doeth it?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I said of laughter, “It is folly,” and of pleasure, “What does it accompli
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.1|<< Ecclesiastes 2:1]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.3|Ecclesiastes 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of laughter  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7814\|שְׂח֖וֹק]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> s.Chok<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I said  |**<big>&#8207;[[H0559\|אָמַ֣רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

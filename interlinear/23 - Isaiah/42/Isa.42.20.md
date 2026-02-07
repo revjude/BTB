@@ -1,4 +1,4 @@
-**Isaiah 42:20** 
+**Isaiah 42:20**<big><big>[[Isa.42.18 Israel Is Deaf and Blind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seeing many things, but thou observest not; opening the ears, but he heareth not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though seeing many things, you do not keep watch. Though your ears are open, you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.19|<< Isaiah 42:19]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.21|Isaiah 42:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have seen  [^1]|**<big>&#8207;[[H7200G\|רָא֥וֹת]]&#8207; </big>**[^2] | ra.'i.ta<small><sup>[[HVqaa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | many [things]  |**<big>&#8207;[[H7227A\|רַבּ֖וֹת]]&#8207; </big>**| ra.Bot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

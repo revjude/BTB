@@ -1,10 +1,7 @@
 **LXX Genesis 13:3** 
 <small><sub>**LXX:**</sub></small>
 And he went from where he came into the wilderness, unto Beth-el, unto the place where his tent formerly was, between Beth-el and between Hai; 
-<small><sub>**KJV:**</sub></small>
-And he went on his journeys from the south even to Bethel, unto the place where his tent had been at the beginning, between Bethel and Hai;
-<small><sub>**BSB:**</sub></small>
-From the Negev he journeyed from place to place toward Bethel, until he came to the place between Bethel and Ai where his tent had formerly been pitched,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.2|<< Genesis 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.4|Genesis 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 16:7** 
 <small><sub>**LXX:**</sub></small>
 Moab shall shriek; for in the \[land of\] Moab all shall shriek. But among the ones dwelling Seth you shall meditate upon, and you shall not be ashamed. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kirhareseth shall ye mourn; surely [they are] stricken.
-<small><sub>**BSB:**</sub></small>
-Therefore let Moab wail; let them wail together for Moab. Moan for the raisin cakes of Kir-hareseth, you who are utterly stricken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.6|<< Isaiah 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.8|Isaiah 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

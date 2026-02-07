@@ -1,12 +1,12 @@
-**Luke 15:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:28**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he was angry, and would not go in: therefore came his father out, and intreated him.
 <small><sub>**BSB:**</sub></small>
 The older son became angry and refused to go in. So his father came out and pleaded with him.
 <small><sub>**Literal:**</sub></small>
 He was angry however and not he was willing to go in. <the> And the father of him having gone he was begging him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.27|<< Luke 15:27]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.29|Luke 15:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was angry |**<big>[[G3710\|ὠργίσθη]]</big>**  |ōrgisthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

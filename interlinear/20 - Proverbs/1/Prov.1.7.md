@@ -1,4 +1,4 @@
-**Proverbs 1:7** 
+**Proverbs 1:7**<big><big>[[Prov.1.1 The Beginning of Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the LORD [is] the beginning of knowledge: [but] fools despise wisdom and instruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fear of the LORD is the beginning of knowledge, but fools despise wisdom and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.6|<< Proverbs 1:6]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.8|Proverbs 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] fear of  |**<big>&#8207;[[H3374\|יִרְאַ֣ת]]&#8207; </big>**| yir.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Nehemiah 8:6** 
+**Nehemiah 8:6**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with [their] faces to the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Ezra blessed the LORD, the great God, and with their hands uplifted, all th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.5|<< Nehemiah 8:5]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.7|Nehemiah 8:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he blessed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יְבָ֣רֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Va.rekh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ezra  |**<big>&#8207;[[H5830G\|עֶזְרָ֔א]]&#8207; </big>**| 'ez.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Samuel 22:40** 
+**2 Samuel 22:40**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have armed me with strength for battle; You have subdued my foes beneath me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.39|<< 2 Samuel 22:39]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.41|2 Samuel 22:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you have girded me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0247\|תַּזְרֵ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> taz.Re.<small><sup>[[HVpw2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength  |**<big>&#8207;[[H2428G\|חַ֖יִל]]&#8207; </big>**| Cha.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

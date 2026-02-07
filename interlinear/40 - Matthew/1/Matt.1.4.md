@@ -1,5 +1,5 @@
-**Matthew 1:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:4**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;
 <small><sub>**BSB:**</sub></small>
 Ram was the father of Amminadab, Amminadab the father of Nahshon, and Nahshon the father of Salmon.
@@ -10,7 +10,7 @@ Ram then begat <the> Amminadab; Amminadab then begat <the> Nahshon; Nahshon then
 > $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ram |**<big>[[G0689\|Ἀρὰμ]]</big>**  |Aram <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

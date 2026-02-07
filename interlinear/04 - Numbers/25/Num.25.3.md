@@ -1,4 +1,4 @@
-**Numbers 25:3** 
+**Numbers 25:3**<big><big>[[Num.25.1 Moab Seduces Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel joined himself unto Baalpeor: and the anger of the LORD was kindled against Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Israel joined in worshiping Baal of Peor, and the anger of the LORD burned ag
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.2|<< Numbers 25:2]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.4|Numbers 25:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it joined itself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6775\|יִּצָּ֥מֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tza.med<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 33:13** 
+**Jeremiah 33:13**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the cities of the mountains, in the cities of the vale, and in the cities of the south, and in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, shall the flocks pass again under the hands of him that telleth [them], saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the cities of the hill country, the foothills, and the Negev, in the land of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.12|<< Jeremiah 33:12]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.14|Jeremiah 33:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] cities of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5892B\|עָרֵ֨י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the hill country  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H2022H\|הָ֜ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

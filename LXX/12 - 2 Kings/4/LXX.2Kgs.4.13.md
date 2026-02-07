@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:13** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Say indeed to her, Behold, you startled us all  with this change of state, what shall we do for you? Is there to you a word to say to the king, or to the ruler of the force?  And she said, I dwell in \[the\] midst of my people. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, Say now unto her, Behold, thou hast been careful for us with all this care; what [is] to be done for thee? wouldest thou be spoken for to the king, or to the captain of the host? And she answered, I dwell among mine own people.
-<small><sub>**BSB:**</sub></small>
-and Elisha said to Gehazi, “Now tell her, ‘Look, you have gone to all this trouble for us. What can we do for you? Can we speak on your behalf to the king or the commander of the army?’” “I have a home among my own people,” she replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.12|<< 2 Kings 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.14|2 Kings 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

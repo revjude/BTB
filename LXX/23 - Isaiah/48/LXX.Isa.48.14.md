@@ -1,10 +1,7 @@
 **LXX Isaiah 48:14** 
 <small><sub>**LXX:**</sub></small>
 And all shall be brought together, and they shall hear. Who announced to them these \[things\]? In loving you, I did  your will against Babylon, to lift away \[the\] seed of \[the\] Chaldeans. 
-<small><sub>**KJV:**</sub></small>
-All ye, assemble yourselves, and hear; which among them hath declared these [things]? The LORD hath loved him: he will do his pleasure on Babylon, and his arm [shall be on] the Chaldeans.
-<small><sub>**BSB:**</sub></small>
-Come together, all of you, and listen: Which of the idols has foretold these things? The LORD’s chosen ally will carry out His desire against Babylon, and His arm will be against the Chaldeans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.13|<< Isaiah 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.15|Isaiah 48:15 >>]]</td></tr></table>
 
 | Translation | Greek |

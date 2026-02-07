@@ -1,4 +1,4 @@
-**Isaiah 11:5** 
+**Isaiah 11:5**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And righteousness shall be the girdle of his loins, and faithfulness the girdle of his reins.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Righteousness will be the belt around His hips, and faithfulness the sash around
 > $\quad$ referenced by: [[Eph.6.14|Eph 6:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָ֥יָה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness  |**<big>&#8207;[[H6664G\|צֶ֖דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

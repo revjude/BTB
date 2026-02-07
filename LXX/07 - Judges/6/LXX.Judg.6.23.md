@@ -1,10 +1,7 @@
 **LXX Judges 6:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to him, Peace to you, do not fear, in no way shall you die. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, Peace [be] unto thee; fear not: thou shalt not die.
-<small><sub>**BSB:**</sub></small>
-But the LORD said to him, “Peace be with you. Do not be afraid, for you will not die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.22|<< Judges 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.24|Judges 6:24 >>]]</td></tr></table>
 
 | Translation | Greek |

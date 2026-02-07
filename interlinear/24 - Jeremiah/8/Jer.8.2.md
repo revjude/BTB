@@ -1,4 +1,4 @@
-**Jeremiah 8:2** 
+**Jeremiah 8:2**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be for dung upon the face of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will be exposed to the sun and moon, and to all the host of heaven which th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.1|<< Jeremiah 8:1]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.3|Jeremiah 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will spread out them  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7849\|שְׁטָחוּ]]&#8207;&#8207;[[H9038\|ם֩]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.ta.Chu<small><sup>[[HVqq3cp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the sun  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H8121\|שֶּׁ֨מֶשׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

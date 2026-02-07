@@ -1,12 +1,12 @@
-**Luke 12:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:42**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Lord said, Who then is that faithful and wise steward, whom [his] lord shall make ruler over his household, to give [them their] portion of meat in due season?
 <small><sub>**BSB:**</sub></small>
 And the Lord answered, “Who then is the faithful and wise manager, whom the master puts in charge of his servants to give them their portion at the proper time?
 <small><sub>**Literal:**</sub></small>
 And said now the Lord; Who then is the faithful manager the wise whom will set the master over the care [of servants] of him <the> to give [them] in season the measure of food?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.41|<< Luke 12:41]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.43|Luke 12:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

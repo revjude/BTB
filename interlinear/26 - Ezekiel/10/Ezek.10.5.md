@@ -1,4 +1,4 @@
-**Ezekiel 10:5** 
+**Ezekiel 10:5**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sound of the cherubims’ wings was heard [even] to the outer court, as the voice of the Almighty God when he speaketh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sound of the wings of the cherubim could be heard as far as the outer court,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.4|<< Ezekiel 10:4]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.6|Ezekiel 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sound of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6963H\|קוֹל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kOl<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wings of  |**<big>&#8207;[[H3671\|כַּנְפֵ֣י]]&#8207; </big>**| kan.Fei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

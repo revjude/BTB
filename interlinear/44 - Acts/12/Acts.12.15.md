@@ -1,12 +1,12 @@
-**Acts 12:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:15**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.
 <small><sub>**BSB:**</sub></small>
 “You are out of your mind,” they told her. But when she kept insisting it was so, they said, “It must be his angel.”
 <small><sub>**Literal:**</sub></small>
 <the> And to her they said; You rave. <the> But she was insisting [it] so to be. <the> And they were saying; The angel it is of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.14|<< Acts 12:14]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.16|Acts 12:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

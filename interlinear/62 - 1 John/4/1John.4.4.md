@@ -1,12 +1,12 @@
-**1 John 4:4
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:4**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
 <small><sub>**BSB:**</sub></small>
 You, little children, are from God and have overcome them, because greater is He who is in you than he who is in the world.
 <small><sub>**Literal:**</sub></small>
 you yourselves from <the> God are, little children, and have overcome them, because greater is the [One] in you than the [one] in the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.3|<< 1 John 4:3]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.5|1 John 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 30:24** 
+**Jeremiah 30:24**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fierce anger of the LORD shall not return, until he have done [it], and until he have performed the intents of his heart: in the latter days ye shall consider it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fierce anger of the LORD will not turn back until He has fully accomplished 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.23|<< Jeremiah 30:23]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.1|Jeremiah 31:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will turn back  |**<big>&#8207;[[H7725I\|יָשׁ֗וּב]]&#8207; </big>**| ya.Shuv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

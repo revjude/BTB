@@ -1,4 +1,4 @@
-**Deuteronomy 13:2** (13:3)
+**Deuteronomy 13:2**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if the sign or wonder he has spoken to you comes about, but he says, “Let 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.1|<< Deuteronomy 13:1]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.3|Deuteronomy 13:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֤א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sign  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0226G\|אוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Mark 12:1
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:1**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he began to speak unto them by parables. A [certain] man planted a vineyard, and set an hedge about [it], and digged [a place for] the winefat, and built a tower, and let it out to husbandmen, and went into a far country.
 <small><sub>**BSB:**</sub></small>
 Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey.
@@ -10,7 +10,7 @@ And He began to them in parables to speak: A vineyard a man planted and he place
 > $\quad$ alluding to: [[LXX.Isa.5.1|Isa 5:1]] ☩ [[LXX.Isa.5.2|Isa 5:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He began |**<big>[[G0757\|ἤρξατο]]</big>**  |ērxato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

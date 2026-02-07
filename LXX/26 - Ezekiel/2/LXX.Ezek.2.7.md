@@ -1,10 +1,7 @@
 **LXX Ezekiel 2:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall speak  my words to them, for surely they shall hear or be terrified; for it is a rebellious house. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they [are] most rebellious.
-<small><sub>**BSB:**</sub></small>
-But speak My words to them, whether they listen or refuse to listen, for they are rebellious.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.6|<< Ezekiel 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.8|Ezekiel 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 4:14** 
 <small><sub>**LXX:**</sub></small>
 In that  day \[the\] <span class="smallcaps">lord</span> increased  Joshua before all of Israel, and they feared him as they feared  Moses, as much time \[as\] he lived. 
-<small><sub>**KJV:**</sub></small>
-On that day the LORD magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life.
-<small><sub>**BSB:**</sub></small>
-On that day the LORD exalted Joshua in the sight of all Israel, and they revered him all the days of his life, just as they had revered Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.13|<< Joshua 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.15|Joshua 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 7:28** 
+**1 Chronicles 7:28**<big><big>[[1Chr.7.20 The Descendants of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their possessions and habitations [were], Bethel and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their holdings and settlements included Bethel and its villages, Naaran to the e
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.27|<< 1 Chronicles 7:27]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.29|1 Chronicles 7:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and possession their  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0272\|אֲחֻזָּתָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chu.za.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and dwelling places their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4186\|מֹ֣שְׁבוֹתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mo.she.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

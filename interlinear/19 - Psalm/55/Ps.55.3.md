@@ -1,4 +1,4 @@
-**Psalms 55:3** (55:4)
+**Psalms 55:3**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ at the voice of the enemy, at the pressure of the wicked. For they bring down di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.2|<< Psalms 55:2]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.4|Psalms 55:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] sound of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6963H\|קּ֤וֹל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an enemy  |**<big>&#8207;[[H0341\|אוֹיֵ֗ב]]&#8207; </big>**| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 26:7** 
+**Job 26:7**<big><big>[[Job.26.1 Job：Who Can Understand God’s Majesty？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He stretcheth out the north over the empty place, [and] hangeth the earth upon nothing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He stretches out the north over empty space; He hangs the earth upon nothing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.26.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.6|<< Job 26:6]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.8|Job 26:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he] stretches out  |**<big>&#8207;[[H5186\|נֹטֶ֣ה]]&#8207; </big>**| no.Teh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] north  |**<big>&#8207;[[H6828G\|צָפ֣וֹן]]&#8207; </big>**| tza.Fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

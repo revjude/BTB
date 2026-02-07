@@ -1,12 +1,12 @@
-**Matthew 17:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:18**<big><big>[[Matt.17.14 The Boy with a Demon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.
 <small><sub>**BSB:**</sub></small>
 Then Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment.
 <small><sub>**Literal:**</sub></small>
 And rebuked him <the> Jesus, and went out from him the demon, and was healed the boy from the hour that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.17|<< Matthew 17:17]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.19|Matthew 17:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | rebuked |**<big>[[G2008\|ἐπετίμησεν]]</big>**  |epetimēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

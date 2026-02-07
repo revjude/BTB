@@ -1,4 +1,4 @@
-**Psalms 109:13** 
+**Psalms 109:13**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let his posterity be cut off; [and] in the generation following let their name be blotted out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May his descendants be cut off; may their name be blotted out from the next gene
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.12|<< Psalms 109:12]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.14|Psalms 109:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be  |**<big>&#8207;[[H1961\|יְהִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | posterity his  |**<big>&#8207;[[H0319\|אַחֲרִית֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'a.cha.ri.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

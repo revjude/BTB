@@ -1,4 +1,4 @@
-**Jeremiah 50:36** 
+**Jeremiah 50:36**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A sword [is] upon the liars; and they shall dote: a sword [is] upon her mighty men; and they shall be dismayed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A sword is against her false prophets, and they will become fools. A sword is ag
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.35|<< Jeremiah 50:35]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.37|Jeremiah 50:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a sword  |**<big>&#8207;[[H2719\|חֶ֥רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

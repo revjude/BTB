@@ -1,12 +1,12 @@
-**Matthew 26:54
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:54**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But how then shall the scriptures be fulfilled, that thus it must be?
 <small><sub>**BSB:**</sub></small>
 But how then would the Scriptures be fulfilled that say it must happen this way?”
 <small><sub>**Literal:**</sub></small>
 How then may be fulfilled the Scriptures that so it must be being?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.53|<< Matthew 26:53]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.55|Matthew 26:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | How |**<big>[[G4459\|πῶς]]</big>**  |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Job 16:10** 
+**Job 16:10**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They open their mouths against me and strike my cheeks with contempt; they join 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.9|<< Job 16:9]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.11|Job 16:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | people have opened wide  |**<big>&#8207;[[H6473\|פָּעֲר֬וּ]]&#8207; </big>**| pa.'a.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ֨]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

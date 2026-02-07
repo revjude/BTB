@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:3** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, prepare for yourself items of captivity, and be \[as\] captured by day in their presence! And you shall be \[as\] captured from out of  your place into another place before them, so that they should see, for it is a rebelling house. 
-<small><sub>**KJV:**</sub></small>
-Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they [be] a rebellious house.
-<small><sub>**BSB:**</sub></small>
-Therefore, son of man, pack your bags for exile. In broad daylight, set out from your place and go to another as they watch. Perhaps they will understand, though they are a rebellious house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.2|<< Ezekiel 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.4|Ezekiel 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

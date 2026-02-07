@@ -1,4 +1,4 @@
-**1 Kings 1:19** 
+**1 Kings 1:19**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath slain oxen and fat cattle and sheep in abundance, and hath called all the sons of the king, and Abiathar the priest, and Joab the captain of the host: but Solomon thy servant hath he not called.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he has sacrificed an abundance of oxen, fattened calves, and sheep, and has 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.18|<< 1 Kings 1:18]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.20|1 Kings 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has sacrificed  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H2076\|יִּזְבַּח]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yiz.bach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ox[en]  |**<big>&#8207;[[H7794\|שׁ֥וֹר]]&#8207; </big>**| Shor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

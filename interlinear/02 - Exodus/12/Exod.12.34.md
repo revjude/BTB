@@ -1,4 +1,4 @@
-**Exodus 12:34** 
+**Exodus 12:34**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the people took their dough before it was leavened, carrying it on their shou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.33|<< Exodus 12:33]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.35|Exodus 12:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it carried off  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375G\|יִּשָּׂ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֛ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 15:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:14**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.
 <small><sub>**BSB:**</sub></small>
 Simon has told us how God first visited the Gentiles to take from them a people to be His own.
 <small><sub>**Literal:**</sub></small>
 Simeon has related even as first <the> God visited to take out of [the] Gentiles a people upon for the name of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.13|<< Acts 15:13]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.15|Acts 15:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Simeon |**<big>[[G4826K\|Συμεὼν]]</big>**  |Sumeōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has related |**<big>[[G1834\|ἐξηγήσατο]]</big>**  |exēgēsato <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

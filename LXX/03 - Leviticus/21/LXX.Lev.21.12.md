@@ -1,10 +1,7 @@
 **LXX Leviticus 21:12** 
 <small><sub>**LXX:**</sub></small>
 And from out of the holies he shall not come forth; and he shall not profane the thing having been sanctified  of his God, for the holy anointing oil  of his God \[is\] upon him. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God [is] upon him: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-He must not leave or desecrate the sanctuary of his God, for the consecration of the anointing oil of his God is on him. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.11|<< Leviticus 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.13|Leviticus 21:13 >>]]</td></tr></table>
 
 | Translation | Greek |

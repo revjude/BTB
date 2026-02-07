@@ -1,10 +1,7 @@
 **LXX Leviticus 2:2** 
 <small><sub>**LXX:**</sub></small>
 And he shall bring it to the sons of Aaron of the priests. And grabbing of it full by the handful of the fine flour with the olive oil and all  its frankincense, \[that\] the priest shall place  its memorial \[portion\] upon the altar -- a sacrifice scent of pleasant aroma to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, [to be] an offering made by fire, of a sweet savour unto the LORD:
-<small><sub>**BSB:**</sub></small>
-and bring it to Aaron’s sons the priests. The priest shall take a handful of the flour and oil, together with all the frankincense, and burn this as a memorial portion on the altar, a food offering, a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.1|<< Leviticus 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.3|Leviticus 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

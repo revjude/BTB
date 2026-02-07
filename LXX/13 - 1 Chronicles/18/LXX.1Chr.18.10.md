@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:10** 
 <small><sub>**LXX:**</sub></small>
 And he sent  Hadoram his son to  king David  to ask him the \[things\] for peace, and  to congratulate him for of which he waged war against  Hadarezer, and for striking him; because Tou was a warlike man with Hadarezer -- and all the items  of gold, and of silver, and of brass. 
-<small><sub>**KJV:**</sub></small>
-He sent Hadoram his son to king David, to inquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and [with him] all manner of vessels of gold and silver and brass.
-<small><sub>**BSB:**</sub></small>
-he sent his son Hadoram to greet King David and bless him for fighting and defeating Hadadezer, who had been at war with Tou. Hadoram brought all kinds of articles of gold and silver and bronze,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.9|<< 1 Chronicles 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.11|1 Chronicles 18:11 >>]]</td></tr></table>
 
 | Translation | Greek |

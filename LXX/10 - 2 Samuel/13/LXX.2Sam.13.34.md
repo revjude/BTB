@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:34** 
 <small><sub>**LXX:**</sub></small>
 And Absalom ran away. And the servant watchman lifted  his eyes and looked. And behold, \[there were\] many people going in the way behind him from out of \[the\] side of the mountain. 
-<small><sub>**KJV:**</sub></small>
-But Absalom fled. And the young man that kept the watch lifted up his eyes, and looked, and, behold, there came much people by the way of the hill side behind him.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, Absalom had fled. When the young man standing watch looked up, he saw many people coming down the road west of him, along the side of the hill. And the watchman went and reported to the king, “I see men coming from the direction of Horonaim, along the side of the hill.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.33|<< 2 Samuel 13:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.35|2 Samuel 13:35 >>]]</td></tr></table>
 
 | Translation | Greek |

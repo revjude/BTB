@@ -1,4 +1,4 @@
-**1 Samuel 13:17** 
+**1 Samuel 13:17**<big><big>[[1Sam.13.16 Israel without Weapons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way [that leadeth to] Ophrah, unto the land of Shual:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And raiders went out of the Philistine camp in three divisions. One headed towar
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.16|<< 1 Samuel 13:16]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.18|1 Samuel 13:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֧א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the destroyer  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7843\|מַּשְׁחִ֛ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mash.Chit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

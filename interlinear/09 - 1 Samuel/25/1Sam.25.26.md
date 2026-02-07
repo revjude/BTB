@@ -1,4 +1,4 @@
-**1 Samuel 25:26** 
+**1 Samuel 25:26**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, my lord, [as] the LORD liveth, and [as] thy soul liveth, seeing the LORD hath withholden thee from coming to [shed] blood, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, my lord, as surely as the LORD lives and you yourself live, since the LORD 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.25|<< 1 Samuel 25:25]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.27|1 Samuel 25:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O lord my  |**<big>&#8207;[[H0113\|אֲדֹנִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 5:20
-**<small><sub>**KJV:**</sub></small>
+**John 5:20**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel.
 <small><sub>**BSB:**</sub></small>
 The Father loves the Son and shows Him all He does. And to your amazement, He will show Him even greater works than these.
 <small><sub>**Literal:**</sub></small>
 <the> For the Father loves the Son and all things shows to Him that He himself does, and greater than these He will show to Him works so that you yourselves may marvel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.19|<< John 5:19]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.21|John 5:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

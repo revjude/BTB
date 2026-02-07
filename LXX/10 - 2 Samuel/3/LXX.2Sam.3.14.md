@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:14** 
 <small><sub>**LXX:**</sub></small>
 And David sent messengers to Ishbosheth son of Saul, saying, Give back to me  my wife  Michal which I took for a hundred foreskins of Philistines. 
-<small><sub>**KJV:**</sub></small>
-And David sent messengers to Ishbosheth Saul’s son, saying, Deliver [me] my wife Michal, which I espoused to me for an hundred foreskins of the Philistines.
-<small><sub>**BSB:**</sub></small>
-Then David sent messengers to say to Ish-bosheth son of Saul, “Give me back my wife, Michal, whom I betrothed to myself for a hundred Philistine foreskins.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.13|<< 2 Samuel 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.15|2 Samuel 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

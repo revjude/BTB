@@ -1,10 +1,7 @@
 **LXX Exodus 39:33** 
 <small><sub>**LXX:**</sub></small>
 And they brought the tent to Moses, and all the items for it, and  \[its\] rings, and  \[its\] posts, and  \[its\] bars, and  \[its\] stanchions, and  \[its\] bases, 
-<small><sub>**KJV:**</sub></small>
-And they brought the tabernacle unto Moses, the tent, and all his furniture, his taches, his boards, his bars, and his pillars, and his sockets,
-<small><sub>**BSB:**</sub></small>
-Then they brought the tabernacle to Moses: the tent with all its furnishings, its clasps, its frames, its crossbars, and its posts and bases;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.32|<< Exodus 39:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.34|Exodus 39:34 >>]]</td></tr></table>
 
 | Translation | Greek |

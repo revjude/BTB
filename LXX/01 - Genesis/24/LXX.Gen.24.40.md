@@ -1,10 +1,7 @@
 **LXX Genesis 24:40** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, \[The\] <span class="smallcaps">lord</span>  God in whom I was found well-pleasing before him, he will send out  his angel with you, and prosper  your way. And you will take a wife  for my son from out of  my tribe, and from out of the house  of my father. 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, The LORD, before whom I walk, will send his angel with thee, and prosper thy way; and thou shalt take a wife for my son of my kindred, and of my father’s house:
-<small><sub>**BSB:**</sub></small>
-And he told me, ‘The LORD, before whom I have walked, will send His angel with you and make your journey a success, so that you may take a wife for my son from my kindred and from my father’s house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.39|<< Genesis 24:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.41|Genesis 24:41 >>]]</td></tr></table>
 
 | Translation | Greek |

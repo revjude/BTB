@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:8** 
 <small><sub>**LXX:**</sub></small>
 And the Levites; Jeshua, Binnui, Kadmiel, Sherebiah, Joiada, Mattaniah, \[which was\] over the acknowledgments, he and  his brethren. 
-<small><sub>**KJV:**</sub></small>
-Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, [and] Mattaniah, [which was] over the thanksgiving, he and his brethren.
-<small><sub>**BSB:**</sub></small>
-The Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who, with his associates, led the songs of thanksgiving.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.7|<< Nehemiah 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.9|Nehemiah 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

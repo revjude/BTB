@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 There were three daughters to the leech being loved in affection,  these three did not fulfill her, and to the fourth \[it\] was not sufficient to say, Enough -- 
-<small><sub>**KJV:**</sub></small>
-The horseleach hath two daughters, [crying], Give, give. There are three [things that] are never satisfied, [yea], four [things] say not, [It is] enough:
-<small><sub>**BSB:**</sub></small>
-The leech has two daughters: Give and Give. There are three things that are never satisfied, four that never say, ‘Enough!’:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.14|<< Proverbs 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.16|Proverbs 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

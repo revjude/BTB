@@ -1,4 +1,4 @@
-**Psalms 44:4** (44:5)
+**Psalms 44:4**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art my King, O God: command deliverances for Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are my King, O God, who ordains victories for Jacob.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.3|<< Psalms 44:3]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.5|Psalms 44:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.tah-<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

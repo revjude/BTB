@@ -1,12 +1,12 @@
-**Hebrews 3:19
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:19**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So we see that they could not enter in because of unbelief.
 <small><sub>**BSB:**</sub></small>
 So we see that it was because of their unbelief that they were unable to enter.
 <small><sub>**Literal:**</sub></small>
 And we see that not they were able to enter in because of unbelief.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.18|<< Hebrews 3:18]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.1|Hebrews 4:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we see |**<big>[[G0991\|βλέπομεν]]</big>**  |blepomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

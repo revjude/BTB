@@ -1,4 +1,4 @@
-**Numbers 12:13** 
+**Numbers 12:13**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Moses cried out to the LORD, “O God, please heal her!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.12|<< Numbers 12:12]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.14|Numbers 12:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6817\|יִּצְעַ֣ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.'Ak<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

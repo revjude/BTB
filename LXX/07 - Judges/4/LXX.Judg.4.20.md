@@ -1,10 +1,7 @@
 **LXX Judges 4:20** 
 <small><sub>**LXX:**</sub></small>
 And he said to her, Stand in the door of the tent! And it will be if a man should come to you, and should ask you, and should say to you, Is a man here? That you shall say, There is not. 
-<small><sub>**KJV:**</sub></small>
-Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and inquire of thee, and say, Is there any man here? that thou shalt say, No.
-<small><sub>**BSB:**</sub></small>
-“Stand at the entrance to the tent,” he said, “and if anyone comes and asks you, ‘Is there a man here?’ say, ‘No.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.19|<< Judges 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.21|Judges 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

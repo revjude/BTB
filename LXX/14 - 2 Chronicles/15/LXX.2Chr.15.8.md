@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in  Asa hearing  of these words, and the prophecy of Oded the prophet, that he prevailed, and cast out the loathsome things of all the land of Judah and Benjamin, and from the cities which he took control of from Jeroboam, from \[the\] mountains of Ephraim. And he dedicated the altar of \[the\] <span class="smallcaps">lord</span>, which was in front of the temple of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that [was] before the porch of the LORD.
-<small><sub>**BSB:**</sub></small>
-When Asa heard these words and the prophecy of Azariah son of Oded the prophet, he took courage and removed the detestable idols from the whole land of Judah and Benjamin and from the cities he had captured in the hill country of Ephraim. He then restored the altar of the LORD that was in front of the portico of the LORD’s temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.7|<< 2 Chronicles 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.9|2 Chronicles 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

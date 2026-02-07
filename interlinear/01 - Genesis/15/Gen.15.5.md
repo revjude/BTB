@@ -1,4 +1,4 @@
-**Genesis 15:5** 
+**Genesis 15:5**<big><big>[[Gen.15.1 God’s Covenant with Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the LORD took him outside and said, “Now look to the heavens and count the
 > $\quad$ referenced by: [[Rom.4.18|Rom 4:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצֵ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tze'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֜]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

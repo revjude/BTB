@@ -1,4 +1,4 @@
-**Isaiah 1:15** 
+**Isaiah 1:15**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you spread out your hands in prayer, I will hide My eyes from you; even tho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.14|<< Isaiah 1:14]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.16|Isaiah 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when spread out you  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6566\|פָרִשְׂ]]&#8207;&#8207;[[H9046\|כֶ֣ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> fa.ris.<small><sup>[[HVpcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands your  |**<big>&#8207;[[H3709G\|כַּפֵּי]]&#8207;&#8207;[[H9026\|כֶ֗ם]]&#8207; </big>**| ka.pei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

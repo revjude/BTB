@@ -1,10 +1,7 @@
 **LXX Hosea 9:11** 
 <small><sub>**LXX:**</sub></small>
 Ephraim as a bird was spread forth \[away\],  their glory of births and pangs and from conceptions. 
-<small><sub>**KJV:**</sub></small>
-[As for] Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception.
-<small><sub>**BSB:**</sub></small>
-Ephraim’s glory will fly away like a bird, with no birth, no pregnancy, and no conception.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.10|<< Hosea 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.12|Hosea 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

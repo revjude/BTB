@@ -1,4 +1,4 @@
-**Job 42:10** 
+**Job 42:10**<big><big>[[Job.42.10 The LORD Blesses Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ After Job had prayed for his friends, the LORD restored his prosperity and doubl
 > $\quad$ referenced by: [[Jas.5.11|Jas 5:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֗ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he turned back  |**<big>&#8207;[[H7725H\|שָׁ֚ב]]&#8207; </big>**| Sha.v<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

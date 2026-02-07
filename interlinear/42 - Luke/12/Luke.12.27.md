@@ -1,12 +1,12 @@
-**Luke 12:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:27**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Consider the lilies how they grow: they toil not, they spin not; and yet I say unto you, that Solomon in all his glory was not arrayed like one of these.
 <small><sub>**BSB:**</sub></small>
 Consider how the lilies grow: They do not labor or spin. Yet I tell you, not even Solomon in all his glory was adorned like one of these.
 <small><sub>**Literal:**</sub></small>
 do consider the lilies how they grow: Not do they labor nor do they spin. I say however to you; not even Solomon in all the glory of him was arrayed as one of these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.26|<< Luke 12:26]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.28|Luke 12:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do consider |**<big>[[G2657\|κατανοήσατε]]</big>**  |katanoēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

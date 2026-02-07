@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he says, Show to me  your own glory! 
-<small><sub>**KJV:**</sub></small>
-And he said, I beseech thee, shew me thy glory.
-<small><sub>**BSB:**</sub></small>
-Then Moses said, “Please show me Your glory.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.17|<< Exodus 33:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.19|Exodus 33:19 >>]]</td></tr></table>
 
 | Translation | Greek |

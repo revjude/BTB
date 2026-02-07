@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:25** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah \[rendered\] not according to the recompense which he recompensed to him; but he exalted  his heart. And wrath came upon him, and upon Judah, and Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-But Hezekiah rendered not again according to the benefit [done] unto him; for his heart was lifted up: therefore there was wrath upon him, and upon Judah and Jerusalem.
-<small><sub>**BSB:**</sub></small>
-But because his heart was proud, Hezekiah did not repay the favor shown to him. Therefore wrath came upon him and upon Judah and Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.24|<< 2 Chronicles 32:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.26|2 Chronicles 32:26 >>]]</td></tr></table>
 
 | Translation | Greek |

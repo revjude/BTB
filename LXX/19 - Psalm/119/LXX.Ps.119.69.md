@@ -1,10 +1,7 @@
 **LXX Psalm 119:69** 
 <small><sub>**LXX:**</sub></small>
 \[The\] injustice of \[the\] proud was multiplied against me; but I shall search out your commandments with my whole heart. 
-<small><sub>**KJV:**</sub></small>
-The proud have forged a lie against me: [but] I will keep thy precepts with [my] whole heart.
-<small><sub>**BSB:**</sub></small>
-Though the arrogant have smeared me with lies, I keep Your precepts with all my heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.69|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.68|<< Psalm 119:68]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.70|Psalm 119:70 >>]]</td></tr></table>
 
 | Translation | Greek |

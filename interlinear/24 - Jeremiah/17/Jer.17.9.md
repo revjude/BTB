@@ -1,4 +1,4 @@
-**Jeremiah 17:9** 
+**Jeremiah 17:9**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart [is] deceitful above all [things], and desperately wicked: who can know it?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The heart is deceitful above all things and beyond cure. Who can understand it?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.8|<< Jeremiah 17:8]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.10|Jeremiah 17:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] deceitful  |**<big>&#8207;[[H6121A\|עָקֹ֥ב]]&#8207; </big>**| a.Ko<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heart  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3820A\|לֵּ֛ב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

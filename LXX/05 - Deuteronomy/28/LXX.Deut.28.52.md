@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:52** 
 <small><sub>**LXX:**</sub></small>
 and should obliterate you in all  your cities, until whenever your walls should be demolished, the high and the fortified \[ones\] upon which you rely upon them in all  your land. And it shall afflict you in all  your cities, which \[the\] <span class="smallcaps">lord</span> your God gave to you. 
-<small><sub>**KJV:**</sub></small>
-And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the LORD thy God hath given thee.
-<small><sub>**BSB:**</sub></small>
-They will besiege all the cities throughout your land, until the high and fortified walls in which you trust have fallen. They will besiege all your cities throughout the land that the LORD your God has given you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.51|<< Deuteronomy 28:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.53|Deuteronomy 28:53 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -6,10 +6,7 @@ A praise \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 I will exalt you, O my God,  my king; and I will bless  your name into the eon, and into the eon of the eon. 
-<small><sub>**KJV:**</sub></small>
-David’s [Psalm] of praise. I will extol thee, my God, O king; and I will bless thy name for ever and ever.
-<small><sub>**BSB:**</sub></small>
-A Psalm of praise. Of David. I will exalt You, my God and King; I will bless Your name forever and ever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.145.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.15|<< Psalm 144:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.2|Psalm 145:2 >>]]</td></tr></table>
 
 | Translation | Greek |

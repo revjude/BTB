@@ -1,4 +1,4 @@
-**Exodus 25:33** 
+**Exodus 25:33**<big><big>[[Exod.25.31 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Three bowls made like unto almonds, [with] a knop and a flower in one branch; and three bowls made like almonds in the other branch, [with] a knop and a flower: so in the six branches that come out of the candlestick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There are to be three cups shaped like almond blossoms on the first branch, each
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.32|<< Exodus 25:32]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.34|Exodus 25:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | three  |**<big>&#8207;[[H7969\|שְׁלֹשָׁ֣ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cups  |**<big>&#8207;[[H1375\|גְ֠בִעִים]]&#8207; </big>**| Ge.vi.'im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

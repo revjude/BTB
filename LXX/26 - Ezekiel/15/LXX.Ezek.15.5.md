@@ -1,10 +1,7 @@
 **LXX Ezekiel 15:5** 
 <small><sub>**LXX:**</sub></small>
 Not even of it still being whole -- it will not be \[useful\] for work;  for if also \[the\] fire should consume it unto completion, shall it be made for work, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Behold, when it was whole, it was meet for no work: how much less shall it be meet yet for [any] work, when the fire hath devoured it, and it is burned?
-<small><sub>**BSB:**</sub></small>
-Even when it was whole, it could not be made useful. How much less can it ever be useful when the fire has consumed it and charred it!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.15.4|<< Ezekiel 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.15.6|Ezekiel 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

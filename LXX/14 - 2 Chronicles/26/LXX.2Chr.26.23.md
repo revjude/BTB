@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:23** 
 <small><sub>**LXX:**</sub></small>
 And Uzziah slept with  his fathers, and they entombed him with  his fathers in the field of the burial \[place\] of the kings, for they said, He is leprous. And Jotham his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which [belonged] to the kings; for they said, He [is] a leper: and Jotham his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Uzziah rested with his fathers and was buried near them in a field of burial that belonged to the kings, for the people said, “He was a leper.” And his son Jotham reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.22|<< 2 Chronicles 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.27.1|2 Chronicles 27:1 >>]]</td></tr></table>
 
 | Translation | Greek |

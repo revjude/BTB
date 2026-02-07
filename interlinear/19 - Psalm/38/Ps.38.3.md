@@ -1,4 +1,4 @@
-**Psalms 38:3** (38:4)
+**Psalms 38:3**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no soundness in my flesh because of thine anger; neither [is there any] rest in my bones because of my sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is no soundness in my body because of Your anger; there is no rest in my b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.2|<< Psalms 38:2]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.4|Psalms 38:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] soundness  |**<big>&#8207;[[H4974\|מְתֹ֣ם]]&#8207; </big>**| me.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

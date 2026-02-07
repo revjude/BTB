@@ -1,4 +1,4 @@
-**Job 29:14** 
+**Job 29:14**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I put on righteousness, and it clothed me: my judgment [was] as a robe and a diadem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I put on righteousness, and it clothed me; justice was my robe and my turban.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.13|<< Job 29:13]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.15|Job 29:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | righteousness  |**<big>&#8207;[[H6664G\|צֶ֣דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I put on  |**<big>&#8207;[[H3847\|לָ֭בַשְׁתִּי]]&#8207; </big>**| La.vash.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

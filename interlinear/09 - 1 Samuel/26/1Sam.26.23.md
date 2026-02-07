@@ -1,4 +1,4 @@
-**1 Samuel 26:23** 
+**1 Samuel 26:23**<big><big>[[1Sam.26.21 Saul Acknowledges His Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD render to every man his righteousness and his faithfulness: for the LORD delivered thee into [my] hand to day, but I would not stretch forth mine hand against the LORD’S anointed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the LORD repay every man for his righteousness and faithfulness. For the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.22|<< 1 Samuel 26:22]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.24|1 Samuel 26:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָה֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will return  |**<big>&#8207;[[H7725K\|יָשִׁ֣יב]]&#8207; </big>**| ya.Shiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

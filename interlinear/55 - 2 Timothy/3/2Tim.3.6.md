@@ -1,12 +1,12 @@
-**2 Timothy 3:6
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:6**<big><big>[[2Tim.3.1 Evil in the Last Days|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 <small><sub>**BSB:**</sub></small>
 They are the kind who worm their way into households and captivate vulnerable women who are weighed down with sins and led astray by various passions,
 <small><sub>**Literal:**</sub></small>
 Out of this sort for are those entering into <the> households and being captured <the> weak women burdened with sins, being led away by passions various,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.5|<< 2 Timothy 3:5]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.7|2 Timothy 3:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this sort |**<big>[[G3778\|τούτων]]</big>**  |toutōn <small><sup>[[D-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

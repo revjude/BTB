@@ -1,12 +1,12 @@
-**Revelation 2:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:13**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I know thy works, and where thou dwellest, [even] where Satan’s seat [is]: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas [was] my faithful martyr, who was slain among you, where Satan dwelleth.
 <small><sub>**BSB:**</sub></small>
 I know where you live, where the throne of Satan sits, yet you hold fast to My name. You did not deny your faith in Me, even in the days of My faithful witness Antipas, who was killed among you where Satan dwells.
 <small><sub>**Literal:**</sub></small>
 I know the works of you and where you dwell, where the throne <the> of Satan [is], and you hold fast to the name of Me and not you have denied the faith of Mine even in the days in which of Antipas the witness of Mine the faithful [one] of Mine who was killed among you where <the> Satan dwells.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.12|<< Revelation 2:12]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.14|Revelation 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|οἶδα]]</big>**  |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

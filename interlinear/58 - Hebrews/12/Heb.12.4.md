@@ -1,12 +1,12 @@
-**Hebrews 12:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:4**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have not yet resisted unto blood, striving against sin.
 <small><sub>**BSB:**</sub></small>
 In your struggle against sin, you have not yet resisted to the point of shedding your blood.
 <small><sub>**Literal:**</sub></small>
 Not yet unto blood have you resisted against <the> sin struggling<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.3|<< Hebrews 12:3]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.5|Hebrews 12:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not yet |**<big>[[G3768\|οὔπω]]</big>**  |oupō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | unto |**<big>[[G3360\|μέχρις]]</big>**  |mechris <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

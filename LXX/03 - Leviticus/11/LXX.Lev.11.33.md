@@ -1,10 +1,7 @@
 **LXX Leviticus 11:33** 
 <small><sub>**LXX:**</sub></small>
 And every earthenware item into what ever should fall in from them inside, as much as should be inside, it shall be unclean, and it shall be broken. 
-<small><sub>**KJV:**</sub></small>
-And every earthen vessel, whereinto [any] of them falleth, whatsoever [is] in it shall be unclean; and ye shall break it.
-<small><sub>**BSB:**</sub></small>
-If any of them falls into a clay pot, everything in it will be unclean; you must break the pot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.32|<< Leviticus 11:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.34|Leviticus 11:34 >>]]</td></tr></table>
 
 | Translation | Greek |

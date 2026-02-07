@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:36** 
 <small><sub>**LXX:**</sub></small>
 And  its joinery \[was\] cherubim, and lions, and standing palms, each being next to \[the other\] in front of it inside, round about. 
-<small><sub>**KJV:**</sub></small>
-For on the plates of the ledges thereof, and on the borders thereof, he graved cherubims, lions, and palm trees, according to the proportion of every one, and additions round about.
-<small><sub>**BSB:**</sub></small>
-He engraved cherubim, lions, and palm trees on the surfaces of the supports and panels, wherever each had space, with wreaths all around.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.35|<< 1 Kings 7:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.37|1 Kings 7:37 >>]]</td></tr></table>
 
 | Translation | Greek |

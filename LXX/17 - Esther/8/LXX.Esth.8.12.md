@@ -1,10 +1,7 @@
 **LXX Esther 8:12** 
 <small><sub>**LXX:**</sub></small>
 on one day in all the kingdom of Artaxerxes, on the thirteenth \[day\] of the twelfth month, which is Adar. 
-<small><sub>**KJV:**</sub></small>
-Upon one day in all the provinces of king Ahasuerus, [namely], upon the thirteenth [day] of the twelfth month, which [is] the month Adar.
-<small><sub>**BSB:**</sub></small>
-The single day appointed throughout all the provinces of King Xerxes was the thirteenth day of the twelfth month, the month of Adar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.11|<< Esther 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.13|Esther 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

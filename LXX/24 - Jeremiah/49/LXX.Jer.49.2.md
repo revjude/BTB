@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:2** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, days come, says \[the\] <span class="smallcaps">lord</span>, and I shall cause to be heard upon Rabbah of \[the\] sons of Ammon a tumult of war. And they shall be for an untrodden \[land\], and for destruction. And  her shrines shall be incinerated by fire, and Israel shall inherit  his rule, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, the days come, saith the LORD, that I will cause an alarm of war to be heard in Rabbah of the Ammonites; and it shall be a desolate heap, and her daughters shall be burned with fire: then shall Israel be heir unto them that were his heirs, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Therefore, behold, the days are coming, declares the LORD, when I will sound the battle cry against Rabbah of the Ammonites. It will become a heap of ruins, and its villages will be burned. Then Israel will drive out their dispossessors, says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.1|<< Jeremiah 49:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.3|Jeremiah 49:3 >>]]</td></tr></table>
 
 | Translation | Greek |

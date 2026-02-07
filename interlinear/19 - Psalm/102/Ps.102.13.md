@@ -1,4 +1,4 @@
-**Psalms 102:13** (102:14)
+**Psalms 102:13**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt arise, [and] have mercy upon Zion: for the time to favour her, yea, the set time, is come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will rise up and have compassion on Zion, for it is time to show her favor�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.12|<< Psalms 102:12]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.14|Psalms 102:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will arise  |**<big>&#8207;[[H6965B\|תָ֭קוּם]]&#8207; </big>**| Ta.kum<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

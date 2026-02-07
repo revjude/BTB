@@ -1,4 +1,4 @@
-**Lamentations 2:14** 
+**Lamentations 2:14**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The visions of your prophets were empty and deceptive; they did not expose your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.13|<< Lamentations 2:13]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.15|Lamentations 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | prophets your  |**<big>&#8207;[[H5030\|נְבִיאַ֗יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ne.vi.'A.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have seen  |**<big>&#8207;[[H2372\|חָ֤זוּ]]&#8207; </big>**| Cha.zu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

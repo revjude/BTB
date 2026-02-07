@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:37** 
 <small><sub>**LXX:**</sub></small>
 For they committed adultery, and blood \[is\] on  their hands; even  with their thoughts they committed adultery. And  their children which they bore to me, they led them through fire. 
-<small><sub>**KJV:**</sub></small>
-That they have committed adultery, and blood [is] in their hands, and with their idols have they committed adultery, and have also caused their sons, whom they bare unto me, to pass for them through [the fire], to devour [them].
-<small><sub>**BSB:**</sub></small>
-For they have committed adultery, and blood is on their hands. They have committed adultery with their idols. They have even sacrificed their children, whom they bore to Me, in the fire as food for their idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.36|<< Ezekiel 23:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.38|Ezekiel 23:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 8:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:25**<big><big>[[Matt.8.23 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his disciples came to [him], and awoke him, saying, Lord, save us: we perish.
 <small><sub>**BSB:**</sub></small>
 The disciples went and woke Him, saying, “Lord, save us! We are perishing!”
 <small><sub>**Literal:**</sub></small>
 And having come to [Him] the disciples of Him they awoke Him saying; Lord, do save us we are perishing!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.24|<< Matthew 8:24]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.26|Matthew 8:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come to [Him] |**<big>[[G4334\|προσελθόντες]]</big>**  |proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

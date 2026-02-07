@@ -1,4 +1,4 @@
-**Job 6:14** 
+**Job 6:14**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To him that is afflicted pity [should be shewed] from his friend; but he forsaketh the fear of the Almighty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A despairing man should have the kindness of his friend, even if he forsakes the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.13|<< Job 6:13]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.15|Job 6:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belongs] to \<the> despairing [person]  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4523\|מָּ֣ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Mas<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from friend his  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7453\|רֵעֵ֣]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

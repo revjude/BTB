@@ -1,10 +1,7 @@
 **LXX Psalm 89:15** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[are\] the people  knowing \[the\] shout \[of joy\]. O <span class="smallcaps">lord</span>, they shall go in the light of your face. 
-<small><sub>**KJV:**</sub></small>
-Blessed [is] the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.
-<small><sub>**BSB:**</sub></small>
-Blessed are those who know the joyful sound, who walk, O LORD, in the light of Your presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.14|<< Psalm 89:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.16|Psalm 89:16 >>]]</td></tr></table>
 
 | Translation | Greek |

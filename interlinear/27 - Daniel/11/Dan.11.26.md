@@ -1,4 +1,4 @@
-**Daniel 11:26** 
+**Daniel 11:26**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, they that feed of the portion of his meat shall destroy him, and his army shall overflow: and many shall fall down slain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who eat from his provisions will seek to destroy him; his army will be swe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.25|<< Daniel 11:25]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.27|Daniel 11:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [those who] eat  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0398\|אֹכְלֵ֧י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.khe.Lei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> deli-  |**<big>&#8207;[[H6598\|פַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fat-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

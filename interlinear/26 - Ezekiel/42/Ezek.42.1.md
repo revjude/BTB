@@ -1,4 +1,4 @@
-**Ezekiel 42:1** 
+**Ezekiel 42:1**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that [was] over against the separate place, and which [was] before the building toward the north.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the man led me out northward into the outer court, and he brought me to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.26|<< Ezekiel 41:26]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.2|Ezekiel 42:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצִאֵ֗]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.tzi.'E.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

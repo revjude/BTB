@@ -1,12 +1,12 @@
-**Luke 16:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:11**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true [riches]?
 <small><sub>**BSB:**</sub></small>
 So if you have not been faithful with worldly wealth, who will entrust you with true riches?
 <small><sub>**Literal:**</sub></small>
 If therefore in the unrighteous wealth faithful not you have been, the true [riches] who to you will entrust?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.10|<< Luke 16:10]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.12|Luke 16:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

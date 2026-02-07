@@ -1,12 +1,12 @@
-**Luke 19:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:29**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, when he was come nigh to Bethphage and Bethany, at the mount called [the mount] of Olives, he sent two of his disciples,
 <small><sub>**BSB:**</sub></small>
 As He approached Bethphage and Bethany at the Mount of Olives, He sent out two of His disciples,
 <small><sub>**Literal:**</sub></small>
 And it came to pass as He drew near to Bethphage and Bethany toward the mount which is being called Olivet He sent two of the disciples of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.28|<< Luke 19:28]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.30|Luke 19:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

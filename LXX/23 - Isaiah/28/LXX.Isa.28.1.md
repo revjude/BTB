@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Woe to the crown  of insolence, the hirelings of Ephraim, the flower, the one having fallen of the glory upon the top of the thick \[branched\] mountain, the ones being intoxicated without wine. 
-<small><sub>**KJV:**</sub></small>
-Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty [is] a fading flower, which [are] on the head of the fat valleys of them that are overcome with wine!
-<small><sub>**BSB:**</sub></small>
-Woe to the majestic crown of Ephraim’s drunkards, to the fading flower of his glorious splendor, set on the summit above the fertile valley, the pride of those overcome by wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.13|<< Isaiah 27:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.2|Isaiah 28:2 >>]]</td></tr></table>
 
 | Translation | Greek |

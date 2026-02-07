@@ -1,4 +1,4 @@
-**Jeremiah 4:1** 
+**Jeremiah 4:1**<big><big>[[Jer.4.1 A Plea to Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.25|<< Jeremiah 3:25]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.2|Jeremiah 4:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will return  |**<big>&#8207;[[H7725G\|תָּשׁ֨וּב]]&#8207; </big>**| ta.Shuv<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

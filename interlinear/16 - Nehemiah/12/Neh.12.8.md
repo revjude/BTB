@@ -1,4 +1,4 @@
-**Nehemiah 12:8** 
+**Nehemiah 12:8**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, [and] Mattaniah, [which was] over the thanksgiving, he and his brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.7|<< Nehemiah 12:7]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.9|Nehemiah 12:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Levites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeshua  |**<big>&#8207;[[H3442J\|יֵשׁ֧וּעַ]]&#8207; </big>**| ye.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

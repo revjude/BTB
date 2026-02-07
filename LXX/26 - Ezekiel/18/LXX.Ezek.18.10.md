@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:10** 
 <small><sub>**LXX:**</sub></small>
 And if he engenders a mischievous son, one pouring out blood and committing sins, \[and\] 
-<small><sub>**KJV:**</sub></small>
-If he beget a son [that is] a robber, a shedder of blood, and [that] doeth the like to [any] one of these [things],
-<small><sub>**BSB:**</sub></small>
-Now suppose that man has a violent son, who sheds blood or does any of these things,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.9|<< Ezekiel 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.11|Ezekiel 18:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 11:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:3**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Thou wentest in to men uncircumcised, and didst eat with them.
 <small><sub>**BSB:**</sub></small>
 and said, “You visited uncircumcised men and ate with them.”
 <small><sub>**Literal:**</sub></small>
 saying that You entered to men uncircumcision having and you ate with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.2|<< Acts 11:2]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.4|Acts 11:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγοντες]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

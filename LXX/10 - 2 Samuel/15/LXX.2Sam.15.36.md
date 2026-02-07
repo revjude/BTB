@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:36** 
 <small><sub>**LXX:**</sub></small>
 Behold, their two sons \[are\] with them there, Ahimaaz  son of Zadok, and Jonathan son  of Abiathar. And you shall send by their hand to me every word which ever you should hear. 
-<small><sub>**KJV:**</sub></small>
-Behold, [they have] there with them their two sons, Ahimaaz Zadok’s [son], and Jonathan Abiathar’s [son]; and by them ye shall send unto me every thing that ye can hear.
-<small><sub>**BSB:**</sub></small>
-Indeed, their two sons, Ahimaaz son of Zadok and Jonathan son of Abiathar, are there with them. Send them to me with everything you hear.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.35|<< 2 Samuel 15:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.37|2 Samuel 15:37 >>]]</td></tr></table>
 
 | Translation | Greek |

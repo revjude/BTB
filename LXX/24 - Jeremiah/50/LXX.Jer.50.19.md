@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:19** 
 <small><sub>**LXX:**</sub></small>
 And I will restore  Israel unto  his pasture. And he shall feed on  Carmel, and in Bashan, and on mount Ephraim, and in  Gilead, and his soul shall be satisfied. 
-<small><sub>**KJV:**</sub></small>
-And I will bring Israel again to his habitation, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.
-<small><sub>**BSB:**</sub></small>
-I will return Israel to his pasture, and he will graze on Carmel and Bashan; his soul will be satisfied on the hills of Ephraim and Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.18|<< Jeremiah 50:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.20|Jeremiah 50:20 >>]]</td></tr></table>
 
 | Translation | Greek |

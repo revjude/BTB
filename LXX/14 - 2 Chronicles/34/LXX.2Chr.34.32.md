@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:32** 
 <small><sub>**LXX:**</sub></small>
 And he established all the ones being found in Jerusalem, and in Judah, and Benjamin. And the ones dwelling in Jerusalem did according to the covenant of \[the\] <span class="smallcaps">lord</span> God of their fathers. 
-<small><sub>**KJV:**</sub></small>
-And he caused all that were present in Jerusalem and Benjamin to stand [to it]. And the inhabitants of Jerusalem did according to the covenant of God, the God of their fathers.
-<small><sub>**BSB:**</sub></small>
-Then he had everyone in Jerusalem and Benjamin take a stand in agreement to it. So all the people of Jerusalem carried out the covenant of God, the God of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.31|<< 2 Chronicles 34:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.33|2 Chronicles 34:33 >>]]</td></tr></table>
 
 | Translation | Greek |

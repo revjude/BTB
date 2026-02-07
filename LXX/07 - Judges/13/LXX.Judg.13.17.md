@@ -1,10 +1,7 @@
 **LXX Judges 13:17** 
 <small><sub>**LXX:**</sub></small>
 And Manoah said to the angel of \[the\] <span class="smallcaps">lord</span>, What is the name to you, that whenever your word should come \[to pass\] that we should glorify you? 
-<small><sub>**KJV:**</sub></small>
-And Manoah said unto the angel of the LORD, What [is] thy name, that when thy sayings come to pass we may do thee honour?
-<small><sub>**BSB:**</sub></small>
-Then Manoah said to the angel of the LORD, “What is your name, so that we may honor you when your word comes to pass?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.16|<< Judges 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.18|Judges 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

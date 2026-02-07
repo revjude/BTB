@@ -1,4 +1,4 @@
-**Jeremiah 51:49** 
+**Jeremiah 51:49**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As Babylon [hath caused] the slain of Israel to fall, so at Babylon shall fall the slain of all the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ As Babylon [hath caused] the slain of Israel to fall, so at Babylon shall fall t
 > $\quad$ referenced by: [[Rev.18.24|Rev 18:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֕ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

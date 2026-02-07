@@ -1,4 +1,4 @@
-**Genesis 24:1** 
+**Genesis 24:1**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham was old, [and] well stricken in age: and the LORD had blessed Abraham in all things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By now Abraham was old and well along in years, and the LORD had blessed him in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.20|<< Genesis 23:20]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.2|Genesis 24:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abraham  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0085\|אַבְרָהָ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was old  |**<big>&#8207;[[H2204\|זָקֵ֔ן]]&#8207; </big>**| za.Ken<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

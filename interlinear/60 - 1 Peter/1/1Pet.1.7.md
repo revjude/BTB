@@ -1,12 +1,12 @@
-**1 Peter 1:7
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:7**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 so that the proven character of your faith—more precious than gold, which perishes even though refined by fire—may result in praise, glory, and honor at the revelation of Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 so that the proven genuineness of your <the> faith more precious than gold which is perishing through fire though being refined it may be discovered towards praise and towards glory and honor in [the] revelation of Jesus Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.6|<< 1 Peter 1:6]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.8|1 Peter 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

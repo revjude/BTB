@@ -1,10 +1,7 @@
 **LXX Numbers 10:16** 
 <small><sub>**LXX:**</sub></small>
 And over the force of \[the\] tribe of \[the\] sons of Zebulun \[was\] Eliab son of Helon. 
-<small><sub>**KJV:**</sub></small>
-And over the host of the tribe of the children of Zebulun [was] Eliab the son of Helon.
-<small><sub>**BSB:**</sub></small>
-and Eliab son of Helon was over the division of the tribe of Zebulun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.15|<< Numbers 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.17|Numbers 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

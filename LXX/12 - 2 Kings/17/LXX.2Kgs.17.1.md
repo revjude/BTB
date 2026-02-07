@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] twelfth year  of Ahaz king of Judah, Hoshea son of Elah reigned in Samaria over Israel \[for\] nine years. 
-<small><sub>**KJV:**</sub></small>
-In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.
-<small><sub>**BSB:**</sub></small>
-In the twelfth year of the reign of Ahaz over Judah, Hoshea son of Elah became king of Israel, and he reigned in Samaria nine years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.20|<< 2 Kings 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.2|2 Kings 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

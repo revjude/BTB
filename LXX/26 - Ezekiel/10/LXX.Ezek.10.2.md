@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:2** 
 <small><sub>**LXX:**</sub></small>
 And he said to the man  clothed by the robe, Enter into the midst of the wheels, of the ones underneath the cherubim, and fill  your hands full of coals of fire from out of \[the\] midst of the cherubim, and scatter \[them\] upon the city! And he entered before me. 
-<small><sub>**KJV:**</sub></small>
-And he spake unto the man clothed with linen, and said, Go in between the wheels, [even] under the cherub, and fill thine hand with coals of fire from between the cherubims, and scatter [them] over the city. And he went in in my sight.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to the man clothed in linen, “Go inside the wheelwork beneath the cherubim. Fill your hands with burning coals from among the cherubim and scatter them over the city.” And as I watched, he went in.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.1|<< Ezekiel 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.3|Ezekiel 10:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 10:2** is...

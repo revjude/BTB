@@ -6,10 +6,7 @@ Alleluiah.
 
 <small><sub>**LXX:**</sub></small>
 Praise  God in  his holy places! Praise him in \[the\] firmament of his power! 
-<small><sub>**KJV:**</sub></small>
-Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.
-<small><sub>**BSB:**</sub></small>
-Hallelujah! Praise God in His sanctuary. Praise Him in His mighty heavens.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.150.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.149.9|<< Psalm 149:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.150.2|Psalm 150:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 11:7** 
+**Isaiah 11:7**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The cow will graze with the bear, their young will lie down together, and the li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.6|<< Isaiah 11:6]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.8|Isaiah 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and cow  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6510\|פָרָ֤ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and bear  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1677\|דֹב֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Do<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

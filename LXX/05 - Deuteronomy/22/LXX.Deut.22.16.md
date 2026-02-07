@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:16** 
 <small><sub>**LXX:**</sub></small>
 And the father of the child shall say to the council of elders,  This daughter of mine I gave  to this man as wife, and he is detesting her. 
-<small><sub>**KJV:**</sub></small>
-And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;
-<small><sub>**BSB:**</sub></small>
-and say to the elders, “I gave my daughter in marriage to this man, but he has come to hate her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.15|<< Deuteronomy 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.17|Deuteronomy 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

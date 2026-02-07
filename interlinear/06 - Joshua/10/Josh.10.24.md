@@ -1,4 +1,4 @@
-**Joshua 10:24** 
+**Joshua 10:24**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when they brought out those kings unto Joshua, that Joshua called for all the men of Israel, and said unto the captains of the men of war which went with him, Come near, put your feet upon the necks of these kings. And they came near, and put their feet upon the necks of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they had brought the kings to Joshua, he summoned all the men of Israel and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.23|<< Joshua 10:23]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.25|Joshua 10:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> y.hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when brought out they  |**<big>&#8207;[[H9004\|כְּֽ]]&#8207;&#8207;[[H3318H\|הוֹצִיאָ֞]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ho.tzi.'A<small><sup>[[HVhcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

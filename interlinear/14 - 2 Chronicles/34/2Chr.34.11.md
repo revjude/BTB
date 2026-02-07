@@ -1,4 +1,4 @@
-**2 Chronicles 34:11** 
+**2 Chronicles 34:11**<big><big>[[2Chr.34.8 Josiah Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even to the artificers and builders gave they [it], to buy hewn stone, and timber for couplings, and to floor the houses which the kings of Judah had destroyed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They also gave money to the carpenters and builders to buy dressed stone, as wel
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.10|<< 2 Chronicles 34:10]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.12|2 Chronicles 34:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave [it]  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5414G\|יִּתְּנ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the craftsmen  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H2796\|חָֽרָשִׁים֙]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> cha.ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

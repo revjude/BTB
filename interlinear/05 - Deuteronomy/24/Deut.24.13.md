@@ -1,4 +1,4 @@
-**Deuteronomy 24:13** 
+**Deuteronomy 24:13**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In any case thou shalt deliver him the pledge again when the sun goeth down, that he may sleep in his own raiment, and bless thee: and it shall be righteousness unto thee before the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ be sure to return it to him by sunset, so that he may sleep in his own cloak and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.12|<< Deuteronomy 24:12]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.14|Deuteronomy 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to return>  |**<big>&#8207;[[H7725H\|הָשֵׁב֩]]&#8207; </big>**| ha.Shev<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will return  |**<big>&#8207;[[H7725H\|תָּשִׁ֨יב]]&#8207; </big>**| ta.Shiv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:5** 
 <small><sub>**LXX:**</sub></small>
 From the day which I led  my people from out of \[the\] land of Egypt, I did not choose  a city from all \[the\] tribes of Israel  to build a house  for my name to be there, and I did not choose a man  to be for leader over  my people Israel. 
-<small><sub>**KJV:**</sub></small>
-Since the day that I brought forth my people out of the land of Egypt I chose no city among all the tribes of Israel to build an house in, that my name might be there; neither chose I any man to be a ruler over my people Israel:
-<small><sub>**BSB:**</sub></small>
-‘Since the day I brought My people out of the land of Egypt, I have not chosen a city from any tribe of Israel in which to build a house so that My Name would be there, nor have I chosen anyone to be ruler over My people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.4|<< 2 Chronicles 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.6|2 Chronicles 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

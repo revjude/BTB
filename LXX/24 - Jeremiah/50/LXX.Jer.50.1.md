@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word of \[the\] <span class="smallcaps">lord</span> which he spoke against Babylon, and against \[the\] land of \[the\] Chaldeans, by \[the\] hand of Jeremiah the prophet. 
-<small><sub>**KJV:**</sub></small>
-The word that the LORD spake against Babylon [and] against the land of the Chaldeans by Jeremiah the prophet.
-<small><sub>**BSB:**</sub></small>
-This is the word that the LORD spoke through Jeremiah the prophet concerning Babylon and the land of the Chaldeans:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.39|<< Jeremiah 49:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.2|Jeremiah 50:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:14** 
 <small><sub>**LXX:**</sub></small>
 And who am I, and what \[is\]  my people, that we were strong  to volunteer to you thus? For all \[things\] \[are\] yours, and of your \[things\] we give to you. 
-<small><sub>**KJV:**</sub></small>
-But who [am] I, and what [is] my people, that we should be able to offer so willingly after this sort? for all things [come] of thee, and of thine own have we given thee.
-<small><sub>**BSB:**</sub></small>
-But who am I, and who are my people, that we should be able to give as generously as this? For everything comes from You, and from Your own hand we have given to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.13|<< 1 Chronicles 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.15|1 Chronicles 29:15 >>]]</td></tr></table>
 
 | Translation | Greek |

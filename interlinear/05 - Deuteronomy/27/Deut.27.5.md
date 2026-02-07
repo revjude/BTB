@@ -1,4 +1,4 @@
-**Deuteronomy 27:5** 
+**Deuteronomy 27:5**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shalt thou build an altar unto the LORD thy God, an altar of stones: thou shalt not lift up [any] iron [tool] upon them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Moreover, you are to build there an altar to the LORD your God, an altar of ston
 > $\quad$ referenced by: [[Josh.8.31|Josh 8:31]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will build  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1129\|בָנִ֤יתָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Ni.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָּׁם֙]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

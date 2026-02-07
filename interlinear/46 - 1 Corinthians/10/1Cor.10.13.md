@@ -1,12 +1,12 @@
-**1 Corinthians 10:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:13**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There hath no temptation taken you but such as is common to man: but God [is] faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear [it].
 <small><sub>**BSB:**</sub></small>
 No temptation has seized you except what is common to man. And God is faithful; He will not let you be tempted beyond what you can bear. But when you are tempted, He will also provide an escape, so that you can stand up under it.
 <small><sub>**Literal:**</sub></small>
 Temptation you not has seized only except what is common to man; faithful now <the> [is] God, who not will allow you to be tempted beyond what you are able, but will provide with the temptation also the escape <the> to be able you to endure [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.12|<< 1 Corinthians 10:12]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.14|1 Corinthians 10:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Temptation |**<big>[[G3986G\|πειρασμὸς]]</big>**  |peirasmos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

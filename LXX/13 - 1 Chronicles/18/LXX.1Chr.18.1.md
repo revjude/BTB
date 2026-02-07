@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\], that David struck the Philistines, and put them to flight. And he took  Gath and  her towns from \[the\] hand of \[the\] Philistines. 
-<small><sub>**KJV:**</sub></small>
-Now after this it came to pass, that David smote the Philistines, and subdued them, and took Gath and her towns out of the hand of the Philistines.
-<small><sub>**BSB:**</sub></small>
-Some time later, David defeated the Philistines, subdued them, and took Gath and its villages from the hand of the Philistines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.27|<< 1 Chronicles 17:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.2|1 Chronicles 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

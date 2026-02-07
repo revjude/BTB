@@ -1,4 +1,4 @@
-**Exodus 40:31** 
+**Exodus 40:31**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron and his sons washed their hands and their feet thereat:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and from it Moses, Aaron, and his sons washed their hands and feet.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.30|<< Exodus 40:30]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.32|Exodus 40:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they washed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7364\|רָחֲצ֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.cha.Tzu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from it  |**<big>&#8207;[[H4480A\|מִמֶּ֔]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

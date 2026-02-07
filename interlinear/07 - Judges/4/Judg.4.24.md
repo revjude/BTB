@@ -1,4 +1,4 @@
-**Judges 4:24** 
+**Judges 4:24**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the hand of the Israelites grew stronger and stronger against Jabin king of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.23|<< Judges 4:23]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.1|Judges 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980L\|תֵּ֜לֶךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.lekh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] hand of  |**<big>&#8207;[[H3027H\|יַ֤ד]]&#8207; </big>**| yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

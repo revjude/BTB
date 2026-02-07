@@ -1,4 +1,4 @@
-**Jeremiah 48:26** 
+**Jeremiah 48:26**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make ye him drunken: for he magnified [himself] against the LORD: Moab also shall wallow in his vomit, and he also shall be in derision.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Make ye him drunken: for he magnified [himself] against the LORD: Moab also shal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.25|<< Jeremiah 48:25]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.27|Jeremiah 48:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make drunk it  |**<big>&#8207;[[H7937\|הַשְׁכִּירֻ֕]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| hash.ki.Ru.<small><sup>[[HVhv2mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

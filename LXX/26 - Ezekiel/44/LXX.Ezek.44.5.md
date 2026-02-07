@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, O son of man, arrange it upon  your heart, and behold  \[with\] your eyes, and  hear \[with\] your ears! all as much as I speak to you concerning all the orders of the house of \[the\] <span class="smallcaps">lord</span>, and all  its laws. And arrange  your heart for the entrance of the house according to all  its exits in all the holy places! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto me, Son of man, mark well, and behold with thine eyes, and hear with thine ears all that I say unto thee concerning all the ordinances of the house of the LORD, and all the laws thereof; and mark well the entering in of the house, with every going forth of the sanctuary.
-<small><sub>**BSB:**</sub></small>
-The LORD said to me: “Son of man, pay attention; look carefully with your eyes and listen closely with your ears to everything I tell you concerning all the statutes and laws of the house of the LORD. Take careful note of the entrance to the temple, along with all the exits of the sanctuary.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.4|<< Ezekiel 44:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.6|Ezekiel 44:6 >>]]</td></tr></table>
 
 | Translation | Greek |

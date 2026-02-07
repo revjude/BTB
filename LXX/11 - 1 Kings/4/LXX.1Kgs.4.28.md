@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:28** 
 <small><sub>**LXX:**</sub></small>
 And the barley and the straw for the horses and the chariots they took unto the place of which ever the king might be, each according to  his arrangement. 
-<small><sub>**KJV:**</sub></small>
-Barley also and straw for the horses and dromedaries brought they unto the place where [the officers] were, every man according to his charge.
-<small><sub>**BSB:**</sub></small>
-Each one also brought to the required place their quotas of barley and straw for the chariot horses and other horses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.27|<< 1 Kings 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.29|1 Kings 4:29 >>]]</td></tr></table>
 
 | Translation | Greek |

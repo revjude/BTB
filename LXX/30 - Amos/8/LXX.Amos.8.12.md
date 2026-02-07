@@ -1,10 +1,7 @@
 **LXX Amos 8:12** 
 <small><sub>**LXX:**</sub></small>
 And waters shall shake from the sea unto sea. And from north unto east ones shall run about seeking the word of the <span class="smallcaps">lord</span>, and in no way should they find. 
-<small><sub>**KJV:**</sub></small>
-And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the LORD, and shall not find [it].
-<small><sub>**BSB:**</sub></small>
-People will stagger from sea to sea and roam from north to east, seeking the word of the LORD, but they will not find it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.11|<< Amos 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.13|Amos 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

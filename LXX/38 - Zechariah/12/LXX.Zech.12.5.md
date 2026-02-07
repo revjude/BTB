@@ -1,10 +1,7 @@
 **LXX Zechariah 12:5** 
 <small><sub>**LXX:**</sub></small>
 And the commanders of thousands of Judah shall say in  their hearts, We shall find ourselves of the ones dwelling Jerusalem in \[the\] <span class="smallcaps">lord</span> almighty their God. 
-<small><sub>**KJV:**</sub></small>
-And the governors of Judah shall say in their heart, The inhabitants of Jerusalem [shall be] my strength in the LORD of hosts their God.
-<small><sub>**BSB:**</sub></small>
-Then the leaders of Judah will say in their hearts: ‘The people of Jerusalem are my strength, for the LORD of Hosts is their God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.4|<< Zechariah 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.6|Zechariah 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

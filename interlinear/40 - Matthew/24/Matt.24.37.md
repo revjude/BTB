@@ -1,5 +1,5 @@
-**Matthew 24:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:37**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But as the days of Noe [were], so shall also the coming of the Son of man be.
 <small><sub>**BSB:**</sub></small>
 As it was in the days of Noah, so will it be at the coming of the Son of Man.
@@ -10,7 +10,7 @@ As [were] for the days <the> of Noah, so will be also the coming of the Son <the
 > $\quad$ alluding to: [[LXX.Gen.7.4|Gen 7:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As [were] |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for [^1] |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,4 +1,4 @@
-**1 Kings 12:8** 
+**1 Kings 12:8**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, [and] which stood before him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Rehoboam rejected the advice of the elders; instead, he consulted the young 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.7|<< 1 Kings 12:7]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.9|1 Kings 12:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he forsook  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5800A\|יַּעֲזֹ֛ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Zo<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

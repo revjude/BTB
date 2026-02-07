@@ -1,10 +1,7 @@
 **LXX 1 Samuel 27:11** 
 <small><sub>**LXX:**</sub></small>
 And David did not bring forth alive a man and woman  to bring unto Gath, saying, Lest they announce against us, saying, Thus David does. And thus  \[was\] his ordinance all the days which David settled in \[the\] country of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-And David saved neither man nor woman alive, to bring [tidings] to Gath, saying, Lest they should tell on us, saying, So did David, and so [will be] his manner all the while he dwelleth in the country of the Philistines.
-<small><sub>**BSB:**</sub></small>
-David did not leave a man or woman alive to be brought to Gath, for he said, “Otherwise they will report us, saying, ‘This is what David did.’” And this was David’s custom the whole time he lived in Philistine territory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.10|<< 1 Samuel 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.12|1 Samuel 27:12 >>]]</td></tr></table>
 
 | Translation | Greek |

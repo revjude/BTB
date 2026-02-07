@@ -1,12 +1,12 @@
-**Colossians 3:16
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:16**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.
 <small><sub>**BSB:**</sub></small>
 Let the word of Christ richly dwell within you as you teach and admonish one another with all wisdom, and as you sing psalms, hymns, and spiritual songs with gratitude in your hearts to God.
 <small><sub>**Literal:**</sub></small>
 The word <the> of Christ should dwell in you richly, in all wisdom teaching and admonishing yourselves in psalms, and in hymns, and in songs spiritual with <the> grace singing in the hearts of you <the> to God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.15|<< Colossians 3:15]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.17|Colossians 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | word |**<big>[[G3056\|λόγος]]</big>**  |logos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

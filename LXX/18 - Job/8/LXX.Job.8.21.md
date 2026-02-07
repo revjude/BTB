@@ -1,10 +1,7 @@
 **LXX Job 8:21** 
 <small><sub>**LXX:**</sub></small>
 But \[the\] mouth of \[the\] true ones he will fill \[with\] laughter,  and their lips with acknowledgment. 
-<small><sub>**KJV:**</sub></small>
-Till he fill thy mouth with laughing, and thy lips with rejoicing.
-<small><sub>**BSB:**</sub></small>
-He will yet fill your mouth with laughter, and your lips with a shout of joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.20|<< Job 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.22|Job 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

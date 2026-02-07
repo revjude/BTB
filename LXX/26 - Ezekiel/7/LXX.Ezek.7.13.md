@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:13** 
 <small><sub>**LXX:**</sub></small>
 For the one acquiring shall not return to the thing selling; and still in \[the\] life  of their living, that \[the\] vision \[is\] for all  their multitude -- it shall not return, and a man in \[the\] eyes shall not hold his life. 
-<small><sub>**KJV:**</sub></small>
-For the seller shall not return to that which is sold, although they were yet alive: for the vision [is] touching the whole multitude thereof, [which] shall not return; neither shall any strengthen himself in the iniquity of his life.
-<small><sub>**BSB:**</sub></small>
-The seller will surely not recover what he sold while both remain alive. For the vision concerning the whole multitude will not be revoked, and because of their iniquity, not one of them will preserve his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.12|<< Ezekiel 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.14|Ezekiel 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

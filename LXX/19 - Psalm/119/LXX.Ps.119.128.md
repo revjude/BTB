@@ -1,10 +1,7 @@
 **LXX Psalm 119:128** 
 <small><sub>**LXX:**</sub></small>
 On account of this I kept straight to all of your commandments; every way of \[the\] unjust I detested. 
-<small><sub>**KJV:**</sub></small>
-Therefore I esteem all [thy] precepts [concerning] all [things to be] right; [and] I hate every false way.
-<small><sub>**BSB:**</sub></small>
-Therefore I admire all Your precepts and hate every false way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.128|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.127|<< Psalm 119:127]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.129|Psalm 119:129 >>]]</td></tr></table>
 
 | Translation | Greek |

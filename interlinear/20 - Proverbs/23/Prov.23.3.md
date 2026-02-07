@@ -1,4 +1,4 @@
-**Proverbs 23:3** 
+**Proverbs 23:3**<big><big>[[Prov.23.1 Saying 7|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not desirous of his dainties: for they [are] deceitful meat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not crave his delicacies, for that food is deceptive.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.2|<< Proverbs 23:2]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.4|Proverbs 23:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you crave  [^1]|**<big>&#8207;[[H0183\|תִּ֭תְאָיו]]&#8207; </big>**[^2] | tit.'o<small><sup>[[HVpj2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

@@ -1,10 +1,7 @@
 **LXX Song of Solomon 7:2** 
 <small><sub>**LXX:**</sub></small>
 Your navel \[is as\] a turned basin, not lacking mixed wine. Your belly \[is as\] a heap of grain shut up in lilies. 
-<small><sub>**KJV:**</sub></small>
-Thy navel [is like] a round goblet, [which] wanteth not liquor: thy belly [is like] an heap of wheat set about with lilies.
-<small><sub>**BSB:**</sub></small>
-Your navel is a rounded goblet; it never lacks blended wine. Your waist is a mound of wheat encircled by the lilies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.1|<< Song of Solomon 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.3|Song of Solomon 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 2:12** (2:11)
+**2 Chronicles 2:12**<big><big>[[2Chr.2.11 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Huram said moreover, Blessed [be] the LORD God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the LORD, and an house for his kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Hiram added: “Blessed be the LORD, the God of Israel, who made the heavens
 > $\quad$ referenced by: [[Acts.4.24|Acts 4:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Huram  |**<big>&#8207;[[H2361G\|חוּרָם֒]]&#8207; </big>**| chu.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

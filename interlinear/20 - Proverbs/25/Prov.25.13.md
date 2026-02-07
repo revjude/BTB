@@ -1,4 +1,4 @@
-**Proverbs 25:13** 
+**Proverbs 25:13**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the cold of snow in the time of harvest, [so is] a faithful messenger to them that send him: for he refresheth the soul of his masters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like the cold of snow in the time of harvest is a trustworthy messenger to those
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.12|<< Proverbs 25:12]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.14|Proverbs 25:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] like [the] cold of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6793B\|צִנַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> tzi.nat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | snow  |**<big>&#8207;[[H7950\|שֶׁ֨לֶג]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| She.leg<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

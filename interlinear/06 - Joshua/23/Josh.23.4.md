@@ -1,4 +1,4 @@
-**Joshua 23:4** 
+**Joshua 23:4**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have divided unto you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even unto the great sea westward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See, I have allotted as an inheritance to your tribes these remaining nations, i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.3|<< Joshua 23:3]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.5|Joshua 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200I\|רְאוּ֩]]&#8207; </big>**| re.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have made fall  |**<big>&#8207;[[H5307I\|הִפַּ֨לְתִּי]]&#8207; </big>**| hi.Pal.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

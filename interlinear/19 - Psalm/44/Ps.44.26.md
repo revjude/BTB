@@ -1,4 +1,4 @@
-**Psalms 44:26** (44:27)
+**Psalms 44:26**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise for our help, and redeem us for thy mercies’ sake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rise up; be our help! Redeem us on account of Your loving devotion.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.25|<< Psalms 44:25]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.0|Psalms 45:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise !  |**<big>&#8207;[[H6965B\|ק֭וּמָֽ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Ku.ma<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> a help  |**<big>&#8207;[[H5833\|עֶזְרָ֣תָה]]&#8207; </big>**| 'ez.Ra.tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 15:21** 
+**Exodus 15:21**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Miriam answered them, Sing ye to the LORD, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Miriam sang back to them: “Sing to the LORD, for He is highly exalted; the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.20|<< Exodus 15:20]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.22|Exodus 15:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she sang  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030C\|תַּ֥עַן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'an<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

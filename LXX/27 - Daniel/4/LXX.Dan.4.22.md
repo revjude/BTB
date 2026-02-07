@@ -1,10 +1,7 @@
 **LXX Daniel 4:22** 
 <small><sub>**LXX:**</sub></small>
 You are, O king. For you were magnified and strengthened, and  your greatness was magnified, and it came unto  heaven, and  your dominion unto the ends of the earth. 
-<small><sub>**KJV:**</sub></small>
-It [is] thou, O king, that art grown and become strong: for thy greatness is grown, and reacheth unto heaven, and thy dominion to the end of the earth.
-<small><sub>**BSB:**</sub></small>
-you, O king, are that tree! For you have become great and strong; your greatness has grown to reach the sky, and your dominion extends to the ends of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.21|<< Daniel 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.23|Daniel 4:23 >>]]</td></tr></table>
 
 | Translation | Greek |

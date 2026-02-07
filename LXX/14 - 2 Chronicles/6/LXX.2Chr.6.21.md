@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:21** 
 <small><sub>**LXX:**</sub></small>
 Then shall you hear the supplication  of your manservant, and  of your people Israel, in what ever they should pray to  this place. And you shall hear from the place  of your dwelling -- from the heaven; and you shall hear and shall be propitious. 
-<small><sub>**KJV:**</sub></small>
-Hearken therefore unto the supplications of thy servant, and of thy people Israel, which they shall make toward this place: hear thou from thy dwelling place, [even] from heaven; and when thou hearest, forgive.
-<small><sub>**BSB:**</sub></small>
-Hear the plea of Your servant and of Your people Israel when they pray toward this place. May You hear from heaven, Your dwelling place. May You hear and forgive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.20|<< 2 Chronicles 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.22|2 Chronicles 6:22 >>]]</td></tr></table>
 
 | Translation | Greek |

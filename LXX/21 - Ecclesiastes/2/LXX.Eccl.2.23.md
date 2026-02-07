@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:23** 
 <small><sub>**LXX:**</sub></small>
 For in all  his days \[are\] pains and rage of his distraction; and indeed in night his heart does not go to bed. And indeed this is folly. 
-<small><sub>**KJV:**</sub></small>
-For all his days [are] sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.
-<small><sub>**BSB:**</sub></small>
-Indeed, all his days are filled with grief, and his task is sorrowful; even at night, his mind does not rest. This too is futile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.22|<< Ecclesiastes 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.24|Ecclesiastes 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 11:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:17**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he, knowing their thoughts, said unto them, Every kingdom divided against itself is brought to desolation; and a house [divided] against a house falleth.
 <small><sub>**BSB:**</sub></small>
 Knowing their thoughts, Jesus said to them, “Every kingdom divided against itself will be laid waste, and a house divided against a house will fall.
 <small><sub>**Literal:**</sub></small>
 He himself now knowing their <the> thoughts said to them; Every kingdom against itself having been divided is brought to desolation, and a house against a house falls.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.16|<< Luke 11:16]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.18|Luke 11:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

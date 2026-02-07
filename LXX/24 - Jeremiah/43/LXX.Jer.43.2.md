@@ -1,10 +1,7 @@
 **LXX Jeremiah 43:2** 
 <small><sub>**LXX:**</sub></small>
 And Azariah son of Hoshaiah said, and Johanan son of Kareah, and all the proud men, the ones speaking \[to\] Jeremiah, You speak lies, \[The\] <span class="smallcaps">lord</span> our God did not send you to us, to say, You should not enter into Egypt to live in there; 
-<small><sub>**KJV:**</sub></small>
-Then spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying unto Jeremiah, Thou speakest falsely: the LORD our God hath not sent thee to say, Go not into Egypt to sojourn there:
-<small><sub>**BSB:**</sub></small>
-Azariah son of Hoshaiah, Johanan son of Kareah, and all the arrogant men said to Jeremiah, “You are lying! The LORD our God has not sent you to say, ‘You must not go to Egypt to reside there.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.43.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.1|<< Jeremiah 43:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.3|Jeremiah 43:3 >>]]</td></tr></table>
 
 | Translation | Greek |

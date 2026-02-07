@@ -1,10 +1,7 @@
 **LXX Joshua 10:20** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Joshua rested, and the son of Israel, in beating them \[with\] an exceedingly great slaughter even unto completion, that the ones surviving were delivered from them, and entered into the fortified cities. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Joshua and the children of Israel had made an end of slaying them with a very great slaughter, till they were consumed, that the rest [which] remained of them entered into fenced cities.
-<small><sub>**BSB:**</sub></small>
-So Joshua and the Israelites continued to inflict a terrible slaughter until they had finished them off, and the remaining survivors retreated to the fortified cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.19|<< Joshua 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.21|Joshua 10:21 >>]]</td></tr></table>
 
 | Translation | Greek |

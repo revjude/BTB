@@ -1,10 +1,7 @@
 **LXX Psalm 115:2** 
 <small><sub>**LXX:**</sub></small>
 lest at any time the nations should say, Where is  their God? 
-<small><sub>**KJV:**</sub></small>
-Wherefore should the heathen say, Where [is] now their God?
-<small><sub>**BSB:**</sub></small>
-Why should the nations say, “Where is their God?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.115.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.1|<< Psalm 115:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.3|Psalm 115:3 >>]]</td></tr></table>
 
 | Translation | Greek |

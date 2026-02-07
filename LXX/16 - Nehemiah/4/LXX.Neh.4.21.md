@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:21** 
 <small><sub>**LXX:**</sub></small>
 And we were doing the work, and the half of us were holding the lances from \[the\] ascending of the dawn until \[the\] coming out of the stars. 
-<small><sub>**KJV:**</sub></small>
-So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared.
-<small><sub>**BSB:**</sub></small>
-So we continued the work, while half of the men held spears from the break of dawn until the stars came out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.20|<< Nehemiah 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.22|Nehemiah 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

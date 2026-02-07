@@ -1,12 +1,12 @@
-**Luke 20:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:25**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Render therefore unto Caesar the things which be Caesar’s, and unto God the things which be God’s.
 <small><sub>**BSB:**</sub></small>
 So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.”
 <small><sub>**Literal:**</sub></small>
 <the> And He said to them; Therefore do give back the [things] of Caesar to Caesar and the [things] <of the> of God <to the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.24|<< Luke 20:24]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.26|Luke 20:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

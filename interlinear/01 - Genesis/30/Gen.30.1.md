@@ -1,4 +1,4 @@
-**Genesis 30:1** 
+**Genesis 30:1**<big><big>[[Gen.30.1 Dan and Naphtali|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Rachel saw that she bare Jacob no children, Rachel envied her sister; and said unto Jacob, Give me children, or else I die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Rachel saw that she was not bearing any children for Jacob, she envied her 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.35|<< Genesis 29:35]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.2|Genesis 30:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תֵּ֣רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.re'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rachel  |**<big>&#8207;[[H7354\|רָחֵ֗ל]]&#8207; </big>**| ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

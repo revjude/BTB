@@ -1,12 +1,12 @@
-**Mark 7:20
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:20**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, That which cometh out of the man, that defileth the man.
 <small><sub>**BSB:**</sub></small>
 He continued: “What comes out of a man, that is what defiles him.
 <small><sub>**Literal:**</sub></small>
 He was saying now that That out of the man going forth, that [is what] defiles the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.19|<< Mark 7:19]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.21|Mark 7:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was saying |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

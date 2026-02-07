@@ -1,12 +1,12 @@
-**Romans 4:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:6**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,
 <small><sub>**BSB:**</sub></small>
 And David speaks likewise of the blessedness of the man to whom God credits righteousness apart from works:
 <small><sub>**Literal:**</sub></small>
 just as also David declares the blessedness of the man to whom <the> God credits righteousness apart from works:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.5|<< Romans 4:5]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.7|Romans 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as |**<big>[[G2509\|καθάπερ]]</big>**  |kathaper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

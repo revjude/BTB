@@ -1,12 +1,12 @@
-**Acts 3:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:11**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as the lame man which was healed held Peter and John, all the people ran together unto them in the porch that is called Solomon’s, greatly wondering.
 <small><sub>**BSB:**</sub></small>
 While the man clung to Peter and John, all the people were astonished and ran to them in the walkway called Solomon’s Colonnade.
 <small><sub>**Literal:**</sub></small>
 When is clinging now he having been healed lame [one] <the> to Peter and <the> John ran together all the people to them in the porch which is being called Solomon’s greatly amazed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.10|<< Acts 3:10]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.12|Acts 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When is clinging |**<big>[[G2902\|κρατοῦντος]]</big>**  |kratountos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

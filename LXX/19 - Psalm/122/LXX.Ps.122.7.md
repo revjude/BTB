@@ -1,10 +1,7 @@
 **LXX Psalm 122:7** 
 <small><sub>**LXX:**</sub></small>
 Let there be peace with  your force, and prosperity in  your towered fortifications! 
-<small><sub>**KJV:**</sub></small>
-Peace be within thy walls, [and] prosperity within thy palaces.
-<small><sub>**BSB:**</sub></small>
-May there be peace within your walls, and prosperity inside your fortresses.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.122.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.122.6|<< Psalm 122:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.122.8|Psalm 122:8 >>]]</td></tr></table>
 
 | Translation | Greek |

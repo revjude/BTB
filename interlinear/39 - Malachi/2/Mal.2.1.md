@@ -1,4 +1,4 @@
-**Malachi 2:1** 
+**Malachi 2:1**<big><big>[[Mal.2.1 A Warning to the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, O ye priests, this commandment [is] for you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And now, O ye priests, this commandment [is] for you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.14|<< Malachi 1:14]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.2|Malachi 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] to you  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9036\|כֶ֛ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

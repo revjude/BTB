@@ -1,4 +1,4 @@
-**Numbers 31:42** 
+**Numbers 31:42**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the children of Israel’s half, which Moses divided from the men that warred,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the Israelites’ half, which Moses had set apart from the men who had gone
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.41|<< Numbers 31:41]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.43|Numbers 31:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] half of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4276\|מַּחֲצִ֖ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ma.cha.Tzit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 20:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:21**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto her, What wilt thou? She saith unto him, Grant that these my two sons may sit, the one on thy right hand, and the other on the left, in thy kingdom.
 <small><sub>**BSB:**</sub></small>
 “What do you want?” He inquired. She answered, “Declare that in Your kingdom one of these two sons of mine may sit at Your right hand, and the other at Your left.”
 <small><sub>**Literal:**</sub></small>
 <the> And He said to her; What do you desire? She says to Him; do say that may sit these <the> two sons of mine one on [the] right hand of You and one on [the] left hand of You in the kingdom of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.20|<< Matthew 20:20]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.22|Matthew 20:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

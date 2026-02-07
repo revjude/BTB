@@ -1,4 +1,4 @@
-**Job 27:4** 
+**Job 27:4**<big><big>[[Job.27.1 Job Affirms His Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My lips shall not speak wickedness, nor my tongue utter deceit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ my lips will not speak wickedness, and my tongue will not utter deceit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.3|<< Job 27:3]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.5|Job 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518H\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will speak  |**<big>&#8207;[[H1696G\|תְּדַבֵּ֣רְנָה]]&#8207; </big>**| te.da.Be.re.nah<small><sup>[[HVpi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

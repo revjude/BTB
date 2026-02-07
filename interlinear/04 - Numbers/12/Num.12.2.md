@@ -1,4 +1,4 @@
-**Numbers 12:2** 
+**Numbers 12:2**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken also by us? And the LORD heard [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they said, Hath the LORD indeed spoken only by Moses? hath he not spoken als
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.1|<< Numbers 12:1]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.3|Numbers 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ only  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7535\|רַ֤ק]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 104:9** 
+**Psalms 104:9**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast set a bound that they may not pass over; that they turn not again to cover the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You set a boundary they cannot cross, that they may never again cover the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.8|<< Psalms 104:8]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.10|Psalms 104:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a boundary  |**<big>&#8207;[[H1366G\|גְּֽבוּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ge.vu.l.Sa-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you set  |**<big>&#8207;[[H7760A\|שַׂ֭מְתָּ]]&#8207; </big>**| Sam.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

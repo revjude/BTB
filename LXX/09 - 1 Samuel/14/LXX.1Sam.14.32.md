@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:32** 
 <small><sub>**LXX:**</sub></small>
 And the people advanced unto the spoils. And the people took flocks, and herds, and offspring of oxen, and slew \[them\] upon the ground, and the people ate \[them\] with the blood. 
-<small><sub>**KJV:**</sub></small>
-And the people flew upon the spoil, and took sheep, and oxen, and calves, and slew [them] on the ground: and the people did eat [them] with the blood.
-<small><sub>**BSB:**</sub></small>
-So they rushed greedily to the plunder, taking sheep, cattle, and calves. They slaughtered them on the ground and ate meat with the blood still in it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.31|<< 1 Samuel 14:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.33|1 Samuel 14:33 >>]]</td></tr></table>
 
 | Translation | Greek |

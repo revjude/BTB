@@ -1,4 +1,4 @@
-**Psalms 73:26** 
+**Psalms 73:26**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My flesh and my heart faileth: [but] God [is] the strength of my heart, and my portion for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My flesh and my heart may fail, but God is the strength of my heart and my porti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.25|<< Psalms 73:25]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.27|Psalms 73:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it had come to an end  |**<big>&#8207;[[H3615J\|כָּלָ֥ה]]&#8207; </big>**| ka.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flesh my  |**<big>&#8207;[[H7607\|שְׁאֵרִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| she.'e.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

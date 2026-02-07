@@ -1,4 +1,4 @@
-**Leviticus 25:11** 
+**Leviticus 25:11**<big><big>[[Lev.25.8 The Year of Jubilee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather [the grapes] in it of thy vine undressed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fiftieth year will be a Jubilee for you; you are not to sow the land or reap
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.10|<< Leviticus 25:10]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.12|Leviticus 25:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a jubilee  |**<big>&#8207;[[H3104\|יוֹבֵ֣ל]]&#8207; </big>**| yo.Vel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it  |**<big>&#8207;[[H1931\|הִ֗וא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

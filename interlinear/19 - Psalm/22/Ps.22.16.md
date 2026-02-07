@@ -1,4 +1,4 @@
-**Psalms 22:16** (22:17)
+**Psalms 22:16**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For dogs surround me; a band of evil men encircles me; they have pierced my hand
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have surrounded me  |**<big>&#8207;[[H5437H\|סְבָב֗וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| se.va.Vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

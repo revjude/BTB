@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:21** 
 <small><sub>**LXX:**</sub></small>
 And if at a farther distance from you \[be\] the place which ever \[the\] <span class="smallcaps">lord</span> your God should choose to call upon  his name there, then you shall sacrifice from  your oxen, and from  your sheep what ever \[the\] <span class="smallcaps">lord</span> your God should give to you, in which manner I gave charge to you; and you shall eat in  your cities according to the desire  of your soul. 
-<small><sub>**KJV:**</sub></small>
-If the place which the LORD thy God hath chosen to put his name there be too far from thee, then thou shalt kill of thy herd and of thy flock, which the LORD hath given thee, as I have commanded thee, and thou shalt eat in thy gates whatsoever thy soul lusteth after.
-<small><sub>**BSB:**</sub></small>
-If the place where the LORD your God chooses to put His Name is too far from you, then you may slaughter any of the herd or flock He has given you, as I have commanded you, and you may eat it within your gates whenever you want.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.20|<< Deuteronomy 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.22|Deuteronomy 12:22 >>]]</td></tr></table>
 
 | Translation | Greek |

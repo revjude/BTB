@@ -1,12 +1,12 @@
-**Hebrews 10:8
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:8**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Above when he said, Sacrifice and offering and burnt offerings and [offering] for sin thou wouldest not, neither hadst pleasure [therein]; which are offered by the law;
 <small><sub>**BSB:**</sub></small>
 In the passage above He says, “Sacrifices and offerings, burnt offerings and sin offerings You did not desire, nor did You delight in them” (although they are offered according to the law).
 <small><sub>**Literal:**</sub></small>
 Above saying that sacrifices and offerings and burnt offerings and [offerings] for sin not You have desired nor You delighted in, which according to the Law are offered,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.7|<< Hebrews 10:7]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.9|Hebrews 10:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Above |**<big>[[G0511\|ἀνώτερον]]</big>**  |anōteron <small><sup>[[A-ASN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

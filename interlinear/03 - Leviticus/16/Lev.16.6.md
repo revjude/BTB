@@ -1,4 +1,4 @@
-**Leviticus 16:6** 
+**Leviticus 16:6**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall offer his bullock of the sin offering, which [is] for himself, and make an atonement for himself, and for his house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Aaron is to present the bull for his sin offering and make atonement for himself
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.5|<< Leviticus 16:5]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.7|Leviticus 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will present  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126H\|הִקְרִ֧יב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.Riv<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֛ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

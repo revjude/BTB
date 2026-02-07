@@ -1,10 +1,7 @@
 **LXX Psalm 89:49** 
 <small><sub>**LXX:**</sub></small>
 Where are  your ancient mercies, O <span class="smallcaps">lord</span>, which you swore by an oath  to David in  your truth? 
-<small><sub>**KJV:**</sub></small>
-Lord, where [are] thy former lovingkindnesses, [which] thou swarest unto David in thy truth?
-<small><sub>**BSB:**</sub></small>
-Where, O Lord, is Your loving devotion of old, which You faithfully swore to David?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.48|<< Psalm 89:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.50|Psalm 89:50 >>]]</td></tr></table>
 
 | Translation | Greek |

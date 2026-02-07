@@ -1,10 +1,7 @@
 **LXX Isaiah 23:11** 
 <small><sub>**LXX:**</sub></small>
  And your hand no longer prevails against \[the\] sea, O one provoking kings. \[The\] <span class="smallcaps">lord</span> of Hosts gave charge concerning Canaan, to destroy her  strength. 
-<small><sub>**KJV:**</sub></small>
-He stretched out his hand over the sea, he shook the kingdoms: the LORD hath given a commandment against the merchant [city], to destroy the strong holds thereof.
-<small><sub>**BSB:**</sub></small>
-The LORD has stretched out His hand over the sea; He has made kingdoms tremble. He has given a command that the strongholds of Canaan be destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.10|<< Isaiah 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.12|Isaiah 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 66:14** 
+**Isaiah 66:14**<big><big>[[Isa.66.7 Rejoice with Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when ye see [this], your heart shall rejoice, and your bones shall flourish like an herb: and the hand of the LORD shall be known toward his servants, and [his] indignation toward his enemies.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When you see, you will rejoice, and you will flourish like grass; then the hand 
 > $\quad$ referenced by: [[John.16.22|John 16:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will see  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7200G\|רְאִיתֶם֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> re.'i.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will exult  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7797\|שָׂ֣שׂ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sas<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

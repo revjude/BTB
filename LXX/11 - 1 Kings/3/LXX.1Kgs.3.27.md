@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:27** 
 <small><sub>**LXX:**</sub></small>
 And the king responded and said, Give the living child to the one having said, Give it to her! and unto death you should not put it to death -- she \[is\]  his mother. 
-<small><sub>**KJV:**</sub></small>
-Then the king answered and said, Give her the living child, and in no wise slay it: she [is] the mother thereof.
-<small><sub>**BSB:**</sub></small>
-Then the king gave his ruling: “Give the living baby to the first woman. By no means should you kill him; she is his mother.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.26|<< 1 Kings 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.28|1 Kings 3:28 >>]]</td></tr></table>
 
 | Translation | Greek |

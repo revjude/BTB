@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:16** 
 <small><sub>**LXX:**</sub></small>
 Let speak indeed, O lord,  your servants before you! And let them seek  for our lord a man knowing to strum with a lute! And it will be when the ferocious spirit be unto you by God, that he should strum with  his lute, and it will be good to you. 
-<small><sub>**KJV:**</sub></small>
-Let our lord now command thy servants, [which are] before thee, to seek out a man, [who is] a cunning player on an harp: and it shall come to pass, when the evil spirit from God is upon thee, that he shall play with his hand, and thou shalt be well.
-<small><sub>**BSB:**</sub></small>
-Let our lord command your servants here to seek out someone who can skillfully play the harp. Whenever the spirit of distress from God is upon you, he is to play it, and you will be well.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.15|<< 1 Samuel 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.17|1 Samuel 16:17 >>]]</td></tr></table>
 
 | Translation | Greek |

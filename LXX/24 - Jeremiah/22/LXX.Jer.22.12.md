@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:12** 
 <small><sub>**LXX:**</sub></small>
 But in the place where I displaced him, there he shall die, and  this land he shall not see again. 
-<small><sub>**KJV:**</sub></small>
-But he shall die in the place whither they have led him captive, and shall see this land no more.
-<small><sub>**BSB:**</sub></small>
-but he will die in the place to which he was exiled; he will never see this land again.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.11|<< Jeremiah 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.13|Jeremiah 22:13 >>]]</td></tr></table>
 
 | Translation | Greek |

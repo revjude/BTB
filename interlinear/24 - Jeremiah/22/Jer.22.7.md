@@ -1,4 +1,4 @@
-**Jeremiah 22:7** 
+**Jeremiah 22:7**<big><big>[[Jer.22.6 A Warning about the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will prepare destroyers against thee, every one with his weapons: and they shall cut down thy choice cedars, and cast [them] into the fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will appoint destroyers against you, each man with his weapons, and they will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.6|<< Jeremiah 22:6]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.8|Jeremiah 22:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will consecrate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6942J\|קִדַּשְׁתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.dash.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלֶ֛י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

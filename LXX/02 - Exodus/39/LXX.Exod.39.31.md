@@ -1,10 +1,7 @@
 **LXX Exodus 39:31** 
 <small><sub>**LXX:**</sub></small>
 And they put upon it a hem of blue, so as to rest upon the mitre above, in which manner \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And they tied unto it a lace of blue, to fasten [it] on high upon the mitre; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-Then they fastened to it a blue cord to mount it on the turban, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.30|<< Exodus 39:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.32|Exodus 39:32 >>]]</td></tr></table>
 
 | Translation | Greek |

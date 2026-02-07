@@ -1,4 +1,4 @@
-**Proverbs 24:18** 
+**Proverbs 24:18**<big><big>[[Prov.24.17 Saying 28|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest the LORD see [it], and it displease him, and he turn away his wrath from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ or the LORD will see and disapprove, and turn His wrath away from him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.17|<< Proverbs 24:17]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.19|Proverbs 24:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he should see  |**<big>&#8207;[[H7200G\|יִרְאֶ֣ה]]&#8207; </big>**| yir.'Eh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 10:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Stretch out  your hand upon the land of Egypt! and \[the\] locust ascend upon the land, and it will eat up all the pasturage of the land, and all the fruit of the trees which the hail left behind. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Stretch out thine hand over the land of Egypt for the locusts, that they may come up upon the land of Egypt, and eat every herb of the land, [even] all that the hail hath left.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Stretch out your hand over the land of Egypt, so that the locusts may swarm over it and devour every plant in the land—everything that the hail has left behind.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.11|<< Exodus 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.13|Exodus 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God shall consume  these nations from your face according to little \[by\] little. You shall not be able to completely consume them quickly, that the land might not become wilderness, and the wild beasts should multiply upon you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee.
-<small><sub>**BSB:**</sub></small>
-The LORD your God will drive out these nations before you little by little. You will not be enabled to eliminate them all at once, or the wild animals would multiply around you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.21|<< Deuteronomy 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.23|Deuteronomy 7:23 >>]]</td></tr></table>
 
 | Translation | Greek |

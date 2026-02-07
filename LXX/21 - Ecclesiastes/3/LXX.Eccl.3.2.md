@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:2** 
 <small><sub>**LXX:**</sub></small>
 A season  to give birth, and a season  to die; a season  to plant, and a season  to pluck out the \[thing\] being planted; 
-<small><sub>**KJV:**</sub></small>
-A time to be born, and a time to die; a time to plant, and a time to pluck up [that which is] planted;
-<small><sub>**BSB:**</sub></small>
-a time to be born and a time to die, a time to plant and a time to uproot,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.1|<< Ecclesiastes 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.3|Ecclesiastes 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

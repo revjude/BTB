@@ -1,4 +1,4 @@
-**2 Chronicles 3:13** 
+**2 Chronicles 3:13**<big><big>[[2Chr.3.10 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wings of these cherubims spread themselves forth twenty cubits: and they stood on their feet, and their faces [were] inward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the total wingspan of these cherubim was twenty cubits. They stood on their f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.12|<< 2 Chronicles 3:12]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.14|2 Chronicles 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] wings of  |**<big>&#8207;[[H3671\|כַּנְפֵי֙]]&#8207; </big>**| kan.Fei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cherubim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּרוּבִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

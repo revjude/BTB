@@ -1,10 +1,7 @@
 **LXX Numbers 25:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses, saying, Speak to the sons of Israel! saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses, saying,
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Moses,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.15|<< Numbers 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.17|Numbers 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

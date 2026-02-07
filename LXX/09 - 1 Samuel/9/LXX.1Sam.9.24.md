@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:24** 
 <small><sub>**LXX:**</sub></small>
 And the cook took the hind quarter, and the \[part\] upon it, and placed it before Saul. And Samuel said  to Saul, Behold, the leftover; place it before you, and eat! For as a testimony it is placed for you over the people -- pull it off! And Saul ate with Samuel in  that day. 
-<small><sub>**KJV:**</sub></small>
-And the cook took up the shoulder, and [that] which [was] upon it, and set [it] before Saul. And [Samuel] said, Behold that which is left! set [it] before thee, [and] eat: for unto this time hath it been kept for thee since I said, I have invited the people. So Saul did eat with Samuel that day.
-<small><sub>**BSB:**</sub></small>
-So the cook picked up the leg and what was attached to it and set it before Saul. Then Samuel said, “Here is what was kept back. It was set apart for you. Eat, for it has been kept for you for this occasion, from the time I said, ‘I have invited the people.’” So Saul dined with Samuel that day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.23|<< 1 Samuel 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.25|1 Samuel 9:25 >>]]</td></tr></table>
 
 | Translation | Greek |

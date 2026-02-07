@@ -1,4 +1,4 @@
-**Psalms 119:140** 
+**Psalms 119:140**<big><big>[[Ps.119.137 Your Word Is a Lamp to My Feet - TZADDI|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy word [is] very pure: therefore thy servant loveth it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your promise is completely pure; therefore Your servant loves it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.140|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.139|<< Psalms 119:139]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.141|Psalms 119:141 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [has been] refined  |**<big>&#8207;[[H6884\|צְרוּפָ֖ה]]&#8207; </big>**| tze.ru.Fah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | word your  |**<big>&#8207;[[H0565A\|אִמְרָתְ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| 'im.ra.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

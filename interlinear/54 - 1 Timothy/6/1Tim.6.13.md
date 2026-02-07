@@ -1,12 +1,12 @@
-**1 Timothy 6:13
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:13**<big><big>[[1Tim.6.11 Fight the Good Fight|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I give thee charge in the sight of God, who quickeneth all things, and [before] Christ Jesus, who before Pontius Pilate witnessed a good confession;
 <small><sub>**BSB:**</sub></small>
 I charge you in the presence of God, who gives life to all things, and of Christ Jesus, who made the good confession in His testimony before Pontius Pilate:
 <small><sub>**Literal:**</sub></small>
 I charge you before <the> God who is giving life <the> to all things and Christ Jesus the [One who] having testified before Pontius Pilate the good confession<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.12|<< 1 Timothy 6:12]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.14|1 Timothy 6:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I charge |**<big>[[G3853\|Παραγγέλλω]]</big>**  |Parangellō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|σοι]]</big>**  |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

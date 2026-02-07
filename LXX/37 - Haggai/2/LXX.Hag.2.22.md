@@ -1,10 +1,7 @@
 **LXX Haggai 2:22** 
 <small><sub>**LXX:**</sub></small>
 And I shall eradicate thrones of kings, and I shall annihilate \[the\] power of kings of the nations. And I shall eradicate chariots and riders. And there shall come down horses and their riders, each with a broadsword against  his brother. 
-<small><sub>**KJV:**</sub></small>
-And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother.
-<small><sub>**BSB:**</sub></small>
-I will overturn royal thrones and destroy the power of the kingdoms of the nations. I will overturn chariots and their riders; horses and their riders will fall, each by the sword of his brother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.21|<< Haggai 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.23|Haggai 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

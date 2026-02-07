@@ -1,10 +1,7 @@
 **LXX Genesis 2:8** 
 <small><sub>**LXX:**</sub></small>
 And God planted paradise in Eden according to \[the\] east, and he put there the man whom he shaped. 
-<small><sub>**KJV:**</sub></small>
-And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.
-<small><sub>**BSB:**</sub></small>
-And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.7|<< Genesis 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.9|Genesis 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 144:14** 
 <small><sub>**LXX:**</sub></small>
  their oxen \[are\] thick; there is no ruined fence, nor stream, nor a cry in  their broad \[spaces\]; 
-<small><sub>**KJV:**</sub></small>
-[That] our oxen [may be] strong to labour; [that there be] no breaking in, nor going out; that [there be] no complaining in our streets.
-<small><sub>**BSB:**</sub></small>
-Our oxen will bear great loads. There will be no breach in the walls, no going into captivity, and no cry of lament in our streets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.144.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.13|<< Psalm 144:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.15|Psalm 144:15 >>]]</td></tr></table>
 
 | Translation | Greek |

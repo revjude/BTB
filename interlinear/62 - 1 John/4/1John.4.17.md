@@ -1,12 +1,12 @@
-**1 John 4:17
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:17**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.
 <small><sub>**BSB:**</sub></small>
 In this way, love has been perfected among us, so that we may have confidence on the day of judgment; for in this world we are just like Him.
 <small><sub>**Literal:**</sub></small>
 In this has been perfected <the> love with us, so that confidence we may have in the day <the> of judgment, that even as He is also we ourselves are in <the> world this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.16|<< 1 John 4:16]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.18|1 John 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τούτῳ]]</big>**  |toutō <small><sup>[[D-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh gave orders to the foremen of the people, and to the scribes, saying, 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,
-<small><sub>**BSB:**</sub></small>
-That same day Pharaoh commanded the taskmasters of the people and their foremen:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.5|<< Exodus 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.7|Exodus 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

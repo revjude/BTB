@@ -1,12 +1,12 @@
-**Luke 6:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:36**<big><big>[[Luke.6.27 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be ye therefore merciful, as your Father also is merciful.
 <small><sub>**BSB:**</sub></small>
 Be merciful, just as your Father is merciful.
 <small><sub>**Literal:**</sub></small>
 do be you therefore merciful even as also the Father of you merciful is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.35|<< Luke 6:35]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.37|Luke 6:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be you |**<big>[[G1096\|Γίνεσθε]]</big>**  [^1] |Ginesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^2] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

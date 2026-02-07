@@ -1,4 +1,4 @@
-**Deuteronomy 33:19** 
+**Deuteronomy 33:19**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck [of] the abundance of the seas, and [of] treasures hid in the sand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will call the peoples to a mountain; there they will offer sacrifices of ri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.18|<< Deuteronomy 33:18]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.20|Deuteronomy 33:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | peoples  |**<big>&#8207;[[H5971A\|עַמִּים֙]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a mountain  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

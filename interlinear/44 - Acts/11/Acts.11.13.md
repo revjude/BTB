@@ -1,12 +1,12 @@
-**Acts 11:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:13**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;
 <small><sub>**BSB:**</sub></small>
 He told us how he had seen an angel standing in his house and saying, ‘Send to Joppa for Simon who is called Peter.
 <small><sub>**Literal:**</sub></small>
 He related then to us how he had seen the angel in the house of him having stood and having said to him: do send forth to Joppa men and do yourself send for Simon who is called Peter,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.12|<< Acts 11:12]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.14|Acts 11:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He related |**<big>[[G0518\|ἀπήγγειλεν]]</big>**  |apēngeilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

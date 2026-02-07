@@ -1,4 +1,4 @@
-**2 Chronicles 7:13** 
+**2 Chronicles 7:13**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I shut up heaven that there be no rain, or if I command the locusts to devour the land, or if I send pestilence among my people;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I close the sky so there is no rain, or if I command the locust to devour the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.12|<< 2 Chronicles 7:12]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.14|2 Chronicles 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will shut up  |**<big>&#8207;[[H6113\|אֶֽעֱצֹ֤ר]]&#8207; </big>**| 'e.'e.Tzor<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

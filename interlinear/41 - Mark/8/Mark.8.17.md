@@ -1,12 +1,12 @@
-**Mark 8:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:17**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Jesus knew [it], he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?
 <small><sub>**BSB:**</sub></small>
 Aware of their conversation, Jesus asked them, “Why are you debating about having no bread? Do you still not see or understand? Do you have such hard hearts?
 <small><sub>**Literal:**</sub></small>
 And having known [it] <the> Jesus He says to them; Why reason you because loaves not you have? Not yet do you perceive nor understand? still Hardened do you have the heart of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.16|<< Mark 8:16]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.18|Mark 8:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having known [it] |**<big>[[G1097\|γνοὺς]]</big>**  |gnous <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Revelation 8:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:9**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.
 <small><sub>**BSB:**</sub></small>
 a third of the living creatures in the sea died, and a third of the ships were destroyed.
 <small><sub>**Literal:**</sub></small>
 and died <the> a third of the creatures <the> in the sea who are having life, and <the> a third of the ships were destroyed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.8|<< Revelation 8:8]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.10|Revelation 8:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | died |**<big>[[G0599\|ἀπέθανεν]]</big>**  |apethanen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

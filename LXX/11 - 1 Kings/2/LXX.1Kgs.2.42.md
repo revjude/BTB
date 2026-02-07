@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:42** 
 <small><sub>**LXX:**</sub></small>
 And the king sent and called  Shimei, and he said to him, \[Have\] I not bound you by an oath according to the <span class="smallcaps">lord</span>, and I attested to you, saying, In which ever day you should go forth from out of Jerusalem, and you should go to \[the\] right or left, in knowing, know that to death you shall die? And you said to me, The word which you heard \[was\] good. 
-<small><sub>**KJV:**</sub></small>
-And the king sent and called for Shimei, and said unto him, Did I not make thee to swear by the LORD, and protested unto thee, saying, Know for a certain, on the day thou goest out, and walkest abroad any whither, that thou shalt surely die? and thou saidst unto me, The word [that] I have heard [is] good.
-<small><sub>**BSB:**</sub></small>
-the king summoned Shimei and said to him, “Did I not make you swear by the LORD and warn you, ‘On the day you leave and go elsewhere, know for sure that you will die’? And you told me, ‘The sentence is fair; I will comply.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.41|<< 1 Kings 2:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.43|1 Kings 2:43 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 25:35** 
+**Exodus 25:35**<big><big>[[Exod.25.31 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there shall be] a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches that proceed out of the candlestick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the six branches that extend from the lampstand, a bud must be under the fir
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.34|<< Exodus 25:34]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.36|Exodus 25:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a bulb  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3730\|כַפְתֹּ֡ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khaf.Tor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] under  |**<big>&#8207;[[H8478G\|תַּחַת֩]]&#8207; </big>**| ta.Chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

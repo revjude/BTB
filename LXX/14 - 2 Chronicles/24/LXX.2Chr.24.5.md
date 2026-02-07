@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:5** 
 <small><sub>**LXX:**</sub></small>
 And he gathered the priests and the Levites, and he said to them, Go forth into the cities of Judah, and gather from all Israel money  to repair the house of \[the\] <span class="smallcaps">lord</span>  your God until fit, year by year! And hasten to speak! And the Levites hastened not. 
-<small><sub>**KJV:**</sub></small>
-And he gathered together the priests and the Levites, and said to them, Go out unto the cities of Judah, and gather of all Israel money to repair the house of your God from year to year, and see that ye hasten the matter. Howbeit the Levites hastened [it] not.
-<small><sub>**BSB:**</sub></small>
-So he gathered the priests and Levites and said, “Go out to the cities of Judah and collect the money due annually from all Israel, to repair the house of your God. Do it quickly.” The Levites, however, did not make haste.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.4|<< 2 Chronicles 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.6|2 Chronicles 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

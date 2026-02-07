@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then Rezin king of Syria ascended, and Pekah son of Remaliah king of Israel, to Jerusalem for war. And they made assault against Ahaz, and they were not able to wage war. 
-<small><sub>**KJV:**</sub></small>
-Then Rezin king of Syria and Pekah son of Remaliah king of Israel came up to Jerusalem to war: and they besieged Ahaz, but could not overcome [him].
-<small><sub>**BSB:**</sub></small>
-Then Rezin king of Aram and Pekah son of Remaliah king of Israel came up to wage war against Jerusalem. They besieged Ahaz but could not overcome him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.4|<< 2 Kings 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.6|2 Kings 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

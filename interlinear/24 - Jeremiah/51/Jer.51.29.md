@@ -1,4 +1,4 @@
-**Jeremiah 51:29** 
+**Jeremiah 51:29**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land shall tremble and sorrow: for every purpose of the LORD shall be performed against Babylon, to make the land of Babylon a desolation without an inhabitant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The earth quakes and writhes because the LORD’s intentions against Babylon sta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.28|<< Jeremiah 51:28]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.30|Jeremiah 51:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it quaked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7493\|תִּרְעַ֥שׁ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tir.'Ash<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

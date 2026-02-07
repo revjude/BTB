@@ -1,12 +1,12 @@
-**Matthew 27:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:17**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?
 <small><sub>**BSB:**</sub></small>
 So when the crowd had assembled, Pilate asked them, “Which one do you want me to release to you: Barabbas, or Jesus who is called Christ?”
 <small><sub>**Literal:**</sub></small>
 When were assembled therefore they said to them <the> Pilate; Whom do you want [that] I may release to you? Jesus <the> Barabbas or Jesus who is named Christ?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.16|<< Matthew 27:16]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.18|Matthew 27:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When were assembled |**<big>[[G4863\|συνηγμένων]]</big>**  |sunēgmenōn <small><sup>[[V-RPP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

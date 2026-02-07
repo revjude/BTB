@@ -1,4 +1,4 @@
-**Ezekiel 47:18** 
+**Ezekiel 47:18**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel [by] Jordan, from the border unto the east sea. And [this is] the east side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the east side the border will run between Hauran and Damascus, along the Jord
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.17|<< Ezekiel 47:17]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.19|Ezekiel 47:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [will be the] side of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6285\|פְאַ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] east  |**<big>&#8207;[[H6921\|קָדִ֡ים]]&#8207; </big>**| ka.Dim<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

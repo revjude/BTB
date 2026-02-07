@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:28** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> strike you in derangement, and inability to see, and an astonishment of thought. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall smite thee with madness, and blindness, and astonishment of heart:
-<small><sub>**BSB:**</sub></small>
-The LORD will afflict you with madness, blindness, and confusion of mind,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.27|<< Deuteronomy 28:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.29|Deuteronomy 28:29 >>]]</td></tr></table>
 
 | Translation | Greek |

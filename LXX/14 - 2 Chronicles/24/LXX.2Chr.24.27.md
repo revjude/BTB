@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:27** 
 <small><sub>**LXX:**</sub></small>
 And his sons, and \[the\] greatest concerns about him, and the groundwork of \[the\] house  of God, and the rest, behold, it is written upon the writing of \[the\] scroll of the kings. And Amaziah his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-Now [concerning] his sons, and the greatness of the burdens [laid] upon him, and the repairing of the house of God, behold, they [are] written in the story of the book of the kings. And Amaziah his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-The accounts of the sons of Joash and the many pronouncements about him, and of the restoration of the house of God, are indeed written in the Treatise of the Book of the Kings. And his son Amaziah reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.26|<< 2 Chronicles 24:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.1|2 Chronicles 25:1 >>]]</td></tr></table>
 
 | Translation | Greek |

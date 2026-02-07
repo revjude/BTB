@@ -1,10 +1,7 @@
 **LXX Numbers 14:5** 
 <small><sub>**LXX:**</sub></small>
 And Moses Aaron fell upon \[their\] face before all \[the\] congregation of \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Then Moses and Aaron fell facedown before the whole assembly of the congregation of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.4|<< Numbers 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.6|Numbers 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

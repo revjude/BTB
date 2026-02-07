@@ -1,10 +1,7 @@
 **LXX Psalm 18:34** 
 <small><sub>**LXX:**</sub></small>
 teaching my hands for war; and you made my arms as \[the\] bow of brass; 
-<small><sub>**KJV:**</sub></small>
-He teacheth my hands to war, so that a bow of steel is broken by mine arms.
-<small><sub>**BSB:**</sub></small>
-He trains my hands for battle; my arms can bend a bow of bronze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.33|<< Psalm 18:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.35|Psalm 18:35 >>]]</td></tr></table>
 
 | Translation | Greek |

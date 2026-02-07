@@ -1,12 +1,12 @@
-**Galatians 1:13
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:13**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:
 <small><sub>**BSB:**</sub></small>
 For you have heard of my former way of life in Judaism, how severely I persecuted the church of God and tried to destroy it.
 <small><sub>**Literal:**</sub></small>
 You have heard of for <the> my way of life former in <the> Judaism that beyond exceeding measure I was persecuting the church <the> of God and was destroying it;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.12|<< Galatians 1:12]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.14|Galatians 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You have heard of |**<big>[[G0191\|ἠκούσατε]]</big>**  |ēkousate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

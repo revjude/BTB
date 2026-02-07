@@ -1,4 +1,4 @@
-**Judges 2:19** 
+**Judges 2:19**<big><big>[[Judg.2.16 Judges Raised Up|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the judge was dead, [that] they returned, and corrupted [themselves] more than their fathers, in following other gods to serve them, and to bow down unto them; they ceased not from their own doings, nor from their stubborn way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when the judge died, the Israelites became even more corrupt than their fath
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.18|<< Judges 2:18]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.20|Judges 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when died  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4191\|מ֣וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Mot<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

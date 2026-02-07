@@ -1,10 +1,7 @@
 **LXX Joshua 9:22** 
 <small><sub>**LXX:**</sub></small>
 And Joshua called them together, and he spoke to them, saying, Why did you mislead me, saying, We are exceedingly far from you; but you are natives of the ones dwelling among us? 
-<small><sub>**KJV:**</sub></small>
-And Joshua called for them, and he spake unto them, saying, Wherefore have ye beguiled us, saying, We [are] very far from you; when ye dwell among us?
-<small><sub>**BSB:**</sub></small>
-Then Joshua summoned the Gibeonites and said, “Why did you deceive us by telling us you live far away from us, when in fact you live among us?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.21|<< Joshua 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.23|Joshua 9:23 >>]]</td></tr></table>
 
 | Translation | Greek |

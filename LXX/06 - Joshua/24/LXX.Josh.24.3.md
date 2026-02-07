@@ -1,10 +1,7 @@
 **LXX Joshua 24:3** 
 <small><sub>**LXX:**</sub></small>
 And I took  your father  Abraham from out of the other side of the river, and I guided him in all the land of Canaan, and I multiplied  his seed. 
-<small><sub>**KJV:**</sub></small>
-And I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac.
-<small><sub>**BSB:**</sub></small>
-But I took your father Abraham from beyond the Euphrates and led him through all the land of Canaan, and I multiplied his descendants. I gave him Isaac,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.2|<< Joshua 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.4|Joshua 24:4 >>]]</td></tr></table>
 
 | Translation | Greek |

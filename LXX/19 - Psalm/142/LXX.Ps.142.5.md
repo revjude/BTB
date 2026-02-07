@@ -1,10 +1,7 @@
 **LXX Psalm 142:5** 
 <small><sub>**LXX:**</sub></small>
 I cried out to you, O <span class="smallcaps">lord</span>. I said, You are  my hope, you are my portion in \[the\] land of \[the\] living. 
-<small><sub>**KJV:**</sub></small>
-I cried unto thee, O LORD: I said, Thou [art] my refuge [and] my portion in the land of the living.
-<small><sub>**BSB:**</sub></small>
-I cry to You, O LORD: “You are my refuge, my portion in the land of the living.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.142.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.4|<< Psalm 142:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.6|Psalm 142:6 >>]]</td></tr></table>
 
 | Translation | Greek |

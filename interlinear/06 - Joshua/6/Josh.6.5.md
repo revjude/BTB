@@ -1,4 +1,4 @@
-**Joshua 6:5** 
+**Joshua 6:5**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, that when they make a long [blast] with the ram’s horn, [and] when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when there is a long blast of the ram’s horn and you hear its sound, have 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.4|<< Joshua 6:4]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.6|Joshua 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֞ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when blow  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4900\|מְשֹׁ֣ךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.Shokh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 8:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:13**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, if meat make my brother to offend, I will eat no flesh while the world standeth, lest I make my brother to offend.
 <small><sub>**BSB:**</sub></small>
 Therefore, if what I eat causes my brother to stumble, I will never eat meat again, so that I will not cause him to stumble.
 <small><sub>**Literal:**</sub></small>
 Therefore if food snares the brother of mine, certainly not shall I eat meat to the age so that not the brother of mine I may snare.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.12|<< 1 Corinthians 8:12]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.1|1 Corinthians 9:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1355\|διόπερ]]</big>**  |dioper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

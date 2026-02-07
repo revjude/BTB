@@ -1,12 +1,12 @@
-**Acts 10:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:3**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He saw in a vision evidently about the ninth hour of the day an angel of God coming in to him, and saying unto him, Cornelius.
 <small><sub>**BSB:**</sub></small>
 One day at about the ninth hour, he had a clear vision of an angel of God who came to him and said, “Cornelius!”
 <small><sub>**Literal:**</sub></small>
 He saw in a vision clearly as if about hour [the] ninth [hour] of the day an angel <the> of God having come to him and having said to him; Cornelius!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.2|<< Acts 10:2]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.4|Acts 10:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He saw |**<big>[[G1492H\|εἶδεν]]</big>**  |eiden <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

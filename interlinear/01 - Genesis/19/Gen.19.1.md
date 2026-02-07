@@ -1,4 +1,4 @@
-**Genesis 19:1** 
+**Genesis 19:1**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing [them] rose up to meet them; and he bowed himself with his face toward the ground;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the two angels arrived at Sodom in the evening, and Lot was sitting in the g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.33|<< Genesis 18:33]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.2|Genesis 19:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0935G\|יָּבֹאוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁנֵ֨י]]&#8207; </big>**| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

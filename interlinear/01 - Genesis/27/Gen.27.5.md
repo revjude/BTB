@@ -1,4 +1,4 @@
-**Genesis 27:5** 
+**Genesis 27:5**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt [for] venison, [and] to bring [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Rebekah was listening to what Isaac told his son Esau. So when Esau went int
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.4|<< Genesis 27:4]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.6|Genesis 27:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Rebekah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7259\|רִבְקָ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> riv.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] listening  |**<big>&#8207;[[H8085G\|שֹׁמַ֔עַת]]&#8207; </big>**| sho.Ma.'at<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

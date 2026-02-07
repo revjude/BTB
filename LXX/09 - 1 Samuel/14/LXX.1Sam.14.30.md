@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:30** 
 <small><sub>**LXX:**</sub></small>
 But that if also the people in eating ate today of the spoils  of their enemies which \[they\] found, now even greater would have been the calamity among the Philistines. 
-<small><sub>**KJV:**</sub></small>
-How much more, if haply the people had eaten freely to day of the spoil of their enemies which they found? for had there not been now a much greater slaughter among the Philistines?
-<small><sub>**BSB:**</sub></small>
-How much better it would have been if the troops had eaten freely today from the plunder they took from their enemies! Would not the slaughter of the Philistines have been much greater?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.29|<< 1 Samuel 14:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.31|1 Samuel 14:31 >>]]</td></tr></table>
 
 | Translation | Greek |

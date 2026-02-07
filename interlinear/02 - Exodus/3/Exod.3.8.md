@@ -1,4 +1,4 @@
-**Exodus 3:8** 
+**Exodus 3:8**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey; unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I have come down to rescue them from the hand of the Egyptians and to bring them
 > $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have come down  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3381\|אֵרֵ֞ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Red<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to deliver it  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5337\|הַצִּיל֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.tzi.L<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

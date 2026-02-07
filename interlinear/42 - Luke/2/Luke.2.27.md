@@ -1,12 +1,12 @@
-**Luke 2:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:27**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,
 <small><sub>**BSB:**</sub></small>
 Led by the Spirit, he went into the temple courts. And when the parents brought in the child Jesus to do for Him what was customary under the Law,
 <small><sub>**Literal:**</sub></small>
 And he came in the Spirit into the temple; and in the [time when] bringing in the parents the child Jesus for the [thing] [were] doing they according to that accustomed by the law for Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.26|<< Luke 2:26]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.28|Luke 2:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he came |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 14:16
-**<small><sub>**KJV:**</sub></small>
+**John 14:16**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever;
 <small><sub>**BSB:**</sub></small>
 And I will ask the Father, and He will give you another Advocate to be with you forever—
 <small><sub>**Literal:**</sub></small>
 And I myself will ask the Father, and another Helper He will give you, that with you to the age He may be<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.15|<< John 14:15]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.17|John 14:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And I myself |**<big>[[G1473\|κἀγὼ]]</big>**  [^1] |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will ask |**<big>[[G2065\|ἐρωτήσω]]</big>**  |erōtēsō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

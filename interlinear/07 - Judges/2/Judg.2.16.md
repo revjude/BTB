@@ -1,4 +1,4 @@
-**Judges 2:16** 
+**Judges 2:16**<big><big>[[Judg.2.16 Judges Raised Up|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the LORD raised up judges, who saved them from the hands of those who plund
 > $\quad$ referenced by: [[Acts.13.20|Acts 13:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he raised up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965H\|יָּ֥קֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 10:15** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel said to \[the\] <span class="smallcaps">lord</span>, We sinned, do to us according to all whatever as much as should be pleasing before you, only rescue us in  this day! 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel said unto the LORD, We have sinned: do thou unto us whatsoever seemeth good unto thee; deliver us only, we pray thee, this day.
-<small><sub>**BSB:**</sub></small>
-“We have sinned,” the Israelites said to the LORD. “Deal with us as You see fit; but please deliver us today!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.14|<< Judges 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.16|Judges 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 26:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:28**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.
 <small><sub>**BSB:**</sub></small>
 Then Agrippa said to Paul, “Can you persuade me in such a short time to become a Christian?”
 <small><sub>**Literal:**</sub></small>
 <the> Then Agrippa to <the> Paul was saying: Within so little [time] me you [seek to] persuade a Christian to become!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.27|<< Acts 26:27]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.29|Acts 26:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

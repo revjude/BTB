@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:8** 
 <small><sub>**LXX:**</sub></small>
 And now, thus you shall say \[to\] my servant David, Thus says \[the\] <span class="smallcaps">lord</span> almighty. I took you from out of the haven of the sheep,  for you to be for leader over  my people  Israel. 
-<small><sub>**KJV:**</sub></small>
-Now therefore so shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
-<small><sub>**BSB:**</sub></small>
-Now then, you are to tell My servant David that this is what the LORD of Hosts says: I took you from the pasture, from following the flock, to be the ruler over My people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.7|<< 2 Samuel 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.9|2 Samuel 7:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Samuel 7:8** is...

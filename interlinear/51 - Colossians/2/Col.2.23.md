@@ -1,12 +1,12 @@
-**Colossians 2:23
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:23**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh.
 <small><sub>**BSB:**</sub></small>
 Such restrictions indeed have an appearance of wisdom, with their self-prescribed worship, their false humility, and their harsh treatment of the body; but they are of no value against the indulgence of the flesh.
 <small><sub>**Literal:**</sub></small>
 which are an appearance indeed having of wisdom with self-imposed worship and with humility and with harsh treatment of [the] body, not of honor a certain against [the] indulgence of the flesh.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.22|<< Colossians 2:22]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.1|Colossians 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3748\|ἅτινά]]</big>**  |hatina <small><sup>[[R-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

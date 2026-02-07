@@ -1,12 +1,12 @@
-**Luke 12:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:39**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.
 <small><sub>**BSB:**</sub></small>
 But understand this: If the homeowner had known at what hour the thief was coming, he would not have let his house be broken into.
 <small><sub>**Literal:**</sub></small>
 This however do know that if had known the master of the house in what hour the thief is coming, not he watched maybe and maybe he have allowed to be broken into the house of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.38|<< Luke 12:38]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.40|Luke 12:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Τοῦτο]]</big>**  |Touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:9** 
 <small><sub>**LXX:**</sub></small>
 And Solomon did not appoint any of the sons of Israel as servants for all  his works in  his kingdom, for they \[were\] men warriors, and rulers, and mighty \[men\], and rulers of his chariots, and of his horsemen. 
-<small><sub>**KJV:**</sub></small>
-But of the children of Israel did Solomon make no servants for his work; but they [were] men of war, and chief of his captains, and captains of his chariots and horsemen.
-<small><sub>**BSB:**</sub></small>
-But Solomon did not consign any of the Israelites to slave labor, because they were his men of war, the leaders of his captains, and the commanders of his chariots and cavalry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.8|<< 2 Chronicles 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.10|2 Chronicles 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

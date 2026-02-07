@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:13** 
 <small><sub>**LXX:**</sub></small>
  Our prophets were into \[the\] wind, and \[the\] word of \[the\] <span class="smallcaps">lord</span> does not exist among them. Thus it shall be to them. 
-<small><sub>**KJV:**</sub></small>
-And the prophets shall become wind, and the word [is] not in them: thus shall it be done unto them.
-<small><sub>**BSB:**</sub></small>
-The prophets are but wind, for the word is not in them. So let their own predictions befall them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.12|<< Jeremiah 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.14|Jeremiah 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

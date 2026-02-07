@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:19** 
 <small><sub>**LXX:**</sub></small>
 For laughter they make bread, and wine and olive oil  for \[the\] living to be glad; and of the money all will heed. 
-<small><sub>**KJV:**</sub></small>
-A feast is made for laughter, and wine maketh merry: but money answereth all [things].
-<small><sub>**BSB:**</sub></small>
-A feast is prepared for laughter, and wine makes life merry, but money is the answer for everything.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.18|<< Ecclesiastes 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.20|Ecclesiastes 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

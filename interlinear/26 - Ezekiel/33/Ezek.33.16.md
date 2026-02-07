@@ -1,4 +1,4 @@
-**Ezekiel 33:16** 
+**Ezekiel 33:16**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 None of his sins that he hath committed shall be mentioned unto him: he hath done that which is lawful and right; he shall surely live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ None of the sins he has committed will be held against him. He has done what is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.15|<< Ezekiel 33:15]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.17|Ezekiel 33:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sins his  [^2]|**<big>&#8207;[[H2403B\|חַטֹּאתָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**[^3] | cha.ta.to<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

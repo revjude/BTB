@@ -1,10 +1,7 @@
 **LXX Leviticus 26:44** 
 <small><sub>**LXX:**</sub></small>
 And thus, they being in the land  of their enemies, I did not overlook them, nor loathed in them so as to completely consume them  for effacing  my covenant, the one with them. For I am \[the\] <span class="smallcaps">lord</span>  their God. 
-<small><sub>**KJV:**</sub></small>
-And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I [am] the LORD their God.
-<small><sub>**BSB:**</sub></small>
-Yet in spite of this, when they are in the land of their enemies, I will not reject or despise them so as to destroy them and break My covenant with them; for I am the LORD their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.43|<< Leviticus 26:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.45|Leviticus 26:45 >>]]</td></tr></table>
 
 | Translation | Greek |

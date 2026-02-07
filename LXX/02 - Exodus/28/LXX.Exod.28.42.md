@@ -1,10 +1,7 @@
 **LXX Exodus 28:42** 
 <small><sub>**LXX:**</sub></small>
 And you shall make for them flaxen linen pants to cover \[the\] indecency of their flesh -- from \[the\] loin unto \[the\] thighs they shall be. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:
-<small><sub>**BSB:**</sub></small>
-Make linen undergarments to cover their bare flesh, extending from waist to thigh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.41|<< Exodus 28:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.43|Exodus 28:43 >>]]</td></tr></table>
 
 | Translation | Greek |

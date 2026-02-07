@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:31** 
 <small><sub>**LXX:**</sub></small>
 But you here stand with me! and I shall speak to you all the commandments, and the ordinances, and the judgments, as many as you shall teach them. And let them do thus in the land which I give to them by lot! 
-<small><sub>**KJV:**</sub></small>
-But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do [them] in the land which I give them to possess it.
-<small><sub>**BSB:**</sub></small>
-But you stand here with Me, that I may speak to you all the commandments and statutes and ordinances you are to teach them to follow in the land that I am giving them to possess.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.30|<< Deuteronomy 5:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.32|Deuteronomy 5:32 >>]]</td></tr></table>
 
 | Translation | Greek |

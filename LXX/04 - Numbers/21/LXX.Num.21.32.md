@@ -1,10 +1,7 @@
 **LXX Numbers 21:32** 
 <small><sub>**LXX:**</sub></small>
 And Moses sent to survey  Jaazer, and they overtook it, and  her towns, and they cast out the Amorite  dwelling there. 
-<small><sub>**KJV:**</sub></small>
-And Moses sent to spy out Jaazer, and they took the villages thereof, and drove out the Amorites that [were] there.
-<small><sub>**BSB:**</sub></small>
-After Moses had sent spies to Jazer, Israel captured its villages and drove out the Amorites who were there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.31|<< Numbers 21:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.33|Numbers 21:33 >>]]</td></tr></table>
 
 | Translation | Greek |

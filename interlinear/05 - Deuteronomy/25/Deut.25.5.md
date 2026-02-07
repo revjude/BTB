@@ -1,4 +1,4 @@
-**Deuteronomy 25:5** 
+**Deuteronomy 25:5**<big><big>[[Deut.25.5 Widowhood and Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When brothers dwell together and one of them dies without a son, the widow must 
 > $\quad$ referenced by: [[Matt.22.24|Matt 22:24]] ☩ [[Mark.12.19|Mark 12:19]] ☩ [[Luke.20.28|Luke 20:28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will dwell  |**<big>&#8207;[[H3427\|יֵשְׁב֨וּ]]&#8207; </big>**| ye.she.Vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

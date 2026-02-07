@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:29** 
 <small><sub>**LXX:**</sub></small>
 The people of the land are pressuring iniquity, and tearing in pieces \[the\] prey, tyrannizing \[the\] poor and needy, and not behaving with equity to the foreigner. 
-<small><sub>**KJV:**</sub></small>
-The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully.
-<small><sub>**BSB:**</sub></small>
-The people of the land have practiced extortion and committed robbery. They have oppressed the poor and needy and have exploited the foreign resident without justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.28|<< Ezekiel 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.30|Ezekiel 22:30 >>]]</td></tr></table>
 
 | Translation | Greek |

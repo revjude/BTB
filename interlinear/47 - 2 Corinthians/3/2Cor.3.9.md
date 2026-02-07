@@ -1,12 +1,12 @@
-**2 Corinthians 3:9
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:9**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if the ministration of condemnation [be] glory, much more doth the ministration of righteousness exceed in glory.
 <small><sub>**BSB:**</sub></small>
 For if the ministry of condemnation was glorious, how much more glorious is the ministry of righteousness!
 <small><sub>**Literal:**</sub></small>
 If for to the ministry <the> of condemnation [was] glory, much more abounds the ministry <the> of righteousness in glory!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.8|<< 2 Corinthians 3:8]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.10|2 Corinthians 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

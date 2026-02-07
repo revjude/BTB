@@ -1,4 +1,4 @@
-**Exodus 12:33** 
+**Exodus 12:33**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We [be] all dead [men].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in order to send them out of the land quickly, the Egyptians urged the peopl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.32|<< Exodus 12:32]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.34|Exodus 12:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it urged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|תֶּחֱזַ֤ק]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.che.Zak<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֙יִם֙]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

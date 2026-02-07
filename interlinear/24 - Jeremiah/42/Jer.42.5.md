@@ -1,4 +1,4 @@
-**Jeremiah 42:5** 
+**Jeremiah 42:5**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they said to Jeremiah, The LORD be a true and faithful witness between us, if we do not even according to all things for the which the LORD thy God shall send thee to us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they said to Jeremiah, “May the LORD be a true and faithful witness again
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.4|<< Jeremiah 42:4]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.6|Jeremiah 42:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֙מָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they said  |**<big>&#8207;[[H0559\|אָמְר֣וּ]]&#8207; </big>**| 'a.me.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 10:27** 
+**1 Samuel 10:27**<big><big>[[1Sam.10.17 Saul Proclaimed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the children of Belial said, How shall this man save us? And they despised him, and brought him no presents. But he held his peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But some worthless men said, “How can this man save us?” So they despised hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.26|<< 1 Samuel 10:26]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.1|1 Samuel 11:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121H\|בְנֵ֧י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | worthlessness  |**<big>&#8207;[[H1100G\|בְלִיַּ֣עַל]]&#8207; </big>**| ve.li.Ya.'al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

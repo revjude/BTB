@@ -1,10 +1,7 @@
 **LXX Amos 5:13** 
 <small><sub>**LXX:**</sub></small>
 Because of this, the one perceiving in that time shall keep silent, for \[the\] time is evil. 
-<small><sub>**KJV:**</sub></small>
-Therefore the prudent shall keep silence in that time; for it [is] an evil time.
-<small><sub>**BSB:**</sub></small>
-Therefore, the prudent keep silent in such times, for the days are evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.12|<< Amos 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.14|Amos 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

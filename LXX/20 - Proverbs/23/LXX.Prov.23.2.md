@@ -1,10 +1,7 @@
 **LXX Proverbs 23:2** 
 <small><sub>**LXX:**</sub></small>
 And give attention to your hand! beholding that \[it is\] a must for you to make preparations for such \[things\]; but if you are insatiable, 
-<small><sub>**KJV:**</sub></small>
-And put a knife to thy throat, if thou [be] a man given to appetite.
-<small><sub>**BSB:**</sub></small>
-and put a knife to your throat if you possess a great appetite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.1|<< Proverbs 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.3|Proverbs 23:3 >>]]</td></tr></table>
 
 | Translation | Greek |

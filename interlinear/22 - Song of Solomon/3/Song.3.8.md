@@ -1,4 +1,4 @@
-**Song of Solomon 3:8** 
+**Song of Solomon 3:8**<big><big>[[Song.3.6 Solomon Arrives on His Wedding Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They all hold swords, [being] expert in war: every man [hath] his sword upon his thigh because of fear in the night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All are skilled with the sword, experienced in warfare. Each has his sword at hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.7|<< Song of Solomon 3:7]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.9|Song of Solomon 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of them  |**<big>&#8207;[[H3605\|כֻּלָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] grasped of  |**<big>&#8207;[[H0270\|אֲחֻ֣זֵי]]&#8207; </big>**| 'a.Chu.zei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

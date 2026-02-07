@@ -1,10 +1,7 @@
 **LXX Isaiah 58:5** 
 <small><sub>**LXX:**</sub></small>
 choose not this fast, nor a day for a man to humble  his soul; nor even should you bend your neck as a hook, nor should you spread under \[you\] sackcloth and ashes, nor thus shall you call an acceptable fast. 
-<small><sub>**KJV:**</sub></small>
-Is it such a fast that I have chosen? a day for a man to afflict his soul? [is it] to bow down his head as a bulrush, and to spread sackcloth and ashes [under him]? wilt thou call this a fast, and an acceptable day to the LORD?
-<small><sub>**BSB:**</sub></small>
-Is this the fast I have chosen: a day for a man to deny himself, to bow his head like a reed, and to spread out sackcloth and ashes? Will you call this a fast and a day acceptable to the LORD?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.4|<< Isaiah 58:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.6|Isaiah 58:6 >>]]</td></tr></table>
 
 | Translation | Greek |

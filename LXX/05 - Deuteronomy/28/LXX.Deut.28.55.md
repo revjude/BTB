@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:55** 
 <small><sub>**LXX:**</sub></small>
 so as to give one of them from the flesh  of his children whom ever he should eat, because of the not having left behind to him anything in the straits, and in the affliction, in which ever your enemies should afflict you in all  your cities. 
-<small><sub>**KJV:**</sub></small>
-So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates.
-<small><sub>**BSB:**</sub></small>
-refusing to share with any of them the flesh of his children he will eat because he has nothing left in the siege and distress that your enemy will inflict on you within all your gates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.54|<< Deuteronomy 28:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.56|Deuteronomy 28:56 >>]]</td></tr></table>
 
 | Translation | Greek |

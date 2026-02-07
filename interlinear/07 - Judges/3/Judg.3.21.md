@@ -1,4 +1,4 @@
-**Judges 3:21** 
+**Judges 3:21**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Ehud reached with his left hand, pulled the sword from his right thigh, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.20|<< Judges 3:20]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.22|Judges 3:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stretched out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971K\|יִּשְׁלַ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ehud  |**<big>&#8207;[[H0164G\|אֵהוּד֙]]&#8207; </big>**| 'e.Hud<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

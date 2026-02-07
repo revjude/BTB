@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:23** 
 <small><sub>**LXX:**</sub></small>
 And he placed for them a great fete. And they ate, and drank, and he sent them. And they went forth to  their master. And \[the\] armed \[bands\] of Syrians did not proceed still  to come into \[the\] land of Israel. 
-<small><sub>**KJV:**</sub></small>
-And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.
-<small><sub>**BSB:**</sub></small>
-So the king prepared a great feast for them, and after they had finished eating and drinking, he sent them away, and they returned to their master. And the Aramean raiders did not come into the land of Israel again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.22|<< 2 Kings 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.24|2 Kings 6:24 >>]]</td></tr></table>
 
 | Translation | Greek |

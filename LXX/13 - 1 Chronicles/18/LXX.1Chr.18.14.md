@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:14** 
 <small><sub>**LXX:**</sub></small>
 And David reigned over all Israel, and he was executing judgment and righteousness to all  his people. 
-<small><sub>**KJV:**</sub></small>
-So David reigned over all Israel, and executed judgment and justice among all his people.
-<small><sub>**BSB:**</sub></small>
-Thus David reigned over all Israel and administered justice and righteousness for all his people:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.13|<< 1 Chronicles 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.15|1 Chronicles 18:15 >>]]</td></tr></table>
 
 | Translation | Greek |

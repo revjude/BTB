@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:15** 
 <small><sub>**LXX:**</sub></small>
 And I said in my heart, As \[the\] event of the fool \[is\], even indeed to me it shall meet up with me; and why have I discerned wisdom? \[And this\] extra I said in my heart, because \[the\] fool from out of abundance speaks, for even indeed this \[is\] folly. 
-<small><sub>**KJV:**</sub></small>
-Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also [is] vanity.
-<small><sub>**BSB:**</sub></small>
-So I said to myself, “The fate of the fool will also befall me. What then have I gained by being wise?” And I said to myself that this too is futile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.14|<< Ecclesiastes 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.16|Ecclesiastes 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

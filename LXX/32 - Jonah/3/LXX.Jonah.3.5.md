@@ -1,10 +1,7 @@
 **LXX Jonah 3:5** 
 <small><sub>**LXX:**</sub></small>
 And the men of Nineveh believed  in God, and they proclaimed a fast, and put on sackcloths, from their great unto their small. 
-<small><sub>**KJV:**</sub></small>
-So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.
-<small><sub>**BSB:**</sub></small>
-And the Ninevites believed God. They proclaimed a fast and dressed in sackcloth, from the greatest of them to the least.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.4|<< Jonah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.6|Jonah 3:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 3:5** is...

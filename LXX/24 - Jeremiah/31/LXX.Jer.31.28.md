@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:28** 
 <small><sub>**LXX:**</sub></small>
 And it will be as I was vigilant over them even to demolish and to inflict evil, so I will be vigilant over them  to build and to plant, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] like as I have watched over them, to pluck up, and to break down, and to throw down, and to destroy, and to afflict; so will I watch over them, to build, and to plant, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Just as I watched over them to uproot and tear down, to demolish, destroy, and bring disaster, so I will watch over them to build and to plant,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.27|<< Jeremiah 31:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.29|Jeremiah 31:29 >>]]</td></tr></table>
 
 | Translation | Greek |

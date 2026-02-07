@@ -1,10 +1,7 @@
 **LXX Numbers 8:10** 
 <small><sub>**LXX:**</sub></small>
 And you shall lead forward the Levites before \[the\] <span class="smallcaps">lord</span>, and the sons of Israel shall place  their hands upon the Levites. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites:
-<small><sub>**BSB:**</sub></small>
-You are to present the Levites before the LORD and have the Israelites lay their hands upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.9|<< Numbers 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.11|Numbers 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

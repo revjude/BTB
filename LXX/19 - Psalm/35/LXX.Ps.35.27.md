@@ -1,10 +1,7 @@
 **LXX Psalm 35:27** 
 <small><sub>**LXX:**</sub></small>
 Exult and be glad, O ones wanting  righteousness for me! And let say always, The <span class="smallcaps">lord</span> be magnified! \[by\] the ones wanting the peace  of his servant. 
-<small><sub>**KJV:**</sub></small>
-Let them shout for joy, and be glad, that favour my righteous cause: yea, let them say continually, Let the LORD be magnified, which hath pleasure in the prosperity of his servant.
-<small><sub>**BSB:**</sub></small>
-May those who favor my vindication shout for joy and gladness; may they always say, “Exalted be the LORD who delights in His servant’s well-being.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.26|<< Psalm 35:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.28|Psalm 35:28 >>]]</td></tr></table>
 
 | Translation | Greek |

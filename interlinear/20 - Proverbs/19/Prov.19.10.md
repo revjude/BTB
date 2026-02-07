@@ -1,4 +1,4 @@
-**Proverbs 19:10** 
+**Proverbs 19:10**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Delight is not seemly for a fool; much less for a servant to have rule over princes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Luxury is unseemly for a fool—how much worse for a slave to rule over princes!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.9|<< Proverbs 19:9]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.11|Proverbs 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] suitable  |**<big>&#8207;[[H5000\|נָאוֶ֣ה]]&#8207; </big>**| na.Veh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

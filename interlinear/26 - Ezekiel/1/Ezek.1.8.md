@@ -1,4 +1,4 @@
-**Ezekiel 1:8** 
+**Ezekiel 1:8**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [they had] the hands of a man under their wings on their four sides; and they four had their faces and their wings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Under their wings on their four sides they had human hands. All four living crea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.7|<< Ezekiel 1:7]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.9|Ezekiel 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] hands of  [^2]|**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3027G\|ידֵ֣י]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> ya.dov<small><sup>[[HNcbdc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | a human  |**<big>&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

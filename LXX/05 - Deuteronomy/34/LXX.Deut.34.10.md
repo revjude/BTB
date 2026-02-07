@@ -1,10 +1,7 @@
 **LXX Deuteronomy 34:10** 
 <small><sub>**LXX:**</sub></small>
 And rose up not any longer a prophet in Israel as Moses, whom \[the\] <span class="smallcaps">lord</span> knew him face to face, 
-<small><sub>**KJV:**</sub></small>
-And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,
-<small><sub>**BSB:**</sub></small>
-Since that time, no prophet has risen in Israel like Moses, whom the LORD knew face to face—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.34.9|<< Deuteronomy 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.11|Deuteronomy 34:11 >>]]</td></tr></table>
 
 | Translation | Greek |

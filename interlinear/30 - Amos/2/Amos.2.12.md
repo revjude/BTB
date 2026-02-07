@@ -1,4 +1,4 @@
-**Amos 2:12** 
+**Amos 2:12**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye gave the Nazarites wine to drink; and commanded the prophets, saying, Prophesy not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But ye gave the Nazarites wine to drink; and commanded the prophets, saying, Pro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.11|<< Amos 2:11]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.13|Amos 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you made drink  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8248H\|תַּשְׁק֥וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tash.Ku<small><sup>[[HVhw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

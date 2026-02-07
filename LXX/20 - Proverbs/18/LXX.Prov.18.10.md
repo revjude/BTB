@@ -1,10 +1,7 @@
 **LXX Proverbs 18:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] name \[of the\] <span class="smallcaps">lord</span> \[is\] of great strength; and \[the\] just are raised up high running up to it. 
-<small><sub>**KJV:**</sub></small>
-The name of the LORD [is] a strong tower: the righteous runneth into it, and is safe.
-<small><sub>**BSB:**</sub></small>
-The name of the LORD is a strong tower; the righteous run to it and are safe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.9|<< Proverbs 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.11|Proverbs 18:11 >>]]</td></tr></table>
 
 | Translation | Greek |

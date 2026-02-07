@@ -1,10 +1,7 @@
 **LXX Job 40:9** 
 <small><sub>**LXX:**</sub></small>
 or is your arm as \[the arm\] of the <span class="smallcaps">lord</span>? or do you thunder with a voice as his? 
-<small><sub>**KJV:**</sub></small>
-Hast thou an arm like God? or canst thou thunder with a voice like him?
-<small><sub>**BSB:**</sub></small>
-Do you have an arm like God’s? Can you thunder with a voice like His?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.40.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.8|<< Job 40:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.10|Job 40:10 >>]]</td></tr></table>
 
 | Translation | Greek |

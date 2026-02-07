@@ -1,10 +1,7 @@
 **LXX Isaiah 4:2** 
 <small><sub>**LXX:**</sub></small>
 In  that day God shall shine forth in counsel with glory upon the earth  to exalt and to glorify the one left behind  of Israel. 
-<small><sub>**KJV:**</sub></small>
-In that day shall the branch of the LORD be beautiful and glorious, and the fruit of the earth [shall be] excellent and comely for them that are escaped of Israel.
-<small><sub>**BSB:**</sub></small>
-On that day the Branch of the LORD will be beautiful and glorious, and the fruit of the land will be the pride and glory of Israel’s survivors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.1|<< Isaiah 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.3|Isaiah 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

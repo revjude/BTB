@@ -1,10 +1,7 @@
 **LXX Malachi 3:3** 
 <small><sub>**LXX:**</sub></small>
 And he shall sit as one casting in a furnace, and one cleansing as it were  silver. And he shall cleanse the sons of Levi, and he shall pour them as the gold and as the silver; and they will be to the <span class="smallcaps">lord</span> ones bringing sacrifices in  righteousness. 
-<small><sub>**KJV:**</sub></small>
-And he shall sit [as] a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the LORD an offering in righteousness.
-<small><sub>**BSB:**</sub></small>
-And He will sit as a refiner and purifier of silver; He will purify the sons of Levi and refine them like gold and silver. Then they will present offerings to the LORD in righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.2|<< Malachi 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.4|Malachi 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

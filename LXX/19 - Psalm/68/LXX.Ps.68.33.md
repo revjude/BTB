@@ -1,10 +1,7 @@
 **LXX Psalm 68:33** 
 <small><sub>**LXX:**</sub></small>
 to the one mounting upon the heaven of the heaven, according to \[the\] east. Behold, he shall make  his voice a sound of power. 
-<small><sub>**KJV:**</sub></small>
-To him that rideth upon the heavens of heavens, [which were] of old; lo, he doth send out his voice, [and that] a mighty voice.
-<small><sub>**BSB:**</sub></small>
-to Him who rides upon the highest heavens of old; behold, His mighty voice resounds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.32|<< Psalm 68:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.34|Psalm 68:34 >>]]</td></tr></table>
 
 | Translation | Greek |

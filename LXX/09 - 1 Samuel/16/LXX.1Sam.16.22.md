@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:22** 
 <small><sub>**LXX:**</sub></small>
 And Saul sent to Jesse, saying, David stand indeed before me, for he found favor in my eyes! 
-<small><sub>**KJV:**</sub></small>
-And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight.
-<small><sub>**BSB:**</sub></small>
-Then Saul sent word to Jesse, saying, “Let David remain in my service, for I am pleased with him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.21|<< 1 Samuel 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.23|1 Samuel 16:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -6,10 +6,7 @@ A contemplation \[to\] Asaph.
 
 <small><sub>**LXX:**</sub></small>
 Take heed, O my people,  to my law! Lean  your ear to the words  of my mouth! 
-<small><sub>**KJV:**</sub></small>
-Maschil of Asaph. Give ear, O my people, [to] my law: incline your ears to the words of my mouth.
-<small><sub>**BSB:**</sub></small>
-A Maskil of Asaph. Give ear, O my people, to my instruction; listen to the words of my mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.20|<< Psalm 77:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.2|Psalm 78:2 >>]]</td></tr></table>
 
 | Translation | Greek |

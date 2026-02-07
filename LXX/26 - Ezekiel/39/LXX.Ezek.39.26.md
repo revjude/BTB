@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:26** 
 <small><sub>**LXX:**</sub></small>
 And they shall take  their own dishonor, and the iniquity which they transgressed in  their settling upon  their land in peace, and there will not be \[one\] frightening, 
-<small><sub>**KJV:**</sub></small>
-After that they have borne their shame, and all their trespasses whereby they have trespassed against me, when they dwelt safely in their land, and none made [them] afraid.
-<small><sub>**BSB:**</sub></small>
-They will forget their disgrace and all the treachery they committed against Me, when they dwell securely in their land, with no one to frighten them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.25|<< Ezekiel 39:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.27|Ezekiel 39:27 >>]]</td></tr></table>
 
 | Translation | Greek |

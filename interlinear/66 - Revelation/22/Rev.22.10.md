@@ -1,5 +1,5 @@
-**Revelation 22:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:10**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand.
 <small><sub>**BSB:**</sub></small>
 Then he told me, “Do not seal up the words of prophecy in this book, because the time is near.
@@ -10,7 +10,7 @@ And he says to me; Not may seal the words of the prophecy of the book this that 
 > $\quad$ possibly alluding to: [[LXX.Dan.8.26|Dan 8:26]] ☩ [[LXX.Dan.12.4|Dan 12:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

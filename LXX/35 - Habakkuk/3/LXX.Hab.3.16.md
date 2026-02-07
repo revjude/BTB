@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:16** 
 <small><sub>**LXX:**</sub></small>
 I watched, and my belly was terrified from \[the\] sound of \[the\] prayer of my lips; and trembling entered into  my bones, and my \[part\] beneath. My manner was disturbed. I will rest in a day  of my affliction  for me to ascend to the people  of my sojourn. 
-<small><sub>**KJV:**</sub></small>
-When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
-<small><sub>**BSB:**</sub></small>
-I heard and trembled within; my lips quivered at the sound. Decay entered my bones; I trembled where I stood. Yet I must wait patiently for the day of distress to come upon the people who invade us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.15|<< Habakkuk 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.17|Habakkuk 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Micah 1:13** 
+**Micah 1:13**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou inhabitant of Lachish, bind the chariot to the swift beast: she [is] the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Harness your chariot horses, O dweller of Lachish. You were the beginning of sin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.12|<< Micah 1:12]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.14|Micah 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | harness  |**<big>&#8207;[[H7573\|רְתֹ֧ם]]&#8207; </big>**| re.Tom<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the chariot  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4818\|מֶּרְכָּבָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mer.ka.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

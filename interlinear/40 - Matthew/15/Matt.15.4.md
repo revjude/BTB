@@ -1,5 +1,5 @@
-**Matthew 15:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:4**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.
 <small><sub>**BSB:**</sub></small>
 For God said, ‘Honor your father and mother’ and ‘Anyone who curses his father or mother must be put to death.’
@@ -11,7 +11,7 @@ For God said, ‘Honor your father and mother’ and ‘Anyone who curses his fa
 > $\quad$ alluding to: [[LXX.Lev.20.9|Lev 20:9]] ☩ [[LXX.Prov.20.20|Prov 20:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

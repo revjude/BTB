@@ -1,10 +1,7 @@
 **LXX Genesis 12:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> appeared \[to\] Abram, and said to him, I will give this land \[to\] your seed. And Abram built there an altar to the <span class="smallcaps">lord</span>, to the one appearing to him. 
-<small><sub>**KJV:**</sub></small>
-And the LORD appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the LORD, who appeared unto him.
-<small><sub>**BSB:**</sub></small>
-Then the LORD appeared to Abram and said, “I will give this land to your offspring.” So Abram built an altar there to the LORD, who had appeared to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.6|<< Genesis 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.8|Genesis 12:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 12:7** is...

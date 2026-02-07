@@ -1,5 +1,5 @@
-**Matthew 24:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:29**<big><big>[[Matt.24.26 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
 <small><sub>**BSB:**</sub></small>
 Immediately after the tribulation of those days: ‘The sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the powers of the heavens will be shaken.’
@@ -11,7 +11,7 @@ Immediately then after the tribulation of the days of those The sun will be dark
 > $\quad$ referencing: [[LXX.Isa.34.4|Isa 34:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Immediately |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

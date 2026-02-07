@@ -1,4 +1,4 @@
-**1 Kings 1:3** 
+**1 Kings 1:3**<big><big>[[1Kgs.1.1 Abishag Cares for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they searched throughout Israel for a beautiful girl, and they found Abisha
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.2|<< 1 Kings 1:2]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.4|1 Kings 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1245\|יְבַקְשׁוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.vak.Shu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a young woman  |**<big>&#8207;[[H5291\|נַעֲרָ֣ה]]&#8207; </big>**| na.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

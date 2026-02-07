@@ -1,4 +1,4 @@
-**Nehemiah 13:17** 
+**Nehemiah 13:17**<big><big>[[Neh.13.15 The Sabbath Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I contended with the nobles of Judah, and said unto them, What evil thing [is] this that ye do, and profane the sabbath day?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I rebuked the nobles of Judah and asked, “What is this evil you are doing
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.16|<< Nehemiah 13:16]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.18|Nehemiah 13:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I contended !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7378\|אָרִ֕יבָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Ri.va<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H0854\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

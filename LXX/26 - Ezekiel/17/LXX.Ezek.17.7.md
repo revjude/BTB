@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:7** 
 <small><sub>**LXX:**</sub></small>
 And there was another great eagle having large wings, and many claws. And behold,  her grapevine was being twisted unto him, and  her roots unto him, and  her vine branches she sent out to him,  to water her with the casting away from  her planting. 
-<small><sub>**KJV:**</sub></small>
-There was also another great eagle with great wings and many feathers: and, behold, this vine did bend her roots toward him, and shot forth her branches toward him, that he might water it by the furrows of her plantation.
-<small><sub>**BSB:**</sub></small>
-But there was another great eagle with great wings and many feathers. And behold, this vine bent its roots toward him. It stretched out its branches to him from its planting bed, so that he might water it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.6|<< Ezekiel 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.8|Ezekiel 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

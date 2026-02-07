@@ -1,4 +1,4 @@
-**Ezekiel 39:29** 
+**Ezekiel 39:29**<big><big>[[Ezek.39.21 Israel to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither will I hide my face any more from them: for I have poured out my spirit upon the house of Israel, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And I will no longer hide My face from them, for I will pour out My Spirit on th
 > $\quad$ referenced by: [[Joel.2.27|Joel 2:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will hide  |**<big>&#8207;[[H5641\|אַסְתִּ֥יר]]&#8207; </big>**| 'as.Tir<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

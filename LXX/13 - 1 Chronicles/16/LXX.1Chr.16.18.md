@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:18** 
 <small><sub>**LXX:**</sub></small>
 Saying, To you I shall give the land of Canaan, a piece of measured out land for your inheritance, 
-<small><sub>**KJV:**</sub></small>
-Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;
-<small><sub>**BSB:**</sub></small>
-‘I will give you the land of Canaan as the portion of your inheritance.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.17|<< 1 Chronicles 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.19|1 Chronicles 16:19 >>]]</td></tr></table>
 
 | Translation | Greek |

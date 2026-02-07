@@ -1,12 +1,12 @@
-**Revelation 5:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:7**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he came and took the book out of the right hand of him that sat upon the throne.
 <small><sub>**BSB:**</sub></small>
 And He came and took the scroll from the right hand of the One seated on the throne.
 <small><sub>**Literal:**</sub></small>
 And He came and He has taken <the> scroll out of the right hand of the [One] sitting on the throne.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.6|<< Revelation 5:6]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.8|Revelation 5:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He came |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

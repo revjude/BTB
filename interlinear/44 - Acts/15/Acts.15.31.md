@@ -1,12 +1,12 @@
-**Acts 15:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:31**<big><big>[[Acts.15.30 The Believers at Antioch Rejoice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Which] when they had read, they rejoiced for the consolation.
 <small><sub>**BSB:**</sub></small>
 When the people read it, they rejoiced at its encouraging message.
 <small><sub>**Literal:**</sub></small>
 Having read [it] now they rejoiced at the encouragement.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.30|<< Acts 15:30]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.32|Acts 15:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having read [it] |**<big>[[G0314\|ἀναγνόντες]]</big>**  |anagnontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

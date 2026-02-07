@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:51** 
 <small><sub>**LXX:**</sub></small>
 And it will devour the progeny  of your cattle, and the produce  of your land, so as to not leave behind for you grain, wine, olive oil, herds  of your oxen, and the flocks  of your sheep, until whenever it should destroy you, 
-<small><sub>**KJV:**</sub></small>
-And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which [also] shall not leave thee [either] corn, wine, or oil, [or] the increase of thy kine, or flocks of thy sheep, until he have destroyed thee.
-<small><sub>**BSB:**</sub></small>
-They will eat the offspring of your livestock and the produce of your land until you are destroyed. They will leave you no grain or new wine or oil, no calves of your herds or lambs of your flocks, until they have caused you to perish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.50|<< Deuteronomy 28:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.52|Deuteronomy 28:52 >>]]</td></tr></table>
 
 | Translation | Greek |

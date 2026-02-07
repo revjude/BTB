@@ -1,12 +1,12 @@
-**Hebrews 2:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:10**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it became him, for whom [are] all things, and by whom [are] all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.
 <small><sub>**BSB:**</sub></small>
 In bringing many sons to glory, it was fitting for God, for whom and through whom all things exist, to make the author of their salvation perfect through suffering.
 <small><sub>**Literal:**</sub></small>
 It was fitting for to Him, for whom [are] <the> all things and through whom [are] <the> all things, many sons to glory having brought, the archetype of the salvation of them through sufferings to make perfect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.9|<< Hebrews 2:9]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.11|Hebrews 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It was fitting |**<big>[[G4241\|ἔπρεπεν]]</big>**  |eprepen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

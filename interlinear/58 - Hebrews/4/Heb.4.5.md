@@ -1,5 +1,5 @@
-**Hebrews 4:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:5**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in this [place] again, If they shall enter into my rest.
 <small><sub>**BSB:**</sub></small>
 And again, as He says in the passage above: “They shall never enter My rest.”
@@ -10,7 +10,7 @@ And in this [passage] again; [Not] will they enter into the rest of Mine.<br><ta
 > $\quad$ referencing: [[LXX.Ps.95.11|Ps 95:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

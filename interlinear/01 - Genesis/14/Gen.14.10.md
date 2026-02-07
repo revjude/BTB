@@ -1,4 +1,4 @@
-**Genesis 14:10** 
+**Genesis 14:10**<big><big>[[Gen.14.10 Abram Rescues Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the vale of Siddim [was full of] slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the Valley of Siddim was full of tar pits, and as the kings of Sodom and Gom
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.9|<< Genesis 14:9]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.11|Genesis 14:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] valley of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6010Q\|עֵ֣מֶק]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.mek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Siddim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7708\|שִׂדִּ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> si.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

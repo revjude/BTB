@@ -1,10 +1,7 @@
 **LXX Genesis 36:35** 
 <small><sub>**LXX:**</sub></small>
 And Husham died, and reigned instead of him, Hadad son of Bedad, the \[one\] cutting off Midian in the plain of Moab. And \[the\] name  of his city -- Getham. 
-<small><sub>**KJV:**</sub></small>
-And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city [was] Avith.
-<small><sub>**BSB:**</sub></small>
-When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, reigned in his place. And the name of his city was Avith.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.34|<< Genesis 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.36|Genesis 36:36 >>]]</td></tr></table>
 
 | Translation | Greek |

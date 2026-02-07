@@ -1,4 +1,4 @@
-**Joshua 16:8** 
+**Joshua 16:8**<big><big>[[Josh.16.1 Ephraim’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The border went out from Tappuah westward unto the river Kanah; and the goings out thereof were at the sea. This [is] the inheritance of the tribe of the children of Ephraim by their families.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Tappuah the border went westward to the Brook of Kanah and ended at the Sea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.7|<< Joshua 16:7]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.9|Joshua 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from Tappuah  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8599B\|תַּפּ֜וּחַ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ta.Pu.ach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it goes  |**<big>&#8207;[[H1980G\|יֵלֵ֨ךְ]]&#8207; </big>**| ye.Lekh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

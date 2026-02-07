@@ -1,4 +1,4 @@
-**Numbers 7:22** 
+**Numbers 7:22**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One kid of the goats for a sin offering:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ one male goat for a sin offering;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.21|<< Numbers 7:21]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.23|Numbers 7:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a male goat of  |**<big>&#8207;[[H8163B\|שְׂעִיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'ir-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | goats  |**<big>&#8207;[[H5795\|עִזִּ֥ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

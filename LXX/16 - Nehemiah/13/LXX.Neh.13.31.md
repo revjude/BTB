@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:31** 
 <small><sub>**LXX:**</sub></small>
 even for the gift of the wood offerings in seasons, from times, and in the first produce. Remember me, O our God, for goodness! 
-<small><sub>**KJV:**</sub></small>
-And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good.
-<small><sub>**BSB:**</sub></small>
-I also arranged for contributions of wood at the appointed times, and for the firstfruits. Remember me, O my God, with favor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.30|<< Nehemiah 13:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.1|Esther 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

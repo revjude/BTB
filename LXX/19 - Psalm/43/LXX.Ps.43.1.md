@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Judge for me, O God, and adjudicate  my cause, from a nation \[which is\] not sacred! rescue me from a man unjust and deceitful! 
-<small><sub>**KJV:**</sub></small>
-Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
-<small><sub>**BSB:**</sub></small>
-Vindicate me, O God, and plead my case against an ungodly nation; deliver me from deceitful and unjust men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.43.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.42.11|<< Psalm 42:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.43.2|Psalm 43:2 >>]]</td></tr></table>
 
 | Translation | Greek |

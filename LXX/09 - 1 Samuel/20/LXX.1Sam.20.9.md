@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:9** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan said, Far be it to you; for if in knowing I should know that the evil is completed by  my father  to come against you, then would I not report \[it\] to you? 
-<small><sub>**KJV:**</sub></small>
-And Jonathan said, Far be it from thee: for if I knew certainly that evil were determined by my father to come upon thee, then would not I tell it thee?
-<small><sub>**BSB:**</sub></small>
-“Never!” Jonathan replied. “If I ever found out that my father had evil intentions against you, would I not tell you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.8|<< 1 Samuel 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.10|1 Samuel 20:10 >>]]</td></tr></table>
 
 | Translation | Greek |

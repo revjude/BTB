@@ -1,10 +1,7 @@
 **LXX Judges 4:22** 
 <small><sub>**LXX:**</sub></small>
 And, behold, Barak \[was\] pursuing  Sisera. And Jael came forth for meeting him, and she said to him, Come, and I will show to you the man whom you seek. And he entered with her. And behold, \[there was\] Sisera having fallen dead, and the peg in  his temple. 
-<small><sub>**KJV:**</sub></small>
-And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her [tent], behold, Sisera lay dead, and the nail [was] in his temples.
-<small><sub>**BSB:**</sub></small>
-When Barak arrived in pursuit of Sisera, Jael went out to greet him and said to him, “Come, and I will show you the man you are seeking.” So he went in with her, and there lay Sisera dead, with a tent peg through his temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.21|<< Judges 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.23|Judges 4:23 >>]]</td></tr></table>
 
 | Translation | Greek |

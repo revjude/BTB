@@ -1,4 +1,4 @@
-**Proverbs 25:27** 
+**Proverbs 25:27**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] not good to eat much honey: so [for men] to search their own glory [is not] glory.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is not good to eat too much honey or to search out one’s own glory.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.26|<< Proverbs 25:26]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.28|Proverbs 25:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to eat  |**<big>&#8207;[[H0398\|אָ֘כֹ֤ל]]&#8207; </big>**| 'a.Khol<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | honey  |**<big>&#8207;[[H1706\|דְּבַ֣שׁ]]&#8207; </big>**| de.Vash<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

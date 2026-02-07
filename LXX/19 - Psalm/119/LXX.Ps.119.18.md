@@ -1,10 +1,7 @@
 **LXX Psalm 119:18** 
 <small><sub>**LXX:**</sub></small>
 Uncover  my eyes! and I shall contemplate the wonders of  your law. 
-<small><sub>**KJV:**</sub></small>
-Open thou mine eyes, that I may behold wondrous things out of thy law.
-<small><sub>**BSB:**</sub></small>
-Open my eyes that I may see wondrous things from Your law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.17|<< Psalm 119:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.19|Psalm 119:19 >>]]</td></tr></table>
 
 | Translation | Greek |

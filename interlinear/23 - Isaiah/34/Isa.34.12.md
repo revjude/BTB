@@ -1,4 +1,4 @@
-**Isaiah 34:12** 
+**Isaiah 34:12**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall call the nobles thereof to the kingdom, but none [shall be] there, and all her princes shall be nothing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No nobles will be left to proclaim a king, and all her princes will come to noth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.11|<< Isaiah 34:11]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.13|Isaiah 34:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nobles its  |**<big>&#8207;[[H2715\|חֹרֶ֥י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| cho.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

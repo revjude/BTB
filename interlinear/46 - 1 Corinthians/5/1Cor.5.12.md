@@ -1,12 +1,12 @@
-**1 Corinthians 5:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:12**<big><big>[[1Cor.5.9 Expel the Immoral Brother|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For what have I to do to judge them also that are without? do not ye judge them that are within?
 <small><sub>**BSB:**</sub></small>
 What business of mine is it to judge those outside the church? Are you not to judge those inside?
 <small><sub>**Literal:**</sub></small>
 What for [is it] to me and those outside to judge? Surely those within you yourselves do judge?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.11|<< 1 Corinthians 5:11]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.13|1 Corinthians 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

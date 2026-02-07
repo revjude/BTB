@@ -1,12 +1,12 @@
-**Galatians 1:8
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:8**<big><big>[[Gal.1.6 No Other Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
 <small><sub>**BSB:**</sub></small>
 But even if we or an angel from heaven should preach a gospel contrary to the one we preached to you, let him be under a curse!
 <small><sub>**Literal:**</sub></small>
 But even if we ourselves or an angel out of heaven shall evangelise to you contrary to what we evangelised to you, accursed he should be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.7|<< Galatians 1:7]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.9|Galatians 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

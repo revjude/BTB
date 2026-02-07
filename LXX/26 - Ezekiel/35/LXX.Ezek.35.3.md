@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:3** 
 <small><sub>**LXX:**</sub></small>
 And say to it! Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against you mount Seir, and I will stretch out  my hand against you, and I will make you into a wilderness, and you shall be made desolate. 
-<small><sub>**KJV:**</sub></small>
-And say unto it, Thus saith the Lord GOD; Behold, O mount Seir, I [am] against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.
-<small><sub>**BSB:**</sub></small>
-and declare that this is what the Lord GOD says: Behold, I am against you, O Mount Seir. I will stretch out My hand against you and make you a desolate waste.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.2|<< Ezekiel 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.4|Ezekiel 35:4 >>]]</td></tr></table>
 
 | Translation | Greek |

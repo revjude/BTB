@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:33** 
 <small><sub>**LXX:**</sub></small>
 He was a son \[being\] twenty and five years \[old\] in  his taking reign, and sixteen years he reigned in Jerusalem. And \[the\] name  of his mother \[was\] Jerusha, daughter of Zadok. 
-<small><sub>**KJV:**</sub></small>
-Five and twenty years old was he when he began to reign, and he reigned sixteen years in Jerusalem. And his mother’s name [was] Jerusha, the daughter of Zadok.
-<small><sub>**BSB:**</sub></small>
-He was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerusha daughter of Zadok.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.32|<< 2 Kings 15:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.34|2 Kings 15:34 >>]]</td></tr></table>
 
 | Translation | Greek |

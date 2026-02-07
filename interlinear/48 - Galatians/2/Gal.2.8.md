@@ -1,12 +1,12 @@
-**Galatians 2:8
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:8**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
 <small><sub>**BSB:**</sub></small>
 For the One who was at work in Peter’s apostleship to the circumcised was also at work in my apostleship to the Gentiles.
 <small><sub>**Literal:**</sub></small>
 the [One] for having worked in Peter for apostleship of the circumcision did also in me myself toward the Gentiles —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.7|<< Galatians 2:7]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.9|Galatians 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

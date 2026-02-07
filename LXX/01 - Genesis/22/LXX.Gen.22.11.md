@@ -1,10 +1,7 @@
 **LXX Genesis 22:11** 
 <small><sub>**LXX:**</sub></small>
 And an angel of \[the\] <span class="smallcaps">lord</span> called him from out of the heaven. And he said, Abraham, Abraham.  And he said, Behold, \[it is\] I. 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here [am] I.
-<small><sub>**BSB:**</sub></small>
-Just then the angel of the LORD called out to him from heaven, “Abraham, Abraham!” “Here I am,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.10|<< Genesis 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.12|Genesis 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

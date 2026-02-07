@@ -1,4 +1,4 @@
-**Genesis 44:9** 
+**Genesis 44:9**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With whomsoever of thy servants it be found, both let him die, and we also will be my lord’s bondmen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If any of your servants is found to have it, he must die, and the rest will beco
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.8|<< Genesis 44:8]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.10|Genesis 44:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [anyone] whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is found  |**<big>&#8207;[[H4672\|יִמָּצֵ֥א]]&#8207; </big>**| yi.ma.Tze'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

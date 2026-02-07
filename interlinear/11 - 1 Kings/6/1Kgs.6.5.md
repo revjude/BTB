@@ -1,4 +1,4 @@
-**1 Kings 6:5** 
+**1 Kings 6:5**<big><big>[[1Kgs.6.5 The Chambers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And against the wall of the house he built chambers round about, [against] the walls of the house round about, [both] of the temple and of the oracle: and he made chambers round about:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Against the walls of the temple and the inner sanctuary, Solomon built a chamber
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.4|<< 1 Kings 6:4]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.6|1 Kings 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּבֶן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

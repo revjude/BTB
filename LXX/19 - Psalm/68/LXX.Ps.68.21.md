@@ -1,10 +1,7 @@
 **LXX Psalm 68:21** 
 <small><sub>**LXX:**</sub></small>
 But  God shall fracture in pieces \[the\] heads of his enemies; \[the\] hairy tops \[of heads\] traveling in their trespasses. 
-<small><sub>**KJV:**</sub></small>
-But God shall wound the head of his enemies, [and] the hairy scalp of such an one as goeth on still in his trespasses.
-<small><sub>**BSB:**</sub></small>
-Surely God will crush the heads of His enemies, the hairy crowns of those who persist in guilty ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.20|<< Psalm 68:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.22|Psalm 68:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 6:37
-**<small><sub>**KJV:**</sub></small>
+**John 6:37**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.
 <small><sub>**BSB:**</sub></small>
 Everyone the Father gives Me will come to Me, and the one who comes to Me I will never drive away.
 <small><sub>**Literal:**</sub></small>
 All that gives Me the Father to Me myself will come, and the [one] coming to Me myself certainly not shall I cast out,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.36|<< John 6:36]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.38|John 6:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

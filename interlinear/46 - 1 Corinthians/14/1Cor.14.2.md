@@ -1,12 +1,12 @@
-**1 Corinthians 14:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:2**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he that speaketh in an [unknown] tongue speaketh not unto men, but unto God: for no man understandeth [him]; howbeit in the spirit he speaketh mysteries.
 <small><sub>**BSB:**</sub></small>
 For he who speaks in a tongue does not speak to men, but to God. Indeed, no one understands him; he utters mysteries in the Spirit.
 <small><sub>**Literal:**</sub></small>
 The [one] for speaking in a tongue not to men speaks but <the> to God; no [one] for hears, in the Spirit however he utters mysteries;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.1|<< 1 Corinthians 14:1]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.3|1 Corinthians 14:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

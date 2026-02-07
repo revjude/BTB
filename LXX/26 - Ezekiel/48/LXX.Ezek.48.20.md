@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:20** 
 <small><sub>**LXX:**</sub></small>
 The whole first-fruit \[shall be\] five and twenty thousand by five and twenty thousand, four-cornered; you shall separate it \[as\] the first-fruit of the holy place, from the possession of the city. 
-<small><sub>**KJV:**</sub></small>
-All the oblation [shall be] five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city.
-<small><sub>**BSB:**</sub></small>
-The entire portion will be a square, 25,000 cubits by 25,000 cubits. You are to set apart the holy portion, along with the city property.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.19|<< Ezekiel 48:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.21|Ezekiel 48:21 >>]]</td></tr></table>
 
 | Translation | Greek |

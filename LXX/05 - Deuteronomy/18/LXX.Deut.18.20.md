@@ -1,10 +1,7 @@
 **LXX Deuteronomy 18:20** 
 <small><sub>**LXX:**</sub></small>
 Except the prophet, who ever should be impious to speak a word in  my name, which I did not assign to him to speak, and who ever should speak in \[the\] name of other gods, that prophet shall die. 
-<small><sub>**KJV:**</sub></small>
-But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die.
-<small><sub>**BSB:**</sub></small>
-But if any prophet dares to speak a message in My name that I have not commanded him to speak, or to speak in the name of other gods, that prophet must be put to death.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.19|<< Deuteronomy 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.21|Deuteronomy 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Hosea 8:13** 
+**Hosea 8:13**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They sacrifice flesh [for] the sacrifices of mine offerings, and eat [it; but] the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though they offer sacrifices as gifts to Me, and though they eat the meat, the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.12|<< Hosea 8:12]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.14|Hosea 8:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sacrifices of  |**<big>&#8207;[[H2077\|זִבְחֵ֣י]]&#8207; </big>**| ziv.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gifts my  |**<big>&#8207;[[H1890\|הַבְהָבַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| hav.ha.Va<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 2:7** 
 <small><sub>**LXX:**</sub></small>
 And his sister said to the daughter of Pharaoh, \[If\] you want I will call for you a woman nursing from the Hebrews, and she will suckle for you the male child. 
-<small><sub>**KJV:**</sub></small>
-Then said his sister to Pharaoh’s daughter, Shall I go and call to thee a nurse of the Hebrew women, that she may nurse the child for thee?
-<small><sub>**BSB:**</sub></small>
-Then his sister said to Pharaoh’s daughter, “Shall I go and call one of the Hebrew women to nurse the child for you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.6|<< Exodus 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.8|Exodus 2:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 2:7** is...

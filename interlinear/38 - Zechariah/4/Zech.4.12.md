@@ -1,4 +1,4 @@
-**Zechariah 4:12** 
+**Zechariah 4:12**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I answered again, and said unto him, What [be these] two olive branches which through the two golden pipes empty the golden [oil] out of themselves?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I questioned him further, “What are the two olive branches beside the two 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.11|<< Zechariah 4:11]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.13|Zechariah 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I answered  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6030B\|אַ֣עַן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'A.'an<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a second [time]  |**<big>&#8207;[[H8145\|שֵׁנִ֔ית]]&#8207; </big>**| she.Nit<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

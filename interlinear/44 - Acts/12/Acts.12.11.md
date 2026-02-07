@@ -1,12 +1,12 @@
-**Acts 12:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:11**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and [from] all the expectation of the people of the Jews.
 <small><sub>**BSB:**</sub></small>
 Then Peter came to himself and said, “Now I know for sure that the Lord has sent His angel and rescued me from Herod’s grasp and from everything the Jewish people were anticipating.”
 <small><sub>**Literal:**</sub></small>
 And <the> Peter to himself having come said; Now I know truly that has sent forth the Lord the angel of Him and delivered me out of [the] hand of Herod and all the expectation of the people of the Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.10|<< Acts 12:10]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.12|Acts 12:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 3:14** 
+**Jeremiah 3:14**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn, O backsliding children, saith the LORD; for I am married unto you: and I will take you one of a city, and two of a family, and I will bring you to Zion:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Turn, O backsliding children, saith the LORD; for I am married unto you: and I w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.13|<< Jeremiah 3:13]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.15|Jeremiah 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | return  |**<big>&#8207;[[H7725G\|שׁ֣וּבוּ]]&#8207; </big>**| Shu.vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O sons  |**<big>&#8207;[[H1121A\|בָנִ֤ים]]&#8207; </big>**| va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

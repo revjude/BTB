@@ -1,4 +1,4 @@
-**Joshua 8:2** 
+**Joshua 8:2**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall do to Ai and its king as you did to Jericho and its king, except t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.1|<< Joshua 8:1]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.3|Joshua 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִׂ֨יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> Ai  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5857G\|עַ֜י]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Ai<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

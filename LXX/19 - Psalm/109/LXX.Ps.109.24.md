@@ -1,10 +1,7 @@
 **LXX Psalm 109:24** 
 <small><sub>**LXX:**</sub></small>
  My knees weakened from fasting, and  my flesh was changed through \[want of\] oil. 
-<small><sub>**KJV:**</sub></small>
-My knees are weak through fasting; and my flesh faileth of fatness.
-<small><sub>**BSB:**</sub></small>
-My knees are weak from fasting, and my body grows lean and gaunt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.23|<< Psalm 109:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.25|Psalm 109:25 >>]]</td></tr></table>
 
 | Translation | Greek |

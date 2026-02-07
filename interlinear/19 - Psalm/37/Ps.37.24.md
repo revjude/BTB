@@ -1,4 +1,4 @@
-**Psalms 37:24** 
+**Psalms 37:24**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though he fall, he shall not be utterly cast down: for the LORD upholdeth [him with] his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though he falls, he will not be overwhelmed, for the LORD is holding his hand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.23|<< Psalms 37:23]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.25|Psalms 37:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will fall  |**<big>&#8207;[[H5307G\|יִפֹּ֥ל]]&#8207; </big>**| yi.Pol<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

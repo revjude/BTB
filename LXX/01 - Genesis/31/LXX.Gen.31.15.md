@@ -1,10 +1,7 @@
 **LXX Genesis 31:15** 
 <small><sub>**LXX:**</sub></small>
 \[Are we\] not considered as the aliens to him? For he has sold us, and by eating up a thing devoured  our silver. 
-<small><sub>**KJV:**</sub></small>
-Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money.
-<small><sub>**BSB:**</sub></small>
-Are we not regarded by him as outsiders? Not only has he sold us, but he has certainly squandered what was paid for us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.14|<< Genesis 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.16|Genesis 31:16 >>]]</td></tr></table>
 
 | Translation | Greek |

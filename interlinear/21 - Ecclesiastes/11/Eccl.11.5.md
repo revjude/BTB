@@ -1,4 +1,4 @@
-**Ecclesiastes 11:5** 
+**Ecclesiastes 11:5**<big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As thou knowest not what [is] the way of the spirit, [nor] how the bones [do grow] in the womb of her that is with child: even so thou knowest not the works of God who maketh all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As you do not know the path of the wind, or how the bones are formed in a mother
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.4|<< Ecclesiastes 11:4]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.6|Ecclesiastes 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֨ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not you  |**<big>&#8207;[[H0369\|אֵֽינְ]]&#8207;&#8207;[[H9041\|ךָ֤]]&#8207; </big>**| 'ei.ne.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

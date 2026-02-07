@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:43** 
 <small><sub>**LXX:**</sub></small>
 And the Philistine said to David, Am I As a dog that you come with a rod and stones? And the Philistine cursed  David by  his gods. 
-<small><sub>**KJV:**</sub></small>
-And the Philistine said unto David, [Am] I a dog, that thou comest to me with staves? And the Philistine cursed David by his gods.
-<small><sub>**BSB:**</sub></small>
-“Am I a dog,” he said to David, “that you come at me with sticks?” And the Philistine cursed David by his gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.42|<< 1 Samuel 17:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.44|1 Samuel 17:44 >>]]</td></tr></table>
 
 | Translation | Greek |

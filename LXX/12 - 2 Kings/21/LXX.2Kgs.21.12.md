@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:12** 
 <small><sub>**LXX:**</sub></small>
 \[Is it\] not so? Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, Behold, I bring evils upon Jerusalem and Judah, so that all hearing, it shall sound \[in\] both  of his ears. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD God of Israel, Behold, I [am] bringing [such] evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.
-<small><sub>**BSB:**</sub></small>
-this is what the LORD, the God of Israel, says: ‘Behold, I am bringing such calamity upon Jerusalem and Judah that the news will reverberate in the ears of all who hear it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.11|<< 2 Kings 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.13|2 Kings 21:13 >>]]</td></tr></table>
 
 | Translation | Greek |

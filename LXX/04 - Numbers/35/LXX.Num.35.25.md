@@ -1,10 +1,7 @@
 **LXX Numbers 35:25** 
 <small><sub>**LXX:**</sub></small>
 And the congregation shall rescue the one man-slaying from the one acting as next of kin  for blood; and the congregation shall restore him into the city  of his place of refuge, of which he took refuge; and he shall dwell there until whenever the great priest should die, whom they anointed him  with the holy oil. 
-<small><sub>**KJV:**</sub></small>
-And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, whither he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil.
-<small><sub>**BSB:**</sub></small>
-The assembly is to protect the manslayer from the hand of the avenger of blood. Then the assembly will return him to the city of refuge to which he fled, and he must live there until the death of the high priest, who was anointed with the holy oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.24|<< Numbers 35:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.26|Numbers 35:26 >>]]</td></tr></table>
 
 | Translation | Greek |

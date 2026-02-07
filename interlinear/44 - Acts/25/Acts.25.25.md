@@ -1,12 +1,12 @@
-**Acts 25:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:25**<big><big>[[Acts.25.23 Paul before Agrippa and Bernice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him.
 <small><sub>**BSB:**</sub></small>
 But I found he had done nothing worthy of death, and since he has now appealed to the Emperor, I decided to send him.
 <small><sub>**Literal:**</sub></small>
 I myself however having grasped nothing worthy him of death to have done, and himself and of this one having appealed to the Emperor I determined to send him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.24|<< Acts 25:24]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.26|Acts 25:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

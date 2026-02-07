@@ -1,12 +1,12 @@
-**John 13:25
-**<small><sub>**KJV:**</sub></small>
+**John 13:25**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He then lying on Jesus’ breast saith unto him, Lord, who is it?
 <small><sub>**BSB:**</sub></small>
 Leaning back against Jesus, he asked, “Lord, who is it?”
 <small><sub>**Literal:**</sub></small>
 Having leaned then he thus on the breast <the> of Jesus he says to Him; Lord, who is it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.24|<< John 13:24]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.26|John 13:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having leaned [^1] |**<big>[[G0377\|ἀναπεσὼν]]</big>**  |anapesōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then [^2] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn">N(k)O</abbr> | |

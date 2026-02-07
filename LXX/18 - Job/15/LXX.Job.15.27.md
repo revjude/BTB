@@ -1,10 +1,7 @@
 **LXX Job 15:27** 
 <small><sub>**LXX:**</sub></small>
 For he covered  his face with his fat, and made a cleft upon the thighs. 
-<small><sub>**KJV:**</sub></small>
-Because he covereth his face with his fatness, and maketh collops of fat on [his] flanks.
-<small><sub>**BSB:**</sub></small>
-Though his face is covered with fat and his waistline bulges with flesh,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.26|<< Job 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.28|Job 15:28 >>]]</td></tr></table>
 
 | Translation | Greek |

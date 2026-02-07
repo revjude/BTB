@@ -1,4 +1,4 @@
-**Jeremiah 8:10** 
+**Jeremiah 8:10**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I give their wives unto others, [and] their fields to them that shall inherit [them]: for every one from the least even unto the greatest is given to covetousness, from the prophet even unto the priest every one dealeth falsely.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore I will give their wives to other men and their fields to new owners. F
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.9|<< Jeremiah 8:9]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.11|Jeremiah 8:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵן֩]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will give  |**<big>&#8207;[[H5414G\|אֶתֵּ֨ן]]&#8207; </big>**| 'e.Ten<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

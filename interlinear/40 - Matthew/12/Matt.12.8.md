@@ -1,12 +1,12 @@
-**Matthew 12:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:8**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Son of man is Lord even of the sabbath day.
 <small><sub>**BSB:**</sub></small>
 For the Son of Man is Lord of the Sabbath.”
 <small><sub>**Literal:**</sub></small>
 lord for is and of the Sabbath the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.7|<< Matthew 12:7]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.9|Matthew 12:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lord |**<big>[[G2962H\|κύριος]]</big>**  |kurios <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

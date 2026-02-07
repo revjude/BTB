@@ -1,4 +1,4 @@
-**Ezekiel 16:40** 
+**Ezekiel 16:40**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall also bring up a company against thee, and they shall stone thee with stones, and thrust thee through with their swords.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will bring a mob against you, who will stone you and cut you to pieces with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.39|<< Ezekiel 16:39]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.41|Ezekiel 16:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will bring up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5927J\|הֶעֱל֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.'e.Lu<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלַ֙יִ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

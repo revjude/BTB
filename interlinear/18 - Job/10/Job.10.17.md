@@ -1,4 +1,4 @@
-**Job 10:17** 
+**Job 10:17**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war [are] against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You produce new witnesses against me and multiply Your anger toward me. Hardship
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.16|<< Job 10:16]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.18|Job 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you renew  |**<big>&#8207;[[H2318\|תְּחַדֵּ֬שׁ]]&#8207; </big>**| te.cha.Desh<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | witnesses your  |**<big>&#8207;[[H5707\|עֵדֶ֨י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'e.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

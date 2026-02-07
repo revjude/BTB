@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:2** 
 <small><sub>**LXX:**</sub></small>
 A heart of a wise \[man\] \[is\] at his right \[hand\]; and \[the\] heart of a fool \[is\] at his left. 
-<small><sub>**KJV:**</sub></small>
-A wise man’s heart [is] at his right hand; but a fool’s heart at his left.
-<small><sub>**BSB:**</sub></small>
-A wise man’s heart inclines to the right, but the heart of a fool to the left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.1|<< Ecclesiastes 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.3|Ecclesiastes 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

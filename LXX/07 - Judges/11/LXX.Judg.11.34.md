@@ -1,10 +1,7 @@
 **LXX Judges 11:34** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah came to Mizpeh to  his house. And behold,  his daughter went forth for meeting him with tambourines and dancers, and she \[was\] an only child. And there was not to him a son or daughter besides her. 
-<small><sub>**KJV:**</sub></small>
-And Jephthah came to Mizpeh unto his house, and, behold, his daughter came out to meet him with timbrels and with dances: and she [was his] only child; beside her he had neither son nor daughter.
-<small><sub>**BSB:**</sub></small>
-And when Jephthah returned home to Mizpah, there was his daughter coming out to meet him with tambourines and dancing! She was his only child; he had no son or daughter besides her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.33|<< Judges 11:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.35|Judges 11:35 >>]]</td></tr></table>
 
 | Translation | Greek |

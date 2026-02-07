@@ -1,4 +1,4 @@
-**Daniel 5:15** 
+**Daniel 5:15**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now the wise [men], the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the wise men and enchanters were brought before me to read this inscription 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.14|<< Daniel 5:14]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.16|Daniel 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3705\|כְעַ֞ן]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> khe.'An<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have been brought  |**<big>&#8207;[[H5954\|הֻעַ֣לּוּ]]&#8207; </big>**| hu.'A.lu<small><sup>[[AVHp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 10:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:26**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter took him up, saying, Stand up; I myself also am a man.
 <small><sub>**BSB:**</sub></small>
 But Peter helped him up. “Stand up,” he said, “I am only a man myself.”
 <small><sub>**Literal:**</sub></small>
 <the> But Peter lifted up him saying; do rise up; also I myself myself a man am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.25|<< Acts 10:25]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.27|Acts 10:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

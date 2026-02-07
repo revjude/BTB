@@ -1,4 +1,4 @@
-**2 Chronicles 25:4** 
+**2 Chronicles 25:4**<big><big>[[2Chr.25.1 Amaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he slew not their children, but [did] as [it is] written in the law in the book of Moses, where the LORD commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet he did not put their sons to death, but acted according to what is written i
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.3|<< 2 Chronicles 25:3]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.5|2 Chronicles 25:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children their  |**<big>&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| be.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

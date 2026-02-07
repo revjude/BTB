@@ -1,4 +1,4 @@
-**Numbers 22:19** 
+**Numbers 22:19**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, I pray you, tarry ye also here this night, that I may know what the LORD will say unto me more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, please stay here overnight as the others did, that I may find out what e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.18|<< Numbers 22:18]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.20|Numbers 22:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | remain  |**<big>&#8207;[[H3427\|שְׁב֨וּ]]&#8207; </big>**| she.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

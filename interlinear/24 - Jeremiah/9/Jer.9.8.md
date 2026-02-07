@@ -1,4 +1,4 @@
-**Jeremiah 9:8** (9:7)
+**Jeremiah 9:8**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their tongue [is as] an arrow shot out; it speaketh deceit: [one] speaketh peaceably to his neighbour with his mouth, but in heart he layeth his wait.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their tongues are deadly arrows; they speak deception. With his mouth a man spea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.7|<< Jeremiah 9:7]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.9|Jeremiah 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] an arrow  |**<big>&#8207;[[H2671\|חֵ֥ץ]]&#8207; </big>**| chetz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | beaten  [^1]|**<big>&#8207;[[H7819A\|שָׁח֛וּט]]&#8207; </big>**[^2] | sho.chet<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

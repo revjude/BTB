@@ -1,4 +1,4 @@
-**Zechariah 7:10** 
+**Zechariah 7:10**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not oppress the widow or the fatherless, the foreigner or the poor. And do no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.9|<< Zechariah 7:9]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.11|Zechariah 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] widow  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0490\|אַלְמָנָ֧ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] fatherless  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3490\|יָת֛וֹם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Tom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

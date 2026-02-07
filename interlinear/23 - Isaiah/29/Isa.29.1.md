@@ -1,4 +1,4 @@
-**Isaiah 29:1** 
+**Isaiah 29:1**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to Ariel, to Ariel, the city [where] David dwelt! add ye year to year; let them kill sacrifices.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to you, O Ariel, the city of Ariel where David camped! Year upon year let yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.29|<< Isaiah 28:29]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.2|Isaiah 29:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֚וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ariel  |**<big>&#8207;[[H0740H\|אֲרִיאֵ֣ל]]&#8207; </big>**| 'a.ri.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

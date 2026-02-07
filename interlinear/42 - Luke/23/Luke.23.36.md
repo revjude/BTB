@@ -1,12 +1,12 @@
-**Luke 23:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:36**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the soldiers also mocked him, coming to him, and offering him vinegar,
 <small><sub>**BSB:**</sub></small>
 The soldiers also mocked Him and came up to offer Him sour wine.
 <small><sub>**Literal:**</sub></small>
 Mocked then Him also the soldiers coming near, and sour wine offering to Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.35|<< Luke 23:35]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.37|Luke 23:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Mocked [^1] |**<big>[[G1702\|ἐνέπαιξαν]]</big>**  |enepaixan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

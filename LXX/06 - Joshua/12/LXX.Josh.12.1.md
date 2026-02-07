@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the kings of the land which the sons of Israel did away with, and inherited  their land on the other side of the Jordan, of \[the\] east sun of \[the\] ravine of Arnon unto  mount Hermon, and all  Araba of \[the\] east -- 
-<small><sub>**KJV:**</sub></small>
-Now these [are] the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:
-<small><sub>**BSB:**</sub></small>
-Now these are the kings of the land whom the Israelites struck down and whose lands they took beyond the Jordan to the east, from the Arnon Valley to Mount Hermon, including all the Arabah eastward:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.23|<< Joshua 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.2|Joshua 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

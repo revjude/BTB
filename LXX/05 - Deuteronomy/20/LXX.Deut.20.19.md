@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:19** 
 <small><sub>**LXX:**</sub></small>
 But if you should besiege around a city many days to wage war \[against\] it for taking it, you shall not utterly destroy  its trees by putting upon them an iron \[axe\]; but of it you shall eat, but you shall not cut it \[down\]; nor \[is\] a man to enter unto the tree in the grove from your presence for the siege mound? 
-<small><sub>**KJV:**</sub></small>
-When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field [is] man’s [life]) to employ [them] in the siege:
-<small><sub>**BSB:**</sub></small>
-When you lay siege to a city for an extended time while fighting against it to capture it, you must not destroy its trees by putting an axe to them, because you can eat their fruit. You must not cut them down. Are the trees of the field human, that you should besiege them?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.18|<< Deuteronomy 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.20|Deuteronomy 20:20 >>]]</td></tr></table>
 
 | Translation | Greek |

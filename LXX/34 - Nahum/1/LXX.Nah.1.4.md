@@ -1,10 +1,7 @@
 **LXX Nahum 1:4** 
 <small><sub>**LXX:**</sub></small>
 \[the\] one pressing together \[the\] sea, and \[the one\] drying it, and making quite desolate all the rivers. Bashan and Carmel are lessened, and the blossoming  of Lebanon failed. 
-<small><sub>**KJV:**</sub></small>
-He rebuketh the sea, and maketh it dry, and drieth up all the rivers: Bashan languisheth, and Carmel, and the flower of Lebanon languisheth.
-<small><sub>**BSB:**</sub></small>
-He rebukes the sea and dries it up; He makes all the rivers run dry. Bashan and Carmel wither, and the flower of Lebanon wilts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.3|<< Nahum 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.5|Nahum 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

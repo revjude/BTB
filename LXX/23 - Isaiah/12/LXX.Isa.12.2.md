@@ -1,10 +1,7 @@
 **LXX Isaiah 12:2** 
 <small><sub>**LXX:**</sub></small>
 Behold,  my God, my deliverer; I will be yielding upon him, and I will not be fearful. Because  \[the\] <span class="smallcaps">lord</span> \[is\] my glory and my praise; and it became to me for deliverance. 
-<small><sub>**KJV:**</sub></small>
-Behold, God [is] my salvation; I will trust, and not be afraid: for the LORD JEHOVAH [is] my strength and [my] song; he also is become my salvation.
-<small><sub>**BSB:**</sub></small>
-Surely God is my salvation; I will trust and not be afraid. For the LORD GOD is my strength and my song, and He also has become my salvation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.12.1|<< Isaiah 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.12.3|Isaiah 12:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 12:2** is...

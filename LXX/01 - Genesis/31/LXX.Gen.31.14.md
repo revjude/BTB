@@ -1,10 +1,7 @@
 **LXX Genesis 31:14** 
 <small><sub>**LXX:**</sub></small>
 And answering Rachel and Leah said to him, Is there not to us still a portion or inheritance in the house  of our father? 
-<small><sub>**KJV:**</sub></small>
-And Rachel and Leah answered and said unto him, [Is there] yet any portion or inheritance for us in our father’s house?
-<small><sub>**BSB:**</sub></small>
-And Rachel and Leah replied, “Do we have any portion or inheritance left in our father’s house?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.13|<< Genesis 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.15|Genesis 31:15 >>]]</td></tr></table>
 
 | Translation | Greek |

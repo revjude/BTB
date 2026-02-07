@@ -1,4 +1,4 @@
-**Zechariah 11:11** 
+**Zechariah 11:11**<big><big>[[Zech.11.10 Thirty Pieces of Silver|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was broken in that day: and so the poor of the flock that waited upon me knew that it [was] the word of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It was revoked on that day, and so the afflicted of the flock who were watching 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.10|<< Zechariah 11:10]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.12|Zechariah 11:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was broken  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6565A\|תֻּפַ֖ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tu.Far<small><sup>[[HVHw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

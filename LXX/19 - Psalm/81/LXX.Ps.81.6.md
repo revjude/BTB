@@ -1,10 +1,7 @@
 **LXX Psalm 81:6** 
 <small><sub>**LXX:**</sub></small>
 He removed his back from tribute;  his hands were enslaved to the hamper. 
-<small><sub>**KJV:**</sub></small>
-I removed his shoulder from the burden: his hands were delivered from the pots.
-<small><sub>**BSB:**</sub></small>
-“I relieved his shoulder of the burden; his hands were freed from the basket.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.81.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.81.5|<< Psalm 81:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.81.7|Psalm 81:7 >>]]</td></tr></table>
 
 | Translation | Greek |

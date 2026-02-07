@@ -1,10 +1,7 @@
 **LXX Job 10:16** 
 <small><sub>**LXX:**</sub></small>
 For I am caught as a lion for slaughter; and again in turning you destroy me awfully; 
-<small><sub>**KJV:**</sub></small>
-For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.
-<small><sub>**BSB:**</sub></small>
-Should I hold my head high, You would hunt me like a lion, and again display Your power against me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.15|<< Job 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.17|Job 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

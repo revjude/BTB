@@ -1,12 +1,12 @@
-**Romans 13:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:1**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 <small><sub>**BSB:**</sub></small>
 Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God.
 <small><sub>**Literal:**</sub></small>
 Every soul to the authorities being above [him] should be subject. Not for there is authority only except by God, those however existing authorities by <the> God instituted are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.21|<< Romans 12:21]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.2|Romans 13:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|Πᾶσα]]</big>**  |Pasa <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | soul |**<big>[[G5590J\|ψυχὴ]]</big>**  |psuchē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

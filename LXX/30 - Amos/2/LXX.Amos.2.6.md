@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, For the three impious deeds of Israel, even for the four, I will not turn away from. Because they rendered silver \[for the\] just, and \[the\] needy for sandals; 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; For three transgressions of Israel, and for four, I will not turn away [the punishment] thereof; because they sold the righteous for silver, and the poor for a pair of shoes;
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “For three transgressions of Israel, even four, I will not revoke My judgment, because they sell the righteous for silver and the needy for a pair of sandals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.2.5|<< Amos 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.2.7|Amos 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

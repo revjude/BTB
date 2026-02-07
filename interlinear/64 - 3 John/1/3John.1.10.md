@@ -1,12 +1,12 @@
-**3 John 1:10
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:10**<big><big>[[3John.1.9 Diotrephes and Demetrius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth [them] out of the church.
 <small><sub>**BSB:**</sub></small>
 So if I come, I will call attention to his malicious slander against us. And unsatisfied with that, he refuses to welcome the brothers and forbids those who want to do so, even putting them out of the church.
 <small><sub>**Literal:**</sub></small>
 Because of this, if I shall come, I will bring to remembrance of him the works which he is doing, with words evil prating against us; and not being satisfied with these, neither himself he receives the brothers, and those purposing he forbids and from the church he casts [them] out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.9|<< 3 John 1:9]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.11|3 John 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this, |**<big>[[G3778\|τοῦτο,]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 7:19** 
 <small><sub>**LXX:**</sub></small>
 And he brought  his gift; one silver saucer, thirty and a hundred \[was\] its scale-weight, one silver bowl of seventy shekels, according to the holy shekel, both full of fine flour being prepared in olive oil for a sacrifice \[offering\]; 
-<small><sub>**KJV:**</sub></small>
-He offered [for] his offering one silver charger, the weight whereof [was] an hundred and thirty [shekels], one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
-<small><sub>**BSB:**</sub></small>
-The offering he presented was one silver platter weighing a hundred and thirty shekels, and one silver bowl weighing seventy shekels, both according to the sanctuary shekel and filled with fine flour mixed with oil for a grain offering;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.18|<< Numbers 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.20|Numbers 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

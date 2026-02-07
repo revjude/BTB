@@ -1,12 +1,12 @@
-**1 Corinthians 7:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:12**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away.
 <small><sub>**BSB:**</sub></small>
 To the rest I say this (I, not the Lord): If a brother has an unbelieving wife and she is willing to live with him, he must not divorce her.
 <small><sub>**Literal:**</sub></small>
 To the now rest say I myself — not the Lord: If any brother a wife has unbelieving and she consents to dwell with him, not he should divorce her;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.11|<< 1 Corinthians 7:11]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.13|1 Corinthians 7:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the |**<big>[[G3588\|Τοῖς]]</big>**  |Tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**2 Corinthians 9:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:7**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Every man according as he purposeth in his heart, [so let him give]; not grudgingly, or of necessity: for God loveth a cheerful giver.
 <small><sub>**BSB:**</sub></small>
 Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver.
@@ -10,7 +10,7 @@ each even as he himself has purposed in the heart, not out of regret or of neces
 > $\quad$ referencing: [[LXX.Prov.22.8|Prov 22:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | each |**<big>[[G1538\|ἕκαστος]]</big>**  |hekastos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

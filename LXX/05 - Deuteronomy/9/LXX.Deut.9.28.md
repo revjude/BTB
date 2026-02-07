@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:28** 
 <small><sub>**LXX:**</sub></small>
 lest should say the ones dwelling the land from where you led us from there, saying, Because  \[the\] <span class="smallcaps">lord</span> was not able to bring them into the land which he said to them, and because of  \[the\] <span class="smallcaps">lord</span> detesting them, he led them in the wilderness to kill them. 
-<small><sub>**KJV:**</sub></small>
-Lest the land whence thou broughtest us out say, Because the LORD was not able to bring them into the land which he promised them, and because he hated them, he hath brought them out to slay them in the wilderness.
-<small><sub>**BSB:**</sub></small>
-Otherwise, those in the land from which You brought us out will say, ‘Because the LORD was not able to bring them into the land He had promised them, and because He hated them, He has brought them out to kill them in the wilderness.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.27|<< Deuteronomy 9:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.29|Deuteronomy 9:29 >>]]</td></tr></table>
 
 | Translation | Greek |

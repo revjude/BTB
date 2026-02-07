@@ -1,4 +1,4 @@
-**2 Chronicles 32:27** 
+**2 Chronicles 32:27**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah had exceeding much riches and honour: and he made himself treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all manner of pleasant jewels;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hezekiah had very great riches and honor, and he made treasuries for his silver,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.26|<< 2 Chronicles 32:26]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.28|2 Chronicles 32:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֧י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Hezekiah  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H2396G\|יחִזְקִיָּ֛הוּ]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

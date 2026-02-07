@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the thirtieth and seventh year of the resettlement of Jehoiachin king of Judah, in the twelfth month, seventh and twentieth day of the month, Evil-merodach king of Babylon raised up high in the first year  of his kingdom the head of Jehoiachin the king of Judah, and he led him from out of \[the\] house of \[the\] prison. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth [day] of the month, [that] Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;
-<small><sub>**BSB:**</sub></small>
-On the twenty-seventh day of the twelfth month of the thirty-seventh year of the exile of Judah’s King Jehoiachin, in the year Evil-merodach became king of Babylon, he released King Jehoiachin of Judah from prison.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.26|<< 2 Kings 25:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.28|2 Kings 25:28 >>]]</td></tr></table>
 
 | Translation | Greek |

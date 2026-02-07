@@ -1,4 +1,4 @@
-**Numbers 11:8** 
+**Numbers 11:8**<big><big>[[Num.11.1 The Complaints of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] the people went about, and gathered [it], and ground [it] in mills, or beat [it] in a mortar, and baked [it] in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The people walked around and gathered it, ground it on a handmill or crushed it 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.7|<< Numbers 11:7]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.9|Numbers 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they went about  |**<big>&#8207;[[H7751A\|שָׁטוּ֩]]&#8207; </big>**| sha.Tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֨ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

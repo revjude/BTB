@@ -1,4 +1,4 @@
-**Numbers 24:22** 
+**Numbers 24:22**<big><big>[[Num.24.20 Balaam’s Final Three Oracles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the Kenite shall be wasted, until Asshur shall carry thee away captive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet Kain will be destroyed when Asshur takes you captive.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.21|<< Numbers 24:21]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.23|Numbers 24:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

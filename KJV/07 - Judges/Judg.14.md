@@ -1,12 +1,12 @@
 (KJV) **Judges 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13|<< Judges 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15|Judges 15 >>]]</td></tr></table>
 
-***Samson’s Marriage*** ^bsb635
+<big><big>[[Judg.14.1 Samson’s Marriage|⥃]]</big></big>***Samson’s Marriage***
 
  $\quad$ <span class="startversemarker">[</span>**[[Judg.14.1|1]]**<span class="endversemarker">]</span> And Samson went down to Timnath<small><small>[^2]</small></small>, and saw a woman in Timnath of the daughters of the Philistines. <span class="startversemarker">[</span>**[[Judg.14.2|2]]**<span class="endversemarker">]</span> And he came up, and told his father and his mother, and said, I have seen a woman in Timnath of the daughters of the Philistines: now therefore get her<small><small>[^3]</small></small> for me to wife. <span class="startversemarker">[</span>**[[Judg.14.3|3]]**<span class="endversemarker">]</span> Then his father and his mother said unto him, \[Is there\] never a woman among the daughters of thy brethren<small><small>[^4]</small></small>, or among all my people, that thou goest to take a wife of the uncircumcised<small><small>[^5]</small></small> Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well<small><small>[^6]</small></small>. <span class="startversemarker">[</span>**[[Judg.14.4|4]]**<span class="endversemarker">]</span> But his father and his mother knew not that it \[was\] of the <span class="smallcaps">Lord<small><small>[^7]</small></small></span>, that he sought an occasion against the Philistines: for at that time the Philistines had dominion<small><small>[^8]</small></small> over Israel. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Judg.14.5|5]]**<span class="endversemarker">]</span> [¶]Then went Samson down, and his father and his mother, to Timnath, and came to the vineyards of Timnath: and, behold, a young lion roared against him<small><small>[^9]</small></small>. <span class="startversemarker">[</span>**[[Judg.14.6|6]]**<span class="endversemarker">]</span> And the Spirit<small><small>[^10]</small></small> of the <span class="smallcaps">Lord</span> came mightily upon him, and he rent him<small><small>[^11]</small></small> as he would have rent a kid, and \[he had\] nothing in his hand: but he told<small><small>[^12]</small></small> not his father or his mother what he had done. <span class="startversemarker">[</span>**[[Judg.14.7|7]]**<span class="endversemarker">]</span> And he went down, and talked with the woman; and she pleased Samson well.
 
-***Samson’s Riddle*** ^bsb636
+<big><big>[[Judg.14.8 Samson’s Riddle|⥃]]</big></big>***Samson’s Riddle***
 
  
 

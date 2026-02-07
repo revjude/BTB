@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:47** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, days come, and I shall take vengeance upon the carvings of Babylon, and all  their land shall be made ashamed, all her slain shall fall in \[the\] midst of her. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, the days come, that I will do judgment upon the graven images of Babylon: and her whole land shall be confounded, and all her slain shall fall in the midst of her.
-<small><sub>**BSB:**</sub></small>
-Therefore, behold, the days are coming when I will punish the idols of Babylon. Her entire land will suffer shame, and all her slain will lie fallen within her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.46|<< Jeremiah 51:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.48|Jeremiah 51:48 >>]]</td></tr></table>
 
 | Translation | Greek |

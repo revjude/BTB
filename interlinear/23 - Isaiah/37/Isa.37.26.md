@@ -1,4 +1,4 @@
-**Isaiah 37:26** 
+**Isaiah 37:26**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou not heard long ago, [how] I have done it; [and] of ancient times, that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste defenced cities [into] ruinous heaps.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have you not heard? Long ago I ordained it; in days of old I planned it. Now I h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.25|<< Isaiah 37:25]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.27|Isaiah 37:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֽוֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have you heard  |**<big>&#8207;[[H8085G\|שָׁמַ֤עְתָּ]]&#8207; </big>**| sha.Ma'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 25:21** 
+**Exodus 25:21**<big><big>[[Exod.25.17 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Set the mercy seat atop the ark and put the Testimony that I will give you into 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.20|<< Exodus 25:20]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.22|Exodus 25:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַתָּ֧]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

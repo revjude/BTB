@@ -1,4 +1,4 @@
-**Joshua 7:13** 
+**Joshua 7:13**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the LORD God of Israel, [There is] an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Get up and consecrate the people, saying, ‘Consecrate yourselves for tomorrow,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.12|<< Joshua 7:12]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.14|Joshua 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|קֻ֚ם]]&#8207; </big>**| kum<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | consecrate  |**<big>&#8207;[[H6942G\|קַדֵּ֣שׁ]]&#8207; </big>**| ka.Desh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Galatians 3:24
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:24**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore the law was our schoolmaster [to bring us] unto Christ, that we might be justified by faith.
 <small><sub>**BSB:**</sub></small>
 So the law became our guardian to lead us to Christ, that we might be justified by faith.
 <small><sub>**Literal:**</sub></small>
 so that the Law trainer of us has become unto Christ, so that by faith we may be justified;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.23|<< Galatians 3:23]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.25|Galatians 3:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

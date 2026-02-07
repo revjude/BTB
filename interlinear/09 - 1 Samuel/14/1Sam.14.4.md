@@ -1,4 +1,4 @@
-**1 Samuel 14:4** 
+**1 Samuel 14:4**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And between the passages, by which Jonathan sought to go over unto the Philistines’ garrison, [there was] a sharp rock on the one side, and a sharp rock on the other side: and the name of the one [was] Bozez, and the name of the other Seneh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now there were cliffs on both sides of the pass that Jonathan intended to cross 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.3|<< 1 Samuel 14:3]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.5|1 Samuel 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] between  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0996H\|בֵ֣ין]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the passes  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H4569B\|מַּעְבְּר֗וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma'.be.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

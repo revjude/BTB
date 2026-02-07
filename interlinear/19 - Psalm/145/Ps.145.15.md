@@ -1,4 +1,4 @@
-**Psalms 145:15** 
+**Psalms 145:15**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eyes of all wait upon thee; and thou givest them their meat in due season.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The eyes of all look to You, and You give them their food in season.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.14|<< Psalms 145:14]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.16|Psalms 145:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] eyes of  |**<big>&#8207;[[H5869A\|עֵֽינֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ei.nei-<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כֹ֭ל]]&#8207; </big>**| khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

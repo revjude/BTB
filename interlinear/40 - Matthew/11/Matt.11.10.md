@@ -1,5 +1,5 @@
-**Matthew 11:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:10**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this is [he], of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
 <small><sub>**BSB:**</sub></small>
 This is the one about whom it is written: ‘Behold, I will send My messenger ahead of You, who will prepare Your way before You.’
@@ -10,7 +10,7 @@ For this for is [he] concerning whom it has been written: Behold I myself send t
 > $\quad$ referencing: [[LXX.Exod.23.20|Exod 23:20]] ☩ [[LXX.Mal.3.1|Mal 3:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For this |**<big>[[G3778\|οὗτός]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

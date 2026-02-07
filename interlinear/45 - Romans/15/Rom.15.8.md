@@ -1,12 +1,12 @@
-**Romans 15:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:8**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises [made] unto the fathers:
 <small><sub>**BSB:**</sub></small>
 For I tell you that Christ has become a servant of the circumcised on behalf of God’s truth, to confirm the promises made to the patriarchs,
 <small><sub>**Literal:**</sub></small>
 I say for Christ Jesus a servant to have become of [the] circumcision for [the] truth of God in order <the> to confirm the promises given to the fathers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.7|<< Romans 15:7]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.9|Romans 15:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for [^1] |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

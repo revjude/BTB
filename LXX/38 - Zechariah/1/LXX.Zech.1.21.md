@@ -1,10 +1,7 @@
 **LXX Zechariah 1:21** 
 <small><sub>**LXX:**</sub></small>
 And I said, What \[are\] these come to do? And he said to me, saying, These are the horns, the ones having scattered  Judah, and  they broke Israel, and not one of them lifted \[his\] head. And these are come forth  to sharpen them in their hands -- the four horns are nations lifting up \[their\] horn against the land of \[the\] <span class="smallcaps">lord</span>  to scatter it. 
-<small><sub>**KJV:**</sub></small>
-Then said I, What come these to do? And he spake, saying, These [are] the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up [their] horn over the land of Judah to scatter it.
-<small><sub>**BSB:**</sub></small>
-“What are these coming to do?” I asked. And He replied, “These are the horns that scattered Judah so that no one could raise his head; but the craftsmen have come to terrify them and throw down these horns of the nations that have lifted up their horns against the land of Judah to scatter it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.20|<< Zechariah 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.1|Zechariah 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

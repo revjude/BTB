@@ -1,4 +1,4 @@
-**Psalms 21:8** (21:9)
+**Psalms 21:8**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your hand will apprehend all Your enemies; Your right hand will seize those who 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.7|<< Psalms 21:7]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.9|Psalms 21:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will find  |**<big>&#8207;[[H4672\|תִּמְצָ֣א]]&#8207; </big>**| tim.Tza'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand your  |**<big>&#8207;[[H3027H\|יָ֭דְ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Ya.de.<small><sup>[[HNcbsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

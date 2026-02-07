@@ -1,4 +1,4 @@
-**Isaiah 43:25** 
+**Isaiah 43:25**<big><big>[[Isa.43.22 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I, [even] I, [am] he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I, yes I, am He who blots out your transgressions for My own sake and remembers 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.24|<< Isaiah 43:24]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.26|Isaiah 43:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֨י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֥י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 7:46** 
+**1 Kings 7:46**<big><big>[[1Kgs.7.40 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king had them cast in clay molds in the plain of the Jordan between Succoth 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.45|<< 1 Kings 7:45]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.47|1 Kings 7:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] valley of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3603H\|כִכַּ֤ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khi.Kar<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Jordan  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3383\|יַּרְדֵּן֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

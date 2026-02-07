@@ -1,4 +1,4 @@
-**Jeremiah 30:6** 
+**Jeremiah 30:6**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ask now, and see: Can a male give birth? Why then do I see every man with his ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.5|<< Jeremiah 30:5]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.7|Jeremiah 30:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ask  |**<big>&#8207;[[H7592\|שַׁאֲלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sha.'a.lu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

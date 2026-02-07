@@ -1,5 +1,5 @@
-**Revelation 16:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:4**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.
 <small><sub>**BSB:**</sub></small>
 And the third angel poured out his bowl into the rivers and springs of water, and they turned to blood.
@@ -10,7 +10,7 @@ And the third angel poured out the bowl of him into the rivers and into the spri
 > $\quad$ possibly alluding to: [[LXX.Exod.7.19|Exod 7:19-20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

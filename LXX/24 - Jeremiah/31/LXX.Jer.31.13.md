@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:13** 
 <small><sub>**LXX:**</sub></small>
 Then virgins shall rejoice in a gathering of young men; and old men shall rejoice. And I will turn  their mourning into joyfulness, and I will comfort them, and I will make them ones being glad. 
-<small><sub>**KJV:**</sub></small>
-Then shall the virgin rejoice in the dance, both young men and old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow.
-<small><sub>**BSB:**</sub></small>
-Then the maidens will rejoice with dancing, young men and old as well. I will turn their mourning into joy, and give them comfort and joy for their sorrow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.12|<< Jeremiah 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.14|Jeremiah 31:14 >>]]</td></tr></table>
 
 | Translation | Greek |

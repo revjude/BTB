@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:2** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the rulers, \[the\] ones who were \[with\] him -- Azariah son of Zadok the priest; 
-<small><sub>**KJV:**</sub></small>
-And these [were] the princes which he had; Azariah the son of Zadok the priest,
-<small><sub>**BSB:**</sub></small>
-and these were his chief officials: Azariah son of Zadok was the priest;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.1|<< 1 Kings 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.3|1 Kings 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

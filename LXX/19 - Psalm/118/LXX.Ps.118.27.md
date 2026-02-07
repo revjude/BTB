@@ -1,10 +1,7 @@
 **LXX Psalm 118:27** 
 <small><sub>**LXX:**</sub></small>
 God \[is the\] <span class="smallcaps">lord</span>, and he shined upon us. Stand together for a holiday with the ones making dense \[the victims\] unto the horns of the altar. 
-<small><sub>**KJV:**</sub></small>
-God [is] the LORD, which hath shewed us light: bind the sacrifice with cords, [even] unto the horns of the altar.
-<small><sub>**BSB:**</sub></small>
-The LORD is God; He has made His light to shine upon us. Bind the festal sacrifice with cords to the horns of the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.26|<< Psalm 118:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.28|Psalm 118:28 >>]]</td></tr></table>
 
 | Translation | Greek |

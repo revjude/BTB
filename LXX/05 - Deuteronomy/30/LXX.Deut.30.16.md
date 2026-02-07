@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:16** 
 <small><sub>**LXX:**</sub></small>
 But if you should hearken to the commandments of \[the\] <span class="smallcaps">lord</span>  your God, which I give charge to you today, to love \[the\] <span class="smallcaps">lord</span>  your God, to go in all  his ways, and to guard  his ordinances, and  his commandments, and  his judgments, then you shall live, and you will be populous, and \[the\] <span class="smallcaps">lord</span> your God will bless you in all the land into which you enter there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-In that I command thee this day to love the LORD thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the LORD thy God shall bless thee in the land whither thou goest to possess it.
-<small><sub>**BSB:**</sub></small>
-For I am commanding you today to love the LORD your God, to walk in His ways, and to keep His commandments, statutes, and ordinances, so that you may live and increase, and the LORD your God may bless you in the land that you are entering to possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.15|<< Deuteronomy 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.17|Deuteronomy 30:17 >>]]</td></tr></table>
 
 | Translation | Greek |

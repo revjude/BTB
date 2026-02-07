@@ -1,4 +1,4 @@
-**Job 5:26** 
+**Job 5:26**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt come to [thy] grave in a full age, like as a shock of corn cometh in in his season.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will come to the grave in full vigor, like a sheaf of grain gathered in seas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.25|<< Job 5:25]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.27|Job 5:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will go  |**<big>&#8207;[[H0935G\|תָּב֣וֹא]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in full strength  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3624\|כֶ֣לַח]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Khe.lach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

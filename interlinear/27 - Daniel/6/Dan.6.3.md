@@ -1,4 +1,4 @@
-**Daniel 6:3** (6:4)
+**Daniel 6:3**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then this Daniel was preferred above the presidents and princes, because an excellent spirit [was] in him; and the king thought to set him over the whole realm.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Soon, by his extraordinary spirit, Daniel distinguished himself among the admini
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.2|<< Daniel 6:2]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.4|Daniel 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֙יִן֙]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Daniel  |**<big>&#8207;[[H1841H\|דָּנִיֵּ֣אל]]&#8207; </big>**| da.ni.Yel<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

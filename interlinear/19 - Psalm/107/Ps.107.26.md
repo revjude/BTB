@@ -1,4 +1,4 @@
-**Psalms 107:26** 
+**Psalms 107:26**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They mount up to the heaven, they go down again to the depths: their soul is melted because of trouble.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They mounted up to the heavens, then sunk to the depths; their courage melted in
 > $\quad$ referenced by: [[Rom.10.7|Rom 10:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they went up  |**<big>&#8207;[[H5927K\|יַעֲל֣וּ]]&#8207; </big>**| ya.'a.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁ֭מַיִם]]&#8207; </big>**| Sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

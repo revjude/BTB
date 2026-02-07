@@ -1,4 +1,4 @@
-**Ezekiel 39:4** 
+**Ezekiel 39:4**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt fall upon the mountains of Israel, thou, and all thy bands, and the people that [is] with thee: I will give thee unto the ravenous birds of every sort, and [to] the beasts of the field to be devoured.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the mountains of Israel you will fall—you and all your troops and the natio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.3|<< Ezekiel 39:3]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.5|Ezekiel 39:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mountains of  |**<big>&#8207;[[H2022G\|הָרֵ֨י]]&#8207; </big>**| ha.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:27** 
 <small><sub>**LXX:**</sub></small>
 And the king of \[the\] Assyrians gave charge, saying, Lead away there one of the priests whom I resettled from Samaria! and let him go and let him dwell there! and he shall enlighten them on the distinguishing \[manner\] of the God of the land. 
-<small><sub>**KJV:**</sub></small>
-Then the king of Assyria commanded, saying, Carry thither one of the priests whom ye brought from thence; and let them go and dwell there, and let him teach them the manner of the God of the land.
-<small><sub>**BSB:**</sub></small>
-Then the king of Assyria commanded: “Send back one of the priests you carried off from Samaria, and have him go back to live there and teach the requirements of the God of the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.26|<< 2 Kings 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.28|2 Kings 17:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Timothy 1:6
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:6**<big><big>[[1Tim.1.3 Correcting False Teachers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 From which some having swerved have turned aside unto vain jangling;
 <small><sub>**BSB:**</sub></small>
 Some have strayed from these ways and turned aside to empty talk.
 <small><sub>**Literal:**</sub></small>
 from which some having missed the mark they have turned aside to meaningless discourse<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.5|<< 1 Timothy 1:5]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.7|1 Timothy 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from which |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | some |**<big>[[G5100\|τινες]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 28:22** 
 <small><sub>**LXX:**</sub></small>
 and  this stone which I set \[as a\] monument, will be to me a house of God. And all, what ever, you should give to me, I will tithe a tenth of it to you. 
-<small><sub>**KJV:**</sub></small>
-And this stone, which I have set [for] a pillar, shall be God’s house: and of all that thou shalt give me I will surely give the tenth unto thee.
-<small><sub>**BSB:**</sub></small>
-And this stone I have set up as a pillar will be God’s house, and of all that You give me I will surely give You a tenth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.21|<< Genesis 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.1|Genesis 29:1 >>]]</td></tr></table>
 
 | Translation | Greek |

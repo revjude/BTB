@@ -1,4 +1,4 @@
-**Esther 2:15** 
+**Esther 2:15**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, was come to go in unto the king, she required nothing but what Hegai the king’s chamberlain, the keeper of the women, appointed. And Esther obtained favour in the sight of all them that looked upon her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Esther was the daughter of Abihail, the uncle from whom Mordecai had adopted
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.14|<< Esther 2:14]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.16|Esther 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when arrived  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5060\|הַגִּ֣יעַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ha.Gi.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] turn of  |**<big>&#8207;[[H8447\|תֹּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tor-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

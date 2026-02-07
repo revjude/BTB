@@ -1,10 +1,7 @@
 **LXX Psalm 118:4** 
 <small><sub>**LXX:**</sub></small>
 Say indeed, all the ones fearing the <span class="smallcaps">lord</span>, that \[he is\] good, for into the eon \[is\] his mercy! 
-<small><sub>**KJV:**</sub></small>
-Let them now that fear the LORD say, that his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-Let those who fear the LORD say, “His loving devotion endures forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.3|<< Psalm 118:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.5|Psalm 118:5 >>]]</td></tr></table>
 
 | Translation | Greek |

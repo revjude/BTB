@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΙΩΘ</p>
 
 The one afflicting his hand spread forth upon all the desirable \[things\] of hers. For she saw nations entering into  her sanctuary -- the ones which I charged them not to enter into your assembly. 
-<small><sub>**KJV:**</sub></small>
-The adversary hath spread out his hand upon all her pleasant things: for she hath seen [that] the heathen entered into her sanctuary, whom thou didst command [that] they should not enter into thy congregation.
-<small><sub>**BSB:**</sub></small>
-The adversary has seized all her treasures. For she has seen the nations enter her sanctuary—those You had forbidden to enter Your assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.9|<< Lamentations 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.11|Lamentations 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Song of Solomon 8:6** 
+**Song of Solomon 8:6**<big><big>[[Song.8.6 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Set me as a seal upon thine heart, as a seal upon thine arm: for love [is] strong as death; jealousy [is] cruel as the grave: the coals thereof [are] coals of fire, [which hath] a most vehement flame.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Set me as a seal over your heart, as a seal upon your arm. For love is as strong
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.5|<< Song of Solomon 8:5]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.7|Song of Solomon 8:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | put me  |**<big>&#8207;[[H7760A\|שִׂימֵ֨]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| si.Me.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> seal  |**<big>&#8207;[[H9004\|כַֽ]]&#8207;&#8207;[[H2368\|חוֹתָ֜ם]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> cho.Tam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Proverbs 18:10** 
+**Proverbs 18:10**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The name of the LORD [is] a strong tower: the righteous runneth into it, and is safe.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The name of the LORD is a strong tower; the righteous run to it and are safe.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.9|<< Proverbs 18:9]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.11|Proverbs 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a tower of  |**<big>&#8207;[[H4026M\|מִגְדַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mig.dal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength  |**<big>&#8207;[[H5797\|עֹ֭ז]]&#8207; </big>**| 'oz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

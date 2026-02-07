@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 12:11** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when \[it was\] fit in the entering by the king into \[the\] house of \[the\] <span class="smallcaps">lord</span>, there went in also the bodyguards and they took the shields, and \[then\] restored them unto the place of the bodyguards. 
-<small><sub>**KJV:**</sub></small>
-And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber.
-<small><sub>**BSB:**</sub></small>
-And whenever the king entered the house of the LORD, the guards would go with him, bearing the shields, and later they would return them to the guardroom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.10|<< 2 Chronicles 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.12|2 Chronicles 12:12 >>]]</td></tr></table>
 
 | Translation | Greek |

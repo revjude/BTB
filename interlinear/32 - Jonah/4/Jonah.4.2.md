@@ -1,4 +1,4 @@
-**Jonah 4:2** 
+**Jonah 4:2**<big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he prayed unto the LORD, and said, I pray thee, O LORD, [was] not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou [art] a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So he prayed to the LORD, saying, “O LORD, is this not what I said while I was
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he prayed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6419\|יִּתְפַּלֵּ֨ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.pa.Lel<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

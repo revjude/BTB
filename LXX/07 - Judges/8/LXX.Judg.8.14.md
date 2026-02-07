@@ -1,10 +1,7 @@
 **LXX Judges 8:14** 
 <small><sub>**LXX:**</sub></small>
 And he seized a servant from the men of Succoth, and he questioned him; and he registered for him the rulers of Succoth, and  their elders -- seventy and seven men. 
-<small><sub>**KJV:**</sub></small>
-And caught a young man of the men of Succoth, and inquired of him: and he described unto him the princes of Succoth, and the elders thereof, [even] threescore and seventeen men.
-<small><sub>**BSB:**</sub></small>
-There he captured a young man of Succoth and interrogated him. The young man wrote down for him the names of the seventy-seven leaders and elders of Succoth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.13|<< Judges 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.15|Judges 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 27:34** 
+**Genesis 27:34**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, [even] me also, O my father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Esau heard his father’s words, he let out a loud and bitter cry and said 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.33|<< Genesis 27:33]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.35|Genesis 27:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when heard  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H8085G\|שְׁמֹ֤עַ]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esau  |**<big>&#8207;[[H6215G\|עֵשָׂו֙]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

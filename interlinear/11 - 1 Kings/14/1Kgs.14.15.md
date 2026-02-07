@@ -1,4 +1,4 @@
-**1 Kings 14:15** 
+**1 Kings 14:15**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD shall smite Israel, as a reed is shaken in the water, and he shall root up Israel out of this good land, which he gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the LORD to anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD will strike Israel as a reed is shaken in the water. He will uproot
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.14|<< 1 Kings 14:14]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.16|1 Kings 14:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will strike down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5221\|הִכָּ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Kah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

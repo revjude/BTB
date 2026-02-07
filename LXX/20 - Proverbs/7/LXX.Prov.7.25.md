@@ -1,10 +1,7 @@
 **LXX Proverbs 7:25** 
 <small><sub>**LXX:**</sub></small>
 Do not turn aside to  her ways \[with\] your heart! and you should not be misled by her short-cuts. 
-<small><sub>**KJV:**</sub></small>
-Let not thine heart decline to her ways, go not astray in her paths.
-<small><sub>**BSB:**</sub></small>
-Do not let your heart turn aside to her ways; do not stray into her paths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.24|<< Proverbs 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.26|Proverbs 7:26 >>]]</td></tr></table>
 
 | Translation | Greek |

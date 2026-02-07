@@ -1,10 +1,7 @@
 **LXX Genesis 24:51** 
 <small><sub>**LXX:**</sub></small>
 Behold, Rebekah \[is\] before you, in taking \[her\], run! and let her be wife to the son  of your master! as \[the\] <span class="smallcaps">lord</span> spoke. 
-<small><sub>**KJV:**</sub></small>
-Behold, Rebekah [is] before thee, take [her], and go, and let her be thy master’s son’s wife, as the LORD hath spoken.
-<small><sub>**BSB:**</sub></small>
-Rebekah is here before you. Take her and go, and let her become the wife of your master’s son, just as the LORD has decreed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.50|<< Genesis 24:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.52|Genesis 24:52 >>]]</td></tr></table>
 
 | Translation | Greek |

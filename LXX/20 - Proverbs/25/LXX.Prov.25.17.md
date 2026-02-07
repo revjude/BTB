@@ -1,10 +1,7 @@
 **LXX Proverbs 25:17** 
 <small><sub>**LXX:**</sub></small>
 Sparingly bring your foot to your own friend! lest at any time he be filled of you, and should detest you. 
-<small><sub>**KJV:**</sub></small>
-Withdraw thy foot from thy neighbour’s house; lest he be weary of thee, and [so] hate thee.
-<small><sub>**BSB:**</sub></small>
-Seldom set foot in your neighbor’s house, lest he grow weary and hate you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.16|<< Proverbs 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.18|Proverbs 25:18 >>]]</td></tr></table>
 
 | Translation | Greek |

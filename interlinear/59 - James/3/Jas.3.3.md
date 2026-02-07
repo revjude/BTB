@@ -1,12 +1,12 @@
-**James 3:3
-**<small><sub>**KJV:**</sub></small>
+**James 3:3**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, we put bits in the horses’ mouths, that they may obey us; and we turn about their whole body.
 <small><sub>**BSB:**</sub></small>
 When we put bits into the mouths of horses to make them obey us, we can guide the whole animal.
 <small><sub>**Literal:**</sub></small>
 If now of the horses <the> bits into the mouths we put for <the> to obey them us, even all the body of them we turn about.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.2|<< James 3:2]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.4|James 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If [^1] |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
 | now [^2] [^3] [^4] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)(o)</abbr> | |

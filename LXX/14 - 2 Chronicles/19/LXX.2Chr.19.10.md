@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 19:10** 
 <small><sub>**LXX:**</sub></small>
 Every man \[with\] a judgment  coming unto you  of your brethren  dwelling in  their cities, \[whether\] between blood for blood, and between the order and commandment, and for ordinances and judgments, that you shall warn them, that they shall not sin against the <span class="smallcaps">lord</span>, that there will not be anger against you, and against  your brethren -- thus you shall do, and you shall not sin. 
-<small><sub>**KJV:**</sub></small>
-And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and [so] wrath come upon you, and upon your brethren: this do, and ye shall not trespass.
-<small><sub>**BSB:**</sub></small>
-For every dispute that comes before you from your brothers who dwell in their cities—whether it regards bloodshed or some other violation of law, commandments, statutes, or ordinances—you are to warn them, so that they will not incur guilt before the LORD and wrath will not come upon you and your brothers. Do this, and you will not incur guilt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.9|<< 2 Chronicles 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.11|2 Chronicles 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

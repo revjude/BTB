@@ -1,10 +1,7 @@
 **LXX Psalm 107:25** 
 <small><sub>**LXX:**</sub></small>
 He spoke, and \[the\] gale wind is established, and its waves are raised up high. 
-<small><sub>**KJV:**</sub></small>
-For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.
-<small><sub>**BSB:**</sub></small>
-For He spoke and raised a tempest that lifted the waves of the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.24|<< Psalm 107:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.26|Psalm 107:26 >>]]</td></tr></table>
 
 | Translation | Greek |

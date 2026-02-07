@@ -1,4 +1,4 @@
-**Song of Solomon 4:7** 
+**Song of Solomon 4:7**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] all fair, my love; [there is] no spot in thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are altogether beautiful, my darling; in you there is no flaw.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.6|<< Song of Solomon 4:6]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.8|Song of Solomon 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of you  |**<big>&#8207;[[H3605\|כֻּלָּ֤]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] beautiful  |**<big>&#8207;[[H3303\|יָפָה֙]]&#8207; </big>**| ya.Fah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 35:34** 
+**Numbers 35:34**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the LORD dwell among the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not defile the land where you live and where I dwell. For I, the LORD, dwell 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.33|<< Numbers 35:33]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.1|Numbers 36:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֧א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will make unclean  |**<big>&#8207;[[H2930A\|תְטַמֵּ֣א]]&#8207; </big>**| te.ta.Me'<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

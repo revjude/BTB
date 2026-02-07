@@ -1,12 +1,12 @@
-**John 18:9
-**<small><sub>**KJV:**</sub></small>
+**John 18:9**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the saying might be fulfilled, which he spake, Of them which thou gavest me have I lost none.
 <small><sub>**BSB:**</sub></small>
 This was to fulfill the word He had spoken: “I have not lost one of those You have given Me.”
 <small><sub>**Literal:**</sub></small>
 so that may be fulfilled the word that He had spoken that Those whom You have given Me not I lost of them not [one].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.8|<< John 18:8]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.10|John 18:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may be fulfilled |**<big>[[G4137\|πληρωθῇ]]</big>**  |plērōthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

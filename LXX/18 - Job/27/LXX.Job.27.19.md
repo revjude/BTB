@@ -1,10 +1,7 @@
 **LXX Job 27:19** 
 <small><sub>**LXX:**</sub></small>
 \[The\] rich \[man\] shall sleep, and shall not proceed; his eyes are opened wide, and he is no \[longer\]. 
-<small><sub>**KJV:**</sub></small>
-The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he [is] not.
-<small><sub>**BSB:**</sub></small>
-He lies down wealthy, but will do so no more; when he opens his eyes, all is gone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.18|<< Job 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.20|Job 27:20 >>]]</td></tr></table>
 
 | Translation | Greek |

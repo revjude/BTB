@@ -1,10 +1,7 @@
 **LXX Exodus 9:28** 
 <small><sub>**LXX:**</sub></small>
 Make a vow then to \[the\] <span class="smallcaps">lord</span>, and \[the\] sounds of God cease to happen, and \[the\] hail and fire! And I will send you out, and no longer will I insist \[for you\] to remain. 
-<small><sub>**KJV:**</sub></small>
-Intreat the LORD (for [it is] enough) that there be no [more] mighty thunderings and hail; and I will let you go, and ye shall stay no longer.
-<small><sub>**BSB:**</sub></small>
-Pray to the LORD, for there has been enough of God’s thunder and hail. I will let you go; you do not need to stay any longer.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.27|<< Exodus 9:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.29|Exodus 9:29 >>]]</td></tr></table>
 
 | Translation | Greek |

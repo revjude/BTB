@@ -1,12 +1,12 @@
-**John 6:64
-**<small><sub>**KJV:**</sub></small>
+**John 6:64**<big><big>[[John.6.59 Many Disciples Turn Back|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.
 <small><sub>**BSB:**</sub></small>
 However, there are some of you who do not believe.” (For Jesus had known from the beginning which of them did not believe and who would betray Him.)
 <small><sub>**Literal:**</sub></small>
 But they are of you some who not believe. Knew for from [the] beginning <the> Jesus who are those not believing and who it is who will betray Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.63|<< John 6:63]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.65|John 6:65 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they are |**<big>[[G1510\|εἰσὶν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

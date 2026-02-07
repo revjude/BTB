@@ -1,4 +1,4 @@
-**Ecclesiastes 8:4** 
+**Ecclesiastes 8:4**<big><big>[[Eccl.8.1 Obey the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where the word of a king [is, there is] power: and who may say unto him, What doest thou?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the king’s word is supreme, and who can say to him, “What are you doing?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.3|<< Ecclesiastes 8:3]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.5|Ecclesiastes 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in that  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H0834B\|אֲשֶׁ֥ר]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a word of  |**<big>&#8207;[[H1697G\|דְּבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 89:36** 
 <small><sub>**LXX:**</sub></small>
  His seed shall abide into the eon, and  his throne as the sun before me; 
-<small><sub>**KJV:**</sub></small>
-His seed shall endure for ever, and his throne as the sun before me.
-<small><sub>**BSB:**</sub></small>
-his offspring shall endure forever, and his throne before Me like the sun,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.35|<< Psalm 89:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.37|Psalm 89:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 89:36** is...

@@ -1,10 +1,7 @@
 **LXX Numbers 11:8** 
 <small><sub>**LXX:**</sub></small>
 And the people traveled around and collected together, and ground it with the millstone, and ground with the hand mill, and boiled it in the earthen pot, and made it into a cake baked in hot ashes. And the satisfaction from \[eating\] it was as \[the\] taste of pastry \[made with\] olive oil. 
-<small><sub>**KJV:**</sub></small>
-[And] the people went about, and gathered [it], and ground [it] in mills, or beat [it] in a mortar, and baked [it] in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
-<small><sub>**BSB:**</sub></small>
-The people walked around and gathered it, ground it on a handmill or crushed it in a mortar, then boiled it in a cooking pot or shaped it into cakes. It tasted like pastry baked with fine oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.7|<< Numbers 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.9|Numbers 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:19** 
 <small><sub>**LXX:**</sub></small>
 And indeed Judah did not guard the commandments of \[the\] <span class="smallcaps">lord</span>  his God, and they went by the ordinances of Israel, which they did, and they thrusted away the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Also Judah kept not the commandments of the LORD their God, but walked in the statutes of Israel which they made.
-<small><sub>**BSB:**</sub></small>
-and even Judah did not keep the commandments of the LORD their God, but lived according to the customs Israel had introduced.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.18|<< 2 Kings 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.20|2 Kings 17:20 >>]]</td></tr></table>
 
 | Translation | Greek |

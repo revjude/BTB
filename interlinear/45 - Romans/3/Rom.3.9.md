@@ -1,12 +1,12 @@
-**Romans 3:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:9**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What then? are we better [than they]? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;
 <small><sub>**BSB:**</sub></small>
 What then? Are we any better? Not at all. For we have already made the charge that Jews and Greeks alike are all under sin.
 <small><sub>**Literal:**</sub></small>
 What then? Are we better? Not at all; We have already charged for Jews both and Greeks all under sin to be<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.8|<< Romans 3:8]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.10|Romans 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then? |**<big>[[G3767\|οὖν;]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

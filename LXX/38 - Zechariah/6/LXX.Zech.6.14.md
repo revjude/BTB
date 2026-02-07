@@ -1,10 +1,7 @@
 **LXX Zechariah 6:14** 
 <small><sub>**LXX:**</sub></small>
 But the crown will be to the ones waiting, and to the ones profitable of her, and to the ones recognizing her, and for \[the\] favor of \[the\] son of Zephaniah, and for a psalm in \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the temple of the LORD.
-<small><sub>**BSB:**</sub></small>
-The crown will reside in the temple of the LORD as a memorial to Helem, Tobijah, Jedaiah, and the gracious son of Zephaniah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.13|<< Zechariah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.15|Zechariah 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

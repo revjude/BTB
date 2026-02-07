@@ -1,12 +1,12 @@
-**John 4:54
-**<small><sub>**KJV:**</sub></small>
+**John 4:54**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This [is] again the second miracle [that] Jesus did, when he was come out of Judaea into Galilee.
 <small><sub>**BSB:**</sub></small>
 This was now the second sign that Jesus performed after coming from Judea into Galilee.
 <small><sub>**Literal:**</sub></small>
 This [is] now again [the] second sign did <the> Jesus having come out of <the> Judea into <the> Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.53|<< John 4:53]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.1|John 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This [is] |**<big>[[G3778\|Τοῦτο]]</big>**  |Touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

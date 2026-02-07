@@ -1,10 +1,7 @@
 **LXX Numbers 19:9** 
 <small><sub>**LXX:**</sub></small>
 And a clean man shall gather together the ashes of the heifer, and shall put \[them\] aside outside the camp in a clean place. And it shall be for the congregation of \[the\] sons of Israel for preservation. It is a purification water of sprinkling. 
-<small><sub>**KJV:**</sub></small>
-And a man [that is] clean shall gather up the ashes of the heifer, and lay [them] up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it [is] a purification for sin.
-<small><sub>**BSB:**</sub></small>
-Then a man who is ceremonially clean is to gather up the ashes of the heifer and store them in a ceremonially clean place outside the camp. They must be kept by the congregation of Israel for preparing the water of purification; this is for purification from sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.8|<< Numbers 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.10|Numbers 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

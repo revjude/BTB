@@ -1,4 +1,4 @@
-**2 Kings 24:1** 
+**2 Kings 24:1**<big><big>[[2Kgs.24.1 Babylon Controls Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During Jehoiakim’s reign, Nebuchadnezzar king of Babylon invaded. So Jehoiakim
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.37|<< 2 Kings 23:37]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.2|2 Kings 24:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in days his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יָמָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he came up  |**<big>&#8207;[[H5927G\|עָלָ֔ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

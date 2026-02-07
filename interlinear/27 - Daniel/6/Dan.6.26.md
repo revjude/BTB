@@ -1,4 +1,4 @@
-**Daniel 6:26** (6:27)
+**Daniel 6:26**<big><big>[[Dan.6.25 Darius Honors God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he [is] the living God, and stedfast for ever, and his kingdom [that] which shall not be destroyed, and his dominion [shall be even] unto the end.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I hereby decree that in every part of my kingdom, men are to tremble in fear bef
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.25|<< Daniel 6:25]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.27|Daniel 6:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from  |**<big>&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | before me  |**<big>&#8207;[[H6925\|קֳדָמַ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| ko.da.Ma<small><sup>[[ANcbpc]]</sup></small> i<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

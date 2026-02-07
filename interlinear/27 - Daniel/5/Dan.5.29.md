@@ -1,4 +1,4 @@
-**Daniel 5:29** 
+**Daniel 5:29**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then commanded Belshazzar, and they clothed Daniel with scarlet, and [put] a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Belshazzar gave the command, and they clothed Daniel in purple, placed a go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.28|<< Daniel 5:28]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.30|Daniel 5:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֣יִן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0560\|אֲמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

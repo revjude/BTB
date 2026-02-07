@@ -1,4 +1,4 @@
-**Ecclesiastes 11:1** 
+**Ecclesiastes 11:1**<big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cast thy bread upon the waters: for thou shalt find it after many days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cast your bread upon the waters, for after many days you will find it again.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.20|<< Ecclesiastes 10:20]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.2|Ecclesiastes 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | send  |**<big>&#8207;[[H7971G\|שַׁלַּ֥ח]]&#8207; </big>**| sha.Lach<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bread your  |**<big>&#8207;[[H3899H\|לַחְמְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| lach.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

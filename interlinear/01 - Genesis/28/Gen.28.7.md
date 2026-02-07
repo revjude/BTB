@@ -1,4 +1,4 @@
-**Genesis 28:7** 
+**Genesis 28:7**<big><big>[[Gen.28.6 Esau Marries Mahalath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that Jacob obeyed his father and his mother, and was gone to Padanaram;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and that Jacob had obeyed his father and mother and gone to Paddan-aram.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.6|<< Genesis 28:6]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.8|Genesis 28:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had listened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085H\|יִּשְׁמַ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֔ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

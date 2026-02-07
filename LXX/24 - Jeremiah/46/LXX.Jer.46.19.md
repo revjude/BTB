@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:19** 
 <small><sub>**LXX:**</sub></small>
 Make for yourself items for settlement, O one dwelling, O daughter of Egypt. For Memphis will be for extinction, and shall be called, Woe, by there not existing ones dwelling in her. 
-<small><sub>**KJV:**</sub></small>
-O thou daughter dwelling in Egypt, furnish thyself to go into captivity: for Noph shall be waste and desolate without an inhabitant.
-<small><sub>**BSB:**</sub></small>
-Pack your bags for exile, O daughter dwelling in Egypt! For Memphis will be laid waste, destroyed and uninhabited.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.18|<< Jeremiah 46:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.20|Jeremiah 46:20 >>]]</td></tr></table>
 
 | Translation | Greek |

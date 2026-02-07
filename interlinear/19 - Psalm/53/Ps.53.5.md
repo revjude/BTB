@@ -1,4 +1,4 @@
-**Psalms 53:5** (53:6)
+**Psalms 53:5**<big><big>[[Ps.53.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There were they in great fear, [where] no fear was: for God hath scattered the bones of him that encampeth [against] thee: thou hast put [them] to shame, because God hath despised them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There they are, overwhelmed with dread, where there was nothing to fear. For God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.53.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.4|<< Psalms 53:4]]</td><td align="center" style="border:none;">[[Ps.53|Psalms 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53.6|Psalms 53:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֤ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they feared  |**<big>&#8207;[[H6342\|פָּֽחֲדוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pa.cha.du-<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

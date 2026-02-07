@@ -1,12 +1,12 @@
-**Matthew 10:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:22**<big><big>[[Matt.10.16 Sheep among Wolves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye shall be hated of all [men] for my name’s sake: but he that endureth to the end shall be saved.
 <small><sub>**BSB:**</sub></small>
 You will be hated by everyone because of My name, but the one who perseveres to the end will be saved.
 <small><sub>**Literal:**</sub></small>
 And you will be hated by all on account of the name of Me; the [one] however having endured to [the] end, he will be saved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.21|<< Matthew 10:21]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.23|Matthew 10:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you will be |**<big>[[G1510\|ἔσεσθε]]</big>**  |esesthe <small><sup>[[V-FDI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

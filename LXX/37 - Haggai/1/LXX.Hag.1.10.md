@@ -1,10 +1,7 @@
 **LXX Haggai 1:10** 
 <small><sub>**LXX:**</sub></small>
 On account of this the heaven withholds of dew, and the earth keeps back  its resources. 
-<small><sub>**KJV:**</sub></small>
-Therefore the heaven over you is stayed from dew, and the earth is stayed [from] her fruit.
-<small><sub>**BSB:**</sub></small>
-Therefore, on account of you the heavens have withheld their dew and the earth has withheld its crops.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.9|<< Haggai 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.11|Haggai 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

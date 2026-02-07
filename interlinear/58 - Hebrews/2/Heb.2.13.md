@@ -1,5 +1,5 @@
-**Hebrews 2:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:13**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again, I will put my trust in him. And again, Behold I and the children which God hath given me.
 <small><sub>**BSB:**</sub></small>
 And again: “I will put My trust in Him.” And once again: “Here am I, and the children God has given Me.”
@@ -10,7 +10,7 @@ And again: I myself will be already trusting in Him. And again: Behold I myself 
 > $\quad$ referencing: [[LXX.Ps.18.2|Ps 18:2]] ☩ [[LXX.Isa.8.17|Isa 8:17-18]] ☩ [[LXX.Isa.12.2|Isa 12:2]] ☩ [[LXX.2Sam.22.2|2Sam 22:2-3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again: |**<big>[[G3825\|πάλιν·]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 10:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:19**<big><big>[[Matt.10.16 Sheep among Wolves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak.
 <small><sub>**BSB:**</sub></small>
 But when they hand you over, do not worry about how to respond or what to say. In that hour you will be given what to say.
 <small><sub>**Literal:**</sub></small>
 When then they may deliver up you, not may be anxious how or what you may speak; it will be given for you in that [very] <the> hour what you may say;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.18|<< Matthew 10:18]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.20|Matthew 10:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

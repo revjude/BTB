@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:2** 
 <small><sub>**LXX:**</sub></small>
 Son of man, prophesy against the prophets  of Israel, the ones prophesying! And you shall speak to the prophets, to the ones prophesying from their \[own\] heart. And you shall prophesy, and shall say to them, Hear \[the\] word of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Son of man, prophesy against the prophets of Israel that prophesy, and say thou unto them that prophesy out of their own hearts, Hear ye the word of the LORD;
-<small><sub>**BSB:**</sub></small>
-“Son of man, prophesy against the prophets of Israel who are now prophesying. Tell those who prophesy out of their own imagination: Hear the word of the LORD!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.1|<< Ezekiel 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.3|Ezekiel 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

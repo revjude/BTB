@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:23** 
 <small><sub>**LXX:**</sub></small>
 And the messenger said to David that, The men strengthened against us, and came forth against us into the field, and we came unto them unto the door of the gate. 
-<small><sub>**KJV:**</sub></small>
-And the messenger said unto David, Surely the men prevailed against us, and came out unto us into the field, and we were upon them even unto the entering of the gate.
-<small><sub>**BSB:**</sub></small>
-The messenger said to David, “The men overpowered us and came out against us in the field, but we drove them back to the entrance of the gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.22|<< 2 Samuel 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.24|2 Samuel 11:24 >>]]</td></tr></table>
 
 | Translation | Greek |

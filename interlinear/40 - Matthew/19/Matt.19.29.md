@@ -1,12 +1,12 @@
-**Matthew 19:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:29**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life.
 <small><sub>**BSB:**</sub></small>
 And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for the sake of My name will receive a hundredfold and will inherit eternal life.
 <small><sub>**Literal:**</sub></small>
 And everyone who has left houses or brothers or sisters or father or mother or wife or children or lands for the sake of <the> name of Me a hundredfold will receive and life eternal will inherit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.28|<< Matthew 19:28]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.30|Matthew 19:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

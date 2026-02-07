@@ -1,10 +1,7 @@
 **LXX Numbers 6:20** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall offer them as an increase \[offering\] before \[the\] <span class="smallcaps">lord</span>; it shall be a holy \[portion\] to the priest beside the breast of the increase \[offering\], and beside the shoulder of the cut-away portion \[offering\]. And after this the one making a vow shall drink wine. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall wave them [for] a wave offering before the LORD: this [is] holy for the priest, with the wave breast and heave shoulder: and after that the Nazarite may drink wine.
-<small><sub>**BSB:**</sub></small>
-The priest shall then wave them as a wave offering before the LORD. This is a holy portion for the priest, in addition to the breast of the wave offering and the thigh that was presented. After that, the Nazirite may drink wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.19|<< Numbers 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.21|Numbers 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

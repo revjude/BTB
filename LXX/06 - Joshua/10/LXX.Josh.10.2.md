@@ -1,10 +1,7 @@
 **LXX Joshua 10:2** 
 <small><sub>**LXX:**</sub></small>
 that they feared among themselves exceedingly. For he knew that  Gibeon was a great city, as also one of the mother-cities of the kings, for it \[was\] great, over  Ai, and all  its men \[were\] strong. 
-<small><sub>**KJV:**</sub></small>
-That they feared greatly, because Gibeon [was] a great city, as one of the royal cities, and because it [was] greater than Ai, and all the men thereof [were] mighty.
-<small><sub>**BSB:**</sub></small>
-So Adoni-zedek and his people were greatly alarmed, because Gibeon was a great city, like one of the royal cities; it was larger than Ai, and all its men were mighty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.1|<< Joshua 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.3|Joshua 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 8:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:2**<big><big>[[Luke.8.1 Women Minister to Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,
 <small><sub>**BSB:**</sub></small>
 as well as some women who had been healed of evil spirits and infirmities: Mary called Magdalene, from whom seven demons had gone out,
 <small><sub>**Literal:**</sub></small>
 and women certain who were cured from spirits evil and infirmities, Mary who is called Magdalene from whom demons seven had gone out,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.1|<< Luke 8:1]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.3|Luke 8:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | women |**<big>[[G1135G\|γυναῖκές]]</big>**  |gunaikes <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

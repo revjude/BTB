@@ -1,10 +1,7 @@
 **LXX Daniel 8:27** 
 <small><sub>**LXX:**</sub></small>
 And I Daniel went to bed, and I was infirm for days. And I rose up and I did the works of the king; and I wondered at the vision, and there was no one  perceiving. 
-<small><sub>**KJV:**</sub></small>
-And I Daniel fainted, and was sick [certain] days; afterward I rose up, and did the king’s business; and I was astonished at the vision, but none understood [it].
-<small><sub>**BSB:**</sub></small>
-I, Daniel, was exhausted and lay ill for days. Then I got up and went about the king’s business. I was confounded by the vision; it was beyond understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.26|<< Daniel 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.1|Daniel 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

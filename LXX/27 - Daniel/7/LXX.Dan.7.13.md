@@ -1,10 +1,7 @@
 **LXX Daniel 7:13** 
 <small><sub>**LXX:**</sub></small>
 I viewed in a vision of the night, and behold, with the clouds of the heaven, and \[one\] as son of man was coming. And he came unto the old one of days, and he was brought before him. 
-<small><sub>**KJV:**</sub></small>
-I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
-<small><sub>**BSB:**</sub></small>
-In my vision in the night I continued to watch, and I saw One like the Son of Man coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.12|<< Daniel 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.14|Daniel 7:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:13** is...

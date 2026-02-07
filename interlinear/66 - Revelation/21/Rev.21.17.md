@@ -1,12 +1,12 @@
-**Revelation 21:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:17**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he measured the wall thereof, an hundred [and] forty [and] four cubits, [according to] the measure of a man, that is, of the angel.
 <small><sub>**BSB:**</sub></small>
 And he measured its wall to be 144 cubits, by the human measure the angel was using.
 <small><sub>**Literal:**</sub></small>
 And he measured the wall of it one hundred forty four cubits, [the] measure of man that is of the angel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.16|<< Revelation 21:16]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.18|Revelation 21:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he measured |**<big>[[G3354\|ἐμέτρησεν]]</big>**  |emetrēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

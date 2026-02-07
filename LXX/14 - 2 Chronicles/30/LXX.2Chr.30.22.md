@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:22** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah spoke unto \[the\] heart of all of the Levites, and of the ones perceiving with good understanding in the <span class="smallcaps">lord</span>. And they completed the holiday of the unleavened \[breads\] in seven days, sacrificing a sacrifice of deliverance, and making acknowledgment \[to the\] <span class="smallcaps">lord</span>  God  of their fathers. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers.
-<small><sub>**BSB:**</sub></small>
-And Hezekiah encouraged all the Levites who performed skillfully before the LORD. For seven days they ate their assigned portion, sacrificing peace offerings and giving thanks to the LORD, the God of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.21|<< 2 Chronicles 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.23|2 Chronicles 30:23 >>]]</td></tr></table>
 
 | Translation | Greek |

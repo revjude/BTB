@@ -1,12 +1,12 @@
-**Mark 7:29
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:29**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto her, For this saying go thy way; the devil is gone out of thy daughter.
 <small><sub>**BSB:**</sub></small>
 Then Jesus told her, “Because of this answer, you may go. The demon has left your daughter.”
 <small><sub>**Literal:**</sub></small>
 And He said to her; Because of this <the> word do go, has gone forth out of the daughter of you the demon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.28|<< Mark 7:28]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.30|Mark 7:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

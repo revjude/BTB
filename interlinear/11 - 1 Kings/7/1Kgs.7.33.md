@@ -1,4 +1,4 @@
-**1 Kings 7:33** 
+**1 Kings 7:33**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the work of the wheels [was] like the work of a chariot wheel: their axletrees, and their naves, and their felloes, and their spokes, [were] all molten.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wheels were made like chariot wheels; their axles, rims, spokes, and hubs we
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.32|<< 1 Kings 7:32]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.34|1 Kings 7:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] work of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4639G\|מַֽעֲשֵׂה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wheels  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0212\|א֣וֹפַנִּ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

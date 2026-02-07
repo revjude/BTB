@@ -1,12 +1,12 @@
-**1 Corinthians 11:27
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:27**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore whosoever shall eat this bread, and drink [this] cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord.
 <small><sub>**BSB:**</sub></small>
 Therefore, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord.
 <small><sub>**Literal:**</sub></small>
 Therefore who[ever] maybe may eat <the> bread this or may drink the cup of the Lord unworthily of the - Lord guilty will be of the body and of the blood of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.26|<< 1 Corinthians 11:26]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.28|1 Corinthians 11:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G5620\|Ὥστε]]</big>**  |Hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Micah 7:14** 
 <small><sub>**LXX:**</sub></small>
 Tend your people with your rod, \[the\] sheep of your inheritance, \[the\] ones encamping by themselves in a forest, in \[the\] midst  of Carmel! They shall feed  Bashan, and  Gilead, according to the days of the eon. 
-<small><sub>**KJV:**</sub></small>
-Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily [in] the wood, in the midst of Carmel: let them feed [in] Bashan and Gilead, as in the days of old.
-<small><sub>**BSB:**</sub></small>
-Shepherd with Your staff Your people, the flock of Your inheritance. They live alone in a woodland, surrounded by pastures. Let them graze in Bashan and Gilead, as in the days of old.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.13|<< Micah 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.15|Micah 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

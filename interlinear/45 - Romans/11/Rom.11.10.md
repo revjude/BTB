@@ -1,5 +1,5 @@
-**Romans 11:10
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:10**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let their eyes be darkened, that they may not see, and bow down their back alway.
 <small><sub>**BSB:**</sub></small>
 May their eyes be darkened so they cannot see, and their backs be bent forever.”
@@ -10,7 +10,7 @@ should be darkened the eyes of them <the> not to see, and the backs of them for 
 > $\quad$ referencing: [[LXX.Ps.69.22|Ps 69:22-23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | should be darkened |**<big>[[G4654\|σκοτισθήτωσαν]]</big>**  |skotisthētōsan <small><sup>[[V-APM-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

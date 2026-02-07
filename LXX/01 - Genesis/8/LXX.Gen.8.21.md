@@ -1,10 +1,7 @@
 **LXX Genesis 8:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> smelled \[the\] scent of pleasant aroma. And \[the\] <span class="smallcaps">lord</span> God said, \[In\] considering, I will not add yet to curse the earth on account of the works  of men, for the thought of man clings upon the wicked \[things\] from his youth. I will not add then still to strike all living flesh as I did. 
-<small><sub>**KJV:**</sub></small>
-And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done.
-<small><sub>**BSB:**</sub></small>
-When the LORD smelled the pleasing aroma, He said in His heart, “Never again will I curse the ground because of man, even though every inclination of his heart is evil from his youth. And never again will I destroy all living creatures as I have done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.20|<< Genesis 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.22|Genesis 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

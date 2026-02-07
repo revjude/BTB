@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  that time Merodach Baladan the son of Baladan the king of Babylonia sent letters, and ambassadors, and gifts to Hezekiah; for he heard that he was infirm unto death, and was raised up. 
-<small><sub>**KJV:**</sub></small>
-At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered.
-<small><sub>**BSB:**</sub></small>
-At that time Merodach-baladan son of Baladan king of Babylon sent letters and a gift to Hezekiah, for he had heard about Hezekiah’s illness and recovery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.39.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.22|<< Isaiah 38:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.2|Isaiah 39:2 >>]]</td></tr></table>
 
 | Translation | Greek |

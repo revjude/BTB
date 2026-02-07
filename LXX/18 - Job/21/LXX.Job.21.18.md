@@ -1,10 +1,7 @@
 **LXX Job 21:18** 
 <small><sub>**LXX:**</sub></small>
 And they will be as straw before \[the\] wind, or as a cloud of dust which \[the\] tempest took up. 
-<small><sub>**KJV:**</sub></small>
-They are as stubble before the wind, and as chaff that the storm carrieth away.
-<small><sub>**BSB:**</sub></small>
-Are they like straw before the wind, like chaff swept away by a storm?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.17|<< Job 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.19|Job 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

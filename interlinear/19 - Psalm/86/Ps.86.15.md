@@ -1,4 +1,4 @@
-**Psalms 86:15** 
+**Psalms 86:15**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou, O Lord, [art] a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But You, O Lord, are a compassionate and gracious God, slow to anger, abounding 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.14|<< Psalms 86:14]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.16|Psalms 86:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lord  |**<big>&#8207;[[H0136\|אֲ֭דֹנָי]]&#8207; </big>**| 'A.do.nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

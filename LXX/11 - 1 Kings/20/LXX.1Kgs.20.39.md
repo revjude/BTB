@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:39** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the king came near, that he yelled out to the king. And he said,  Your servant went forth with the military  for war, and behold, a man brought to me \[another\] man, and he said to me, Guard this  man! And if by rushing away he should rush away, then your life will be \[required\] for  his life, or a talent of silver you establish \[for it\]. 
-<small><sub>**KJV:**</sub></small>
-And as the king passed by, he cried unto the king: and he said, Thy servant went out into the midst of the battle; and, behold, a man turned aside, and brought a man unto me, and said, Keep this man: if by any means he be missing, then shall thy life be for his life, or else thou shalt pay a talent of silver.
-<small><sub>**BSB:**</sub></small>
-As the king passed by, he cried out to the king: “Your servant had marched out into the middle of the battle, when suddenly a man came over with a captive and told me, ‘Guard this man! If he goes missing for any reason, your life will be exchanged for his life, or you will weigh out a talent of silver.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.38|<< 1 Kings 20:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.40|1 Kings 20:40 >>]]</td></tr></table>
 
 | Translation | Greek |

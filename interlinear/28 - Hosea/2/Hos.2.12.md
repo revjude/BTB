@@ -1,4 +1,4 @@
-**Hosea 2:12** (2:14)
+**Hosea 2:12**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will destroy her vines and her fig trees, whereof she hath said, These [are] my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will destroy her vines and fig trees, which she thinks are the wages paid by h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.11|<< Hosea 2:11]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.13|Hosea 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will devastate  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8074G\|הֲשִׁמֹּתִ֗י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.shi.mo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vine[s] her  |**<big>&#8207;[[H1612\|גַּפְנָ]]&#8207;&#8207;[[H9024\|הּ֙]]&#8207; </big>**| gaf.Na<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 52:10** 
+**Jeremiah 52:10**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Babylon slew the sons of Zedekiah before his eyes: he slew also all the princes of Judah in Riblah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There at Riblah the king of Babylon slaughtered the sons of Zedekiah before his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.9|<< Jeremiah 52:9]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.11|Jeremiah 52:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he slaughtered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7819A\|יִּשְׁחַ֧ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Chat<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

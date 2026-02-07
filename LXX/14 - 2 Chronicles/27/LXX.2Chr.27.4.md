@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 27:4** 
 <small><sub>**LXX:**</sub></small>
 And he built cities in the mountains of Judah; and in the forests he built palaces and towers. 
-<small><sub>**KJV:**</sub></small>
-Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers.
-<small><sub>**BSB:**</sub></small>
-He also built cities in the hill country of Judah and fortresses and towers in the forests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.27.3|<< 2 Chronicles 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.27.5|2 Chronicles 27:5 >>]]</td></tr></table>
 
 | Translation | Greek |

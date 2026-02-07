@@ -1,4 +1,4 @@
-**Exodus 12:48** 
+**Exodus 12:48**<big><big>[[Exod.12.43 Instructions for the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when a stranger shall sojourn with thee, and will keep the passover to the LORD, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a foreigner resides with you and wants to celebrate the LORD’s Passover, al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.47|<< Exodus 12:47]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.49|Exodus 12:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will sojourn  |**<big>&#8207;[[H1481A\|יָג֨וּר]]&#8207; </big>**| ya.Gur<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

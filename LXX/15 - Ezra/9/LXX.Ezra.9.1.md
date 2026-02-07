@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And as these \[things\] were finished, the rulers approached to me, saying, The people of Israel did not separate, and the priests and the Levites, from \[the\] peoples of the lands in  their abominations -- of the Canaanite, the Hittite, the Perizzite, the Jebusite, the Ammonite, the Moabite, and the Moserite, and the Amorite. 
-<small><sub>**KJV:**</sub></small>
-Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands, [doing] according to their abominations, [even] of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.
-<small><sub>**BSB:**</sub></small>
-After these things had been accomplished, the leaders approached me and said, “The people of Israel, including the priests and Levites, have not kept themselves separate from the surrounding peoples whose abominations are like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.36|<< Ezra 8:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.2|Ezra 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

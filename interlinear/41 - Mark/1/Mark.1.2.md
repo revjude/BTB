@@ -1,5 +1,5 @@
-**Mark 1:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:2**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As it is written in the prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.
 <small><sub>**BSB:**</sub></small>
 As it is written in Isaiah the prophet: “Behold, I will send My messenger ahead of You, who will prepare Your way.”
@@ -10,7 +10,7 @@ Even as it has been written in <the> Isaiah in the prophet: Behold I myself send
 > $\quad$ referencing: [[LXX.Exod.23.20|Exod 23:20]] ☩ [[LXX.Isa.40.3|Isa 40:3]] ☩ [[LXX.Mal.3.1|Mal 3:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as [^1] |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | it has been written |**<big>[[G1125\|γέγραπται]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

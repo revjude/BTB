@@ -1,10 +1,7 @@
 **LXX Exodus 18:22** 
 <small><sub>**LXX:**</sub></small>
 And they shall judge the people at every hour. But the enormous thing they shall offer unto you; but the little \[matters\] of the judgments, they shall judge them; and they shall lighten \[the load\] from you, and shall give aid to you. 
-<small><sub>**KJV:**</sub></small>
-And let them judge the people at all seasons: and it shall be, [that] every great matter they shall bring unto thee, but every small matter they shall judge: so shall it be easier for thyself, and they shall bear [the burden] with thee.
-<small><sub>**BSB:**</sub></small>
-Have these men judge the people at all times. Then they can bring you any major issue, but all minor cases they can judge on their own, so that your load may be lightened as they share it with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.21|<< Exodus 18:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.23|Exodus 18:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 107:18** 
 <small><sub>**LXX:**</sub></small>
 Their soul abhorred every food, and they approached unto the gates  of death. 
-<small><sub>**KJV:**</sub></small>
-Their soul abhorreth all manner of meat; and they draw near unto the gates of death.
-<small><sub>**BSB:**</sub></small>
-They loathed all food and drew near to the gates of death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.17|<< Psalm 107:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.19|Psalm 107:19 >>]]</td></tr></table>
 
 | Translation | Greek |

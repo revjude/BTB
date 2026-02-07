@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:18** 
 <small><sub>**LXX:**</sub></small>
 And he read in \[the\] scroll of \[the\] law  of God day by day; from the first day until the last day. And they observed \[the\] holiday seven days, and the eighth day \[was\] a holiday recess, according to the distinguishing manner. 
-<small><sub>**KJV:**</sub></small>
-Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day [was] a solemn assembly, according unto the manner.
-<small><sub>**BSB:**</sub></small>
-Day after day, from the first day to the last, Ezra read from the Book of the Law of God. The Israelites kept the feast for seven days, and on the eighth day they held an assembly, according to the ordinance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.17|<< Nehemiah 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.1|Nehemiah 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

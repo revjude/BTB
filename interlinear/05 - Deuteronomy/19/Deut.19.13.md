@@ -1,4 +1,4 @@
-**Deuteronomy 19:13** 
+**Deuteronomy 19:13**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine eye shall not pity him, but thou shalt put away [the guilt of] innocent blood from Israel, that it may go well with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must show him no pity. You are to purge from Israel the guilt of shedding in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.12|<< Deuteronomy 19:12]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.14|Deuteronomy 19:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will look with pity  |**<big>&#8207;[[H2347\|תָח֥וֹס]]&#8207; </big>**| ta.Chos<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

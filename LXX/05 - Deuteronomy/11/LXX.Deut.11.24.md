@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:24** 
 <small><sub>**LXX:**</sub></small>
 Every  place which ever the track of your foot may tread will be yours. From the wilderness and Antilebanon, and from the river of the great river Euphrates, and unto the sea  at \[the\] descent \[of the sun\] it will be  your boundaries. 
-<small><sub>**KJV:**</sub></small>
-Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be.
-<small><sub>**BSB:**</sub></small>
-Every place where the sole of your foot treads will be yours. Your territory will extend from the wilderness to Lebanon, and from the Euphrates River to the Western Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.23|<< Deuteronomy 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.25|Deuteronomy 11:25 >>]]</td></tr></table>
 
 | Translation | Greek |

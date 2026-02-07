@@ -1,4 +1,4 @@
-**2 Kings 17:1** 
+**2 Kings 17:1**<big><big>[[2Kgs.17.1 Hoshea the Last King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the twelfth year of Ahaz king of Judah began Hoshea the son of Elah to reign in Samaria over Israel nine years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the twelfth year of the reign of Ahaz over Judah, Hoshea son of Elah became k
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.20|<< 2 Kings 16:20]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.2|2 Kings 17:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַת֙]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּ֣ים]]&#8207; </big>**| she.Teim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

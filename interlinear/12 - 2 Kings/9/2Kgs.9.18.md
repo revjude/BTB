@@ -1,4 +1,4 @@
-**2 Kings 9:18** 
+**2 Kings 9:18**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So there went one on horseback to meet him, and said, Thus saith the king, [Is it] peace? And Jehu said, What hast thou to do with peace? turn thee behind me. And the watchman told, saying, The messenger came to them, but he cometh not again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So a horseman rode off to meet Jehu and said, “This is what the king asks: ‘
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.17|<< 2 Kings 9:17]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.19|2 Kings 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלֶךְ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.leKh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] rider of  |**<big>&#8207;[[H7392\|רֹכֵ֨ב]]&#8207; </big>**| ro.Khev<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

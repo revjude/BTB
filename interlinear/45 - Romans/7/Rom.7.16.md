@@ -1,12 +1,12 @@
-**Romans 7:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:16**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If then I do that which I would not, I consent unto the law that [it is] good.
 <small><sub>**BSB:**</sub></small>
 And if I do what I do not want to do, I admit that the law is good.
 <small><sub>**Literal:**</sub></small>
 If now that which not I do want this I do, I consent to the law that [it is] good;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.15|<< Romans 7:15]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.17|Romans 7:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

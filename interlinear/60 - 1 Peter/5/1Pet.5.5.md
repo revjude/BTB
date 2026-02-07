@@ -1,5 +1,5 @@
-**1 Peter 5:5
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:5**<big><big>[[1Pet.5.5 Cast Your Cares on Him|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise, ye younger, submit yourselves unto the elder. Yea, all [of you] be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
 <small><sub>**BSB:**</sub></small>
 Young men, in the same way, submit yourselves to your elders. And all of you, clothe yourselves with humility toward one another, because, “God opposes the proud, but gives grace to the humble.”
@@ -10,7 +10,7 @@ Likewise younger [ones], do be subjected to [your] elders, All now to one anothe
 > $\quad$ referencing: [[LXX.Prov.3.34|Prov 3:34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise |**<big>[[G3668\|Ὁμοίως]]</big>**  |Homoiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | younger [ones], |**<big>[[G3501\|νεώτεροι,]]</big>**  |neōteroi <small><sup>[[A-VPM-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

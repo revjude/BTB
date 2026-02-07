@@ -1,12 +1,12 @@
-**Acts 20:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:20**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [And] how I kept back nothing that was profitable [unto you], but have shewed you, and have taught you publickly, and from house to house,
 <small><sub>**BSB:**</sub></small>
 I did not shrink back from declaring anything that was helpful to you as I taught you publicly and from house to house,
 <small><sub>**Literal:**</sub></small>
 how no [thing] I did shrink back of that being profitable <the> not to declare to you and to teach you publicly and from house to house,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.19|<< Acts 20:19]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.21|Acts 20:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no [thing] |**<big>[[G3762\|οὐδὲν]]</big>**  |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 119:115** 
+**Psalms 119:115**<big><big>[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Depart from me, ye evildoers: for I will keep the commandments of my God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Depart from me, you evildoers, that I may obey the commandments of my God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.115|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.114|<< Psalms 119:114]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.116|Psalms 119:116 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn aside  |**<big>&#8207;[[H5493H\|סֽוּרוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| su.ru-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from me  |**<big>&#8207;[[H4480A\|מִמֶּ֥]]&#8207;&#8207;[[H9030\|נִּי]]&#8207; </big>**| mi.Me.<small><sup>[[HR]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

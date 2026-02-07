@@ -1,4 +1,4 @@
-**Proverbs 14:24** 
+**Proverbs 14:24**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The crown of the wise [is] their riches: [but] the foolishness of fools [is] folly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The crown of the wise is their wealth, but the effort of fools is folly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.23|<< Proverbs 14:23]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.25|Proverbs 14:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is the] crown of  |**<big>&#8207;[[H5850\|עֲטֶ֣רֶת]]&#8207; </big>**| 'a.Te.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִ֣ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

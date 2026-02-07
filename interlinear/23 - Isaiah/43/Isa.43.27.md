@@ -1,4 +1,4 @@
-**Isaiah 43:27** 
+**Isaiah 43:27**<big><big>[[Isa.43.22 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy first father hath sinned, and thy teachers have transgressed against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your first father sinned, and your spokesmen rebelled against Me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.26|<< Isaiah 43:26]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.28|Isaiah 43:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ancestor your  |**<big>&#8207;[[H0001G\|אָבִ֥י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> first  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223G\|רִאשׁ֖וֹן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.Shon<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

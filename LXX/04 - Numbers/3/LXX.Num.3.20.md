@@ -1,10 +1,7 @@
 **LXX Numbers 3:20** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Merari according to their peoples -- Mahli, and Mushi. These are \[the\] peoples of the Levites according to \[the\] houses of their patrimony. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Merari by their families; Mahli, and Mushi. These [are] the families of the Levites according to the house of their fathers.
-<small><sub>**BSB:**</sub></small>
-And the sons of Merari by their clans were Mahli and Mushi. These were the clans of the Levites, according to their families.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.19|<< Numbers 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.21|Numbers 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

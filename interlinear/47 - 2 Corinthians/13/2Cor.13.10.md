@@ -1,12 +1,12 @@
-**2 Corinthians 13:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:10**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
 <small><sub>**BSB:**</sub></small>
 This is why I write these things while absent, so that when I am present I will not need to be severe in my use of the authority that the Lord gave me for building you up, not for tearing you down.
 <small><sub>**Literal:**</sub></small>
 Because of therefore these things being absent I write, so that being present not with severity I may treat [you] according to the authority that the Lord has given me for building up and not for tearing down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.9|<< 2 Corinthians 13:9]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.11|2 Corinthians 13:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

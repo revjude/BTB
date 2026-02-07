@@ -1,12 +1,12 @@
-**Luke 4:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:1**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,
 <small><sub>**BSB:**</sub></small>
 Then Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness,
 <small><sub>**Literal:**</sub></small>
 Jesus then full of [the] Spirit Holy returned from the Jordan and was led by the Spirit into the wilderness<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.38|<< Luke 3:38]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.2|Luke 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

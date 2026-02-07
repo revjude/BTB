@@ -1,10 +1,7 @@
 **LXX Psalm 126:2** 
 <small><sub>**LXX:**</sub></small>
 Then our mouth was filled with joy, and  our tongue \[with\] exultation. Then shall they say among the nations, \[the\] <span class="smallcaps">lord</span> magnified himself  in dealing with them. 
-<small><sub>**KJV:**</sub></small>
-Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.
-<small><sub>**BSB:**</sub></small>
-Then our mouths were filled with laughter, our tongues with shouts of joy. Then it was said among the nations, “The LORD has done great things for them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.126.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.126.1|<< Psalm 126:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.126.3|Psalm 126:3 >>]]</td></tr></table>
 
 | Translation | Greek |

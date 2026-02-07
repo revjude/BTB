@@ -1,4 +1,4 @@
-**Ecclesiastes 2:3** 
+**Ecclesiastes 2:3**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what [was] that good for the sons of men, which they should do under the heaven all the days of their life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I sought to cheer my body with wine and to embrace folly—my mind still guiding
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.2|<< Ecclesiastes 2:2]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.4|Ecclesiastes 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I searched  |**<big>&#8207;[[H8446\|תַּ֣רְתִּי]]&#8207; </big>**| Tar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in heart my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3820A\|לִבִּ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

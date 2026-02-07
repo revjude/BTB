@@ -1,10 +1,7 @@
 **LXX Esther 9:26** 
 <small><sub>**LXX:**</sub></small>
 On account of this they call  these days Purim because of the lots, (for \[in\] their dialect they \[are\] called purim), because of the words  of this letter, and as much as they suffered on account of it, and as much as happened to them and was stopped. 
-<small><sub>**KJV:**</sub></small>
-Wherefore they called these days Purim after the name of Pur. Therefore for all the words of this letter, and [of that] which they had seen concerning this matter, and which had come unto them,
-<small><sub>**BSB:**</sub></small>
-Therefore these days are called Purim, from the word Pur. Because of all the instructions in this letter, and because of all they had seen and experienced,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.25|<< Esther 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.27|Esther 9:27 >>]]</td></tr></table>
 
 | Translation | Greek |

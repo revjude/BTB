@@ -1,4 +1,4 @@
-**Jeremiah 52:13** 
+**Jeremiah 52:13**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And burned the house of the LORD, and the king’s house; and all the houses of Jerusalem, and all the houses of the great [men], burned he with fire:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He burned down the house of the LORD, the royal palace, and all the houses of Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.12|<< Jeremiah 52:12]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.14|Jeremiah 52:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he burned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8313\|יִּשְׂרֹ֥ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Rof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

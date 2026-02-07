@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:37** 
 <small><sub>**LXX:**</sub></small>
 And  his ordinances, and the judgments, and the commandments, and the law which he wrote for you, you shall guard to do all the days, and you shall not fear other gods. 
-<small><sub>**KJV:**</sub></small>
-And the statutes, and the ordinances, and the law, and the commandment, which he wrote for you, ye shall observe to do for evermore; and ye shall not fear other gods.
-<small><sub>**BSB:**</sub></small>
-And you must always be careful to observe the statutes, ordinances, laws, and commandments He wrote for you. Do not worship other gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.36|<< 2 Kings 17:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.38|2 Kings 17:38 >>]]</td></tr></table>
 
 | Translation | Greek |

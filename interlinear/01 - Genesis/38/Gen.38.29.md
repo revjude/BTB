@@ -1,4 +1,4 @@
-**Genesis 38:29** 
+**Genesis 38:29**<big><big>[[Gen.38.27 The Birth of Perez and Zerah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? [this] breach [be] upon thee: therefore his name was called Pharez.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when he pulled his hand back and his brother came out, she said, “You have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.28|<< Genesis 38:28]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.30|Genesis 38:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when [he was] withdrawing  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7725G\|מֵשִׁ֣יב]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> me.Shiv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:17** 
 <small><sub>**LXX:**</sub></small>
 And David said to  God, Did I not say  to count among the people? Then I am the one sinning -- in doing evil I did evil. And these  sheep, what did they do, O <span class="smallcaps">lord</span>  God? your hand come against me, and against the house  of my father, and not against  your people for destruction! 
-<small><sub>**KJV:**</sub></small>
-And David said unto God, [Is it] not I [that] commanded the people to be numbered? even I it is that have sinned and done evil indeed; but [as for] these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father’s house; but not on thy people, that they should be plagued.
-<small><sub>**BSB:**</sub></small>
-And David said to God, “Was it not I who gave the order to count the people? I am the one who has sinned and acted wickedly. But these sheep, what have they done? O LORD my God, please let Your hand fall upon me and my father’s house, but do not let this plague remain upon Your people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.16|<< 1 Chronicles 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.18|1 Chronicles 21:18 >>]]</td></tr></table>
 
 | Translation | Greek |

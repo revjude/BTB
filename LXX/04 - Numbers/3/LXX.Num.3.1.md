@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the origins of Aaron and Moses in which day \[the\] <span class="smallcaps">lord</span> spoke  to Moses on mount Sinai. 
-<small><sub>**KJV:**</sub></small>
-These also [are] the generations of Aaron and Moses in the day [that] the LORD spake with Moses in mount Sinai.
-<small><sub>**BSB:**</sub></small>
-This is the account of Aaron and Moses at the time the LORD spoke with Moses on Mount Sinai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.34|<< Numbers 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.2|Numbers 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

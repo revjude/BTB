@@ -1,4 +1,4 @@
-**Isaiah 41:8** 
+**Isaiah 41:8**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou, Israel, [art] my servant, Jacob whom I have chosen, the seed of Abraham my friend.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But thou, Israel, [art] my servant, Jacob whom I have chosen, the seed of Abraha
 > $\quad$ referenced by: [[Heb.2.16|Heb 2:16]] ☩ [[Jas.2.23|Jas 2:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֣ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 13:5** 
 <small><sub>**LXX:**</sub></small>
 They come from out of a land at a distance, from \[the\] extremity of \[the\] foundation of the heaven; \[the\] <span class="smallcaps">lord</span> and  his armed warriors, to ruin all the world. 
-<small><sub>**KJV:**</sub></small>
-They come from a far country, from the end of heaven, [even] the LORD, and the weapons of his indignation, to destroy the whole land.
-<small><sub>**BSB:**</sub></small>
-They are coming from faraway lands, from the ends of the heavens—the LORD and the weapons of His wrath—to destroy the whole country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.4|<< Isaiah 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.6|Isaiah 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

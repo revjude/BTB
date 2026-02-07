@@ -1,4 +1,4 @@
-**Proverbs 22:24** 
+**Proverbs 22:24**<big><big>[[Prov.22.24 Saying 3|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make no friendship with an angry man; and with a furious man thou shalt not go:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not make friends with an angry man, and do not associate with a hot-tempered 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.23|<< Proverbs 22:23]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.25|Proverbs 22:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you associate  |**<big>&#8207;[[H7462C\|תִּ֭תְרַע]]&#8207; </big>**| Tit.ra'<small><sup>[[HVtj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

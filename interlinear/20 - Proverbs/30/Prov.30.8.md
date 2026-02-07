@@ -1,4 +1,4 @@
-**Proverbs 30:8** 
+**Proverbs 30:8**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove far from me vanity and lies: give me neither poverty nor riches; feed me with food convenient for me:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Keep falsehood and deceitful words far from me. Give me neither poverty nor rich
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.7|<< Proverbs 30:7]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.9|Proverbs 30:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deceitfulness  |**<big>&#8207;[[H7723G\|שָׁ֤וְא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a word of  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H1697M\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

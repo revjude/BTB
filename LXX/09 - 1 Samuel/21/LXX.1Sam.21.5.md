@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:5** 
 <small><sub>**LXX:**</sub></small>
 And David answered to the priest, and said to him, Yes, even from a woman we have been at a distance from  yesterday and \[the\] third day \[before\]. In  my coming forth for the journey all the servants have been purified; but this  journey is profane, for today it shall be sanctified on account of  my weapons. 
-<small><sub>**KJV:**</sub></small>
-And David answered the priest, and said unto him, Of a truth women [have been] kept from us about these three days, since I came out, and the vessels of the young men are holy, and [the bread is] in a manner common, yea, though it were sanctified this day in the vessel.
-<small><sub>**BSB:**</sub></small>
-David answered, “Women have indeed been kept from us, as is usual when I set out. And the bodies of the young men are holy even on common missions. How much more so today!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.4|<< 1 Samuel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.6|1 Samuel 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

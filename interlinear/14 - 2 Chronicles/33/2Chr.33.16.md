@@ -1,4 +1,4 @@
-**2 Chronicles 33:16** 
+**2 Chronicles 33:16**<big><big>[[2Chr.33.10 Manasseh’s Repentance and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he restored the altar of the LORD and sacrificed peace offerings and thank 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.15|<< 2 Chronicles 33:15]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.17|2 Chronicles 33:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rebuilt  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּ֙בֶן֙]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.ya.chen<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

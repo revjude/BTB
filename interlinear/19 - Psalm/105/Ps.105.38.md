@@ -1,4 +1,4 @@
-**Psalms 105:38** 
+**Psalms 105:38**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Egypt was glad when they departed: for the fear of them fell upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Egypt was glad when they departed, for the dread of Israel had fallen on them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.37|<< Psalms 105:37]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.39|Psalms 105:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it was glad  |**<big>&#8207;[[H8055\|שָׂמַ֣ח]]&#8207; </big>**| sa.Mach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֣יִם]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

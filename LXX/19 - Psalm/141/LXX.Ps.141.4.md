@@ -1,10 +1,7 @@
 **LXX Psalm 141:4** 
 <small><sub>**LXX:**</sub></small>
 You should not turn aside  my heart to words of wickedness,  to make excuses for sins with men working  lawlessness; and in no way shall I associate myself with  their choice ones. 
-<small><sub>**KJV:**</sub></small>
-Incline not my heart to [any] evil thing, to practise wicked works with men that work iniquity: and let me not eat of their dainties.
-<small><sub>**BSB:**</sub></small>
-Do not let my heart be drawn to any evil thing or take part in works of wickedness with men who do iniquity; let me not feast on their delicacies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.141.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.3|<< Psalm 141:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.5|Psalm 141:5 >>]]</td></tr></table>
 
 | Translation | Greek |

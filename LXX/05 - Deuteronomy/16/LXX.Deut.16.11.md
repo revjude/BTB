@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:11** 
 <small><sub>**LXX:**</sub></small>
 And you shall be glad before \[the\] <span class="smallcaps">lord</span>  your God, you and  your son and  your daughter,  your manservant, and  your maidservant, and the Levite  in  your cities, and the foreigner, and the orphan, and the widow  among you, in the place in which ever \[the\] <span class="smallcaps">lord</span> your God should choose his name to be called upon there. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt rejoice before the LORD thy God, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that [is] within thy gates, and the stranger, and the fatherless, and the widow, that [are] among you, in the place which the LORD thy God hath chosen to place his name there.
-<small><sub>**BSB:**</sub></small>
-and you shall rejoice before the LORD your God in the place He will choose as a dwelling for His Name—you, your sons and daughters, your menservants and maidservants, and the Levite within your gates, as well as the foreigner, the fatherless, and the widows among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.10|<< Deuteronomy 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.12|Deuteronomy 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

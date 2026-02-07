@@ -1,4 +1,4 @@
-**Numbers 15:40** 
+**Numbers 15:40**<big><big>[[Num.15.37 The Law of Tassels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That ye may remember, and do all my commandments, and be holy unto your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will remember and obey all My commandments, and you will be holy to you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.39|<< Numbers 15:39]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.41|Numbers 15:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you may remember  |**<big>&#8207;[[H2142\|תִּזְכְּר֔וּ]]&#8207; </big>**| tiz.ke.Ru<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

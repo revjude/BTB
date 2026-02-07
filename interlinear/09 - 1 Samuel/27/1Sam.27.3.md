@@ -1,4 +1,4 @@
-**1 Samuel 27:3** 
+**1 Samuel 27:3**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David dwelt with Achish at Gath, he and his men, every man with his household, [even] David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal’s wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David and his men settled in Gath with Achish. Each man had his family with him,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.2|<< 1 Samuel 27:2]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.4|1 Samuel 27:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he dwelt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּשֶׁב֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֨ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

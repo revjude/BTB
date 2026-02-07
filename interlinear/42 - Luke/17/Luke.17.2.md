@@ -1,12 +1,12 @@
-**Luke 17:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:2**<big><big>[[Luke.17.1 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.
 <small><sub>**BSB:**</sub></small>
 It would be better for him to have a millstone hung around his neck and to be thrown into the sea than to cause one of these little ones to stumble.
 <small><sub>**Literal:**</sub></small>
 It is better for him if a stone of a mill is hung around the neck of him and he has been thrown into the sea than that he may cause to stumble <the> little [ones] of these one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.1|<< Luke 17:1]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.3|Luke 17:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It is better |**<big>[[G3081\|λυσιτελεῖ]]</big>**  |lusitelei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

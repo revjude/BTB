@@ -1,5 +1,5 @@
-**James 5:11
-**<small><sub>**KJV:**</sub></small>
+**James 5:11**<big><big>[[Jas.5.7 Patience in Suffering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, we count them happy which endure. Ye have heard of the patience of Job, and have seen the end of the Lord; that the Lord is very pitiful, and of tender mercy.
 <small><sub>**BSB:**</sub></small>
 See how blessed we consider those who have persevered. You have heard of Job’s perseverance and have seen the outcome from the Lord. The Lord is full of compassion and mercy.
@@ -10,7 +10,7 @@ Behold we count blessed those having persevered; The perseverance of Job you hav
 > $\quad$ alluding to: [[LXX.Ps.103.8|Ps 103:8]] ☩ [[LXX.Job.1.21|Job 1:21-22]] ☩ [[LXX.Job.42.10|Job 42:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we count blessed |**<big>[[G3106\|μακαρίζομεν]]</big>**  |makarizomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

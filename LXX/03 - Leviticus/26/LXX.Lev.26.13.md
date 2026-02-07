@@ -1,10 +1,7 @@
 **LXX Leviticus 26:13** 
 <small><sub>**LXX:**</sub></small>
 I am \[the\] <span class="smallcaps">lord</span>  your God, the one leading you from out of \[the\] land of Egypt, \[where you were\] slaves. And I broke the bond  of your yoke, and led you \[out\] in an open manner. 
-<small><sub>**KJV:**</sub></small>
-I [am] the LORD your God, which brought you forth out of the land of Egypt, that ye should not be their bondmen; and I have broken the bands of your yoke, and made you go upright.
-<small><sub>**BSB:**</sub></small>
-I am the LORD your God, who brought you out of the land of Egypt so that you would no longer be slaves to the Egyptians. I broke the bars of your yoke and enabled you to walk in uprightness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.12|<< Leviticus 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.14|Leviticus 26:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 6:28** (6:21)
+**Leviticus 6:28**<big><big>[[Lev.6.24 The Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the earthen vessel wherein it is sodden shall be broken: and if it be sodden in a brasen pot, it shall be both scoured, and rinsed in water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The clay pot in which the sin offering is boiled must be broken; if it is boiled
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.27|<< Leviticus 6:27]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.29|Leviticus 6:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a vessel of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3627\|כְלִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.li-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | earthenware  |**<big>&#8207;[[H2789\|חֶ֛רֶשׂ]]&#8207; </big>**| Che.res<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

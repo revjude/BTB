@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall ascend as rain, and shall come as a cloud to cover up \[the\] land -- and you shall be, and all the ones around you, and many nations with you. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee.
-<small><sub>**BSB:**</sub></small>
-You and all your troops, and many peoples with you will go up, advancing like a thunderstorm; you will be like a cloud covering the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.8|<< Ezekiel 38:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.10|Ezekiel 38:10 >>]]</td></tr></table>
 
 | Translation | Greek |

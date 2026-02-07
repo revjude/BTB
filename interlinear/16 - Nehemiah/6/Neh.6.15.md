@@ -1,4 +1,4 @@
-**Nehemiah 6:15** 
+**Nehemiah 6:15**<big><big>[[Neh.6.15 Completion of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the wall was finished in the twenty and fifth [day] of [the month] Elul, in fifty and two days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the wall was completed in fifty-two days, on the twenty-fifth of Elul.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.14|<< Nehemiah 6:14]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.16|Nehemiah 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was complete  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7999A\|תִּשְׁלַם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Lam<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wall  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2346G\|חוֹמָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

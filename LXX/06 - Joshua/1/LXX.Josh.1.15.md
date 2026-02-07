@@ -1,10 +1,7 @@
 **LXX Joshua 1:15** 
 <small><sub>**LXX:**</sub></small>
 until whenever \[the\] <span class="smallcaps">lord</span> your God should rest  your brethren, as also you; and so they shall be heir also to this  land which \[the\] <span class="smallcaps">lord</span>  your God gives to them. Then you shall go forth each unto  his own inheritance, which Moses gave to you on the other side of the Jordan from \[the\] east sun. 
-<small><sub>**KJV:**</sub></small>
-Until the LORD have given your brethren rest, as [he hath given] you, and they also have possessed the land which the LORD your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the LORD’S servant gave you on this side Jordan toward the sunrising.
-<small><sub>**BSB:**</sub></small>
-until the LORD gives them rest as He has done for you, and your brothers also possess the land that the LORD your God is giving them. Then you may return to the land of your inheritance and take possession of that which Moses the servant of the LORD gave you on the east side of the Jordan.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.14|<< Joshua 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.16|Joshua 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

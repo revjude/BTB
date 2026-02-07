@@ -1,10 +1,7 @@
 **LXX Exodus 26:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall make fifty hooks of gold. And you shall join together the curtains \[one\] to the other to the hooks. And the tent will be one. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make fifty taches of gold, and couple the curtains together with the taches: and it shall be one tabernacle.
-<small><sub>**BSB:**</sub></small>
-Make fifty gold clasps as well, and join the curtains together with the clasps, so that the tabernacle will be a unit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.5|<< Exodus 26:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.7|Exodus 26:7 >>]]</td></tr></table>
 
 | Translation | Greek |

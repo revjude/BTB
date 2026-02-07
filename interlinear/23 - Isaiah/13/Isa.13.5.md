@@ -1,4 +1,4 @@
-**Isaiah 13:5** 
+**Isaiah 13:5**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They come from a far country, from the end of heaven, [even] the LORD, and the weapons of his indignation, to destroy the whole land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are coming from faraway lands, from the ends of the heavens—the LORD and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.4|<< Isaiah 13:4]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.6|Isaiah 13:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [they are] coming  |**<big>&#8207;[[H0935G\|בָּאִ֛ים]]&#8207; </big>**| ba.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a land of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

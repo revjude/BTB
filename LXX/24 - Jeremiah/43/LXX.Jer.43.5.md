@@ -1,10 +1,7 @@
 **LXX Jeremiah 43:5** 
 <small><sub>**LXX:**</sub></small>
 And Johanan took, and all the leaders of the force, the whole of the rest of Judah, of the ones returning from all of the nations which they were scattered there, to dwell in the land of Judah; 
-<small><sub>**KJV:**</sub></small>
-But Johanan the son of Kareah, and all the captains of the forces, took all the remnant of Judah, that were returned from all nations, whither they had been driven, to dwell in the land of Judah;
-<small><sub>**BSB:**</sub></small>
-Instead, Johanan son of Kareah and all the commanders of the forces took the whole remnant of Judah, those who had returned to the land of Judah from all the nations to which they had been scattered,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.4|<< Jeremiah 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.6|Jeremiah 43:6 >>]]</td></tr></table>
 
 | Translation | Greek |

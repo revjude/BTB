@@ -1,10 +1,7 @@
 **LXX Exodus 40:32** 
 <small><sub>**LXX:**</sub></small>
 in their entering into the tent of the testimony; or whenever they went to the altar to officiate, they washed from it, as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-When they went into the tent of the congregation, and when they came near unto the altar, they washed; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-They washed whenever they entered the Tent of Meeting or approached the altar, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.31|<< Exodus 40:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.33|Exodus 40:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 50:7** 
+**Psalms 50:7**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, O my people, and I will speak; O Israel, and I will testify against thee: I [am] God, [even] thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear, O my people, and I will speak; O Israel, and I will testify against thee: 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.6|<< Psalms 50:6]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.8|Psalms 50:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear !  |**<big>&#8207;[[H8085G\|שִׁמְעָ֤]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| shim.'A<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O people my  |**<big>&#8207;[[H5971A\|עַמִּ֨]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

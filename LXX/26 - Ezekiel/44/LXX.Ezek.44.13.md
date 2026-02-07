@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:13** 
 <small><sub>**LXX:**</sub></small>
 And they shall bear  their lawlessness, and they shall not approach unto me  to officiate as priest to me, nor  to lead forward to all the holy \[things\] of the holies. And they shall bear their dishonor in the delusion in which they wandered. 
-<small><sub>**KJV:**</sub></small>
-And they shall not come near unto me, to do the office of a priest unto me, nor to come near to any of my holy things, in the most holy [place]: but they shall bear their shame, and their abominations which they have committed.
-<small><sub>**BSB:**</sub></small>
-They must not approach Me to serve Me as priests or come near any of My holy things or the most holy things. They will bear the shame of the abominations they have committed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.12|<< Ezekiel 44:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.14|Ezekiel 44:14 >>]]</td></tr></table>
 
 | Translation | Greek |

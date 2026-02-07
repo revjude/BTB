@@ -1,4 +1,4 @@
-**Leviticus 11:20** 
+**Leviticus 11:20**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All fowls that creep, going upon [all] four, [shall be] an abomination unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All flying insects that walk on all fours are detestable to you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.19|<< Leviticus 11:19]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.21|Leviticus 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כֹּ֚ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> swarming thing of  |**<big>&#8207;[[H8318\|שֶׁ֣רֶץ]]&#8207; </big>**| She.retz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

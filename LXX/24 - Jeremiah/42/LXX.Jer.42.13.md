@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:13** 
 <small><sub>**LXX:**</sub></small>
 And if you say to yourselves, In no way should we stay in  this land, to  not hearken to the voice of \[the\] <span class="smallcaps">lord</span>  your God, 
-<small><sub>**KJV:**</sub></small>
-But if ye say, We will not dwell in this land, neither obey the voice of the LORD your God,
-<small><sub>**BSB:**</sub></small>
-But if you say, ‘We will not stay in this land,’ and you thus disobey the voice of the LORD your God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.12|<< Jeremiah 42:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.14|Jeremiah 42:14 >>]]</td></tr></table>
 
 | Translation | Greek |

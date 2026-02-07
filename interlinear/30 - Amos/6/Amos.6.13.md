@@ -1,4 +1,4 @@
-**Amos 6:13** 
+**Amos 6:13**<big><big>[[Amos.6.8 The Pride of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you who rejoice in Lo-debar and say, ‘Did we not take Karnaim by our own stren
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.12|<< Amos 6:12]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.14|Amos 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the joyful [people]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8056\|שְּׂמֵחִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> se.me.Chim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Lo  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3810\|לֹ֣א]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Lo'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

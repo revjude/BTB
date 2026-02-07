@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:9** 
 <small><sub>**LXX:**</sub></small>
 And they shall say, Because they abandoned \[the\] <span class="smallcaps">lord</span>  their God, the one leading  their fathers from out of \[the\] house of slavery of Egypt, and they took hold of alien gods, and did obeisance to to them, and served to them. On account of this \[the\] <span class="smallcaps">lord</span> brought upon them all  this evil. 
-<small><sub>**KJV:**</sub></small>
-And they shall answer, Because they forsook the LORD their God, who brought forth their fathers out of the land of Egypt, and have taken hold upon other gods, and have worshipped them, and served them: therefore hath the LORD brought upon them all this evil.
-<small><sub>**BSB:**</sub></small>
-And others will answer, ‘Because they have forsaken the LORD their God who brought their fathers out of the land of Egypt, and have embraced other gods, worshiping and serving them—because of this, the LORD has brought all this disaster upon them.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.8|<< 1 Kings 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.10|1 Kings 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

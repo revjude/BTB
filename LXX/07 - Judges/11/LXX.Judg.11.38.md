@@ -1,10 +1,7 @@
 **LXX Judges 11:38** 
 <small><sub>**LXX:**</sub></small>
 And he said, Go! And he sent her out \[for\] two months. And she went, she and  her female companions. And they wept over the tokens of her virginity upon the mountains. 
-<small><sub>**KJV:**</sub></small>
-And he said, Go. And he sent her away [for] two months: and she went with her companions, and bewailed her virginity upon the mountains.
-<small><sub>**BSB:**</sub></small>
-“Go,” he said. And he sent her away for two months. So she left with her friends and mourned her virginity upon the mountains.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.37|<< Judges 11:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.39|Judges 11:39 >>]]</td></tr></table>
 
 | Translation | Greek |

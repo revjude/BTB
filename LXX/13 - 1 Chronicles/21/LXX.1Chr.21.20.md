@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:20** 
 <small><sub>**LXX:**</sub></small>
 And Ornan turned, and he beheld the king. And his four sons with him were being hidden. And Ornan was threshing wheat. 
-<small><sub>**KJV:**</sub></small>
-And Ornan turned back, and saw the angel; and his four sons with him hid themselves. Now Ornan was threshing wheat.
-<small><sub>**BSB:**</sub></small>
-Now Ornan was threshing wheat when he turned and saw the angel; and his four sons who were with him hid themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.19|<< 1 Chronicles 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.21|1 Chronicles 21:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 5:26
-**<small><sub>**KJV:**</sub></small>
+**John 5:26**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as the Father hath life in himself; so hath he given to the Son to have life in himself;
 <small><sub>**BSB:**</sub></small>
 For as the Father has life in Himself, so also He has granted the Son to have life in Himself.
 <small><sub>**Literal:**</sub></small>
 As for the Father has life in Himself, so also to the Son He gave life to have in Himself,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.25|<< John 5:25]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.27|John 5:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5618\|Ὥσπερ]]</big>**  |Hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

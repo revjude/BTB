@@ -1,12 +1,12 @@
-**John 16:20
-**<small><sub>**KJV:**</sub></small>
+**John 16:20**<big><big>[[John.16.17 Grief Will Turn to Joy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, you will weep and wail while the world rejoices. You will grieve, but your grief will turn to joy.
 <small><sub>**Literal:**</sub></small>
 Amen Amen I say to you that you will weep and will lament you yourselves, <the> but the world will rejoice; You yourselves now will be grieved, but the grief of you to joy will turn.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.19|<< John 16:19]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.21|John 16:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|Ἀμὴν]]</big>**  |Amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 11:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:13**<big><big>[[Mark.11.12 Jesus Curses the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And seeing a fig tree afar off having leaves, he came, if haply he might find any thing thereon: and when he came to it, he found nothing but leaves; for the time of figs was not [yet].
 <small><sub>**BSB:**</sub></small>
 Seeing in the distance a fig tree in leaf, He went to see if there was any fruit on it. But when He reached it, He found nothing on it except leaves, since it was not the season for figs.
 <small><sub>**Literal:**</sub></small>
 And having seen a fig tree from afar having leaves He went if perhaps anything He will find on it. And having come to it no [thing] He found only except leaves; the for season not it was of figs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.12|<< Mark 11:12]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.14|Mark 11:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

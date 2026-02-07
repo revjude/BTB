@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:11** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Thus says \[the\] <span class="smallcaps">lord</span>, So I will break  this people, and  this city, as \[the\] earthenware container was broken, which is not able to be repaired again. And in  Tophet they shall bury, for there is not a place  to bury. 
-<small><sub>**KJV:**</sub></small>
-And shalt say unto them, Thus saith the LORD of hosts; Even so will I break this people and this city, as [one] breaketh a potter’s vessel, that cannot be made whole again: and they shall bury [them] in Tophet, till [there be] no place to bury.
-<small><sub>**BSB:**</sub></small>
-and you are to proclaim to them that this is what the LORD of Hosts says: I will shatter this nation and this city, like one shatters a potter’s jar that can never again be repaired. They will bury the dead in Topheth until there is no more room to bury them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.10|<< Jeremiah 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.12|Jeremiah 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

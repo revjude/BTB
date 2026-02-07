@@ -1,5 +1,5 @@
-**Revelation 6:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:13**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
 <small><sub>**BSB:**</sub></small>
 and the stars of the sky fell to the earth like unripe figs dropping from a tree shaken by a great wind.
@@ -11,7 +11,7 @@ and the stars <the> of heaven fell to the earth as a fig tree casts the unripe f
 > $\quad$ alluding to: [[LXX.Isa.34.4|Isa 34:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

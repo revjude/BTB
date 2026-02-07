@@ -1,4 +1,4 @@
-**1 Samuel 2:14** 
+**1 Samuel 2:14**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he struck [it] into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and plunge it into the pan or kettle or cauldron or cooking pot. And the priest 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.13|<< 1 Samuel 2:13]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.15|1 Samuel 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he thrust [it]  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5221\|הִכָּ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Kah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the pot  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3595\|כִּיּ֜וֹר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> ki.Yor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

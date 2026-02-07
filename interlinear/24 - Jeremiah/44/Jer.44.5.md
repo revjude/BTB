@@ -1,4 +1,4 @@
-**Jeremiah 44:5** 
+**Jeremiah 44:5**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they did not listen or incline their ears; they did not turn from their wick
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.4|<< Jeremiah 44:4]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.6|Jeremiah 44:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they listened  |**<big>&#8207;[[H8085G\|שָֽׁמְעוּ֙]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

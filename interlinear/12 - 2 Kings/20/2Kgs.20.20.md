@@ -1,4 +1,4 @@
-**2 Kings 20:20** 
+**2 Kings 20:20**<big><big>[[2Kgs.20.20 Manasseh Succeeds Hezekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the acts of Hezekiah, and all his might, and how he made a pool, and a conduit, and brought water into the city, [are] they not written in the book of the chronicles of the kings of Judah?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the rest of the acts of Hezekiah, along with all his might and how he con
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.19|<< 2 Kings 20:19]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.21|2 Kings 20:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] rest of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3499A\|יֶ֨תֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] matters of  |**<big>&#8207;[[H1697K\|דִּבְרֵ֤י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

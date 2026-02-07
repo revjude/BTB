@@ -1,10 +1,7 @@
 **LXX Zephaniah 1:17** 
 <small><sub>**LXX:**</sub></small>
 And I will squeeze out the men, and they shall go as blind men, for against the <span class="smallcaps">lord</span> they led into sin, and he shall pour out  their blood as dust, and  their flesh as dung. 
-<small><sub>**KJV:**</sub></small>
-And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung.
-<small><sub>**BSB:**</sub></small>
-I will bring such distress on mankind that they will walk like the blind, because they have sinned against the LORD. Their blood will be poured out like dust and their flesh like dung.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.16|<< Zephaniah 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.18|Zephaniah 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

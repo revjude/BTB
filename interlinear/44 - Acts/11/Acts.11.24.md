@@ -1,12 +1,12 @@
-**Acts 11:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:24**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord.
 <small><sub>**BSB:**</sub></small>
 Barnabas was a good man, full of the Holy Spirit and faith, and a great number of people were brought to the Lord.
 <small><sub>**Literal:**</sub></small>
 For he was a man good and full of [the] Spirit Holy and of faith. And was added a crowd large to the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.23|<< Acts 11:23]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.25|Acts 11:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:18** 
 <small><sub>**LXX:**</sub></small>
 In  my saying to the lawless one, To death you shall be put to death; and you do not give orders to him, nor spoke  to give orders to the lawless one,  to turn from  his unjust ways, so that he should live;  that lawless one  shall die in his iniquity, and  his blood I shall require from out of your hand. 
-<small><sub>**KJV:**</sub></small>
-When I say unto the wicked, Thou shalt surely die; and thou givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked [man] shall die in his iniquity; but his blood will I require at thine hand.
-<small><sub>**BSB:**</sub></small>
-If I say to the wicked man, ‘You will surely die,’ but you do not warn him or speak out to warn him from his wicked way to save his life, that wicked man will die in his iniquity, and I will hold you responsible for his blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.17|<< Ezekiel 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.19|Ezekiel 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

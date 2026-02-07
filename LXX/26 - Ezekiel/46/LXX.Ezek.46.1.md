@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>  God; The gate in the inner courtyard, the one looking towards \[the\] east will be locked six days of the operative \[times\]; but on the day of the Sabbaths it will be open, and on the day of the new moons it will be open. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened.
-<small><sub>**BSB:**</sub></small>
-“This is what the Lord GOD says: ‘The gate of the inner court that faces east must be kept shut during the six days of work, but on the Sabbath day and on the day of the New Moon it shall be opened.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.25|<< Ezekiel 45:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.2|Ezekiel 46:2 >>]]</td></tr></table>
 
 | Translation | Greek |

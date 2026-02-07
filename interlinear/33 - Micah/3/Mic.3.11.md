@@ -1,4 +1,4 @@
-**Micah 3:11** 
+**Micah 3:11**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heads thereof judge for reward, and the priests thereof teach for hire, and the prophets thereof divine for money: yet will they lean upon the LORD, and say, [Is] not the LORD among us? none evil can come upon us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her leaders judge for a bribe, her priests teach for a price, and her prophets p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.10|<< Micah 3:10]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.12|Micah 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | chiefs its  |**<big>&#8207;[[H7218H\|רָאשֶׁ֣י]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ra.Shei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for a bribe  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7810\|שֹׁ֣חַד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Sho.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 6:44
-**<small><sub>**KJV:**</sub></small>
+**John 6:44**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.
 <small><sub>**BSB:**</sub></small>
 “No one can come to Me unless the Father who sent Me draws him, and I will raise him up at the last day.
 <small><sub>**Literal:**</sub></small>
 No [one] is able to come to Me, only unless the Father the [one] having sent Me shall draw him, and I myself will raise up him in the last day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.43|<< John 6:43]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.45|John 6:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is able |**<big>[[G1410\|δύναται]]</big>**  |dunatai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

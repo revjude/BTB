@@ -1,10 +1,7 @@
 **LXX Isaiah 58:7** 
 <small><sub>**LXX:**</sub></small>
 Break your bread with ones hungering, and bring \[the\] homeless poor into  your house! If you behold one naked, clothe \[him\]! And concerning the members of \[your\] family  of your seed, you shall not disdain \[them\]. 
-<small><sub>**KJV:**</sub></small>
-[Is it] not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?
-<small><sub>**BSB:**</sub></small>
-Isn’t it to share your bread with the hungry, to bring the poor and homeless into your home, to clothe the naked when you see him, and not to turn away from your own flesh and blood?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.6|<< Isaiah 58:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.8|Isaiah 58:8 >>]]</td></tr></table>
 
 | Translation | Greek |

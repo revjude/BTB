@@ -1,4 +1,4 @@
-**Jeremiah 10:4** 
+**Jeremiah 10:4**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They adorn it with silver and gold and fasten it with hammer and nails, so that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.3|<< Jeremiah 10:3]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.5|Jeremiah 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with silver  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3701G\|כֶ֥סֶף]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and with gold  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2091\|זָהָ֖ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

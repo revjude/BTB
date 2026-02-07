@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:10** 
 <small><sub>**LXX:**</sub></small>
 And the ministration was set up, and the priests stood at  their station, and the Levites in  their divisions, according to the commandment of the king. 
-<small><sub>**KJV:**</sub></small>
-So the service was prepared, and the priests stood in their place, and the Levites in their courses, according to the king’s commandment.
-<small><sub>**BSB:**</sub></small>
-So the service was prepared; the priests stood in their places and the Levites in their divisions according to the king’s command.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.9|<< 2 Chronicles 35:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.11|2 Chronicles 35:11 >>]]</td></tr></table>
 
 | Translation | Greek |

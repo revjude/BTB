@@ -1,12 +1,12 @@
-**Matthew 2:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:14**<big><big>[[Matt.2.13 The Flight to Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When he arose, he took the young child and his mother by night, and departed into Egypt:
 <small><sub>**BSB:**</sub></small>
 So he got up, took the Child and His mother by night, and withdrew to Egypt,
 <small><sub>**Literal:**</sub></small>
 <the> And having arisen he took the Child and the mother of Him by night and withdrew into Egypt,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.13|<< Matthew 2:13]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.15|Matthew 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

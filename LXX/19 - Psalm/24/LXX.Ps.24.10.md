@@ -1,10 +1,7 @@
 **LXX Psalm 24:10** 
 <small><sub>**LXX:**</sub></small>
 Who is this  king  of glory? \[The\] <span class="smallcaps">lord</span> of the forces, he is the king  of glory. 
-<small><sub>**KJV:**</sub></small>
-Who is this King of glory? The LORD of hosts, he [is] the King of glory. Selah.
-<small><sub>**BSB:**</sub></small>
-Who is He, this King of Glory? The LORD of Hosts—He is the King of Glory. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.24.9|<< Psalm 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.1|Psalm 25:1 >>]]</td></tr></table>
 
 | Translation | Greek |

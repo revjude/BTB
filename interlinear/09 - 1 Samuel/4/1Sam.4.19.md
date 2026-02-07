@@ -1,4 +1,4 @@
-**1 Samuel 4:19** 
+**1 Samuel 4:19**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his daughter in law, Phinehas’ wife, was with child, [near] to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Eli’s daughter-in-law, the wife of Phinehas, was pregnant and about to giv
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.18|<< 1 Samuel 4:18]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.20|1 Samuel 4:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and daughter-in-law his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3618H\|כַלָּת֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wife of  |**<big>&#8207;[[H0802H\|אֵֽשֶׁת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.shet-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

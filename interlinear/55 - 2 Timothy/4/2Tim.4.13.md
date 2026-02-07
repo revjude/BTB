@@ -1,12 +1,12 @@
-**2 Timothy 4:13
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:13**<big><big>[[2Tim.4.9 Personal Concerns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The cloke that I left at Troas with Carpus, when thou comest, bring [with thee], and the books, [but] especially the parchments.
 <small><sub>**BSB:**</sub></small>
 When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments.
 <small><sub>**Literal:**</sub></small>
 The cloak that I left in Troas with Carpus, [upon] coming do bring and the books especially the parchments.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.12|<< 2 Timothy 4:12]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.14|2 Timothy 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Τὸν]]</big>**  |Ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | cloak |**<big>[[G5341\|φαιλόνην]]</big>**  [^1] |phailonēn <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

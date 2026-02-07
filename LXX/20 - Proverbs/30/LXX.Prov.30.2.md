@@ -1,10 +1,7 @@
 **LXX Proverbs 30:2** 
 <small><sub>**LXX:**</sub></small>
 For I am all together most foolish of men, and \[the\] intelligence of man is not in me. 
-<small><sub>**KJV:**</sub></small>
-Surely I [am] more brutish than [any] man, and have not the understanding of a man.
-<small><sub>**BSB:**</sub></small>
-Surely I am the most ignorant of men, and I lack the understanding of a man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.1|<< Proverbs 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.3|Proverbs 30:3 >>]]</td></tr></table>
 
 | Translation | Greek |

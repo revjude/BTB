@@ -1,12 +1,12 @@
-**Mark 9:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:9**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.
 <small><sub>**BSB:**</sub></small>
 As they were coming down the mountain, Jesus admonished them not to tell anyone what they had seen until the Son of Man had risen from the dead.
 <small><sub>**Literal:**</sub></small>
 And when are descending now they from the mountain He instructed them that to no one what they had seen they may tell only except when the Son <the> of Man out from [the] dead he may rise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.8|<< Mark 9:8]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.10|Mark 9:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | when are descending |**<big>[[G2597\|καταβαινόντων]]</big>**  |katabainontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

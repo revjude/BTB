@@ -1,10 +1,7 @@
 **LXX Job 29:7** 
 <small><sub>**LXX:**</sub></small>
 when I went forth at daybreak into \[the\] city, and they placed my chair in \[the\] squares. 
-<small><sub>**KJV:**</sub></small>
-When I went out to the gate through the city, [when] I prepared my seat in the street!
-<small><sub>**BSB:**</sub></small>
-When I went out to the city gate and took my seat in the public square,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.6|<< Job 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.8|Job 29:8 >>]]</td></tr></table>
 
 | Translation | Greek |

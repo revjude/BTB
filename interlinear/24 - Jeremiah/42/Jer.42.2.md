@@ -1,4 +1,4 @@
-**Jeremiah 42:2** 
+**Jeremiah 42:2**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto Jeremiah the prophet, Let, we beseech thee, our supplication be accepted before thee, and pray for us unto the LORD thy God, [even] for all this remnant; (for we are left [but] a few of many, as thine eyes do behold us:)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jeremiah the prophet and said, “May our petition come before you; pray to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.1|<< Jeremiah 42:1]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.3|Jeremiah 42:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

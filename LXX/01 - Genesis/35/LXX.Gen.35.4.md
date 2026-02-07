@@ -1,10 +1,7 @@
 **LXX Genesis 35:4** 
 <small><sub>**LXX:**</sub></small>
 And they gave  to Jacob  the alien gods, which were in  their hands, and the ear-rings  in  their ears. And Jacob hid them under the turpentine tree, the one in Shechem. And he destroyed them unto  today's day. 
-<small><sub>**KJV:**</sub></small>
-And they gave unto Jacob all the strange gods which [were] in their hand, and [all their] earrings which [were] in their ears; and Jacob hid them under the oak which [was] by Shechem.
-<small><sub>**BSB:**</sub></small>
-So they gave Jacob all their foreign gods and all their earrings, and Jacob buried them under the oak near Shechem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.3|<< Genesis 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.5|Genesis 35:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:11** 
 <small><sub>**LXX:**</sub></small>
 And the extra \[ones\] of the people  being left behind in the city, and the ones falling in who fell in with the king of Babylon, and the rest of the support Nabuzar-adan the chief guard removed. 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the people [that were] left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzaradan the captain of the guard carry away.
-<small><sub>**BSB:**</sub></small>
-Then Nebuzaradan captain of the guard carried into exile the people who remained in the city, along with the deserters who had defected to the king of Babylon and the rest of the population.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.10|<< 2 Kings 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.12|2 Kings 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 6:14** 
+**Deuteronomy 6:14**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not go after other gods, of the gods of the people which [are] round about you;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not follow other gods, the gods of the peoples around you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.13|<< Deuteronomy 6:13]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.15|Deuteronomy 6:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will walk !  |**<big>&#8207;[[H1980N\|תֵֽלְכ֔וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| te.le.Khu<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

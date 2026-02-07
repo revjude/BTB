@@ -1,10 +1,7 @@
 **LXX Numbers 33:13** 
 <small><sub>**LXX:**</sub></small>
 And departing from Dophkah, and they camped in Alush. 
-<small><sub>**KJV:**</sub></small>
-And they departed from Dophkah, and encamped in Alush.
-<small><sub>**BSB:**</sub></small>
-They set out from Dophkah and camped at Alush.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.12|<< Numbers 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.14|Numbers 33:14 >>]]</td></tr></table>
 
 | Translation | Greek |

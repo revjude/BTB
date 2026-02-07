@@ -1,4 +1,4 @@
-**Job 24:15** 
+**Job 24:15**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth [his] face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The eye of the adulterer watches for twilight. Thinking, ‘No eye will see me,�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.14|<< Job 24:14]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.16|Job 24:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] eye of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5869A\|עֵ֤ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an adulterer  |**<big>&#8207;[[H5003\|נֹאֵ֨ף]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| no.'Ef<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

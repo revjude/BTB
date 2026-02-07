@@ -1,10 +1,7 @@
 **LXX Jonah 1:8** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Report indeed! for what \[reason\]  is this evil to us? What is your work, and from where have you come, and from out of what kind of place, and of what kind of people are you? 
-<small><sub>**KJV:**</sub></small>
-Then said they unto him, Tell us, we pray thee, for whose cause this evil [is] upon us; What [is] thine occupation? and whence comest thou? what [is] thy country? and of what people [art] thou?
-<small><sub>**BSB:**</sub></small>
-“Tell us now,” they demanded, “who is to blame for this calamity that is upon us? What is your occupation, and where have you come from? What is your country, and who are your people?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.7|<< Jonah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.9|Jonah 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 47:12** 
+**Ezekiel 47:12**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Along both banks of the river, fruit trees of all kinds will grow. Their leaves 
 > $\quad$ referenced by: [[Rev.22.1|Rev 22:1-2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the river  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5158A\|נַּ֣חַל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

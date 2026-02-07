@@ -1,5 +1,5 @@
-**Revelation 20:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:9**<big><big>[[Rev.20.7 Satan Cast into the Lake of Fire|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.
 <small><sub>**BSB:**</sub></small>
 And they marched across the broad expanse of the earth and surrounded the camp of the saints and the beloved city. But fire came down from heaven and consumed them.
@@ -10,7 +10,7 @@ And they marched up over the breadth of the earth and encircled the camp of the 
 > $\quad$ referencing: [[LXX.2Kgs.1.10|2Kgs 1:10]][[LXX.2Kgs.1.12|, 12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they marched up |**<big>[[G0305\|ἀνέβησαν]]</big>**  |anebēsan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

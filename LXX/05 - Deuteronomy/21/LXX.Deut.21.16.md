@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:16** 
 <small><sub>**LXX:**</sub></small>
 then it shall be in which ever day he should divide by lot \[to\] his sons  of his possessions, he shall not be able to give the right of the first-born to the son of the one being loved, overlooking the son of the one being detested -- the first-born. 
-<small><sub>**KJV:**</sub></small>
-Then it shall be, when he maketh his sons to inherit [that] which he hath, [that] he may not make the son of the beloved firstborn before the son of the hated, [which is indeed] the firstborn:
-<small><sub>**BSB:**</sub></small>
-when that man assigns his inheritance to his sons he must not appoint the son of the beloved wife as the firstborn over the son of the unloved wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.15|<< Deuteronomy 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.17|Deuteronomy 21:17 >>]]</td></tr></table>
 
 | Translation | Greek |

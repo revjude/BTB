@@ -1,12 +1,12 @@
-**Romans 8:32
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:32**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?
 <small><sub>**BSB:**</sub></small>
 He who did not spare His own Son but gave Him up for us all, how will He not also, along with Him, freely give us all things?
 <small><sub>**Literal:**</sub></small>
 He who indeed <the> [his] own Son not spared, but for us all gave up Him, how surely also with Him the [things] all us will He grant?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.31|<< Romans 8:31]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.33|Romans 8:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He who |**<big>[[G3739\|ὅς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G1065\|γε]]</big>**  |ge <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

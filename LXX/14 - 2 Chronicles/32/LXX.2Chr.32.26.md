@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:26** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah was humbled from the haughtiness  of his heart, he and the ones dwelling in Jerusalem. And \[the\] wrath \[of the\] <span class="smallcaps">lord</span> did not come upon them in the days of Hezekiah. 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding Hezekiah humbled himself for the pride of his heart, [both] he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah.
-<small><sub>**BSB:**</sub></small>
-Then Hezekiah humbled the pride of his heart—he and the people of Jerusalem—so that the wrath of the LORD did not come upon them during the days of Hezekiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.25|<< 2 Chronicles 32:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.27|2 Chronicles 32:27 >>]]</td></tr></table>
 
 | Translation | Greek |

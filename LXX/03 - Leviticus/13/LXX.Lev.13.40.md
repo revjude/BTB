@@ -1,10 +1,7 @@
 **LXX Leviticus 13:40** 
 <small><sub>**LXX:**</sub></small>
 And if any one be loose of hair \[then\] his head is \[only\] bald; he is clean. 
-<small><sub>**KJV:**</sub></small>
-And the man whose hair is fallen off his head, he [is] bald; [yet is] he clean.
-<small><sub>**BSB:**</sub></small>
-Now if a man loses his hair and is bald, he is still clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.39|<< Leviticus 13:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.41|Leviticus 13:41 >>]]</td></tr></table>
 
 | Translation | Greek |

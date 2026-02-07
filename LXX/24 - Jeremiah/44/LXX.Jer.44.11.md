@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:11** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel; Behold, I set  my face against you for evil,  to destroy all Judah. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD of Hosts, the God of Israel, says: I will set My face to bring disaster and to cut off all Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.10|<< Jeremiah 44:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.12|Jeremiah 44:12 >>]]</td></tr></table>
 
 | Translation | Greek |

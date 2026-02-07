@@ -1,4 +1,4 @@
-**Jeremiah 8:17** 
+**Jeremiah 8:17**<big><big>[[Jer.8.14 The People Respond|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, I will send serpents, cockatrices, among you, which [will] not [be] charmed, and they shall bite you, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For, behold, I will send serpents, cockatrices, among you, which [will] not [be]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.16|<< Jeremiah 8:16]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.18|Jeremiah 8:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

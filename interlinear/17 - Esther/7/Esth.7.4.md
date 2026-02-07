@@ -1,4 +1,4 @@
-**Esther 7:4** 
+**Esther 7:4**<big><big>[[Esth.7.1 Esther Pleads for Her People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king’s damage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For my people and I have been sold out to destruction, death, and annihilation. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.3|<< Esther 7:3]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.5|Esther 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we have been sold  |**<big>&#8207;[[H4376\|נִמְכַּ֙רְנוּ֙]]&#8207; </big>**| nim.Kar.nu<small><sup>[[HVNp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

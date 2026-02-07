@@ -1,10 +1,7 @@
 **LXX Joshua 16:7** 
 <small><sub>**LXX:**</sub></small>
 and it shall go down from Janoah to Ataroth, and  their towns, and to Naarath, and it shall come to Jericho, and pass out at the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.
-<small><sub>**BSB:**</sub></small>
-From Janoah it went down to Ataroth and Naarah, and then reached Jericho and came out at the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.16.6|<< Joshua 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.16.8|Joshua 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:16** 
 <small><sub>**LXX:**</sub></small>
 In  my sending the arrows  of famine upon them, then they will be in want, and I shall send them to ruin you. And I shall gather famine unto you, and I shall break \[the\] reliance of your bread. 
-<small><sub>**KJV:**</sub></small>
-When I shall send upon them the evil arrows of famine, which shall be for [their] destruction, [and] which I will send to destroy you: and I will increase the famine upon you, and will break your staff of bread:
-<small><sub>**BSB:**</sub></small>
-When I shower you with the deadly arrows of famine and destruction that I will send to destroy you, I will intensify the famine against you and cut off your supply of food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.15|<< Ezekiel 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.17|Ezekiel 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 42:14** 
+**Isaiah 42:14**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have long time holden my peace; I have been still, [and] refrained myself: [now] will I cry like a travailing woman; I will destroy and devour at once.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have long time holden my peace; I have been still, [and] refrained myself: [no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.13|<< Isaiah 42:13]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.15|Isaiah 42:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have been silent  |**<big>&#8207;[[H2814\|הֶחֱשֵׁ֙יתִי֙]]&#8207; </big>**| he.che.Shei.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a long time  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5769J\|עוֹלָ֔ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 16:7** 
+**Genesis 16:7**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD found her by a fountain of water in the wilderness, by the fountain in the way to Shur.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the angel of the LORD found Hagar by a spring of water in the desert—the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.6|<< Genesis 16:6]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.8|Genesis 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he found her  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H4672\|יִּמְצָאָ֞]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.tza.'A<small><sup>[[HVqw3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַ֧ךְ]]&#8207; </big>**| mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

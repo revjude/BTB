@@ -1,10 +1,7 @@
 **LXX Genesis 45:18** 
 <small><sub>**LXX:**</sub></small>
 And taking up  your father, and  your possessions, come to me! And I will give to you all the good \[things\] of Egypt, and you shall eat the marrow of the land. 
-<small><sub>**KJV:**</sub></small>
-And take your father and your households, and come unto me: and I will give you the good of the land of Egypt, and ye shall eat the fat of the land.
-<small><sub>**BSB:**</sub></small>
-Then bring your father and your families and return to me. I will give you the best of the land of Egypt, and you shall eat from the fat of the land.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.17|<< Genesis 45:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.19|Genesis 45:19 >>]]</td></tr></table>
 
 | Translation | Greek |

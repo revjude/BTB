@@ -1,12 +1,12 @@
-**Acts 14:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:23**<big><big>[[Acts.14.21 Strengthening the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.
 <small><sub>**BSB:**</sub></small>
 Paul and Barnabas appointed elders for them in each church, praying and fasting as they entrusted them to the Lord, in whom they had believed.
 <small><sub>**Literal:**</sub></small>
 Having chosen now for them in every church elders, having prayed with fasting they committed them to the Lord in whom they had believed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.22|<< Acts 14:22]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.24|Acts 14:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having chosen |**<big>[[G5500\|χειροτονήσαντες]]</big>**  |cheirotonēsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

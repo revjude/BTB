@@ -1,4 +1,4 @@
-**1 Kings 21:25** 
+**1 Kings 21:25**<big><big>[[1Kgs.21.25 Ahab’s Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the LORD, whom Jezebel his wife stirred up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But there was none like unto Ahab, which did sell himself to work wickedness in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.24|<< 1 Kings 21:24]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.26|1 Kings 21:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly  |**<big>&#8207;[[H7535\|רַ֚ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

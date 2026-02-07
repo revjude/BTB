@@ -1,10 +1,7 @@
 **LXX Isaiah 44:12** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] fabricator sharpens \[the\] iron \[tool\]. With a hammer he works it in coals, and with a drill he sets it. And he works it with the arm  of his strength. And he shall hunger and be weak, and in no way shall he drink water. 
-<small><sub>**KJV:**</sub></small>
-The smith with the tongs both worketh in the coals, and fashioneth it with hammers, and worketh it with the strength of his arms: yea, he is hungry, and his strength faileth: he drinketh no water, and is faint.
-<small><sub>**BSB:**</sub></small>
-The blacksmith takes a tool and labors over the coals; he fashions an idol with hammers and forges it with his strong arms. Yet he grows hungry and loses his strength; he fails to drink water and grows faint.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.11|<< Isaiah 44:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.13|Isaiah 44:13 >>]]</td></tr></table>
 
 | Translation | Greek |

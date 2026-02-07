@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:29** 
 <small><sub>**LXX:**</sub></small>
 And unto \[the\] borders of \[the\] sons of Manasseh -- Beth-shean and  her towns, Taanach and  her towns, Magiddo and  her towns, Dor and  her towns. In these dwelt the sons of Joseph, son of Israel. 
-<small><sub>**KJV:**</sub></small>
-And by the borders of the children of Manasseh, Bethshean and her towns, Taanach and her towns, Megiddo and her towns, Dor and her towns. In these dwelt the children of Joseph the son of Israel.
-<small><sub>**BSB:**</sub></small>
-And along the borders of Manasseh were Beth-shean, Taanach, Megiddo, and Dor, together with their villages. The descendants of Joseph son of Israel lived in these towns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.28|<< 1 Chronicles 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.30|1 Chronicles 7:30 >>]]</td></tr></table>
 
 | Translation | Greek |

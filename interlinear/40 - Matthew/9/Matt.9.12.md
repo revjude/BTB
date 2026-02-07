@@ -1,12 +1,12 @@
-**Matthew 9:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:12**<big><big>[[Matt.9.9 Jesus Calls Matthew|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Jesus heard [that], he said unto them, They that be whole need not a physician, but they that are sick.
 <small><sub>**BSB:**</sub></small>
 On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus having heard He said to them: Not need have those being strong of a physician but those sick being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.11|<< Matthew 9:11]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.13|Matthew 9:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

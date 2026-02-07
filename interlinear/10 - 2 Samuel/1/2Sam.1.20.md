@@ -1,4 +1,4 @@
-**2 Samuel 1:20** 
+**2 Samuel 1:20**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tell [it] not in Gath, publish [it] not in the streets of Askelon; lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tell it not in Gath; proclaim it not in the streets of Ashkelon, lest the daught
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.19|<< 2 Samuel 1:19]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.21|2 Samuel 1:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you tell  |**<big>&#8207;[[H5046\|תַּגִּ֣ידוּ]]&#8207; </big>**| ta.Gi.du<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

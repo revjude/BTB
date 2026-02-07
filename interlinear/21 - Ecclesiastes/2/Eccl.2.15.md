@@ -1,4 +1,4 @@
-**Ecclesiastes 2:15** 
+**Ecclesiastes 2:15**<big><big>[[Eccl.2.12 The Wise and the Foolish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also [is] vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I said to myself, “The fate of the fool will also befall me. What then have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.14|<< Ecclesiastes 2:14]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.16|Ecclesiastes 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַ֨רְתִּֽי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mar.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֜י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

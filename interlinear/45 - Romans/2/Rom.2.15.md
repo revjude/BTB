@@ -1,12 +1,12 @@
-**Romans 2:15
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:15**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which shew the work of the law written in their hearts, their conscience also bearing witness, and [their] thoughts the mean while accusing or else excusing one another;)
 <small><sub>**BSB:**</sub></small>
 So they show that the work of the law is written on their hearts, their consciences also bearing witness, and their thoughts either accusing or defending them
 <small><sub>**Literal:**</sub></small>
 who show the work of the law written in the hearts when they are bearing witness to them their conscience and between one another the thoughts accusing or also presenting a defense<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.14|<< Romans 2:14]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.16|Romans 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | show |**<big>[[G1731\|ἐνδείκνυνται]]</big>**  |endeiknuntai <small><sup>[[V-PMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

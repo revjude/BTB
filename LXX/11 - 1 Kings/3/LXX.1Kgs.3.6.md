@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:6** 
 <small><sub>**LXX:**</sub></small>
 And Solomon said, You did great mercy with your servant David my father, as he went before you in truth, and in righteousness, and in straightness of heart with you. And you guarded him  by this great mercy, to grant to him a son sitting upon  his throne as  this day. 
-<small><sub>**KJV:**</sub></small>
-And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, that thou hast given him a son to sit on his throne, as [it is] this day.
-<small><sub>**BSB:**</sub></small>
-Solomon replied, “You have shown much loving devotion to Your servant, my father David, because he walked before You in faithfulness, righteousness, and uprightness of heart. And You have maintained this loving devotion by giving him a son to sit on his throne this very day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.5|<< 1 Kings 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.7|1 Kings 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

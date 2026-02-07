@@ -1,12 +1,12 @@
-**1 Corinthians 11:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:10**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause ought the woman to have power on [her] head because of the angels.
 <small><sub>**BSB:**</sub></small>
 For this reason a woman ought to have a sign of authority on her head, because of the angels.
 <small><sub>**Literal:**</sub></small>
 Because of this ought the woman authority to have on the head on account of the angels.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.9|<< 1 Corinthians 11:9]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.11|1 Corinthians 11:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

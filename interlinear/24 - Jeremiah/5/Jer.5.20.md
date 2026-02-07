@@ -1,4 +1,4 @@
-**Jeremiah 5:20** 
+**Jeremiah 5:20**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declare this in the house of Jacob, and publish it in Judah, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Declare this in the house of Jacob and proclaim it in Judah:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.19|<< Jeremiah 5:19]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.21|Jeremiah 5:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | declare  |**<big>&#8207;[[H5046\|הַגִּ֥ידוּ]]&#8207; </big>**| ha.Gi.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֖את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

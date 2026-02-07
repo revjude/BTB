@@ -1,10 +1,7 @@
 **LXX Psalm 8:7** 
 <small><sub>**LXX:**</sub></small>
 sheep and oxen all together, and still also the cattle of the plain, 
-<small><sub>**KJV:**</sub></small>
-All sheep and oxen, yea, and the beasts of the field;
-<small><sub>**BSB:**</sub></small>
-all sheep and oxen, and even the beasts of the field,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.8.6|<< Psalm 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.8.8|Psalm 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

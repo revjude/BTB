@@ -1,10 +1,7 @@
 **LXX Genesis 24:59** 
 <small><sub>**LXX:**</sub></small>
 And they sent forth Rebekah  their sister, and  her possessions, and the servant  of Abraham, and the \[ones\] with him. 
-<small><sub>**KJV:**</sub></small>
-And they sent away Rebekah their sister, and her nurse, and Abraham’s servant, and his men.
-<small><sub>**BSB:**</sub></small>
-So they sent their sister Rebekah on her way, along with her nurse and Abraham’s servant and his men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.58|<< Genesis 24:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.60|Genesis 24:60 >>]]</td></tr></table>
 
 | Translation | Greek |

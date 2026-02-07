@@ -1,4 +1,4 @@
-**Psalms 116:17** 
+**Psalms 116:17**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will offer to You a sacrifice of thanksgiving and call on the name of the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.16|<< Psalms 116:16]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.18|Psalms 116:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to you  |**<big>&#8207;[[H9005\|לְֽ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kha-<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will sacrifice  |**<big>&#8207;[[H2076\|אֶ֭זְבַּח]]&#8207; </big>**| 'Ez.bach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

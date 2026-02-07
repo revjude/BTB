@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the dying of Saul, that David returned \[from\] striking  Amalek. And David stayed in Ziklag two days. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;
-<small><sub>**BSB:**</sub></small>
-After the death of Saul, David returned from the slaughter of the Amalekites and stayed in Ziklag two days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.13|<< 1 Samuel 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.2|2 Samuel 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

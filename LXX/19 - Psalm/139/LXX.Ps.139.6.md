@@ -1,10 +1,7 @@
 **LXX Psalm 139:6** 
 <small><sub>**LXX:**</sub></small>
 The knowledge of you causes wonder in me; it was strengthened; in no way should I be able to \[attain\] it. 
-<small><sub>**KJV:**</sub></small>
-[Such] knowledge [is] too wonderful for me; it is high, I cannot [attain] unto it.
-<small><sub>**BSB:**</sub></small>
-Such knowledge is too wonderful for me, too lofty for me to attain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.5|<< Psalm 139:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.7|Psalm 139:7 >>]]</td></tr></table>
 
 | Translation | Greek |

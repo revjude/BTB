@@ -1,4 +1,4 @@
-**Jeremiah 39:17** 
+**Jeremiah 39:17**<big><big>[[Jer.39.11 Jeremiah Delivered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will deliver thee in that day, saith the LORD: and thou shalt not be given into the hand of the men of whom thou [art] afraid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will deliver you on that day, declares the LORD, and you will not be deliv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.16|<< Jeremiah 39:16]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.18|Jeremiah 39:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will deliver you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5337\|הִצַּלְתִּ֥י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.tzal.Ti.<small><sup>[[HVhq1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.yom-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

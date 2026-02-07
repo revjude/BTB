@@ -1,10 +1,7 @@
 **LXX Proverbs 31:22** 
 <small><sub>**LXX:**</sub></small>
 A double goat's hair coat she made  for her husband; and from out of linen and purple \[material\] garments for herself. 
-<small><sub>**KJV:**</sub></small>
-She maketh herself coverings of tapestry; her clothing [is] silk and purple.
-<small><sub>**BSB:**</sub></small>
-She makes coverings for her bed; her clothing is fine linen and purple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.21|<< Proverbs 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.23|Proverbs 31:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 21:12** 
+**1 Kings 21:12**<big><big>[[1Kgs.21.8 Jezebel’s Plot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They proclaimed a fast, and set Naboth on high among the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They proclaimed a fast and gave Naboth a seat of honor among the people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.11|<< 1 Kings 21:11]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.13|1 Kings 21:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they proclaimed  |**<big>&#8207;[[H7121I\|קָרְא֖וּ]]&#8207; </big>**| ka.re.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fast  |**<big>&#8207;[[H6685\|צ֑וֹם]]&#8207; </big>**| Tzom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

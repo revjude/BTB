@@ -1,10 +1,7 @@
 **LXX Numbers 7:3** 
 <small><sub>**LXX:**</sub></small>
 And they brought  their gifts before \[the\] <span class="smallcaps">lord</span>, six wagons covered, and twelve oxen; a wagon from two rulers, and a calf from each. And they brought \[them\] before the tent. 
-<small><sub>**KJV:**</sub></small>
-And they brought their offering before the LORD, six covered wagons, and twelve oxen; a wagon for two of the princes, and for each one an ox: and they brought them before the tabernacle.
-<small><sub>**BSB:**</sub></small>
-They brought as their offering before the LORD six covered carts and twelve oxen—an ox from each leader and a cart from every two leaders—and presented them before the tabernacle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.2|<< Numbers 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.4|Numbers 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 27:11** 
 <small><sub>**LXX:**</sub></small>
 So also to the side  towards \[the\] north \[you shall make\] shrouds a hundred cubits in length, and  their posts -- twenty; and  their bases -- twenty, made of brass; and  their hooks, and the clips for the posts, and the bases being silver plated with silver metal. 
-<small><sub>**KJV:**</sub></small>
-And likewise for the north side in length [there shall be] hangings of an hundred [cubits] long, and his twenty pillars and their twenty sockets [of] brass; the hooks of the pillars and their fillets [of] silver.
-<small><sub>**BSB:**</sub></small>
-Likewise there are to be curtains on the north side, a hundred cubits long, with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.10|<< Exodus 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.12|Exodus 27:12 >>]]</td></tr></table>
 
 | Translation | Greek |

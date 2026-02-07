@@ -1,4 +1,4 @@
-**Exodus 2:6** 
+**Exodus 2:6**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when she had opened [it], she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This [is one] of the Hebrews’ children.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When she opened it, she saw the child, and behold, the little boy was crying. So
 > $\quad$ referenced by: [[Acts.7.21|Acts 7:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she opened [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6605A\|תִּפְתַּח֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tif.Tach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she saw him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תִּרְאֵ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tir.'E.<small><sup>[[HVqw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

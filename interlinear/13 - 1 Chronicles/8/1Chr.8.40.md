@@ -1,4 +1,4 @@
-**1 Chronicles 8:40** 
+**1 Chronicles 8:40**<big><big>[[1Chr.8.33 The Family of Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Ulam were mighty men of valour, archers, and had many sons, and sons’ sons, an hundred and fifty. All these [are] of the sons of Benjamin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Ulam were mighty men of valor, archers, and they had many sons and g
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.39|<< 1 Chronicles 8:39]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.1|1 Chronicles 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יִּהְי֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

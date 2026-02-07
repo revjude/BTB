@@ -1,10 +1,7 @@
 **LXX Numbers 30:10** 
 <small><sub>**LXX:**</sub></small>
 But if in the house  of her husband  her vow \[be\], or the set of limits on  her life with an oath, 
-<small><sub>**KJV:**</sub></small>
-And if she vowed in her husband’s house, or bound her soul by a bond with an oath;
-<small><sub>**BSB:**</sub></small>
-If a woman in her husband’s house has made a vow or put herself under an obligation with an oath,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.9|<< Numbers 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.11|Numbers 30:11 >>]]</td></tr></table>
 
 | Translation | Greek |

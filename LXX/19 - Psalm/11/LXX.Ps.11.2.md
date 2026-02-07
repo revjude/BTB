@@ -1,10 +1,7 @@
 **LXX Psalm 11:2** 
 <small><sub>**LXX:**</sub></small>
 For behold, the sinners stretch tight \[the\] bow; they prepare arrows for \[the\] quiver,  to shoot in moonlight the straight  in heart. 
-<small><sub>**KJV:**</sub></small>
-For, lo, the wicked bend [their] bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.
-<small><sub>**BSB:**</sub></small>
-For behold, the wicked bend their bows. They set their arrow on the string to shoot from the shadows at the upright in heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.1|<< Psalm 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.11.3|Psalm 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

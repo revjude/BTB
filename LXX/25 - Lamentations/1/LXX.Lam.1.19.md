@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΚΩΦ</p>
 
 I called  my lovers, but they misled me.  My priests and  my elders failed in the city, for they sought food for themselves, that they should restore their lives. 
-<small><sub>**KJV:**</sub></small>
-I called for my lovers, [but] they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
-<small><sub>**BSB:**</sub></small>
-I called out to my lovers, but they have betrayed me. My priests and elders perished in the city while they searched for food to keep themselves alive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.18|<< Lamentations 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.20|Lamentations 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

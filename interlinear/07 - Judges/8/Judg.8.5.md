@@ -1,4 +1,4 @@
-**Judges 8:5** 
+**Judges 8:5**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they [be] faint, and I am pursuing after Zebah and Zalmunna, kings of Midian.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Gideon said to the men of Succoth, “Please give my troops some bread, for t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.4|<< Judges 8:4]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.6|Judges 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] people of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

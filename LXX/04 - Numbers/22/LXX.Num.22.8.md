@@ -1,10 +1,7 @@
 **LXX Numbers 22:8** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, You rest up here the night, and I will answer you \[the\] things which ever \[the\] <span class="smallcaps">lord</span> should speak to me! And the rulers of Moab stayed with Balaam. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Lodge here this night, and I will bring you word again, as the LORD shall speak unto me: and the princes of Moab abode with Balaam.
-<small><sub>**BSB:**</sub></small>
-“Spend the night here,” Balaam replied, “and I will give you the answer that the LORD speaks to me.” So the princes of Moab stayed with Balaam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.7|<< Numbers 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.9|Numbers 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

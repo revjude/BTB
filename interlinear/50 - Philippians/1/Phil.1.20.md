@@ -1,12 +1,12 @@
-**Philippians 1:20
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:20**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 According to my earnest expectation and [my] hope, that in nothing I shall be ashamed, but [that] with all boldness, as always, [so] now also Christ shall be magnified in my body, whether [it be] by life, or by death.
 <small><sub>**BSB:**</sub></small>
 I eagerly expect and hope that I will in no way be ashamed, but will have complete boldness so that now as always Christ will be exalted in my body, whether by life or by death.
 <small><sub>**Literal:**</sub></small>
 according to the earnest expectation and hope of mine that in no [thing] I will be ashamed but in all boldness as always also now will be magnified Christ in the body of mine, whether through life or through death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.19|<< Philippians 1:19]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.21|Philippians 1:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

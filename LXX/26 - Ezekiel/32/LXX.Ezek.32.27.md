@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:27** 
 <small><sub>**LXX:**</sub></small>
 And they sleep with the giants  having fallen from \[the\] eon, \[the\] ones who went down into Hades with weapons of warfare; and they put  their swords under  their heads, and their lawless deeds came upon  their bones, for they were frightened giants during  their life. 
-<small><sub>**KJV:**</sub></small>
-And they shall not lie with the mighty [that are] fallen of the uncircumcised, which are gone down to hell with their weapons of war: and they have laid their swords under their heads, but their iniquities shall be upon their bones, though [they were] the terror of the mighty in the land of the living.
-<small><sub>**BSB:**</sub></small>
-They do not lie down with the fallen warriors of old, who went down to Sheol with their weapons of war, whose swords were placed under their heads, whose shields rested on their bones, although the terror of the mighty was once in the land of the living.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.26|<< Ezekiel 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.28|Ezekiel 32:28 >>]]</td></tr></table>
 
 | Translation | Greek |

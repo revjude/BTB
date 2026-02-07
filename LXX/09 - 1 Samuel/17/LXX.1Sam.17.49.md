@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:49** 
 <small><sub>**LXX:**</sub></small>
 And David stretched out  his hand into the canteen, and he took from there one stone, and he slung \[it\], and he struck the Philistine in  his forehead; and the stone penetrated unto  his forehead; and he fell upon his face upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And David put his hand in his bag, and took thence a stone, and slang [it], and smote the Philistine in his forehead, that the stone sunk into his forehead; and he fell upon his face to the earth.
-<small><sub>**BSB:**</sub></small>
-Then David reached into his bag, took out a stone, and slung it, striking the Philistine on the forehead. The stone sank into his forehead, and he fell facedown on the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.48|<< 1 Samuel 17:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.50|1 Samuel 17:50 >>]]</td></tr></table>
 
 | Translation | Greek |

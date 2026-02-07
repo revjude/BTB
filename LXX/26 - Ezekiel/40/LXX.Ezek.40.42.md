@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:42** 
 <small><sub>**LXX:**</sub></small>
 And \[there were\] four tables of the whole burnt-offerings, having been made of dressed stones -- a cubit and a half \[was\] the width, and two cubits and a half \[was\] the length; and a cubit \[was\] the height; upon them they placed the items with which they slew the whole burnt-offerings there, and the \[animals\] which are offered in sacrifice. 
-<small><sub>**KJV:**</sub></small>
-And the four tables [were] of hewn stone for the burnt offering, of a cubit and an half long, and a cubit and an half broad, and one cubit high: whereupon also they laid the instruments wherewith they slew the burnt offering and the sacrifice.
-<small><sub>**BSB:**</sub></small>
-There were also four tables of dressed stone for the burnt offering, each a cubit and a half long, a cubit and a half wide, and a cubit high. On these were placed the utensils used to slaughter the burnt offerings and the other sacrifices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.41|<< Ezekiel 40:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.43|Ezekiel 40:43 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 23:2** 
+**2 Chronicles 23:2**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they went throughout Judah and gathered the Levites from all the cities of Ju
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.1|<< 2 Chronicles 23:1]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.3|2 Chronicles 23:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went around  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437G\|יָּסֹ֙בּוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.So.bu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Judah  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3063G\|יהוּדָ֔ה]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

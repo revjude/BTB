@@ -1,5 +1,5 @@
-**Hebrews 10:9
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:9**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second.
 <small><sub>**BSB:**</sub></small>
 Then He adds, “Here I am, I have come to do Your will.” He takes away the first to establish the second.
@@ -10,7 +10,7 @@ then He has said; Behold I have come <the> to do of the God the will of You. He 
 > $\quad$ referencing: [[LXX.Ps.40.7|Ps 40:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He has said; |**<big>[[G2046\|εἴρηκεν·]]</big>**  |eirēken <small><sup>[[V-RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

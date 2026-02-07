@@ -1,4 +1,4 @@
-**Exodus 39:35** 
+**Exodus 39:35**<big><big>[[Exod.39.32 Moses Approves the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ark of the testimony, and the staves thereof, and the mercy seat,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the ark of the Testimony with its poles and the mercy seat;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.34|<< Exodus 39:34]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.36|Exodus 39:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ark of  |**<big>&#8207;[[H0727\|אֲרֹ֥ן]]&#8207; </big>**| 'a.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

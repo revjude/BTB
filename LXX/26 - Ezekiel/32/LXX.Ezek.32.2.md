@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, take up a lamentation for Pharaoh king of Egypt! And you shall say to him, You were likened to a lion of nations, and as a dragon, the one in the sea. And you gored in  your rivers, and disturbed water \[with\] your feet, and trampled  your rivers. 
-<small><sub>**KJV:**</sub></small>
-Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou [art] as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers.
-<small><sub>**BSB:**</sub></small>
-“Son of man, take up a lament for Pharaoh king of Egypt and say to him: ‘You are like a lion among the nations; you are like a monster in the seas. You thrash about in your rivers, churning up the waters with your feet and muddying the streams.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.1|<< Ezekiel 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.3|Ezekiel 32:3 >>]]</td></tr></table>
 
 | Translation | Greek |

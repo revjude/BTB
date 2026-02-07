@@ -1,10 +1,7 @@
 **LXX Exodus 25:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall make for it four rings of gold, and you shall place the four rings upon the four parts  of \[its\] feet under the rim. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make for it four rings of gold, and put the rings in the four corners that [are] on the four feet thereof.
-<small><sub>**BSB:**</sub></small>
-Make four gold rings for the table and fasten them to the four corners at its four legs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.25|<< Exodus 25:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.27|Exodus 25:27 >>]]</td></tr></table>
 
 | Translation | Greek |

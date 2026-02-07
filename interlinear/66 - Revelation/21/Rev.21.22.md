@@ -1,12 +1,12 @@
-**Revelation 21:22
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:22**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
 <small><sub>**BSB:**</sub></small>
 But I saw no temple in the city, because the Lord God Almighty and the Lamb are its temple.
 <small><sub>**Literal:**</sub></small>
 And temple not I saw in it; <the> for the Lord <the> God <the> Almighty temple of it is and the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.21|<< Revelation 21:21]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.23|Revelation 21:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | temple |**<big>[[G3485\|ναὸν]]</big>**  |naon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

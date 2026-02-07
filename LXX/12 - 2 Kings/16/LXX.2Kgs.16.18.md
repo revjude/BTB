@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:18** 
 <small><sub>**LXX:**</sub></small>
 And the foundation of the chair of the Sabbaths he built in \[the\] house of \[the\] <span class="smallcaps">lord</span>, and the entrance of the king the one outside, he turned in \[the\] house of \[the\] <span class="smallcaps">lord</span> from in front \[of the\] king of \[the\] Assyrians. 
-<small><sub>**KJV:**</sub></small>
-And the covert for the sabbath that they had built in the house, and the king’s entry without, turned he from the house of the LORD for the king of Assyria.
-<small><sub>**BSB:**</sub></small>
-And on account of the king of Assyria, he removed the Sabbath canopy they had built in the temple and closed the royal entryway outside the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.17|<< 2 Kings 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.19|2 Kings 16:19 >>]]</td></tr></table>
 
 | Translation | Greek |

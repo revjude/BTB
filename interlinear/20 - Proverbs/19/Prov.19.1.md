@@ -1,4 +1,4 @@
-**Proverbs 19:1** 
+**Proverbs 19:1**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] the poor that walketh in his integrity, than [he that is] perverse in his lips, and is a fool.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better a poor man who walks with integrity than a fool whose lips are perverse.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.24|<< Proverbs 18:24]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.2|Proverbs 19:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|טֽוֹב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tov-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a poor [person]  |**<big>&#8207;[[H7326\|רָ֭שׁ]]&#8207; </big>**| rash<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

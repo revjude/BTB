@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:4** 
 <small><sub>**LXX:**</sub></small>
 Take the loincloth, the one around  your loin, and arise, and proceed unto the Euphrates, and hide it there in the hole of the rock! 
-<small><sub>**KJV:**</sub></small>
-Take the girdle that thou hast got, which [is] upon thy loins, and arise, go to Euphrates, and hide it there in a hole of the rock.
-<small><sub>**BSB:**</sub></small>
-“Take the loincloth that you bought and are wearing, and go at once to Perath and hide it there in a crevice of the rocks.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.3|<< Jeremiah 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.5|Jeremiah 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

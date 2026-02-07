@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:27** 
 <small><sub>**LXX:**</sub></small>
 And in  my speaking to you, I shall open  your mouth, and you shall say to them, Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; The one hearing, let him hear! and the one resisting persuasion, let him resist persuasion! for it is a rebellious house! 
-<small><sub>**KJV:**</sub></small>
-But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord GOD; He that heareth, let him hear; and he that forbeareth, let him forbear: for they [are] a rebellious house.
-<small><sub>**BSB:**</sub></small>
-But when I speak with you, I will open your mouth, and you are to tell them, ‘This is what the Lord GOD says.’ Whoever listens, let him listen; and whoever refuses, let him refuse, for they are a rebellious house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.26|<< Ezekiel 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.1|Ezekiel 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

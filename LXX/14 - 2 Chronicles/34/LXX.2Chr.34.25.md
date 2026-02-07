@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:25** 
 <small><sub>**LXX:**</sub></small>
 Because they abandoned me, and burnt incense to alien gods, that they should provoke me to anger by all the works  of their hands. And my rage was burned against  this place, and it will not be extinguished. 
-<small><sub>**KJV:**</sub></small>
-Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be poured out upon this place, and shall not be quenched.
-<small><sub>**BSB:**</sub></small>
-because they have forsaken Me and burned incense to other gods, that they might provoke Me to anger with all the works of their hands. My wrath will be poured out upon this place and will not be quenched.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.24|<< 2 Chronicles 34:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.26|2 Chronicles 34:26 >>]]</td></tr></table>
 
 | Translation | Greek |

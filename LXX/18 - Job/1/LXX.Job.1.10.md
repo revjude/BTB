@@ -1,10 +1,7 @@
 **LXX Job 1:10** 
 <small><sub>**LXX:**</sub></small>
 \[Have\] you not enclosed him, and the \[things\] inside  his household, and the \[things\] outside? And all of the \[things\] being to him round about -- the works  of his hands you blessed, and  you made his cattle many upon the earth. 
-<small><sub>**KJV:**</sub></small>
-Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.
-<small><sub>**BSB:**</sub></small>
-Have You not placed a hedge on every side around him and his household and all that he owns? You have blessed the work of his hands, and his possessions have increased in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.9|<< Job 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.11|Job 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

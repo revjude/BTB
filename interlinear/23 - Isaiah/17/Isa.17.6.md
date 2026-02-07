@@ -1,4 +1,4 @@
-**Isaiah 17:6** 
+**Isaiah 17:6**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet gleaning grapes shall be left in it, as the shaking of an olive tree, two [or] three berries in the top of the uppermost bough, four [or] five in the outmost fruitful branches thereof, saith the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet gleanings will remain, like an olive tree that has been beaten—two or thre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.5|<< Isaiah 17:5]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.7|Isaiah 17:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be left  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7604\|נִשְׁאַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nish.'ar-<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in it  |**<big>&#8207;[[H9003\|בּ֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

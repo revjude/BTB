@@ -1,4 +1,4 @@
-**Isaiah 57:18** 
+**Isaiah 57:18**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have seen his ways, and will heal him: I will lead him also, and restore comforts unto him and to his mourners.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have seen his ways, but I will heal him; I will guide him and restore comfort 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.17|<< Isaiah 57:17]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.19|Isaiah 57:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ways his  |**<big>&#8207;[[H1870G\|דְּרָכָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| de.ra.Kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have seen  |**<big>&#8207;[[H7200G\|רָאִ֖יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

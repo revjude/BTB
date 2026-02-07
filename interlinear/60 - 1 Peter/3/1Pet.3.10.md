@@ -1,5 +1,5 @@
-**1 Peter 3:10
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:10**<big><big>[[1Pet.3.8 Turning from Evil|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:
 <small><sub>**BSB:**</sub></small>
 For, “Whoever would love life and see good days must keep his tongue from evil and his lips from deceitful speech.
@@ -10,7 +10,7 @@ The [one] for desiring life to love and to see days good he should keep the tong
 > $\quad$ referencing: [[LXX.Ps.34.12|Ps 34:12-16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 40:7** (40:8)
+**Psalms 40:7**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Lo, I come: in the volume of the book [it is] written of me,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then I said, “Here I am, I have come—it is written about me in the scroll:
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]] ☩ [[Heb.10.5|Heb 10:5-7]] ☩ [[Heb.10.9|Heb 10:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I said  |**<big>&#8207;[[H0559\|אָ֭מַרְתִּי]]&#8207; </big>**| 'A.mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 5:3** 
 <small><sub>**LXX:**</sub></small>
 And every man of Israel was assembled unto the king in the holiday -- this the seventh month. 
-<small><sub>**KJV:**</sub></small>
-Wherefore all the men of Israel assembled themselves unto the king in the feast which [was] in the seventh month.
-<small><sub>**BSB:**</sub></small>
-So all the men of Israel came together to the king at the feast in the seventh month.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.2|<< 2 Chronicles 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.4|2 Chronicles 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

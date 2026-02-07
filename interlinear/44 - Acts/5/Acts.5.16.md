@@ -1,12 +1,12 @@
-**Acts 5:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:16**<big><big>[[Acts.5.12 The Apostles Heal Many|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There came also a multitude [out] of the cities round about unto Jerusalem, bringing sick folks, and them which were vexed with unclean spirits: and they were healed every one.
 <small><sub>**BSB:**</sub></small>
 Crowds also gathered from the towns around Jerusalem, bringing the sick and those tormented by unclean spirits, and all of them were healed.
 <small><sub>**Literal:**</sub></small>
 Were coming together now also the multitude from the surrounding cities into Jerusalem bringing [the] sick and [those] being tormented by spirits unclean, who were healed all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.15|<< Acts 5:15]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.17|Acts 5:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were coming together |**<big>[[G4905\|συνήρχετο]]</big>**  |sunērcheto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

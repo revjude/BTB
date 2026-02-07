@@ -1,10 +1,7 @@
 **LXX Genesis 46:6** 
 <small><sub>**LXX:**</sub></small>
 And taking up  their possessions, and all the property which they acquired in \[the\] land of Canaan, they entered into Egypt -- Jacob and all  his seed with him. 
-<small><sub>**KJV:**</sub></small>
-And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:
-<small><sub>**BSB:**</sub></small>
-They also took the livestock and possessions they had acquired in the land of Canaan, and Jacob and all his offspring went to Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.5|<< Genesis 46:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.7|Genesis 46:7 >>]]</td></tr></table>
 
 | Translation | Greek |

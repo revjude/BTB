@@ -1,4 +1,4 @@
-**Judges 5:8** 
+**Judges 5:8**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They chose new gods; then [was] war in the gates: was there a shield or spear seen among forty thousand in Israel?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they chose new gods, then war came to their gates. Not a shield or spear wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.7|<< Judges 5:7]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.9|Judges 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it chose  |**<big>&#8207;[[H0977\|יִבְחַר֙]]&#8207; </big>**| yiv.Char<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gods  |**<big>&#8207;[[H0430J\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:25** 
 <small><sub>**LXX:**</sub></small>
 Says \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, Behold, I punish  Amon her son by Egypt, and upon  her gods, and upon  her kings, and upon Pharaoh, and upon the ones relying upon him. 
-<small><sub>**KJV:**</sub></small>
-The LORD of hosts, the God of Israel, saith; Behold, I will punish the multitude of No, and Pharaoh, and Egypt, with their gods, and their kings; even Pharaoh, and [all] them that trust in him:
-<small><sub>**BSB:**</sub></small>
-The LORD of Hosts, the God of Israel, says: “Behold, I am about to punish Amon god of Thebes, along with Pharaoh, Egypt with her gods and kings, and those who trust in Pharaoh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.24|<< Jeremiah 46:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.26|Jeremiah 46:26 >>]]</td></tr></table>
 
 | Translation | Greek |

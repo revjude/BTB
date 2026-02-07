@@ -1,12 +1,12 @@
-**Luke 2:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:33**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Joseph and his mother marvelled at those things which were spoken of him.
 <small><sub>**BSB:**</sub></small>
 The Child’s father and mother were amazed at what was spoken about Him.
 <small><sub>**Literal:**</sub></small>
 And were the father of Him and the mother marveling at the [things] being spoken concerning Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.32|<< Luke 2:32]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.34|Luke 2:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

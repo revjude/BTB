@@ -1,4 +1,4 @@
-**2 Samuel 7:20** 
+**2 Samuel 7:20**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what can David say more unto thee? for thou, Lord GOD, knowest thy servant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What more can David say to You? For You know Your servant, O Lord GOD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.19|<< 2 Samuel 7:19]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.21|2 Samuel 7:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he increase  |**<big>&#8207;[[H3254H\|יּוֹסִ֥יף]]&#8207; </big>**| yo.Sif<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

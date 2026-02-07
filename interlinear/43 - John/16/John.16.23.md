@@ -1,12 +1,12 @@
-**John 16:23
-**<small><sub>**KJV:**</sub></small>
+**John 16:23**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give [it] you.
 <small><sub>**BSB:**</sub></small>
 In that day you will no longer ask Me anything. Truly, truly, I tell you, whatever you ask the Father in My name, He will give you.
 <small><sub>**Literal:**</sub></small>
 And in that [very] <the> day of Me myself not you will ask no [thing]. Amen Amen I say to you; that maybe whatever you may ask the Father in the name of Me He will give to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.22|<< John 16:22]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.24|John 16:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

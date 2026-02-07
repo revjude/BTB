@@ -1,10 +1,7 @@
 **LXX Joshua 19:13** 
 <small><sub>**LXX:**</sub></small>
 And from there it shall go around right opposite eastwards upon Gittah-hepher and Zin, and shall go through to Remmon Methoar \[to\] Neah. 
-<small><sub>**KJV:**</sub></small>
-And from thence passeth on along on the east to Gittahhepher, to Ittahkazin, and goeth out to Remmonmethoar to Neah;
-<small><sub>**BSB:**</sub></small>
-From there it crossed eastward to Gath-hepher and to Eth-kazin; it extended to Rimmon and curved around toward Neah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.12|<< Joshua 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.14|Joshua 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

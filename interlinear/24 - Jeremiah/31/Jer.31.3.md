@@ -1,4 +1,4 @@
-**Jeremiah 31:3** 
+**Jeremiah 31:3**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath appeared of old unto me, [saying], Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD appeared to us in the past, saying: “I have loved you with an everlas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.2|<< Jeremiah 31:2]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.4|Jeremiah 31:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from a distance  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7350\|רָח֕וֹק]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

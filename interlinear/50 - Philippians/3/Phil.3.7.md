@@ -1,12 +1,12 @@
-**Philippians 3:7
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:7**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But what things were gain to me, those I counted loss for Christ.
 <small><sub>**BSB:**</sub></small>
 But whatever was gain to me I count as loss for the sake of Christ.
 <small><sub>**Literal:**</sub></small>
 But whatever things were to me gain, these I have esteemed because of <the> Christ loss;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.6|<< Philippians 3:6]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.8|Philippians 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whatever things |**<big>[[G3748\|ἅτινα]]</big>**  |hatina <small><sup>[[R-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

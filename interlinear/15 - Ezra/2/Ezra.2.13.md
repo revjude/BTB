@@ -1,4 +1,4 @@
-**Ezra 2:13** 
+**Ezra 2:13**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Adonikam, six hundred sixty and six.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the descendants of Adonikam, 666;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.12|<< Ezra 2:12]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.14|Ezra 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי֙]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adonikam  |**<big>&#8207;[[H0140\|אֲדֹ֣נִיקָ֔ם]]&#8207; </big>**| 'a.Do.ni.Kam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

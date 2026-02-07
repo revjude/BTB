@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:28** 
 <small><sub>**LXX:**</sub></small>
 And his servants set him upon the chariot, and led him into Jerusalem. And they entombed him with  his fathers in  his tomb in \[the\] city of David. 
-<small><sub>**KJV:**</sub></small>
-And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.
-<small><sub>**BSB:**</sub></small>
-Then his servants carried him by chariot to Jerusalem and buried him with his fathers in his tomb in the City of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.27|<< 2 Kings 9:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.29|2 Kings 9:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:3** 
 <small><sub>**LXX:**</sub></small>
 O mountain in the plain,  of your wealth and all  of you treasures  I shall give for plunder;  your heights for sin in all  your boundaries. 
-<small><sub>**KJV:**</sub></small>
-O my mountain in the field, I will give thy substance [and] all thy treasures to the spoil, [and] thy high places for sin, throughout all thy borders.
-<small><sub>**BSB:**</sub></small>
-O My mountain in the countryside, I will give over your wealth and all your treasures as plunder, because of the sin of your high places, within all your borders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.2|<< Jeremiah 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.4|Jeremiah 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

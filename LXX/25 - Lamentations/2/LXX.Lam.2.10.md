@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΙΩΘ</p>
 
 They sat upon the ground; \[the\] elders of \[the\] daughter of Zion kept silent. They brought dust upon  their head; they girded on sackcloths; they led down to \[the\] ground \[the\] heads of virgins in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-The elders of the daughter of Zion sit upon the ground, [and] keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.
-<small><sub>**BSB:**</sub></small>
-The elders of the Daughter of Zion sit on the ground in silence. They have thrown dust on their heads and put on sackcloth. The young women of Jerusalem have bowed their heads to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.9|<< Lamentations 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.11|Lamentations 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:2** 
 <small><sub>**LXX:**</sub></small>
 And the one guiding shall enter according to the way of the columned porch of the gate outward, and shall stand at the thresholds of the gate; and the priests shall offer the \[things\] of his whole burnt-offerings and the \[things\]  of his deliverance \[offering\]; and he shall do obeisance upon the threshold of the gate, and he shall come forth; and the gate in no way shall be locked until evening. 
-<small><sub>**KJV:**</sub></small>
-And the prince shall enter by the way of the porch of [that] gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening.
-<small><sub>**BSB:**</sub></small>
-The prince is to enter from the outside through the portico of the gateway and stand by the gatepost, while the priests sacrifice his burnt offerings and peace offerings. He is to bow in worship at the threshold of the gate and then depart, but the gate must not be shut until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.1|<< Ezekiel 46:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.3|Ezekiel 46:3 >>]]</td></tr></table>
 
 | Translation | Greek |

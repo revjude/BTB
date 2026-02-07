@@ -1,4 +1,4 @@
-**1 Chronicles 6:24** (6:9)
+**1 Chronicles 6:24**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.23|<< 1 Chronicles 6:23]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.25|1 Chronicles 6:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Tahath  |**<big>&#8207;[[H8480H\|תַּ֤חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְּנ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| be.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 9:4** (9:3)
+**Jeremiah 9:4**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take ye heed every one of his neighbour, and trust ye not in any brother: for every brother will utterly supplant, and every neighbour will walk with slanders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take ye heed every one of his neighbour, and trust ye not in any brother: for ev
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.3|<< Jeremiah 9:3]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.5|Jeremiah 9:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | each  |**<big>&#8207;[[H0376I\|אִ֤ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from neighbor his  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7453\|רֵעֵ֙]]&#8207;&#8207;[[H9023\|הוּ֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

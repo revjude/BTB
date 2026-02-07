@@ -1,12 +1,12 @@
-**2 Corinthians 9:12
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:12**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God;
 <small><sub>**BSB:**</sub></small>
 For this ministry of service is not only supplying the needs of the saints but is also overflowing in many expressions of thanksgiving to God.
 <small><sub>**Literal:**</sub></small>
 For the ministry of the service this not only is completely filling up the needs of the saints but also is overflowing through many thanksgivings <the> to God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.11|<< 2 Corinthians 9:11]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.13|2 Corinthians 9:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 9:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:31**<big><big>[[Mark.9.30 The Second Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.
 <small><sub>**BSB:**</sub></small>
 because He was teaching His disciples. He told them, “The Son of Man will be delivered into the hands of men. They will kill Him, and after three days He will rise.”
 <small><sub>**Literal:**</sub></small>
 He was teaching for the disciples of Him and He was saying to them that The Son <the> of Man is delivered into [the] hands of men, and they will kill Him, and having been killed on [the] third day He will arise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.30|<< Mark 9:30]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.32|Mark 9:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was teaching |**<big>[[G1321\|ἐδίδασκεν]]</big>**  |edidasken <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

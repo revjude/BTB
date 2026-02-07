@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:37** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in \[the\] morning as Nabal sobered up from the wine, his wife reported to him all  these things. And his heart died in him, and he became as stone. 
-<small><sub>**KJV:**</sub></small>
-But it came to pass in the morning, when the wine was gone out of Nabal, and his wife had told him these things, that his heart died within him, and he became [as] a stone.
-<small><sub>**BSB:**</sub></small>
-In the morning when Nabal was sober, his wife told him about these events, and his heart failed within him, and he became like a stone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.36|<< 1 Samuel 25:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.38|1 Samuel 25:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 1:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:1**<big><big>[[1Cor.1.1 Greetings from Paul and Sosthenes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul, called [to be] an apostle of Jesus Christ through the will of God, and Sosthenes [our] brother,
 <small><sub>**BSB:**</sub></small>
 Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,
 <small><sub>**Literal:**</sub></small>
 Paul a called apostle of Christ Jesus through [the] will of God and Sosthenes the brother<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.27|<< Romans 16:27]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.2|1 Corinthians 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a called |**<big>[[G2822\|κλητὸς]]</big>**  |klētos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

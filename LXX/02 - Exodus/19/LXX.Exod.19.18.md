@@ -1,10 +1,7 @@
 **LXX Exodus 19:18** 
 <small><sub>**LXX:**</sub></small>
 The mount  Sinai smoked entirely on account of  God coming down upon it in fire. And the smoke ascended as smoke of a furnace. And all the people \[were\] exceedingly amazed. 
-<small><sub>**KJV:**</sub></small>
-And mount Sinai was altogether on a smoke, because the LORD descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly.
-<small><sub>**BSB:**</sub></small>
-Mount Sinai was completely enveloped in smoke, because the LORD had descended on it in fire. And the smoke rose like the smoke of a furnace, and the whole mountain quaked violently.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.17|<< Exodus 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.19|Exodus 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 2:33** 
+**Jeremiah 2:33**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How skillfully you pursue love! Even the most immoral of women could learn from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.32|<< Jeremiah 2:32]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.34|Jeremiah 2:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you make good  |**<big>&#8207;[[H3190\|תֵּיטִ֥בִי]]&#8207; </big>**| tei.Ti.vi<small><sup>[[HVhi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

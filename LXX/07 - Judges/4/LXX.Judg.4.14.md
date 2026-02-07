@@ -1,10 +1,7 @@
 **LXX Judges 4:14** 
 <small><sub>**LXX:**</sub></small>
 And Deborah said to Barak, Rise up! for this \[is\] the day in which \[the\] <span class="smallcaps">lord</span> delivers  Sisera into your hand. Behold \[is\] not \[the\] <span class="smallcaps">lord</span> gone in front of you? And Barak went down from  mount Tabor, and ten thousand men behind him. 
-<small><sub>**KJV:**</sub></small>
-And Deborah said unto Barak, Up; for this [is] the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him.
-<small><sub>**BSB:**</sub></small>
-Then Deborah said to Barak, “Arise, for this is the day that the LORD has delivered Sisera into your hand. Has not the LORD gone before you?” So Barak came down from Mount Tabor with ten thousand men following him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.13|<< Judges 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.15|Judges 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

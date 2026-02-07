@@ -1,4 +1,4 @@
-**2 Chronicles 20:37** 
+**2 Chronicles 20:37**<big><big>[[2Chr.20.35 Jehoshaphat’s Fleet Is Wrecked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the LORD hath broken thy works. And the ships were broken, that they were not able to go to Tarshish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.36|<< 2 Chronicles 20:36]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.1|2 Chronicles 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he prophesied  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5012\|יִּתְנַבֵּ֞א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.na.Be'<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eliezer  |**<big>&#8207;[[H0461L\|אֱלִיעֶ֤זֶר]]&#8207; </big>**| 'e.li.'E.zer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

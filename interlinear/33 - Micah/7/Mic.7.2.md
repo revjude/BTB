@@ -1,4 +1,4 @@
-**Micah 7:2** 
+**Micah 7:2**<big><big>[[Mic.7.1 Israel’s Great Misery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The good [man] is perished out of the earth: and [there is] none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The godly man has perished from the earth; there is no one upright among men. Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.1|<< Micah 7:1]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.3|Micah 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has perished  |**<big>&#8207;[[H0006\|אָבַ֤ד]]&#8207; </big>**| 'a.Vad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] faithful  |**<big>&#8207;[[H2623\|חָסִיד֙]]&#8207; </big>**| cha.Sid<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

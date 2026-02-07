@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:41** 
 <small><sub>**LXX:**</sub></small>
 And it was reported \[to\] Solomon, saying that, Shimei went from out of Jerusalem unto Gath, and he returned. 
-<small><sub>**KJV:**</sub></small>
-And it was told Solomon that Shimei had gone from Jerusalem to Gath, and was come again.
-<small><sub>**BSB:**</sub></small>
-When Solomon was told that Shimei had gone from Jerusalem to Gath and had returned,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.40|<< 1 Kings 2:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.42|1 Kings 2:42 >>]]</td></tr></table>
 
 | Translation | Greek |

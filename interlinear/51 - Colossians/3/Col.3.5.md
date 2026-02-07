@@ -1,12 +1,12 @@
-**Colossians 3:5
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:5**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:
 <small><sub>**BSB:**</sub></small>
 Put to death, therefore, the components of your earthly nature: sexual immorality, impurity, lust, evil desires, and greed, which is idolatry.
 <small><sub>**Literal:**</sub></small>
 do put to death therefore the members of you which [are] upon the earth: sexual immorality, impurity, passion, desire evil and <the> covetousness which is idolatry,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.4|<< Colossians 3:4]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.6|Colossians 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do put to death |**<big>[[G3499\|Νεκρώσατε]]</big>**  |Nekrōsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

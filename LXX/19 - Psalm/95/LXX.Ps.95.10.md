@@ -1,10 +1,7 @@
 **LXX Psalm 95:10** 
 <small><sub>**LXX:**</sub></small>
 Forty years I loathed  that generation, and said, They continually wander in the heart, and they do not know  my ways. 
-<small><sub>**KJV:**</sub></small>
-Forty years long was I grieved with [this] generation, and said, It [is] a people that do err in their heart, and they have not known my ways:
-<small><sub>**BSB:**</sub></small>
-For forty years I was angry with that generation, and I said, “They are a people whose hearts go astray, and they have not known My ways.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.95.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.9|<< Psalm 95:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.11|Psalm 95:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 95:10** is...

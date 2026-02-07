@@ -1,4 +1,4 @@
-**Job 29:13** 
+**Job 29:13**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The blessing of him that was ready to perish came upon me: and I caused the widow’s heart to sing for joy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The dying man blessed me, and I made the widow’s heart sing for joy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.12|<< Job 29:12]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.14|Job 29:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] blessing of  |**<big>&#8207;[[H1293\|בִּרְכַּ֣ת]]&#8207; </big>**| bir.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one] about to perish  |**<big>&#8207;[[H0006\|אֹ֭בֵד]]&#8207; </big>**| 'O.ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

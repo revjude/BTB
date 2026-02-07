@@ -1,4 +1,4 @@
-**Job 15:9** 
+**Job 15:9**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What knowest thou, that we know not? [what] understandest thou, which [is] not in us?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What do you know that we do not? What do you understand that is not clear to us?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.8|<< Job 15:8]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.10|Job 15:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you know  |**<big>&#8207;[[H3045\|יָּ֭דַעְתָּ]]&#8207; </big>**| Ya.da'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

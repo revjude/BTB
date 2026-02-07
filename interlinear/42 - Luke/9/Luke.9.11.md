@@ -1,12 +1,12 @@
-**Luke 9:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:11**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the people, when they knew [it], followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing.
 <small><sub>**BSB:**</sub></small>
 But the crowds found out and followed Him. He welcomed them and spoke to them about the kingdom of God, and He healed those who needed healing.
 <small><sub>**Literal:**</sub></small>
 The now crowds having known [it] they followed Him. and having received them He was speaking to them concerning the kingdom <the> of God, and those need having of healing He was healing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.10|<< Luke 9:10]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.12|Luke 9:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

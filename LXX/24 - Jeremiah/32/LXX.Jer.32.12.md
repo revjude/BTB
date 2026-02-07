@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:12** 
 <small><sub>**LXX:**</sub></small>
 and I gave it  to Baruch, son of Neriah, son of Maaseiah, before \[the\] eyes of Hanameel son of \[the\] brother of my father, and before \[the\] eyes of the ones standing witnessing and writing in the scroll of the possession, and according to \[the\] eyes of all the Jews  sitting down in the courtyard of the guard. 
-<small><sub>**KJV:**</sub></small>
-And I gave the evidence of the purchase unto Baruch the son of Neriah, the son of Maaseiah, in the sight of Hanameel mine uncle’s [son], and in the presence of the witnesses that subscribed the book of the purchase, before all the Jews that sat in the court of the prison.
-<small><sub>**BSB:**</sub></small>
-and I gave this deed to Baruch son of Neriah, the son of Mahseiah, in the sight of my cousin Hanamel and the witnesses who were signing the purchase agreement and all the Jews sitting in the courtyard of the guard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.11|<< Jeremiah 32:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.13|Jeremiah 32:13 >>]]</td></tr></table>
 
 | Translation | Greek |

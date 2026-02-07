@@ -1,4 +1,4 @@
-**2 Samuel 5:2** 
+**2 Samuel 5:2**<big><big>[[2Sam.5.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Even in times past, while Saul was king over us, you were the one who led Israel
 > $\quad$ referenced by: [[Matt.2.6|Matt 2:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | yesterday  |**<big>&#8207;[[H0865\|אֶתְמ֣וֹל]]&#8207; </big>**| 'et.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

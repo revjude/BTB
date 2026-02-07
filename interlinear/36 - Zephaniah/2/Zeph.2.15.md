@@ -1,4 +1,4 @@
-**Zephaniah 2:15** 
+**Zephaniah 2:15**<big><big>[[Zeph.2.12 Judgment on Cush and Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the rejoicing city that dwelt carelessly, that said in her heart, I [am], and [there is] none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, [and] wag his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This carefree city that dwells securely, that thinks to herself: “I am it, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.14|<< Zephaniah 2:14]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.1|Zephaniah 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֠את]]&#8207; </big>**| zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֤יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

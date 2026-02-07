@@ -1,10 +1,7 @@
 **LXX Psalm 18:20** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall recompense to me according to  my righteousness; even according to the cleanliness  of my hands he will recompense to me. 
-<small><sub>**KJV:**</sub></small>
-The LORD rewarded me according to my righteousness; according to the cleanness of my hands hath he recompensed me.
-<small><sub>**BSB:**</sub></small>
-The LORD has rewarded me according to my righteousness; He has repaid me according to the cleanness of my hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.19|<< Psalm 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.21|Psalm 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

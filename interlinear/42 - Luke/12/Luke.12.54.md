@@ -1,12 +1,12 @@
-**Luke 12:54
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:54**<big><big>[[Luke.12.54 Interpreting the Present Time|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said also to the people, When ye see a cloud rise out of the west, straightway ye say, There cometh a shower; and so it is.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to the crowds, “As soon as you see a cloud rising in the west, you say, ‘A shower is coming,’ and that is what happens.
 <small><sub>**Literal:**</sub></small>
 He was saying now also to the crowds; When you may see <the> a cloud rising up from [the] west, immediately you say that A shower is coming, and it happens so.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.53|<< Luke 12:53]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.55|Luke 12:55 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was saying |**<big>[[G3004G\|Ἔλεγεν]]</big>**  |Elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

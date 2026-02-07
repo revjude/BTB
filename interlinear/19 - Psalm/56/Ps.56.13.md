@@ -1,4 +1,4 @@
-**Psalms 56:13** (56:14)
+**Psalms 56:13**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast delivered my soul from death: [wilt] not [thou deliver] my feet from falling, that I may walk before God in the light of the living?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You have delivered my soul from death, and my feet from stumbling, that I ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.12|<< Psalms 56:12]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.57.0|Psalms 57:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have delivered  |**<big>&#8207;[[H5337\|הִצַּ֪לְתָּ]]&#8207; </big>**| hi.Tzal.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

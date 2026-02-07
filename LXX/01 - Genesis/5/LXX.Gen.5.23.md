@@ -1,10 +1,7 @@
 **LXX Genesis 5:23** 
 <small><sub>**LXX:**</sub></small>
 And came to pass all the days of Enoch, five and sixty and three hundred years. 
-<small><sub>**KJV:**</sub></small>
-And all the days of Enoch were three hundred sixty and five years:
-<small><sub>**BSB:**</sub></small>
-So Enoch lived a total of 365 years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.22|<< Genesis 5:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.24|Genesis 5:24 >>]]</td></tr></table>
 
 | Translation | Greek |

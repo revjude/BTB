@@ -1,4 +1,4 @@
-**Numbers 32:3** 
+**Numbers 32:3**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.2|<< Numbers 32:2]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.4|Numbers 32:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ataroth  |**<big>&#8207;[[H5852G\|עֲטָר֤וֹת]]&#8207; </big>**| a.ta.Rot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Dibon  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1769G\|דִיבֹן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> di.Von<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

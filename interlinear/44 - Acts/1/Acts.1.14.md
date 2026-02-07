@@ -1,12 +1,12 @@
-**Acts 1:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:14**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.
 <small><sub>**BSB:**</sub></small>
 With one accord they all continued in prayer, along with the women and Mary the mother of Jesus, and with His brothers.
 <small><sub>**Literal:**</sub></small>
 These all were steadfastly continuing with one accord <the> in prayer and <the> in supplication with the [the] women and Mary with the mother <the> of Jesus and with the brothers of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.13|<< Acts 1:13]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.15|Acts 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|Οὗτοι]]</big>**  |Houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

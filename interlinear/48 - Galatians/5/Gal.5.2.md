@@ -1,12 +1,12 @@
-**Galatians 5:2
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:2**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.
 <small><sub>**BSB:**</sub></small>
 Take notice: I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all.
 <small><sub>**Literal:**</sub></small>
 Behold I myself Paul say to you that if you shall become circumcised, Christ you no [thing] will profit;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.1|<< Galatians 5:1]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.3|Galatians 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2396\|Ἴδε]]</big>**  |Ide <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

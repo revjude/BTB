@@ -1,4 +1,4 @@
-**1 Chronicles 4:21** 
+**1 Chronicles 4:21**<big><big>[[1Chr.4.11 More Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Shelah the son of Judah [were], Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Shelah son of Judah: Er the father of Lecah, Laadah the father of Ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.20|<< 1 Chronicles 4:20]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.22|1 Chronicles 4:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵי֙]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shelah  |**<big>&#8207;[[H7956\|שֵׁלָ֣ה]]&#8207; </big>**| she.Lah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

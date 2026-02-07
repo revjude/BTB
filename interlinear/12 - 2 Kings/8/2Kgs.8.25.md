@@ -1,4 +1,4 @@
-**2 Kings 8:25** 
+**2 Kings 8:25**<big><big>[[2Kgs.8.25 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the son of Jehoram king of Judah begin to reign.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the twelfth year of the reign of Joram son of Ahab over Israel, Ahaziah son o
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.24|<< 2 Kings 8:24]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.26|2 Kings 8:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַת֙]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּים]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.teim-<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

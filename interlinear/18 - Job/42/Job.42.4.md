@@ -1,4 +1,4 @@
-**Job 42:4** 
+**Job 42:4**<big><big>[[Job.42.1 Job Submits Himself to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You said, ‘Listen now, and I will speak. I will question you, and you shall in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.3|<< Job 42:3]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.5|Job 42:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שְֽׁמַֽע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.ma'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֭א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

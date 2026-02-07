@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:26** 
 <small><sub>**LXX:**</sub></small>
 For all the gods of the nations \[are\] idols; and the <span class="smallcaps">lord</span> made the heavens. 
-<small><sub>**KJV:**</sub></small>
-For all the gods of the people [are] idols: but the LORD made the heavens.
-<small><sub>**BSB:**</sub></small>
-For all the gods of the nations are idols, but it is the LORD who made the heavens.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.25|<< 1 Chronicles 16:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.27|1 Chronicles 16:27 >>]]</td></tr></table>
 
 | Translation | Greek |

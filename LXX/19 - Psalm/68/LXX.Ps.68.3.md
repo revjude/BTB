@@ -1,10 +1,7 @@
 **LXX Psalm 68:3** 
 <small><sub>**LXX:**</sub></small>
 But let the just be glad! Let them exult in the presence of  God! Let them be made happy with gladness! 
-<small><sub>**KJV:**</sub></small>
-But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.
-<small><sub>**BSB:**</sub></small>
-But the righteous will be glad and rejoice before God; they will celebrate with joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.2|<< Psalm 68:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.4|Psalm 68:4 >>]]</td></tr></table>
 
 | Translation | Greek |

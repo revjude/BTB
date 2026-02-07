@@ -1,10 +1,7 @@
 **LXX 2 Samuel 4:7** 
 <small><sub>**LXX:**</sub></small>
 And they entered into the house. And Ishbosheth was sleeping upon  his bed in  his bedroom. And they strike him, and put him to death, and remove  his head. And they took  his head, and went forth in \[the\] way, the one according to \[the\] west, \[the\] entire  night. 
-<small><sub>**KJV:**</sub></small>
-For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night.
-<small><sub>**BSB:**</sub></small>
-They had entered the house while Ish-bosheth was lying on his bed, and having stabbed and killed him, they beheaded him, took his head, and traveled all night by way of the Arabah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.6|<< 2 Samuel 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.8|2 Samuel 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

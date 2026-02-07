@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:30** 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke into the ears of all \[the\] assembly of Israel the words  of this ode, until completion. 
-<small><sub>**KJV:**</sub></small>
-And Moses spake in the ears of all the congregation of Israel the words of this song, until they were ended.
-<small><sub>**BSB:**</sub></small>
-Then Moses recited aloud to the whole assembly of Israel the words of this song from beginning to end:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.29|<< Deuteronomy 31:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.1|Deuteronomy 32:1 >>]]</td></tr></table>
 
 | Translation | Greek |

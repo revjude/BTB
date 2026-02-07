@@ -1,5 +1,5 @@
-**Acts 3:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:22**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you.
 <small><sub>**BSB:**</sub></small>
 For Moses said, ‘The Lord your God will raise up for you a prophet like me from among your brothers. You must listen to Him in everything He tells you.
@@ -10,7 +10,7 @@ Moses indeed for to the fathers said that A prophet to you will raise up [the] L
 > $\quad$ referencing: [[LXX.Lev.23.29|Lev 23:29]] ☩ [[LXX.Deut.18.15|Deut 18:15]] ☩ [[LXX.Deut.18.18|Deut 18:18-19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

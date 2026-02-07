@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And from him arms shall rise up, and shall profane the sanctuary of the might. And they shall change over the perpetual \[sacrifice\], and shall offer an obliterating abomination. 
-<small><sub>**KJV:**</sub></small>
-And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily [sacrifice], and they shall place the abomination that maketh desolate.
-<small><sub>**BSB:**</sub></small>
-His forces will rise up and desecrate the temple fortress. They will abolish the daily sacrifice and set up the abomination of desolation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.30|<< Daniel 11:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.32|Daniel 11:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 11:31** is...

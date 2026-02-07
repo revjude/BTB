@@ -1,10 +1,7 @@
 **LXX Numbers 22:30** 
 <small><sub>**LXX:**</sub></small>
 And the donkey says  to Balaam, \[Am\] I not  your donkey, upon which you mounted from your youth, until  today's day? \[Have\] I acted to neglect by overlooking you thus? And he said, No! 
-<small><sub>**KJV:**</sub></small>
-And the ass said unto Balaam, [Am] not I thine ass, upon which thou hast ridden ever since [I was] thine unto this day? was I ever wont to do so unto thee? And he said, Nay.
-<small><sub>**BSB:**</sub></small>
-But the donkey said to Balaam, “Am I not the donkey you have ridden all your life until today? Have I ever treated you this way before?” “No,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.29|<< Numbers 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.31|Numbers 22:31 >>]]</td></tr></table>
 
 | Translation | Greek |

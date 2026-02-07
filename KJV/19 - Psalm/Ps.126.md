@@ -1,6 +1,6 @@
 (KJV) **Psalm 126**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.125|<< Psalm 125]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127|Psalm 127 >>]]</td></tr></table>
 
-***Zion’s Captives Restored*** ^bsb1419
+<big><big>[[Ps.126.1 Zion’s Captives Restored|⥃]]</big></big>***Zion’s Captives Restored***
 
 
 

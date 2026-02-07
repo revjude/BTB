@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:23** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Asa, and all  his dominion, and all which he did, and the cities which he built, behold are these not written upon a scroll of \[the\] words of the days of the kings of Judah? Only in the time  of his old age his feet caused pain. 
-<small><sub>**KJV:**</sub></small>
-The rest of all the acts of Asa, and all his might, and all that he did, and the cities which he built, [are] they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet.
-<small><sub>**BSB:**</sub></small>
-Now the rest of the acts of Asa, along with all his might, all his accomplishments, and the cities he built, are they not written in the Book of the Chronicles of the Kings of Judah? In his old age, however, he became diseased in his feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.22|<< 1 Kings 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.24|1 Kings 15:24 >>]]</td></tr></table>
 
 | Translation | Greek |

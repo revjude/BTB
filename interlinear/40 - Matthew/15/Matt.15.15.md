@@ -1,12 +1,12 @@
-**Matthew 15:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:15**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then answered Peter and said unto him, Declare unto us this parable.
 <small><sub>**BSB:**</sub></small>
 Peter said to Him, “Explain this parable to us.”
 <small><sub>**Literal:**</sub></small>
 Answering then <the> Peter said to Him; do explain to us <the> parable this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.14|<< Matthew 15:14]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.16|Matthew 15:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 48:9** 
+**Isaiah 48:9**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the sake of My name I will delay My wrath; for the sake of My praise I will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.8|<< Isaiah 48:8]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.10|Isaiah 48:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for [the] sake of  |**<big>&#8207;[[H4616\|לְמַ֤עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name my  |**<big>&#8207;[[H8034\|שְׁמִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

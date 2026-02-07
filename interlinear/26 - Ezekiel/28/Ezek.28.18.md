@@ -1,4 +1,4 @@
-**Ezekiel 28:18** 
+**Ezekiel 28:18**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast defiled thy sanctuaries by the multitude of thine iniquities, by the iniquity of thy traffick; therefore will I bring forth a fire from the midst of thee, it shall devour thee, and I will bring thee to ashes upon the earth in the sight of all them that behold thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By the multitude of your iniquities and the dishonesty of your trading you have 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.17|<< Ezekiel 28:17]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.19|Ezekiel 28:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] greatness of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7230\|רֹ֣ב]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | iniquities your  |**<big>&#8207;[[H5771G\|עֲוֹנֶ֗י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.vo.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

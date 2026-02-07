@@ -1,10 +1,7 @@
 **LXX Exodus 12:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> will go by to strike the Egyptians. And he shall see the blood upon the lintel and upon both of the doorposts. And \[the\] <span class="smallcaps">lord</span> will go by the door, and he will not leave off the annihilating \[so as\] to enter into  your house to strike. 
-<small><sub>**KJV:**</sub></small>
-For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite [you].
-<small><sub>**BSB:**</sub></small>
-When the LORD passes through to strike down the Egyptians, He will see the blood on the top and sides of the doorframe and will pass over that doorway; so He will not allow the destroyer to enter your houses and strike you down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.22|<< Exodus 12:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.24|Exodus 12:24 >>]]</td></tr></table>
 
 | Translation | Greek |

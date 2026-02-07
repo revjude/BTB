@@ -1,10 +1,7 @@
 **LXX Numbers 4:3** 
 <small><sub>**LXX:**</sub></small>
 from twenty and five years and up unto fifty years, every  one entering to officiate to do all the works in the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-From thirty years old and upward even until fifty years old, all that enter into the host, to do the work in the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-men from thirty to fifty years old—everyone who is qualified to serve in the work at the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.2|<< Numbers 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.4|Numbers 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

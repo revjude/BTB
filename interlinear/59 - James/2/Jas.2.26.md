@@ -1,12 +1,12 @@
-**James 2:26
-**<small><sub>**KJV:**</sub></small>
+**James 2:26**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as the body without the spirit is dead, so faith without works is dead also.
 <small><sub>**BSB:**</sub></small>
 As the body without the spirit is dead, so faith without deeds is dead.
 <small><sub>**Literal:**</sub></small>
 Just as for the body apart from spirit dead is, so also <the> faith apart from <the> works dead is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.25|<< James 2:25]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.1|James 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Just as |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |

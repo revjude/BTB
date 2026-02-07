@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:22** 
 <small><sub>**LXX:**</sub></small>
 And they shall take from them a curse in all the resettlement of Judah in Babylon, saying, \[the\] <span class="smallcaps">lord</span> do to you as he did to Zedekiah, and as Ahab! whom \[the\] king of Babylon fried in fire. 
-<small><sub>**KJV:**</sub></small>
-And of them shall be taken up a curse by all the captivity of Judah which [are] in Babylon, saying, The LORD make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;
-<small><sub>**BSB:**</sub></small>
-Because of them, all the exiles of Judah who are in Babylon will use this curse: ‘May the LORD make you like Zedekiah and Ahab, whom the king of Babylon roasted in the fire!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.21|<< Jeremiah 29:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.23|Jeremiah 29:23 >>]]</td></tr></table>
 
 | Translation | Greek |

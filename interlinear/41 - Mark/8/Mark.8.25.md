@@ -1,12 +1,12 @@
-**Mark 8:25
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:25**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After that he put [his] hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly.
 <small><sub>**BSB:**</sub></small>
 Once again Jesus placed His hands on the man’s eyes, and when he opened them his sight was restored, and he could see everything clearly.
 <small><sub>**Literal:**</sub></small>
 Then again He put the hands upon the eyes of him, and made him look and he  restored and he was seeing well clearly everything.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.24|<< Mark 8:24]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.26|Mark 8:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G1534\|εἶτα]]</big>**  |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

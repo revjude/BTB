@@ -1,10 +1,7 @@
 **LXX Joshua 1:6** 
 <small><sub>**LXX:**</sub></small>
 Be strong and manly! for you shall divide up  to this people the land which I swore by an oath \[to\] your fathers to give to them. 
-<small><sub>**KJV:**</sub></small>
-Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them.
-<small><sub>**BSB:**</sub></small>
-Be strong and courageous, for you shall give these people the inheritance of the land that I swore to their fathers I would give them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.5|<< Joshua 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.7|Joshua 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

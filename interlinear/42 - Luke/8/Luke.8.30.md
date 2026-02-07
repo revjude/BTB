@@ -1,12 +1,12 @@
-**Luke 8:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:30**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.
 <small><sub>**BSB:**</sub></small>
 “What is your name?” Jesus asked. “Legion,” he replied, because many demons had gone into him.
 <small><sub>**Literal:**</sub></small>
 Asked now him <the> Jesus saying: What your name is <the> And he said; Legion; because were entered demons many into him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.29|<< Luke 8:29]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.31|Luke 8:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Asked |**<big>[[G1905\|ἐπηρώτησεν]]</big>**  |epērōtēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 18:13** 
+**Exodus 18:13**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The next day Moses took his seat to judge the people, and they stood around him 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.12|<< Exodus 18:12]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.14|Exodus 18:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] next day  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4283\|מָּחֳרָ֔ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mo.cho.Rat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

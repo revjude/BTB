@@ -1,12 +1,12 @@
-**1 Corinthians 8:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:10**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if any man see thee which hast knowledge sit at meat in the idol’s temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
 <small><sub>**BSB:**</sub></small>
 For if someone with a weak conscience sees you who are well informed eating in an idol’s temple, will he not be encouraged to eat food sacrificed to idols?
 <small><sub>**Literal:**</sub></small>
 If for anyone shall see you who is having knowledge in an idol’s temple eating, surely the conscience of him weak being he will be encouraged <to>  <the> the idol-sacrifices to eat?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.9|<< 1 Corinthians 8:9]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.11|1 Corinthians 8:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

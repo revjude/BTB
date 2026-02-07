@@ -1,4 +1,4 @@
-**1 Kings 7:40** 
+**1 Kings 7:40**<big><big>[[1Kgs.7.40 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hiram made the lavers, and the shovels, and the basons. So Hiram made an end of doing all the work that he made king Solomon for the house of the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Additionally, Huram made the pots, shovels, and sprinkling bowls. So Huram finis
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.39|<< 1 Kings 7:39]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.41|1 Kings 7:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hiram  |**<big>&#8207;[[H2438H\|חִיר֔וֹם]]&#8207; </big>**| chi.Rom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

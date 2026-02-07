@@ -1,12 +1,12 @@
-**Romans 8:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:7**<big><big>[[Rom.8.1 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because the carnal mind [is] enmity against God: for it is not subject to the law of God, neither indeed can be.
 <small><sub>**BSB:**</sub></small>
 because the mind of the flesh is hostile to God: It does not submit to God’s law, nor can it do so.
 <small><sub>**Literal:**</sub></small>
 because the mind of the flesh [is] hostility toward God; <the> for the law <the> of God not it is subject, nor even for can it [be];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.6|<< Romans 8:6]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.8|Romans 8:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 23:25** 
+**Jeremiah 23:25**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have heard what the prophets said, that prophesy lies in my name, saying, I ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.24|<< Jeremiah 23:24]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.26|Jeremiah 23:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֗עְתִּי]]&#8207; </big>**| sha.Ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֤ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

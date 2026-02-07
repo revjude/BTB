@@ -1,4 +1,4 @@
-**Job 20:9** 
+**Job 20:9**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eye also [which] saw him shall [see him] no more; neither shall his place any more behold him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The eye that saw him will see him no more, and his place will no longer behold h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.8|<< Job 20:8]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.10|Job 20:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an eye  |**<big>&#8207;[[H5869A\|עַ֣יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it caught sight of him  |**<big>&#8207;[[H7805\|שְׁ֭זָפַתּ]]&#8207;&#8207;[[H9033\|וּ]]&#8207; </big>**| She.za.fa.t<small><sup>[[HVqp3fs]]</sup></small> u<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

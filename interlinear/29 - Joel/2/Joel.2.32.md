@@ -1,4 +1,4 @@
-**Joel 2:32** (3:5)
+**Joel 2:32**<big><big>[[Joel.2.28 I Will Pour Out My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And everyone who calls on the name of the LORD will be saved; for on Mount Zion 
 > $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]] ☩ [[Rom.10.13|Rom 10:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כֹּ֧ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

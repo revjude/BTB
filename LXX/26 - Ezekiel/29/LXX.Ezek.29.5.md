@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:5** 
 <small><sub>**LXX:**</sub></small>
 And I will throw you down  quickly, and all the fishes  of your river. Upon \[the\] face of the plain you shall fall, and no way shall you be brought together; and no way shall you be screened. To the wild beasts of the earth, and to the winged creatures of the heaven I have given you for a thing \[to be\] devoured. 
-<small><sub>**KJV:**</sub></small>
-And I will leave thee [thrown] into the wilderness, thee and all the fish of thy rivers: thou shalt fall upon the open fields; thou shalt not be brought together, nor gathered: I have given thee for meat to the beasts of the field and to the fowls of the heaven.
-<small><sub>**BSB:**</sub></small>
-I will leave you in the desert, you and all the fish of your streams. You will fall on the open field and will not be taken away or gathered for burial. I have given you as food to the beasts of the earth and the birds of the air.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.4|<< Ezekiel 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.6|Ezekiel 29:6 >>]]</td></tr></table>
 
 | Translation | Greek |

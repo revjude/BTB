@@ -1,4 +1,4 @@
-**Judges 6:24** 
+**Judges 6:24**<big><big>[[Judg.6.11 The Call of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Gideon built an altar there unto the LORD, and called it Jehovahshalom: unto this day it [is] yet in Ophrah of the Abiezrites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Gideon built an altar to the LORD there and called it The LORD Is Peace. To t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.23|<< Judges 6:23]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.25|Judges 6:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּבֶן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֨ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

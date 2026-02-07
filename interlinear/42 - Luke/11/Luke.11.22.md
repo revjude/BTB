@@ -1,12 +1,12 @@
-**Luke 11:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:22**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils.
 <small><sub>**BSB:**</sub></small>
 But when someone stronger attacks and overpowers him, he takes away the armor in which the man trusted, and then he divides up his plunder.
 <small><sub>**Literal:**</sub></small>
 when however <the> [one] stronger than he having come upon [him] he may overcome him, the complete armor of him he takes away in which he had trusted, and the plunder of him he divides.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.21|<< Luke 11:21]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.23|Luke 11:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when |**<big>[[G1875\|ἐπὰν]]</big>**  |epan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then Darius the king rendered a decree, and examined in the libraries, of which the treasuries were situated there in Babylon. 
-<small><sub>**KJV:**</sub></small>
-Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.
-<small><sub>**BSB:**</sub></small>
-Thus King Darius ordered a search of the archives stored in the treasury of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.17|<< Ezra 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.2|Ezra 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

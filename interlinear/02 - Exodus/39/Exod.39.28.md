@@ -1,4 +1,4 @@
-**Exodus 39:28** 
+**Exodus 39:28**<big><big>[[Exod.39.22 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a mitre [of] fine linen, and goodly bonnets [of] fine linen, and linen breeches [of] fine twined linen,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as the turban of fine linen, the ornate headbands and undergarments of f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.27|<< Exodus 39:27]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.29|Exodus 39:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the turban  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4701\|מִּצְנֶ֣פֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Ne.fet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

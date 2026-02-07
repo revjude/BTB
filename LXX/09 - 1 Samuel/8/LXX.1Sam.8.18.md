@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:18** 
 <small><sub>**LXX:**</sub></small>
 And you shall yell in  that day before \[the\] face  of your king, of which you chose for yourselves; and \[the\] <span class="smallcaps">lord</span> will not heed you in  those days. 
-<small><sub>**KJV:**</sub></small>
-And ye shall cry out in that day because of your king which ye shall have chosen you; and the LORD will not hear you in that day.
-<small><sub>**BSB:**</sub></small>
-When that day comes, you will beg for relief from the king you have chosen, but the LORD will not answer you on that day.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.17|<< 1 Samuel 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.19|1 Samuel 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 11:10** 
 <small><sub>**LXX:**</sub></small>
 And Joshua returned in  that time, and overtook  Hazor; and  her king he killed by \[the\] broadsword. And Hazor was  formerly ruling all  these kingdoms. 
-<small><sub>**KJV:**</sub></small>
-And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms.
-<small><sub>**BSB:**</sub></small>
-At that time Joshua turned back and captured Hazor and put its king to the sword, because Hazor was formerly the head of all these kingdoms.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.9|<< Joshua 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.11|Joshua 11:11 >>]]</td></tr></table>
 
 | Translation | Greek |

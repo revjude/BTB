@@ -1,12 +1,12 @@
-**Luke 22:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:6**<big><big>[[Luke.22.3 Judas Agrees to Betray Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he promised, and sought opportunity to betray him unto them in the absence of the multitude.
 <small><sub>**BSB:**</sub></small>
 Judas consented, and began to look for an opportunity to betray Jesus to them in the absence of a crowd.
 <small><sub>**Literal:**</sub></small>
 And he promised and was seeking opportunity <the> to betray Him apart from [a] crowd to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.5|<< Luke 22:5]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.7|Luke 22:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he promised |**<big>[[G1843\|ἐξωμολόγησεν]]</big>**  |exōmologēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

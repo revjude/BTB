@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, Why  became your mother among cubs in \[the\] midst of lions? In \[the\] midst of lions she multiplied her cubs. 
-<small><sub>**KJV:**</sub></small>
-And say, What [is] thy mother? A lioness: she lay down among lions, she nourished her whelps among young lions.
-<small><sub>**BSB:**</sub></small>
-and say: ‘What was your mother? A lioness among the lions! She lay down among the young lions; she reared her cubs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.1|<< Ezekiel 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.3|Ezekiel 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

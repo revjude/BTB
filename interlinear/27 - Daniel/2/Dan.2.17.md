@@ -1,4 +1,4 @@
-**Daniel 2:17** 
+**Daniel 2:17**<big><big>[[Dan.2.14 The Dream Revealed to Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Daniel returned to his house and explained the matter to his friends Hanani
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.16|<< Daniel 2:16]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.18|Daniel 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֥יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Daniel  |**<big>&#8207;[[H1841H\|דָּֽנִיֵּ֖אל]]&#8207; </big>**| da.ni.Yel<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

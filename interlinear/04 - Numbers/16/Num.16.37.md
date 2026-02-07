@@ -1,4 +1,4 @@
-**Numbers 16:37** (17:2)
+**Numbers 16:37**<big><big>[[Num.16.36 The Censers Reserved for Holy Use|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Eleazar the son of Aaron the priest, that he take up the censers out of the burning, and scatter thou the fire yonder; for they are hallowed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak unto Eleazar the son of Aaron the priest, that he take up the censers out 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.36|<< Numbers 16:36]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.38|Numbers 16:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H0559\|אֱמֹ֨ר]]&#8207; </big>**| 'e.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

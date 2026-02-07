@@ -1,4 +1,4 @@
-**Psalms 107:40** 
+**Psalms 107:40**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He poureth contempt upon princes, and causeth them to wander in the wilderness, [where there is] no way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He pours out contempt on the nobles and makes them wander in a trackless wastela
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.39|<< Psalms 107:39]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.41|Psalms 107:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he was] pouring out  |**<big>&#8207;[[H8210G\|שֹׁפֵ֣ךְ]]&#8207; </big>**| sho.Fekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | contempt  |**<big>&#8207;[[H0937\|בּ֭וּז]]&#8207; </big>**| buz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

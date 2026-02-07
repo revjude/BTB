@@ -1,4 +1,4 @@
-**Nehemiah 1:2** 
+**Nehemiah 1:2**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That Hanani, one of my brethren, came, he and [certain] men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hanani, one of my brothers, arrived with men from Judah. So I questioned them ab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.1|<< Nehemiah 1:1]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.3|Nehemiah 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hanani  |**<big>&#8207;[[H2607J\|חֲנָ֜נִי]]&#8207; </big>**| cha.Na.ni<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

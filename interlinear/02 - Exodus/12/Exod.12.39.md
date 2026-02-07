@@ -1,4 +1,4 @@
-**Exodus 12:39** 
+**Exodus 12:39**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Since their dough had no leaven, the people baked what they had brought out of E
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.38|<< Exodus 12:38]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.40|Exodus 12:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they baked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0644\|יֹּאפ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:19** 
 <small><sub>**LXX:**</sub></small>
 And should you look upon the prayer  of your manservant, and upon  his supplication, O <span class="smallcaps">lord</span>  my God,  to heed the supplication and the prayer, which  your manservant prayed before you today; 
-<small><sub>**KJV:**</sub></small>
-Have respect therefore to the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and the prayer which thy servant prayeth before thee:
-<small><sub>**BSB:**</sub></small>
-Yet regard the prayer and plea of Your servant, O LORD my God, so that You may hear the cry and the prayer that Your servant is praying before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.18|<< 2 Chronicles 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.20|2 Chronicles 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

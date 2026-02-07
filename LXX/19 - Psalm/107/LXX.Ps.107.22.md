@@ -1,10 +1,7 @@
 **LXX Psalm 107:22** 
 <small><sub>**LXX:**</sub></small>
 And let them sacrifice to him a sacrifice of praise! And let them declare  his works in exultation! 
-<small><sub>**KJV:**</sub></small>
-And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.
-<small><sub>**BSB:**</sub></small>
-Let them offer sacrifices of thanksgiving and declare His works with rejoicing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.21|<< Psalm 107:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.23|Psalm 107:23 >>]]</td></tr></table>
 
 | Translation | Greek |

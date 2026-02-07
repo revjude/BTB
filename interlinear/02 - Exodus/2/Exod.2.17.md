@@ -1,4 +1,4 @@
-**Exodus 2:17** 
+**Exodus 2:17**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when some shepherds came along and drove them away, Moses rose up to help th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.16|<< Exodus 2:16]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.18|Exodus 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֥אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the shepherds  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7462B\|רֹעִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

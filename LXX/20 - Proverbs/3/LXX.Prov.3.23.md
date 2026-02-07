@@ -1,10 +1,7 @@
 **LXX Proverbs 3:23** 
 <small><sub>**LXX:**</sub></small>
 that you should go yielded in peace in all  your ways, and the foot of yours in no way should stumble. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou walk in thy way safely, and thy foot shall not stumble.
-<small><sub>**BSB:**</sub></small>
-Then you will go on your way in safety, and your foot will not stumble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.22|<< Proverbs 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.24|Proverbs 3:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 23:14** 
 <small><sub>**LXX:**</sub></small>
 And bread and new parched green wheat you shall not eat until  this same day, until whenever you should offer the gifts to your God -- an eternal law unto  your generations in every dwelling of yours. 
-<small><sub>**KJV:**</sub></small>
-And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: [it shall be] a statute for ever throughout your generations in all your dwellings.
-<small><sub>**BSB:**</sub></small>
-You must not eat any bread or roasted or new grain until the very day you have brought this offering to your God. This is to be a permanent statute for the generations to come, wherever you live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.13|<< Leviticus 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.15|Leviticus 23:15 >>]]</td></tr></table>
 
 | Translation | Greek |

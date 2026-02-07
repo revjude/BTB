@@ -1,10 +1,7 @@
 **LXX Amos 8:8** 
 <small><sub>**LXX:**</sub></small>
 And concerning these \[things\], be disturbed the land not, and all the ones dwelling in it mourn? And the consumption shall ascend as a river, and shall go down as \[the\] river of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Shall not the land tremble for this, and every one mourn that dwelleth therein? and it shall rise up wholly as a flood; and it shall be cast out and drowned, as [by] the flood of Egypt.
-<small><sub>**BSB:**</sub></small>
-Will not the land quake for this, and all its dwellers mourn? All of it will swell like the Nile; it will surge and then subside like the Nile in Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.7|<< Amos 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.9|Amos 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

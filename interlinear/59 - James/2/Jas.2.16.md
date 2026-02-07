@@ -1,12 +1,12 @@
-**James 2:16
-**<small><sub>**KJV:**</sub></small>
+**James 2:16**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one of you say unto them, Depart in peace, be [ye] warmed and filled; notwithstanding ye give them not those things which are needful to the body; what [doth it] profit?
 <small><sub>**BSB:**</sub></small>
 If one of you tells him, “Go in peace; stay warm and well fed,” but does not provide for his physical needs, what good is that?
 <small><sub>**Literal:**</sub></small>
 may say then anyone to them out from you; do go in peace, do be warmed and do be filled, surely not may give however to them the needful things for the body, what [is] the profit?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.15|<< James 2:15]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.17|James 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may say |**<big>[[G2036\|εἴπῃ]]</big>**  |eipē <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

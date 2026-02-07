@@ -1,5 +1,5 @@
-**Revelation 17:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:15**<big><big>[[Rev.17.14 The Victory of the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.
 <small><sub>**BSB:**</sub></small>
 Then the angel said to me, “The waters you saw, where the prostitute was seated, are peoples and multitudes and nations and tongues.
@@ -10,7 +10,7 @@ And he says to me; The waters that you saw, where the prostitute sits, peoples a
 > $\quad$ alluding to: [[LXX.Isa.8.7|Isa 8:7]] ☩ [[LXX.Jer.51.42|Jer 51:42]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

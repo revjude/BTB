@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the rulers of the people were settled in Jerusalem. And the rest of the people cast lots to bring one from \[every\] ten to settle in Jerusalem  the holy city, and nine parts in the \[other\] cities. 
-<small><sub>**KJV:**</sub></small>
-And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts [to dwell] in [other] cities.
-<small><sub>**BSB:**</sub></small>
-Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of ten to live in the holy city of Jerusalem, while the remaining nine were to dwell in their own towns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.39|<< Nehemiah 10:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.2|Nehemiah 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

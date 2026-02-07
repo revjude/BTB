@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass on the eighth day, Moses called Aaron, and  his sons, and the council of elders of Israel. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the eighth day, [that] Moses called Aaron and his sons, and the elders of Israel;
-<small><sub>**BSB:**</sub></small>
-On the eighth day Moses summoned Aaron and his sons and the elders of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.36|<< Leviticus 8:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.2|Leviticus 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

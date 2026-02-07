@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:15** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; In which day he went down into Hades, the abyss mourned him. And I attended to  her rivers, and restrained \[the\] abundance of water. And Lebanon was darkened over him; all the trees of the plains were enfeebled by him. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; In the day when he went down to the grave I caused a mourning: I covered the deep for him, and I restrained the floods thereof, and the great waters were stayed: and I caused Lebanon to mourn for him, and all the trees of the field fainted for him.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘On the day it was brought down to Sheol, I caused mourning. I covered the deep because of it; I held back its rivers; its abundant waters were restrained. I made Lebanon mourn for it, and all the trees of the field fainted because of it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.14|<< Ezekiel 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.16|Ezekiel 31:16 >>]]</td></tr></table>
 
 | Translation | Greek |

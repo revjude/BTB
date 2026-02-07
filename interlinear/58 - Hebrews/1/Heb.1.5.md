@@ -1,5 +1,5 @@
-**Hebrews 1:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:5**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?
 <small><sub>**BSB:**</sub></small>
 For to which of the angels did God ever say: “You are My Son; today I have become Your Father”? Or again: “I will be His Father, and He will be My Son”?
@@ -10,7 +10,7 @@ To which for did He say ever of the angels: Son of mine are You yourself, I myse
 > $\quad$ referencing: [[LXX.2Sam.7.14|2Sam 7:14]] ☩ [[LXX.1Chr.17.13|1Chr 17:13]] ☩ [[LXX.Ps.2.7|Ps 2:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To which |**<big>[[G5101\|Τίνι]]</big>**  |Tini <small><sup>[[I-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

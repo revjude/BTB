@@ -1,4 +1,4 @@
-**Genesis 31:40** 
+**Genesis 31:40**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thus] I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As it was, the heat consumed me by day and the frost by night, and sleep fled fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.39|<< Genesis 31:39]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.41|Genesis 31:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I was  |**<big>&#8207;[[H1961\|הָיִ֧יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֛וֹם]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

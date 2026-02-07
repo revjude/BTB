@@ -1,4 +1,4 @@
-**Proverbs 2:13** 
+**Proverbs 2:13**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who leave the paths of uprightness, to walk in the ways of darkness;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from those who leave the straight paths to walk in the ways of darkness,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.12|<< Proverbs 2:12]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.14|Proverbs 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] leave  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H5800A\|עֹ֣זְבִים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'O.ze.vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | paths of  |**<big>&#8207;[[H0734\|אָרְח֣וֹת]]&#8207; </big>**| 'a.re.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

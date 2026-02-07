@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:7** 
 <small><sub>**LXX:**</sub></small>
 I acquired manservants, and maidservants; and native-born servants were born to me; and indeed a possession of a great herd and flock became to me above all the ones being before me in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-I got [me] servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:
-<small><sub>**BSB:**</sub></small>
-I acquired menservants and maidservants, and servants were born in my house. I also owned more herds and flocks than anyone in Jerusalem before me,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.6|<< Ecclesiastes 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.8|Ecclesiastes 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

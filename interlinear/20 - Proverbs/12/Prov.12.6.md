@@ -1,4 +1,4 @@
-**Proverbs 12:6** 
+**Proverbs 12:6**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of the wicked [are] to lie in wait for blood: but the mouth of the upright shall deliver them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The words of the wicked lie in wait for blood, but the speech of the upright res
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.5|<< Proverbs 12:5]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.7|Proverbs 12:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֣י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֣ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

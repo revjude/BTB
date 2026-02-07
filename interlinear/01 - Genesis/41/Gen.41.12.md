@@ -1,4 +1,4 @@
-**Genesis 41:12** 
+**Genesis 41:12**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now a young Hebrew was there with us, a servant of the captain of the guard. We 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.11|<< Genesis 41:11]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.13|Genesis 41:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8033G\|שָׁ֨ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with us  |**<big>&#8207;[[H0854\|אִתָּ֜]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| 'i.Ta.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

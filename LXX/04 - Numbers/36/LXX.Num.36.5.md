@@ -1,10 +1,7 @@
 **LXX Numbers 36:5** 
 <small><sub>**LXX:**</sub></small>
 And Moses gave charge to the sons of Israel, through \[the\] order of \[the\] <span class="smallcaps">lord</span>, saying, Thus \[to the\] tribe of \[the\] sons of Israel, say, 
-<small><sub>**KJV:**</sub></small>
-And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well.
-<small><sub>**BSB:**</sub></small>
-So at the word of the LORD, Moses commanded the Israelites: “The tribe of the sons of Joseph speaks correctly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.4|<< Numbers 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.6|Numbers 36:6 >>]]</td></tr></table>
 
 | Translation | Greek |

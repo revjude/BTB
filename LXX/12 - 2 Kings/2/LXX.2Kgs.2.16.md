@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:16** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Behold indeed, there are with  your servants fifty men, sons of power. In going indeed, let them seek  your master! lest at some time spirit \[of the\] <span class="smallcaps">lord</span> lifted him, and tossed him in the mountains, or upon one of the hills. And Elisha said, You shall not send. 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the LORD hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send.
-<small><sub>**BSB:**</sub></small>
-“Look now,” they said to Elisha, “we your servants have fifty valiant men. Please let them go and search for your master. Perhaps the Spirit of the LORD has taken him up and put him on one of the mountains or in one of the valleys.” “Do not send them,” Elisha replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.15|<< 2 Kings 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.17|2 Kings 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

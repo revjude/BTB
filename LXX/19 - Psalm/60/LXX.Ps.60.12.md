@@ -1,10 +1,7 @@
 **LXX Psalm 60:12** 
 <small><sub>**LXX:**</sub></small>
 In  God we do powerfully, and he shall treat with contempt the ones afflicting us. 
-<small><sub>**KJV:**</sub></small>
-Through God we shall do valiantly: for he [it is that] shall tread down our enemies.
-<small><sub>**BSB:**</sub></small>
-With God we will perform with valor, and He will trample our enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.60.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.11|<< Psalm 60:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.61.1|Psalm 61:1 >>]]</td></tr></table>
 
 | Translation | Greek |

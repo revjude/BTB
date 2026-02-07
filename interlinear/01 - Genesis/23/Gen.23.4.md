@@ -1,4 +1,4 @@
-**Genesis 23:4** 
+**Genesis 23:4**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I [am] a stranger and a sojourner with you: give me a possession of a buryingpla
 > $\quad$ referenced by: [[Heb.11.13|Heb 11:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [am] a sojourner  |**<big>&#8207;[[H1616\|גֵּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ger-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a resident alien  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8453A\|תוֹשָׁ֥ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.Shav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 12:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:30**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that is not with me is against me; and he that gathereth not with me scattereth abroad.
 <small><sub>**BSB:**</sub></small>
 He who is not with Me is against Me, and he who does not gather with Me scatters.
 <small><sub>**Literal:**</sub></small>
 The [one] not being with Me against Me is, and the [one] not gathering with Me scatters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.29|<< Matthew 12:29]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.31|Matthew 12:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

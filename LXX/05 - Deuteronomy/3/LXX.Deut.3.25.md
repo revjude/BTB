@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:25** 
 <small><sub>**LXX:**</sub></small>
 Passing over then I will see  this good land, the one being on the other side of the Jordan,  this good mountain, and the Antilebanon. 
-<small><sub>**KJV:**</sub></small>
-I pray thee, let me go over, and see the good land that [is] beyond Jordan, that goodly mountain, and Lebanon.
-<small><sub>**BSB:**</sub></small>
-Please let me cross over and see the good land beyond the Jordan—that pleasant hill country as well as Lebanon!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.24|<< Deuteronomy 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.26|Deuteronomy 3:26 >>]]</td></tr></table>
 
 | Translation | Greek |

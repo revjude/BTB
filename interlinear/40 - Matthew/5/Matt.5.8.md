@@ -1,12 +1,12 @@
-**Matthew 5:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:8**<big><big>[[Matt.5.3 The Beatitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [are] the pure in heart: for they shall see God.
 <small><sub>**BSB:**</sub></small>
 Blessed are the pure in heart, for they will see God.
 <small><sub>**Literal:**</sub></small>
 Blessed [are] the pure <the> in heart, for they themselves <the> God will see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.7|<< Matthew 5:7]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.9|Matthew 5:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [are] |**<big>[[G3107\|Μακάριοι]]</big>**  |Makarioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

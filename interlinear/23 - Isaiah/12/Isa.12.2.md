@@ -1,4 +1,4 @@
-**Isaiah 12:2** 
+**Isaiah 12:2**<big><big>[[Isa.12.1 Joyful Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, God [is] my salvation; I will trust, and not be afraid: for the LORD JEHOVAH [is] my strength and [my] song; he also is become my salvation.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Surely God is my salvation; I will trust and not be afraid. For the LORD GOD is 
 > $\quad$ referenced by: [[Exod.15.2|Exod 15:2]] ☩ [[Ps.118.14|Ps 118:14]] ☩ [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0410G\|אֵ֧ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

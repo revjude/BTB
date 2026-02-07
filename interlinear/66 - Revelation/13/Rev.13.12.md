@@ -1,12 +1,12 @@
-**Revelation 13:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:12**<big><big>[[Rev.13.11 The Beast from the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
 <small><sub>**BSB:**</sub></small>
 And this beast exercised all the authority of the first beast and caused the earth and those who dwell in it to worship the first beast, whose mortal wound had been healed.
 <small><sub>**Literal:**</sub></small>
 And the authority of the first beast all it exercises on behalf of it and makes the earth and those in it dwelling that they will worship the beast <the> first, of whom was healed the wound the fatal of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.11|<< Revelation 13:11]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.13|Revelation 13:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

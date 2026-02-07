@@ -1,4 +1,4 @@
-**Jeremiah 24:1** 
+**Jeremiah 24:1**<big><big>[[Jer.24.1 The Good and Bad Figs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shewed me, and, behold, two baskets of figs [were] set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After Nebuchadnezzar king of Babylon had carried away Jeconiah son of Jehoiakim 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.40|<< Jeremiah 23:40]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.2|Jeremiah 24:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he showed me  |**<big>&#8207;[[H7200G\|הִרְאַ]]&#8207;&#8207;[[H9030\|נִי֮]]&#8207; </big>**| hir.'a.<small><sup>[[HVhp3ms]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֒]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

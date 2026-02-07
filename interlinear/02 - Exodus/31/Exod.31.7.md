@@ -1,4 +1,4 @@
-**Exodus 31:7** 
+**Exodus 31:7**<big><big>[[Exod.31.1 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that [is] thereupon, and all the furniture of the tabernacle,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the Tent of Meeting, the ark of the Testimony and the mercy seat upon it, and al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.6|<< Exodus 31:6]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.8|Exodus 31:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tent of  |**<big>&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

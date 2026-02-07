@@ -1,4 +1,4 @@
-**Jeremiah 22:15** 
+**Jeremiah 22:15**<big><big>[[Jer.22.13 A Warning about Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shalt thou reign, because thou closest [thyself] in cedar? did not thy father eat and drink, and do judgment and justice, [and] then [it was] well with him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Does it make you a king to excel in cedar? Did not your father have food and dri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.14|<< Jeremiah 22:14]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.16|Jeremiah 22:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ are you king  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H4427A\|תִֽמְלֹ֔ךְ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> tim.Lokh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

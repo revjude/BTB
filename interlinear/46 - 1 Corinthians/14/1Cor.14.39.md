@@ -1,12 +1,12 @@
-**1 Corinthians 14:39
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:39**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.
 <small><sub>**BSB:**</sub></small>
 So, my brothers, be eager to prophesy, and do not forbid speaking in tongues.
 <small><sub>**Literal:**</sub></small>
 So, brothers of mine, do earnestly desire <the> to prophesy, and <the> to speak not do forbid in tongues.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.38|<< 1 Corinthians 14:38]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.40|1 Corinthians 14:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So, |**<big>[[G5620\|Ὥστε,]]</big>**  |Hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers |**<big>[[G0080\|ἀδελφοί]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

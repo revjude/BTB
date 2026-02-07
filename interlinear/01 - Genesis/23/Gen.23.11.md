@@ -1,4 +1,4 @@
-**Genesis 23:11** 
+**Genesis 23:11**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nay, my lord, hear me: the field give I thee, and the cave that [is] therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nay, my lord, hear me: the field give I thee, and the cave that [is] therein, I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.10|<< Genesis 23:10]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.12|Genesis 23:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | no  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O lord my  |**<big>&#8207;[[H0113\|אֲדֹנִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

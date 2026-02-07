@@ -1,4 +1,4 @@
-**Psalms 95:10** 
+**Psalms 95:10**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forty years long was I grieved with [this] generation, and said, It [is] a people that do err in their heart, and they have not known my ways:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For forty years I was angry with that generation, and I said, “They are a peop
 > $\quad$ referenced by: [[Acts.13.18|Acts 13:18]] ☩ [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | forty  |**<big>&#8207;[[H0705\|אַרְבָּ֘עִ֤ים]]&#8207; </big>**| 'ar.Ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

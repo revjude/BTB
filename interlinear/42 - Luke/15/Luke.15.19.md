@@ -1,12 +1,12 @@
-**Luke 15:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:19**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And am no more worthy to be called thy son: make me as one of thy hired servants.
 <small><sub>**BSB:**</sub></small>
 I am no longer worthy to be called your son. Make me like one of your hired servants.”’
 <small><sub>**Literal:**</sub></small>
 and no longer am I worthy to be called son of you. do make me like one of the servants of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.18|<< Luke 15:18]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.20|Luke 15:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | no longer |**<big>[[G3756\|οὐκέτι]]</big>**  |ouketi <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

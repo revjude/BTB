@@ -1,4 +1,4 @@
-**1 Kings 13:10** 
+**1 Kings 13:10**<big><big>[[1Kgs.13.1 Jeroboam’s Hand Withers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he went another way, and returned not by the way that he came to Bethel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the man of God went another way and did not return by the way he had come to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.9|<< 1 Kings 13:9]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.11|1 Kings 13:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֖לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by a way  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1870K\|דֶ֣רֶךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

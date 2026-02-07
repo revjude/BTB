@@ -1,4 +1,4 @@
-**Jonah 1:5** 
+**Jonah 1:5**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that [were] in the ship into the sea, to lighten [it] of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sailors were afraid, and each cried out to his own god. And they threw the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.4|<< Jonah 1:4]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.6|Jonah 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּֽירְא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.re.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sailors  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4419\|מַּלָּחִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.la.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

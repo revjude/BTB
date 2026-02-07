@@ -1,10 +1,7 @@
 **LXX Daniel 9:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> our God was vigilant against the evil, and brought them upon us. For \[the\] <span class="smallcaps">lord</span> our God \[is\] just in all  his doing which he did. And we hearkened not to  his voice. 
-<small><sub>**KJV:**</sub></small>
-Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God [is] righteous in all his works which he doeth: for we obeyed not his voice.
-<small><sub>**BSB:**</sub></small>
-Therefore the LORD has kept the calamity in store and brought it upon us. For the LORD our God is righteous in all He does; yet we have not obeyed His voice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.13|<< Daniel 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.15|Daniel 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

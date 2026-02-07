@@ -1,4 +1,4 @@
-**1 Chronicles 29:8** 
+**1 Chronicles 29:8**<big><big>[[1Chr.29.1 Offerings for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they with whom [precious] stones were found gave [them] to the treasure of the house of the LORD, by the hand of Jehiel the Gershonite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever had precious stones gave them to the treasury of the house of the LORD, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.7|<< 1 Chronicles 29:7]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.9|1 Chronicles 29:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the [one who] was found  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4672\|נִּמְצָ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> nim.Tza'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with him  |**<big>&#8207;[[H0854\|אִתּ]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'i.T<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

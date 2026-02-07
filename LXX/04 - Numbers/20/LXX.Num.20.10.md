@@ -1,10 +1,7 @@
 **LXX Numbers 20:10** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Aaron held an assembly \[of\] the congregation before the rock. And he said to them, Hear me! O ones resisting persuasion; must we bring forth to you water from out of this rock? 
-<small><sub>**KJV:**</sub></small>
-And Moses and Aaron gathered the congregation together before the rock, and he said unto them, Hear now, ye rebels; must we fetch you water out of this rock?
-<small><sub>**BSB:**</sub></small>
-Then Moses and Aaron gathered the assembly in front of the rock, and Moses said to them, “Listen now, you rebels, must we bring you water out of this rock?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.9|<< Numbers 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.11|Numbers 20:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:14** 
 <small><sub>**LXX:**</sub></small>
 Butter of oxen, and milk of sheep, with fat of lambs and rams, offspring of bulls and he-goats, with fat of kidneys of wheat, and they drank wine \[the\] blood of \[the\] grape. 
-<small><sub>**KJV:**</sub></small>
-Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape.
-<small><sub>**BSB:**</sub></small>
-with curds from the herd and milk from the flock, with the fat of lambs, with rams from Bashan, and goats, with the choicest grains of wheat. From the juice of the finest grapes you drank the wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.13|<< Deuteronomy 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.15|Deuteronomy 32:15 >>]]</td></tr></table>
 
 | Translation | Greek |

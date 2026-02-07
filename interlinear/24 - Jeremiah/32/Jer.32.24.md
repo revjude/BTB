@@ -1,4 +1,4 @@
-**Jeremiah 32:24** 
+**Jeremiah 32:24**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold the mounts, they are come unto the city to take it; and the city is given into the hand of the Chaldeans, that fight against it, because of the sword, and of the famine, and of the pestilence: and what thou hast spoken is come to pass; and, behold, thou seest [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See how the siege ramps are mounted against the city to capture it. And by sword
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.23|<< Jeremiah 32:23]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.25|Jeremiah 32:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the mounds  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5550\|סֹּלְל֗וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> so.le.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

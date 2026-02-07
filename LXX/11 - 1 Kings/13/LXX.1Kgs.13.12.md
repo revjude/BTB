@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:12** 
 <small><sub>**LXX:**</sub></small>
 And their father said to them, saying, Which way has he went? And his sons showed to him the way which the man of God went, the one coming from out of Judah. 
-<small><sub>**KJV:**</sub></small>
-And their father said unto them, What way went he? For his sons had seen what way the man of God went, which came from Judah.
-<small><sub>**BSB:**</sub></small>
-“Which way did he go?” their father asked. And his sons showed him the way taken by the man of God, who had come from Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.11|<< 1 Kings 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.13|1 Kings 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

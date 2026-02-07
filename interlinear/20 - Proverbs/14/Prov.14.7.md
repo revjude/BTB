@@ -1,4 +1,4 @@
-**Proverbs 14:7** 
+**Proverbs 14:7**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go from the presence of a foolish man, when thou perceivest not [in him] the lips of knowledge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Stay away from a foolish man; you will gain no knowledge from his speech.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.6|<< Proverbs 14:6]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.8|Proverbs 14:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לֵ֣ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from before  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H5048\|נֶּגֶד]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

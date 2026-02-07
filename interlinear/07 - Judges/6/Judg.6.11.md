@@ -1,4 +1,4 @@
-**Judges 6:11** 
+**Judges 6:11**<big><big>[[Judg.6.11 The Call of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came an angel of the LORD, and sat under an oak which [was] in Ophrah, that [pertained] unto Joash the Abiezrite: and his son Gideon threshed wheat by the winepress, to hide [it] from the Midianites.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the angel of the LORD came and sat down under the oak in Ophrah that belong
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֞א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַ֣ךְ]]&#8207; </big>**| mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

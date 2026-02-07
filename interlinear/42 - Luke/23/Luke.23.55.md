@@ -1,12 +1,12 @@
-**Luke 23:55
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:55**<big><big>[[Luke.23.50 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid.
 <small><sub>**BSB:**</sub></small>
 The women who had come with Jesus from Galilee followed, and they saw the tomb and how His body was placed.
 <small><sub>**Literal:**</sub></small>
 Having followed then and the women who were having come from <the> Galilee with Him saw the tomb and how was laid the body of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.54|<< Luke 23:54]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.56|Luke 23:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having followed |**<big>[[G2628\|κατακολουθήσασαι]]</big>**  |katakolouthēsasai <small><sup>[[V-AAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

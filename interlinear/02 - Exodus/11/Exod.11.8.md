@@ -1,4 +1,4 @@
-**Exodus 11:8** 
+**Exodus 11:8**<big><big>[[Exod.11.1 The Plague on the Firstborn Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all these officials of yours will come and bow before me, saying, ‘Go, you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.7|<< Exodus 11:7]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.9|Exodus 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָרְד֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.re.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

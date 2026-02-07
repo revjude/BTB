@@ -1,4 +1,4 @@
-**Exodus 26:14** 
+**Exodus 26:14**<big><big>[[Exod.26.7 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make a covering for the tent [of] rams’ skins dyed red, and a covering above [of] badgers’ skins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Also make a covering for the tent out of ram skins dyed red, and over that a cov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.13|<< Exodus 26:13]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.15|Exodus 26:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֤יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a covering  |**<big>&#8207;[[H4372\|מִכְסֶה֙]]&#8207; </big>**| mikh.Seh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

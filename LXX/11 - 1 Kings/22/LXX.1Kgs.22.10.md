@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:10** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel and Jehoshaphat king of Judah sat down each upon  his throne, armed, at \[the\] threshing-floor gate of Samaria. And all the prophets prophesied before them. 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them.
-<small><sub>**BSB:**</sub></small>
-Dressed in royal attire, the king of Israel and Jehoshaphat king of Judah were sitting on their thrones at the threshing floor by the entrance of the gate of Samaria, with all the prophets prophesying before them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.9|<< 1 Kings 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.11|1 Kings 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 8:25** 
+**Judges 8:25**<big><big>[[Judg.8.22 Gideon’s Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they answered, We will willingly give [them]. And they spread a garment, and did cast therein every man the earrings of his prey.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they answered, We will willingly give [them]. And they spread a garment, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.24|<< Judges 8:24]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.26|Judges 8:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to give>  |**<big>&#8207;[[H5414G\|נָת֣וֹן]]&#8207; </big>**| na.Ton<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

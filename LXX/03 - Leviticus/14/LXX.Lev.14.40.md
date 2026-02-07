@@ -1,10 +1,7 @@
 **LXX Leviticus 14:40** 
 <small><sub>**LXX:**</sub></small>
 then the priest shall assign, and they shall take out the stones in which is the infection, and they shall cast them outside the city, into an unclean place. 
-<small><sub>**KJV:**</sub></small>
-Then the priest shall command that they take away the stones in which the plague [is], and they shall cast them into an unclean place without the city:
-<small><sub>**BSB:**</sub></small>
-he must order that the contaminated stones be pulled out and thrown into an unclean place outside the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.39|<< Leviticus 14:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.41|Leviticus 14:41 >>]]</td></tr></table>
 
 | Translation | Greek |

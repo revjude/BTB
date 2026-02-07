@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:24** 
 <small><sub>**LXX:**</sub></small>
 And he shall deliver up  their kings into  your hands. And he shall destroy  their name under the heaven. Not anyone withstand against your face until whenever you should have utterly destroyed them. 
-<small><sub>**KJV:**</sub></small>
-And he shall deliver their kings into thine hand, and thou shalt destroy their name from under heaven: there shall no man be able to stand before thee, until thou have destroyed them.
-<small><sub>**BSB:**</sub></small>
-He will hand their kings over to you, and you will wipe out their names from under heaven. No one will be able to stand against you; you will annihilate them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.23|<< Deuteronomy 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.25|Deuteronomy 7:25 >>]]</td></tr></table>
 
 | Translation | Greek |

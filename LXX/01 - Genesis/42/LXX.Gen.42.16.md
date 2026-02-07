@@ -1,10 +1,7 @@
 **LXX Genesis 42:16** 
 <small><sub>**LXX:**</sub></small>
 You send one from you, and take  your brother! But you shall be taken away until  your sayings become apparent, if you be truthful, or not. But if not, by the health of Pharaoh, assuredly you are spies. 
-<small><sub>**KJV:**</sub></small>
-Send one of you, and let him fetch your brother, and ye shall be kept in prison, that your words may be proved, whether [there be any] truth in you: or else by the life of Pharaoh surely ye [are] spies.
-<small><sub>**BSB:**</sub></small>
-Send one of your number to get your brother; the rest of you will be confined so that the truth of your words may be tested. If they are untrue, then as surely as Pharaoh lives, you are spies!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.15|<< Genesis 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.17|Genesis 42:17 >>]]</td></tr></table>
 
 | Translation | Greek |

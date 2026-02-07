@@ -1,10 +1,7 @@
 **LXX Genesis 8:20** 
 <small><sub>**LXX:**</sub></small>
 And Noah built an altar to the <span class="smallcaps">lord</span>. And he took from all the clean cattle, and from all the clean winged creatures, and offered \[them\] for a whole burnt-offering upon the altar. 
-<small><sub>**KJV:**</sub></small>
-And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
-<small><sub>**BSB:**</sub></small>
-Then Noah built an altar to the LORD. And taking from every kind of clean animal and clean bird, he offered burnt offerings on the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.19|<< Genesis 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.21|Genesis 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

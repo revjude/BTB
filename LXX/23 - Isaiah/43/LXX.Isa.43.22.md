@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Not now I called you, O Jacob, nor acted to tire you, O Israel. 
-<small><sub>**KJV:**</sub></small>
-But thou hast not called upon me, O Jacob; but thou hast been weary of me, O Israel.
-<small><sub>**BSB:**</sub></small>
-But you have not called on Me, O Jacob, because you have grown weary of Me, O Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.21|<< Isaiah 43:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.23|Isaiah 43:23 >>]]</td></tr></table>
 
 | Translation | Greek |

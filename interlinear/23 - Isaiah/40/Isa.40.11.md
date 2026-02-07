@@ -1,4 +1,4 @@
-**Isaiah 40:11** 
+**Isaiah 40:11**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry [them] in his bosom, [and] shall gently lead those that are with young.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He tends His flock like a shepherd; He gathers the lambs in His arms and carries
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.10|<< Isaiah 40:10]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.12|Isaiah 40:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a shepherd  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7462B\|רֹעֶה֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flock his  |**<big>&#8207;[[H5739\|עֶדְר֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ed.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

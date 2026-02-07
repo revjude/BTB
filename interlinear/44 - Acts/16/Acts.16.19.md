@@ -1,12 +1,12 @@
-**Acts 16:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:19**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew [them] into the marketplace unto the rulers,
 <small><sub>**BSB:**</sub></small>
 When the girl’s owners saw that their hope of making money was gone, they seized Paul and Silas and dragged them before the authorities in the marketplace.
 <small><sub>**Literal:**</sub></small>
 Having seen now the masters of her that was gone the hope of the profit of them, having taken hold of <the> Paul and <the> Silas they dragged [them] into the marketplace before the rulers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.18|<< Acts 16:18]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.20|Acts 16:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

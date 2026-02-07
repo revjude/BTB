@@ -1,12 +1,12 @@
-**John 19:5
-**<small><sub>**KJV:**</sub></small>
+**John 19:5**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came Jesus forth, wearing the crown of thorns, and the purple robe. And [Pilate] saith unto them, Behold the man!
 <small><sub>**BSB:**</sub></small>
 When Jesus came out wearing the crown of thorns and the purple robe, Pilate said to them, “Here is the man!”
 <small><sub>**Literal:**</sub></small>
 Went forth therefore <the> Jesus outside wearing the thorny crown and the purple robe. And he says to them; behold the man!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.4|<< John 19:4]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.6|John 19:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Went forth |**<big>[[G1831\|Ἐξῆλθεν]]</big>**  |Exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

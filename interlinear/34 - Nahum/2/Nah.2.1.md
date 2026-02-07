@@ -1,4 +1,4 @@
-**Nahum 2:1** (2:2)
+**Nahum 2:1**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make [thy] loins strong, fortify [thy] power mightily.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One who scatters advances against you, O Nineveh. Guard the fortress! Watch the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.15|<< Nahum 1:15]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.2|Nahum 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has come up  |**<big>&#8207;[[H5927G\|עָלָ֥ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] scatters  |**<big>&#8207;[[H6327B\|מֵפִ֛יץ]]&#8207; </big>**| me.Fitz<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

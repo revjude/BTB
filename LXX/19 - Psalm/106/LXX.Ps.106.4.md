@@ -1,10 +1,7 @@
 **LXX Psalm 106:4** 
 <small><sub>**LXX:**</sub></small>
 Remember us, O <span class="smallcaps">lord</span>, with the benevolence  of your people! Visit us with  your deliverance! 
-<small><sub>**KJV:**</sub></small>
-Remember me, O LORD, with the favour [that thou bearest unto] thy people: O visit me with thy salvation;
-<small><sub>**BSB:**</sub></small>
-Remember me, O LORD, in Your favor to Your people; visit me with Your salvation,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.3|<< Psalm 106:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.5|Psalm 106:5 >>]]</td></tr></table>
 
 | Translation | Greek |

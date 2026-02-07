@@ -1,4 +1,4 @@
-**Jeremiah 10:7** 
+**Jeremiah 10:7**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise [men] of the nations, and in all their kingdoms, [there is] none like unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who would not fear You, O King of nations? This is Your due. For among all the w
 > $\quad$ referenced by: [[Rev.15.3|Rev 15:3-4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

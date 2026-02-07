@@ -1,12 +1,12 @@
-**Acts 22:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:25**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?
 <small><sub>**BSB:**</sub></small>
 But as they stretched him out to strap him down, Paul said to the centurion standing there, “Is it lawful for you to flog a Roman citizen without a trial?”
 <small><sub>**Literal:**</sub></small>
 As however they stretched forward him with the straps, said to the already standing by centurion <the> Paul; If a man a Roman and uncondemned it is lawful to you to flog?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.24|<< Acts 22:24]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.26|Acts 22:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

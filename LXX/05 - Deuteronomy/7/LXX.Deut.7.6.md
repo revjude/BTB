@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:6** 
 <small><sub>**LXX:**</sub></small>
 For you are a holy people \[to the\] <span class="smallcaps">lord</span>  your God. And \[the\] <span class="smallcaps">lord</span> your God preferred you to be to him a prized people from all the nations, as many as \[are\] upon \[the\] face of the earth. 
-<small><sub>**KJV:**</sub></small>
-For thou [art] an holy people unto the LORD thy God: the LORD thy God hath chosen thee to be a special people unto himself, above all people that [are] upon the face of the earth.
-<small><sub>**BSB:**</sub></small>
-For you are a people holy to the LORD your God. The LORD your God has chosen you to be a people for His prized possession out of all peoples on the face of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.5|<< Deuteronomy 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.7|Deuteronomy 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

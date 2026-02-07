@@ -1,12 +1,12 @@
-**Luke 7:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:47**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, [the same] loveth little.
 <small><sub>**BSB:**</sub></small>
 Therefore I tell you, her many sins have been forgiven, for she has loved much. But he who has been forgiven little loves little.”
 <small><sub>**Literal:**</sub></small>
 of this Because I say to you, have been forgiven the sins of her <the> many, for she loved much; to whom however little is forgiven, little he loves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.46|<< Luke 7:46]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.48|Luke 7:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of this |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Because |**<big>[[G5484\|χάριν,]]</big>**  |charin <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 Peter 2:23
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:23**<big><big>[[1Pet.2.21 Christ’s Example of Suffering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed [himself] to him that judgeth righteously:
 <small><sub>**BSB:**</sub></small>
 When they heaped abuse on Him, He did not retaliate; when He suffered, He made no threats, but entrusted Himself to Him who judges justly.
 <small><sub>**Literal:**</sub></small>
 Who being reviled not was not reviling back suffering not was threatening He was delivering [Himself] however to the [One] judging justly;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.22|<< 1 Peter 2:22]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.24|1 Peter 2:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being reviled |**<big>[[G3058\|λοιδορούμενος]]</big>**  |loidoroumenos <small><sup>[[V-PPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

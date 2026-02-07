@@ -1,10 +1,7 @@
 **LXX Hosea 7:10** 
 <small><sub>**LXX:**</sub></small>
 And the insolence of Israel shall be humbled unto his face; but they turned not towards \[the\] <span class="smallcaps">lord</span>  their God; and they sought not after him in all these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this.
-<small><sub>**BSB:**</sub></small>
-Israel’s arrogance testifies against them, yet they do not return to the LORD their God; despite all this, they do not seek Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.9|<< Hosea 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.11|Hosea 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

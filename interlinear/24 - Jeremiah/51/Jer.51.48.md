@@ -1,4 +1,4 @@
-**Jeremiah 51:48** 
+**Jeremiah 51:48**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the heaven and the earth, and all that [is] therein, shall sing for Babylon: for the spoilers shall come unto her from the north, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then heaven and earth and all that is in them will shout for joy over Babylon be
 > $\quad$ referenced by: [[Rev.18.20|Rev 18:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will cry out for joy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7442B\|רִנְּנ֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ri.ne.Nu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

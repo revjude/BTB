@@ -1,4 +1,4 @@
-**Proverbs 31:30** 
+**Proverbs 31:30**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Favour [is] deceitful, and beauty [is] vain: [but] a woman [that] feareth the LORD, she shall be praised.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Charm is deceptive and beauty is fleeting, but a woman who fears the LORD is to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.29|<< Proverbs 31:29]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.31|Proverbs 31:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] deception  |**<big>&#8207;[[H8267\|שֶׁ֣קֶר]]&#8207; </big>**| She.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> grace  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H2580\|חֵן]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> chen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

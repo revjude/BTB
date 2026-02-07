@@ -1,12 +1,12 @@
-**John 14:10
-**<small><sub>**KJV:**</sub></small>
+**John 14:10**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.
 <small><sub>**BSB:**</sub></small>
 Do you not believe that I am in the Father and the Father is in Me? The words I say to you, I do not speak on My own. Instead, it is the Father dwelling in Me, performing His works.
 <small><sub>**Literal:**</sub></small>
 Surely you believe that I myself [am] in the Father and the Father in Me myself is? The declarations that I myself I say to you from Myself not I speak; <the> but the Father who in Me myself dwelling he himself does the works of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.9|<< John 14:9]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.11|John 14:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you believe |**<big>[[G4100\|πιστεύεις]]</big>**  |pisteueis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

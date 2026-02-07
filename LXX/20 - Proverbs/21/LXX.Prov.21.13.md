@@ -1,10 +1,7 @@
 **LXX Proverbs 21:13** 
 <small><sub>**LXX:**</sub></small>
 The one who shuts up  his ears  to not heed \[the\] weak, even himself shall call out, and there will not be  one listening. 
-<small><sub>**KJV:**</sub></small>
-Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.
-<small><sub>**BSB:**</sub></small>
-Whoever shuts his ears to the cry of the poor, he too shall cry out and receive no answer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.12|<< Proverbs 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.14|Proverbs 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

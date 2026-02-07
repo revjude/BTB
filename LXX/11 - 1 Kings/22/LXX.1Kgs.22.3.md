@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of Israel said to  his servants, Do you know that Ramoth Gilead \[is ours\], and we keep silent \[to\] not take it from out of \[the\] hand of \[the\] king of Syria? 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel said unto his servants, Know ye that Ramoth in Gilead [is] ours, and we [be] still, [and] take it not out of the hand of the king of Syria?
-<small><sub>**BSB:**</sub></small>
-who said to his servants, “Do you not know that Ramoth-gilead is ours, but we have failed to take it from the hand of the king of Aram?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.2|<< 1 Kings 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.4|1 Kings 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

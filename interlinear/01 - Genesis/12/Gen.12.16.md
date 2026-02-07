@@ -1,4 +1,4 @@
-**Genesis 12:16** 
+**Genesis 12:16**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He treated Abram well on her account, and Abram acquired sheep and cattle, male 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.15|<< Genesis 12:15]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.17|Genesis 12:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Abram  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0087\|אַבְרָ֥ם]]&#8207; </big>**| u<small><sup>[[HC]]</sup></small> l.<small><sup>[[HR]]</sup></small> 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he did good  |**<big>&#8207;[[H3190\|הֵיטִ֖יב]]&#8207; </big>**| hei.Tiv<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

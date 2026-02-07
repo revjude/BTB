@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:16** 
 <small><sub>**LXX:**</sub></small>
 You should not grant  your maidservant for mischievous daughter. For from \[the\] amount of my meditation, and from \[the\] amount of my depression, I have been stretched out until the present. 
-<small><sub>**KJV:**</sub></small>
-Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.
-<small><sub>**BSB:**</sub></small>
-Do not take your servant for a wicked woman, for all this time I have been praying out of the depth of my anguish and grief.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.15|<< 1 Samuel 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.17|1 Samuel 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

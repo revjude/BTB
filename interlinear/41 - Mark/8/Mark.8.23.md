@@ -1,12 +1,12 @@
-**Mark 8:23
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:23**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought.
 <small><sub>**BSB:**</sub></small>
 So He took the blind man by the hand and led him out of the village. Then He spit on the man’s eyes and placed His hands on him. “Can you see anything?” He asked.
 <small><sub>**Literal:**</sub></small>
 And having taken hold of the hand of the blind [man] he brought him out of the village, and having spit upon the eyes of him, having laid the hands upon him He was asking him: if anything you see?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.22|<< Mark 8:22]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.24|Mark 8:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken hold of |**<big>[[G1949\|ἐπιλαβόμενος]]</big>**  |epilabomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

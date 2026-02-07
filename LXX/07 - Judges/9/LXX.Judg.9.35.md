@@ -1,10 +1,7 @@
 **LXX Judges 9:35** 
 <small><sub>**LXX:**</sub></small>
 And Gaal son of Ebed came forth, and he stood at the door of the gate of the city. And Abimelech rose up, and all the people  with him, from the ambush. 
-<small><sub>**KJV:**</sub></small>
-And Gaal the son of Ebed went out, and stood in the entering of the gate of the city: and Abimelech rose up, and the people that [were] with him, from lying in wait.
-<small><sub>**BSB:**</sub></small>
-Now Gaal son of Ebed went out and stood at the entrance of the city gate just as Abimelech and his men came out from their hiding places.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.34|<< Judges 9:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.36|Judges 9:36 >>]]</td></tr></table>
 
 | Translation | Greek |

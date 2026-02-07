@@ -1,10 +1,7 @@
 **LXX Judges 9:44** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech and companies, the ones with him, stretched out and stood by the door of the gate of the city, and the two companies poured out upon all the ones in the field, and he struck them. 
-<small><sub>**KJV:**</sub></small>
-And Abimelech, and the company that [was] with him, rushed forward, and stood in the entering of the gate of the city: and the two [other] companies ran upon all [the people] that [were] in the fields, and slew them.
-<small><sub>**BSB:**</sub></small>
-Then Abimelech and the companies with him rushed forward and took their stand at the entrance of the city gate. The other two companies rushed against all who were in the fields and struck them down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.43|<< Judges 9:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.45|Judges 9:45 >>]]</td></tr></table>
 
 | Translation | Greek |

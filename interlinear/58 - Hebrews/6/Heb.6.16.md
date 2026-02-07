@@ -1,12 +1,12 @@
-**Hebrews 6:16
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:16**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For men verily swear by the greater: and an oath for confirmation [is] to them an end of all strife.
 <small><sub>**BSB:**</sub></small>
 Men swear by someone greater than themselves, and their oath serves as a confirmation to end all argument.
 <small><sub>**Literal:**</sub></small>
 Men indeed for by [one] greater swear, and in all their disputes finally [comes] to confirmation in the oath;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.15|<< Hebrews 6:15]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.17|Hebrews 6:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Men |**<big>[[G0444\|ἄνθρωποι]]</big>**  |anthrōpoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

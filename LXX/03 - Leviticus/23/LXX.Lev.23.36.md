@@ -1,10 +1,7 @@
 **LXX Leviticus 23:36** 
 <small><sub>**LXX:**</sub></small>
 Seven days you shall bring \[the\] whole burnt-offerings to the <span class="smallcaps">lord</span>, and the eighth day will be a holy convocation to you. And you shall bring a whole burnt-offering to the <span class="smallcaps">lord</span>, it is a holiday recess. You shall not do any servile work. 
-<small><sub>**KJV:**</sub></small>
-Seven days ye shall offer an offering made by fire unto the LORD: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the LORD: it [is] a solemn assembly; [and] ye shall do no servile work [therein].
-<small><sub>**BSB:**</sub></small>
-For seven days you are to present a food offering to the LORD. On the eighth day you are to hold a sacred assembly and present a food offering to the LORD. It is a solemn assembly; you must not do any regular work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.35|<< Leviticus 23:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.37|Leviticus 23:37 >>]]</td></tr></table>
 
 | Translation | Greek |

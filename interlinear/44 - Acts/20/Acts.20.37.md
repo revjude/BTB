@@ -1,12 +1,12 @@
-**Acts 20:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:37**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they all wept sore, and fell on Paul’s neck, and kissed him,
 <small><sub>**BSB:**</sub></small>
 They all wept openly as they embraced Paul and kissed him.
 <small><sub>**Literal:**</sub></small>
 Much then weeping there was among all, and having fallen upon the neck <the> of Paul they were kissing him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.36|<< Acts 20:36]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.38|Acts 20:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Much |**<big>[[G2425\|ἱκανὸς]]</big>**  |hikanos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Samuel 22:4** 
+**1 Samuel 22:4**<big><big>[[1Sam.22.1 David Flees to Adullam and Mizpeh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he left them in the care of the king of Moab, and they stayed with him the wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.3|<< 1 Samuel 22:3]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.5|1 Samuel 22:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he led them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5148\|יַּנְחֵ֕]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yan.Che<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

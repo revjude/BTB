@@ -1,4 +1,4 @@
-**Judges 21:16** 
+**Judges 21:16**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the elders of the congregation said, How shall we do for wives for them that remain, seeing the women are destroyed out of Benjamin?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the elders of the congregation said, “What should we do about wives for t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.15|<< Judges 21:15]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.17|Judges 21:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּֽאמְר֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] elders of  |**<big>&#8207;[[H2205G\|זִקְנֵ֣י]]&#8207; </big>**| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

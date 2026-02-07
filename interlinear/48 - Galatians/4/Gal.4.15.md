@@ -1,12 +1,12 @@
-**Galatians 4:15
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:15**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Where is then the blessedness ye spake of? for I bear you record, that, if [it had been] possible, ye would have plucked out your own eyes, and have given them to me.
 <small><sub>**BSB:**</sub></small>
 What then has become of your blessing? For I can testify that, if it were possible, you would have torn out your eyes and given them to me.
 <small><sub>**Literal:**</sub></small>
 Where then was the blessedness of you? I bear witness for to you that, if possible, the eyes of you having gouged out then would you have given [them] to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.14|<< Galatians 4:14]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.16|Galatians 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Where [^1] [^2] |**<big>[[G4226\|Ποῦ]]</big>**  |Pou <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">N(K)O</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

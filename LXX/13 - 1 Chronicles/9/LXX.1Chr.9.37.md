@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:37** 
 <small><sub>**LXX:**</sub></small>
 and Gedor, and  \[his\] brethren, and Zechariah, and Mikloth. 
-<small><sub>**KJV:**</sub></small>
-And Gedor, and Ahio, and Zechariah, and Mikloth.
-<small><sub>**BSB:**</sub></small>
-Gedor, Ahio, Zechariah, and Mikloth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.36|<< 1 Chronicles 9:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.38|1 Chronicles 9:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,6 +1,6 @@
 (KJV) **2 Chronicles 5**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4|<< 2 Chronicles 4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6|2 Chronicles 6 >>]]</td></tr></table>
 
-***The Ark Enters the Temple***&emsp;<small><sup>\[ [[1Kgs.8|1 Kings 8:1–11]] ]</sup></small> ^bsb1075
+<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥃]]</big></big>***The Ark Enters the Temple***&emsp;<small><sup>\[ [[1Kgs.8|1 Kings 8:1–11]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[2Chr.5.1|1]]**<span class="endversemarker">]</span> Thus all the work that Solomon made for the house of the <span class="smallcaps">Lord</span> was finished: and Solomon brought in \[all<small><small>[^2]</small></small>\] the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God.<small><small>[^3]</small></small> 
 

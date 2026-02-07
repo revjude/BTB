@@ -1,4 +1,4 @@
-**Numbers 16:13** 
+**Numbers 16:13**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it] a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is it not enough that you have brought us up out of a land flowing with milk and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.12|<< Numbers 16:12]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.14|Numbers 16:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [is it] small  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H4592\|מְעַ֗ט]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> m.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

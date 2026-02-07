@@ -1,4 +1,4 @@
-**1 Samuel 14:11** 
+**1 Samuel 14:11**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And both of them discovered themselves unto the garrison of the Philistines: and the Philistines said, Behold, the Hebrews come forth out of the holes where they had hid themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the two of them showed themselves to the outpost of the Philistines, who excl
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.10|<< 1 Samuel 14:10]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.12|1 Samuel 14:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they revealed themselves  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1540H\|יִּגָּל֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ga.Lu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two of them  |**<big>&#8207;[[H8147\|שְׁנֵי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| she.nei.<small><sup>[[HNcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

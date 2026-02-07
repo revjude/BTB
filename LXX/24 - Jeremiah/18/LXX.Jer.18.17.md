@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:17** 
 <small><sub>**LXX:**</sub></small>
 As a burning wind I will scatter them in front of their enemies. \[The\] back and not \[the\] front I will show to them in a day of their destruction. 
-<small><sub>**KJV:**</sub></small>
-I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity.
-<small><sub>**BSB:**</sub></small>
-I will scatter them before the enemy like the east wind. I will show them My back and not My face in the day of their calamity.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.16|<< Jeremiah 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.18|Jeremiah 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

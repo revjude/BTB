@@ -1,10 +1,7 @@
 **LXX Genesis 27:42** 
 <small><sub>**LXX:**</sub></small>
 And were reported to Rebekah the words of Esau  her elder son. And sending forth, she called Jacob  her younger son, and she said to him, Behold, Esau,  your brother threatens you --  to kill you. 
-<small><sub>**KJV:**</sub></small>
-And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, [purposing] to kill thee.
-<small><sub>**BSB:**</sub></small>
-When the words of her older son Esau were relayed to Rebekah, she sent for her younger son Jacob and told him, “Look, your brother Esau is consoling himself by plotting to kill you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.41|<< Genesis 27:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.43|Genesis 27:43 >>]]</td></tr></table>
 
 | Translation | Greek |

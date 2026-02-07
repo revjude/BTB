@@ -1,10 +1,7 @@
 **LXX Judges 4:17** 
 <small><sub>**LXX:**</sub></small>
 And Sisera withdrew \[by\] his feet to \[the\] tent of Jael wife of Heber the Kenite; for there was peace between Jabin king of Hazor and between the house of Heber the Kenite. 
-<small><sub>**KJV:**</sub></small>
-Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for [there was] peace between Jabin the king of Hazor and the house of Heber the Kenite.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Kenite, because there was peace between Jabin king of Hazor and the house of Heber the Kenite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.16|<< Judges 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.18|Judges 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

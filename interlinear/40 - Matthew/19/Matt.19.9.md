@@ -1,12 +1,12 @@
-**Matthew 19:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:9**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I say unto you, Whosoever shall put away his wife, except [it be] for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.
 <small><sub>**BSB:**</sub></small>
 Now I tell you that whoever divorces his wife, except for sexual immorality, and marries another woman commits adultery.”
 <small><sub>**Literal:**</sub></small>
 I say now to you: that who[ever] maybe may divorce the wife of him only except for sexual immorality and shall marry another, commits adultery. and which divorced having married commits adultery.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.8|<< Matthew 19:8]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.10|Matthew 19:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|Λέγω]]</big>**  |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

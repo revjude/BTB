@@ -1,4 +1,4 @@
-**Isaiah 14:9** 
+**Isaiah 14:9**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hell from beneath is moved for thee to meet [thee] at thy coming: it stirreth up the dead for thee, [even] all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Sheol beneath is eager to meet you upon your arrival. It stirs the spirits of th
 > $\quad$ related to: [[Ezek.31.16|Ezek 31:16-17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Sheol  |**<big>&#8207;[[H7585\|שְׁא֗וֹל]]&#8207; </big>**| she.'ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<from> beneath  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8478G\|תַּ֛חַת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ta.chat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

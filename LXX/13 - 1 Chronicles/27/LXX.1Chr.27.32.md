@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:32** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan the uncle of David \[was\] a counselor, a discerning man, and a scribe himself; and Jehiel the one of the Hachmoni \[was\] with the sons of the king. 
-<small><sub>**KJV:**</sub></small>
-Also Jonathan David’s uncle was a counseller, a wise man, and a scribe: and Jehiel the son of Hachmoni [was] with the king’s sons:
-<small><sub>**BSB:**</sub></small>
-David’s uncle Jonathan was a counselor; he was a man of insight and a scribe. Jehiel son of Hachmoni attended to the sons of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.31|<< 1 Chronicles 27:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.33|1 Chronicles 27:33 >>]]</td></tr></table>
 
 | Translation | Greek |

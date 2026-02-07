@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:57** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> recompenses to her the recompense, and he shall intoxicate her governors by intoxication, and  her wise men, and  her commandants, says the king -- \[the\] <span class="smallcaps">lord</span> almighty \[is\] his name. 
-<small><sub>**KJV:**</sub></small>
-And I will make drunk her princes, and her wise [men], her captains, and her rulers, and her mighty men: and they shall sleep a perpetual sleep, and not wake, saith the King, whose name [is] the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-I will make her princes and wise men drunk, along with her governors, officials, and warriors. Then they will fall asleep forever and not wake up,” declares the King, whose name is the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.56|<< Jeremiah 51:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.58|Jeremiah 51:58 >>]]</td></tr></table>
 
 | Translation | Greek |

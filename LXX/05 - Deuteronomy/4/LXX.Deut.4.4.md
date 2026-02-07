@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:4** 
 <small><sub>**LXX:**</sub></small>
 But you, the ones joining with \[the\] <span class="smallcaps">lord</span>  your God, all live   today. 
-<small><sub>**KJV:**</sub></small>
-But ye that did cleave unto the LORD your God [are] alive every one of you this day.
-<small><sub>**BSB:**</sub></small>
-But you who held fast to the LORD your God are alive to this day, every one of you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.3|<< Deuteronomy 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.5|Deuteronomy 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

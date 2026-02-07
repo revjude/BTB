@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:29** 
 <small><sub>**LXX:**</sub></small>
 To the Izharites -- Chenaniah and his sons \[were\] for the work of the effort of the outside over  Israel,  to act as scribe and to litigate. 
-<small><sub>**KJV:**</sub></small>
-Of the Izharites, Chenaniah and his sons [were] for the outward business over Israel, for officers and judges.
-<small><sub>**BSB:**</sub></small>
-From the Izharites, Chenaniah and his sons had the outside duties as officers and judges over Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.28|<< 1 Chronicles 26:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.30|1 Chronicles 26:30 >>]]</td></tr></table>
 
 | Translation | Greek |

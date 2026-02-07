@@ -1,4 +1,4 @@
-**Ezekiel 39:8** 
+**Ezekiel 39:8**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, it is come, and it is done, saith the Lord GOD; this [is] the day whereof I have spoken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yes, it is coming, and it will surely happen, declares the Lord GOD. This is the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.7|<< Ezekiel 39:7]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.9|Ezekiel 39:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [it is] coming  |**<big>&#8207;[[H0935G\|בָאָה֙]]&#8207; </big>**| va.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

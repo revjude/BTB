@@ -1,4 +1,4 @@
-**Psalms 140:3** (140:4)
+**Psalms 140:3**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have sharpened their tongues like a serpent; adders’ poison [is] under their lips. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They sharpen their tongues like snakes; the venom of vipers is on their lips. Se
 > $\quad$ referenced by: [[Rom.3.13|Rom 3:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they sharpen  |**<big>&#8207;[[H8150\|שָֽׁנֲנ֣וּ]]&#8207; </big>**| sha.na.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tongue their  |**<big>&#8207;[[H3956G\|לְשׁוֹנָ]]&#8207;&#8207;[[H9028\|ם֮]]&#8207; </big>**| le.sho.Na<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

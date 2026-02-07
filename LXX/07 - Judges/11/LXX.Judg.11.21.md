@@ -1,10 +1,7 @@
 **LXX Judges 11:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God of Israel delivered up  Sihon and all  his people into \[the\] hand of Israel, and they struck them, and Israel inherited all the land of the Amorites  dwelling in  that land. 
-<small><sub>**KJV:**</sub></small>
-And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country.
-<small><sub>**BSB:**</sub></small>
-Then the LORD, the God of Israel, delivered Sihon and all his people into the hand of Israel, who defeated them. So Israel took possession of all the land of the Amorites who inhabited that country,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.20|<< Judges 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.22|Judges 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 18:24** 
+**2 Samuel 18:24**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now David was sitting between the two gates when the watchman went up to the roo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.23|<< 2 Samuel 18:23]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.25|2 Samuel 18:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and David  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1732\|דָוִ֥ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] sitting  |**<big>&#8207;[[H3427\|יוֹשֵׁ֖ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 41:48** 
 <small><sub>**LXX:**</sub></small>
 And was brought together all the foods of the seven years in which there was  prosperity in the land of Egypt. And he put the foods in the cities. Foods of the plains of the city of the \[places\] round about it, he put in it. 
-<small><sub>**KJV:**</sub></small>
-And he gathered up all the food of the seven years, which were in the land of Egypt, and laid up the food in the cities: the food of the field, which [was] round about every city, laid he up in the same.
-<small><sub>**BSB:**</sub></small>
-During those seven years, Joseph collected all the excess food in the land of Egypt and stored it in the cities. In every city he laid up the food from the fields around it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.47|<< Genesis 41:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.49|Genesis 41:49 >>]]</td></tr></table>
 
 | Translation | Greek |

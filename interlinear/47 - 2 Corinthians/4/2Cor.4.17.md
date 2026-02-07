@@ -1,12 +1,12 @@
-**2 Corinthians 4:17
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:17**<big><big>[[2Cor.4.7 Treasure in Jars of Clay|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For our light affliction, which is but for a moment, worketh for us a far more exceeding [and] eternal weight of glory;
 <small><sub>**BSB:**</sub></small>
 For our light and momentary affliction is producing for us an eternal weight of glory that is far beyond comparison.
 <small><sub>**Literal:**</sub></small>
 The for momentary lightness the affliction of us far surpassing to excessiveness an eternal weight of glory is producing for us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.16|<< 2 Corinthians 4:16]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.18|2 Corinthians 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

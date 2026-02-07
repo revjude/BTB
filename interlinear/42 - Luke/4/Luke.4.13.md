@@ -1,12 +1,12 @@
-**Luke 4:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:13**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the devil had ended all the temptation, he departed from him for a season.
 <small><sub>**BSB:**</sub></small>
 When the devil had finished every temptation, he left Him until an opportune time.
 <small><sub>**Literal:**</sub></small>
 And having finished every temptation the devil departed from Him until an opportune time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.12|<< Luke 4:12]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.14|Luke 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having finished |**<big>[[G4931\|συντελέσας]]</big>**  |suntelesas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

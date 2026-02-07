@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:17** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> of the forces, the one having planted you, spoke evils against you; against the evils of \[the\] house of Israel, and \[the\] house of Judah. For they did \[it\] to themselves,  provoking me to anger in  their burning incense  to Baal. 
-<small><sub>**KJV:**</sub></small>
-For the LORD of hosts, that planted thee, hath pronounced evil against thee, for the evil of the house of Israel and of the house of Judah, which they have done against themselves to provoke me to anger in offering incense unto Baal.
-<small><sub>**BSB:**</sub></small>
-The LORD of Hosts, who planted you, has decreed disaster against you on account of the evil that the house of Israel and the house of Judah have brought upon themselves, provoking Me to anger by burning incense to Baal.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.16|<< Jeremiah 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.18|Jeremiah 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

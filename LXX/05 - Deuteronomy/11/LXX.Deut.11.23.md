@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:23** 
 <small><sub>**LXX:**</sub></small>
 then \[the\] <span class="smallcaps">lord</span> will cast out all  these nations from your face, and you shall inherit great nations, and stronger ones than you. 
-<small><sub>**KJV:**</sub></small>
-Then will the LORD drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves.
-<small><sub>**BSB:**</sub></small>
-then the LORD will drive out all these nations before you, and you will dispossess nations greater and stronger than you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.22|<< Deuteronomy 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.24|Deuteronomy 11:24 >>]]</td></tr></table>
 
 | Translation | Greek |

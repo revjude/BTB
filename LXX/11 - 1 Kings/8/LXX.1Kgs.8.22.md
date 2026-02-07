@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Solomon stood in front of the altar of \[the\] <span class="smallcaps">lord</span> before all \[the\] assembly of Israel. And he opened and spread out  his hands into the heaven. 
-<small><sub>**KJV:**</sub></small>
-And Solomon stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands toward heaven:
-<small><sub>**BSB:**</sub></small>
-Then Solomon stood before the altar of the LORD in front of the whole assembly of Israel, spread out his hands toward heaven,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.21|<< 1 Kings 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.23|1 Kings 8:23 >>]]</td></tr></table>
 
 | Translation | Greek |

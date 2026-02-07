@@ -1,4 +1,4 @@
-**Leviticus 15:28** 
+**Leviticus 15:28**<big><big>[[Lev.15.28 The Cleansing of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When a woman is cleansed of her discharge, she must count off seven days, and af
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.27|<< Leviticus 15:27]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.29|Leviticus 15:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she has become pure  |**<big>&#8207;[[H2891\|טָהֲרָ֖ה]]&#8207; </big>**| ta.ha.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 25:11** 
+**1 Samuel 25:11**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give [it] unto men, whom I know not whence they [be]?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why should I take my bread and water and the meat I have slaughtered for my shea
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.10|<< 1 Samuel 25:10]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.12|1 Samuel 25:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and will I take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

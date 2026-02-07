@@ -1,10 +1,7 @@
 **LXX Genesis 24:44** 
 <small><sub>**LXX:**</sub></small>
 And she should have said to me, You also drink, and to your camels I will draw water. This \[is\] the woman whom \[the\] <span class="smallcaps">lord</span> prepared  for his own attendant Isaac; and in this you will know that you have done mercy \[to\] my master Abraham. 
-<small><sub>**KJV:**</sub></small>
-And she say to me, Both drink thou, and I will also draw for thy camels: [let] the same [be] the woman whom the LORD hath appointed out for my master’s son.
-<small><sub>**BSB:**</sub></small>
-and she replies, ‘Drink, and I will draw water for your camels as well,’ may she be the woman the LORD has appointed for my master’s son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.43|<< Genesis 24:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.45|Genesis 24:45 >>]]</td></tr></table>
 
 | Translation | Greek |

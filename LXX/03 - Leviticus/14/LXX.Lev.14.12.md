@@ -1,10 +1,7 @@
 **LXX Leviticus 14:12** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall take the one lamb, and bring it for the trespass \[offering\], and the small cup  of olive oil; and he shall separate them as a separation \[offering\] before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall take one he lamb, and offer him for a trespass offering, and the log of oil, and wave them [for] a wave offering before the LORD:
-<small><sub>**BSB:**</sub></small>
-Then the priest is to take one of the male lambs and present it as a guilt offering, along with the log of olive oil; and he must wave them as a wave offering before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.11|<< Leviticus 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.13|Leviticus 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

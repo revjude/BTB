@@ -1,10 +1,7 @@
 **LXX Isaiah 65:22** 
 <small><sub>**LXX:**</sub></small>
 In no way shall they build and another dwell therein. And in no way shall they plant and another eat \[of it\]. For according to the days of the life of a tree will be the days  of my people, for the works  of their hands shall grow old. 
-<small><sub>**KJV:**</sub></small>
-They shall not build, and another inhabit; they shall not plant, and another eat: for as the days of a tree [are] the days of my people, and mine elect shall long enjoy the work of their hands.
-<small><sub>**BSB:**</sub></small>
-No longer will they build houses for others to inhabit, nor plant for others to eat. For as is the lifetime of a tree, so will be the days of My people, and My chosen ones will fully enjoy the work of their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.21|<< Isaiah 65:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.23|Isaiah 65:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 3:22** 
 <small><sub>**LXX:**</sub></small>
 And he brought in addition also indeed the handle after the blade; and the fat locked onto the blade, for he could not pull out the knife from out of  his belly. 
-<small><sub>**KJV:**</sub></small>
-And the haft also went in after the blade; and the fat closed upon the blade, so that he could not draw the dagger out of his belly; and the dirt came out.
-<small><sub>**BSB:**</sub></small>
-Even the handle sank in after the blade, and Eglon’s fat closed in over it, so that Ehud did not withdraw the sword from his belly. And Eglon’s bowels emptied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.21|<< Judges 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.23|Judges 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

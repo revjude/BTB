@@ -1,4 +1,4 @@
-**2 Chronicles 25:10** 
+**2 Chronicles 25:10**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Amaziah separated them, [to wit], the army that was come to him out of Ephraim, to go home again: wherefore their anger was greatly kindled against Judah, and they returned home in great anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Amaziah dismissed the troops who had come to him from Ephraim and sent them h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.9|<< 2 Chronicles 25:9]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.11|2 Chronicles 25:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he separated them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0914\|יַּבְדִּילֵ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yav.di.Le<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amaziah  |**<big>&#8207;[[H0558G\|אֲמַצְיָ֗הוּ]]&#8207; </big>**| 'a.matz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

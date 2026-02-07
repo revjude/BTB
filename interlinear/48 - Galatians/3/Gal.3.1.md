@@ -1,12 +1,12 @@
-**Galatians 3:1
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:1**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
 <small><sub>**BSB:**</sub></small>
 O foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified.
 <small><sub>**Literal:**</sub></small>
 O foolish Galatians! Who you has bewitched the truth not to obey whose before eyes Jesus Christ was publicly portrayed among you [as] crucified?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.21|<< Galatians 2:21]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.2|Galatians 3:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O |**<big>[[G5599\|Ὦ]]</big>**  |Ō <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | foolish |**<big>[[G0453\|ἀνόητοι]]</big>**  |anoētoi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

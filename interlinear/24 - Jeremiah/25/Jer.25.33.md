@@ -1,4 +1,4 @@
-**Jeremiah 25:33** 
+**Jeremiah 25:33**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the slain of the LORD shall be at that day from [one] end of the earth even unto the [other] end of the earth: they shall not be lamented, neither gathered, nor buried; they shall be dung upon the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those slain by the LORD on that day will be spread from one end of the earth to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.32|<< Jeremiah 25:32]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.34|Jeremiah 25:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those] slain of  |**<big>&#8207;[[H2491A\|חַֽלְלֵ֤י]]&#8207; </big>**| cha.Lei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

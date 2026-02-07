@@ -1,10 +1,7 @@
 **LXX Genesis 42:28** 
 <small><sub>**LXX:**</sub></small>
 And he said  to his brothers, the silver was given back to me, and behold, this \[is\] in  my bag. And it startled  their hearts, and they were disturbed with one another, saying, What \[is\] this God did to us? 
-<small><sub>**KJV:**</sub></small>
-And he said unto his brethren, My money is restored; and, lo, [it is] even in my sack: and their heart failed [them], and they were afraid, saying one to another, What [is] this [that] God hath done unto us?
-<small><sub>**BSB:**</sub></small>
-“My silver has been returned!” he said to his brothers. “It is here in my sack.” Their hearts sank, and trembling, they turned to one another and said, “What is this that God has done to us?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.27|<< Genesis 42:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.29|Genesis 42:29 >>]]</td></tr></table>
 
 | Translation | Greek |

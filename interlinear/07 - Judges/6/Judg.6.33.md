@@ -1,4 +1,4 @@
-**Judges 6:33** 
+**Judges 6:33**<big><big>[[Judg.6.33 The Sign of the Fleece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the Midianites, Amalekites, and other people of the east gathered toget
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.32|<< Judges 6:32]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.34|Judges 6:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Midian  |**<big>&#8207;[[H4080H\|מִדְיָ֧ן]]&#8207; </big>**| mid.Yan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

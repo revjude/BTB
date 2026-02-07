@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall know today that \[I do\] not \[speak to\]  your children, as many as \[are\] not knowing, nor knew the instruction of \[the\] <span class="smallcaps">lord</span>  your God, and  his magnificence, and the fortified hand, and the high arm, 
-<small><sub>**KJV:**</sub></small>
-And know ye this day: for [I speak] not with your children which have not known, and which have not seen the chastisement of the LORD your God, his greatness, his mighty hand, and his stretched out arm,
-<small><sub>**BSB:**</sub></small>
-Know this day that it is not your children who have known and seen the discipline of the LORD your God: His greatness, His mighty hand, and His outstretched arm;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.1|<< Deuteronomy 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.3|Deuteronomy 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

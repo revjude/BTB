@@ -1,5 +1,5 @@
-**1 Corinthians 6:17
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:17**<big><big>[[1Cor.6.9 Members of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that is joined unto the Lord is one spirit.
 <small><sub>**BSB:**</sub></small>
 But he who unites himself with the Lord is one with Him in spirit.
@@ -10,7 +10,7 @@ The [one] however being joined to the Lord one spirit is.<br><table width="100%"
 > $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

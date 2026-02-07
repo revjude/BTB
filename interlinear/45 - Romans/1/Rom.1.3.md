@@ -1,12 +1,12 @@
-**Romans 1:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:3**<big><big>[[Rom.1.1 Paul Greets the Saints in Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;
 <small><sub>**BSB:**</sub></small>
 regarding His Son, who was a descendant of David according to the flesh,
 <small><sub>**Literal:**</sub></small>
 concerning the Son of Him, who having come of [the] seed of David according to flesh,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.2|<< Romans 1:2]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.4|Romans 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Esther 8:2** 
 <small><sub>**LXX:**</sub></small>
 And the king took the ring which he removed \[from\] Haman, and he gave \[it\] to Mordecai. And Esther placed Mordecai over all the \[things\]  of Haman. 
-<small><sub>**KJV:**</sub></small>
-And the king took off his ring, which he had taken from Haman, and gave it unto Mordecai. And Esther set Mordecai over the house of Haman.
-<small><sub>**BSB:**</sub></small>
-The king removed the signet ring he had recovered from Haman and presented it to Mordecai. And Esther appointed Mordecai over the estate of Haman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.1|<< Esther 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.3|Esther 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

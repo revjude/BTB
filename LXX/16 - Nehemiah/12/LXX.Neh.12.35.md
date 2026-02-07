@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:35** 
 <small><sub>**LXX:**</sub></small>
 And \[some\] from the sons of the priests with trumpets; Zechariah son of Jonathan, son of Shemaiah, son of Mathaniah son of Michaiah, son of Zaccur, son of Asaph. 
-<small><sub>**KJV:**</sub></small>
-And [certain] of the priests’ sons with trumpets; [namely], Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:
-<small><sub>**BSB:**</sub></small>
-and some of the priests with trumpets, and also Zechariah son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.34|<< Nehemiah 12:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.36|Nehemiah 12:36 >>]]</td></tr></table>
 
 | Translation | Greek |

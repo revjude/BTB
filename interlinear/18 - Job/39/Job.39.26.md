@@ -1,4 +1,4 @@
-**Job 39:26** 
+**Job 39:26**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Doth the hawk fly by thy wisdom, [and] stretch her wings toward the south?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Does the hawk take flight by your understanding and spread his wings toward the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.25|<< Job 39:25]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.27|Job 39:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ from understanding your  |**<big>&#8207;[[H9008\|הֲֽ֭]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0998\|בִּינָ֣תְ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> mi.<small><sup>[[HR]]</sup></small> bi.Na.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | does it soar  |**<big>&#8207;[[H0082\|יַֽאֲבֶר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'a.ver-<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

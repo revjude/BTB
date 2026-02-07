@@ -1,4 +1,4 @@
-**Exodus 25:3** 
+**Exodus 25:3**<big><big>[[Exod.25.1 Offerings for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the offering which ye shall take of them; gold, and silver, and brass,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the offering you are to accept from them: gold, silver, and bronze;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.2|<< Exodus 25:2]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.4|Exodus 25:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹאת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the contribution  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8641\|תְּרוּמָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 40:21** 
+**Isaiah 40:21**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do you not know? Have you not heard? Has it not been declared to you from the be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.20|<< Isaiah 40:20]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.22|Isaiah 40:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֤וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you know  |**<big>&#8207;[[H3045\|תֵֽדְעוּ֙]]&#8207; </big>**| te.de.'U<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

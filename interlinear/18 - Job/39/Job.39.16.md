@@ -1,4 +1,4 @@
-**Job 39:16** 
+**Job 39:16**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She is hardened against her young ones, as though [they were] not hers: her labour is in vain without fear;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She treats her young harshly, as if not her own, with no concern that her labor 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.15|<< Job 39:15]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.17|Job 39:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it treats roughly  |**<big>&#8207;[[H7188\|הִקְשִׁ֣יחַ]]&#8207; </big>**| hik.Shi.ach<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | young its  |**<big>&#8207;[[H1121H\|בָּנֶ֣י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| ba.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 19:2** 
 <small><sub>**LXX:**</sub></small>
 And came forth to meet him Jehu the \[son of\] Hanani the prophet. And he said to  king Jehoshaphat, Shall you help a sinner, or \[do\] you befriend one being detested by \[the\] <span class="smallcaps">lord</span>, \[no\]. Because of this \[the\] anger of \[the\] <span class="smallcaps">lord</span> took place against you. 
-<small><sub>**KJV:**</sub></small>
-And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore [is] wrath upon thee from before the LORD.
-<small><sub>**BSB:**</sub></small>
-Jehu son of Hanani the seer went out to confront him and said to King Jehoshaphat, “Should you help the wicked and love those who hate the LORD? Because of this, the wrath of the LORD is upon you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.1|<< 2 Chronicles 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.3|2 Chronicles 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

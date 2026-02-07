@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:5** 
 <small><sub>**LXX:**</sub></small>
 as David did the upright \[thing\] before \[the\] <span class="smallcaps">lord</span>, and did not turn aside from all which he gave charge to him, all the days  of his life, 
-<small><sub>**KJV:**</sub></small>
-Because David did [that which was] right in the eyes of the LORD, and turned not aside from any [thing] that he commanded him all the days of his life, save only in the matter of Uriah the Hittite.
-<small><sub>**BSB:**</sub></small>
-For David had done what was right in the eyes of the LORD and had not turned aside from anything the LORD commanded all the days of his life, except in the matter of Uriah the Hittite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.4|<< 1 Kings 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.6|1 Kings 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

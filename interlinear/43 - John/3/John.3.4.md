@@ -1,12 +1,12 @@
-**John 3:4
-**<small><sub>**KJV:**</sub></small>
+**John 3:4**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother’s womb, and be born?
 <small><sub>**BSB:**</sub></small>
 “How can a man be born when he is old?” Nicodemus asked. “Can he enter his mother’s womb a second time to be born?”
 <small><sub>**Literal:**</sub></small>
 Says to Him <the> Nicodemus; How is able a man to be born old being? Not is he able into the womb of the mother of him a second time to enter and to be born?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.3|<< John 3:3]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.5|John 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Numbers 10:17** 
+**Numbers 10:17**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the tabernacle was taken down, and the Gershonites and the Merarites set ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.16|<< Numbers 10:16]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.18|Numbers 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was taken down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|הוּרַ֖ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hu.Rad<small><sup>[[HVHq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the tabernacle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4908\|מִּשְׁכָּ֑ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

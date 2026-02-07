@@ -1,12 +1,12 @@
-**1 Thessalonians 2:18
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:18**<big><big>[[1Thess.2.17 Paul’s Longing to Visit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us.
 <small><sub>**BSB:**</sub></small>
 For we wanted to come to you—indeed I, Paul, tried again and again—but Satan obstructed us.
 <small><sub>**Literal:**</sub></small>
 therefore we wanted to come to you — I myself indeed Paul both once and twice — and hindered us <the> Satan.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.17|<< 1 Thessalonians 2:17]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.19|1 Thessalonians 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | therefore [^1] |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | we wanted |**<big>[[G2309\|ἠθελήσαμεν]]</big>**  |ēthelēsamen <small><sup>[[V-AAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Judges 21:2** 
 <small><sub>**LXX:**</sub></small>
 And all the people came unto Beth-el, and sat there until evening before  God. And they lifted  their voice and wept a great weeping. 
-<small><sub>**KJV:**</sub></small>
-And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore;
-<small><sub>**BSB:**</sub></small>
-So the people came to Bethel and sat there before God until evening, lifting up their voices and weeping bitterly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.1|<< Judges 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.3|Judges 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

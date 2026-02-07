@@ -1,4 +1,4 @@
-**Daniel 7:17** 
+**Daniel 7:17**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These great beasts, which are four, [are] four kings, [which] shall arise out of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These great beasts, which are four, [are] four kings, [which] shall arise out of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.16|<< Daniel 7:16]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.18|Daniel 7:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0459\|אִלֵּין֙]]&#8207; </big>**| 'i.Lein<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | beasts the  |**<big>&#8207;[[H2423\|חֵיוָתָ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| chei.va.Ta<small><sup>[[ANcfpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

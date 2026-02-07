@@ -1,12 +1,12 @@
-**2 Corinthians 13:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:7**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.
 <small><sub>**BSB:**</sub></small>
 Now we pray to God that you will not do anything wrong—not that we will appear to have stood the test, but that you will do what is right, even if we appear to have failed.
 <small><sub>**Literal:**</sub></small>
 We pray now to <the> God not to do you wrong nothing, not that we ourselves approved may appear, but that you yourselves what [is] right may do, we ourselves though as unapproved may appear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.6|<< 2 Corinthians 13:6]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.8|2 Corinthians 13:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We pray [^1] [^2] |**<big>[[G2172\|εὐχόμεθα]]</big>**  |euchometha <small><sup>[[V-PNI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

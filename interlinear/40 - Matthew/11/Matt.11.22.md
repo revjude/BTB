@@ -1,12 +1,12 @@
-**Matthew 11:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:22**<big><big>[[Matt.11.20 Woe to the Unrepentant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.
 <small><sub>**BSB:**</sub></small>
 But I tell you, it will be more bearable for Tyre and Sidon on the day of judgment than for you.
 <small><sub>**Literal:**</sub></small>
 But I say to you; for Tyre and Sidon more tolerable will it be in [the] day of judgment than for you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.21|<< Matthew 11:21]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.23|Matthew 11:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G4133\|πλὴν]]</big>**  |plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

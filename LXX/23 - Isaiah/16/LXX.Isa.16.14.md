@@ -1,10 +1,7 @@
 **LXX Isaiah 16:14** 
 <small><sub>**LXX:**</sub></small>
 And now \[the\] <span class="smallcaps">lord</span> spoke, saying, In three years, of \[the\] years of a hireling, the glory of Moab shall be dishonored in all the much richness; and very few shall be left behind, and not \[the\] important. 
-<small><sub>**KJV:**</sub></small>
-But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant [shall be] very small [and] feeble.
-<small><sub>**BSB:**</sub></small>
-And now the LORD says, “In three years, as a hired worker counts the years, Moab’s splendor will become an object of contempt, with all her many people. And those who are left will be few and feeble.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.13|<< Isaiah 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.1|Isaiah 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

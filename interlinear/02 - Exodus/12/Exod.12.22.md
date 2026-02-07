@@ -1,4 +1,4 @@
-**Exodus 12:22** 
+**Exodus 12:22**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall take a bunch of hyssop, and dip [it] in the blood that [is] in the bason, and strike the lintel and the two side posts with the blood that [is] in the bason; and none of you shall go out at the door of his house until the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take a cluster of hyssop, dip it into the blood in the basin, and brush the bloo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.21|<< Exodus 12:21]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.23|Exodus 12:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H3947G\|לְקַחְתֶּ֞ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> le.kach.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a bunch of  |**<big>&#8207;[[H0092\|אֲגֻדַּ֣ת]]&#8207; </big>**| 'a.gu.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

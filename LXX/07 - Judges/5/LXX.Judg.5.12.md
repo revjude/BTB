@@ -1,10 +1,7 @@
 **LXX Judges 5:12** 
 <small><sub>**LXX:**</sub></small>
 Awaken, awaken, O Deborah! Awaken, awaken! Speak with an ode! Rise up, O Barak! And take captive your captivity, O son of Abinoam! 
-<small><sub>**KJV:**</sub></small>
-Awake, awake, Deborah: awake, awake, utter a song: arise, Barak, and lead thy captivity captive, thou son of Abinoam.
-<small><sub>**BSB:**</sub></small>
-‘Awake, awake, O Deborah! Awake, awake, sing a song! Arise, O Barak, and take hold of your captives, O son of Abinoam!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.11|<< Judges 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.13|Judges 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

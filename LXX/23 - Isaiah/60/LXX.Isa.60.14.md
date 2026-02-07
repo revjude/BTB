@@ -1,10 +1,7 @@
 **LXX Isaiah 60:14** 
 <small><sub>**LXX:**</sub></small>
 And they shall go to you being in awe -- sons of the ones humbling you. And all the ones \[who\] provoked you shall do obeisance at the soles of your feet. And you shall be called, City of \[the\] <span class="smallcaps">lord</span>, Zion of Holy Israel. 
-<small><sub>**KJV:**</sub></small>
-The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the LORD, The Zion of the Holy One of Israel.
-<small><sub>**BSB:**</sub></small>
-The sons of your oppressors will come and bow down to you; all who reviled you will fall facedown at your feet and call you the City of the LORD, Zion of the Holy One of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.13|<< Isaiah 60:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.15|Isaiah 60:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 60:14** is...

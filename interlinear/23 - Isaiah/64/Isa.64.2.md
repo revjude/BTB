@@ -1,4 +1,4 @@
-**Isaiah 64:2** (64:1)
+**Isaiah 64:2**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As [when] the melting fire burneth, the fire causeth the waters to boil, to make thy name known to thine adversaries, [that] the nations may tremble at thy presence!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as fire kindles the brushwood and causes the water to boil, to make Your name kn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.1|<< Isaiah 64:1]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.3|Isaiah 64:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as kindles  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H6919\|קְדֹ֧חַ]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> k.Do.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire  |**<big>&#8207;[[H0784\|אֵ֣שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

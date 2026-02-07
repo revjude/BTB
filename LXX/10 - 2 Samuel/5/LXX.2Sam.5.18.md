@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:18** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines came and met in battle in the valley of the Titans. 
-<small><sub>**KJV:**</sub></small>
-The Philistines also came and spread themselves in the valley of Rephaim.
-<small><sub>**BSB:**</sub></small>
-Now the Philistines had come and spread out in the Valley of Rephaim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.17|<< 2 Samuel 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.19|2 Samuel 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

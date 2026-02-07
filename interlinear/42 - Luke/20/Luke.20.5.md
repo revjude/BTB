@@ -1,12 +1,12 @@
-**Luke 20:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:5**<big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?
 <small><sub>**BSB:**</sub></small>
 They deliberated among themselves and said, “If we say, ‘From heaven,’ He will ask, ‘Why did you not believe him?’
 <small><sub>**Literal:**</sub></small>
 <the> And they reasoned among themselves saying that If we shall say: From heaven, He will say; Because of why therefore not did you believe in him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.4|<< Luke 20:4]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.6|Luke 20:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

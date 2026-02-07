@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:18** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> sent you on \[the\] journey. And he said to you, Go! and utterly destroy  Amalek the ones sinning against me! and you shall war against them until you should have finished them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD sent thee on a journey, and said, Go and utterly destroy the sinners the Amalekites, and fight against them until they be consumed.
-<small><sub>**BSB:**</sub></small>
-and sent you on a mission, saying, ‘Go and devote to destruction the sinful Amalekites. Fight against them until you have wiped them out.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.17|<< 1 Samuel 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.19|1 Samuel 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

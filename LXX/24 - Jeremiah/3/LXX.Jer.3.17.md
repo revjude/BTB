@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:17** 
 <small><sub>**LXX:**</sub></small>
 In  those days and in  that time they shall call  Jerusalem, \[The\] throne of \[the\] <span class="smallcaps">lord</span>; and shall be brought together unto her all the nations; and they shall not go any more after the wicked thoughts of their heart. 
-<small><sub>**KJV:**</sub></small>
-At that time they shall call Jerusalem the throne of the LORD; and all the nations shall be gathered unto it, to the name of the LORD, to Jerusalem: neither shall they walk any more after the imagination of their evil heart.
-<small><sub>**BSB:**</sub></small>
-At that time they will call Jerusalem The Throne of the LORD, and all the nations will be gathered in Jerusalem to honor the name of the LORD. They will no longer follow the stubbornness of their evil hearts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.16|<< Jeremiah 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.18|Jeremiah 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

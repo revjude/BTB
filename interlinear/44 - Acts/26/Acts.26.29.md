@@ -1,12 +1,12 @@
-**Acts 26:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:29**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds.
 <small><sub>**BSB:**</sub></small>
 “Short time or long,” Paul replied, “I wish to God that not only you but all who hear me this day may become what I am, except for these chains.”
 <small><sub>**Literal:**</sub></small>
 <the> And Paul said; I would wish may <the> God both in a little and in much not only you but also all those hearing me this day to become such as also I myself am except <the> chains these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.28|<< Acts 26:28]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.30|Acts 26:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

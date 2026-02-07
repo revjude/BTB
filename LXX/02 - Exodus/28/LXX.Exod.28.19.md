@@ -1,10 +1,7 @@
 **LXX Exodus 28:19** 
 <small><sub>**LXX:**</sub></small>
 And the third row, amber, and agate, and amethyst. 
-<small><sub>**KJV:**</sub></small>
-And the third row a ligure, an agate, and an amethyst.
-<small><sub>**BSB:**</sub></small>
-in the third row a jacinth, an agate, and an amethyst;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.18|<< Exodus 28:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.20|Exodus 28:20 >>]]</td></tr></table>
 
 | Translation | Greek |

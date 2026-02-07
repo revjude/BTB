@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:8** 
 <small><sub>**LXX:**</sub></small>
 And the council of elders of that city shall call him, and they shall speak to him. And standing, should he say, I am not willing to take her; 
-<small><sub>**KJV:**</sub></small>
-Then the elders of his city shall call him, and speak unto him: and [if] he stand [to it], and say, I like not to take her;
-<small><sub>**BSB:**</sub></small>
-Then the elders of his city shall summon him and speak with him. If he persists and says, “I do not want to marry her,”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.7|<< Deuteronomy 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.9|Deuteronomy 25:9 >>]]</td></tr></table>
 
 | Translation | Greek |

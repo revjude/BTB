@@ -1,4 +1,4 @@
-**Ezekiel 8:4** 
+**Ezekiel 8:4**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the glory of the God of Israel [was] there, according to the vision that I saw in the plain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there I saw the glory of the God of Israel, like the vision I had seen in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.3|<< Ezekiel 8:3]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.5|Ezekiel 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִ֨נֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] there  |**<big>&#8207;[[H8033G\|שָׁ֔ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

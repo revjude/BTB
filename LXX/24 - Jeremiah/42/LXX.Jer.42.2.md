@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:2** 
 <small><sub>**LXX:**</sub></small>
 And they said to Jeremiah the prophet, Let there fall now  our \[need for\] mercy in front of you! And pray to \[the\] <span class="smallcaps">lord</span>  your God concerning the rest of these! for we are left few from many, as  your eyes see. 
-<small><sub>**KJV:**</sub></small>
-And said unto Jeremiah the prophet, Let, we beseech thee, our supplication be accepted before thee, and pray for us unto the LORD thy God, [even] for all this remnant; (for we are left [but] a few of many, as thine eyes do behold us:)
-<small><sub>**BSB:**</sub></small>
-Jeremiah the prophet and said, “May our petition come before you; pray to the LORD your God on behalf of this entire remnant. For few of us remain of the many, as you can see with your own eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.1|<< Jeremiah 42:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.3|Jeremiah 42:3 >>]]</td></tr></table>
 
 | Translation | Greek |

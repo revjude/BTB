@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:16** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, take to yourself one rod, and write upon it,  Judah, and the sons of Israel of the ones set before by him! And you shall take to yourself a second rod, and you shall write on it, \[To\] Joseph, \[the\] rod of Ephraim, and all the sons of Israel, of the ones set before by him. 
-<small><sub>**KJV:**</sub></small>
-Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and [for] all the house of Israel his companions:
-<small><sub>**BSB:**</sub></small>
-“And you, son of man, take a single stick and write on it: ‘Belonging to Judah and to the Israelites associated with him.’ Then take another stick and write on it: ‘Belonging to Joseph—the stick of Ephraim—and to all the house of Israel associated with him.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.15|<< Ezekiel 37:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.17|Ezekiel 37:17 >>]]</td></tr></table>
 
 | Translation | Greek |

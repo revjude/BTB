@@ -1,10 +1,7 @@
 **LXX Judges 10:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was enraged in anger against  Israel, and he gave them into \[the\] hand of \[the\] Philistines, and into \[the\] hand of \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-And the anger of the LORD was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon.
-<small><sub>**BSB:**</sub></small>
-So the anger of the LORD burned against Israel, and He sold them into the hands of the Philistines and Ammonites,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.6|<< Judges 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.8|Judges 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

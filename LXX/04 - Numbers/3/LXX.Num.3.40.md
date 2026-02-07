@@ -1,10 +1,7 @@
 **LXX Numbers 3:40** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, saying, Number every first-born male of the sons of Israel, from a month and up, and take  their number by name! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Number every firstborn male of the Israelites a month old or more, and list their names.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.39|<< Numbers 3:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.41|Numbers 3:41 >>]]</td></tr></table>
 
 | Translation | Greek |

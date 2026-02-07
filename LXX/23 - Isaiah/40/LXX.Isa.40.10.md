@@ -1,10 +1,7 @@
 **LXX Isaiah 40:10** 
 <small><sub>**LXX:**</sub></small>
 Behold, \[the\] Lord. \[The\] <span class="smallcaps">lord</span> comes with strength, even the arm with dominion. Behold,  his wage \[is\] with him, and the work before him. 
-<small><sub>**KJV:**</sub></small>
-Behold, the Lord GOD will come with strong [hand], and his arm shall rule for him: behold, his reward [is] with him, and his work before him.
-<small><sub>**BSB:**</sub></small>
-Behold, the Lord GOD comes with might, and His arm establishes His rule. His reward is with Him, and His recompense accompanies Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.9|<< Isaiah 40:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.11|Isaiah 40:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 40:10** is...

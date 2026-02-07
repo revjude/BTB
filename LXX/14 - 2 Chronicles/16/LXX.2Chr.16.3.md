@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:3** 
 <small><sub>**LXX:**</sub></small>
 Ordain a covenant between me and between you, and between  my father and between  your father! Behold, I have sent to you gold and silver. Come, and efface  your covenant with Baasha king of Israel! and he shall go forth from me. 
-<small><sub>**KJV:**</sub></small>
-[There is] a league between me and thee, as [there was] between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me.
-<small><sub>**BSB:**</sub></small>
-“Let there be a treaty between me and you as there was between my father and your father. See, I have sent you silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.2|<< 2 Chronicles 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.4|2 Chronicles 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

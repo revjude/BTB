@@ -1,12 +1,12 @@
-**Matthew 21:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:25**<big><big>[[Matt.21.23 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?
 <small><sub>**BSB:**</sub></small>
 What was the source of John’s baptism? Was it from heaven or from men?” They deliberated among themselves and said, “If we say, ‘From heaven,’ He will ask, ‘Why then did you not believe him?’
 <small><sub>**Literal:**</sub></small>
 The baptism <the> of John from where was it? From heaven or from men? <the> And they were reasoning among themselves saying; If we shall say; From heaven, He will say to us; Because of why then not did you believe in him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.24|<< Matthew 21:24]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.26|Matthew 21:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | baptism |**<big>[[G0908\|βάπτισμα]]</big>**  |baptisma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

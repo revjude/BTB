@@ -1,10 +1,7 @@
 **LXX Hosea 2:18** 
 <small><sub>**LXX:**</sub></small>
 And I will ordain to them a covenant in  that day with the wild beasts of the field, and with the birds of the heaven, and the reptiles of the earth. And I will break bow and broadsword and war from the earth, and I will settle upon hope. 
-<small><sub>**KJV:**</sub></small>
-And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and [with] the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely.
-<small><sub>**BSB:**</sub></small>
-On that day I will make a covenant for them with the beasts of the field and the birds of the air and the creatures that crawl on the ground. And I will abolish bow and sword and battle in the land, and will make them lie down in safety.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.17|<< Hosea 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.19|Hosea 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

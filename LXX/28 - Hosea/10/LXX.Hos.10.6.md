@@ -1,10 +1,7 @@
 **LXX Hosea 10:6** 
 <small><sub>**LXX:**</sub></small>
 And having tied it for Assyria, they carried away tribute  to king Jareb by a gift; Ephraim shall receive shame; Israel shall be ashamed in  his counsel. 
-<small><sub>**KJV:**</sub></small>
-It shall be also carried unto Assyria [for] a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.
-<small><sub>**BSB:**</sub></small>
-Yes, it will be carried to Assyria as tribute to the great king. Ephraim will be seized with shame; Israel will be ashamed of its wooden idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.5|<< Hosea 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.7|Hosea 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 99:4** 
+**Psalms 99:4**<big><big>[[Ps.99.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mighty King loves justice. You have established equity; You have exercised j
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.99.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99.3|<< Psalms 99:3]]</td><td align="center" style="border:none;">[[Ps.99|Psalms 99]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.5|Psalms 99:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] strength of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5797\|עֹ֥ז]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Oz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a king  |**<big>&#8207;[[H4428G\|מֶלֶךְ֮]]&#8207; </big>**| me.leKh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

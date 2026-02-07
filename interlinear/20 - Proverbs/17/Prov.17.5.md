@@ -1,4 +1,4 @@
-**Proverbs 17:5** 
+**Proverbs 17:5**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso mocketh the poor reproacheth his Maker: [and] he that is glad at calamities shall not be unpunished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who mocks the poor insults their Maker; whoever gloats over calamity will not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.4|<< Proverbs 17:4]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.6|Proverbs 17:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] mocks  |**<big>&#8207;[[H3932\|לֹעֵ֣ג]]&#8207; </big>**| lo.'Eg<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> the poor [person]  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H7326\|רָשׁ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> rosh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

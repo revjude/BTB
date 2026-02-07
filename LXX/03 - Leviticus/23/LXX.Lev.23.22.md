@@ -1,10 +1,7 @@
 **LXX Leviticus 23:22** 
 <small><sub>**LXX:**</sub></small>
 And whenever you shall harvest the harvest  of your land, you shall not complete the remainder of the harvest  of your field in  your harvesting. And the fall away \[portions\]  of your harvest you shall not collect together -- for the poor and for the foreigner you shall leave them. I am \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-When you reap the harvest of your land, do not reap all the way to the edges of your field or gather the gleanings of your harvest. Leave them for the poor and the foreign resident. I am the LORD your God.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.21|<< Leviticus 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.23|Leviticus 23:23 >>]]</td></tr></table>
 
 | Translation | Greek |

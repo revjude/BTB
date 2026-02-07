@@ -1,12 +1,12 @@
-**Galatians 5:18
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:18**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if ye be led of the Spirit, ye are not under the law.
 <small><sub>**BSB:**</sub></small>
 But if you are led by the Spirit, you are not under the law.
 <small><sub>**Literal:**</sub></small>
 If however by [the] Spirit you are led, not you are under [the] Law.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.17|<< Galatians 5:17]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.19|Galatians 5:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

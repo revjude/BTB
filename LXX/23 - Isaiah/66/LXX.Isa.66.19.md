@@ -1,10 +1,7 @@
 **LXX Isaiah 66:19** 
 <small><sub>**LXX:**</sub></small>
 And I will leave upon them a sign. And I will send out from them ones having been delivered unto the nations -- unto Tarshish, and Pul, and Lud, and Meshach, and Tubal, and unto  Greece, and unto the islands -- the ones at a distance, the ones who have not heard of my  name, nor have seen  my glory. And they shall announce  my glory among the nations. 
-<small><sub>**KJV:**</sub></small>
-And I will set a sign among them, and I will send those that escape of them unto the nations, [to] Tarshish, Pul, and Lud, that draw the bow, [to] Tubal, and Javan, [to] the isles afar off, that have not heard my fame, neither have seen my glory; and they shall declare my glory among the Gentiles.
-<small><sub>**BSB:**</sub></small>
-I will establish a sign among them, and I will send survivors from among them to the nations—to Tarshish, Put, and the archers of Lud; to Tubal, Javan, and the islands far away who have not heard of My fame or seen My glory. So they will proclaim My glory among the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.18|<< Isaiah 66:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.20|Isaiah 66:20 >>]]</td></tr></table>
 
 | Translation | Greek |

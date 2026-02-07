@@ -1,12 +1,12 @@
-**Luke 6:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:43**<big><big>[[Luke.6.43 A Tree and Its Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For a good tree bringeth not forth corrupt fruit; neither doth a corrupt tree bring forth good fruit.
 <small><sub>**BSB:**</sub></small>
 No good tree bears bad fruit, nor does a bad tree bear good fruit.
 <small><sub>**Literal:**</sub></small>
 No for there is tree good producing fruit bad; nor again [is there] a tree bad producing fruit good;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.42|<< Luke 6:42]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.44|Luke 6:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

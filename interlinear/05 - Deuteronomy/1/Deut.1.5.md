@@ -1,4 +1,4 @@
-**Deuteronomy 1:5** 
+**Deuteronomy 1:5**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On this side Jordan, in the land of Moab, began Moses to declare this law, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the east side of the Jordan in the land of Moab, Moses began to explain this 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.4|<< Deuteronomy 1:4]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.6|Deuteronomy 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] other side of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5676H\|עֵ֥בֶר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Jordan  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3383\|יַּרְדֵּ֖ן]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

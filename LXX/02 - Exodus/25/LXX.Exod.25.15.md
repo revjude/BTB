@@ -1,10 +1,7 @@
 **LXX Exodus 25:15** 
 <small><sub>**LXX:**</sub></small>
 In the rings of the ark of the covenant the bearing poles will be fixed. 
-<small><sub>**KJV:**</sub></small>
-The staves shall be in the rings of the ark: they shall not be taken from it.
-<small><sub>**BSB:**</sub></small>
-The poles are to remain in the rings of the ark; they must not be removed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.14|<< Exodus 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.16|Exodus 25:16 >>]]</td></tr></table>
 
 | Translation | Greek |

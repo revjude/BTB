@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:30** 
 <small><sub>**LXX:**</sub></small>
 And \[some\] of the sons of the priests were perfumers of the perfume with the aromatics. 
-<small><sub>**KJV:**</sub></small>
-And [some] of the sons of the priests made the ointment of the spices.
-<small><sub>**BSB:**</sub></small>
-And some of the sons of the priests mixed the spices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.29|<< 1 Chronicles 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.31|1 Chronicles 9:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Corinthians 4:5
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:5**<big><big>[[2Cor.4.1 The Light of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus’ sake.
 <small><sub>**BSB:**</sub></small>
 For we do not proclaim ourselves, but Jesus Christ as Lord, and ourselves as your servants for Jesus’ sake.
 <small><sub>**Literal:**</sub></small>
 Not for ourselves do we proclaim but Jesus Christ Lord, ourselves now servants of you for the sake of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.4|<< 2 Corinthians 4:4]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.6|2 Corinthians 4:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

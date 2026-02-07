@@ -1,10 +1,7 @@
 **LXX Genesis 37:3** 
 <small><sub>**LXX:**</sub></small>
 But Jacob loved  Joseph beyond all  his sons, for he was to him \[the\] son of old age. And he made for him a colored garment. 
-<small><sub>**KJV:**</sub></small>
-Now Israel loved Joseph more than all his children, because he [was] the son of his old age: and he made him a coat of [many] colours.
-<small><sub>**BSB:**</sub></small>
-Now Israel loved Joseph more than his other sons, because Joseph had been born to him in his old age; so he made him a robe of many colors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.2|<< Genesis 37:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.4|Genesis 37:4 >>]]</td></tr></table>
 
 | Translation | Greek |

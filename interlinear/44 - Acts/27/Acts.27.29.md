@@ -1,12 +1,12 @@
-**Acts 27:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:29**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then fearing lest we should have fallen upon rocks, they cast four anchors out of the stern, and wished for the day.
 <small><sub>**BSB:**</sub></small>
 Fearing that we would run aground on the rocks, they dropped four anchors from the stern and prayed for daybreak.
 <small><sub>**Literal:**</sub></small>
 Fearing then lest perhaps on rocky places we may fall, out of [the] stern having cast anchors four they were praying for day to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.28|<< Acts 27:28]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.30|Acts 27:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Fearing |**<big>[[G5399\|φοβούμενοί]]</big>**  |phoboumenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

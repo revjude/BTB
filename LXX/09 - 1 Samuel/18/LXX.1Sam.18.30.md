@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:30** 
 <small><sub>**LXX:**</sub></small>
 And the rulers of the Philistines came forth, and it came to pass from their fit expedition, that David perceived above all the servants of Saul. And his name \[was\] greatly esteemed. 
-<small><sub>**KJV:**</sub></small>
-Then the princes of the Philistines went forth: and it came to pass, after they went forth, [that] David behaved himself more wisely than all the servants of Saul; so that his name was much set by.
-<small><sub>**BSB:**</sub></small>
-Every time the Philistine commanders came out for battle, David was more successful than all of Saul’s officers, so that his name was highly esteemed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.29|<< 1 Samuel 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.1|1 Samuel 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

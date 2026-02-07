@@ -1,12 +1,12 @@
-**John 7:31
-**<small><sub>**KJV:**</sub></small>
+**John 7:31**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this [man] hath done?
 <small><sub>**BSB:**</sub></small>
 Many in the crowd, however, believed in Him and said, “When the Christ comes, will He perform more signs than this man?”
 <small><sub>**Literal:**</sub></small>
 Out of the crowd now many believed in Him and were saying that: The Christ When He may come, Surely not more signs than these things will He do than  this [man] has done?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.30|<< John 7:30]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.32|John 7:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

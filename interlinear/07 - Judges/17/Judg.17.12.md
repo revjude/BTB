@@ -1,4 +1,4 @@
-**Judges 17:12** 
+**Judges 17:12**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Micah consecrated the Levite; and the young man became his priest, and was in the house of Micah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Micah ordained the Levite, and the young man became his priest and lived in his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.11|<< Judges 17:11]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.13|Judges 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he filled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4390\|יְמַלֵּ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.Le'<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Micah  |**<big>&#8207;[[H4318G\|מִיכָה֙]]&#8207; </big>**| mi.Khah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

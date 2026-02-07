@@ -1,12 +1,12 @@
-**Mark 14:55
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:55**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the chief priests and all the council sought for witness against Jesus to put him to death; and found none.
 <small><sub>**BSB:**</sub></small>
 Now the chief priests and the whole Sanhedrin were seeking testimony against Jesus to put Him to death, but they did not find any.
 <small><sub>**Literal:**</sub></small>
 <the> And the chief priests and all the Council were seeking against <the> Jesus testimony to <the> put to death Him but not they were finding [any].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.54|<< Mark 14:54]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.56|Mark 14:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

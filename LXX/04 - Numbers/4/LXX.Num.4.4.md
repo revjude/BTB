@@ -1,10 +1,7 @@
 **LXX Numbers 4:4** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the works of the sons of Kohath in the tent of the testimony, a holy of the holies. 
-<small><sub>**KJV:**</sub></small>
-This [shall be] the service of the sons of Kohath in the tabernacle of the congregation, [about] the most holy things:
-<small><sub>**BSB:**</sub></small>
-This service of the Kohathites at the Tent of Meeting regards the most holy things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.3|<< Numbers 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.5|Numbers 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

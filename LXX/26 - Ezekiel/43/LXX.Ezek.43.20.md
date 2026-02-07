@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:20** 
 <small><sub>**LXX:**</sub></small>
 And they shall take from  its blood, and shall place \[it\] upon four horns of the altar, and upon the four corners of the atonement-seat, and upon the base round about; and they shall cleanse and atone it. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take of the blood thereof, and put [it] on the four horns of it, and on the four corners of the settle, and upon the border round about: thus shalt thou cleanse and purge it.
-<small><sub>**BSB:**</sub></small>
-You are to take some of its blood and put it on the four horns of the altar, on the four corners of the ledge, and all around the rim; thus you will cleanse the altar and make atonement for it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.19|<< Ezekiel 43:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.21|Ezekiel 43:21 >>]]</td></tr></table>
 
 | Translation | Greek |

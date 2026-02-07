@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:15** 
 <small><sub>**LXX:**</sub></small>
 And the sons of the prophets beheld him, the ones in Jericho right opposite. And they said, The spirit of Elijah rests upon Elisha. And they came to meet with him, and they did obeisance to him upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And when the sons of the prophets which [were] to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.
-<small><sub>**BSB:**</sub></small>
-When the sons of the prophets who were watching him from Jericho saw what had happened, they said, “The spirit of Elijah rests on Elisha.” And they went to meet him and bowed down to the ground before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.14|<< 2 Kings 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.16|2 Kings 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

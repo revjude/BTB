@@ -1,4 +1,4 @@
-**1 Chronicles 22:13** 
+**1 Chronicles 22:13**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will succeed, if you carefully follow the statutes and ordinances that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.12|<< 1 Chronicles 22:12]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.14|1 Chronicles 22:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be successful  |**<big>&#8207;[[H6743B\|תַּצְלִ֔יחַ]]&#8207; </big>**| tatz.Li.ach<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

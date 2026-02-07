@@ -1,4 +1,4 @@
-**Ezekiel 40:1** 
+**Ezekiel 40:1**<big><big>[[Ezek.40.1 The Man with a Measuring Rod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the five and twentieth year of our captivity, in the beginning of the year, in the tenth [day] of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ In the twenty-fifth year of our exile, at the beginning of the year, on the tent
 > $\quad$ referenced by: [[Rev.21.2|Rev 21:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in twenty  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6242\|עֶשְׂרִ֣ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and five  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2568\|חָמֵ֣שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

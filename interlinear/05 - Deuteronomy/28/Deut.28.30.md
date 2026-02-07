@@ -1,4 +1,4 @@
-**Deuteronomy 28:30** 
+**Deuteronomy 28:30**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be pledged in marriage to a woman, but another man will violate her. Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.29|<< Deuteronomy 28:29]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.31|Deuteronomy 28:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a woman  |**<big>&#8207;[[H0802H\|אִשָּׁ֣ה]]&#8207; </big>**| 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will betroth  |**<big>&#8207;[[H0781\|תְאָרֵ֗שׂ]]&#8207; </big>**| te.'a.Res<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

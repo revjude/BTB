@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Only the Levites who hoped upon me in  Israel wandering from me after  their own ideas, even they shall bear their iniquities; 
-<small><sub>**KJV:**</sub></small>
-And the Levites that are gone away far from me, when Israel went astray, which went astray away from me after their idols; they shall even bear their iniquity.
-<small><sub>**BSB:**</sub></small>
-Surely the Levites who wandered away from Me when Israel went astray, and who wandered away from Me after their idols, will bear the consequences of their iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.9|<< Ezekiel 44:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.11|Ezekiel 44:11 >>]]</td></tr></table>
 
 | Translation | Greek |

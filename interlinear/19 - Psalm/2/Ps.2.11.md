@@ -1,4 +1,4 @@
-**Psalms 2:11** 
+**Psalms 2:11**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Serve the LORD with fear, and rejoice with trembling.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Serve the LORD with fear, and rejoice with trembling.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.10|<< Psalms 2:10]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.12|Psalms 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | serve  |**<big>&#8207;[[H5647H\|עִבְד֣וּ]]&#8207; </big>**| 'iv.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 137:7** 
+**Psalms 137:7**<big><big>[[Ps.137.1 By the Rivers of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Rase [it], rase [it, even] to the foundation thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember, O LORD, the sons of Edom on the day Jerusalem fell: “Destroy it,” 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.137.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.137.6|<< Psalms 137:6]]</td><td align="center" style="border:none;">[[Ps.137|Psalms 137]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.137.8|Psalms 137:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זְכֹ֤ר]]&#8207; </big>**| ze.Khor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

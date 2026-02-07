@@ -1,4 +1,4 @@
-**2 Samuel 6:14** 
+**2 Samuel 6:14**<big><big>[[2Sam.6.12 The Ark Brought to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David danced before the LORD with all [his] might; and David [was] girded with a linen ephod.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And David, wearing a linen ephod, danced with all his might before the LORD,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.13|<< 2 Samuel 6:13]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.15|2 Samuel 6:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and David  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1732\|דָוִ֛ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] dancing  |**<big>&#8207;[[H3769\|מְכַרְכֵּ֥ר]]&#8207; </big>**| me.khar.Ker<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

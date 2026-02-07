@@ -1,12 +1,12 @@
-**Luke 1:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:5**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife [was] of the daughters of Aaron, and her name [was] Elisabeth.
 <small><sub>**BSB:**</sub></small>
 In the time of Herod king of Judea there was a priest named Zechariah, who belonged to the priestly division of Abijah, and whose wife Elizabeth was a descendant of Aaron.
 <small><sub>**Literal:**</sub></small>
 There was in the days of Herod <the> king <the> of Judea a priest certain named Zechariah of [the] division of Abijah, and the wife of him of the daughters of Aaron and the name of her Elizabeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.4|<< Luke 1:4]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.6|Luke 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There was |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

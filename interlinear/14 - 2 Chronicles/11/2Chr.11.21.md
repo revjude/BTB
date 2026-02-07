@@ -1,4 +1,4 @@
-**2 Chronicles 11:21** 
+**2 Chronicles 11:21**<big><big>[[2Chr.11.18 Rehoboam’s Family|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rehoboam loved Maacah daughter of Absalom more than all his wives and concubines
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.20|<< 2 Chronicles 11:20]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.22|2 Chronicles 11:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he loved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0157G\|יֶּאֱהַ֨ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'e.Hav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rehoboam  |**<big>&#8207;[[H7346\|רְחַבְעָ֜ם]]&#8207; </big>**| re.chav.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

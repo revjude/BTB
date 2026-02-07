@@ -1,10 +1,7 @@
 **LXX Genesis 41:6** 
 <small><sub>**LXX:**</sub></small>
 And behold, seven ears of corn, thin and destroyed by the wind grew up after them. 
-<small><sub>**KJV:**</sub></small>
-And, behold, seven thin ears and blasted with the east wind sprung up after them.
-<small><sub>**BSB:**</sub></small>
-After them, seven other heads of grain sprouted, thin and scorched by the east wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.5|<< Genesis 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.7|Genesis 41:7 >>]]</td></tr></table>
 
 | Translation | Greek |

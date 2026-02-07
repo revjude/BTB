@@ -1,12 +1,12 @@
-**Mark 4:6
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:6**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the sun was up, it was scorched; and because it had no root, it withered away.
 <small><sub>**BSB:**</sub></small>
 But when the sun rose, the seedlings were scorched, and they withered because they had no root.
 <small><sub>**Literal:**</sub></small>
 And after rose the sun it was scorched and because of <the> not having root it withered away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.5|<< Mark 4:5]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.7|Mark 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And [^1] |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | after [^2] |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall call  Jesse and  his sons to the sacrifice, and I shall make known to you what you shall do. And you shall anoint to me whom ever I should tell to you. 
-<small><sub>**KJV:**</sub></small>
-And call Jesse to the sacrifice, and I will shew thee what thou shalt do: and thou shalt anoint unto me [him] whom I name unto thee.
-<small><sub>**BSB:**</sub></small>
-Then invite Jesse to the sacrifice, and I will show you what you are to do. You are to anoint for Me the one I indicate.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.2|<< 1 Samuel 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.4|1 Samuel 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

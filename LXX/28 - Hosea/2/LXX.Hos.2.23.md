@@ -1,10 +1,7 @@
 **LXX Hosea 2:23** 
 <small><sub>**LXX:**</sub></small>
 And I will sow her to myself upon the earth; and I will love the one not being loved. And I will say to the one not my people, You are my people; and he shall say, You are \[the\] <span class="smallcaps">lord</span> my God. 
-<small><sub>**KJV:**</sub></small>
-And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to [them which were] not my people, Thou [art] my people; and they shall say, [Thou art] my God.
-<small><sub>**BSB:**</sub></small>
-And I will sow her as My own in the land, and I will have compassion on ‘No Compassion.’ I will say to those called ‘Not My People,’ ‘You are My people,’ and they will say, ‘You are my God.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.22|<< Hosea 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.3.1|Hosea 3:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 2:23** is...

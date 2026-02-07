@@ -1,12 +1,12 @@
-**1 Corinthians 16:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:19**<big><big>[[1Cor.16.19 Signature and Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.
 <small><sub>**BSB:**</sub></small>
 The churches in the province of Asia send you greetings. Aquila and Prisca greet you warmly in the Lord, and so does the church that meets at their house.
 <small><sub>**Literal:**</sub></small>
 Greet you the churches <the> of Asia. he greets you in [the] Lord heartily Aquila and Prisca with the at house of them church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.18|<< 1 Corinthians 16:18]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.20|1 Corinthians 16:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Greet |**<big>[[G0782\|Ἀσπάζονται]]</big>**  |Aspazontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

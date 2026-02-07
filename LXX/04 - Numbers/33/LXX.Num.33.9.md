@@ -1,10 +1,7 @@
 **LXX Numbers 33:9** 
 <small><sub>**LXX:**</sub></small>
 And departing from Bitterness, and they came to Elim. And in Elim \[were\] twelve springs of waters, and seventy trunks of palm trees; and they camped there by the water. 
-<small><sub>**KJV:**</sub></small>
-And they removed from Marah, and came unto Elim: and in Elim [were] twelve fountains of water, and threescore and ten palm trees; and they pitched there.
-<small><sub>**BSB:**</sub></small>
-They set out from Marah and came to Elim, where there were twelve springs and seventy palm trees, and they camped there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.8|<< Numbers 33:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.10|Numbers 33:10 >>]]</td></tr></table>
 
 | Translation | Greek |

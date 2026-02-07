@@ -1,4 +1,4 @@
-**Numbers 3:13** 
+**Numbers 3:13**<big><big>[[Num.3.5 The Duties of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because all the firstborn [are] mine; [for] on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for all the firstborn are Mine. On the day I struck down every firstborn in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.12|<< Numbers 3:12]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.14|Numbers 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to \<the> me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

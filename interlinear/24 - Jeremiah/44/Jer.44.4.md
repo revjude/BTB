@@ -1,4 +1,4 @@
-**Jeremiah 44:4** 
+**Jeremiah 44:4**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit I sent unto you all my servants the prophets, rising early and sending [them], saying, Oh, do not this abominable thing that I hate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet I sent you all My servants the prophets again and again, saying: ‘Do not d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.3|<< Jeremiah 44:3]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.5|Jeremiah 44:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I sent  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7971G\|אֶשְׁלַ֤ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Lach<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

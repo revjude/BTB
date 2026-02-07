@@ -1,4 +1,4 @@
-**Exodus 26:30** 
+**Exodus 26:30**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt rear up the tabernacle according to the fashion thereof which was shewed thee in the mount.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So you are to set up the tabernacle according to the pattern shown you on the mo
 > $\quad$ referenced by: [[Acts.7.44|Acts 7:44]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will set up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965H\|הֲקֵמֹתָ֖]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ke.mo.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 32:21** 
+**Numbers 32:21**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And will go all of you armed over Jordan before the LORD, until he hath driven out his enemies from before him,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if every one of your armed men crosses the Jordan before the LORD, until He 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.20|<< Numbers 32:20]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.22|Numbers 32:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will pass over  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|עָבַ֨ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Var<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֧ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

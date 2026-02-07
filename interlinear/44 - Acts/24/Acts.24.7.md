@@ -1,12 +1,12 @@
-**Acts 24:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:7**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the chief captain Lysias came [upon us], and with great violence took [him] away out of our hands,
 <small><sub>**BSB:**</sub></small>
 
 <small><sub>**Literal:**</sub></small>
 having come up now Lysias the commander with great violence from the hands of us being carried away,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.6|<< Acts 24:6]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.8|Acts 24:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having come up |**<big>[[G3928\|παρελθὼν]]</big>**  |parelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="TR">K</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |

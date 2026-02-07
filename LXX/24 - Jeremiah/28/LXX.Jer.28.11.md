@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:11** 
 <small><sub>**LXX:**</sub></small>
 And Hananiah said before \[the\] eyes of all the people, saying, Thus said \[the\] <span class="smallcaps">lord</span>, Thus I will break the yoke of \[the\] king of Babylon in two years of days from the necks of all the nations. And Jeremiah set out unto  his way. 
-<small><sub>**KJV:**</sub></small>
-And Hananiah spake in the presence of all the people, saying, Thus saith the LORD; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way.
-<small><sub>**BSB:**</sub></small>
-And in the presence of all the people Hananiah proclaimed, “This is what the LORD says: ‘In this way, within two years I will break the yoke of Nebuchadnezzar king of Babylon off the neck of all the nations.’” At this, Jeremiah the prophet went on his way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.10|<< Jeremiah 28:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.12|Jeremiah 28:12 >>]]</td></tr></table>
 
 | Translation | Greek |

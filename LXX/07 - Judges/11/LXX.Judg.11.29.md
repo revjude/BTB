@@ -1,10 +1,7 @@
 **LXX Judges 11:29** 
 <small><sub>**LXX:**</sub></small>
 And spirit \[of the\] <span class="smallcaps">lord</span> became upon Jephthah, and he passed over  Gilead, and  Manasseh, and he passed over the height of Gilead, and from \[the\] height of Gilead to the other side of \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over [unto] the children of Ammon.
-<small><sub>**BSB:**</sub></small>
-Then the Spirit of the LORD came upon Jephthah, and he passed through Gilead and Manasseh, then through Mizpah of Gilead. And from there he advanced against the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.28|<< Judges 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.30|Judges 11:30 >>]]</td></tr></table>
 
 | Translation | Greek |

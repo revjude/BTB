@@ -1,10 +1,7 @@
 **LXX Job 34:16** 
 <small><sub>**LXX:**</sub></small>
 But if he should not admonish, \[then\] hear these \[things\]! Give ear to \[the\] sound of words! 
-<small><sub>**KJV:**</sub></small>
-If now [thou hast] understanding, hear this: hearken to the voice of my words.
-<small><sub>**BSB:**</sub></small>
-If you have understanding, hear this; listen to my words.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.15|<< Job 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.17|Job 34:17 >>]]</td></tr></table>
 
 | Translation | Greek |

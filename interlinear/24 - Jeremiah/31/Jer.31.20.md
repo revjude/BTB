@@ -1,4 +1,4 @@
-**Jeremiah 31:20** 
+**Jeremiah 31:20**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] Ephraim my dear son? [is he] a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is not Ephraim a precious son to Me, a delightful child? Though I often speak ag
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.19|<< Jeremiah 31:19]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.21|Jeremiah 31:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ a son  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H1121A\|בֵן֩]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dear  |**<big>&#8207;[[H3357\|יַקִּ֨יר]]&#8207; </big>**| ya.Kir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

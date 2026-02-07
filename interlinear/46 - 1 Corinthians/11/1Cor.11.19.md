@@ -1,12 +1,12 @@
-**1 Corinthians 11:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:19**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For there must be also heresies among you, that they which are approved may be made manifest among you.
 <small><sub>**BSB:**</sub></small>
 And indeed, there must be differences among you to show which of you are approved.
 <small><sub>**Literal:**</sub></small>
 It behooves for also factions among you there to be, so that also the approved evident may become among you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.18|<< 1 Corinthians 11:18]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.20|1 Corinthians 11:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It behooves |**<big>[[G1163\|δεῖ]]</big>**  |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

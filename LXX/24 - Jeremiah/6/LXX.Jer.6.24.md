@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:24** 
 <small><sub>**LXX:**</sub></small>
 We heard the report of them; our hands were disabled; affliction holds us down; pangs as a woman giving birth. 
-<small><sub>**KJV:**</sub></small>
-We have heard the fame thereof: our hands wax feeble: anguish hath taken hold of us, [and] pain, as of a woman in travail.
-<small><sub>**BSB:**</sub></small>
-We have heard the report; our hands hang limp. Anguish has gripped us, pain like that of a woman in labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.23|<< Jeremiah 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.25|Jeremiah 6:25 >>]]</td></tr></table>
 
 | Translation | Greek |

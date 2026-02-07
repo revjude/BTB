@@ -1,4 +1,4 @@
-**Deuteronomy 23:8** (23:9)
+**Deuteronomy 23:8**<big><big>[[Deut.23.1 Exclusion from the Congregation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children that are begotten of them shall enter into the congregation of the LORD in their third generation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The third generation of children born to them may enter the assembly of the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.7|<< Deuteronomy 23:7]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.9|Deuteronomy 23:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | children  |**<big>&#8207;[[H1121A\|בָּנִ֛ים]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

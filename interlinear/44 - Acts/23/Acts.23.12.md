@@ -1,12 +1,12 @@
-**Acts 23:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:12**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.
 <small><sub>**BSB:**</sub></small>
 When daylight came, the Jews formed a conspiracy and bound themselves with an oath not to eat or drink until they had killed Paul.
 <small><sub>**Literal:**</sub></small>
 When it was becoming then day having made a conspiracy the Jews put under an oath themselves declaring neither to eat nor to drink until that they may kill <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.11|<< Acts 23:11]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.13|Acts 23:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When it was becoming |**<big>[[G1096\|Γενομένης]]</big>**  |Genomenēs <small><sup>[[V-2ADP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

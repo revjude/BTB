@@ -1,12 +1,12 @@
-**John 15:4
-**<small><sub>**KJV:**</sub></small>
+**John 15:4**<big><big>[[John.15.1 Jesus the True Vine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.
 <small><sub>**BSB:**</sub></small>
 Remain in Me, and I will remain in you. Just as no branch can bear fruit by itself unless it remains in the vine, neither can you bear fruit unless you remain in Me.
 <small><sub>**Literal:**</sub></small>
 do abide in Me myself and I myself in you. Even as the branch not is able fruit to bear of itself only unless it shall abide in the vine, so neither [are able] you only unless in Me myself you shall abide.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.3|<< John 15:3]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.5|John 15:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do abide |**<big>[[G3306\|μείνατε]]</big>**  |meinate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

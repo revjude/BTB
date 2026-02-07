@@ -1,12 +1,12 @@
-**2 Corinthians 7:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 7:11**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, [what] clearing of yourselves, yea, [what] indignation, yea, [what] fear, yea, [what] vehement desire, yea, [what] zeal, yea, [what] revenge! In all [things] ye have approved yourselves to be clear in this matter.
 <small><sub>**BSB:**</sub></small>
 Consider what this godly sorrow has produced in you: what earnestness, what eagerness to clear yourselves, what indignation, what alarm, what longing, what zeal, what vindication! In every way you have proved yourselves to be innocent in this matter.
 <small><sub>**Literal:**</sub></small>
 Behold for this very same <the> [thing] according to God to have been grieved by you how much has produced in you earnestness, but instead reasoned defense, but indignation, but fear, but longing, but zeal, but vindication? In everything you have proved yourselves innocent to be in this matter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.10|<< 2 Corinthians 7:10]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.12|2 Corinthians 7:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

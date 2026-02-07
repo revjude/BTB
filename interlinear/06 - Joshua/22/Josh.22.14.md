@@ -1,4 +1,4 @@
-**Joshua 22:14** 
+**Joshua 22:14**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with him ten princes, of each chief house a prince throughout all the tribes of Israel; and each one [was] an head of the house of their fathers among the thousands of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With him they sent ten chiefs—one family leader from each tribe of Israel, eac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.13|<< Joshua 22:13]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.15|Joshua 22:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and ten  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6235\|עֲשָׂרָ֤ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | leaders  |**<big>&#8207;[[H5387A\|נְשִׂאִים֙]]&#8207; </big>**| ne.si.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

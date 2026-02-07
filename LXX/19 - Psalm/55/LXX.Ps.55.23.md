@@ -1,10 +1,7 @@
 **LXX Psalm 55:23** 
 <small><sub>**LXX:**</sub></small>
 But you, O God, shall lead them down into \[the\] well of corruption; men of blood and deceit in no way shall \[live\] half  their days. But I, O <span class="smallcaps">lord</span>, shall hope upon you. 
-<small><sub>**KJV:**</sub></small>
-But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee.
-<small><sub>**BSB:**</sub></small>
-But You, O God, will bring them down to the Pit of destruction; men of bloodshed and deceit will not live out half their days. But I will trust in You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.55.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.22|<< Psalm 55:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.1|Psalm 56:1 >>]]</td></tr></table>
 
 | Translation | Greek |

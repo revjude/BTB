@@ -1,4 +1,4 @@
-**Psalms 94:11** 
+**Psalms 94:11**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD knoweth the thoughts of man, that they [are] vanity.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD knows the thoughts of man, that they are futile.
 > $\quad$ referenced by: [[1Cor.3.20|1Cor 3:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] knowing  |**<big>&#8207;[[H3045\|יֹ֭דֵעַ]]&#8207; </big>**| Yo.de.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

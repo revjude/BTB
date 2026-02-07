@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:17** 
 <small><sub>**LXX:**</sub></small>
 And Mattaniah son of Micha, son Zechri son of Asaph \[was\] one in charge of the praise, and Juda of the prayer, and Bakbukiah second of  of his brethren, and Abda son of Shammua, son of Galal, son of Jeduthun. 
-<small><sub>**KJV:**</sub></small>
-And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, [was] the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.
-<small><sub>**BSB:**</sub></small>
-Mattaniah son of Mica, the son of Zabdi, the son of Asaph, who led in thanksgiving and prayer; Bakbukiah, second among his associates; and Abda son of Shammua, the son of Galal, the son of Jeduthun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.16|<< Nehemiah 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.18|Nehemiah 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

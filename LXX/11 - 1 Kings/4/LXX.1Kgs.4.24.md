@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:24** 
 <small><sub>**LXX:**</sub></small>
 For he was ruler in all on the other side of the river, from Tiphsah unto Azzah, in all the kingdoms on the other side of the river. And there was to him peace from all of the parts round about. 
-<small><sub>**KJV:**</sub></small>
-For he had dominion over all [the region] on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.
-<small><sub>**BSB:**</sub></small>
-For Solomon had dominion over everything west of the Euphrates—over all the kingdoms from Tiphsah to Gaza—and he had peace on all sides.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.23|<< 1 Kings 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.25|1 Kings 4:25 >>]]</td></tr></table>
 
 | Translation | Greek |

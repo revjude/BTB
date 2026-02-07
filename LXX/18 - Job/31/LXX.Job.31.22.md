@@ -1,10 +1,7 @@
 **LXX Job 31:22** 
 <small><sub>**LXX:**</sub></small>
 then separate my shoulder from the collar-bone,  and be broken my arm from the elbow. 
-<small><sub>**KJV:**</sub></small>
-[Then] let mine arm fall from my shoulder blade, and mine arm be broken from the bone.
-<small><sub>**BSB:**</sub></small>
-then may my arm fall from my shoulder and be torn from its socket.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.21|<< Job 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.23|Job 31:23 >>]]</td></tr></table>
 
 | Translation | Greek |

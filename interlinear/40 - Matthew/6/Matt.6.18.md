@@ -1,12 +1,12 @@
-**Matthew 6:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:18**<big><big>[[Matt.6.16 Proper Fasting|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.
 <small><sub>**BSB:**</sub></small>
 so that your fasting will not be obvious to men, but only to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you.
 <small><sub>**Literal:**</sub></small>
 so that not may you appear <the> to men [as] fasting but <the> to Father of you the [One] in <the> secret. and the Father of you the [One] seeing in <the> secret will reward you in <the> public.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.17|<< Matthew 6:17]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.19|Matthew 6:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

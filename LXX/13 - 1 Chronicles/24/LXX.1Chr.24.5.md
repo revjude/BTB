@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 24:5** 
 <small><sub>**LXX:**</sub></small>
 And he divided them by lots, these with these. For they were rulers of the holies, and rulers  of God among the sons of Eleazar, and among the sons of Ithamar. 
-<small><sub>**KJV:**</sub></small>
-Thus were they divided by lot, one sort with another; for the governors of the sanctuary, and governors [of the house] of God, were of the sons of Eleazar, and of the sons of Ithamar.
-<small><sub>**BSB:**</sub></small>
-Thus they were divided by lot, for there were officers of the sanctuary and officers of God among both Eleazar’s and Ithamar’s descendants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.4|<< 1 Chronicles 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.6|1 Chronicles 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

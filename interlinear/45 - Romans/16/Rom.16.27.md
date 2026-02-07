@@ -1,12 +1,12 @@
-**Romans 16:27
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:27**<big><big>[[Rom.16.25 Doxology|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To God only wise, [be] glory through Jesus Christ for ever. Amen.
 <small><sub>**BSB:**</sub></small>
 to the only wise God be glory forever through Jesus Christ! Amen.
 <small><sub>**Literal:**</sub></small>
 {14.26} [to the] only wise God through Jesus Christ which [is] [be] the glory to the ages Amen to Romans it was written from Corinth through Phoebe the servant <the> in Cenchrea church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.26|<< Romans 16:26]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.1|1 Corinthians 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | {14.26} [to the] only |**<big>[[G3441\|μόνῳ]]</big>**  |monō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^1] | |
 | wise |**<big>[[G4680\|σοφῷ]]</big>**  |sophō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz«14.26">NKO</abbr>[^2] | |

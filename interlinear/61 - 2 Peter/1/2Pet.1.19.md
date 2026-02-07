@@ -1,12 +1,12 @@
-**2 Peter 1:19
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:19**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:
 <small><sub>**BSB:**</sub></small>
 We also have the word of the prophets as confirmed beyond doubt. And you will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts.
 <small><sub>**Literal:**</sub></small>
 And we have more certain the prophetic word, to which well you do taking heed as to a lamp shining in [a] dark place until this day may have shone through and [the] morning star may have arisen in the hearts of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.18|<< 2 Peter 1:18]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.20|2 Peter 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we have |**<big>[[G2192\|ἔχομεν]]</big>**  |echomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

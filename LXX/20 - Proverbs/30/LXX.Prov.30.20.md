@@ -1,10 +1,7 @@
 **LXX Proverbs 30:20** 
 <small><sub>**LXX:**</sub></small>
 Such is the way of an adulterous woman,  whenever she should act in washing \[herself\], she says not to have acted out of place. 
-<small><sub>**KJV:**</sub></small>
-Such [is] the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.
-<small><sub>**BSB:**</sub></small>
-This is the way of an adulteress: She eats and wipes her mouth and says, ‘I have done nothing wrong.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.19|<< Proverbs 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.21|Proverbs 30:21 >>]]</td></tr></table>
 
 | Translation | Greek |

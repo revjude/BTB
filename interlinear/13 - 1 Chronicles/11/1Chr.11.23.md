@@ -1,4 +1,4 @@
-**1 Chronicles 11:23** 
+**1 Chronicles 11:23**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he slew an Egyptian, a man of [great] stature, five cubits high; and in the Egyptian’s hand [was] a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also struck down an Egyptian, a huge man five cubits tall. Although the Egypt
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.22|<< 1 Chronicles 11:22]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.24|1 Chronicles 11:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he struck down  |**<big>&#8207;[[H5221\|הִכָּה֩]]&#8207; </big>**| hi.Kah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

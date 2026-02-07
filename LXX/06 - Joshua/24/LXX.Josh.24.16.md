@@ -1,10 +1,7 @@
 **LXX Joshua 24:16** 
 <small><sub>**LXX:**</sub></small>
 And responding the people said, May it not be to us to leave the <span class="smallcaps">lord</span> so as to serve other gods. 
-<small><sub>**KJV:**</sub></small>
-And the people answered and said, God forbid that we should forsake the LORD, to serve other gods;
-<small><sub>**BSB:**</sub></small>
-The people replied, “Far be it from us to forsake the LORD to serve other gods!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.15|<< Joshua 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.17|Joshua 24:17 >>]]</td></tr></table>
 
 | Translation | Greek |

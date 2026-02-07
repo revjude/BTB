@@ -1,4 +1,4 @@
-**Ezekiel 8:10** 
+**Ezekiel 8:10**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I went in and looked, and engraved all around the wall was every kind of craw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.9|<< Ezekiel 8:9]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.11|Ezekiel 8:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I went  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0935G\|אָבוֹא֮]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Vo'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I saw  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H7200G\|אֶרְאֶה֒]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'er.'Eh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

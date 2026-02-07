@@ -1,4 +1,4 @@
-**2 Kings 10:33** 
+**2 Kings 10:33**<big><big>[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which [is] by the river Arnon, even Gilead and Bashan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from the Jordan eastward through all the land of Gilead (the region of Gad, Reub
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.32|<< 2 Kings 10:32]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.34|2 Kings 10:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Jordan  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3383\|יַּרְדֵּן֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

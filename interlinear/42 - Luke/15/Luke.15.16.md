@@ -1,12 +1,12 @@
-**Luke 15:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:16**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.
 <small><sub>**BSB:**</sub></small>
 He longed to fill his belly with the pods the pigs were eating, but no one would give him a thing.
 <small><sub>**Literal:**</sub></small>
 And he was longing to be fed the stomach of him from the pods that were eating the pigs, and no [one] was giving to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.15|<< Luke 15:15]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.17|Luke 15:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he was longing |**<big>[[G1937\|ἐπεθύμει]]</big>**  |epethumei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

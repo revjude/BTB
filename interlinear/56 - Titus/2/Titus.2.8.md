@@ -1,12 +1,12 @@
-**Titus 2:8
-**<small><sub>**KJV:**</sub></small>
+**Titus 2:8**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.
 <small><sub>**BSB:**</sub></small>
 and wholesome speech that is above reproach, so that anyone who opposes us will be ashamed, having nothing bad to say about us.
 <small><sub>**Literal:**</sub></small>
 speech sound, beyond reproach, so that he who is of the contrary may be ashamed nothing having to say concerning us evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.7|<< Titus 2:7]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.9|Titus 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speech |**<big>[[G3056\|λόγον]]</big>**  |logon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | sound, |**<big>[[G5199\|ὑγιῆ,]]</big>**  |hugiē <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

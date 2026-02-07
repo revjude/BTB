@@ -1,12 +1,12 @@
-**Matthew 5:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:30**<big><big>[[Matt.5.27 Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if thy right hand offend thee, cut it off, and cast [it] from thee: for it is profitable for thee that one of thy members should perish, and not [that] thy whole body should be cast into hell.
 <small><sub>**BSB:**</sub></small>
 And if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to depart into hell.
 <small><sub>**Literal:**</sub></small>
 And if the right of you hand causes to stumble you, do cut off it and do cast [it] from you; it is better indeed for you that may perish one of the members of you and not all the body of you into hell may depart.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.29|<< Matthew 5:29]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.31|Matthew 5:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

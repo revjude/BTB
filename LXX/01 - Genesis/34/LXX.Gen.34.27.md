@@ -1,10 +1,7 @@
 **LXX Genesis 34:27** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Jacob entered unto the wounded, and plundered the city in which Dinah their sister was defiled. 
-<small><sub>**KJV:**</sub></small>
-The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister.
-<small><sub>**BSB:**</sub></small>
-Jacob’s other sons came upon the slaughter and looted the city, because their sister had been defiled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.26|<< Genesis 34:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.28|Genesis 34:28 >>]]</td></tr></table>
 
 | Translation | Greek |

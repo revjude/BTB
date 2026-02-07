@@ -1,4 +1,4 @@
-**Exodus 40:25** 
+**Exodus 40:25**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he lighted the lamps before the LORD; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and set up the lamps before the LORD, just as the LORD had commanded him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.24|<< Exodus 40:24]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.26|Exodus 40:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927H\|יַּ֥עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lamps  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5216A\|נֵּרֹ֖ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

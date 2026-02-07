@@ -1,4 +1,4 @@
-**Job 17:12** 
+**Job 17:12**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They change the night into day: the light [is] short because of darkness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have turned night into day, making light seem near in the face of darkness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.11|<< Job 17:11]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.13|Job 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | night  |**<big>&#8207;[[H3915\|לַ֭יְלָה]]&#8207; </big>**| Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into day  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

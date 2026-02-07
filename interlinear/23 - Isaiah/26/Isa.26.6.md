@@ -1,4 +1,4 @@
-**Isaiah 26:6** 
+**Isaiah 26:6**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The foot shall tread it down, [even] the feet of the poor, [and] the steps of the needy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Feet trample it down—the feet of the oppressed, the steps of the poor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.5|<< Isaiah 26:5]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.7|Isaiah 26:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will trample it  |**<big>&#8207;[[H7429\|תִּרְמְסֶ֖]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| tir.me.Se.<small><sup>[[HVqi3fs]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a foot  |**<big>&#8207;[[H7272\|רָ֑גֶל]]&#8207; </big>**| Ra.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

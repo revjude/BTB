@@ -1,10 +1,7 @@
 **LXX Genesis 2:10** 
 <small><sub>**LXX:**</sub></small>
 And a river goes forth from Eden to water the paradise; from there it separates into four sources. 
-<small><sub>**KJV:**</sub></small>
-And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.
-<small><sub>**BSB:**</sub></small>
-Now a river flowed out of Eden to water the garden, and from there it branched into four headwaters:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.9|<< Genesis 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.11|Genesis 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

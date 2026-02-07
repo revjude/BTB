@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:16** 
 <small><sub>**LXX:**</sub></small>
 And Eli said to the men, to the ones standing around him, What \[is\] the report  of this sound? And the man hastening, came forward to Eli, and he said to him, I am the one having come from the camp, \[and\] I have fled from the battle array today. And Eli said, What \[is\] the thing taking place child? 
-<small><sub>**KJV:**</sub></small>
-And the man said unto Eli, I [am] he that came out of the army, and I fled to day out of the army. And he said, What is there done, my son?
-<small><sub>**BSB:**</sub></small>
-“I have just come from the battle,” the man said to Eli. “I fled from there today.” “What happened, my son?” Eli asked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.15|<< 1 Samuel 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.17|1 Samuel 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

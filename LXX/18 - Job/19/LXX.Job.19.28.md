@@ -1,10 +1,7 @@
 **LXX Job 19:28** 
 <small><sub>**LXX:**</sub></small>
 But if even you shall say, What shall we say before him, and so find \[the\] root of \[the\] matter in him? 
-<small><sub>**KJV:**</sub></small>
-But ye should say, Why persecute we him, seeing the root of the matter is found in me?
-<small><sub>**BSB:**</sub></small>
-If you say, ‘Let us persecute him, since the root of the matter lies with him,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.27|<< Job 19:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.29|Job 19:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 15:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:1**<big><big>[[Luke.15.1 The Parable of the Lost Sheep|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then drew near unto him all the publicans and sinners for to hear him.
 <small><sub>**BSB:**</sub></small>
 Now all the tax collectors and sinners were gathering around to listen to Jesus.
 <small><sub>**Literal:**</sub></small>
 Were now to Him drawing near all the tax collectors and the sinners to hear Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.35|<< Luke 14:35]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.2|Luke 15:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were |**<big>[[G1510\|Ἦσαν]]</big>**  |Ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

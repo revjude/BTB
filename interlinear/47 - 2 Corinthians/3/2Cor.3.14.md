@@ -1,12 +1,12 @@
-**2 Corinthians 3:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:14**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which [vail] is done away in Christ.
 <small><sub>**BSB:**</sub></small>
 But their minds were closed. For to this day the same veil remains at the reading of the old covenant. It has not been lifted, because only in Christ can it be removed.
 <small><sub>**Literal:**</sub></small>
 But were hardened the minds of them. Until for the present day the same veil at the reading of the old covenant remains not being lifted, for in Christ is being removed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.13|<< 2 Corinthians 3:13]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.15|2 Corinthians 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were hardened |**<big>[[G4456\|ἐπωρώθη]]</big>**  |epōrōthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

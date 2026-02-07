@@ -1,4 +1,4 @@
-**Deuteronomy 21:4** 
+**Deuteronomy 21:4**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ bring the heifer to a valley with running water that has not been plowed or sown
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.3|<< Deuteronomy 21:3]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.5|Deuteronomy 21:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will bring down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|הוֹרִ֡דוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.Ri.du<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] elders of  |**<big>&#8207;[[H2205G\|זִקְנֵי֩]]&#8207; </big>**| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

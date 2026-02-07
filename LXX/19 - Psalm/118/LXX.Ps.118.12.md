@@ -1,10 +1,7 @@
 **LXX Psalm 118:12** 
 <small><sub>**LXX:**</sub></small>
 They encircled me as bees \[at\] a honeycomb; and they burned away as fire among thorn-bushes; and in the name of \[the\] <span class="smallcaps">lord</span> I repulsed them. 
-<small><sub>**KJV:**</sub></small>
-They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the LORD I will destroy them.
-<small><sub>**BSB:**</sub></small>
-They swarmed around me like bees, but they were extinguished like burning thorns; in the name of the LORD I cut them off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.11|<< Psalm 118:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.13|Psalm 118:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:22** 
 <small><sub>**LXX:**</sub></small>
 And I will make them one nation in  my land on the mountains of Israel; and one ruler will be for all these for king. And they will not be any longer for two nations, nor shall they be divided any longer into two kingdoms; 
-<small><sub>**KJV:**</sub></small>
-And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
-<small><sub>**BSB:**</sub></small>
-I will make them one nation in the land, on the mountains of Israel, and one king will rule over all of them. Then they will no longer be two nations and will never again be divided into two kingdoms.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.21|<< Ezekiel 37:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.23|Ezekiel 37:23 >>]]</td></tr></table>
 
 | Translation | Greek |

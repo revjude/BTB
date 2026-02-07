@@ -1,4 +1,4 @@
-**Ezekiel 27:10** 
+**Ezekiel 27:10**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Men of Persia, Lydia, and Put served as warriors in your army. They hung their s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.9|<< Ezekiel 27:9]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.11|Ezekiel 27:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Persia  |**<big>&#8207;[[H6539\|פָּרַ֨ס]]&#8207; </big>**| pa.Ras<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Lud  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3865\|ל֤וּד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lud<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

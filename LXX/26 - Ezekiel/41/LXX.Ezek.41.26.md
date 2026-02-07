@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:26** 
 <small><sub>**LXX:**</sub></small>
 And \[there were\] hidden windows; and he measured on this side and that side unto the roofing of the columned porch; and the sides of the house were joined together. 
-<small><sub>**KJV:**</sub></small>
-And [there were] narrow windows and palm trees on the one side and on the other side, on the sides of the porch, and [upon] the side chambers of the house, and thick planks.
-<small><sub>**BSB:**</sub></small>
-There were beveled windows and palm trees on the sidewalls of the portico. The side rooms of the temple also had canopies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.25|<< Ezekiel 41:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.1|Ezekiel 42:1 >>]]</td></tr></table>
 
 | Translation | Greek |

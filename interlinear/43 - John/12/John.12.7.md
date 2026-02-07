@@ -1,12 +1,12 @@
-**John 12:7
-**<small><sub>**KJV:**</sub></small>
+**John 12:7**<big><big>[[John.12.1 Mary Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus, Let her alone: against the day of my burying hath she kept this.
 <small><sub>**BSB:**</sub></small>
 “Leave her alone,” Jesus replied. “She has kept this perfume in preparation for the day of My burial.
 <small><sub>**Literal:**</sub></small>
 Said therefore <the> Jesus; do leave alone her, so that for the day of the burial of Mine she may keep it;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.6|<< John 12:6]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.8|John 12:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

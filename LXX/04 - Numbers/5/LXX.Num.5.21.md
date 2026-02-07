@@ -1,10 +1,7 @@
 **LXX Numbers 5:21** 
 <small><sub>**LXX:**</sub></small>
 then the priest shall bind the woman by the oaths  of this imprecation. And the priest shall say to the woman, \[the\] <span class="smallcaps">lord</span> appoint you to a curse and solemn affirmation in \[the\] midst  of your people, in the <span class="smallcaps">lord</span> giving  of your thigh to miscarry, and  your belly to bloat; 
-<small><sub>**KJV:**</sub></small>
-Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to rot, and thy belly to swell;
-<small><sub>**BSB:**</sub></small>
-and the priest shall have the woman swear under the oath of the curse—‘then may the LORD make you an attested curse among your people by making your thigh shrivel and your belly swell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.20|<< Numbers 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.22|Numbers 5:22 >>]]</td></tr></table>
 
 | Translation | Greek |

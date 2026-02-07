@@ -1,5 +1,5 @@
-**1 Peter 2:9
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:9**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye [are] a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:
 <small><sub>**BSB:**</sub></small>
 But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light.
@@ -12,7 +12,7 @@ You yourselves however [are] a race chosen, a royal priesthood, a nation holy, a
 > $\quad$ alluding to: [[LXX.Deut.10.15|Deut 10:15]] ☩ [[LXX.Isa.43.20|Isa 43:20-21]] ☩ [[LXX.Isa.42.12|Isa 42:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

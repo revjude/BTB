@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:18** 
 <small><sub>**LXX:**</sub></small>
 And upon her was an inner garment with long sleeves, for thus the daughters of the king dressed, the virgins, the ones with their outer garments. And his minister led her outside, and locked the door after her. 
-<small><sub>**KJV:**</sub></small>
-And [she had] a garment of divers colours upon her: for with such robes were the king’s daughters [that were] virgins apparelled. Then his servant brought her out, and bolted the door after her.
-<small><sub>**BSB:**</sub></small>
-So Amnon’s attendant threw her out and bolted the door behind her. Now Tamar was wearing a robe of many colors, because this is what the king’s virgin daughters wore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.17|<< 2 Samuel 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.19|2 Samuel 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

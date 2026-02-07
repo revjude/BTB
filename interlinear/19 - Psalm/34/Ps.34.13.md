@@ -1,4 +1,4 @@
-**Psalms 34:13** (34:14)
+**Psalms 34:13**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep thy tongue from evil, and thy lips from speaking guile.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Keep your tongue from evil and your lips from deceitful speech.
 > $\quad$ referenced by: [[1Pet.3.10|1Pet 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | keep  |**<big>&#8207;[[H5341\|נְצֹ֣ר]]&#8207; </big>**| ne.Tzor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tongue your  |**<big>&#8207;[[H3956G\|לְשׁוֹנְ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| le.shon.<small><sup>[[HNcbsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

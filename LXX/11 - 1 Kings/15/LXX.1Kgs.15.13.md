@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:13** 
 <small><sub>**LXX:**</sub></small>
 And  he removed Maachah his mother  so as to not be ruling, as she observed a convocation in  her sacred grove. And Asa cut off  her retreats, and he burnt \[them\] in fire at the rushing stream Kidron. 
-<small><sub>**KJV:**</sub></small>
-And also Maachah his mother, even her he removed from [being] queen, because she had made an idol in a grove; and Asa destroyed her idol, and burnt [it] by the brook Kidron.
-<small><sub>**BSB:**</sub></small>
-He also removed his grandmother Maacah from her position as queen mother because she had made a detestable Asherah pole. Asa chopped down the pole and burned it in the Kidron Valley.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.12|<< 1 Kings 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.14|1 Kings 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

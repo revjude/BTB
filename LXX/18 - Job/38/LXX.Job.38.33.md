@@ -1,10 +1,7 @@
 **LXX Job 38:33** 
 <small><sub>**LXX:**</sub></small>
 And do you know \[the\] circuits of heaven, or the \[things\] taking place with one accord under heaven? 
-<small><sub>**KJV:**</sub></small>
-Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?
-<small><sub>**BSB:**</sub></small>
-Do you know the laws of the heavens? Can you set their dominion over the earth?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.32|<< Job 38:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.34|Job 38:34 >>]]</td></tr></table>
 
 | Translation | Greek |

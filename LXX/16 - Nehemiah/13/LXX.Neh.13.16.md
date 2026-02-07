@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:16** 
 <small><sub>**LXX:**</sub></small>
 For even the ones of Tyre sold provision, and sat by it bringing fish, and selling every \[item\] for sale on the Sabbath to the sons of Judah, and in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath unto the children of Judah, and in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Additionally, men of Tyre who lived there were importing fish and all kinds of merchandise and selling them on the Sabbath to the people of Judah in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.15|<< Nehemiah 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.17|Nehemiah 13:17 >>]]</td></tr></table>
 
 | Translation | Greek |

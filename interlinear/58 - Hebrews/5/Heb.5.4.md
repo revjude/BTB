@@ -1,5 +1,5 @@
-**Hebrews 5:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:4**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And no man taketh this honour unto himself, but he that is called of God, as [was] Aaron.
 <small><sub>**BSB:**</sub></small>
 No one takes this honor upon himself; he must be called by God, just as Aaron was.
@@ -10,7 +10,7 @@ And not upon himself anyone takes the honor but rather the [one] being called by
 > $\quad$ possibly alluding to: [[LXX.1Chr.23.13|1Chr 23:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 7:56
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:56**<big><big>[[Acts.7.54 The Stoning of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.
 <small><sub>**BSB:**</sub></small>
 “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”
 <small><sub>**Literal:**</sub></small>
 and he said; Behold I see the heavens opened up and the Son <the> of Man at [the] right [hand] already standing <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.55|<< Acts 7:55]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.57|Acts 7:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he said; |**<big>[[G2036\|εἶπεν·]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

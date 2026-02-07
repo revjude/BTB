@@ -1,4 +1,4 @@
-**Deuteronomy 21:21** 
+**Deuteronomy 21:21**<big><big>[[Deut.21.18 A Rebellious Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the men of his city will stone him to death. So you must purge the evil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.20|<< Deuteronomy 21:20]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.22|Deuteronomy 21:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will stone him  |**<big>&#8207;[[H9001\|וּ֠]]&#8207;&#8207;[[H7275\|רְגָמֻ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| U.<small><sup>[[Hc]]</sup></small> re.ga.mu.<small><sup>[[HVqq3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

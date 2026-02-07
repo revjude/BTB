@@ -1,4 +1,4 @@
-**Isaiah 47:9** 
+**Isaiah 47:9**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But these two [things] shall come to thee in a moment in one day, the loss of children, and widowhood: they shall come upon thee in their perfection for the multitude of thy sorceries, [and] for the great abundance of thine enchantments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These two things will overtake you in a moment, in a single day: loss of childre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.8|<< Isaiah 47:8]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.10|Isaiah 47:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may come  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0935G\|תָבֹאנָה֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.vo.Nah<small><sup>[[HVqu3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לָּ֨]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

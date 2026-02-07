@@ -1,4 +1,4 @@
-**Jeremiah 24:8** 
+**Jeremiah 24:8**<big><big>[[Jer.24.1 The Good and Bad Figs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the LORD, So will I give Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But like the bad figs, so bad they cannot be eaten,’ says the LORD, ‘so will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.24.7|<< Jeremiah 24:7]]</td><td align="center" style="border:none;">[[Jer.24|Jeremiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.24.9|Jeremiah 24:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and like the figs  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H8384\|תְּאֵנִים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HRd]]</sup></small> te.'e.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> bad  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7451A\|רָע֔וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.'ot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

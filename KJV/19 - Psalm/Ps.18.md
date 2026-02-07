@@ -1,6 +1,6 @@
 (KJV) **Psalm 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17|<< Psalm 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19|Psalm 19 >>]]</td></tr></table>
 
-***The LORD Is My Rock***&emsp;<small><sup>\[ [[2Sam.22|2 Samuel 22:1–51]] ]</sup></small> ^bsb1311
+<big><big>[[Ps.18.1 The LORD Is My Rock|⥃]]</big></big>***The LORD Is My Rock***&emsp;<small><sup>\[ [[2Sam.22|2 Samuel 22:1–51]] ]</sup></small>
 
 
 

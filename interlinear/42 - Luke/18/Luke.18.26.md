@@ -1,12 +1,12 @@
-**Luke 18:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:26**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that heard [it] said, Who then can be saved?
 <small><sub>**BSB:**</sub></small>
 Those who heard this asked, “Who then can be saved?”
 <small><sub>**Literal:**</sub></small>
 Said then those having heard; Then who is able to be saved?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.25|<< Luke 18:25]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.27|Luke 18:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπαν]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 John 1:6
-**<small><sub>**KJV:**</sub></small>
+**1 John 1:6**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:
 <small><sub>**BSB:**</sub></small>
 If we say we have fellowship with Him yet walk in the darkness, we lie and do not practice the truth.
 <small><sub>**Literal:**</sub></small>
 If we shall say that fellowship we have with Him and yet in the darkness may walk, we lie and not we do practice the truth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.5|<< 1 John 1:5]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.7|1 John 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we shall say |**<big>[[G2036\|εἴπωμεν]]</big>**  |eipōmen <small><sup>[[V-2AAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

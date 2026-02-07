@@ -1,4 +1,4 @@
-**Exodus 35:15** 
+**Exodus 35:15**<big><big>[[Exod.35.10 The Skilled Craftsmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the altar of incense with its poles; the anointing oil and fragrant incense; the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.14|<< Exodus 35:14]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.16|Exodus 35:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] altar of  |**<big>&#8207;[[H4196\|מִזְבַּ֤ח]]&#8207; </big>**| miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

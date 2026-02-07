@@ -1,4 +1,4 @@
-**Leviticus 8:33** 
+**Leviticus 8:33**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall not go out of the door of the tabernacle of the congregation [in] seven days, until the days of your consecration be at an end: for seven days shall he consecrate you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not go outside the entrance to the Tent of Meeting for seven days, unti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.32|<< Leviticus 8:32]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.34|Leviticus 8:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] entrance of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6607\|פֶּתַח֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> pe.Tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tent of  |**<big>&#8207;[[H0168G\|אֹ֨הֶל]]&#8207; </big>**| 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

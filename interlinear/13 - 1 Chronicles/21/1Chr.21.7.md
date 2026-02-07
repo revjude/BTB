@@ -1,4 +1,4 @@
-**1 Chronicles 21:7** 
+**1 Chronicles 21:7**<big><big>[[1Chr.21.7 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God was displeased with this thing; therefore he smote Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This command was also evil in the sight of God; so He struck Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.6|<< 1 Chronicles 21:6]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.8|1 Chronicles 21:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was displeasing  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7489A\|יֵּ֙רַע֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] eyes of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינֵ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

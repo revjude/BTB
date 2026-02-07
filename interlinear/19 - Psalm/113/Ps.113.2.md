@@ -1,4 +1,4 @@
-**Psalms 113:2** 
+**Psalms 113:2**<big><big>[[Ps.113.1 The LORD Exalts the Humble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed be the name of the LORD from this time forth and for evermore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed be the name of the LORD both now and forevermore.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.113.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.1|<< Psalms 113:1]]</td><td align="center" style="border:none;">[[Ps.113|Psalms 113]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.113.3|Psalms 113:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be  |**<big>&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] name of  |**<big>&#8207;[[H8034\|שֵׁ֣ם]]&#8207; </big>**| shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

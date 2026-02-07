@@ -1,10 +1,7 @@
 **LXX Joshua 23:12** 
 <small><sub>**LXX:**</sub></small>
 For if you should turn away, and should proceed  to leave behind these nations with you, and you should make connections by marriage with them, and mix together with them, and they with you. 
-<small><sub>**KJV:**</sub></small>
-Else if ye do in any wise go back, and cleave unto the remnant of these nations, [even] these that remain among you, and shall make marriages with them, and go in unto them, and they to you:
-<small><sub>**BSB:**</sub></small>
-For if you turn away and cling to the rest of these nations that remain among you, and if you intermarry and associate with them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.11|<< Joshua 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.13|Joshua 23:13 >>]]</td></tr></table>
 
 | Translation | Greek |

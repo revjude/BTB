@@ -1,10 +1,7 @@
 **LXX Psalm 50:12** 
 <small><sub>**LXX:**</sub></small>
 If I should hunger, in no way should I tell you, for the inhabitable world is mine, and the fullness of it. 
-<small><sub>**KJV:**</sub></small>
-If I were hungry, I would not tell thee: for the world [is] mine, and the fulness thereof.
-<small><sub>**BSB:**</sub></small>
-If I were hungry, I would not tell you, for the world is Mine, and the fullness thereof.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.11|<< Psalm 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.13|Psalm 50:13 >>]]</td></tr></table>
 
 | Translation | Greek |

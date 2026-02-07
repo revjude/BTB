@@ -1,12 +1,12 @@
-**Revelation 9:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:13**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,
 <small><sub>**BSB:**</sub></small>
 Then the sixth angel sounded his trumpet, and I heard a voice from the four horns of the golden altar before God
 <small><sub>**Literal:**</sub></small>
 And the sixth angel sounded [his] trumpet, and I heard voice one from the four horns of the altar <the> golden <the> before <the> God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.12|<< Revelation 9:12]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.14|Revelation 9:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

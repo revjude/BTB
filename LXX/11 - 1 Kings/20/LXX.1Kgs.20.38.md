@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:38** 
 <small><sub>**LXX:**</sub></small>
 And the prophet went and stood to the king of Israel upon the way, and he bound his eyes with a ligature. 
-<small><sub>**KJV:**</sub></small>
-So the prophet departed, and waited for the king by the way, and disguised himself with ashes upon his face.
-<small><sub>**BSB:**</sub></small>
-and the prophet went and waited on the road for the king, disguising himself with a bandage over his eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.37|<< 1 Kings 20:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.39|1 Kings 20:39 >>]]</td></tr></table>
 
 | Translation | Greek |

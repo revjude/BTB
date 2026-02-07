@@ -1,12 +1,12 @@
-**Matthew 28:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:11**<big><big>[[Matt.28.11 The Report of the Guards|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done.
 <small><sub>**BSB:**</sub></small>
 While the women were on their way, some of the guards went into the city and reported to the chief priests all that had happened.
 <small><sub>**Literal:**</sub></small>
 When were going now they behold some of the guard having gone into the city reported to the chief priests all the [things] having been done.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.10|<< Matthew 28:10]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.12|Matthew 28:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When were going |**<big>[[G4198\|Πορευομένων]]</big>**  |Poreuomenōn <small><sup>[[V-PNP-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Ephesians 5:19
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:19**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;
 <small><sub>**BSB:**</sub></small>
 Speak to one another with psalms, hymns, and spiritual songs. Sing and make music in your hearts to the Lord,
 <small><sub>**Literal:**</sub></small>
 speaking to each other in psalms and in hymns and in songs spiritual, singing and making melody in the heart of you to the Lord,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.18|<< Ephesians 5:18]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.20|Ephesians 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speaking |**<big>[[G2980\|λαλοῦντες]]</big>**  |lalountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to each other |**<big>[[G1438\|ἑαυτοῖς]]</big>**  |he'autois <small><sup>[[F-2DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

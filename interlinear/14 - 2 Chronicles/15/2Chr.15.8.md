@@ -1,4 +1,4 @@
-**2 Chronicles 15:8** 
+**2 Chronicles 15:8**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that [was] before the porch of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Asa heard these words and the prophecy of Azariah son of Oded the prophet, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.7|<< 2 Chronicles 15:7]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.9|2 Chronicles 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as heard  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H8085G\|שְׁמֹ֨עַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asa  |**<big>&#8207;[[H0609G\|אָסָ֜א]]&#8207; </big>**| 'a.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

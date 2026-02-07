@@ -1,12 +1,12 @@
-**John 10:41
-**<small><sub>**KJV:**</sub></small>
+**John 10:41**<big><big>[[John.10.40 John’s Testimony Confirmed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many resorted unto him, and said, John did no miracle: but all things that John spake of this man were true.
 <small><sub>**BSB:**</sub></small>
 Many came to Him and said, “Although John never performed a sign, everything he said about this man was true.”
 <small><sub>**Literal:**</sub></small>
 And many came to Him and were saying that John indeed sign did no[thing], everything however as much as said John about this [man] true was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.40|<< John 10:40]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.42|John 10:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

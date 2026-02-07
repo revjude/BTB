@@ -1,4 +1,4 @@
-**Psalms 69:8** (69:9)
+**Psalms 69:8**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am become a stranger unto my brethren, and an alien unto my mother’s children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have become a stranger to my brothers and a foreigner to my mother’s sons,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.7|<< Psalms 69:7]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.9|Psalms 69:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | estranged  |**<big>&#8207;[[H2114A\|מ֭וּזָר]]&#8207; </big>**| Mu.zor<small><sup>[[HVHsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have become  |**<big>&#8207;[[H1961\|הָיִ֣יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

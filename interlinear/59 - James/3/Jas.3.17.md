@@ -1,12 +1,12 @@
-**James 3:17
-**<small><sub>**KJV:**</sub></small>
+**James 3:17**<big><big>[[Jas.3.13 The Wisdom from Above|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the wisdom that is from above is first pure, then peaceable, gentle, [and] easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy.
 <small><sub>**BSB:**</sub></small>
 But the wisdom from above is first of all pure, then peace-loving, gentle, accommodating, full of mercy and good fruit, impartial, and sincere.
 <small><sub>**Literal:**</sub></small>
 <the> But the from above wisdom first indeed pure is, then peaceable, gentle, reasonable, full of mercy and of fruits good, impartial, and sincere.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.16|<< James 3:16]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.18|James 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

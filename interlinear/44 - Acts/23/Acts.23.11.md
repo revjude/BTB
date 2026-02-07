@@ -1,12 +1,12 @@
-**Acts 23:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:11**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the night following the Lord stood by him, and said, Be of good cheer, Paul: for as thou hast testified of me in Jerusalem, so must thou bear witness also at Rome.
 <small><sub>**BSB:**</sub></small>
 The following night the Lord stood near Paul and said, “Take courage! As you have testified about Me in Jerusalem, so also you must testify in Rome.”
 <small><sub>**Literal:**</sub></small>
 <the> But on the following night having stood by him the Lord said; Take courage Paul; as for you have fully testified <the> about Me at Jerusalem, thus you it behooves also in Rome to testify.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.10|<< Acts 23:10]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.12|Acts 23:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

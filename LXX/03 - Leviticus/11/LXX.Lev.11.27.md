@@ -1,10 +1,7 @@
 **LXX Leviticus 11:27** 
 <small><sub>**LXX:**</sub></small>
 And every \[one\] which goes upon his hands among all the wild beasts, which go upon fours, it is unclean to you. Every one touching  of their decaying flesh will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And whatsoever goeth upon his paws, among all manner of beasts that go on [all] four, those [are] unclean unto you: whoso toucheth their carcase shall be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-All the four-footed animals that walk on their paws are unclean for you; whoever touches their carcasses will be unclean until evening,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.26|<< Leviticus 11:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.28|Leviticus 11:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 116:7** 
 <small><sub>**LXX:**</sub></small>
 Return, O my soul, to  your rest! for \[the\] <span class="smallcaps">lord</span> benefited you. 
-<small><sub>**KJV:**</sub></small>
-Return unto thy rest, O my soul; for the LORD hath dealt bountifully with thee.
-<small><sub>**BSB:**</sub></small>
-Return to your rest, O my soul, for the LORD has been good to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.116.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.6|<< Psalm 116:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.8|Psalm 116:8 >>]]</td></tr></table>
 
 | Translation | Greek |

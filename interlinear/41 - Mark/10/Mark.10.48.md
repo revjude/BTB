@@ -1,12 +1,12 @@
-**Mark 10:48
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:48**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many charged him that he should hold his peace: but he cried the more a great deal, [Thou] Son of David, have mercy on me.
 <small><sub>**BSB:**</sub></small>
 Many people admonished him to be silent, but he cried out all the louder, “Son of David, have mercy on me!”
 <small><sub>**Literal:**</sub></small>
 And were rebuking him many that he may be silent. <the> but much more he was crying out; Son of David, do have mercy on me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.47|<< Mark 10:47]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.49|Mark 10:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were rebuking |**<big>[[G2008\|ἐπετίμων]]</big>**  |epetimōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

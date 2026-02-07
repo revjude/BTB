@@ -1,10 +1,7 @@
 **LXX Psalm 27:2** 
 <small><sub>**LXX:**</sub></small>
 In the approaching against me by the ones inflicting evil  to devour  my flesh, the ones afflicting me, and  my enemies, they weakened and fell. 
-<small><sub>**KJV:**</sub></small>
-When the wicked, [even] mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.
-<small><sub>**BSB:**</sub></small>
-When the wicked came upon me to devour my flesh, my enemies and foes stumbled and fell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.1|<< Psalm 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.3|Psalm 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

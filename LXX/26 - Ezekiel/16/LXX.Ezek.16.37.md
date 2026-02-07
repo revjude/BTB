@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:37** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, I will gather against you all  your lovers in which you intermixed with them, and all whom you loved, with all the ones whom you detested. And I will bring them together against you round about. And I will uncover  your evils to them, and they shall see all  your shame. 
-<small><sub>**KJV:**</sub></small>
-Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all [them] that thou hast loved, with all [them] that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness.
-<small><sub>**BSB:**</sub></small>
-therefore I will surely gather all the lovers with whom you found pleasure, all those you loved and all those you hated. I will gather them against you from all around and expose you before them, and they will see you completely naked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.36|<< Ezekiel 16:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.38|Ezekiel 16:38 >>]]</td></tr></table>
 
 | Translation | Greek |

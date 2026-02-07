@@ -1,4 +1,4 @@
-**Nehemiah 5:16** 
+**Nehemiah 5:16**<big><big>[[Neh.5.14 Nehemiah’s Generosity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, also I continued in the work of this wall, neither bought we any land: and all my servants [were] gathered thither unto the work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, I devoted myself to the construction of the wall, and all my servants w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.15|<< Nehemiah 5:15]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.17|Nehemiah 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H1571\|גַם]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] work of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4399\|מְלֶ֜אכֶת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.Le.khet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

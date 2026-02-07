@@ -1,4 +1,4 @@
-**Nehemiah 11:17** 
+**Nehemiah 11:17**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, [was] the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mattaniah son of Mica, the son of Zabdi, the son of Asaph, who led in thanksgivi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.16|<< Nehemiah 11:16]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.18|Nehemiah 11:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Mattaniah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4983G\|מַתַּנְיָ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.tan.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

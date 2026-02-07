@@ -1,10 +1,7 @@
 **LXX Isaiah 13:18** 
 <small><sub>**LXX:**</sub></small>
 They shall break \[the\] bows of young men,, and  in no way shall they show mercy upon your children, nor   shall their eyes spare your children. 
-<small><sub>**KJV:**</sub></small>
-[Their] bows also shall dash the young men to pieces; and they shall have no pity on the fruit of the womb; their eye shall not spare children.
-<small><sub>**BSB:**</sub></small>
-Their bows will dash young men to pieces; they will have no mercy on the fruit of the womb; they will not look with pity on the children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.17|<< Isaiah 13:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.19|Isaiah 13:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 40:2** 
+**Genesis 40:2**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh was wroth against two [of] his officers, against the chief of the butlers, and against the chief of the bakers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh was angry with his two officers, the chief cupbearer and the chief baker
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.1|<< Genesis 40:1]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.3|Genesis 40:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was angry  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7107\|יִּקְצֹ֣ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Tzof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547H\|פַּרְעֹ֔ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

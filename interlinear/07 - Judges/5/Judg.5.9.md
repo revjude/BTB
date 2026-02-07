@@ -1,4 +1,4 @@
-**Judges 5:9** 
+**Judges 5:9**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My heart [is] toward the governors of Israel, that offered themselves willingly among the people. Bless ye the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My heart is with the princes of Israel, with the volunteers among the people. Bl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.8|<< Judges 5:8]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.10|Judges 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | heart my  |**<big>&#8207;[[H3820A\|לִבִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| li.B<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] for [the] commanders of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2710\|חוֹקְקֵ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cho.Kei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:3** 
 <small><sub>**LXX:**</sub></small>
 go not hurriedly from his face. You should not stand in an evil matter, for what ever he wants, he does. 
-<small><sub>**KJV:**</sub></small>
-Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.
-<small><sub>**BSB:**</sub></small>
-Do not hasten to leave his presence, and do not persist in a bad cause, for he will do whatever he pleases.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.2|<< Ecclesiastes 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.4|Ecclesiastes 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abijah slept with  his fathers, and they entombed him in \[the\] city of David. And Asa his son took reign instead of him. In the days of Asa the land of Judah was quiet \[for\] ten years. 
-<small><sub>**KJV:**</sub></small>
-So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years.
-<small><sub>**BSB:**</sub></small>
-Then Abijah rested with his fathers and was buried in the City of David. And his son Asa reigned in his place, and in his days the land was at peace for ten years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.22|<< 2 Chronicles 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.2|2 Chronicles 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

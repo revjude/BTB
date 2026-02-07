@@ -1,10 +1,7 @@
 **LXX Isaiah 41:24** 
 <small><sub>**LXX:**</sub></small>
 for from what place you are, and from what place  your work is from; they chose you an abomination out of \[the\] earth. 
-<small><sub>**KJV:**</sub></small>
-Behold, ye [are] of nothing, and your work of nought: an abomination [is he that] chooseth you.
-<small><sub>**BSB:**</sub></small>
-Behold, you are nothing and your work is of no value. Anyone who chooses you is detestable.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.23|<< Isaiah 41:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.25|Isaiah 41:25 >>]]</td></tr></table>
 
 | Translation | Greek |

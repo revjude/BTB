@@ -1,10 +1,7 @@
 **LXX Numbers 14:28** 
 <small><sub>**LXX:**</sub></small>
 Say to them, \[as\] I live, says \[the\] <span class="smallcaps">lord</span>, assuredly in which manner you spoke into  my ears, so I will do for you. 
-<small><sub>**KJV:**</sub></small>
-Say unto them, [As truly as] I live, saith the LORD, as ye have spoken in mine ears, so will I do to you:
-<small><sub>**BSB:**</sub></small>
-So tell them: As surely as I live, declares the LORD, I will do to you exactly as I heard you say.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.27|<< Numbers 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.29|Numbers 14:29 >>]]</td></tr></table>
 
 | Translation | Greek |

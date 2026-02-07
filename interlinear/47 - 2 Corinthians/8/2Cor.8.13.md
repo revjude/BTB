@@ -1,12 +1,12 @@
-**2 Corinthians 8:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:13**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [I mean] not that other men be eased, and ye burdened:
 <small><sub>**BSB:**</sub></small>
 It is not our intention that others may be relieved while you are burdened, but that there may be equality.
 <small><sub>**Literal:**</sub></small>
 Not for that to others [there may be] ease but for you now affliction, [14] but of equality;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.12|<< 2 Corinthians 8:12]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.14|2 Corinthians 8:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:8** 
 <small><sub>**LXX:**</sub></small>
 And we went by  our brethren \[the\] sons of Esau, the ones dwelling in Seir, by the way \[of\] the wilderness from Aelon, and from Ezion Gaber; and turning we went by \[the\] way of \[the\] wilderness of Moab. 
-<small><sub>**KJV:**</sub></small>
-And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Eziongaber, we turned and passed by the way of the wilderness of Moab.
-<small><sub>**BSB:**</sub></small>
-So we passed by our brothers, the descendants of Esau, who live in Seir. We turned away from the Arabah road, which comes up from Elath and Ezion-geber, and traveled along the road of the Wilderness of Moab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.7|<< Deuteronomy 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.9|Deuteronomy 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

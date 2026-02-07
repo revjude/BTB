@@ -1,5 +1,5 @@
-**Hebrews 10:37
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:37**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For yet a little while, and he that shall come will come, and will not tarry.
 <small><sub>**BSB:**</sub></small>
 For, “In just a little while, He who is coming will come and will not delay.
@@ -10,7 +10,7 @@ Yet for A little very while, the [One] who is coming will come and not will dela
 > $\quad$ referencing: [[LXX.Hab.2.3|Hab 2:3-4]] ☩ [[LXX.Isa.26.20|Isa 26:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yet |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

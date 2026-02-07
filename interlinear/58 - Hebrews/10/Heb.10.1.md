@@ -1,12 +1,12 @@
-**Hebrews 10:1
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:1**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the law having a shadow of good things to come, [and] not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.
 <small><sub>**BSB:**</sub></small>
 For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship.
 <small><sub>**Literal:**</sub></small>
 A shadow for having the law of the coming good things, not themselves the form of the things, each year with the same sacrifices which they offer to the continuous never is able those drawing near to perfect;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.28|<< Hebrews 9:28]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.2|Hebrews 10:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A shadow |**<big>[[G4639\|Σκιὰν]]</big>**  |Skian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

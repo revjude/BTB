@@ -1,4 +1,4 @@
-**Ezekiel 42:4** 
+**Ezekiel 42:4**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And before the chambers [was] a walk of ten cubits breadth inward, a way of one cubit; and their doors toward the north.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In front of the chambers was an inner walkway ten cubits wide and a hundred cubi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.3|<< Ezekiel 42:3]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.5|Ezekiel 42:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] \<to> before  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the rooms  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3957\|לְּשָׁכ֜וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.sha.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

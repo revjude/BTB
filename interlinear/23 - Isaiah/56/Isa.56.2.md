@@ -1,4 +1,4 @@
-**Isaiah 56:2** 
+**Isaiah 56:2**<big><big>[[Isa.56.1 Salvation for Foreigners|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the man [that] doeth this, and the son of man [that] layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed is the man who does this, and the son of man who holds it fast, who keep
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.1|<< Isaiah 56:1]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.3|Isaiah 56:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֤י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is the] person  |**<big>&#8207;[[H0582\|אֱנוֹשׁ֙]]&#8207; </big>**| 'e.no.Vosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

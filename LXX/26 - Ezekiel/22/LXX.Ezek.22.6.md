@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:6** 
 <small><sub>**LXX:**</sub></small>
 Behold, the ones guiding \[the\] house of Israel each blends together with his relatives against you, so as to shed blood. 
-<small><sub>**KJV:**</sub></small>
-Behold, the princes of Israel, every one were in thee to their power to shed blood.
-<small><sub>**BSB:**</sub></small>
-See how every prince of Israel within you has used his power to shed blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.5|<< Ezekiel 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.7|Ezekiel 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

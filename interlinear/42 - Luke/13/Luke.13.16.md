@@ -1,12 +1,12 @@
-**Luke 13:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:16**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?
 <small><sub>**BSB:**</sub></small>
 Then should not this daughter of Abraham, whom Satan has kept bound for eighteen long years, be released from her bondage on the Sabbath day?”
 <small><sub>**Literal:**</sub></small>
 This now a daughter of Abraham being whom has bound <the> Satan behold ten and eight years, not she was being able to be loosed from <the> bond this on the day of the Sabbath?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.15|<< Luke 13:15]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.17|Luke 13:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|ταύτην]]</big>**  |tautēn <small><sup>[[D-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 22:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:10**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So those servants went out into the highways, and gathered together all as many as they found, both bad and good: and the wedding was furnished with guests.
 <small><sub>**BSB:**</sub></small>
 So the servants went out into the streets and gathered everyone they could find, both evil and good, and the wedding hall was filled with guests.
 <small><sub>**Literal:**</sub></small>
 And having gone out the servants those into the highways they brought together all as many as they found, evil both and good; and became full the wedding hall of those reclining.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.9|<< Matthew 22:9]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.11|Matthew 22:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone out |**<big>[[G1831\|ἐξελθόντες]]</big>**  |exelthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

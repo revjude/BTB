@@ -1,4 +1,4 @@
-**Jeremiah 37:1** 
+**Jeremiah 37:1**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Zedekiah the son of Josiah reigned instead of Coniah the son of Jehoiakim, whom Nebuchadrezzar king of Babylon made king in the land of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nebuchadnezzar king of Babylon made Zedekiah son of Josiah the king of Judah, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.32|<< Jeremiah 36:32]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.2|Jeremiah 37:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he reigned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יִּ֨מְלָךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yim.lokh-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king  |**<big>&#8207;[[H4428G\|מֶ֔לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

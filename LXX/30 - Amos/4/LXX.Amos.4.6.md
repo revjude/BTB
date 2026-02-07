@@ -1,10 +1,7 @@
 **LXX Amos 4:6** 
 <small><sub>**LXX:**</sub></small>
 And I will give to you an ache of teeth among all  your cities, and lack of bread \[loaves\] in all  your places; and you did not return to me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I also have given you cleanness of teeth in all your cities, and want of bread in all your places: yet have ye not returned unto me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“I afflicted all your cities with cleanness of teeth and all your towns with lack of bread, yet you did not return to Me,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.5|<< Amos 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.7|Amos 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:6** 
 <small><sub>**LXX:**</sub></small>
 And king Rehoboam brought together the elders of the ones standing before Solomon  his father during  his life, saying, How do you counsel  to answer  a word to this people? 
-<small><sub>**KJV:**</sub></small>
-And king Rehoboam took counsel with the old men that had stood before Solomon his father while he yet lived, saying, What counsel give ye [me] to return answer to this people?
-<small><sub>**BSB:**</sub></small>
-Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.5|<< 2 Chronicles 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.7|2 Chronicles 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

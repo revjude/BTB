@@ -1,12 +1,12 @@
-**Hebrews 9:8
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:8**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:
 <small><sub>**BSB:**</sub></small>
 By this arrangement the Holy Spirit was showing that the way into the Most Holy Place had not yet been disclosed as long as the first tabernacle was still standing.
 <small><sub>**Literal:**</sub></small>
 By this was signifying the Spirit <the> Holy [that] not yet to have been made manifest the into the Holy [Places] a way while still the first tabernacle having a standing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.7|<< Hebrews 9:7]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.9|Hebrews 9:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was signifying |**<big>[[G1213\|δηλοῦντος]]</big>**  |dēlountos <small><sup>[[V-PAP-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

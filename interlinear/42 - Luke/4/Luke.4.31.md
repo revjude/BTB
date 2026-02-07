@@ -1,12 +1,12 @@
-**Luke 4:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:31**<big><big>[[Luke.4.31 Jesus Expels an Unclean Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And came down to Capernaum, a city of Galilee, and taught them on the sabbath days.
 <small><sub>**BSB:**</sub></small>
 Then He went down to Capernaum, a town in Galilee, and on the Sabbath He began to teach the people.
 <small><sub>**Literal:**</sub></small>
 And He went down to Capernaum a city <the> of Galilee And He was teaching them on the Sabbaths.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.30|<< Luke 4:30]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.32|Luke 4:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He went down |**<big>[[G2718\|κατῆλθεν]]</big>**  |katēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 45:21** 
+**Ezekiel 45:21**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first [month], in the fourteenth day of the month, ye shall have the passover, a feast of seven days; unleavened bread shall be eaten.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the fourteenth day of the first month you are to observe the Passover, a feas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.20|<< Ezekiel 45:20]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.22|Ezekiel 45:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the first [month]  |**<big>&#8207;[[H9003\|בָּ֠]]&#8207;&#8207;[[H7223G\|רִאשׁוֹן]]&#8207; </big>**| Ba.<small><sup>[[HRd]]</sup></small> ri.shon<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on four-  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0702\|אַרְבָּעָ֨ה]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

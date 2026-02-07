@@ -1,4 +1,4 @@
-**Numbers 16:38** (17:3)
+**Numbers 16:38**<big><big>[[Num.16.36 The Censers Reserved for Holy Use|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The censers of these sinners against their own souls, let them make them broad plates [for] a covering of the altar: for they offered them before the LORD, therefore they are hallowed: and they shall be a sign unto the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the censers of those who sinned at the cost of their own lives, hammer th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.37|<< Numbers 16:37]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.39|Numbers 16:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֡ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] censers of  |**<big>&#8207;[[H4289\|מַחְתּוֹת֩]]&#8207; </big>**| mach.tOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 9:3** 
 <small><sub>**LXX:**</sub></small>
 behold, \[the\] hand of \[the\] <span class="smallcaps">lord</span> will be against  your cattle  in the plains, and against also the horses, and against the beasts of burden, and the camels, and oxen, and sheep, by an exceedingly great plague. 
-<small><sub>**KJV:**</sub></small>
-Behold, the hand of the LORD is upon thy cattle which [is] in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: [there shall be] a very grievous murrain.
-<small><sub>**BSB:**</sub></small>
-then the hand of the LORD will bring a severe plague on your livestock in the field—on your horses, donkeys, camels, herds, and flocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.2|<< Exodus 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.4|Exodus 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Ephesians 5:25
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:25**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
 <small><sub>**BSB:**</sub></small>
 Husbands, love your wives, just as Christ loved the church and gave Himself up for her
 <small><sub>**Literal:**</sub></small>
 you who [are] Husbands, do love the wives of your own even as also <the> Christ loved the church and Himself gave up for her<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.24|<< Ephesians 5:24]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.26|Ephesians 5:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you who [are] |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Husbands, |**<big>[[G0435H\|ἄνδρες,]]</big>**  |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

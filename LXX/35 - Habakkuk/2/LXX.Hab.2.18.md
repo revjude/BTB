@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:18** 
 <small><sub>**LXX:**</sub></small>
 What benefit \[is the\] carved \[image\] that they carved it? He shaped it for a molten casting, a false visible display. For the one shaping has relied upon the thing shaped by him in the making of mute idols. 
-<small><sub>**KJV:**</sub></small>
-What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?
-<small><sub>**BSB:**</sub></small>
-What use is an idol, that a craftsman should carve it—or an image, a teacher of lies? For its maker trusts in his own creation; he makes idols that cannot speak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.17|<< Habakkuk 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.19|Habakkuk 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

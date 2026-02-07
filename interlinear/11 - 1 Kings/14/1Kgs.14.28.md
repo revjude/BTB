@@ -1,4 +1,4 @@
-**1 Kings 14:28** 
+**1 Kings 14:28**<big><big>[[1Kgs.14.25 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], when the king went into the house of the LORD, that the guard bare them, and brought them back into the guard chamber.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And whenever the king entered the house of the LORD, the guards would bear the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.27|<< 1 Kings 14:27]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.29|1 Kings 14:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֛י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as often as  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1767\|דֵּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> dei-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

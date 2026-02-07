@@ -1,4 +1,4 @@
-**Exodus 37:12** 
+**Exodus 37:12**<big><big>[[Exod.37.10 The Table of Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he made thereunto a border of an handbreadth round about; and made a crown of gold for the border thereof round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he made a rim around it a handbreadth wide and put a gold molding on the rim
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.11|<< Exodus 37:11]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.13|Exodus 37:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֨עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> it  |**<big>&#8207;[[H9005\|ל֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

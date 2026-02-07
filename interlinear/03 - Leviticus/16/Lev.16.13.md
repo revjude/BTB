@@ -1,4 +1,4 @@
-**Leviticus 16:13** 
+**Leviticus 16:13**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that [is] upon the testimony, that he die not:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to put the incense on the fire before the LORD, and the cloud of incense w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.12|<< Leviticus 16:12]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.14|Leviticus 16:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַ֧ן]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Tan<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

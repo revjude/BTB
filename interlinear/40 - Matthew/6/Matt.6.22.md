@@ -1,12 +1,12 @@
-**Matthew 6:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:22**<big><big>[[Matt.6.22 The Lamp of the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.
 <small><sub>**BSB:**</sub></small>
 The eye is the lamp of the body. If your eyes are good, your whole body will be full of light.
 <small><sub>**Literal:**</sub></small>
 The lamp of the body is the eye. If therefore shall be the eye of you clear [the] whole <the> body of you full of light will be;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.21|<< Matthew 6:21]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.23|Matthew 6:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | lamp |**<big>[[G3088\|λύχνος]]</big>**  |luchnos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Galatians 6:3
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:3**<big><big>[[Gal.6.1 Carry One Another’s Burdens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if a man think himself to be something, when he is nothing, he deceiveth himself.
 <small><sub>**BSB:**</sub></small>
 If anyone thinks he is something when he is nothing, he deceives himself.
 <small><sub>**Literal:**</sub></small>
 If for thinks [himself] anyone to be something nothing being, he deceives himself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.2|<< Galatians 6:2]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.4|Galatians 6:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

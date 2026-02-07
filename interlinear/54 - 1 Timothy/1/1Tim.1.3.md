@@ -1,12 +1,12 @@
-**1 Timothy 1:3
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:3**<big><big>[[1Tim.1.3 Correcting False Teachers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,
 <small><sub>**BSB:**</sub></small>
 As I urged you on my departure to Macedonia, you should stay on at Ephesus to instruct certain men not to teach false doctrines
 <small><sub>**Literal:**</sub></small>
 even as I urged you to remain in Ephesus [when] I was going to Macedonia so that you may warn certain men not to teach other doctrines<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.2|<< 1 Timothy 1:2]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.4|1 Timothy 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|Καθὼς]]</big>**  |Kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I urged |**<big>[[G3870\|παρεκάλεσά]]</big>**  |parekalesa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

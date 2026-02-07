@@ -1,10 +1,7 @@
 **LXX Isaiah 22:10** 
 <small><sub>**LXX:**</sub></small>
 and that they demolished the houses of Jerusalem for fortification of \[the\] walls of the city. 
-<small><sub>**KJV:**</sub></small>
-And ye have numbered the houses of Jerusalem, and the houses have ye broken down to fortify the wall.
-<small><sub>**BSB:**</sub></small>
-You counted the houses of Jerusalem and tore them down to strengthen the wall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.9|<< Isaiah 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.11|Isaiah 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

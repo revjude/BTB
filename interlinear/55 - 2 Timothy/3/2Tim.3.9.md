@@ -1,12 +1,12 @@
-**2 Timothy 3:9
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:9**<big><big>[[2Tim.3.1 Evil in the Last Days|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they shall proceed no further: for their folly shall be manifest unto all [men], as theirs also was.
 <small><sub>**BSB:**</sub></small>
 But they will not advance much further. For just like Jannes and Jambres, their folly will be plain to everyone.
 <small><sub>**Literal:**</sub></small>
 But not they will advance further much; <the> for the folly of them plain will be to all, as also that of those [two] became.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.8|<< 2 Timothy 3:8]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.10|2 Timothy 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

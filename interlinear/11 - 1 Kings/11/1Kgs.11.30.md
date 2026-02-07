@@ -1,4 +1,4 @@
-**1 Kings 11:30** 
+**1 Kings 11:30**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahijah caught the new garment that [was] on him, and rent it [in] twelve pieces:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Ahijah took hold of the new cloak he was wearing, tore it into twelve pieces
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.29|<< 1 Kings 11:29]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.31|1 Kings 11:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he seized  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8610\|יִּתְפֹּ֣שׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.Pos<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahijah  |**<big>&#8207;[[H0281H\|אֲחִיָּ֔ה]]&#8207; </big>**| 'a.chi.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

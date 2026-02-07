@@ -1,4 +1,4 @@
-**2 Chronicles 24:27** 
+**2 Chronicles 24:27**<big><big>[[2Chr.24.23 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [concerning] his sons, and the greatness of the burdens [laid] upon him, and the repairing of the house of God, behold, they [are] written in the story of the book of the kings. And Amaziah his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The accounts of the sons of Joash and the many pronouncements about him, and of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.26|<< 2 Chronicles 24:26]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.1|2 Chronicles 25:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and sons his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בָנָ֞י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be numerous of  [^1]|**<big>&#8207;[[H7235A\|יִ֧רֶ֞ב]]&#8207; </big>**[^2] | ye.Rev<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

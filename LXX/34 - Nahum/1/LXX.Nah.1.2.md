@@ -1,10 +1,7 @@
 **LXX Nahum 1:2** 
 <small><sub>**LXX:**</sub></small>
 God \[is\] jealous, and \[the\] <span class="smallcaps">lord</span> \[is\] punishing; \[the\] <span class="smallcaps">lord</span> \[is\] punishing with rage; \[the\] <span class="smallcaps">lord</span> \[is\] punishing  his adversaries, and lifting away himself  of his enemies. 
-<small><sub>**KJV:**</sub></small>
-God [is] jealous, and the LORD revengeth; the LORD revengeth, and [is] furious; the LORD will take vengeance on his adversaries, and he reserveth [wrath] for his enemies.
-<small><sub>**BSB:**</sub></small>
-The LORD is a jealous and avenging God; the LORD is avenging and full of wrath. The LORD takes vengeance on His foes and reserves wrath for His enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.1|<< Nahum 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.3|Nahum 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

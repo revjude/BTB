@@ -1,10 +1,7 @@
 **LXX Leviticus 13:4** 
 <small><sub>**LXX:**</sub></small>
 And if \[the\] radiant \[spot\] should be white in the skin  of his flesh, and its appearance should not be deep below the skin, and  its hair did not turn white, but it is faint, then the priest shall separate the infection \[for\] seven days; 
-<small><sub>**KJV:**</sub></small>
-If the bright spot [be] white in the skin of his flesh, and in sight [be] not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up [him that hath] the plague seven days:
-<small><sub>**BSB:**</sub></small>
-If, however, the spot on his skin is white and does not appear to be deeper than the skin, and the hair in it has not turned white, the priest shall isolate the infected person for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.3|<< Leviticus 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.5|Leviticus 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

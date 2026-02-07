@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:24** 
 <small><sub>**LXX:**</sub></small>
 Damascus was enfeebled; she was turned to flight; trembling took hold of her; straitness and grief constrained her as one being in travail. 
-<small><sub>**KJV:**</sub></small>
-Damascus is waxed feeble, [and] turneth herself to flee, and fear hath seized on [her]: anguish and sorrows have taken her, as a woman in travail.
-<small><sub>**BSB:**</sub></small>
-Damascus has become feeble; she has turned to flee. Panic has gripped her; anguish and pain have seized her like a woman in labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.23|<< Jeremiah 49:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.25|Jeremiah 49:25 >>]]</td></tr></table>
 
 | Translation | Greek |

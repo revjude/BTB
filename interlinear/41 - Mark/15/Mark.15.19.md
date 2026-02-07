@@ -1,12 +1,12 @@
-**Mark 15:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:19**<big><big>[[Mark.15.16 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they smote him on the head with a reed, and did spit upon him, and bowing [their] knees worshipped him.
 <small><sub>**BSB:**</sub></small>
 They kept striking His head with a staff and spitting on Him. And they knelt down and bowed before Him.
 <small><sub>**Literal:**</sub></small>
 And they were striking His <the> head with a reed and were spitting on Him, and bending the knees they were kneeling down to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.18|<< Mark 15:18]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.20|Mark 15:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were striking |**<big>[[G5180\|ἔτυπτον]]</big>**  |etupton <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

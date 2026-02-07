@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:32** 
 <small><sub>**LXX:**</sub></small>
 And they girded sackcloths upon  their loins, and put rough cords upon  their heads. And they said to the king of Israel, Your servant, \[the\] son of Hadad says, my soul indeed live! And he said, Does he still live? he is my brother. 
-<small><sub>**KJV:**</sub></small>
-So they girded sackcloth on their loins, and [put] ropes on their heads, and came to the king of Israel, and said, Thy servant Benhadad saith, I pray thee, let me live. And he said, [Is] he yet alive? he [is] my brother.
-<small><sub>**BSB:**</sub></small>
-So with sackcloth around their waists and ropes around their heads, they went to the king of Israel and said, “Your servant Ben-hadad says, ‘Please spare my life.’” And the king answered, “Is he still alive? He is my brother.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.31|<< 1 Kings 20:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.33|1 Kings 20:33 >>]]</td></tr></table>
 
 | Translation | Greek |

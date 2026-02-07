@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:21** 
 <small><sub>**LXX:**</sub></small>
 Behold! \[the\] <span class="smallcaps">lord</span> your God has delivered up the land to you before your face. Ascending, you inherit it! in which manner \[the\] <span class="smallcaps">lord</span> God of your fathers spoke to you. You should not fear nor be timid. 
-<small><sub>**KJV:**</sub></small>
-Behold, the LORD thy God hath set the land before thee: go up [and] possess [it], as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged.
-<small><sub>**BSB:**</sub></small>
-See, the LORD your God has placed the land before you. Go up and take possession of it as the LORD, the God of your fathers, has told you. Do not be afraid or discouraged.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.20|<< Deuteronomy 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.22|Deuteronomy 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

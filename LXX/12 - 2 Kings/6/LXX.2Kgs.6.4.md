@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:4** 
 <small><sub>**LXX:**</sub></small>
 And he went with them, and they came unto the Jordan, and they trimmed the wood. 
-<small><sub>**KJV:**</sub></small>
-So he went with them. And when they came to Jordan, they cut down wood.
-<small><sub>**BSB:**</sub></small>
-So Elisha went with them, and when they came to the Jordan, they began to cut down some trees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.3|<< 2 Kings 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.5|2 Kings 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 6:4** 
 <small><sub>**LXX:**</sub></small>
 And I established  my covenant with them, so as to give to them the land  of Canaan, the land which they sojourned, in which also they sojourned upon it. 
-<small><sub>**KJV:**</sub></small>
-And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers.
-<small><sub>**BSB:**</sub></small>
-I also established My covenant with them to give them the land of Canaan, the land where they lived as foreigners.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.3|<< Exodus 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.5|Exodus 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

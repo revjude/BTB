@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:11** 
 <small><sub>**LXX:**</sub></small>
 And the doors of the inner chambers \[were\] unto the \[space\] left over of the one door of the one towards \[the\] north, and the one door towards \[the\] south; and the breadth of the place  left over -- five cubits width round about. 
-<small><sub>**KJV:**</sub></small>
-And the doors of the side chambers [were] toward [the place that was] left, one door toward the north, and another door toward the south: and the breadth of the place that was left [was] five cubits round about.
-<small><sub>**BSB:**</sub></small>
-The side rooms opened into this area, with one entrance on the north and another on the south. The open area was five cubits wide all around.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.10|<< Ezekiel 41:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.12|Ezekiel 41:12 >>]]</td></tr></table>
 
 | Translation | Greek |

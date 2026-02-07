@@ -1,4 +1,4 @@
-**Leviticus 13:2** 
+**Leviticus 13:2**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh [like] the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When a man shall have in the skin of his flesh a rising, a scab, or bright spot,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.1|<< Leviticus 13:1]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.3|Leviticus 13:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | anyone  |**<big>&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

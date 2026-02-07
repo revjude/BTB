@@ -1,10 +1,7 @@
 **LXX Exodus 25:35** 
 <small><sub>**LXX:**</sub></small>
 \[And\] the knob under the two branches from out of it, and a knob under the \[other\] two branches from out of it, thus to the six branches -- to the ones going forth from out of the lamp-stand. 
-<small><sub>**KJV:**</sub></small>
-And [there shall be] a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches that proceed out of the candlestick.
-<small><sub>**BSB:**</sub></small>
-For the six branches that extend from the lampstand, a bud must be under the first pair of branches, a bud under the second pair, and a bud under the third pair.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.34|<< Exodus 25:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.36|Exodus 25:36 >>]]</td></tr></table>
 
 | Translation | Greek |

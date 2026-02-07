@@ -1,4 +1,4 @@
-**Song of Solomon 4:16** 
+**Song of Solomon 4:16**<big><big>[[Song.4.16 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, O north wind; and come, thou south; blow upon my garden, [that] the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Awake, O north wind, and come, O south wind. Breathe on my garden and spread the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.15|<< Song of Solomon 4:15]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.1|Song of Solomon 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | awake  |**<big>&#8207;[[H5782\|ע֤וּרִי]]&#8207; </big>**| 'U.ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O north wind  |**<big>&#8207;[[H6828G\|צָפוֹן֙]]&#8207; </big>**| tza.fOn<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

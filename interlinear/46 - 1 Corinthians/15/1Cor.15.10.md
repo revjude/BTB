@@ -1,12 +1,12 @@
-**1 Corinthians 15:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:10**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But by the grace of God I am what I am: and his grace which [was bestowed] upon me was not in vain; but I laboured more abundantly than they all: yet not I, but the grace of God which was with me.
 <small><sub>**BSB:**</sub></small>
 But by the grace of God I am what I am, and His grace to me was not in vain. No, I worked harder than all of them—yet not I, but the grace of God that was with me.
 <small><sub>**Literal:**</sub></small>
 By [the] grace however of God I am what I am, and the grace of Him <the> toward me myself not void has been, Rather more excessive than them all I toiled, not I myself however, but the grace <the> of God that [was] with me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.9|<< 1 Corinthians 15:9]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.11|1 Corinthians 15:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By [the] grace |**<big>[[G5485\|χάριτι]]</big>**  |chariti <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

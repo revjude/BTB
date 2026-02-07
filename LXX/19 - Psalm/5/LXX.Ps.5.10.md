@@ -1,10 +1,7 @@
 **LXX Psalm 5:10** 
 <small><sub>**LXX:**</sub></small>
 Judge them, O God! let them fall away from  their deliberations! According to the multitude  of their impieties banish them! For they rebelled against you, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.
-<small><sub>**BSB:**</sub></small>
-Declare them guilty, O God; let them fall by their own devices. Drive them out for their many transgressions, for they have rebelled against You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.5.9|<< Psalm 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.5.11|Psalm 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

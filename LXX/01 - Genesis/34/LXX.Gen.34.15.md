@@ -1,10 +1,7 @@
 **LXX Genesis 34:15** 
 <small><sub>**LXX:**</sub></small>
 Only in this we will be like you, and dwell among you, if you should become as us and \[we\] you, in the circumcision of every male of yours. 
-<small><sub>**KJV:**</sub></small>
-But in this will we consent unto you: If ye will be as we [be], that every male of you be circumcised;
-<small><sub>**BSB:**</sub></small>
-We will consent to this on one condition, that you become circumcised like us—every one of your males.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.14|<< Genesis 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.16|Genesis 34:16 >>]]</td></tr></table>
 
 | Translation | Greek |

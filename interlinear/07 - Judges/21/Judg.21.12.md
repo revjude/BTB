@@ -1,4 +1,4 @@
-**Judges 21:12** 
+**Judges 21:12**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they found among the inhabitants of Jabeshgilead four hundred young virgins, that had known no man by lying with any male: and they brought them unto the camp to Shiloh, which [is] in the land of Canaan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they found among the inhabitants of Jabesh-gilead four hundred young women wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.11|<< Judges 21:11]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.13|Judges 21:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they found  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H4672\|יִּמְצְא֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] inhabitants of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3427\|יּוֹשְׁבֵ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

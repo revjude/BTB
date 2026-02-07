@@ -1,4 +1,4 @@
-**Nehemiah 2:1** 
+**Nehemiah 2:1**<big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, [that] wine [was] before him: and I took up the wine, and gave [it] unto the king. Now I had not been [beforetime] sad in his presence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now in the month of Nisan, in the twentieth year of King Artaxerxes, when wine w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.11|<< Nehemiah 1:11]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.2|Nehemiah 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] month of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2320G\|חֹ֣דֶשׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Cho.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

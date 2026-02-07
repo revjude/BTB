@@ -1,12 +1,12 @@
-**Acts 14:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:11**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the people saw what Paul had done, they lifted up their voices, saying in the speech of Lycaonia, The gods are come down to us in the likeness of men.
 <small><sub>**BSB:**</sub></small>
 When the crowds saw what Paul had done, they lifted up their voices in the Lycaonian language: “The gods have come down to us in human form!”
 <small><sub>**Literal:**</sub></small>
 <the> And the crowds having seen what did <the> Paul lifted up the voice of them in Lycaonian saying; The gods having become like as men have come down to us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.10|<< Acts 14:10]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.12|Acts 14:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἵ]]</big>**  |oi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |

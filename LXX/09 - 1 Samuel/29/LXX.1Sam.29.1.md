@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the Philistines gathered all  their camps unto Aphek. And Israel camped in En-dor, the one in Jezreel. 
-<small><sub>**KJV:**</sub></small>
-Now the Philistines gathered together all their armies to Aphek: and the Israelites pitched by a fountain which [is] in Jezreel.
-<small><sub>**BSB:**</sub></small>
-Now the Philistines brought all their forces together at Aphek, while Israel camped by the spring in Jezreel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.25|<< 1 Samuel 28:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.2|1 Samuel 29:2 >>]]</td></tr></table>
 
 | Translation | Greek |

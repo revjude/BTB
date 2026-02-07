@@ -1,12 +1,12 @@
-**Luke 18:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:3**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary.
 <small><sub>**BSB:**</sub></small>
 And there was a widow in that town who kept appealing to him, ‘Give me justice against my adversary.’
 <small><sub>**Literal:**</sub></small>
 A widow then there was in the city that and she was coming to him saying; do avenge me of the adversary of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.2|<< Luke 18:2]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.4|Luke 18:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A widow |**<big>[[G5503\|χήρα]]</big>**  |chēra <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

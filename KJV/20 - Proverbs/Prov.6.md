@@ -1,6 +1,6 @@
 (KJV) **Proverbs 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5|<< Proverbs 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7|Proverbs 7 >>]]</td></tr></table>
 
-***Warnings against Foolishness*** ^bsb1452
+<big><big>[[Prov.6.1 Warnings against Foolishness|⥃]]</big></big>***Warnings against Foolishness***
 
  $\quad$ <span class="startversemarker">[</span>**[[Prov.6.1|1]]**<span class="endversemarker">]</span> My son, if thou be<small><small>[^2]</small></small> surety for thy friend, \[if\] thou hast<small><small>[^3]</small></small> stricken thy hand with a stranger, <span class="startversemarker">[</span>**[[Prov.6.2|2]]**<span class="endversemarker">]</span> Thou art snared with the words of thy mouth, thou art taken with the words of thy mouth.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Prov.6.3|3]]**<span class="endversemarker">]</span> Do this now, my son, and deliver thyself, when<small><small>[^5]</small></small> thou art come into the hand of thy friend; go<small><small>[^6]</small></small>, humble thyself, and make sure thy friend<small><small>[^7]</small></small>. <span class="startversemarker">[</span>**[[Prov.6.4|4]]**<span class="endversemarker">]</span> Give not sleep to thine eyes, nor slumber to thine eyelids.<small><small>[^8]</small></small> <span class="startversemarker">[</span>**[[Prov.6.5|5]]**<span class="endversemarker">]</span> Deliver thyself as a roe from the hand \[of the hunter\], and as a bird<small><small>[^9]</small></small> from the hand of the fowler. 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Prov.6.12|12]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Prov.6.16|16]]**<span class="endversemarker">]</span> [¶]These six<small><small>[^26]</small></small> \[things\] doth the <span class="smallcaps">Lord</span> hate: yea, seven \[are\] an<small><small>[^27]</small></small> abomination unto him<small><small>[^28]</small></small>: <span class="startversemarker">[</span>**[[Prov.6.17|17]]**<span class="endversemarker">]</span> A proud look<small><small>[^29]</small></small>, a lying<small><small>[^30]</small></small> tongue, and hands<small><small>[^31]</small></small> that shed innocent blood, <span class="startversemarker">[</span>**[[Prov.6.18|18]]**<span class="endversemarker">]</span> An heart<small><small>[^32]</small></small> that deviseth wicked imaginations, feet<small><small>[^33]</small></small> that be swift in running to mischief, <span class="startversemarker">[</span>**[[Prov.6.19|19]]**<span class="endversemarker">]</span> A false<small><small>[^34]</small></small> witness \[that\] speaketh lies, and he that soweth<small><small>[^35]</small></small> discord among brethren.
 
-***Warnings against Adultery*** ^bsb1453
+<big><big>[[Prov.6.20 Warnings against Adultery|⥃]]</big></big>***Warnings against Adultery***
 
  
 

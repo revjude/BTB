@@ -6,10 +6,7 @@ A psalm \[to\] of David; of Haggai and Zachariah.
 
 <small><sub>**LXX:**</sub></small>
 I will confess to you, O <span class="smallcaps">lord</span>, with my whole heart; and before angels I will strum to you, for you heard all the sayings  of my mouth. 
-<small><sub>**KJV:**</sub></small>
-[A Psalm] of David. I will praise thee with my whole heart: before the gods will I sing praise unto thee.
-<small><sub>**BSB:**</sub></small>
-Of David. I give You thanks with all my heart; before the gods I sing Your praises.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.138.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.137.9|<< Psalm 137:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.138.2|Psalm 138:2 >>]]</td></tr></table>
 
 | Translation | Greek |

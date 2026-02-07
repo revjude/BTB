@@ -1,4 +1,4 @@
-**Hosea 13:9** 
+**Hosea 13:9**<big><big>[[Hos.13.9 Death and Resurrection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Israel, thou hast destroyed thyself; but in me [is] thine help.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are destroyed, O Israel, because you are against Me—against your helper.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.8|<< Hosea 13:8]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.10|Hosea 13:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will destroy you  |**<big>&#8207;[[H7843\|שִֽׁחֶתְ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| shi.chet.<small><sup>[[HVpp3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 12:6** 
+**Joshua 12:6**<big><big>[[Josh.12.1 The Kings Defeated East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Them did Moses the servant of the LORD and the children of Israel smite: and Moses the servant of the LORD gave it [for] a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses, the servant of the LORD, and the Israelites had struck them down and give
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.5|<< Joshua 12:5]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.7|Joshua 12:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֧ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servant of  |**<big>&#8207;[[H5650\|עֶֽבֶד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.ved-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

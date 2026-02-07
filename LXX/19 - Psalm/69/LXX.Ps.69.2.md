@@ -1,10 +1,7 @@
 **LXX Psalm 69:2** 
 <small><sub>**LXX:**</sub></small>
 I was stuck in deep slime, and there is no support. I came to the depths of the sea, and \[the\] gale sank me. 
-<small><sub>**KJV:**</sub></small>
-I sink in deep mire, where [there is] no standing: I am come into deep waters, where the floods overflow me.
-<small><sub>**BSB:**</sub></small>
-I have sunk into the miry depths, where there is no footing; I have drifted into deep waters, where the flood engulfs me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.1|<< Psalm 69:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.3|Psalm 69:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 15:11** 
+**2 Samuel 15:11**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with Absalom went two hundred men out of Jerusalem, [that were] called; and they went in their simplicity, and they knew not any thing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two hundred men from Jerusalem accompanied Absalom. They had been invited as gue
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.10|<< 2 Samuel 15:10]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.12|2 Samuel 15:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and with  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Absalom  |**<big>&#8207;[[H0053\|אַבְשָׁל֗וֹם]]&#8207; </big>**| 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

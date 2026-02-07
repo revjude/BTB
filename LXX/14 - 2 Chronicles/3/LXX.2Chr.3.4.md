@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 3:4** 
 <small><sub>**LXX:**</sub></small>
 And the columned porch before \[the\] face of the house -- \[its\] length upon \[the\] face of the width of the house \[was\] twenty cubits, and the height \[was\] a hundred and twenty cubits. And he gilded it inside in pure gold. 
-<small><sub>**KJV:**</sub></small>
-And the porch that [was] in the front [of the house], the length [of it was] according to the breadth of the house, twenty cubits, and the height [was] an hundred and twenty: and he overlaid it within with pure gold.
-<small><sub>**BSB:**</sub></small>
-The portico at the front, extending across the width of the temple, was twenty cubits long and twenty cubits high. He overlaid the inside with pure gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.3|<< 2 Chronicles 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.5|2 Chronicles 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

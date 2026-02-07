@@ -1,4 +1,4 @@
-**Ezekiel 6:13** 
+**Ezekiel 6:13**<big><big>[[Ezek.6.8 A Remnant to Be Blessed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall ye know that I [am] the LORD, when their slain [men] shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every green tree, and under every thick oak, the place where they did offer sweet savour to all their idols.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will know that I am the LORD, when their slain lie among their idols ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.12|<< Ezekiel 6:12]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.14|Ezekiel 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וִֽ]]&#8207;&#8207;[[H3045\|ידַעְתֶּם֙]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> da'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

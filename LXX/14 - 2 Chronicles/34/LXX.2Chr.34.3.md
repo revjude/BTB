@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:3** 
 <small><sub>**LXX:**</sub></small>
 And in the eighth year  of his kingdom (and he was still a boy) he began  to seek \[the\] <span class="smallcaps">lord</span>  God of David  his father. And in the twelfth year  of his kingdom he began  to cleanse Judah and  Jerusalem of the high \[places\], and of the sacred groves, and of the shrines, and of the carved \[images\], and of the molten \[images\]. 
-<small><sub>**KJV:**</sub></small>
-For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images.
-<small><sub>**BSB:**</sub></small>
-In the eighth year of his reign, while he was still young, Josiah began to seek the God of his father David, and in the twelfth year he began to cleanse Judah and Jerusalem of the high places, the Asherah poles, the carved idols, and the cast images.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.2|<< 2 Chronicles 34:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.4|2 Chronicles 34:4 >>]]</td></tr></table>
 
 | Translation | Greek |

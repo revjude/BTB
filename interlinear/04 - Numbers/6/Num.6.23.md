@@ -1,4 +1,4 @@
-**Numbers 6:23** 
+**Numbers 6:23**<big><big>[[Num.6.22 Aaron’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the chil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.22|<< Numbers 6:22]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.24|Numbers 6:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֤ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

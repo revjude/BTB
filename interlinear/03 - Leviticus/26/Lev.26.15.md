@@ -1,4 +1,4 @@
-**Leviticus 26:15** 
+**Leviticus 26:15**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, [but] that ye break my covenant:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if you reject My statutes, despise My ordinances, and neglect to carry out a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.14|<< Leviticus 26:14]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.16|Leviticus 26:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> statutes my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2708\|חֻקֹּתַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chu.ko.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

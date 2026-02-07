@@ -1,10 +1,7 @@
 **LXX Joshua 24:33** 
 <small><sub>**LXX:**</sub></small>
 And Eleazar the son of Aaron the chief priest came to an end; and he was entombed in Gabath of Phinehas  his son, which he gave to him in  mount Ephraim. 
-<small><sub>**KJV:**</sub></small>
-And Eleazar the son of Aaron died; and they buried him in a hill [that pertained to] Phinehas his son, which was given him in mount Ephraim.
-<small><sub>**BSB:**</sub></small>
-Eleazar son of Aaron also died, and they buried him at Gibeah, which had been given to his son Phinehas in the hill country of Ephraim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.32|<< Joshua 24:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.1|Judges 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

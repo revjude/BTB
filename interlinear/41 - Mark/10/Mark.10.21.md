@@ -1,12 +1,12 @@
-**Mark 10:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:21**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus beholding him loved him, and said unto him, One thing thou lackest: go thy way, sell whatsoever thou hast, and give to the poor, and thou shalt have treasure in heaven: and come, take up the cross, and follow me.
 <small><sub>**BSB:**</sub></small>
 Jesus looked at him, loved him, and said to him, “There is one thing you lack: Go, sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.”
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus having looked upon him He loved him and He said to him; One thing to you is lacking; do go, as much as you have do sell and do give to the poor and you will have treasure in heaven. and come, do follow Me having taken up <the> cross.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.20|<< Mark 10:20]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.22|Mark 10:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

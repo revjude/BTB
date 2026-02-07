@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:19** 
 <small><sub>**LXX:**</sub></small>
 then you shall do to him in which manner he devised wickedly to do against  his brother, and you shall lift away the wicked from yourselves. 
-<small><sub>**KJV:**</sub></small>
-Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.
-<small><sub>**BSB:**</sub></small>
-you must do to him as he intended to do to his brother. So you must purge the evil from among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.18|<< Deuteronomy 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.20|Deuteronomy 19:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 19:19** is...

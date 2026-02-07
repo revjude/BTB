@@ -1,10 +1,7 @@
 **LXX Isaiah 22:5** 
 <small><sub>**LXX:**</sub></small>
 For \[it is\] a day of disturbance, and destruction, and trampling, and an addiction to a delusion by \[the\] <span class="smallcaps">lord</span> of Hosts. They wander in \[the\] ravine of Zion. They wander from small unto great upon the mountain. 
-<small><sub>**KJV:**</sub></small>
-For [it is] a day of trouble, and of treading down, and of perplexity by the Lord GOD of hosts in the valley of vision, breaking down the walls, and of crying to the mountains.
-<small><sub>**BSB:**</sub></small>
-For the Lord GOD of Hosts has set a day of tumult and trampling and confusion in the Valley of Vision—of breaking down the walls and crying to the mountains.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.4|<< Isaiah 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.6|Isaiah 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

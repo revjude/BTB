@@ -1,10 +1,7 @@
 **LXX Isaiah 9:20** 
 <small><sub>**LXX:**</sub></small>
 But one shall turn aside to the right \[hand\], for he shall hunger; and he shall eat of the left, and in no way a man be filled up eating the flesh  of his arm. 
-<small><sub>**KJV:**</sub></small>
-And he shall snatch on the right hand, and be hungry; and he shall eat on the left hand, and they shall not be satisfied: they shall eat every man the flesh of his own arm:
-<small><sub>**BSB:**</sub></small>
-They carve out what is on the right, but they are still hungry; they eat what is on the left, but they are still not satisfied. Each one devours the flesh of his own offspring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.19|<< Isaiah 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.21|Isaiah 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

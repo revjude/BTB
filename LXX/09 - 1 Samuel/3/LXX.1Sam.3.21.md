@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> added \[again\]  to manifest in Shiloh, for \[the\] <span class="smallcaps">lord</span> was revealed to Samuel in Shiloh according to \[the\] word of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD.
-<small><sub>**BSB:**</sub></small>
-And the LORD continued to appear at Shiloh, because there He revealed Himself to Samuel by His word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.20|<< 1 Samuel 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.1|1 Samuel 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

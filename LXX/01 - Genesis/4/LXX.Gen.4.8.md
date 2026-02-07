@@ -1,10 +1,7 @@
 **LXX Genesis 4:8** 
 <small><sub>**LXX:**</sub></small>
 And Cain said to Abel  his brother, Let us go into the plain. And it came to pass in  their being in the plain, Cain rose up against Abel  his brother, and killed him. 
-<small><sub>**KJV:**</sub></small>
-And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
-<small><sub>**BSB:**</sub></small>
-Then Cain said to his brother Abel, “Let us go out to the field.” And while they were in the field, Cain rose up against his brother Abel and killed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.7|<< Genesis 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.9|Genesis 4:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 4:8** is...

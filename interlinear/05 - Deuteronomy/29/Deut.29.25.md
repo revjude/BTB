@@ -1,4 +1,4 @@
-**Deuteronomy 29:25** (29:24)
+**Deuteronomy 29:25**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then men shall say, Because they have forsaken the covenant of the LORD God of their fathers, which he made with them when he brought them forth out of the land of Egypt:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the people will answer, ‘It is because they abandoned the covenant of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.24|<< Deuteronomy 29:24]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.26|Deuteronomy 29:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָ֣מְר֔וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'A.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַ֚ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

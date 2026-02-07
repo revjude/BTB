@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:25** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in \[the\] beginning  of their \[place\] of sitting down, they did not fear the <span class="smallcaps">lord</span>. And \[the\] <span class="smallcaps">lord</span> sent among them the lions, and they were being killed by them. 
-<small><sub>**KJV:**</sub></small>
-And [so] it was at the beginning of their dwelling there, [that] they feared not the LORD: therefore the LORD sent lions among them, which slew [some] of them.
-<small><sub>**BSB:**</sub></small>
-Now when the settlers first lived there, they did not worship the LORD, so He sent lions among them, which killed some of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.24|<< 2 Kings 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.26|2 Kings 17:26 >>]]</td></tr></table>
 
 | Translation | Greek |

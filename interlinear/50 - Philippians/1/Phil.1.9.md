@@ -1,12 +1,12 @@
-**Philippians 1:9
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:9**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this I pray, that your love may abound yet more and more in knowledge and [in] all judgment;
 <small><sub>**BSB:**</sub></small>
 And this is my prayer: that your love may abound more and more in knowledge and depth of insight,
 <small><sub>**Literal:**</sub></small>
 And this I pray, that the love of you yet more and more may abound in knowledge and in all discernment<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.8|<< Philippians 1:8]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.10|Philippians 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

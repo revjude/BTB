@@ -1,4 +1,4 @@
-**2 Samuel 21:17** 
+**2 Samuel 21:17**<big><big>[[2Sam.21.15 Four Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Abishai son of Zeruiah came to his aid, struck the Philistine, and killed hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.16|<< 2 Samuel 21:16]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.18|2 Samuel 21:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he helped  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5826\|יַּֽעֲזָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.zor-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> \<the> him  |**<big>&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

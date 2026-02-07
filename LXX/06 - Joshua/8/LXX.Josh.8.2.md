@@ -1,10 +1,7 @@
 **LXX Joshua 8:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall do to Ai, and \[to\] her king in which manner you did  to Jericho and \[to\] her king. And  her spoils and  her cattle you shall despoil for yourself. But place for yourself an ambush for the city to the rear of her. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt do to Ai and her king as thou didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall ye take for a prey unto yourselves: lay thee an ambush for the city behind it.
-<small><sub>**BSB:**</sub></small>
-And you shall do to Ai and its king as you did to Jericho and its king, except that you may carry off their plunder and livestock for yourselves. Set up an ambush behind the city.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.1|<< Joshua 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.3|Joshua 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

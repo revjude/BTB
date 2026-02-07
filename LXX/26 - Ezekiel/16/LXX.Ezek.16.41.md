@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:41** 
 <small><sub>**LXX:**</sub></small>
 And they shall burn  your houses by fire, and they shall execute among you acts of vengeance before many women. And I will turn you from harlotry, and in no way will I give you up for wages any longer. 
-<small><sub>**KJV:**</sub></small>
-And they shall burn thine houses with fire, and execute judgments upon thee in the sight of many women: and I will cause thee to cease from playing the harlot, and thou also shalt give no hire any more.
-<small><sub>**BSB:**</sub></small>
-Then they will burn down your houses and execute judgment against you in the sight of many women. I will put an end to your prostitution, and you will never again pay your lovers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.40|<< Ezekiel 16:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.42|Ezekiel 16:42 >>]]</td></tr></table>
 
 | Translation | Greek |

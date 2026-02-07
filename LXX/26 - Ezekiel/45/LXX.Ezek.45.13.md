@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And this is the first-fruit which you shall separate; the sixth part of the measure of the homer of the wheat, and the sixth part of the ephah of the cor of the barley. 
-<small><sub>**KJV:**</sub></small>
-This [is] the oblation that ye shall offer; the sixth part of an ephah of an homer of wheat, and ye shall give the sixth part of an ephah of an homer of barley:
-<small><sub>**BSB:**</sub></small>
-This is the contribution you are to offer: a sixth of an ephah from each homer of wheat, and a sixth of an ephah from each homer of barley.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.12|<< Ezekiel 45:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.14|Ezekiel 45:14 >>]]</td></tr></table>
 
 | Translation | Greek |

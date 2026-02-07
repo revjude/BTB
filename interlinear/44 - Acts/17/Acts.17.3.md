@@ -1,12 +1,12 @@
-**Acts 17:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:3**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ.
 <small><sub>**BSB:**</sub></small>
 explaining and proving that the Christ had to suffer and rise from the dead. “This Jesus I am proclaiming to you is the Christ,” he declared.
 <small><sub>**Literal:**</sub></small>
 opening and setting forth that the Christ it was being necessary to have suffered and to have risen out from [the] dead and that this is the Christ <the> Jesus whom I myself preach to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.2|<< Acts 17:2]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.4|Acts 17:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | opening |**<big>[[G1272\|διανοίγων]]</big>**  |dianoigōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

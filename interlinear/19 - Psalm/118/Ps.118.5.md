@@ -1,4 +1,4 @@
-**Psalms 118:5** 
+**Psalms 118:5**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I called upon the LORD in distress: the LORD answered me, [and set me] in a large place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In my distress I called to the LORD, and He answered and set me free.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.4|<< Psalms 118:4]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.6|Psalms 118:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from  |**<big>&#8207;[[H4480A\|מִֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the distress  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H4712\|מֵּצַ֥ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.Tzar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

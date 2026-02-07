@@ -1,6 +1,6 @@
 (KJV) **Psalm 144**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143|<< Psalm 143]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145|Psalm 145 >>]]</td></tr></table>
 
-***Blessed Be the LORD, My Rock*** ^bsb1437
+<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥃]]</big></big>***Blessed Be the LORD, My Rock***
 
 
 

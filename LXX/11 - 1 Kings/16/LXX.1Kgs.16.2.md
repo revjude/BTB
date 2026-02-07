@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:2** 
 <small><sub>**LXX:**</sub></small>
 Because I exalted you above the earth, and gave you lead over  my people Israel, and you went in the way of Jeroboam, and my people Israel into sin,  to provoke me to anger by  their vanities; 
-<small><sub>**KJV:**</sub></small>
-Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;
-<small><sub>**BSB:**</sub></small>
-“Even though I lifted you out of the dust and made you ruler over My people Israel, you have walked in the way of Jeroboam and have caused My people Israel to sin and to provoke Me to anger by their sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.1|<< 1 Kings 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.3|1 Kings 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ruth 1:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] name to the man \[was\] Elimelech, and \[the\] name \[to\] his wife was Naomi, and \[the\] name \[to\] his two sons -- Mahlon and Chilion, Ephrathites from Beth-lehem  of Judah. And they came into \[the\] country of Moab, and were there. 
-<small><sub>**KJV:**</sub></small>
-And the name of the man [was] Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.
-<small><sub>**BSB:**</sub></small>
-The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.1|<< Ruth 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.3|Ruth 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

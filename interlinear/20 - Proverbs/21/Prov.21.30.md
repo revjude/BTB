@@ -1,4 +1,4 @@
-**Proverbs 21:30** 
+**Proverbs 21:30**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no wisdom nor understanding nor counsel against the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is no wisdom, no understanding, no counsel that can prevail against the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.29|<< Proverbs 21:29]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.31|Proverbs 21:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] wisdom  |**<big>&#8207;[[H2451\|חָ֭כְמָה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

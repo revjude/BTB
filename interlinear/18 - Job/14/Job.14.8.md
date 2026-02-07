@@ -1,4 +1,4 @@
-**Job 14:8** 
+**Job 14:8**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though the root thereof wax old in the earth, and the stock thereof die in the ground;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If its roots grow old in the ground and its stump dies in the soil,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.7|<< Job 14:7]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.9|Job 14:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | though  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will grow old  |**<big>&#8207;[[H2204\|יַזְקִ֣ין]]&#8207; </big>**| yaz.Kin<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

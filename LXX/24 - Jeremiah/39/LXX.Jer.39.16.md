@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:16** 
 <small><sub>**LXX:**</sub></small>
 Go and speak to Ebed-melech the Ethiopian! saying, Thus said \[the\] <span class="smallcaps">lord</span>  God of Israel, Behold, I bring  my words upon  this city for bad \[things\], and not for good \[things\]. And they shall be before you in  that day. 
-<small><sub>**KJV:**</sub></small>
-Go and speak to Ebedmelech the Ethiopian, saying, Thus saith the LORD of hosts, the God of Israel; Behold, I will bring my words upon this city for evil, and not for good; and they shall be [accomplished] in that day before thee.
-<small><sub>**BSB:**</sub></small>
-“Go and tell Ebed-melech the Cushite that this is what the LORD of Hosts, the God of Israel, says: ‘I am about to fulfill My words against this city for harm and not for good, and on that day they will be fulfilled before your eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.15|<< Jeremiah 39:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.17|Jeremiah 39:17 >>]]</td></tr></table>
 
 | Translation | Greek |

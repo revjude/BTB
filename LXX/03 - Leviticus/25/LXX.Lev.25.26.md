@@ -1,10 +1,7 @@
 **LXX Leviticus 25:26** 
 <small><sub>**LXX:**</sub></small>
 But if there might not be any  acting as next of kin, and \[later\] he should be well-provided in the hand, and he should find himself  fit for his ransoms, 
-<small><sub>**KJV:**</sub></small>
-And if the man have none to redeem it, and himself be able to redeem it;
-<small><sub>**BSB:**</sub></small>
-Or if a man has no one to redeem it for him, but he prospers and acquires enough to redeem his land,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.25|<< Leviticus 25:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.27|Leviticus 25:27 >>]]</td></tr></table>
 
 | Translation | Greek |

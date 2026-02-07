@@ -1,4 +1,4 @@
-**Ezekiel 26:20** 
+**Ezekiel 26:20**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I shall bring thee down with them that descend into the pit, with the people of old time, and shall set thee in the low parts of the earth, in places desolate of old, with them that go down to the pit, that thou be not inhabited; and I shall set glory in the land of the living;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then I will bring you down with those who descend to the Pit, to the people of a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.19|<< Ezekiel 26:19]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.21|Ezekiel 26:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will send down you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|הוֹרַדְתִּי]]&#8207;&#8207;[[H9032\|ךְ֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.rad.ti<small><sup>[[HVhq1cs]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

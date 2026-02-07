@@ -1,4 +1,4 @@
-**Ecclesiastes 3:11** 
+**Ecclesiastes 3:11**<big><big>[[Eccl.3.9 God’s Works Remain Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath made every [thing] beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has made everything beautiful in its time. He has also set eternity in the he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.10|<< Ecclesiastes 3:10]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.12|Ecclesiastes 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> everything  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3605\|כֹּ֥ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

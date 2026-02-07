@@ -1,4 +1,4 @@
-**2 Kings 17:9** 
+**2 Kings 17:9**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel did secretly [those] things that [were] not right against the LORD their God, and they built them high places in all their cities, from the tower of the watchmen to the fenced city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Israelites secretly did things against the LORD their God that were not righ
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.8|<< 2 Kings 17:8]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.10|2 Kings 17:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they did secretly  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2644\|יְחַפְּא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.pe.'U<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

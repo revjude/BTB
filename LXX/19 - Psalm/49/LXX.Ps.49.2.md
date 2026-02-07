@@ -1,10 +1,7 @@
 **LXX Psalm 49:2** 
 <small><sub>**LXX:**</sub></small>
 both the earth-born, and the sons  of men together, rich and needy! 
-<small><sub>**KJV:**</sub></small>
-Both low and high, rich and poor, together.
-<small><sub>**BSB:**</sub></small>
-both low and high, rich and poor alike.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.1|<< Psalm 49:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.3|Psalm 49:3 >>]]</td></tr></table>
 
 | Translation | Greek |

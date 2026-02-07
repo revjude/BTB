@@ -1,4 +1,4 @@
-**Deuteronomy 32:10** 
+**Deuteronomy 32:10**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He found him in a desert land, in a barren, howling wilderness; He surrounded hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.9|<< Deuteronomy 32:9]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.11|Deuteronomy 32:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he found it  |**<big>&#8207;[[H4672\|יִמְצָאֵ֙]]&#8207;&#8207;[[H9033\|הוּ֙]]&#8207; </big>**| yim.tza.'E.<small><sup>[[HVqi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in a land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

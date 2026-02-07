@@ -1,4 +1,4 @@
-**Exodus 25:22** 
+**Exodus 25:22**<big><big>[[Exod.25.17 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which [are] upon the ark of the testimony, of all [things] which I will give thee in commandment unto the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will meet with you there above the mercy seat, between the two cherubim th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.21|<< Exodus 25:21]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.23|Exodus 25:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will meet  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3259\|נוֹעַדְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> no.'ad.Ti<small><sup>[[HVNq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> \<the> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֮]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

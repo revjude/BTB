@@ -1,10 +1,7 @@
 **LXX Exodus 27:14** 
 <small><sub>**LXX:**</sub></small>
 And fifteen cubits for the shrouds \[is to be\] the height for the one side; their posts -- three, and  their bases -- three. 
-<small><sub>**KJV:**</sub></small>
-The hangings of one side [of the gate shall be] fifteen cubits: their pillars three, and their sockets three.
-<small><sub>**BSB:**</sub></small>
-Make the curtains on one side fifteen cubits long, with three posts and three bases,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.13|<< Exodus 27:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.15|Exodus 27:15 >>]]</td></tr></table>
 
 | Translation | Greek |

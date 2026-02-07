@@ -1,10 +1,7 @@
 **LXX Jeremiah 21:6** 
 <small><sub>**LXX:**</sub></small>
 And I will strike all the ones dwelling in  this city, men and the cattle. By a great death even they shall die. 
-<small><sub>**KJV:**</sub></small>
-And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence.
-<small><sub>**BSB:**</sub></small>
-I will strike down the residents of this city, both man and beast. They will die in a terrible plague.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.21.5|<< Jeremiah 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.7|Jeremiah 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

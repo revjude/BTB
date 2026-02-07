@@ -1,12 +1,12 @@
-**John 12:30
-**<small><sub>**KJV:**</sub></small>
+**John 12:30**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered and said, This voice came not because of me, but for your sakes.
 <small><sub>**BSB:**</sub></small>
 In response, Jesus said, “This voice was not for My benefit, but yours.
 <small><sub>**Literal:**</sub></small>
 Answered <the> Jesus and said: Not because of Me myself <the> voice this has come but because of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.29|<< John 12:29]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.31|John 12:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR">k</abbr> | |

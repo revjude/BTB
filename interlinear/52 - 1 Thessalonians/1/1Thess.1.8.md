@@ -1,12 +1,12 @@
-**1 Thessalonians 1:8
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 1:8**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing.
 <small><sub>**BSB:**</sub></small>
 For not only did the message of the Lord ring out from you to Macedonia and Achaia, but your faith in God has gone out to every place, so that we have no need to say anything more.
 <small><sub>**Literal:**</sub></small>
 From you for has sounded forth the word of the Lord not only in <the> Macedonia and in <the> Achaia, but also in every place the faith of you <the> toward <the> God has gone abroad, so as for not need to have us to say anything.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.7|<< 1 Thessalonians 1:7]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.9|1 Thessalonians 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|ἀφ᾽]]</big>**  |aph᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμῶν]]</big>**  |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

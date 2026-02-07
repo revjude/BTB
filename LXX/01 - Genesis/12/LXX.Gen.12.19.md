@@ -1,10 +1,7 @@
 **LXX Genesis 12:19** 
 <small><sub>**LXX:**</sub></small>
 Why did you say that, She is my sister; and I took her to myself as wife? And now, behold,  your wife \[is\] before you -- taking \[her\] run from \[me\]! 
-<small><sub>**KJV:**</sub></small>
-Why saidst thou, She [is] my sister? so I might have taken her to me to wife: now therefore behold thy wife, take [her], and go thy way.
-<small><sub>**BSB:**</sub></small>
-Why did you say, ‘She is my sister,’ so that I took her as my wife? Now then, here is your wife. Take her and go!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.18|<< Genesis 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.20|Genesis 12:20 >>]]</td></tr></table>
 
 | Translation | Greek |

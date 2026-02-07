@@ -1,12 +1,12 @@
-**Revelation 13:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:3**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
 <small><sub>**BSB:**</sub></small>
 One of the heads of the beast appeared to have been mortally wounded. But the mortal wound was healed, and the whole world marveled and followed the beast.
 <small><sub>**Literal:**</sub></small>
 And I saw one of the heads of it [was] as slain to death, And the wound the of death of it was healed, and marveled in all [on] the earth after the beast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.2|<< Revelation 13:2]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.4|Revelation 13:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw [^1] |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="TR">K</abbr> | |

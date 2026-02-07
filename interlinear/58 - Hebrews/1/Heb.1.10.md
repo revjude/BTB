@@ -1,5 +1,5 @@
-**Hebrews 1:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:10**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:
 <small><sub>**BSB:**</sub></small>
 And: “In the beginning, O Lord, You laid the foundations of the earth, and the heavens are the work of Your hands.
@@ -10,7 +10,7 @@ And You yourself in [the] beginning, Lord, of the earth laid the foundation, and
 > $\quad$ referencing: [[LXX.Ps.102.25|Ps 102:25-27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | You yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

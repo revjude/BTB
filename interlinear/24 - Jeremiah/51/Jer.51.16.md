@@ -1,4 +1,4 @@
-**Jeremiah 51:16** 
+**Jeremiah 51:16**<big><big>[[Jer.51.15 Praise to the God of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he uttereth [his] voice, [there is] a multitude of waters in the heavens; and he causeth the vapours to ascend from the ends of the earth: he maketh lightnings with rain, and bringeth forth the wind out of his treasures.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When He thunders, the waters in the heavens roar; He causes the clouds to rise f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.15|<< Jeremiah 51:15]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.17|Jeremiah 51:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [the] sound of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6963A\|ק֨וֹל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | giving forth he  |**<big>&#8207;[[H5414M\|תִּתּ֜]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| ti.T<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

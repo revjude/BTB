@@ -1,10 +1,7 @@
 **LXX Judges 6:28** 
 <small><sub>**LXX:**</sub></small>
 And the men of the city rose early in the morning; and behold, the altar of Baal was razed, and the sacred grove  by it was cut down; and the well fed calf was offered for a whole burnt-offering upon the altar  having been built. 
-<small><sub>**KJV:**</sub></small>
-And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that [was] by it, and the second bullock was offered upon the altar [that was] built.
-<small><sub>**BSB:**</sub></small>
-When the men of the city got up in the morning, there was Baal’s altar torn down, with the Asherah pole cut down beside it and the second bull offered up on the newly built altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.27|<< Judges 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.29|Judges 6:29 >>]]</td></tr></table>
 
 | Translation | Greek |

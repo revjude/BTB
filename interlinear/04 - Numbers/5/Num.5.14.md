@@ -1,4 +1,4 @@
-**Numbers 5:14** 
+**Numbers 5:14**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and if a feeling of jealousy comes over her husband and he suspects his wife who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.13|<< Numbers 5:13]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.15|Numbers 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will pass  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|עָבַ֨ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Var<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over him  |**<big>&#8207;[[H5921A\|עָלָ֧י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

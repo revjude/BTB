@@ -1,4 +1,4 @@
-**1 Chronicles 17:13** 
+**1 Chronicles 17:13**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took [it] from [him] that was before thee:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will be his Father, and he will be My son. And I will never remove My loving d
 > $\quad$ referenced by: [[Heb.1.5|Heb 1:5]] ☩ [[Rev.21.7|Rev 21:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will become  |**<big>&#8207;[[H1961\|אֶֽהְיֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'eh.yeh-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

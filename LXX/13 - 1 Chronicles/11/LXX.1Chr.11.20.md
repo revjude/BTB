@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:20** 
 <small><sub>**LXX:**</sub></small>
 And Abishai the brother of Joab, this one was ruler of the three. This one unsheathed  his broadsword against three hundred slain at one time; this one was famous among the \[other\] three. 
-<small><sub>**KJV:**</sub></small>
-And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew [them], and had a name among the three.
-<small><sub>**BSB:**</sub></small>
-Now Abishai, the brother of Joab, was chief of the Three, and he wielded his spear against three hundred men, killed them, and won a name along with the Three.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.19|<< 1 Chronicles 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.21|1 Chronicles 11:21 >>]]</td></tr></table>
 
 | Translation | Greek |

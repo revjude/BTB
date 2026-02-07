@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For the sons of Judah did  wicked before me, says \[the\] <span class="smallcaps">lord</span>. They arranged  their abominations in the house which my name is called upon it,  to defile it. 
-<small><sub>**KJV:**</sub></small>
-For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it.
-<small><sub>**BSB:**</sub></small>
-For the people of Judah have done evil in My sight, declares the LORD. They have set up their abominations in the house that bears My Name, and so have defiled it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.29|<< Jeremiah 7:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.31|Jeremiah 7:31 >>]]</td></tr></table>
 
 | Translation | Greek |

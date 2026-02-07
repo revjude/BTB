@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:8** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel said to Jehoshaphat, Yet there is one man for the asking the <span class="smallcaps">lord</span> through him, and I detest him, for he does not speak concerning me \[for\] good \[things\], but only bad -- Micaiah son of Imlah. And Jehoshaphat said, Let not the king speak so. 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel said unto Jehoshaphat, [There is] yet one man, Micaiah the son of Imlah, by whom we may inquire of the LORD: but I hate him; for he doth not prophesy good concerning me, but evil. And Jehoshaphat said, Let not the king say so.
-<small><sub>**BSB:**</sub></small>
-The king of Israel answered, “There is still one man through whom we can inquire of the LORD, but I hate him because he never prophesies anything good for me, but only bad. He is Micaiah son of Imlah.” “The king should not say that!” Jehoshaphat replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.7|<< 1 Kings 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.9|1 Kings 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 16:24
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:24**<big><big>[[Rom.16.21 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The grace of our Lord Jesus Christ [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 
 <small><sub>**Literal:**</sub></small>
 the grace of the Lord of us Jesus Christ with all of you. Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.23|<< Romans 16:23]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.25|Romans 16:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="SBL+TR+Byz">KO</abbr> | |
 | grace |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="SBL+TR+Byz">KO</abbr> | |

@@ -1,4 +1,4 @@
-**Numbers 14:38** 
+**Numbers 14:38**<big><big>[[Num.14.36 The Plague on the Ten Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Joshua the son of Nun, and Caleb the son of Jephunneh, [which were] of the men that went to search the land, lived [still].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Of those men who had gone to spy out the land, only Joshua son of Nun and Caleb 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.37|<< Numbers 14:37]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.39|Numbers 14:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Joshua  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3091G\|יהוֹשֻׁ֣עַ]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בִּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bin-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

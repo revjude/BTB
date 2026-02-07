@@ -1,12 +1,12 @@
-**Acts 14:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:2**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the unbelieving Jews stirred up the Gentiles, and made their minds evil affected against the brethren.
 <small><sub>**BSB:**</sub></small>
 But the unbelieving Jews stirred up the Gentiles and poisoned their minds against the brothers.
 <small><sub>**Literal:**</sub></small>
 The however disobeying Jews stirred up and they poisoned the minds of the Gentiles against the brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.1|<< Acts 14:1]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.3|Acts 14:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

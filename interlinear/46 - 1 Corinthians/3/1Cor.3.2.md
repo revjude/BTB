@@ -1,12 +1,12 @@
-**1 Corinthians 3:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:2**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I have fed you with milk, and not with meat: for hitherto ye were not able [to bear it], neither yet now are ye able.
 <small><sub>**BSB:**</sub></small>
 I gave you milk, not solid food, for you were not yet ready for solid food. In fact, you are still not ready,
 <small><sub>**Literal:**</sub></small>
 Milk you I gave to drink, and not solid food; not yet for were you able, In fact not still now are you able;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.1|<< 1 Corinthians 3:1]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.3|1 Corinthians 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Milk |**<big>[[G1051\|γάλα]]</big>**  |gala <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

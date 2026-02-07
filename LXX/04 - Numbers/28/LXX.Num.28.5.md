@@ -1,10 +1,7 @@
 **LXX Numbers 28:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall offer the tenth of the ephah of fine flour for a sacrifice \[offering\] being prepared in olive oil \[the\] fourth part of the hin. 
-<small><sub>**KJV:**</sub></small>
-And a tenth [part] of an ephah of flour for a meat offering, mingled with the fourth [part] of an hin of beaten oil.
-<small><sub>**BSB:**</sub></small>
-along with a tenth of an ephah of fine flour as a grain offering, mixed with a quarter hin of oil from pressed olives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.4|<< Numbers 28:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.6|Numbers 28:6 >>]]</td></tr></table>
 
 | Translation | Greek |

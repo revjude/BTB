@@ -1,4 +1,4 @@
-**1 Chronicles 15:24** 
+**1 Chronicles 15:24**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obededom and Jehiah [were] doorkeepers for the ark.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer—the pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.23|<< 1 Chronicles 15:23]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.25|1 Chronicles 15:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Shebaniah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7645G\|שְׁבַנְיָ֡הוּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.van.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Joshaphat  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3146H\|יֽוֹשָׁפָ֡ט]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

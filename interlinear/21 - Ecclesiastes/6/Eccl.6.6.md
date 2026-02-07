@@ -1,4 +1,4 @@
-**Ecclesiastes 6:6** 
+**Ecclesiastes 6:6**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, though he live a thousand years twice [told], yet hath he seen no good: do not all go to one place?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ even if he lives a thousand years twice over but fails to enjoy his prosperity. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.5|<< Ecclesiastes 6:5]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.7|Ecclesiastes 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0432\|אִלּ֣וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Lu<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he lived  |**<big>&#8207;[[H2421\|חָיָ֗ה]]&#8207; </big>**| cha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

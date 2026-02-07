@@ -1,12 +1,12 @@
-**Luke 2:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:8**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.
 <small><sub>**BSB:**</sub></small>
 And there were shepherds residing in the fields nearby, keeping watch over their flocks by night.
 <small><sub>**Literal:**</sub></small>
 And shepherds were in the region <the> same lodging in the fields and keeping watch <the> by night over the flock of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.7|<< Luke 2:7]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.9|Luke 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | shepherds |**<big>[[G4166\|ποιμένες]]</big>**  |poimenes <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

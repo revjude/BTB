@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall respond and shall say before \[the\] <span class="smallcaps">lord</span>  your God, My father threw off Syria, and he went down into Egypt, and sojourned there with few in number, and became there into a great nation and a populous multitude. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt speak and say before the LORD thy God, A Syrian ready to perish [was] my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:
-<small><sub>**BSB:**</sub></small>
-and you are to declare before the LORD your God, “My father was a wandering Aramean, and he went down to Egypt few in number and lived there and became a great nation, mighty and numerous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.4|<< Deuteronomy 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.6|Deuteronomy 26:6 >>]]</td></tr></table>
 
 | Translation | Greek |

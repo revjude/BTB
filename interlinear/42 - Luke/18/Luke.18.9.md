@@ -1,12 +1,12 @@
-**Luke 18:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:9**<big><big>[[Luke.18.9 The Pharisee and the Tax Collector|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:
 <small><sub>**BSB:**</sub></small>
 To some who trusted in their own righteousness and viewed others with contempt, He also told this parable:
 <small><sub>**Literal:**</sub></small>
 He spoke now also to some <the> having trusted in themselves that they are righteous and despising the others <the> parable this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.8|<< Luke 18:8]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.10|Luke 18:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He spoke |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

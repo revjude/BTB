@@ -1,4 +1,4 @@
-**Psalms 89:10** (89:11)
+**Psalms 89:10**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You crushed Rahab like a carcass; You scattered Your enemies with Your mighty ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.9|<< Psalms 89:9]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.11|Psalms 89:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֤ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you crushed  |**<big>&#8207;[[H1792\|דִכִּ֣אתָ]]&#8207; </big>**| di.Ki.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

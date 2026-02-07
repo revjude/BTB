@@ -1,12 +1,12 @@
-**Acts 26:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:14**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? [it is] hard for thee to kick against the pricks.
 <small><sub>**BSB:**</sub></small>
 We all fell to the ground, and I heard a voice say to me in Hebrew, ‘Saul, Saul, why do you persecute Me? It is hard for you to kick against the goads.’
 <small><sub>**Literal:**</sub></small>
 All and when were falling down we to the ground I heard a voice saying to me and saying in the Hebrew language; Saul Saul, why Me persecute you? [It is] hard for you against [the] goads to kick.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.13|<< Acts 26:13]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.15|Acts 26:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντων]]</big>**  |pantōn <small><sup>[[A-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

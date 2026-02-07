@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:3** 
 <small><sub>**LXX:**</sub></small>
 This evil \[is\] in all being done under the sun, for \[there is\] one event  to all. And indeed \[the\] heart of \[the\] sons  of man are filled with evil; and madness in their heart during their life, and after them \[they go\] to the dead. 
-<small><sub>**KJV:**</sub></small>
-This [is] an evil among all [things] that are done under the sun, that [there is] one event unto all: yea, also the heart of the sons of men is full of evil, and madness [is] in their heart while they live, and after that [they go] to the dead.
-<small><sub>**BSB:**</sub></small>
-This is an evil in everything that is done under the sun: There is one fate for everyone. Furthermore, the hearts of men are full of evil and madness while they are alive, and afterward they join the dead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.2|<< Ecclesiastes 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.4|Ecclesiastes 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

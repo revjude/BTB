@@ -1,4 +1,4 @@
-**Psalms 85:13** (85:14)
+**Psalms 85:13**<big><big>[[Ps.85.1 You Showed Favor to Your Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Righteousness shall go before him; and shall set [us] in the way of his steps.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Righteousness will go before Him to prepare the way for His steps.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.85.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85.12|<< Psalms 85:12]]</td><td align="center" style="border:none;">[[Ps.85|Psalms 85]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.0|Psalms 86:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | righteousness  |**<big>&#8207;[[H6664G\|צֶ֭דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

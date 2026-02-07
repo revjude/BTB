@@ -1,12 +1,12 @@
-**Luke 5:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:25**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God.
 <small><sub>**BSB:**</sub></small>
 And immediately the man stood up before them, took what he had been lying on, and went home glorifying God.
 <small><sub>**Literal:**</sub></small>
 And immediately having stood up before them, having taken up [that] on which he was lying, he departed to the home of him glorifying <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.24|<< Luke 5:24]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.26|Luke 5:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G3916\|παραχρῆμα]]</big>**  |parachrēma <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

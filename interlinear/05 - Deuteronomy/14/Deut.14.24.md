@@ -1,4 +1,4 @@
-**Deuteronomy 14:24** 
+**Deuteronomy 14:24**<big><big>[[Deut.14.22 Giving Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the way be too long for thee, so that thou art not able to carry it; [or] if the place be too far from thee, which the LORD thy God shall choose to set his name there, when the LORD thy God hath blessed thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if the distance is too great for you to carry that with which the LORD your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.23|<< Deuteronomy 14:23]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.25|Deuteronomy 14:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be [too] great  |**<big>&#8207;[[H7235A\|יִרְבֶּ֨ה]]&#8207; </big>**| yir.Beh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

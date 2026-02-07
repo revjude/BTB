@@ -1,10 +1,7 @@
 **LXX Haggai 1:6** 
 <small><sub>**LXX:**</sub></small>
 You sowed much, and carried in little; you ate and not unto fullness; you drank and not unto intoxication; you clothed yourselves, and were not heated by these; and the one of the ones gathering wages gathered \[them\] in a bundle having holes being made \[in it\]. 
-<small><sub>**KJV:**</sub></small>
-Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages [to put it] into a bag with holes.
-<small><sub>**BSB:**</sub></small>
-You have planted much but harvested little. You eat but never have enough. You drink but never have your fill. You put on clothes but never get warm. You earn wages to put into a bag pierced through.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.5|<< Haggai 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.7|Haggai 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

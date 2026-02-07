@@ -1,10 +1,7 @@
 **LXX Micah 3:12** 
 <small><sub>**LXX:**</sub></small>
 On account of this, because of you, Zion shall be plowed as a field, and Jerusalem will be as a \[vacant\] storehouse of fruits, and the mountain of the house as a place of \[the\] forest. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall Zion for your sake be plowed [as] a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of the forest.
-<small><sub>**BSB:**</sub></small>
-Therefore, because of you, Zion will be plowed like a field, Jerusalem will become a heap of rubble, and the temple mount a wooded ridge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.11|<< Micah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.1|Micah 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

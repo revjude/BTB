@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:4** 
 <small><sub>**LXX:**</sub></small>
 And Saul gave exhortation to the people. And he numbered them in Gilgal -- two hundred thousand of \[the\] ranks, and ten thousand of the men  of Judah. 
-<small><sub>**KJV:**</sub></small>
-And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah.
-<small><sub>**BSB:**</sub></small>
-So Saul summoned the troops and numbered them at Telaim—200,000 foot soldiers and 10,000 men of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.3|<< 1 Samuel 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.5|1 Samuel 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

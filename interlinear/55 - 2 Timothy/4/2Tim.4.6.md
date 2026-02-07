@@ -1,12 +1,12 @@
-**2 Timothy 4:6
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:6**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I am now ready to be offered, and the time of my departure is at hand.
 <small><sub>**BSB:**</sub></small>
 For I am already being poured out like a drink offering, and the time of my departure is at hand.
 <small><sub>**Literal:**</sub></small>
 I myself for already am being poured out, and the time of the departure of me has come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.5|<< 2 Timothy 4:5]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.7|2 Timothy 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|Ἐγὼ]]</big>**  |Egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

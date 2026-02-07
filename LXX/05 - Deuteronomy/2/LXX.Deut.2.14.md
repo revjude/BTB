@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:14** 
 <small><sub>**LXX:**</sub></small>
 And the days which we passed from Kadesh Barnea until of which \[time\] we went by the ravine of Zared \[was\] thirty eight years, until of which \[time\] all the generation of men of war perished, dying from the camp, as \[the\] <span class="smallcaps">lord</span> God swore by an oath to them. 
-<small><sub>**KJV:**</sub></small>
-And the space in which we came from Kadeshbarnea, until we were come over the brook Zered, [was] thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them.
-<small><sub>**BSB:**</sub></small>
-The time we spent traveling from Kadesh-barnea until we crossed over the Brook of Zered was thirty-eight years, until that entire generation of fighting men had perished from the camp, as the LORD had sworn to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.13|<< Deuteronomy 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.15|Deuteronomy 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 33:7** 
+**Genesis 33:7**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Leah and her children also approached and bowed down, and then Joseph and Rachel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.6|<< Genesis 33:6]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.8|Genesis 33:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she approached  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066G\|תִּגַּ֧שׁ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Gash<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 22:11** 
+**Leviticus 22:11**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the priest buy [any] soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if a priest buys a slave with his own money, or if a slave is born in his ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.10|<< Leviticus 22:10]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.12|Leviticus 22:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a priest  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3548\|כֹהֵ֗ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kho.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

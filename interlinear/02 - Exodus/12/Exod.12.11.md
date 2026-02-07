@@ -1,4 +1,4 @@
-**Exodus 12:11** 
+**Exodus 12:11**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thus shall ye eat it; [with] your loins girded, your shoes on your feet, and your staff in your hand; and ye shall eat it in haste: it [is] the LORD’S passover.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is how you are to eat it: You must be fully dressed for travel, with your s
 > $\quad$ referenced by: [[Heb.11.28|Heb 11:28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thus  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3602\|כָכָה֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.Khah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will eat  |**<big>&#8207;[[H0398\|תֹּאכְל֣וּ]]&#8207; </big>**| to.khe.Lu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 37:5** 
+**Psalms 37:5**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Commit thy way unto the LORD; trust also in him; and he shall bring [it] to pass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Commit your way to the LORD; trust in Him, and He will do it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.4|<< Psalms 37:4]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.6|Psalms 37:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | roll  |**<big>&#8207;[[H1556\|גּ֣וֹל]]&#8207; </big>**| Gol<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 19:47** 
 <small><sub>**LXX:**</sub></small>
 And went forth the border of \[the\] sons of Dan. And the sons of Dan went and waged war  \[against\] Leshem, and overtook it, and struck it by \[the\] mouth of \[the\] sword; and they inherited it, and they dwelt it, and they called the name Lesen, Dan, according to the name Dan  their father. 
-<small><sub>**KJV:**</sub></small>
-And the coast of the children of Dan went out [too little] for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father.
-<small><sub>**BSB:**</sub></small>
-(Later, when the territory of the Danites was lost to them, they went up and fought against Leshem, captured it, and put it to the sword. So they took possession of Leshem, settled there, and renamed it after their father Dan.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.46|<< Joshua 19:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.48|Joshua 19:48 >>]]</td></tr></table>
 
 | Translation | Greek |

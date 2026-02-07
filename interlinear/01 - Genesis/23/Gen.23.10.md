@@ -1,4 +1,4 @@
-**Genesis 23:10** 
+**Genesis 23:10**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, [even] of all that went in at the gate of his city, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Ephron was sitting among the sons of Heth. So in the presence of all the Hit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.9|<< Genesis 23:9]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.11|Genesis 23:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ephron  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6085G\|עֶפְר֥וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ef.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] sitting  |**<big>&#8207;[[H3427\|יֹשֵׁ֖ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

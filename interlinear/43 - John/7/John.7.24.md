@@ -1,12 +1,12 @@
-**John 7:24
-**<small><sub>**KJV:**</sub></small>
+**John 7:24**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Judge not according to the appearance, but judge righteous judgment.
 <small><sub>**BSB:**</sub></small>
 Stop judging by outward appearances, and start judging justly.”
 <small><sub>**Literal:**</sub></small>
 Not do judge according to appearance, but the righteous judgment do judge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.23|<< John 7:23]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.25|John 7:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do judge |**<big>[[G2919\|κρίνετε]]</big>**  |krinete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:22** 
 <small><sub>**LXX:**</sub></small>
 For thus says Adonai \[the\] <span class="smallcaps">lord</span>; And I will take, \[even\] I of the chosen of the cedar, from \[its\] top; and I will give of \[the\] head of her shoots; I will pluck off of her heart, and I will plant upon a high mountain. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; I will also take of the highest branch of the high cedar, and will set [it]; I will crop off from the top of his young twigs a tender one, and will plant [it] upon an high mountain and eminent:
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘I will take a shoot from the lofty top of the cedar, and I will set it out. I will pluck a tender sprig from its topmost shoots, and I will plant it on a high and lofty mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.21|<< Ezekiel 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.23|Ezekiel 17:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 37:1** 
+**Isaiah 37:1**<big><big>[[Isa.37.1 Isaiah’s Message of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when king Hezekiah heard [it], that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and en
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.22|<< Isaiah 36:22]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.2|Isaiah 37:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H8085G\|שְׁמֹ֙עַ֙]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 16:18** 
+**1 Kings 16:18**<big><big>[[1Kgs.16.15 Zimri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king’s house, and burnt the king’s house over him with fire, and died,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Zimri saw that the city was captured, he entered the citadel of the royal p
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.17|<< 1 Kings 16:17]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.19|1 Kings 16:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֞י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when saw  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7200G\|רְא֤וֹת]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abram ascended from out of Egypt, he, and  his wife, and all  of his, and Lot with him, into the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
-<small><sub>**BSB:**</sub></small>
-So Abram went up out of Egypt into the Negev—he and his wife and all his possessions—and Lot was with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.20|<< Genesis 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.2|Genesis 13:2 >>]]</td></tr></table>
 
 | Translation | Greek |

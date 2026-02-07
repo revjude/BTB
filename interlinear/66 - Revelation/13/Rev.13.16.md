@@ -1,12 +1,12 @@
-**Revelation 13:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:16**<big><big>[[Rev.13.16 The Mark of the Beast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
 <small><sub>**BSB:**</sub></small>
 And the second beast required all people, small and great, rich and poor, free and slave, to receive a mark on their right hand or on their forehead,
 <small><sub>**Literal:**</sub></small>
 And it causes all the small and the great and the rich and the poor and the free and the servants, that it may give to them a mark on the hand of them <the> right or on the forehead of them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.15|<< Revelation 13:15]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.17|Revelation 13:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it causes |**<big>[[G4160G\|ποιεῖ]]</big>**  |poiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

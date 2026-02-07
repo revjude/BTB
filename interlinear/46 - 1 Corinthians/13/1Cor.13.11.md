@@ -1,12 +1,12 @@
-**1 Corinthians 13:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 13:11**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things.
 <small><sub>**BSB:**</sub></small>
 When I was a child, I talked like a child, I thought like a child, I reasoned like a child. When I became a man, I set aside childish ways.
 <small><sub>**Literal:**</sub></small>
 When I was a child, I was speaking like a child, I was thinking like a child, I was reasoning like a child; when now I became a man, I have done away with the [things] of the child.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.10|<< 1 Corinthians 13:10]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.12|1 Corinthians 13:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I was |**<big>[[G1510\|ἤμην]]</big>**  |ēmēn <small><sup>[[V-IMI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

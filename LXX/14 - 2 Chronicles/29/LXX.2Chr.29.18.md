@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:18** 
 <small><sub>**LXX:**</sub></small>
 And they entered inside to Hezekiah the king. And they said, We purified all the \[things\] in the house of \[the\] <span class="smallcaps">lord</span>, and the altar of the whole burnt-offering, and  its utensils, and the table of the place setting, and all  its utensils. 
-<small><sub>**KJV:**</sub></small>
-Then they went in to Hezekiah the king, and said, We have cleansed all the house of the LORD, and the altar of burnt offering, with all the vessels thereof, and the shewbread table, with all the vessels thereof.
-<small><sub>**BSB:**</sub></small>
-Then they went in to King Hezekiah and reported, “We have cleansed the entire house of the LORD, the altar of burnt offering with all its utensils, and the table of the showbread with all its utensils.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.17|<< 2 Chronicles 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.19|2 Chronicles 29:19 >>]]</td></tr></table>
 
 | Translation | Greek |

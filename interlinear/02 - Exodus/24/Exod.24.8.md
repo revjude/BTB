@@ -1,4 +1,4 @@
-**Exodus 24:8** 
+**Exodus 24:8**<big><big>[[Exod.24.1 The Covenant Sealed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses took the blood, and sprinkled [it] on the people, and said, Behold the blood of the covenant, which the LORD hath made with you concerning all these words.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Moses took the blood, splattered it on the people, and said, “This is the b
 > $\quad$ referenced by: [[Heb.9.20|Heb 9:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁה֙]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

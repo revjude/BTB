@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Ruth said, Do not confront me  to leave you or to turn behind you! For you -- where ever you should go, I shall go; and where ever you should lodge, I shall lodge.  Your people \[shall be\] my people, and  your God my God. 
-<small><sub>**KJV:**</sub></small>
-And Ruth said, Intreat me not to leave thee, [or] to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people [shall be] my people, and thy God my God:
-<small><sub>**BSB:**</sub></small>
-But Ruth replied: “Do not urge me to leave you or to turn from following you. For wherever you go, I will go, and wherever you live, I will live; your people will be my people, and your God will be my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.15|<< Ruth 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.17|Ruth 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

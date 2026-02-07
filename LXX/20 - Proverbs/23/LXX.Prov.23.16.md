@@ -1,10 +1,7 @@
 **LXX Proverbs 23:16** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] words of your lips shall spend time with  my lips, if they should be straight. 
-<small><sub>**KJV:**</sub></small>
-Yea, my reins shall rejoice, when thy lips speak right things.
-<small><sub>**BSB:**</sub></small>
-My inmost being will rejoice when your lips speak what is right.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.15|<< Proverbs 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.17|Proverbs 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

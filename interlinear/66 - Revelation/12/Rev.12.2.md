@@ -1,5 +1,5 @@
-**Revelation 12:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:2**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she being with child cried, travailing in birth, and pained to be delivered.
 <small><sub>**BSB:**</sub></small>
 She was pregnant and crying out in the pain and agony of giving birth.
@@ -10,7 +10,7 @@ and in womb having, And she cries out being in travail and being in pain to brin
 > $\quad$ possibly alluding to: [[LXX.Isa.66.7|Isa 66:7]] ☩ [[LXX.Mic.4.9|Mic 4:9-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

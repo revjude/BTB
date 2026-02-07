@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:15** 
 <small><sub>**LXX:**</sub></small>
 But in all your desire you shall sacrifice and shall eat meats according to the blessing of \[the\] <span class="smallcaps">lord</span>  your God which he gave to you in every city -- the unclean among you, and the clean shall eat it the same, as a doe or stag. 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding thou mayest kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of the LORD thy God which he hath given thee: the unclean and the clean may eat thereof, as of the roebuck, and as of the hart.
-<small><sub>**BSB:**</sub></small>
-But whenever you want, you may slaughter and eat meat within any of your gates, according to the blessing the LORD your God has given you. Both the ceremonially clean and unclean may eat it as they would a gazelle or deer,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.14|<< Deuteronomy 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.16|Deuteronomy 12:16 >>]]</td></tr></table>
 
 | Translation | Greek |

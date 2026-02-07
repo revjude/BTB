@@ -1,5 +1,5 @@
-**Jude 1:11
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:11**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.
 <small><sub>**BSB:**</sub></small>
 Woe to them! They have traveled the path of Cain; they have rushed for profit into the error of Balaam; they have perished in Korah’s rebellion.
@@ -10,7 +10,7 @@ Woe to them, because in the way <the> of Cain they went and to the error <the> o
 > $\quad$ alluding to: [[LXX.Gen.4.8|Gen 4:8]] ☩ [[LXX.Num.22.7|Num 22:7]] ☩ [[LXX.Num.16.32|Num 16:32]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Woe |**<big>[[G3759\|οὐαὶ]]</big>**  |ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them, |**<big>[[G0846\|αὐτοῖς,]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

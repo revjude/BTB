@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:5** 
 <small><sub>**LXX:**</sub></small>
 And he incinerated the idolatrous priests, of whom the kings of Judah appointed  to burn incense in the high \[places\], and in the cities of Judah, and in the surroundings of Jerusalem, and the ones burning incense  to Baal, and to the sun, and to the moon, and to the Mazuroth, and to all the military of the heaven. 
-<small><sub>**KJV:**</sub></small>
-And he put down the idolatrous priests, whom the kings of Judah had ordained to burn incense in the high places in the cities of Judah, and in the places round about Jerusalem; them also that burned incense unto Baal, to the sun, and to the moon, and to the planets, and to all the host of heaven.
-<small><sub>**BSB:**</sub></small>
-Josiah also did away with the idolatrous priests ordained by the kings of Judah to burn incense on the high places of the cities of Judah and in the places all around Jerusalem—those who had burned incense to Baal, to the sun and moon, to the constellations, and to all the host of heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.4|<< 2 Kings 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.6|2 Kings 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

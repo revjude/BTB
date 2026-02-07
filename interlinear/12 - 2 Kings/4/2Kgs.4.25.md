@@ -1,4 +1,4 @@
-**2 Kings 4:25** 
+**2 Kings 4:25**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So she went and came unto the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, [yonder is] that Shunammite:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So she set out and went to the man of God at Mount Carmel. When the man of God s
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.24|<< 2 Kings 4:24]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.26|2 Kings 4:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|תֵּ֗לֶךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.lekh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּב֛וֹא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

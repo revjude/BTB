@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:13** 
 <small><sub>**LXX:**</sub></small>
 And upon mount Sinai you went down and spoke to them from out of heaven, and you gave to them right judgments, and laws of truth, orders, and good commandments. 
-<small><sub>**KJV:**</sub></small>
-Thou camest down also upon mount Sinai, and spakest with them from heaven, and gavest them right judgments, and true laws, good statutes and commandments:
-<small><sub>**BSB:**</sub></small>
-You came down on Mount Sinai and spoke with them from heaven. You gave them just ordinances, true laws, and good statutes and commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.12|<< Nehemiah 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.14|Nehemiah 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

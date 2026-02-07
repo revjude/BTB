@@ -1,10 +1,7 @@
 **LXX Hosea 2:15** 
 <small><sub>**LXX:**</sub></small>
 And I will give to her  her possessions from there, and the valley of Achor to open wide her understanding. And she shall be humbled there according to the days  of her infancy, and according to the days of her ascending from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-There I will give back her vineyards and make the Valley of Achor into a gateway of hope. There she will respond as she did in the days of her youth, as in the day she came up out of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.14|<< Hosea 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.16|Hosea 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

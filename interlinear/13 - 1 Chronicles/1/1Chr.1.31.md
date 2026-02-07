@@ -1,4 +1,4 @@
-**1 Chronicles 1:31** 
+**1 Chronicles 1:31**<big><big>[[1Chr.1.28 The Descendants of Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jetur, Naphish, and Kedemah. These are the sons of Ishmael.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jetur, Naphish, and Kedemah. These were the sons of Ishmael.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.30|<< 1 Chronicles 1:30]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.32|1 Chronicles 1:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jetur  |**<big>&#8207;[[H3195G\|יְט֥וּר]]&#8207; </big>**| ye.Tur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naphish  |**<big>&#8207;[[H5305\|נָפִ֖ישׁ]]&#8207; </big>**| na.Fish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

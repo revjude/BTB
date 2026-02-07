@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And a man, a man who ever should commit adultery \[with\] a man's wife, or who ever should commit adultery \[with\] a wife  of his neighbor, to death let them be put to death! the \[man\] committing adultery and the \[woman\] committing adultery. 
-<small><sub>**KJV:**</sub></small>
-And the man that committeth adultery with [another] man’s wife, [even he] that committeth adultery with his neighbour’s wife, the adulterer and the adulteress shall surely be put to death.
-<small><sub>**BSB:**</sub></small>
-If a man commits adultery with another man’s wife—with the wife of his neighbor—both the adulterer and the adulteress must surely be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.9|<< Leviticus 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.11|Leviticus 20:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 20:10** is...

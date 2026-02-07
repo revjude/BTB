@@ -1,4 +1,4 @@
-**Proverbs 29:14** 
+**Proverbs 29:14**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king that faithfully judgeth the poor, his throne shall be established for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A king who judges the poor with fairness—his throne will be established foreve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.13|<< Proverbs 29:13]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.15|Proverbs 29:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a king  |**<big>&#8207;[[H4428G\|מֶ֤לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] judges  |**<big>&#8207;[[H8199\|שׁוֹפֵ֣ט]]&#8207; </big>**| sho.Fet<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

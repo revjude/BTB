@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:29** 
 <small><sub>**LXX:**</sub></small>
 Shear  your head, and throw away! And take upon \[your\] lips wailing! for \[the\] <span class="smallcaps">lord</span> rejected and thrust away the generation  doing these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-Cut off thine hair, [O Jerusalem], and cast [it] away, and take up a lamentation on high places; for the LORD hath rejected and forsaken the generation of his wrath.
-<small><sub>**BSB:**</sub></small>
-Cut off your hair and throw it away. Raise up a lamentation on the barren heights, for the LORD has rejected and forsaken the generation of His wrath.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.28|<< Jeremiah 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.30|Jeremiah 7:30 >>]]</td></tr></table>
 
 | Translation | Greek |

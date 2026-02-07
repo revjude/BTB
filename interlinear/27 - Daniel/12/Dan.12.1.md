@@ -1,4 +1,4 @@
-**Daniel 12:1** 
+**Daniel 12:1**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation [even] to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And at that time shall Michael stand up, the great prince which standeth for the
 > $\quad$ referenced by: [[Rev.12.7|Rev 12:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at the time  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H6256\|עֵ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הִיא֩]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

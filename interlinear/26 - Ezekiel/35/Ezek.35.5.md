@@ -1,4 +1,4 @@
-**Ezekiel 35:5** 
+**Ezekiel 35:5**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou hast had a perpetual hatred, and hast shed [the blood of] the children of Israel by the force of the sword in the time of their calamity, in the time [that their] iniquity [had] an end:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because you harbored an ancient hatred and delivered the Israelites over to the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.4|<< Ezekiel 35:4]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.6|Ezekiel 35:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H3282\|יַ֗עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | belonged  |**<big>&#8207;[[H1961\|הֱי֤וֹת]]&#8207; </big>**| he.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

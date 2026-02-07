@@ -1,10 +1,7 @@
 **LXX Hosea 5:15** 
 <small><sub>**LXX:**</sub></small>
 I shall go and return unto  my place until of which \[time\] they should be removed from view; and they shall seek  my face. 
-<small><sub>**KJV:**</sub></small>
-I will go [and] return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.
-<small><sub>**BSB:**</sub></small>
-Then I will return to My place until they admit their guilt and seek My face; in their affliction they will earnestly seek Me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.14|<< Hosea 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.1|Hosea 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

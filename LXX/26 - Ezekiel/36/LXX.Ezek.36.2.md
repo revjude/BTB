@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:2** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Because the enemy said \[against\] you, Well done, for \[now\] \[the\] eternal desolate \[places\] became our possession. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; Because the enemy hath said against you, Aha, even the ancient high places are ours in possession:
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: Because the enemy has said of you, ‘Aha! The ancient heights have become our possession,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.1|<< Ezekiel 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.3|Ezekiel 36:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 15:4
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:4**<big><big>[[Mark.15.1 Jesus Delivered to Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee.
 <small><sub>**BSB:**</sub></small>
 Then Pilate questioned Him again, “Have You no answer? Look how many charges they are bringing against You!”
 <small><sub>**Literal:**</sub></small>
 <the> And Pilate again was questioning Him saying; Not answer You no [thing]? See how many things You they accuse!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.3|<< Mark 15:3]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.5|Mark 15:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

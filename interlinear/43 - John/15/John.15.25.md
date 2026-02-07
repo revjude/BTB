@@ -1,5 +1,5 @@
-**John 15:25
-**<small><sub>**KJV:**</sub></small>
+**John 15:25**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But [this cometh to pass], that the word might be fulfilled that is written in their law, They hated me without a cause.
 <small><sub>**BSB:**</sub></small>
 But this is to fulfill what is written in their Law: ‘They hated Me without reason.’
@@ -10,7 +10,7 @@ But [this is] that may be fulfilled the word <the> in the law of them written th
 > $\quad$ referencing: [[LXX.Ps.35.19|Ps 35:19]] ☩ [[LXX.Ps.69.4|Ps 69:4]] ☩ [[LXX.Ps.109.3|Ps 109:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But [this is] |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

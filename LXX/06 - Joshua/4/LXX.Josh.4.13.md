@@ -1,10 +1,7 @@
 **LXX Joshua 4:13** 
 <small><sub>**LXX:**</sub></small>
 Forty thousand well-equipped for battle passed over before \[the\] <span class="smallcaps">lord</span> for war against  Jericho \[the\] city. 
-<small><sub>**KJV:**</sub></small>
-About forty thousand prepared for war passed over before the LORD unto battle, to the plains of Jericho.
-<small><sub>**BSB:**</sub></small>
-About 40,000 troops armed for battle crossed over before the LORD into the plains of Jericho.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.12|<< Joshua 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.14|Joshua 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

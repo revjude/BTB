@@ -1,4 +1,4 @@
-**Hosea 6:4** 
+**Hosea 6:4**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness [is] as a morning cloud, and as the early dew it goeth away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What shall I do with you, O Ephraim? What shall I do with you, O Judah? For your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.3|<< Hosea 6:3]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.5|Hosea 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מָ֤ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I do  |**<big>&#8207;[[H6213A\|אֶֽעֱשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.'e.seh-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

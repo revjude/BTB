@@ -1,4 +1,4 @@
-**Psalms 17:7** 
+**Psalms 17:7**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust [in thee] from those that rise up [against them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Show the wonders of Your loving devotion, You who save by Your right hand those 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.6|<< Psalms 17:6]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.8|Psalms 17:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make wonderful  |**<big>&#8207;[[H6395\|הַפְלֵ֣ה]]&#8207; </big>**| haf.Leh<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant loyalti\<es> your  |**<big>&#8207;[[H2617A\|חֲ֭סָדֶי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Cha.sa.dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 19:3** 
+**Numbers 19:3**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and [one] shall slay her before his face:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Give it to Eleazar the priest, and he will have it brought outside the camp and 
 > $\quad$ referenced by: [[Heb.13.11|Heb 13:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will give  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414G\|נְתַתֶּ֣ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

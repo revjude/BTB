@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:10** 
 <small><sub>**LXX:**</sub></small>
 And Asa was enraged with the prophet, and he placed him in \[the\] house of \[the\] prison, for he was angry over this. And Asa laid waste among the people at  that time. 
-<small><sub>**KJV:**</sub></small>
-Then Asa was wroth with the seer, and put him in a prison house; for [he was] in a rage with him because of this [thing]. And Asa oppressed [some] of the people the same time.
-<small><sub>**BSB:**</sub></small>
-Asa was angry with the seer and became so enraged over this matter that he put the man in prison. And at the same time Asa oppressed some of the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.9|<< 2 Chronicles 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.11|2 Chronicles 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

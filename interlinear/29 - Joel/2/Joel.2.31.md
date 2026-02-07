@@ -1,4 +1,4 @@
-**Joel 2:31** (3:4)
+**Joel 2:31**<big><big>[[Joel.2.28 I Will Pour Out My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun shall be turned into darkness, and the moon into blood, before the great and the terrible day of the LORD come.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The sun will be turned to darkness and the moon to blood before the coming of th
 > $\quad$ referenced by: [[Acts.2.17|Acts 2:17-21]] ☩ [[Rom.10.13|Rom 10:13]] ☩ [[Rev.6.12|Rev 6:12-13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the sun  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8121\|שֶּׁ֙מֶשׁ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be changed  |**<big>&#8207;[[H2015\|יֵהָפֵ֣ךְ]]&#8207; </big>**| ye.ha.Fekh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

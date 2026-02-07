@@ -1,4 +1,4 @@
-**Genesis 50:17** 
+**Genesis 50:17**<big><big>[[Gen.50.15 Joseph Comforts His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy breth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.16|<< Genesis 50:16]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.18|Genesis 50:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹאמְר֣וּ]]&#8207; </big>**| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

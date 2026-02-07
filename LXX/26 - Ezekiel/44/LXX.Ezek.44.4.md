@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he brought me according to the way of the gate, of the one towards \[the\] north over against the house. And I beheld, and behold, the house of the <span class="smallcaps">lord</span> \[was\] full of glory, and I fell upon my face. 
-<small><sub>**KJV:**</sub></small>
-Then brought he me the way of the north gate before the house: and I looked, and, behold, the glory of the LORD filled the house of the LORD: and I fell upon my face.
-<small><sub>**BSB:**</sub></small>
-Then the man brought me to the front of the temple by way of the north gate. I looked and saw the glory of the LORD filling His temple, and I fell facedown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.3|<< Ezekiel 44:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.5|Ezekiel 44:5 >>]]</td></tr></table>
 
 | Translation | Greek |

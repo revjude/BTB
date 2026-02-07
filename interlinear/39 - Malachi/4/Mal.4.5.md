@@ -1,4 +1,4 @@
-**Malachi 4:5** (3:23)
+**Malachi 4:5**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold, I will send you Elijah the prophet before the coming of the great and aw
 > $\quad$ referenced by: [[Matt.11.14|Matt 11:14]] ☩ [[Matt.17.10|Matt 17:10]] ☩ [[Mark.9.11|Mark 9:11]] ☩ [[Luke.1.17|Luke 1:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָֽנֹכִי֙]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

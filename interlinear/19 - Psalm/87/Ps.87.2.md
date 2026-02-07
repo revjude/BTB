@@ -1,4 +1,4 @@
-**Psalms 87:2** 
+**Psalms 87:2**<big><big>[[Ps.87.1 The LORD Loves the Gates of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD loveth the gates of Zion more than all the dwellings of Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD loves the gates of Zion more than all the dwellings of Jacob.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.87.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.87.1|<< Psalms 87:1]]</td><td align="center" style="border:none;">[[Ps.87|Psalms 87]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.87.3|Psalms 87:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] loving  |**<big>&#8207;[[H0157G\|אֹהֵ֣ב]]&#8207; </big>**| 'o.Hev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

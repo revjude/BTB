@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Absalom said to Ahithophel, Give counsel for yourselves what we should do. 
-<small><sub>**KJV:**</sub></small>
-Then said Absalom to Ahithophel, Give counsel among you what we shall do.
-<small><sub>**BSB:**</sub></small>
-Then Absalom said to Ahithophel, “Give me counsel. What should we do?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.19|<< 2 Samuel 16:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.21|2 Samuel 16:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 13:19** 
+**Numbers 13:19**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what the land [is] that they dwell in, whether it [be] good or bad; and what cities [they be] that they dwell in, whether in tents, or in strong holds;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is the land where they live good or bad? Are the cities where they dwell open ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.18|<< Numbers 13:18]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.20|Numbers 13:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֗רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

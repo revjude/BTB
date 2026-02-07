@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:26** 
 <small><sub>**LXX:**</sub></small>
 And after  his being cleansed, he shall count out to himself seven days. 
-<small><sub>**KJV:**</sub></small>
-And after he is cleansed, they shall reckon unto him seven days.
-<small><sub>**BSB:**</sub></small>
-and after he is cleansed, he must count off seven days for himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.25|<< Ezekiel 44:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.27|Ezekiel 44:27 >>]]</td></tr></table>
 
 | Translation | Greek |

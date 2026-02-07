@@ -1,12 +1,12 @@
-**Galatians 3:28
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:28**<big><big>[[Gal.3.26 Sons through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 Neither there is Jew nor Greek, neither there is slave nor free, neither there is male and female; all for you yourselves one are in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.27|<< Galatians 3:27]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.29|Galatians 3:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there is |**<big>[[G1762\|ἔνι]]</big>**  |eni <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

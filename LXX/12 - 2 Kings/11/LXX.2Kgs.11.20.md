@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:20** 
 <small><sub>**LXX:**</sub></small>
 And all the people of the land rejoiced, and the city was still. And  Athaliah they put to death by \[the\] broadsword in \[the\] house of the king. 
-<small><sub>**KJV:**</sub></small>
-And all the people of the land rejoiced, and the city was in quiet: and they slew Athaliah with the sword [beside] the king’s house.
-<small><sub>**BSB:**</sub></small>
-and all the people of the land rejoiced. And the city was quiet, because Athaliah had been put to the sword at the royal palace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.19|<< 2 Kings 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.21|2 Kings 11:21 >>]]</td></tr></table>
 
 | Translation | Greek |

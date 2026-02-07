@@ -1,4 +1,4 @@
-**1 Chronicles 27:2** 
+**1 Chronicles 27:2**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Over the first course for the first month [was] Jashobeam the son of Zabdiel: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jashobeam son of Zabdiel was in charge of the first division, which was assigned
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.1|<< 1 Chronicles 27:1]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.3|1 Chronicles 27:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] over  |**<big>&#8207;[[H5921A\|עַ֞ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the division  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4256\|מַּחֲלֹ֤קֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.cha.Lo.ket<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

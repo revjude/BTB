@@ -1,4 +1,4 @@
-**Genesis 27:42** 
+**Genesis 27:42**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, [purposing] to kill thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the words of her older son Esau were relayed to Rebekah, she sent for her y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.41|<< Genesis 27:41]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.43|Genesis 27:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יֻּגַּ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yu.Gad<small><sup>[[HVHw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Rebekah  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7259\|רִבְקָ֔ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> riv.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

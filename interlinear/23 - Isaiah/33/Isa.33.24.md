@@ -1,4 +1,4 @@
-**Isaiah 33:24** 
+**Isaiah 33:24**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the inhabitant shall not say, I am sick: the people that dwell therein [shall be] forgiven [their] iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And no resident of Zion will say, “I am sick.” The people who dwell there wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.23|<< Isaiah 33:23]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.1|Isaiah 34:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1077\|בַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> val-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will say  |**<big>&#8207;[[H0559\|יֹאמַ֥ר]]&#8207; </big>**| yo.Mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And a son of an Israelitish woman went forth, and he was a son of an Egyptian \[man\] among the sons of Israel. And they did combat in the camp -- the one of the Israelitish \[woman\] and the Israelite man. 
-<small><sub>**KJV:**</sub></small>
-And the son of an Israelitish woman, whose father [was] an Egyptian, went out among the children of Israel: and this son of the Israelitish [woman] and a man of Israel strove together in the camp;
-<small><sub>**BSB:**</sub></small>
-Now the son of an Israelite mother and an Egyptian father went out among the Israelites, and a fight broke out in the camp between him and an Israelite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.9|<< Leviticus 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.11|Leviticus 24:11 >>]]</td></tr></table>
 
 | Translation | Greek |

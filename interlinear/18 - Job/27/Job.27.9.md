@@ -1,4 +1,4 @@
-**Job 27:9** 
+**Job 27:9**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will God hear his cry when trouble cometh upon him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will God hear his cry when distress comes upon him?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.8|<< Job 27:8]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.10|Job 27:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ cry his  |**<big>&#8207;[[H9008\|הַֽ֭]]&#8207;&#8207;[[H6818\|צַעֲקָת]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> tza.'a.ka.t<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he hear  |**<big>&#8207;[[H8085G\|יִשְׁמַ֥ע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yish.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

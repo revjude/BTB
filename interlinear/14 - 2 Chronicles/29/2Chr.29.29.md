@@ -1,4 +1,4 @@
-**2 Chronicles 29:29** 
+**2 Chronicles 29:29**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshipped.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the offerings were completed, the king and all those present with him bowed
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.28|<< 2 Chronicles 29:28]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.30|2 Chronicles 29:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as finished  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H3615G\|כַלּ֖וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> kha.Lot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to offer up  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5927I\|הַעֲל֑וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.'a.Lot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

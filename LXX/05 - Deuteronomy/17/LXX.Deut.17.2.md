@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:2** 
 <small><sub>**LXX:**</sub></small>
 But if there should be among you, in one  of your cities which \[the\] <span class="smallcaps">lord</span>  your God gives to you, a man or woman who shall do the wicked \[thing\] before \[the\] <span class="smallcaps">lord</span>  your God, to pass by  his covenant, 
-<small><sub>**KJV:**</sub></small>
-If there be found among you, within any of thy gates which the LORD thy God giveth thee, man or woman, that hath wrought wickedness in the sight of the LORD thy God, in transgressing his covenant,
-<small><sub>**BSB:**</sub></small>
-If a man or woman among you in one of the towns that the LORD your God gives you is found doing evil in the sight of the LORD your God by transgressing His covenant<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.1|<< Deuteronomy 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.3|Deuteronomy 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

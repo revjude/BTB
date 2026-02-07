@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:21** 
 <small><sub>**LXX:**</sub></small>
 And he struck the Egyptian man, a remarkable man; and in the hand of the Egyptian \[was\] a spear. And he went down to him with a rod, and seized by force the wooden spear from out of the hand of the Egyptian, and killed him with  his spear. 
-<small><sub>**KJV:**</sub></small>
-And he slew an Egyptian, a goodly man: and the Egyptian had a spear in his hand; but he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.
-<small><sub>**BSB:**</sub></small>
-He also struck down an Egyptian, a huge man. Although the Egyptian had a spear in his hand, Benaiah went against him with a club, snatched the spear from his hand, and killed the Egyptian with his own spear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.20|<< 2 Samuel 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.22|2 Samuel 23:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 16:46** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to Aaron, Take the censer, and place upon it fire from the altar, and put upon it incense, and carry it  quickly into the congregation, and make atonement for them! For anger came forth from \[the\] face of \[the\] <span class="smallcaps">lord</span>; it has begun to devastate the people. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto Aaron, Take a censer, and put fire therein from off the altar, and put on incense, and go quickly unto the congregation, and make an atonement for them: for there is wrath gone out from the LORD; the plague is begun.
-<small><sub>**BSB:**</sub></small>
-Moses said to Aaron, “Take your censer, place fire from the altar in it, and add incense. Go quickly to the congregation and make atonement for them, because wrath has come out from the LORD; the plague has begun.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.45|<< Numbers 16:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.47|Numbers 16:47 >>]]</td></tr></table>
 
 | Translation | Greek |

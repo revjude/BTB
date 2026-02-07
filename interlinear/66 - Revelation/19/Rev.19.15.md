@@ -1,5 +1,5 @@
-**Revelation 19:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:15**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
 <small><sub>**BSB:**</sub></small>
 And from His mouth proceeds a sharp sword with which to strike down the nations, and He will rule them with an iron scepter. He treads the winepress of the fury of the wrath of God the Almighty.
@@ -10,7 +10,7 @@ And out of the mouth of Him goes forth a sword two-edged sharp, so that with it 
 > $\quad$ alluding to: [[LXX.Ps.2.9|Ps 2:9]] ☩ [[LXX.Isa.63.3|Isa 63:3]] ☩ [[LXX.Lam.1.15|Lam 1:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

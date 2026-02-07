@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:13** 
 <small><sub>**LXX:**</sub></small>
 on account of all the sins of Baasha, and his son Elah, as he led Israel into sin,  provoking to anger \[the\] <span class="smallcaps">lord</span>  God of Israel in  their vanities. 
-<small><sub>**KJV:**</sub></small>
-For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities.
-<small><sub>**BSB:**</sub></small>
-This happened because of all the sins Baasha and his son Elah had committed and had caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.12|<< 1 Kings 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.14|1 Kings 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

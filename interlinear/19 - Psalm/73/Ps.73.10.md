@@ -1,4 +1,4 @@
-**Psalms 73:10** 
+**Psalms 73:10**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore his people return hither: and waters of a full [cup] are wrung out to them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So their people return to this place and drink up waters in abundance.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.9|<< Psalms 73:9]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.11|Psalms 73:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it turns back  [^1]|**<big>&#8207;[[H7725G\|יָשׁ֣וּב]]&#8207; </big>**[^2] | ya.Shuv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

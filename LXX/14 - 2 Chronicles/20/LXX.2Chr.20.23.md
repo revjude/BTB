@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there rose up the sons of Ammon and Moab against the ones dwelling in mount Seir, to utterly destroy and to obliterate them. And as they finished off the ones dwelling in Seir, they rose up against one another, and a man took  his neighbor for hurt. 
-<small><sub>**KJV:**</sub></small>
-For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy [them]: and when they had made an end of the inhabitants of Seir, every one helped to destroy another.
-<small><sub>**BSB:**</sub></small>
-The Ammonites and Moabites rose up against the inhabitants of Mount Seir, devoting them to destruction. And when they had finished off the inhabitants of Seir, they helped to destroy one another.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.22|<< 2 Chronicles 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.24|2 Chronicles 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

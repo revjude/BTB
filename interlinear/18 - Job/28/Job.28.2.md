@@ -1,4 +1,4 @@
-**Job 28:2** 
+**Job 28:2**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Iron is taken out of the earth, and brass [is] molten [out of] the stone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Iron is taken from the earth, and copper is smelted from ore.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.1|<< Job 28:1]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.3|Job 28:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | iron  |**<big>&#8207;[[H1270\|בַּ֭רְזֶל]]&#8207; </big>**| Bar.zel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] dust  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6083\|עָפָ֣ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 19:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:11**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he said unto them, All [men] cannot receive this saying, save [they] to whom it is given.
 <small><sub>**BSB:**</sub></small>
 “Not everyone can accept this word,” He replied, “but only those to whom it has been given.
 <small><sub>**Literal:**</sub></small>
 <the> And He said to them; Not all receive <the> word this but only [those] to whom it has been given.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.10|<< Matthew 19:10]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.12|Matthew 19:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

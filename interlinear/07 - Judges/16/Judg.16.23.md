@@ -1,4 +1,4 @@
-**Judges 16:23** 
+**Judges 16:23**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the lords of the Philistines gathered them together for to offer a great sacrifice unto Dagon their god, and to rejoice: for they said, Our god hath delivered Samson our enemy into our hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the lords of the Philistines gathered together to offer a great sacrifice to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.22|<< Judges 16:22]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.24|Judges 16:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] rulers of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5633A\|סַרְנֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sar.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּ֗ים]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

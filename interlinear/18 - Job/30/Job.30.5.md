@@ -1,4 +1,4 @@
-**Job 30:5** 
+**Job 30:5**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They were driven forth from among [men], (they cried after them as [after] a thief;)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They were banished from among men, shouted at like thieves,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.4|<< Job 30:4]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.6|Job 30:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] community  |**<big>&#8207;[[H1460B\|גֵּ֥ו]]&#8207; </big>**| gev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

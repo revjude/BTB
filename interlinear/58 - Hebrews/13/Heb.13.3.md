@@ -1,12 +1,12 @@
-**Hebrews 13:3
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:3**<big><big>[[Heb.13.1 Brotherly Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Remember them that are in bonds, as bound with them; [and] them which suffer adversity, as being yourselves also in the body.
 <small><sub>**BSB:**</sub></small>
 Remember those in prison as if you were bound with them, and those who are mistreated as if you were suffering with them.
 <small><sub>**Literal:**</sub></small>
 do remember <the> prisoners as bound with [them], [and] those being mistreated as also yourselves being in [the] body.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.2|<< Hebrews 13:2]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.4|Hebrews 13:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do remember |**<big>[[G3403\|μιμνῄσκεσθε]]</big>**  |mimnēskesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

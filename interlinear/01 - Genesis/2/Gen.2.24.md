@@ -1,4 +1,4 @@
-**Genesis 2:24** 
+**Genesis 2:24**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For this reason a man will leave his father and mother and be united to his wife
 > $\quad$ referenced by: [[Matt.19.5|Matt 19:5]] ☩ [[Mark.10.7|Mark 10:7-8]] ☩ [[1Cor.6.16|1Cor 6:16]] ☩ [[1Cor.6.17|1Cor 6:17]] ☩ [[Eph.5.31|Eph 5:31]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּן֙]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

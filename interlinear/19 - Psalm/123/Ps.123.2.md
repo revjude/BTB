@@ -1,4 +1,4 @@
-**Psalms 123:2** 
+**Psalms 123:2**<big><big>[[Ps.123.1 I Lift Up My Eyes to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, as the eyes of servants [look] unto the hand of their masters, [and] as the eyes of a maiden unto the hand of her mistress; so our eyes [wait] upon the LORD our God, until that he have mercy upon us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the eyes of servants look to the hand of their master, as the eyes of a maids
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.123.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.123.1|<< Psalms 123:1]]</td><td align="center" style="border:none;">[[Ps.123|Psalms 123]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.123.3|Psalms 123:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] eyes of  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H5869A\|עֵינֵ֪י]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

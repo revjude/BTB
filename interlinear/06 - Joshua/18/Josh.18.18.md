@@ -1,4 +1,4 @@
-**Joshua 18:18** 
+**Joshua 18:18**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And passed along toward the side over against Arabah northward, and went down unto Arabah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then it went on to the northern slope of Beth-arabah and went down into the vall
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.17|<< Joshua 18:17]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.19|Joshua 18:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it passes on  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5674A\|עָבַ֛ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Var<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

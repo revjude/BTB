@@ -1,10 +1,7 @@
 **LXX Isaiah 32:19** 
 <small><sub>**LXX:**</sub></small>
  And if hail should come down, come not upon you. And the ones dwelling in the forests will be yielding as the ones in the plain. 
-<small><sub>**KJV:**</sub></small>
-When it shall hail, coming down on the forest; and the city shall be low in a low place.
-<small><sub>**BSB:**</sub></small>
-But hail will level the forest, and the city will sink to the depths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.18|<< Isaiah 32:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.20|Isaiah 32:20 >>]]</td></tr></table>
 
 | Translation | Greek |

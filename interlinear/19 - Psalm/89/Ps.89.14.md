@@ -1,4 +1,4 @@
-**Psalms 89:14** (89:15)
+**Psalms 89:14**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Justice and judgment [are] the habitation of thy throne: mercy and truth shall go before thy face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Righteousness and justice are the foundation of Your throne; loving devotion and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.13|<< Psalms 89:13]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.15|Psalms 89:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] righteousness  |**<big>&#8207;[[H6664G\|צֶ֣דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and justice  |**<big>&#8207;[[H9002\|וּ֭]]&#8207;&#8207;[[H4941H\|מִשְׁפָּט]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> mish.pot<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

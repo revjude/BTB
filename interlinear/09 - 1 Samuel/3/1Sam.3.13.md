@@ -1,4 +1,4 @@
-**1 Samuel 3:13** 
+**1 Samuel 3:13**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have told him that I will judge his house for ever for the iniquity which he knoweth; because his sons made themselves vile, and he restrained them not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I told him that I would judge his house forever for the iniquity of which he kno
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.12|<< 1 Samuel 3:12]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.14|1 Samuel 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I tell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5046\|הִגַּ֣דְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Gad.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

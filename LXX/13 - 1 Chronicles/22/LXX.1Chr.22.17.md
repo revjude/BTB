@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:17** 
 <small><sub>**LXX:**</sub></small>
 And David gave charge to all the rulers of Israel to assist  Solomon his son, saying, 
-<small><sub>**KJV:**</sub></small>
-David also commanded all the princes of Israel to help Solomon his son, [saying],
-<small><sub>**BSB:**</sub></small>
-Then David ordered all the leaders of Israel to help his son Solomon:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.16|<< 1 Chronicles 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.18|1 Chronicles 22:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 7:51** 
+**1 Kings 7:51**<big><big>[[1Kgs.7.48 Completion of the Gold Furnishings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So was ended all the work that king Solomon made for the house of the LORD. And Solomon brought in the things which David his father had dedicated; [even] the silver, and the gold, and the vessels, did he put among the treasures of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So all the work that King Solomon had performed for the house of the LORD was co
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.50|<< 1 Kings 7:50]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.1|1 Kings 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was complete  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7999A\|תִּשְׁלַם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Lam<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

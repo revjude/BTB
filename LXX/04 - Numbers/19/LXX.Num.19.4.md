@@ -1,10 +1,7 @@
 **LXX Numbers 19:4** 
 <small><sub>**LXX:**</sub></small>
 And Eleazar shall take of  her blood, and he shall sprinkle \[it\] before the front of the tent of the testimony of  her blood seven times. 
-<small><sub>**KJV:**</sub></small>
-And Eleazar the priest shall take of her blood with his finger, and sprinkle of her blood directly before the tabernacle of the congregation seven times:
-<small><sub>**BSB:**</sub></small>
-Eleazar the priest is to take some of its blood on his finger and sprinkle it seven times toward the front of the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.3|<< Numbers 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.5|Numbers 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

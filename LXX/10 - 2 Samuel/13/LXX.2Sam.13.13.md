@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:13** 
 <small><sub>**LXX:**</sub></small>
 And I, where shall I carry away  my scorn? And you will be as one of the fools in Israel. And now, speak indeed to the king! for in no way will he restrain me from you. 
-<small><sub>**KJV:**</sub></small>
-And I, whither shall I cause my shame to go? and as for thee, thou shalt be as one of the fools in Israel. Now therefore, I pray thee, speak unto the king; for he will not withhold me from thee.
-<small><sub>**BSB:**</sub></small>
-Where could I ever take my shame? And you would be like one of the fools in Israel! Please speak to the king, for he will not withhold me from you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.12|<< 2 Samuel 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.14|2 Samuel 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

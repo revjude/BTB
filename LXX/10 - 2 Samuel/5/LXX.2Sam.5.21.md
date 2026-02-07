@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:21** 
 <small><sub>**LXX:**</sub></small>
 And they left behind there  their gods, and David took them and the men  with him. 
-<small><sub>**KJV:**</sub></small>
-And there they left their images, and David and his men burned them.
-<small><sub>**BSB:**</sub></small>
-There the Philistines abandoned their idols, and David and his men carried them away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.20|<< 2 Samuel 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.22|2 Samuel 5:22 >>]]</td></tr></table>
 
 | Translation | Greek |

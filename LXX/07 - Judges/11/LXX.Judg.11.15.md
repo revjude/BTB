@@ -1,10 +1,7 @@
 **LXX Judges 11:15** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Thus says Jephthah, Israel did not take the land of Moab, and the land of \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:
-<small><sub>**BSB:**</sub></small>
-to tell him, “This is what Jephthah says: Israel did not take away the land of Moab or of the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.14|<< Judges 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.16|Judges 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

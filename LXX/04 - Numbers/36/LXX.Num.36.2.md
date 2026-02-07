@@ -1,10 +1,7 @@
 **LXX Numbers 36:2** 
 <small><sub>**LXX:**</sub></small>
 And they said, \[The\] <span class="smallcaps">lord</span> gave charge \[to\] our master to give the land  of inheritance by lot to the sons of Israel; and \[the\] <span class="smallcaps">lord</span> gave orders to the master to give the inheritance of Zelophehad  our brother \[to\] his daughters. 
-<small><sub>**KJV:**</sub></small>
-And they said, The LORD commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the LORD to give the inheritance of Zelophehad our brother unto his daughters.
-<small><sub>**BSB:**</sub></small>
-saying, “When the LORD commanded my lord to give the land as an inheritance to the Israelites by lot, He also commanded him to give the inheritance of our brother Zelophehad to his daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.1|<< Numbers 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.3|Numbers 36:3 >>]]</td></tr></table>
 
 | Translation | Greek |

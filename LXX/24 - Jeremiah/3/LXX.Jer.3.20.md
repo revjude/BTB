@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:20** 
 <small><sub>**LXX:**</sub></small>
 Only as a wife annuls against the one being with her, so the house of Israel annulled against me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Surely [as] a wife treacherously departeth from her husband, so have ye dealt treacherously with me, O house of Israel, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-But as a woman may betray her husband, so you have betrayed Me, O house of Israel,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.19|<< Jeremiah 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.21|Jeremiah 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 27:3** 
+**Ezekiel 27:3**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say unto Tyrus, O thou that art situate at the entry of the sea, [which art] a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, thou hast said, I [am] of perfect beauty.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Tell Tyre, who dwells at the gateway to the sea, merchant of the peoples on many
 > $\quad$ referenced by: [[Rev.18.11|Rev 18:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Tyre  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6865\|צ֗וֹר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Tzor<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

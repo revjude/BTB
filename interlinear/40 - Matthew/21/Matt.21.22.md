@@ -1,12 +1,12 @@
-**Matthew 21:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:22**<big><big>[[Matt.21.18 The Barren Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.
 <small><sub>**BSB:**</sub></small>
 If you believe, you will receive whatever you ask for in prayer.”
 <small><sub>**Literal:**</sub></small>
 And all things as much as maybe you shall ask in <the> prayer believing, you will receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.21|<< Matthew 21:21]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.23|Matthew 21:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all things |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

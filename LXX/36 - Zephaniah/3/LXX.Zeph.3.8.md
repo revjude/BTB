@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:8** 
 <small><sub>**LXX:**</sub></small>
 On account of this wait for me, says \[the\] <span class="smallcaps">lord</span>, for \[the\] day of my rising up, for a testimony! For  my judgment shall be for a gathering of nations,  to take kings,  to pour out upon them  all of my anger, \[the\] anger of my rage. For all the earth shall be consumed by \[the\] fire of my zeal. 
-<small><sub>**KJV:**</sub></small>
-Therefore wait ye upon me, saith the LORD, until the day that I rise up to the prey: for my determination [is] to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, [even] all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.
-<small><sub>**BSB:**</sub></small>
-Therefore wait for Me,” declares the LORD, “until the day I rise to testify. For My decision is to gather nations, to assemble kingdoms, to pour out upon them My indignation—all My burning anger. For all the earth will be consumed by the fire of My jealousy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.7|<< Zephaniah 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.9|Zephaniah 3:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zephaniah 3:8** is...

@@ -1,10 +1,7 @@
 **LXX Numbers 31:53** 
 <small><sub>**LXX:**</sub></small>
 And the warrior men despoiled each unto himself. 
-<small><sub>**KJV:**</sub></small>
-([For] the men of war had taken spoil, every man for himself.)
-<small><sub>**BSB:**</sub></small>
-Each of the soldiers had taken plunder for himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.52|<< Numbers 31:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.54|Numbers 31:54 >>]]</td></tr></table>
 
 | Translation | Greek |

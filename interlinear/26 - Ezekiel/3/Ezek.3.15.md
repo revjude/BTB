@@ -1,4 +1,4 @@
-**Ezekiel 3:15** 
+**Ezekiel 3:15**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I came to the exiles at Tel-abib who dwelt by the River Kebar. And for seven day
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.14|<< Ezekiel 3:14]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.16|Ezekiel 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I came  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0935G\|אָב֨וֹא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Vo'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

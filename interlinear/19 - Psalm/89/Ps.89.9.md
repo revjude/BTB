@@ -1,4 +1,4 @@
-**Psalms 89:9** (89:10)
+**Psalms 89:9**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You rule the raging sea; when its waves mount up, You still them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.8|<< Psalms 89:8]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.10|Psalms 89:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] ruling  |**<big>&#8207;[[H4910\|מ֭וֹשֵׁל]]&#8207; </big>**| Mo.o.shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

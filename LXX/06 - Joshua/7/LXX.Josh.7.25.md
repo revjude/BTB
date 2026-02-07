@@ -1,10 +1,7 @@
 **LXX Joshua 7:25** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said, Why did you annihilate us \[for the\] <span class="smallcaps">lord</span> to utterly destroy you even  today? And all Israel stoned him \[with\] stones, and they burned them in fire, and they stoned them with stones. 
-<small><sub>**KJV:**</sub></small>
-And Joshua said, Why hast thou troubled us? the LORD shall trouble thee this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones.
-<small><sub>**BSB:**</sub></small>
-“Why have you brought this trouble upon us?” said Joshua. “Today the LORD will bring trouble upon you!” And all Israel stoned him to death. Then they stoned the others and burned their bodies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.24|<< Joshua 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.26|Joshua 7:26 >>]]</td></tr></table>
 
 | Translation | Greek |

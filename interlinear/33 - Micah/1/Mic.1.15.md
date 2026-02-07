@@ -1,4 +1,4 @@
-**Micah 1:15** 
+**Micah 1:15**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet will I bring an heir unto thee, O inhabitant of Mareshah: he shall come unto Adullam the glory of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will again bring a conqueror against you, O dweller of Mareshah. The glory of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.14|<< Micah 1:14]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.16|Micah 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | again  |**<big>&#8207;[[H5750\|עֹ֗ד]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] dispossesses  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3423H\|יֹּרֵשׁ֙]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Resh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

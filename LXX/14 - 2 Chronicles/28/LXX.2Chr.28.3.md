@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:3** 
 <small><sub>**LXX:**</sub></small>
 And he sacrificed in \[the\] ravine \[of the\] Son of Hinnom, and led through  his children in fire, according to the abominations of the nations which \[the\] <span class="smallcaps">lord</span> removed from \[the\] face of \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the LORD had cast out before the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Moreover, Ahaz burned incense in the Valley of Ben-hinnom and sacrificed his sons in the fire, according to the abominations of the nations that the LORD had driven out before the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.2|<< 2 Chronicles 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.4|2 Chronicles 28:4 >>]]</td></tr></table>
 
 | Translation | Greek |

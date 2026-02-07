@@ -1,4 +1,4 @@
-**1 Samuel 17:2** 
+**1 Samuel 17:2**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battle in array against the Philistines.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Saul and the men of Israel assembled and camped in the Valley of Elah, arraying 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.1|<< 1 Samuel 17:1]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.3|1 Samuel 17:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Saul  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7586G\|שָׁא֤וּל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] man of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ish-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

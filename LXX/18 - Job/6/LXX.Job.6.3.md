@@ -1,10 +1,7 @@
 **LXX Job 6:3** 
 <small><sub>**LXX:**</sub></small>
 For indeed of \[the\] sand of \[the\] coast it will be heavier; upon this  my sayings were trampled. 
-<small><sub>**KJV:**</sub></small>
-For now it would be heavier than the sand of the sea: therefore my words are swallowed up.
-<small><sub>**BSB:**</sub></small>
-For then it would outweigh the sand of the seas—no wonder my words have been rash.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.2|<< Job 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.4|Job 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

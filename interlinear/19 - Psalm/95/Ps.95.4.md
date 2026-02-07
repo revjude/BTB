@@ -1,4 +1,4 @@
-**Psalms 95:4** 
+**Psalms 95:4**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his hand [are] the deep places of the earth: the strength of the hills [is] his also.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In His hand are the depths of the earth, and the mountain peaks belong to Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.3|<< Psalms 95:3]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.5|Psalms 95:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] in hand his  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H3027G\|יָד]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.d<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

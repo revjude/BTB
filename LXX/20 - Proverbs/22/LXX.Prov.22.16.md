@@ -1,10 +1,7 @@
 **LXX Proverbs 22:16** 
 <small><sub>**LXX:**</sub></small>
 The one extorting \[the\] needy produces many evils for himself; and he gives to \[the\] rich \[to make it\] less. 
-<small><sub>**KJV:**</sub></small>
-He that oppresseth the poor to increase his [riches, and] he that giveth to the rich, [shall] surely [come] to want.
-<small><sub>**BSB:**</sub></small>
-Oppressing the poor to enrich oneself or giving gifts to the rich will surely lead to poverty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.15|<< Proverbs 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.17|Proverbs 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

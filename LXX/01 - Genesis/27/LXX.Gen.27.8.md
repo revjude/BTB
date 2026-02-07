@@ -1,10 +1,7 @@
 **LXX Genesis 27:8** 
 <small><sub>**LXX:**</sub></small>
 Now then, O my son, hear me as I give charge to you! 
-<small><sub>**KJV:**</sub></small>
-Now therefore, my son, obey my voice according to that which I command thee.
-<small><sub>**BSB:**</sub></small>
-Now, my son, listen to my voice and do exactly as I tell you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.7|<< Genesis 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.9|Genesis 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

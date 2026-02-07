@@ -1,10 +1,7 @@
 **LXX Isaiah 43:25** 
 <small><sub>**LXX:**</sub></small>
 I am, I am he, the one wiping away  your lawless deeds because of me, and  your sins in no way shall I remember. 
-<small><sub>**KJV:**</sub></small>
-I, [even] I, [am] he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.
-<small><sub>**BSB:**</sub></small>
-I, yes I, am He who blots out your transgressions for My own sake and remembers your sins no more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.24|<< Isaiah 43:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.26|Isaiah 43:26 >>]]</td></tr></table>
 
 | Translation | Greek |

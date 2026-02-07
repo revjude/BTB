@@ -1,4 +1,4 @@
-**Leviticus 3:7** 
+**Leviticus 3:7**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he offer a lamb for his offering, then shall he offer it before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If he is presenting a lamb for his offering, he must present it before the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.6|<< Leviticus 3:6]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.8|Leviticus 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a young ram  |**<big>&#8207;[[H3775\|כֶּ֥שֶׂב]]&#8207; </big>**| Ke.sev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

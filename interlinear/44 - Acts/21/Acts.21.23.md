@@ -1,12 +1,12 @@
-**Acts 21:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:23**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do therefore this that we say to thee: We have four men which have a vow on them;
 <small><sub>**BSB:**</sub></small>
 Therefore do what we advise you. There are four men with us who have taken a vow.
 <small><sub>**Literal:**</sub></small>
 This therefore do you what to you we say; There are with us men four a vow having on themselves;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.22|<< Acts 21:22]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.24|Acts 21:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

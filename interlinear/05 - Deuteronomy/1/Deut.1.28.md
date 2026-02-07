@@ -1,4 +1,4 @@
-**Deuteronomy 1:28** 
+**Deuteronomy 1:28**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whither shall we go up? our brethren have discouraged our heart, saying, The people [is] greater and taller than we; the cities [are] great and walled up to heaven; and moreover we have seen the sons of the Anakims there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where can we go? Our brothers have made our hearts melt, saying: ‘The people a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.27|<< Deuteronomy 1:27]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.29|Deuteronomy 1:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0575\|אָנָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] we  |**<big>&#8207;[[H0587\|אֲנַ֣חְנוּ]]&#8207; </big>**| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

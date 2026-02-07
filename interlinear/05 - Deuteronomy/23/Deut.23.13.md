@@ -1,4 +1,4 @@
-**Deuteronomy 23:13** (23:14)
+**Deuteronomy 23:13**<big><big>[[Deut.23.9 Uncleanness in the Camp|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself abroad, thou shalt dig therewith, and shalt turn back and cover that which cometh from thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you must have a digging tool in your equipment so that when you relieve your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.12|<< Deuteronomy 23:12]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.14|Deuteronomy 23:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a spade  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3489\|יָתֵ֛ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Ted<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|תִּהְיֶ֥ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

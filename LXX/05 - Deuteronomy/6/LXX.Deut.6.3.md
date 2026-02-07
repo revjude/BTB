@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:3** 
 <small><sub>**LXX:**</sub></small>
 And hear, O Israel, and guard to do! so that good might be to you, and that you should multiply exceedingly, just as \[the\] <span class="smallcaps">lord</span> God of your fathers spoke to give to you a land flowing milk and honey. And these are the ordinances, and the judgments, as many as \[the\] <span class="smallcaps">lord</span> gave charge to the sons of Israel in the wilderness, in their coming forth from \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Hear therefore, O Israel, and observe to do [it]; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey.
-<small><sub>**BSB:**</sub></small>
-Hear, O Israel, and be careful to observe them, so that you may prosper and multiply greatly in a land flowing with milk and honey, just as the LORD, the God of your fathers, has promised you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.2|<< Deuteronomy 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.4|Deuteronomy 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

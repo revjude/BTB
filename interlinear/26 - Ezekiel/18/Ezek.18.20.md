@@ -1,4 +1,4 @@
-**Ezekiel 18:20** 
+**Ezekiel 18:20**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The soul who sins is the one who will die. A son will not bear the iniquity of h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.19|<< Ezekiel 18:19]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.21|Ezekiel 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the soul  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5315G\|נֶּ֥פֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which sins  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2398\|חֹטֵ֖את]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cho.Tet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

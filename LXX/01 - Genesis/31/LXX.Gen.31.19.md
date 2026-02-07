@@ -1,10 +1,7 @@
 **LXX Genesis 31:19** 
 <small><sub>**LXX:**</sub></small>
 And Laban set out to shear  his flocks, and Rachel stole the idols  of her father. 
-<small><sub>**KJV:**</sub></small>
-And Laban went to shear his sheep: and Rachel had stolen the images that [were] her father’s.
-<small><sub>**BSB:**</sub></small>
-Now while Laban was out shearing his sheep, Rachel stole her father’s household idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.18|<< Genesis 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.20|Genesis 31:20 >>]]</td></tr></table>
 
 | Translation | Greek |

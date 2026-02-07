@@ -1,4 +1,4 @@
-**Genesis 23:6** 
+**Genesis 23:6**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear us, my lord: thou [art] a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear us, my lord: thou [art] a mighty prince among us: in the choice of our sepu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.5|<< Genesis 23:5]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.7|Genesis 23:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen to us  |**<big>&#8207;[[H8085G\|שְׁמָעֵ֣]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| she.ma.'E.<small><sup>[[HVqv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O lord my  |**<big>&#8207;[[H0113\|אֲדֹנִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 6:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:12**<big><big>[[Luke.6.12 The Twelve Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God.
 <small><sub>**BSB:**</sub></small>
 In those days Jesus went out to the mountain to pray, and He spent the night in prayer to God.
 <small><sub>**Literal:**</sub></small>
 It came to pass then in the days those to go out He to the mountain to pray; and He was spending the night in <the> prayer <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.11|<< Luke 6:11]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.13|Luke 6:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

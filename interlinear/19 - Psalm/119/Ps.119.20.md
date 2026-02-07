@@ -1,4 +1,4 @@
-**Psalms 119:20** 
+**Psalms 119:20**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul breaketh for the longing [that it hath] unto thy judgments at all times.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My soul is consumed with longing for Your judgments at all times.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.19|<< Psalms 119:19]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.21|Psalms 119:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it is crushed  |**<big>&#8207;[[H1638\|גָּרְסָ֣ה]]&#8207; </big>**| ga.re.Sah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | self my  |**<big>&#8207;[[H5315G\|נַפְשִׁ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

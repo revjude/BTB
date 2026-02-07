@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:12** 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Jeremiah after  Hananiah broke the collars from  his neck, saying, 
-<small><sub>**KJV:**</sub></small>
-Then the word of the LORD came unto Jeremiah [the prophet], after that Hananiah the prophet had broken the yoke from off the neck of the prophet Jeremiah, saying,
-<small><sub>**BSB:**</sub></small>
-But shortly after Hananiah the prophet had broken the yoke off his neck, the word of the LORD came to Jeremiah:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.11|<< Jeremiah 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.13|Jeremiah 28:13 >>]]</td></tr></table>
 
 | Translation | Greek |

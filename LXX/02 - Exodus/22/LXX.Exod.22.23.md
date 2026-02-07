@@ -1,10 +1,7 @@
 **LXX Exodus 22:23** 
 <small><sub>**LXX:**</sub></small>
 And if you should maltreat them, and crying out they should yell out to me, in hearing I shall listen to  their yell, 
-<small><sub>**KJV:**</sub></small>
-If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;
-<small><sub>**BSB:**</sub></small>
-If you do mistreat them, and they cry out to Me in distress, I will surely hear their cry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.22|<< Exodus 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.24|Exodus 22:24 >>]]</td></tr></table>
 
 | Translation | Greek |

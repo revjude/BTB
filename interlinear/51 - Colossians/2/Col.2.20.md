@@ -1,12 +1,12 @@
-**Colossians 2:20
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:20**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,
 <small><sub>**BSB:**</sub></small>
 If you have died with Christ to the spiritual forces of the world, why, as though you still belonged to the world, do you submit to its regulations:
 <small><sub>**Literal:**</sub></small>
 If therefore you have died with <the> Christ away from the principles of the world, why as if living in [the] world do you submit to decrees?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.19|<< Colossians 2:19]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.21|Colossians 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |

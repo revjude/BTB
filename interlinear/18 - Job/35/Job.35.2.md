@@ -1,4 +1,4 @@
-**Job 35:2** 
+**Job 35:2**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thinkest thou this to be right, [that] thou saidst, My righteousness [is] more than God’s?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thinkest thou this to be right, [that] thou saidst, My righteousness [is] more t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.1|<< Job 35:1]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.3|Job 35:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ this  |**<big>&#8207;[[H9008\|הֲ֭]]&#8207;&#8207;[[H2063\|זֹאת]]&#8207; </big>**| Ha.<small><sup>[[HTi]]</sup></small> zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you consider  |**<big>&#8207;[[H2803J\|חָשַׁ֣בְתָּ]]&#8207; </big>**| cha.Shav.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

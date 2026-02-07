@@ -1,4 +1,4 @@
-**Leviticus 6:17** (6:10)
+**Leviticus 6:17**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall not be baken with leaven. I have given it [unto them for] their portion of my offerings made by fire; it [is] most holy, as [is] the sin offering, and as the trespass offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It must not be baked with leaven; I have assigned it as their portion of My food
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.16|<< Leviticus 6:16]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.18|Leviticus 6:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be baked  |**<big>&#8207;[[H0644\|תֵאָפֶה֙]]&#8207; </big>**| te.'a.Peh<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

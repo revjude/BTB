@@ -1,10 +1,7 @@
 **LXX Judges 18:19** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Be silent, place  your hand over  your mouth, and come with us! and you will be to us for a father and for a priest. \[Is it\] not better \[for\] you to be a priest of \[the\] house of one man, or \[for\] you to be priest of a tribe and kin in Israel? 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, Hold thy peace, lay thine hand upon thy mouth, and go with us, and be to us a father and a priest: [is it] better for thee to be a priest unto the house of one man, or that thou be a priest unto a tribe and a family in Israel?
-<small><sub>**BSB:**</sub></small>
-“Be quiet,” they told him. “Put your hand over your mouth and come with us and be a father and a priest to us. Is it better for you to be a priest for the house of one person or a priest for a tribe and family in Israel?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.18|<< Judges 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.20|Judges 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

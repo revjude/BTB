@@ -1,10 +1,7 @@
 **LXX Genesis 47:15** 
 <small><sub>**LXX:**</sub></small>
 And all the silver dissipated from \[the\] land of Egypt, and from \[the\] land of Canaan. And all the Egyptians came to Joseph, saying, Give us bread loaves! And why should we die before you, for our silver has dissipated? 
-<small><sub>**KJV:**</sub></small>
-And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.
-<small><sub>**BSB:**</sub></small>
-When the money from the lands of Egypt and Canaan was gone, all the Egyptians came to Joseph and said, “Give us food. Why should we die before your eyes? For our funds have run out!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.14|<< Genesis 47:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.16|Genesis 47:16 >>]]</td></tr></table>
 
 | Translation | Greek |

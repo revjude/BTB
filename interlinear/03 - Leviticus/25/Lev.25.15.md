@@ -1,4 +1,4 @@
-**Leviticus 25:15** 
+**Leviticus 25:15**<big><big>[[Lev.25.13 Return of Property|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to the number of years after the jubile thou shalt buy of thy neighbour, [and] according unto the number of years of the fruits he shall sell unto thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to buy from your neighbor according to the number of years since the las
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.14|<< Leviticus 25:14]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.16|Leviticus 25:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [the] number of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4557\|מִסְפַּ֤ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years  |**<big>&#8207;[[H8141\|שָׁנִים֙]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

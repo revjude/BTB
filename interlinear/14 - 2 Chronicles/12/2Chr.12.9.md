@@ -1,4 +1,4 @@
-**2 Chronicles 12:9** 
+**2 Chronicles 12:9**<big><big>[[2Chr.12.1 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Shishak king of Egypt came up against Jerusalem, and took away the treasures of the house of the LORD, and the treasures of the king’s house; he took all: he carried away also the shields of gold which Solomon had made.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So King Shishak of Egypt attacked Jerusalem and seized the treasures of the hous
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.8|<< 2 Chronicles 12:8]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.10|2 Chronicles 12:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֨עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shishak  |**<big>&#8207;[[H7895\|שִׁישַׁ֥ק]]&#8207; </big>**| shi.Shak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

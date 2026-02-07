@@ -1,5 +1,5 @@
-**Hebrews 9:28
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:28**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.
 <small><sub>**BSB:**</sub></small>
 so also Christ was offered once to bear the sins of many; and He will appear a second time, not to bear sin, but to bring salvation to those who eagerly await Him.
@@ -10,7 +10,7 @@ so also <the> Christ once having been offered in order <the> of many to bear [th
 > $\quad$ referencing: [[LXX.Isa.53.12|Isa 53:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">no</abbr> | |

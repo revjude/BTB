@@ -1,4 +1,4 @@
-**1 Samuel 3:7** 
+**1 Samuel 3:7**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Samuel did not yet know the LORD, neither was the word of the LORD yet revealed unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Samuel did not yet know the LORD, because the word of the LORD had not yet b
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.6|<< 1 Samuel 3:6]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.8|1 Samuel 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Samuel  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8050G\|שְׁמוּאֵ֕ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not yet  |**<big>&#8207;[[H2962\|טֶ֖רֶם]]&#8207; </big>**| Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

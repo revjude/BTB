@@ -1,5 +1,5 @@
-**Acts 15:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:17**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things.
 <small><sub>**BSB:**</sub></small>
 so that the remnant of men may seek the Lord, and all the Gentiles who are called by My name, says the Lord who does these things
@@ -10,7 +10,7 @@ so that when may seek out the remnant <the> of men the Lord and all the Gentiles
 > $\quad$ referencing: [[LXX.Amos.9.11|Amos 9:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G0302\|ἂν]]</big>**  |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

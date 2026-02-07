@@ -1,10 +1,7 @@
 **LXX Psalm 91:3** 
 <small><sub>**LXX:**</sub></small>
 For he shall rescue you from out of \[the\] snare of hunters, from a disturbing matter. 
-<small><sub>**KJV:**</sub></small>
-Surely he shall deliver thee from the snare of the fowler, [and] from the noisome pestilence.
-<small><sub>**BSB:**</sub></small>
-Surely He will deliver you from the snare of the fowler, and from the deadly plague.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.2|<< Psalm 91:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.4|Psalm 91:4 >>]]</td></tr></table>
 
 | Translation | Greek |

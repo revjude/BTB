@@ -1,4 +1,4 @@
-**Ezekiel 42:2** 
+**Ezekiel 42:2**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before the length of an hundred cubits [was] the north door, and the breadth [was] fifty cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The building with the door facing north was a hundred cubits long and fifty cubi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.1|<< Ezekiel 42:1]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.3|Ezekiel 42:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] face of  |**<big>&#8207;[[H6440G\|פְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

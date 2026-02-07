@@ -1,10 +1,7 @@
 **LXX Job 20:21** 
 <small><sub>**LXX:**</sub></small>
 There is no leftover  of his foods; on account of this his good \[things\] shall not bloom. 
-<small><sub>**KJV:**</sub></small>
-There shall none of his meat be left; therefore shall no man look for his goods.
-<small><sub>**BSB:**</sub></small>
-Nothing is left for him to consume; thus his prosperity will not endure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.20|<< Job 20:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.22|Job 20:22 >>]]</td></tr></table>
 
 | Translation | Greek |

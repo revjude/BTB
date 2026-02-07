@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:22** 
 <small><sub>**LXX:**</sub></small>
 And David said, What \[is it\] to me and to you, sons of Zeruiah, that you become to me today to plot? Shall today any man of Israel be put to death, \[no\]. I do not know that today I shall reign over  Israel. 
-<small><sub>**KJV:**</sub></small>
-And David said, What have I to do with you, ye sons of Zeruiah, that ye should this day be adversaries unto me? shall there any man be put to death this day in Israel? for do not I know that I [am] this day king over Israel?
-<small><sub>**BSB:**</sub></small>
-And David replied, “Sons of Zeruiah, what have I to do with you, that you should be my adversaries today? Should any man be put to death in Israel today? Am I not indeed aware that today I am king over Israel?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.21|<< 2 Samuel 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.23|2 Samuel 19:23 >>]]</td></tr></table>
 
 | Translation | Greek |

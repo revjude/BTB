@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:24** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] men were gathered together against him, and he was ruler of \[the\] confederation, and he first took  Damascus, and he settled in it, and he reigned in Damascus. 
-<small><sub>**KJV:**</sub></small>
-And he gathered men unto him, and became captain over a band, when David slew them [of Zobah]: and they went to Damascus, and dwelt therein, and reigned in Damascus.
-<small><sub>**BSB:**</sub></small>
-and had gathered men to himself. When David killed the Zobaites, Rezon captained a band of raiders and went to Damascus, where they settled and gained control.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.23|<< 1 Kings 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.25|1 Kings 11:25 >>]]</td></tr></table>
 
 | Translation | Greek |

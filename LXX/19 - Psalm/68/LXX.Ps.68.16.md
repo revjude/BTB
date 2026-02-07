@@ -1,10 +1,7 @@
 **LXX Psalm 68:16** 
 <small><sub>**LXX:**</sub></small>
 Why do you undertake, O mountains making cheese, the mountain which God thinks well to dwell in it? For even the <span class="smallcaps">lord</span> encamps unto \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-Why leap ye, ye high hills? [this is] the hill [which] God desireth to dwell in; yea, the LORD will dwell [in it] for ever.
-<small><sub>**BSB:**</sub></small>
-Why do you gaze in envy, O mountains of many peaks? This is the mountain God chose for His dwelling, where the LORD will surely dwell forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.15|<< Psalm 68:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.17|Psalm 68:17 >>]]</td></tr></table>
 
 | Translation | Greek |

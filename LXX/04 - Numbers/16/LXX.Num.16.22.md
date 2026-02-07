@@ -1,10 +1,7 @@
 **LXX Numbers 16:22** 
 <small><sub>**LXX:**</sub></small>
 And they fell upon their face. And they said, The God, the God of the spirits and of all flesh, if one man sinned, \[shall there be\] upon all the congregation the anger of \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?
-<small><sub>**BSB:**</sub></small>
-But Moses and Aaron fell facedown and said, “O God, the God of the spirits of all flesh, when one man sins, will You be angry with the whole congregation?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.21|<< Numbers 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.23|Numbers 16:23 >>]]</td></tr></table>
 
 | Translation | Greek |

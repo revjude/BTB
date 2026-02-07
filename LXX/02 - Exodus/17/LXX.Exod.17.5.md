@@ -1,10 +1,7 @@
 **LXX Exodus 17:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Go before  this people! and take with yourself \[some\] of the elders of the people, and the rod in which you struck the river! Take it in  your hand and go! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Moses, “Walk on ahead of the people and take some of the elders of Israel with you. Take along in your hand the staff with which you struck the Nile, and go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.4|<< Exodus 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.6|Exodus 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Romans 9:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:9**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this [is] the word of promise, At this time will I come, and Sara shall have a son.
 <small><sub>**BSB:**</sub></small>
 For this is what the promise stated: “At the appointed time I will return, and Sarah will have a son.”
@@ -10,7 +10,7 @@ Of [the] promise for the word [is] this: At <the> time this I will come and ther
 > $\quad$ referencing: [[LXX.Gen.18.10|Gen 18:10]] ☩ [[LXX.Gen.18.14|Gen 18:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of [the] promise |**<big>[[G1860\|ἐπαγγελίας]]</big>**  |epangelias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:15** 
 <small><sub>**LXX:**</sub></small>
 And Samuel adjudicated for  Israel all the days  of his life. 
-<small><sub>**KJV:**</sub></small>
-And Samuel judged Israel all the days of his life.
-<small><sub>**BSB:**</sub></small>
-So Samuel judged Israel all the days of his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.14|<< 1 Samuel 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.16|1 Samuel 7:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:15** is...

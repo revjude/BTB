@@ -1,12 +1,12 @@
-**Luke 2:45
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:45**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they found him not, they turned back again to Jerusalem, seeking him.
 <small><sub>**BSB:**</sub></small>
 When they could not find Him, they returned to Jerusalem to search for Him.
 <small><sub>**Literal:**</sub></small>
 and not having found Him they returned to Jerusalem searching Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.44|<< Luke 2:44]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.46|Luke 2:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

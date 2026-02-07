@@ -1,4 +1,4 @@
-**Exodus 7:17** 
+**Exodus 7:17**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, In this thou shalt know that I [am] the LORD: behold, I will smite with the rod that [is] in mine hand upon the waters which [are] in the river, and they shall be turned to blood.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is what the LORD says: By this you will know that I am the LORD. Behold, wi
 > $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֚ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

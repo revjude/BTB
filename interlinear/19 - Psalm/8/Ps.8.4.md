@@ -1,4 +1,4 @@
-**Psalms 8:4** (8:5)
+**Psalms 8:4**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What is man, that thou art mindful of him? and the son of man, that thou visitest him?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ what is man that You are mindful of him, or the son of man that You care for him
 > $\quad$ referenced by: [[Heb.2.6|Heb 2:6-8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] humankind  |**<big>&#8207;[[H0582\|אֱנ֥וֹשׁ]]&#8207; </big>**| 'e.No.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

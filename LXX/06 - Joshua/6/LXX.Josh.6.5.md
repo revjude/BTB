@@ -1,10 +1,7 @@
 **LXX Joshua 6:5** 
 <small><sub>**LXX:**</sub></small>
 And it will be as whenever you should sound the trumpet of \[the\] ram, in  your hearing the sound of the horn, all the people shout aloud! And with their shouting aloud the walls of the city shall fall by themselves underneath them, and all the people shall enter, each advancing in front into the city. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, that when they make a long [blast] with the ram’s horn, [and] when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.
-<small><sub>**BSB:**</sub></small>
-And when there is a long blast of the ram’s horn and you hear its sound, have all the people give a mighty shout. Then the wall of the city will collapse and all your people will charge straight into the city.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.4|<< Joshua 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.6|Joshua 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 13:22** 
+**Exodus 13:22**<big><big>[[Exod.13.17 The Pillars of Cloud and Fire|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He took not away the pillar of the cloud by day, nor the pillar of fire by night, [from] before the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Neither the pillar of cloud by day nor the pillar of fire by night left its plac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.21|<< Exodus 13:21]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.1|Exodus 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it departed  |**<big>&#8207;[[H4185\|יָמִ֞ישׁ]]&#8207; </big>**| ya.Mish<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

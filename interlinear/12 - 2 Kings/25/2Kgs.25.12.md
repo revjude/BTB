@@ -1,4 +1,4 @@
-**2 Kings 25:12** 
+**2 Kings 25:12**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the captain of the guard left of the poor of the land [to be] vinedressers and husbandmen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the captain of the guard left behind some of the poorest of the land to tend
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.11|<< 2 Kings 25:11]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.13|2 Kings 25:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of [the] poor people of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1803B\|דַּלַּ֣ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi<small><sup>[[HR]]</sup></small> d.da.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

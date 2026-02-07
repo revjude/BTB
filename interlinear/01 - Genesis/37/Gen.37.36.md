@@ -1,4 +1,4 @@
-**Genesis 37:36** 
+**Genesis 37:36**<big><big>[[Gen.37.31 Jacob Mourns Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh’s, [and] captain of the guard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, an officer of Pharao
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.35|<< Genesis 37:35]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.1|Genesis 38:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Medanites  [^3]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ֨]]&#8207;&#8207;[[H4092\|מְּדָנִ֔ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> me.da.Nim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad (Emendation)">L(E)</abbr> |
 | they sold  |**<big>&#8207;[[H4376\|מָכְר֥וּ]]&#8207; </big>**| ma.khe.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

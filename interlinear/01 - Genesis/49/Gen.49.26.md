@@ -1,4 +1,4 @@
-**Genesis 49:26** 
+**Genesis 49:26**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The blessings of your father have surpassed the blessings of the ancient mountai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.25|<< Genesis 49:25]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.27|Genesis 49:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] blessings of  |**<big>&#8207;[[H1293\|בִּרְכֹ֣ת]]&#8207; </big>**| bir.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father your  |**<big>&#8207;[[H0001G\|אָבִ֗י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 7:17** 
+**1 Samuel 7:17**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his return [was] to Ramah; for there [was] his house; and there he judged Israel; and there he built an altar unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then he would return to Ramah because his home was there, and there he judged Is
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and return his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8666\|תְשֻׁבָת֤]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.shu.va.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] \<the> Ramah towards  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7414J\|רָמָ֙תָ]]&#8207;&#8207;[[H9011\|ה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Ma.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

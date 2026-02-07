@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the days of Ahaz son of Jotham, the son of Uzziah king of Judah, ascended Rezin king of Aram, and Pekah son of Remaliah, king of Israel, against Jerusalem to wage war with it, and they were not able to assault it. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, [that] Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
-<small><sub>**BSB:**</sub></small>
-Now in the days that Ahaz son of Jotham, the son of Uzziah, was king of Judah, Rezin king of Aram marched up to wage war against Jerusalem. He was accompanied by Pekah son of Remaliah the king of Israel, but he could not overpower the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.13|<< Isaiah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.2|Isaiah 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

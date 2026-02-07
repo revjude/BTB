@@ -1,4 +1,4 @@
-**Job 6:28** 
+**Job 6:28**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore be content, look upon me; for [it is] evident unto you if I lie.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now, please look at me. Would I lie to your face?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.27|<< Job 6:27]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.29|Job 6:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H6258\|עַתָּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be willing  |**<big>&#8207;[[H2974\|הוֹאִ֣ילוּ]]&#8207; </big>**| ho.'I.lu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

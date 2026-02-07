@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses ascended from \[the\] wilderness of Moab unto  mount Nebo, upon \[the\] top of Pisgah, which is upon \[the\] face of Jericho. And \[the\] <span class="smallcaps">lord</span> showed to him all the land of Gilead unto Dan, 
-<small><sub>**KJV:**</sub></small>
-And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that [is] over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,
-<small><sub>**BSB:**</sub></small>
-Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which faces Jericho. And the LORD showed him the whole land—from Gilead as far as Dan,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.29|<< Deuteronomy 33:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.34.2|Deuteronomy 34:2 >>]]</td></tr></table>
 
 | Translation | Greek |

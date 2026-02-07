@@ -1,4 +1,4 @@
-**1 Kings 18:20** 
+**1 Kings 18:20**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Ahab sent unto all the children of Israel, and gathered the prophets together unto mount Carmel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ahab summoned all the Israelites and assembled the prophets on Mount Carmel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.19|<< 1 Kings 18:19]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.21|1 Kings 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahab  |**<big>&#8207;[[H0256G\|אַחְאָ֖ב]]&#8207; </big>**| 'ach.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

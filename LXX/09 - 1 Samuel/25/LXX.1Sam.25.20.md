@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:20** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass of her being mounted upon the donkey, that she went down in \[the\] protection of the mountain. And behold, David and  his men went down to meet her, and she met them. 
-<small><sub>**KJV:**</sub></small>
-And it was [so, as] she rode on the ass, that she came down by the covert of the hill, and, behold, David and his men came down against her; and she met them.
-<small><sub>**BSB:**</sub></small>
-As Abigail came riding her donkey into a mountain ravine, she saw David and his men coming down toward her, and she met them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.19|<< 1 Samuel 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.21|1 Samuel 25:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:15** 
 <small><sub>**LXX:**</sub></small>
 And turning, I went down from the mountain, and the mountain burned fire. And the two tablets of the covenant were in  my two hands. 
-<small><sub>**KJV:**</sub></small>
-So I turned and came down from the mount, and the mount burned with fire: and the two tables of the covenant [were] in my two hands.
-<small><sub>**BSB:**</sub></small>
-So I went back down the mountain while it was blazing with fire, with the two tablets of the covenant in my hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.14|<< Deuteronomy 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.16|Deuteronomy 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

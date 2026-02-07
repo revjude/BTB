@@ -1,12 +1,12 @@
-**Matthew 1:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:22**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,
 <small><sub>**BSB:**</sub></small>
 All this took place to fulfill what the Lord had said through the prophet:
 <small><sub>**Literal:**</sub></small>
 This then all has come to pass that may be fulfilled that [which] having been spoken by the Lord through the prophet saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.21|<< Matthew 1:21]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.23|Matthew 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Τοῦτο]]</big>**  |Touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

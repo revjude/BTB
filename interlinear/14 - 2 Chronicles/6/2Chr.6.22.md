@@ -1,4 +1,4 @@
-**2 Chronicles 6:22** 
+**2 Chronicles 6:22**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man sin against his neighbour, and an oath be laid upon him to make him swear, and the oath come before thine altar in this house;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When a man sins against his neighbor and is required to take an oath, and he com
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.21|<< 2 Chronicles 6:21]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.23|2 Chronicles 6:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will sin  |**<big>&#8207;[[H2398\|יֶחֱטָ֥א]]&#8207; </big>**| ye.che.Ta'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

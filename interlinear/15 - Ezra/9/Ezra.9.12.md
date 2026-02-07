@@ -1,4 +1,4 @@
-**Ezra 9:12** 
+**Ezra 9:12**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore give not your daughters unto their sons, neither take their daughters unto your sons, nor seek their peace or their wealth for ever: that ye may be strong, and eat the good of the land, and leave [it] for an inheritance to your children for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, therefore, do not give your daughters in marriage to their sons or take the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.11|<< Ezra 9:11]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.13|Ezra 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H6258\|עַתָּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | daughters your  |**<big>&#8207;[[H1323G\|בְּֽנוֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֞ם]]&#8207; </big>**| be.no.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 1:4** 
+**Leviticus 1:4**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to lay his hand on the head of the burnt offering, so it can be accepted o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.3|<< Leviticus 1:3]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.5|Leviticus 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will lean  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5564\|סָמַ֣ךְ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Makh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand his  |**<big>&#8207;[[H3027G\|יָד֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

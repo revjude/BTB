@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the rulers of their families, and the genealogy of the ones ascending with me, in the kingdom of Artaxerxes the king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-These [are] now the chief of their fathers, and [this is] the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.
-<small><sub>**BSB:**</sub></small>
-These are the family heads and genealogical records of those who returned with me from Babylon during the reign of King Artaxerxes:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.28|<< Ezra 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.2|Ezra 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

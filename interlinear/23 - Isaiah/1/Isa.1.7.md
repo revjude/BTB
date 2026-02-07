@@ -1,4 +1,4 @@
-**Isaiah 1:7** 
+**Isaiah 1:7**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your country [is] desolate, your cities [are] burned with fire: your land, strangers devour it in your presence, and [it is] desolate, as overthrown by strangers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your land is desolate; your cities are burned with fire. Foreigners devour your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.6|<< Isaiah 1:6]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.8|Isaiah 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | land your  |**<big>&#8207;[[H0776G\|אַרְצְ]]&#8207;&#8207;[[H9026\|כֶ֣ם]]&#8207; </big>**| 'ar.tze.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a desolation  |**<big>&#8207;[[H8077A\|שְׁמָמָ֔ה]]&#8207; </big>**| she.ma.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

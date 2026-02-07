@@ -1,5 +1,5 @@
-**Mark 1:44
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:44**<big><big>[[Mark.1.40 The Leper’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them.
 <small><sub>**BSB:**</sub></small>
 “See that you don’t tell anyone. But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”
@@ -10,7 +10,7 @@ And He says to him; do see [that] nothing to none may you speak; But do go, your
 > $\quad$ alluding to: [[LXX.Lev.14.2|Lev 14:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

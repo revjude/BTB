@@ -1,12 +1,12 @@
-**Luke 18:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:37**<big><big>[[Luke.18.35 Jesus Heals a Blind Beggar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they told him, that Jesus of Nazareth passeth by.
 <small><sub>**BSB:**</sub></small>
 “Jesus of Nazareth is passing by,” they told him.
 <small><sub>**Literal:**</sub></small>
 They told then to him that Jesus <the> of Nazareth is passing by.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.36|<< Luke 18:36]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.38|Luke 18:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They told |**<big>[[G0518\|ἀπήγγειλαν]]</big>**  |apēngeilan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

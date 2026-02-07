@@ -1,12 +1,12 @@
-**Romans 16:14
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:14**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.
 <small><sub>**BSB:**</sub></small>
 Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers with them.
 <small><sub>**Literal:**</sub></small>
 do greet Asyncritus, Phlegon, Hermes Patrobas, Hermas and the with them brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.13|<< Romans 16:13]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.15|Romans 16:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|ἀσπάσασθε]]</big>**  |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Asyncritus, |**<big>[[G0799\|Ἀσύγκριτον,]]</big>**  [^1] |Asugkriton <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

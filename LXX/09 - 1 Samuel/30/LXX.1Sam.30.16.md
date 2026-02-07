@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:16** 
 <small><sub>**LXX:**</sub></small>
 And he led him. And behold, these were dispersed upon \[the\] face of all the land, eating and drinking, and celebrating over all the great spoils which they took from out of \[the\] land of \[the\] Philistines, and from out of \[the\] land of Judah. 
-<small><sub>**KJV:**</sub></small>
-And when he had brought him down, behold, [they were] spread abroad upon all the earth, eating and drinking, and dancing, because of all the great spoil that they had taken out of the land of the Philistines, and out of the land of Judah.
-<small><sub>**BSB:**</sub></small>
-So he led David down, and there were the Amalekites spread out over all the land, eating, drinking, and celebrating the great amount of plunder they had taken from the land of the Philistines and the land of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.15|<< 1 Samuel 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.17|1 Samuel 30:17 >>]]</td></tr></table>
 
 | Translation | Greek |

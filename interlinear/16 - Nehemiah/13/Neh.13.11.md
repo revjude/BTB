@@ -1,4 +1,4 @@
-**Nehemiah 13:11** 
+**Nehemiah 13:11**<big><big>[[Neh.13.10 Tithes Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then contended I with the rulers, and said, Why is the house of God forsaken? And I gathered them together, and set them in their place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I rebuked the officials and asked, “Why has the house of God been neglected
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.10|<< Nehemiah 13:10]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.12|Nehemiah 13:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I contended !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7378\|אָרִ֙יבָ]]&#8207;&#8207;[[H9012\|ה֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Ri.va<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

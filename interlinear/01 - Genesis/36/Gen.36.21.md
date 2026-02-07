@@ -1,4 +1,4 @@
-**Genesis 36:21** 
+**Genesis 36:21**<big><big>[[Gen.36.20 The Descendants of Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Dishon, and Ezer, and Dishan: these [are] the dukes of the Horites, the children of Seir in the land of Edom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Dishon, Ezer, and Dishan. They are the chiefs of the Horites, the descendants of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.20|<< Genesis 36:20]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.22|Genesis 36:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Dishon  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1787G\|דִשׁ֥וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> di.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Ezer  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0687\|אֵ֖צֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.tzer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 29:26** 
+**Exodus 29:26**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take the breast of the ram of Aaron’s consecration, and wave it [for] a wave offering before the LORD: and it shall be thy part.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take the breast of the ram of Aaron’s ordination and wave it before the LORD a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.25|<< Exodus 29:25]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.27|Exodus 29:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

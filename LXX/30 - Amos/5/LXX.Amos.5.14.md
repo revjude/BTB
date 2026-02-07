@@ -1,10 +1,7 @@
 **LXX Amos 5:14** 
 <small><sub>**LXX:**</sub></small>
 Inquire of the good, and not the wicked! so that you should live. And it will be thus -- \[the\] <span class="smallcaps">lord</span>  God  almighty with you in which manner you spoke, \[saying\], 
-<small><sub>**KJV:**</sub></small>
-Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken.
-<small><sub>**BSB:**</sub></small>
-Seek good, not evil, so that you may live. And the LORD, the God of Hosts, will be with you, as you have claimed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.13|<< Amos 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.15|Amos 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

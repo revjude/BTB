@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:9** 
 <small><sub>**LXX:**</sub></small>
 And I became magnified, and proceeded in wisdom past all the ones being before me in Jerusalem; and indeed my wisdom was established to me. 
-<small><sub>**KJV:**</sub></small>
-So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.
-<small><sub>**BSB:**</sub></small>
-So I became great and surpassed all in Jerusalem who had preceded me; and my wisdom remained with me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.8|<< Ecclesiastes 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.10|Ecclesiastes 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

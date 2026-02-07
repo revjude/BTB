@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:20** 
 <small><sub>**LXX:**</sub></small>
 And Abner came to David in Hebron, and with him twenty men. And David made a banquet \[to\] Abner and the men with him. 
-<small><sub>**KJV:**</sub></small>
-So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that [were] with him a feast.
-<small><sub>**BSB:**</sub></small>
-When Abner and twenty of his men came to David at Hebron, David held a feast for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.19|<< 2 Samuel 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.21|2 Samuel 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

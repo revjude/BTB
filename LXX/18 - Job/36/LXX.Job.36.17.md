@@ -1,10 +1,7 @@
 **LXX Job 36:17** 
 <small><sub>**LXX:**</sub></small>
 but judgment shall not fail from \[the\] righteous; 
-<small><sub>**KJV:**</sub></small>
-But thou hast fulfilled the judgment of the wicked: judgment and justice take hold [on thee].
-<small><sub>**BSB:**</sub></small>
-But now you are laden with the judgment due the wicked; judgment and justice have seized you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.16|<< Job 36:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.18|Job 36:18 >>]]</td></tr></table>
 
 | Translation | Greek |

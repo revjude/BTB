@@ -1,4 +1,4 @@
-**Deuteronomy 31:18** 
+**Deuteronomy 31:18**<big><big>[[Deut.31.14 God Commissions Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will surely hide my face in that day for all the evils which they shall have wrought, in that they are turned unto other gods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on that day I will surely hide My face because of all the evil they have don
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.17|<< Deuteronomy 31:17]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.19|Deuteronomy 31:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָנֹכִ֗י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to hide>  |**<big>&#8207;[[H5641\|הַסְתֵּ֨ר]]&#8207; </big>**| has.Ter<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

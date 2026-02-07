@@ -1,10 +1,7 @@
 **LXX Exodus 26:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall join together the five hide coverings to the same, and the six hide coverings to the same. And you shall double up the sixth hide covering in front of the tent. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt couple five curtains by themselves, and six curtains by themselves, and shalt double the sixth curtain in the forefront of the tabernacle.
-<small><sub>**BSB:**</sub></small>
-Join five of the curtains into one set and the other six into another. Then fold the sixth curtain over double at the front of the tent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.8|<< Exodus 26:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.10|Exodus 26:10 >>]]</td></tr></table>
 
 | Translation | Greek |

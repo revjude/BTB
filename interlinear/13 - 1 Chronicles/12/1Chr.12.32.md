@@ -1,4 +1,4 @@
-**1 Chronicles 12:32** (12:33)
+**1 Chronicles 12:32**<big><big>[[1Chr.12.23 David’s Army Grows at Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the children of Issachar, [which were men] that had understanding of the times, to know what Israel ought to do; the heads of them [were] two hundred; and all their brethren [were] at their commandment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Issachar, men who understood the times and knew what Israel should do: 200 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.31|<< 1 Chronicles 12:31]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.33|1 Chronicles 12:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and of [the] descendants of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Issachar  |**<big>&#8207;[[H3485G\|יִשָּׂשכָ֗ר]]&#8207; </big>**| yi.so.sh.Khar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

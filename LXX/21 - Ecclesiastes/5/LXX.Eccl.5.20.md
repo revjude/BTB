@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:20** 
 <small><sub>**LXX:**</sub></small>
 For he will not much remember the days  of his life, for  God distracts him in \[the\] gladness of his heart. 
-<small><sub>**KJV:**</sub></small>
-For he shall not much remember the days of his life; because God answereth [him] in the joy of his heart.
-<small><sub>**BSB:**</sub></small>
-For a man seldom considers the days of his life, because God keeps him occupied with the joy of his heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.19|<< Ecclesiastes 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.1|Ecclesiastes 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

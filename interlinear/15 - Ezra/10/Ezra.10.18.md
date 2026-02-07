@@ -1,4 +1,4 @@
-**Ezra 10:18** 
+**Ezra 10:18**<big><big>[[Ezra.10.18 Those Guilty of Intermarriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And among the sons of the priests there were found that had taken strange wives: [namely], of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Among the descendants of the priests who had married foreign women were found th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.17|<< Ezra 10:17]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.19|Ezra 10:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was found  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4672\|יִּמָּצֵא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ma.Tze'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of [the] sons of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

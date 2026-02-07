@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:32** 
 <small><sub>**LXX:**</sub></small>
 And war was between Asa and between Baasha king of Israel all  their days. 
-<small><sub>**KJV:**</sub></small>
-And there was war between Asa and Baasha king of Israel all their days.
-<small><sub>**BSB:**</sub></small>
-And there was war between Asa and Baasha king of Israel throughout their days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.31|<< 1 Kings 15:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.33|1 Kings 15:33 >>]]</td></tr></table>
 
 | Translation | Greek |

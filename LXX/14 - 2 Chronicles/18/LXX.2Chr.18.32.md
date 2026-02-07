@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:32** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the ones in charge of the chariots saw that it was not the king of Israel, that they turned from him. 
-<small><sub>**KJV:**</sub></small>
-For it came to pass, that, when the captains of the chariots perceived that it was not the king of Israel, they turned back again from pursuing him.
-<small><sub>**BSB:**</sub></small>
-And when the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.31|<< 2 Chronicles 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.33|2 Chronicles 18:33 >>]]</td></tr></table>
 
 | Translation | Greek |

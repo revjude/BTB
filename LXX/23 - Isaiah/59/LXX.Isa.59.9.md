@@ -1,10 +1,7 @@
 **LXX Isaiah 59:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this equity left from them, and in no way righteousness overtake them. In their waiting light, darkness came to them; waiting for daylight, they walked in midnight. 
-<small><sub>**KJV:**</sub></small>
-Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, [but] we walk in darkness.
-<small><sub>**BSB:**</sub></small>
-Therefore justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we walk in gloom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.8|<< Isaiah 59:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.10|Isaiah 59:10 >>]]</td></tr></table>
 
 | Translation | Greek |

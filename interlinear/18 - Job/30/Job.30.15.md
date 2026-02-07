@@ -1,4 +1,4 @@
-**Job 30:15** 
+**Job 30:15**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Terrors are turned upon me: they pursue my soul as the wind: and my welfare passeth away as a cloud.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Terrors are turned loose against me; they drive away my dignity as by the wind, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.14|<< Job 30:14]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.16|Job 30:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has been turned  |**<big>&#8207;[[H2015\|הָהְפַּ֥ךְ]]&#8207; </big>**| ha.he.Pakh<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

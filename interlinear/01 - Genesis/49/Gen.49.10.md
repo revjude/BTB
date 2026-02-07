@@ -1,4 +1,4 @@
-**Genesis 49:10** 
+**Genesis 49:10**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him [shall] the gathering of the people [be].
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The scepter will not depart from Judah, nor the staff from between his feet, unt
 > $\quad$ referenced by: [[Ezek.21.27|Ezek 21:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will depart  |**<big>&#8207;[[H5493H\|יָס֥וּר]]&#8207; </big>**| ya.Sur<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

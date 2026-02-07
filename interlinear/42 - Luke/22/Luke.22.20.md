@@ -1,12 +1,12 @@
-**Luke 22:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:20**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise also the cup after supper, saying, This cup [is] the new testament in my blood, which is shed for you.
 <small><sub>**BSB:**</sub></small>
 In the same way, after supper He took the cup, saying, “This cup is the new covenant in My blood, which is poured out for you.
 <small><sub>**Literal:**</sub></small>
 and the cup likewise after the eating saying; This <the> cup [is] the new covenant in the blood of Me which for you is being poured out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.19|<< Luke 22:19]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.21|Luke 22:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

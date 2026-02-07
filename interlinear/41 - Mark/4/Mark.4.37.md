@@ -1,12 +1,12 @@
-**Mark 4:37
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:37**<big><big>[[Mark.4.35 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there arose a great storm of wind, and the waves beat into the ship, so that it was now full.
 <small><sub>**BSB:**</sub></small>
 Soon a violent windstorm came up, and the waves were breaking over the boat, so that it was being swamped.
 <small><sub>**Literal:**</sub></small>
 And comes a storm violent of wind And the now waves were breaking over the boat so that already is being filled up the boat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.36|<< Mark 4:36]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.38|Mark 4:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | comes |**<big>[[G1096\|γίνεται]]</big>**  [^1] |ginetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

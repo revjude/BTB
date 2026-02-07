@@ -1,5 +1,5 @@
-**Matthew 7:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:23**<big><big>[[Matt.7.15 A Tree and Its Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 <small><sub>**BSB:**</sub></small>
 Then I will tell them plainly, ‘I never knew you; depart from Me, you workers of lawlessness!’
@@ -10,7 +10,7 @@ And then I will declare to them that Never knew I you; do depart from Me you who
 > $\quad$ referencing: [[LXX.Ps.6.8|Ps 6:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

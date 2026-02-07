@@ -1,10 +1,7 @@
 **LXX Numbers 19:16** 
 <small><sub>**LXX:**</sub></small>
 And all who ever should touch upon \[the\] face of the plain one slain, or a dead \[corpse\], or of a bone of mankind, or tomb, for seven days he will be unclean. 
-<small><sub>**KJV:**</sub></small>
-And whosoever toucheth one that is slain with a sword in the open fields, or a dead body, or a bone of a man, or a grave, shall be unclean seven days.
-<small><sub>**BSB:**</sub></small>
-Anyone in the open field who touches someone who has been killed by the sword or has died of natural causes, or anyone who touches a human bone or a grave, will be unclean for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.15|<< Numbers 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.17|Numbers 19:17 >>]]</td></tr></table>
 
 | Translation | Greek |

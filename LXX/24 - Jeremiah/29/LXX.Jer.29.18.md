@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:18** 
 <small><sub>**LXX:**</sub></small>
 And I shall pursue them with a sword, and famine, and pestilence. And I shall give them for movement in all the kingdoms of the earth, and for a curse, and for perplexity, and for a hissing, and for scorning to all the nations to whom I cast them. 
-<small><sub>**KJV:**</sub></small>
-And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them:
-<small><sub>**BSB:**</sub></small>
-I will pursue them with sword and famine and plague. I will make them a horror to all the kingdoms of the earth—a curse, a desolation, and an object of scorn and reproach among all the nations to which I banish them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.17|<< Jeremiah 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.19|Jeremiah 29:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 5:6** (5:20)
+**1 Kings 5:6**<big><big>[[1Kgs.5.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that [there is] not among us any that can skill to hew timber like unto the Sidonians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now therefore, order that cedars of Lebanon be cut down for me. My servants will
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.5|<< 1 Kings 5:5]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.7|1 Kings 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | command  |**<big>&#8207;[[H6680\|צַוֵּה֩]]&#8207; </big>**| tza.Veh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

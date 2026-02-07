@@ -1,10 +1,7 @@
 **LXX Judges 11:33** 
 <small><sub>**LXX:**</sub></small>
 And he struck them from Aroer even unto the coming \[to\] Minnith -- twenty cities, and unto \[the\] Abel vineyards, an exceedingly great beating. And the sons of Ammon showed respect in front \[of the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And he smote them from Aroer, even till thou come to Minnith, [even] twenty cities, and unto the plain of the vineyards, with a very great slaughter. Thus the children of Ammon were subdued before the children of Israel.
-<small><sub>**BSB:**</sub></small>
-With a great blow he devastated twenty cities from Aroer to the vicinity of Minnith, as far as Abel-keramim. So the Ammonites were subdued before the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.32|<< Judges 11:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.34|Judges 11:34 >>]]</td></tr></table>
 
 | Translation | Greek |

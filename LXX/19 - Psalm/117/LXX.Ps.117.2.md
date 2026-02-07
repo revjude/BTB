@@ -1,10 +1,7 @@
 **LXX Psalm 117:2** 
 <small><sub>**LXX:**</sub></small>
 For his mercy \[is\] strengthened upon us, and the truth of the <span class="smallcaps">lord</span> abides into the eon. 
-<small><sub>**KJV:**</sub></small>
-For his merciful kindness is great toward us: and the truth of the LORD [endureth] for ever. Praise ye the LORD.
-<small><sub>**BSB:**</sub></small>
-For great is His loving devotion toward us, and the faithfulness of the LORD endures forever. Hallelujah!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.117.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.117.1|<< Psalm 117:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.1|Psalm 118:1 >>]]</td></tr></table>
 
 | Translation | Greek |

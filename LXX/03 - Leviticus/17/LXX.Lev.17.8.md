@@ -1,10 +1,7 @@
 **LXX Leviticus 17:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, \[The\] man, a man from the sons of Israel, and from the foreigners of the ones lying nearby among you, who ever should offer a whole burnt-offering or sacrifice, 
-<small><sub>**KJV:**</sub></small>
-And thou shalt say unto them, Whatsoever man [there be] of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,
-<small><sub>**BSB:**</sub></small>
-Tell them that if anyone from the house of Israel or any foreigner living among them offers a burnt offering or a sacrifice<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.7|<< Leviticus 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.9|Leviticus 17:9 >>]]</td></tr></table>
 
 | Translation | Greek |

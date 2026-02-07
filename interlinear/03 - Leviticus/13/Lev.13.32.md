@@ -1,4 +1,4 @@
-**Leviticus 13:32** 
+**Leviticus 13:32**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the seventh day the priest shall look on the plague: and, behold, [if] the scall spread not, and there be in it no yellow hair, and the scall [be] not in sight deeper than the skin;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the seventh day the priest is to reexamine the infection, and if the scaly ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.31|<< Leviticus 13:31]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.33|Leviticus 13:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will see  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'Ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֣ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

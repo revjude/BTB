@@ -1,10 +1,7 @@
 **LXX Leviticus 19:4** 
 <small><sub>**LXX:**</sub></small>
 You shall not follow after idols, and you shall not make to yourselves molten gods. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Turn ye not unto idols, nor make to yourselves molten gods: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-Do not turn to idols or make for yourselves molten gods. I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.3|<< Leviticus 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.5|Leviticus 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

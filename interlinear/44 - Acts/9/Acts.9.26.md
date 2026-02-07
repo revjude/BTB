@@ -1,12 +1,12 @@
-**Acts 9:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:26**<big><big>[[Acts.9.26 Saul in Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple.
 <small><sub>**BSB:**</sub></small>
 When Saul arrived in Jerusalem, he tried to join the disciples, but they were all afraid of him, not believing that he was a disciple.
 <small><sub>**Literal:**</sub></small>
 Having arrived then <the> Saul in Jerusalem he was trying to join to the disciples; And all were afraid of him not believing that he is a disciple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.25|<< Acts 9:25]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.27|Acts 9:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having arrived |**<big>[[G3854\|Παραγενόμενος]]</big>**  |Paragenomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

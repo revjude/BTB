@@ -1,10 +1,7 @@
 **LXX Proverbs 18:6** 
 <small><sub>**LXX:**</sub></small>
 Lips of a fool lead him into evils;  and his bold mouth calls unto death. 
-<small><sub>**KJV:**</sub></small>
-A fool’s lips enter into contention, and his mouth calleth for strokes.
-<small><sub>**BSB:**</sub></small>
-A fool’s lips bring him strife, and his mouth invites a beating.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.5|<< Proverbs 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.7|Proverbs 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:18** 
 <small><sub>**LXX:**</sub></small>
 And king Rehoboam sent  Adoram, the \[one\] for \[collecting\] the tribute. And all Israel stoned him with stones, and he died. And  king Rehoboam anticipated to ascend upon the chariot  to flee into Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Then king Rehoboam sent Adoram, who [was] over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Then King Rehoboam sent out Adoram, who was in charge of the forced labor, but all Israel stoned him to death. And King Rehoboam mounted his chariot in haste and escaped to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.17|<< 1 Kings 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.19|1 Kings 12:19 >>]]</td></tr></table>
 
 | Translation | Greek |

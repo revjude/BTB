@@ -1,12 +1,12 @@
-**Hebrews 2:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:14**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;
 <small><sub>**BSB:**</sub></small>
 Now since the children have flesh and blood, He too shared in their humanity, so that by His death He might destroy him who holds the power of death, that is, the devil,
 <small><sub>**Literal:**</sub></small>
 Since therefore the children have partaken of blood and of flesh also He himself likewise took part in the same things, so that through <the> [His] death He may destroy the [one] the power holding <the> of death, That is the devil,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.13|<< Hebrews 2:13]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.15|Hebrews 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Since |**<big>[[G1893\|Ἐπεὶ]]</big>**  |Epei <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

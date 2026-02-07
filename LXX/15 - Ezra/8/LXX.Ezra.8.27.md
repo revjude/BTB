@@ -1,10 +1,7 @@
 **LXX Ezra 8:27** 
 <small><sub>**LXX:**</sub></small>
 and twenty bowls of gold of a thousand drachmas, and vessels of brass, shining, good \[quality\], diverse, desirable as gold. 
-<small><sub>**KJV:**</sub></small>
-Also twenty basons of gold, of a thousand drams; and two vessels of fine copper, precious as gold.
-<small><sub>**BSB:**</sub></small>
-20 gold bowls valued at 1,000 darics, and two articles of fine polished bronze, as precious as gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.26|<< Ezra 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.28|Ezra 8:28 >>]]</td></tr></table>
 
 | Translation | Greek |

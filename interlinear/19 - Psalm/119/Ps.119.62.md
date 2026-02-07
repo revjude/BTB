@@ -1,4 +1,4 @@
-**Psalms 119:62** 
+**Psalms 119:62**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At midnight I will rise to give thanks unto thee because of thy righteous judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At midnight I rise to give You thanks for Your righteous judgments.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.61|<< Psalms 119:61]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.63|Psalms 119:63 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] middle of  |**<big>&#8207;[[H2676\|חֲצֽוֹת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.tzot-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] night  |**<big>&#8207;[[H3915\|לַ֗יְלָה]]&#8207; </big>**| Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

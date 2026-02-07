@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:45** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] son of Shammai -- Maon. And Moan \[was\] father of Beth-zur. 
-<small><sub>**KJV:**</sub></small>
-And the son of Shammai [was] Maon: and Maon [was] the father of Bethzur.
-<small><sub>**BSB:**</sub></small>
-The son of Shammai was Maon, and Maon was the father of Beth-zur.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.44|<< 1 Chronicles 2:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.46|1 Chronicles 2:46 >>]]</td></tr></table>
 
 | Translation | Greek |

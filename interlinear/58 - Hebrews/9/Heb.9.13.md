@@ -1,5 +1,5 @@
-**Hebrews 9:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:13**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:
 <small><sub>**BSB:**</sub></small>
 For if the blood of goats and bulls and the ashes of a heifer sprinkled on those who are ceremonially unclean sanctify them so that their bodies are clean,
@@ -10,7 +10,7 @@ If for the blood of goats and of bulls and [the] ashes of a heifer sprinkling th
 > $\quad$ alluding to: [[LXX.Lev.16.14|Lev 16:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

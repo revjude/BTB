@@ -1,4 +1,4 @@
-**1 Chronicles 4:17** 
+**1 Chronicles 4:17**<big><big>[[1Chr.4.11 More Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Ezra [were], Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Ezrah: Jether, Mered, Epher, and Jalon. And Mered’s wife Bithiah g
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.16|<< 1 Chronicles 4:16]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.18|1 Chronicles 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] son of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ezrah  |**<big>&#8207;[[H5834\|עֶזְרָ֔ה]]&#8207; </big>**| 'ez.Rah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

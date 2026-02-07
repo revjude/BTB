@@ -1,4 +1,4 @@
-**2 Kings 8:2** 
+**2 Kings 8:2**<big><big>[[2Kgs.8.1 The Shunammite’s Land Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the woman had proceeded to do as the man of God had instructed. And she and h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.1|<< 2 Kings 8:1]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.3|2 Kings 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|תָּ֙קָם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.kom<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the woman  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

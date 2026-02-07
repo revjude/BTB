@@ -1,12 +1,12 @@
-**Acts 15:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:7**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when there had been much disputing, Peter rose up, and said unto them, Men [and] brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.
 <small><sub>**BSB:**</sub></small>
 After much discussion, Peter got up and said to them, “Brothers, you know that in the early days God made a choice among you that the Gentiles would hear from my lips the message of the gospel and believe.
 <small><sub>**Literal:**</sub></small>
 Of much now controversy having taken place, having risen up Peter said to them; Men brothers, you yourselves know that from days early among you chose <the> God through the mouth of mine to hear the Gentiles the word of the gospel and to believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.6|<< Acts 15:6]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.8|Acts 15:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of much |**<big>[[G4183\|πολλῆς]]</big>**  |pollēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

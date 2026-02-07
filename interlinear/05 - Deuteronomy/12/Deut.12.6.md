@@ -1,4 +1,4 @@
-**Deuteronomy 12:6** 
+**Deuteronomy 12:6**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thither ye shall bring your burnt offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To that place you are to bring your burnt offerings and sacrifices, your tithes 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.5|<< Deuteronomy 12:5]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.7|Deuteronomy 12:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will bring  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|הֲבֵאתֶ֣ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.ve.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there towards  |**<big>&#8207;[[H8033G\|שָׁ֗מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

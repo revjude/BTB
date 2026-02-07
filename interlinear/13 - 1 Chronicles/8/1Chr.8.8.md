@@ -1,4 +1,4 @@
-**1 Chronicles 8:8** 
+**1 Chronicles 8:8**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shaharaim begat [children] in the country of Moab, after he had sent them away; Hushim and Baara [were] his wives.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shaharaim had sons in the country of Moab after he had divorced his wives Hushim
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.7|<< 1 Chronicles 8:7]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.9|1 Chronicles 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Shaharaim  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7842\|שַׁחֲרַ֗יִם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.cha.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִיד֙]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

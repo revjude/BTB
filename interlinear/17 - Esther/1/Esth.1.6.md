@@ -1,4 +1,4 @@
-**Esther 1:6** 
+**Esther 1:6**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Where were] white, green, and blue, [hangings], fastened with cords of fine linen and purple to silver rings and pillars of marble: the beds [were of] gold and silver, upon a pavement of red, and blue, and white, and black, marble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hangings of white and blue linen were fastened with cords of fine white and purp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.5|<< Esther 1:5]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.7|Esther 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | white material  |**<big>&#8207;[[H2353\|ח֣וּר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| chur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cotton  |**<big>&#8207;[[H3768\|כַּרְפַּ֣ס]]&#8207; </big>**| kar.Pas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

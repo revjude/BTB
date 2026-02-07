@@ -1,10 +1,7 @@
 **LXX Genesis 19:14** 
 <small><sub>**LXX:**</sub></small>
 And Lot went forth and spoke to  his sons-in-law, the ones taking  his daughters. And he said, Rise up, and come forth from out of  this place, for \[the\] <span class="smallcaps">lord</span> is obliterating the city. But before his sons-in-law he seemed to be joking. 
-<small><sub>**KJV:**</sub></small>
-And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that mocked unto his sons in law.
-<small><sub>**BSB:**</sub></small>
-So Lot went out and spoke to the sons-in-law who were pledged in marriage to his daughters. “Get up,” he said. “Get out of this place, for the LORD is about to destroy the city!” But his sons-in-law thought he was joking.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.13|<< Genesis 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.15|Genesis 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

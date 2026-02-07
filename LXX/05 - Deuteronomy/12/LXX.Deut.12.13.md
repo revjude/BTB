@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:13** 
 <small><sub>**LXX:**</sub></small>
 Take heed to yourself \[that\] you should not offer  of your whole burnt-offerings in any place of which ever you should behold, 
-<small><sub>**KJV:**</sub></small>
-Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest:
-<small><sub>**BSB:**</sub></small>
-Be careful not to offer your burnt offerings in just any place you see;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.12|<< Deuteronomy 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.14|Deuteronomy 12:14 >>]]</td></tr></table>
 
 | Translation | Greek |

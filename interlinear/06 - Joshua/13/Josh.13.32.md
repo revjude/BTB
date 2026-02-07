@@ -1,4 +1,4 @@
-**Joshua 13:32** 
+**Joshua 13:32**<big><big>[[Josh.13.29 Manasseh’s Eastern Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are the countries] which Moses did distribute for inheritance in the plains of Moab, on the other side Jordan, by Jericho, eastward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the portions Moses had given them on the plains of Moab beyond the Jo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.31|<< Joshua 13:31]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.33|Joshua 13:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֕לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

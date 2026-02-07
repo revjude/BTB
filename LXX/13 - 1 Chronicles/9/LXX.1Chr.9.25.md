@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:25** 
 <small><sub>**LXX:**</sub></small>
 And  their brethren in  their properties \[were\] to come for the sevenths of the times  to enter for seven days from time to time after these. 
-<small><sub>**KJV:**</sub></small>
-And their brethren, [which were] in their villages, [were] to come after seven days from time to time with them.
-<small><sub>**BSB:**</sub></small>
-Their relatives came from their villages at fixed times to serve with them for seven-day periods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.24|<< 1 Chronicles 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.26|1 Chronicles 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

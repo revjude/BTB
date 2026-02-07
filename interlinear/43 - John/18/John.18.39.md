@@ -1,12 +1,12 @@
-**John 18:39
-**<small><sub>**KJV:**</sub></small>
+**John 18:39**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye have a custom, that I should release unto you one at the passover: will ye therefore that I release unto you the King of the Jews?
 <small><sub>**BSB:**</sub></small>
 But it is your custom that I release to you one prisoner at the Passover. So then, do you want me to release to you the King of the Jews?”
 <small><sub>**Literal:**</sub></small>
 It is however a custom with you that one I may release to you at the Passover; wish you therefore I may release to you the King of the Jews?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.38|<< John 18:38]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.40|John 18:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It is |**<big>[[G1510\|ἔστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

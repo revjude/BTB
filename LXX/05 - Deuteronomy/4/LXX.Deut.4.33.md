@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:33** 
 <small><sub>**LXX:**</sub></small>
 if a nation has heard \[the\] voice of \[the\] living God speaking in \[the\] midst of the fire, in which manner you have heard and lived; 
-<small><sub>**KJV:**</sub></small>
-Did [ever] people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?
-<small><sub>**BSB:**</sub></small>
-Has a people ever heard the voice of God speaking out of the fire, as you have, and lived?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.32|<< Deuteronomy 4:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.34|Deuteronomy 4:34 >>]]</td></tr></table>
 
 | Translation | Greek |

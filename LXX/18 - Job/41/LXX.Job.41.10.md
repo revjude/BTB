@@ -1,10 +1,7 @@
 **LXX Job 41:10** 
 <small><sub>**LXX:**</sub></small>
 Are you not in awe that it has been prepared by me? For who is the one opposing me? 
-<small><sub>**KJV:**</sub></small>
-None [is so] fierce that dare stir him up: who then is able to stand before me?
-<small><sub>**BSB:**</sub></small>
-No one is so fierce as to rouse Leviathan. Then who is able to stand against Me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.9|<< Job 41:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.11|Job 41:11 >>]]</td></tr></table>
 
 | Translation | Greek |

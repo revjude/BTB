@@ -1,4 +1,4 @@
-**Deuteronomy 28:40** 
+**Deuteronomy 28:40**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint [thyself] with the oil; for thine olive shall cast [his fruit].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will have olive trees throughout your territory but will never anoint yourse
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.39|<< Deuteronomy 28:39]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.41|Deuteronomy 28:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | olive trees  |**<big>&#8207;[[H2132H\|זֵיתִ֛ים]]&#8207; </big>**| zei.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will belong  |**<big>&#8207;[[H1961\|יִהְי֥וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

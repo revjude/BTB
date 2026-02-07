@@ -1,4 +1,4 @@
-**Genesis 19:4** 
+**Genesis 19:4**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But before they lay down, the men of the city, [even] the men of Sodom, compassed the house round, both old and young, all the people from every quarter:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before they had gone to bed, all the men of the city of Sodom, both young and ol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.3|<< Genesis 19:3]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.5|Genesis 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | before  |**<big>&#8207;[[H2962\|טֶרֶם֮]]&#8207; </big>**| te.Rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they lay down  |**<big>&#8207;[[H7901G\|יִשְׁכָּבוּ֒]]&#8207; </big>**| yish.ka.Vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

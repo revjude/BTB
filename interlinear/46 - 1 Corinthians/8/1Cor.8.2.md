@@ -1,12 +1,12 @@
-**1 Corinthians 8:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:2**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.
 <small><sub>**BSB:**</sub></small>
 The one who thinks he knows something does not yet know as he ought to know.
 <small><sub>**Literal:**</sub></small>
 If now anyone thinks to have known anything, not yet no [thing] he knew even as it is necessary to know;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.1|<< 1 Corinthians 8:1]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.3|1 Corinthians 8:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

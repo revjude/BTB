@@ -1,12 +1,12 @@
-**John 8:21
-**<small><sub>**KJV:**</sub></small>
+**John 8:21**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.
 <small><sub>**BSB:**</sub></small>
 Again He said to them, “I am going away, and you will look for Me, but you will die in your sin. Where I am going, you cannot come.”
 <small><sub>**Literal:**</sub></small>
 He said then again to them <the> Jesus: I myself am going away and you will seek Me and in the sin of you you will die; where I myself go you yourselves not are able to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.20|<< John 8:20]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.22|John 8:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

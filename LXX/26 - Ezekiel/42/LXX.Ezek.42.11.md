@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:11** 
 <small><sub>**LXX:**</sub></small>
 And the promenade in front of them, \[was\] according to the measures of the inner chambers of the ones towards \[the\] north; and according to the length of them, and according to the breadth of them, and according to all  their exits, and according to  their lights, and according to  their doorways 
-<small><sub>**KJV:**</sub></small>
-And the way before them [was] like the appearance of the chambers which [were] toward the north, as long as they, [and] as broad as they: and all their goings out [were] both according to their fashions, and according to their doors.
-<small><sub>**BSB:**</sub></small>
-with a passageway in front of them, just like the chambers that were on the north. They had the same length and width, with similar exits and dimensions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.10|<< Ezekiel 42:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.12|Ezekiel 42:12 >>]]</td></tr></table>
 
 | Translation | Greek |

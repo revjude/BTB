@@ -1,10 +1,7 @@
 **LXX Joshua 21:35** 
 <small><sub>**LXX:**</sub></small>
 and  Dimnah and the outskirts of it, and  Nahalal and the outskirts of it -- four cities. 
-<small><sub>**KJV:**</sub></small>
-Dimnah with her suburbs, Nahalal with her suburbs; four cities.
-<small><sub>**BSB:**</sub></small>
-Dimnah, and Nahalal—four cities, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.34|<< Joshua 21:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.36|Joshua 21:36 >>]]</td></tr></table>
 
 | Translation | Greek |

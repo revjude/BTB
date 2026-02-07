@@ -1,4 +1,4 @@
-**Isaiah 24:19** 
+**Isaiah 24:19**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The earth is utterly broken apart, the earth is split open, the earth is shaken 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.18|<< Isaiah 24:18]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.20|Isaiah 24:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | utterly \<broken>  |**<big>&#8207;[[H7489B\|רֹ֥עָה]]&#8207; </big>**| Ro.'ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been broken  |**<big>&#8207;[[H7489B\|הִֽתְרֹעֲעָ֖ה]]&#8207; </big>**| hit.ro.'a.'Ah<small><sup>[[HVtp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

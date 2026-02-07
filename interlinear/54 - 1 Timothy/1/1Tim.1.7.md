@@ -1,12 +1,12 @@
-**1 Timothy 1:7
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:7**<big><big>[[1Tim.1.3 Correcting False Teachers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
 <small><sub>**BSB:**</sub></small>
 They want to be teachers of the law, but they do not understand what they are saying or that which they so confidently assert.
 <small><sub>**Literal:**</sub></small>
 desiring to be teachers of the Law, not understanding neither what they are saying nor [that] about which they confidently assert.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.6|<< 1 Timothy 1:6]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.8|1 Timothy 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | desiring |**<big>[[G2309\|θέλοντες]]</big>**  |thelontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to be |**<big>[[G1511\|εἶναι]]</big>**  |einai <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

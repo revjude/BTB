@@ -1,10 +1,7 @@
 **LXX Proverbs 22:11** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> loves sacred hearts; and all unblemished ones \[are\] acceptable to him in  their ways. A king tends with \[his\] lips. 
-<small><sub>**KJV:**</sub></small>
-He that loveth pureness of heart, [for] the grace of his lips the king [shall be] his friend.
-<small><sub>**BSB:**</sub></small>
-He who loves a pure heart and gracious lips will have the king for a friend.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.10|<< Proverbs 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.12|Proverbs 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

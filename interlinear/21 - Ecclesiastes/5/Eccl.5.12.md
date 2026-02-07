@@ -1,4 +1,4 @@
-**Ecclesiastes 5:12** (5:11)
+**Ecclesiastes 5:12**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sleep of a labouring man [is] sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sleep of the worker is sweet, whether he eats little or much, but the abunda
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.11|<< Ecclesiastes 5:11]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.13|Ecclesiastes 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] sweet  |**<big>&#8207;[[H4966\|מְתוּקָה֙]]&#8207; </big>**| me.tu.Kah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sleep of  |**<big>&#8207;[[H8142\|שְׁנַ֣ת]]&#8207; </big>**| she.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

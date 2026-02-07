@@ -1,12 +1,12 @@
-**Luke 20:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:21**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person [of any], but teachest the way of God truly:
 <small><sub>**BSB:**</sub></small>
 “Teacher,” they inquired, “we know that You speak and teach correctly. You show no partiality but teach the way of God in accordance with the truth.
 <small><sub>**Literal:**</sub></small>
 And they questioned Him saying; Teacher, we know that rightly You speak and You teach and not You receive [any] person but on the basis of truth the way <the> of God teach.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.20|<< Luke 20:20]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.22|Luke 20:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they questioned |**<big>[[G1905\|ἐπηρώτησαν]]</big>**  |epērōtēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 4:20
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:20**<big><big>[[Mark.4.13 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And these are they which are sown on good ground; such as hear the word, and receive [it], and bring forth fruit, some thirtyfold, some sixty, and some an hundred.
 <small><sub>**BSB:**</sub></small>
 Still others are like the seeds sown on good soil. They hear the word, receive it, and produce a crop—thirtyfold, sixtyfold, or a hundredfold.”
 <small><sub>**Literal:**</sub></small>
 And those are those upon the soil <the> good having been sown, such as hear the word and receive [it] and bring forth fruit one thirtyfold and one sixty and one a hundred.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.19|<< Mark 4:19]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.21|Mark 4:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those [^1] |**<big>[[G1565\|ἐκεῖνοί]]</big>**  |ekeinoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

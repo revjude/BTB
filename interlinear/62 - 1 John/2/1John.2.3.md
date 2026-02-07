@@ -1,12 +1,12 @@
-**1 John 2:3
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:3**<big><big>[[1John.2.1 Jesus Our Advocate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hereby we do know that we know him, if we keep his commandments.
 <small><sub>**BSB:**</sub></small>
 By this we can be sure that we have come to know Him: if we keep His commandments.
 <small><sub>**Literal:**</sub></small>
 And by this we know that we have come to know Him, if the commandments of Him we shall keep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.2|<< 1 John 2:2]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.4|1 John 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | by |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

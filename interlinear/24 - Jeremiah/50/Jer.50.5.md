@@ -1,4 +1,4 @@
-**Jeremiah 50:5** 
+**Jeremiah 50:5**<big><big>[[Jer.50.4 Hope for Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall ask the way to Zion with their faces thitherward, [saying], Come, and let us join ourselves to the LORD in a perpetual covenant [that] shall not be forgotten.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will ask the way to Zion and turn their faces toward it. They will come and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.4|<< Jeremiah 50:4]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.6|Jeremiah 50:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֣וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will ask for  |**<big>&#8207;[[H7592\|יִשְׁאָ֔לוּ]]&#8207; </big>**| yish.'A.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

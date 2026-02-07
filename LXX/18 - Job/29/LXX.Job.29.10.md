@@ -1,10 +1,7 @@
 **LXX Job 29:10** 
 <small><sub>**LXX:**</sub></small>
 And the ones hearing declared me blessed; and their tongue cleaved \[to\] their throat. 
-<small><sub>**KJV:**</sub></small>
-The nobles held their peace, and their tongue cleaved to the roof of their mouth.
-<small><sub>**BSB:**</sub></small>
-The voices of the nobles were hushed, and their tongues stuck to the roofs of their mouths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.9|<< Job 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.11|Job 29:11 >>]]</td></tr></table>
 
 | Translation | Greek |

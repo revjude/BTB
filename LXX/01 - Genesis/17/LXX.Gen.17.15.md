@@ -1,10 +1,7 @@
 **LXX Genesis 17:15** 
 <small><sub>**LXX:**</sub></small>
 And God said  to Abraham, Sarai  your wife -- her name shall not be called Sarai, but, Sarah will be  her name. 
-<small><sub>**KJV:**</sub></small>
-And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah [shall] her name [be].
-<small><sub>**BSB:**</sub></small>
-Then God said to Abraham, “As for Sarai your wife, do not call her Sarai, for her name is to be Sarah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.14|<< Genesis 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.16|Genesis 17:16 >>]]</td></tr></table>
 
 | Translation | Greek |

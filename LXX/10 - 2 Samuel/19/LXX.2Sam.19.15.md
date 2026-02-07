@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:15** 
 <small><sub>**LXX:**</sub></small>
 And the king returned, and came unto the Jordan. And \[the\] men of Judah came to Gilgal  to go to meet the king,  the king to pass over the Jordan. 
-<small><sub>**KJV:**</sub></small>
-So the king returned, and came to Jordan. And Judah came to Gilgal, to go to meet the king, to conduct the king over Jordan.
-<small><sub>**BSB:**</sub></small>
-So the king returned, and when he arrived at the Jordan, the men of Judah came to Gilgal to meet him and escort him across the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.14|<< 2 Samuel 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.16|2 Samuel 19:16 >>]]</td></tr></table>
 
 | Translation | Greek |

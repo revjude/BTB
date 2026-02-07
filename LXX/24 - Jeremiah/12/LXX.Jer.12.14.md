@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:14** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>, Concerning all the wicked neighbors of the ones touching  my inheritance, which I portioned \[to\] my people Israel -- behold, I draw them away from  their land, and  Judah I will cast out from \[the\] midst of them. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD against all mine evil neighbours, that touch the inheritance which I have caused my people Israel to inherit; Behold, I will pluck them out of their land, and pluck out the house of Judah from among them.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “As for all My evil neighbors who attack the inheritance that I bequeathed to My people Israel, I am about to uproot them from their land, and I will uproot the house of Judah from among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.13|<< Jeremiah 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.15|Jeremiah 12:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 33:7** 
+**Deuteronomy 33:7**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is the blessing] of Judah: and he said, Hear, LORD, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help [to him] from his enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And concerning Judah he said: “O LORD, hear the cry of Judah and bring him to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.6|<< Deuteronomy 33:6]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.8|Deuteronomy 33:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹ֣את]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Judah  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H3063G\|יהוּדָה֮]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 35:29** 
 <small><sub>**LXX:**</sub></small>
 And these \[things\] will be to you for an ordinance of judgment unto  your generations in all  your dwellings. 
-<small><sub>**KJV:**</sub></small>
-So these [things] shall be for a statute of judgment unto you throughout your generations in all your dwellings.
-<small><sub>**BSB:**</sub></small>
-This will be a statutory ordinance for you for the generations to come, wherever you live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.28|<< Numbers 35:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.30|Numbers 35:30 >>]]</td></tr></table>
 
 | Translation | Greek |

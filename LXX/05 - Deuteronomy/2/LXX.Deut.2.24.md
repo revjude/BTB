@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:24** 
 <small><sub>**LXX:**</sub></small>
 Now then, rise up and depart and go by the ravine of Arnon! Behold, I have delivered up into  your hands  Sihon king of Heshbon the Amorite and  his land. Commence to inherit \[it\]! Join against him in war! 
-<small><sub>**KJV:**</sub></small>
-Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess [it], and contend with him in battle.
-<small><sub>**BSB:**</sub></small>
-“Arise, set out, and cross the Arnon Valley. See, I have delivered into your hand Sihon the Amorite, king of Heshbon, and his land. Begin to take possession of it and engage him in battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.23|<< Deuteronomy 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.25|Deuteronomy 2:25 >>]]</td></tr></table>
 
 | Translation | Greek |

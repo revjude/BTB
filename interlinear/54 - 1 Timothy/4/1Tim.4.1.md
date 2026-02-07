@@ -1,12 +1,12 @@
-**1 Timothy 4:1
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:1**<big><big>[[1Tim.4.1 A Warning against Apostasy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
 <small><sub>**BSB:**</sub></small>
 Now the Spirit expressly states that in later times some will abandon the faith to follow deceitful spirits and the teachings of demons,
 <small><sub>**Literal:**</sub></small>
 <the> But the Spirit expressly states that in later times will depart from some from the faith giving heed to spirits deceitful and to teachings of demons<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.16|<< 1 Timothy 3:16]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.2|1 Timothy 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τὸ]]</big>**  |To <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Proverbs 23:9** 
 <small><sub>**LXX:**</sub></small>
 Do not speak into \[the\] ears of a fool! lest at any time he sneer at  discerning your words. 
-<small><sub>**KJV:**</sub></small>
-Speak not in the ears of a fool: for he will despise the wisdom of thy words.
-<small><sub>**BSB:**</sub></small>
-Do not speak to a fool, for he will despise the wisdom of your words.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.8|<< Proverbs 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.10|Proverbs 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

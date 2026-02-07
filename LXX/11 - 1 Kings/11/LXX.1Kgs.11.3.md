@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:3** 
 <small><sub>**LXX:**</sub></small>
 And there were to him seven hundred wives \[being female\] rulers, and three hundred concubines. And his wives inclined away  his heart. 
-<small><sub>**KJV:**</sub></small>
-And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.
-<small><sub>**BSB:**</sub></small>
-He had seven hundred wives of royal birth and three hundred concubines—and his wives turned his heart away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.2|<< 1 Kings 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.4|1 Kings 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

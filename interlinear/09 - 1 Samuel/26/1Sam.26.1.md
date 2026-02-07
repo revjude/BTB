@@ -1,4 +1,4 @@
-**1 Samuel 26:1** 
+**1 Samuel 26:1**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, [which is] before Jeshimon?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Ziphites came to Saul at Gibeah and said, “Is not David hiding on the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.44|<< 1 Samuel 25:44]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.2|1 Samuel 26:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֤אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Ziphites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2130\|זִּפִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> zi.Fim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

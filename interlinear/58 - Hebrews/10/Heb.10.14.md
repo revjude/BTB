@@ -1,12 +1,12 @@
-**Hebrews 10:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:14**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For by one offering he hath perfected for ever them that are sanctified.
 <small><sub>**BSB:**</sub></small>
 because by a single offering He has made perfect for all time those who are being sanctified.
 <small><sub>**Literal:**</sub></small>
 By one for offering He has perfected for <the> all time those being sanctified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.13|<< Hebrews 10:13]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.15|Hebrews 10:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By one |**<big>[[G1520\|μιᾷ]]</big>**  |mia <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

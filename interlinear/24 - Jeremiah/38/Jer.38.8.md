@@ -1,4 +1,4 @@
-**Jeremiah 38:8** 
+**Jeremiah 38:8**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ebedmelech went forth out of the king’s house, and spake to the king, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ebed-melech went out from the king’s palace and said to the king,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.7|<< Jeremiah 38:7]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.9|Jeremiah 38:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ebed  |**<big>&#8207;[[H5663\|עֶֽבֶד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.ved-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

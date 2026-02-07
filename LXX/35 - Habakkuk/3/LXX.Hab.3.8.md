@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:8** 
 <small><sub>**LXX:**</sub></small>
 \[Were\] you provoked to anger at \[the\] rivers, O <span class="smallcaps">lord</span>, or was your rage at \[the\] rivers, or \[was\] your impulse at \[the\] sea? The one riding upon  your horses, and  your riding \[is\] deliverance. 
-<small><sub>**KJV:**</sub></small>
-Was the LORD displeased against the rivers? [was] thine anger against the rivers? [was] thy wrath against the sea, that thou didst ride upon thine horses [and] thy chariots of salvation?
-<small><sub>**BSB:**</sub></small>
-Were You angry at the rivers, O LORD? Was Your wrath against the streams? Did You rage against the sea when You rode on Your horses, on Your chariots of salvation?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.7|<< Habakkuk 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.9|Habakkuk 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

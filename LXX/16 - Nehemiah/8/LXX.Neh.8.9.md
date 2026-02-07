@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Nehemiah spoke, who is \[the\] Artasastha, and Ezra the priest and scribe, and the Levites, the ones bringing understanding to the people. And they said to all the people, It is a holy day to the <span class="smallcaps">lord</span> our God, do not mourn nor weep! for all the people wept as they heard the words of the law. 
-<small><sub>**KJV:**</sub></small>
-And Nehemiah, which [is] the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day [is] holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.
-<small><sub>**BSB:**</sub></small>
-Nehemiah the governor, Ezra the priest and scribe, and the Levites who were instructing the people said to all of them, “This day is holy to the LORD your God. Do not mourn or weep.” For all the people were weeping as they heard the words of the Law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.8|<< Nehemiah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.10|Nehemiah 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

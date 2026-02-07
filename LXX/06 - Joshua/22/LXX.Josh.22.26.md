@@ -1,10 +1,7 @@
 **LXX Joshua 22:26** 
 <small><sub>**LXX:**</sub></small>
 And we said to do thus,  to build  this shrine, not because of yield \[offerings\], nor because of sacrifices, 
-<small><sub>**KJV:**</sub></small>
-Therefore we said, Let us now prepare to build us an altar, not for burnt offering, nor for sacrifice:
-<small><sub>**BSB:**</sub></small>
-That is why we said, ‘Let us take action and build an altar for ourselves, but not for burnt offerings or sacrifices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.25|<< Joshua 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.27|Joshua 22:27 >>]]</td></tr></table>
 
 | Translation | Greek |

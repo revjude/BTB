@@ -1,4 +1,4 @@
-**2 Samuel 3:20** 
+**2 Samuel 3:20**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that [were] with him a feast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Abner and twenty of his men came to David at Hebron, David held a feast for
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.19|<< 2 Samuel 3:19]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.21|2 Samuel 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abner  |**<big>&#8207;[[H0074\|אַבְנֵ֤ר]]&#8207; </big>**| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

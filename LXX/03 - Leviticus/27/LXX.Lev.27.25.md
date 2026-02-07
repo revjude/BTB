@@ -1,10 +1,7 @@
 **LXX Leviticus 27:25** 
 <small><sub>**LXX:**</sub></small>
 And all value will be by holy weights -- twenty oboli will be the double-drachma. 
-<small><sub>**KJV:**</sub></small>
-And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel.
-<small><sub>**BSB:**</sub></small>
-Every valuation will be according to the sanctuary shekel, twenty gerahs to the shekel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.24|<< Leviticus 27:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.26|Leviticus 27:26 >>]]</td></tr></table>
 
 | Translation | Greek |

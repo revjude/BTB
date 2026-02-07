@@ -1,10 +1,7 @@
 **LXX Esther 2:16** 
 <small><sub>**LXX:**</sub></small>
 And Esther entered to Artaxerxes the king in the tenth month, which is Tebeth, in the seventh year  of his kingship. 
-<small><sub>**KJV:**</sub></small>
-So Esther was taken unto king Ahasuerus into his house royal in the tenth month, which [is] the month Tebeth, in the seventh year of his reign.
-<small><sub>**BSB:**</sub></small>
-She was taken to King Xerxes in the royal palace in the tenth month, the month of Tebeth, in the seventh year of his reign.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.15|<< Esther 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.17|Esther 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

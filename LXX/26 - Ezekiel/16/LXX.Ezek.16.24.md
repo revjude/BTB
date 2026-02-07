@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:24** 
 <small><sub>**LXX:**</sub></small>
 that you built for yourself a building for a harlot; and you made for yourself a public notice in every square. 
-<small><sub>**KJV:**</sub></small>
-[That] thou hast also built unto thee an eminent place, and hast made thee an high place in every street.
-<small><sub>**BSB:**</sub></small>
-you built yourself a mound and made yourself a lofty shrine in every public square.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.23|<< Ezekiel 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.25|Ezekiel 16:25 >>]]</td></tr></table>
 
 | Translation | Greek |

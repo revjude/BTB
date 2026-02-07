@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:20** 
 <small><sub>**LXX:**</sub></small>
 And the king gave charge \[to\] Helkiah, and  to Ahikam son of Shaphan, and  to Abdon son of Micah, and \[to\] Shaphan the scribe, and \[to\] Asaiah servant of the king, saying, 
-<small><sub>**KJV:**</sub></small>
-And the king commanded Hilkiah, and Ahikam the son of Shaphan, and Abdon the son of Micah, and Shaphan the scribe, and Asaiah a servant of the king’s, saying,
-<small><sub>**BSB:**</sub></small>
-and commanded Hilkiah, Ahikam son of Shaphan, Abdon son of Micah, Shaphan the scribe, and Asaiah the servant of the king:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.19|<< 2 Chronicles 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.21|2 Chronicles 34:21 >>]]</td></tr></table>
 
 | Translation | Greek |

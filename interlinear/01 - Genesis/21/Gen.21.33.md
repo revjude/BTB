@@ -1,4 +1,4 @@
-**Genesis 21:33** 
+**Genesis 21:33**<big><big>[[Gen.21.22 The Covenant at Beersheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [Abraham] planted a grove in Beersheba, and called there on the name of the LORD, the everlasting God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Abraham planted a tamarisk tree in Beersheba, and there he called upon the n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.32|<< Genesis 21:32]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.34|Genesis 21:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he planted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5193\|יִּטַּ֥ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ta'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a tamarisk tree  |**<big>&#8207;[[H0815\|אֶ֖שֶׁל]]&#8207; </big>**| 'E.shel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

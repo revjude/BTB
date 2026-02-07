@@ -1,12 +1,12 @@
-**Acts 25:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:4**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly [thither].
 <small><sub>**BSB:**</sub></small>
 But Festus replied, “Paul is being held in Caesarea, and I myself am going there soon.
 <small><sub>**Literal:**</sub></small>
 <the> Indeed therefore Festus answered that is to be kept <the> Paul in Caesarea, he himself however ensuing with speed to set out;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.3|<< Acts 25:3]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.5|Acts 25:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

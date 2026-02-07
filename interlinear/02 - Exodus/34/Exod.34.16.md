@@ -1,4 +1,4 @@
-**Exodus 34:16** 
+**Exodus 34:16**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when you take some of their daughters as brides for your sons, their daughte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.15|<< Exodus 34:15]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.17|Exodus 34:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתָּ֥]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of daughters his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1323G\|בְּנֹתָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> be.no.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

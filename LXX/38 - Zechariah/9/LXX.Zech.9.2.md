@@ -1,10 +1,7 @@
 **LXX Zechariah 9:2** 
 <small><sub>**LXX:**</sub></small>
 and Hamath among  her limits, Tyre and Sidon, for they thought exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And Hamath also shall border thereby; Tyrus, and Zidon, though it be very wise.
-<small><sub>**BSB:**</sub></small>
-and also against Hamath, which borders it, as well as Tyre and Sidon, though they are very shrewd.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.1|<< Zechariah 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.3|Zechariah 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 19:10** 
+**Judges 19:10**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which [is] Jerusalem; and [there were] with him two asses saddled, his concubine also [was] with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the man was unwilling to spend the night. He got up and departed, and arrive
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.9|<< Judges 19:9]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.11|Judges 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was willing  |**<big>&#8207;[[H0014\|אָבָ֤ה]]&#8207; </big>**| 'a.Vah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

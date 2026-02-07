@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:2** 
 <small><sub>**LXX:**</sub></small>
 And thus \[is\] the order of the release. You shall cancel every private loan, the one which \[your\] neighbor owes to you. And  you shall not exact \[payment\] of your brother, for it has been called a release \[to the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And this [is] the manner of the release: Every creditor that lendeth [ought] unto his neighbour shall release [it]; he shall not exact [it] of his neighbour, or of his brother; because it is called the LORD’S release.
-<small><sub>**BSB:**</sub></small>
-This is the manner of remission: Every creditor shall cancel what he has loaned to his neighbor. He is not to collect anything from his neighbor or brother, because the LORD’s time of release has been proclaimed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.1|<< Deuteronomy 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.3|Deuteronomy 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

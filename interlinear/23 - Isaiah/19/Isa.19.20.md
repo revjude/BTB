@@ -1,4 +1,4 @@
-**Isaiah 19:20** 
+**Isaiah 19:20**<big><big>[[Isa.19.16 A Blessing upon the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be for a sign and for a witness unto the LORD of hosts in the land of Egypt: for they shall cry unto the LORD because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It will be a sign and a witness to the LORD of Hosts in the land of Egypt. When 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.19|<< Isaiah 19:19]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.21|Isaiah 19:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> a sign  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0226G\|א֥וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

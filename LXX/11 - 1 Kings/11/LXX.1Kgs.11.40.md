@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Solomon sought  to put Jeroboam to death. And he rose up, and ran away unto Egypt, to Shishak king of Egypt. And he was in Egypt until Solomon died. 
-<small><sub>**KJV:**</sub></small>
-Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon.
-<small><sub>**BSB:**</sub></small>
-Solomon therefore sought to kill Jeroboam. But Jeroboam arose and fled to Egypt, to Shishak king of Egypt, where he remained until the death of Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.39|<< 1 Kings 11:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.41|1 Kings 11:41 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 8:58
-**<small><sub>**KJV:**</sub></small>
+**John 8:58**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
 <small><sub>**BSB:**</sub></small>
 “Truly, truly, I tell you,” Jesus declared, “before Abraham was born, I am!”
 <small><sub>**Literal:**</sub></small>
 Said to them <the> Jesus; Amen Amen I say to you; before Abraham being I myself am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.57|<< John 8:57]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.59|John 8:59 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

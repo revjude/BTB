@@ -1,4 +1,4 @@
-**Deuteronomy 19:15** 
+**Deuteronomy 19:15**<big><big>[[Deut.19.15 The Testimony of Two or Three Witnesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ A lone witness is not sufficient to establish any wrongdoing or sin against a ma
 > $\quad$ referenced by: [[Matt.18.16|Matt 18:16]] ☩ [[2Cor.13.1|2Cor 13:1]] ☩ [[1Tim.5.19|1Tim 5:19]] ☩ [[Heb.10.28|Heb 10:28]] ☩ [[John.8.17|John 8:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will stand  |**<big>&#8207;[[H6965I\|יָקוּם֩]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

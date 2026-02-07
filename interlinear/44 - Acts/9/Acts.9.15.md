@@ -1,12 +1,12 @@
-**Acts 9:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:15**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the Lord said unto him, Go thy way: for he is a chosen vessel unto me, to bear my name before the Gentiles, and kings, and the children of Israel:
 <small><sub>**BSB:**</sub></small>
 “Go!” said the Lord. “This man is My chosen instrument to carry My name before the Gentiles and their kings, and before the people of Israel.
 <small><sub>**Literal:**</sub></small>
 Said however to him the Lord; do go, for a vessel of choice is to Me this [man] <the> to carry the name of Me before the Gentiles and also kings [the] sons then of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.14|<< Acts 9:14]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.16|Acts 9:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

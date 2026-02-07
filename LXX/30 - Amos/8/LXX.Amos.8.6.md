@@ -1,10 +1,7 @@
 **LXX Amos 8:6** 
 <small><sub>**LXX:**</sub></small>
 \[That we may\] acquire \[the\] poor by silver, and \[the\] needy in return for sandals; and of every business we shall trade. 
-<small><sub>**KJV:**</sub></small>
-That we may buy the poor for silver, and the needy for a pair of shoes; [yea], and sell the refuse of the wheat?
-<small><sub>**BSB:**</sub></small>
-Let us buy the poor with silver and the needy for a pair of sandals, selling even the chaff with the wheat!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.5|<< Amos 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.7|Amos 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

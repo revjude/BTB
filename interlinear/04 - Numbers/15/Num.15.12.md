@@ -1,4 +1,4 @@
-**Numbers 15:12** 
+**Numbers 15:12**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to the number that ye shall prepare, so shall ye do to every one according to their number.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is how you must prepare each one, no matter how many.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.11|<< Numbers 15:11]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.13|Numbers 15:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to the number  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4557\|מִּסְפָּ֖ר]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> mis.Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

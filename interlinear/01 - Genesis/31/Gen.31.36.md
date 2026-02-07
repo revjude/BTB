@@ -1,4 +1,4 @@
-**Genesis 31:36** 
+**Genesis 31:36**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What [is] my trespass? what [is] my sin, that thou hast so hotly pursued after me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jacob became incensed and challenged Laban. “What is my crime?” he said
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.35|<< Genesis 31:35]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.37|Genesis 31:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it burned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2734\|יִּ֥חַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.char<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Jacob  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3290\|יַעֲקֹ֖ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

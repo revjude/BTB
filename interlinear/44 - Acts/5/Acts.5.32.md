@@ -1,12 +1,12 @@
-**Acts 5:32
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:32**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we are his witnesses of these things; and [so is] also the Holy Ghost, whom God hath given to them that obey him.
 <small><sub>**BSB:**</sub></small>
 We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey Him.”
 <small><sub>**Literal:**</sub></small>
 And we ourselves are of him witnesses of the declarations these and also the Spirit now <the> Holy whom has given <the> God to those obeying Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.31|<< Acts 5:31]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.33|Acts 5:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

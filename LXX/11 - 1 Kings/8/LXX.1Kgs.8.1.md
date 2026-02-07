@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then king Solomon held an assembly of all the elders of Israel, and all rulers of tribes, leaders of \[the\] families of \[the\] sons of Israel, for  king Solomon in Jerusalem  to bear the ark of the covenant of \[the\] <span class="smallcaps">lord</span> from out of \[the\] city of David -- this is Zion, 
-<small><sub>**KJV:**</sub></small>
-Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto king Solomon in Jerusalem, that they might bring up the ark of the covenant of the LORD out of the city of David, which [is] Zion.
-<small><sub>**BSB:**</sub></small>
-At that time Solomon assembled before him in Jerusalem the elders of Israel—all the tribal heads and family leaders of the Israelites—to bring up the ark of the covenant of the LORD from Zion, the City of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.51|<< 1 Kings 7:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.2|1 Kings 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

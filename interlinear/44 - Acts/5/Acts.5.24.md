@@ -1,12 +1,12 @@
-**Acts 5:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:24**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when the high priest and the captain of the temple and the chief priests heard these things, they doubted of them whereunto this would grow.
 <small><sub>**BSB:**</sub></small>
 When the captain of the temple guard and the chief priests heard this account, they were perplexed as to what was happening.
 <small><sub>**Literal:**</sub></small>
 When now they heard <the> words these <the> both the priest and the captain of the temple and the chief priests were perplexed concerning them, what maybe would be this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.23|<< Acts 5:23]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.25|Acts 5:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

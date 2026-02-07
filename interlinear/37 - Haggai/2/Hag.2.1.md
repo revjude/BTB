@@ -1,4 +1,4 @@
-**Haggai 2:1** 
+**Haggai 2:1**<big><big>[[Hag.2.1 The Coming Glory of God’s House|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the seventh [month], in the one and twentieth [day] of the month, came the word of the LORD by the prophet Haggai, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the twenty-first day of the seventh month, the word of the LORD came through 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.15|<< Haggai 1:15]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.2|Haggai 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the seventh [month]  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7637\|שְּׁבִיעִ֕י]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [day] twenty  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:13** 
 <small><sub>**LXX:**</sub></small>
 And he placed in  Edom a detachment of soldiers. And all the Edomites were servants \[to\] David. And \[the\] <span class="smallcaps">lord</span> preserved  David in all wherever he went. 
-<small><sub>**KJV:**</sub></small>
-And he put garrisons in Edom; and all the Edomites became David’s servants. Thus the LORD preserved David whithersoever he went.
-<small><sub>**BSB:**</sub></small>
-He placed garrisons in Edom, and all the Edomites were subject to David. So the LORD made David victorious wherever he went.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.12|<< 1 Chronicles 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.14|1 Chronicles 18:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 9:9** 
 <small><sub>**LXX:**</sub></small>
 for we are servants, and in  our servitude \[the\] <span class="smallcaps">lord</span> our God did not abandon us; and he leaned mercy towards us before \[the\] kings of \[the\] Persians,  to give us a restoring to life,  for them to exalt the house  of our God, and to reestablish  its deserted places, and  to give to us a fence in Judah and Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-For we [were] bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Though we are slaves, our God has not forsaken us in our bondage, but He has extended to us grace in the sight of the kings of Persia, giving us new life to rebuild the house of our God and repair its ruins, and giving us a wall of protection in Judah and Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.8|<< Ezra 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.10|Ezra 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

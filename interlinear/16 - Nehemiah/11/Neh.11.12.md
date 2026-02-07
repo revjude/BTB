@@ -1,4 +1,4 @@
-**Nehemiah 11:12** 
+**Nehemiah 11:12**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their brethren that did the work of the house [were] eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and their associates who did the work at the temple—822 men; Adaiah son of Jer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.11|<< Nehemiah 11:11]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.13|Nehemiah 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and brothers their  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0251H\|אֲחֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] did  |**<big>&#8207;[[H6213A\|עֹשֵׂ֤י]]&#8207; </big>**| 'o.Sei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

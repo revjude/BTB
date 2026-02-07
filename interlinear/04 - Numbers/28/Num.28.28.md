@@ -1,4 +1,4 @@
-**Numbers 28:28** 
+**Numbers 28:28**<big><big>[[Num.28.26 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their meat offering of flour mingled with oil, three tenth deals unto one bullock, two tenth deals unto one ram,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ together with their grain offerings of fine flour mixed with oil—three-tenths 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.27|<< Numbers 28:27]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.29|Numbers 28:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and grain offering their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4503G\|מִנְחָתָ֔]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min.cha.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fine flour  |**<big>&#8207;[[H5560\|סֹ֖לֶת]]&#8207; </big>**| So.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

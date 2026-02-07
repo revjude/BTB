@@ -1,4 +1,4 @@
-**Psalms 116:14** 
+**Psalms 116:14**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will pay my vows unto the LORD now in the presence of all his people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will fulfill my vows to the LORD in the presence of all His people.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.13|<< Psalms 116:13]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.15|Psalms 116:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | vows my  |**<big>&#8207;[[H5088\|נְ֭דָרַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Ne.da.ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֣ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:2** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines deployed for war against Israel. And the war leaned \[one way\], and \[the\] men of Israel failed before the Philistines. And there was struck in the battle array in \[the\] field four thousand men. 
-<small><sub>**KJV:**</sub></small>
-And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.
-<small><sub>**BSB:**</sub></small>
-The Philistines arrayed themselves against Israel, and as the battle spread, Israel was defeated by the Philistines, who struck down about four thousand men on the battlefield.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.1|<< 1 Samuel 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.3|1 Samuel 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

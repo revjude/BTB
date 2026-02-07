@@ -1,4 +1,4 @@
-**1 Samuel 14:37** 
+**1 Samuel 14:37**<big><big>[[1Sam.14.37 The People Save Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul asked counsel of God, Shall I go down after the Philistines? wilt thou deliver them into the hand of Israel? But he answered him not that day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Saul inquired of God, “Shall I go down after the Philistines? Will You give
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.36|<< 1 Samuel 14:36]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.38|1 Samuel 14:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he enquired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7592\|יִּשְׁאַ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.'Al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁאוּל֙]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

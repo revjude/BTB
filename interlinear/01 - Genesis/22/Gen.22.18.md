@@ -1,4 +1,4 @@
-**Genesis 22:18** 
+**Genesis 22:18**<big><big>[[Gen.22.11 The LORD Provides the Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And through your offspring all nations of the earth will be blessed, because you
 > $\quad$ referenced by: [[Luke.1.55|Luke 1:55]] ☩ [[Acts.3.25|Acts 3:25]] ☩ [[Gal.3.8|Gal 3:8]] ☩ [[Gal.3.16|Gal 3:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will bless themselves  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1288\|הִתְבָּרֲכ֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.ba.ra.Khu<small><sup>[[HVtq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by offspring your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2233H\|זַרְעֲ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> zar.'a.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

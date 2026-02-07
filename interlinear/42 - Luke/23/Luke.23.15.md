@@ -1,12 +1,12 @@
-**Luke 23:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:15**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him.
 <small><sub>**BSB:**</sub></small>
 Neither has Herod, for he sent Him back to us. As you can see, He has done nothing deserving of death.
 <small><sub>**Literal:**</sub></small>
 But not even [did] Herod; he sent back for Him to us And behold no [thing] worthy of death is done by Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.14|<< Luke 23:14]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.16|Luke 23:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not even [did] |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

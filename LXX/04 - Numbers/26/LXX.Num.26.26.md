@@ -1,10 +1,7 @@
 **LXX Numbers 26:26** 
 <small><sub>**LXX:**</sub></small>
 Sons of Zebulun according to their peoples -- \[to\] Sered, \[the\] people the Seredites; \[to\] Elon, \[the\] people the Elonites; \[to\] Jahleel, \[the\] people the Jahleelites. 
-<small><sub>**KJV:**</sub></small>
-[Of] the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites.
-<small><sub>**BSB:**</sub></small>
-These were the descendants of Zebulun by their clans: The Seredite clan from Sered, the Elonite clan from Elon, and the Jahleelite clan from Jahleel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.25|<< Numbers 26:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.27|Numbers 26:27 >>]]</td></tr></table>
 
 | Translation | Greek |

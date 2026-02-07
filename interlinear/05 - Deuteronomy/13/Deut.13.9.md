@@ -1,4 +1,4 @@
-**Deuteronomy 13:9** (13:10)
+**Deuteronomy 13:9**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou shalt surely kill him; thine hand shall be first upon him to put him to death, and afterwards the hand of all the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, you must surely kill him. Your hand must be the first against him to pu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.8|<< Deuteronomy 13:8]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.10|Deuteronomy 13:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to kill>  |**<big>&#8207;[[H2026\|הָרֹג֙]]&#8207; </big>**| ha.Rog<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

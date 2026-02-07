@@ -1,12 +1,12 @@
-**2 Corinthians 8:12
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:12**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if there be first a willing mind, [it is] accepted according to that a man hath, [and] not according to that he hath not.
 <small><sub>**BSB:**</sub></small>
 For if the eagerness is there, the gift is acceptable according to what one has, not according to what he does not have.
 <small><sub>**Literal:**</sub></small>
 If for the readiness is present, as if he shall have anyone acceptable, not as not he does have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.11|<< 2 Corinthians 8:11]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.13|2 Corinthians 8:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

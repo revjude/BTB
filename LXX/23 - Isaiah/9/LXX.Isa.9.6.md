@@ -1,10 +1,7 @@
 **LXX Isaiah 9:6** 
 <small><sub>**LXX:**</sub></small>
 For a child was born to us; a son was given to us, of whom the sovereignty became upon  his shoulder; and his name is called, Messenger of great counsel, wonderful, counselor, mighty God, potentate, ruler of peace, father of the eon about to be. For I will bring peace upon the rulers, and his health. 
-<small><sub>**KJV:**</sub></small>
-For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counseller, The mighty God, The everlasting Father, The Prince of Peace.
-<small><sub>**BSB:**</sub></small>
-For unto us a child is born, unto us a son is given, and the government will be upon His shoulders. And He will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.5|<< Isaiah 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.7|Isaiah 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

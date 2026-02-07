@@ -1,4 +1,4 @@
-**Deuteronomy 16:21** 
+**Deuteronomy 16:21**<big><big>[[Deut.16.21 Forbidden Forms of Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not plant thee a grove of any trees near unto the altar of the LORD thy God, which thou shalt make thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not set up any wooden Asherah pole next to the altar you will build for the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.20|<< Deuteronomy 16:20]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.22|Deuteronomy 16:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will plant  |**<big>&#8207;[[H5193\|תִטַּ֥ע]]&#8207; </big>**| ti.Ta'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And behold, I send  my messenger before your face, that he may guard you in the way, that he may bring you into the land which I prepared for you. 
-<small><sub>**KJV:**</sub></small>
-Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.
-<small><sub>**BSB:**</sub></small>
-Behold, I am sending an angel before you to protect you along the way and to bring you to the place I have prepared.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.19|<< Exodus 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.21|Exodus 23:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 23:20** is...

@@ -1,4 +1,4 @@
-**Esther 9:23** 
+**Esther 9:23**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Jews undertook to do as they had begun, and as Mordecai had written unto them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Jews agreed to continue the custom they had started, as Mordecai had writ
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.22|<< Esther 9:22]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.24|Esther 9:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he accepted  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6901\|קִבֵּל֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.Bel<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Jews  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3064\|יְּהוּדִ֔ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ye.hu.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 47:7** 
+**Ezekiel 47:7**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when I had returned, behold, at the bank of the river [were] very many trees on the one side and on the other.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When I arrived, I saw a great number of trees along both banks of the river.
 > $\quad$ referenced by: [[Rev.22.1|Rev 22:1-2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when had returned I  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7725G\|שׁוּבֵ֕]]&#8207;&#8207;[[H9040\|נִי]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shu.Ve.<small><sup>[[HVqcc]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 54:3** 
 <small><sub>**LXX:**</sub></small>
 Spread forth yet unto the right and the left! For  your seed shall inherit nations, and you shall dwell in cities having been made desolate. 
-<small><sub>**KJV:**</sub></small>
-For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.
-<small><sub>**BSB:**</sub></small>
-For you will spread out to the right and left; your descendants will dispossess the nations and inhabit the desolate cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.2|<< Isaiah 54:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.4|Isaiah 54:4 >>]]</td></tr></table>
 
 | Translation | Greek |

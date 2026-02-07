@@ -1,5 +1,5 @@
-**Romans 3:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:13**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Their throat [is] an open sepulchre; with their tongues they have used deceit; the poison of asps [is] under their lips:
 <small><sub>**BSB:**</sub></small>
 “Their throats are open graves; their tongues practice deceit.” “The venom of vipers is on their lips.”
@@ -10,7 +10,7 @@ A grave opened [is] the throat of them, with the tongues of them they were pract
 > $\quad$ referencing: [[LXX.Exod.3.6|Exod 3:6]] ☩ [[LXX.Ps.5.9|Ps 5:9]] ☩ [[LXX.Ps.140.3|Ps 140:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A grave |**<big>[[G5028\|τάφος]]</big>**  |taphos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | opened |**<big>[[G0455\|ἀνεῳγμένος]]</big>**  |aneōgmenos <small><sup>[[V-2RPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 17:21
-**<small><sub>**KJV:**</sub></small>
+**John 17:21**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That they all may be one; as thou, Father, [art] in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me.
 <small><sub>**BSB:**</sub></small>
 that all of them may be one, as You, Father, are in Me, and I am in You. May they also be in Us, so that the world may believe that You sent Me.
 <small><sub>**Literal:**</sub></small>
 that all one may be even as You yourself, Father, [are] in Me myself and I myself in You, that also they themselves in Us one may be; that the world may believe that You yourself Me sent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.20|<< John 17:20]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.22|John 17:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

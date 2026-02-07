@@ -1,4 +1,4 @@
-**Numbers 32:32** 
+**Numbers 32:32**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan [may be] ours.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We will cross over into the land of Canaan armed before the LORD, that we may ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.31|<< Numbers 32:31]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.33|Numbers 32:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we  |**<big>&#8207;[[H5168\|נַ֣חְנוּ]]&#8207; </big>**| Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will pass over  |**<big>&#8207;[[H5674A\|נַעֲבֹ֧ר]]&#8207; </big>**| na.'a.Vor<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

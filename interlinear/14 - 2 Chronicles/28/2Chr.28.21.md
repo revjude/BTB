@@ -1,4 +1,4 @@
-**2 Chronicles 28:21** 
+**2 Chronicles 28:21**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Ahaz took away a portion [out] of the house of the LORD, and [out] of the house of the king, and of the princes, and gave [it] unto the king of Assyria: but he helped him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Although Ahaz had taken a portion from the house of the LORD, from the royal pal
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.20|<< 2 Chronicles 28:20]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.22|2 Chronicles 28:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had plundered  |**<big>&#8207;[[H2505A\|חָלַ֤ק]]&#8207; </big>**| cha.Lak<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

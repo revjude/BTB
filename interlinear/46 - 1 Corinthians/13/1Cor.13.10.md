@@ -1,12 +1,12 @@
-**1 Corinthians 13:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 13:10**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when that which is perfect is come, then that which is in part shall be done away.
 <small><sub>**BSB:**</sub></small>
 but when the perfect comes, the partial passes away.
 <small><sub>**Literal:**</sub></small>
 when however may come the perfect, then the in part will be done away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.9|<< 1 Corinthians 13:9]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.11|1 Corinthians 13:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

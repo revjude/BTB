@@ -1,4 +1,4 @@
-**Job 29:16** 
+**Job 29:16**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [was] a father to the poor: and the cause [which] I knew not I searched out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I was a father to the needy, and I took up the case of the stranger.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.15|<< Job 29:15]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.17|Job 29:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a father  |**<big>&#8207;[[H0001G\|אָ֣ב]]&#8207; </big>**| 'av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָ֭נֹכִֽי]]&#8207; </big>**| 'A.no.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

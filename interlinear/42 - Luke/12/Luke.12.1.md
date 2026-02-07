@@ -1,12 +1,12 @@
-**Luke 12:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:1**<big><big>[[Luke.12.1 The Leaven of the Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.
 <small><sub>**BSB:**</sub></small>
 In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy.
 <small><sub>**Literal:**</sub></small>
 In these [times] when were gathering the myriads of the crowd so as to trample upon one another He began to say to the disciples of Him first; do take heed to yourselves of the leaven which is hypocrisy of the Pharisees.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.54|<< Luke 11:54]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.2|Luke 12:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these [times] |**<big>[[G3739\|οἷς]]</big>**  |hois <small><sup>[[R-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

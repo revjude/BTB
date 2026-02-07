@@ -1,4 +1,4 @@
-**Exodus 26:34** 
+**Exodus 26:34**<big><big>[[Exod.26.31 The Veil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put the mercy seat upon the ark of the testimony in the most holy [place].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Put the mercy seat on the ark of the Testimony in the Most Holy Place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.33|<< Exodus 26:33]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.35|Exodus 26:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַתָּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now, thus said \[the\] <span class="smallcaps">lord</span>  God of Israel against  this city, which you say, It shall be delivered up into \[the\] hands of \[the\] king of Babylon by \[the\] sword, and by famine, and by pestilence. 
-<small><sub>**KJV:**</sub></small>
-And now therefore thus saith the LORD, the God of Israel, concerning this city, whereof ye say, It shall be delivered into the hand of the king of Babylon by the sword, and by the famine, and by the pestilence;
-<small><sub>**BSB:**</sub></small>
-Now therefore, about this city of which you say, ‘It will be delivered into the hand of the king of Babylon by sword and famine and plague,’ this is what the LORD, the God of Israel, says:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.35|<< Jeremiah 32:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.37|Jeremiah 32:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 26:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:20**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But shewed first unto them of Damascus, and at Jerusalem, and throughout all the coasts of Judaea, and [then] to the Gentiles, that they should repent and turn to God, and do works meet for repentance.
 <small><sub>**BSB:**</sub></small>
 First to those in Damascus and Jerusalem, then to everyone in the region of Judea, and then to the Gentiles, I declared that they should repent and turn to God, performing deeds worthy of their repentance.
 <small><sub>**Literal:**</sub></small>
 but to those in Damascus first both also in Jerusalem into all both the region <the> of Judea, and to the Gentiles I was declaring to repent and to turn to <the> God worthy <the> of repentance works doing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.19|<< Acts 26:19]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.21|Acts 26:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to those |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 59:15** 
+**Isaiah 59:15**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, truth faileth; and he [that] departeth from evil maketh himself a prey: and the LORD saw [it], and it displeased him that [there was] no judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Truth is missing, and whoever turns from evil becomes prey. The LORD looked and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.14|<< Isaiah 59:14]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.16|Isaiah 59:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִ֤י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> truth  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0571H\|אֱמֶת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 10:42** 
 <small><sub>**LXX:**</sub></small>
 And all  these kings and  their land Joshua took at once; for \[the\] <span class="smallcaps">lord</span>  God of Israel joined in war with  Israel. 
-<small><sub>**KJV:**</sub></small>
-And all these kings and their land did Joshua take at one time, because the LORD God of Israel fought for Israel.
-<small><sub>**BSB:**</sub></small>
-And because the LORD, the God of Israel, fought for Israel, Joshua captured all these kings and their land in one campaign.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.41|<< Joshua 10:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.43|Joshua 10:43 >>]]</td></tr></table>
 
 | Translation | Greek |

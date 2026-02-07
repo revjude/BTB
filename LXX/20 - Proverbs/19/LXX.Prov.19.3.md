@@ -1,10 +1,7 @@
 **LXX Proverbs 19:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] folly of a man lays waste  his ways;  and he blames God in his heart. 
-<small><sub>**KJV:**</sub></small>
-The foolishness of man perverteth his way: and his heart fretteth against the LORD.
-<small><sub>**BSB:**</sub></small>
-A man’s own folly subverts his way, yet his heart rages against the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.2|<< Proverbs 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.4|Proverbs 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

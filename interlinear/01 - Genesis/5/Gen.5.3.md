@@ -1,4 +1,4 @@
-**Genesis 5:3** 
+**Genesis 5:3**<big><big>[[Gen.5.1 The Descendants of Adam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adam lived an hundred and thirty years, and begat [a son] in his own likeness, after his image; and called his name Seth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Adam was 130 years old, he had a son in his own likeness, after his own ima
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.2|<< Genesis 5:2]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.4|Genesis 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2421\|יְחִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adam  |**<big>&#8207;[[H0121G\|אָדָ֗ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

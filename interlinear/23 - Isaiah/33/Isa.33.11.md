@@ -1,4 +1,4 @@
-**Isaiah 33:11** 
+**Isaiah 33:11**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall conceive chaff, ye shall bring forth stubble: your breath, [as] fire, shall devour you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You conceive chaff; you give birth to stubble. Your breath is a fire that will c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.10|<< Isaiah 33:10]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.12|Isaiah 33:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will conceive  |**<big>&#8207;[[H2029\|תַּהֲר֥וּ]]&#8207; </big>**| ta.ha.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dry grass  |**<big>&#8207;[[H2842\|חֲשַׁ֖שׁ]]&#8207; </big>**| cha.Shash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

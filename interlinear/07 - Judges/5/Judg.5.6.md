@@ -1,4 +1,4 @@
-**Judges 5:6** 
+**Judges 5:6**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the days of Shamgar son of Anath, in the days of Jael, the highways were dese
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.5|<< Judges 5:5]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.7|Judges 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] days of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3117G\|ימֵ֞י]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shamgar  |**<big>&#8207;[[H8044\|שַׁמְגַּ֤ר]]&#8207; </big>**| sham.Gar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

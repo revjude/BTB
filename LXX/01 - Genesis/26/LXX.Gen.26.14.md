@@ -1,10 +1,7 @@
 **LXX Genesis 26:14** 
 <small><sub>**LXX:**</sub></small>
 And there became to him herds of sheep, and herds of oxen, and many farms. And the Philistines envied him. 
-<small><sub>**KJV:**</sub></small>
-For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him.
-<small><sub>**BSB:**</sub></small>
-He owned so many flocks and herds and servants that the Philistines envied him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.13|<< Genesis 26:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.15|Genesis 26:15 >>]]</td></tr></table>
 
 | Translation | Greek |

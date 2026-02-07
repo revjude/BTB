@@ -1,4 +1,4 @@
-**Genesis 41:40** 
+**Genesis 41:40**<big><big>[[Gen.41.37 Joseph Given Charge of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You shall be in charge of my house, and all my people are to obey your commands.
 > $\quad$ referenced by: [[Acts.7.10|Acts 7:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be  |**<big>&#8207;[[H1961\|תִּהְיֶ֣ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

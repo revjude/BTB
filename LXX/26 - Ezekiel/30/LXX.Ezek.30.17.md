@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:17** 
 <small><sub>**LXX:**</sub></small>
 Young men of Heliopolis and Bubastum shall fall by \[the\] sword, and the women shall go into captivity. 
-<small><sub>**KJV:**</sub></small>
-The young men of Aven and of Pibeseth shall fall by the sword: and these [cities] shall go into captivity.
-<small><sub>**BSB:**</sub></small>
-The young men of On and Pi-beseth will fall by the sword, and those cities will go into captivity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.16|<< Ezekiel 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.18|Ezekiel 30:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 31:25** 
+**Jeremiah 31:25**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have satiated the weary soul, and I have replenished every sorrowful soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for I will refresh the weary soul and replenish all who are weak.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.24|<< Jeremiah 31:24]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.26|Jeremiah 31:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I give water to  |**<big>&#8207;[[H7301\|הִרְוֵ֖יתִי]]&#8207; </big>**| hir.Vei.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

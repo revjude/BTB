@@ -1,4 +1,4 @@
-**Jeremiah 51:35** 
+**Jeremiah 51:35**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The violence done to me and to my flesh [be] upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the violence done to me and to my flesh be upon Babylon,” says the dweller
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.34|<< Jeremiah 51:34]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.36|Jeremiah 51:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | violence my  |**<big>&#8207;[[H2555\|חֲמָסִ֤]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| cha.ma.S<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and flesh my  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7607\|שְׁאֵרִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'e.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

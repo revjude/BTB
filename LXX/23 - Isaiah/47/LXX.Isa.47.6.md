@@ -1,10 +1,7 @@
 **LXX Isaiah 47:6** 
 <small><sub>**LXX:**</sub></small>
 I was provoked by  my people. You defiled  my inheritance. I gave them into  your hand, but you did not grant mercy to them. You oppressed the old man by the yoke exceedingly. 
-<small><sub>**KJV:**</sub></small>
-I was wroth with my people, I have polluted mine inheritance, and given them into thine hand: thou didst shew them no mercy; upon the ancient hast thou very heavily laid thy yoke.
-<small><sub>**BSB:**</sub></small>
-I was angry with My people; I profaned My heritage, and I placed them under your control. You showed them no mercy; even on the elderly you laid a most heavy yoke.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.5|<< Isaiah 47:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.7|Isaiah 47:7 >>]]</td></tr></table>
 
 | Translation | Greek |

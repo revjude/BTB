@@ -1,10 +1,7 @@
 **LXX Psalm 97:12** 
 <small><sub>**LXX:**</sub></small>
 \[The\] just should be glad in the <span class="smallcaps">lord</span>, and make acknowledgment to the remembrance  of his holiness. 
-<small><sub>**KJV:**</sub></small>
-Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness.
-<small><sub>**BSB:**</sub></small>
-Rejoice in the LORD, you righteous ones, and praise His holy name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.97.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.11|<< Psalm 97:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.98.1|Psalm 98:1 >>]]</td></tr></table>
 
 | Translation | Greek |

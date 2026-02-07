@@ -1,10 +1,7 @@
 **LXX Daniel 7:14** 
 <small><sub>**LXX:**</sub></small>
 And to him was given the rule, and the honor, and the kingdom; and all the peoples, tribes, and languages shall serve to him.  His authority \[is\] an eternal authority which shall not pass away, and  his kingdom shall not be destroyed. 
-<small><sub>**KJV:**</sub></small>
-And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
-<small><sub>**BSB:**</sub></small>
-And He was given dominion, glory, and kingship, that the people of every nation and language should serve Him. His dominion is an everlasting dominion that will not pass away, and His kingdom is one that will never be destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.13|<< Daniel 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.15|Daniel 7:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:14** is...

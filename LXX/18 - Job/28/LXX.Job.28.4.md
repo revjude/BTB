@@ -1,10 +1,7 @@
 **LXX Job 28:4** 
 <small><sub>**LXX:**</sub></small>
 \[There is\] a breach of \[the\] rushing stream from powder; and the ones forgetting \[the\] just way are weakened; of mortals -- they are shaken. 
-<small><sub>**KJV:**</sub></small>
-The flood breaketh out from the inhabitant; [even the waters] forgotten of the foot: they are dried up, they are gone away from men.
-<small><sub>**BSB:**</sub></small>
-Far from human habitation he cuts a shaft in places forgotten by the foot of man. Far from men he dangles and sways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.3|<< Job 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.5|Job 28:5 >>]]</td></tr></table>
 
 | Translation | Greek |

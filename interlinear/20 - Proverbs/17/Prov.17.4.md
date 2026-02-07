@@ -1,4 +1,4 @@
-**Proverbs 17:4** 
+**Proverbs 17:4**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wicked doer giveth heed to false lips; [and] a liar giveth ear to a naughty tongue.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wicked man listens to evil lips; a liar gives ear to a destructive tongue.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.3|<< Proverbs 17:3]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.5|Proverbs 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an evil-doer  |**<big>&#8207;[[H7489A\|מֵ֭רַע]]&#8207; </big>**| Me.ra'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] paying attention  |**<big>&#8207;[[H7181\|מַקְשִׁ֣יב]]&#8207; </big>**| mak.Shiv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

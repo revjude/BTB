@@ -1,12 +1,12 @@
-**John 7:16
-**<small><sub>**KJV:**</sub></small>
+**John 7:16**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered them, and said, My doctrine is not mine, but his that sent me.
 <small><sub>**BSB:**</sub></small>
 “My teaching is not My own,” Jesus replied. “It comes from Him who sent Me.
 <small><sub>**Literal:**</sub></small>
 Answered therefore them <the> Jesus and said: <the> My teaching not is of Myself but of the [One who] having sent Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.15|<< John 7:15]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.17|John 7:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |

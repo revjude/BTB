@@ -1,4 +1,4 @@
-**Judges 16:17** 
+**Judges 16:17**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he told her all his heart, and said unto her, There hath not come a rasor upon mine head; for I [have been] a Nazarite unto God from my mother’s womb: if I be shaven, then my strength will go from me, and I shall become weak, and be like any [other] man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Samson told her all that was in his heart: “My hair has never been cut, becaus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.16|<< Judges 16:16]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.18|Judges 16:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגֶּד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.ged-<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> her  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

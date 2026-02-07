@@ -1,4 +1,4 @@
-**Deuteronomy 21:6** 
+**Deuteronomy 21:6**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the elders of that city, [that are] next unto the slain [man], shall wash their hands over the heifer that is beheaded in the valley:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the elders of the city nearest the victim shall wash their hands by the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.5|<< Deuteronomy 21:5]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.7|Deuteronomy 21:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹ֗ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] elders of  |**<big>&#8207;[[H2205G\|זִקְנֵי֙]]&#8207; </big>**| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

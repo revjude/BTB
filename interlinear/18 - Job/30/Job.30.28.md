@@ -1,4 +1,4 @@
-**Job 30:28** 
+**Job 30:28**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went mourning without the sun: I stood up, [and] I cried in the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I go about blackened, but not by the sun. I stand up in the assembly and cry for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.27|<< Job 30:27]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.29|Job 30:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | being dark  |**<big>&#8207;[[H6937\|קֹדֵ֣ר]]&#8207; </big>**| ko.Der<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have gone about  |**<big>&#8207;[[H1980I\|הִ֭לַּכְתִּי]]&#8207; </big>**| Hi.lakh.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

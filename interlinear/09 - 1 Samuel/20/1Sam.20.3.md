@@ -1,4 +1,4 @@
-**1 Samuel 20:3** 
+**1 Samuel 20:3**<big><big>[[1Sam.20.1 Jonathan Helps David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly [as] the LORD liveth, and [as] thy soul liveth, [there is] but a step between me and death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But David again vowed, “Your father knows very well that I have found favor in
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.2|<< 1 Samuel 20:2]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.4|1 Samuel 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he swore an oath  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7650\|יִּשָּׁבַ֨ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sha.Va'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֜וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

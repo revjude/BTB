@@ -1,4 +1,4 @@
-**1 Samuel 2:8** 
+**1 Samuel 2:8**<big><big>[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He raiseth up the poor out of the dust, [and] lifteth up the beggar from the dunghill, to set [them] among princes, and to make them inherit the throne of glory: for the pillars of the earth [are] the LORD’S, and he hath set the world upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He raises the poor from the dust and lifts the needy from the ash heap. He seats
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.7|<< 1 Samuel 2:7]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.9|1 Samuel 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] raising up  |**<big>&#8207;[[H6965H\|מֵקִ֨ים]]&#8207; </big>**| me.Kim<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] dust  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6083\|עָפָ֜ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

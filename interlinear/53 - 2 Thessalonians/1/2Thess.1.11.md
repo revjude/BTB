@@ -1,12 +1,12 @@
-**2 Thessalonians 1:11
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 1:11**<big><big>[[2Thess.1.5 Christ’s Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore also we pray always for you, that our God would count you worthy of [this] calling, and fulfil all the good pleasure of [his] goodness, and the work of faith with power:
 <small><sub>**BSB:**</sub></small>
 To this end, we always pray for you, that our God will count you worthy of His calling, and that He will powerfully fulfill your every good desire and work of faith,
 <small><sub>**Literal:**</sub></small>
 for which also we pray always for you that you He may count worthy of the calling of the God of us and He may fulfill every good pleasure of goodness and work of faith with power,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.10|<< 2 Thessalonians 1:10]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.12|2 Thessalonians 1:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

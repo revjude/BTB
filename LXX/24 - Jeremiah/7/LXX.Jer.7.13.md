@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:13** 
 <small><sub>**LXX:**</sub></small>
 And now, because you have done all  these works, and I spoke to you, and you heard me not; and I called you, and you were not responding; 
-<small><sub>**KJV:**</sub></small>
-And now, because ye have done all these works, saith the LORD, and I spake unto you, rising up early and speaking, but ye heard not; and I called you, but ye answered not;
-<small><sub>**BSB:**</sub></small>
-And now, because you have done all these things, declares the LORD, and because I have spoken to you again and again but you would not listen, and I have called to you but you would not answer,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.12|<< Jeremiah 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.14|Jeremiah 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

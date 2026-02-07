@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:18** 
 <small><sub>**LXX:**</sub></small>
 And they yelled with a great voice in Jewish unto the people of Jerusalem  upon the wall,  to make them afraid of them, and  to tear them down, so as to first take the city. 
-<small><sub>**KJV:**</sub></small>
-Then they cried with a loud voice in the Jews’ speech unto the people of Jerusalem that [were] on the wall, to affright them, and to trouble them; that they might take the city.
-<small><sub>**BSB:**</sub></small>
-Then the Assyrians called out loudly in Hebrew to the people of Jerusalem who were on the wall, to frighten and terrify them in order to capture the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.17|<< 2 Chronicles 32:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.19|2 Chronicles 32:19 >>]]</td></tr></table>
 
 | Translation | Greek |

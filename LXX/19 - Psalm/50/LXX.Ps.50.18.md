@@ -1,10 +1,7 @@
 **LXX Psalm 50:18** 
 <small><sub>**LXX:**</sub></small>
 Since you viewed a thief, you ran together with him; and you established your portion with \[the\] adulterer. 
-<small><sub>**KJV:**</sub></small>
-When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.
-<small><sub>**BSB:**</sub></small>
-When you see a thief, you befriend him, and throw in your lot with adulterers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.17|<< Psalm 50:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.19|Psalm 50:19 >>]]</td></tr></table>
 
 | Translation | Greek |

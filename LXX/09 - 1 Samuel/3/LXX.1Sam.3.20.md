@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:20** 
 <small><sub>**LXX:**</sub></small>
 And all Israel knew from Dan and unto Beer-sheba that Samuel \[was\] trustworthy for prophet to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And all Israel from Dan even to Beersheba knew that Samuel [was] established [to be] a prophet of the LORD.
-<small><sub>**BSB:**</sub></small>
-So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.19|<< 1 Samuel 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.21|1 Samuel 3:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 3:20** is...

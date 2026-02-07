@@ -1,4 +1,4 @@
-**Ezekiel 18:13** 
+**Ezekiel 18:13**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hath given forth upon usury, and hath taken increase: shall he then live? he shall not live: he hath done all these abominations; he shall surely die; his blood shall be upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He engages in usury and takes excess interest. Will this son live? He will not! 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.12|<< Ezekiel 18:12]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.14|Ezekiel 18:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for \<the> interest  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5392\|נֶּ֧שֶׁךְ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Ne.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has lent  |**<big>&#8207;[[H5414G\|נָתַ֛ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

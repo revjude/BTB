@@ -1,4 +1,4 @@
-**2 Chronicles 20:2** 
+**2 Chronicles 20:2**<big><big>[[2Chr.20.1 War against Jehoshaphat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they [be] in Hazazontamar, which [is] Engedi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then some men came and told Jehoshaphat, “A vast army is coming against you fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.1|<< 2 Chronicles 20:1]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.3|2 Chronicles 20:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֗אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגִּ֤ידוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 10:19** 
+**Jeremiah 10:19**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe is me for my hurt! my wound is grievous: but I said, Truly this [is] a grief, and I must bear it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to me because of my brokenness; my wound is grievous! But I said, “This is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.18|<< Jeremiah 10:18]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.20|Jeremiah 10:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe!  |**<big>&#8207;[[H0188\|א֥וֹי]]&#8207; </big>**| 'o<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

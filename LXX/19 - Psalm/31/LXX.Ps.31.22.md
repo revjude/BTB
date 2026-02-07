@@ -1,10 +1,7 @@
 **LXX Psalm 31:22** 
 <small><sub>**LXX:**</sub></small>
 But I said in  my change of state, I am thrown away from in front  of your eyes. On account of this you heard of the voice  of my supplication in  my crying out to you. 
-<small><sub>**KJV:**</sub></small>
-For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee.
-<small><sub>**BSB:**</sub></small>
-In my alarm I said, “I am cut off from Your sight!” But You heard my plea for mercy when I called to You for help.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.21|<< Psalm 31:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.23|Psalm 31:23 >>]]</td></tr></table>
 
 | Translation | Greek |

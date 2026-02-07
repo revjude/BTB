@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:16** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the speaking to him by him, that he said to him, Have I appointed you counselor of the king? Take heed to it! that they should not strike you. And the prophet kept silent, and said, I know that \[the\] <span class="smallcaps">lord</span> consulted  to utterly destroy you, for he did this, and you did not heed  my advice. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as he talked with him, that [the king] said unto him, Art thou made of the king’s counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel.
-<small><sub>**BSB:**</sub></small>
-While he was still speaking, the king asked, “Have we made you the counselor to the king? Stop! Why be struck down?” So the prophet stopped, but he said, “I know that God has determined to destroy you, because you have done this and have not heeded my advice.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.15|<< 2 Chronicles 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.17|2 Chronicles 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

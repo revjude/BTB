@@ -1,4 +1,4 @@
-**Jeremiah 17:10** 
+**Jeremiah 17:10**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I the LORD search the heart, [I] try the reins, even to give every man according to his ways, [and] according to the fruit of his doings.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I, the LORD, search the heart; I examine the mind to reward a man according to h
 > $\quad$ referenced by: [[Rev.2.23|Rev 2:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֧י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -25,8 +25,8 @@ I, the LORD, search the heart; I examine the mind to reward a man according to h
 | deeds his  |**<big>&#8207;[[H4611\|מַעֲלָלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ma.'a.la.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.9|<< Jeremiah 17:9]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.11|Jeremiah 17:11 >>]]</td></tr></table>
 
-[^1]: ==K==: according to way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^2]: ==K==: according to way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^3]: ==K==: according to way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
+[^1]: ==K==: according to way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
+[^2]: ==K==: according to way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
+[^3]: ==K==: according to way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַרְכּ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> dar.ko<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
 [^4]: ==L== spelled: **<span class="ashebrew"><big>כִּדְרָכָ֔/ו</big></span>**
 

@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:62** 
 <small><sub>**LXX:**</sub></small>
 then you shall say, O <span class="smallcaps">lord</span>, you spoke against  this place,  to utterly destroy it, and  to not be in it \[any\] dwelling from man unto beast, for it will be an extinction into the eon. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou say, O LORD, thou hast spoken against this place, to cut it off, that none shall remain in it, neither man nor beast, but that it shall be desolate for ever.
-<small><sub>**BSB:**</sub></small>
-and say, ‘O LORD, You have promised to cut off this place so that no one will remain—neither man nor beast. Indeed, it will be desolate forever.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.62|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.61|<< Jeremiah 51:61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.63|Jeremiah 51:63 >>]]</td></tr></table>
 
 | Translation | Greek |

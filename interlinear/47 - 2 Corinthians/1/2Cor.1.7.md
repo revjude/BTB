@@ -1,12 +1,12 @@
-**2 Corinthians 1:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:7**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And our hope of you [is] stedfast, knowing, that as ye are partakers of the sufferings, so [shall ye be] also of the consolation.
 <small><sub>**BSB:**</sub></small>
 And our hope for you is sure, because we know that just as you share in our sufferings, so also you will share in our comfort.
 <small><sub>**Literal:**</sub></small>
 And the hope of us [is] steadfast for of you; {7} knowing that as partners you are of the sufferings, so also of the comfort.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.6|<< 2 Corinthians 1:6]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.8|2 Corinthians 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

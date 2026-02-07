@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:11** 
 <small><sub>**LXX:**</sub></small>
 And there will be the place which ever \[the\] <span class="smallcaps">lord</span> your God should choose his name to be called upon there -- there you shall bring all as many \[things\] as I give charge to you today;  your whole burnt-offerings, and  your sacrifices, and  your tithes, and the first-fruits  of your hands, and every choice \[thing\]  of your gifts, as many as you should vow to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall ye bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which ye vow unto the LORD:
-<small><sub>**BSB:**</sub></small>
-then the LORD your God will choose a dwelling for His Name. And there you are to bring everything I command you: your burnt offerings and sacrifices, your tithes and special gifts, and all the choice offerings you vow to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.10|<< Deuteronomy 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.12|Deuteronomy 12:12 >>]]</td></tr></table>
 
 | Translation | Greek |

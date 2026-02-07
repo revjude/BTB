@@ -1,4 +1,4 @@
-**Exodus 28:29** 
+**Exodus 28:29**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall bear the names of the children of Israel in the breastplate of judgment upon his heart, when he goeth in unto the holy [place], for a memorial before the LORD continually.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whenever Aaron enters the Holy Place, he shall bear the names of the sons of Isr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.28|<< Exodus 28:28]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.30|Exodus 28:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375H\|נָשָׂ֣א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sa'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַ֠הֲרֹן]]&#8207; </big>**| 'A.ha.ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

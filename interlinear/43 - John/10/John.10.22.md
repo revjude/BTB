@@ -1,12 +1,12 @@
-**John 10:22
-**<small><sub>**KJV:**</sub></small>
+**John 10:22**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it was at Jerusalem the feast of the dedication, and it was winter.
 <small><sub>**BSB:**</sub></small>
 At that time the Feast of Dedication took place in Jerusalem. It was winter,
 <small><sub>**Literal:**</sub></small>
 Took place at the time the Feast of Dedication at <the> Jerusalem; And winter it was,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.21|<< John 10:21]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.23|John 10:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Took place |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | at the time [^1] [^2] |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(K)O</abbr> | |

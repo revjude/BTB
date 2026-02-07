@@ -1,10 +1,7 @@
 **LXX Psalm 19:9** 
 <small><sub>**LXX:**</sub></small>
 The fear of \[the\] <span class="smallcaps">lord</span> \[is\] pure, abiding into \[the\] eon of \[the\] eon. The judgments of \[the\] <span class="smallcaps">lord</span> \[are\] true, doing justice to the same; 
-<small><sub>**KJV:**</sub></small>
-The fear of the LORD [is] clean, enduring for ever: the judgments of the LORD [are] true [and] righteous altogether.
-<small><sub>**BSB:**</sub></small>
-The fear of the LORD is pure, enduring forever; the judgments of the LORD are true, being altogether righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.8|<< Psalm 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.10|Psalm 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

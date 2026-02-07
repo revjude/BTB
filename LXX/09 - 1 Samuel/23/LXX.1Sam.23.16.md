@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:16** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan son of Saul rose up, and went to David in New. And he fortified  his hands in the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan Saul’s son arose, and went to David into the wood, and strengthened his hand in God.
-<small><sub>**BSB:**</sub></small>
-And Saul’s son Jonathan came to David in Horesh and strengthened his hand in God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.15|<< 1 Samuel 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.17|1 Samuel 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 22:22** 
 <small><sub>**LXX:**</sub></small>
 Do not repel \[the\] needy! for he is poor. And you shall not dishonor \[the\] weak at \[the\] gates; 
-<small><sub>**KJV:**</sub></small>
-Rob not the poor, because he [is] poor: neither oppress the afflicted in the gate:
-<small><sub>**BSB:**</sub></small>
-Do not rob a poor man because he is poor, and do not crush the afflicted at the gate,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.21|<< Proverbs 22:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.23|Proverbs 22:23 >>]]</td></tr></table>
 
 | Translation | Greek |

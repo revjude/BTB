@@ -1,4 +1,4 @@
-**1 Kings 16:4** 
+**1 Kings 16:4**<big><big>[[1Kgs.16.1 Jehu’s Prophecy against Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Him that dieth of Baasha in the city shall the dogs eat; and him that dieth of his in the fields shall the fowls of the air eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Anyone belonging to Baasha who dies in the city will be eaten by dogs, and anyon
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.3|<< 1 Kings 16:3]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.5|1 Kings 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one who] dies  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4191\|מֵּ֤ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Met<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Baasha  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1201\|בַעְשָׁא֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va'.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

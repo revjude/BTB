@@ -1,12 +1,12 @@
-**John 16:27
-**<small><sub>**KJV:**</sub></small>
+**John 16:27**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Father himself loveth you, because ye have loved me, and have believed that I came out from God.
 <small><sub>**BSB:**</sub></small>
 For the Father Himself loves you, because you have loved Me and have believed that I came from God.
 <small><sub>**Literal:**</sub></small>
 Himself for the Father loves you, because you yourselves Me myself have loved and have believed that I myself from <the> God came forth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.26|<< John 16:26]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.28|John 16:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

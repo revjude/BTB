@@ -1,4 +1,4 @@
-**Numbers 27:3** 
+**Numbers 27:3**<big><big>[[Num.27.1 The Daughters of Zelophehad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our father died in the wilderness, and he was not in the company of them that ga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.2|<< Numbers 27:2]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.4|Numbers 27:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | father our  |**<big>&#8207;[[H0001G\|אָבִי]]&#8207;&#8207;[[H9025\|נוּ֮]]&#8207; </big>**| 'a.vi.<small><sup>[[HNcmsc]]</sup></small> Nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he died  |**<big>&#8207;[[H4191\|מֵ֣ת]]&#8207; </big>**| met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

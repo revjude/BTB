@@ -1,4 +1,4 @@
-**Jeremiah 48:45** 
+**Jeremiah 48:45**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the midst of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They that fled stood under the shadow of Heshbon because of the force: but a fir
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.44|<< Jeremiah 48:44]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.46|Jeremiah 48:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] shadow of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6738\|צֵ֥ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tzel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Heshbon  |**<big>&#8207;[[H2809\|חֶשְׁבּ֛וֹן]]&#8207; </big>**| chesh.Bon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

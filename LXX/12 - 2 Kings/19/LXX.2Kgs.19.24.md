@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:24** 
 <small><sub>**LXX:**</sub></small>
 I cooled \[myself\] and drank alien waters; and I made quite desolate with the sole  of my feet all the rivers of \[the\] citadel. 
-<small><sub>**KJV:**</sub></small>
-I have digged and drunk strange waters, and with the sole of my feet have I dried up all the rivers of besieged places.
-<small><sub>**BSB:**</sub></small>
-I have dug wells and drunk foreign waters. With the soles of my feet I have dried up all the streams of Egypt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.23|<< 2 Kings 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.25|2 Kings 19:25 >>]]</td></tr></table>
 
 | Translation | Greek |

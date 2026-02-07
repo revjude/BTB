@@ -1,10 +1,7 @@
 **LXX Isaiah 21:10** 
 <small><sub>**LXX:**</sub></small>
 Hear! O ones being left behind, and, O ones grieving. Hear what I heard from \[the\] <span class="smallcaps">lord</span> of Hosts! \[what\] the God  of Israel announced to you. 
-<small><sub>**KJV:**</sub></small>
-O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you.
-<small><sub>**BSB:**</sub></small>
-O my people, crushed on the threshing floor, I tell you what I have heard from the LORD of Hosts, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.9|<< Isaiah 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.11|Isaiah 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

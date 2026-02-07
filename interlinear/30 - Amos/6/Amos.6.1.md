@@ -1,4 +1,4 @@
-**Amos 6:1** 
+**Amos 6:1**<big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to them [that are] at ease in Zion, and trust in the mountain of Samaria, [which are] named chief of the nations, to whom the house of Israel came!
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Woe to those at ease in Zion and those secure on Mount Samaria, the distinguishe
 > $\quad$ referenced by: [[Luke.6.24|Luke 6:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֚וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [people] at ease  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7600\|שַּׁאֲנַנִּ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.'a.na.Nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

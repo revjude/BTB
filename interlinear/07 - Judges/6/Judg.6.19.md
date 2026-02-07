@@ -1,4 +1,4 @@
-**Judges 6:19** 
+**Judges 6:19**<big><big>[[Judg.6.11 The Call of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gideon went in, and made ready a kid, and unleavened cakes of an ephah of flour: the flesh he put in a basket, and he put the broth in a pot, and brought [it] out unto him under the oak, and presented [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Gideon went in and prepared a young goat and unleavened bread and an ephah of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.18|<< Judges 6:18]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.20|Judges 6:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Gideon  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1439\|גִדְע֣וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gid.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went  |**<big>&#8207;[[H0935G\|בָּ֗א]]&#8207; </big>**| Ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

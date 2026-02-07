@@ -1,10 +1,7 @@
 **LXX Jonah 3:10** 
 <small><sub>**LXX:**</sub></small>
 And God saw  their works, that they turned from  their wicked ways; and God changed his mind over the evil which he spoke  to do to them; and he did not do it. 
-<small><sub>**KJV:**</sub></small>
-And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did [it] not.
-<small><sub>**BSB:**</sub></small>
-When God saw their actions—that they had turned from their evil ways—He relented from the disaster He had threatened to bring upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.9|<< Jonah 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.1|Jonah 4:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 3:10** is...

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:4** 
 <small><sub>**LXX:**</sub></small>
 And he spoke to the people, to the ones dwelling in Jerusalem, to give the portion of the priests and the Levites, so that they should grow strong in the ministry of \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of the LORD.
-<small><sub>**BSB:**</sub></small>
-Moreover, he commanded the people living in Jerusalem to make a contribution for the priests and Levites so that they could devote themselves to the Law of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.3|<< 2 Chronicles 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.5|2 Chronicles 31:5 >>]]</td></tr></table>
 
 | Translation | Greek |

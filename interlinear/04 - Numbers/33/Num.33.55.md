@@ -1,4 +1,4 @@
-**Numbers 33:55** 
+**Numbers 33:55**<big><big>[[Num.33.50 Instructions for Occupying Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them [shall be] pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if you do not drive out the inhabitants of the land before you, those you al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.54|<< Numbers 33:54]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.56|Numbers 33:56 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֨א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

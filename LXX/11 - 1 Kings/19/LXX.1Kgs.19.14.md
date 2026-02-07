@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:14** 
 <small><sub>**LXX:**</sub></small>
 And Elijah said, Being zealous, I am zealous for the <span class="smallcaps">lord</span> God almighty, for the sons of Israel abandoned your covenant,  your altars they razed, and  your prophets they killed by \[the\] broadsword, and I alone am left, and they seek  my life to take it. 
-<small><sub>**KJV:**</sub></small>
-And he said, I have been very jealous for the LORD God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, [even] I only, am left; and they seek my life, to take it away.
-<small><sub>**BSB:**</sub></small>
-“I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.13|<< 1 Kings 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.15|1 Kings 19:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Kings 19:14** is...

@@ -1,10 +1,7 @@
 **LXX Psalm 73:14** 
 <small><sub>**LXX:**</sub></small>
 and became for whipping all the day; and  my reproof \[is\] in the mornings. 
-<small><sub>**KJV:**</sub></small>
-For all the day long have I been plagued, and chastened every morning.
-<small><sub>**BSB:**</sub></small>
-For I am afflicted all day long and punished every morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.13|<< Psalm 73:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.15|Psalm 73:15 >>]]</td></tr></table>
 
 | Translation | Greek |

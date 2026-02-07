@@ -1,12 +1,12 @@
-**Matthew 15:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:28**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus answered and said unto her, O woman, great [is] thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
 <small><sub>**BSB:**</sub></small>
 “O woman,” Jesus answered, “your faith is great! Let it be done for you as you desire.” And her daughter was healed from that very hour.
 <small><sub>**Literal:**</sub></small>
 Then answering <the> Jesus said to her; O woman, great [is] of you the faith! it should be [done] to you as you desire. And was healed the daughter of her from the hour that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.27|<< Matthew 15:27]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.29|Matthew 15:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

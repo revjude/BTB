@@ -1,4 +1,4 @@
-**2 Samuel 3:10** 
+**2 Samuel 3:10**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beersheba.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to transfer the kingdom from the house of Saul and to establish the throne of Da
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.9|<< 2 Samuel 3:9]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.11|2 Samuel 3:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to take away  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5674C\|הַֽעֲבִ֥יר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.'a.Vir<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the kingdom  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4467\|מַּמְלָכָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mam.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

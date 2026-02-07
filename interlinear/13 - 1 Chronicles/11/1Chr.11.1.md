@@ -1,4 +1,4 @@
-**1 Chronicles 11:1** 
+**1 Chronicles 11:1**<big><big>[[1Chr.11.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all Israel gathered themselves to David unto Hebron, saying, Behold, we [are] thy bone and thy flesh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all Israel came together to David at Hebron and said, “Here we are, your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.14|<< 1 Chronicles 10:14]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.2|1 Chronicles 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered together  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקָּבְצ֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.ve.Tzu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

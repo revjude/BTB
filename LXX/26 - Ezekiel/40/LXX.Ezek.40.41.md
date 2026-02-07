@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:41** 
 <small><sub>**LXX:**</sub></small>
 Four tables \[were\] on this side, and four on that side, according to \[the\] back of the gate; upon them they slay the \[things\] offered for sacrifices. And over against the eight tables of the \[things\] offered for sacrifices. 
-<small><sub>**KJV:**</sub></small>
-Four tables [were] on this side, and four tables on that side, by the side of the gate; eight tables, whereupon they slew [their sacrifices].
-<small><sub>**BSB:**</sub></small>
-So there were four tables inside the gateway and four outside—eight tables in all—on which the sacrifices were to be slaughtered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.40|<< Ezekiel 40:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.42|Ezekiel 40:42 >>]]</td></tr></table>
 
 | Translation | Greek |

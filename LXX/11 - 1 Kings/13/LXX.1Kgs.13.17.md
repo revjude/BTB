@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:17** 
 <small><sub>**LXX:**</sub></small>
 For so it has been given charge to me by \[the\] word \[of the\] <span class="smallcaps">lord</span>, saying, You shall not eat bread there, and you shall not drink water, and you shall not return there in the way in which you went by it. 
-<small><sub>**KJV:**</sub></small>
-For it was said to me by the word of the LORD, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest.
-<small><sub>**BSB:**</sub></small>
-For I have been told by the word of the LORD: ‘You must not eat bread or drink water there or return by the way you came.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.16|<< 1 Kings 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.18|1 Kings 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

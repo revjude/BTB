@@ -1,4 +1,4 @@
-**Exodus 3:5** 
+**Exodus 3:5**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest [is] holy ground.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And he said, Draw not nigh hither: put off thy shoes from off thy feet, for the 
 > $\quad$ referenced by: [[Acts.7.33|Acts 7:33]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

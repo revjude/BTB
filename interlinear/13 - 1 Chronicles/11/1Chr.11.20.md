@@ -1,4 +1,4 @@
-**1 Chronicles 11:20** 
+**1 Chronicles 11:20**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew [them], and had a name among the three.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Abishai, the brother of Joab, was chief of the Three, and he wielded his spe
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.19|<< 1 Chronicles 11:19]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.21|1 Chronicles 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abishai  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0052\|אַבְשַׁ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.chi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

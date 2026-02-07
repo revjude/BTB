@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:12** 
 <small><sub>**LXX:**</sub></small>
 And the men were doing in trust the \[things\] over the works. And over them overseers were established -- Jahath and Obadiah the Levites, of \[the\] sons of Merari; and Zechariah and Meshullam, of the sons of Kohath -- to oversee; and all \[other\] Levites, and all perceiving \[to play\] with instruments of odes, 
-<small><sub>**KJV:**</sub></small>
-And the men did the work faithfully: and the overseers of them [were] Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set [it] forward; and [other of] the Levites, all that could skill of instruments of musick.
-<small><sub>**BSB:**</sub></small>
-And the men did the work faithfully. The Levites overseeing them were Jahath and Obadiah, descendants of Merari, and Zechariah and Meshullam, descendants of Kohath. Other Levites, all skilled with musical instruments,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.11|<< 2 Chronicles 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.13|2 Chronicles 34:13 >>]]</td></tr></table>
 
 | Translation | Greek |

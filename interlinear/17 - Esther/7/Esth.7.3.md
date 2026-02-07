@@ -1,4 +1,4 @@
-**Esther 7:3** 
+**Esther 7:3**<big><big>[[Esth.7.1 Esther Pleads for Her People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Esther the queen answered and said, If I have found favour in thy sight, O king, and if it please the king, let my life be given me at my petition, and my people at my request:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Queen Esther replied, “If I have found favor in your sight, O king, and if it 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7.2|<< Esther 7:2]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.4|Esther 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|תַּ֨עַן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'an<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esther  |**<big>&#8207;[[H0635\|אֶסְתֵּ֤ר]]&#8207; </big>**| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

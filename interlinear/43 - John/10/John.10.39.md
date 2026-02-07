@@ -1,12 +1,12 @@
-**John 10:39
-**<small><sub>**KJV:**</sub></small>
+**John 10:39**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore they sought again to take him: but he escaped out of their hand,
 <small><sub>**BSB:**</sub></small>
 At this, they tried again to seize Him, but He escaped their grasp.
 <small><sub>**Literal:**</sub></small>
 They were seeking therefore Him again to seize; but He went forth out of the hand of them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.38|<< John 10:38]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.40|John 10:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were seeking |**<big>[[G2212\|Ἐζήτουν]]</big>**  |Ezētoun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

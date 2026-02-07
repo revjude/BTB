@@ -1,4 +1,4 @@
-**Haggai 2:13** 
+**Haggai 2:13**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Haggai, If [one that is] unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Haggai asked, “If one who is defiled by contact with a corpse touches any o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.12|<< Haggai 2:12]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.14|Haggai 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Haggai  |**<big>&#8207;[[H2292A\|חַגַּ֔י]]&#8207; </big>**| cha.Gai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

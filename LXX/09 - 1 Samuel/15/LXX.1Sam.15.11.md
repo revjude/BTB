@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:11** 
 <small><sub>**LXX:**</sub></small>
 I have changed my mind for Saul to reign as king, for he turned away from \[following\] after me; and  my words he did not give heed to. And Samuel was depressed, and yelled to \[the\] <span class="smallcaps">lord</span> \[the\] entire  night. 
-<small><sub>**KJV:**</sub></small>
-It repenteth me that I have set up Saul [to be] king: for he is turned back from following me, and hath not performed my commandments. And it grieved Samuel; and he cried unto the LORD all night.
-<small><sub>**BSB:**</sub></small>
-“I regret that I have made Saul king, for he has turned away from following Me and has not carried out My instructions.” And Samuel was distressed and cried out to the LORD all that night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.10|<< 1 Samuel 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.12|1 Samuel 15:12 >>]]</td></tr></table>
 
 | Translation | Greek |

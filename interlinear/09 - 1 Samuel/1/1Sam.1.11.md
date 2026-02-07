@@ -1,4 +1,4 @@
-**1 Samuel 1:11** 
+**1 Samuel 1:11**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no rasor come upon his head.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And she made a vow, saying, “O LORD of Hosts, if only You will look upon the a
 > $\quad$ referenced by: [[Luke.1.48|Luke 1:48]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she vowed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5087\|תִּדֹּ֨ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Dor<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a vow  |**<big>&#8207;[[H5088\|נֶ֜דֶר]]&#8207; </big>**| Ne.der<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

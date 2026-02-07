@@ -1,10 +1,7 @@
 **LXX Exodus 9:2** 
 <small><sub>**LXX:**</sub></small>
 For if then you do not want to send out  my people, but still to have power over them, 
-<small><sub>**KJV:**</sub></small>
-For if thou refuse to let [them] go, and wilt hold them still,
-<small><sub>**BSB:**</sub></small>
-But if you continue to restrain them and refuse to let them go,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.1|<< Exodus 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.3|Exodus 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

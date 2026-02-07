@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:31** 
 <small><sub>**LXX:**</sub></small>
 And I will pour out upon you  my anger. In \[the\] fire of my anger I will breathe against you, and I will deliver you into \[the\] hands of barbaric men contriving corruption. 
-<small><sub>**KJV:**</sub></small>
-And I will pour out mine indignation upon thee, I will blow against thee in the fire of my wrath, and deliver thee into the hand of brutish men, [and] skilful to destroy.
-<small><sub>**BSB:**</sub></small>
-I will pour out My anger upon you; I will breathe the fire of My fury against you; I will hand you over to brutal men, skilled in destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.30|<< Ezekiel 21:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.32|Ezekiel 21:32 >>]]</td></tr></table>
 
 | Translation | Greek |

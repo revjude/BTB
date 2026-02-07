@@ -1,4 +1,4 @@
-**Psalms 78:61** 
+**Psalms 78:61**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And delivered his strength into captivity, and his glory into the enemy’s hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He delivered His strength to captivity, and His splendor to the hand of the adve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.60|<< Psalms 78:60]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.62|Psalms 78:62 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתֵּ֣ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> captivity  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7628A\|שְּׁבִ֣י]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> she.Vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

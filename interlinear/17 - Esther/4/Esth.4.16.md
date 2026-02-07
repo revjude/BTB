@@ -1,4 +1,4 @@
-**Esther 4:16** 
+**Esther 4:16**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which [is] not according to the law: and if I perish, I perish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go, gather together all the Jews that are present in Shushan, and fast ye for me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.15|<< Esther 4:15]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.17|Esther 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לֵךְ֩]]&#8207; </big>**| leKh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gather  |**<big>&#8207;[[H3664\|כְּנ֨וֹס]]&#8207; </big>**| ke.Nos<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

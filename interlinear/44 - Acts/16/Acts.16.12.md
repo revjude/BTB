@@ -1,12 +1,12 @@
-**Acts 16:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:12**<big><big>[[Acts.16.11 Lydia’s Conversion in Philippi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from thence to Philippi, which is the chief city of that part of Macedonia, [and] a colony: and we were in that city abiding certain days.
 <small><sub>**BSB:**</sub></small>
 From there we went to the Roman colony of Philippi, the leading city of that district of Macedonia. And we stayed there several days.
 <small><sub>**Literal:**</sub></small>
 and from there to Philippi, which is [the] leading [city] of the district <the> of Macedonia [the] city, [and Roman] colony. We were now in this <the> city staying days some.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.11|<< Acts 16:11]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.13|Acts 16:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from there [^1] |**<big>[[G2532\|κἀκεῖθεν]]</big>**  |kakeithen <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | to |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

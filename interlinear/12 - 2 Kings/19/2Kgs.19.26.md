@@ -1,4 +1,4 @@
-**2 Kings 19:26** 
+**2 Kings 19:26**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore their inhabitants were of small power, they were dismayed and confounded; they were [as] the grass of the field, and [as] the green herb, [as] the grass on the housetops, and [as corn] blasted before it be grown up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore their inhabitants, devoid of power, are dismayed and ashamed. They are
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.25|<< 2 Kings 19:25]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.27|2 Kings 19:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and inhabitants their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3427\|יֹֽשְׁבֵי]]&#8207;&#8207;[[H9029\|הֶן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.she.vei.<small><sup>[[HVqrmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] short of  |**<big>&#8207;[[H7116\|קִצְרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kitz.rei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

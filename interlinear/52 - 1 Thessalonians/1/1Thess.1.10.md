@@ -1,12 +1,12 @@
-**1 Thessalonians 1:10
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 1:10**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to wait for his Son from heaven, whom he raised from the dead, [even] Jesus, which delivered us from the wrath to come.
 <small><sub>**BSB:**</sub></small>
 and to await His Son from heaven, whom He raised from the dead—Jesus our deliverer from the coming wrath.
 <small><sub>**Literal:**</sub></small>
 and to await the Son of Him from the heavens, whom He raised out from the dead, Jesus who is delivering us from the wrath which is coming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.9|<< 1 Thessalonians 1:9]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.1|1 Thessalonians 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to await |**<big>[[G0362\|ἀναμένειν]]</big>**  |anamenein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

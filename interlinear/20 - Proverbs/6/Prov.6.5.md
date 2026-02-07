@@ -1,4 +1,4 @@
-**Proverbs 6:5** 
+**Proverbs 6:5**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver thyself as a roe from the hand [of the hunter], and as a bird from the hand of the fowler.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Free yourself, like a gazelle from the hand of the hunter, like a bird from the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.4|<< Proverbs 6:4]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.6|Proverbs 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deliver yourself  |**<big>&#8207;[[H5337\|הִ֭נָּצֵל]]&#8207; </big>**| Hi.na.tzel<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a gazelle  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H6643B\|צְבִ֣י]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> tz.Vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

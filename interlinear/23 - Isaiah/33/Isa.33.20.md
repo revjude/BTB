@@ -1,4 +1,4 @@
-**Isaiah 33:20** 
+**Isaiah 33:20**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle [that] shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look upon Zion, the city of our appointed feasts. Your eyes will see Jerusalem, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.19|<< Isaiah 33:19]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.21|Isaiah 33:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H2372\|חֲזֵ֣ה]]&#8207; </big>**| cha.Zeh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֔וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

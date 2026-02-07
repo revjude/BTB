@@ -1,12 +1,12 @@
-**Acts 9:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:14**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And here he hath authority from the chief priests to bind all that call on thy name.
 <small><sub>**BSB:**</sub></small>
 And now he is here with authority from the chief priests to arrest all who call on Your name.”
 <small><sub>**Literal:**</sub></small>
 and here he has authority from the chief priests to bind all those calling on the name of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.13|<< Acts 9:13]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.15|Acts 9:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | here |**<big>[[G5602\|ὧδε]]</big>**  |hōde <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

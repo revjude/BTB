@@ -1,10 +1,7 @@
 **LXX Leviticus 14:11** 
 <small><sub>**LXX:**</sub></small>
 And the priest that cleanses shall stand the man for the cleansing, and these \[offerings\] before \[the\] <span class="smallcaps">lord</span>, at the door of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And the priest that maketh [him] clean shall present the man that is to be made clean, and those things, before the LORD, [at] the door of the tabernacle of the congregation:
-<small><sub>**BSB:**</sub></small>
-The priest who performs the cleansing shall present the one to be cleansed, together with these offerings, before the LORD at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.10|<< Leviticus 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.12|Leviticus 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

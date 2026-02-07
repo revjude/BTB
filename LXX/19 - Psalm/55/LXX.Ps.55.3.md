@@ -1,10 +1,7 @@
 **LXX Psalm 55:3** 
 <small><sub>**LXX:**</sub></small>
 from \[the\] voice of \[the\] enemy, and from \[the\] affliction of \[the\] sinner; for they turned aside against me for lawlessness, and in anger they displayed anger against me. 
-<small><sub>**KJV:**</sub></small>
-Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.
-<small><sub>**BSB:**</sub></small>
-at the voice of the enemy, at the pressure of the wicked. For they bring down disaster upon me and resent me in their anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.55.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.2|<< Psalm 55:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.4|Psalm 55:4 >>]]</td></tr></table>
 
 | Translation | Greek |

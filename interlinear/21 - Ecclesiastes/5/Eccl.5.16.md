@@ -1,4 +1,4 @@
-**Ecclesiastes 5:16** (5:15)
+**Ecclesiastes 5:16**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this also [is] a sore evil, [that] in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This too is a grievous affliction: Exactly as a man is born, so he will depart. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.15|<< Ecclesiastes 5:15]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.17|Ecclesiastes 5:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2090\|זֹה֙]]&#8207; </big>**| zoh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

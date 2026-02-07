@@ -1,4 +1,4 @@
-**Psalms 68:3** (68:4)
+**Psalms 68:3**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the righteous will be glad and rejoice before God; they will celebrate with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.2|<< Psalms 68:2]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.4|Psalms 68:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and righteous [people]  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H6662\|צַדִּיקִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may they be glad  |**<big>&#8207;[[H8055\|יִשְׂמְח֣וּ]]&#8207; </big>**| yis.me.Chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

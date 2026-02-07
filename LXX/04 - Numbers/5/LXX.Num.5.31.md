@@ -1,10 +1,7 @@
 **LXX Numbers 5:31** 
 <small><sub>**LXX:**</sub></small>
 And the man will be innocent from sin. And that woman shall take the sin on herself. 
-<small><sub>**KJV:**</sub></small>
-Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity.
-<small><sub>**BSB:**</sub></small>
-The husband will be free from guilt, but the woman shall bear her iniquity.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.30|<< Numbers 5:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.1|Numbers 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

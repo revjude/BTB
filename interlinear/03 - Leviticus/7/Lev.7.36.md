@@ -1,4 +1,4 @@
-**Leviticus 7:36** 
+**Leviticus 7:36**<big><big>[[Lev.7.28 The Priests’ Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which the LORD commanded to be given them of the children of Israel, in the day that he anointed them, [by] a statute for ever throughout their generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the day they were anointed, the LORD commanded that this be given them by the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.35|<< Leviticus 7:35]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.37|Leviticus 7:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he commanded  |**<big>&#8207;[[H6680\|צִוָּ֨ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 32:25** 
+**Ezekiel 32:25**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have set her a bed in the midst of the slain with all her multitude: her graves [are] round about him: all of them uncircumcised, slain by the sword: though their terror was caused in the land of the living, yet have they borne their shame with them that go down to the pit: he is put in the midst of [them that be] slain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Among the slain they prepare a resting place for Elam with all her hordes, with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.24|<< Ezekiel 32:24]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.26|Ezekiel 32:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in among  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|ת֣וֹךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those] slain  |**<big>&#8207;[[H2491A\|חֲ֠לָלִים]]&#8207; </big>**| Cha.la.lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 4:2** 
+**1 Samuel 4:2**<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Philistines arrayed themselves against Israel, and as the battle spread, Isr
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.1|<< 1 Samuel 4:1]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.3|1 Samuel 4:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they deployed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6186A\|יַּעַרְכ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'ar.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּ֜ים]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

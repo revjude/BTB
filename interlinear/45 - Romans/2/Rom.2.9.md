@@ -1,12 +1,12 @@
-**Romans 2:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:9**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile;
 <small><sub>**BSB:**</sub></small>
 There will be trouble and distress for every human being who does evil, first for the Jew, then for the Greek;
 <small><sub>**Literal:**</sub></small>
 tribulation and distress upon every soul of man which is working the evil, of Jew both first and also of Greek;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.8|<< Romans 2:8]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.10|Romans 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tribulation |**<big>[[G2347\|θλῖψις]]</big>**  |thlipsis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

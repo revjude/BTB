@@ -1,10 +1,7 @@
 **LXX Zechariah 10:5** 
 <small><sub>**LXX:**</sub></small>
 And they shall be as warriors treading mud in the ways in battle. And they shall deploy, because \[the\] <span class="smallcaps">lord</span> \[is\] with them, and \[the\] riders of horses shall be disgraced. 
-<small><sub>**KJV:**</sub></small>
-And they shall be as mighty [men], which tread down [their enemies] in the mire of the streets in the battle: and they shall fight, because the LORD [is] with them, and the riders on horses shall be confounded.
-<small><sub>**BSB:**</sub></small>
-They will be like mighty men in battle, trampling the enemy in the mire of the streets. They will fight because the LORD is with them, and they will put the horsemen to shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.4|<< Zechariah 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.6|Zechariah 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

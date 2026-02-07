@@ -1,4 +1,4 @@
-**Ecclesiastes 10:16** 
+**Ecclesiastes 10:16**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to thee, O land, when thy king [is] a child, and thy princes eat in the morning!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to you, O land whose king is a youth, and whose princes feast in the morning
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.15|<< Ecclesiastes 10:15]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.17|Ecclesiastes 10:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe!  |**<big>&#8207;[[H0337\|אִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'i-<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

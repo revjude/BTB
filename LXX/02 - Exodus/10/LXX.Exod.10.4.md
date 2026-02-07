@@ -1,10 +1,7 @@
 **LXX Exodus 10:4** 
 <small><sub>**LXX:**</sub></small>
 But if you should not want to send out  my people, behold, I will bring this in the hour tomorrow -- much locust upon all  your boundaries. 
-<small><sub>**KJV:**</sub></small>
-Else, if thou refuse to let my people go, behold, to morrow will I bring the locusts into thy coast:
-<small><sub>**BSB:**</sub></small>
-But if you refuse to let My people go, I will bring locusts into your territory tomorrow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.3|<< Exodus 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.5|Exodus 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

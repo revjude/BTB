@@ -1,4 +1,4 @@
-**1 Samuel 1:27** 
+**1 Samuel 1:27**<big><big>[[1Sam.1.19 The Birth of Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this child I prayed; and the LORD hath given me my petition which I asked of him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I prayed for this boy, and since the LORD has granted me what I asked of Him,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.26|<< 1 Samuel 1:26]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.28|1 Samuel 1:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | concerning  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lad  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5288\|נַּ֥עַר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

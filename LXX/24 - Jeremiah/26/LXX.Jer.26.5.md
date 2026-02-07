@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:5** 
 <small><sub>**LXX:**</sub></small>
 to listen to the words  of my servants the prophets whom I sent to you at dawn, (for I sent, and you hearkened not to me;) 
-<small><sub>**KJV:**</sub></small>
-To hearken to the words of my servants the prophets, whom I sent unto you, both rising up early, and sending [them], but ye have not hearkened;
-<small><sub>**BSB:**</sub></small>
-and if you do not listen to the words of My servants the prophets, whom I have sent you again and again even though you did not listen,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.4|<< Jeremiah 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.6|Jeremiah 26:6 >>]]</td></tr></table>
 
 | Translation | Greek |

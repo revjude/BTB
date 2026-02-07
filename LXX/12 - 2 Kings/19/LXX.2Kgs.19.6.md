@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:6** 
 <small><sub>**LXX:**</sub></small>
 And Isaiah said to them, Thus you shall say to  your master, Thus says \[the\] <span class="smallcaps">lord</span>, You should not fear from the words which you heard, which the servants of the king of \[the\] Assyrians blasphemed against me. 
-<small><sub>**KJV:**</sub></small>
-And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me.
-<small><sub>**BSB:**</sub></small>
-who replied, “Tell your master that this is what the LORD says: ‘Do not be afraid of the words you have heard, with which the servants of the king of Assyria have blasphemed Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.5|<< 2 Kings 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.7|2 Kings 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

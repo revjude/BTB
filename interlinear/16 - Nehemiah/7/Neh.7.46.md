@@ -1,4 +1,4 @@
-**Nehemiah 7:46** 
+**Nehemiah 7:46**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Nethinims: the children of Ziha, the children of Hashupha, the children of Tabbaoth,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The temple servants: the descendants of Ziha, the descendants of Hasupha, the de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.45|<< Nehemiah 7:45]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.47|Nehemiah 7:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the temple servants  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5411\|נְּתִינִ֑ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.ti.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
